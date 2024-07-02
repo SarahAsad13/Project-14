@@ -1,0 +1,151 @@
+15+ years: DATE
+Contracts
+Strategic: PRODUCT
+Stakeholder: ORG
+Name City: GPE
+State Senior Business Development: ORG
+Washington: GPE
+D.C.: GPE
+Aug. 11: DATE
+2003: DATE
+May 18, 2007: DATE
+8 am - 5 pm: TIME
+GSE: ORG
+Trusted Advisor: WORK_OF_ART
+minutes: TIME
+target year: DATE
+25%: PERCENT
+Washington D.C. & Philadelphia Metropolitan Statistical
+Areas: ORG
+21: CARDINAL
+Fannie Mae: ORG
+Collaborative Housing Initiatives: ORG
+Center for Community Self-Help: ORG
+the American Dream Commitment: ORG
+Hispanic: NORP
+Latino: PERSON
+Fannie Mae's: ORG
+the "New Hampshire Manufactured Housing Variance: ORG
+African-American: NORP
+Hispanic: NORP
+Asian: NORP
+Business Development / Sales: ORG
+Laid Off: PERSON
+BI: ORG
+SAP BusinessObjects(TM: ORG
+Pentaho: ORG
+iDashboards: ORG
+Conducted: ORG
+Name City: GPE
+Oct. 1: DATE
+2012 - Jul. 31, 2013: DATE
+8 am - 5 pm: TIME
+BI: ORG
+Laid Off: PERSON
+BI: ORG
+12: CARDINAL
+Oversaw: GPE
+$10M Operations & Maintenance: MONEY
+the U.S. General Services Administration: ORG
+Federal Acquisition Service: ORG
+Office of the Chief Information Officer: ORG
+$1M FedEx: MONEY
+Dashboard Development: ORG
+two: CARDINAL
+DE: PERSON
+1,200: CARDINAL
+over a dozen: CARDINAL
+annual: DATE
+250,000: MONEY
+Marketing Department: ORG
+Name City: GPE
+State Senior Mortgage Specialist: ORG
+May 21, 2007: DATE
+Dec. 5, 2008: DATE
+8 am - 5 pm: TIME
+annually: DATE
+# 156398: DATE
+100%: PERCENT
+first year: DATE
+32%: PERCENT
+second year: DATE
+Sussex County: GPE
+11%: PERCENT
+Initiated: ORG
+Licensed Mortgage Banking Instructor: ORG
+Delaware: GPE
+2014: DATE
+Delaware Technical Community College City: ORG
+State: GPE
+US: GPE
+Delaware Technical Community College: ORG
+Georgetown: GPE
+DE: PERSON
+2014: DATE
+2006: DATE
+St. Joseph's University City: ORG
+State: GPE
+US: GPE
+St. Joseph's University: ORG
+Philadelphia: GPE
+PA: GPE
+2006: DATE
+Muhlenberg College City: ORG
+State: GPE
+US Bachelor of Arts Bachelor of Arts Degree: ORG
+Muhlenberg College: ORG
+Allentown: GPE
+La
+Sorbonne: PERSON
+Paris: GPE
+France: GPE
+Affiliations: ORG
+Philadelphia Tri-Chapter: ORG
+Certifications: WORK_OF_ART
+Licensed Mortgage Banking Instructor: ORG
+Delaware: GPE
+Green Belt: PERSON
+Fannie Mae: ORG
+Lean Six Sigma: ORG
+10046555: MONEY
+Licensed Mortgage Banking Instructor: ORG
+Delaware: GPE
+English: LANGUAGE
+French: NORP
+Spanish: LANGUAGE
+BI: ORG
+SAP BusinessObjects(TM: ORG
+Pentaho: ORG
+iDashboards: ORG
+Skills
+Bi, Business Intelligence, Progress: ORG
+Mortgage, Business Development, Marketing, Operations, Training, Solutions, Adc, Business
+Requirements: ORG
+Fannie Mae: ORG
+Gse: PERSON
+Project Plans: PERSON
+Federal Acquisition: ORG
+Federal Government: ORG
+Proposal Development: ORG
+White Papers: WORK_OF_ART
+Finance: ORG
+Increase: ORG
+Instructor, Investor Relations: ORG
+Data Mining: ORG
+Promotional: ORG
+Sap, Strategic Planning: ORG
+Business Writing: ORG
+Excel: PRODUCT
+Fundraising, Horizontal, Hospital Pharmacy,: ORG
+Mckesson: PERSON
+Microsoft Office: ORG
+Microsoft Sharepoint: ORG
+Ms Office: ORG
+Outlook, Outpatient: ORG
+Powerpoint: ORG
+Project Management: ORG
+Robotic: ORG
+Sharepoint: GPE
+Six Sigma: PERSON
+Six: CARDINAL
+Visio: PERSON

@@ -1,0 +1,116 @@
+Detail: PERSON
+12 years: DATE
+Higher Education: ORG
+Instructional Design: ORG
+Special Instructor of Composition Administration: ORG
+June 2008: DATE
+first-year: DATE
+at least 25: CARDINAL
+Composition: ORG
+the Learning Management System Canvas: ORG
+College Composition: ORG
+Canvas: PRODUCT
+25: CARDINAL
+College Composition: ORG
+ADA: ORG
+Train: GPE
+College Composition: ORG
+Learning Management: ORG
+the English Department: ORG
+the Center for Advising and Student Achievement: ORG
+the Division of Student
+Affairs: ORG
+Early Performance: LOC
+Colorado State University: ORG
+Composition: ORG
+Composition: ORG
+week-long: DATE
+Assess: ORG
+English: LANGUAGE
+January 2007 to May 2008: DATE
+Composition: ORG
+University: ORG
+First Year: EVENT
+UNC: ORG
+the University Writing Lab: ORG
+January 2005 to December 2006: DATE
+Taught College Research: ORG
+four: CARDINAL
+Taught Freshmen Composition: ORG
+four: CARDINAL
+Taught 20th Century: DATE
+British: NORP
+English 356: DATE
+Sharon Wilson: PERSON
+one: CARDINAL
+Collaborated: ORG
+Language Arts: WORK_OF_ART
+August 2002 to July 2004: DATE
+English 9, English 10: DATE
+Creative Writing: PERSON
+Mythology and Science Fiction: ORG
+MLA: ORG
+Maintained: GPE
+Sponsored the Forensics Speech: ORG
+Debate Team: ORG
+2003-2004 school year: DATE
+Directed: ORG
+winter: DATE
+A Christmas Carol: WORK_OF_ART
+Drama: NORP
+Master of Arts: WORK_OF_ART
+English: LANGUAGE
+City: GPE
+Citation of Excellence
+Award Nominated: ORG
+Dean: PERSON
+Citation of Excellence Award Nominated: ORG
+Dean: PERSON
+Outstanding Thesis Award
+Bachelor of Arts: ORG
+DECEMBER 2001: DATE
+Colorado State University: ORG
+Cum Laude English: PERSON
+Cum
+Laude: PERSON
+Colorado State University Online Plus City: ORG
+2009: DATE
+monthly: DATE
+Graduate Teaching: ORG
+monthly: DATE
+first-year: DATE
+Established: ORG
+Vietnam: GPE
+Foreign Trade University: ORG
+the Composition Faculty for Student Affairs/CASA: ORG
+Formal Presentations PASS: ORG
+Oct 2015: DATE
+2015: DATE
+7: CARDINAL
+2014: DATE
+2013: DATE
+2011: DATE
+Designing Effective Writing Assignments: WORK_OF_ART
+2006: DATE
+Iron Eggs and Iron Ages: Reading Space: WORK_OF_ART
+2006: DATE
+House: ORG
+Five: CARDINAL
+2006: DATE
+Research Notebooks: WORK_OF_ART
+Five: CARDINAL
+2005: DATE
+Kinesthetic Sentences" Publications In: WORK_OF_ART
+CSU Composition Program: Ethics in Higher Education: ORG
+2013: DATE
+2010: DATE
+Skills: ORG
+ADA: ORG
+Canvas: PRODUCT
+Creative Writing: PERSON
+Critical: ORG
+English: LANGUAGE
+English: LANGUAGE
+Fiction: ORG
+Research: ORG
+Speech: ORG

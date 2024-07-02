@@ -1,0 +1,79 @@
+BUSINESS DEVELOPMENT: ORG
+CT of Wolters Kluwer: ORG
+Strong: PERSON
+Current
+Business Development: ORG
+July 2015 - March 2017 -
+: DATE
+Kluwer/CT Corporation: ORG
+2016: DATE
+104.4%: PERCENT
+CT Corporation: ORG
+2016: DATE
+2015: DATE
+109%: PERCENT
+CT Corporation Primary: ORG
+Participate: ORG
+May 2012 - July 2015: DATE
+Tampa & Southwest Florida Territory: ORG
+LexisNexis Successfully: ORG
+2 Circle of Excellence: LOC
+2010, 2011: DATE
+2014: DATE
+100%: PERCENT
+LexisNexis: ORG
+2012: DATE
+100%: PERCENT
+LexisNexis Qualified: PERSON
+2012: DATE
+2014: DATE
+Created: ORG
+Established: ORG
+January 2010 - April 2012 - Michigan: DATE
+Dayton: ORG
+Ohio: GPE
+2011 Over: PERCENT
+100%: PERCENT
+LexisNexis: ORG
+2010: DATE
+100%: PERCENT
+LexisNexis Secured: ORG
+LexisNexis: ORG
+Account Executive: ORG
+75,123: MONEY
+Created: ORG
+Established: ORG
+LexisNexis: ORG
+12/2009: CARDINAL
+Company Name: PERSON
+11/2005: CARDINAL
+Division: ORG
+November 1994 -: DATE
+Professional Athlete: ORG
+Ohio: GPE
+Cincinnati: GPE
+Dayton Dynamo: PERSON
+the NPSL Columbus Xoggz: ORG
+USISL: ORG
+Company Name: PERSON
+Dayton: ORG
+Coach: ORG
+2006: DATE
+2009: DATE
+150: CARDINAL
+Team: ORG
+one: CARDINAL
+1000: CARDINAL
+thousands: CARDINAL
+Olympic Development Program: ORG
+United States: GPE
+National Team: ORG
+Training: PERSON
+1995: DATE
+Wright State University: ORG
+State Education/Exercise Physiology
+Skills: ORG
+Business Development: ORG
+Coach: ORG
+Team: ORG
+Law: PERSON

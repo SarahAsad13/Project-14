@@ -1,0 +1,54 @@
+Career Overview
+Results-driven Database Administrator: WORK_OF_ART
+Structured: ORG
+SQL: ORG
+Document: FAC
+Customer: ORG
+Technical Skills
+
+Skills
+
+Windows: WORK_OF_ART
+Linux: GPE
+Mac OSX: PERSON
+VMWare: ORG
+HTTP/Apache: ORG
+DNS: ORG
+BIND: ORG
+SSH: ORG
+SNMP: ORG
+DNS: ORG
+DHCP: ORG
+FTP: ORG
+Years: DATE
+May 2016: DATE
+Data Preparation
+
+Prepared: ORG
+Coordinated: ORG
+January 2014: DATE
+Current INFORMATION TECHNOLOGY STUDENT 
+City: ORG
+includingÂ: ORG
+RDMS: ORG
+September 2010 to October 2013: DATE
+State: ORG
+â€¢Scanned: PRODUCT
+Deeds of Trust: ORG
+three: CARDINAL
+February 2008: DATE
+May 2008: DATE
+TOEFL/TESL INSTRUCTOR 
+City: ORG
+â€¢Combined: ORG
+Training
+SAN DIEGO STATE UNIVERSITY 2006 Bachelor of Arts: ORG
+English City: GPE
+State: GPE
+United States: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+SQL Server: PERSON
+VBA: ORG
+Visual Studio: PERSON

@@ -1,0 +1,132 @@
+OPERATIONS: ORG
+FINANCE: ORG
+Table of Contents: ORG
+Observations, Conclusions and Recommendations: ORG
+Possess: ORG
+Analytic Abilities - Expert: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word, Access, Power Point: ORG
+Visio: PERSON
+Microsoft Outlook: ORG
+Microsoft: ORG
+SQL
+Sequel Server: PERSON
+VBA: ORG
+Professional Job Experience *Collections / Supervisory -: ORG
+eleven years: DATE
+Collections and Enforcement Branches: ORG
+two: CARDINAL
+eleven: CARDINAL
+the Oklahoma Turnpike
+Authority: ORG
+Annual: DATE
+Third Party Collections: ORG
+Turnpike Property: ORG
+Credit / Business Analysis - Over eleven years: ORG
+financial &: ORG
+Loan Review Team: ORG
+five years: DATE
+Senior Loan Committee: ORG
+Two years: DATE
+the Credit
+Administration: ORG
+Four years: DATE
+Budget & Forecasting -: ORG
+Two years: DATE
+Federal Institution: ORG
+700: MONEY
+million: CARDINAL
+monthly: DATE
+Senior Management: ORG
+Self Employed -
+: PERSON
+ScoopDog: ORG
+Coordinate: FAC
+Facebook, Business Facebook: ORG
+Kickstarter: PERSON
+Manage Financial, Accounting: ORG
+Legal: GPE
+Name City: GPE
+Check Writing Authority: ORG
+Labor Budget: ORG
+Analyst 11/2010 to 06/2012: DATE
+Name City: GPE
+$700 million: MONEY
+Tinker Air Force Base: ORG
+Midwest City: GPE
+Okla.: GPE
+Report: ORG
+monthly: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Table of Contents, Footnotes, Executive Summary: WORK_OF_ART
+Collections and Enforcement 04/1999: ORG
+11/2010: CARDINAL
+Name City: GPE
+OTA Enforcement Branch: ORG
+Collections Branch: PRODUCT
+semiannual: DATE
+50%: PERCENT
+OTA: ORG
+daily: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Table of Contents, Footnotes, Executive Summary: WORK_OF_ART
+Microsoft PowerPoint: ORG
+Slashed: PERSON
+more than 60%: PERCENT
+Third Party Collection Agency: ORG
+02/1999 Company Name City: ORG
+State: ORG
+Credit Underwriter: PERSON
+Indirect Underwriter: PERSON
+Credit Admin: PERSON
+Loan Review: ORG
+annual: DATE
+Supervisor: PERSON
+multi-million dollar: MONEY
+Retail Loan Portfolios: ORG
+Board of Directors: ORG
+Approved/Rejected: ORG
+Loan Review Team: ORG
+Loan Committee: ORG
+$1 Million: MONEY
+Microsoft Office: ORG
+Excel: PRODUCT
+Loan: NORP
+monthly: DATE
+Board of Directors: ORG
+Maintained: GPE
+monthly: DATE
+Board of Directors: ORG
+Training
+MBA UNIVERSITY of OKLAHOMA City: ORG
+Finance Business Administration: ORG
+Finance: ORG
+BBA: ORG
+Bachelor of Business Administration :: ORG
+Management Management
+OKLAHOMA BANKERS ASSOCIATION: ORG
+Oklahoma City Loan Documentation: ORG
+OKLAHOMA TRANSPORTATION AUTHORITY: ORG
+Customer Service Award BANC ONE: ORG
+Retail Employee: PERSON
+Skills
+Accounting: ORG
+Air Force, Agency: ORG
+Balance, Banking: ORG
+Call Center: ORG
+Credit: ORG
+Financial, Financial Statements: ORG
+Legal: GPE
+Loan
+Documentation: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Microsoft PowerPoint: ORG
+Word: PERSON
+Retail: PERSON
+Supervisor: PERSON
+Underwriter: PERSON
+Customer Service Award BANC ONE: ORG

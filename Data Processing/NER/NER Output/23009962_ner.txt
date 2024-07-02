@@ -1,0 +1,75 @@
+15 years: DATE
+January 2006: DATE
+Name City: GPE
+State ORGANIZATION DEVELOPMENT CONSULTANT: ORG
+the CA Public Utility Commission: ORG
+PUC: ORG
+800: CARDINAL
+PUC: ORG
+four: CARDINAL
+Appreciative Inquiry: ORG
+one-day: DATE
+400: CARDINAL
+Sacramento County: GPE
+Appreciative Inquiry: ORG
+Sacramento: GPE
+Book of Success: ORG
+Facilitated: ORG
+40: CARDINAL
+NYC Citizen's Budget Commission: ORG
+600: CARDINAL
+8-week: DATE
+20%: PERCENT
+January 2004 to January 2006: DATE
+Name City: GPE
+first: ORDINAL
+January 2000 to January 2001: DATE
+Name City: GPE
+State ORGANIZATION DEVELOPMENT CONSULTANT
+
+Developed: ORG
+first: ORDINAL
+Corporate Education Department: ORG
+four: CARDINAL
+6,000: CARDINAL
+21: CARDINAL
+45%: PERCENT
+January 1995 to January 2000: DATE
+Name City: GPE
+State ORGANIZATION DEVELOPMENT CONSULTANT
+
+: ORG
+FDA: ORG
+IPO: ORG
+Senior Team: ORG
+Executive Team: ORG
+January 1981 to January 1993: DATE
+Name City: GPE
+State CO-FOUNDER: ORG
+20,000: MONEY
+$1.2 million: MONEY
+five years: DATE
+15-20: CARDINAL
+annually: DATE
+Design/Build: WORK_OF_ART
+Professional School of Psychology 
+: ORG
+JFK University: ORG
+State Management - Organizational Change and Leadership Master of Arts Management - Organizational Change and Leadership
+Ramapo College of New Jersey: ORG
+Skills
+Book, Budget: ORG
+Coach: ORG
+CA: ORG
+Additional Information
+
+AWARDS & CERTIFICATIONS: ORG
+3: CARDINAL
+the "Contractor of the Year Award: LAW
+the "BIG 50": LAW
+B/Coach Systems: ORG
+Professional Affiliations
+National Organization Development Network: ORG
+New Jersey Organizational Development (NJOD) Northern: ORG
+American: NORP
+Training & Development: ORG

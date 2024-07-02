@@ -1,0 +1,37 @@
+CUSTOMER: ORG
+January 2014: DATE
+State: ORG
+Phoenix Aviation: ORG
+the Agriculture, Commercial Aircraft: ORG
+Commercial Airport: FAC
+Airline: NORP
+monthly: DATE
+Assist: NORP
+daily: DATE
+Airline: GPE
+Familiar: PERSON
+Customer Service Representative: ORG
+February 2013 to January 2014: DATE
+State: ORG
+AIG Aerospace: ORG
+daily: DATE
+Familiar: PERSON
+January 2008: DATE
+daily: DATE
+daily: DATE
+Mobile: ORG
+AT&T: ORG
+Flextronics: ORG
+monthly: DATE
+daily: DATE
+Flextronics: ORG
+the month: DATE
+five months: DATE
+Shreveport: GPE
+LA: GPE
+Baccalaureate of Science : Business Administration/Marketing: ORG
+Business Administration/Marketing University of Louisiana: ORG
+Lafayette
+
+Skills: ORG
+Research: ORG

@@ -1,0 +1,50 @@
+45: CARDINAL
+Microsoft: ORG
+Excel Access: PRODUCT
+PowerPoint: ORG
+HR Coordinator: ORG
+February 2015: DATE
+PTO: ORG
+Explained: ORG
+year-end: DATE
+70: CARDINAL
+each month: DATE
+Organized: ORG
+Ran: PERSON
+ADP: ORG
+Created: ORG
+95%: PERCENT
+65: CARDINAL
+Payroll/Staffing Coordinator: ORG
+June 2012: DATE
+Current Company Name: ORG
+Reconcile: PRODUCT
+OSHA: ORG
+Track: PERSON
+Coordinate: FAC
+Manage &: ORG
+Conduct: PERSON
+Tax Clerk: PERSON
+August 2007 to June 2012: DATE
+Receptionist: ORG
+the Post Office: ORG
+Data: ORG
+Appraisal/Data: ORG
+November 2006 to July 2007: DATE
+Files: GPE
+Receptionist: ORG
+the Post Office: ORG
+Customer Service Rep: ORG
+January 2005 to January 2006: DATE
+Answer: ORG
+Business Management: ORG
+Present Albany State Technical College Business Management: ORG
+Data: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Receptionist: NORP
+Routing: GPE
+50: CARDINAL

@@ -1,0 +1,68 @@
+Career Focus: FAC
+CNA: ORG
+UK: GPE
+Nursing
+School: ORG
+the St.Joseph's Medical: ORG
+Charting: PERSON
+Understands: GPE
+March 2007 to December 2008: DATE
+Name City: GPE
+State Chef
+
+Trained: ORG
+Calm: PERSON
+Quick: ORG
+Valid: PERSON
+Reliable transportation
+Medical: WORK_OF_ART
+Culinary: ORG
+January 2005 to January 2007: DATE
+Name City: GPE
+CNA: ORG
+Assisted: ORG
+Assisted: ORG
+daily: DATE
+daily: DATE
+February 1998 to December 2004: DATE
+Name City: GPE
+State Office: ORG
+Cooked: PERSON
+Assisted: ORG
+daily: DATE
+daily: DATE
+June 2011 to August 2014: DATE
+Name City: GPE
+State Private Chef
+Education: ORG
+Coursework
+Baltimore International College 
+City: ORG
+State: GPE
+USA Culinary Arts AA: ORG
+Culinary Arts
+
+: WORK_OF_ART
+GPA: ORG
+4.0: CARDINAL
+GEN ED - plus: ORG
+CULINARY Arts: ORG
+Deans: NORP
+every year: DATE
+CCBC: ORG
+Community Involvement Volunteered: ORG
+the years: DATE
+Moveable Feast: PERSON
+United Way: GPE
+the Dominican Republic: GPE
+9 months: DATE
+CCBC: ORG
+Community Involvement Volunteered: ORG
+the years: DATE
+Moveable Feast: PERSON
+United Way: GPE
+the Dominican Republic: GPE
+9 months: DATE
+Subsaharan: PRODUCT
+Haiti: GPE
+DR: GPE

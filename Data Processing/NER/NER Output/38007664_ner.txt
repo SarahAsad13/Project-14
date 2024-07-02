@@ -1,0 +1,136 @@
+DIRECTOR: ORG
+BUSINESS DEVELOPMENT
+Professional Summary
+Results: ORG
+32 years: DATE
+20 years: DATE
+28 years: DATE
+Federal Government: ORG
+Veterans Affairs: ORG
+Â Center: ORG
+Medicare: ORG
+Medicaid: ORG
+DHS: ORG
+FEMA: ORG
+US Marshal's: PERSON
+Coast Guard: ORG
+CIS: ORG
+ICE: ORG
+IRS: ORG
+FBI: ORG
+HUD: ORG
+FHA: ORG
+Commerce: ORG
+DOL: ORG
+OPM: ORG
+DoD: GPE
+Federal Acquisition: ORG
+Â Â 
+: PRODUCT
+State Governments Experience: ORG
+17: CARDINAL
+Medicaid: ORG
+Health, Human Services: ORG
+Judicial: ORG
+Workers Comp, Employment, Revenue/ Taxation: ORG
+VA: ORG
+CMS: ORG
+Repository Services: ORG
+56: CARDINAL
+$2.5M: MONEY
+19%: PERCENT
+the 8 years: DATE
+5: CARDINAL
+the 8 years: DATE
+Sep 2003 to Jan 2007: DATE
+the State Government Markets: ORG
+Provider Healthcare: ORG
+State Governments'Â: ORG
+Provider: ORG
+First Year: EVENT
+$2.1M: MONEY
+December 2006: DATE
+$7.3M: MONEY
+500M: CARDINAL
+Healthcare Providers: ORG
+Atlantic State Region: LOC
+American TitleÂ Company: ORG
+December 2006: DATE
+Commercial Digital Services: ORG
+Feb 1996: DATE
+2003: DATE
+State Applied Graphics Technologies: ORG
+the Mort Zuckerman Publishing Corporation: ORG
+IPO: ORG
+1996: DATE
+the Publishing Firm's: ORG
+NBA: ORG
+NFL: ORG
+Playboy: WORK_OF_ART
+Time: ORG
+the 7-1/2 years: DATE
+35: MONEY
+375M.: MONEY
+Success: ORG
+820: MONEY
+the 7 years: DATE
+Fuji Digital Services: ORG
+1997: DATE
+150: MONEY
+600MÂ: MONEY
+annually: DATE
+2003: DATE
+Applied Imaging Group: ORG
+Jan 1974 to Jan 1996: DATE
+State: ORG
+22-year: DATE
+Kodak: ORG
+Industrial Engineer: ORG
+Client: GPE
+1983: DATE
+Federal Government: ORG
+Washington: GPE
+Texas: GPE
+North Carolina: GPE
+California: GPE
+New York: GPE
+Kodak: ORG
+1888: DATE
+the Federal Government: ORG
+1992: DATE
+WalMart: ORG
+Penneys: GPE
+Sears: PERSON
+22: CARDINAL
+Business Units: ORG
+7 Business Development Representatives: ORG
+1992 to 1996: DATE
+900M.Â: MONEY
+every year: DATE
+Kodak: ORG
+1994 and 1995: DATE
+Education
+College of Continued Accredidation: ORG
+1983: DATE
+Rochester Institute of Technology - City: ORG
+State: GPE
+USA
+Executive Management: ORG
+Accelerated Management Program 1990 Columbia University - City: ORG
+State: GPE
+USA: GPE
+2011: DATE
+State: GPE
+USA Revenue Storm: ORG
+the IT
+Service Industry: ORG
+two years: DATE
+HIPAA Academy - City: ORG
+State: GPE
+USA: GPE
+Professional Affiliations: ORG
+Mid-Atlantic Professional Affiliation: ORG
+Washington: GPE
+Mitchell International/Jopari Advisory Board: ORG
+San Diego: GPE
+CA: GPE

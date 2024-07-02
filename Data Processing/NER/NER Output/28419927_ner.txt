@@ -1,0 +1,86 @@
+Karla Lee: PERSON
+Wealth Management and Deposit Financial Services: ORG
+Skills
+
+Industry: ORG
+Operations: ORG
+Problem: PRODUCT
+Data: ORG
+Dec 2020: DATE
+CRM/Customer Engagement: PRODUCT
+3: CARDINAL
+2 years: DATE
+Portfolio Managers: ORG
+50%: PERCENT
+Client: GPE
+AUM: ORG
+The Bay Area: LOC
+2019: DATE
+10b: MONEY
+2nd: ORDINAL
+3 consecutive years: DATE
+20%: PERCENT
+Morgan: ORG
+Healthcare: ORG
+Private Banking: ORG
+Chase: ORG
+Chase Center: ORG
+half: CARDINAL
+2018: DATE
+2020: DATE
+Nov 2016 to: DATE
+Mar 2018: DATE
+the Bank of America: ORG
+350: CARDINAL
+Financial Centers: ORG
+3000 Associates: ORG
+30 billion: CARDINAL
+Small Business: ORG
+Merrill Edge: ORG
+Initiated: ORG
+monthly: DATE
+Client: GPE
+the Silicon Valley: LOC
+Apple: ORG
+Bank of
+America: ORG
+Completed 60 Financial Center: ORG
+Advice Center: WORK_OF_ART
+Merrill Edge: ORG
+Apple: ORG
+UC Berkeley: ORG
+Samsung: ORG
+SF: GPE
+40%: PERCENT
+Significant: PERSON
+Merrill Lynch: ORG
+Bank of America: ORG
+first: ORDINAL
+Merrill Edge: ORG
+Boston: GPE
+Los Angeles: GPE
+West Coast: LOC
+Financial Centers: ORG
+Countrywide: ORG
+Training: PERSON
+MBA: WORK_OF_ART
+School of Management Expected: ORG
+May 2023: DATE
+University of San Francisco: EVENT
+City: GPE
+Pacific Coast Banking School: ORG
+Finance University: ORG
+San Francisco Times: ORG
+2020: DATE
+Morgan Chase: ORG
+San Francisco Times: ORG
+2016: DATE
+Bank of America: ORG
+Working Mother Magazine: ORG
+2011: DATE
+Bank of America: ORG
+9: DATE
+10: CARDINAL
+66: CARDINAL
+CA Life & Health Insurance License: ORG
+Native Spanish: NORP

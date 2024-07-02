@@ -1,0 +1,104 @@
+DISTRICT: ORG
+ABA: ORG
+Autism Spectrum: ORG
+Basic Language and Learning Skills: ORG
+Communication: ORG
+P & L: ORG
+SWOT: ORG
+Effective: PRODUCT
+Quantifiable: PERSON
+10%: PERCENT
+under 9 months: DATE
+Grew: PERSON
+20%: PERCENT
+previous year: DATE
+my first year: DATE
+three: CARDINAL
+EBITA: ORG
+EBITA: ORG
+under 12 months: DATE
+Mar 2012: DATE
+Knowledge: PERSON
+6: CARDINAL
+Long Island: LOC
+two years: DATE
+Knowledge Universe: PERSON
+two: CARDINAL
+12 month: DATE
+five: CARDINAL
+NAEYC: ORG
+Aug: PERSON
+2007: DATE
+2012: DATE
+the Tutor Time: ORG
+Child Care Center: ORG
+NYS: ORG
+the three years: DATE
+Oct 2012: DATE
+Mar 2013: DATE
+The Learning: ORG
+nine: CARDINAL
+monthly: DATE
+nine: CARDINAL
+TLE: ORG
+monthly: DATE
+Jan 2006: PERSON
+2007: DATE
+the Good Shepherd Child Care: ORG
+the Child Care Center: ORG
+the department of Public Welfare: ORG
+Jan 2005: DATE
+West Houston Charter School: LOC
+sixth: ORDINAL
+eighth: ORDINAL
+Director Jan 2004 to Jan 2005: DATE
+State: ORG
+daily: DATE
+ages two through six: DATE
+Youth Advocate Programs: ORG
+Jan 2000 to Jan 2004: DATE
+four years: DATE
+one: CARDINAL
+one: CARDINAL
+Youth Advocate Programs: ORG
+Autism Spectrum Disorder: ORG
+CPR: ORG
+Jan 1999: DATE
+Jan 1999: DATE
+Oversaw: GPE
+Jan 1992 to Jan 1996: DATE
+Bachelor: ORG
+1995 State University of Stony Brook: ORG
+State: GPE
+US Bachelor's: PERSON
+1993-1995: DATE
+State University: ORG
+Stony Brook Stony Brook: PERSON
+NY: ORG
+Gold Key Honor Society: ORG
+two year: DATE
+summer: DATE
+summer: DATE
+Associate: ORG
+1993: DATE
+Suffolk County Community College: ORG
+State: GPE
+US: GPE
+Associates: ORG
+1991-1993: DATE
+Suffolk County Community College Brentwood: ORG
+CPR: ORG
+ABA: ORG
+Professional Affiliations
+
+Gold Key Honor Society: ORG
+two year: DATE
+summer: DATE
+summer: DATE
+West Islip: LOC
+Sales Goals: PERSON
+Sell: PERSON
+Award, Collection, Customer Service: ORG
+Data Collection: ORG
+Patience: ORG
+Progress, Receptionist, Retail Sales: ORG

@@ -1,0 +1,70 @@
+SOUS: ORG
+nine years: DATE
+eleven: CARDINAL
+Renaissance Grand: ORG
+St.Louis: GPE
+39: CARDINAL
+6 month: DATE
+Nola: ORG
+Essence Fest: ORG
+New
+Orleans Food and Wine Festival: ORG
+GSS: ORG
+Menu: ORG
+Atlas: PERSON
+Carpedia: GPE
+Modernist: PERSON
+2014: DATE
+New Orleans Wine and Food Experience
+: LOC
+Raised: GPE
+AES: ORG
+82: CARDINAL
+New Orleans: GPE
+Quarter 2014: DATE
+Marriott Board of Governors
+Improved: ORG
+6: CARDINAL
+Chef's Market/ Fresh BitesÂ: ORG
+04/2016: PRODUCT
+Oversee: ORG
+three: CARDINAL
+Improved Restaurant Quality of Food: ORG
+6: CARDINAL
+2 years: DATE
+87: CARDINAL
+Carpedia: GPE
+3: CARDINAL
+60: CARDINAL
+15.6 million: CARDINAL
+2016: DATE
+Sous Chef Company Name: ORG
+Oversaw: GPE
+3: CARDINAL
+first year: DATE
+Sous Chef: PERSON
+Assisted the Chef: WORK_OF_ART
+GSS: ORG
+Sous Chef Company Name: ORG
+82: CARDINAL
+AES: ORG
+between am and pm: TIME
+WIG: ORG
+NOWFE: ORG
+State: ORG
+Oversaw: GPE
+12/2014: CARDINAL
+Banquet Cook 2: ORG
+daily: DATE
+BEO: ORG
+1500: CARDINAL
+Prepared: PERSON
+daily: DATE
+2005: DATE
+GED: ORG
+City: GPE
+State: GPE
+United States: GPE
+Driven
+
+Highly Focused: PERSON

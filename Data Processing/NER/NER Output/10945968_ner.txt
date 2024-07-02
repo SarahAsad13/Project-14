@@ -1,0 +1,111 @@
+Information Technology: ORG
+20 years: DATE
+the Aviation Ground Handling: ORG
+Support to System Administration: ORG
+Project Management: ORG
+Skills
+Windows , Windows Office Suites, Citrix: ORG
+Active Directory: PERSON
+Trello Project Management Applications, Service Now ITSM
+Personal Information
+Date of Birth: ORG
+8th October 1973: DATE
+Marital Status: ORG
+State Air Menzies International Limited Â  Global IT Project: ORG
+May 2013: DATE
+Cargo: ORG
+Europe: LOC
+North America: LOC
+South Africa: GPE
+Oceania: LOC
+Wood Dale: GPE
+IL: ORG
+Internal: ORG
+Java Development
+Team: ORG
+four: CARDINAL
+UK: GPE
+US: GPE
+South Pac: GPE
+Development Team: ORG
+AMI: ORG
+IT Team: ORG
+24/7: CARDINAL
+Data Centre: ORG
+third: ORDINAL
+Name City: GPE
+Menzies Aviation: ORG
+Firstly: ORDINAL
+the Menzies Aviation Head Office: ORG
+Heathrow Airport: FAC
+UK: GPE
+2012: DATE
+May 2013: DATE
+O'Hare Airport: FAC
+the six year: DATE
+Project Managing the IT Infrastructure: ORG
+Joint Ventures: ORG
+Hyderabad: GPE
+2007: DATE
+2008: DATE
+Network: ORG
+the Spring of 2008: DATE
+the Menzies Aviation Ground Handling: ORG
+UK: GPE
+Europe: LOC
+Project Managing the implementation of IT
+systems: ORG
+Bristol: GPE
+January 2009: DATE
+Tenerife, Ibiza: ORG
+Barcelona: GPE
+November 2009: DATE
+Name City: GPE
+State: ORG
+Project Management: ORG
+the Global Cargo System: ORG
+Prague: GPE
+2006: DATE
+the IT Technical Department: ORG
+London: GPE
+Heathrow Airport: FAC
+Menzies: ORG
+the Global Data Centre: ORG
+UK: GPE
+daily: DATE
+UK Cargo Terminals: ORG
+05/2001: CARDINAL
+Name City: GPE
+State: ORG
+the Menzies Aviation IT: ORG
+Ogden Cargo System: ORG
+three: CARDINAL
+UK Cargo: GPE
+Quality: ORG
+Ogden Cargo's: PERSON
+ISO 9002 Certified Quality System: ORG
+Business Intelligence: ORG
+IQ Objects: ORG
+Cargo Handling System: ORG
+2 to 3: CARDINAL
+English: LANGUAGE
+Training
+Bachelor of Science : Mathematics 1996 University: PERSON
+Glamorgan City: GPE
+State: ORG
+UK: GPE
+1992: DATE
+Newman: PERSON
+R.C. School City: ORG
+State: GPE
+UK: GPE
+1992: DATE
+Newman: PERSON
+R.C. School City: ORG
+State: GPE
+UK: GPE
+Mathematics & Geography
+
+Mathematics,: ORG
+English: NORP
+French & Physics: ORG

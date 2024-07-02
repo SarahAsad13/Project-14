@@ -1,0 +1,45 @@
+Create: ORG
+Maintain: PRODUCT
+Maintain: PRODUCT
+Detail: PERSON
+Business Development Administrator: ORG
+January 2016: DATE
+Current Company Name: ORG
+November 2013 to January 2015: DATE
+daily: DATE
+Maintained: GPE
+monthly: DATE
+Coordinated: ORG
+June 2005 to January 2013: DATE
+Examined Deeds of Trust: ORG
+Researched: ORG
+Devised: ORG
+Bachelor of Science : Applied Studies/Online C. S. U. Dominguez Hills: ORG
+City: GPE
+State: GPE
+USA: GPE
+December 2016: DATE
+Coursework in Marketing and Public Relations
+Coursework in Organization Leadership
+Coursework in Organizational Behavior
+Coursework in Public Policy: ORG
+English: LANGUAGE
+Journalism courseworkÂ: PERSON
+Dean List: WORK_OF_ART
+3.9: CARDINAL
+2014: DATE
+Pasadena City College: ORG
+State: GPE
+American Bar Association Approved Certification Â 
+Coursework: ORG
+Legal: GPE
+Coursework in Courts and Political Science: ORG
+California Real Estate Salesperson License: ORG
+2005: DATE
+State: GPE
+USA: GPE
+Adobe Acrobat: PERSON
+Microsoft Office: ORG
+Outlook, Client and: ORG
+Employee Management: ORG
+Budgeting and Financial Planning Â: ORG

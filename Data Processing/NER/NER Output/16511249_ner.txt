@@ -1,0 +1,72 @@
+more than 5 years: DATE
+20 years: DATE
+AED: ORG
+Interviews: ORG
+28: CARDINAL
+CPR: ORG
+First Aid: ORG
+10/2015 to 11/2015: DATE
+50: CARDINAL
+first: ORDINAL
+State: ORG
+Identify: PRODUCT
+Identify: PRODUCT
+Costco Road: FAC
+DSW: ORG
+Costco: ORG
+Communicate: ORG
+Company: ORG
+Costco: ORG
+DS Services of America: ORG
+Communicate: ORG
+DS Services of America: ORG
+Costco: ORG
+06/2014 to 07/2014: CARDINAL
+06/2014: CARDINAL
+Server Company Name - City: ORG
+10/2011: CARDINAL
+05/2014
+Loss Prevention Officer Company Name - City: ORG
+First: ORDINAL
+410: CARDINAL
+5%: PERCENT
+06/2008: ORG
+more than 6: CARDINAL
+12: CARDINAL
+06/2008: ORG
+premises: LOC
+CCTV: ORG
+Communicated: ORG
+04/2006: CARDINAL
+06/2008: ORG
+CCTV: ORG
+CCTV: ORG
+08/2003: CARDINAL
+CCTV: ORG
+CCTV: ORG
+State: ORG
+Oversaw: GPE
+01/2000: CARDINAL
+01/2003: CARDINAL
+Owner Company Name - City: ORG
+01/1999: CARDINAL
+01/2000: CARDINAL
+Line Cook Company Name - City: ORG
+04/1996: CARDINAL
+1996: DATE
+Culinary Certificate :: FAC
+State: GPE
+10: CARDINAL
+500: CARDINAL
+10: CARDINAL
+500: CARDINAL
+State: GPE
+USA: GPE
+9/89: CARDINAL
+6/91: CARDINAL
+History: GPE
+American: NORP
+1989: DATE
+Associate of Arts : History Skyline College - City: WORK_OF_ART
+State: GPE
+USA: GPE

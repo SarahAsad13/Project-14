@@ -1,0 +1,134 @@
+Chicago: GPE
+Recruitment, Attendance Management System: ORG
+MIS: ORG
+Employee Master Data: WORK_OF_ART
+Highlights
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Google Search: ORG
+Yahoo Search: PERSON
+LinkedIn Search: ORG
+Lateral Hiring: WORK_OF_ART
+HR Executive Company Name - City: ORG
+Updating &: ORG
+HR/ FTE: ORG
+Job Postings: ORG
+Developed a System: ORG
+MINT: ORG
+Recruitment Work Flow: WORK_OF_ART
+Profiles: ORG
+Technical Interview Panelist's: ORG
+Job Offer: PERSON
+Offer Letter: ORG
+Contractual/ Probation: ORG
+Medical Check-Up Team: ORG
+SAP Hiring: ORG
+GDC TML Grade/ CTC/
+Designation/ Sub function1/ Sub function2/ Sub function3/ Past Work Experience & Qualification: PERSON
+Approval Note: PERSON
+Processing IJP Release: ORG
+IJP: NORP
+the Office Orders: ORG
+MIS & Reporting:: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word & PPT: ORG
+Monthly Recruitment MIS & several: ORG
+Success: ORG
+the
+week: DATE
+Game Possibilities: ORG
+Weekly Fun Briefings: ORG
+Nut Stacker: ORG
+Time: ORG
+the month: DATE
+Receive Feedback: PERSON
+Hero, Business Games: ORG
+Role Plays: PERSON
+Making Effective: ORG
+Processing Payroll: ORG
+Shared Services: ORG
+6: CARDINAL
+2500: CARDINAL
+a bi-weekly: DATE
+monthly: DATE
+Uploading Electronic Fund Transfer File: ORG
+Processing Employee Master Data: ORG
+New Hire Setup: ORG
+One: CARDINAL
+Loan: ORG
+Attendance: GPE
+Reporting & MIS: ORG
+monthly: DATE
+weekly: DATE
+weekly: DATE
+Adhoc query as &: ORG
+Associate Company Name
+Education: WORK_OF_ART
+2010: DATE
+Master of Science : Human Resource Management Cardiff University UK Human Resource Management
+Master's Degree Master of Science : Human Resource Management Cardiff University Wales U K Human Resource Management: WORK_OF_ART
+Human Resource MIT School of Business - City: ORG
+State: GPE
+India Human Resource
+Coursework in Business Administration: ORG
+Bachelor of Science : Computer Science MGM College - City: ORG
+State: GPE
+India Computer Science
+Coursework in Computer Science
+Accomplishments: ORG
+2005: DATE
+Auditor Course: PERSON
+URS: GPE
+Delhi: GPE
+Oct 2011: DATE
+Implementation of ISO 9000: ORG
+HRSS & Payroll Processes: ORG
+Employee Master Data Processing in SAP HCM: ORG
+Talent Acquisition HR Projects: ORG
+a Training Process: ORG
+UK: GPE
+Indian Customer Care Centers: ORG
+2009: DATE
+Summer Internship: WORK_OF_ART
+Recruitment and Selection at Reliance Group: WORK_OF_ART
+2007: DATE
+Created a Rewards & Recognition: ORG
+Employee Engagement: ORG
+Payroll: ORG
+Employee Joining & Induction Offer: ORG
+Sr.: PERSON
+Team: ORG
+Tata Motors Limited - Pune: ORG
+MH: ORG
+India Recruitment: ORG
+Contract/ Flexi: ORG
+Strategic Projects: PERSON
+F&A: ORG
+Admin: PERSON
+14th: ORDINAL
+Chicago: GPE
+IL: ORG
+weekly: DATE
+Skills: ORG
+Benefits, Business Administration: ORG
+CTC: ORG
+GDC: ORG
+Hiring: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+MIS: ORG
+Payroll: ORG
+Processing Payroll: ORG
+Recruitment, Reporting: ORG
+SLA: ORG
+14th: ORDINAL
+Chicago: GPE
+IL: ORG
+weekly: DATE

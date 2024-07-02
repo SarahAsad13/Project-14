@@ -1,0 +1,63 @@
+MANAGER- ADMINISTRATION & FACILITIES: ORG
+8 years: DATE
+Operations: ORG
+Policy: PERSON
+Schedule: ORG
+Deadline: NORP
+Manager- Administration & Facilities: ORG
+January 2007 to January 2011: DATE
+Coordinate: FAC
+Management Heads: ORG
+SAP: ORG
+Maintain &: ORG
+Handle & oversee the Allocation of Workplace, Telecommunication: ORG
+Coordinate Housekeeping: FAC
+Maintain &: ORG
+Requisite: ORG
+cor: ORG
+Complete Event: ORG
+the Organization, Accountable: ORG
+Security Services: ORG
+Printers: PRODUCT
+Electrician: PERSON
+January 2006 to January 2007: DATE
+Food and Beverage outlet &: ORG
+Menu: ORG
+referral &: ORG
+Maintained: GPE
+daily: DATE
+Training & Administration: ORG
+January 2004 to January 2006: DATE
+one: CARDINAL
+one: CARDINAL
+Food and Beverage outlet &: ORG
+Menu: ORG
+referral &: ORG
+general maintenance &: ORG
+the Annual Budget: EVENT
+Admin: PERSON
+Infrastructure: ORG
+the financial
+year: DATE
+Created: ORG
+Business Managment: ORG
+2000: DATE
+MYSORE UNIVERSITY INDIA ï¼​ City: ORG
+State: GPE
+India: GPE
+â€¢ Proficient: WORK_OF_ART
+â€¢ Knowledge of filing and updating records: WORK_OF_ART
+â€¢ Ability: PRODUCT
+â€¢ Light: PRODUCT
+â€¢: PRODUCT
+at least 35: CARDINAL
+â€¢ Excellent: PRODUCT
+â€¢ Expert: PRODUCT
+â€¢: PRODUCT
+Microsoft Office: ORG
+â€¢ Excellent: PRODUCT
+â€¢ Exceptional: PRODUCT
+â€¢ Strong: PRODUCT
+â€¢: PRODUCT
+â€¢ Able: WORK_OF_ART
+â€¢ Flexible in working hours: WORK_OF_ART

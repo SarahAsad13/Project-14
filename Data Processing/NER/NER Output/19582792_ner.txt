@@ -1,0 +1,62 @@
+25 years: DATE
+Core Qualifications
+
+Operations: ORG
+Policy: ORG
+Complex: NORP
+Microsoft: ORG
+Billing
+Attention: WORK_OF_ART
+I-9: LOC
+2015 to Feb 2016: DATE
+Communicated: ORG
+2015 to Jan 2016: DATE
+State: ORG
+Maintained: PERSON
+Mar 2009 to Jan 2015: DATE
+annual: DATE
+20,000: MONEY
+Conducted: ORG
+Lean Six Sigma: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Project Management Communicated: ORG
+Developed: ORG
+Monitored: ORG
+Monitored: ORG
+60: CARDINAL
+Collaborated with Mine Safety and Health Administration: ORG
+MSHA: ORG
+the United States Department of Labor: ORG
+four: CARDINAL
+MSHA: ORG
+Product: GPE
+Gas Monitoring: WORK_OF_ART
+General Management Recruited: ORG
+all day: DATE
+Feb 2004 to Jan 2009: DATE
+four: CARDINAL
+Obtained: ORG
+daily: DATE
+Coordinated: PRODUCT
+Project Management Monitored: ORG
+Oversaw: GPE
+Assisted Living and Dementia Care General Management Supervised: ORG
+Planned: PERSON
+Conducted: ORG
+Mine Shield: ORG
+Mine Shields: PERSON
+New Business of the Year: WORK_OF_ART
+Shield: PERSON
+China: GPE
+1980: DATE
+Nelson County High School - City: ORG
+CrossFit: ORG
+CrossFit: ORG
+Assisted Living: ORG
+General Management, Government: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Project Management: ORG
+Safety: ORG
+Six Sigma: PERSON

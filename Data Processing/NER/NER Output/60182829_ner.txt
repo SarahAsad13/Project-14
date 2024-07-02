@@ -1,0 +1,122 @@
+SYSTEMS: ORG
+BUDGET GROUP: ORG
+Excels: PERSON
+P&L Policy Development Change Management Strategic Planning Process Reengineering Profit Building
+Negotiations Restructuring Startup & Transitional Environments People & Project Management: ORG
+Core Accomplishments
+Project Management:
+
+Project Management:
+
+Operations Management:
+: WORK_OF_ART
+Mentored: ORG
+12%: PERCENT
+Initiated: ORG
+Initiated: PERSON
+Name City: GPE
+SYSTEMS: ORG
+BUDGET
+GROUP 01/2004 to 01/2012
+
+Federal agency: ORG
+Medicare: ORG
+Medicaid: ORG
+the State Children's: ORG
+Health Insurance Program: ORG
+Oversee: ORG
+Medicaid: ORG
+the State Children's: ORG
+Health Insurance
+Program: ORG
+Develop: ORG
+the Office of
+Financial Management: ORG
+State Operations: ORG
+Groups: ORG
+monthly: DATE
+quarterly: DATE
+Medicaid: ORG
+State Medicaid Management
+Information Systems: ORG
+MMIS: ORG
+the Medicaid Drug Rebate Program: ORG
+annual: DATE
+Medicaid: ORG
+National Electronic
+Data Interchange Standards: ORG
+Medicaid Statistical Information: ORG
+Federal Upper Limits: ORG
+Medicaid: ORG
+annual: DATE
+$100 million: MONEY
+$300 billion: MONEY
+Medicaid: ORG
+125: CARDINAL
+first: ORDINAL
+2003: DATE
+Medicare: ORG
+State Contribution: ORG
+$8 billion: MONEY
+annual: DATE
+Medicaid: ORG
+Medicare: ORG
+100: CARDINAL
+10: CARDINAL
+Medicaid: ORG
+Medicaid: ORG
+Deficit Reduction Act: LAW
+DRA: ORG
+more than 400: CARDINAL
+2009: DATE
+American Reinvestment Act: LAW
+Medicaid Directors: PERSON
+$3.5 billion: MONEY
+annually: DATE
+Name City: GPE
+State: ORG
+Allianz: ORG
+6,000: CARDINAL
+more than 50: CARDINAL
+Developed: ORG
+Belgium: GPE
+England: GPE
+France: GPE
+Italy: GPE
+Spain: GPE
+Mexico: GPE
+Brazil: GPE
+Hong Kong: GPE
+Singapore: GPE
+Shanghai: GPE
+U.S.: GPE
+Canada: GPE
+Mexico: GPE
+Europe: LOC
+Hong Kong: GPE
+Singapore: GPE
+Shanghai: GPE
+67: CARDINAL
+three: CARDINAL
+$40 million: MONEY
+$5 million: MONEY
+one year: DATE
+U.S.: GPE
+Reducedrisk: ORG
+more than $674 million: MONEY
+$2 billion: MONEY
+500,000: MONEY
+annual: DATE
+Name City: GPE
+State: ORG
+Education: ORG
+MBA Fairleigh Dickinson University: WORK_OF_ART
+City: GPE
+State: ORG
+Finance & Insurance University Of Rhode Island: ORG
+State Finance & Insurance: ORG
+Automation: ORG
+Electronic
+Data Interchange: ORG
+Financial Management: ORG
+Office, Management Information Systems: ORG

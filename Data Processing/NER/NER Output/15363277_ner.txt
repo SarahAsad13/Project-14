@@ -1,0 +1,77 @@
+20 years: DATE
+Strategic Business Planning Performance Evaluations Financial Standards Productivity Improvement Financial
+Planning & Analysis Training & Development Cash Flow Management Personnel Management Standards & Compliance Financial & Statistical: ORG
+Financial Systems Training & Development: ORG
+annually: DATE
+32: CARDINAL
+Accolades: PERSON
+60%: PERCENT
+12: MONEY
+5 years: DATE
+Showcase: ORG
+22: MONEY
+$69 million: MONEY
+Solid: PRODUCT
+Telecom: GPE
+Data Communication: ORG
+3: CARDINAL
+3rd: ORDINAL
+Telco: ORG
+Extensive: PRODUCT
+Capital: ORG
+Serve: PERSON
+Oracle Financials: ORG
+Organizational Change Management: ORG
+35: CARDINAL
+8th to 2nd: DATE
+60: CARDINAL
+Brand: ORG
+Award: PERSON
+two consecutive years: DATE
+Oracle Financials: ORG
+PeopleSoft: ORG
+Cognos Budgeting System: PERSON
+Microsoft Office: ORG
+Advanced Excel: ORG
+January 2012: DATE
+New York State: GPE
+Liaison: PERSON
+Northern Brooklyn: LOC
+20: CARDINAL
+New York Department of State Successful: ORG
+80: CARDINAL
+a period of: DATE
+two years: DATE
+January 2000 to January 2012: DATE
+annual: DATE
+the Executive Committee: ORG
+annually: DATE
+20: CARDINAL
+EVP: ORG
+SVPs: ORG
+Prepared 5-year: DATE
+annually: DATE
+Maintained: GPE
+50: CARDINAL
+Facilitated: ORG
+monthly: DATE
+CIO: ORG
+late 2010: DATE
+110: CARDINAL
+46: CARDINAL
+12: MONEY
+five-year: DATE
+ROI: ORG
+NPV: ORG
+University of Phoenix Masters of Business Administration City: ORG
+State: ORG
+Hampton University Bachelor of Science Degree :: ORG
+State Finance: ORG
+Budgeting: PERSON
+Cognos: GPE
+Financial: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Oracle Financials: ORG
+PeopleSoft: ORG
+SAP: ORG

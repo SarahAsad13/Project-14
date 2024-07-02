@@ -1,0 +1,60 @@
+Demonstrate: ORG
+Sales Associates: ORG
+Develop: ORG
+CUSTOMER: ORG
+1: MONEY
+Understand: GPE
+Demonstrate: ORG
+Involve: PRODUCT
+Communicate: ORG
+OPERATIONS Execute: ORG
+Inventory Shrinkage Improvement Program: ORG
+VISUAL: ORG
+Replenish: NORP
+Keep: PERSON
+BB&T.: PRODUCT
+BB&T: ORG
+January 2006: DATE
+Relationship Banker II: EVENT
+January 2012: DATE
+BB&T.: PRODUCT
+BB&T: ORG
+Skills
+
+Team: ORG
+Positive Attitude
+Strong: WORK_OF_ART
+Excellent Customer Service: ORG
+Work History
+01/2006 to Current
+Branch Banker III Company Name: WORK_OF_ART
+Profile: ORG
+daily: DATE
+Employ BB&T: PERSON
+BB&T Policies: ORG
+07/2005: PRODUCT
+Prepare: ORG
+10/2004: CARDINAL
+Financial Services Reprsentative Company Name: ORG
+Develop: ORG
+daily: DATE
+SunTrust Bank's: ORG
+Perform Teller: ORG
+SunTrust: ORG
+Financial Services Representatives: ORG
+FSR: ORG
+the SunTrust Code of Conduct: LAW
+10/2004: CARDINAL
+Floor Supervisor Company Name: WORK_OF_ART
+Floor Supervisor: PERSON
+Floor Supervisor: PRODUCT
+Store Management: ORG
+Welcomed: ORG
+Cleaned: FAC
+August 1999: DATE
+Christian Academy - City: PERSON
+Financial: ORG
+Policies: GPE
+Store
+Management: ORG
+Supervisor: PERSON

@@ -1,0 +1,54 @@
+Team: ORG
+hundreds: CARDINAL
+British: NORP
+Current Company Name City: ORG
+Healthcare: ORG
+Education Coordinator: ORG
+Name City: GPE
+Principal: NORP
+United Kingdom: GPE
+USA: GPE
+British: NORP
+United Kingdom: GPE
+Conducted: ORG
+British Defense Staff: ORG
+Healthcare: ORG
+Education: ORG
+Oracle Administration: ORG
+March: DATE
+2011: DATE
+the British Defense Staff Provided: ORG
+Resource: ORG
+DI: ORG
+Oracle 11i: DATE
+monthly: DATE
+Oversaw: GPE
+Foreign Service: ORG
+Lead Pre-Kindergarten: PERSON
+10/2009: CARDINAL
+Name City: GPE
+twenty-eight four and: CARDINAL
+five-year old: DATE
+daily: DATE
+Spanish: LANGUAGE
+ASL: ORG
+Monitored: ORG
+one: CARDINAL
+Bachelor of Arts: ORG
+May 2008: DATE
+University of Maryland City: ORG
+State: ORG
+3.6: CARDINAL
+GPA: ORG
+II: CARDINAL
+2018: DATE
+Baltimore County Community College City: ORG
+State Registered Nursing Program: ORG
+Spring of 2017
+: DATE
+Spanish: LANGUAGE
+Intermediate: PERSON
+ORACLE: ORG
+WCN: ORG
+October: DATE
+2016: DATE

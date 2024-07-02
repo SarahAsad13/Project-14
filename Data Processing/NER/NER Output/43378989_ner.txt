@@ -1,0 +1,64 @@
+Database Administrator: ORG
+Network
+Administration: ORG
+Mar 2014: DATE
+May 2017: DATE
+Java Design: PERSON
+EJB: ORG
+Prepared: PERSON
+2017: DATE
+State Working: ORG
+Machinist: ORG
+CNC Programmer Jun 2001 to Dec 2009 
+: ORG
+State Setup: ORG
+CNC: ORG
+Training
+Bachelor of Science , Computer Science/ Information Technology: PERSON
+Limestone College: ORG
+State Computer Science/ Information
+Technology
+Bachelor of Science , Business Administration: ORG
+Dec. 2011: DATE
+Limestone College: ORG
+State Business Administration: ORG
+Dec. 2011: DATE
+Limestone College: ORG
+State Computer Science
+Software/Programming
+Master's: ORG
+University of Virginia Tech Present: ORG
+C++: PERSON
+Hardware: GPE
+Dns: ORG
+Eclipse: PRODUCT
+EJB: ORG
+Ftp: ORG
+Html: GPE
+Hubs, Ide, Information
+Technology: ORG
+Java: PERSON
+JSP: ORG
+JavaScript: ORG
+Access: PRODUCT
+Microsoft Access: ORG
+#,: MONEY
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft Visio Professional: ORG
+Microsoft Windows XP: ORG
+MS Word: PERSON
+MySQL, Network: ORG
+Networks: ORG
+Oracle, Peripherals: ORG
+RAID: ORG
+Servlet: ORG
+Microsoft: ORG
+SQL Server: PERSON
+SQL Server: PERSON
+Tcp/Ip, Team: ORG
+Uml, Vpn: ORG
+Microsoft Visual Basic: ORG
+Visual Studio: PERSON
+Xhtml: PERSON

@@ -1,0 +1,168 @@
+BUDGET: ORG
+fiscal date: DATE
+Flexible Budget Analyst: ORG
+Highlights
+
+Budget: WORK_OF_ART
+Cost Benefit Analysis: WORK_OF_ART
+Accurate: ORG
+2007: DATE
+40: CARDINAL
+Subject Matter: PERSON
+Franchise Fund: ORG
+28.6 million dollars: MONEY
+monthly: DATE
+monthly: DATE
+current fiscal year: DATE
+the Integrated Funds Distribution Control Point: ORG
+IFCAP: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+the Financial Management System: ORG
+FMS: ORG
+monthly: DATE
+General Ledger, Cumulative: ORG
+monthly: DATE
+COR: ORG
+Oversee: ORG
+Performance Work Statement: ORG
+PWS: ORG
+the Virtual Office of Acquisition: ORG
+VOA: ORG
+Communicate: ORG
+monthly: DATE
+monthly: DATE
+Prepared: PERSON
+July 2007-August 2013: DATE
+the Public Affairs Officer: EVENT
+the Continuity of Operations Planning Coordinator: ORG
+COOP: ORG
+the Personal Identity Verification: ORG
+Purchase: PERSON
+monthly: DATE
+GSA Liaison: PERSON
+Veterans Benefits Administration: ORG
+VBA: ORG
+Veterans Health Administration: ORG
+VHA: ORG
+Liaison: PERSON
+2007-2013: DATE
+Supervisor: Curtis Savstrom: WORK_OF_ART
+612)970-5362: CARDINAL
+40: CARDINAL
+7/9: CARDINAL
+Debt Management: ORG
+Veterinary Services: ORG
+VS: PRODUCT
+the Foundation Financial Information System: ORG
+UFS: ORG
+BRIO/National Finance Warehouse: ORG
+FDW: ORG
+weekly: DATE
+the Investigative Enforcement System: ORG
+Debt
+Management: ORG
+Civil Penalty: ORG
+IES: ORG
+David Santelman: PERSON
+612: CARDINAL
+336: CARDINAL
+1994: DATE
+40: CARDINAL
+9: CARDINAL
+1.9 million dollars: MONEY
+quarterly: DATE
+Processed: GPE
+Stanfins: PERSON
+Stanfins: PERSON
+DD1610: ORG
+SF1164: PRODUCT
+SF1034: GPE
+APC: ORG
+year end: DATE
+DD2406: ORG
+Interdepartmental Purchase Request: PERSON
+Prepared: PERSON
+one: CARDINAL
+Army Recruiting: ORG
+Army: ORG
+Department of Defense for Finance: ORG
+weekly: DATE
+six: CARDINAL
+Headquarters General Officer: ORG
+Supervisor: PERSON
+Jeffrey Glynn: PERSON
+Nov 1994: DATE
+40: CARDINAL
+5: CARDINAL
+the Department of the Army: ORG
+three: CARDINAL
+Prepared: PERSON
+weekly: DATE
+Transportation: ORG
+three days: DATE
+seven days: DATE
+the Prompt Payment
+Act: ORG
+Assisted Budget and Accounting Technician: ORG
+Blanket Purchase Agreements: ORG
+2015-2016: DATE
+Federal Outreach Leadership Development: EVENT
+Microsoft Office: ORG
+Southeast High School: ORG
+State: GPE
+USA: GPE
+2008/2009/2010/2011/2012/2013/2014/2015: CARDINAL
+Time: ORG
+2004: DATE
+8 hours: TIME
+2005: DATE
+2 hours: TIME
+2005: DATE
+March/October 1995: DATE
+Civilian: NORP
+Department of Army Commendations: ORG
+1993/1994/June and December 1996: DATE
+GSA National Safety Council Defensive: ORG
+2016: DATE
+a Mission Focus: ORG
+Training for Contracting Officer's Representative: WORK_OF_ART
+2016: DATE
+FAC: ORG
+2013: DATE
+2011: DATE
+CON: ORG
+120: CARDINAL
+2010: DATE
+Improved Statement of Work: WORK_OF_ART
+2009: DATE
+2009: DATE
+Overview of Acquisition Ethics: ORG
+2009: DATE
+a Mission Focus: ORG
+2009: DATE
+Market Research: ORG
+2009: DATE
+CON: ORG
+110: CARDINAL
+2008: DATE
+Simplified Acquisition Procedures: ORG
+2008: DATE
+Dunn: PERSON
+Bradstreet: GPE
+2003: DATE
+Seven: CARDINAL
+2006: DATE
+Management Development: ORG
+2000: DATE
+2000: DATE
+Human Resource Correspondence: ORG
+2000: DATE
+Leadership Education: ORG
+1997: DATE
+Develop: ORG
+Administer Budget: ORG
+1995: DATE
+1995: DATE
+1995: DATE

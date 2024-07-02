@@ -1,0 +1,66 @@
+SPECIALIST FOR WOMEN'S & CHILDREN'S: ORG
+15 year: DATE
+Specialist for Women's & Children's: ORG
+July 2015: DATE
+Provide Customer: PERSON
+over 45 million: CARDINAL
+November 2005 to: DATE
+April 2015: DATE
+Florida: GPE
+less than two weeks: DATE
+weekly: DATE
+daily: DATE
+Maintained: GPE
+daily: DATE
+Florida: GPE
+daily: DATE
+Loss: PERSON
+Identify: ORG
+Perform: ORG
+LP: GPE
+Performed: ORG
+ADT: ORG
+four feet: QUANTITY
+2: CARDINAL
+16 feet: QUANTITY
+8: CARDINAL
+half: CARDINAL
+Created: ORG
+60: CARDINAL
+130: CARDINAL
+Monday: DATE
+Friday: DATE
+New York: GPE
+Florida: GPE
+toe & where: ORG
+50,000 to 120,000: CARDINAL
+weekly: DATE
+weekly: DATE
+September 2001 to November 2005: DATE
+State: ORG
+Oversaw: GPE
+weekly: DATE
+60,000: CARDINAL
+259,000: CARDINAL
+Oversaw: GPE
+8: CARDINAL
+weekly: DATE
+Oversaw: GPE
+Chicago: GPE
+Oversaw: GPE
+month: DATE
+Associate of Applied Science :: WORK_OF_ART
+City: GPE
+State: GPE
+USA: GPE
+One: CARDINAL
+English: LANGUAGE
+ADP: ORG
+Resolve: PRODUCT
+English: LANGUAGE
+Loss: PERSON
+Merchandising: PERSON
+Works: PERSON
+Spanish: NORP
+Store: PERSON
+Team: ORG

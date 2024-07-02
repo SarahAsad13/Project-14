@@ -1,0 +1,32 @@
+1 year: DATE
+up to 100: CARDINAL
+Kickback Jacks: PERSON
+peak hours: TIME
+English: LANGUAGE
+0-1/2017: DATE
+Current Company Name City: ORG
+at least $5,000Â: MONEY
+monthly: DATE
+Server: PERSON
+Name City: GPE
+MICROS: ORG
+12/2015: CARDINAL
+Name City: GPE
+Assigned: ORG
+Cleaned: PRODUCT
+Cashier / Drive Thru: ORG
+Name City: GPE
+2-3 minute: TIME
+N/A: ORG
+Henrico: GPE
+23231: CARDINAL
+MICROS: ORG
+Quick: ORG
+Salesforce.com: ORG
+TapScan
+
+Public Relations Software: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

@@ -1,0 +1,85 @@
+Detail: PERSON
+Accountant: ORG
+11 years: DATE
+Skills
+
+Strong: ORG
+ERP: ORG
+Certified Public Accountant: ORG
+QuickBooks: ORG
+MS Office Suite
+
+Budget: ORG
+SAP: ORG
+280: CARDINAL
+$85+ million: MONEY
+monthly: DATE
+Submit: NORP
+monthly: DATE
+Broward County Library: GPE
+annual: DATE
+year-end: DATE
+Broward County Library: GPE
+NSU Museum of Arts: ORG
+monthly: DATE
+weekly: DATE
+month-end: DATE
+year-end: DATE
+month-end: DATE
+multi-million dollar: MONEY
+Respond: PERSON
+Accountant 12/2005: PERSON
+12/2005: CARDINAL
+monthly: DATE
+month-end: DATE
+Processed: GPE
+weekly: DATE
+ADP: ORG
+month-end: DATE
+Coordinated: ORG
+Prepared: PERSON
+1099s &: DATE
+Federal Tax Forms: EVENT
+Prepared: PERSON
+daily: DATE
+monthly: DATE
+Annual Personal Property: ORG
+Use Tax Returns: ORG
+Master of Accounting & Financial Management: ORG
+2012: CARDINAL
+Graduate School of Management of DeVry University - City: ORG
+GPA: ORG
+3.91: CARDINAL
+GPA: ORG
+3.91: CARDINAL
+1: CARDINAL
+1 2010: DATE
+Keller Graduate School of Management of DeVry University - City: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.96: CARDINAL
+GPA: ORG
+3.96 Technical Management: ORG
+Accounting: ORG
+DeVry University - City: ORG
+GPA: ORG
+3.79: CARDINAL
+GPA: ORG
+3.79: CARDINAL
+Skills
+
+Accounting: ORG
+ADP: ORG
+Arts: ORG
+Certified Public Accountant: ORG
+Financial Management: ORG
+Microsoft Office: ORG
+Enterprise: ORG
+Oracle: ORG
+PeopleSoft: ORG
+QuickBooks: ORG
+SAP: ORG
+Solomon: GPE
+Tax: PERSON
+year-end: DATE

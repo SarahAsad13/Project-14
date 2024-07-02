@@ -1,0 +1,54 @@
+Builds: PERSON
+Skill Highlights: PERSON
+Core Accomplishments: WORK_OF_ART
+annual: DATE
+Grew: PERSON
+Garnered: PERSON
+Current Company Name City: ORG
+8: CARDINAL
+monthly: DATE
+$16M: MONEY
+annual: DATE
+Facilitate Tax Credits &: ORG
+Assist: NORP
+Hilton: GPE
+Marriott: GPE
+Starwood Hotels Establish: ORG
+20%: PERCENT
+Reduce: PERSON
+12/2013: CARDINAL
+Name City: GPE
+$5M: MONEY
+Lake Texoma: LOC
+90%: PERCENT
+$1M: MONEY
+76%: PERCENT
+the first fiscal: DATE
+15: CARDINAL
+Leisure &Walk-ins: ORG
+30 miles: QUANTITY
+3: CARDINAL
+AAA: ORG
+Name City: GPE
+250: MONEY
+200: CARDINAL
+27%: PERCENT
+65%: PERCENT
+75%: PERCENT
+Which Wich: ORG
+Business Operations: ORG
+12/2009: CARDINAL
+Name City: GPE
+31%: PERCENT
+3 years: DATE
+17%: PERCENT
+Reached: PRODUCT
+99.7%: PERCENT
+95%: PERCENT
+annually: DATE
+3 consecutive years: DATE
+MBA: WORK_OF_ART
+Project, Engineering & Business Management University: ORG
+Dallas City: GPE
+Accounting & Information Management University of Texas: ORG
+Dallas City: GPE

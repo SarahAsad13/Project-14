@@ -1,0 +1,65 @@
+more than fifteen years: DATE
+Personable Customer Service Associate: ORG
+Sales Associate: PERSON
+daily: DATE
+1200: MONEY
+each day: DATE
+as many as 200: CARDINAL
+each day: DATE
+5: CARDINAL
+Strong: PERSON
+Time: ORG
+Detail: PERSON
+Strong: PERSON
+Detail: PERSON
+Organizational, Psychology: ORG
+Time: ORG
+up to $6000: MONEY
+zero: CARDINAL
+Cashier: ORG
+Cashier: ORG
+Cashier: PERSON
+Sales Associate: PERSON
+11/2016: CARDINAL
+Processed: GPE
+02/2014: ORG
+Processed: GPE
+Communicated: ORG
+Communicated: ORG
+10/2009: CARDINAL
+Collaborated: ORG
+Training
+Bachelor of Science : Community Health: PERSON
+1982: DATE
+Oregon State University - City: ORG
+State 
+Coursework in Business and Management Coursework in Business, Communications and Organizational Psychology: ORG
+Business Administration: ORG
+Hospitality
+Skills
+Cash: PERSON
+Strong: PERSON
+Organized Superb: PERSON
+Time: ORG
+Detail: PERSON
+Business Administration: ORG
+Strong: PERSON
+Detail: PERSON
+Organizational, Psychology: ORG
+Time: ORG
+Work History
+Sales Associate: WORK_OF_ART
+up to $6000: MONEY
+zero: CARDINAL
+Cashier: ORG
+Cashier: ORG
+Cashier: PERSON
+Sales Associate: PERSON
+11/2016: CARDINAL
+Processed: GPE
+02/2014: ORG
+Processed: GPE
+Communicated: ORG
+Communicated: ORG
+10/2009: CARDINAL
+Collaborated: ORG

@@ -1,0 +1,454 @@
+MDM: ORG
+Master Data
+Management: ORG
+MDM: ORG
+TIBCO MDM: ORG
+TIBCO EMS: ORG
+Business Works, Business Events: ORG
+Smart Mapper: PERSON
+Core Java: PERSON
+UNIX: ORG
+2: CARDINAL
+35: CARDINAL
+MDM: ORG
+Knology Atlanta: PERSON
+Wachovia  Corp: ORG
+AKA: ORG
+Wells
+Fargo: ORG
+Charlotte NC: PERSON
+Merck Inc.: ORG
+Nielsen Schaumburg IL: PERSON
+Oldsmar FL: PERSON
+UHG Singapore: ORG
+RAC WA Perth Australia: ORG
+Kohl: PERSON
+Milwaukee WI: PERSON
+M&T Bank Buffalo NY: ORG
+JetBlue Long Island NY: ORG
+Covance Princeton NJ: PERSON
+SunGard Dallas: PERSON
+TX: ORG
+San Antonio: GPE
+TX: ORG
+SunGard Financial: ORG
+Dallas TX: PERSON
+Struts: PERSON
+XML: ORG
+JMS: PERSON
+MDM: ORG
+Market Research, Insurance, Pharmaceuticals: ORG
+10+ Years: DATE
+Technical Architecture: ORG
+MDM: ORG
+Magic Draw: PRODUCT
+MDM Tools: ORG
+TIBCO MDM
+: PERSON
+Data De-Duping: PERSON
+TIBCO Patterns: PERSON
+Windows XP Professional/ NT 4.0 / 95: ORG
+UNIX: ORG
+3.01: CARDINAL
+11.x: CARDINAL
+PL/SQL SQL Loader: ORG
+SQL Server: PERSON
+Apache Tomcat: PERSON
+TIBCO EMS 7.x/8.x: ORG
+TIBCO Business Events: ORG
+TIBCO Business Studio: ORG
+JavaScript: PRODUCT
+HTML/XML: ORG
+XSL: ORG
+XSLT: ORG
+CSS: ORG
+DTD: ORG
+ANT: ORG
+Remedy: PERSON
+TOAD: ORG
+SQL Navigator: ORG
+Development Environments: ORG
+TIBCO Active Matrix: ORG
+2003: DATE
+Eclipse: PRODUCT
+December 2009: DATE
+Oct 2004 to November 2009: DATE
+US Corp: ORG
+Oct 2003 to September 2009: DATE
+Software Engineer - UshaComm India Pvt Limited: ORG
+May 2014: DATE
+State: ORG
+SunGard: ORG
+annual: DATE
+about $2.8 billion: MONEY
+SunGard: ORG
+SunGard: ORG
+approximately 16,000: CARDINAL
+100: CARDINAL
+more than 13,000: CARDINAL
+Activities Performed: Â 
+
+: PERSON
+MDM: ORG
+Data Quality/de-duplication: ORG
+TIBCO MDM: PERSON
+MDM: ORG
+MDM Infrastructure Landscape: ORG
+Complete Architecture for Vendor: ORG
+the Resource Planning for Complete MDM: ORG
+Customer: ORG
+Vendor
+End: PERSON
+MDM: ORG
+MDM: ORG
+November 2013: DATE
+State: ORG
+JetBlue Airways Corporation: ORG
+JBLU: PERSON
+JetBlue: ORG
+American: NORP
+Long Island City: LOC
+New York City: GPE
+Queens: GPE
+John F. Kennedy International Airport: PERSON
+Queens: GPE
+Cottonwood Heights: GPE
+Utah: GPE
+the United States: GPE
+Caribbean: LOC
+The Bahamas,: GPE
+Bermuda: GPE
+Barbados: GPE
+Colombia: GPE
+Costa Rica: GPE
+the Dominican Republic: GPE
+Jamaica: GPE
+Mexico: GPE
+Peru: GPE
+Puerto Rico: GPE
+October 2013: DATE
+JetBlue: ORG
+84: CARDINAL
+24: CARDINAL
+12: CARDINAL
+Caribbean: LOC
+South America: LOC
+Latin America: LOC
+Activities Performed: Â 
+
+: PERSON
+MDM Architecture Overview
+Design: ORG
+MDM: ORG
+Data Quality
+TIBCO MDM: ORG
+July 2013 to March 2014: DATE
+The M&T Bank Corporation: ORG
+American: NORP
+1856: DATE
+New York State: GPE
+today: DATE
+Buffalo: GPE
+M&T Bank Corporation: ORG
+$81 billion: MONEY
+June 30, 2012: DATE
+one: CARDINAL
+twenty: CARDINAL
+U.S.: GPE
+750: CARDINAL
+New York: GPE
+Maryland: GPE
+Pennsylvania: GPE
+Virginia: GPE
+Washington: GPE
+D.C.: GPE
+West Virginia: GPE
+Delaware: GPE
+New Jersey: GPE
+Central Florida: LOC
+Activities Performed:
+
+: PERSON
+MDM: ORG
+10: CARDINAL
+MDM: ORG
+Architect and Engineer: ORG
+MDM: ORG
+Party: ORG
+AML: ORG
+AML: ORG
+MDM Infrastructure: ORG
+December 2013 to January 2014: DATE
+Princeton: GPE
+New Jersey: GPE
+CRO: ORG
+annual: DATE
+over $2 billion: MONEY
+over 11,000: CARDINAL
+more than 60: CARDINAL
+Corning Incorporated: ORG
+1996.In 2011: DATE
+one: CARDINAL
+100: CARDINAL
+Activities Performed: Â 
+
+: PERSON
+MDM Architecture Overview
+Design: ORG
+Showcase: ORG
+Parameterized Data Quality
+Design: ORG
+Data Quality: ORG
+TIBCO: GPE
+MDM Architect: ORG
+April 2012: DATE
+May 2013: DATE
+Kohl's Corporation: ORG
+NYSE: ORG
+KSS: ORG
+American: NORP
+Milwaukee: GPE
+Menomonee Falls: PERSON
+Wisconsin: GPE
+September 2011: DATE
+1,089: CARDINAL
+49: CARDINAL
+1998: DATE
+135: MONEY
+2010: DATE
+20th: ORDINAL
+the United States: GPE
+2011: DATE
+Kohl: PERSON
+MDM: ORG
+MDM: ORG
+MDM: ORG
+Kohl's: ORG
+Activities Performed: Â 
+
+: PERSON
+MDM: ORG
+MDM: ORG
+Architect and Engineer: ORG
+MDM: ORG
+MDM: ORG
+TIBCO MDM: ORG
+August 2011 to March 2012: DATE
+RAC: ORG
+RAC: ORG
+Western Australian: NORP
+RAC Western: ORG
+Australia: GPE
+Activities Performed: Â 
+
+: PERSON
+Engine: PERSON
+three: CARDINAL
+Manual Merge: PERSON
+Unique Records: ORG
+TIBCO: GPE
+MDM: ORG
+MDM: ORG
+Architect and Engineer: ORG
+Single View: ORG
+December 2009 to July 2011 Company Name: DATE
+Nielsen: PERSON
+Nielsen: PERSON
+nearly a century: DATE
+Nielsen: PERSON
+Activities Performed: Â 
+
+Worked: PERSON
+Specification: NORP
+TIBCO MDM Integration: ORG
+TIBCO MDM: ORG
+NSOS
+Design for TIBCO EMS: ORG
+MDM: ORG
+TIBCO MDM: PERSON
+TIBCO EMS Administration: ORG
+TIBCO: NORP
+MDM: ORG
+TIBCO MDM Integration: ORG
+NSOS: ORG
+Oracle 11: LAW
+TIBCO MDM: PERSON
+TIBCO MDM: ORG
+DEV: ORG
+QA: ORG
+UAT: ORG
+Informatica Power Center: ORG
+April 2008 to November 2009: DATE
+Merck: ORG
+SAP: GPE
+TIBCO CIM: ORG
+SAP: ORG
+the Custom Output: ORG
+Informatica PowerCenter: ORG
+TIBCO
+BW: PERSON
+Designer: ORG
+EMS: ORG
+Activities Performed: Â 
+
+Worked: PERSON
+Specification: NORP
+Integrated Smart Mapper: ORG
+TIBCO EMS: ORG
+TIBCO CIM Administration: ORG
+Designed Output Maps, Synchronization Profiles: ORG
+TIBCO MDM: ORG
+Unit Test Cases: ORG
+TIBCO CIM in: ORG
+Documented Operational: ORG
+6.2: CARDINAL
+DEV: ORG
+UAT: ORG
+6.2: CARDINAL
+Informatica PowerCenter: ORG
+TIBCO Middleware: PERSON
+TIBCO MDM
+
+: ORG
+August 2006 to March 2008: DATE
+State: ORG
+D&B: ORG
+ER&C: ORG
+Worldbase: ORG
+CrossWalk: ORG
+DeaLogic: ORG
+Activities Performed: Â 
+
+Analysis and Design of TIBCO: PERSON
+ER&C: ORG
+Worldbase: ORG
+Analysis: PRODUCT
+Wachovia: ORG
+TIBCO: ORG
+TIBCO: ORG
+JBOSS: ORG
+TICBO EMS: ORG
+daily: DATE
+TIBCO: GPE
+Wachovia: ORG
+Shadow: PRODUCT
+Autosys: ORG
+Worked on Enterprise Application Integration: ORG
+TIBCO BW: ORG
+January 2006 to July 2006 Company Name ï¼​ City: DATE
+The Owner Hub & Notes: ORG
+TiGR: GPE
+Owner: ORG
+Owner: ORG
+Owner: ORG
+Contact, Preferences: ORG
+Owner-Owner: ORG
+Owner Hub: ORG
+Activities Performed:
+
+Co-ordination: PERSON
+Based on Design: ORG
+Struts: PERSON
+Weblogic App Server: PERSON
+Implemented Classification Module: ORG
+QA: ORG
+String: PERSON
+October 2005 to: DATE
+December 2005: DATE
+Customer: ORG
+Healthcare: ORG
+Customer Master
+& IDB - Millennium: ORG
+HCP: ORG
+Activities Performed:
+
+Analysis and Design of the Requirement: WORK_OF_ART
+Struts Framework: PERSON
+Integration: ORG
+Performed Onsite-Offshore Co-ordination: PERSON
+April 2005 to October 2005: DATE
+Customer: ORG
+Healthcare: ORG
+ECM: ORG
+HCP: ORG
+Used Apache Tomcat: WORK_OF_ART
+Configuration Management Plan: LAW
+ECM: ORG
+Developed Test Plans: PRODUCT
+ECM: ORG
+November 2004 to March 2005: DATE
+CRM: PRODUCT
+Activities Performed: Â 
+
+Transformed: PERSON
+Design the Web: WORK_OF_ART
+MVC: ORG
+Jakarta: GPE
+Struts: PERSON
+JSP: ORG
+HTTP: ORG
+FTP: ORG
+Xpath Configurations: PERSON
+Developed JDBC: PERSON
+Visva Bharati University: ORG
+ï¼​ City: GPE
+State: GPE
+India: GPE
+Chemistry: ORG
+Maths Ranchi University: ORG
+ï¼​ City: GPE
+State: GPE
+India: GPE
+TIBCO MDM 8.3.2: PERSON
+7.0: CARDINAL
+CIM6.2: GPE
+TIBCO DQ: GPE
+TIBCO Patterns: PERSON
+TIBCO Business Events: ORG
+5.1: CARDINAL
+TIBCO
+EMS: ORG
+8.3: CARDINAL
+TIBCO Business Studio: ORG
+3.5: CARDINAL
+TIBCO MDM Studio: ORG
+4.0: CARDINAL
+Eclipse: PRODUCT
+Rational Rose: ORG
+Magic Draw: PRODUCT
+SQL Navigator: ORG
+TOAD: ORG
+Framework/Concepts: ORG
+Data Management: ORG
+MDM Solutions Architecture: ORG
+Project Management, Configuration Management: ORG
+System Integration: WORK_OF_ART
+J2EE , Struts
+
+Application/Web Server: ORG
+JBoss: ORG
+Weblogic: ORG
+Apache Tomcat
+
+: PERSON
+Core Java: PERSON
+JavaScript: PERSON
+JDBC: ORG
+PL/SQL: ORG
+Shell Script: ORG
+SQL Loader: PERSON
+4.0: CARDINAL
+Windows XP: ORG
+SQL Server: ORG
+Data Matching: ORG
+TIBCO Patterns: ORG
+Data Analysis/Data Cleansing/Standardizing: ORG
+TIBCO Data Quality Tools: ORG
+TIBCO: PERSON
+TIBCO Business Events: ORG
+5.1: CARDINAL
+TIBCO EMS: ORG
+8.2: CARDINAL
+Solutions
+Architecture: PRODUCT
+TIBCO Educations: ORG

@@ -1,0 +1,96 @@
+4: CARDINAL
+Developed: PRODUCT
+Created: ORG
+4: CARDINAL
+3: CARDINAL
+4: CARDINAL
+3: CARDINAL
+CadmusCom: ORG
+Polo Specialist: ORG
+the Bloomingdale's Super Sellers Club: ORG
+Appointed: ORG
+Loyallist: NORP
+Created: ORG
+Ralph Lauren Polo: PERSON
+Men: ORG
+Account Executive 
+Company Name: ORG
+State
+
+Created: ORG
+New Jersey Nets and Devils Foundation: ORG
+The Cherry Blossom Festival: ORG
+the
+Construction Industry Advancement Program: ORG
+26th: ORDINAL
+Cherry Blossom Festival: EVENT
+12: CARDINAL
+New Jersey: GPE
+ABC News World News Now: ORG
+A Walk through Newark: WORK_OF_ART
+NJN News: ORG
+Two: CARDINAL
+New York: GPE
+WABC-TV: ORG
+Newark: GPE
+Branch Brook Park: LOC
+WWOR-TV's: ORG
+Sunday: DATE
+CIAP: ORG
+summer: DATE
+three: CARDINAL
+Philadelphia: GPE
+WCAU-TV: ORG
+KYW-TV: ORG
+6 p.m.: TIME
+Comcast: ORG
+CN8 News: ORG
+Philadelphia Inquirer: ORG
+the Courier Post: ORG
+Account Executive 
+Company Name: ORG
+Medallion Financial Corp.and Hearts on Fire: ORG
+Power Lunch: ORG
+The New York Times: ORG
+Fortune Magazine: ORG
+The Business, Labor & Community Coalition: ORG
+Onlight: PERSON
+Rutgers College of Nursing: ORG
+The New York Times: ORG
+Associated Press: ORG
+USA Today, News: ORG
+12: CARDINAL
+New Jersey: GPE
+WBGO-FM: ORG
+first: ORDINAL
+Rush Holt: ORG
+NJN News: ORG
+Bergen Record: GPE
+Herald
+News: ORG
+WMBC-TV: ORG
+Rachel Jones: PERSON
+Oversaw: GPE
+the College of Nursing: ORG
+first: ORDINAL
+Rachel Jones': PERSON
+Oversaw: GPE
+Develop: ORG
+Bloomberg Television: ORG
+Home News Tribune: ORG
+Star-Ledger: ORG
+the National Marriage Project's: ORG
+annual: DATE
+USA Today: ORG
+Baltimore Sun: ORG
+Associated Press: ORG
+Washington Times: ORG
+Salt Lake Tribune: ORG
+Journalism-History Rutgers University: PERSON
+Journalism-History: PERSON
+ABC: ORG
+Bloomberg: PERSON
+Financial, Ledger: ORG
+Nursing, Press: ORG
+Real Estate, Receiving: ORG
+Sun: ORG

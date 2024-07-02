@@ -1,0 +1,115 @@
+Google Classroom: ORG
+Canvas: PRODUCT
+Blackboard: PERSON
+Episcopal High School and Cannon School: ORG
+Alumni Magazine: PERSON
+Winter 2016: DATE
+Photoshop Elements: PERSON
+iPhoto: ORG
+MovieMaker: ORG
+WYSIWYG: ORG
+Wix: PERSON
+Silverpoint
+Website: PERSON
+School Suite: PERSON
+Theater Company Name: ORG
+Shakespeare: PERSON
+Directed: ORG
+3: CARDINAL
+3: CARDINAL
+Collaborated: ORG
+Leadership: NORP
+6-8: CARDINAL
+60: CARDINAL
+01/2011: CARDINAL
+4-12: CARDINAL
+Shakespeare & Young Company: ORG
+Courts: ORG
+Shakespeare: PERSON
+2008-2011: DATE
+Toad of Toad Hall: FAC
+2009: DATE
+dir: ORG
+Irina Brook: PERSON
+The Amorous Quarrel: ORG
+2010: DATE
+dir: PERSON
+Jenna Ware: PERSON
+The Real Inspector Hound: LAW
+2010: DATE
+dir: PERSON
+Jonathan Croy: PERSON
+English: LANGUAGE
+Fine Arts: PERSON
+6-12: CARDINAL
+English 12: DATE
+Introduction to Theater: ORG
+Physical Theater, Design: ORG
+Theater, Playwrighting: WORK_OF_ART
+Created: ORG
+3: CARDINAL
+10: CARDINAL
+English: LANGUAGE
+Language Retraining: ORG
+Orton: ORG
+3: CARDINAL
+2004: DATE
+Master of Arts : Directing Chicago College of Performing Arts: WORK_OF_ART
+Roosevelt University: ORG
+1995: DATE
+Bachelor of Arts: ORG
+English Wesleyan University: ORG
+English: LANGUAGE
+2015: DATE
+PROFESSIONAL NAIS People of Color Conference
+: ORG
+2012: DATE
+Seeking Educational Equity & Diversity: ORG
+2006: DATE
+Year-long: DATE
+National Endowment for the Humanities: ORG
+2001: DATE
+National Institute on Teaching Shakespeare: ORG
+Yale University Summer Session: ORG
+1998: DATE
+A Practical Approach to Directing Columbia University Teachers' College Differentiated Instruction Techniques for Reading Remediation
+Skills: ORG
+Photoshop: PERSON
+Canvas: PRODUCT
+Color: GPE
+English: LANGUAGE
+Equity, Inspector, Instruction: ORG
+3: CARDINAL
+Toad: ORG
+Best Supporting Actor: WORK_OF_ART
+Cochran Mastership for Excellence in Teaching Fine Arts: ORG
+2013: CARDINAL
+Episcopal High School !: ORG
+2014: DATE
+2015: DATE
+Episcopal High School: ORG
+American: NORP
+2014: DATE
+2005: DATE
+National Finalist Â: EVENT
+the Edinburgh Fringe
+Festival: FAC
+Virginia Theatre Association: ORG
+2013--present: DATE
+Distinguished Play Award: PERSON
+2015: DATE
+SETC Â: ORG
+15: CARDINAL
+All Star Cast: WORK_OF_ART
+Shakespeare Library: PERSON
+2013: DATE
+2015: DATE
+Peggy
+O'Brien Award: PERSON
+Brian Cabe Award: PERSON
+North Carolina Theater: ORG
+2003: DATE
+John W. Parker Award: PERSON
+2003-2006 Â: DATE
+North Carolina Professional
+Theatre Gathering: FAC

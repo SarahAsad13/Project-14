@@ -1,0 +1,81 @@
+ASSISTANT INFORMATION TECHNOLOGY: ORG
+Highlights
+
+Management: ORG
+Unsurpassed: ORG
+January 2011: DATE
+Name City: GPE
+State: ORG
+Information Technology: ORG
+the eHealth Exchange Information Network: ORG
+Completed: ORG
+the Data Use and Reciprocal Agreement: ORG
+the Entrust Subscriber Agreement: ORG
+the eHealth Exchange Committee: ORG
+the eHealth Exchange Network: ORG
+Stage 6 Maturity: ORG
+Electronic Medical Record: ORG
+less than 3 months: DATE
+January 2007 to December 2010: DATE
+Name City: GPE
+the Health Services CIO: ORG
+Document Imaging System: ORG
+Wristband ID Deployment, Dictation
+System: ORG
+Project Management: ORG
+Lean: NORP
+Sample Project: PERSON
+Project Charter: PERSON
+Project Timeline: PERSON
+Communications Technique: PERSON
+Lessons Learned: PERSON
+Release Checklist: PERSON
+July 2005 to December 2006: DATE
+Name City: GPE
+State Senior Management Information Systems: ORG
+Santa Clara County: GPE
+Lean Six Sigma: ORG
+the same week: DATE
+December 2000 to June 2005: DATE
+Name City: GPE
+State Program Administrator
+
+: ORG
+the three year: DATE
+20/7: ORG
+over 6,000: CARDINAL
+300%: PERCENT
+Initiated: ORG
+HIPAA: ORG
+Privacy Rule: PRODUCT
+Washington State's: ORG
+100%: PERCENT
+De La Salle University 
+Guidance & Counseling MS Guidance & Counseling
+Assumption College 
+Psychology BS Psychology
+Agile Management: ORG
+UC Berkeley Extension: ORG
+Advanced Project Management Program: ORG
+Stanford University: ORG
+SCPM: PRODUCT
+Project Management: ORG
+San
+Jose State University: GPE
+Lean Six Sigma Quality and Operational Excellence: ORG
+ScrumMaster: PERSON
+CSPO: ORG
+Alliance Foundation Certificate: ORG
+EXIN Project Management Professional: ORG
+PMI: ORG
+Certified Professional in Health Information Management Systems: ORG
+HIMSS: ORG
+Skills: ORG
+Agile: ORG
+Dictation, Documentation: ORG
+ITIL: ORG
+Materials Management, Exchange: ORG
+Network: ORG
+Project Management, Quality: ORG
+San: LOC
+Six Sigma: PERSON

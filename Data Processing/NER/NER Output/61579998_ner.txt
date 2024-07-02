@@ -1,0 +1,87 @@
+Multifaceted Technical: ORG
+60M+: MONEY
+70+ Systems Engineers: MONEY
+Skills
+
+Technical Management: ORG
+Agile Software Development: ORG
+Handsoft: GPE
+Data Analysis: ORG
+Customer Management
+Systems : Hardware-Software Integration Rational Requisite Pro: ORG
+ClearQuest: ORG
+Visio: PERSON
+LEAN/Six Sigma, Safety Engineering: ORG
+Requirements Engineering Creation, System Architecture
+Design: ORG
+ANSYS: PERSON
+14: CARDINAL
+DFMA: ORG
+DFA/DFM: ORG
+Zemax, Unigraphics: WORK_OF_ART
+Weld: PERSON
+Material Callouts
+Development: ORG
+JAVA: PERSON
+Matlab: PERSON
+Microsoft Visual Studio: ORG
+February 2010: DATE
+Current Systems Engineering: ORG
+State
+
+Technical Program: ORG
+LCS Game Based Learning
+
+Manage 63 Systems Engineers: ORG
+Test Engineers, Technical Artists: ORG
+55: MONEY
+12M+: MONEY
+Â 
+Championed: PRODUCT
+the US Navy: ORG
+Â 
+: PRODUCT
+5: CARDINAL
+Technical Program: ORG
+Emirates Airlines Game Based Learning for Cabin Crews Â 
+
+Manage 7 Systems Engineers: ORG
+Test Engineers, Technical Artists: ORG
+over 20,000: CARDINAL
+over $20: MONEY
+the Mission Bays of LCS 3: ORG
+multimillion-dollar: MONEY
+Launch and Recovery Systems: ORG
+System Engineer for Littoral Combat Ship(LCS: WORK_OF_ART
+Curriculum Proposal: PERSON
+LCS: ORG
+300: CARDINAL
+Generated Learning Objective: WORK_OF_ART
+Â 
+Led: PRODUCT
+3: CARDINAL
+300: MONEY
+5 year: DATE
+3: CARDINAL
+Mechanical Engineer: ORG
+Bradley Fighting Vehicle: ORG
+the Bradley Simulator Â 
+Designed: ORG
+RTV: ORG
+LCD: ORG
+Utilized: ORG
+March 2009: DATE
+February 2010: DATE
+six: CARDINAL
+C-17: PRODUCT
+December 2009: DATE
+May 2010: DATE
+Languages: NORP
+Arabic/English: EVENT
+US: GPE
+Education: ORG
+University of Central Florida: ORG
+State
+University of California,: ORG
+San Diego: GPE
+State: ORG

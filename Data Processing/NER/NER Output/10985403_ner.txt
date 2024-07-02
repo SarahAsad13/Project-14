@@ -1,0 +1,92 @@
+CAD: ORG
+CAM: ORG
+Finite Element Analysis: ORG
+Mechanical Design: ORG
+Product Design and Development
+Skills: ORG
+5 years: DATE
+CAD: ORG
+SolidWorks: ORG
+Autodesk Inventor: PERSON
+2.5 years: DATE
+CAE: ORG
+HyperMesh: ORG
+Abaqus: GPE
+ANSYS: PERSON
+Optistruct: ORG
+2.5 years: DATE
+Analysis (Linear & Non-linear: ORG
+GD & T: ORG
+Tolerance Analysis, Design Optimization: ORG
+Bill of Materials: LAW
+DFMEA: ORG
+09/2013: CARDINAL
+Industrial Robotic Assembly: ORG
+Illinois Institute of Technology: ORG
+Chicago: GPE
+Conceptualized: PRODUCT
+6: CARDINAL
+304: CARDINAL
+Gripper: ORG
+OptiStruct: ORG
+Reliability Engineering Analysis: ORG
+Illinois Institute of Technology: ORG
+three: CARDINAL
+Taguchi: GPE
+FMEA: ORG
+Near Dry Machine: ORG
+two: CARDINAL
+Performed: ORG
+Gearbox Design: ORG
+Narsee Monjee Institute of Management Studies: ORG
+Mumbai: GPE
+Jan - May 2013: DATE
+Assigned: ORG
+06/2013: CARDINAL
+Established: ORG
+GD&T: ORG
+Hyundai: ORG
+05/2012: CARDINAL
+Hot
+Strip Coil: ORG
+5%: PERCENT
+20%: PERCENT
+Performed: ORG
+SPC: ORG
+DOE: ORG
+Training: PERSON
+May 2017: DATE
+Master's : Mechanical & Aerospace Engineering Illinois Institute of Technology: WORK_OF_ART
+IIT: ORG
+City: GPE
+State Mechanical & Aerospace Engineering: ORG
+3.5/4.0: CARDINAL
+Finite Element Analysis: ORG
+May 2014: DATE
+Bachelor of Technology : Mechanical Engineering Narsee Monjee Institute of Management Studies: ORG
+City India Mechanical Engineering: ORG
+Certifications: WORK_OF_ART
+Autodesk Inventor Professional Software: ORG
+License # 00313355: ORG
+Autodesk Certified Associate: PERSON
+Software: ORG
+License # 00296190: ORG
+Parekh R.: PERSON
+Chaudhary R.: PERSON
+Ingle A.: PERSON
+PhD: WORK_OF_ART
+the International
+Conference on Machine learning: EVENT
+Electrical and Mechanical Engineering: ORG
+Dubai: GPE
+Skills: ORG
+ANSYS: PERSON
+Automotive: ORG
+CAD: ORG
+CAM: ORG
+CAD: ORG
+Dec, Engineering Analysis: ORG
+Oil, Optimization: ORG
+Robotic: ORG
+SolidWorks: ORG
+SPC: ORG

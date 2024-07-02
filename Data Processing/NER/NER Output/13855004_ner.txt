@@ -1,0 +1,117 @@
+the Enrichment Specialist: ORG
+Perry Hill School: ORG
+Skills
+Microsoft Office: ORG
+Microsoft Windows XP Professional: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Browsers, Learning Google Chrome &
+Applications: ORG
+August 2010 - Current: DATE
+Created: ORG
+Eureka: GPE
+& Engage NY: ORG
+IXL & Khan Academy: ORG
+the FOSS Science Program: ORG
+Common Core & Next Generation Standards: ORG
+Provide Smarter Balanced NWEA Test Preparation: PERSON
+Mathematics & Science Create: ORG
+Positive Behavior Support (: WORK_OF_ART
+PBS: ORG
+Update: ORG
+August 2008 - June 2010 6th: DATE
+fifth: ORDINAL
+Shelton: PERSON
+Reader's Workshop
+Model: ORG
+Utilize Technology: ORG
+Provide Writing Instruction through the Writer's
+Workshop: WORK_OF_ART
+Utilize Literacy Work Stations: ORG
+Independent Daily Reading Station: ORG
+Word Study Station: WORK_OF_ART
+CMT: ORG
+Reading, Writing: ORG
+Math Administer: PERSON
+the Developmental Reading Assessment: ORG
+2: CARDINAL
+Reading Power: ORG
+the Connecticut Mastery Tests Used the Everyday
+: ORG
+Mathematics Curriculum: PERSON
+the FOSS Science Program Provide: ORG
+Science Create: ORG
+PBS: ORG
+September 2007 - June 2008: DATE
+State: ORG
+Modify: PERSON
+sixth: ORDINAL
+IEP: ORG
+sixth: ORDINAL
+K-6: PRODUCT
+the Inclusion Model: ORG
+Assess: ORG
+Shelton Public Schools Assessment Administer: ORG
+the Brigance Inventory of Basic Skills: ORG
+Administer CMT's: ORG
+Provide: NORP
+sixth: ORDINAL
+Writer: PERSON
+six: CARDINAL
+Planned: PERSON
+6th: ORDINAL
+Science Embedded Task: ORG
+Observe: LOC
+Everyday Mathematics: ORG
+Wilson Reading: PERSON
+Houghton Mifflin: PERSON
+Scott Foresman Social Studies: PERSON
+2003: DATE
+Derby High School: ORG
+State: ORG
+2007: DATE
+NCATE Endorsement: WORK_OF_ART
+National Council for Accreditation of Teacher Education Connecticut Collaboration: ORG
+013: CARDINAL
+165: CARDINAL
+Southern Connecticut State University: ORG
+City: GPE
+State: ORG
+2010: DATE
+Collaborative Endorsement (Elementary Regular/Special Education: WORK_OF_ART
+013: CARDINAL
+165: CARDINAL
+Southern Connecticut State University: ORG
+City: GPE
+National Council for Accreditation of Teacher Education Remedial Reading and Remedial Language Arts: ORG
+Grades K-12: PERSON
+102 Certification: CARDINAL
+GPA: ORG
+3.85: CARDINAL
+Magna Cum Laude: PERSON
+May 2007: DATE
+Grades K-12: PERSON
+102: CARDINAL
+Skills
+Arts: ORG
+Basic: GPE
+Council: ORG
+K, Inspiration: ORG
+Browsers,: ORG
+Math: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Microsoft Windows XP Professional: ORG
+Word: PERSON
+Next: ORG
+Southern Connecticut State University: ORG
+Fall 2003: DATE
+Fall 2004: DATE
+Fall 2005: DATE
+Spring
+2006: DATE
+Fall 2006: DATE
+Psi-Chi: PERSON
+Golden Key: PERSON
+Kappa Delta Pi: PERSON

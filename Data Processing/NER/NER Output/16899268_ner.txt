@@ -1,0 +1,61 @@
+Professional Summary
+Innovative: ORG
+Program and Project Management: ORG
+Skills
+Project: ORG
+Program: ORG
+Process: PRODUCT
+Team: ORG
+Work History
+Information Technology: WORK_OF_ART
+07/2006 to Current 
+Company Name: ORG
+the Graduate College: ORG
+Graduate College: ORG
+National Science Foundation: ORG
+National Institutes of Health: ORG
+Council of Graduate Schools: ORG
+Team: ORG
+over eight years: DATE
+Implemented Software Development Lifecycle: ORG
+Appointed: ORG
+Iowa State University's: ORG
+Paperless Task: ORG
+Graduate College: ORG
+the Professional and Scientific Council: ORG
+P&S: ORG
+the Graduate College: ORG
+Communication: ORG
+Regularly: PERSON
+the Des Moines Store (Largest: ORG
+25: CARDINAL
+daily: DATE
+01/1999: CARDINAL
+01/2003: CARDINAL
+$2 million: MONEY
+the Web Communications: ORG
+Â Created: ORG
+first: ORDINAL
+1 month: DATE
+Family Financial Planning: ORG
+Iowa State University - City: ORG
+Certified Financial Planner: ORG
+1 1998: CARDINAL
+GPA: ORG
+GPA: ORG
+4: CARDINAL
+GPA: ORG
+4: CARDINAL
+Iowa State University - City: ORG
+Microsoft Front Page Certified: ORG
+New Horizons - Des Moines: PERSON
+1 1999: DATE
+first: ORDINAL
+a Fortune 500 Company: ORG
+two: CARDINAL
+2010: DATE
+Professional and Scientific: ORG
+Iowa State University: ORG
+International Academy of Technology Education: ORG
+Development (IATED: ORG
+2: CARDINAL

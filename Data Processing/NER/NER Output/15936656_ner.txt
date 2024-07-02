@@ -1,0 +1,13 @@
+more than six years: DATE
+Floral Designer 08/2017 Company Name City: ORG
+Name City: GPE
+Name City: GPE
+Name City: GPE
+Arab: NORP
+Name City: GPE
+Itemized: NORP
+2003: DATE
+Republican: NORP
+Uzbekistan: GPE
+Skills
+Painting: ORG

@@ -1,0 +1,130 @@
+BANK: ORG
+Highlights: GPE
+PBOL: ORG
+2013: CARDINAL
+Bank Operations Analyst 01/2010: ORG
+Returned Deposited Items: ORG
+Returned Cash Items: PERSON
+G/L: ORG
+Key Master: PERSON
+Data Entry: ORG
+Assist: NORP
+Worked with Special Services: ORG
+Atlanta: GPE
+SunTrust Liaison: PERSON
+the North
+Carolina: FAC
+Account Certification Operations: ORG
+01/2010 Company Name City: EVENT
+daily: DATE
+the W8/W9: ORG
+1099: DATE
+year end: DATE
+daily: DATE
+G/L: ORG
+Assist Operational: ORG
+IRS: ORG
+SQL: ORG
+Verify: LOC
+945: CARDINAL
+Wire Remittance: PERSON
+the Help Line: ORG
+Monitor department: ORG
+Attend: ORG
+weekly: DATE
+weekly: DATE
+4: CARDINAL
+Name City: GPE
+daily: DATE
+the W8/W9: ORG
+1099: DATE
+year end: DATE
+daily: DATE
+G/L: ORG
+Assist Operational: ORG
+annual: DATE
+IRS: ORG
+SQL: ORG
+Verify: LOC
+945: CARDINAL
+Wire Remittance: PERSON
+the Help Line: ORG
+5: CARDINAL
+Name City: GPE
+State: ORG
+4: CARDINAL
+daily: DATE
+W8/W9: PRODUCT
+1099/1098 year: DATE
+year: DATE
+the VCP/Remediation: ORG
+1.7: CARDINAL
+Verify: LOC
+945/941: CARDINAL
+Wire Remittance: PERSON
+Name City: GPE
+3-5: CARDINAL
+IRS Compliance Analyst: LAW
+Name City: GPE
+1099/1098: DATE
+NCF: ORG
+the Huntington Bank: ORG
+140,000: CARDINAL
+W9: PRODUCT
+Feb 2002: DATE
+7: CARDINAL
+300: CARDINAL
+IRS: ORG
+year-end: DATE
+IRS Compliance Specialist: ORG
+Name City: GPE
+Researching: PRODUCT
+Process: ORG
+daily: DATE
+thirteen: CARDINAL
+monthly: DATE
+Name City: GPE
+5: CARDINAL
+daily: DATE
+IRS: ORG
+Name City: GPE
+Determine: PERSON
+Money Center Processing Teller: ORG
+Name City: GPE
+cashÂ: ORG
+Money Center ATM Teller: ORG
+Name City: GPE
+ATM: PERSON
+monthly: DATE
+ATM: ORG
+Bank Teller 01/1989 to 01/1990: ORG
+Name City: GPE
+daily: DATE
+the end of each day: DATE
+ATM: ORG
+Business 2013 Bellevue University City: ORG
+Valencia Community College City: ORG
+State Business Management
+Business Management 1990 Seminole Community College City: ORG
+State Business Management
+Medicine/Nursing: ORG
+1989: DATE
+Bethune Cookman College City: ORG
+State Medicine/Nursing: ORG
+Diploma 1988: DATE
+Lake Brantley High School City: FAC
+State: ORG
+Skills: ORG
+10: CARDINAL
+ATM: ORG
+Oral, Customer Service: ORG
+Data Entry: ORG
+Mail: GPE
+Microsoft: ORG
+Organizational: ORG
+Problem: ORG
+Researching: PRODUCT
+SQL: ORG
+7: CARDINAL
+40: CARDINAL
+year-end: DATE

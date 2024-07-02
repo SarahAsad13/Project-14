@@ -1,0 +1,27 @@
+CONSTRUCTION & RESIDENTIAL CLEANING
+Professional Summary
+
+: ORG
+Detail: PERSON
+Detail: PERSON
+Team: ORG
+Inventory: NORP
+Spanish: NORP
+Opening: WORK_OF_ART
+Neat: ORG
+Interior: ORG
+Restroom: PRODUCT
+Chemical: ORG
+January 2013: DATE
+Venetian: NORP
+May 2008 to October 2012: DATE
+weekly: DATE
+daily: DATE
+June 2000 to March 2008: DATE
+CVS: ORG
+weekly: DATE
+July 1993 to July 1999: DATE
+daily: DATE
+Bristol Eastern Adult: ORG
+GED City: GPE
+State: ORG

@@ -1,0 +1,72 @@
+eight years: DATE
+15 years': DATE
+Highlights
+Proficient: ORG
+Dreamweaver: GPE
+InDesign: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Foundational: ORG
+Illustrator: GPE
+Microsoft Excel Copyediting: ORG
+CSS: ORG
+Business Development: ORG
+Manufacturer of Expansion Joints: ORG
+Hose: PERSON
+Update: ORG
+Develop: ORG
+Current
+Web: PERSON
+Augustine Monica Films: PERSON
+LaGrande Famille Preschool: ORG
+Black Pearl: GPE
+Proofreader Company Name: ORG
+The Academy of Nutrition and Dietetics Evidence Analysis Library www.eatright.org: ORG
+Copyedited: PERSON
+ADA: ORG
+01/1999: CARDINAL
+Proposal Specialist Company Name: ORG
+State: ORG
+the ARAMARK Corporation: ORG
+Achievements Received: PERSON
+2006 Top Producer: WORK_OF_ART
+Quarterly Top Producer: WORK_OF_ART
+several quarters: CARDINAL
+eight-year: DATE
+ARAMARK: GPE
+annual: DATE
+Key Responsibilities: LOC
+RFI: ORG
+ARAMARK: ORG
+RFP/RFQ/RFI's: ORG
+Applied ARAMARK: ORG
+Photoshop: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+s.
+Supported: PERSON
+annual: DATE
+ARAMARK: ORG
+May 1991: DATE
+Bachelor of Science :: ORG
+Journalism Boston University College of Communication Journalism: ORG
+February 2007: DATE
+Graphic Design Foundation: ORG
+Illinois Institute of Art
+Skills: ORG
+ADA: ORG
+Photoshop: PERSON
+Copyediting: NORP
+CSS: ORG
+Dreamweaver: ORG
+Graphic Design: ORG
+InDesign: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Pearl: GPE
+Producer: PERSON
+Proposal: PERSON
+RFI: ORG
+RFP: ORG

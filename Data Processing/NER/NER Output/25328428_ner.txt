@@ -1,0 +1,65 @@
+HOME HEALTHCARE: ORG
+Certified Nursing: WORK_OF_ART
+3+ years: DATE
+National Health Association: ORG
+years: DATE
+Strong: PERSON
+Enthusiastic: ORG
+Patient: GPE
+Blood Withdrawal: WORK_OF_ART
+Abides: ORG
+CPR/BLS: ORG
+Abides: ORG
+AED: ORG
+Problem: PRODUCT
+Energetic: LOC
+Adaptive: ORG
+Valid AL: PERSON
+Calm: PERSON
+Monitored: ORG
+daily: DATE
+September 2015: DATE
+Name City: GPE
+State Home Healthcare Technician: ORG
+April 2015: DATE
+May 2015: DATE
+Certified Nursing: WORK_OF_ART
+Phlebotomy: GPE
+EKG: ORG
+CPR: ORG
+March 1998: DATE
+July 2002: DATE
+Name City: GPE
+Carraway: ORG
+February 1989: DATE
+March 1993: DATE
+Name City: GPE
+daily: DATE
+Training: PERSON
+2015: DATE
+Academy City: GPE
+State: GPE
+United States Patient: ORG
+EKG Tech: ORG
+Phlebotomy Tech: PERSON
+Phlebotomy: GPE
+EKG: ORG
+daily: DATE
+Wallace State Community Ccllege City: ORG
+State: GPE
+United States: GPE
+1993: DATE
+Dora: PERSON
+Wallace: PERSON
+State: ORG
+United States: GPE
+Dora High School: ORG
+1978: DATE
+GED: ORG
+1993: DATE
+Skills
+
+Patient: ORG
+Detail: PERSON
+Charting: PERSON
+Time: ORG

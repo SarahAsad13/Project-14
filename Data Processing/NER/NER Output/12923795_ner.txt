@@ -1,0 +1,144 @@
+Operations Executive: ORG
+28: CARDINAL
+first: ORDINAL
+Strategic/Operational Business & Financial Planning Quick: ORG
+Multi-Site Operations & Productivity Enhancement Team: ORG
+International Sourcing & Supply Chain Management Foresighted: ORG
+Call center implementation &
+Management: ORG
+CRM: PRODUCT
+Calm: PERSON
+Customer: ORG
+Vendor/Supplier & OEM Relationships Technically: ORG
+Budgeting: PERSON
+Operating/Capital) & Pricing Strategies Expert: ORG
+Costing, Margin/Profit Improvement & ROI Experienced: ORG
+Extensive: PERSON
+Skill Highlights
+
+Strategic: PERSON
+Multi: GPE
+Call Center: ORG
+CRM Implementations
+Customer: PRODUCT
+Vendor: ORG
+Â Team: ORG
+Foresighted and Fastidious: ORG
+Calm: PERSON
+Technically: PERSON
+Apr 2008: PERSON
+Europe: LOC
+Latin America: LOC
+Asia: LOC
+the Middle East: LOC
+North America: LOC
+Holds: ORG
+5: CARDINAL
+$30 million: MONEY
+55million: MONEY
+Six Sigma: ORG
+$5 million: MONEY
+2004: DATE
+the Customer Service Support: ORG
+Oracle CRM: ORG
+$30 million: MONEY
+quarterly: DATE
+Managed Field Service: ORG
+Call Center, Technical Support: ORG
+Training: PERSON
+Oversaw: GPE
+Product Launch: PERSON
+Oversaw: GPE
+Oracle 11i: DATE
+Order Management: ORG
+monthly: DATE
+$25 million: MONEY
+North America: LOC
+Oracle 11i: DATE
+third: ORDINAL
+Oversaw: GPE
+20 seconds: TIME
+8.5: CARDINAL
+10: CARDINAL
+1998 to Nov 2001: DATE
+6: CARDINAL
+two hundred: CARDINAL
+$27 million: MONEY
+$17 million: MONEY
+CPO: ORG
+24%: PERCENT
+each year: DATE
+over 30%: PERCENT
+each year: DATE
+Administered B2B Extranet: ORG
+Oversaw: GPE
+95%: PERCENT
+1999: DATE
+International Sales and Service: ORG
+CLUB INTERNATIONAL: FAC
+Winner: PERSON
+1998: DATE
+the Association for Service Managers International: ORG
+Winner: PERSON
+2001: DATE
+Winner: PERSON
+International Service: ORG
+Jan 1995: DATE
+1998: DATE
+22: CARDINAL
+ARJO: ORG
+Century: ORG
+55: CARDINAL
+Systems: GPE
+University of Virginia ï¼​ City: ORG
+State: GPE
+USA: GPE
+Digital Electronics 1981: ORG
+DeVry Institute of Technology ï¼​ City: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.85: CARDINAL
+Digital Electronics GPA: ORG
+3.85: CARDINAL
+Developmental Activities Activity/Program Date/s/ BAMP - High: ORG
+Leadership 1999: DATE
+1998, 1999: DATE
+2000: DATE
+Presentation Skills: ORG
+Wilson Consulting Group: ORG
+1998: DATE
+MBTI: ORG
+Team Building - Sandra Herb Hirsh 1998 Service Management: ORG
+1994: DATE
+A.B. Dick - Automated Dispatch: PERSON
+1993: DATE
+World Class Lessons: EVENT
+Seminar: PERSON
+1998: DATE
+2000: DATE
+BVA: ORG
+2001: DATE
+2006: DATE
+Lean Six Sigma Champion: EVENT
+Disney Institute: ORG
+Loyalty Disney Style" Seminar 1999 Service CRM: WORK_OF_ART
+2005: DATE
+Skills
+PREMIER: ORG
+Call Center, Consulting: ORG
+Contracts: ORG
+CRM: PRODUCT
+Customer Service: ORG
+Extranet: ORG
+Financial: ORG
+International Sales: ORG
+Latin: NORP
+Team Building: ORG
+2000: DATE
+Works: ORG
+Oracle: ORG
+Oracle CRM: ORG
+Order Management: ORG
+Presentation Skills: PERSON
+Six Sigma, Service Level Agreements: ORG

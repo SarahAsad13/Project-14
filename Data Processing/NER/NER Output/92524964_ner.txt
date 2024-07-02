@@ -1,0 +1,100 @@
+FINANCE: ORG
+Finance: ORG
+Moevenpick Hotel Sukhumvit: FAC
+Bangkok: GPE
+Worked for Ramada Hotel and Suites Bangkok: ORG
+Wyndham: GPE
+1st: DATE
+Asia: LOC
+Finance: ORG
+4: CARDINAL
+Visakhapatnam: GPE
+Finance Department: ORG
+MIS & Budgets:: ORG
+the coming Years: DATE
+the Board of Directors Meeting: ORG
+Budget: ORG
+Obtaining: ORG
+Liaison: PERSON
+daily: DATE
+Month: DATE
+monthly: DATE
+the Financial Institutions: ORG
+Organization: ORG
+Controlling Food: ORG
+Beverage: PERSON
+Bank Books: ORG
+General Ledger, Journal: ORG
+Sundry Creditors Ledger: ORG
+Purchase Journal: ORG
+Subsidiary Ledgers: PERSON
+Liabilities: GPE
+Statements for the conduct of Internal Audit and Statutory Audits: WORK_OF_ART
+Preparation of Schedules: ORG
+Depreciation Statement: ORG
+Register, Preparation of Foreign
+Exchange Statements: ORG
+Bank: ORG
+TAXES: ORG
+VAT: ORG
+Social Security: ORG
+Associates Medical: ORG
+MSDOS: ORG
+LOTUS: ORG
+WORDSTAR: ORG
+UNIX: ORG
+DBASE: ORG
+INFORMIX: GPE
+the
+Management: ORG
+Bachelor of Commerce: ORG
+Financial Management 2001 Annamalai University Financial Management Major Field: ORG
+Data Pro: ORG
+Visakhapatnam: GPE
+Accounting Package - Comanche: ORG
+4.5: CARDINAL
+Sun: ORG
+Datapro Computers: ORG
+09-04-1959: CARDINAL
+Indian: NORP
+J 1995772 Date of Expiry :: DATE
+03-01-2021: DATE
+Address for Communication: ORG
+87: CARDINAL
+Soi 12 Siam: ORG
+Sukhumvit: PERSON
+Klongtoey Bangkok: PERSON
+10110: DATE
+Music: GPE
+09-04-1959: CARDINAL
+Indian: NORP
+J 1995772 Date of Expiry :: DATE
+03-01-2021: DATE
+Address for Communication: ORG
+87: CARDINAL
+Soi: ORG
+Sukhumvit: PERSON
+Klongtoey Bangkok: PERSON
+10110: DATE
+Music: GPE
+1st September 2015: DATE
+Bangkok Y. JOHN: PERSON
+Skills
+ACCOUNTING: ORG
+Accountancy: ORG
+Trial Balance, Balance Sheet: ORG
+DBASE: ORG
+Finance: ORG
+Foreign Exchange: ORG
+General Ledger: ORG
+INFORMIX 4GL: ORG
+Internal Audit: ORG
+LOTUS: ORG
+MIS: ORG
+MSDOS: ORG
+Payroll: ORG
+Sun: ORG
+Tax: PERSON
+TAXES: ORG
+UNIX: ORG
+WORDSTAR: ORG

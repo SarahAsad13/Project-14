@@ -1,0 +1,24 @@
+Roxanne Mejia: PERSON
+Budgeting: PERSON
+Verbal: ORG
+State: ORG
+Collaborated: ORG
+Oversaw: GPE
+Assigned: PERSON
+State: ORG
+Sous Chef 03/2017 - 11/2020: PERSON
+Maintained: GPE
+Assisted: ORG
+daily: DATE
+Directed: ORG
+Oversaw: GPE
+25: CARDINAL
+daily: DATE
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+daily: DATE
+Prepared: PRODUCT
+Cooked: PERSON
+Mentored: ORG
+State High School Diploma 06/2004: ORG

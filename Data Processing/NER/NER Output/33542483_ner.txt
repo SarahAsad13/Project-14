@@ -1,0 +1,69 @@
+DIGITAL: ORG
+digital: ORG
+the last three years: DATE
+Digital Content Editor: ORG
+Toastmaster: PERSON
+October 2016: DATE
+94%: PERCENT
+Curate: ORG
+Google Analytics: ORG
+Name City: GPE
+the first two years: DATE
+Proofed: ORG
+Coordinated: PRODUCT
+12/2015: CARDINAL
+Name City: GPE
+Completed: ORG
+Wordpress Â: ORG
+monthly: DATE
+monthly: DATE
+Â  Â  Â  Â: PRODUCT
+annual: DATE
+PerfectWeddingGuide.com Â  Â  Â  Â  Â 
+Planned: ORG
+monthly: DATE
+Name City: GPE
+day: DATE
+Outlook and ExactTarget: ORG
+Name City: GPE
+two: CARDINAL
+one: CARDINAL
+cooperatives: ORG
+two to three: CARDINAL
+Indiana: GPE
+18: CARDINAL
+cooperatives: ORG
+NewspaperReporter: PERSON
+Name City: GPE
+the Hoosier State Press Association: ORG
+2009: DATE
+the Eugene S. Pulliam: FAC
+The Shelbyville News: ORG
+10 weeks: DATE
+over 40: CARDINAL
+Training
+Bachelor of Arts: PERSON
+UNIVERSITY City: GPE
+First Place: ORG
+National Rural Electric Cooperative Association: ORG
+2012: DATE
+Online/Electronic Newsletter: ORG
+Cooperative Communications Association: ORG
+CCA: ORG
+Communications Contest: PERSON
+2012: DATE
+Best External Newspaper/Magazine: ORG
+National Rural Electric Cooperative Association: ORG
+2012: DATE
+Eugene S. Pulliam Internship Award: PERSON
+Hoosier State Press Association: ORG
+2009: DATE
+Additional Skills
+AP Style, Sitecore: ORG
+Google Analytics: ORG
+Twitter: PERSON
+LinkedIn: GPE
+YouTube: ORG
+Instagram, Skype for Business
+
+: ORG

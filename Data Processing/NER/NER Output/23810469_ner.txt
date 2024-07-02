@@ -1,0 +1,75 @@
+GLOBAL SR: ORG
+13 years: DATE
+today: DATE
+Digital Marketing
+Social Media Marketing
+Lead Generation: ORG
+Name City: GPE
+Paid Media: PERSON
+Pioneers Rackspace's: PERSON
+eCommerce: PRODUCT
+SMB: ORG
+Manages: NORP
+annual: DATE
+six: CARDINAL
+Collaborates: PERSON
+eCommerce: PRODUCT
+Name City: GPE
+State: ORG
+Digital Marketing 01/2013: ORG
+Led HP Autonomy's: FAC
+HP Autonomy: ORG
+Created: ORG
+HP Software blogs: ORG
+35: CARDINAL
+Managed HP Autonomy's: WORK_OF_ART
+50%: PERCENT
+75%: PERCENT
+HP Autonomy: ORG
+three months: DATE
+Name City: GPE
+State: ORG
+Raised: GPE
+eCommerce: PRODUCT
+Autonomy: PERSON
+500: CARDINAL
+one quarter: DATE
+Devised: ORG
+Name City: GPE
+State: ORG
+5.5: MONEY
+Name City: GPE
+North American: NORP
+North American: NORP
+60%: PERCENT
+one year: DATE
+Name City: GPE
+six: CARDINAL
+CPG: ORG
+Conducted: ORG
+75%: PERCENT
+Name City: GPE
+State Interactive: ORG
+Developed: ORG
+Worked with Business Development: ORG
+150%: PERCENT
+Name City: GPE
+09/2003: CARDINAL
+Conducted: ORG
+Name City: GPE
+12/2000: CARDINAL
+Media & Entertainment: ORG
+Created: ORG
+75%: PERCENT
+three-month: DATE
+110%: PERCENT
+one year: DATE
+Masters of Business Administration: ORG
+Georgia State University: ORG
+City: GPE
+State: GPE
+USA: GPE
+City: GPE
+Business Development: ORG
+eCommerce: ORG
+Product Marketing: ORG

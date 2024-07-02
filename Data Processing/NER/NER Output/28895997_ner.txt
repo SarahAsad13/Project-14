@@ -1,0 +1,32 @@
+Skills: ORG
+Excel Detail: PERSON
+07/2004: CARDINAL
+Current
+Branch Banker Company Name: ORG
+Understand: NORP
+Open: PERSON
+Prepare: ORG
+weekly: DATE
+daily: DATE
+Loan: NORP
+Submissions: PERSON
+Close: PERSON
+07/2004: CARDINAL
+daily: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Understand: GPE
+Develop: ORG
+10/1986: DATE
+Oversee Branch: ORG
+Identify: ORG
+Loan: ORG
+Close: PERSON
+Diploma Hammonton High School ï¼​ City: ORG
+Skills
+Book: ORG
+Detail: PERSON
+Excel: PRODUCT
+Microsoft: ORG

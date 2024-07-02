@@ -1,0 +1,78 @@
+Core Qualifications
+
+Microsoft Office: ORG
+Educated: ORG
+Human Development: ORG
+State: ORG
+West Coast: LOC
+CMI: ORG
+Attend: ORG
+CMI: ORG
+Maintained: GPE
+the West Coast: LOC
+CMI Music: ORG
+CMI: ORG
+Music & Media Licensing: ORG
+Coordinate: ORG
+Coordinate: FAC
+Santa Monica: GPE
+VH1: ORG
+MTV Music and Talent: ORG
+Oversee: ORG
+CMI: ORG
+Music and Talent: WORK_OF_ART
+Name City: GPE
+clientÃ¨le: PERSON
+Draft: ORG
+CMRRA: ORG
+the Copyright Office: ORG
+Congress: ORG
+10: CARDINAL
+10/2011: CARDINAL
+Name City: GPE
+clientÃ¨le: PERSON
+Created: ORG
+Name City: GPE
+State: ORG
+Oversaw: GPE
+4-12: CARDINAL
+100: CARDINAL
+Child Life Specialist: WORK_OF_ART
+10/2010: CARDINAL
+Name City: GPE
+Child Life: ORG
+the Medical Center: ORG
+12/2010: CARDINAL
+Name City: GPE
+Panhellenic: ORG
+the City-UCD Student Liaison Commission: FAC
+the Davis City Police: ORG
+City
+Council: ORG
+Name City: GPE
+Davis: PERSON
+University: ORG
+zero: CARDINAL
+Davis Central Park: LOC
+Davis: PERSON
+Davis: PERSON
+Intern 09/2008: LOC
+Name City: GPE
+Created: ORG
+Summer Programs: WORK_OF_ART
+Name City: GPE
+Coordinated: ORG
+Research Methods, Statistics: ORG
+The Media Industry: ORG
+Scientific Reasoning Nativ College Leadership Program: ORG
+Hebrew University: ORG
+four months: DATE
+Be'er: GPE
+Skills: ORG
+Council: ORG
+first: ORDINAL
+Hebrew: LANGUAGE
+Leadership: PERSON
+Microsoft Office: ORG
+Research: ORG
+Scientific, Statistics: ORG

@@ -1,0 +1,84 @@
+BUSINESS DEVELOPMENT: ORG
+Highlights: GPE
+4: CARDINAL
+European: NORP
+English: LANGUAGE
+French: NORP
+Italian: NORP
+Greek: NORP
+Microsoft: ORG
+Mac: PERSON
+Google: ORG
+Quicken: PERSON
+the Ross School's: ORG
+2011: DATE
+250,000: MONEY
+2012: DATE
+2010: DATE
+2012: DATE
+April 2007: DATE
+Current Company Name: ORG
+Italian: NORP
+French: NORP
+Italian: NORP
+French: LANGUAGE
+English: LANGUAGE
+North America: LOC
+EMEA: ORG
+Created: ORG
+Initiated: ORG
+Coordinated: ORG
+October 2006 to March 2008: DATE
+UK: GPE
+Initiated: ORG
+North American: NORP
+Researched: ORG
+US: GPE
+March 1994 to July 2001: DATE
+EMEA: ORG
+10: MONEY
+Directed: ORG
+Created: ORG
+January 1991 to December 1994: DATE
+2%: PERCENT
+Finance CITY UNIVERSITY BUSINESS SCHOOL: ORG
+City: GPE
+UK: GPE
+UNIVERSITY BUSINESS SCHOOL LONDON: ORG
+UNITED KINGDOM: GPE
+Trade and Finance: ORG
+1990: DATE
+BA: NORP
+French: NORP
+Italian: NORP
+THE UNIVERSITY OF HULL ï¼​ City: ORG
+UK: GPE
+THE UNIVERSITY OF HULL: ORG
+UNITED KINGDOM BA
+(: GPE
+French: NORP
+Italian: NORP
+July 1989: DATE
+French: NORP
+Italian: NORP
+July 1989: DATE
+Certifications: ORG
+PTA: ORG
+Skills
+Marketing, Sales: ORG
+Promotional: ORG
+Comprehensive Large Array Data Stewardship System: ORG
+Excellent Multitasker: PRODUCT
+Advertising,: ORG
+Community Outreach: PERSON
+Public Relations: ORG
+Administrative Support: PERSON
+Ordering: GPE
+Relationship Management, Scheduling, Selling And: ORG
+Accountable For, Business Development, Clients, Forecasting: ORG
+Direct Marketing, Marketing Plan: ORG
+Project Development: ORG
+Highly Organized: PERSON
+Mac: GPE
+Quicken: GPE
+Self Motivated: GPE

@@ -1,0 +1,81 @@
+CLIENT: GPE
+DIGITAL: ORG
+Consumer Packaged Goods, Human Resources: ORG
+Financial
+Services and Information Technology: ORG
+Brand Management Copywriting Interactive Marketing Web Design Collateral Development Business
+Development Project Management Client Relations Special Events Planning
+Highlights
+
+Account: ORG
+Mobile: ORG
+Digital: ORG
+Digital Oct 2005: ORG
+Jan 2004: DATE
+State Facilitated: ORG
+CPG: ORG
+Cadbury Adams, Church & Dwight: ORG
+Manischewitz: GPE
+Johnson: PERSON
+Johnson: PERSON
+Dentyne: PERSON
+Clear Channel Entertainment: ORG
+Yahoo: ORG
+AOL: ORG
+300%: PERCENT
+Oct 2005: DATE
+CPG: ORG
+Cadbury Adams, Church & Dwight: ORG
+Manischewitz: GPE
+Johnson: PERSON
+Johnson: PERSON
+â€¢ Managed: PRODUCT
+Dentyne: PERSON
+Clear Channel Entertainment: ORG
+â€¢ Coordinated: PRODUCT
+FSI: ORG
+â€¢ Established: PRODUCT
+â€¢ Supported Yahoo: WORK_OF_ART
+AOL: ORG
+300%: PERCENT
+â€¢ Identified: PRODUCT
+Jan 2001 to Jan 2004: DATE
+Jan 1998 to Jan 2001: DATE
+State: ORG
+Financial Services: ORG
+Point Of View: WORK_OF_ART
+HTML: ORG
+Active Server Pages: ORG
+Javascript: PERSON
+CSS: ORG
+Education: ORG
+BA: ORG
+Communication Rutgers University: ORG
+State: GPE
+US BA: ORG
+Communication, Rutgers University: ORG
+New Brunswick: GPE
+NJ: ORG
+December 1997: DATE
+Rutgers University: ORG
+Consumer Packaged Goods, Human Resources: ORG
+Financial
+Services and Information Technology: ORG
+Affiliations
+Founding: PRODUCT
+Rutgers University: ORG
+Skills
+Marketing, Clients: ORG
+Interactive Media: ORG
+Satisfaction, Testing, Usability: ORG
+Usability Test: ORG
+Usability Testing: ORG
+Prototype: ORG
+Prototypes: PERSON
+Web Portal: ORG
+Css, Financial Services: ORG
+Javascript, Organizational Communication, Solutions: ORG
+Vbscript: PERSON
+Brand Management, Business Development: ORG
+Human Resources: ORG
+Liaison, Project Management: ORG

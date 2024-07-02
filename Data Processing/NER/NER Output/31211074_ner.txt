@@ -1,0 +1,69 @@
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Suite: PERSON
+PowerPoint: ORG
+Outlook and Excel: ORG
+SPSS: ORG
+Research Data: ORG
+Public Relations: ORG
+Crisis Management: ORG
+Project Management: ORG
+Customer Service: ORG
+Quality Consciousness: ORG
+September 2014: DATE
+Name City: GPE
+State City Carrier: GPE
+Obtained: ORG
+January 2014: DATE
+Name City: GPE
+Applied: ORG
+October 2013 to December 2013: DATE
+Name City: GPE
+State Stock Clerk: ORG
+May 2012 to August 2012: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+May 2009 to August 2011: DATE
+Name City: GPE
+State Stock Clerk
+
+Displayed: ORG
+Broke: ORG
+May 2008 to August 2008: DATE
+Name City: GPE
+State: ORG
+Maintained: GPE
+Training: PERSON
+May of 2014: DATE
+Morgan State University: ORG
+State: ORG
+USA Psychology 
+Bachelor of Science
+
+Psychology: ORG
+2008: DATE
+Hillside High School 
+City: ORG
+State: ORG
+Interests: NORP
+Morgan State Varsity Football Defensive End: ORG
+Spring 2000: DATE
+Hardware: ORG
+Customer Service: ORG
+Information Systems: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Project
+Management, Psychology, Public Relations: ORG
+SPSS: ORG
+Statistics
+Affiliations: ORG
+Mae P. Claytor Conference Research: PERSON
+2014: DATE
+Morgan State Varsity Football Defensive End: ORG
+Spring 2013: DATE
+Spring 2000: DATE

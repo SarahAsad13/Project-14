@@ -1,0 +1,103 @@
+Generation
+Marketing Communications â—​
+Partner Programs
+
+Program & Project Management
+Sales Enablement: WORK_OF_ART
+Email: PERSON
+November 2014: DATE
+April 2012 to November 2014: DATE
+â—​
+Research: ORG
+Hubspot: GPE
+LinkedIn: GPE
+Twitter: PERSON
+Spiceworks: PERSON
+Healthcare: ORG
+Public Safety: ORG
+Utilities: ORG
+Retail, Manufacturing: ORG
+SEM: ORG
+Google Ads: PERSON
+Microsoft CRM Dynamics: ORG
+TreeHouse: ORG
+Google Analytics: ORG
+â—​
+Collaborate: FAC
+Global Managers: ORG
+Channel Marketing: ORG
+Product Marketing: ORG
+SQL: ORG
+1.5 million dollar: MONEY
+January 2011 to March 2012: DATE
+State: ORG
+Juniper OEM: ORG
+GTM: ORG
+Dell: ORG
+Facilitated: ORG
+weekly: DATE
+Juniper and Dell: ORG
+Dell's Networking Communications: ORG
+SharePoint: ORG
+Marketing Programs: PERSON
+February 2008 to December 2011: DATE
+quarterly: DATE
+Saba: GPE
+Camtasia: GPE
+monthly: DATE
+more than 5,000: CARDINAL
+1,200: CARDINAL
+5,300: CARDINAL
+six months: DATE
+IP Talk Radio: WORK_OF_ART
+Ericsson: PERSON
+65%: PERCENT
+one quarter: DATE
+Salesforce.com: ORG
+Marketo: GPE
+209%: PERCENT
+5,500: CARDINAL
+Ericsson: GPE
+March 2002 to January 2008: DATE
+Content Management Systems: ORG
+CMS: ORG
+80%: PERCENT
+Google Ad and Adwords: ORG
+35%: PERCENT
+three months: DATE
+January 2000 to January 2002: DATE
+State: ORG
+Affiliate Marketing: ORG
+Nationwide Territory: ORG
+January 1998 to January 2000: DATE
+North-West Territory: ORG
+January 1995 to January 1998: DATE
+Bachelor of Science : Marketing: ORG
+1994: DATE
+California State University Northridge: ORG
+State: GPE
+US: GPE
+Skills
+
+MS Office Suite: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Visio: PERSON
+LMS: ORG
+Centra: ORG
+Digital Marketing: ORG
+MailChimp: ORG
+TreeHouse: ORG
+PRM: ORG
+MS Dynamics: ORG
+Salesforce.com: ORG
+Hubspot: GPE
+Marketo: GPE
+Dreamweaver: ORG
+TeamSite: CARDINAL
+Citrix: GPE
+Social Media: ORG
+LinkedIn: GPE
+Twitter: PERSON

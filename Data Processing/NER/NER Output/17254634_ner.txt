@@ -1,0 +1,77 @@
+Intro: PERSON
+Pharmacy, Anatomy & Physiology: ORG
+Pharmacology & Pharmaceutical Calculations: ORG
+Pharmacy Math and Dosages: ORG
+MS: GPE
+Excel: PRODUCT
+Access: PRODUCT
+PowerPoint: ORG
+Training
+Rasmussen College: ORG
+December 2013: DATE
+Associate of Applied Science : Pharmacy City: WORK_OF_ART
+GPA: ORG
+3.58: CARDINAL
+Dean: PERSON
+4 consecutive
+quarters: DATE
+Two-year: DATE
+Technician: NORP
+GPA: ORG
+3.58: CARDINAL
+Dean: PERSON
+4 consecutive quarters: DATE
+Skills
+
+Trained: ORG
+Licensed: PERSON
+the State of Illinois
+Skill Highlights: ORG
+Hospital: FAC
+HIPAA: ORG
+Works: PERSON
+Sharp: ORG
+Energetic: LOC
+Adaptive: ORG
+Opening: WORK_OF_ART
+October 2014: DATE
+Technician 
+City: GPE
+Care Connection: ORG
+IV: GPE
+Answer: LOC
+Pharmacists: NORP
+RPh: LAW
+IV: GPE
+STAT: ORG
+August 2014 to April 2015: DATE
+STAT: ORG
+anesthesia: GPE
+Sterile: PRODUCT
+IV: GPE
+January 2014 to April 2015: DATE
+IV: GPE
+Technician 
+City: GPE
+IV: GPE
+April 2013 to January 2014: DATE
+Control Technician/Control EDK Technician/Fill Floor Technician 
+City: ORG
+State: ORG
+Control Technician- Fill: ORG
+everyday: DATE
+Control EDK Technician- Take: ORG
+July 2012: DATE
+May 2013 Certified: DATE
+Technician 
+City: GPE
+McKesson: PERSON
+HIPAA: ORG
+April 2012 to October 2012: DATE
+May 2008 to January 2012: DATE
+Cashier / Server 
+City: ORG
+State
+
+Cross: ORG
+Calculating: PERSON

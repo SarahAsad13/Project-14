@@ -1,0 +1,41 @@
+HRMS Database: ORG
+January 2014 to January 2016: DATE
+State: ORG
+January 2012 to January 2013: DATE
+January 2010 to January 2011: DATE
+PEO: ORG
+15: CARDINAL
+five: CARDINAL
+FSA: ORG
+U.S.: GPE
+Canadian: NORP
+Oversaw: GPE
+enrollment info sessions: ORG
+Processed: GPE
+100%: PERCENT
+U.S.: GPE
+Canadian: NORP
+monthly: DATE
+Established: ORG
+15%: PERCENT
+PEO: ORG
+Canadian: NORP
+22%: PERCENT
+annually: DATE
+2013: CARDINAL
+January 2007 to January 2010: DATE
+Oversaw: GPE
+each month: DATE
+OSHA: ORG
+Completed: ORG
+LEED: ORG
+Energy Star: ORG
+two: CARDINAL
+360: CARDINAL
+M.B.A : Human Resource Management: ORG
+2011 University of Houston Human Resource Management: ORG
+B.B.A : Management Management
+B.B.A : Marketing: ORG
+Society of Human Resource Management New York City Society of Human Resource Management: ORG
+FSA: ORG
+RFP: ORG

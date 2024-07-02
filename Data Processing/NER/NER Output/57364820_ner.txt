@@ -1,0 +1,136 @@
+SR: ORG
+20+ years: DATE
+TSO: ORG
+ISPF: ORG
+JCL: ORG
+JES2: PERSON
+SDSF: ORG
+IMS: ORG
+Ops/MVS: ORG
+REXX: ORG
+Workload: ORG
+Automate: GPE
+SYSVIEW: ORG
+Omegamon: PERSON
+Remedy: PERSON
+CICS: GPE
+Strobe: GPE
+RMF: ORG
+SMS: ORG
+Java Scripts: PERSON
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+OneNote: ORG
+Powerpoint: PRODUCT
+SUN: ORG
+Solaris: GPE
+SNMP: ORG
+IBM: ORG
+AIX: ORG
+Tivoli: GPE
+TSM: ORG
+CA-7: ORG
+Autosys: ORG
+CA-DE: ORG
+Control-M: ORG
+Control-EM: ORG
+Zeke: PERSON
+Zebb: PERSON
+Zack: PERSON
+Jobtrac: PERSON
+Scheduler: PERSON
+Candle Monitor
+Workstation: ORG
+Robot Scheduler: PERSON
+Netview: GPE
+XPTR: ORG
+Java Scripting: PERSON
+TCP/IP
+
+Hardware: ORG
+BM Rxx &
+Zxx Processors: ORG
+SUN: ORG
+IBM: ORG
+Automated Tape Silos: PERSON
+Hitachi: ORG
+EMC: ORG
+June 2015 to November 2015: DATE
+Workload Automation: ORG
+Created: ORG
+the Application Development Team Setup: ORG
+Acted: ORG
+September 2004 to April 2015: DATE
+Professional Services: ORG
+Created: ORG
+CA Workload Automation: ORG
+Communicated: ORG
+Utilized CA Services Best Practices: WORK_OF_ART
+Data Center Team Lead: ORG
+April 2000 to September 2004: DATE
+daily: DATE
+the Office Depot: ORG
+Oversaw: GPE
+daily: DATE
+weekly: DATE
+CPU: ORG
+the Office Depot: ORG
+Data Center - Professional/Team Lead: ORG
+November 1990 to April 2000: DATE
+daily: DATE
+the years: DATE
+Coordinated: ORG
+Business Resumption: ORG
+daily: DATE
+Change Management: ORG
+Acted: ORG
+Allstate International: ORG
+1997: DATE
+Allstate: ORG
+Motorclub: PRODUCT
+Illinois Served: ORG
+SME: ORG
+DB2: GPE
+IMS: ORG
+Allstate: ORG
+the weekend of: DATE
+Performed: ORG
+the Business Resumption: ORG
+Bachelor of Science : Computer Information Systems Wingate University - City: ORG
+State Computer Information Systems: ORG
+Skills: ORG
+IBM: ORG
+AIX: ORG
+Application Development: ORG
+Automate: GPE
+CA-7: ORG
+Change Management: ORG
+CICS: ORG
+CA: ORG
+Hardware: ORG
+CPU: ORG
+DASD: ORG
+IBM: ORG
+MVS: ORG
+IMS: ORG
+ISPF: ORG
+Java Scripts: PERSON
+Java Scripting: PERSON
+JCL: ORG
+JES2: PERSON
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook, Powerpoint: ORG
+Word: PERSON
+Netview: GPE
+Omegamon: PERSON
+REXX: ORG
+IBM: ORG
+Scrum: PRODUCT
+SMS: ORG
+Solaris: GPE
+SUN: ORG
+TCP/IP: ORG
+Tivoli: GPE
+TSM: ORG
+TSO: ORG

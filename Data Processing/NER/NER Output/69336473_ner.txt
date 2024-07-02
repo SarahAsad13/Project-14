@@ -1,0 +1,72 @@
+Core Strengths: WORK_OF_ART
+Client: PERSON
+Nutrition: ORG
+Microsoft Office: ORG
+Supervisory: NORP
+October 2010: DATE
+Current Company Name - City: ORG
+Pulaski County: GPE
+SNAP-Ed Program (Supplemental Nutrition
+Assistance Program Education: ORG
+Pulaski County: GPE
+Establish: NORP
+Understand: GPE
+Pulaski County: GPE
+Complete: PERSON
+the Pulaski County: GPE
+Submit: ORG
+monthly: DATE
+monthly: DATE
+Arkansas Information Management System: ORG
+Civil Rights Reporting
+Complete: WORK_OF_ART
+SNAP-Ed: ORG
+LR: ORG
+NLR: ORG
+Pulaski County: GPE
+April 2009 to October 2010: DATE
+a Nutrition Specialist: ORG
+Conducted: ORG
+Conducted: ORG
+Conducted AIMS: ORG
+Assisted: ORG
+Nutrition, Health and Aging Specialist: ORG
+Developed: PRODUCT
+Groups: PERSON
+Mississippi County: GPE
+July 2007 to July 2008: DATE
+Eating and Moving for Life" Dietary Intervention Program: WORK_OF_ART
+ages 18: DATE
+Assisted EMFL: FAC
+Submitted: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Completed monthly AIMS and: ORG
+Civil Rights Reporting: ORG
+Present University of Central Arkansas - City: ORG
+May 2011: DATE
+AR University: ORG
+Arkansas: GPE
+Medical Sciences
+
+Health Behavior Health Education Coursework: ORG
+May 2011: DATE
+the Delta Area Health Education Center: ORG
+Phillips County: GPE
+Arkansas: GPE
+Delta AHEC: ORG
+Capstone Project: ORG
+the Delta AHEC: ORG
+Bachelor of Science : Community Health Education: ORG
+May 2007: DATE
+Dillard University Community Health Education During my Preceptorship: ORG
+Dietitian: NORP
+the Louisiana State Department of Public Health: ORG
+first: ORDINAL
+yearly: DATE
+â€¢PowerPoint: PRODUCT
+Office Tools
+
+: ORG
+hours: TIME

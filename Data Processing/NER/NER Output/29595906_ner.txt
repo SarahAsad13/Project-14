@@ -1,0 +1,28 @@
+Career Focus: FAC
+Nolan: ORG
+2014-2015: DATE
+Lettered Varsity Football: ORG
+4: CARDINAL
+Lettered Varsity: ORG
+3: CARDINAL
+Lettered Varsity Track: ORG
+1 year: DATE
+Voted Most Athletic: WORK_OF_ART
+2015: DATE
+First Team All Region Football: ORG
+2014: DATE
+Fast Learner: PERSON
+08/2016: CARDINAL
+12/2016: CARDINAL
+05/2016
+: PRODUCT
+Laborer Company Name: ORG
+Laborer Company Name: ORG
+summer: DATE
+HVAC New River Community College: ORG
+State: GPE
+USA: GPE
+2015: DATE
+State: GPE
+USA: GPE
+Hunter Safety Course Certificate: ORG

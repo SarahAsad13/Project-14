@@ -1,0 +1,50 @@
+Electronic Technology: ORG
+1999: DATE
+Highly: PERSON
+Team: ORG
+Microsoft Office: ORG
+100 %: PERCENT
+4: CARDINAL
+daily: DATE
+100 %: PERCENT
+more than half: CARDINAL
+100 %: PERCENT
+Proudly: ORG
+Â Worked: PERSON
+Name City: GPE
+CWB: ORG
+Measure: WORK_OF_ART
+Calibrate andÂ Align: ORG
+MRT: GPE
+MRC: GPE
+Communicate: ORG
+Name City: GPE
+Performed: ORG
+Performed: ORG
+daily: DATE
+Knowledgeable: FAC
+HP: ORG
+Troubleshoot: ORG
+2002: DATE
+Associate of Science : Northern Essex - Electronic Technology Engineering: WORK_OF_ART
+System City: GPE
+State: GPE
+USA: GPE
+3.7Â: CARDINAL
+GPA: ORG
+Microsoft Office: ORG
+Graduated Deans: NORP
+State: ORG
+United States: GPE
+GPA: ORG
+GPA: ORG
+4.0: CARDINAL
+Coursework: LOC
+English: LANGUAGE
+Writing 
+Legal System: ORG
+Affiliations: ORG
+Skills: ORG
+Microsoft: ORG
+Suite: PERSON
+2013: DATE

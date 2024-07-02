@@ -1,0 +1,79 @@
+CULINARY ARTS INSTRUCTOR
+Executive Profile: ORG
+Education: ORG
+Supervisor: PERSON
+Trainer, Team Player: ORG
+Skill Highlights: PERSON
+16 years: DATE
+Inventory in System Applications and Products (SAP: WORK_OF_ART
+monthly: DATE
+5000: CARDINAL
+Maintain: PRODUCT
+SAP: GPE
+SAP System Knowledge: ORG
+Microsoft Office: ORG
+Core Accomplishments
+Staff Development:
+
+Launched: WORK_OF_ART
+Mentored: ORG
+12%: PERCENT
+up to 7 to 30: CARDINAL
+Culinary Arts Instructor: WORK_OF_ART
+January 2015: DATE
+Develops: PERSON
+Prepare: ORG
+January 2014: DATE
+Oversee: ORG
+the day to day: DATE
+Dining Services: ORG
+Maintain: PRODUCT
+night: TIME
+Intern: ORG
+April 2010: DATE
+May 2010: DATE
+State: ORG
+7 weeks: DATE
+Developed: PRODUCT
+Intern: ORG
+February 2010 to March 2010: DATE
+State: ORG
+7 weeks: DATE
+Service Learning Project: PERSON
+7th: ORDINAL
+Haiti Developed: ORG
+Mastered: ORG
+October 2006 to January 2013: DATE
+"Challenge Day: EVENT
+January 2006 to January 2013: DATE
+Mastered: ORG
+sorbet: PERSON
+Plated
+
+Prepared: FAC
+Mastered: ORG
+Plated: FAC
+Created: ORG
+6: CARDINAL
+Banquet Chef: PRODUCT
+January 2005 to January 2006: DATE
+Assisted: ORG
+Serve: PERSON
+January 2002 to January 2004: DATE
+25% to 50%: PERCENT
+8-10: CARDINAL
+Monitored: ORG
+Master of Science : Family and Consumer Science: WORK_OF_ART
+2012: DATE
+Queens College CUNY: ORG
+2007: DATE
+Le Cordon: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Bachelor of Science : Marketing/Management: ORG
+1995: DATE
+Southampton College of Long Island University: ORG
+Inventory: GPE
+Microsoft Office: ORG
+SAP: ORG

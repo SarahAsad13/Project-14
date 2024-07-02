@@ -1,0 +1,164 @@
+PR & SOCIAL: ORG
+7 years: DATE
+Media Relations
+Marketing Collateral Development
+Market Launches
+Strategic Planning & Execution: ORG
+Internal Communications
+Acceleration of Social Media Footprint: ORG
+Social Media Strategy & Execution: ORG
+Budgetary Planning
+Client Relationship Management
+Strategic Partnerships/Alliances
+Community Outreach
+Crisis Management
+Event Planning & Fashion Show Production
+Data Analysis
+
+Professional Experience
+: ORG
+PR & Social Media 06/2015: ORG
+the PR & Social Media Strategy: ORG
+Teen Vogue's: PERSON
+Back To School Program: ORG
+5 Seconds: TIME
+BearPaw: ORG
+the Geoffrey Tron Screen: ORG
+Times Square: FAC
+Secured extensive Press & Social Media: ORG
+NY Times Cover Star: ORG
+Flynn
+McGarry: PERSON
+the PR & Social Media Campaigns for Alloy Apparel: ORG
+Tall Women's Clothing: ORG
+6 months: DATE
+User Generated Content: ORG
+5: CARDINAL
+E-Commerce and Marketing: ORG
+3: CARDINAL
+1: CARDINAL
+UGC: ORG
+Nurtured &: ORG
+Fashion Stylists: ORG
+Name City: GPE
+Snob Essentials: ORG
+Charlotte Ronson: PERSON
+4: CARDINAL
+US: GPE
+South Korea: GPE
+CFDA: ORG
+Faberge: ORG
+Big Egg Hunt: FAC
+Christie's: ORG
+Studio in A School, Covet Fashion: ORG
+Celebrity Exotics, Lucky Shops: ORG
+Seasonally: DATE
+Seventh: ORDINAL
+HL Group: ORG
+Autumn Communications: ORG
+Paul Wilmot Communications: ORG
+West Coast: LOC
+Initiated: PERSON
+Brand Revival: ORG
+Isabella Fiore: ORG
+Foley+Corinna: PRODUCT
+Snob Essentials: ORG
+Charlotte Ronson: PERSON
+L.A.M.B.: GPE
+NYFW: ORG
+Account Executive 07/2011 to 02/2012 Company Name City: ORG
+8: CARDINAL
+Contemporary Clothing: ORG
+Handbags: ORG
+Denim: GPE
+21: CARDINAL
+2-month: DATE
+Camille Zarsky - Charity Water: PERSON
+3: CARDINAL
+Shine Media's: PERSON
+Paris: GPE
+PR & Marketing Coordinator: ORG
+Name City: GPE
+12: CARDINAL
+New York Fashion Week: ORG
+September 2009: DATE
+07/2011: CARDINAL
+Name City: GPE
+Beyonce: PERSON
+Rihanna: PERSON
+Taylor Swift: PERSON
+Vanessa Hudgens: PERSON
+Kelly
+Clarkson: PERSON
+Scarlett Johansson: PERSON
+Paris Hilton: PERSON
+CFDA: ORG
+annual: DATE
+Communicated: ORG
+daily: DATE
+national & international publications: ORG
+Week: DATE
+US: GPE
+the Inaugural Event of the Burj Khalifa Tower: ORG
+Dubai: GPE
+10/2008: CARDINAL
+Name City: GPE
+eight: CARDINAL
+New York Fashion Week: ORG
+Mara Hoffman: PERSON
+Alexandre
+Herchcovitch: PERSON
+Buckler: PERSON
+Sabyasatchi: GPE
+Yigal Azrouel: PERSON
+Araks: GPE
+Jeremy Scott: PERSON
+House: ORG
+Holland: GPE
+Fashion Week
+
+Created: EVENT
+daily: DATE
+monthly: DATE
+Trade: ORG
+Media Contact Lists: ORG
+Public Relations & Global Communications: ORG
+11/2007 to 05/2008: CARDINAL
+Vera Wang's: ORG
+Greece: GPE
+Vera Wang's: ORG
+NY: ORG
+February 2008: DATE
+monthly: DATE
+Marketing Intern: PERSON
+Name City: GPE
+Barneys, Selfridges: ORG
+Harvey Nichols: PERSON
+Mandarin Oriental: NORP
+Master of Science : Marketing 9/2006 UNIVERSITY OF BATH City: WORK_OF_ART
+United Kingdom
+Bachelor of Science : International Economic & Political Studies: GPE
+UNIVERSITY OF MACEDONIA City: ORG
+Greece: GPE
+Model of United Nations: ORG
+MUN: ORG
+UN: ORG
+2014: DATE
+- Supreme Court of The Hague: ORG
+2013: DATE
+Greek: NORP
+English: GPE
+Cambridge: GPE
+TOEFL: ORG
+French - Fluent: NORP
+Spanish: NORP
+Japanese -Beginner: PERSON
+1 year: DATE
+Technical Skills: ORG
+MAC OS: ORG
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook, Photoshop,Cision: ORG
+Social Annex: PERSON

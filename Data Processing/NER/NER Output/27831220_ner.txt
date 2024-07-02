@@ -1,0 +1,35 @@
+Institutional: ORG
+Strong: PERSON
+Extensive: PRODUCT
+Contemporary: ORG
+04/2016: PRODUCT
+Current
+Head Chef Company Name: PERSON
+State Identify: ORG
+daily: DATE
+Executive Chef/Director Company Name: ORG
+State: ORG
+110: CARDINAL
+up to 275: CARDINAL
+325: CARDINAL
+Frequently: ORG
+35: CARDINAL
+60: CARDINAL
+a year: DATE
+03/2004: CARDINAL
+Sous Chef Company Name: ORG
+State: ORG
+120: CARDINAL
+02/2003 to 12/2003: CARDINAL
+daily: DATE
+02/2002: DATE
+500: CARDINAL
+daily: DATE
+March: DATE
+2002: DATE
+Associate of Arts: ORG
+Culinary Florida Culinary Institute: ORG
+State Culinary Arts: ORG
+Culinary Arts Certificate: ORG
+Skills
+Arts: ORG

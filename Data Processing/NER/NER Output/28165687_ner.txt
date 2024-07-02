@@ -1,0 +1,101 @@
+4: CARDINAL
+Energetic: PRODUCT
+4: CARDINAL
+Knowledgeable: PRODUCT
+4: CARDINAL
+Teamwork: ORG
+Innovative: NORP
+Outreach: PERSON
+4
+years: DATE
+only three months: DATE
+Gallatin: ORG
+TN 2013: DATE
+SERP: ORG
+Allied Health: ORG
+Tuskegee: GPE
+2006: DATE
+Name City: GPE
+daily: DATE
+4: CARDINAL
+Analyzed: ORG
+Agriculture: ORG
+4: CARDINAL
+4H: CARDINAL
+Master Beef: WORK_OF_ART
+first: ORDINAL
+Ag: ORG
+Understand: GPE
+4-H / Agriculture: ORG
+Learn: PRODUCT
+Name City: GPE
+State Research: ORG
+herd health management of research animals: ORG
+Development: ORG
+Nutrition and Health
+Collect: ORG
+Assist: NORP
+Name City: GPE
+4: CARDINAL
+4H: CARDINAL
+4: CARDINAL
+the Sumner County Fair: FAC
+4H: CARDINAL
+Camp
+Created: FAC
+monthly: DATE
+Developed: PRODUCT
+25: CARDINAL
+4: CARDINAL
+Assisted: ORG
+4: CARDINAL
+4: CARDINAL
+Name City: GPE
+State: ORG
+Sterilize: ORG
+Training
+Master of Science : Agriculture Education and: WORK_OF_ART
+2014: DATE
+Tennessee State University: ORG
+City: GPE
+2008: DATE
+Tennessee State University: ORG
+City: GPE
+Skills
+
+Time Management
+
+Classroom: Discipline, Instruction, Management: ORG
+Lesson Planning
+
+Research: ORG
+Program Development
+
+Community Involvement
+
+After School Tutor: ORG
+Wright Middle School: ORG
+2007: DATE
+School Tutor / Mentor: ORG
+Lee Chapel A.M.E. Church: PERSON
+2006: DATE
+2005: DATE
+Volunteer: PRODUCT
+Habitat for Humanity: ORG
+2005: DATE
+Affiliations: ORG
+Minority of Agriculture Natural Resources: ORG
+2008: CARDINAL
+Tennessee: GPE
+Louis Stokes Alliance For Minority Participation: ORG
+2008: DATE
+Block: ORG
+Bridle Club: ORG
+2009: DATE
+Pre - Vet / Animal Science Club: ORG
+2011: CARDINAL
+4: CARDINAL
+2013: CARDINAL
+GSAA: ORG
+Graduate Students of Agriculture Association: ORG
+2014: CARDINAL

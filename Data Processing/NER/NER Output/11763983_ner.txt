@@ -1,0 +1,74 @@
+Highlights
+Word: WORK_OF_ART
+Excel: PRODUCT
+PowerPoint: ORG
+Darwin: PERSON
+Act: PERSON
+Attendance Advisor: PERSON
+ERP/AS400: ORG
+HRIS: ORG
+ADP Payroll: ORG
+Paycor: PERSON
+Outlook: PERSON
+Kronos: PERSON
+IFAS: ORG
+PeopleSoft: ORG
+Epicor, Winpak: ORG
+E2: PERSON
+Employee Internship/Co-Op Program: ORG
+Generalist Sep: PERSON
+2014: DATE
+first: ORDINAL
+State: ORG
+Supervisors and Executive Management: ORG
+ACA: ORG
+Facilitate: ORG
+Recruit: ORG
+weekly: DATE
+monthly: DATE
+2014: DATE
+weekly: DATE
+2014: DATE
+Chrysler: ORG
+U.S.: GPE
+Canada: GPE
+PeopleSoft: ORG
+SOX: ORG
+Generalist Nov: PERSON
+2013 to Feb 2014: DATE
+Update: ORG
+Schedule: PERSON
+Recruit: ORG
+Jul 2012: PERSON
+Sep 2013: DATE
+401k: PRODUCT
+Update: ORG
+weekly: DATE
+Recruit: ORG
+Familiar: PERSON
+Jan 2002: DATE
+2012: DATE
+Investigate: ORG
+Oversee: ORG
+Assist: NORP
+MBA: WORK_OF_ART
+Walsh College - City: ORG
+2014: DATE
+Judo Development Association Board: ORG
+2014: DATE
+2006: DATE
+1995: DATE
+1998-1999: DATE
+United States: EVENT
+ACA: ORG
+ADP Payroll: ORG
+AS400: PRODUCT
+ERP: ORG
+HRIS: PERSON
+Kronos: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+PeopleSoft: ORG
+SOX: ORG

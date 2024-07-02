@@ -1,0 +1,43 @@
+Professional Overview: ORG
+Social Science: ORG
+Interpersonal: ORG
+11/17/15: CARDINAL
+MBA: WORK_OF_ART
+Business 2006 University of Nevada: ORG
+City: GPE
+State Business
+Bachelor of Science , Education Social: ORG
+Science Emporia State University: ORG
+State Education Social Science: ORG
+Guest: PERSON
+Jan 2015: DATE
+Jan 2005: DATE
+Jan 2014: DATE
+Starbucks Coffee: ORG
+MGM International: ORG
+Caesars Entertainment: ORG
+Casinos: ORG
+Intercontinental Hotels: ORG
+Hilton Hotels: ORG
+Starbucks Coffee: ORG
+Las Vegas: GPE
+zero: CARDINAL
+105: MONEY
+annual: DATE
+14: CARDINAL
+Feb 2000 to Jan 2005: DATE
+California: GPE
+Nevada: GPE
+Arizona: GPE
+Starbucks Coffee Company: ORG
+Accomplishments Leveraged: ORG
+Expand: ORG
+$105 million: MONEY
+annual: DATE
+Las Vegas: GPE
+1 to 51: CARDINAL
+Starbucks Coffee Company: ORG
+Memberships/Scholarly Societies: ORG
+Skills: ORG
+Microsoft Office: ORG
+Outlook: PERSON

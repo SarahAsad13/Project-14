@@ -1,0 +1,48 @@
+up to: MONEY
+50 pounds: QUANTITY
+Stock Management: ORG
+8 years: DATE
+Marine Corps: ORG
+KFC: ORG
+8 years: DATE
+Stockroom: PRODUCT
+Adaptive: ORG
+Loss: PERSON
+Problem: PRODUCT
+Process: PRODUCT
+RFI Scanners
+Administrative: ORG
+Team: ORG
+Organization
+Inventory: ORG
+Supervision
+Team: ORG
+05/2019
+Aviation Supply Specialist Company Name: WORK_OF_ART
+first: ORDINAL
+Examined: NORP
+Coordinated: ORG
+Readied: PERSON
+over 50 pounds: QUANTITY
+Examined: NORP
+Replenished: PERSON
+Monitored: ORG
+Maintained: GPE
+Customer Care: ORG
+minutes: TIME
+Created: ORG
+FAA: ORG
+12/2010: CARDINAL
+Facilitated: ORG
+12/2010: CARDINAL
+Created: ORG
+every hour: TIME
+Training: PERSON
+Associate of Arts : Mathematics Ad Science Emphasis Orange County Community College: WORK_OF_ART
+State: ORG
+12/2020: CARDINAL
+Social Work Broward College: ORG
+ï¼​ City: GPE
+State: ORG
+06/2004: CARDINAL
+State: ORG

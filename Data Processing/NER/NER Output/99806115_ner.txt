@@ -1,0 +1,38 @@
+Rachel Guardado: PERSON
+Dedicated Customer Service Specialist: ORG
+Skills
+
+Credit: ORG
+Scanner: GPE
+Customer: ORG
+Weighing and Measuring
+
+Tagging: WORK_OF_ART
+Microsoft Office: ORG
+Front of House Organization
+Event Planning
+Reservations
+Customer Service
+Check: ORG
+Warehouse Picker 
+City: ORG
+State Company Name: ORG
+May 2021: DATE
+State Company Name / Feb 2021: ORG
+Packed: ORG
+Monitored: ORG
+Packed: ORG
+daily: DATE
+Utilized: ORG
+Cashier 
+City: PERSON
+State Company Name: ORG
+Maintained: GPE
+hours: TIME
+Maintained: GPE
+Scanned: PRODUCT
+State Company Name / Jul 2020 to: ORG
+2020: DATE
+daily: DATE
+spanish: LANGUAGE
+english: LANGUAGE

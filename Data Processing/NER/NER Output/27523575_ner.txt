@@ -1,0 +1,79 @@
+6 years: DATE
+an Energetic Recruiter: PRODUCT
+Highlights
+
+Trend: WORK_OF_ART
+Detail: PERSON
+Apparel: ORG
+Superb: NORP
+Personnel: ORG
+Associate Jan 2015: DATE
+Recruit: ORG
+at least 10: CARDINAL
+Answer: ORG
+Identify: ORG
+Feb 2014: DATE
+Maintained: GPE
+Influence: ORG
+Cashier: ORG
+2010 to Jan 2014: DATE
+Maintained: GPE
+2012: DATE
+Maintained: GPE
+1st: DATE
+Grade Sunday School: EVENT
+Oct 2009: DATE
+May 2010: DATE
+Judaism: ORG
+Established: ORG
+18: CARDINAL
+Bachelor of Arts: ORG
+2015: DATE
+Eugene Lang: PERSON
+The New School for Liberal Arts ï¼​ City: ORG
+GPA: ORG
+3.87: CARDINAL
+2011 - 2015: DATE
+3.5: CARDINAL
+GPA: ORG
+2011 - 2015: DATE
+Lang College Scholarship: ORG
+2011 - 2015: DATE
+3.87: CARDINAL
+GPA: ORG
+Dean: PERSON
+2011 - 2015: DATE
+3.5: CARDINAL
+GPA: ORG
+Dean's Scholarship: ORG
+2011 - 2015: DATE
+Lang College Scholarship: ORG
+2011 - 2015: DATE
+University of Massachusetts Amherst: ORG
+Dean: PERSON
+4.0: CARDINAL
+GPA: ORG
+Dean: PERSON
+UMass: ORG
+Amherst Hillel: LOC
+2009 - May 2010: DATE
+New School Jewish Student Union: ORG
+City Seniors Social Club: ORG
+YMCA: LOC
+2012 - Mar 2012: DATE
+Notable Achievements
+
+Old Navy Credit Card Enrollments: WORK_OF_ART
+2013: DATE
+Old Navy Credit Card: ORG
+Recognition: NORP
+Schnucks Supermarket - Kaldi's: PERSON
+Coffee In-Store Location: ORG
+2009: DATE
+Skills
+
+Administrative Management, Problem Solving: ORG
+Human Resources: ORG
+Time Management: ORG
+Customer Service: ORG
+Critical Thinking: ORG

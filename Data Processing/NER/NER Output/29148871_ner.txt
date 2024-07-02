@@ -1,0 +1,93 @@
+Licensed English: PERSON
+K-12 School Administrator: ORG
+Skills
+
+Student records: ORG
+Classroom: ORG
+Group: ORG
+Lesson Planning
+Analytical: ORG
+Flexible & Adaptable
+Supervision
+Interpersonal Communication
+
+Work History: ORG
+Current High School English: ORG
+Language Arts: ORG
+State: ORG
+Adapt: FAC
+Prepare: ORG
+English: NORP
+School Culture Coordinator Company Name: ORG
+Oversaw: GPE
+Conducted: ORG
+Facilitated: ORG
+the Social-Emotional Learning Subcommittee for PPSD: ORG
+Middle School Deans of Students: ORG
+Restorative: NORP
+Circle Facilitator: PERSON
+Gilbert Stuart Middle School: ORG
+Integrated: NORP
+Collaborated: ORG
+Researched: ORG
+GEAR: ORG
+GEAR: ORG
+Prepared: PERSON
+monthly: DATE
+quarterly: DATE
+Coordinated: ORG
+weekly: DATE
+Office hours: TIME
+Assigned: ORG
+weekly: DATE
+weekly: DATE
+weekly: DATE
+the School Climate Team: ORG
+504: CARDINAL
+IEP: ORG
+Maintained: GPE
+08/2011: CARDINAL
+4: CARDINAL
+a month: DATE
+Hosted: ORG
+504: CARDINAL
+IEP: ORG
+weekly: DATE
+Conducted: ORG
+Education Administration Providence College: ORG
+City: GPE
+School-Community Relations
+
+Â· Supervision of Instruction
+
+Â·: ORG
+The Administration of Leadership: ORG
+the K-12 Schools
+
+Â: PRODUCT
+Data Analysis, Technology: ORG
+Teacher Certification Program: ORG
+TCP: ORG
+Teacher Prep Program Providence College: ORG
+City: GPE
+State: ORG
+Bachelor of Arts: ORG
+Political Science University Of: ORG
+Rhode Island: GPE
+City: GPE
+African American Studies: NORP
+annual: DATE
+Francis: PERSON
+Mildred Sullivan: PERSON
+the Rose A. Coccia Scholarship Fund: ORG
+Providence College Masters: ORG
+MEOA: ORG
+Oct 2014: DATE
+12001: DATE
+Maryland: GPE
+4 years 2018-2022: DATE
+Massachusetts Educational Opportunity Association: ORG
+MEOA: ORG
+2014: DATE
+1984: DATE
+MEOA: ORG

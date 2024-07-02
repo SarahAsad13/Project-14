@@ -1,0 +1,80 @@
+Professional Background: ORG
+Newborn: PRODUCT
+Exceeds: NORP
+Strong: PERSON
+Disciplined: ORG
+State: ORG
+Cubs: ORG
+Cubs: ORG
+Superior: LOC
+IV: GPE
+HIPAA: ORG
+Maintained: GPE
+06/2008: ORG
+Device-: LOC
+Vaccine: PERSON
+Chart: ORG
+Maintained: GPE
+annual: DATE
+Maintained: ORG
+monthly: DATE
+first: ORDINAL
+second: ORDINAL
+weekend: DATE
+Coordinated: PRODUCT
+I.V.: GPE
+Assist: NORP
+Conducted: ORG
+three: CARDINAL
+the summer: DATE
+Coordinated: ORG
+the end of the: DATE
+evening: TIME
+University of Illinois-
+Chicago College of Nursing Chicago: ORG
+IL Women's Health Nurse Practitioner/Midwifery: ORG
+Demonstrating: PERSON
+daily: DATE
+Monitored: ORG
+10: CARDINAL
+State: ORG
+first: ORDINAL
+the Health Center: ORG
+Chicago College of Nursing: ORG
+State: GPE
+US: GPE
+Illinois State University- Mennonite College: ORG
+Mennonite College: ORG
+Nursing Bloomington: PERSON
+State: GPE
+US: GPE
+GPA: ORG
+3.76: CARDINAL
+3.76: CARDINAL
+5/06: CARDINAL
+General Education University of Hawaii ï¼​ City: ORG
+GPA: ORG
+4.0: CARDINAL
+4.0: CARDINAL
+State: GPE
+US: GPE
+Chicago: GPE
+the Health Careers Club: ORG
+National Honors Society: ORG
+National Honors Society CPR: ORG
+OSHA: ORG
+8/06: CARDINAL
+Illinois State University: ORG
+GPA: ORG
+Deans: NORP
+04-07: PERCENT
+Scholars Graduated: PERSON
+Illinois State University Cum Laude Deans: ORG
+04-07: PERCENT
+Scholars Graduated: PERSON
+Illinois State University Cum Laude: ORG
+Nurse Practitioner: PERSON
+the State of Illinois: GPE
+CPR: ORG
+first: ORDINAL
+Vaccine: PERSON

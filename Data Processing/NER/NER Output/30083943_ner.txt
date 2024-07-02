@@ -1,0 +1,73 @@
+1975: DATE
+the united states: GPE
+june 1975: DATE
+1976: DATE
+EMT: ORG
+20 years: DATE
+1994: DATE
+Methodist: NORP
+1995: DATE
+2001: DATE
+Methodist: NORP
+a year: DATE
+Methodist: NORP
+august 2015: DATE
+Methodist: ORG
+21years: CARDINAL
+Bartlett: PERSON
+dec 2015 to march 2016: DATE
+march 2016 to june 2016: DATE
+cox south hospital: LOC
+springfield: GPE
+7 weeks: DATE
+Missouri: GPE
+Columbia: GPE
+sept 2016: DATE
+Skill Highlights: PERSON
+Vascular: NORP
+Advanced Cardiac Life Support: ORG
+Computerized: NORP
+Enthusiastic: ORG
+IV: GPE
+Specimen: PERSON
+ER: ORG
+Family Support
+Educated: PERSON
+OSHA Compliance: ORG
+daily: DATE
+Patient Education: ORG
+Physician Support: PERSON
+10/1981: CARDINAL
+Name City: GPE
+State: ORG
+10/1981: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+nurse\emt 07/1994: LAW
+Name City: GPE
+State: ORG
+12/2015: CARDINAL
+Name City: GPE
+Name City: GPE
+State: ORG
+the month: DATE
+2001: DATE
+southwest tennessee community college City: ORG
+State: ORG
+1980: DATE
+State: ORG
+1975: DATE
+State: ORG
+133714: DATE
+florida: GPE
+RN9407268: PRODUCT
+2017: DATE
+2017: DATE
+march 10 1956: DATE
+one: CARDINAL
+two: CARDINAL
+machine.i: ORG
+veri: PRODUCT
+OR.start: ORG

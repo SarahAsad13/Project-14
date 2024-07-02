@@ -1,0 +1,25 @@
+Skills
+Computer: ORG
+Substitute Teacher 01/2014: PERSON
+11/2014: CARDINAL
+Name City: GPE
+State
+
+Prepare: ORG
+08/2011: CARDINAL
+06/2012: CARDINAL
+Name City: GPE
+that day: DATE
+Name City: GPE
+Quality Assurance: ORG
+Name City: GPE
+July 2012: DATE
+Fortis College Online City: ORG
+State Business Management
+Associate of Applied Science : Criminal: ORG
+March 2011: DATE
+Fortis College Online City: ORG
+State Criminal Justice: ORG
+Automotive Technology June 2008: ORG
+Lincoln College of Technology City: ORG
+State Automotive Technology: ORG

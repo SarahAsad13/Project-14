@@ -1,0 +1,77 @@
+State Mandated Training: ORG
+Highlights
+
+University Events/Special Programs: ORG
+Prepare Agendas: PERSON
+HRIS Technologies TESOL: ORG
+University: ORG
+Employee Relations
+Web Design: ORG
+RedDot: ORG
+HR Program/Project Management: ORG
+Microsoft Office Suites Orientation & On-Boarding
+Training & Development
+Performance Management
+Organizational Development: ORG
+Runs/Walks OF NOTE Professional Development:: ORG
+Houston: GPE
+Name City: GPE
+State: ORG
+University: ORG
+Human
+Resources Professional Services: ORG
+Key Results: LOC
+University: ORG
+Implementation of TESOL: ORG
+English: NORP
+Speakers of Other Languages: ORG
+Coordinate Service Awards: FAC
+New Employee Orientation: ORG
+New Employee Orientation: ORG
+Human Resources & Newsletters: ORG
+RedDot: PRODUCT
+Name City: GPE
+PeopleSoft Time: ORG
+Labor: ORG
+Key Results: LOC
+250: CARDINAL
+one: CARDINAL
+PeopleSoft: ORG
+Translated: ORG
+Spanish: LANGUAGE
+Assisted: ORG
+Name City: GPE
+Key Results: LOC
+Translated: ORG
+Spanish: LANGUAGE
+Bachelor of Science (BS: ORG
+1999: DATE
+WOMAN'S UNIVERSITY City: ORG
+State Sociology
+Affiliations
+: ORG
+Society for Human Resource Management: ORG
+North Texas Society for Human Resource Management: ORG
+Texas: GPE
+Human Resources Association: ORG
+TESOL Training: ORG
+Denton High School Girls: ORG
+Softball Association: ORG
+ADA: ORG
+SKILLS: ORG
+Employee Relations: ORG
+English: LANGUAGE
+HRIS: PERSON
+Human Resources: ORG
+InDesign, Leadership Development: ORG
+Mediation: ORG
+Microsoft Office Suites: ORG
+Sharepoint: ORG
+Newsletters: PERSON
+Organizational Development: ORG
+PeopleSoft: ORG
+Performance Management: ORG
+Policies: GPE
+Project Management: ORG
+Quark: GPE
+Spanish: NORP

@@ -1,0 +1,151 @@
+Data Entry
+Business: ORG
+Business/Financial: ORG
+MBA: ORG
+Access, Excel: ORG
+Crystal Reports: PRODUCT
+Research & Analysis
+Leadership & Supervision
+Program/Policy Development
+Data Entry
+Process Improvement
+Financial Cost Modeling
+Report Writing
+Clinical Forecasting
+Trending & Troubleshooting
+Software & Tools:: ORG
+MS Office 365 (Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+SharePoint: ORG
+Visio: PERSON
+Crystal Reports: PRODUCT
+Lotus Notes: PERSON
+Microsoft Expressions: ORG
+IMA: ORG
+QuickBooks: ORG
+SPSS: ORG
+PSPP: ORG
+Microsoft
+Dynamics: ORG
+Advanced Access: ORG
+Excel: PRODUCT
+Specialist Jan 2016: DATE
+300,000 dollars: MONEY
+each month: DATE
+Reviews: ORG
+15: CARDINAL
+99 percent: PERCENT
+Analyses Excel: ORG
+thousands: CARDINAL
+monthly: DATE
+monthly: DATE
+Salesforce: GPE
+20: CARDINAL
+Salesforce: GPE
+Inputs: GPE
+20 to 200: CARDINAL
+Jan 2015 to Jan 2016: DATE
+20%: PERCENT
+year over year: DATE
+MA: GPE
+25%: PERCENT
+GPA: ORG
+3.0: CARDINAL
+100: CARDINAL
+100: CARDINAL
+125: CARDINAL
+a year: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Stars Database: WORK_OF_ART
+10%: PERCENT
+Specialist Jan 2014 to Jan 2016: DATE
+50: CARDINAL
+two years: DATE
+110: CARDINAL
+Networked: PRODUCT
+15: CARDINAL
+Coordinated: ORG
+50: CARDINAL
+Grant Writer: ORG
+Indiana Chapter: ORG
+Jan 2009: DATE
+Jan 2012: DATE
+first: ORDINAL
+Coordinated 10: PRODUCT
+5: CARDINAL
+15: CARDINAL
+Word: PERSON
+year: DATE
+the next year: DATE
+Excel: PRODUCT
+4: CARDINAL
+Networked: PRODUCT
+10: CARDINAL
+daily: DATE
+Pharmacy Tech &: ORG
+Jan 2005: DATE
+Jan 2008: DATE
+Processed: GPE
+25: CARDINAL
+PHI: ORG
+30: CARDINAL
+15%: PERCENT
+Processed: GPE
+20-25: CARDINAL
+100: CARDINAL
+99.8%: PERCENT
+Down: PERSON
+500: CARDINAL
+Researched 40: PRODUCT
+Training: PERSON
+Business Administration 2012: ORG
+City: GPE
+State Business Administration
+Financial Accounting *Operations Management *Quality Management *Quantitative Management
+MA: ORG
+2011: CARDINAL
+City: GPE
+State Public Policy Policy Implementation *Qualitative Methods: ORG
+Quantitative Methods *Business Compliance Relevant: WORK_OF_ART
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Word: PERSON
+Project, Visio, Salesforce: ORG
+Microsoft: ORG
+Skills: ORG
+Analyst: PERSON
+Crystal Reports: LOC
+Data Entry: ORG
+Database: GPE
+Financial, Financial Accounting: ORG
+Forecasting: ORG
+Lotus Notes: PERSON
+MA: PERSON
+MBA: WORK_OF_ART
+Access: ORG
+Microsoft Dynamics: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+Modeling: GPE
+Operations Management: ORG
+Policy Development: ORG
+Processes: PERSON
+Process Improvement: PERSON
+Quality Management: ORG
+QuickBooks: ORG
+Report Writing: PERSON
+Research: ORG
+SPSS: ORG
+Supervision: ORG
+Troubleshooting: GPE

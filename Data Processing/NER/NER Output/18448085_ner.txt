@@ -1,0 +1,65 @@
+Industrial and Systems Engineering: ORG
+Core Qualifications
+Data Science Tools: ORG
+Numpy: NORP
+Pandas: PERSON
+Matplotlib: PERSON
+SPSS: ORG
+Minitab: PERSON
+MATLAB: ORG
+Apache Spark: PERSON
+SQL: GPE
+MS: ORG
+Excel: PRODUCT
+MS Visio: GPE
+Tableau: GPE
+Oracle Database: GPE
+Microsoft Access Key Competencies: ORG
+Data Extraction: ORG
+Data Wrangling: ORG
+Data Visualization, Regression Analysis: ORG
+Time Series Analysis: ORG
+Monte Carlo: PERSON
+PROJECTS Classification of Customers for Credit Card Company: ORG
+Jan 2016: DATE
+May 2016: DATE
+Simulation Analysis of Adding: ORG
+Dec 2015: DATE
+MATLAB: ORG
+ExpertFit: ORG
+Arena: ORG
+6.2 minutes to 1.8 minutes: TIME
+Statistical Analysis of Defects: ORG
+Jan 2015: DATE
+May 2015: DATE
+DMAIC: ORG
+Measure: WORK_OF_ART
+Improve: ORG
+Control: ORG
+Minitab: PERSON
+06/2013: CARDINAL
+300%: PERCENT
+Random Forest: ORG
+State University of New York Industrial and Systems Engineering: ORG
+3.51/4.00: CARDINAL
+May 2014: DATE
+Mechanical Engineering Osmania University Mechanical Engineering: ORG
+3.33/4.00: CARDINAL
+Skills
+Apache: ORG
+Credit: ORG
+Data Analysis: ORG
+Data Visualization: ORG
+MATLAB: ORG
+Microsoft Access: ORG
+MS Excel: ORG
+Minitab: GPE
+MySQL, Optimization: ORG
+Oracle Database: GPE
+SAS: ORG
+SPSS: ORG
+SQL: ORG
+Statistical
+Analysis: ORG
+Tableau: GPE
+Visio: PERSON

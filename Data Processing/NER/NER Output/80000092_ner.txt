@@ -1,0 +1,15 @@
+SERVER: ORG
+Skill Highlights: PERSON
+Name City: GPE
+State: ORG
+Displayed: PERSON
+Communicated: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+2012: DATE
+Jackson Liberty High School: ORG
+Associate of Science : Psychology Temple University , City , State Psychology
+
+: WORK_OF_ART

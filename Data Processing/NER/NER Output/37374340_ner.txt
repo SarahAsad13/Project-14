@@ -1,0 +1,39 @@
+Rachael Lobdell: PERSON
+Outreach Advocate: PERSON
+13 + years: DATE
+Creativeand: ORG
+Data: ORG
+Intake: ORG
+Pool Trust for Long Term Care: ORG
+Excellent Communication: PRODUCT
+Catering and Party: ORG
+20 years: DATE
+Client: GPE
+Reliable: WORK_OF_ART
+Team: ORG
+Program: ORG
+Data: ORG
+Name City: GPE
+State: ORG
+Outreach Specialist: PERSON
+Explained: PERSON
+daily: DATE
+Processed: GPE
+Pool Trust: ORG
+daily: DATE
+Name City: GPE
+State Administrator 08/2008: ORG
+Licensed Home care Agency: ORG
+Physicians: NORP
+State: ORG
+Quarterly: DATE
+QA: ORG
+Facilitated: ORG
+Grew: PERSON
+Medicaid: ORG
+Medicaid Exemption: ORG
+Identify: PRODUCT
+daily: DATE
+Maintained: GPE
+Northville High: FAC
+Business Administration FMCC: ORG

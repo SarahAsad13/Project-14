@@ -1,0 +1,44 @@
+Resourceful Facilities Tech: ORG
+Talented Facilities Tech: ORG
+more than 3 years: DATE
+Detail: PERSON
+Suspension: PERSON
+Brake: PERSON
+Decisive q Critical: ORG
+Accomplishments Machine Troubleshooting q Performed: WORK_OF_ART
+week/month/year: DATE
+Diagnosis q Used: WORK_OF_ART
+Documentation q Reported: LAW
+20: CARDINAL
+Inventory Control q Restocked: ORG
+Skills
+Work History
+Engineering Aide: ORG
+12/2006: DATE
+04/2009: ORDINAL
+daily: DATE
+12/2006: CARDINAL
+Specialized: ORG
+Concrete Finisher: PERSON
+05/1997: DATE
+07/2004: CARDINAL
+daily: DATE
+daily: DATE
+daily: DATE
+DOT: ORG
+1 1986 
+: DATE
+Maury High School - State: ORG
+Production Engineering: ORG
+Mechanical Engineering: ORG
+Tool Manufacturing Technology and Process Technology: ORG
+Lamar Institute of Technology - City: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+4.0: CARDINAL
+4.0: CARDINAL
+Industrial Engineering: ORG
+Production Engineering: ORG
+Mechanical Engineering: ORG
+Process Technology: ORG

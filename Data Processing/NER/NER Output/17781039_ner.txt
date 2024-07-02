@@ -1,0 +1,44 @@
+Microsoft: ORG
+Microsoft: ORG
+Microsoft: ORG
+Core Qualifications
+
+Excellent: ORG
+Customer: ORG
+Strong: PERSON
+Articulate: ORG
+Education: ORG
+Professional Placement: ORG
+Business Development
+Marketing: ORG
+Weekly Payroll: WORK_OF_ART
+02/2016: ORG
+daily: DATE
+State: ORG
+Palace Pet Grooming - 40359: WORK_OF_ART
+4: MONEY
+93644: DATE
+Palace Pet Grooming: ORG
+Husband: PERSON
+this day: DATE
+01/2003: ORG
+10/2009: CARDINAL
+Observe: LOC
+Standard Operation Procedures: ORG
+Department Policies: ORG
+daily: DATE
+Compile: PRODUCT
+1991: DATE
+Yosemite High - City: PERSON
+Universal Technical Institute - City: ORG
+Professional Affiliations: ORG
+1993-2007: DATE
+10 years: DATE
+1994-2004: DATE
+ten years: DATE
+PCF: ORG
+Madera County: GPE
+1 month: DATE
+every 4 to 6 weeks: DATE
+up to 1 to 2 years: CARDINAL
+the year: DATE

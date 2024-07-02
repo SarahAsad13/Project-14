@@ -1,0 +1,152 @@
+Dedicated
+
+Affirmative Action: ORG
+Affirmative Action: ORG
+Innovative: NORP
+OSHA: ORG
+Affirmative Action: ORG
+Personnel: ORG
+Accomplishments
+Human Resources
+
+Reduced: WORK_OF_ART
+10%: PERCENT
+April 2015: DATE
+Second: ORDINAL
+42: CARDINAL
+United States Army Air Ambulance Detachment: ORG
+60mil: MONEY
+5mil: MONEY
+Defense Travel System: ORG
+Charge Card: PERSON
+Purchase Card: PERSON
+4 Department of Army Civilian: ORG
+Maintained: GPE
+24 hour: TIME
+/ 365 day: DATE
+327,000 acre: QUANTITY
+Yakima Training Center: FAC
+8: CARDINAL
+4: CARDINAL
+Blackhawks: PERSON
+four month: DATE
+5mil: MONEY
+over 150: CARDINAL
+100: CARDINAL
+1,020 flight hours: QUANTITY
+quarterly: DATE
+Mentored: ORG
+4 Department of Army Civilians: ORG
+an average 15%: PERCENT
+Aviation Resource Management: ORG
+98%: PERCENT
+Facilitated: ORG
+more than 2,000: CARDINAL
+Airmen: GPE
+Marines: NORP
+ROTC Cadets: ORG
+July 2012: DATE
+May 2015: DATE
+18: CARDINAL
+first: ORDINAL
+Soldiers: ORG
+Army: ORG
+8: CARDINAL
+4: CARDINAL
+50mil: MONEY
+YTC: ORG
+30: CARDINAL
+120: CARDINAL
+Soldiers: ORG
+a day: DATE
+3,500: MONEY
+Family Readiness Group: ORG
+25hour: CARDINAL
+1,344 flight hours: TIME
+Planned Advanced Emergency Medical Training: ORG
+A-EMT: ORG
+11: CARDINAL
+6: CARDINAL
+over 500,000: CARDINAL
+Marines: NORP
+YTC: ORG
+annually: DATE
+the Army Aviation Association of America's: ORG
+2015: DATE
+Sea/Land Rescue: ORG
+Fort Hood: FAC
+TX: ORG
+July 2010 to July 2012: DATE
+24: CARDINAL
+Operation
+Enduring Freedom: ORG
+first: ORDINAL
+Soldiers: ORG
+Army: ORG
+3: CARDINAL
+19mil: MONEY
+between two: CARDINAL
+1,750 miles: QUANTITY
+6: CARDINAL
+Blackhawks: PERSON
+37mil: MONEY
+Prepared Task Force: ORG
+over 1,000: CARDINAL
+NATO Commanders: ORG
+30: CARDINAL
+RC-North: ORG
+Chosen: GPE
+27: CARDINAL
+Base OperationsSupport Integrator: FAC
+5 miles: QUANTITY
+two months: DATE
+1mil: MONEY
+MAINTENANCE PLATOON: PERSON
+Fort Hood: FAC
+TX: ORG
+OPERATION IRAQI FREEDOM: EVENT
+IRAQ: GPE
+Aviatiaon: PERSON
+Maintenance Platoon: PERSON
+June 2009 to July 2010: DATE
+57: CARDINAL
+Aviation Unit Maintenance Company: ORG
+Operation Iraqi Freedom: EVENT
+first: ORDINAL
+10: CARDINAL
+14: CARDINAL
+CH-47F: PRODUCT
+12: CARDINAL
+Phase Maintenance Inspections: ORG
+PMI: ORG
+11: CARDINAL
+11: CARDINAL
+CH-47F Chinooks: PRODUCT
+PMI: ORG
+four days: DATE
+Department of
+Army Standards: ORG
+Balanced thousands: CARDINAL
+hours: TIME
+PMI: ORG
+the Task Force: ORG
+2,000 hours: TIME
+68: CARDINAL
+flight hours: TIME
+8: CARDINAL
+Task Force: PRODUCT
+Air Force C-5: ORG
+Task
+Force: PRODUCT
+2007: DATE
+Jacksonville State University: ORG
+Major: ORG
+Minor: ORG
+MBA : Management: WORK_OF_ART
+2017: DATE
+State: ORG
+2013: DATE
+Six-month: DATE
+Skills
+UH-60A+: ORG
+Ambulance, Army: ORG

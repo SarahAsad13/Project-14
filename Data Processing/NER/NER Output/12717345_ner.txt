@@ -1,0 +1,57 @@
+daily: DATE
+more than 20: CARDINAL
+Quick: ORG
+Strong: PERSON
+Honest: ORG
+Works: ORG
+Plate Magazine
+
+Guest Chef: ORG
+the Northern New England Home: FAC
+State: ORG
+2007: DATE
+2009: DATE
+2011: DATE
+Saint Joseph's College: FAC
+Create: ORG
+weekly: DATE
+Hires: ORG
+daily: DATE
+Chefs: ORG
+Sous Chefs: PERSON
+Ensures: LOC
+each week: DATE
+Reviews: ORG
+quarterly: DATE
+10-1200: CARDINAL
+Meets: NORP
+Line Chef Company Name: ORG
+Create Specials: ORG
+up to: CARDINAL
+300: CARDINAL
+Cook: PERSON
+Gained: NORP
+Line Cook Company Name: ORG
+Cook: PERSON
+every day: DATE
+Developed: ORG
+10/2004: CARDINAL
+Line Cook Company Name: ORG
+Cooked: PERSON
+Detail: PERSON
+2004: DATE
+Associate of Arts: WORK_OF_ART
+Culinary Arts Southern Maine Community College: ORG
+State: ORG
+Culinary Arts
+
+Skills
+
+Strong: WORK_OF_ART
+Professional Affiliations: ORG
+American Culinary Federation: ORG
+Share Our Strength Taught Cooking Matters Classes Featured: ORG
+Plate Online Magazine
+Guest Chef: ORG
+the Northern New England Home: FAC
+Farm to Institution New England: ORG

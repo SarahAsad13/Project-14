@@ -1,0 +1,91 @@
+Employer Groups: ORG
+Formalized: PERSON
+first: ORDINAL
+6 months: DATE
+Initiated: ORG
+less than 48: CARDINAL
+Steered: ORG
+multi-year: DATE
+over $500 million: MONEY
+$50 million: MONEY
+11/2000: CARDINAL
+WellPoint: ORG
+United: ORG
+Blue Shield: ORG
+CA: GPE
+HealthNet: ORG
+Kaiser
+Permanente: ORG
+Consumer Directed Health Care: ORG
+Gained: NORP
+over 100: CARDINAL
+98%: PERCENT
+Employer Groups: ORG
+Formalized: PERSON
+first: ORDINAL
+6 months: DATE
+Initiated: ORG
+less than 48: CARDINAL
+Steered: ORG
+multi-year: DATE
+over $500 million: MONEY
+$50 million: MONEY
+Consumer Directed Health Care: ORG
+Gained: NORP
+over 100: CARDINAL
+98%: PERCENT
+11/2000: CARDINAL
+WellPoint: ORG
+United: ORG
+Blue Shield: ORG
+CA: GPE
+HealthNet: ORG
+Kaiser
+Permanente: ORG
+Master of Science (MS: WORK_OF_ART
+Healthcare Administration UNIVERSITY OF CENTRAL FLORIDA - City: ORG
+Biology UNIVERSITY OF CENTRAL FLORIDA - City: ORG
+State: ORG
+Kaiser Permanente Executive Leadership Program: ORG
+State: ORG
+Kaiser Permanente Strategic Leadership Program HARVARD BUSINESS SCHOOL - City: ORG
+Healthcare: ORG
+Portfolio Management
+Program: ORG
+Vendor: ORG
+Vision
+Change Management: ORG
+CA
+Consulting
+Clients
+Customer: ORG
+98: CARDINAL
+Product Development
+Product Management
+Project: WORK_OF_ART
+Quality
+Relationship Building
+Reporting
+Sales
+Strategy
+Strategic
+Strategic Planning
+
+Skills
+
+Product Development
+Product Management
+Revenue Growth
+Healthcare User Experience Design
+Change Management
+Teaming and Relationship Building
+Strategic Portfolio Management
+Program Strategy
+Strategic Planning
+Strategic Leadership: ORG
+Change Management: ORG
+CA: ORG
+Leadership: NORP
+98: DATE
+Relationship Building: ORG
+Strategy, Strategic: PERSON

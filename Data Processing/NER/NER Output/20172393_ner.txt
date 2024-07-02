@@ -1,0 +1,124 @@
+Career Focus: LOC
+Eight years: DATE
+Microsoft: ORG
+University of Michigan: ORG
+MiChart: PERSON
+Careweb: PERSON
+eResearch: ORG
+Qualtrics: ORG
+Velos: PERSON
+Wolverine Access
+Excellent: ORG
+UMHS Quality Month Committee
+
+Professional Experience: ORG
+August 2011: DATE
+Name City: GPE
+State Clinical Research Coordinator Mentor - Quality Assurance
+
+Project Management for Quality Assurance Review Committee - Auditor for Regulatory: ORG
+Investigational Drug Service: ORG
+Informed
+Consents - Facilitate: ORG
+Data Management (Sponsored Trials: ORG
+Case Report Form completion - Organize: WORK_OF_ART
+Regulatory, Study Team: ORG
+IRB: ORG
+Sponsor - Prepare: ORG
+eResearch Production Support Team
+Write: ORG
+Standard Practice Guidelines
+Maintain: ORG
+over 100: CARDINAL
+February 2010: DATE
+August 2011: DATE
+Name City: GPE
+State Clinical Subjects Coordinator - Regulatory: ORG
+62: CARDINAL
+Investigator Initiated: ORG
+Cooperative Group: ORG
+Sponsored
+Complete: PRODUCT
+eResearch: ORG
+Informed Consent: ORG
+Submit: ORG
+Data Safety Monitoring: ORG
+Scheduled Continuation Renewals: ORG
+the Institutional Review: ORG
+Perform Quality Assurance for Regulatory Compliance: ORG
+Investigational Drug Service: ORG
+Site Initiation Visits
+Train Interns and Preceptors: WORK_OF_ART
+eResearch Production Support Team
+Process: ORG
+U of M Institutional Review Board: ORG
+UMClinicalStudies.org: CARDINAL
+November 2007: DATE
+February 2010: DATE
+Name City: GPE
+State Administrative: ORG
+23: CARDINAL
+Database Management: ORG
+Quarterly: DATE
+Proof: PRODUCT
+Chart Audits: ORG
+Pivot: PRODUCT
+Minutes: EVENT
+three: CARDINAL
+August 2006: DATE
+November 2007: DATE
+Name City: GPE
+State Administrative: ORG
+P-Card Reconciliation: ORG
+five: CARDINAL
+Calendar: PRODUCT
+5: CARDINAL
+20,000: MONEY
+annually: DATE
+Pediatric Academic Society: ORG
+Brochure: ORG
+Coordination of Health Services Research: ORG
+December 2000: DATE
+August 2006: DATE
+Name City: GPE
+State Outpatient Clerk III
+
+Coordination of patient care: ORG
+Eastern Michigan University City: ORG
+State: GPE
+US Bachelor of Business Administration: ORG
+Management Eastern Michigan University: ORG
+Ypsilanti: NORP
+MI Certified Clinical Research Professional - SoCRA
+City: ORG
+State: GPE
+US Associates: ORG
+Society of Clinical Research: ORG
+Chalfont: GPE
+Certifications: WORK_OF_ART
+Certified Clinical Research Professional - SoCRA
+Affiliations: ORG
+UMHS Quality Month Committee: ORG
+Quarterly: DATE
+Skills
+Audits: ORG
+Quality Assurance: ORG
+Clerk: PERSON
+General Clerical, Outpatient, Clinical Trials, Clinical Research, Audit, Case
+Report: ORG
+Data Analysis: ORG
+Data Collection: ORG
+Data Management: ORG
+Inventory: GPE
+Liaison, Marketing Analysis: ORG
+Medical Records: ORG
+Project Management, Training: ORG
+Healthcare: ORG
+Database
+Management: ORG
+Ids, Oncology, Regulatory Compliance: ORG
+Calendar Management, Ordering, Pediatric, Reconciliation, Access: ORG
+Organizational Skills: PERSON
+Microsoft Office: ORG
+Ms Office: ORG
+Organizational Skills: PERSON

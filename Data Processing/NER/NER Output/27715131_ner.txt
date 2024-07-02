@@ -1,0 +1,94 @@
+20
+year: DATE
+6 plus years: DATE
+Highlights
+
+Innovative: WORK_OF_ART
+IMEA: ORG
+Board of Education: ORG
+Client: GPE
+Midwest Band: LOC
+Orchestra Annual Clinic Exhibitor
+
+: ORG
+Vendor: ORG
+Committed: ORG
+Universal Melody Distribution: ORG
+2013: DATE
+2014: DATE
+53%: PERCENT
+National Sales: ORG
+January 2009: DATE
+Current Company Name: ORG
+Oversee: ORG
+daily: DATE
+United Musical Distribution: ORG
+Oversee: GPE
+daily: DATE
+Amazon: ORG
+Ebay: ORG
+Complete: PERSON
+Develop: ORG
+quarterly: DATE
+Oversee: GPE
+daily: DATE
+Oversee: ORG
+daily: DATE
+Attend: ORG
+annual: DATE
+NAMM: PERSON
+Develop: ORG
+Observe: LOC
+quarterly: DATE
+Educational Services/Bids Administration: ORG
+January 2001 to January 2009: DATE
+Develop: ORG
+Educational Services Representatives: ORG
+approximately 90: CARDINAL
+Develop: ORG
+South East/South Central: LOC
+Cascio Interstate Music: ORG
+Improve: ORG
+Band and: ORG
+Orchestra Department: ORG
+daily: DATE
+Educational Services Representative: ORG
+January 1997 to January 2001: DATE
+55%+: CARDINAL
+Developing: PERSON
+West
+: LOC
+Central Indiana: LOC
+Eastern Illinois: LOC
+Created: ORG
+300%: PERCENT
+the 1st year alone: DATE
+Fine Arts Coordinator: PERSON
+January 1992 to January 1997: DATE
+12: CARDINAL
+70: CARDINAL
+Tutored: PRODUCT
+Collaborated: ORG
+each month: DATE
+five: CARDINAL
+twelve: CARDINAL
+nine: CARDINAL
+twelve: CARDINAL
+eight: CARDINAL
+January 1990 to January 1992: DATE
+May 1992: DATE
+Indiana State University: ORG
+State Music: ORG
+Bachelor of Science : Music Education: ORG
+May 1990: DATE
+Indiana State University: ORG
+Fine Arts: PERSON
+May 1986: DATE
+Vincennes University: ORG
+Fine Arts: PERSON
+Wholesale Sales: ORG
+Business Development: ORG
+School Sales: ORG
+Music Education: ORG
+Drum Set Performance: PERSON
+Vibraphone Performance: PERSON

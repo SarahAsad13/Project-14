@@ -1,0 +1,71 @@
+NEW BUSINESS DEVELOPMENT
+Executive Profile: ORG
+B2B & B2C MARKETING & SALES: ORG
+Integrated Marketing
+Sales & Business Development
+Team Leadership
+Vendor Relations: ORG
+Strategic Sales & Market Planning: ORG
+â€¢ Creative Strategy: WORK_OF_ART
+200%: PERCENT
+25%: PERCENT
+Interface Â 
+
+: PERSON
+New Business Development Company: ORG
+Identify: ORG
+15%: PERCENT
+monthly: DATE
+07/2013: CARDINAL
+Digital Media Account Executive Company Name: ORG
+KBB.com: ORG
+over $500,000: MONEY
+annual: DATE
+25%: PERCENT
+Researched: ORG
+Oversaw: GPE
+more than $450,000: MONEY
+annual: DATE
+01/2011: CARDINAL
+State
+
+Created: ORG
+Established: ORG
+Scout Recruiting Group: ORG
+Marketsmith, Inc.: ORG
+Media Advisors Group: ORG
+Radio Shack: ORG
+SpecialTee Designs: ORG
+Promotrim
+International: ORG
+Suite Salon: ORG
+Day Spa: PERSON
+Exquisite Salon: WORK_OF_ART
+19thCenturyOnly.com: CARDINAL
+Oversaw: GPE
+USG: ORG
+Direct Marketing Association: ORG
+Conde Nast: ORG
+Phillips Publishing: ORG
+National Geographic: ORG
+Marvel Publishing: ORG
+Oversaw: GPE
+Pottery Barn: ORG
+Better Health Institute: ORG
+Harvard
+Health Publications: ORG
+BMG: ORG
+COACH: ORG
+Cook: PERSON
+Illustrated: ORG
+Crate: ORG
+Barrel: ORG
+Godiva: PERSON
+Playboy Enterprises: ORG
+Williams-Sonoma: ORG
+City: GPE
+InDesign: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Visio: PERSON

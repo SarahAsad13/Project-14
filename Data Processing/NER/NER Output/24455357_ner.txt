@@ -1,0 +1,62 @@
+Career Focus
+Represent the Company's: FAC
+Pattern: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Excel: PRODUCT
+Word: PERSON
+Outlook: PERSON
+PDM: ORG
+IBM: ORG
+Apparel Technical Designer Sep: ORG
+2016: DATE
+first: ORDINAL
+Merchant: WORK_OF_ART
+Interface with Design: ORG
+Suppliers: NORP
+daily: DATE
+Measure: ORG
+Fit: PRODUCT
+Keep: ORG
+Labeling, Packaging: WORK_OF_ART
+daily: DATE
+Technical Designer: ORG
+Maintain Management: ORG
+Specification Writer: ORG
+Quality Control: ORG
+Jan 1996 to Jan 2000: DATE
+Liaison: PERSON
+Spec Department: ORG
+Department: ORG
+Quality Control, Design: ORG
+Trims, Pattern Making: ORG
+Washing: ORG
+Sample Room: PERSON
+Analyzed Line Development Management Reports: ORG
+LDM: ORG
+Kept: PERSON
+Jan 1993 to Jan 1996: DATE
+Trim, Grading, Patterns: ORG
+Liaison: PERSON
+Spec Department: ORG
+Department: ORG
+Quality Control, Design: ORG
+Trims, Pattern Making: ORG
+Sample Room: PERSON
+Grading and Marking: WORK_OF_ART
+weekly: DATE
+Kept: PERSON
+Jan 1990 to: DATE
+1990: DATE
+daily: DATE
+daily: DATE
+Freelance: PERSON
+Jan 1988: DATE
+1989: DATE
+State Chemistry: ORG
+Mathematics and Physics
+Education: ORG
+Chemical Engineering: ORG
+1987: DATE
+National University of Honduras Honduras C.A.: ORG

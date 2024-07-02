@@ -1,0 +1,56 @@
+Excels: PERSON
+37 years: DATE
+Skills
+
+Enterprise: ORG
+PLM: ORG
+Hardware: ORG
+Information Assurance
+Risk Management Framework: ORG
+RMF: ORG
+Active Directory: ORG
+Network Design & Troubleshooting
+Â High Performance Computing: ORG
+Name City: GPE
+State Information Technology 02/2011: ORG
+3: CARDINAL
+Authorization To Operate: PERSON
+3: CARDINAL
+4: CARDINAL
+ONI Enterprise: ORG
+Enterprise: ORG
+Enterprise: ORG
+STIG: ORG
+5: CARDINAL
+Name City: GPE
+State Systems Engineer: ORG
+challengeÂ: NORP
+over 200: CARDINAL
+just over a million dollars: MONEY
+30 hours: TIME
+30
+minutes: TIME
+Name City: GPE
+State Senior Systems: ORG
+3: CARDINAL
+One: CARDINAL
+Washington Navy Yard: ORG
+Norfolk: GPE
+Virginia: GPE
+Hawaii: GPE
+1980: DATE
+Florence Darlington Technical School: ORG
+second year: DATE
+Skills
+
+Active Directory
+Hardware Engineering
+Information Technology
+Red Hat: ORG
+Linux Servers: PERSON
+Architectural Diagrams
+Accreditation Boundarys
+Risk Management
+Enterprise Strategies
+Vendor Relations
+Desktop Publishing Software: ORG

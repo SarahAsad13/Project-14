@@ -1,0 +1,119 @@
+SPECIALIST: ORG
+9 years: DATE
+Recruiter: PERSON
+Internship Program: ORG
+Pathways, Presidential Management Fellows: ORG
+Skills: ORG
+Strategic Recruitment Planning: ORG
+Performance Management
+Delegated Examining
+Classification and Position Management
+Special Emphasis Programs: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+State: ORG
+Leadership Development
+Delegated Examining
+Â: ORG
+Social Media: ORG
+the Office of Inspector General: ORG
+Talent and Acquisitions: ORG
+Merit Staffing
+Procedures: PRODUCT
+Pathways Programs: ORG
+Presidential Management Fellows: ORG
+Staffing and Recruitment: ORG
+Classifications, Position Management: ORG
+Schedule A: ORG
+Special Emphasis Programs: ORG
+Selective Placement Programs: ORG
+2016: DATE
+Delegated Examining: ORG
+Onboarding Programs for Supervisors: ORG
+the Human Resource Management Division: ORG
+OPM: ORG
+the Executive Resource Committee: ORG
+Department: ORG
+Senior Executive: ORG
+Performance Management and Awards: ORG
+Project Management-Collaborate: ORG
+Name City: GPE
+"The Employer of Choice: WORK_OF_ART
+Facilitate: ORG
+Research: ORG
+July 2014: DATE
+the Recruitment Consortium: ORG
+Generational Differences
+in the Workplace: WORK_OF_ART
+Program Management-: PERSON
+FY-15: PRODUCT
+20+: DATE
+2014: DATE
+Create: ORG
+Handbooks for Student Hires: ORG
+Advertisements: PERSON
+Request: WORK_OF_ART
+eQuip: WORK_OF_ART
+2015: DATE
+1st: ORDINAL
+Shadow Day Program: WORK_OF_ART
+6: CARDINAL
+Bowie State University: ORG
+the day: DATE
+Shadow: PRODUCT
+2016: DATE
+Shadow Day: LAW
+more than 19: CARDINAL
+4: CARDINAL
+the 2nd Quarter: DATE
+Social Media Management- Created: ORG
+the Human Capital Management Office Facebook: ORG
+Twitter: PRODUCT
+2: CARDINAL
+Gen X'ers: WORK_OF_ART
+Millennial: ORG
+Collaborated: ORG
+Paid Student Internship Program: ORG
+Policy Advisement-: PERSON
+Establish: NORP
+Research: ORG
+Applicant Tracking Systems: ORG
+Recruitment Office: ORG
+ACCESS: ORG
+Create SOP's: ORG
+Recruitment Office: ORG
+the Take Your Kid to Work Day: FAC
+April 2014: DATE
+Shadow Day Program: WORK_OF_ART
+2 years: DATE
+Key Results: LOC
+Sometown: PRODUCT
+Structured: ORG
+89%: PERCENT
+approximately 50: CARDINAL
+dozens: CARDINAL
+annually: DATE
+16%: PERCENT
+first: ORDINAL
+25: CARDINAL
+10/2011: CARDINAL
+Wage Grade: ORG
+Schedule: PERSON
+Training
+Bachelor of Arts: PERSON
+St. Augustine's: ORG
+University City: GPE
+State Broadcast: ORG
+Masters of Business Administration :: ORG
+State Human Resources Management: ORG
+Special Emphasis Committee: ORG
+2015: DATE
+Defense Security Service: ORG
+the Quarter Nominee: EVENT
+2015: DATE
+Skills
+Agency: ORG
+Human Resource Management: ORG
+Leadership
+Development: ORG

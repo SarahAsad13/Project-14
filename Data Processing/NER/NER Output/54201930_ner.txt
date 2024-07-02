@@ -1,0 +1,103 @@
+âž¢: PRODUCT
+Front Desk Receptionist: PERSON
+Meyer Sound: ORG
+Marketing Team: ORG
+Latin America: LOC
+Meyer Sound: ORG
+third: ORDINAL
+âž¢: PRODUCT
+Meyer Sound: ORG
+Mexico: GPE
+US: GPE
+January 2014: DATE
+Name City: GPE
+State: ORG
+Restaurant Consulting & Management Company Developing: ORG
+POP: ORG
+January 2013: DATE
+Current
+City: GPE
+State: ORG
+Main Street
+Property Services: FAC
+Progressive Hounds: ORG
+The Handler Brothers: ORG
+Otis Beanery: PERSON
+Mitzvites: GPE
+Pet Nanny: GPE
+District
+Dogs: ORG
+SuperFly Pet Supply: ORG
+Promarket: GPE
+Trejo: PERSON
+January 2008: DATE
+January 2013: DATE
+Latin America Mexico City Professional: LOC
+Company: ORG
+Berkeley: GPE
+CA: ORG
+Spanish: NORP
+monthly: DATE
+SoundCheck Magazine: ORG
+Built: ORG
+Keynote: GPE
+monthly: DATE
+January 2005: DATE
+January 2008: DATE
+Rimmel London: PERSON
+Dannon, Sigma: ORG
+Sally Hansen: PERSON
+Layout: GPE
+Coordinated: ORG
+Blogs: GPE
+Photoshop: PERSON
+InDesign: ORG
+Dreamweaver: FAC
+Flash: PERSON
+Freehand Graphics: ORG
+2004: DATE
+Universidad: GPE
+xico City: GPE
+Bachelor of Arts - Graphic Design: ORG
+Company: ORG
+Berkeley: GPE
+CA: ORG
+Spanish: NORP
+monthly: DATE
+SoundCheck Magazine: ORG
+Coordinated: ORG
+Keynote: GPE
+monthly: DATE
+Company: ORG
+Berkeley: GPE
+CA: ORG
+Spanish: NORP
+monthly: DATE
+SoundCheck Magazine: ORG
+Coordinated: ORG
+Keynote: GPE
+Spanish: NORP
+English: LANGUAGE
+Spanish: NORP
+Spanish: LANGUAGE
+English: LANGUAGE
+English: LANGUAGE
+Spanish: NORP
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills
+Marketing, Clients: ORG
+Ads, Basis: ORG
+Translated, Solutions, Advertising, Brand Identity: ORG
+Dreamweaver: ORG
+Flash: PERSON
+Freehand: GPE
+Hansen: PERSON
+Illustration, Illustrator, Indesign, Logo Design: ORG
+Prepress, Promotional: ORG
+Corporate Communications: ORG
+Packaging: PERSON
+Content Management: ORG
+Front Desk, Marketing Collateral, Marketing Strategy: PERSON
+Receptionist: NORP
+San, Storage Area Network: GPE

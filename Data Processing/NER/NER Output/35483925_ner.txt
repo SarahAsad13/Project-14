@@ -1,0 +1,73 @@
+6 years: DATE
+Healthcare: ORG
+15 to 20: CARDINAL
+Core Qualifications
+
+MS Excel: ORG
+Project, Word: ORG
+PowerPoint: ORG
+SPSS: ORG
+Oracle SQL: ORG
+TOAD: ORG
+SalesForce CRM: PRODUCT
+Customers: ORG
+Quotations: ORG
+Jira: PERSON
+Plaza: PERSON
+Assisted Partners: ORG
+07/2011 to 12/2013: CARDINAL
+Partners and Distributors: ORG
+Program: ORG
+Promotional: ORG
+Latin American: NORP
+Elite: LOC
+Quotations: ORG
+Certifications: ORG
+Partner: ORG
+Oracle SQL: ORG
+Continue Professional: ORG
+Lead Management System: ORG
+Managed Trade and Asset: ORG
+Worked: GPE
+Conceptualizing: ORG
+12/2009: CARDINAL
+HealthCare: ORG
+SR: ORG
+HIPAA: ORG
+Generate: PERSON
+SQL: ORG
+EXCEL: ORG
+the Health and Accidental Coverages: ORG
+Organization: ORG
+Assist Back: ORG
+Scheduling/Verification: ORG
+Monitored Clients: ORG
+M.S : Information System Management Coleman University City: ORG
+State Information System Management
+Masterof Business Administration: ORG
+two: CARDINAL
+the third quarter: DATE
+HSBC: ORG
+annual: DATE
+CORPORATE SOCIAL RESPONSIBILITY Active: ORG
+Human Trafficking: WORK_OF_ART
+2008: DATE
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Business Administration: ORG
+CRM: PRODUCT
+English: LANGUAGE
+Latin: LANGUAGE
+Excel: PRODUCT
+EXCEL: ORG
+PowerPoint: ORG
+Word: PERSON
+Oracle SQL: ORG
+SAP
+R/3, Scheduling: ORG
+Spanish: NORP
+SPSS: ORG
+SQL: ORG
+TOAD: ORG
+treasury: ORG

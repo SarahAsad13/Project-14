@@ -1,0 +1,167 @@
+POWER: ORG
+GAS: ORG
+CRUDE/FUEL OIL: ORG
+TAX/FINANCIAL PLANNING: ORG
+ANALYSIS: PRODUCT
+INDIVIDUALS: ORG
+FRONT-LINE STAFF TO: ORG
+15+ YEARS: DATE
+HOUSTON: GPE
+Accounting Management: ORG
+AP: ORG
+AR: ORG
+Internal & Fiscal Controls Financial Statement Preparation Cash Management & Account Reconciliation Tax Planning & Management: ORG
+Accountability, Safety, Passion, Integrity, Respect & Esprit de Corp: ORG
+Highlights
+MS Office: ORG
+Oracle, Hyperion, Hyperion Retrieve: ORG
+SAP: ORG
+MerrillReports: ORG
+DST: ORG
+Bloomberg: ORG
+PeopleSoft: ORG
+IDC: ORG
+Seagate Crystal Reports: ORG
+Fundstation: PERSON
+Nucleus: PERSON
+Citrix: PRODUCT
+March 2006 to June 2014: DATE
+Name City: GPE
+State: ORG
+93: CARDINAL
+29K megawatts: QUANTITY
+20: CARDINAL
+US: GPE
+Canada: GPE
+treasury: ORG
+month-end: DATE
+Northeast U.S.: LOC
+FERC: ORG
+daily: DATE
+Selected Contributions: Successfully collaborated: WORK_OF_ART
+Commercial Group: ORG
+the Credit Group: ORG
+third: ORDINAL
+Sarbanes-Oxley: ORG
+SOX: ORG
+FRS: ORG
+quarterly: DATE
+yearly: DATE
+month-end: DATE
+the Financial
+Accounting: ORG
+monthly: DATE
+AP/AR: ORG
+month/year-end: DATE
+the Nucleus Trading System: ORG
+PeopleSoft: ORG
+9.1: CARDINAL
+GL: ORG
+October 2005 to March 2006: DATE
+Name City: GPE
+State Accountant / Analyst: ORG
+Borden Chemical, Inc.: ORG
+Resolution Performance
+Products: ORG
+LLC: ORG
+Resolution Specialty Materials: ORG
+LLC: ORG
+Bakelite AG: ORG
+more than $4B: MONEY
+annual: DATE
+AP/AR: ORG
+Selected Contributions:: WORK_OF_ART
+Electronic Data Management System: ORG
+March 2005 to: DATE
+October 2005: DATE
+Name City: GPE
+129B: MONEY
+129B: MONEY
+Prepared: PERSON
+quarterly: DATE
+semiannual: DATE
+annual: DATE
+SEC: ORG
+145: CARDINAL
+64: CARDINAL
+28: CARDINAL
+32: DATE
+one: CARDINAL
+seven: CARDINAL
+AIM: ORG
+Selected Contributions:: WORK_OF_ART
+July 2000 to August 2004: DATE
+Name City: GPE
+State Analyst / Rotation
+
+Conducted: ORG
+annual: DATE
+Coordinated: ORG
+month-end: DATE
+Assisted: ORG
+SEC: ORG
+Selected Contributions: After bankruptcy proceedings: WORK_OF_ART
+.75B: MONEY
+100B+: MONEY
+Cooperated: ORG
+Antonio: PERSON
+Flying Pizza: ORG
+Italian: NORP
+Houston: GPE
+1 1999: DATE
+UNIVERSITY OF HOUSTON 
+City: ORG
+State Accountancy: ORG
+Magna Cum Laude: PERSON
+Magna Cum Laude: PERSON
+Notary Public: PERSON
+Texas: GPE
+Salesperson License: PERSON
+PeopleSoft: ORG
+7.5 to 9.0: CARDINAL
+Active Volunteer: PRODUCT
+Houston-Chevron Marathon: ORG
+BP MS: ORG
+150: CARDINAL
+Calpine: ORG
+Italian: NORP
+US: GPE
+Italian: NORP
+Spanish: NORP
+Skills: ORG
+AP: ORG
+AR: ORG
+Bloomberg, Citrix: ORG
+Interpersonal Skills: ORG
+CPR
+Certified, Credit: ORG
+Data Management: ORG
+Financial Accounting: ORG
+Ledger: PERSON
+Italian: NORP
+Materials: GPE
+MS Office: ORG
+Notary Public: PERSON
+Oracle: ORG
+PeopleSoft: ORG
+PeopleSoft: ORG
+7.5: CARDINAL
+PeopleSoft: ORG
+9.1: CARDINAL
+Real Estate: ORG
+SAP: ORG
+Sarbanes-Oxley: PERSON
+Spanish: NORP
+User Training: PERSON
+Trading System: ORG
+treasury: ORG
+annual: DATE
+year-end: DATE
+Additional Information
+
+Community Involvement: ORG
+Active Volunteer: PERSON
+Houston-Chevron Marathon: ORG
+BP MS: ORG
+150: CARDINAL
+Calpine: ORG

@@ -1,0 +1,40 @@
+Elementary: PERSON
+Middle School: ORG
+State: ORG
+5th Grade STEM: PRODUCT
+K: ORG
+1st: DATE
+2nd: DATE
+3rd Grade Horizon Science: ORG
+Library Grades Pre-K - Observed: PERSON
+Utilized: ORG
+Collaborated: ORG
+Common Core: ORG
+Science Scope: PERSON
+Sequence Standards: PERSON
+Orchestrated Open Access Library: EVENT
+every Tuesday: DATE
+Maintained: GPE
+Created: ORG
+State: ORG
+2nd: DATE
+4th(Science: CARDINAL
+Math: PERSON
+Math: PERSON
+Science: ORG
+one: CARDINAL
+one: CARDINAL
+five: CARDINAL
+Veteran: GPE
+Thanksgiving Food Drive: ORG
+Volleyball Club: ORG
+Training: PERSON
+January 2013: DATE
+BACHELOR OF ARTS College of Staten Island: ORG
+Certifications: ORG
+Special Childhood Education: ORG
+1-6: CARDINAL
+Lesson: PERSON
+Skills: ORG
+Lesson: PERSON
+Math: PERSON

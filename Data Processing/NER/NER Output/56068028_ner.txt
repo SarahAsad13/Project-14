@@ -1,0 +1,94 @@
+Career Focus
+Insightful: FAC
+6 years: DATE
+Â 
+Certificates & Awards
+
+Certified Public Accountant: ORG
+Certified Information System Security Professional: ORG
+Certified Internal Audit: ORG
+CIA: ORG
+Certified Information System Auditor: ORG
+Oil & Gas: ORG
+Deloitte
+Earned Applause: ORG
+5: CARDINAL
+Deloitte
+
+Professional Experience
+Lead Senior: ORG
+SAP Auditor: ORG
+February 2014: DATE
+Developed: PRODUCT
+COBIT
+Prepared: WORK_OF_ART
+CIO: ORG
+CFO: ORG
+Access Management: ORG
+2: CARDINAL
+4: CARDINAL
+1: CARDINAL
+Recruited: PRODUCT
+3: CARDINAL
+Collaborated: ORG
+SAP Security: ORG
+September 2010 to January 2014: DATE
+Configured: PRODUCT
+GRC: ORG
+5.3: CARDINAL
+SOD: ORG
+the Risk Analysis Remediation module: LAW
+Super User
+Privilege Management: ORG
+SPM: ORG
+SAP: ORG
+Leveraged SAP's: ORG
+the Enterprise Value Delivery: ORG
+SAP: ORG
+Audit Intern: PERSON
+January 2010 to August 2010: DATE
+2 University of Texas: ORG
+30,000: CARDINAL
+7 summer: DATE
+the Audit Process
+
+IT Audit Intern: PRODUCT
+January 2009 to August 2009: DATE
+3: CARDINAL
+one: CARDINAL
+10: CARDINAL
+10: CARDINAL
+GPA: ORG
+3.7: CARDINAL
+2009: DATE
+McCombs School of Business: ORG
+University of Texas: ORG
+Austin: GPE
+Austin: GPE
+TX: ORG
+GPA: ORG
+4.0: CARDINAL
+2008: DATE
+Jinan University: ORG
+Guangzhou: GPE
+China: GPE
+10.1: CARDINAL
+SAP ECC 6.0: ORG
+SRM: ORG
+7.0: CARDINAL
+EWM: ORG
+9.1: CARDINAL
+7.0: CARDINAL
+7.01: CARDINAL
+BW 7.01: ORG
+BPC 10.0: DATE
+PI: ORG
+Model N 5.6: PRODUCT
+Quality Software - HP Quality Center, Service Desk: ORG
+IT Remedy: PERSON
+Data Analysis - MS Excel: ORG
+MS Access: ORG
+Hobbies: PERSON
+25: CARDINAL
+2 years: DATE
+Passionate: ORG

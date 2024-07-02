@@ -1,0 +1,77 @@
+Teradata Database Engineer: ORG
+Fast Load: PERSON
+PL/SQL
+: ORG
+Job Scheduler: PERSON
+SQL Query: ORG
+2014: DATE
+State: ORG
+Mobile Application for Business Analytics Reporting: ORG
+Oracle: NORP
+Mobile Application: ORG
+Oracle: NORP
+SQL: ORG
+Bteq: ORG
+Teradata: ORG
+Space: GPE
+CPU: ORG
+Prepared: PERSON
+UAT: ORG
+Data Warehouse: ORG
+Coordinate: FAC
+Oracle PL/SQL: ORG
+State: ORG
+SQL: ORG
+Bteq: NORP
+Fast Load: PERSON
+Space: GPE
+CPU: ORG
+Prepared: PERSON
+UAT: ORG
+Data Warehouse: ORG
+HLD: ORG
+LLD: ORG
+Coordinate: FAC
+AGILE: ORG
+Oracle: ORG
+Jan 2009: DATE
+Mar 2012: PERSON
+State: ORG
+Data Warehousing Services: ORG
+Data Warehousing Services: ORG
+Group: ORG
+Warehouse: ORG
+fed: ORG
+EDW: ORG
+the Data Warehousing Application: ORG
+BTEQ: ORG
+Scripts: NORP
+Multi: GPE
+Prepared/Reviewed Unit Test Plans & System Test: ORG
+Business Users: ORG
+Oracle to Teradata: ORG
+Quality: ORG
+Synch: GPE
+Main Frame: PERSON
+Fast Load: PERSON
+Bachelor of Technology: ORG
+Science Engineering: ORG
+India JNTU: GPE
+71.68: CARDINAL
+Skills
+
+Data Warehouse: ORG
+Oracle SQL: ORG
+SDLC: GPE
+Teradata: ORG
+SQL Testing: ORG
+Change Management: ORG
+Configuration Management: ORG
+Data Analysis: ORG
+Data Mart Development: ORG
+Requirements
+Gathering: WORK_OF_ART
+Semantic: NORP
+Technical Design: ORG
+Technical Specifications: ORG
+UAT: ORG

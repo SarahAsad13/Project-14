@@ -1,0 +1,156 @@
+Healthcare Environment: ORG
+16 years: DATE
+Customer Relations: ORG
+Billing, Human Resources and Employee Management: ORG
+Licenses
+Bachelor's of Science in Health Administration: PERSON
+Certified Medical Billing Specialist Health Information Management Certificate Certificate: ORG
+Electronic Medical Records Medical Office: ORG
+Admin Certificate: PERSON
+Medicare: ORG
+Medi-Cal
+Extensive: ORG
+Software
+Managed: PERSON
+Electronic Medical Record: ORG
+ICD-9: PRODUCT
+Neurology: PERSON
+CPT: ORG
+Internal: ORG
+HIPAA: ORG
+Team: ORG
+Microsoft: ORG
+Excell: PERSON
+Medisoft Billing Software: FAC
+CAD: ORG
+ARCommand -Billing Software: ORG
+Medicare/Medical: ORG
+Insurance/Private Billing: ORG
+HMO: GPE
+Organization Skills: PERSON
+70: CARDINAL
+Spelling: GPE
+Writing Skills: PERSON
+January 2009: DATE
+Name City: GPE
+State Business Office: ORG
+Employee Management
+New: ORG
+Hiring/ Termination
+Verbal: WORK_OF_ART
+Policies
+Management of Employee: ORG
+Customer Service for Patient Accounts
+Management Medicare: ORG
+Medi-Cal: ORG
+State: ORG
+CMS Updates: ORG
+Goas/Achieving
+Overseeing Patient Accounts: ORG
+Accounts Receivables: ORG
+Medical Records/Archived: ORG
+CPT: ORG
+HIPPA Compliance: ORG
+Overseeing Accounts Receivables
+Working with Law Offices on Subpoena Requests
+Maintaining department: WORK_OF_ART
+January 2008: DATE
+January 2010: DATE
+Company Name City: LOC
+State Healthcare Administrator: ORG
+EMT: ORG
+DMV: ORG
+Managing the Business Office: ORG
+Contracts: ORG
+HIPAA: ORG
+Checking EMT: ORG
+Follow: PERSON
+Dispatcher: PERSON
+Checking Dr's: PERSON
+January 2000: DATE
+January 2008: DATE
+Name City: GPE
+State Business Office: ORG
+Billing Department Bookkeeping Making: ORG
+Medicare: ORG
+Medi-Cal: ORG
+Major Insurance Companies EOB: ORG
+Data Entry, Accounts Billable-Receiveable: ORG
+Medicare: ORG
+Medicaid: ORG
+5yrs: CARDINAL
+two: CARDINAL
+Coding CPT: ORG
+ICD-9 HCPCS Attending Medicare/: ORG
+Medi-Cal: ORG
+Updating of the Billing System: ORG
+Writing Letters: ORG
+Medical Necessity: ORG
+Transportation/Ambulance Services Filling: ORG
+Making Justifications Forms for Medical Necessity on Excell Excellent: ORG
+Word: GPE
+ARCommand: ORG
+TIS: GPE
+Medisoft: GPE
+Overall Supervision of Ambulance Billig Department: ORG
+Training: PERSON
+6/13/2009: DATE
+University of Phoenix City: ORG
+Health Administration Health Administration: ORG
+2005: DATE
+LA Valley College City: ORG
+Program Chemestry Program Chemestry: ORG
+1999: DATE
+Concord College Certificate: ORG
+State High School Diploma: ORG
+1993: DATE
+ANC Computer School State: ORG
+Armenia Certificate Computer High Educational Establishment *: ORG
+Microsoft Word: PERSON
+Excell: PERSON
+MS DOS: PERSON
+Professional Affiliations: ORG
+2006-2007: DATE
+Cambridge: GPE
+Armenian: NORP
+Russian: LANGUAGE
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills
+Accounts Receivables: ORG
+CAD: ORG
+CMS: ORG
+Contracts: ORG
+CPT: ORG
+Customer Service: ORG
+Data Entry: ORG
+Dialysis: PERSON
+English: LANGUAGE
+Filling, Forms, Hiring: ORG
+ICD-9, Insurance: ORG
+Letters, Employee Management: ORG
+Medisoft: GPE
+Excell, Office: ORG
+Word: PERSON
+Microsoft Word: PERSON
+MS DOS: PERSON
+Organization Skills: ORG
+Policies: GPE
+Coding: ORG
+Proposals: GPE
+Russian: NORP
+Spanish: LANGUAGE
+Supervision, Team: ORG
+Transportation: ORG
+Written
+Additional Information: ORG
+1999: DATE
+2000: DATE
+Community Centers, Inc.: ORG
+2001: DATE
+Community Centers: ORG
+Continuing Education: ORG
+2004: DATE
+Completion Medical Services: ORG
+2006-2007: DATE
+National Dean's: ORG

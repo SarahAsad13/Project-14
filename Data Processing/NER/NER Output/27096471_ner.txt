@@ -1,0 +1,51 @@
+Summary
+Human Resource Professional Â: ORG
+Highlights
+Budgeting: WORK_OF_ART
+Affirmative Action: ORG
+OSHA: ORG
+ISO 9000-level: PERSON
+Career Development Program: ORG
+Volunteer Works: PERSON
+10/2013: CARDINAL
+Compensation and Benefits Specialist Company Name: ORG
+first: ORDINAL
+35%: PERCENT
+first year: DATE
+$3.5 million: MONEY
+up to 15: CARDINAL
+Consolidated: ORG
+10.3%: PERCENT
+annual: DATE
+10/2013: CARDINAL
+Researched: ORG
+300k: MONEY
+10/2008: CARDINAL
+HIPPA: ORG
+ADA: ORG
+Liaison: PERSON
+Standard: ORG
+Human Resources: ORG
+Utilized: ORG
+Master of Arts : Human Resource Development Webster University: WORK_OF_ART
+State Human Resource Development
+Bachelor of Arts: ORG
+Mass Communication Xavier University: ORG
+State Mass Communication: ORG
+2017: DATE
+MBA : Finance University of Missouri Columbia: WORK_OF_ART
+City: GPE
+State: ORG
+Affiliations: ORG
+Certified Facilitator-Look Good Feel Better-American Cancer Society: WORK_OF_ART
+Publicity-Earned National Award: ORG
+Board of Trustee-St. Paul's: ORG
+Episcopal Day School-Current: ORG
+ADA: ORG
+Employee Relations: ORG
+Human Resources: ORG
+Works: ORG
+Organizational
+Development: ORG
+Strategic Planning: ORG
+Vendor Management: ORG

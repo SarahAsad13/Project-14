@@ -1,0 +1,29 @@
+Desire: GPE
+toÂ: CARDINAL
+Bachelor of Arts: ORG
+1-6: DATE
+2007: DATE
+Brooklyn College City: ORG
+Associate of Arts: ORG
+Liberal Arts 2003 Nassau Community College City: ORG
+State: ORG
+Adapt: FAC
+Redirect: PERSON
+Name City: GPE
+four months: DATE
+1st: ORDINAL
+Balanced Literacy: ORG
+every month: DATE
+Dentist Office: ORG
+07/2002: CARDINAL
+Name City: GPE
+10: CARDINAL
+Maintained: GPE
+Established: ORG
+this day: DATE
+Child Care Facility Rules & Regulations: ORG
+School-Age Appropriate Practices: ORG
+Classroom Management: ORG
+English: LANGUAGE
+Russian: LANGUAGE
+Hebrew: LANGUAGE

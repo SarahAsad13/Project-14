@@ -1,0 +1,71 @@
+Recent Biola University Communication Studies: ORG
+HR/ Training and Development: ORG
+Education: ORG
+Bachelor of Arts: ORG
+Major Rhetorical/Interpersonal Communication: ORG
+Biblical: ORG
+May 2016: DATE
+Biola University City: ORG
+State
+Communication: ORG
+18: CARDINAL
+Administrative Clerk/ Public Relations: ORG
+08/2016: CARDINAL
+three hundred: CARDINAL
+daily: DATE
+Billing
+Telephone: ORG
+Organizes: PERSON
+Youth: ORG
+02/2016: PERSON
+Name City: GPE
+fifteen: CARDINAL
+every Sunday: DATE
+today: DATE
+Human Resources & Training: ORG
+Name City: GPE
+State
+Access Services: ORG
+Metro Services Access: ORG
+Training: PERSON
+Request for Proposal Forms: ORG
+Acted: ORG
+Human Resources: ORG
+one hundred: CARDINAL
+Access Services: ORG
+Human Resources: ORG
+Name City: GPE
+State: ORG
+Keller Williams: PERSON
+Real Estate: ORG
+hours: TIME
+Monday to Sunday: DATE
+Realtor Offices: PERSON
+Cold Called: ORG
+Mary Almada: PERSON
+Student Voice 10/2012: ORG
+05/2014 Company Name City: ORG
+Biola: ORG
+Multi-Ethnic Parent Advisory Counsel: ORG
+Counsel: ORG
+Hosted: ORG
+Biola Ethnic Advancement Team: ORG
+Name City: GPE
+PowerPoint: ORG
+Biola University: ORG
+Los Angeles: GPE
+Student Recruiter: PERSON
+One: CARDINAL
+Biola: ORG
+dozens: CARDINAL
+Biola University: ORG
+Name City: GPE
+Hilight Electric: ORG
+Jack: PERSON
+Box: GPE
+Denny: PERSON
+Momentum Leadership Developmental Institute Graduate: ORG
+2014-2015: DATE
+all day: DATE
+Biola University: ORG
+Social Media: ORG

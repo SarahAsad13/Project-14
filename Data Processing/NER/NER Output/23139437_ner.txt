@@ -1,0 +1,32 @@
+SUMMER CAMP COUNSELOR
+Summary: ORG
+Veterinarian: NORP
+Middlesex County: GPE
+Highlights: GPE
+first: ORDINAL
+Middlesex: GPE
+Edison: GPE
+New Jersey: GPE
+MIddlesex county college: ORG
+summer: DATE
+June 2012 to: DATE
+State: ORG
+summer: DATE
+ages 3 and 4: DATE
+November 2012 to October 2015: DATE
+State: ORG
+June 2014 to September 2014: DATE
+June 2013: DATE
+State: ORG
+Veterinarian: NORP
+2015: DATE
+Middlesex County College: ORG
+State: GPE
+USA: GPE
+Sayreville War Memorial: ORG
+the
+year 2013: DATE
+Veterinarian: NORP
+May of 2015: DATE
+Veterinarian: NORP
+Veterinarian: NORP

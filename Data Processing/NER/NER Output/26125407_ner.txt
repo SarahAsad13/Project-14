@@ -1,0 +1,107 @@
+HEALTHCARE: ORG
+Skills
+
+Strong p: ORG
+Quality: ORG
+Work History
+Healthcare Administration Intern: WORK_OF_ART
+12: CARDINAL
+10 and eight hour: TIME
+16: CARDINAL
+the holiday: DATE
+LEAN: ORG
+Budget: ORG
+Interpreted: ORG
+Pulmonary Lab Technician: PERSON
+12: CARDINAL
+GE: ORG
+EKG Machine: ORG
+Charge Nurse: PERSON
+Nurse: GPE
+ABL800 Flex Radiometer: WORK_OF_ART
+the ABL800 Flex: PRODUCT
+Maintained: GPE
+monthly: DATE
+EKG: ORG
+24: CARDINAL
+Interpreted: ORG
+11/2008: CARDINAL
+monthly: DATE
+Recruited: PRODUCT
+4: CARDINAL
+Established: ORG
+Patient Educator: PERSON
+08/2005: PRODUCT
+PT-INR: ORG
+PT-INR: ORG
+Communicated: ORG
+Established: ORG
+Phlebotomist: NORP
+Broviac: ORG
+Hickman, PICC: ORG
+Groshong: PERSON
+CVC: ORG
+CVL: ORG
+Facilitated: ORG
+NOVA CCX: LAW
+UA: ORG
+Protime: DATE
+Westergren Sedimentation Rate: PERSON
+Glucose: ORG
+Coordinated: ORG
+CT: ORG
+Maintained: GPE
+Explained: PRODUCT
+Established: ORG
+Quality Department: ORG
+Facilitated: ORG
+Bachelor of Science : Health Administration: ORG
+Current 
+Eastern Michigan University - City: PERSON
+State 
+
+Health Administration
+Coursework in Health Services Administration: ORG
+Coursework in Business Management
+Coursework: ORG
+Healthcare Administration: ORG
+Coursework in Health Services Administration: ORG
+Business
+Coursework in Human Resources Management and Accounting
+
+Associate of Art: ORG
+4 2014: DATE
+Schoolcraft College - City: ORG
+Health Services Administration: ORG
+Health Services Administration: ORG
+Business
+Coursework in Human Resources Management: ORG
+Accountin g
+
+Associate of Science : Health Science: PERSON
+5 2006: DATE
+Schoolcraft College - City: ORG
+Scholarship
+Coursework in Community Health
+Coursework in Health Services Administration: ORG
+Healthcare Administration: ORG
+Coursework in Health Services Administration: ORG
+Business
+Coursework in Human Resources Management and Accounting
+
+Accomplishments: ORG
+Affiliations: ORG
+American Society for Clinical Laboratory Science: ORG
+2012: DATE
+American Heart Association: ORG
+Nov 2011-: DATE
+University of Southern Indiana: ORG
+2009: DATE
+American Society of
+Clinical Pathology: ORG
+Nov 2001-: DATE
+Cub Scouts of America: ORG
+September 2014: DATE
+Budget: ORG
+MAC: ORG
+SAT: ORG

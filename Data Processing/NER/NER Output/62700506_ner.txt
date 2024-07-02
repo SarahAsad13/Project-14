@@ -1,0 +1,141 @@
+DIGITAL: ORG
+Mobile: ORG
+Digital Consultant: ORG
+11/2013: CARDINAL
+Mobile Extension: ORG
+Apple Watch: ORG
+4 weeks: DATE
+AI: ORG
+Apple Watch: ORG
+Apple Watch: ORG
+AFP: ORG
+Biometrics: GPE
+Android: ORG
+Mobile Token: ORG
+25%: PERCENT
+one month: DATE
+2%: PERCENT
+calls=: DATE
+3D Touch: ORG
+UX: ORG
+CIA: ORG
+CWI: ORG
+TM Product: ORG
+Mobile: ORG
+Fraud: NORP
+International ACH: ORG
+Internal Wires: ORG
+Apple Watch: ORG
+Mobile Deposit: ORG
+Soft Token: PERSON
+second: ORDINAL
+User Centered Design: ORG
+Wells Fargo: ORG
+Mobile: ORG
+PNS: ORG
+Mobile: ORG
+first: ORDINAL
+45%: PERCENT
+3 months: DATE
+Created Mobile: ORG
+Mobile Deposit: ORG
+Mobile: PERSON
+ACH: ORG
+DTD: ORG
+Launched Android App: PERSON
+Mobile Mobile: PERSON
+DTD: ORG
+Wires Mobile: ORG
+ACH Int'l-: ORG
+Customer Service: ORG
+EMCS/Kofax: ORG
+Image Auto Capture for Mobile
+Deposit: ORG
+Wells Fargo: ORG
+LiveLook PoT: ORG
+2016: DATE
+Fraud: NORP
+three: CARDINAL
+Mobile Production channel Management: ORG
+11/2013: CARDINAL
+TOP Image Deposit: ORG
+Smart Decision: PERSON
+Deposit Maintenance: PERSON
+Fraud Analysis report- Patent: ORG
+Created: ORG
+AR Check POC-: ORG
+Created: ORG
+TOP Image Deposit: ORG
+430: CARDINAL
+3rd: ORDINAL
+Develop: ORG
+Create TOP Image Deposit: ORG
+Creating Business: ORG
+Business Cases: ORG
+Technical Product Consulting, Service: ORG
+Implementation, Operations Crossed: ORG
+Desktop Deposit: ORG
+RDC Vendor: ORG
+Management of Code Remediation - 3rd: ORG
+Implementation and Service: ORG
+Develop Data Entry: ORG
+Implementation Process: ORG
+Client Walk: PERSON
+System Validation: ORG
+Client Service: ORG
+Use Share Point/Info Source: ORG
+DDA, Branch Depository and Desktop Deposit: ORG
+Mobile Map: PERSON
+QA: ORG
+Onsite Migration Escalation Team: ORG
+Evaluate: ORG
+Develop: ORG
+New Hire: GPE
+New Products: ORG
+Business Processes: ORG
+Power Point: ORG
+EKOD: ORG
+Virtual Classroom Design: ORG
+Best Practices Websites Track: WORK_OF_ART
+monthly: DATE
+JD
+Powers: ORG
+Create: ORG
+Project Manger: PERSON
+2003: DATE
+Evaluate: ORG
+Product Support: PRODUCT
+DTD: ORG
+CARLAR: ORG
+one: CARDINAL
+two: CARDINAL
+01/2003 Company Name: ORG
+State: ORG
+Wells Fargo: ORG
+Document: FAC
+Product Reviews: PERSON
+Customer: ORG
+30: CARDINAL
+Training
+BA: PERSON
+Theater Arts Philosophy: PERSON
+1995: DATE
+California State University: ORG
+2003 University of California ï¼​ City: ORG
+Business Processes: ORG
+Share Point: PERSON
+Product Development: ORG
+Validation: ORG
+Vendor: ORG
+Interests: NORP
+Wells Fargo Best Practices: ORG
+three: CARDINAL
+Wells Fargo: ORG
+Volunteer: PERSON
+Prospect Theater Project: ORG
+2005: DATE
+DTD: ORG
+Team Excellence Award: PERSON
+Q2: CARDINAL
+2011: DATE
+Wachovia: ORG

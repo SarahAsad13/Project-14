@@ -1,0 +1,75 @@
+BUSINESS DEVELOPMENT: ORG
+Excels: PERSON
+Skill Highlights
+
+Business: ORG
+Scope: LOC
+Integrated Reporting Information System: ORG
+IRIS: ORG
+Budgeting
+Cost-benefit: WORK_OF_ART
+Core Accomplishments
+
+User: WORK_OF_ART
+SAP
+Business: ORG
+Superb: NORP
+Critical: PRODUCT
+Project Management Training Certification: ORG
+Information System: ORG
+System Analysis and Development: ORG
+Oracle: NORP
+Infor: NORP
+Law: PERSON
+Paralegal: GPE
+Boosted: ORG
+33%: PERCENT
+Business Development Analyst: ORG
+January 2006 to June 2016: DATE
+Conducted: ORG
+Analyze "Big Data: ORG
+Requests for Information: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Supply Chain Management: ORG
+Epic: ORG
+Infor: NORP
+Oracle resource management: ORG
+Generate: PERSON
+Business Enterprise Risk: ORG
+January 1998 to January 2005: DATE
+265: CARDINAL
+Ohio: GPE
+Kentucky: GPE
+8: CARDINAL
+January 1996 to January 1998: DATE
+Initiated: ORG
+Committee: ORG
+Division: ORG
+January 1990 to January 1996: DATE
+Contribute: ORG
+Master of Science : Information Systems-Graduate Business Analytic Certificate: WORK_OF_ART
+2017: DATE
+City: GPE
+2003: DATE
+TIFFIN UNIVERSITY: ORG
+1997: DATE
+Skills
+
+Business Analysis: ORG
+Accounting: ORG
+Big Data: ORG
+Business Administration: ORG
+Business Consulting, Business Development, Business
+Solutions: ORG
+Business Systems: ORG
+Customer Relationship Management: ORG
+Information Technology: ORG
+Network: ORG
+Organizational: ORG
+Performance Reviews: PERSON
+Proposals: GPE
+Writing, Speaking, Professor, Quality, Recruitment: WORK_OF_ART
+Relationship Building, Risk Management, Selling: ORG
+Strategic Plans: PERSON
+Supply Chain Management: ORG

@@ -1,0 +1,163 @@
+Customer Service Specialist: ORG
+15 years: DATE
+Skills
+
+Social: ORG
+Complaint: ORG
+Customer: ORG
+Career: LOC
+Spanish: NORP
+Interviewing: PERSON
+Work History
+Social Media Analyst: WORK_OF_ART
+10/2018: DATE
+â€¢Investigate: PRODUCT
+â€¢Identify: FAC
+â€¢ Recognize: PRODUCT
+â€¢ Review: PRODUCT
+â€¢ Top: PRODUCT
+10%: PERCENT
+Quarter 1&2: DATE
+Accuracy
+â€¢ Display: PERSON
+â€¢ Gather: PRODUCT
+Career Services: ORG
+02/2016: ORG
+â€¢: PRODUCT
+â€¢ Build: PRODUCT
+â€¢ Provides: PRODUCT
+â€¢ Top: PRODUCT
+10%: PERCENT
+â€¢ Team: PRODUCT
+â€¢ Completes: PRODUCT
+â€¢ Puts: WORK_OF_ART
+Customer Relations Controller: ORG
+â€¢ Responsible: WORK_OF_ART
+â€¢: PRODUCT
+2,000$ to 10,000 dollars: MONEY
+monthly: DATE
+â€¢ Investigated: PRODUCT
+â€¢ Built: PRODUCT
+Webjet.com: ORG
+â€¢ Reviewed: WORK_OF_ART
+the night: TIME
+â€¢ Looked: PRODUCT
+IP: ORG
+â€¢ Worked in World Span: WORK_OF_ART
+Amadeus: PERSON
+â€¢ Received: PRODUCT
+â€¢: PRODUCT
+â€¢ Created: PRODUCT
+â€¢ Reached: PRODUCT
+Credit Card Company
+
+IS Escalations Supervisor: ORG
+â€¢ Explained: PRODUCT
+â€¢ Checked: PRODUCT
+Visa: ORG
+â€¢: PRODUCT
+â€¢ Sent: PRODUCT
+â€¢ Researched: PRODUCT
+older than 120 days: DATE
+â€¢ Wrote: PRODUCT
+â€¢ Followed: PRODUCT
+Disputes Coordinator: PERSON
+06/2013: CARDINAL
+â€¢ Assisted: PRODUCT
+3: CARDINAL
+â€¢ Researched: PRODUCT
+â€¢ Followed Up: WORK_OF_ART
+â€¢ Reviewed: PRODUCT
+â€¢ Researched: PRODUCT
+â€¢ Worked: PRODUCT
+â€¢ Attended: PRODUCT
+â€¢ Implemented: PRODUCT
+â€¢ Received: PRODUCT
+5%: PERCENT
+â€¢ Participated: PRODUCT
+â€¢ Assisted: PRODUCT
+daily: DATE
+Customer Service Representative: ORG
+06/2013: CARDINAL
+Maintained: GPE
+Skills
+
+Social: ORG
+Complaint: ORG
+Customer: ORG
+Career: LOC
+Spanish: NORP
+Interviewing: PERSON
+Work History
+Social Media Analyst: WORK_OF_ART
+10/2018: DATE
+â€¢Investigate: PRODUCT
+â€¢Investigate: PRODUCT
+â€¢Identify: FAC
+â€¢ Recognize: PRODUCT
+â€¢ Review: PRODUCT
+â€¢ Top: PRODUCT
+10%: PERCENT
+Quarter 1&2: DATE
+Accuracy
+â€¢ Display: PERSON
+â€¢ Gather: PRODUCT
+Career Services: ORG
+02/2016: ORG
+â€¢: PRODUCT
+â€¢ Build: PRODUCT
+â€¢ Provides: PRODUCT
+â€¢ Top: PRODUCT
+10%: PERCENT
+â€¢ Team: PRODUCT
+â€¢ Completes: PRODUCT
+â€¢ Puts: WORK_OF_ART
+Customer Relations Controller: ORG
+â€¢ Responsible: WORK_OF_ART
+â€¢: PRODUCT
+2,000$ to 10,000 dollars: MONEY
+monthly: DATE
+â€¢ Investigated: PRODUCT
+â€¢ Built: PRODUCT
+Webjet.com: ORG
+â€¢ Reviewed: WORK_OF_ART
+the night: TIME
+â€¢ Looked: PRODUCT
+IP: ORG
+â€¢ Worked in World Span: WORK_OF_ART
+Amadeus: PERSON
+â€¢ Received: PRODUCT
+â€¢: PRODUCT
+â€¢ Created: PRODUCT
+â€¢ Reached: PRODUCT
+Credit Card Company
+
+IS Escalations Supervisor: ORG
+â€¢ Explained: PRODUCT
+â€¢ Checked: PRODUCT
+Visa: ORG
+â€¢: PRODUCT
+â€¢ Sent: PRODUCT
+â€¢ Researched: PRODUCT
+older than 120 days: DATE
+â€¢ Wrote: PRODUCT
+â€¢ Followed: PRODUCT
+Disputes Coordinator: PERSON
+06/2013: CARDINAL
+â€¢ Assisted: PRODUCT
+3: CARDINAL
+â€¢ Researched: PRODUCT
+â€¢ Followed Up: WORK_OF_ART
+â€¢ Reviewed: PRODUCT
+â€¢ Researched: PRODUCT
+â€¢ Worked: PRODUCT
+â€¢ Attended: PRODUCT
+â€¢ Implemented: PRODUCT
+â€¢ Received: PRODUCT
+5%: PERCENT
+â€¢ Participated: PRODUCT
+â€¢ Assisted: PRODUCT
+daily: DATE
+Customer Service Representative: ORG
+06/2013: CARDINAL
+Maintained: GPE

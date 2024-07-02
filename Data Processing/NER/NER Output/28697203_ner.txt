@@ -1,0 +1,57 @@
+7 years: DATE
+Agile: ORG
+Scaled Agile Framework: PERSON
+Program Increment: ORG
+Client: GPE
+Release: ORG
+Scrum master / Business: WORK_OF_ART
+Atlassian: NORP
+Trello: NORP
+Public Trust Clearance: ORG
+4: CARDINAL
+Concept
+Client
+Client: ORG
+Managing
+Meetings
+Procurement
+Project Management
+Project: WORK_OF_ART
+SCADA
+Supervisory Control: ORG
+Spanish: NORP
+Upgrade: GPE
+City: GPE
+State INFORMATION TECHNOLOGY PROJECT: ORG
+Data Acquisition: ORG
+Identify: ORG
+fiscal year: DATE
+annual: DATE
+EPA: ORG
+Vulnerability Self Assessment
+Tool: ORG
+CREAT: ORG
+quarterly: DATE
+PI: ORG
+City: GPE
+State: ORG
+Facilitated: ORG
+Scrumban: PRODUCT
+Kanban: ORG
+CMMI: ORG
+Facilitated: ORG
+daily: DATE
+Jira, Confluence: ORG
+daily: DATE
+4: CARDINAL
+2019: DATE
+Project Management Professional: ORG
+2018: DATE
+American University: ORG
+State Master of Arts in International Affairs 2011: ORG
+American University: ORG
+State Master of Arts in Natural Resources 2011
+Clemson University: ORG
+Biological Sciences: LAW
+2008: DATE
+Spanish: NORP

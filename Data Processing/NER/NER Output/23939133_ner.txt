@@ -1,0 +1,56 @@
+Highlights: GPE
+Detail: PERSON
+Fast Learner: PERSON
+Received a Certificate of Appreciation: WORK_OF_ART
+August 2004: DATE
+Los Angeles Southwest College: ORG
+ages 3 to 5 years old: DATE
+two: CARDINAL
+two: CARDINAL
+each year: DATE
+Assist: NORP
+Prepare: ORG
+IEP/IFSP: ORG
+first: ORDINAL
+State of California Health and Welfare Codes: ORG
+Title 22: LAW
+Name City: GPE
+ten: CARDINAL
+twelve: CARDINAL
+12: CARDINAL
+every week: DATE
+at least ninety: CARDINAL
+90) minutes: TIME
+weekly: DATE
+weekly: DATE
+Planned: ORG
+twice a month: DATE
+Family Partnership Agreement: ORG
+first: ORDINAL
+HS: ORG
+Performed: PERSON
+Name City: GPE
+State: ORG
+Recruit: ORG
+Refer: PERSON
+the program year: DATE
+Assist: NORP
+the Family Partnership Agreement: ORG
+Mental Health Specialist: ORG
+MHS: ORG
+Communicate: GPE
+09/2004 Company Name State
+
+: ORG
+Attend: ORG
+weekly: DATE
+monthly: DATE
+State: GPE
+United States Of America: GPE
+English Language 1999 University of Jos City: EVENT
+State: GPE
+Nigeria: GPE
+first: ORDINAL
+Mental Health: ORG
+Maintain: PRODUCT
+Computing: PERSON

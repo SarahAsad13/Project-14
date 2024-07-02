@@ -1,0 +1,35 @@
+PROJECT COORDINATOR
+: PERSON
+Core Qualifications
+
+Medicine and Dentistry Critical Thinking
+Judgment: ORG
+Time Management Active Learning: ORG
+Project Coordinator: ORG
+June 2015 to December 2015: DATE
+Maintained: GPE
+Applied: ORG
+Build: GPE
+Healthcare Administrator: ORG
+January 2013 to December 2013: DATE
+Maintained: GPE
+Developed: PRODUCT
+October 2011 to November 2012: DATE
+Completed: ORG
+Applied: ORG
+Master's : Healthcare Administration: WORK_OF_ART
+Dec 2015: DATE
+Oklahoma State University: ORG
+State Healthcare Administration: ORG
+3.79: CARDINAL
+BDS: ORG
+Nov 2012: DATE
+State: GPE
+India: GPE
+72: CARDINAL
+Skills: ORG
+Critical Thinking: ORG
+Decision Making: ORG
+Multitasking: PERSON
+Quality Control: ORG
+Time Management: ORG

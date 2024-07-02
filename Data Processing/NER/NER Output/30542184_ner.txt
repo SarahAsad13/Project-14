@@ -1,0 +1,99 @@
+20 years: DATE
+2016: DATE
+Windows Vista: PERSON
+Accomplishments
+Awarded: WORK_OF_ART
+Supervisor Â: PERSON
+6 years: DATE
+January 2012 to January 2013: DATE
+Estimate: LOC
+Combat Engineer: PRODUCT
+January 2000: DATE
+Current Company Name: ORG
+Provide the US Army: ORG
+Fluke: GPE
+Bird watt meters: LAW
+BKP: ORG
+Boonton: GPE
+TEK 4ch: ORG
+Advise: PRODUCT
+LMR: ORG
+VHF: ORG
+Combat Engineer: PRODUCT
+January 1992 to January 2000: DATE
+Provide the US Army: ORG
+Fluke: GPE
+Bird watt meters: LAW
+BKP: ORG
+Boonton: GPE
+TEK 4ch: ORG
+Advise: PRODUCT
+LMR: ORG
+VHF: ORG
+City: GPE
+Keesler AFB: ORG
+MS: ORG
+2010: DATE
+Telephone Central Office Repair: ORG
+1987: DATE
+2007: DATE
+1990: DATE
+Microsoft Office: ORG
+2010: DATE
+CA: ORG
+ISO 9001:2008 & AS9100: ORG
+Interests
+Active: ORG
+12 Jan 2011: DATE
+US: GPE
+20 Jan 2011: DATE
+US Army 12B: ORG
+Combat Engineer: ORG
+US Army 12H: ORG
+24 years: DATE
+Subject Matter Expert: PERSON
+SME: ORG
+Target Alert Data Display Systems: ORG
+IFF: ORG
+Special Test Equipment - Advanced Diagnostic Interface Tool: ORG
+PMA: ORG
+Deployed
+Automated Test Set: PERSON
+Skills
+Army: ORG
+Marconi, Office: ORG
+Radar: PRODUCT
+Read, Safety: WORK_OF_ART
+Telephone: ORG
+VHF: ORG
+12 Jan 2011: DATE
+US: GPE
+20 Jan 2011: DATE
+US Army 12B: ORG
+Combat Engineer: ORG
+US: GPE
+Army 12H: ORG
+24 years: DATE
+Subject Matter Expert: PERSON
+SME: ORG
+Target Alert Data: ORG
+Display Systems: ORG
+IFF: ORG
+Special Test Equipment - Advanced Diagnostic Interface Tool: ORG
+PMA: ORG
+Deployed Automated Test Set: PERSON
+Microsoft Office: ORG
+2010: DATE
+CA: ORG
+ISO 9001:2008 & AS9100C: ORG
+Quality Management: ORG
+QMS: ORG
+Aerospace Ground: ORG
+Hazardous Waste Management: ORG
+FOD: ORG
+Time Compliance Technical Directives: ORG
+2: CARDINAL
+4: CARDINAL
+Oversees Deployment ribbons: ORG
+F-22: PRODUCT
+2012: DATE

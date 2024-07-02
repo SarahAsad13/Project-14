@@ -1,0 +1,63 @@
+Summary
+Human Resources: ORG
+Human Resources Generalist: ORG
+Resource: ORG
+years: DATE
+Policy: ORG
+Name City: GPE
+State: ORG
+Current
+
+Sunningdale Tech (Thailand) Co.: ORG
+Name City: GPE
+State HR & Admin: ORG
+Transformed: PERSON
+HR Organization: ORG
+Sekisui s - lec: PERSON
+Thailand ) Co., Ltd.: ORG
+ESIE: ORG
+PVB Interlayer Film: PERSON
+Name City: GPE
+State General Administration: ORG
+One year: DATE
+Purchasing and General Administration: ORG
+Identify: ORG
+annual: DATE
+annual: DATE
+Improve: WORK_OF_ART
+Division: ORG
+Oversea & Domestic: ORG
+Prepare: ORG
+Division: ORG
+Contributes: ORG
+General Administration: ORG
+Develop: ORG
+Establish: NORP
+Respond: PERSON
+Formulate: ORG
+Develop: ORG
+Assess: ORG
+Oversee: ORG
+Conduct: PERSON
+2012: DATE
+National Institute of Development Administration: ORG
+NIDA: ORG
+Cultural Exchange Program: ORG
+2007 City: GPE
+State: GPE
+USA: GPE
+Bachelor of Education 2002 Chulalongkorn University: ORG
+:- Human Resource Management: ORG
+Leadership Competency: PERSON
+Preventive Action: WORK_OF_ART
+8D: CARDINAL
+Why Why Analysis Technique Safety Supervisor Level Software Expertise Efficient: ORG
+MS Office: ORG
+Skills
+Administrative: ORG
+Interpersonal Skills: ORG
+English: LANGUAGE
+Film: PERSON
+Human Resource: ORG
+Managerial, Managing, Exchange: ORG
+Purchasing, Recruitment: ORG

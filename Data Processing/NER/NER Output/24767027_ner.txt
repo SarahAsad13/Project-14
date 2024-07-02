@@ -1,0 +1,100 @@
+Summary
+
+Exceptional Sales Professional: ORG
+annual: DATE
+Fortune 500 company management: WORK_OF_ART
+Winner: PERSON
+Circle Award: PERSON
+100%: PERCENT
+2011: DATE
+Bloomberg: ORG
+labor & employment: ORG
+health care & pharmaceutical: ORG
+health & safety: ORG
+daily: DATE
+Director & VP: ORG
+Law: PERSON
+2012: DATE
+20: CARDINAL
+the Silver Award Deliver: FAC
+Bloomberg BNA: PERSON
+Develop: ORG
+Perform: PERSON
+Bloomberg BNA: ORG
+Healthcare: ORG
+Law: PERSON
+2010: DATE
+May 2011: DATE
+Division of Staples: ORG
+Staples: PRODUCT
+Laid: PERSON
+monthly: DATE
+monthly: DATE
+150%: PERCENT
+Prospect: ORG
+St Louis: GPE
+Jan 2007 to Jan 2010: DATE
+St Louis: GPE
+MO: GPE
+the United States: GPE
+the years: DATE
+Sallie Mae: ORG
+Roche Pharmaceutical: ORG
+St Vincent Health Center: ORG
+Indiana University: ORG
+four: CARDINAL
+millions: CARDINAL
+Indianapolis: GPE
+Kansas City: GPE
+Lexington: GPE
+KY: GPE
+Chicago: GPE
+the first 3 months: DATE
+50%: PERCENT
+month over month: DATE
+above prior years: DATE
+May 2002 to Dec 2006 
+City: DATE
+multi-million dollar: MONEY
+20%: PERCENT
+125%: PERCENT
+2 months: DATE
+$1.5 Million: MONEY
+annual: DATE
+20: CARDINAL
+Key Achievements: LOC
+1: CARDINAL
+Personal Sales Gross: ORG
+THREE Months: DATE
+1: CARDINAL
+EIGHT Months: DATE
+1: CARDINAL
+Months: DATE
+1: CARDINAL
+Personal Sales Gross: ORG
+THREE Months: DATE
+1: CARDINAL
+Personal Sales Gross: ORG
+EIGHT Months: DATE
+1: CARDINAL
+Months: DATE
+1: CARDINAL
+Personal Sales Gross: ORG
+SIX Months: DATE
+1: CARDINAL
+ONE
+Month: DATE
+100%: PERCENT
+Total Gross: ORG
+New Membership Sales: ORG
+Monthly Dues: PERSON
+Business Administration & Criminal: ORG
+Lindenwood University: ORG
+State
+
+Business & Criminal Justice Adminstration: ORG
+Criminal: ORG
+Criminal Justice Accomplishments and Other Achievements JUCO Top: EVENT
+40: CARDINAL
+American: NORP
+40+ hours: TIME

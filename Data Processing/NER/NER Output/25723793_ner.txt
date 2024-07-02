@@ -1,0 +1,65 @@
+SAAS: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Word: PERSON
+Power Point: ORG
+InDesign: ORG
+Adobe Photoshop: PERSON
+Quicken: PERSON
+over 40: CARDINAL
+Josten: GPE
+700k: PRODUCT
+Josten: PERSON
+YoY: GPE
+50%: PERCENT
+2017: DATE
+Digital Media Sales Representative Company Name: ORG
+Convert: ORG
+Cars.com: ORG
+Coach: ORG
+Conducted: ORG
+monthly: DATE
+Cars.com Philadelphia: ORG
+May 2013: DATE
+Presidents Club-Exceeded: ORG
+2013: DATE
+228%: PERCENT
+Achievement: GPE
+2013: DATE
+08/2011: CARDINAL
+08/2012: CARDINAL
+over 20: CARDINAL
+Strategic National Accounts" - the largest: WORK_OF_ART
+Braskem: ORG
+month: DATE
+monthly: DATE
+Braskem: ORG
+Braskem NA: ORG
+Braskem: ORG
+National Plastics Exposition: ORG
+2012: DATE
+08/2011: CARDINAL
+May 2010: DATE
+Bachelor of Science : Marketing International Business SMEAL College of Business: ORG
+Pennsylvania State University: ORG
+State: ORG
+Spain: GPE
+Dean: PERSON
+Alpha Lambda Delta: ORG
+Honors Academic Club: ORG
+April 2007 - May 2009: DATE
+Marketing International Business
+Skills: ORG
+Adobe Photoshop: PERSON
+Coach: ORG
+InDesign: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Quicken: PERSON
+Strategic: PERSON
+Academia All-Conference Award: LAW
+Fall 2006 and 2007: DATE
+Penn State Altoona Women's Soccer Team: ORG
+Fall 2007: DATE

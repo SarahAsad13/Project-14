@@ -1,0 +1,64 @@
+Civil Engineer: ORG
+16 years: DATE
+Organized/ Detail-oriented
+: PERSON
+Microstation/Geopak Design Software: ORG
+Corridor Modeling Design Software: ORG
+Highway: PERSON
+MS Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+CAD: ORG
+four: CARDINAL
+Project Designer 10/2001 to 01/2014 Company Name City: ORG
+KDOT: ORG
+MoDOT: ORG
+Kansas City Metro: GPE
+Oversaw: GPE
+Project Designer Engineers & Architects: ORG
+09/1997 to 10/2001: PERCENT
+Name City: GPE
+KDOT: ORG
+NDOR: ORG
+the City of Salina: GPE
+Kansas: GPE
+the Kansas Department of Transportation: ORG
+Oversaw: GPE
+Summer Intern 05/1996: PERSON
+Name City: GPE
+U.S.: GPE
+166: CARDINAL
+Arkansas City: GPE
+Sedan: GPE
+KS: GPE
+K-360: ORG
+Winfield: ORG
+KS: GPE
+South: LOC
+Bachelor of Science : Healthcare Management Present National American University City: ORG
+State
+
+Healthcare Management
+
+Coursework in Healthcare Management Â 
+
+Bachelor of Science : Civil Engineering: ORG
+Kansas State University City: ORG
+State: GPE
+USA: GPE
+ASCE: ORG
+Geology Emporia State University City: ORG
+State: GPE
+USA: GPE
+Interests: NORP
+Kline & Warren: ORG
+Skills: ORG
+Design Software: PERSON
+Detail: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+Team Player: ORG
+Transportation
+Additional Information
+
+Shafer, Kline & Warren: ORG

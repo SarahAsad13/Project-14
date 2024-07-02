@@ -1,0 +1,131 @@
+Quality Assurance: ORG
+Quality System: ORG
+Data Analysis: ORG
+Skills
+Work History
+Web: WORK_OF_ART
+Database: GPE
+One: CARDINAL
+Glasgow: GPE
+UK: GPE
+Glasgow: PERSON
+UK: GPE
+Iona: PERSON
+Glasgow: GPE
+UK: GPE
+Polling Clark: PERSON
+Scottish: NORP
+BUPA: ORG
+Glasgow: PERSON
+C & C: ORG
+ORACLE: ORG
+SQL Web Technologies: ORG
+HTML5: ORG
+API Experienced: ORG
+Generating: PERSON
+US: GPE
+Canada: GPE
+Puerto Rico: GPE
+Campoverde.(e.g: ORG
+API: ORG
+AbbVie: LAW
+ICH Q3D: ORG
+EMA: ORG
+Pharm Eur: ORG
+USP: ORG
+Gluten-FDA: PERSON
+Assist: NORP
+Abbvie API's Proficient: ORG
+Excel: PRODUCT
+Adobe Acrobat: PERSON
+Visio: PERSON
+IBTN: ORG
+February 2014: DATE
+IBTN: ORG
+IBTN: ORG
+Technical Officer: PERSON
+01/2004: CARDINAL
+South Glasgow: GPE
+NHS Trust: ORG
+UK: GPE
+Adobe Acrobat: PERSON
+Dream Weaver: PERSON
+API: ORG
+ASP: ORG
+C++,: ORG
+Clinical Research: ORG
+Controller: PERSON
+CSS3: GPE
+Client: GPE
+Data
+Management: ORG
+Database: GPE
+Digital Video: ORG
+Embedded C: ORG
+Embedded System: ORG
+HTML5: ORG
+Logic, Access 2000: ORG
+#, Excel: MONEY
+Exchange: ORG
+MS Word: PERSON
+NHS Trust: ORG
+Oracle 9: ORG
+ORACLE: ORG
+ORACLE8.0: PERSON
+Page, PLC: ORG
+Simulation: ORG
+Visio: PERSON
+Visual: GPE
+Visual: ORG
+6.0: CARDINAL
+MCA: ORG
+CMR Institute of Management: ORG
+University of Banglore: ORG
+INDIA: GPE
+Green House Controller: PERSON
+Client: PERSON
+NeSt: ORG
+Trivandrum: GPE
+Kerala: GPE
+India: GPE
+6 months: DATE
+Data Base Management Systems: ORG
+Airline: GPE
+SQL: ORG
+Information System Design: ORG
+Implementation : Employment Exchange: ORG
+6.0: CARDINAL
+ORACLE8.0 Simulation: ORG
+C.
+Interactive: PERSON
+Galixean Game: ORG
+C++ language: TIME
+Computer Architecture: ORG
+Bachelor : Electronics: ORG
+1999: DATE
+Digital Video: ORG
+Data Management for Clinical Research: ORG
+Oracle 9i: ORG
+SQL: ORG
+Oracle
+
+Certified Associate: ORG
+Caledonian University: ORG
+Glasgow Embedded System: WORK_OF_ART
+6-months: DATE
+Nest: ORG
+Mahatma Ghandhi University - City: ORG
+PLC: ORG
+Controller: PERSON
+Database: GPE
+Oracle: ORG
+SQL: ORG
+Pentasoft: PERSON
+India: GPE
+ASP: ORG
+HTML, Dream Weaver: ORG
+Pentasoft: PERSON
+India: GPE
+ECDL Certification: ORG
+SQA: ORG
+Flexicentre Glasgow: PERSON

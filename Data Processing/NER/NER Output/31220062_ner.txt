@@ -1,0 +1,107 @@
+Marketing Coordinator: ORG
+10 years': DATE
+Skills
+
+Marketing: ORG
+Media Plan
+Budgeting
+Advertising & Public
+Relations
+Strategic: ORG
+Brand Management
+Events Management
+Public Relations Campaign
+Public Relations Writing
+Publicity
+Retail: ORG
+Time: ORG
+Proofreading
+Advertising: ORG
+Newsletter
+Agency: ORG
+Organizing
+Brand Management: ORG
+PR
+Budget, Press: ORG
+Puerto Rico: GPE
+Database: GPE
+Public Relations
+Graphics: ORG
+Public
+Inventory: ORG
+Relations
+Logistics: ORG
+Research
+Marketing: ORG
+Retail
+Marketing: ORG
+Strategic
+Marketing: PERSON
+Time: ORG
+Translation
+Meetings: ORG
+Coordinate: FAC
+monthly: DATE
+US: GPE
+Translate: ORG
+Keeps: ORG
+Assist: NORP
+11: CARDINAL
+PR Stores: ORG
+Marketing Coordinator: PERSON
+02/2015: PERSON
+Puerto Rico: GPE
+Korea: GPE
+Coordinate: FAC
+Identify: ORG
+13: CARDINAL
+Keep: PERSON
+Events & Public Relations Coordinator: ORG
+Puerto Rico: GPE
+Coordinate: LOC
+Calculate: ORG
+Develop: ORG
+08/2009: CARDINAL
+Puerto Rico: GPE
+Twitter: PERSON
+YouTube: ORG
+BA : Communication, Public Relations and Advertising: ORG
+12/2009: CARDINAL
+University Of Puerto Rico RÃ​o Piedras: ORG
+monthly: DATE
+US: GPE
+Translate: ORG
+Keeps: ORG
+Assist: NORP
+11: CARDINAL
+PR Stores: ORG
+Marketing Coordinator: PERSON
+02/2015: PERSON
+Korea: GPE
+Coordinate: FAC
+Identify: ORG
+13: CARDINAL
+Keep: PERSON
+Events & Public Relations Coordinator: ORG
+Coordinate: LOC
+Calculate: ORG
+Develop: ORG
+08/2009: CARDINAL
+Twitter: PERSON
+YouTube: ORG
+Brand Management
+Events Management
+Public Relations Campaign
+Public Relations Writing
+Publicity
+Retail: ORG
+Time: ORG
+Proofreading
+
+Skills
+
+Advertising: WORK_OF_ART
+Brand Management: ORG
+Proofreading, Public Relations: ORG
+Strategic: PERSON
+Time: ORG

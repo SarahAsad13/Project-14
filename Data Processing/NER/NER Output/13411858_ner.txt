@@ -1,0 +1,97 @@
+Corporate: ORG
+Highlights: GPE
+21 years: DATE
+Pampered
+Chef: ORG
+1: CARDINAL
+3,000: CARDINAL
+Pampered Chef's: ORG
+2014: DATE
+1.5%: PERCENT
+Online Training Center: ORG
+Committee: ORG
+Consultant Awards &
+Incentives Committee: ORG
+Product Development
+Committee: ORG
+Recipe Advisory Committee: ORG
+one: CARDINAL
+3,000: CARDINAL
+06/1995: ORG
+Concierge: NORP
+FUN: ORG
+875: CARDINAL
+01/1988: ORG
+06/2003: CARDINAL
+Founder/Public Relations/Lead Instructor Company Name: ORG
+State Raised: ORG
+18: CARDINAL
+hundreds: CARDINAL
+28: DATE
+Education: ORG
+1992: DATE
+Bachelor of Arts : Athletic Training/Sports Medicine San Diego State University: ORG
+State: GPE
+USA: GPE
+San Diego State -: GPE
+San Diego: GPE
+CA: GPE
+San Diego: GPE
+5-year: DATE
+Sports Medicine and Athletic Training: ORG
+1990: DATE
+General Education Grossmont College: ORG
+State: GPE
+USA: GPE
+1989: DATE
+Fire Science/Emergency Medical Technician: ORG
+Miramar Community College: ORG
+State: ORG
+USA Living: ORG
+CPR: ORG
+Volunteer
+Fire Department: PERSON
+EMT: ORG
+Miramar College: ORG
+12-week: DATE
+National Fire Academy: ORG
+one: CARDINAL
+only 4: CARDINAL
+Firefighter/EMT: ORG
+the San Diego Rural Fire Department: FAC
+4 years: DATE
+150: CARDINAL
+monthly: DATE
+Pampered Chef's: ORG
+1.5%: PERCENT
+the Pampered Chef's Premiere Level Incentive: ORG
+21 consecutive years: DATE
+2%: PERCENT
+$1.5 Million: MONEY
+Career Personal Sales: ORG
+20 years: DATE
+nearly $10 Million: MONEY
+Pampered Chef's Hospitality Award: ORG
+16: DATE
+the United States: GPE
+a National Dance Academy: ORG
+thousands: CARDINAL
+33: CARDINAL
+4,000: CARDINAL
+35: CARDINAL
+5,000: MONEY
+18: DATE
+10 years: DATE
+19: DATE
+the National Fire Academy: ORG
+San Diego: GPE
+CA: WORK_OF_ART
+1: CARDINAL
+7: CARDINAL
+Motivational: ORG
+Group: ORG
+Writing
+Team: ORG
+Problem: PRODUCT
+Group: ORG
+one: CARDINAL

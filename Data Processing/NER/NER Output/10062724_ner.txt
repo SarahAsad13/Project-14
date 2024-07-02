@@ -1,0 +1,120 @@
+BEHAVIORAL HEALTHCARE HELP LINE: ORG
+LCS 18224Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+
+: DATE
+Client: GPE
+Committed: ORG
+Strength: ORG
+Criminal, Tort: ORG
+Glendale College of Law City: ORG
+State
+University of Southern California City: ORG
+California State University: ORG
+Northridge City: GPE
+Psi Chi: GPE
+10 years: DATE
+Created: ORG
+95%: PERCENT
+several consecutive years: DATE
+Physician Liaison Program: ORG
+Workflow Planning
+
+: ORG
+Computer Skills
+
+Proficient: Epic: ORG
+Word: PERSON
+Lotus: ORG
+Symposium, Foundations: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Visio: PERSON
+State Behavioral Healthcare Help Line: ORG
+Psychiatric Emergency Team Supervisor
+
+Clinical: ORG
+Utilization Management: ORG
+Bed Finding: PERSON
+minutes: TIME
+Â Frequent Caller: ORG
+Social Work: ORG
+celebrations;Â: GPE
+toÂ: CARDINAL
+48 consecutiveÂ hours: TIME
+calls;Â: ORG
+Frequent Caller: ORG
+Department Administrators: ORG
+Southern California Quality
+Assurance: LOC
+ensuredÂ: PRODUCT
+mandatedÂ: PERSON
+monthly: DATE
+every 6 weeks: DATE
+EDsÂ: PRODUCT
+State: ORG
+Employee Assistance Professionals: WORK_OF_ART
+04/1996: CARDINAL
+State: ORG
+monthly: DATE
+Physician Liaison: PERSON
+weekly: DATE
+Caregiver: PRODUCT
+State Behavioral Science Faculty: ORG
+Family Practice Residency Program
+
+: ORG
+Family Practice: ORG
+the Substance Abuse and Psychiatry: ORG
+Brown Bag: WORK_OF_ART
+DSM: ORG
+buildingÂ: PERSON
+toÂ: CARDINAL
+MSW: ORG
+10/1991 - 10/2001: CARDINAL
+10/1990 - 10/1991: CARDINAL
+State Employee Assistance Program/Mental Health Center: ORG
+Human Resources: ORG
+Crisis Intervention: ORG
+companyÂ: ORG
+Stress Management: ORG
+09/1989 - 05/1990: CARDINAL
+12-18 years old: DATE
+telephonic: CARDINAL
+residents;Â: ORG
+1990-1991: DATE
+Stress Management: ORG
+1992-1996: DATE
+Family Practice: ORG
+duringÂ: GPE
+Brown Bag: WORK_OF_ART
+Suicide Risk Factors, Assessment: ORG
+Aftermath
+Psychiatric Holds: PERSON
+Conservatorships: PERSON
+Multicultural Approaches: ORG
+Healthcare: ORG
+Non-Compliant: ORG
+The Cycle of Domestic Violence: ORG
+The Mental Status Exams: ORG
+Anxiety, Depression, Mania: ORG
+Drinking/DrugProblems: ORG
+Symptoms of Alcohol/Drug Intoxication: ORG
+12: CARDINAL
+Loss: PERSON
+Dementia: ORG
+Mexico: GPE
+Indian: NORP
+Arizona: GPE
+New Mexico: GPE
+Navajo: PERSON
+Hopi: GPE
+Cherokee Indians: PERSON
+Camp: ORG
+Down: PERSON
+Â Â 
+
+Languages
+
+Sign language
+
+: PRODUCT

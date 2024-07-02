@@ -1,0 +1,62 @@
+Career Focus: FAC
+Training
+Bachelor of Arts: PERSON
+May 2013: DATE
+Arizona State University: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+2.3: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+2.3: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+Interests: NORP
+140.6: CARDINAL
+Ironman: PERSON
+Arizona: GPE
+2014: DATE
+November 2015: DATE
+Microsoft: ORG
+Excel: PRODUCT
+G-Drive: ORG
+140.6: CARDINAL
+roughly 20 hours: TIME
+monthly: DATE
+250: CARDINAL
+550: CARDINAL
+two: CARDINAL
+12%: PERCENT
+two years: DATE
+30%: PERCENT
+the Run Coach Fall/Spring of 2013- Leading: ORG
+30: CARDINAL
+9-11: DATE
+12: CARDINAL
+January 2014: DATE
+Road Runner Sports: ORG
+two: CARDINAL
+two: CARDINAL
+about 500: CARDINAL
+25: CARDINAL
+Grassroots Marketing Representative: WORK_OF_ART
+May 2013: DATE
+Arizona: GPE
+Road Runner Sports: PERSON
+Arizona: GPE
+October 2011 to May 2013: DATE
+Operations: ORG
+January 2011 to September 2012: DATE
+first: ORDINAL
+8 hours: TIME
+the age of 3 months to 12 years old: DATE
+Front Desk Fitness Attendant: ORG
+April 2006 to January 2011: DATE
+the Summer Kid's Camp: FAC
+Advisor: ORG
+Sports Club: ORG
+July: DATE
+one: CARDINAL
+second: ORDINAL

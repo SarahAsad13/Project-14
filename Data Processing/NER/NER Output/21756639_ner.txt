@@ -1,0 +1,74 @@
+Multi: GPE
+CRM: PRODUCT
+LLC: ORG
+Livehelper: ORG
+Central India: LOC
+BingoCRM: PRODUCT
+LegalZen: ORG
+SmartGen: ORG
+Developer and Co-Founder LegalZen: ORG
+03/2015 Company Name: ORG
+Number] months: DATE
+Workout: PERSON
+over 100: CARDINAL
+92: MONEY
+Michigan: GPE
+Facilitated: ORG
+50: MONEY
+Fortune 50: LAW
+18: MONEY
+Colorado: GPE
+4: CARDINAL
+Wal-Mart: ORG
+Wisconsin: GPE
+Tennessee: GPE
+South Carolina: GPE
+Ohio: GPE
+National Sales Director: ORG
+01/2003: ORG
+General Electric: ORG
+JPMorgan: ORG
+Chase: ORG
+Sunoco: ORG
+British Petroleum: ORG
+30: CARDINAL
+01/2003 Company Name: ORG
+over 150: CARDINAL
+SBA: ORG
+504: CARDINAL
+Bank of America: ORG
+Allied Capital: ORG
+Notable Accomplishments: Documented: WORK_OF_ART
+200M+: MONEY
+Small Business Administration: ORG
+504: CARDINAL
+SBA: ORG
+Juris Doctorate: PERSON
+JD: PERSON
+2001: DATE
+CHICAGO: GPE
+ï¼​ City: GPE
+Dean's: ORG
+Panel on Electronic Voting
+Reformation Recipient: ORG
+The Philosophies of the Criminal Justice System" Appointment: WORK_OF_ART
+Dean's: ORG
+Panel on Electronic Voting
+Reformation Recipient: ORG
+The Philosophies of the Criminal Justice System: WORK_OF_ART
+Bachelor of Arts: ORG
+American: NORP
+European History: PERSON
+1998: DATE
+TULANE UNIVERSITY: ORG
+NEW ï¼​ City: GPE
+Magna Cum Laude Dean's: PERSON
+List Phi Beta Kappa Tulane Senior Scholar Intramural Rugby Team American: WORK_OF_ART
+European: NORP
+List Phi Beta: PERSON
+Kappa Tulane Senior: PERSON
+SEM: ORG
+Social Media: ORG
+Launch Strategies
+Social-Digital Marketing
+Traffic Generation: ORG

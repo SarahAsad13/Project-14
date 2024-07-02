@@ -1,0 +1,130 @@
+Profile: ORG
+PhD: WORK_OF_ART
+Lam Research: ORG
+Statistical Process Control (SPC) and: ORG
+Design of Experiments: ORG
+Process Engineering Intern: WORK_OF_ART
+June 2014 to August 2014: DATE
+Performed: ORG
+Wet Etch area Wrote: WORK_OF_ART
+PT-Inline: ORG
+Etch: LOC
+Washington Nanofabrication Facility: ORG
+UNIVERSITY OF: ORG
+WASHINGTON: GPE
+January 2008: DATE
+Current City: GPE
+MEMS: ORG
+Laser: ORG
+Denton Desk V: PERSON
+Graduate Researcher: ORG
+January 2003 to January 2005: DATE
+Mechanical Engineering: ORG
+April, 2015: DATE
+GPA: ORG
+3.52 / 4.0: MONEY
+3.52: CARDINAL
+4.0: CARDINAL
+Design and Fabrication of Mechanical Resonance Based Scanning Endoscope: WORK_OF_ART
+2006 National Taiwan University: ORG
+ï¼​ City: GPE
+Taiwan: GPE
+GPA: ORG
+3.9: CARDINAL
+3.9 / 4.0 Thesis: MONEY
+Integration and Fabrication: WORK_OF_ART
+Surface Acoustic Wave Micro
+Device: ORG
+Mechanical Engineering: ORG
+2003: DATE
+National Central University Taiwan Mechanical Engineering: ORG
+National Society of Professional Engineers: ORG
+NSPE: ORG
+Analysis Investigation of Novel: ORG
+MEMS: ORG
+SAW: ORG
+Related Class Projects Process Flow: ORG
+CAD: ORG
+Cross-Sectional: ORG
+"Semiconductor Devices: WORK_OF_ART
+SILVACO Atlas Experiment
+Study on Internal Stress in SU-8 Photoresist Cantilever Structure: WORK_OF_ART
+ME561 ": WORK_OF_ART
+Thin Films: WORK_OF_ART
+Calculate: ORG
+PEB: ORG
+Aligner: PERSON
+Karl Suss MA6: PERSON
+ABM: ORG
+HMDS: ORG
+Yield Engineering Systems: ORG
+Dry Etch: WORK_OF_ART
+RIE: ORG
+Trion Phantom RIE & Advanced: ORG
+Vacuum Vision RIE: ORG
+STS Multiplex & Oxford Instruments Plasmalab: ORG
+Sputter: PERSON
+Kurt J.
+Lesker Lab: PERSON
+18: DATE
+FEI Sirion & JEOL JSM-7400F: ORG
+Veeco Wyko NT Series: PERSON
+KLA Tencor P-15 & Alphasteps: ORG
+RCA Clean: ORG
+HF/BOE: ORG
+Cu: ORG
+CMP: ORG
+Gu: PERSON
+Kebin: GPE
+Chi-June Lee: GPE
+Chun-Wei Wu: PERSON
+Chih-Hsuan Chien: PERSON
+Wei-Chih Wang: PERSON
+2D: ORG
+SPIE Smart Structures: ORG
+Materials+ Nondestructive Evaluation: ORG
+Health Monitoring: ORG
+pp.: GPE
+86952F-86952F.: TIME
+Society for Optics: ORG
+Photonics: ORG
+2013: DATE
+Wang: PERSON
+Wei-Chih: PERSON
+William Soetanto: PERSON
+Kebin Gu: PERSON
+SPIE Smart
+Structures: ORG
+Materials+ Nondestructive Evaluation: ORG
+Health Monitoring: ORG
+pp.: GPE
+Photonics: ORG
+2011: DATE
+Gu: PERSON
+Kebin: GPE
+W. Cui: PERSON
+W-C. Wang: ORG
+2011 16th International: DATE
+1574-1577: DATE
+IEEE: ORG
+2011: DATE
+Gu: PERSON
+Kebin: GPE
+C-L. Chang: PERSON
+J-C. Shieh: PERSON
+W-P. Shih: PERSON
+2d: CARDINAL
+Micro Electro Mechanical Systems: ORG
+2006: DATE
+Istanbul: GPE
+19th: ORDINAL
+IEEE International Conference: EVENT
+686: CARDINAL
+2006: DATE
+2D Phononic Crystals: ORG
+Surface Acoustic Wave Micro Device Thesis:: ORG
+Surface Acoustic Wave Micro Device Dissertation: Design and Fabrication of Mechanical Resonance: ORG
+Skills
+
+Academic: ORG
+Laser, Mechanical: ORG

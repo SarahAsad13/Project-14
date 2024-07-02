@@ -1,0 +1,169 @@
+SR: ORG
+Human Resources: ORG
+Skill Highlights
+
+Proficient: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook and Access: ORG
+Kronos Timekeeper
+Hyperion
+PeopleSoft: ORG
+Project Management
+Leadership/Communication Skills: ORG
+Core Accomplishments
+
+Project Management:
+
+Initiated "Caught You Serving: WORK_OF_ART
+33%: PERCENT
+180 day: DATE
+Assisted Executive Team: ORG
+400k: MONEY
+22%: PERCENT
+93%: PERCENT
+monthly: DATE
+575 FTE's: MONEY
+63: CARDINAL
+25%: PERCENT
+TWC: ORG
+Mentored: ORG
+20%: PERCENT
+15%: PERCENT
+575 FTE's: MONEY
+Obamacare: NORP
+Name City: GPE
+Coach One Project: ORG
+50 %: PERCENT
+Chambers: ORG
+60%: PERCENT
+one year: DATE
+1st: ORDINAL
+60-90 days: DATE
+Name City: GPE
+State: ORG
+Human Resources 01/2013: ORG
+Recruited: PRODUCT
+Maintained: GPE
+Coordinated: ORG
+HIPAA: ORG
+Prepared: PRODUCT
+Executive Management's: ORG
+Collaborated with Administrators: ORG
+Name City: GPE
+State Human Resources/Education Instructor III: ORG
+11/2012: CARDINAL
+Need Assessments: ORG
+Developed Leadership and Management/Supervisor: ORG
+Facilitated New Hire and Leadership Orientation: ORG
+Mandatory Classes: ORG
+Harris County Hospital District: ORG
+the Federal Government: ORG
+CPR: ORG
+SAMA: ORG
+Driver: ORG
+Harris County Hospital District: ORG
+Collaborated: ORG
+Performance and Program
+Improvement: ORG
+VP of Human Resources: ORG
+meet Joint Commission's: ORG
+Guidelines and Survey Readiness: ORG
+the Human Resources Department: ORG
+Harris County Hospital District's: ORG
+Collaborated with Harris County's: ORG
+LBJ Hospital's Administrator on a Hospital Readmissions Project: ORG
+14-week: DATE
+Break for Customer Service: WORK_OF_ART
+Name City: GPE
+State Administrative: ORG
+PRS Funds: ORG
+Kronos Timekeeper: PERSON
+monthly: DATE
+monthly: DATE
+Prepared: PERSON
+weekly: DATE
+Grand Rounds: LOC
+RFP: ORG
+HIPPA, Joint Commission: ORG
+Name City: GPE
+State Media Specialist: ORG
+Taught Research Techniques to Grade School: WORK_OF_ART
+MBA: WORK_OF_ART
+Name City: GPE
+State Business Unit: ORG
+Human Resources Branch: ORG
+01/2000: CARDINAL
+Executive: ORG
+Global Oil & Gas: ORG
+Relationship Managers: ORG
+Created: ORG
+Executive Management: ORG
+Monthly: DATE
+Debtor Reports: PERSON
+Branch: ORG
+Conducted: ORG
+mid-year: DATE
+I-9s: ORG
+annual: DATE
+Coordinated: ORG
+Executive Management: ORG
+Name City: GPE
+State Bank: ORG
+10/1998 to 01/2000: CARDINAL
+CIDAR: ORG
+monthly: DATE
+annual: DATE
+Coordinated Regional: PRODUCT
+Global Account Planning: ORG
+Executive Management: ORG
+Created: ORG
+Industry Planning North America: ORG
+Trained Business Development Coordinator: ORG
+Name City: GPE
+State Human Resources: ORG
+09/2008: PERSON
+the Employee Satisfaction Survey: ORG
+Collaborated: ORG
+the Physician Satisfaction Survey: ORG
+State: ORG
+New Employee Orientation: ORG
+Coordinated: ORG
+the Leadership Development Courses ROI Work Projects: ORG
+Facilitated Leadership Orientation: ORG
+CMC: ORG
+UTMB Recognition Events (Service Awards: ORG
+GEM Program: ORG
+Job Fairs: PERSON
+Resume Writing: PERSON
+Hurricane Ike: GPE
+Hurricane Ike: GPE
+Doctorate of Business Administration: ORG
+December 2016: DATE
+Walden University: ORG
+City: GPE
+State Finance: ORG
+August 1990: DATE
+Texas A & M University: ORG
+City: GPE
+State Political Science Business
+Management
+Professional Affiliations
+
+: ORG
+American College of Healthcare Executives: ORG
+ACHE: ORG
+Society for Human Resources Management: ORG
+Bay Area Chapter
+Association for Talent Development: LOC
+Houston
+AMOCO Select Business Partners
+Rotary of League City: ORG
+Texas City/: GPE
+La Marque Chamber of Commerce: ORG
+Bay Area Houston Economic Partnership Alliance: LOC
+BAHEP: ORG
+Veterans: NORP
+Microsoft Office: ORG
+HRIS: ORG

@@ -1,0 +1,93 @@
+DFW PERSONAL CHEF
+Experience
+: ORG
+DFW Personal Chef City: ORG
+27: CARDINAL
+Achievements Analyzed: PERSON
+an additional $606000: MONEY
+annual: DATE
+30%: PERCENT
+google: ORG
+12: CARDINAL
+10: CARDINAL
+15%: PERCENT
+20%: PERCENT
+18%: PERCENT
+81%: PERCENT
+99: CARDINAL
+the Fort Worth Consumer Health Division: FAC
+10 consecutive years: DATE
+GMO: ORG
+Tax Specialist: PERSON
+01/2015: DATE
+State: ORG
+Collaborated: ORG
+IRS: ORG
+H&R Block: ORG
+1000+ hours: TIME
+IRS: ORG
+third: ORDINAL
+Examined: ORG
+60: CARDINAL
+80000: MONEY
+40%: PERCENT
+first: ORDINAL
+98%: PERCENT
+96%: PERCENT
+57: CARDINAL
+Net Promotor Score: ORG
+H&R Block Academy's: ORG
+100: CARDINAL
+98: CARDINAL
+Mentored: PERSON
+first year: DATE
+Regional: GPE
+Managers: ORG
+three years in a row: DATE
+Bloch Excellence: PERSON
+Client: GPE
+06/2008 
+Company Name: ORG
+#1: MONEY
+Texas: GPE
+$3.93 million: MONEY
+annually: DATE
+Achievements Expanded: PERSON
+daily: DATE
+14%: PERCENT
+16%: PERCENT
+77%: PERCENT
+Committed: ORG
+90%: PERCENT
+YOY: ORG
+39: CARDINAL
+YOY Orchestrated: ORG
+Awarded: FAC
+the Year Award: EVENT
+five: CARDINAL
+Bachelor of Science : Business Management Saint Joseph University 
+Business Management Magna Cum Laude: ORG
+15 years: DATE
+English: LANGUAGE
+French: NORP
+Arabic: LANGUAGE
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+Outlook Google Data Analytics: ORG
+Web Metrics Social: ORG
+Hootsuite: PERSON
+Mastering QuickBooks: PERSON
+3 Certified: CARDINAL
+Arabic: LANGUAGE
+Customer Relationship Management: ORG
+Client: GPE
+English: LANGUAGE
+French: NORP
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+98: DATE
+Microsoft: ORG
+QuickBooks: ORG
+Search Engine Optimization: ORG

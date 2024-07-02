@@ -1,0 +1,57 @@
+DIGITAL: ORG
+20 years: DATE
+Quick: ORG
+Creative Suite: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Digital Printing Solutions: ORG
+Digital Production: ORG
+Current Company Name City: ORG
+Digital Production: ORG
+Equipment: GPE
+House Stock: ORG
+Name City: GPE
+ten: CARDINAL
+Document Specialists: WORK_OF_ART
+Protective Services: ORG
+Department Safety Manual: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Initiated: ORG
+14%: PERCENT
+Buffalo: GPE
+Store: PERSON
+Name City: GPE
+inventoryÂ: ORG
+Name City: GPE
+Familiar: PERSON
+BAC: ORG
+DBMP: ORG
+WATS OP: GPE
+OON: ORG
+monthly: DATE
+Finished: PRODUCT
+99.5%: PERCENT
+Name City: GPE
+Successful completionÂ: WORK_OF_ART
+District Trainer: PERSON
+Name City: GPE
+Winner: PERSON
+10%: PERCENT
+annual: DATE
+Bachelor of Science : Communications Video Production: ORG
+State University of New York City: ORG
+State Communications Video Production: ORG
+Associate of Arts and Sciences: ORG
+1994: DATE
+Onondaga Community College City: ORG
+1992: DATE
+Thomas J. Corcoran: PERSON
+State: ORG
+Creative Problem Solving: ORG
+Documentation: ORG
+Microsoft Excel: ORG
+Process Improvement: PERSON
+Project Development: ORG
+Safety: ORG
+Supervision: ORG

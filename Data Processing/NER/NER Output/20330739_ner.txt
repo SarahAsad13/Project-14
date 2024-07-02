@@ -1,0 +1,110 @@
+10+ year: DATE
+Digital, Mobile: ORG
+Social, Business Development & Sales Leadership: ORG
+Retail: GPE
+CPG: ORG
+QSR, Electronics, Entertainment: ORG
+Skill Highlights
+
+Business: ORG
+Core Accomplishments
+
+Sales Management and Leadership : Â 
+
+Built: WORK_OF_ART
+over $25MM: MONEY
+annual: DATE
+Business Development: ORG
+150%: PERCENT
+YoY: GPE
+Exec: PERSON
+Retail: GPE
+CPG: ORG
+e-Commerce, Technology: ORG
+Manage: PRODUCT
+Develop: ORG
+Build Mobile + Social Planning, Marketing & Messaging Strategies: ORG
+Omni-Channel: ORG
+Develop: PRODUCT
+Strengthen Strategic Partnerships: PERSON
+Media / Marketing Strategist: ORG
+Drive Business Development and Strategy: ORG
+Develop: ORG
+Mobile / Digital: ORG
+Develop: ORG
+Team Management: ORG
+10: CARDINAL
+Cross-Screen Digital Technology & RM Solutions: ORG
+25MM: MONEY
+annual: DATE
+the Eastern Region: LOC
+115%: PERCENT
+Media: GPE
+Develop and Report: WORK_OF_ART
+C-Level: ORG
+Mobile: GPE
+Tablet Strategic Executions: PERSON
+Agencies, Clients, Publishers: ORG
+Networks: ORG
+Manage: PRODUCT
+Mobile Ad Serving: ORG
+150%: PERCENT
+annually: DATE
+Mobile Solutions Specialist 
+
+Company Name: ORG
+Manage: PRODUCT
+Mediacom: ORG
+Mindshare: PERSON
+Joule: PERSON
+Carat: ORG
+Media
+Contacts: ORG
+Ogilvy: ORG
+BBDO: PERSON
+Mullen: PERSON
+VH1: ORG
+Bose: PERSON
+IKEA: ORG
+Slim Jim: PERSON
+Ford: ORG
+Coke: ORG
+Six: CARDINAL
+Build: GPE
+Eastern Sales and: ORG
+Business Development 
+Company Name: ORG
+110%: PERCENT
+Develop: ORG
+Walmart: ORG
+P&G: ORG
+Nestle: ORG
+Aquapod: PERSON
+Build: LOC
+Create: ORG
+Madison Avenue Ad Agency: FAC
+Produce TV Commercial Animatics: ORG
+Fortune: WORK_OF_ART
+500: CARDINAL
+MBA: WORK_OF_ART
+Media Communications Management: ORG
+2012: DATE
+Fordham University Graduate School of Business GPA: ORG
+GPA: ORG
+3.9: CARDINAL
+GPA: ORG
+3.9: CARDINAL
+Media Communications: ORG
+1999: DATE
+Syracuse University: ORG
+S.I. Newhouse School of Public Communications: ORG
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+Media Communications and Film Production/Direction
+
+Skills
+
+Sales Management, Business Development and Strategy, Client and: ORG
+Agency Focus: PERSON

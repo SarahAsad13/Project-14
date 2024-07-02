@@ -1,0 +1,80 @@
+DIGITAL MARKETING AND COMMUNICATIONS
+
+Objective
+Obtain the Health Analytic Consultant: ORG
+UnitedHealthcare: ORG
+More than 19 years: DATE
+Develop Â: PRODUCT
+Advocate Physician Partners: ORG
+Strategies: ORG
+Content Management Systems: ORG
+Google Analytics: ORG
+Google Adwords: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+Digital Marketing and Communications: ORG
+2014: DATE
+Advocate: ORG
+51%: PERCENT
+32: CARDINAL
+1,250: MONEY
+1.3M: PERCENT
+46%: PERCENT
+Â Launched: ORG
+3 months: DATE
+23%: PERCENT
+YoY: GPE
+8%: PERCENT
+41%: PERCENT
+6,648: CARDINAL
+AMG: ORG
+2015: DATE
+8.3 million dollars: MONEY
+1,250: MONEY
+Advocatedocs.com: ORG
+Advocate: ORG
+first: ORDINAL
+monthly: DATE
+26%MoM).Â: CARDINAL
+Collaborated: ORG
+Jun: PERSON
+2014: DATE
+Search Engine Optimization: ORG
+Develop Google Adwords: ORG
+Google Ads: PERSON
+Google Analytics: ORG
+Prepare: ORG
+Google Analytics: ORG
+Identify: ORG
+Analyst Jan 2006: DATE
+Jun: PERSON
+Created: ORG
+Jan 2006: DATE
+CRM: PRODUCT
+Strategic Planning: ORG
+CRM: PRODUCT
+CRM: PRODUCT
+CRM Analyst: PRODUCT
+Created SQL: ORG
+CRM: PRODUCT
+Allegra: ORG
+IDX: ORG
+Contact Center Database: FAC
+Physician Lists: PERSON
+DePaul University Public Service Management: ORG
+Healthcare
+Administration
+Bachelor of Science , Biological Sciences 5/96 University of Illinois Biological Sciences: ORG
+Professional Affiliations: ORG
+the American Marketing Association: ORG
+DePaul University Alumni Association: ORG
+the University of Illinois
+Alumni Association: ORG
+2016: DATE
+BIA/Kelsey GOLOCAL: ORG
+2016: DATE
+Best Healthcare Provider Integrated Ad Campaign Internet Advertising Award: ORG

@@ -1,0 +1,63 @@
+Team Building: ORG
+Employee Scheduling, Event Management and Promotion, Expense Control: ORG
+Understands: GPE
+Culinary Instructor: PRODUCT
+nine consecutive years: DATE
+Manage Business
+Human Resources Leadership
+Community Outreach: ORG
+Builds Great Teams: WORK_OF_ART
+Achieve Superior Results
+Organized
+Team Leadership: PERSON
+Microsoft Office Tools
+Staff Development: ORG
+State: ORG
+Culinary Science, Food Service: ORG
+Food Safety and Sanitation & Customer Service Skills: ORG
+Lecture/Lab Class: ORG
+Pastry Chef/Manager 01/1995 to 01/1997 Company Name City: ORG
+State: ORG
+Boulangar: PERSON
+Garde Manger: PERSON
+Chef De Cuisine: PERSON
+Sun City: GPE
+Arizona: GPE
+Bachelor of Science : Business Management 2012: ORG
+The Art Institute of Pittsburgh City: ORG
+State: GPE
+USA: GPE
+1998: DATE
+The Art Institute of Phoenix City: ORG
+State: GPE
+USA: GPE
+Valedictorian: NORP
+3.8: CARDINAL
+Superior: LOC
+Pennsylvania: GPE
+Dennis Turkey Farm: ORG
+Grandpa Dennis: PERSON
+Glisans: NORP
+1998-2000: DATE
+Carter: PERSON
+Carter P.C.-Owned: PERSON
+Carter: PERSON
+Carter P.C. Owned: PERSON
+1995-96: DATE
+Five Star: ORG
+Banquet Server: PERSON
+Chef de Partie: ORG
+Pre-1995 - Dennis Turkey Farm: ORG
+Pastry Chef and Sales Processor: ORG
+Strategic Planning, Risk Management, Service Quality Improvement: ORG
+Team
+Building: ORG
+Problems: NORP
+Employee Scheduling, Event Management: ORG
+Promotion, Expense Control: ORG
+Standards: PERSON
+Understands: GPE
+Serv Safe: PERSON
+Lecture: PERSON
+F.O.H.: ORG
+Created: ORG

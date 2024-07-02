@@ -1,0 +1,82 @@
+PROJECT ADMINISTRATOR ENGINEERING: ORG
+10 years: DATE
+Accounting, Property Accounting: ORG
+Project
+Administration: ORG
+Strength: PERSON
+Budget: ORG
+Complex: NORP
+Advanced: ORG
+Mac: PERSON
+Project Administrator Engineering: ORG
+Jan 2007 to Jan 2009: DATE
+Advanced: ORG
+Mac: PERSON
+Executive: ORG
+Maintained: PERSON
+monthly: DATE
+Prepared: PRODUCT
+monthly: DATE
+Prepared: PERSON
+quarterly: DATE
+monthly: DATE
+daily: DATE
+Contracts Audited: PERSON
+Assisted Controller: PERSON
+year end: DATE
+Monitored Job Cost: ORG
+Year: DATE
+Prepared: PRODUCT
+monthly: DATE
+Tenants: ORG
+Lease Agreement Process: ORG
+Jan 2000: DATE
+Jan 2007: DATE
+monthly: DATE
+Prepared: PERSON
+Officers Prepared: PRODUCT
+Prepared: PRODUCT
+Reviewed Consultant invoices and code: WORK_OF_ART
+Prepared: PERSON
+monthly: DATE
+Prepared Standard Forms 295 & 294: WORK_OF_ART
+quarterly: DATE
+States: GPE
+Assisted Controller: PERSON
+year end: DATE
+Coordinated: ORG
+Jan 1998 to Jan 2000: DATE
+monthly: DATE
+Reconciled: DATE
+American Express: ORG
+Reviewed: EVENT
+Ledger: PERSON
+monthly: DATE
+monthly: DATE
+Project Accountant Jul 2009: PERSON
+weekly: DATE
+the Eastern Region: LOC
+Calculate: ORG
+US: GPE
+month-end: DATE
+Monthly: DATE
+the Director of Operation: ORG
+Education: ORG
+M.B.A: ORG
+Business Administrator 2005: ORG
+American Intercontinental University: ORG
+State Business Administrator
+B.A , Accounting: ORG
+1997: DATE
+Florida International University: ORG
+State Accounting: ORG
+Skills: ORG
+AIA: ORG
+daily: DATE
+Contracts: ORG
+Controller: PERSON
+Ledger: PERSON
+Microsoft: ORG
+PowerPoint: ORG
+Pivot: ORG
+Express: ORG

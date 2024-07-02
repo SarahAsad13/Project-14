@@ -1,0 +1,70 @@
+Skills
+
+Sales Management
+Account Management
+Program Management
+Client Relationships: ORG
+02/2013: CARDINAL
+2014: DATE
+Fitness Kick-off: PERSON
+Challenge: ORG
+Owner: ORG
+daily: DATE
+first: ORDINAL
+Austin: PERSON
+5: CARDINAL
+the first year: DATE
+October 31, 2014: DATE
+Central Regional: LOC
+10/2008: DATE
+eight: CARDINAL
+two: CARDINAL
+$2.7 million: MONEY
+Monthly: DATE
+Fine Wine Specialist: PERSON
+2008 to: DATE
+Diamond: ORG
+monthly: DATE
+Western Regional Sales Manager: ORG
+2005: DATE
+2008: DATE
+six: CARDINAL
+eight: CARDINAL
+1million: MONEY
+Developed Excel: PRODUCT
+monthly: DATE
+9.5%: PERCENT
+California Area Sales Manager: ORG
+2002: DATE
+2004: DATE
+13: CARDINAL
+24%: PERCENT
+Wine Steward/Educator: PERSON
+monthly: DATE
+monthly: DATE
+Wine Educator: PERSON
+2000: DATE
+the Terrace Wine Bar: ORG
+the Golden Vine Winery: FAC
+Robert Mondavi: PERSON
+Disney: ORG
+California Adventure: ORG
+Conducted: ORG
+1995: DATE
+1998: DATE
+1988: DATE
+1991: DATE
+two: CARDINAL
+Austin: GPE
+TX: ORG
+University of Texas - City: ORG
+State 
+Communications
+Volunteering
+Blue Dog Rescue: ORG
+Certifications: ORG
+2013: DATE
+Certified Bar Method Fitness Instructor: ORG
+2012: DATE
+Certified Power Yoga: ORG
+2002: DATE

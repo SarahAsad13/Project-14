@@ -1,0 +1,163 @@
+Registered Professional Engineer: ORG
+Microsoft Office: ORG
+Adobe Pro: PERSON
+Bid & Specification Preparation: ORG
+Worksite Safety *Team Building & Mentoring *Workflow Planning *: ORG
+Facility Management &
+Maintenance *Civil, Environmental & Structural Engineering *Refinery, Water & Wastewater Pipelines *Management of Change: ORG
+MOC: ORG
+API: ORG
+ASTM: ORG
+AISC: ORG
+DOT: ORG
+192: CARDINAL
+195: CARDINAL
+Refining, Offshore/Inland Water
+Projects *Project Scope: ORG
+Process Hazard Analyses: PERSON
+PHA: ORG
+Pipeline Hot Tap & Stopple
+Skills
+
+Project: ORG
+Construction Management
+Team Building
+Cost: ORG
+Schedule: PERSON
+Bid & Specification Preparation: ORG
+Refining, Offshore/Inland Water
+Projects
+
+Interpersonal: ORG
+Worksite Safety: PERSON
+Facility Management & Maintenance
+Civil, Environmental & Structural Engineering
+Refinery, Water & Wastewater Pipelines
+Management of Change: ORG
+MOC: ORG
+API: ORG
+ASTM: ORG
+AISC: ORG
+DOT: ORG
+192: CARDINAL
+195: CARDINAL
+PSM: ORG
+Project Scope: ORG
+Process Hazard Analyses: PERSON
+PHA: ORG
+Pipeline Hot Tap & StoppleÂ 
+
+Accomplishments
+
+USPCI/Laidlaw Environmental Services: ORG
+annual: DATE
+750K+: MONEY
+Phillips Petroleum Company: Saved: ORG
+2M: PERSON
+$1M: MONEY
+annual: DATE
+500: MONEY
+199-foot: QUANTITY
+three months early: DATE
+five: CARDINAL
+three fabrication yards: QUANTITY
+500: MONEY
+Flare And Relief Modifications (FARM: WORK_OF_ART
+Brownfield: GPE
+1B: MONEY
+ten: CARDINAL
+Oversaw: GPE
+Angola: GPE
+MOC: ORG
+more than 350: CARDINAL
+Angolan: GPE
+14: CARDINAL
+24-inch: QUANTITY
+almost one million barrels: QUANTITY
+World Health Organization: ORG
+million: CARDINAL
+man-hours: TIME
+DAFW: ORG
+TRIR: ORG
+0.18: CARDINAL
+100: MONEY
+250M.: MONEY
+8B Rosebank: PERSON
+FPSO: ORG
+the North Atlantic: LOC
+daily: DATE
+100: CARDINAL
+Korea: GPE
+US: GPE
+Prepared: PRODUCT
+QA/QC: ORG
+eight: CARDINAL
+three: CARDINAL
+Korean: NORP
+four: CARDINAL
+2B: MONEY
+750: MONEY
+QA/QC: ORG
+five modules: QUANTITY
+2.5B: MONEY
+Mafumeira Sul: PERSON
+South Korea: GPE
+Oversaw: GPE
+Risk Management Plans: ORG
+Process Safety Management: ORG
+Process Safety Risk Assessments: ORG
+3,000: CARDINAL
+145: CARDINAL
+$1M: MONEY
+$200: MONEY
+Iraq: GPE
+90-inch: QUANTITY
+Chicago-O'Hare Airport: ORG
+five: CARDINAL
+annually: DATE
+two years: DATE
+Project and Construction Management Consultant Company Name: ORG
+Oklahoma: GPE
+Louisiana: GPE
+Mobil: ORG
+Continental Carbon: ORG
+Envirotech: GPE
+Phillips Petroleum: ORG
+four: CARDINAL
+five: CARDINAL
+a two-
+month: DATE
+four years: DATE
+Current
+Consulting Project and Construction Manager Company Name: ORG
+Training
+Master of Science : Civil Engineering University of Missouri Civil Engineering
+Bachelor of Science : Civil Engineering University of Arkansas Civil Engineering
+Transportation Worker Identification Credential: WORK_OF_ART
+Transportation Security Administration: ORG
+States Coast Guard: ORG
+Global Entry Card: ORG
+United States Customs and Border Protection Capital Stewardship: ORG
+Chevron Corp - PMI: ORG
+Operational Excellence: ORG
+Activities and Honors
+Professional Engineering Licenses - Arkansas: ORG
+Missouri: GPE
+Kansas: GPE
+Texas: GPE
+Oklahoma: GPE
+Illinois: GPE
+Massachusetts: GPE
+Arkansas: GPE
+NCEES
+Industry Affiliations - American Society of Civil Engineers: ORG
+Concrete Reinforcing Steel Institute: ORG
+CRSI)Â 
+Hold: PRODUCT
+Skills: ORG
+Korean: NORP
+Organizational: ORG
+QA: ORG
+Risk Management: ORG
+Safety: ORG
+Transportation: ORG

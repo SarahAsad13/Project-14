@@ -1,0 +1,82 @@
+Human Resources: ORG
+Customer Service: ORG
+MS Excel: ORG
+Share Point: PERSON
+Taleo: PERSON
+One: CARDINAL
+SAP: GPE
+Visio: PERSON
+Outlook: PERSON
+over 3,500: CARDINAL
+October 2012 to July 2015: DATE
+Provide Human Resources: ORG
+Kraft Foods: ORG
+Kraft: ORG
+Workforce Solutions Intake: ORG
+Intake: ORG
+Oversee Share Point: ORG
+Intake: ORG
+over 3,500: CARDINAL
+Support Sr.: PERSON
+SharePoint: ORG
+Excel: PRODUCT
+quarterly: DATE
+Kraft Foods Scholarship: ORG
+third: ORDINAL
+FAQ: ORG
+New York: GPE
+January 2012 to October 2012: DATE
+Workforce Solutions: ORG
+Illinois: GPE
+U.S.: GPE
+Generate: PERSON
+February 2008 to January 2012: DATE
+HR Coordinator Sales 
+
+: ORG
+Area VP Sales: ORG
+Created Sales Newsletter: ORG
+Gallup Survey Systems: ORG
+Chicago: GPE
+Kansas City Customer Logistics Group: ORG
+Distribute Unemployment Claims: ORG
+U.S.: GPE
+monthly: DATE
+hours: TIME
+STD: ORG
+New Hires: ORG
+Submit HR Online: ORG
+Return to Work & Job Changes: ORG
+Confirm: ORG
+September 2007 to February 2008: DATE
+Team Sites for Central Area: ORG
+Outlook: PERSON
+Incentive Contest: ORG
+weekly: DATE
+Format: GPE
+quarterly: DATE
+Power Point: PRODUCT
+weekly: DATE
+monthly: DATE
+monthly: DATE
+Retail Leads: PERSON
+A/P for Service Center, Retail: ORG
+University of Phoenix 2012 Bachelor : Psychology
+: ORG
+Outlook, Power Point: ORG
+Visio: PERSON
+One: CARDINAL
+Share Point: PERSON
+SAP: ORG
+Advise: PERSON
+Autonomy: GPE
+Survey Monkey: PERSON
+Taleo
+
+: PERSON
+Prosci Change Management Certification: ORG
+2015: DATE
+Herrmann Brain Dominance Instrument: ORG
+2014: DATE
+Interview Skills Selection: ORG
+2014: DATE

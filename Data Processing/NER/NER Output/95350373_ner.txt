@@ -1,0 +1,62 @@
+Professional Overview
+Masters of Social Work Performed: ORG
+over 10 years: DATE
+Kaiser Permanente: ORG
+South San Francisco: GPE
+CA: ORG
+Cook County Hospital: FAC
+Chicago: GPE
+IL Self: ORG
+Advised: PERSON
+Missouri: GPE
+InterQual: PRODUCT
+Medicare: ORG
+Medicaid/MediCal: ORG
+Social Security: ORG
+80%: PERCENT
+75%: PERCENT
+35,000: MONEY
+over $1,000,000: MONEY
+over 10: CARDINAL
+30: CARDINAL
+Community, Organization, Planning: ORG
+Administration University of Southern California ï¼​ City: ORG
+Tommy
+Trojan: PERSON
+the School of Social Work Community: ORG
+Organization, Planning: ORG
+Tommy Trojan: PERSON
+the School of Social Work
+Bachelors: ORG
+ï¼​ City: GPE
+January 1998: DATE
+Current Company Name: ORG
+California: GPE
+Illinois: GPE
+Missouri: GPE
+Assist: NORP
+Los Angeles County Superior Court: GPE
+Probate Investigator: ORG
+Utilized Medicare: ORG
+MediCal: ORG
+Social Security: ORG
+DME: ORG
+January 2010: DATE
+Current Company Name: ORG
+Kaiser Permanente: ORG
+Complete: ORG
+Document on Clinical Documentation Systems: ORG
+Health Connect: ORG
+January 2006 to January 2010: DATE
+adult day: ORG
+Assess: ORG
+January 2004 to January 2006: DATE
+icu: ORG
+ccu: PERSON
+Assist: NORP
+CPR: ORG
+CPR: ORG
+Documentation: ORG
+Instructor: ORG
+Memberships/Scholarly Societies: ORG
+American Heart Association California Board of Behavioral Sciences National Association of Social Workers YMCA Youth Coach: ORG

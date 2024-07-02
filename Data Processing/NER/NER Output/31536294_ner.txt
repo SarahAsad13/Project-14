@@ -1,0 +1,99 @@
+Detail: PERSON
+Excels: PERSON
+Process Improvement
+
+Personnel Management
+Client Relations: WORK_OF_ART
+Name City: GPE
+Managed Pressure Drilling: ORG
+3: CARDINAL
+MPD: ORG
+the Organization
+Identifying and Managing Continuous Improvement Opportunities: ORG
+MPD Control Systems: ORG
+Interface Machines: PERSON
+Power Units: ORG
+Pressure Control Chokes: ORG
+Flow Meters: PERSON
+Computer Networking and Communications: ORG
+Rotating Control Devices: ORG
+1500: CARDINAL
+2500: CARDINAL
+5: CARDINAL
+un: ORG
+Name City: GPE
+State Electrical Branch Supervisor/ Plane Captain/ Aviation: ORG
+07/2011: CARDINAL
+115: CARDINAL
+the Electrical Division: ORG
+6: CARDINAL
+the Western Pacific Ocean: LOC
+USS George Washington: PERSON
+7: CARDINAL
+5: CARDINAL
+Awarded two Navy: ORG
+Marine Corps Achievement: ORG
+Enlisted Aviation Warfare Specialist: ORG
+2010: DATE
+the Year: DATE
+Name City: GPE
+State Line Division: ORG
+120: CARDINAL
+15: CARDINAL
+daily: DATE
+twelve: CARDINAL
+E2-C HawkEye: ORG
+four: CARDINAL
+C-2A Greyhound: PRODUCT
+14: CARDINAL
+4 months: DATE
+night: TIME
+30%: PERCENT
+Bachelor of Arts : Business Administration: ORG
+2017: DATE
+Pennsylvania State University Expected: ORG
+2017: DATE
+2016: DATE
+Well Control School , City: ORG
+State: GPE
+USA: GPE
+2016: DATE
+City: GPE
+State: GPE
+USA: GPE
+HUET & BOSIET Â 
+
+: ORG
+2013: CARDINAL
+State: GPE
+USA: GPE
+MPD / DPM Training: ORG
+2012-2013: DATE
+Well Bore Construction
+Drilling Fluids
+: WORK_OF_ART
+Intro: ORG
+Hydraulics for Drilling Operations: ORG
+Well Control Basics Dynamic Pressure Drilling
+Advanced Single Phase MPD: ORG
+Multiphase MPD Operations: ORG
+Pressure Control 101: PRODUCT
+Control Systems Tech Basic & Advanced: ORG
+2012: DATE
+LoneStar College: ORG
+2010: DATE
+Central Texas College: ORG
+2006: DATE
+Advanced Electronics: ORG
+2005-2006: DATE
+MPD Projects/Clients
+
+Shell - Mars: ORG
+Olympus: PRODUCT
+Alaska: PRODUCT
+Walter Oil &Gas: ORG
+EnVen Energy Ventures: ORG
+Castex Energy: ORG
+Chevron - Genesis: ORG
+Lineham Creek: GPE
+Encana Corporation: PERSON

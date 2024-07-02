@@ -1,0 +1,27 @@
+CM/PCS: ORG
+CPT: ORG
+HCPCS II: EVENT
+Training: PERSON
+July 2016: DATE
+Career Step Professional Medical Coding: ORG
+Billing Program City: ORG
+State Certificate of Graduation with Honors *Inpatient and Outpatient: ORG
+Professional Affiliations: ORG
+American Academy of Professional Coders: ORG
+American Health Information Management Association: ORG
+Professional Experience
+01/2013: ORG
+Tutor Company Name
+
+Tutored: WORK_OF_ART
+weekly: DATE
+Researched: ORG
+Latin: LANGUAGE
+Debate: GPE
+Current
+Office: ORG
+Monitored: ORG
+Independent Sales Consultant Company Name: ORG
+Communicated: ORG
+Recruited: PRODUCT
+grammar: PERSON

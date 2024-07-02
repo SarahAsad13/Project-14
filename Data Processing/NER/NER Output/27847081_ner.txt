@@ -1,0 +1,56 @@
+10 years': DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Relevant Coursework
+Theories of Human Communication
+Oral Communication
+Customer Service Oriented: ORG
+Detail-Oriented
+Oral Communication: PERSON
+Payroll: ORG
+Interpersonal Skills Staffing: ORG
+Budget: ORG
+Specialist/ Horizontal Engineer: ORG
+Created: ORG
+Communicated: ORG
+Drive: ORG
+strip: GPE
+Obtained: ORG
+Shipping Clerk: PERSON
+03/2015: WORK_OF_ART
+Performance Review Excerpts Jocelyn: ORG
+Jocelyn: PERSON
+Bachelor of Science : Business Administrattion: ORG
+2018: DATE
+Grantham University - City: ORG
+GPA: ORG
+3.7: CARDINAL
+2008: DATE
+AIT - City: ORG
+Interpersonal Skills: ORG
+Oral Communication: ORG
+Customer Service: ORG
+Detail-Oriented: PERSON
+Engineer: ORG
+Human Resource: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word, Works: ORG
+Payroll: ORG
+SAP: ORG
+Time Management: ORG
+Writing Skills
+Additional Information
+
+Awards/Recognition Received a Promotion: ORG
+2011: CARDINAL
+2012: DATE
+100: MONEY
+weekly: DATE
+the week: DATE
+2012: DATE
+100: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT

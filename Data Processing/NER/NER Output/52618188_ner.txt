@@ -1,0 +1,122 @@
+Microsoft: ORG
+95: CARDINAL
+98, 2000: DATE
+XP: ORG
+Microsoft Active Directory: ORG
+Microsoft Works: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+SAP: ORG
+CRM: PRODUCT
+ERP: ORG
+Oracle: ORG
+JD Edwards: PERSON
+Remedy: PERSON
+Great Plains: PERSON
+PeopleSoft: ORG
+SharePoint: ORG
+Avaya: ORG
+Blue Pumpkin: ORG
+Verint: GPE
+Novell: ORG
+VDI Platforms: ORG
+Cognos: GPE
+Excel: PRODUCT
+Superb: NORP
+Critical: ORG
+Decisive: GPE
+Desk Specialist: PERSON
+August 2014: DATE
+Current Company Name: ORG
+Display: PERSON
+Demonstrate: ORG
+Maintain: PRODUCT
+Research: ORG
+Log: PERSON
+Identify: ORG
+Track: PERSON
+Quality Assurance IT Analyst: ORG
+September 2011 to January 2014: DATE
+Serve: PERSON
+KPI: ORG
+Display: PERSON
+Display: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Train: GPE
+Extract: ORG
+weekly: DATE
+Power Point: PRODUCT
+daily: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Consults with Information Technology: ORG
+Business Operations Analyst: ORG
+September 2008 to January 2011: DATE
+daily: DATE
+monthly: DATE
+quarterly: DATE
+SAP: ORG
+Sharepoint: ORG
+weekly: DATE
+Power Point: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+SAP: ORG
+Share Point: PERSON
+daily: DATE
+monthly: DATE
+quarterly: DATE
+HP: ORG
+Produce weekly: ORG
+Power Point: PRODUCT
+daily: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Assist: NORP
+Purchase Orders and Invoices Responsible: ORG
+daily: DATE
+Maintain: PERSON
+Calendar: PRODUCT
+Customer Service Professional: ORG
+March 2007 to August 2008: DATE
+Shell Source: ORG
+EDI: ORG
+the SAP/CRM: LAW
+Remedy: PERSON
+Assign: GPE
+Remedy Maintain: PERSON
+BBA : Business Administration: ORG
+2015: DATE
+Sam Houston State University: PERSON
+State: GPE
+USA: GPE
+Skills
+
+Active Directory: ORG
+Avaya: ORG
+Cognos: PRODUCT
+CRM: PRODUCT
+EDI: ORG
+ERP: ORG
+Great Plains: PERSON
+HP, Information Technology: ORG
+JD Edwards: PERSON
+Microsoft Excel: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+Power Point: ORG
+Microsoft Windows: ORG
+2000: DATE
+98: DATE
+Microsoft Works: ORG
+Novell: ORG
+Operating Systems: ORG
+Oracle: ORG
+PeopleSoft: ORG
+Research: ORG
+SAP: ORG
+Shell: ORG
+Supply Chain: ORG

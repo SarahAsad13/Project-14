@@ -1,0 +1,33 @@
+Representative Skills: PERSON
+Math: PERSON
+Spanish: NORP
+Restaurant: ORG
+Sep 2015 to: DATE
+daily: DATE
+Keep: PERSON
+Demonstrate: ORG
+Attend: ORG
+2012: DATE
+Sep 2015: DATE
+Investigate: ORG
+Schedule: PERSON
+Investigate: ORG
+Assembler Apr 2015: PERSON
+at least 30lbs: CARDINAL
+Shovel: PERSON
+Compile: PRODUCT
+the end of the day: DATE
+Estimate: LOC
+State: GPE
+United States: GPE
+3.0: CARDINAL
+GPA
+
+Involved with Music & Music Projects: ORG
+Latina's Club
+
+Languages
+
+Bilingual: ORG
+Spanish: NORP
+Spanish: LANGUAGE

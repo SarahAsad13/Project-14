@@ -1,0 +1,57 @@
+Career Overview
+
+Contribute: WORK_OF_ART
+Web Application
+Security: ORG
+QA Tools
+Enterprise Technologies
+System Upgrade/Migration/Back: ORG
+Management and Teamwork: ORG
+Data Backup: ORG
+Prioritization Tasks
+Clear Quest / SharePoint: WORK_OF_ART
+Technical Specifications Creations: ORG
+IPC (Incident, Problem, & Change Management: ORG
+SQL: ORG
+Adaptation Model Ethical Management: ORG
+Analyst Programmer: PERSON
+Well Tracking
+Management
+Development: WORK_OF_ART
+Technical Skills: PERSON
+13: CARDINAL
+2016: DATE
+-Implementation Core: ORG
+Technical Implementation Apr 2003: ORG
+third: ORDINAL
+Coordinated: ORG
+UNIX: ORG
+Windows: NORP
+first: ORDINAL
+Developed: ORG
+six: CARDINAL
+Weekly: DATE
+Jun 2015 to Feb 2016: DATE
+Banco del Reserva - Dominican Republic DR Ensured: ORG
+third: ORDINAL
+Coordinated: ORG
+first: ORDINAL
+SharePoint: ORG
+SharePoint: ORG
+six: CARDINAL
+Weekly: DATE
+Evaluate: ORG
+2003: DATE
+Juan Pablo Duarte: PERSON
+-QA Tools
+
+-Enterprise Technologies
+
+-System Upgrade/Migration/Back up
+
+-Management and Teamwork: WORK_OF_ART
+Backup: PERSON
+IPC (Incident, Problem: ORG
+SQL & Change Management: ORG
+-Adaptation Model Ethical Management: ORG
+-Analyst Programmer: PERSON

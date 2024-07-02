@@ -1,0 +1,57 @@
+508: CARDINAL
+UL: ORG
+Microsoft Office Applications: ORG
+Word: PERSON
+Excel: PRODUCT
+CCTV: ORG
+PowerPoint: ORG
+Sprecher + Schuh: PERSON
+Wire: PERSON
+Edgardo M. Dubose: PERSON
+Excel: PRODUCT
+PowerPoint Â: ORG
+daily: DATE
+Forklift
+Highlights
+
+Immaculate Customer ServiceÂ: ORG
+Autistic Individuals
+Security Certification- Levels 1: ORG
+2: DATE
+3: CARDINAL
+Pallet Jack Certificate: PERSON
+Ebiz, Management: ORG
+Team: ORG
+Chemicals Understanding: FAC
+Applying Sofit, Siding: ORG
+Assembler Company Name: ORG
+Assemble Chromatograph: PERSON
+01/2011: CARDINAL
+Circuit: ORG
+Build: GPE
+Drill: PERSON
+Assemble Enclosure: PERSON
+Security Guard Company Name: ORG
+Front: ORG
+Multi: GPE
+Birddogs: GPE
+01/2009: WORK_OF_ART
+Supervisor Company Name ï¼​ City: WORK_OF_ART
+State: ORG
+Maintained: GPE
+Assemble: PRODUCT
+01/2004: CARDINAL
+daily: DATE
+Maintain: PRODUCT
+Fire Science BAKERSFIELD: ORG
+City: GPE
+State Fire Science: FAC
+HOUSTON COMMUNITY COLLEGE: ORG
+City: GPE
+Skills: ORG
+Forklift: ORG
+Inspect: GPE
+Team: ORG
+Pallet Jack: PERSON
+Read, Safety: WORK_OF_ART
+Soldering: PERSON

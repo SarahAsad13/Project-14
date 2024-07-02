@@ -1,0 +1,78 @@
+four years: DATE
+one year: DATE
+two years: DATE
+Donor Relations: ORG
+Skills: ORG
+Detail: PERSON
+Strong: PERSON
+CRM: PRODUCT
+Work History
+Donor Advocate: WORK_OF_ART
+03/2020: CARDINAL
+300: CARDINAL
+Created: ORG
+CRM: PRODUCT
+Salesforce
+
+Team Leader for the Children of the World Choir: ORG
+06/2017: CARDINAL
+19: CARDINAL
+13: CARDINAL
+Philippines: GPE
+Nepal: GPE
+Honduras: GPE
+Uganda: GPE
+10-month: DATE
+United States: GPE
+the International Children's: ORG
+the United States
+Responsible: GPE
+Elementary Teacher: PERSON
+06/2016: ORG
+Bolstered: ORG
+Collaborated: ORG
+Established: ORG
+100%: PERCENT
+Virginia Reading: PERSON
+100%: PERCENT
+two years in a row: DATE
+Virginia Math SOL: PERSON
+Bachelor of Science :: ORG
+2011: CARDINAL
+Liberty University - City: ORG
+State: ORG
+Skills: ORG
+Strong: PERSON
+CRM: PRODUCT
+Work History
+Donor Advocate: WORK_OF_ART
+03/2020: CARDINAL
+300: CARDINAL
+300: CARDINAL
+Created: ORG
+CRM: PRODUCT
+Salesforce
+
+Team Leader for the Children of the World Choir: ORG
+06/2017: CARDINAL
+19: CARDINAL
+13: CARDINAL
+Philippines: GPE
+Nepal: GPE
+Honduras: GPE
+Uganda: GPE
+10-month: DATE
+United States: GPE
+the International Children's: ORG
+the United States
+Responsible: GPE
+Elementary Teacher: PERSON
+06/2016: ORG
+Bolstered: ORG
+Collaborated: ORG
+Established: ORG
+100%: PERCENT
+Virginia Reading: PERSON
+100%: PERCENT
+two years in a row: DATE
+Virginia Math: PERSON

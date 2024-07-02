@@ -1,0 +1,91 @@
+Skills
+
+Balance Sheet Risk Management
+Contract Negotiations
+Treasury Management
+
+Technical US GAAP Accounting Proficient
+Board Communications: ORG
+10/2015: CARDINAL
+Current Company Name City: ORG
+Audit and Compliance Committee: ORG
+the Investment Committee of the Board: ORG
+the Committee
+: ORG
+501r: PRODUCT
+over $15 million: MONEY
+$41 million: MONEY
+Neurosciences Institute: ORG
+5: CARDINAL
+the 5 years: DATE
+Directed: ORG
+al
+participants: PERSON
+$50 million: MONEY
+September 2016: DATE
+$400 million: MONEY
+Controller: PERSON
+Name City: GPE
+IRS: ORG
+Corporate Finance: ORG
+Controller: PERSON
+CFO: ORG
+12/2006: CARDINAL
+Name City: GPE
+includingÂ: ORG
+2007 - 2010: DATE
+three months toÂ three years: DATE
+2007: DATE
+2010: DATE
+Audit Professional 08/1997 to: ORG
+Name City: GPE
+healthcare: ORG
+Prepared: PERSON
+Researched: ORG
+Performed: ORG
+SEC: ORG
+twenty-five: CARDINAL
+Prepared: PERSON
+Training
+Bachelor of Science :: PERSON
+1997: DATE
+Miami University City: EVENT
+State: ORG
+Ohio License: ORG
+#42088: CARDINAL
+Dec 2003 to: DATE
+2017: DATE
+American Institute of Certified Public Accountants Â  Â  Â  Â  Â  Â  Â Â  : ORG
+Dec 2014
+FHFMA: DATE
+Healthcare Financial Management Association Â  Â  Â  Â  Â  Â  Â  : ORG
+April 2013: DATE
+Â Healthcare Financial Management Association Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  : ORG
+April 2013: DATE
+Uptown Consortium: ORG
+Cincinnati: GPE
+Â Audit Committee: ORG
+Member 2017: DATE
+Uptown Consortium: ORG
+Cincinnati: GPE
+Â Finance Committee: ORG
+2008 - 2017: DATE
+Uptown Consortium: ORG
+Cincinnati: GPE
+Â Executive Committee: ORG
+2016-: CARDINAL
+2017Â: CARDINAL
+Healthcare Financial Management Association: ORG
+National Large System Controller: ORG
+Healthcare Financial Management Association: ORG
+Southwest Ohio Chapter: ORG
+Board: ORG
+2010: DATE
+Healthcare Financial Management Association: ORG
+Southwest Ohio Chapter: ORG
+Treasurer: PERSON
+2011- 2012: DATE
+American Institute of Certified Public: ORG
+Ohio Society of Certified Public Accountants: ORG
+Healthcare Financial Management Association: ORG
+American Healthcare Lawyers Association: ORG

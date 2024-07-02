@@ -1,0 +1,32 @@
+Core Strengths
+
+School fund: ORG
+Budget: ORG
+Governmental: ORG
+School: ORG
+CFO: ORG
+the Michigan School Business Officials: ORG
+monthly: DATE
+Perform Accounts Payable/Receivable: ORG
+Assist: NORP
+Reconcile: CARDINAL
+year-end: DATE
+Assisted: ORG
+Accountant Nov: PERSON
+2010: DATE
+three: CARDINAL
+Purchase Orders: PERSON
+Prepared: PERSON
+1099: DATE
+year-end: DATE
+weekly: DATE
+2007: DATE
+Sep 2010: LAW
+the Month: DATE
+BBA: ORG
+April 2010: DATE
+Western Michigan University: ORG
+ï¼​ City: GPE
+State Haworth College of Business
+Skills: ORG
+Continuous: PERSON

@@ -1,0 +1,139 @@
+CFO: ORG
+CS
+Professional Summary: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+QuickBooks Pro: ORG
+ADP Payroll Software & PC Charge Software: ORG
+Postal Equipment: ORG
+EarthLink Hosting: ORG
+401: CARDINAL
+Adobe Acrobat: PERSON
+Adobe Illustrator: ORG
+Photoshop
+Knowledgeable: PERSON
+ACT: ORG
+Access: PRODUCT
+Crystal Reports: PRODUCT
+CFO: ORG
+June 2007: DATE
+Current Company Name: ORG
+CFO: ORG
+quarterly: DATE
+year-end: DATE
+Profits & Loss: ORG
+A/P & A/R: ORG
+Credit & Collections: ORG
+RLE & NEI: ORG
+Bank R: ORG
+Credit Card: ORG
+RLE C- Level & NEI Industries, Inc.: ORG
+Superintendent Maintain: PERSON
+workerâ€: GPE
+EZ-Pass: ORG
+Establish: NORP
+Maintain: PERSON
+70: CARDINAL
+under 1099: DATE
+1099: DATE
+401: CARDINAL
+K Third Party Administrator: ORG
+5500: CARDINAL
+Outlook & EarthLink: ORG
+Install Scanners: ORG
+General Administrative: ORG
+Provide Internal: ORG
+Distribute: ORG
+monthly: DATE
+Controller/Administrative: ORG
+May 2005 to June 2007: DATE
+Account Receivable: ORG
+Account
+Payable: ORG
+Update: ORG
+customers &
+new: ORG
+Receptionist: NORP
+April 2006 to August 2007: DATE
+Assisted Lawyers: ORG
+Answer: ORG
+the Department of Labor Billing: ORG
+USCIS: ORG
+January 2005: DATE
+May 2005: DATE
+Check customerâ€: ORG
+daily: DATE
+monthly: DATE
+Customer Billing Representative: PRODUCT
+June 2004 to April 2006: DATE
+Charge: ORG
+Credit Representative: ORG
+October 2004 to December 2004: DATE
+Processed: GPE
+Researched customersâ€: FAC
+Supervisor: PERSON
+August 1993 to January 2000: DATE
+Accounts Receivables: ORG
+Assisted Bookkeeper: ORG
+Accounting Berkeley College: ORG
+State Accounting
+Certification: ORG
+Computerized Accounting Dover Business College: ORG
+Paramus NJ Certification: ORG
+Essex County College: ORG
+Newark NJ Certification: ORG
+Customer Service: ORG
+Essex County College: ORG
+State
+Certification: ORG
+Computerized Executive: ORG
+IDAT Institute: ORG
+Lima: GPE
+Peru: GPE
+Composed Payroll Master Worksheet: WORK_OF_ART
+401: CARDINAL
+K
+Contribution and Deduction Spreadsheet: ORG
+Conducted: ORG
+Conducted: ORG
+Passaic County: GPE
+2007: DATE
+Volunteer: PERSON
+2009: DATE
+Languages
+Fluent: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+Skills
+Computerized Accounting, Accounts Receivables: ORG
+Adobe Acrobat: PERSON
+Adobe Illustrator: ORG
+Photoshop: ORG
+ADP: ORG
+ADP Payroll: ORG
+AS400: PRODUCT
+Bookkeeper: GPE
+Credit: ORG
+Crystal Reports: ORG
+Customer Service: ORG
+English: LANGUAGE
+Human
+Resources: ORG
+Invoicing: GPE
+MAS90: GPE
+Access, Excel: ORG
+Excel II: PRODUCT
+MS Outlook, Outlook: GPE
+PowerPoint: ORG
+Word: PERSON
+Problem Solving: PERSON
+QuickBooks Pro: ORG
+Receptionist: NORP
+Scanners: NORP
+Spanish: NORP
+year-end: DATE
+Passaic County: GPE
+2007: DATE
+Volunteer: PERSON
+2009: DATE

@@ -1,0 +1,143 @@
+Dedicated Security Specialist: ORG
+Personnel Security: ORG
+Information Security: ORG
+Physical Security: ORG
+Industrial Security: ORG
+Security Fundamentals Professional Certification: ORG
+SFPC: ORG
+Cleared for Top Secret: WORK_OF_ART
+Sensitive Compartmented Information: ORG
+Single: NORP
+Scope Background Inestigaton: ORG
+PPR: ORG
+204: CARDINAL
+Microsoft Office: ORG
+the CENTCOM Area of Responsibility: LOC
+Personnel Security: ORG
+Information Security: ORG
+Physical Security: ORG
+Industrial Security: ORG
+Personnel Security Specialist 05/2014: ORG
+daily: DATE
+DoD Regulation: ORG
+380-67: CARDINAL
+DoD: GPE
+Personnel Security Program: ORG
+Sensitive Activities: WORK_OF_ART
+SA: ORG
+Conducts: ORG
+Single Scope Background Investigations: WORK_OF_ART
+National Agency Checks: ORG
+Local and Credit Checks: ORG
+Conducts Local Records Checks: ORG
+Provost Marshall Office: ORG
+Communicates: ORG
+the Office of Personnel Management: ORG
+Letters of Intent: ORG
+Deny/Revoke: ORG
+Statements of Reason: WORK_OF_ART
+SOR: ORG
+toÂ: CARDINAL
+Oversees: ORG
+the Personnel Security Management: ORG
+Grants Interim Secret and Top Secret: WORK_OF_ART
+Conducts: ORG
+Coordinates: ORG
+Focal Point: ORG
+Name City: GPE
+Continuous: PERSON
+SCI-: ORG
+the Sensitive Compartmented Information Facility: ORG
+daily: DATE
+the Special Security Office: ORG
+the Personnel Security Management: ORG
+over 5000: CARDINAL
+Awarded: FAC
+166: CARDINAL
+66: CARDINAL
+the Magnum Night Training Exercise
+Assisted: ORG
+Milestones: GPE
+Assisted the SSO: WORK_OF_ART
+DoD: GPE
+daily: DATE
+Coordinated SCI: PRODUCT
+Coordinated: ORG
+Coordinated: ORG
+SCI: ORG
+DIA: ORG
+M1: PRODUCT
+ICD: ORG
+503: CARDINAL
+704/705: CARDINAL
+SSO Navy BANIFs: ORG
+JANFAN: ORG
+DoD: GPE
+National Industrial
+Security Program: ORG
+NISPOM: ORG
+Special Intelligence: ORG
+SCI: ORG
+the SCI Courier System: ORG
+Defense Courier System: ORG
+Maintained: GPE
+1500: CARDINAL
+5510.36: CARDINAL
+Utilized Joint Personnel Adjudication System: ORG
+U.S. Navy: ORG
+over 1500: CARDINAL
+OPM: ORG
+SF-86s: ORG
+Single Scope Background Investigations, National Agency Checks, National Agency Checks: WORK_OF_ART
+Inquires: PERSON
+Secret Periodic: PERSON
+4: CARDINAL
+12: CARDINAL
+2015: DATE
+ECPI: ORG
+University
+Job Related Training
+Naval Security: ORG
+S-3C-0001: ORG
+DoD: GPE
+SCI Security: ORG
+100.1: CARDINAL
+FSO Program Management for Possessing Facilities Curriculum: ORG
+Safeguarding
+Classified Information: WORK_OF_ART
+the National Industrial Security Program Course and Exam: ORG
+Basic Industrial Security: ORG
+Specialist Curriculum: PERSON
+the National Industrial Security Program: ORG
+Exam: PERSON
+NISP Self-Inspection Course and Exam; Risk Management: ORG
+Information Security Emergency Planning: ORG
+Personnel Security Adjudication: ORG
+Principles: PERSON
+CAC: ORG
+Completed All Eight Certification Courses Related: ORG
+Completed All Training for Operation and
+Administration of JPAS/JCAVS: ORG
+Transmission and Transportation for Industry Course and Exam: ORG
+Developing A Security Education: WORK_OF_ART
+Meetings: GPE
+the National Industrial Security Program Course: ORG
+Exam: PERSON
+Â  Facility Clearances: ORG
+Exam: PERSON
+November, 2013: DATE
+NISP Reporting Requirements Course and Exam: ORG
+Understanding Foreign Ownership: ORG
+Influence: ORG
+Industrial Security
+Facilities Database: ORG
+Special Access Programs: ORG
+Social
+Networking: ORG
+Threat Awareness: ORG
+Sensitive Compartmented Information: ORG
+Refresher Course: PERSON
+Temporary Sensitive Compartmented Information Facilities: ORG
+Completed: ORG
+twenty-five: CARDINAL
+Intelligence Corps Association: ORG

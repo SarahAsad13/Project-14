@@ -1,0 +1,66 @@
+LA CARTE: ORG
+CHEF DE CUISINE
+Summary: PERSON
+10+ years: DATE
+Inventory: GPE
+Effective Communicator
+Organizational Skils
+Task Oriented: ORG
+Name City: GPE
+State A La Carte: ORG
+Chef De Cuisine 10/2015: PERSON
+10: CARDINAL
+two: CARDINAL
+Planning and Preparation: WORK_OF_ART
+three: CARDINAL
+Contemporary: ORG
+serviceÂ 
+Management: ORG
+100- 200: CARDINAL
+Name City: GPE
+State: ORG
+Sous Chef 04/2015: PERSON
+12: CARDINAL
+two: CARDINAL
+Strong: PERSON
+75-175: CARDINAL
+Name City: GPE
+Time Management
+Stress Management
+Effective Planning: ORG
+800-1100: CARDINAL
+3 hours: TIME
+12/2009: CARDINAL
+Haverford: GPE
+PA: GPE
+Sous Chef
+: PERSON
+Haverford: GPE
+PA: GPE
+Chef/Instructor
+Cloud Catering and Events: ORG
+NYC: ORG
+NY: ORG
+Cook: PERSON
+The Black Rat, Winchester, England, Stage
+Craigie on Main: WORK_OF_ART
+Cambridge: GPE
+MA: GPE
+Four Seasons Resort: ORG
+Aviara: PERSON
+Carlsbad: GPE
+CA: ORG
+2009: DATE
+Culinary Institute of America: ORG
+Culinary  Arts: ORG
+Restaurant  Management: ORG
+up to 450: CARDINAL
+Inter: NORP
+four years: DATE
+as captain one year: DATE
+saturday: DATE
+15: CARDINAL
+Adult Education: ORG
+2 1/2 years: DATE
+Skills
+Interpersonal Skills: ORG

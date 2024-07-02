@@ -1,0 +1,177 @@
+Career Overview: WORK_OF_ART
+More than two decades: DATE
+B.S.: GPE
+Information Technology: ORG
+Current Homeland Security: ORG
+Perimeter Defense Techniques, Systems Analysis and Development, System
+Modeling Theory: ORG
+Project Management: ORG
+Qualifications
+
+Workforce Planning & Scheduling
+Contractor Management
+Team Leadership & Motivation
+Training & Development Business
+Partnering
+Consulting: ORG
+Upgrades
+Network Architect & Administration: ORG
+Website Creation & Management
+Router & Firewall Configuration & Optimization: ORG
+Custom Database: GPE
+Custom Front-End Systems: ORG
+Development Environment Software: ORG
+Microsoft Visual Basic: ORG
+Visual Studio: ORG
+Microsoft
+Dynamics GP: ORG
+Borland Paradox: PERSON
+Practical: ORG
+Platform Development Software: ORG
+Hypertext: CARDINAL
+JavaScript: ORG
+CSS: ORG
+Intuit: ORG
+Washington Home Mortgage: ORG
+The Library of Virginia: WORK_OF_ART
+NeighborWorks: ORG
+Cisco UCS: ORG
+T-1: GPE
+Verizon Digital Voice: ORG
+Library of Virginia:: WORK_OF_ART
+Citrix Provisioning Services: ORG
+DNS: ORG
+Setup Hyper-V: PERSON
+NeighborWorks America: Created: ORG
+NAT: ORG
+DC: GPE
+UCS/: ORG
+vCenter: ORG
+VOIP: ORG
+Active Directory: ORG
+DNS: ORG
+AD: ORG
+DNS: ORG
+UCS: ORG
+VOIP: ORG
+Unified Communications: ORG
+EMC: ORG
+Analyzed Cloud: PERSON
+Created VMWare Server: ORG
+VMware: ORG
+SAN: ORG
+VoIP: LOC
+Windows: ORG
+TCP: ORG
+IP: ORG
+System Projects: ORG
+2000-2010: DATE
+Campus: ORG
+Cisco: GPE
+Server: ORG
+VMware: ORG
+Hyper-V: ORG
+Windows Terminal: ORG
+2008: DATE
+Managed Services: ORG
+daily: DATE
+Associations: ORG
+the DC/Metro Area: ORG
+Utilized: ORG
+DirectX: ORG
+MS-SQL: ORG
+200-2012: DATE
+PHP: ORG
+Linux: GPE
+PowerShell: ORG
+300: CARDINAL
+30: CARDINAL
+Grew: PERSON
+Established: NORP
+HP, Dell: ORG
+Microsoft: ORG
+Solution Provider: PERSON
+Novell: ORG
+Hyper-V: ORG
+Windows 2003: ORG
+2008: DATE
+Active Directory: WORK_OF_ART
+NetWare: ORG
+NDS: ORG
+Active Directory: ORG
+Cisco: GPE
+Voice: ORG
+IP: ORG
+Dunn & Crutcher: ORG
+Firm Crutchley: PERSON
+Marginot: ORG
+WAN: ORG
+LAN: ORG
+Server Management: ORG
+Training
+Master of Science : Computer Science: WORK_OF_ART
+2016: DATE
+Georgia Institute of Technology City: ORG
+State: GPE
+USA: GPE
+2014: DATE
+University City: GPE
+Summa cum Laude
+Concentration: PERSON
+Microsoft Certified Professional: ORG
+Information Technology Project Management Institute Information Technology: ORG
+Active Directory: PERSON
+Architect, Borland: ORG
+Business Startup: ORG
+C++: GPE
+Cisco: GPE
+CISCO: ORG
+Cisco Certified: GPE
+Cisco: GPE
+Citrix: GPE
+Consulting: ORG
+CSS: ORG
+Database Design, DC: ORG
+Dell: ORG
+DNS: ORG
+eCommerce: PRODUCT
+ERP: ORG
+Enterprise Resource Planning: ORG
+Firewall: PERSON
+Hypertext: FAC
+PHP: ORG
+ITIL: ORG
+JavaScript: ORG
+LAN: ORG
+LDAP: ORG
+Law: PERSON
+Linux: PERSON
+MAS90: GPE
+Microsoft Certified Professional: ORG
+MCP: ORG
+Microsoft Dynamics, Exchange: ORG
+Office, Windows: ORG
+2000: DATE
+NDS: ORG
+Network Security: ORG
+Network: ORG
+Novell: ORG
+NetWare: ORG
+OS, Optimization, Oracle: ORG
+Payroll: ORG
+PCI: ORG
+Perl: ORG
+Router: ORG
+SAN: ORG
+MS-SQL: ORG
+T-1: ORG
+TCP/IP: ORG
+Terminal Server: ORG
+Upgrades: PERSON
+Microsoft Visual Basic: ORG
+Visual Studio: ORG
+Voice: ORG
+IP: ORG
+VOIP: ORG
+WAN: ORG
+Windows: NORP

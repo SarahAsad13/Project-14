@@ -1,0 +1,86 @@
+LICENSED UNITED HEALTHCARE: ORG
+Summary
+Talent: WORK_OF_ART
+the Customer Service: ORG
+13.46%: PERCENT
+65 +: DATE
+the month Awards: DATE
+Awarded: ORG
+weekly: DATE
+monthly: DATE
+KDM & QA Scores: ORG
+100%: PERCENT
+Skills
+Time Management, Effective Communication: ORG
+Cloud: PERSON
+Skype, Proficient: ORG
+Microsoft Office Suite: ORG
+Instant Messaging: WORK_OF_ART
+Web Chat: GPE
+Negotiating: GPE
+Cross-Sell Ability: ORG
+Outlook Email: PERSON
+Lotus Notes: ORG
+Quicken: PERSON
+QuickBooks: ORG
+Licensed United Healthcare Insurance Sales: ORG
+Sep 2014 to: DATE
+MA: GPE
+MAPD: ORG
+MED Sup: ORG
+PDP: ORG
+Account Executive Sales: ORG
+2014: DATE
+daily: DATE
+Licensed United Healthcare Insurance Sales: ORG
+MA: GPE
+MAPD: ORG
+MED Sup: ORG
+PDP: ORG
+Customer Service: ORG
+2013: DATE
+HIPAA: ORG
+CMS: ORG
+Customer Service: ORG
+2008: DATE
+Creditors &: ORG
+daily: DATE
+PIF: ORG
+ACH amounts & dates: ORG
+200: CARDINAL
+daily: DATE
+Wachovia Bank: ORG
+NA: ORG
+Charlotte: GPE
+NC: GPE
+2008: DATE
+Central Piedmont Community College: ORG
+Charlotte: GPE
+NC: GPE
+2013: DATE
+Goodwill Career Development Center: ORG
+State
+Computer Office Information Systems Certificate: ORG
+2001: DATE
+Central Piedmont Community College: ORG
+Central Piedmont Community College: ORG
+3.75: CARDINAL
+Skills: ORG
+CMS: ORG
+Client: GPE
+Customer Service
+Training: ORG
+PDP: ORG
+Email: PERSON
+Information Systems: ORG
+IVR: ORG
+Lotus Notes: ORG
+MA: PERSON
+Microsoft Office: ORG
+Suite, Office: ORG
+Outlook: PERSON
+Negotiating: GPE
+Problem Solving: PERSON
+QuickBooks: ORG
+Quicken: PERSON
+Time Management: ORG

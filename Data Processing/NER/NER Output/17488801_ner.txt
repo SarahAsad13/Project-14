@@ -1,0 +1,46 @@
+Manufacturing Engineering: ORG
+Production Management: ORG
+Four years: DATE
+Seven years: DATE
+Design and Manufacturing Engineering: ORG
+20,000 square foot: QUANTITY
+AS9100: CARDINAL
+Quality Management Systems: ORG
+New York: GPE
+Florida: GPE
+Project Management
+Quality Management System Implementation
+Production and Engineering Management
+Staff: ORG
+May 2000 to December 2015: DATE
+Allied International: ORG
+DeLand: ORG
+FL: ORG
+Quality Management and Quality Control: ORG
+Manufacturing Engineer Project Engineer: ORG
+Engineer Product Development Engineer: ORG
+Manufacturing Engineering: ORG
+April 1980 to May 2000: DATE
+up to 12: CARDINAL
+the Technetics Quality Council: ORG
+Material Review Board: ORG
+Management Corrective Action Board: ORG
+the Statistical Process Control Committee: ORG
+daily: DATE
+ISO 9000: ORG
+Justified: PERSON
+CAD: ORG
+an 18 month: DATE
+Time: ORG
+Arthur Anderson Consultants: ORG
+25%: PERCENT
+Bachelor of Science : Mechanical Engineering: ORG
+1978: DATE
+Rose-Hulman Institute of Technology - City: ORG
+State: GPE
+Rose-Hulman Institute of Technology: ORG
+Stetson
+University: ORG
+Microsoft Office: ORG
+ERP: ORG
+AS9100: CARDINAL

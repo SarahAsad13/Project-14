@@ -1,0 +1,123 @@
+ten years: DATE
+markup: GPE
+IT Service Management: ORG
+Project Management: ORG
+Highlights
+
+Languages: HTML: GPE
+JavaScript: ORG
+CSS: ORG
+Perl: ORG
+XML: ORG
+XSLT: GPE
+JSON: GPE
+PHP: ORG
+VBScript
+: PERSON
+Frameworks: PERSON
+Bootstrap
+Certifications: ORG
+ITIL Foundation,: ORG
+Rally: PERSON
+Gomez: PERSON
+SiteScope: ORG
+Keynote: ORG
+Omniture, Urchin: ORG
+Launched Incident Management, Problem Management and Change Management: ORG
+Leveraged Web Services: ORG
+ITSM: ORG
+Omniture: NORP
+Gomez: PERSON
+the Service-Now Service Catalog: ORG
+Excel: PRODUCT
+Oracle Ebiz: ORG
+Coded: ORG
+CRM: PRODUCT
+third: ORDINAL
+CRM: PRODUCT
+Software Engineer: ORG
+September 2012: DATE
+Current Company Name: ORG
+Digital Media Solutions: ORG
+VDMS: ORG
+Verizon: LOC
+Edgecast Networks: ORG
+2014: DATE
+JavaScript: ORG
+Incident, Problem: ORG
+Utilize Jelly: ORG
+Bootstrap: PERSON
+UI: ORG
+Architect the Configuration Management Database: ORG
+Service Operations: ORG
+Active Directory, Bitbucket: WORK_OF_ART
+Git: GPE
+January 2010 to September 2012: DATE
+Edmunds.com: ORG
+Continuous Integration: ORG
+Continuous Delivery: PERSON
+Maven: GPE
+Selenium: ORG
+Agile: ORG
+Foster: PERSON
+DevOps: ORG
+Service Level Agreement: LAW
+Automation and Integration Engineer: WORK_OF_ART
+January 2008 to January 2010: DATE
+Develop: ORG
+LAMP: ORG
+Gomez: PERSON
+Omniture: ORG
+January 2005 to January 2008: DATE
+Request Tracker: ORG
+Excel: PRODUCT
+January 2003 to January 2005: DATE
+IVT: ORG
+Fortune 500: PRODUCT
+Assess: ORG
+August 2000 to January 2003: DATE
+Employ: PERSON
+JavaScript: PRODUCT
+XML: ORG
+XSL: ORG
+IVT: ORG
+CRM: PRODUCT
+December 1999: DATE
+April 2000: DATE
+Centropolis Interactive: PERSON
+Photoshop: PRODUCT
+May 1999 to September 1999: DATE
+Fidelity National Financial: ORG
+B.A.: GPE
+American Literature: ORG
+2000: DATE
+State: GPE
+US B.A.: ORG
+Economics: ORG
+American Literature: ORG
+2000: DATE
+University of California: ORG
+Los Angeles: GPE
+UCLA: ORG
+GPA: ORG
+3.5: CARDINAL
+Skills
+Architecture: ORG
+Automotive: ORG
+Best Practices: ORG
+Lean Manufacturing: ORG
+Maintenance, Operations: ORG
+Project Manager: PERSON
+Provisioning, Service Level
+Agreement, Software Development: ORG
+Engineer, Testing, Training, Databases,: ORG
+Excel: PRODUCT
+Mysql, Solutions: ORG
+Streaming, Crm: ORG
+Customer Relationship Management: ORG
+Xml: GPE
+Html, Information Technology Infrastructure
+Library: ORG
+Oracle, Perl, Php, Procurement, Project Management, Technology Infrastructure: ORG
+Vbscript: PERSON
+Xslt: NORP

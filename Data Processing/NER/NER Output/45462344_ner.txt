@@ -1,0 +1,84 @@
+Highlights
+Word: WORK_OF_ART
+Power Point: ORG
+Microsoft Office: ORG
+Mac: PERSON
+State: ORG
+01/2011: CARDINAL
+Public Relations & CSR: ORG
+Media, Community: ORG
+Artist Management: ORG
+events.- Social Media: ORG
+Social Media: ORG
+01/2011 to 01/2012: CARDINAL
+Public Relations & Development: ORG
+Del Campo: PERSON
+Mesa: ORG
+01/2011
+Communications: ORG
+Public Relations & CSR: ORG
+Media, Community and Government Relations: ORG
+the Office of the First Lady: ORG
+the Puerto Rico Police Department: ORG
+Family Department: ORG
+the Ponce Museum of Art: ORG
+the Puerto Rico Museum of Art: ORG
+Corporate Social Responsibility: ORG
+United Way: GPE
+American Cancer Society: ORG
+American Red Cross: ORG
+Boys & Girls Clubs: ORG
+FundaciÃ³n Comunitaria: ORG
+more than $800,000: MONEY
+Recycling of Electronics: ORG
+Employee Business Networks: ORG
+Media Relations: ORG
+Walmart: ORG
+Walmart Supercenter: PERSON
+Sam: PERSON
+more than $700,000: MONEY
+the Walmart Foundation: ORG
+Walmart's Sustainability Program: ORG
+The Communications Plan: LAW
+Walmart: ORG
+the Zenit Environmental Award: ORG
+Puerto Rico: GPE
+Chamber of Commerce: ORG
+$4 Prescriptions: MONEY
+annual: DATE
+Fiesta de la Vid': WORK_OF_ART
+Launch: GPE
+more than 100,000: CARDINAL
+Company: ORG
+Natural and Environmental
+Resources Department: ORG
+Puerto Rico's: GPE
+first: ORDINAL
+Business News Reporter Company Name - City: ORG
+Politics, Community: ORG
+Human Interest: ORG
+01/2000: CARDINAL
+Media: GPE
+Public Relations: ORG
+Business People Profiles: ORG
+01/1997 to 01/2000: CARDINAL
+Editor/Writer Company Name - City: ORG
+Education: ORG
+1996: DATE
+Bachelor of Arts : Communications University of Puerto Rico - City: ORG
+State: ORG
+1990: DATE
+RamÃ³n Power: PERSON
+Giralt - City: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills
+
+Writer: ORG
+Editor: ORG
+Public Relations: ORG
+Media Relations: ORG
+Journalist: NORP
+Analyst: PERSON
+Singer: ORG
+songwriter & musician: ORG

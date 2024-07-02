@@ -1,0 +1,75 @@
+Dynamic: PERSON
+Project Management: ORG
+Strategic Planning: ORG
+PMO Management Energetic: ORG
+Conflict
+Management Turnaround Operations Staffing & Resource Management Risk & Issue Management Financial Modeling & Analysis Agile &
+Waterfall Methodologies Cost/Benefit Analysis Change Management Stakeholder Management
+Accomplishments
+
+: ORG
+Sarbanes-Oxley: PERSON
+Process Improvement Directed IT financial planning: WORK_OF_ART
+$120-million: MONEY
+Sarbanes-Oxley: ORG
+Improved Project Management: ORG
+35%: PERCENT
+2005: DATE
+$550-million: MONEY
+Minolta Corporation: ORG
+North American: NORP
+120: CARDINAL
+40%: PERCENT
+only five months: DATE
+Light Technologies, Inc.: ORG
+Sprain: ORG
+NJ: PERSON
+1995: DATE
+PROGRAM MANAGEMENT Multibillion-Dollar Budgets: ORG
+Program
+Management: ORG
+Light
+Technologies: ORG
+$5-billion: MONEY
+multibillion-dollar: MONEY
+$70-million: MONEY
+more than 350: CARDINAL
+80: CARDINAL
+four: CARDINAL
+Business Communication Services IT: ORG
+Planning and Analysis: ORG
+Phone Global Corporation: ORG
+Jan 2007 to Jan 2010: DATE
+up to 80: CARDINAL
+$1.2-billion: MONEY
+up to $150-million: MONEY
+Key Performance: LOC
+Work Breakdown Structures: ORG
+Jan 2011: DATE
+Start-Up: PRODUCT
+Contract Management: ORG
+PMO Management Trusted Financial Executive: ORG
+PMO: ORG
+first: ORDINAL
+Program Management Office: ORG
+60%: PERCENT
+only five months: DATE
+Reengineered: ORG
+VP Jan 2010 to Jan 2012: DATE
+Multimillion-Dollar: MONEY
+Global PMO Staff: ORG
+Program: ORG
+PMO: ORG
+44: CARDINAL
+Global Project Managers: ORG
+$15-million: MONEY
+70: CARDINAL
+60%: PERCENT
+only five months: DATE
+Master of Business Administration: ORG
+Business Economics/Finance State University: ORG
+State Business Economics/Finance: ORG
+State Finance/Accounting: ORG
+Contract Management, Financial: ORG
+Program Management: ORG
+Project Management: ORG

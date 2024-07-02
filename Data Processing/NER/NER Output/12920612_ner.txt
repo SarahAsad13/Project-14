@@ -1,0 +1,94 @@
+30 years: DATE
+Core Competencies Project: ORG
+CMS: ORG
+Decisive: NORP
+Team: ORG
+fifth: ORDINAL
+10,000: CARDINAL
+1.5B: MONEY
+Researched: ORG
+Organized: ORG
+U.S.: GPE
+Xpress: ORG
+Chattanooga: LANGUAGE
+monthly: DATE
+inÂ​house: GPE
+Sports/Feature Writer & Project Development Specialist: ORG
+11/1985: CARDINAL
+Best Overall Public Relations Campaign: ORG
+2001: DATE
+Sports & Feature Writer: ORG
+daily: DATE
+the Chattanooga Free Press: ORG
+1991: DATE
+1992: DATE
+World Series: EVENT
+1991: DATE
+NCAA: ORG
+Georgia Tech: ORG
+the Citrus Bowl: EVENT
+1992: DATE
+Four: CARDINAL
+1993: DATE
+Arthur Ashe: PERSON
+Joe Namath: PERSON
+Terry Bradshaw: PERSON
+Bobby Orr: PERSON
+Chris Evert: PERSON
+John McEnroe: PERSON
+Boris
+Becker: PERSON
+Bob Costas: PERSON
+the Tennessee Sports Writer's: ORG
+1988: DATE
+1992: DATE
+1995: DATE
+48: CARDINAL
+Southern Tennis Association Championships: ORG
+1991: DATE
+1992: DATE
+Project Development Specialist
+
+Responsible: ORG
+the Chattanooga Free Press: ORG
+Chattanooga Times: ORG
+Designer: ORG
+Infoline: NORP
+50,000: CARDINAL
+Infoline: ORG
+daily: DATE
+Chattanoogans: NORP
+more than six million: CARDINAL
+first: ORDINAL
+inÂ​house: NORP
+Infoline: ORG
+Infoline: NORP
+over 90 percent: PERCENT
+Free Press: ORG
+Times: ORG
+Bachelor of Science : Mass Communications Speech: ORG
+1 1984: DATE
+St. Cloud State University: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.07: CARDINAL
+GPA: ORG
+3.2: CARDINAL
+3.07: CARDINAL
+GPA: ORG
+3.2: CARDINAL
+Press: ORG
+Public Relations: ORG
+Xpress: PERSON
+U.S. Xpress Earned 2000 Aegis Award: ORG
+Driven To Success: ORG
+U.S. Xpress: ORG
+1986 to 1999: DATE
+PRSA Lookout Chapter: ORG
+2003: DATE
+Critics Board of Traffic World: ORG
+2008: DATE
+Crisis Communications: ORG
+2002: DATE

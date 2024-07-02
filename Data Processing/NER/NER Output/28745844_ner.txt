@@ -1,0 +1,29 @@
+ANALYSIS: ORG
+Customer: GPE
+Administrative Operations: ORG
+Account Management: ORG
+Data / Recordkeeping, Business Bookkeeping: ORG
+Billing / Invoices: ORG
+Inventory Control: ORG
+Customer Service: ORG
+Workflow Prioritization: ORG
+Strategic Analysis / Planning: ORG
+Regulatory Compliance: WORK_OF_ART
+Ross
+Medical Education Center: ORG
+CPR / BLS: ORG
+the American Red Cross: ORG
+Rollizo: ORG
+Information Technology Services: ORG
+Tina L. Gayden: PERSON
+Skills: ORG
+CPR: ORG
+Email: PERSON
+Microsoft Office: ORG
+Tina L. Gayden: PERSON
+January 2012 to January 2013: DATE
+Advocate / Medical: ORG
+January 2010 to January 2011: DATE
+January 2007 to January 2012: DATE
+January 2007 to January 2008: DATE
+Red Cross: ORG

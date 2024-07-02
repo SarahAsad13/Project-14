@@ -1,0 +1,84 @@
+Film: PERSON
+MS Word & Powerpoint: ORG
+Photoshop: PERSON
+Aftereffects: PERSON
+Avid Media: PERSON
+Google Sketchup: FAC
+3 years: DATE
+6: CARDINAL
+7: CARDINAL
+50: CARDINAL
+127: CARDINAL
+Romance Comedy: PERSON
+2014: DATE
+15 minute: TIME
+The New York Film Academy: ORG
+three: CARDINAL
+the art department: ORG
+one-day: DATE
+Non Profit: ORG
+The Bird Room: PRODUCT
+Downtown Los Angeles: GPE
+Set Decorator: ORG
+Props: ORG
+Mar 2013 to: DATE
+Mar 2013: DATE
+millions: CARDINAL
+2013: DATE
+2013: CARDINAL
+Vivienne An: PERSON
+nearly 3 weeks: DATE
+prop: ORG
+Distinguished Gentlemen Nov: PERSON
+2012 to Jan 2013: DATE
+three-day: DATE
+7: CARDINAL
+between the ages of 9 and 13: DATE
+Jan 2013 to Feb 2013: DATE
+Art Department: WORK_OF_ART
+Science of Love: WORK_OF_ART
+Jan 2014 to Jan 2014: DATE
+Two day: DATE
+Three day: DATE
+the Zombie Stoner: FAC
+Dec 2013 to Dec 2013: DATE
+Assist: ORG
+Art Director/ Art Department Coordinator/ Fire and Safety Management Jun 2014: ORG
+State: ORG
+3 week: DATE
+annual: DATE
+Props: ORG
+Jan 2014 to Jan 2014: DATE
+first: ORDINAL
+Stand up Comedy Show: WORK_OF_ART
+one: CARDINAL
+Aug 2013: DATE
+two: CARDINAL
+one: CARDINAL
+Goerge Millies A: ORG
+Mae: PERSON
+Miscellaneous Crew Dude Bro Party: PERSON
+3 Apr 2014: DATE
+2014: DATE
+Associate of Science , Film Production: ORG
+September 2013: DATE
+The Los Angeles Film School ï¼​ City: ORG
+State: GPE
+USA: GPE
+an
+
+Associates: ORG
+2010: CARDINAL
+Eagle Rock: LOC
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+3.0: CARDINAL
+CSI: ORG
+Horticulture: ORG
+Photo: ORG
+Avid: PERSON
+Powerpoint: ORG
+MS Word: PERSON
+Camera, Profit: ORG
+Quick: ORG

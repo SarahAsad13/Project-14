@@ -1,0 +1,27 @@
+SKILL HIGHLIGHTS Microsoft Office: ORG
+Excel: PRODUCT
+Meticulous: NORP
+Keen: PRODUCT
+Extra Mile
+Award-2009: LAW
+2011: DATE
+Generalist: PERSON
+April 2013 to October 2013 Company Name ï¼​ City: DATE
+Processed: GPE
+Created PowerPoint: ORG
+Maintained: GPE
+June 2009 to: DATE
+August 2012: DATE
+Maintained: GPE
+Created PowerPoint: ORG
+Maintained: GPE
+Processed: GPE
+Mentored: ORG
+August 2010 to December 2010: DATE
+Maintained: GPE
+12: CARDINAL
+2012: DATE
+North Carolina Agricultural & Technical State University: ORG
+State: GPE
+United States: GPE
+PowerPoint: ORG

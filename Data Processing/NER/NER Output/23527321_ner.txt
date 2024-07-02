@@ -1,0 +1,89 @@
+20+ year: DATE
+Fortune 500: FAC
+Schering-Plough's: ORG
+SAP: ORG
+â€¢Experienced: PRODUCT
+Information Technology and Information Center: ORG
+March 2015: DATE
+Supply Chain and Logistics Information Technology: ORG
+October 2010 to March 2015: DATE
+Demand Planning Solution: ORG
+Supply Planning and Sales and Operations
+Planning: ORG
+Global Sales: ORG
+Operations: ORG
+COMET Program: ORG
+November 2009 to October 2010: DATE
+COMET: ORG
+North America: LOC
+Europe: LOC
+Asia Pacific: LOC
+SAP Center of Excellence: ORG
+May 2005 to November 2009: DATE
+15MM: MONEY
+annual: DATE
+75: CARDINAL
+30+: CARDINAL
+New Jersey: GPE
+Tennessee: GPE
+Delaware: GPE
+Europe: LOC
+Singapore: GPE
+nearly $1MM: MONEY
+JDE: ORG
+SAP: NORP
+the US Pharmaceutical Business: ORG
+Asia Pacific: LOC
+Europe: LOC
+South
+America: GPE
+APO: ORG
+Schering-Plough: ORG
+Solution: PERSON
+SAP: ORG
+US: GPE
+APAC: ORG
+the Management Readiness Program: ORG
+Supply Chain Systems: ORG
+January 2002: DATE
+May 2005: DATE
+US: GPE
+Schering - Plough: ORG
+Warehouse Management for US Pharmaceutical: ORG
+Belgium: GPE
+APO: ORG
+Singapore: GPE
+Field Force Systems: ORG
+April 1998 to January 2002: DATE
+Schering - Plough's: ORG
+the United States: GPE
+Formulary Management: ORG
+Account Management: ORG
+Customer Relationship Management: ORG
+Delivery Systems: ORG
+April 1997 to May 1998: DATE
+Ohio: GPE
+the Disease
+Management Programs for Smoking Cessation: ORG
+Multiple Sclerosis: ORG
+Client Services Systems: ORG
+February 1994 to April 1997: DATE
+the Marketing and Client Services: ORG
+Portfolio Accounting System: ORG
+Prudential: ORG
+Oversaw: GPE
+LAN: ORG
+the Global Advisors: ORG
+January 1992 to February 1994: DATE
+treasury: ORG
+Prudential: ORG
+January 1990 to January 1992: DATE
+the Prudential Help Desk: ORG
+Master of Business Administration: ORG
+2003 University of Maryland
+Master of Science : Computer Science: ORG
+1994: DATE
+New Jersey Institute of Technology
+Bachelor of Science : Computer Science: ORG
+1990: DATE
+New Jersey Institute of Technology: ORG

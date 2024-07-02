@@ -1,0 +1,242 @@
+04/2018: ORG
+05/2018: GPE
+Calero: ORG
+Communications Lifecycle Management: ORG
+CLM: ORG
+two: CARDINAL
+one: CARDINAL
+Atlanta Engineering: ORG
+12: CARDINAL
+less
+than 9 months: DATE
+Built: ORG
+one: CARDINAL
+60%: PERCENT
+Created: ORG
+UI: GPE
+Software Development: PERSON
+04/2016: ORG
+04/2018: ORG
+three: CARDINAL
+Created: ORG
+UI: ORG
+VP of Engineering and Operations: ORG
+4: CARDINAL
+16: CARDINAL
+30: MONEY
+4 months: DATE
+Key: LOC
+5 years: DATE
+30%: PERCENT
+18%: PERCENT
+year-end: DATE
+3: CARDINAL
+QA: ORG
+CTO: ORG
+Ticket Alternative: ORG
+TA: ORG
+millions: CARDINAL
+millions: CARDINAL
+U.S: GPE
+Built: ORG
+Ruby and Rails utilizing Spree
+Hired: WORK_OF_ART
+three months: DATE
+45%: PERCENT
+65%: PERCENT
+DIY: ORG
+COO: ORG
+01/2011: CARDINAL
+90 days: DATE
+14 weeks: DATE
+Drove over 45,000: CARDINAL
+App Store: PERSON
+14: CARDINAL
+Nook: ORG
+Android: ORG
+9 months: DATE
+Created: ORG
+the Apple App Store: LAW
+6: CARDINAL
+12/2010: CARDINAL
+three: CARDINAL
+10%: PERCENT
+Launched: PRODUCT
+2: CARDINAL
+300%: PERCENT
+QA: ORG
+VP Solutions Sales: ORG
+12/2008: CARDINAL
+State: ORG
+SVG: ORG
+Service Lifecycle Management: ORG
+10: CARDINAL
+Fortune 1000: PRODUCT
+Created: ORG
+EMEA: ORG
+APAC: ORG
+CTO: ORG
+Commerce Science
+Apr 2004 - Sep 2006: WORK_OF_ART
+Directed: ORG
+the Distributed Computing Industry Association: ORG
+Data Rights Management: ORG
+DRM: ORG
+Created: ORG
+15: CARDINAL
+CTO & Founder: ORG
+10/1999: DATE
+11/2002: CARDINAL
+first: ORDINAL
+Grew: PERSON
+2 to 94: CARDINAL
+two years: DATE
+14.7MM: MONEY
+PriceWaterhouseCoopers: ORG
+Georgia: GPE
+25: CARDINAL
+Venture: ORG
+1999: DATE
+2001: DATE
+MO: GPE
+first: ORDINAL
+30MM: MONEY
+Donovan Data Systems': ORG
+04/2018: ORG
+05/2018: GPE
+Calero: PERSON
+Communications Lifecycle Management: ORG
+CLM: ORG
+two: CARDINAL
+one: CARDINAL
+Atlanta Engineering: ORG
+12: CARDINAL
+less
+than 9 months: DATE
+Built: ORG
+one: CARDINAL
+60%: PERCENT
+Created: ORG
+UI: GPE
+04/2016: ORG
+04/2018: ORG
+three: CARDINAL
+Created: ORG
+UI: ORG
+4: CARDINAL
+16: CARDINAL
+30: MONEY
+4 months: DATE
+5 years: DATE
+30%: PERCENT
+18%: PERCENT
+year-end: DATE
+3: CARDINAL
+QA: ORG
+the high 90 percent: PERCENT
+Ticket Alternative: ORG
+TA: ORG
+millions: CARDINAL
+millions: CARDINAL
+U.S.: GPE
+U.K.: GPE
+Ruby and Rails utilizing Spree: WORK_OF_ART
+three months: DATE
+45%: PERCENT
+65%: PERCENT
+DIY: ORG
+Co-Founder: ORG
+01/2011: CARDINAL
+90 days: DATE
+14 weeks: DATE
+Drove over 45,000: CARDINAL
+App Store: PERSON
+14: CARDINAL
+Nook: ORG
+Android: ORG
+9 months: DATE
+the Apple App Store: LAW
+6: CARDINAL
+12/2010: CARDINAL
+three: CARDINAL
+10%: PERCENT
+2: CARDINAL
+300%: PERCENT
+QA: ORG
+12/2008: CARDINAL
+SVG: ORG
+Service Lifecycle Management: ORG
+10: CARDINAL
+Fortune 1000: PRODUCT
+EMEA: ORG
+APAC: ORG
+CTO: ORG
+2004 - Sep 2006: DATE
+the Distributed Computing Industry Association: ORG
+Data Rights Management: ORG
+DRM: ORG
+Created: ORG
+15: CARDINAL
+10/1999: DATE
+11/2002: CARDINAL
+first: ORDINAL
+Grew: PERSON
+2 to 94: CARDINAL
+two years: DATE
+14.7MM: MONEY
+PriceWaterhouseCoopers: ORG
+Georgia: GPE
+25: CARDINAL
+Venture: ORG
+1999: DATE
+2001: DATE
+MO: GPE
+first: ORDINAL
+30MM: MONEY
+Donovan Data Systems': ORG
+Xcellenet: PERSON
+1997: DATE
+MediaOcean: ORG
+2002: DATE
+Georgia Tech: ORG
+2006: DATE
+TripLingo: ORG
+2012: DATE
+TripLingo: ORG
+2012: DATE
+Coursera / John's: PERSON
+Toolbox: GPE
+March 2015: DATE
+Distinction R Programming: ORG
+May 2015: DATE
+Distinction Getting: ORG
+May 2015: DATE
+August 2015: DATE
+Master of Science : Management of Technology: WORK_OF_ART
+2006: DATE
+Georgia Institute of Technology - City 
+Bachelor of Science : Computer Science: ORG
+1992: DATE
+Rutgers University - City: ORG
+3: CARDINAL
+Broad: ORG
+SKILLS Infrastructure
+Design Strategic Planning Vendor Selection: ORG
+Mergers & Acquisitions: ORG
+P&L International: ORG
+Presenting
+Pricing
+Procurement
+Product: WORK_OF_ART
+Program: ORG
+Venture: ORG
+Project Scheduling
+Team Structure Management
+Client: ORG
+Project Planning Oversight
+
+Net: ORG
+Apple: ORG
+QA: ORG
+UI: ORG
+year-end: DATE

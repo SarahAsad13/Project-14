@@ -1,0 +1,83 @@
+Highlights
+Periodic: WORK_OF_ART
+Complex: NORP
+Accountant: ORG
+July 2012 to October 2015: DATE
+Shantilal Gala & Company: ORG
+Nairobi: GPE
+Kenya: GPE
+Audit: ORG
+2nd July 2012: DATE
+Processed: GPE
+weekly: DATE
+monthly: DATE
+Excel: PRODUCT
+Collaborated: ORG
+year-end: DATE
+weekly: DATE
+Processed: GPE
+Collaborated: ORG
+year-end: DATE
+One: CARDINAL
+2014: DATE
+Kenya: GPE
+Bachelor: ORG
+Business of Arts - BA Honors Business Studies: ORG
+Second Upper Class Honors: ORG
+the Academic Session: ORG
+2012/2013: DATE
+International Business Management: ORG
+Today: DATE
+International Business Management: ORG
+one: CARDINAL
+2013/2014: DATE
+Personal and Professional Development (PPD: ORG
+2: CARDINAL
+Association of Business Executive : Business: ORG
+2013: DATE
+Oshwal College: ORG
+City: GPE
+Kenya: GPE
+Completed the Association of Business Executive: ORG
+Business Communication: ORG
+Diploma in Business Management: ORG
+Human Resource Management: ORG
+Managerial Accounting: ORG
+Marketing Policy: PERSON
+The Business Environment: ORG
+Financial Accounting: ORG
+Quantitative Methods for Business and Management: WORK_OF_ART
+Diploma in Business Management: ORG
+Strategic Marketing Management: ORG
+the Association of Business Executives Most Disciplined Girl: ORG
+2007-2008: DATE
+2009: DATE
+Expedition: ORG
+the Westlands Scouts Local Association: ORG
+2009: DATE
+2009: DATE
+the National Finals: ORG
+the Kenya Music Festival: ORG
+2007: DATE
+Ramp Model: PERSON
+Nairobi: GPE
+Kenya: GPE
+May, 1993: DATE
+Nairobi: GPE
+Kenya: GPE
+the Association of Business Executives Most Disciplined Girl: ORG
+2007-2008: DATE
+Outstanding Performance: WORK_OF_ART
+2009: DATE
+Expedition: ORG
+the Westlands Scouts Local Association: ORG
+2009: DATE
+2009: DATE
+the National Finals: ORG
+the Kenya Music Festival: ORG
+2007: DATE
+Ramp Model: PERSON
+Skills
+
+Organization: ORG
+Time Management - Good: ORG

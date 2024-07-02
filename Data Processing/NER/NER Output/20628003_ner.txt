@@ -1,0 +1,27 @@
+DIGITAL MARKETING SPECIALIST: ORG
+Digital: ORG
+Google AdWords and Analytics: ORG
+PPC: ORG
+Detail: PERSON
+Skills
+
+Digital Marketing: ORG
+Digital Marketing Specialist Company Name: ORG
+Adwords: ORG
+Google Analytics: ORG
+KPI: ORG
+CPC: ORG
+CTR: ORG
+Familiar: PERSON
+daily: DATE
+daily: DATE
+11/2015: CARDINAL
+Meets: NORP
+Training: PERSON
+2016: DATE
+Mt. San Antonio College: ORG
+City: GPE
+State: ORG
+2017: DATE
+Digital Marketing Career Blueprint: ORG
+State: ORG

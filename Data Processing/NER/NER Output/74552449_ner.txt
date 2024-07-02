@@ -1,0 +1,45 @@
+MS Excel: ORG
+Loan: ORG
+Interface Â: PERSON
+Spanish: LANGUAGE
+MS Office: ORG
+Team: ORG
+Name City: GPE
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+Name City: GPE
+State Banking Employee 05/2014: ORG
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+Name City: GPE
+State Intern: ORG
+Moodle: PERSON
+Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Name City: GPE
+State Banking: ORG
+06/2012: CARDINAL
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+Master of Science : International Trade: WORK_OF_ART
+2014: DATE
+Carlos III de Madrid: PERSON
+City: GPE
+State: GPE
+Spain: GPE
+2013: DATE
+PÃºblica de Navarra , City: ORG
+State: ORG
+Spain: GPE
+Skills
+
+Sales Software: ORG
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

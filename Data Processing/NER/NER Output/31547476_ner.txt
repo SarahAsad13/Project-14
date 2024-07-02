@@ -1,0 +1,63 @@
+Career Overview
+
+I: WORK_OF_ART
+1.5 years: DATE
+6 years: DATE
+Medical Billing: FAC
+Coding Associates Degree: ORG
+December 2012: DATE
+Skill Highlights: PERSON
+Microsoft Office (Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Medisoft Â​ Electronic Medical Records: ORG
+Practice Management Software
+Eyefinity Â​ OfficeMate:: ORG
+Practice Management Software
+Eyefinity: ORG
+June 2012 to June 2013: DATE
+Answer: ORG
+Schedule Meetings: ORG
+February 2012: DATE
+monthly: DATE
+monthly: DATE
+May 2008 to October 2009: DATE
+Paraoptometric Technician 
+City: EVENT
+October 2007 to March 2008: DATE
+10: CARDINAL
+March 2007 to: DATE
+May 2007: DATE
+Shift Lead: PERSON
+March 2006 to September 2007: DATE
+Maintained: GPE
+Arranged: PERSON
+Maintained: GPE
+February 2006 to March 2006: DATE
+RCA Electronics: ORG
+Performed: ORG
+Logged: ORG
+August 2004 to August 2005: DATE
+Completed: ORG
+Completed: ORG
+Cowley County Community College Associates of Applied Science : Medical Billing: ORG
+Coding City: GPE
+State Medical Billing: ORG
+Stillwater High School City: ORG
+Certified Paraoptometric: ORG
+Safety Training: ORG
+HazCom: ORG
+Bloodborne Pathogens: PERSON
+Market: GPE
+Medisoft: GPE
+Meetings, Access,: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Payroll: ORG
+Quickbooks: PERSON
+Safety: ORG
+Answer: ORG

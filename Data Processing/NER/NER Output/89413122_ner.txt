@@ -1,0 +1,62 @@
+OPERATIONS: ORG
+More than eight years: DATE
+Detail: PERSON
+Software: PERSON
+Accomplishments
+
+Initiation: WORK_OF_ART
+Memorandum of Understanding: ORG
+the Department of Homeland
+Security National Urban Security Technology Laboratory: ORG
+the New York Police Department: ORG
+Test and Evaluation: ORG
+Level II: PERSON
+State: ORG
+Operations Research Analyst 01/2010: ORG
+New York: GPE
+New Jersey: GPE
+Connecticut: GPE
+2009: DATE
+25 million dollars: MONEY
+more than 10,000: CARDINAL
+the New York Police Department: ORG
+Counter Terrorism Bureau: ORG
+first: ORDINAL
+the Brookhaven National Laboratory: ORG
+Information Technology Specialist: ORG
+Name City: GPE
+State
+
+Data Collection and Test: ORG
+the Department of Homeland Security: ORG
+NYPD: ORG
+NYPD: ORG
+National Laboratories: ORG
+first: ORDINAL
+Appointed Data Collection Lead for Advanced Spectroscopic Portal: ORG
+the New York Container Terminal: ORG
+S&T Countermeasures Test Beds Collaborative Website: ORG
+Information Technology Field Coordinator: ORG
+DHS: ORG
+National Laboratories: ORG
+State and Local Representatives: ORG
+Information Technology Specialist: ORG
+03/2003: CARDINAL
+Name City: GPE
+the Protecting Human Subject Program: ORG
+the Department's Human Subjects: ORG
+Working Group: ORG
+BS : Management Information Systems: ORG
+May 2005: DATE
+New York University City: ORG
+Magna Cum Laude: PERSON
+3.922: CARDINAL
+Alpha: GPE
+Fall 2001: DATE
+Statistical Methods, Economics, Database Design, System Analysis and Design, Business Organization and Management, Management
+Information Systems: WORK_OF_ART
+Object Oriented Analysis: ORG
+Interactive Design: ORG
+Information Technology: ORG
+Procedure Development, Scheduling: ORG
+Website Design: ORG

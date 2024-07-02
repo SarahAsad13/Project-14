@@ -1,0 +1,42 @@
+7 years: DATE
+Software Skills
+Animation: ORG
+Toon Boom Harmony: PERSON
+Adobe Flash
+Illustration: PERSON
+Adobe Illustrator: PERSON
+Aseprite: DATE
+Paintool SAI: PERSON
+Gimp
+Post-Production: ORG
+Adobe After-Effects: PERSON
+Adobe Premiere: PERSON
+02/2017 - Current
+Company Name: ORG
+D&D: ORG
+8: CARDINAL
+Dragons YouTube: PERSON
+06/2016 - 08/2016
+Company Name ï¼​ City: PRODUCT
+Instructor Assisted: ORG
+5-18: DATE
+ACLU: ORG
+Employment Non-Discrimination Act: ORG
+LGBT+: NORP
+Education: ORG
+2018: DATE
+Loyola Marymount University: ORG
+ï¼​ City: GPE
+State: GPE
+United States Bachelor of Arts : Animation
+
+Created: GPE
+two: CARDINAL
+5-minute: TIME
+two: CARDINAL
+2014: DATE
+State: GPE
+United States: ORG
+Karten Design
+Placed: PERSON
+first: ORDINAL

@@ -1,0 +1,152 @@
+History Teacher: PERSON
+Seventh: ORDINAL
+World History: ORG
+Southwest Middle School: ORG
+Chatham County: GPE
+Savannah: GPE
+Ga.: GPE
+four: CARDINAL
+Charge: PRODUCT
+Georgia: GPE
+U.S History: PERSON
+Georgia History: PERSON
+30: CARDINAL
+60: CARDINAL
+30: CARDINAL
+Established: ORG
+30: CARDINAL
+Applied: ORG
+30: CARDINAL
+60: CARDINAL
+Instructional Programs: ORG
+Collaborated: ORG
+Conducted: ORG
+four: CARDINAL
+each week: DATE
+Coordinated: ORG
+Created: ORG
+Maintained: GPE
+Maintained: GPE
+2: CARDINAL
+Lesson: PERSON
+History Teacher: PERSON
+State: ORG
+Fifth: ORDINAL
+Thunderbolt Elementary Marine Science Academy: ORG
+Chatham County: GPE
+Savannah: GPE
+Ga.: GPE
+Â Teach Social Studies: ORG
+110: CARDINAL
+daily: DATE
+Gifted: ORG
+EIP: ORG
+American: NORP
+Performed: ORG
+Maintained: GPE
+30: CARDINAL
+Maintained: GPE
+200%: PERCENT
+Created: ORG
+4: CARDINAL
+each week: DATE
+25]%: CARDINAL
+2: CARDINAL
+Lesson Plans: PERSON
+Classroom: ORG
+Collaborated: ORG
+Coordinated: ORG
+Established: ORG
+30: CARDINAL
+Applied: ORG
+30: CARDINAL
+10]%: CARDINAL
+60: CARDINAL
+Social Studies: ORG
+Reading Level] and: WORK_OF_ART
+History Teacher: PERSON
+Fourth: ORDINAL
+Frank W. Spencer: PERSON
+Respect Yourself: ORG
+Jiu-Jitsu: PERSON
+25]%: CARDINAL
+Maintained: GPE
+2: CARDINAL
+Lesson
+Plans: PERSON
+2: CARDINAL
+Coordinated: ORG
+Established: ORG
+30: CARDINAL
+30: CARDINAL
+Created: ORG
+30: CARDINAL
+10/1979: CARDINAL
+daily: DATE
+Monitored: ORG
+daily: DATE
+12: CARDINAL
+PPE: ORG
+6-8 hours: TIME
+Ph.D.: WORK_OF_ART
+2019: DATE
+Northcentral University - City: ORG
+State: ORG
+3.7: CARDINAL
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+Elementary Teachers Experiences of Teaching Culturally Responsive Education: WORK_OF_ART
+African American: NORP
+Curriculum and Teaching
+
+Master of Arts : Curriculum Instruction: WORK_OF_ART
+2008: DATE
+Nova Southeastern University - City: ORG
+2007: DATE
+Nova Southeastern University - City: ORG
+1986: DATE
+Savannah Arts Academy - City: ORG
+Language Arts: WORK_OF_ART
+Reading Endorsement: WORK_OF_ART
+1981: DATE
+Thomas Nelson Community College - City: ORG
+Hampton: GPE
+30] years: DATE
+Innovative Program Officer: ORG
+30] years: DATE
+Affiliations
+Professional Development Attended Seminars: ORG
+4-8): DATE
+Inclusion: GPE
+TQM: ORG
+In-Tech Redelivery: ORG
+WOW: ORG
+Middle years: DATE
+Humanities: NORP
+1: CARDINAL
+fourth: ORDINAL
+4) years: DATE
+BLT: PERSON
+3) years: DATE
+Block- Scheduling Team: ORG
+2) years: DATE
+Veteran Day: EVENT
+2) years: DATE
+Black History Coordinator: ORG
+2) years: DATE
+American Education: ORG
+2) years: DATE
+Lesson Planning Special Education Progress Reports Social Studies History Teamwork / Collaboration
+Learning Styles World History: ORG
+The Year (1994: DATE
+2002: DATE
+Veteran Day Parade: EVENT
+first: ORDINAL
+Award: PERSON
+Elementary: PERSON
+Crystal Apple Award: ORG
+Kiwanis Club Award: ORG
+Articles: LOC
+Respect Yourself: ORG
+Summer Academy: ORG

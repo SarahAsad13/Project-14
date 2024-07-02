@@ -1,0 +1,110 @@
+Summary
+
+Construction: ORG
+Decisive: GPE
+18+ years: DATE
+the last 10 years: DATE
+Baseline: PERSON
+Multi Family: ORG
+MS Office: ORG
+Organized: ORG
+2000 - 2008: DATE
+Customer: ORG
+Multi: GPE
+Vendor: ORG
+Certified Purchasing: ORG
+CPM: ORG
+Microsoft Office: ORG
+Mansfield Farms - Suffolk Virginia - 150 Home Subdivision: FAC
+Mallory Square - Chesapeake Virginia - 25: FAC
+Braddock Landing - Chesapeake Virginia - 55 Home Subdivision: ORG
+Glenwood - Virginia Beach -: FAC
+Courthouse Square - Gloucester Virginia - 86 Home Subdivision: FAC
+Eagle Lake - Chesapeake Virginia - 99 Home Subdivision: FAC
+2008 - 2011: DATE
+Eagle Pointe - Chesapeake Virginia - 170 Homes Subdivision: FAC
+2011 - 2015: DATE
+Breeden Construction: ORG
+LLC: ORG
+Cambria: GPE
+Cornerstone Phase 1 - 276 Unit: FAC
+Cambria: GPE
+Cornerstone Phase 2 - 180: FAC
+Edinburgh - 438 Unit: FAC
+25th Street: FAC
+Luxury Apartment Community: ORG
+Name City: GPE
+State: ORG
+12/2011: CARDINAL
+Town Center: FAC
+Virginia Beach: GPE
+Land Development: ORG
+early 2013: DATE
+24: CARDINAL
+480: CARDINAL
+2: CARDINAL
+2: CARDINAL
+third: ORDINAL
+four years: DATE
+Breeden Construction: ORG
+RFI: ORG
+Name City: GPE
+State: ORG
+12/2011: CARDINAL
+Chesapeake Virginia: GPE
+4: CARDINAL
+Site / Land Development: ORG
+Drafted: ORG
+Name City: GPE
+State: ORG
+04/2000: CARDINAL
+Division: ORG
+Hampton Roads: LOC
+Land Development: ORG
+two weeks: DATE
+Name City: GPE
+State Construction / Warranty: ORG
+Oversee: ORG
+multi-million dollar: MONEY
+Virginia Beach: GPE
+BA : Business Administration: ORG
+Old Dominion University: ORG
+State
+
+Business Administration
+
+High School: ORG
+Colonial High School: ORG
+AES NORFOLK: ORG
+CPR & First: ORG
+2: CARDINAL
+Homearama: GPE
+Dragas Homes: PERSON
+2000: DATE
+Two: CARDINAL
+Portsmouth: GPE
+Virginia: GPE
+Centex Homes: PERSON
+2005: DATE
+J.D Power and Associates: ORG
+2006: DATE
+Assist Sales and Marketing: ORG
+1: MONEY
+two consecutive years: DATE
+the Hampton Roads Division: ORG
+Centex Homes 2006 &2007: ORG
+over 500: CARDINAL
+Technical Expertise
+
+Construction Project Management
+Project Planning and Execution
+Purchasing and Estimating
+Blueprint Revisions
+Budget Management
+Materials Management
+Trade Partner: ORG
+Subcontractor: PERSON
+Customer Relations: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+SAP Construction Management Software: ORG

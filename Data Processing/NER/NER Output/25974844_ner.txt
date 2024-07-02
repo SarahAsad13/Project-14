@@ -1,0 +1,99 @@
+HOSPITAL & PHYSICIAN: ORG
+COMMUNICATOR: ORG
+FREELANCE HEALTHCARE MARKETING: ORG
+EXCELS: PERSON
+SEEKS: PERSON
+Skill Highlights
+
+Collections & Receivables: ORG
+FACS: ORG
+Athena: ORG
+MediTech: PRODUCT
+MediSoft: PRODUCT
+TruCode: ORG
+NueMD: ORG
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+Access, Outlook: ORG
+PowerPoint: ORG
+Medicare: ORG
+Medi-Cal
+
+Medical Manager Software
+
+Managed: ORG
+HHM: ORG
+Medisoft: GPE
+Strong: PERSON
+Team: ORG
+Hospital & Physician Billing Specialist: ORG
+December 2013: DATE
+Workers Compensation and Personal Injury: ORG
+Medicare: ORG
+Key Achievements & Bottom Line Growth
+Reduced: ORG
+North Carolina: GPE
+$4M: MONEY
+520: MONEY
+8-month: DATE
+Created: ORG
+January 2009: DATE
+Current Company Name: ORG
+Scripps Memorial Hospital: ORG
+Scripps Mercy Hospital: ORG
+San Diego: GPE
+Physician Billing Specialist: PERSON
+March 2012 to January 2013: DATE
+40: CARDINAL
+daily: DATE
+daily: DATE
+Athena: ORG
+Key Achievements & Bottom Line Growth
+Slashed: ORG
+40: CARDINAL
+Florida: GPE
+$6M to: MONEY
+10-month: DATE
+Unified Physician Management's: ORG
+Northeast: LOC
+52: CARDINAL
+7 month: DATE
+Hospital: PRODUCT
+Physician Billing Specialist: PERSON
+June 2009: DATE
+May 2010: DATE
+15%: PERCENT
+an average of 45 days: DATE
+Training
+Bachelor of Science : Business Management Canisius College: PERSON
+State: GPE
+US Bachelor of Science in Business Management: ORG
+Canisius College: ORG
+Buffalo: GPE
+NY: ORG
+Associate of Science : Medical Billing and Coding San Diego City College: WORK_OF_ART
+State: GPE
+US: GPE
+Coding: ORG
+San Diego City College: GPE
+San Diego: GPE
+CA: WORK_OF_ART
+Graphic Design: ORG
+Healthcare: ORG
+Accountable For: ORG
+Auto Insurance, Compensation: ORG
+Medicare: ORG
+Workers Compensation: ORG
+Accounts Receivables: ORG
+Basis, Collections: ORG
+Excel: PRODUCT
+Hippa: ORG
+Medical Billing &
+Coding: ORG
+Medical Records: ORG
+Medisoft: GPE
+Meditech: GPE
+Microsoft Office: ORG
+Ms Office: ORG
+Outlook, Powerpoint: ORG
+Quickbooks: PERSON

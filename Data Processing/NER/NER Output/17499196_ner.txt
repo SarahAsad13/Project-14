@@ -1,0 +1,95 @@
+Skills
+
+Physical Planning and Land Management
+Urban: ORG
+GIS: ORG
+Sports - Students Union: ORG
+University of Technology: ORG
+Jamaica: GPE
+2008-2009: DATE
+University of Technology Student Union Award for Exemplary Service: ORG
+2008-2009: DATE
+Bachelor of Science : Urban and Regional Planning University of Technology University of Technology: ORG
+Urban: ORG
+Jamaica High School Diploma
+Certificate of Education: ORG
+GCE: ORG
+Advanced Level Subjects: ORG
+Four: CARDINAL
+GCE: ORG
+Advanced Level Subjects: ORG
+Seven: CARDINAL
+Caribbean Examination Council: ORG
+three: CARDINAL
+Supervises: PRODUCT
+Prepare: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+the Portmore Development Plan Project: ORG
+weekly: DATE
+Geographic Information System: ORG
+GIS: ORG
+GIS: ORG
+National Environment and Planning Agency: ORG
+Jamaica- Planning Technician: ORG
+12/2011: CARDINAL
+weekly: DATE
+each week: DATE
+Geographic Information System: ORG
+GIS: ORG
+GIS: ORG
+01/2011 to 01/2011: CARDINAL
+National Environment and Planning Agency: ORG
+Jamaica- Planning Technician 06/2010: ORG
+weekly: DATE
+each week: DATE
+Planning Intern 08/2008: PERSON
+10/2008: CARDINAL
+the Conservation of the Historic Buildings: ORG
+Emancipation Square: FAC
+Spanish: NORP
+St. Catherine: GPE
+Jamaica: GPE
+the Spanish Historic District: ORG
+the Geographic Information System: ORG
+GIS: ORG
+the Tourism Enhancement Fund: ORG
+the Windsor
+Heights Community of Central Village: FAC
+St. Catherine: GPE
+UDC: ORG
+Global Positioning Satellite: ORG
+the Caymanas Estate Development Project: ORG
+Researching: PRODUCT
+the Caymanas Estate Development Plan: ORG
+the Global Positioning Satellite: ORG
+Geographic Information System: ORG
+GIS: ORG
+Undertaking: GPE
+National Environment and Planning Agency: ORG
+Jamaica- Planning Intern: ORG
+the Kingston & St.: ORG
+Kingston: LOC
+the Geographic Information System: ORG
+GIS: ORG
+Memberships: GPE
+Affiliations: ORG
+Royal Institute of Chartered Surveyors (RICS: ORG
+Jamaica Institute of Planners Campion College Alumni Association: ORG
+University of Technology Student Union Award for Exemplary Service: ORG
+2008-2009: DATE
+Certifications: ORG
+Four: CARDINAL
+GCE: ORG
+Advanced Level Subjects: ORG
+Skills
+Land Use, Basis, Business Operations, Inspection, Operations, Proposals, Training, Global Positioning: ORG
+Gps, Geographic Information System: ORG
+Gis: PERSON
+Survey Technician: PERSON
+Liaison: PERSON
+Land Use Planning: ORG
+Documenting, Mapping, Topo, Progress
+
+: WORK_OF_ART

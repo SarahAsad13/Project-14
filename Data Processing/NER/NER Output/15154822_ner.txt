@@ -1,0 +1,31 @@
+DIRECTOR & FASHION: ORG
+15
+years: DATE
+Argentina: GPE
+Organization: ORG
+Communication: ORG
+Quality Control
+Problem Solving: ORG
+Name City: GPE
+Directed: ORG
+10 years: DATE
+Conferred: ORG
+Directed: ORG
+Facilitate: ORG
+Graphic: PERSON
+Archive: PRODUCT
+Photoshoot Campaing: WORK_OF_ART
+2015: DATE
+NYC City: GPE
+NYC City: GPE
+2014: DATE
+Central Saint Martins City
+College: LOC
+2008: DATE
+2003: DATE
+INTI / Emilia Romangna Argentina
+College: ORG
+LICENCIADA: GPE
+2002: DATE
+Spanish: NORP
+Illustraitor / Microsoft Office: ORG

@@ -1,0 +1,46 @@
+SOUS CHEF
+AND CHEF: ORG
+Italian: NORP
+Peruvian: NORP
+Mexican: NORP
+five: CARDINAL
+Certified
+Master
+
+: WORK_OF_ART
+Hospitality: PERSON
+Core Accomplishments
+
+Reduced: WORK_OF_ART
+80> percent: PERCENT
+40: CARDINAL
+more than 500: CARDINAL
+50%: PERCENT
+one year: DATE
+01/2010 - 09/2012: DATE
+State Chef Owner
+
+Management: ORG
+Recruit: ORG
+one year: DATE
+300: CARDINAL
+Yelp.com: ORG
+State: ORG
+12/2003 - 12/2006: CARDINAL
+Sous Chef
+
+: PERSON
+Oversaw: GPE
+Food and Nutrition Department: ORG
+Oversaw: GPE
+Oversees 3,000: ORG
+11/2001 - 12/2003: DATE
+State Food Service: ORG
+daily: DATE
+weekly: DATE
+daily: DATE
+1994: DATE
+Los Angeles Culinary: ORG
+State: ORG
+Associate of Arts: ORG
+Hospitality: GPE

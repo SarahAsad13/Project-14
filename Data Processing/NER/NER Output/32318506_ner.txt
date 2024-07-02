@@ -1,0 +1,51 @@
+Dental: ORG
+RDA: ORG
+Polish: NORP
+Pit: PERSON
+Dental Skills: ORG
+4: CARDINAL
+Preventative Care
+Instrument Sterilization
+Diagnostic X-Rays
+Infection Control
+Ortho
+
+Emergency TreatmentsÂ Â Â Â 
+: ORG
+Casts/Impressions
+Patient: ORG
+Oversee: ORG
+Implants: PERSON
+Crown Preps: PRODUCT
+SRP: ORG
+Eaglesoft
+Dentrix
+Open Dental
+: ORG
+Microsoft Office: ORG
+RDA Company Name: ORG
+Coordinated: ORG
+Correctly: ORG
+04/2013: CARDINAL
+12/2013: CARDINAL
+Dental: ORG
+06/2012: CARDINAL
+12/2012: CARDINAL
+Dental: ORG
+Training: PERSON
+2012: DATE
+Dental Assisting Program Kaplan College: ORG
+GPA 3.85: ORG
+2014: DATE
+Invisalign Training ï¼​ City: WORK_OF_ART
+State: ORG
+2015: DATE
+State: ORG
+2015: DATE
+State
+Community Service
+
+Dentistry From: ORG
+the Heart - Free Dentistry: ORG
+CEA Dental Convention - Greeter: ORG
+Blood Drive: FAC

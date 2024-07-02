@@ -1,0 +1,133 @@
+Recruiter: PERSON
+6 years: DATE
+Bachelor: ORG
+Human Resources Management: ORG
+Infor Talent Management
+Thrive: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+State: ORG
+the Microsoft Dynamics AX and: ORG
+CRM: PRODUCT
+Celenia: GPE
+Microsoft Dynamics: ORG
+Recruitment & Onboarding
+
+Responsible: ORG
+Celenia North America: ORG
+Delivery/Consulting: ORG
+Shared Services: ORG
+Create: ORG
+Ensures: LOC
+Business Unit: ORG
+weekly: DATE
+Create: ORG
+Maintain: PRODUCT
+Prescreen: NORP
+Compile: PRODUCT
+Coordinate: FAC
+Provide: PRODUCT
+Develop: ORG
+Develop: ORG
+Manage: PRODUCT
+Participate: ORG
+annual: DATE
+Coordinate: FAC
+Coach: ORG
+Oversee: ORG
+ENAVATE: ORG
+Celenia North America: ORG
+Identify: ORG
+FSA: ORG
+HSA: ORG
+North America: LOC
+Accounting department
+Assist: ORG
+Manage: PRODUCT
+NA: ORG
+Oversee: ORG
+North America: LOC
+Foster: PERSON
+Name City: GPE
+Shift Supervisors: ORG
+General Managers: ORG
+General Managers: ORG
+Regional
+Operation Managers: ORG
+over 450: CARDINAL
+U.S.: GPE
+over 200: CARDINAL
+CareerBuilder: ORG
+LinkedIn Recruiter: PERSON
+Snagajob
+Execute: PRODUCT
+Generate: PERSON
+Keep: PERSON
+Infor Talent Management: ORG
+Applicant Tracking System: ORG
+Employee Recruitment & Development/Recruitment Specialist 05/1999: ORG
+10/1999: CARDINAL
+Name City: GPE
+The John Constanza Institute of Technology: ORG
+Demand Flow Technology: ORG
+Denver: GPE
+90+: DATE
+Conducted: ORG
+Prepared monthly: WORK_OF_ART
+ER&D: ORG
+the Executive Board: ORG
+EEOC: ORG
+ER&D: ORG
+Generalist: PERSON
+Recruiter: PERSON
+Name City: GPE
+the Energy &
+Utilities: ORG
+Denver: GPE
+75: CARDINAL
+HRIS: ORG
+weekly: DATE
+Denver: GPE
+Denver: GPE
+Denver: GPE
+Denver: GPE
+Advise: ORG
+Name City: GPE
+Reviewed thousands: CARDINAL
+10: CARDINAL
+Facilitated: ORG
+weekly: DATE
+Redwood City: GPE
+CA: ORG
+Telecom: ORG
+Denver: GPE
+Acted as Staffing Coordinator: ORG
+the Telecommunications Industry Group: ORG
+weekly: DATE
+Human Resources Coordinator 06/1994: ORG
+05/1995 Company Name City: ORG
+Conducted: ORG
+401k: PRODUCT
+HRIS: PERSON
+the Annual Blood Drive: ORG
+Health Fair: ORG
+Bachelor of Science : Management of Human Resources: ORG
+1997: DATE
+Colorado: GPE
+Christian University City: ORG
+State: GPE
+US: GPE
+License: ORG
+State: GPE
+US: GPE
+Phone: ORG
+Interviewing, Negotiation, Recruiting Events: ORG
+New Hires: ORG
+HRIS/ATS: ORG
+HR Administration: ORG
+Terminations: PERSON
+Performance Evaluations: ORG
+Human Resources
+Management: ORG

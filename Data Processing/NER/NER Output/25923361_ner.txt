@@ -1,0 +1,197 @@
+30 years: DATE
+Sacramento County Office of Education: ORG
+Curriculum Specialist: PERSON
+the Common Core State Standards: FAC
+11/2011: CARDINAL
+Instructional Coach Company Name: ORG
+Direct Interactive Instruction: ORG
+English Language Learners Delivered: WORK_OF_ART
+CCSS: PRODUCT
+English Language Arts and Mathematics, K-12: WORK_OF_ART
+Microsoft Office: ORG
+Outlook: PERSON
+daily: DATE
+12/2009: CARDINAL
+Curriculum Specialist: PERSON
+English Language Arts Company Name: ORG
+Lions Project: ORG
+K-3: PERSON
+Packard Humanities Institute: ORG
+PHI: FAC
+PHI: ORG
+27: CARDINAL
+California: GPE
+Instructor
+Recruitment and Support: ORG
+First: ORDINAL
+AB466/SB472 Institutes: ORG
+up to 600: CARDINAL
+five-day: DATE
+40 hour: TIME
+2002: DATE
+HM: GPE
+2003: DATE
+Development
+Team: ORG
+1,200: CARDINAL
+California: GPE
+Lions Center: ORG
+Utilized Mac Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+FileMaker Pro: PERSON
+daily: DATE
+06/1997: GPE
+GATE: ORG
+English Language Learners Collaborated: WORK_OF_ART
+Collaborated: ORG
+1983: DATE
+Specialist Credential, Mild/Moderate: ORG
+CSU Sacramento: PERSON
+1991-1995: DATE
+CSU Sacramento: PERSON
+1981: DATE
+1976: DATE
+Direct Interactive Instruction" Action
+Learning Systems: WORK_OF_ART
+Building Background for ELA/Math Common Core State Standards: WORK_OF_ART
+Houghton Mifflin Reading: PERSON
+Medallion Edition AB: ORG
+Yolo County Office of Education: ORG
+The Structure of the English Language: WORK_OF_ART
+CA
+Reading: WORK_OF_ART
+Los Angeles: GPE
+CA Reading/Language Arts Framework: WORK_OF_ART
+Standards and Assessment
+Conference: WORK_OF_ART
+Asilomar: PERSON
+A Multi-Level Staff Development Model: WORK_OF_ART
+Reading Strategies for the
+Intermediate Grades: WORK_OF_ART
+Davis USD: PERSON
+Using Literature Circles: WORK_OF_ART
+A Learning Journey: Organizing for the Possibilities: WORK_OF_ART
+Student Teachers Association: ORG
+CSUS: ORG
+Using Short Stories: WORK_OF_ART
+CSUS: ORG
+Connecting Art and Literature: WORK_OF_ART
+WalkingInto Literature: Prediction Activities" CA Association of Independent Schools: WORK_OF_ART
+Creative Report
+Writing: WORK_OF_ART
+Comprehension Strategies: WORK_OF_ART
+the CA Literature Project: ORG
+Interests: NORP
+Maria Arguelles: PERSON
+Jane Fell Greene: PERSON
+Louisa Moats: PERSON
+First Principal/Coach Summit Reading Lions Center: ORG
+Making It Work for English
+Learners: WORK_OF_ART
+Michael Pressley: PERSON
+Reading Comprehension: WORK_OF_ART
+Linnea Ehri: PERSON
+Ed Kame'enui: PERSON
+Louisa Moats: PERSON
+Sally Shaywitz: PERSON
+National Reading Panel
+Symposium" G. Reid Lyon: WORK_OF_ART
+National Perspective on Improving Reading Achievement: ORG
+Ed Kame'enui: PERSON
+Effective Instructional Support Systems: ORG
+Louisa Moats: PERSON
+Morphology, Orthography: WORK_OF_ART
+Spelling: GPE
+Questioning the Author: WORK_OF_ART
+Jane Fell Greene: WORK_OF_ART
+Louisa Moats: PERSON
+California Reading Academy California Reading and Literature Project: ORG
+Sacramento: GPE
+Roger Taylor: PERSON
+PhD: WORK_OF_ART
+Strengthening Your Program for Gifted Students: WORK_OF_ART
+Mel Levine: PERSON
+MD: GPE
+Cognition and Behavior: WORK_OF_ART
+"The Dimensions of Attention: WORK_OF_ART
+Language as Prototypes: WORK_OF_ART
+CA SBE Mathematics and Reading Professional Development Program
+Review Committee: ORG
+2008: DATE
+Panel: ORG
+CA SBE English: ORG
+2000: DATE
+2002: DATE
+2008: DATE
+UC: GPE
+Davis Invitational: PERSON
+Cross Project Institute: ORG
+1995: DATE
+California Reading and Literature Project: ORG
+1993-1996: DATE
+Additional Information
+
+PROFESSIONAL DEVELOPMENT: ORG
+Maria Arguelles: PERSON
+Jane Fell Greene: PERSON
+Louisa Moats: PERSON
+First: ORDINAL
+Principal/Coach Summit Reading Lions Center: ORG
+Making It Work for English Learners: WORK_OF_ART
+Michael Pressley: PERSON
+Reading Comprehension: WORK_OF_ART
+Linnea
+Ehri: WORK_OF_ART
+Ed Kame'enui: PERSON
+Louisa Moats: PERSON
+Sally Shaywitz: PERSON
+National Reading Panel Symposium: WORK_OF_ART
+G. Reid Lyon: PERSON
+National Perspective: ORG
+Improving Reading Achievement: WORK_OF_ART
+Ed Kame'enui: PERSON
+Effective Instructional Support Systems: ORG
+Louisa Moats: PERSON
+Morphology, Orthography: WORK_OF_ART
+Spelling: WORK_OF_ART
+Questioning the Author: WORK_OF_ART
+Jane Fell Greene: WORK_OF_ART
+Louisa Moats: PERSON
+California Reading Academy: ORG
+Sacramento: GPE
+Roger Taylor: PERSON
+PhD: WORK_OF_ART
+Strengthening Your Program: WORK_OF_ART
+Gifted Students: ORG
+Mel Levine: PERSON
+MD: GPE
+Cognition and Behavior: WORK_OF_ART
+"The Dimensions of Attention and Language as Prototypes: WORK_OF_ART
+CA SBE Mathematics and Reading Professional Development Program Review Committee: ORG
+2008: DATE
+Panel: ORG
+CA SBE English: ORG
+2000: DATE
+2002: DATE
+2008: DATE
+UC Davis Invitational Cross Project
+Institute: ORG
+1995: DATE
+California Reading and Literature Project: ORG
+1993-1996: DATE
+Art: PERSON
+CA: ORG
+CSU: ORG
+English: LANGUAGE
+FileMaker Pro: PERSON
+Instructor, Mac: ORG
+Math: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Reading, Recruitment: ORG
+Report Writing: PERSON
+Short Stories: ORG

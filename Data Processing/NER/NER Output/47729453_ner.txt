@@ -1,0 +1,45 @@
+01/2016: ORG
+01/2016
+Head Chef Company Name - City: PERSON
+Menu: PERSON
+Safety: ORG
+Budget: ORG
+Menu: ORG
+Garde Manger Company Name - City: PERSON
+Practicing F.I.F.O.: ORG
+Maintained: GPE
+next day: DATE
+Closing Kitchen: PERSON
+01/2011 to 01/2012: CARDINAL
+Garde Manger / Line Cook Company: PERSON
+Practicing F.I.F.O.: ORG
+Maintained: GPE
+next day: DATE
+hours: TIME
+Garde Manger Company Name - City: PERSON
+Maintained: GPE
+hours: TIME
+Prep Chef / Line Cook Company Name - City: ORG
+Cashier / Clerk Company Name - City: ORG
+Sheet Metal Fabricator Company Name - City: ORG
+Utilized: ORG
+Allied Trade Noncommissioned Officer in: ORG
+Coordinated: ORG
+2012: DATE
+Culinary Arts Orange Coast College - City: ORG
+2009: DATE
+the Art Institute - City: ORG
+State Culinary Arts: ORG
+Hospitality
+Concepts and Theory: ORG
+Safety and Sanitation: ORG
+Nutrition: ORG
+American Regional
+Cuisine: ORG
+Garde Manger: PERSON
+Classical European Cuisine: ORG
+Menu Management: ORG
+Skills: ORG
+Budget, Closing, Cooking: ORG
+Hiring: GPE
+Safety: ORG

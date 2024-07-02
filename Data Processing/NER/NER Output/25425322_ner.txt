@@ -1,0 +1,148 @@
+Core Qualifications
+
+Executive: ORG
+Policy Development
+Automation Design
+Quality Control
+Project Management & Execution: ORG
+Name City: GPE
+State: ORG
+Boyden: GPE
+IA: GPE
+October 2012 - March 2014: DATE
+Name City: GPE
+State: ORG
+Oshkosh: PERSON
+WI: ORG
+May 2011 - August 2012: DATE
+HEMTT: ORG
+MATV: ORG
+LVSR: ORG
+MTVR: ORG
+HET: ORG
+FMTV: ORG
+1.5: MONEY
+2.5: MONEY
+$1m: MONEY
+2: MONEY
+State: ORG
+Jackson: PERSON
+MN: ORG
+2010 - 2011: DATE
+Challenger: ORG
+RoGator: PERSON
+TerraGator: PERSON
+Massey Ferguson: PERSON
+Wilmar: PERSON
+Lean and Six Sigma: ORG
+WIP: ORG
+01/2010 Company Name City: EVENT
+IA: GPE
+2008 - 2010 Company: DATE
+40%: PERCENT
+WIP: ORG
+50%: PERCENT
+Coordinated: ORG
+KORBITZ: ORG
+920: CARDINAL
+716-6086: CARDINAL
+Name City: GPE
+State: ORG
+Emmetsburg: GPE
+IA: GPE
+2004 - 2008: DATE
+30+ feet: QUANTITY
+32: CARDINAL
+2004: DATE
+70: CARDINAL
+2008: DATE
+70%: PERCENT
+90%: PERCENT
+Master of Business Administration: ORG
+Project & Program Management: ORG
+DEVRY: ORG
+UNIVERSITY City: GPE
+State: GPE
+US: GPE
+May 2010 Concentration: DATE
+Project & Program Management GPA: ORG
+3.6: CARDINAL
+DEVRY UNIVERSITY Naperville: ORG
+IL
+Bachelor of Science : Political Science, Economics MINNESOTA STATE UNIVERSITY City: ORG
+State: GPE
+Political Science: WORK_OF_ART
+May 2004: DATE
+3.5: CARDINAL
+MN
+Earned: ORG
+Dean: PERSON
+the Dean of Social and Behavioral Sciences: ORG
+Manufacturing Engineering Technology NORTHWEST: ORG
+State: GPE
+US Manufacturing Engineering
+Technology: ORG
+July 1997: DATE
+NORTHWEST IOWA COMMUNITY COLLEGE Sheldon: ORG
+IA: GPE
+Place- Iowa &: ORG
+4th: ORDINAL
+Affiliations: ORG
+2: CARDINAL
+Lego League Robotics Teams: ORG
+Dean: PERSON
+the Dean of Social and Behavioral Sciences
+
+Military Experience
+: ORG
+Specialist 01/1989 to 01/2007: ORG
+Spencer: GPE
+IA: GPE
+Developed: PERSON
+Middle school: LOC
+Middle School: ORG
+Community: ORG
+Spencer Public Library: PERSON
+Spencer: PERSON
+IA: GPE
+2007: DATE
+Board of Trustees / Board: ORG
+Spencer: PERSON
+IA: GPE
+2007 - 2011: DATE
+Founder: ORG
+Coach: ORG
+Mentor Coached: ORG
+2: CARDINAL
+Lego League Robotics Teams: ORG
+United States: GPE
+Army / Army National Guard: ORG
+1989 - 2007: DATE
+Fire Direction & Automated Tactical Data Systems Specialist: ORG
+Four Army: ORG
+Task Force 21: PRODUCT
+21st century: DATE
+Skills
+Engineer: ORG
+Manufacturing Engineer: ORG
+Process Improvement, Tooling, Welding: ORG
+Automated Equipment: ORG
+Quality Control, Robotic, Robotic Welding: ORG
+Operations: ORG
+New Product Development: ORG
+Project Management, Design Engineering: ORG
+Engineering Department: ORG
+Process Development: ORG
+Assembly: ORG
+Assembly Process: ORG
+Continuous Improvement, Electronic Production: PERSON
+Inspection, Production Control: ORG
+Massey Ferguson: PERSON
+Six: CARDINAL
+Six: CARDINAL
+Automation Design, Budget: ORG
+Fanuc: ORG
+Mentor, Policy Development: ORG
+Strategic Planning: ORG
+Program Management: ORG
+Manufacturing Engineering: ORG

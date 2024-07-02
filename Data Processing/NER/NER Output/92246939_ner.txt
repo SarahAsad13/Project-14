@@ -1,0 +1,223 @@
+U.S.: GPE
+30-year: DATE
+the United States: GPE
+CPR: ORG
+Intelligence: ORG
+30 years: DATE
+the United States: GPE
+October 2013 to October 2014: DATE
+Fort Sill Oklahoma: GPE
+09.13: CARDINAL
+3: CARDINAL
+The Battlefield Coordination Detachment: ORG
+BCD: ORG
+3-09.43: PERCENT
+Army: ORG
+2015: DATE
+September 2012 to September 2013: DATE
+Explosive Hazard Operations: ORG
+Army Techniques Publication: ORG
+3-34.20: DATE
+3-17.2D.: DATE
+Keybridge Technologies: ORG
+Explosive Hazard Operations: ORG
+3-34.20: CARDINAL
+Gathered: GPE
+3-34.210: DATE
+Explosive Hazard Operations: ORG
+Army: ORG
+Marine Corps: ORG
+September 2011 to August 2012: DATE
+Fort Leonard Wood: FAC
+Mo.: GPE
+Organization, Training: ORG
+Materiel: PERSON
+Development and Education: ORG
+Facilities: FAC
+the Directorate of Counter Improvised Explosive Device: ORG
+the Defeat the Device Line: EVENT
+Marines: NORP
+Afghanistan: GPE
+Familiar: PERSON
+the Defeat the Device Working Group: EVENT
+Material Solutions: ORG
+Marines: NORP
+Theater of
+Operations: WORK_OF_ART
+the Joint Urgent Operational Needs Statements: ORG
+the DtD Line of Effort: ORG
+Aerial Intelligence Surveillance: ORG
+US: GPE
+Iraq: GPE
+Familiar: PERSON
+Dismounted Operations: ORG
+Afghanistan: GPE
+Authored/Co-Authored: ORG
+Concept of Operations: ORG
+Techniques, Tactics and Procedures: ORG
+TTP: ORG
+Afghanistan: GPE
+Warfighter: PERSON
+Possess: ORG
+Combat Arms Environment: ORG
+Marine: NORP
+Sergeant Major: PERSON
+March 2009 to: DATE
+Fort Leonard Wood: FAC
+Mo.: GPE
+Organization, Training: ORG
+Materiel: PERSON
+Development and Education: ORG
+Facilities: FAC
+the Directorate of Counter Improvised Explosive Device: ORG
+the Defeat the Device Working Group: EVENT
+Aerial Intelligence Surveillance: ORG
+US: GPE
+Iraq: GPE
+Afghanistan: GPE
+Authored/Co-Authored: ORG
+Concept of Operations: ORG
+Techniques, Tactics and Procedures: ORG
+TTP: ORG
+Afghanistan: GPE
+Warfighter: PERSON
+March 2008 to March 2009: DATE
+Booz Allen Hamilton: PERSON
+Training& Doctrine Developer for Maneuver Support Center of Excellence: ORG
+Directorate of Training: ORG
+Fort Leonard: FAC
+MO: GPE
+four: CARDINAL
+Sensitive Site Exploitation Field Manual Subject Matter Expert on Site
+Exploitation Identified: ORG
+September 2007 to March 2008: DATE
+Fort Leonard Wood: FAC
+MO: GPE
+Eight: CARDINAL
+Iraq: GPE
+Provided Instruction on Search Techniques: WORK_OF_ART
+Army: ORG
+Marine: ORG
+Route: GPE
+Vehicle: ORG
+Check Points: ORG
+October 2005 to June 2006 Company Name ï¼​ City: DATE
+over 6,000: CARDINAL
+Marines: NORP
+Sailors: ORG
+Iraq: GPE
+Afghanistan: GPE
+6: CARDINAL
+May 2003 to October 2005: DATE
+State: ORG
+15th: ORDINAL
+Marine Expeditionary Unit (Special Operations Capable: ORG
+MEU: ORG
+SOC: ORG
+First Marine Expeditionary Unit: ORG
+Camp Pendleton: FAC
+CA: PERSON
+over 2,800: CARDINAL
+Marines: NORP
+Iraq: GPE
+Developed Tactics Techniques: ORG
+Counter Improvised Explosive Device: ORG
+MEU: ORG
+SOC: ORG
+Liaison: PERSON
+the Amphibious Ready Group: ORG
+MEU: ORG
+SOC: ORG
+2: CARDINAL
+Iraqi: NORP
+Anbar Province: GPE
+Marines: NORP
+Sailors: ORG
+two: CARDINAL
+Iraq: GPE
+Tsunami: GPE
+Sumatra: GPE
+Indonesia: GPE
+US: GPE
+Sumatran: GPE
+Australian: NORP
+Governmental: LOC
+Subject: GPE
+Antiterrorism Evasive Driving Course: ORG
+Gryphon Security
+Group: ORG
+the Range Safety Officer: EVENT
+Embarked: ORG
+U.S Navy: ORG
+Army: ORG
+the Marine Corps: ORG
+CEHC: ORG
+over four years: DATE
+Defeat the Device: WORK_OF_ART
+Doctrine, Organization, Training,: ORG
+Personnel: ORG
+Facilities: FAC
+four years: DATE
+Search Instructor: ORG
+CEHC: ORG
+Marines: NORP
+Theater: PERSON
+Army: ORG
+Joint Urgent Operational Needs Statements: ORG
+CEHC: ORG
+5: CARDINAL
+MEU: ORG
+SOC: ORG
+30 year: DATE
+Marine Expeditionary Force: ORG
+MEF: ORG
+Marines/Sailors: ORG
+the United States Army: ORG
+the United States: GPE
+Marine Corps: ORG
+Master of Arts : Business Organizational Security Management: WORK_OF_ART
+December 19 2014: DATE
+GPA: ORG
+GPA: ORG
+3.82: CARDINAL
+3.82: CARDINAL
+Gryphon Security Group: ORG
+60 Hours: TIME
+Quantico: GPE
+VA: GPE
+60 Hours: TIME
+1993: DATE
+El Toro: ORG
+CA: ORG
+40 Hours: TIME
+1993: DATE
+El Toro: ORG
+CA: ORG
+240 Hours: TIME
+1992: DATE
+Marine Air Ground Task Force Intelligence Course: ORG
+Navy: ORG
+Marine Corps Intelligence Training
+Center: ORG
+320 Hours: TIME
+1991: DATE
+TX: ORG
+892 Hours: TIME
+2005: DATE
+Naval Gunfire School: ORG
+State: ORG
+60 Hours: TIME
+GPA: ORG
+GPA: ORG
+3.10: CARDINAL
+GPA: ORG
+3.10: CARDINAL
+Air Force: ORG
+Army: ORG
+3: CARDINAL
+CA: ORG
+Instructor: ORG
+Navy: ORG
+Personnel: ORG
+Publication: ORG
+Robotics, Safety, Writer: ORG

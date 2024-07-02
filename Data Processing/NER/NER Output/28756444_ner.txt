@@ -1,0 +1,38 @@
+years: DATE
+years: DATE
+Standard: ORG
+Problem: PRODUCT
+Collaboration
+Decision: WORK_OF_ART
+Organizational: ORG
+Maintenance & Repair: ORG
+State General Construction Worker: ORG
+Collaborated: ORG
+Maintained: GPE
+State Quality Inspector 10/2017 - 11/2020: ORG
+Inspected: ORG
+Notified: ORG
+Maintained: GPE
+Cold: PERSON
+OSHA: ORG
+State Fueler/Cashier/Snow Removal 09/2016 - 04/2017
+
+Removed: ORG
+Processed: GPE
+Maintained: GPE
+Assisted: ORG
+Processed: GPE
+daily: DATE
+Welcomed: ORG
+State General Construction Worker 06/2015 - 09/2016: ORG
+OSHA: ORG
+Maintained: GPE
+Training: PERSON
+State High School Diploma 06/2016: ORG
+2015-2016: DATE
+Gulf Breeze High School: ORG
+State: ORG
+2013-2015: DATE
+Heavy Equipment And Operations 06/2016: ORG
+Truck: PERSON
+10 hour: TIME

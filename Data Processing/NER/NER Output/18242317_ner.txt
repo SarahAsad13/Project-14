@@ -1,0 +1,99 @@
+GRADUATE RESEARCH: ORG
+ten years: DATE
+the Research and Development: ORG
+Entomology
+
+Highlights
+
+Background: ORG
+Coleopteran: PERSON
+Thalassa: PERSON
+Phalacrococcus: ORG
+South Florida: LOC
+Integrated Pest Management Workshop Identification of: ORG
+Scales Mealybugs: PERSON
+Caribbean: LOC
+Training Seminar on Management of Protected Cultivation Insect: WORK_OF_ART
+Name City: GPE
+the Center of Biological: ORG
+Croton: ORG
+Croton: ORG
+Thalassa: PERSON
+Name City: GPE
+Parasitoids: GPE
+Anagyrus: PERSON
+the Pink Hibiscus Mealy: FAC
+Maconellicoccus: ORG
+95%: PERCENT
+Pink Hibiscus Mealybug: PERSON
+Anangyrus: PERSON
+Jamaica: GPE
+Develop Citrus Greening Management Programme: ORG
+Jamaica: GPE
+Food and Agriculture Organization and Government: ORG
+Jamaica Components: ORG
+Island: GPE
+Tamarixia: GPE
+Integrated Management Systems: ORG
+the Beet Army Worm: ORG
+Establish &: ORG
+Beet Army Worm: ORG
+Implement Integrated Pest Management: ORG
+Protective Cultivation: WORK_OF_ART
+Jamaica: GPE
+Name City: GPE
+10/2011: CARDINAL
+Established: ORG
+Maintained: GPE
+Crop and Plant Protection Unit: ORG
+Integrated Pest Management Systems: ORG
+Red Palm Mites: ORG
+Broad Mites: ORG
+Master of Science : Entomology - Qualifying 2015 Florida Agricultural & Mechanical University: WORK_OF_ART
+State: GPE
+United States: GPE
+City: GPE
+Jamaica: GPE
+Associate of Science : General Agriculture 2006 College of Agriculture Science & Education: ORG
+City: GPE
+Jamaica: GPE
+Affiliations
+
+Entomological Society of America: ORG
+ESA: ORG
+Florida Entomological Society
+
+: ORG
+Florida Agricultural & Mechanical University: ORG
+ESA: ORG
+Minorities in Agriculture, Natural Resources and Related Sciences (MANNRS: WORK_OF_ART
+Awards & Publications: ORG
+Reuben Capelouto Foundation: ORG
+William L.Peters Memorial: PERSON
+2013-2014: DATE
+2014: DATE
+St.Louis: GPE
+Missouri: GPE
+2014: DATE
+Purdue Summer Scholarship Program: ORG
+West Lafayette: GPE
+Indiana: GPE
+2014: DATE
+Society of America: ORG
+Portland: GPE
+Oregon: GPE
+Hemiptera,Coccidae: ORG
+2014: DATE
+ESA: ORG
+Entomological Society of America: ORG
+Portland: GPE
+Oregon: GPE
+Article
+
+Skills
+
+Data: LAW
+Statistical Analysis: ORG
+Microsoft: ORG
+Statistical Analysis Software: ORG
+SAS: ORG

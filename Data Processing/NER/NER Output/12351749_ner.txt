@@ -1,0 +1,52 @@
+Data Analytics: ORG
+Skills
+
+Excellent: ORG
+Advanced MS Office: ORG
+Suite: PERSON
+Excel Advanced Excel: PRODUCT
+Superb: NORP
+Interpretation, Mining: ORG
+Visualization: PERSON
+Data Analyst: ORG
+RStudio: GPE
+Tableau: GPE
+Data Collection: ORG
+Machine Learning: ORG
+C++
+Â Report Generation
+
+: PERSON
+Training
+Master of Science , Data Analytics 2018 University of Houston ï¼​ City: WORK_OF_ART
+State Data Analytics: ORG
+State Finance
+Finance: ORG
+May 2017: DATE
+250: CARDINAL
+36%: PERCENT
+4 months: DATE
+Researched: ORG
+Inside Sales Representative Aug: WORK_OF_ART
+2015 to Feb 2016: DATE
+170%: PERCENT
+first 90 day: DATE
+2nd: ORDINAL
+21 year: DATE
+Inside Sales: ORG
+Sep 2014 to May 2015: DATE
+Recruiter Feb: PERSON
+2014: DATE
+Memberships/Scholarly Societies University of Houston- Downtown Analytics Society: ORG
+C++: PERSON
+Data Analyst: ORG
+Data
+Collection: ORG
+Finance: ORG
+Interpretation, Machine Learning: ORG
+Excel: PRODUCT
+Money: GPE
+Suite: PERSON
+Coding: ORG
+Statistics: GPE
+Tableau: GPE

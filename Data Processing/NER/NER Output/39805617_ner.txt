@@ -1,0 +1,95 @@
+Highly: ORG
+Registered Nurse: ORG
+5 years: DATE
+Core Competencies
+Problem Solving: ORG
+Decision Making Risk Management and Assessment Extensive Leadership Experience Interpersonal Awareness: ORG
+Relations Security Clearance Computer Competency Flexibility Client Service: ORG
+January 2013: DATE
+30: CARDINAL
+HMMWV: ORG
+11K-12: CARDINAL
+40: CARDINAL
+Efforts: ORG
+4: CARDINAL
+monthly: DATE
+175: CARDINAL
+420: CARDINAL
+M16: PERSON
+3: CARDINAL
+AT4: ORG
+12: CARDINAL
+zero: CARDINAL
+55: CARDINAL
+75: CARDINAL
+14 tons: QUANTITY
+200 cubic yards: QUANTITY
+2: CARDINAL
+Completed Associate Degree: ORG
+Home Health Aide: ORG
+2
+half marathons: TIME
+Breast Cancer Awareness: ORG
+5: CARDINAL
+Sexual Assault Awareness: ORG
+2400.00: MONEY
+Navy: ORG
+January 2010 to January 2013: DATE
+Worked extended hours: TIME
+two: CARDINAL
+5: CARDINAL
+34 hours: TIME
+11,250 square foot: QUANTITY
+4,000 gallons: QUANTITY
+90%: PERCENT
+33: CARDINAL
+97%: PERCENT
+365: CARDINAL
+58: CARDINAL
+25: CARDINAL
+Provided 600 hours: TIME
+Merchandiser Costco: GPE
+January 2008 to January 2010 City: DATE
+100: CARDINAL
+Training
+Bachelor's: PERSON
+2018: DATE
+California State University Stanislaus: ORG
+2014 University of Maryland University: ORG
+ï¼​ City: GPE
+Vocational Nurse
+Anticipated: PERSON
+2014: CARDINAL
+NCP College of Nursing ï¼​ City: ORG
+State: ORG
+U.S. Navy Certified Fitness: ORG
+Completed 2013: PERSON
+2011: CARDINAL
+U.S. Navy: ORG
+Hazardous Material/Waste Training Completed: ORG
+2012: DATE
+U.S.: GPE
+2013: DATE
+MS U.S. Navy: ORG
+Aide Completed: PERSON
+2014: DATE
+Ventura: GPE
+State Home Health Aide Completed
+Equipment Operator School ï¼​ City: ORG
+97: DATE
+Navy: ORG
+Naval: GPE
+Additional Information
+
+Awards: ORG
+Navy: ORG
+Marine Corps Achievement Medal: ORG
+2013: DATE
+2013: DATE
+2010: DATE
+Unified Protector" 2012 Global War on Terrorism Medal 2012 Meritorious Unit Commendation: WORK_OF_ART
+2012: DATE
+Quarter 2012: DATE
+2012: DATE
+2012: DATE
+2011: DATE

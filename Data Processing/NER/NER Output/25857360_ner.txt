@@ -1,0 +1,53 @@
+more than 14 years: DATE
+to10: PRODUCT
+Skills: ORG
+75: CARDINAL
+Articulate: ORG
+Accurate: ORG
+Work History: WORK_OF_ART
+the Office of Information Technology: ORG
+Richard Biever: PERSON
+CISO: ORG
+dCal: ORG
+Lotus: ORG
+Notes: PRODUCT
+minutes: TIME
+monthly: DATE
+PARIS: GPE
+OIT: ORG
+ATC: ORG
+Secondary: ORDINAL
+AVP: ORG
+Managers: ORG
+Coordinated: ORG
+Obtained: ORG
+Coordinated: ORG
+Coordinated: ORG
+CLERK Employed: PERSON
+01/2000: CARDINAL
+Obtained: ORG
+Clerk: PERSON
+2003 to 2006: DATE
+300+ per month: DATE
+Garnishments: PERSON
+150+ per month: DATE
+70+ wpm: DATE
+LEGAL: ORG
+Obtained: ORG
+Coordinated: ORG
+Associate of Arts: ORG
+1 2000: DATE
+Southwest Virginia Community College - City: ORG
+Finance: ORG
+Backup: PERSON
+Entry, Data Entry: ORG
+Information Technology: ORG
+LEGAL: ORG
+Lotus Notes: ORG
+Excel: PRODUCT
+Exchange: ORG
+Microsoft: ORG
+70: CARDINAL
+Additional Information
+
+Letter: ORG

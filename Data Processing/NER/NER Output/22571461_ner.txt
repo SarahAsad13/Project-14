@@ -1,0 +1,50 @@
+Oklahoma: GPE
+Skills
+
+Project Management
+Financial Planning: ORG
+Performance
+Client Relations: ORG
+Business Analysis: ORG
+Microsoft PowerPoint: PERSON
+Word: PERSON
+Excel: PRODUCT
+Name City: GPE
+State: ORG
+U.S.: GPE
+Canada: GPE
+U.S.: GPE
+Name City: GPE
+Brady E.
+Biggs: PERSON
+Bradybiggs918@gmail.com: ORG
+Page 2: PERSON
+Philanthropy: PERSON
+Name City: GPE
+Applied: ORG
+Volunteer Leader: PERSON
+08/2014: CARDINAL
+Donated: GPE
+150+ hours: TIME
+daily: DATE
+Training
+Bachelor of Business and Administrative Management: PERSON
+The University of Oklahoma City: ORG
+American Management Association *Independent Petroleum Association of America *International Federation of Accountants: ORG
+National
+Association of Sales Professionals
+Skills: ORG
+Business Analysis and Research: ORG
+Client Relations: ORG
+Financial Planning: ORG
+Excel: PRODUCT
+Microsoft PowerPoint: ORG
+Word: PERSON
+Payroll: ORG
+Project Management, Reporting: ORG
+Spreadsheets: NORP
+Charles C. Faranna: PERSON
+Nik Hanig Memorial Scholarship: PERSON
+Bixby Rotary Club Scholarship: ORG
+Arrow Rotary Club Scholarship *Delta Upsilon Social: ORG
+Second: ORDINAL

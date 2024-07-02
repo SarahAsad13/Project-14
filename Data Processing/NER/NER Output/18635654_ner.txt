@@ -1,0 +1,52 @@
+6 years: DATE
+Accounting &: ORG
+Egyptians: NORP
+Communication: ORG
+Abdul Aziz Abdul Ghafar Ahmed: PERSON
+Balance Sheet Ability: ORG
+QuickBooks: ORG
+Microsoft: ORG
+06/2014 to 10/2016: CARDINAL
+National bank: ORG
+Egypt: GPE
+Egyptian: NORP
+50: CARDINAL
+nearly 500: CARDINAL
+Customer Service: ORG
+Egypt: GPE
+Alexandria: GPE
+1|Page: DATE
+Mobile: PERSON
+Keep: ORG
+10/2011: CARDINAL
+Accountant Company Name: PERSON
+Preparation of Financial: ORG
+Prepare: ORG
+weekly: DATE
+monthly: DATE
+Prepare: ORG
+Preparation of Financial: ORG
+Prepare: ORG
+weekly: DATE
+monthly: DATE
+Prepare: ORG
+Balance Sheet: ORG
+May 2010: DATE
+Walid Hamdy Hashem: GPE
+Jan Alexandria University: ORG
+Hassan Aly: PERSON
+Arabic: NORP
+English: LANGUAGE
+Skills: ORG
+Accountant: PERSON
+Arabic: NORP
+Balance Sheet: PERSON
+Customer Service: ORG
+English: LANGUAGE
+Financial, Financial: ORG
+Lecturer: PERSON
+Microsoft: ORG
+Page: PERSON
+QuickBooks: ORG
+Hassan Aly: PERSON
+3|Page: CARDINAL

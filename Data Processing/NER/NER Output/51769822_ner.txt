@@ -1,0 +1,52 @@
+SPECIALIST: ORG
+30+ years: DATE
+Highlights: GPE
+Administration / Office: ORG
+Purchasing, Inventory: ORG
+Commercial & Technical Translations Customer Service: ORG
+Microsoft Words: ORG
+Excel: PRODUCT
+AS400: PRODUCT
+Outlook: PERSON
+weekly: DATE
+30%: PERCENT
+June 2014 to June 2014: DATE
+October 2012 to April 2014: DATE
+September 2006 to October 2012: DATE
+Initiated: ORG
+Branch Managers: ORG
+Assisted Engineers: ORG
+Project Managers: ORG
+weekly: DATE
+30%: PERCENT
+French: NORP
+August 2005 to September 2006 Company Name ï¼​ City: DATE
+French: NORP
+Exhibitor Services: ORG
+August 2004 to August 2005: DATE
+Clerk: PERSON
+March 1999: DATE
+August 2004: DATE
+Processed: GPE
+weekly: DATE
+1500: CARDINAL
+400: CARDINAL
+Corporate: ORG
+hours: TIME
+PTO: ORG
+W-2: ORG
+I-9: ORG
+BA : Administration Commercial Administration: ORG
+1982: DATE
+University of Grenoble: ORG
+France: GPE
+English: LANGUAGE
+English: LANGUAGE
+French: NORP
+Skills
+
+Office: ORG
+Inventory: GPE
+Excel: PRODUCT
+Outlook, Windows, Word,: ORG
+Payroll: ORG

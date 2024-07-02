@@ -1,0 +1,79 @@
+4/5: CARDINAL
+English: LANGUAGE
+Lesson: PERSON
+MS Office: ORG
+Schedule: PERSON
+10: CARDINAL
+seventh: ORDINAL
+eighth: ORDINAL
+Student Council: ORG
+4/5: CARDINAL
+September 2015: DATE
+State: ORG
+4th/5th: CARDINAL
+Develop: ORG
+Evaluate: ORG
+Develop: ORG
+Build: GPE
+monthly: DATE
+Eighth: CARDINAL
+English/Language Arts: EVENT
+July 2011 to May 2015: DATE
+Eighth: DATE
+AZCCR Standards: ORG
+Develop: ORG
+Evaluate: ORG
+Develop: ORG
+Build: GPE
+Attend: ORG
+the school year: DATE
+Create: ORG
+monthly: DATE
+Coach: ORG
+7/8th: PRODUCT
+April 2008 to January 2011 Company Name ï¼​ City: DATE
+k-12 Create: PERSON
+daily: DATE
+daily: DATE
+DHS: ORG
+Keep: PERSON
+Evaluate: ORG
+Participate: WORK_OF_ART
+Supervise: PERSON
+April 2007 to April 2008: DATE
+K-6 Create: PRODUCT
+daily: DATE
+daily: DATE
+DHS: ORG
+Keep: PERSON
+Evaluate: ORG
+Keep: PERSON
+Attend: ORG
+Prepare: ORG
+Received Fingerprint Clearance: PERSON
+January 2003 to December 2006 Company Name ï¼​ City: DATE
+K-5 Create: PERSON
+Plan: PRODUCT
+daily: DATE
+daily: DATE
+daily: DATE
+Keep: PERSON
+DHS: ORG
+monthly: DATE
+Microsoft: ORG
+Attend: ORG
+AzNN: ORG
+Received DHS Directorship: ORG
+Bachelor of Arts: ORG
+English Literature Adolescence Community: ORG
+2013: DATE
+English: LANGUAGE
+Associate of Arts: ORG
+2011: DATE
+Central Arizona College: ORG
+State General Education: ORG
+Skills: ORG
+Arts: ORG
+Coach 7, council: ORG
+English: LANGUAGE
+Microsoft Word: PERSON

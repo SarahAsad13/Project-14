@@ -1,0 +1,119 @@
+DIGITAL: ORG
+19 years: DATE
+The Augusta Chronicle: ORG
+Detail: PERSON
+Solution: PERSON
+2010: DATE
+The Augusta Chronicle: ORG
+Advertising Salesperson: PERSON
+the Month: DATE
+September 2010: DATE
+The Augusta Chronicle: ORG
+Advertising Salesperson: PERSON
+the Month: DATE
+January 2005: DATE
+The Savannah Morning News
+
+: ORG
+the Month,: DATE
+March 2003-: DATE
+The Savannah Morning News: FAC
+Advertising Employee: WORK_OF_ART
+First Quarter 2000-: DATE
+Digital Media Sales: ORG
+Mar 2012: DATE
+Prepare: ORG
+Recruitment Advertising: ORG
+Jan 2011 to Feb 2012: DATE
+State
+
+Service: ORG
+monthly: DATE
+Top Jobs: PERSON
+Sell: ORG
+monthly: DATE
+Online Ads: PERSON
+Jan 2007 to Jan 2011: DATE
+State
+
+Service: ORG
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Recruitment Advertising: ORG
+Jan 2005: DATE
+Jan 2007: DATE
+State
+
+Service: ORG
+monthly: DATE
+Top Jobs: PERSON
+Sell: ORG
+Fall & Spring Job Fairs: ORG
+monthly: DATE
+Place Ads: PERSON
+Classified Private Party Rep: ORG
+Jan 2001 to Jan 2005: DATE
+State
+
+Service: ORG
+Cold: PERSON
+Jan 2000: DATE
+Jan 2001: DATE
+State
+
+Service: ORG
+Cold: PERSON
+Jan 1997 to Jan 2000: DATE
+State
+
+Service: ORG
+monthly: DATE
+Cold: PERSON
+Complete: PERSON
+Classified Private Party Rep: ORG
+Jan 1995 to Jan 1997: DATE
+State
+
+Service: ORG
+Cold: PERSON
+Complete: PERSON
+Marketing Augusta State University: ORG
+State: ORG
+1994-1997: DATE
+Clinical Psychology Troy University: ORG
+2016: CARDINAL
+Landy Chase Value-Based: PERSON
+The Augusta Chronicle: ORG
+2010: DATE
+Franklin: PERSON
+The Savannah Morning News: FAC
+2005: DATE
+The Savannah Morning News: ORG
+2003: DATE
+The Savannah Morning News: ORG
+2003: DATE
+The Savannah Morning News: ORG
+2002: DATE
+Advertising Legal: ORG
+The Augusta Chronicle: ORG
+2001: DATE
+CARE (Communication Actions: ORG
+The Fayetteville Observer: FAC
+1999: DATE
+Customer Service: ORG
+Telephone Manners: ORG
+The Fayetteville Observer: WORK_OF_ART
+1998: DATE
+1997: DATE
+The Augusta Chronicle: ORG
+1997: DATE
+The Augusta Chronicle: ORG
+1997: DATE
+The Augusta Chronicle: ORG
+Ad Order Entry, Advertising, Advertising: ORG
+Automotive: ORG
+Customer Service: ORG
+Digital: ORG
+Proposal Generation: ORG
+Telephone Skills: ORG

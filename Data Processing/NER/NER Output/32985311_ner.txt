@@ -1,0 +1,66 @@
+Skills
+Programming Languages: C: ORG
+SQL: PERSON
+Tableau: GPE
+Tools: PERSON
+Streak CRM: PRODUCT
+Python,Rice University: ORG
+Udemy: PERSON
+SQL: PERSON
+Software Engineering Analyst Company Name: ORG
+State: ORG
+Thapar University Founded project Soul: ORG
+Enactus: ORG
+150%: PERCENT
+Naritva: NORP
+India: GPE
+Jaivika: GPE
+SAIC: ORG
+Software Engineering Analyst: ORG
+Global Site System Services Delivered: ORG
+HP Quick Test Professional: ORG
+95 percent: PERCENT
+25 percent: PERCENT
+12/2015: CARDINAL
+Associate Software Engineer: ORG
+Global Site System Services Worked: ORG
+one: CARDINAL
+Oil and Gas Company: LAW
+300: CARDINAL
+Communicated: ORG
+Training
+Present
+Syracuse University ï¼​ City: WORK_OF_ART
+State: ORG
+June 2015: DATE
+B.E :: ORG
+Chemical Engineering MS: ORG
+Thapar University: ORG
+City India Chemical Engineering: ORG
+May 2011: DATE
+Delhi Public School Secured: ORG
+86.8 percent: PERCENT
+81/100: CARDINAL
+Chemistry: PERSON
+89/100: CARDINAL
+91/100: CARDINAL
+Interests: NORP
+Econ Club - Coordinated: ORG
+Economics: ORG
+Virtual Stock Market, Life: ORG
+Chemistry: PERSON
+CRM: PRODUCT
+English: LANGUAGE
+Mathematics: ORG
+Physics: ORG
+QTP: ORG
+Quick Test Professional, Quality: ORG
+SQL: GPE
+Tableau: GPE
+Enactus India: ORG
+Thapar University: ORG
+first: ORDINAL
+University: ORG
+Econ Club - Coordinated: ORG
+Economics: ORG
+Virtual Stock Market, Life: ORG

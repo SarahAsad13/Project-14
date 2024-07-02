@@ -1,0 +1,51 @@
+BILINGUAL: GPE
+Experienced: PRODUCT
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+More than five years: DATE
+Bilingual Client Advocate Company Name: ORG
+supportingÂ: GPE
+daily: DATE
+Â Â Â Â Â Â Â Â 
+Documents: PRODUCT
+10/2015: CARDINAL
+Assess: ORG
+Child Protective Services: ORG
+monthly: DATE
+one hour: TIME
+Schedule: ORG
+weekly: DATE
+Investigate: ORG
+Attend: ORG
+Family Group Conferences: ORG
+Request: ORG
+CPS: ORG
+State: ORG
+Skills Development for CPS Conservatorship: ORG
+2014: DATE
+approximately 40: CARDINAL
+12/2013: CARDINAL
+State: ORG
+Salesperson
+Customer Service: ORG
+12/2009: CARDINAL
+08/2012: CARDINAL
+State: ORG
+Salesperson: PERSON
+2014: DATE
+State: GPE
+United States: GPE
+Child Abuse Prevention Society: ORG
+2013-2014: DATE
+Phi Alpha: ORG
+Dean and Chancellors' List
+
+Graduated: ORG
+Magna Cum Laude: PERSON
+Child Protective Services: ORG
+2014: DATE
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE

@@ -1,0 +1,170 @@
+Digital: ORG
+Skill Highlights: PERSON
+Digital Media
+Business Development
+Audience Development
+Strategic Planning: ORG
+Product Management
+Social Media
+Online Journalism
+Mobile
+Advertising
+Marketing
+: ORG
+Digital Marketing
+Media Strategy
+
+Core Accomplishments
+
+Editorial
+Writing: ORG
+Multimedia Storytelling: WORK_OF_ART
+Digital Analytics
+Staff Development: ORG
+Media Relations: ORG
+almost 30 years: DATE
+more than one hundred: CARDINAL
+Spain: GPE
+Argentina: GPE
+Brazil: GPE
+Chile: GPE
+Mexico: GPE
+Latin American: NORP
+European: NORP
+Specialized: ORG
+Winner: PERSON
+Society for News Design: ORG
+SND: ORG
+14: CARDINAL
+the National Association of Hispanic Publications: ORG
+NAHP: ORG
+El Diario: ORG
+NY: ORG
+La Opinion: ORG
+LA: GPE
+weekly: DATE
+La Raza: GPE
+Chicago: GPE
+Chosen: ORG
+one: CARDINAL
+Spanish: NORP
+El Mundo: ORG
+Journalism: GPE
+WAN-IFRA: ORG
+INMA: ORG
+January 1999: DATE
+January 2006: DATE
+Digital Transformation
+
+ImpreMedia Vicepresident of Content: ORG
+ImpreMedia: GPE
+Hispanic: NORP
+U.S.: GPE
+Twenty-three percent: PERCENT
+23%: PERCENT
+U.S.: GPE
+Hispanic: NORP
+a given month: DATE
+drawing 9.5 million: CARDINAL
+ImpreMedia: GPE
+15: CARDINAL
+U.S.: GPE
+Hispanic: NORP
+3.6 million: CARDINAL
+monthly: DATE
+La OpiniÃ³n: ORG
+Los Angeles: GPE
+La Prensa: PERSON
+New York: GPE
+La NaciÃ³n: ORG
+Buenos Aires: GPE
+Argentina: GPE
+one: CARDINAL
+Argentina: GPE
+Impremedia: GPE
+Mediathink Consultores: ORG
+2007-2013: DATE
+more than one hundred: CARDINAL
+twenty: CARDINAL
+Europe: LOC
+Latin America: LOC
+Main: ORG
+Vocento: GPE
+Agencia Efe: PERSON
+Grupo Planeta: ORG
+Ministerio de Sanidad: PERSON
+Igualdad: GPE
+La Voz de Galicia: PERSON
+Cocktail: ORG
+Spain: GPE
+Grupo: ORG
+La NaciÃ³n: GPE
+La Voz del Interior: PERSON
+Argentina: GPE
+El Mercurio: ORG
+Chile: GPE
+El Comercio: ORG
+O Globo: ORG
+Correio Braziliense: PERSON
+Brazil: GPE
+GFR Media: ORG
+Puerto Rico: GPE
+La Prensa: PERSON
+El Salvador: GPE
+FundaciÃ³n Instituto: ORG
+InnovaciÃ³n: GPE
+2IP: CARDINAL
+the Experts Committee: ORG
+Founder and Executive: ORG
+2007: DATE
+one: CARDINAL
+first: ORDINAL
+Spain: GPE
+Madrid: GPE
+Grupo Planeta: ORG
+Newsroom Reorganization: ORG
+Contents: PRODUCT
+Digital Media: ORG
+12: CARDINAL
+Spain: GPE
+January 1996: DATE
+January 1999: DATE
+Madrid: GPE
+1995-97: DATE
+January 1992: DATE
+January 1995: DATE
+El PeriÃ³dico de Catalunya Executive: ORG
+Olympic Games: EVENT
+Barcelona: GPE
+1992: DATE
+El Sol: ORG
+Spanish: NORP
+Madrid: GPE
+1990-92: DATE
+Cinco DÃ​as: ORG
+Madrid: GPE
+1989: DATE
+El Ideal Gallego: ORG
+Spain: GPE
+Career: FAC
+Classora http://en.classora.com/: PERSON
+3.0: CARDINAL
+Incuentra.com: ORG
+Spain: GPE
+Mexico: GPE
+Plenum Media Group: ORG
+1989: DATE
+Newspaper El: ORG
+de Madrid: ORG
+Spain: GPE
+Journalism: GPE
+1987: DATE
+Navarra University: ORG
+Journalism Journalism: PERSON
+Art Director: PERSON
+Editor: PERSON
+9.5: CARDINAL
+Journalism: NORP
+Latin: NORP
+97: DATE
+Spanish: NORP

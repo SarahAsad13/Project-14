@@ -1,0 +1,33 @@
+CHEF DE CUISINE
+Executive Profile: PERSON
+Le Cordon Bleu: FAC
+french: NORP
+Italy: GPE
+Michelin: PERSON
+Chef Richard Titi: PERSON
+Citizen: GPE
+Beverly Hills: GPE
+Skill Highlights: PERSON
+04/2016: PRODUCT
+Current
+Chef De Cuisine Company Name: PERSON
+Maintained: GPE
+04/2016: CARDINAL
+Chef de Cuisine Company Name: ORG
+seasonal: DATE
+Handmade: LOC
+daily: DATE
+Sous Chef Company Name: ORG
+300-400: CARDINAL
+2/2010: CARDINAL
+Cordon Bleu College: ORG
+Bleu Culinary Arts: ORG
+559: CARDINAL
+836-0455: CARDINAL
+Scott Howard - Executive: PERSON
+415: CARDINAL
+246-8542: CARDINAL
+Laurie Sisneros - Owner: PERSON
+Spaghettini: NORP
+562: CARDINAL
+307: CARDINAL

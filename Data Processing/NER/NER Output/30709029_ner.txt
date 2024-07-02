@@ -1,0 +1,74 @@
+REALTOR: PERSON
+16 years: DATE
+Core Qualifications
+UT Real Estate License
+
+Asset Management
+
+Accredited Buyer Representative: PERSON
+Title and Escrow
+
+REO and Foreclosures
+
+Leadership
+
+Traditional Real Estate
+
+Conflict Management
+
+Short Sales
+Experience: WORK_OF_ART
+10/1999: CARDINAL
+Current
+Realtor Company Name: ORG
+Minimized: PERSON
+BPO: ORG
+month-end: DATE
+Evaluate: ORG
+Communicate: ORG
+Negotiate: ORG
+12/2015: CARDINAL
+Buyer: PERSON
+Restore Utah: ORG
+55: CARDINAL
+MLS: ORG
+one year: DATE
+REO: ORG
+third: ORDINAL
+monthly: DATE
+quarterly: DATE
+08/2006
+Tax Research Analyst Company Name: ORG
+1915: DATE
+Mello-Roos: PRODUCT
+California Delivered: FAC
+05/2003: CARDINAL
+11/2003: CARDINAL
+Licensed Title: WORK_OF_ART
+Maintained: GPE
+Prorated: ORG
+Coordinated: ORG
+Realtor / BPO Specialist / Accredited Buyer's: ORG
+Specialist Company Name: ORG
+2003: DATE
+Escrow License :: PERSON
+State: ORG
+1999: DATE
+Professional Affiliations
+
+National Association of Realtors
+
+Utah Association of Realtors
+
+Skills
+
+Asset Management: ORG
+Administrative, Client Relations: ORG
+Conflict Management: ORG
+Digital Photography: ORG
+File
+Management, Marketing: ORG
+Microsoft Office: ORG
+Organizational Skills: ORG
+Property Management: ORG
+Social Media: ORG

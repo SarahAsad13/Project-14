@@ -1,0 +1,71 @@
+Excels: PERSON
+Self-motivatedÂ 
+
+Project: ORG
+Client: GPE
+Customer: ORG
+Credit: ORG
+Department of Health: ORG
+Human Resources: ORG
+Mental Health, Office: ORG
+P.C.: GPE
+annual: DATE
+year-end: DATE
+Education: ORG
+1996: DATE
+State: GPE
+USA: GPE
+1998: DATE
+New york institute of technology City: ORG
+State: GPE
+USA: GPE
+Controller: PERSON
+Name City: GPE
+100: CARDINAL
+ï¿½ Oversees: PERSON
+activitiesÂ: ORG
+ï¿½: PERSON
+standardsï¿½
+Â  : PERSON
+monthly: DATE
+quarterly: DATE
+year-end: DATE
+ï¿½ Prepared: PRODUCT
+ï¿½Â Coordinated: PERSON
+ï¿½Â Managed: PERSON
+Name City: GPE
+32: CARDINAL
+Corporate Practice Group: ORG
+Prepare Credit Approval Summaries: ORG
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+daily: DATE
+Finance: ORG
+12/2006: CARDINAL
+Name City: GPE
+year-end: DATE
+Monitored: ORG
+Assisted: ORG
+monthly: DATE
+Researched: ORG
+the National Institute of Health: ORG
+NIH: ORG
+New York State Office of Mental Health: ORG
+New York City Department of Health and Mental Hygiene: GPE
+NYCDMH: ORG
+NIH: ORG
+Controller: PERSON
+02/1990: CARDINAL
+Name City: GPE
+Consolidated: ORG
+Account Payable: ORG
+monthly: DATE
+Board of Director: ORG
+four: CARDINAL
+4: CARDINAL
+fifteen: CARDINAL
+New York City Department of Health and Mental Hygiene: ORG
+NYCDMH: ORG
+Human Resources: ORG

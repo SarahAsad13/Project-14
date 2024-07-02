@@ -1,0 +1,58 @@
+5 years and 9 months: DATE
+Mechanical Engineer: ORG
+10 years: DATE
+7 years: DATE
+Gas Turbine Power Plant: ORG
+2 years: DATE
+1.5
+years: DATE
+2 years 9 months: DATE
+1 year: DATE
+1 year: DATE
+Highlights
+
+Pump: WORK_OF_ART
+Motor Control Panel
+Operation: ORG
+Reverse Osmosis: ORG
+PLC: ORG
+Swimming Pools: ORG
+Gas Turbine
+Power: WORK_OF_ART
+Deep: GPE
+Aleutian: NORP
+Alaska: GPE
+Ketchikan: GPE
+Alaska: GPE
+one: CARDINAL
+Gas Turbine Engine: WORK_OF_ART
+Engineer: PERSON
+jack: PERSON
+PLC: ORG
+8: CARDINAL
+7: CARDINAL
+12: CARDINAL
+2: CARDINAL
+two: CARDINAL
+82 feet: QUANTITY
+82 feet: QUANTITY
+one: CARDINAL
+6: CARDINAL
+2: CARDINAL
+8: CARDINAL
+15: CARDINAL
+2: CARDINAL
+two: CARDINAL
+Villas: PERSON
+2: CARDINAL
+our daily,: DATE
+weekly: DATE
+monthly: DATE
+1973: DATE
+FEATI UNIVERSITY City: ORG
+Philippines Mechanical Engineering: ORG
+Affiliations: ORG
+Philippine Society of Mechanical Engineers
+
+: ORG
+Electro: GPE

@@ -1,0 +1,74 @@
+Testing
+Soldering: WORK_OF_ART
+Installation
+Hardware: PRODUCT
+Time: ORG
+Microsoft Office: ORG
+Project Management
+Staff: ORG
+Work History
+IT Consultant: WORK_OF_ART
+Coordinated: ORG
+Owner: ORG
+daily: DATE
+Lightspeed POS System: ORG
+Electrostatic Discharge (ESD: ORG
+Cellular Devices: ORG
+Tablets: ORG
+Mac Computers: PERSON
+Video Game Consoles: ORG
+Laptops: PERSON
+Cellular Devices: ORG
+Tablets: ORG
+Mac Computers: PERSON
+Video Game Consoles: ORG
+Laptops: PERSON
+Coordinated: ORG
+Initiated: ORG
+Apple: ORG
+Tier 1: PERSON
+Windows and Mac: ORG
+07/2011: CARDINAL
+Trains: PERSON
+Requires: PERSON
+4-6 years: DATE
+Familiar: PERSON
+Bachelor of Business Administration: ORG
+Business Administration and Management: ORG
+General University of: ORG
+Mary Hardin-Baylor - City: PERSON
+Bachelor of Business Administration: ORG
+Business Administration and Management University of Houston - City: ORG
+Testing
+Soldering: WORK_OF_ART
+Installation
+Hardware: PRODUCT
+Time: ORG
+Microsoft PowerPoint: ORG
+Project Management
+Staff: ORG
+Work History
+Master Technician , 11/2017 to 03/2019 
+Company Name: WORK_OF_ART
+Lightspeed POS System: ORG
+Electrostatic Discharge (ESD: ORG
+Cellular Devices: ORG
+Tablets: ORG
+Mac Computers: PERSON
+Video Game Consoles: ORG
+Laptops: PERSON
+Cellular Devices: ORG
+Tablets: ORG
+Mac Computers: PERSON
+Video Game Consoles: ORG
+Laptops: PERSON
+Coordinated: ORG
+Initiated: ORG
+Apple: ORG
+Tier 1: PERSON
+Windows and Mac: ORG
+07/2011: CARDINAL
+Trains: PERSON
+Requires: PERSON
+4-6 years: DATE
+Familiar: PERSON

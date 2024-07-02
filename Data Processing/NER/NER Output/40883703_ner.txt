@@ -1,0 +1,81 @@
+Savvy Marketer: PERSON
+12 years: DATE
+Skill Highlights
+
+Partner Marketing
+Paid Social
+eCommerce: ORG
+Email Marketing
+Branding
+
+Analytics
+B2B & B2C
+: WORK_OF_ART
+CRO: ORG
+Content Marketing
+Lead Generation
+SEO
+
+Core Accomplishments
+
+Senior Marketing Manager
+
+Developed Customer Segmentation Persona's: WORK_OF_ART
+Grew Online Subscriptions: PERSON
+30%: PERCENT
+43%: PERCENT
+Q3 & Q4: ORG
+May 2016: DATE
+Improved Organic Traffic: ORG
+over 40%: PERCENT
+Content Marketing: ORG
+Grew Online Subscriptions: WORK_OF_ART
+50%: PERCENT
+43%: PERCENT
+Q3 & Q4: ORG
+37%: PERCENT
+117%: PERCENT
+Grew: PERSON
+4x: CARDINAL
+App Store Optimization: PERSON
+Developed Paid Search: PERSON
+YOY MQL's: ORG
+Q3 330%: PERCENT
+617%: PERCENT
+2017: DATE
+112%: PERCENT
+Digital Marketing Consultant Sep: ORG
+2016: CARDINAL
+Developed Program Roadmap for Clients Marketing Campaigns: WORK_OF_ART
+Developed & Managed: ORG
+Worked Closely: FAC
+Digital: ORG
+Oct 2008 to Aug 2014: DATE
+Product, Sales & Marketing: ORG
+Product Releases
+Managed: PRODUCT
+9: CARDINAL
+Decreased Advertiser: PERSON
+37%: PERCENT
+$16 Million: MONEY
+2007: DATE
+$12 Million: MONEY
+100k: ORG
+37%: PERCENT
+Managed Analytics for SEM: WORK_OF_ART
+SEO & Mobile: ORG
+Feb 2005: DATE
+Sep: FAC
+5MM: MONEY
+Annually: DATE
+Developed A/B & Multivariate UX: WORK_OF_ART
+SEM & SEO Channels: ORG
+60%: PERCENT
+Oct 2003 to: DATE
+May 2004: DATE
+Press Release Development: ORG
+Masters of Business Administration: ORG
+Saint Mary's: PERSON
+2004: DATE
+State University: ORG
+State Public Relations: ORG

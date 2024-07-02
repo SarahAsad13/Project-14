@@ -1,0 +1,145 @@
+Aviation Environmental Control and Egress Systems: ORG
+Quality Assurance: ORG
+Maintenance Management: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: PRODUCT
+Collateral Duty Inspector on Egress/Environmental Control Systems: ORG
+8
+years: DATE
+Collateral Duty Quality Assurance Representative for Aviation Egress and Ordnance Systems: ORG
+5 years: DATE
+1 year: DATE
+Quality Assurance Safety Observer for CADS/PADS: ORG
+6 years: DATE
+F/A-18E/F Low Power Engine/APU Turn Operator
+Qualified F/A-18 Super Hornet Plane Captain: ORG
+Daily/Turnaround: ORG
+twelve 65: DATE
+million dollar: MONEY
+31: CARDINAL
+245: CARDINAL
+Aviation Gas Free Engineer/Confined Space Entry Supervisor and Safety Observer: ORG
+Leading Petty: PERSON
+October 2001: DATE
+Current Company Name: ORG
+Meritorious Unit Commendation: ORG
+3,000: CARDINAL
+Awarded Humanitarian Service Medal: ORG
+2004: DATE
+Tsunami: PERSON
+Banda Aceh: GPE
+Indonesia: GPE
+Received Good Conduct Medal: ORG
+4: CARDINAL
+3 years: DATE
+Global War on Terrorism Service Medal: EVENT
+5th Fleet Area of Responsibility: ORG
+Persian: NORP
+Arabian Gulfs: LOC
+Global War on Terrorism Expeditionary Medal: EVENT
+5th Fleet Area of Responsibility: ORG
+Oman: GPE
+Persian Gulfs: LOC
+5: CARDINAL
+Marksmanship Medal: PERSON
+9 mm: QUANTITY
+M9: CARDINAL
+National Defense Service Medal: ORG
+Navy: ORG
+Enlisted Aviation Warfare Specialist Wings: ORG
+Aviation Warfare: ORG
+Administration and Logistics: ORG
+CPR: ORG
+the Quarter, 1st Quarter: DATE
+the VFA-2 Coats for Kids Christmas Drive: LAW
+Atsugi: GPE
+Japan: GPE
+Kanagawa Prefecture: PERSON
+NAF Atsugi: ORG
+Japan: GPE
+Earth Day: LOC
+Quality Assurance Representative 
+
+: ORG
+more than 230: CARDINAL
+over 50,000: CARDINAL
+man-hours: TIME
+500: CARDINAL
+44: CARDINAL
+13: CARDINAL
+Established: ORG
+Quality Assurance Representative: ORG
+Conducted Gas Free: ORG
+over 30: CARDINAL
+Certificates: PRODUCT
+12: CARDINAL
+F: ORG
+16: CARDINAL
+the Egress and Environmental Control: ORG
+over 300: CARDINAL
+50: CARDINAL
+9: CARDINAL
+F-14: PRODUCT
+F/A-18E/F: ORG
+8: CARDINAL
+Collateral Duty Inspectors: ORG
+Volunteered: ORG
+31: CARDINAL
+15: CARDINAL
+Aviation Egress and Environmental Control Systems: ORG
+800: CARDINAL
+F/A-18A/B/C/D/E/F: ORG
+Attended Advanced Egress and Environmental Control Systems Maintenance Courses: ORG
+Egress: LOC
+Environmental Control and Cryogenics Systems: ORG
+Maintained: GPE
+Egress, Environmental Control: ORG
+Cryogenic Systems: ORG
+over 300: CARDINAL
+F/A-18A/B/C/D/E/F aircraft: ORG
+Quality Assurance Representative: ORG
+Schematic: PERSON
+Specialized Military Schools/Training:: ORG
+Advanced Environmental Control: ORG
+ALSS Configuration Management: ORG
+Primary: PERSON
+Quality Assurance Safety Observer: ORG
+Work Center Leading Petty Officer: ORG
+Aviation/Aircraft Support
+Advanced Corrosion Control: ORG
+Electro: GPE
+728: CARDINAL
+Martin Baker Representative: PERSON
+Joe Glasser: PERSON
+Martin-Baker SJU-17 Series Naval: ORG
+Principles of Operation: ORG
+728 Day Inspection Procedures: DATE
+Procedures: PRODUCT
+Ejection Seat: WORK_OF_ART
+Installation: PRODUCT
+Naval Warfare College E-1: ORG
+E-7: ORG
+Completed Navy Knowledge Online Course "Managing Anger/Stress in Work Environments: ORG
+1 1996: CARDINAL
+2 years early: DATE
+Valedictorian: NORP
+5: CARDINAL
+300: CARDINAL
+1998-1999: DATE
+Foothill College: ORG
+Local Union Iron Workers: ORG
+155: MONEY
+2013-2014: DATE
+four: CARDINAL
+16: CARDINAL
+Ba of Science : Public Safety and Emergency Management Public Safety and Emergency Management
+Skills: WORK_OF_ART
+C, Configuration Management: ORG
+CPR: ORG
+First Aid: ORG
+Leadership, Logistics: ORG
+Navy: ORG
+Naval: GPE
+QA: ORG
+Safety: ORG

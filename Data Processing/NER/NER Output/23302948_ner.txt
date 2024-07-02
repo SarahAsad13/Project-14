@@ -1,0 +1,167 @@
+English: LANGUAGE
+French: NORP
+Decline: ORG
+Fekete Harmony: PERSON
+Volumetrics: PRODUCT
+SEC: ORG
+Reservoir: ORG
+Compositional: PRODUCT
+WAG: ORG
+Reservoir: ORG
+three: CARDINAL
+Illinois Basin: LOC
+about half a million barrels: CARDINAL
+Project Management
+
+: ORG
+Principal: NORP
+a US Department of Energy: ORG
+1,000,900: MONEY
+about $2 million: MONEY
+Directed: ORG
+Landmark Nexus: ORG
+Eclipse: PRODUCT
+15%: PERCENT
+three: CARDINAL
+three: CARDINAL
+Cameroon: LOC
+ArcGIS: GPE
+MS Excel: ORG
+MS: ORG
+March 2014: DATE
+Appointments: ORG
+Graduate School: ORG
+the University of South Florida: ORG
+2007 to 2009: DATE
+the European Union- Greenhouse-gas: ORG
+Removal Apprenticeship and Student Program: ORG
+2009: DATE
+2010: DATE
+January 2009: DATE
+the Lawson Formation: ORG
+Polk County: GPE
+Florida: GPE
+Evaluate: ORG
+Lawson: PERSON
+Reservoir: ORG
+January 2011 to November 2014: DATE
+State: ORG
+02/2011â€: CARDINAL
+Investigator
+
+Miscible: ORG
+Sugar Creek: GPE
+Jackson: PERSON
+Gallagher
+Drilling Inc: PERSON
+Calibrate: ORG
+Estimate: LOC
+Evaluate: ORG
+04/2012â€”12/2013: CARDINAL
+three: CARDINAL
+the Illinois Basin: LOC
+Cypress: FAC
+Ste: GPE
+Dale: GPE
+Johnsonville: GPE
+Iola: GPE
+Olney: ORG
+Zeigler: PERSON
+Sherman Oil, Farrar Oil Co. Inc.: ORG
+Rex Energy: ORG
+Gallagher Drilling Inc.: ORG
+20, 40: DATE
+80 acres: QUANTITY
+eight: CARDINAL
+Generate: PERSON
+EOR: ORG
+10/2012â€”09/2014: CARDINAL
+Principal Investigator
+
+Depositional: ORG
+Project
+
+Deopositional: ORG
+deltaic: ORG
+fluvial & alluvial: ORG
+MS Project: ORG
+Mentor: LOC
+Post-Doctoral Research Engineer: ORG
+November 2009 to October 2010: DATE
+CO2: CARDINAL
+Aneth Field: FAC
+Basin: GPE
+Utah: GPE
+Resolute Natural Resources: ORG
+Calculate: ORG
+Upscale: GPE
+Petrel: ORG
+Visage: PERSON
+Correlate: ORG
+November 2004 to July 2005: DATE
+Training
+Training: PERSON
+2014: DATE
+Landmark Aries: GPE
+June 05, 2014: DATE
+Houston: GPE
+Texas: GPE
+Practical: ORG
+April 13, 2014: DATE
+Tulsa: GPE
+Reservoir: ORG
+April 12, 2014: DATE
+Tulsa: GPE
+2013: CARDINAL
+Landmark Nexus Basic Reservoir Simulation Course: ORG
+May 20-22, 2013: DATE
+Houston: GPE
+Texas: GPE
+Landmark Nexus Intermediate Reservoir Simulation Course
+
+Training: ORG
+2012: DATE
+Kepner-Tregoe Project Management Workshop: ORG
+July 11-13: DATE
+Champaign: GPE
+Illinois: GPE
+July 14-15, 2011, Champaign: DATE
+Illinois: GPE
+2009: DATE
+City: GPE
+State: GPE
+USA: GPE
+2004 Technical University of Denmark: ORG
+State: GPE
+Denmark
+B.S :: ORG
+1997: DATE
+University of Buea ï¼​ City: ORG
+State: ORG
+Cameroon: ORG
+Chemical Process Technology: ORG
+Eclipse: PRODUCT
+Petrel: ORG
+VISAGE: ORG
+2010: DATE
+Affiliations: ORG
+Society of Petroleum Engineers
+American Geophysical Union: ORG
+University of South Florida Alumni
+
+Computer Skills
+
+Aries: ORG
+Nexus: ORG
+Petrel: ORG
+Eclipse: PRODUCT
+VISAGE: ORG
+Petra: ORG
+CO2 Prophet: PERSON
+Fekete Harmony: PERSON
+Kinder Morgan CO2: ORG
+Desktop-PVT: ORG
+Envi: ORG
+C++: GPE
+Fortran: GPE
+UNIX: ORG

@@ -1,0 +1,61 @@
+12+ years: DATE
+Texas: GPE
+California: GPE
+Oklahoma: GPE
+Analytical: PRODUCT
+Adept: ORG
+25+%: CARDINAL
+three: CARDINAL
+year-over-year: DATE
+10+%: CARDINAL
+annual: DATE
+66%: PERCENT
+annual: DATE
+Cold: PERSON
+100: CARDINAL
+daily: DATE
+monthly: DATE
+annual: DATE
+Created: ORG
+10/2008: DATE
+10/2009: CARDINAL
+Created: ORG
+Monitored: ORG
+30%: PERCENT
+12/2006: CARDINAL
+10/2008: CARDINAL
+Sales & Operations Company Name: ORG
+quarterly: DATE
+50%: PERCENT
+8%: PERCENT
+12/2003 to: CARDINAL
+annual: DATE
+Mentored: ORG
+12/2003: CARDINAL
+01/1999: CARDINAL
+Level I Trauma Team: PERSON
+Orthopedic Department Head: ORG
+Biology University of Texas: ORG
+City: GPE
+Health Management: ORG
+California: GPE
+California: GPE
+National Academy of Sports Medicine: ORG
+California: GPE
+International Physical Fitness Association: ORG
+Florida: GPE
+National Registry of Emergency Medical Technicians: ORG
+Texas: GPE
+Budgeting, Business Development, Client Relations: ORG
+Cold Calling: ORG
+Computer Proficient: ORG
+Creative Problem Solving: WORK_OF_ART
+Customer Needs Assessment: ORG
+Expense Control: ORG
+Internal Auditing: ORG
+Lead
+Development: PERSON
+Multi-Task Management: ORG
+Product Development: ORG
+Territory Sales Experience: ORG
+Payroll: ORG

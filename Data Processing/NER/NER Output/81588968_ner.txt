@@ -1,0 +1,131 @@
+U.S.: GPE
+20-year: DATE
+the US NAVY: ORG
+Highlights
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+Outlook, Project: ORG
+100%: PERCENT
+over $6 Million: MONEY
+over $10 million: MONEY
+November 2010 to October 2015: DATE
+Company: NORP
+OSHA: ORG
+the Project Planning Policy: ORG
+Assigned Program: ORG
+Communicate: ORG
+Project: ORG
+Management;: ORG
+Identify: ORG
+Develop: ORG
+Supply Chain, Estimating,: ORG
+Crafts: ORG
+the Project Plan: LAW
+First Class 
+March 2003 to April 2006 Company Name ï¼​ City: DATE
+State: ORG
+40 hours: TIME
+Materials Handler: PERSON
+40,000: MONEY
+Annum: ORG
+12/2006: CARDINAL
+Navy Munitions Command: ORG
+255: CARDINAL
+Road Norfolk VA 23511: FAC
+Fletcher Saffell: ORG
+757)443-0827: DATE
+55: CARDINAL
+200: CARDINAL
+three: CARDINAL
+Battle Groups: ORG
+two: CARDINAL
+10,000 ton: QUANTITY
+Operations: ORG
+43: CARDINAL
+500: CARDINAL
+10: CARDINAL
+zero: CARDINAL
+the 2005: DATE
+Explosive Safety Inspection: EVENT
+Ordnance
+Handling Department: ORG
+110: CARDINAL
+Serve as Transport Management: ORG
+CBL: ORG
+Department of Defense: ORG
+April 1999: DATE
+May 2004: DATE
+State: ORG
+40 hours: TIME
+40,000: MONEY
+Annum: ORG
+USS DWIGHT D.
+EISENHOWER: PERSON
+WATTS: ORG
+8: CARDINAL
+100 percent: PERCENT
+over 300,000 pounds: QUANTITY
+19: CARDINAL
+daily: DATE
+daily: DATE
+Conducted: ORG
+weekly: DATE
+200: CARDINAL
+200: CARDINAL
+9: CARDINAL
+12: CARDINAL
+M-14: PRODUCT
+M-16: PRODUCT
+M-60: PRODUCT
+March 1996 to April 1999: DATE
+40 hours: TIME
+30,000: MONEY
+Annum: ORG
+Navy: ORG
+Command CONUS East Division: ORG
+255: CARDINAL
+Road Norfolk: FAC
+Va.: GPE
+23511: DATE
+Carol Green: PERSON
+757)443-0800: CARDINAL
+Transship: PERSON
+three: CARDINAL
+Battle Groups: ORG
+two: CARDINAL
+10,000 ton: QUANTITY
+Operations: ORG
+43: CARDINAL
+500: CARDINAL
+10: CARDINAL
+over 5: CARDINAL
+over $200 million: MONEY
+CBL: ORG
+Department of Defense: ORG
+1990: DATE
+Georgetown High School: ORG
+GPA: ORG
+3.5: CARDINAL
+GPA: ORG
+3.5 Semester Hours: TIME
+Professional Affiliations
+Safety Programs Afloat: ORG
+2099: DATE
+NEC: ORG
+10: CARDINAL
+J-690-0068: PERSON
+26001: DATE
+03-06 Magazine: PERCENT
+Sprinkler Operator & Maintenance CIN(K-041-2048)03-95: ORG
+3103: DATE
+Inspection: NORP
+Materials: PRODUCT
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Word: PERSON
+Navy: ORG
+Project Planning: ORG
+Quality Assurance: ORG
+Safety: ORG
+Supply Chain: ORG

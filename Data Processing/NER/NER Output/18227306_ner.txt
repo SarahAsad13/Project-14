@@ -1,0 +1,62 @@
+January 2012: DATE
+the Defense Logistics Agency: ORG
+150: CARDINAL
+November 2014: DATE
+0: MONEY
+~$40K: PERSON
+monthly: DATE
+Coordinate: FAC
+monthly: DATE
+20%: PERCENT
+January 2014 to March 2015: DATE
+30: MONEY
+annual: DATE
+GI Technology Summit's: ORG
+350: MONEY
+Prepared: PERSON
+FDA: ORG
+January 2012 to January 2013: DATE
+1M+: MONEY
+250: MONEY
+January 2005 to January 2011: DATE
+Ukraine Business Accelerator: ORG
+Ukrainian: NORP
+Researched: ORG
+Russian: NORP
+Russian: LANGUAGE
+Katz: PERSON
+the days of June 5-12: DATE
+the ": DATE
+Days of Russian Culture: WORK_OF_ART
+Gaithersburg: GPE
+MD: GPE
+1,200: CARDINAL
+50: MONEY
+Collaborated: ORG
+Created: ORG
+Master of Science : Technology Commercialization: WORK_OF_ART
+May 2015: DATE
+THE UNIVERSITY OF TEXAS: ORG
+AUSTIN, McCombs School of Business
+ï¼​ City: ORG
+State Technology Commercialization
+Bachelor of Arts : Anthropology Biology: ORG
+May 2011 UNIVERSITY OF MARYLAND ï¼​ City: DATE
+State Anthropology Biology
+Teaching: ORG
+English: LANGUAGE
+Russian: NORP
+AGA: ORG
+2014: DATE
+the United States: GPE
+AGA: ORG
+2014: DATE
+the United States: GPE
+Agency: ORG
+English: LANGUAGE
+Innovation, Languages, Logistics: ORG
+MS Office: ORG
+Enterprise: ORG
+Russian: LANGUAGE
+Russian: LANGUAGE
+Ukrainian: GPE

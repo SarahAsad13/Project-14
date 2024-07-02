@@ -1,0 +1,18 @@
+Adapt: ORG
+Strong: PERSON
+Name City: GPE
+zoos: PERSON
+CPR: ORG
+Name City: GPE
+100%: PERCENT
+Cleaned: ORG
+Welcomed: ORG
+2010: DATE
+State: ORG
+History Club: ORG
+Winter Carnival Planning Committee: ORG
+Prospect Mountain Charity Competition: ORG
+2012: DATE
+State: ORG
+Skills
+Professional: ORG

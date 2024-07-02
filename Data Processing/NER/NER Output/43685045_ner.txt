@@ -1,0 +1,97 @@
+QuickBooks: ORG
+Excel: PRODUCT
+Power Point: ORG
+Oracle
+Accomplishments
+
+Primary: ORG
+Small Business Administration: ORG
+the Department of Homeland Security: ORG
+Defense: ORG
+the Department of Health & Human Services: ORG
+Dean: PERSON
+Accountant: ORG
+July 2012: DATE
+Current Company Name: ORG
+$15 million: MONEY
+yearly: DATE
+Review: ORG
+1099: DATE
+Month: DATE
+six: CARDINAL
+approximately $40k: MONEY
+monthly: DATE
+monthly: DATE
+GL: ORG
+COGS: ORG
+Provide: NORP
+June 2011 to June 2012: DATE
+approximately $1 million: MONEY
+monthly: DATE
+North Central: LOC
+eleven: CARDINAL
+Chicago: GPE
+North Dakota Propane: GPE
+Minnesota Care Tax
+Prepare: ORG
+quarterly: DATE
+month-end: DATE
+Assess: ORG
+the Department of Revenue: ORG
+Assist: NORP
+Accounting Associate: WORK_OF_ART
+August 2008 to June 2011 Company Name ï¼​ City: DATE
+three: CARDINAL
+Citibank: ORG
+Sallie Mae: ORG
+Bank: ORG
+Ensure: PRODUCT
+monthly: DATE
+quarterly: DATE
+year-end: DATE
+Compile: PRODUCT
+November 2004 to August 2008: DATE
+15: CARDINAL
+300 - 800: CARDINAL
+Primary: PERSON
+Small Business Administration: ORG
+the Department of Homeland Security: ORG
+Defense: ORG
+the Department of Health & Human Services
+Consistent: ORG
+Bachelor of Arts: ORG
+City: GPE
+State: GPE
+US University of Northern Iowa: ORG
+Cedar Falls: PERSON
+IA: GPE
+2008: DATE
+Real Estate & Finance
+: ORG
+Applied Arts Hawkeye Community College: ORG
+State: GPE
+US Hawkeye Community College: ORG
+Waterloo: GPE
+IA: GPE
+2003: DATE
+List
+Skills
+Credit: WORK_OF_ART
+Tax Returns: PERSON
+Team Lead: PERSON
+Training, Accounting, Accounts Receivable: ORG
+Associate, Audits: ORG
+Bank Reconciliations, Clients: ORG
+Coding: ORG
+Financial Reporting: ORG
+Reconciliations, Accountant, Accounts And: ORG
+Cases, Cogs: ORG
+Credit Card, Documentation: ORG
+Fixed Assets: GPE
+Gl: PRODUCT
+Inventory, Invoicing, Payroll, Receivables, Reconciling, Review Credit: ORG
+Monthly: DATE
+Excel: PRODUCT
+Mas: PERSON
+Netsuite: ORG
+Oracle, Quickbooks, Finance: ORG

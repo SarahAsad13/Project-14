@@ -1,0 +1,22 @@
+Skills
+Billings: ORG
+Customer Service: ORG
+Magic: ORG
+Jan 2016: DATE
+Jan 2016: DATE
+State: ORG
+Jan 2015: DATE
+Magic City Floral,: ORG
+Billings: GPE
+MT: GPE
+2015: DATE
+Jan 2014 to Jan 2015: DATE
+Floral Design Certificate: ORG
+2014: DATE
+Front Range Community College: ORG
+Front Range Community College: ORG
+Floral Design Certificate: WORK_OF_ART
+Spring 2014: DATE
+Horticulture Fall 2013 Front Range Community College Horticulture: ORG
+Spring 2011: DATE
+Fossil Ridge High School: PERSON

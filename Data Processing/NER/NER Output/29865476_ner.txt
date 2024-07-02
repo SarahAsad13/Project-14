@@ -1,0 +1,54 @@
+BRANCH: ORG
+Customer: ORG
+Client: GPE
+Inventory: NORP
+Microsoft: ORG
+Outlook
+Word and Excel: PRODUCT
+July 2012: DATE
+Maintained: GPE
+Communicated: ORG
+Bi-Lingual Customer Service: ORG
+January 2010 to September 2011 Company Name - City: DATE
+Spanish: LANGUAGE
+daily: DATE
+weekly: DATE
+monthly: DATE
+Data: ORG
+Credit Card: ORG
+Customer Service Representative: ORG
+January 2009 to January 2010: DATE
+daily: DATE
+daily: DATE
+Data: ORG
+Customer Care Specialist: ORG
+October 2005 to January 2009: DATE
+200: CARDINAL
+Quota: ORG
+medicare: ORG
+MA/PDP Appeals: ORG
+medicare: ORG
+Processed: GPE
+Excel Grids: PERSON
+Caremark Specialty Pharmacy: ORG
+at least three: CARDINAL
+Ran: PERSON
+CAS: ORG
+October 2000 to October 2005: DATE
+daily: DATE
+several days: DATE
+the week: DATE
+Bachelor of Science : Business University of Phoenix - City: ORG
+State Business
+Business Managerial Skills Certificate : Business: ORG
+2002: DATE
+State: GPE
+US: GPE
+12-month: DATE
+the year: DATE
+20 years: DATE
+Customer Service: ORG
+3 years: DATE
+Branch Management: ORG
+2: CARDINAL
+2: CARDINAL

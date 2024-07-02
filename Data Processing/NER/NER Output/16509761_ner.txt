@@ -1,0 +1,32 @@
+DIGITAL: ORG
+Digital Media Intern Company Name: ORG
+Oculus Rift: PRODUCT
+Samsumg VR: PERSON
+Florida International
+University's: ORG
+360: CARDINAL
+Sea Level Rise: FAC
+Inspicio Magazine: PERSON
+06/2016: CARDINAL
+weekly: DATE
+meetingsÂ 
+Supported: PRODUCT
+Social Media
+Gained: ORG
+daily: DATE
+12/2014: CARDINAL
+Project Engineer: ORG
+Collaborated: ORG
+12/2013: CARDINAL
+Assess: ORG
+Training: PERSON
+Spring: DATE
+2018: DATE
+Bachelor of Science : Digital Media Communications: ORG
+Florida International University: ORG
+3.2: CARDINAL
+English: LANGUAGE
+Spanish: NORP
+Skills
+Proficient: ORG
+Adobe Premiere: PERSON

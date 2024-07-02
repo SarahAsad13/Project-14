@@ -1,0 +1,57 @@
+NASCAR: ORG
+Oversaw: GPE
+annual: DATE
+January 2013: DATE
+January 2010 to January 2012: DATE
+NASCAR: PERSON
+15%: PERCENT
+$3 million: MONEY
+Joyce Julius: PERSON
+3000: MONEY
+50,000: MONEY
+season: DATE
+iPad App: ORG
+Product Marketing and Brand: WORK_OF_ART
+January 2003 to January 2010: DATE
+Created: ORG
+75-year: DATE
+Finished: PRODUCT
+75,000: MONEY
+Country Music Association: ORG
+Nashville: GPE
+Billboard Magazine: ORG
+Integrated: NORP
+Board of Directors: ORG
+50%: PERCENT
+$1 million: MONEY
+annual: DATE
+January 1999 to January 2012: DATE
+State: ORG
+BA : Communications: ORG
+2005: DATE
+Benedictine University: ORG
+State: ORG
+Magna Cum Laude: PERSON
+Accredited Certificate: ORG
+Computer Graphic Design: ORG
+International Academy of Design and Technology: ORG
+Chicago: GPE
+IL: ORG
+1996: DATE
+Affiliations: ORG
+American Marketing Association: ORG
+Branding: ORG
+Freelance, Graphic Design: ORG
+Meetings: GPE
+2007: DATE
+Chicago: GPE
+Business Marketing
+Association: ORG
+2007: DATE
+Silver Trumpet: WORK_OF_ART
+Ford Power Stroke Diesel CREW Club: ORG
+2004: DATE
+Publicity Club of Chicago: ORG
+Golden
+Trumpet: WORK_OF_ART
+2002: DATE

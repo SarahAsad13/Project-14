@@ -1,0 +1,86 @@
+Mental Health: ORG
+3years: DATE
+B.R.O.N. CDC: ORG
+Person Centered Thinking Train-the-Trainer Qualified Professional: ORG
+20: DATE
+MH/SA: ORG
+ICF/MR: ORG
+20 years: DATE
+Church Office: ORG
+3+ years: DATE
+Lecturer Develop: ORG
+Music: NORP
+6+ years: DATE
+Skills
+
+Project: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Personnel: ORG
+Customer: ORG
+Complex: NORP
+Customer: ORG
+Microsoft Office: ORG
+Maintained: GPE
+Utilization Management Specialist: ORG
+Displayed: PERSON
+monthly: DATE
+11/2012: CARDINAL
+each month: DATE
+monthly: DATE
+Qualified Professional: ORG
+11/2011 to 12/2012: CARDINAL
+monthly: DATE
+each month: DATE
+Maintained: GPE
+Asperger's Syndrome: ORG
+each month: DATE
+Maintained: GPE
+Asperger's Syndrome: ORG
+Coordinated: ORG
+04/2006: CARDINAL
+12/2010: CARDINAL
+Monitored: ORG
+Coordinated: ORG
+2Â: CARDINAL
+Coordinated: ORG
+Qualified Professional/Supervisor 04/2003: ORG
+monthly: DATE
+one: CARDINAL
+Communicated: ORG
+each month: DATE
+each day: DATE
+Coordinated: ORG
+Asperger's Syndrome: ORG
+Residence Hall Director- Administrator II 08/2001: ORG
+03/2003: CARDINAL
+TFN: ORG
+Project Coordinator 03/2001: ORG
+5: CARDINAL
+Monitored: ORG
+Coordinated: ORG
+5: CARDINAL
+Collaborated: ORG
+each day: DATE
+each week: DATE
+Coordinated: ORG
+WIC/Medical Clerk: ORG
+11/1998: CARDINAL
+clientÃ¨le: PERSON
+Directed: ORG
+2001: DATE
+Bellevue University - City: ORG
+State Management
+Bachelor of Science : Early Childhood: ORG
+12: CARDINAL
+North Carolina: GPE
+State University - City: ORG
+Budgeting, Business Management: ORG
+Customer Service: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+Quick Book, Recruitment, Strategic: ORG
+Typing: PERSON
+45wpm: CARDINAL

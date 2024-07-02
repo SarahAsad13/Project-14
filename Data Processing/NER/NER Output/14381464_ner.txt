@@ -1,0 +1,16 @@
+12/2014: CARDINAL
+3rd: ORDINAL
+Sweep: PRODUCT
+05/2012: CARDINAL
+Hawaiian: NORP
+Landscaper Company Name: ORG
+Worked as Landscaper: ORG
+Preston: ORG
+Jan 2010: DATE
+May 2015: DATE
+Trim: ORG
+2013: DATE
+David Douglas: PERSON
+Skills
+Excellent Customer: ORG
+Customer: ORG

@@ -1,0 +1,62 @@
+IBC: ORG
+nearly a year: DATE
+the Moore Branch: ORG
+Tellers and Sales Associates: ORG
+IBC: ORG
+the day: DATE
+10/2015: CARDINAL
+I Prepare Consumer and Small Business Loan: ORG
+Loan: ORG
+Liason: PERSON
+Legal Document Review Forms: ORG
+Death Certificates, Marriage Licenses, Trust
+Documents: ORG
+Debit Cards: ORG
+daily: DATE
+Vault: ORG
+every month: DATE
+Silver and Gold: WORK_OF_ART
+the day to day: DATE
+the second quarter of 2015: DATE
+Moore Branch: PRODUCT
+Bronze: GPE
+Horizon: GPE
+Outlook: GPE
+IMS: GPE
+DX Enterprise: ORG
+Elan: ORG
+IBC: ORG
+Assistand/Warranty Administrator Company Name: ORG
+the Service Department: ORG
+Submit: ORG
+third: ORDINAL
+Scann: PERSON
+Order: ORG
+Saturdays: DATE
+Advise: PERSON
+Communicated: ORG
+the days: DATE
+Sort: ORG
+Submit: ORG
+the week: DATE
+one: CARDINAL
+one: CARDINAL
+every day: DATE
+messages;take: ORG
+FUMC: ORG
+Training: PERSON
+May 2008: DATE
+10%: PERCENT
+Drill Team *: ORG
+the High
+School Show Choir: ORG
+Jan. 2010: DATE
+Elementary Education: ORG
+ï¼​ City: GPE
+3.4: CARDINAL
+Debit: PRODUCT
+IMS: ORG
+Legal: GPE
+Outlook, Enterprise: ORG
+Type: ORG
+2: CARDINAL

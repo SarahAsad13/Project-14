@@ -1,0 +1,94 @@
+Detail: PERSON
+3+ years: DATE
+Microsoft Office - Excel: ORG
+Word: PERSON
+SAP Fico: PERSON
+SAP BPC: ORG
+Hyperion: ORG
+400: CARDINAL
+Acc Pac: GPE
+iScala: ORG
+AR / Credit System - CTOS: ORG
+Polymath: PRODUCT
+English: LANGUAGE
+Budget: ORG
+VBA: ORG
+Adobe: PRODUCT
+Advanced: ORG
+Mac: PERSON
+Ledger Accounts Â: PERSON
+Monthly: DATE
+MYR: ORG
+7,300: CARDINAL
+Daily: DATE
+monthly: DATE
+quarterly: DATE
+year end: DATE
+Draft: ORG
+quarterly: DATE
+HSBC: ORG
+CTOS: ORG
+Polymath: ORG
+MYR: ORG
+5,300: CARDINAL
+month: DATE
+Group Head Office: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Financial Reporting: ORG
+the Budget Report for the Division: ORG
+Implementation of new financial consolidation system: ORG
+Division: ORG
+Treasury: ORG
+Bankers Acceptance: ORG
+monthly: DATE
+Oversees: ORG
+Accounts Executive Junior: ORG
+MYR: ORG
+2,800: CARDINAL
+Prepare: ORG
+GL: ORG
+AP: ORG
+monthly: DATE
+daily: DATE
+monthly: DATE
+Month: DATE
+daily: DATE
+monthly: DATE
+Bachelor of Science : Finance: ORG
+1997: DATE
+Oklahoma State University City: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+2.49/4: CARDINAL
+2.49/4: CARDINAL
+1995: DATE
+Mara Institute of Technology: ORG
+UITM: GPE
+State: GPE
+Malaysia: GPE
+MYR: ORG
+7,000: PRODUCT
+41: CARDINAL
+Accounts Payable: ORG
+AP: ORG
+AR: ORG
+400: CARDINAL
+Budget: ORG
+Cost Accounting: ORG
+Credit: ORG
+English 9: DATE
+Finance: ORG
+Financial Accounting: ORG
+Financial Reporting: ORG
+GL: ORG
+Hyperion: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Word: PERSON
+month end: DATE
+SAP: ORG
+Treasury: ORG

@@ -1,0 +1,101 @@
+Career Overview
+
+More than 6 years: WORK_OF_ART
+Manufacturing & Distributions: ORG
+4 years: DATE
+Oracle: NORP
+5: CARDINAL
+Experienced: PERSON
+Oracle Applications: ORG
+Supply Chain and Manufacturing: ORG
+Implemented Oracle EDI: ORG
+Warehouse Operations: ORG
+PLM: ORG
+Item: PERSON
+11i: DATE
+Modules: PERSON
+Bill of Materials: LAW
+WIP: ORG
+Order Management: ORG
+PO: ORG
+Oracle EDI Gateway: ORG
+System Administration: ORG
+Material Requirement Planning: ORG
+iProcurement: ORG
+Approval Management (AME: ORG
+Oracle Endeca: ORG
+Tools/Language : Toad: ORG
+Data Load: ORG
+Visio: PERSON
+SQL: ORG
+SQL Developer: ORG
+02/2016: PRODUCT
+Inventory, Work in Process: EVENT
+QA: ORG
+Purchasing & Order Management: ORG
+Implemented Oracle EDI for Sales Order: ORG
+third: ORDINAL
+Quality: ORG
+SCM: PRODUCT
+3: CARDINAL
+North American: NORP
+Oracle Manufacturing: ORG
+WIP: ORG
+OM & PO: ORG
+Oracle E-business: ORG
+R12: PRODUCT
+Oil & Gas: ORG
+Australia: GPE
+Canada: GPE
+China: GPE
+Romania: GPE
+UK: GPE
+Oracle: ORG
+Implemented Oracle EDI for: ORG
+third: ORDINAL
+Oracle: ORG
+Oracle Endeca: PERSON
+Student Partner: ORG
+Microsoft: ORG
+more than 5000: CARDINAL
+Microsoft: ORG
+Designed Lazy: ORG
+Windows 8: LOC
+Pitched: GPE
+Steve Balmer: PERSON
+Microsoft: ORG
+2 Million: CARDINAL
+an year: DATE
+more than 10000: CARDINAL
+Robotics: ORG
+more than 10000: CARDINAL
+Represented: GPE
+India: GPE
+Seoul: GPE
+South Korea: GPE
+Operational Management
+
+Implemented: ORG
+Generating MM$: PERSON
+Microsoft: ORG
+microsoft: ORG
+3 years: DATE
+Training: PERSON
+2013: DATE
+Andhra University College of Engineering ï¼​ City: ORG
+State: GPE
+India Bachelor of Technology Instrumentation Engineering: ORG
+3.4: CARDINAL
+GPA: ORG
+Started National Service Scheme: ORG
+India: GPE
+14th: ORDINAL
+May, 1992: DATE
+Houston: GPE
+Texas: GPE
+Hiking, Mountaineering: ORG
+English: LANGUAGE
+Telugu: PRODUCT
+Hindi
+
+: PERSON

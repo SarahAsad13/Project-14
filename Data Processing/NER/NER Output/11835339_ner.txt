@@ -1,0 +1,119 @@
+Education: ORG
+Florida International University: ORG
+1984: DATE
+Hospitality Management City: PERSON
+State
+Executive Experience
+: ORG
+Name City: GPE
+State: ORG
+May 1979 to October 2010: DATE
+Skills
+
+BANQUET & CATERING: ORG
+daily: DATE
+Cooked: PERSON
+35 to 40: CARDINAL
+Always: ORG
+Customer: ORG
+VENDOR & PURCHASING SUPERVISOR Â 
+
+Research: ORG
+Equipment: GPE
+Prepare: ORG
+the Food & Beverage: ORG
+Purveyor: PERSON
+daily: DATE
+weekly: DATE
+food &
+beverage: ORG
+Maintained: GPE
+Examined: NORP
+LICENSE & PERMIT SPECIALIST Â 
+
+: ORG
+Property: ORG
+Liability: ORG
+Workers Comp & Health
+Insurance: ORG
+the Business Licenses: ORG
+ABC License: ORG
+Health Department Permits: ORG
+Bookkeeper: GPE
+State: ORG
+Federal Tax: ORG
+weekly: DATE
+quarterly: DATE
+annual: DATE
+the Eastern Shore of VA Chamber of Commerce & Tourism Commission: ORG
+25 years: DATE
+Committee: ORG
+the Seafood Festival & Harvest Festivals: ORG
+two: CARDINAL
+annual: DATE
+Chamber: ORG
+the Virginia Restaurant Association: ORG
+1984: DATE
+the Va. Hospitality & Travel
+Association: ORG
+VHTA: ORG
+1986: DATE
+Wachapreague Town Planning Commission: ORG
+eight years: DATE
+200: CARDINAL
+Island House Restaurant: ORG
+the spring of 1979: DATE
+the Island House's: FAC
+the Eastern Shore: LOC
+Local, State & National Charities: ORG
+the United Way: GPE
+the Food Bank: ORG
+Lighthouse Ministries: ORG
+The Eastern Shore Literacy Commission: ORG
+the Island House: FAC
+the Eastern Shore of: LOC
+Virginia: GPE
+Jimmy Buffett: PERSON
+25 years: DATE
+John Warner: PERSON
+the first Virginia Christmas: DATE
+the Russell Senate Office Building: FAC
+Washington D.C.: GPE
+2005: DATE
+November 2012 to April 2013: DATE
+the food
+& beverage: ORG
+Coordinated: ORG
+Coffee: ORG
+Smoothie: ORG
+Alcohol Bar: ORG
+my thirty plus years: DATE
+Hospitality Management: ORG
+October 2011 to July 2012: DATE
+daily: DATE
+weekly: DATE
+monthly: DATE
+Exmore: PERSON
+the Ace Warehouse: FAC
+Hardware: ORG
+Purchase Orders: PERSON
+Ace: ORG
+monthly: DATE
+Meetings: PERSON
+Fruitland: GPE
+Maryland: GPE
+April 2011 to October 2011: DATE
+Daly: PERSON
+Breakfast: GPE
+Lunch: NORP
+the
+day: DATE
+McDonald's Corporate: ORG
+weekly: DATE
+monthly: DATE
+year: DATE
+Team: ORG
+my 30 plus years: DATE
+the Wachapreague Hotel: FAC
+Marina & Island House Restaurant: ORG
+daily: DATE

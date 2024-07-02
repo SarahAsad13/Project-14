@@ -1,0 +1,51 @@
+TW: ORG
+K-12: PRODUCT
+Tillamook School: ORG
+State: ORG
+Recruit: ORG
+annual: DATE
+hours: TIME
+annually: DATE
+4: CARDINAL
+4: CARDINAL
+4: CARDINAL
+Civic: ORG
+daily: DATE
+Tillamook County Commissioners: ORG
+School District: LOC
+the Oregon Coast: LOC
+Willamette Valley: PERSON
+INT: ORG
+K-12: PERSON
+Tillamook School: ORG
+OSU Extension Service: ORG
+Tillamook County: GPE
+4: CARDINAL
+2: CARDINAL
+2009 to October 2016: DATE
+Recruit: ORG
+Gather: ORG
+hours: TIME
+4: CARDINAL
+Civic: ORG
+daily: DATE
+Tillamook County Commissioners: ORG
+OSU Extension Service: ORG
+Tillamook County: GPE
+Oregon: GPE
+2012: DATE
+Outreach & Engagement: ORG
+Oregon State University: ORG
+Name - Community: ORG
+the Oregon Coast: LOC
+Willamette Valley: PERSON
+Skills: ORG
+Skills: ORG
+Ten: CARDINAL
+Education: ORG
+Oregon State University Bachelor of Science : Animal Science
+Certifications: ORG
+Paul Axtel Conflict and Communication: PERSON
+Oregon Substitute Restricted: PERSON
+Volunteer: PERSON
+ten: CARDINAL

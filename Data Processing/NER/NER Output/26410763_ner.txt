@@ -1,0 +1,34 @@
+Highlights: GPE
+C++: GPE
+Java, Ruby: ORG
+MatLab: ORG
+Linux/Unix Command Line: ORG
+LaTex: GPE
+Microsoft Office Package: ORG
+Basic Data-Structure Construction and Management
+Advanced Calculus: ORG
+the Month: DATE
+Market Street: FAC
+Alpha Phi: PERSON
+September 2015 - May 2016: DATE
+100+ hours: TIME
+November 2016: DATE
+Current Company Name: ORG
+Level Designer: PERSON
+June 2016: DATE
+Current Company Name: ORG
+daily: DATE
+Food Service Clerk: ORG
+September 2014 to July 2015: DATE
+Performed: ORG
+Customer Service: ORG
+January 2013 to August 2014: DATE
+Assisted: ORG
+2015: DATE
+State: GPE
+United States: GPE
+2019: DATE
+Texas A&M University: ORG
+ï¼​ City: GPE
+State: GPE
+United States: GPE

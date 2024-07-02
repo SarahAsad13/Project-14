@@ -1,0 +1,137 @@
+ASSISTANT: ORG
+QuickBooks: ORG
+Budgeting
+Payroll
+Highly: WORK_OF_ART
+Parks & Rec Director: ORG
+September 2014: DATE
+daily: DATE
+Prepare Deposits: PERSON
+Answer Phones: ORG
+Township: NORP
+the parks & rec department
+Monitor: ORG
+July 2009 to September 2014: DATE
+daily: DATE
+Prepare &: ORG
+20: CARDINAL
+Prepare Deposits: PERSON
+Answer Phones: ORG
+Bookkeeper: GPE
+June 2008 to April 2009: DATE
+Payroll: ORG
+Responsible for Collection of Accounts Receivable
+Prepare Customer Invoices
+Prepare Weekly Cash: ORG
+Answer Phones: ORG
+Bookkeeper: GPE
+December 2007 to June 2008: DATE
+Payroll: ORG
+Prepare: ORG
+Calculate Weekly Payroll: ORG
+Prepare Customer Invoices
+Prepare Monthly Comparative Financial Statements: ORG
+February 2006 to December 2007: DATE
+Prepare: ORG
+Verify: LOC
+weekly: DATE
+weekly: DATE
+Bookkeeper: GPE
+January 2007 to October 2007: DATE
+quarterly: DATE
+QuickBooks: ORG
+Remarketing Specialist I & II: ORG
+June 2005 to January 2007: DATE
+Request: ORG
+Approve: PRODUCT
+Responsible for Reconciliation of Auction and System Inventories
+Responsible: ORG
+Schedule: ORG
+up to $400: MONEY
+Wells Fargo: ORG
+Communicate: ORG
+the transportation department: ORG
+daily: DATE
+Accounting Specialist: ORG
+May 2001 to June 2005: DATE
+the Contractual Delinquency Report: ORG
+August 2000: DATE
+May 2001: DATE
+weekly: DATE
+about 50: CARDINAL
+daily: DATE
+Accounting Specialist: ORG
+January 1999 to July 2000: DATE
+Perform Accounting: ORG
+Miscellaneous Duties: PERSON
+Controller
+
+Prepare and Monitor Telephone Logs: ORG
+Bills
+Prepare A & D Billing for Cornerstone: ORG
+Insurance Billings on Prescribed Forms: ORG
+Medicaid Billing: PERSON
+Self Pay Billing
+Prepare Client Federal Income Tax Returns
+Reconcile All Checking and Savings Accounts: WORK_OF_ART
+MRSI
+Edit and Monitor Genesis Time System: ORG
+the Preparation of Monthly Waiver Billing: ORG
+Reviewing Billing Logs and Calculating Billable Hours: WORK_OF_ART
+August 1996 to December 1998: DATE
+State
+
+Prepare Fed Letter for Return Checks
+Reconcile Customer Bank Statements: ORG
+Chargeback Overdraft Checks to Proper Department
+Prepare Collection Items for Customers
+Prepare Letters for Overdraft Customers: ORG
+Person: GPE
+Bookkeeper: GPE
+March 1994 to June 1996: DATE
+Reconcile Cash Drawer Daily: ORG
+Produce Productivity Reports
+Prepare Invoices for Payment: ORG
+Prepare & Calculate Bi-Weekly Payroll
+Prepare: ORG
+Complete Month End Paperwork: EVENT
+Print Bi-Monthly Customer Statements
+Responsible for Collection of Accounts Receivable
+Responsible for Processing Finance Applications and Payments: PERSON
+Bookkeeper: GPE
+June 1992 to March 1996: DATE
+Analyze Budget and Project Expenses
+Provide Cost Analysis: ORG
+Produce Fiscal & Major: ORG
+Publisher Reports: PERSON
+G/L
+Reconcile General Ledger with Accounting Histories: ORG
+Produce Weekly: ORG
+Monthly: DATE
+University Accounting: ORG
+Enter Data: ORG
+Produce Invoices for Photocopy and Fax Charges
+Prepare Student Time Cards: ORG
+Calculate Monthly Payroll: ORG
+Controller/Office: ORG
+June 1988 to April 1992: DATE
+Calculate: ORG
+60: CARDINAL
+Produce Weekly: ORG
+Monthly: DATE
+Coordinate Year End Audit & Monthly Budget Reports
+Responsible for Employee Reviews: EVENT
+Bachelor of Science : Accounting Susquehanna University: ORG
+ï¼​ City: GPE
+PA Notary: ORG
+PA State Association of Township Supervisors: ORG
+the PSATS Municipal Government
+Academy: ORG
+Skills
+
+Proficient: ORG
+G/L: ORG
+Reconciliations
+Payroll: PRODUCT
+Fast Learner
+Highly Dependable: PERSON

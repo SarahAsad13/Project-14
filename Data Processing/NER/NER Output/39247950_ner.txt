@@ -1,0 +1,151 @@
+3.0: MONEY
+PL/SQL: ORG
+JavaScript: ORG
+4: CARDINAL
+CSS: ORG
+3.5: CARDINAL
+SQL Server: PERSON
+2008: DATE
+Oracle 9i Operating: ORG
+98: CARDINAL
+Windows: NORP
+2000/2005: DATE
+UNIX Tools/Services: ORG
+TOAD: ORG
+HP Service: ORG
+WinSCP: PERSON
+Visual: ORG
+3.1: CARDINAL
+Desktop Intelligence: ORG
+Central Management Console Domain: ORG
+Software Engineer: ORG
+July 2010 to March 2014: DATE
+3 years and 9 months: DATE
+Designed: NORP
+ASP: ORG
+3.5: CARDINAL
+#: CARDINAL
+PL/SQL: ORG
+SQL: ORG
+3.1: CARDINAL
+Awarded: WORK_OF_ART
+100%: PERCENT
+CSAT: ORG
+7/7: CARDINAL
+Windows Presentation Foundation/Extensible Application: ORG
+Cloud: PERSON
+Microsoft: ORG
+Windows Azure: ORG
+January 2013 to March 2014: DATE
+1: CARDINAL
+LBG: ORG
+LBG: ORG
+e.g HCL: PERSON
+b.
+Project: PERSON
+c.
+Report: PERSON
+2: CARDINAL
+Service Level Agreement: ORG
+LBG: ORG
+a.
+Data: PERSON
+b.
+Data: PERSON
+Support c.
+Functionalities: PERSON
+HP Service Developed: ORG
+#: CARDINAL
+PL/SQL: ORG
+AJAX Extensions: ORG
+CSS: ORG
+Microsoft Visual Studio: ORG
+SQL Server Source: ORG
+Visual SourceSafe Hosted: ORG
+7.0: CARDINAL
+Technology/Languages: ORG
+3.5: CARDINAL
+PL/SQL: ORG
+HTML: ORG
+JavaScript: ORG
+CSS Tools: ORG
+SQL Server: PERSON
+2008: DATE
+Visual: ORG
+IDE: ORG
+July 2010 to December 2012: DATE
+EBusiness: ORG
+LBG: ORG
+2: CARDINAL
+Business Eye: ORG
+LBG: ORG
+3: CARDINAL
+TRACX: ORG
+LBG: ORG
+Responsibilities Involved: ORG
+Fixed: ORG
+SQL: ORG
+Change Records Assisted: ORG
+Oracle: GPE
+Monitored Application Servers: ORG
+Central Management Console of Business Objects Enterprise: ORG
+the Business Objects XI3.1: ORG
+Desktop
+Intelligence: ORG
+Created SQL Server: ORG
+daily: DATE
+UNIX Commands: ORG
+PuTTY Value: ORG
+TRACX: ORG
+Assisted: ORG
+Business Eye: ORG
+Technology/Languages: ORG
+2.0: CARDINAL
+PL/SQL: ORG
+HTML Tools: ORG
+TOAD: ORG
+HP Service: ORG
+WinSCP: PERSON
+BusinessObjects: ORG
+Universe Designer: ORG
+Desktop Intelligence: ORG
+Central Management Console: ORG
+PM Smart: PERSON
+Training
+Degree Bachelor of Engineering College: PERSON
+NIIT Ltd Development: ORG
+3.5: CARDINAL
+ASP: ORG
+3.5: CARDINAL
+2.0: CARDINAL
+3.5: CARDINAL
+AJAX: ORG
+ASM: ORG
+Business Objects: ORG
+CSS: ORG
+CSS 2: ORG
+Database: GPE
+EBusiness: ORG
+Electronics: ORG
+4: CARDINAL
+IDE: ORG
+7.0: CARDINAL
+JavaScript: ORG
+#: CARDINAL
+3.0: MONEY
+Windows: ORG
+2000: DATE
+3.1: CARDINAL
+Oct: PERSON
+Oracle 9: ORG
+Oracle: NORP
+PL/SQL: ORG
+Servers, Service Level Agreement: ORG
+SLA: ORG
+SQL: ORG
+SQL Server: PERSON
+TOAD: ORG
+UNIX: ORG
+Microsoft Visual Studio: ORG
+Visual: ORG
+Windows: NORP

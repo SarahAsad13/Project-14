@@ -1,0 +1,81 @@
+Media Relation, Planning: ORG
+Secondary
+Research: ORG
+Marketing, Public Relation, Event Coordination
+
+: ORG
+Typing: PERSON
+70wpm: CARDINAL
+Campaign Management: ORG
+New Media: NORP
+NMLS: NORP
+Alpha Chapter: ORG
+Social Chair: ORG
+Landlord: PERSON
+Skills
+
+Team: ORG
+Budget Management: ORG
+10/2013: CARDINAL
+Gallup: ORG
+4.2: CARDINAL
+4.93: CARDINAL
+3 months: DATE
+Monitored: ORG
+Gained: NORP
+Strategic Promotional Captain: ORG
+the last year: DATE
+opening atleast 20: CARDINAL
+4: CARDINAL
+3: CARDINAL
+monthly: DATE
+PNC Investment: ORG
+1.25 million dollars: MONEY
+Organized: ORG
+72: CARDINAL
+Co-Owner/Financial Liaison: ORG
+State: ORG
+â€¢ Responsible: WORK_OF_ART
+â€¢ Develop: PRODUCT
+quarterly: DATE
+â€¢ Manage: PRODUCT
+â€¢ Successfully: PRODUCT
+â€¢ Responsible for a: WORK_OF_ART
+â€¢ Developed: PRODUCT
+weekly: DATE
+daily: DATE
+9 months: DATE
+7 month: DATE
+27.04: MONEY
+29.32: MONEY
+769.32: MONEY
+2011: DATE
+910.32: MONEY
+2012: DATE
+5 month: DATE
+weekly: DATE
+Night Auditor: WORK_OF_ART
+09/2009: ORG
+â€¢ Corrected: PRODUCT
+daily: DATE
+the Hotel Rouge: ORG
+25,000: MONEY
+â€¢ Performed: WORK_OF_ART
+â€¢ Setup: PRODUCT
+daily: DATE
+morning: TIME
+mimosas: GPE
+â€¢ Developed: PRODUCT
+Lincoln: ORG
+Intern: ORG
+08/2009: DATE
+70: CARDINAL
+N.J.: GPE
+monthly: DATE
+summer: DATE
+State: ORG
+2009: DATE
+Howard University: ORG
+State: ORG
+USA BBA Marketing
+Professional Affiliations: ORG

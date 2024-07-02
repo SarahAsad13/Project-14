@@ -1,0 +1,34 @@
+FRAGRANCE: PERSON
+Licenses
+Phlebotomy Certification: PERSON
+2014: DATE
+Sample: PERSON
+Strong: PERSON
+Fragrance Consultant: PERSON
+11/2013 to 12/2013: CARDINAL
+Name City: GPE
+06/2012: CARDINAL
+Name City: GPE
+daily: DATE
+Customer Service 01/2006: ORG
+Name City: GPE
+Direct Selling: ORG
+Customer Support: PERSON
+2014: DATE
+Arkansas College of Health Careers City: ORG
+State: GPE
+United States: GPE
+Associate of Arts : General: WORK_OF_ART
+2010: DATE
+Arkansas College of Health Careers City: ORG
+State: GPE
+United States: ORG
+State: ORG
+United States: GPE
+Clients, Customer Service: ORG
+Customer Support: PERSON
+Detail: PERSON
+Direct Selling: ORG
+Hematology: ORG
+Receiving: ORG
+Technician: NORP

@@ -1,0 +1,78 @@
+Administrative Skills: PERSON
+Client: GPE
+Work History
+Company Name 
+Company Name: WORK_OF_ART
+Jan 2017: DATE
+the Finance Division of HSC Shared Services: ORG
+three: CARDINAL
+six: CARDINAL
+2017: DATE
+University: ORG
+Personnel, Affirmative Action: ORG
+2010: DATE
+Sep 2010: LAW
+Internal and External Advisory Board: ORG
+minutes: TIME
+one: CARDINAL
+Oct 2007: DATE
+2010: DATE
+Center: ORG
+hourly: TIME
+Center: ORG
+the Centralized Order Entry: ORG
+COE: ORG
+COE: ORG
+Aid Jan 2004 to Jan 2007: DATE
+814: CARDINAL
+274-4877: CARDINAL
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+Outlook: PERSON
+Windows: GPE
+Wilton Cake Decorating: PERSON
+Adult
+
+Education Classes: ORG
+Jan 2000: DATE
+Jan 2008: DATE
+Quick Books
+Computer Software: ORG
+Jan 1997 to Jan 2004: DATE
+daily: DATE
+Quick Books: ORG
+State: ORG
+Jan 1996 to Jan 1997: DATE
+Jan 1991: DATE
+Jan 1996: DATE
+Jan 1990 to Jan 1991: DATE
+Basic Business Courses: ORG
+Accounting I & II: ORG
+French: NORP
+English June 1988: DATE
+Liberty High School ï¼​ City: ORG
+State
+Computer Technology and Accounting: ORG
+September 1990: DATE
+West Virginia Business College: ORG
+Organizational Leadership & learning Leadership & Organizational Development: ORG
+2017: DATE
+Leadership & Organizational Development - Cum Laude: ORG
+Higher Education Administration 2018 University: ORG
+Skills
+Accounting I, Accounting: ORG
+Basic: PRODUCT
+English: LANGUAGE
+Finance: ORG
+French: NORP
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Windows: ORG
+Word: PERSON
+Order Entry: ORG
+Payroll: ORG
+Personnel: ORG
+Quick Books: ORG
+Telephone: ORG

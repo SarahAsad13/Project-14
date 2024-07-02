@@ -1,0 +1,177 @@
+Network: FAC
+Enterprise Resource Planning: ORG
+Cloud Technologies: ORG
+Skill Highlights: PERSON
+PLM: ORG
+Hardware: ORG
+Core Accomplishments
+Saved: WORK_OF_ART
+more than $ 10 million: MONEY
+3 years: DATE
+Weston Educational Group: ORG
+Student Information System: ORG
+Customer Relations Management: ORG
+2: CARDINAL
+99.999 %: PERCENT
+Weston Educational Group: ORG
+Â Project: ORG
+a month: DATE
+50 %: PERCENT
+Tableau: GPE
+Operations Management: ORG
+10: CARDINAL
+Florida: GPE
+California: GPE
+Weston Educational Group: ORG
+Information Technology: ORG
+Weston Educational Group: ORG
+Weston: GPE
+60%: PERCENT
+American Career College: ORG
+West Coast University: ORG
+Business Analyst: ORG
+Campus Management Corporation: ORG
+BatchMaster Software: ORG
+ERP: ORG
+80%: PERCENT
+4 weeks: DATE
+BatchMaster Software: ORG
+India: GPE
+75%: PERCENT
+the year: DATE
+2010: DATE
+over a thousand: CARDINAL
+every year: DATE
+2012: DATE
+02/2015: ORG
+11/2016: CARDINAL
+Information Technology Company Name: ORG
+State: ORG
+Weston Educational Group Inc: ORG
+the Allied Health and Personal Wellness: ORG
+3: CARDINAL
+Florida: GPE
+California: GPE
+the day to day: DATE
+24/7: CARDINAL
+Student Information System: ORG
+99.999 %: PERCENT
+toÂ $0Â: MONEY
+6: CARDINAL
+6: CARDINAL
+60%: PERCENT
+Missouri College: ORG
+the Weston Education Group: ORG
+CRM: PRODUCT
+as much as 28%: PERCENT
+DOMO: ORG
+$10 million: MONEY
+3 years: DATE
+Microsoft: ORG
+One: CARDINAL
+Microsoft: ORG
+Microsoft: ORG
+07/2009: PRODUCT
+02/2015
+Senior: PERSON
+Student Information System Company Name: ORG
+State: ORG
+American Career College: ORG
+West Coast University: ORG
+the Allied Health: ORG
+annual: DATE
+over $300 million: MONEY
+the Student Information System: ORG
+CRM: PRODUCT
+SharePoint: ORG
+the Student Information System: ORG
+Oversaw: PERSON
+India: GPE
+SharePoint: ORG
+SIS: ORG
+AT&T: ORG
+two: CARDINAL
+West Coast: LOC
+Aldreteem Inc: ORG
+Enterprise Resource Planning: ORG
+ERP: ORG
+Epicor: ORG
+ERP: ORG
+12/2004: CARDINAL
+Client Services Company Name: ORG
+BatchMaster Software Inc: ORG
+Platinum: ORG
+SAP Business One: ORG
+Microsoft Great Plains: FAC
+Client Services: ORG
+IncreasedÂ: NORP
+60%: PERCENT
+Created the Rapid: ORG
+from months to 4 weeks: DATE
+SAP: ORG
+80%: PERCENT
+Created: ORG
+45 %: PERCENT
+yearly: DATE
+Education: ORG
+2010: DATE
+Business Administration Walden University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+3.85: CARDINAL
+GPA: ORG
+Business Systems Technology University of Essex: ORG
+State: ORG
+UK: GPE
+Essex UniversityÂ: EVENT
+Afro-Carib Â Club: ORG
+the University
+Skills
+
+Enterprise Resource Planning Systems
+
+Education: ORG
+Campus Nexus Student, Student and Faculty portal: ORG
+Accounting Systems: ORG
+Microsoft Great Plains: FAC
+AccountMate: ORG
+SAP Business OneÂ 
+Learning Management Systems: ORG
+Dialoge EDU: ORG
+eCollege: ORG
+Moodle Rooms
+Manufacturing Systems: ORG
+Customer Relationship Management Systems: ORG
+Microsoft Great Plains CRM: ORG
+Campus Nexus CRM: ORG
+Microsoft: ORG
+Server: PRODUCT
+Microsoft: ORG
+SQL: PERSON
+Microsoft Exchange: ORG
+Microsoft SharePoint: ORG
+Linux
+Storage Area Network
+Active Directory: FAC
+Microsoft Terminal Services: ORG
+Microsoft Remote desktop Services: ORG
+Monitoring Tools
+
+Juniper: ORG
+Netgear: ORG
+Sophos Unified Threat Management: ORG
+IDERA SQL Management: ORG
+WebSense: ORG
+VMWare: ORG
+Cloud: PERSON
+Cloud: PERSON
+Cloud Technologies
+
+: WORK_OF_ART
+Amazon Web Services: ORG
+Microsoft Azure: ORG
+Miscellaneous Applications and Desktop Applications
+
+Microsoft Office: WORK_OF_ART
+DeepFreeze Desktop: ORG

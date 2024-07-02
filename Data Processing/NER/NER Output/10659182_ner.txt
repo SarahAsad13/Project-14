@@ -1,0 +1,34 @@
+10 years: DATE
+Core Qualifications
+
+Critical: ORG
+CPR: ORG
+CNA/HHA & Medical: ORG
+Award for Outstanding Performance: WORK_OF_ART
+Deans: NORP
+ten years: DATE
+summer: DATE
+PADS: ORG
+Substitute Teacher Aug: PERSON
+2014: DATE
+Health Fairs: ORG
+Health Care: ORG
+Arrange: NORP
+cor: ORG
+Oversee: ORG
+Technician Apr 2011: DATE
+Familiar: PERSON
+2009: DATE
+Monitored: ORG
+Provided: NORP
+Fulfilled: PERSON
+first: ORDINAL
+Monitored: ORG
+IEP: ORG
+Bachelor of Arts , Psychology /minor: ORG
+2012: DATE
+State Psychology /minor: ORG
+CNA: ORG
+CPR: ORG
+first: ORDINAL
+Home Care: ORG

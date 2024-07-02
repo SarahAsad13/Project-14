@@ -1,0 +1,46 @@
+15+ years': DATE
+Current
+Mechanical Designer Company Name: ORG
+Interstate: ORG
+Guide other Interstate Staff: ORG
+08/2016: CARDINAL
+Identify: ORG
+Develop: ORG
+Tour: ORG
+Construct: ORG
+Negotiate: ORG
+02/2016: CARDINAL
+development &: ORG
+DDT: ORG
+ECN: ORG
+Microsoft: ORG
+Designer/Project Manager Company: ORG
+01/2011 to 12/2011: CARDINAL
+Foreman/Designer Company Name: ORG
+Bank: ORG
+NDSU City: GPE
+State: ORG
+May 2012: DATE
+Bachelor: ORG
+December 2010: DATE
+Bachelor: ORG
+MSCTC City: GPE
+State: ORG
+May 2008: DATE
+Associate: WORK_OF_ART
+Biological Science Zoology NDSU: ORG
+February 2014 - September 2016: DATE
+Luv of Dogs Foster home/: ORG
+2013 - 2017: DATE
+Lutheran Church Children Services: ORG
+Outings: ORG
+2015-2017: DATE
+Skills: ORG
+Negotiate: ORG
+Inspect: GPE
+February 2014 - September 2016: DATE
+Luv of Dogs Foster home/: ORG
+2013 - 2017: DATE
+Lutheran Church Children Services: ORG
+Outings: ORG
+2015-2017: DATE

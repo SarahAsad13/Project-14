@@ -1,0 +1,98 @@
+Strong: PERSON
+Team: ORG
+Cross Functional: ORG
+June 2008 to January 2010: DATE
+the Board of Directors: ORG
+COO: ORG
+Oversaw: GPE
+35+ year old: DATE
+5: CARDINAL
+8: CARDINAL
+6: CARDINAL
+64: CARDINAL
+Revenues: ORG
+48MM: MONEY
+2008: DATE
+over $53MM: MONEY
+2014: DATE
+two: CARDINAL
+one: CARDINAL
+Gig Harbor: LOC
+Olympia: GPE
+over $: MONEY
+160,000: MONEY
+2015: DATE
+Electronic Medical Record: ORG
+120,000: MONEY
+annually: DATE
+early 2009: DATE
+two: CARDINAL
+6.5MM: MONEY
+4.5MM: MONEY
+200,000: MONEY
+Board Meetings: ORG
+Oversaw: GPE
+first: ORDINAL
+Brachytherapy: ORG
+the State of WA: ORG
+more than $1MM: MONEY
+annually: DATE
+two: CARDINAL
+Board: ORG
+One: CARDINAL
+1MM: MONEY
+annually: DATE
+May 1998 to: DATE
+May 2008: DATE
+State: ORG
+COLB: ORG
+1993: DATE
+$8.5 billion dollar: MONEY
+150: CARDINAL
+WA: GPE
+ORE: ORG
+Commercial Banker: ORG
+over $30MM: MONEY
+three years: DATE
+Bank: ORG
+SVP: ORG
+SVP: ORG
+06/2003: CARDINAL
+8: CARDINAL
+Auburn: ORG
+Longview: GPE
+WA: GPE
+Columbia: ORG
+Longview: GPE
+100MM: MONEY
+160MM: MONEY
+one: CARDINAL
+Seattle: GPE
+King County: GPE
+monthly: DATE
+100MM: MONEY
+200MM: MONEY
+1,200,000: MONEY
+annually: DATE
+Bank: ORG
+Loan Committee: ORG
+June 2005: DATE
+Bank: ORG
+Chemistry Pacific Lutheran University Chemistry
+Pacific Coast Banking School Certification University: ORG
+Professional Affiliations: ORG
+Current Board Chair: ORG
+Pierce College: ORG
+the Board and Trustee: ORG
+Tacoma Art Museum Past: ORG
+Rotary: GPE
+Past Board: ORG
+AFROC: ORG
+Washington D.C.: GPE
+Skills
+Banking: ORG
+Strong: PERSON
+Functional: GPE
+Meetings: GPE
+Negotiation: ORG
+Sound, Strategic Planning/Management: ORG

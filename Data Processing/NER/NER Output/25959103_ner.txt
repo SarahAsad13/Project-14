@@ -1,0 +1,65 @@
+14 plus years: DATE
+Information Technology: ORG
+Tier II - III: PERSON
+SLA: ORG
+15 plus years: DATE
+United Senate: ORG
+January 17th: DATE
+175: CARDINAL
+Train: GPE
+LAN: ORG
+WAN: ORG
+Meets: NORP
+United States: GPE
+August 17th: DATE
+3rd: ORDINAL
+Senate: ORG
+Help Desk: LOC
+3rd: ORDINAL
+Capitol Correspond: ORG
+Identify: ORG
+United States: GPE
+Senate: ORG
+Software Specialist: PERSON
+August 15th 2000: DATE
+2: CARDINAL
+Correspond: PERSON
+Capitol Correspond: ORG
+Capitol Correspond Database: LOC
+MS SQL: ORG
+Capitol Correspond Database: LOC
+Identify: ORG
+AMERICAN MILITARY UNIVERSITY: ORG
+AIR FORCE AIR COMMAND: ORG
+2013: CARDINAL
+Cyberspace: PERSON
+Joint Professional
+Education: ORG
+MARYMOUNT UNIVERSITY: ORG
+2007: DATE
+Science Computer Information Systems Management City: ORG
+State Science Computer Information
+Systems Management: ORG
+State Computer Information Systems: ORG
+MCAFEE CYBER INSTITUTE Certified Cyber Intelligence Professional: ORG
+2016: CARDINAL
+Professional Affiliations: ORG
+the Delta Epsilon Sigma: ORG
+Intelligence and National Security Alliance: ORG
+the Senate Information
+Security: ORG
+Council for Emerging National Security Affairs: ORG
+Partnership for Secure America: ORG
+A+: NORP
+Network+ Security+: GPE
+2016: DATE
+Arabic: LANGUAGE
+Skills: ORG
+Arabic: LANGUAGE
+Database: GPE
+LAN: ORG
+2000: DATE
+Research: ORG
+MS: ORG
+SQL: ORG
+Upgrades, WAN: ORG

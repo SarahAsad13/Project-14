@@ -1,0 +1,64 @@
+RESERVATIONS: ORG
+Skills: ORG
+Strengths
+Executive & Administrative Support ~: ORG
+English: LANGUAGE
+Farsi, Urdu: ORG
+Hindi
+Customer Service: ORG
+Telephone & Front Desk Reception
+Organization: ORG
+Database & Records Management
+Research: ORG
+Microsoft Office: ORG
+Reservations: ORG
+January 2016: DATE
+Current Company Name: ORG
+Generate: PERSON
+Answer: LOC
+Process: PRODUCT
+Resolve: PERSON
+Assist: NORP
+Demonstrate: ORG
+Housekeeping, Engineering Department Assist: ORG
+January 2015 to January 2016: DATE
+Service Associates: ORG
+Contribute: ORG
+January 2013 to January 2017: DATE
+eight: CARDINAL
+8): CARDINAL
+Southern California: LOC
+January 2012 to January 2013: DATE
+State: ORG
+Human Resources: ORG
+Assigned: ORG
+CBRE: ORG
+Coordinated: ORG
+Communicated: ORG
+month-end: DATE
+Created: ORG
+Communicated: ORG
+Created: ORG
+Human Resources: ORG
+January 2004 to January 2006: DATE
+93: CARDINAL
+30: CARDINAL
+Human Resources: ORG
+day-today: DATE
+HRIS: ORG
+Training
+Associates Degree Saddleback Community College: ORG
+City: GPE
+Administrative Support: PERSON
+Customer Service: ORG
+Data: ORG
+Database: GPE
+English: LANGUAGE
+Farsi, Filing: ORG
+Hindi: PERSON
+HRIS: ORG
+Human Resources, Human Resources: ORG
+Legal: GPE
+Microsoft Office: ORG
+Research: ORG
+Telephone: ORG

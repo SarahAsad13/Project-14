@@ -1,0 +1,223 @@
+monthly: DATE
+941: CARDINAL
+Respond: PERSON
+annual: DATE
+Daily Accounting: ORG
+QuickBooks: ORG
+Accountant: PERSON
+Balance Sheet: ORG
+quarterly: DATE
+Accountant/Financial Analyst: ORG
+QuickBooks: ORG
+6: CARDINAL
+monthly: DATE
+daily: DATE
+6: CARDINAL
+Insured: ORG
+daily: DATE
+6: CARDINAL
+CRM: PRODUCT
+100%: PERCENT
+Completed: ORG
+monthly: DATE
+6: CARDINAL
+08/2016: CARDINAL
+7: CARDINAL
+60million: MONEY
+Compute: ORG
+monthly: DATE
+Calculate: ORG
+Verify: LOC
+ASC: ORG
+606: CARDINAL
+Excel: PRODUCT
+Adaptive for C: ORG
+Financial Analyst: ORG
+03/2015: GPE
+Community Health Systems: ORG
+199: CARDINAL
+29: CARDINAL
+U.S.: GPE
+2014: DATE
+annual: DATE
+$18.8 billion: MONEY
+monthly: DATE
+Assisted: ORG
+weekly: DATE
+monthly: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+PCCM: ORG
+$40.8 million: MONEY
+annual: DATE
+ASC: ORG
+606: CARDINAL
+PCCM: ORG
+199: CARDINAL
+$45 million: MONEY
+Relational: ORG
+Financial Analyst: ORG
+04/2011: CARDINAL
+America: GPE
+Georgia: GPE
+DME: ORG
+IV: GPE
+2013: DATE
+$450 million: MONEY
+Conducted: ORG
+Performed: ORG
+Performed: ORG
+Directors: NORP
+$7 million: MONEY
+Managing Partner/Controller: WORK_OF_ART
+02/2001: ORG
+06/2011: CARDINAL
+Charley O'Corley's: PERSON
+Lowndes: PERSON
+Annual: DATE
+25million: MONEY
+2001: DATE
+$400,000 to $25 million: MONEY
+1065: DATE
+1040A: DATE
+one: CARDINAL
+twelve: CARDINAL
+Managed 350: PRODUCT
+a seven day a week: DATE
+three: CARDINAL
+monthly: DATE
+941: CARDINAL
+Respond: PERSON
+annual: DATE
+Daily Accounting: ORG
+QuickBooks: ORG
+Accountant: PERSON
+Balance Sheet: ORG
+quarterly: DATE
+Accountant/Financial Analyst: ORG
+QuickBooks: ORG
+6: CARDINAL
+monthly: DATE
+daily: DATE
+6: CARDINAL
+Cash Drawer: PERSON
+daily: DATE
+6: CARDINAL
+CRM: PRODUCT
+100%: PERCENT
+monthly: DATE
+6: CARDINAL
+08/2016: CARDINAL
+7: CARDINAL
+60million: MONEY
+Compute: ORG
+monthly: DATE
+Calculate: ORG
+Verify: LOC
+ASC: ORG
+606: CARDINAL
+Excel: PRODUCT
+Adaptive for C: ORG
+Financial Analyst: ORG
+03/2015: GPE
+Community Health Systems: ORG
+199: CARDINAL
+29: CARDINAL
+U.S.: GPE
+2014: DATE
+annual: DATE
+$18.8 billion: MONEY
+monthly: DATE
+Assisted: ORG
+weekly: DATE
+monthly: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+PCCM: ORG
+$40.8 million: MONEY
+annual: DATE
+ASC: ORG
+606: CARDINAL
+PCCM: ORG
+199: CARDINAL
+$45 million: MONEY
+Relational: ORG
+Financial Analyst: ORG
+04/2011: CARDINAL
+America: GPE
+Georgia: GPE
+DME: ORG
+IV: GPE
+2013: DATE
+$450 million: MONEY
+Conducted: ORG
+Directors: NORP
+Owner: ORG
+$7 million: MONEY
+02/2001: ORG
+06/2011: CARDINAL
+Charley O'Corley's: PERSON
+Lowndes: PERSON
+Annual: DATE
+25million: MONEY
+2001: DATE
+$400,000 to $25 million: MONEY
+1065: DATE
+1040A: DATE
+one: CARDINAL
+twelve: CARDINAL
+350: CARDINAL
+a seven day a week: DATE
+three: CARDINAL
+Bachelor of Business Administration: ORG
+12/2014: CARDINAL
+Valdosta State University - City: ORG
+GPA: ORG
+3.7: CARDINAL
+FASB: ORG
+SOX: ORG
+ASC: ORG
+606: CARDINAL
+15 years': DATE
+Microsoft: ORG
+Microsoft: ORG
+Epicor NetSuite QuickBooks Hyperion: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Balance Sheet: ORG
+Excel: PRODUCT
+Therapy
+CRM: PERSON
+Validation
+Client
+Clients
+Database
+Database: ORG
+Finance: ORG
+Monthly: DATE
+Payroll
+Banking: PRODUCT
+QuickBooks
+Budget: ORG
+Bi: PERSON
+Community Health: ORG
+Contracts: ORG
+Taxes: ORG
+Financial: ORG
+Hospice
+Human: ORG
+Microsoft: ORG
+Epicor NetSuite QuickBooks Hyperion: PERSON
+Trial Balance, Balance Sheet: ORG
+monthly: DATE
+C, Community Health: ORG
+CRM: PRODUCT
+GL: ORG
+Great Plains: PERSON
+hospice: ORG
+Hyperion: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+QuickBooks: ORG

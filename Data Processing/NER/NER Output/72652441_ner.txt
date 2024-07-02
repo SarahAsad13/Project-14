@@ -1,0 +1,32 @@
+04/2019: PERSON
+BMCHP and Wellsense Health Plan: ORG
+New Hampshire Medicaid: GPE
+04/2019: CARDINAL
+enrollmentâ€š: NORP
+Document: FAC
+Makeup Artist: PERSON
+focus days: DATE
+Server/Waitress 08/2009: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Calculated: ORG
+daily: DATE
+Beauty Advisor: PERSON
+Beauty department: WORK_OF_ART
+daily: DATE
+Makeup Artist: PERSON
+focus days: DATE
+Skincare Specialist: PRODUCT
+weekly: DATE
+monthly: DATE
+Calculated: ORG
+daily: DATE
+Beauty Advisor: PERSON
+Beauty department: WORK_OF_ART
+Windows: PRODUCT
+EExceptional: ORG
+SStrong client: ORG
+QQuick learner Floor: ORG
+Mediation: ORG
+MS Windows: PERSON

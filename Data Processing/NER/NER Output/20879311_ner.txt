@@ -1,0 +1,149 @@
+15 years: DATE
+Subject: GPE
+Information Security Risk Management: ORG
+Microsoft: ORG
+Windows Server: PERSON
+2008/2012: DATE
+2010: DATE
+Active Directory: PERSON
+DNS: ORG
+Cisco: GPE
+TCP/IP: ORG
+VoIP: LOC
+VNC: ORG
+VLAN Segregation
+Hardware: SAN/FIBER technology: ORG
+Workstations: ORG
+Laptops: PERSON
+iPad/iPhone/Blackberry: ORG
+Telephony Systems: ORG
+Cisco: GPE
+Veritas Netbackup: PERSON
+Backup Exec: PERSON
+PCAnywhere: ORG
+Symantec Antivirus: PERSON
+SharePoint: ORG
+Visio: PERSON
+Microsoft Office: ORG
+Suite: PERSON
+Information Technology and Analytics: ORG
+January 2005: DATE
+Current Company Name: ORG
+$4 Billion: MONEY
+over 120: CARDINAL
+Information Technology: ORG
+Established: ORG
+6: CARDINAL
+IP: ORG
+L3: PRODUCT
+Storage Area
+Networks: LOC
+Selected Accomplishments Developed: WORK_OF_ART
+Created Incident Response Policies: ORG
+NIST: ORG
+Designed Data Governance and Classification Policies: ORG
+Personally Identifiable Information: ORG
+PII: ORG
+Data Loss Prevention: ORG
+Governance Policy: PERSON
+Recruited: PRODUCT
+Dallas: GPE
+Baton Rouge: GPE
+Shanghai: GPE
+Dublin: GPE
+London: GPE
+Singapore: GPE
+Tokyo: GPE
+Cisco: GPE
+Cybersecurity: ORG
+the Advanced Threat
+Protection: ORG
+Cybersecurity Policy: ORG
+NIST: ORG
+Cybersecurity: ORG
+Information Technology: ORG
+January 2002 to January 2005: DATE
+100 year: DATE
+170: CARDINAL
+Oversaw: GPE
+Monitored: ORG
+Selected Accomplishments Designed and led: WORK_OF_ART
+2003: DATE
+CISCO: ORG
+3: CARDINAL
+Microsoft Exchange: ORG
+2003: DATE
+Enterprise Resource Planning: ORG
+January 2000 to January 2002: DATE
+State
+
+Consulting: ORG
+250: CARDINAL
+Windows NT to: LOC
+Maintained: GPE
+DNS: ORG
+DHCP: ORG
+Maintained: GPE
+85: CARDINAL
+node: GPE
+System Management Server: ORG
+2.0: CARDINAL
+Server: ORG
+Performed: ORG
+daily: DATE
+Veritas: ORG
+Data/Systems Administrator: ORG
+January 1998 to January 2000: DATE
+3 Billion: CARDINAL
+Oversee: ORG
+daily: DATE
+SQL: ORG
+Maintained: GPE
+Bachelor of Science : Psychology/History: ORG
+1998: DATE
+Rutgers University: ORG
+Skills
+Active Directory: ORG
+Antivirus: GPE
+Backup Exec: PERSON
+CISCO: ORG
+Competitive, Hardware, Consulting: ORG
+DHCP: ORG
+Disaster Recovery: PERSON
+DNS: ORG
+Enterprise Resource
+Planning: ORG
+FTP: ORG
+Ghost: PERSON
+Information Technology: ORG
+IP: ORG
+LAN: ORG
+Laptops: ORG
+Loss Prevention: ORG
+Exchange: ORG
+Microsoft Exchange: ORG
+2003: DATE
+Microsoft Office Suite: ORG
+SharePoint: ORG
+Microsoft: ORG
+Windows NT: LOC
+Networking, Networks,: ORG
+Next: ORG
+PCAnywhere: ORG
+Policies: GPE
+Project Management: ORG
+Proposal
+Development, Requirements Analysis: ORG
+Routers: ORG
+SAN: ORG
+Sarbanes-Oxley: ORG
+SQL: ORG
+Strategic
+Planning: ORG
+TCP/IP: ORG
+Telephony: ORG
+Veritas: ORG
+Veritas Netbackup: PERSON
+Visio: PERSON
+VOIP: ORG
+WAN: ORG

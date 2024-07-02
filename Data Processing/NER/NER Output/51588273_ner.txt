@@ -1,0 +1,71 @@
+15+ years': DATE
+Software Engineer: ORG
+Client: GPE
+ASP.NET: ORG
+MVC: ORG
+SQL: ORG
+JavaScript: ORG
+Java: PERSON
+Agile: ORG
+ETL: ORG
+PHP Tools:: ORG
+Visual Studio: PERSON
+SSRS: ORG
+SSIS: ORG
+SharePoint: ORG
+Eclipse: PRODUCT
+Apache: PRODUCT
+Cognos: GPE
+SQL Server: ORG
+Oracle
+Experience
+: ORG
+Software Engineering: ORG
+August 2011: DATE
+State
+
+Orchestrate: ORG
+10: CARDINAL
+ASP.NET: ORG
+JavaScript: PRODUCT
+SQL: ORG
+Foster: PERSON
+Software Engineer: PERSON
+April 2008 to August 2011 Company Name ï¼​ City: DATE
+Coordinated: ORG
+ASP.NET: ORG
+JavaScript: ORG
+SQL: ORG
+Dojo: PERSON
+Cognos: PRODUCT
+Troubleshot: PERSON
+April 2003 to August 2008: DATE
+ASP.NET: ORG
+JavaScript: ORG
+SQL: ORG
+Assigned: ORG
+Crystal: PRODUCT
+Matrix Bancorp: ORG
+Supervisor/ Developer: ORG
+MCI WorldCom: ORG
+Computer Science Information Systems UNIVERSITY OF LOUISIANA ASHFORD UNIVERSITY: ORG
+State Computer Science
+Information Systems: ORG
+Skills: ORG
+Agile: ORG
+Apache: PRODUCT
+Cognos: PERSON
+Crystal: LOC
+Eclipse: PRODUCT
+ETL: ORG
+PHP: ORG
+Java: PERSON
+JavaScript: PRODUCT
+#: CARDINAL
+SharePoint: ORG
+MVC: ORG
+Oracle, Developer: ORG
+SQL: ORG
+SQL Server: ORG
+Supervisor: PERSON
+Visual Studio: PERSON

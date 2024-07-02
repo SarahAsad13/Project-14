@@ -1,0 +1,69 @@
+thirteen years: DATE
+Time Management Skills
+
+Research Abilities
+
+General Ledger
+
+General Journal
+
+COMPUTER SKILLS
+
+: ORG
+Microsoft Office: ORG
+Groupwise/Outlook: PERSON
+January 2014: DATE
+Current Accountant III 
+City: PERSON
+monthly: DATE
+Correspond: PERSON
+University Grants and Contracts: ORG
+January 2007 to January 2014: DATE
+Accountant 
+City: PERSON
+year-end: DATE
+DCCCD: ORG
+January 2006 to January 2007: DATE
+Examined: NORP
+June 2003 to January 2004: DATE
+Dean: PERSON
+Schedule: PERSON
+January 2003 to January 2004: DATE
+monthly: DATE
+Processed: GPE
+Performed: ORG
+AR: ORG
+third: ORDINAL
+Prairie View A & M University: ORG
+2003: DATE
+University of North Texas: ORG
+2013: CARDINAL
+Dallas: GPE
+TX
+University of North Texas: ORG
+2015: DATE
+Strategic Management Strategic Management
+Accomplishments
+
+Conducted: ORG
+Business Office Procedures: ORG
+quarterly: DATE
+3: CARDINAL
+2012: DATE
+2013 & 2014: DATE
+AR, Billing, Budget: ORG
+Communication Skills: ORG
+Contracts: ORG
+Credit, Customer Service: ORG
+Financial, Forms: ORG
+Ledger: PERSON
+Ledger Acounts: PERSON
+Instructing: GPE
+Microsoft Office: ORG
+Outlook: PERSON
+Organizational Skills: PERSON
+Policies: GPE
+Receiving, Reconciling, Research,: ORG
+Team Player: ORG
+Time Management: ORG
+Year-End: DATE

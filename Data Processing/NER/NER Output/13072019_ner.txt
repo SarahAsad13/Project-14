@@ -1,0 +1,93 @@
+Career Focus: FAC
+Microsoft Office: ORG
+Organized: ORG
+February 2003: DATE
+State: ORG
+Project Accountant for the Gulfport High School: ORG
+CM: ORG
+AS400: PRODUCT
+SAP: ORG
+JD Edwards: PERSON
+Microsoft: ORG
+Construction Imaging: ORG
+Bluebeam
+Previously: ORG
+the Hard Rock New Guest Tower Addition: ORG
+Island View: FAC
+MDA: ORG
+Neighborhood Home Repair Program: ORG
+MSU Science & Technology Center: ORG
+Project Managers: ORG
+Project Engineers and Superintendents: ORG
+RFI: ORG
+O&M: ORG
+Construction Management: ORG
+AIA: ORG
+apps: ORG
+April 1996 to February 1999: DATE
+RFI: ORG
+Change Order Proposals: ORG
+Project Management: ORG
+Mirage: ORG
+monthly: DATE
+$700 million: MONEY
+May 1994 to January 1996: DATE
+annual: DATE
+AIA: ORG
+September 1992 to April 1994: DATE
+24-acre: QUANTITY
+Hampton Business Center: ORG
+Capitol Heights: GPE
+MD: GPE
+300,000 + square feet: QUANTITY
+10 and 20 year: DATE
+GSA: ORG
+Smithsonian: ORG
+Researched: ORG
+Proposal: PERSON
+September 1989 to July 1992: DATE
+Monitored: ORG
+Tenant: PERSON
+Xerox: GPE
+GSA: ORG
+PROJECT COORDINATOR: PERSON
+January 1985 to September 1989: DATE
+Northern Virginia: LOC
+Certificates of Occupancy: PRODUCT
+Projects Included Battlefield Business Park: ORG
+Manassas VA: GPE
+Windsor Plaza: GPE
+Chantilly VA: GPE
+Monroe Business Center: ORG
+Herndon VA: GPE
+Chantilly VA: GPE
+January 1983 to January 1985: DATE
+State: ORG
+minutes: TIME
+CIA: ORG
+Langley: GPE
+VA: GPE
+CIA: ORG
+St.Louis: GPE
+MS: GPE
+NVCC: ORG
+Skills
+Accounting, Accounting Systems: ORG
+AIA: ORG
+AS400: PRODUCT
+Billings: GPE
+Business Management: ORG
+Clerical, Construction Management: ORG
+Contracts: ORG
+Filing: GPE
+Imaging: GPE
+Insurance: GPE
+JD Edwards: PERSON
+Microsoft: ORG
+Office, Negotiations, Payroll: ORG
+Coding: ORG
+Project Management: ORG
+Property Management, Proposals: ORG
+RFI: ORG
+SAP: ORG
+Taxes: ORG

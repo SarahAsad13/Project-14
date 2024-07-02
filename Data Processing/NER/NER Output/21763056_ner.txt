@@ -1,0 +1,71 @@
+Core Qualifications
+Excel: ORG
+Word: PERSON
+PowerPoint: PRODUCT
+March 2001: DATE
+Current Company Name: ORG
+monthly: DATE
+monthly: DATE
+Prepare Inter-company: ORG
+the
+treasury department: ORG
+Validate: ORG
+Communicate: ORG
+Prepare: ORG
+100 percent: PERCENT
+BSA: ORG
+quarterly: DATE
+BSA: ORG
+SAP: ORG
+April 1999 to March 2001: DATE
+Allstate Motor Club: ORG
+monthly: DATE
+monthly: DATE
+year: DATE
+month-end: DATE
+month: DATE
+Accountant/ Lease Administrator: PERSON
+June 1996 to: DATE
+April 1999: DATE
+month-end: DATE
+monthly: DATE
+Assisted: ORG
+month: DATE
+year-end: DATE
+Prepared: PERSON
+monthly: DATE
+monthly: DATE
+1099: DATE
+Claim Approver: PERSON
+July 1992 to June 1996: DATE
+Processed: GPE
+PPO: ORG
+Medicare: ORG
+Medicaid: ORG
+Processed: GPE
+Proof Operator: LOC
+September 1991 to July 1992: DATE
+Processed: GPE
+daily: DATE
+September 1988 to October 1990: DATE
+day: DATE
+Receivable Clerk: PERSON
+June 1984 to September 1988: DATE
+Prepared: PERSON
+weekly: DATE
+Accounting Gujarat University India Accounting
+Computer Programming: ORG
+Triton College: ORG
+River Grove: GPE
+1: CARDINAL
+Skills: ORG
+Computer Programming: ORG
+Access: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+month-end closing,: DATE
+month end: DATE
+SAP: ORG
+treasury: ORG
+year-end: DATE

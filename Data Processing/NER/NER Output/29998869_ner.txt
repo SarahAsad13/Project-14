@@ -1,0 +1,110 @@
+#43352: CARDINAL
+State
+
+Financial planning: ORG
+Consumer Service: ORG
+Grievances: ORG
+Business Solutions Services: ORG
+SG&A: ORG
+approximately $825M: MONEY
+14,000: CARDINAL
+FTE: ORG
+annual: DATE
+approximately $120: MONEY
+40: MONEY
+2014: DATE
+two: CARDINAL
+39: MONEY
+2015: DATE
+Medicare: ORG
+Retirement Customer Service: ORG
+$120M: MONEY
+Benefit Operations: ORG
+annual: DATE
+approximately $28M: MONEY
+170: CARDINAL
+Rx Pharmacy Customer Service: ORG
+Benefit Operations: ORG
+Dental: ORG
+Vision Customer Service: ORG
+Benefit Operations: ORG
+40: MONEY
+600: CARDINAL
+FTE: ORG
+Drove: DATE
+100k: MONEY
+six: CARDINAL
+Operations: ORG
+nine: CARDINAL
+seven: CARDINAL
+annual: DATE
+approximately $175: MONEY
+annual: DATE
+approximately $45: MONEY
+24: MONEY
+Finance: ORG
+annual: DATE
+approximately $29: MONEY
+Finance: ORG
+three: CARDINAL
+approximately $6: MONEY
+Capital Projects: ORG
+$5M: MONEY
+annually: DATE
+Finance: ORG
+20B: MONEY
+approximately $60,000: MONEY
+annually: DATE
+70,000: MONEY
+annually: DATE
+Completed: ORG
+IVR: ORG
+650,000: MONEY
+annual: DATE
+Completed: ORG
+2.0: MONEY
+annually: DATE
+Created: ORG
+6,000,000: CARDINAL
+annually: DATE
+two: CARDINAL
+mid-year: DATE
+Recognized: PERSON
+25: CARDINAL
+6: CARDINAL
+Finance: ORG
+Account: ORG
+Product Management: ORG
+97%: PERCENT
+Created: ORG
+Completed: ORG
+the Executive Leadership Team: ORG
+Created "Critical Thinking and Analysis: ORG
+Completed all Executive Level Operational: ORG
+18: CARDINAL
+Employee of the Quarter: WORK_OF_ART
+Employee of the Year: WORK_OF_ART
+Created: ORG
+Created: ORG
+12: CARDINAL
+two: CARDINAL
+$5M: MONEY
+annually: DATE
+Built: ORG
+monthly: DATE
+Finance: ORG
+Account: ORG
+Product Management: ORG
+97%: PERCENT
+Name City: GPE
+Name City: GPE
+Accounting Hennepin Technical Community College City: ORG
+State: ORG
+Economics Florida State University City: ORG
+State: ORG
+Marshall College City: ORG
+Interests
+Hennepin Technical Community College Accounting Advisory Board: ORG
+Skills
+
+Financial planning: ORG

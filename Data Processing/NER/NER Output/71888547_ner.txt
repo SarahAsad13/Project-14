@@ -1,0 +1,69 @@
+three years: DATE
+Organized: ORG
+Microsoft: ORG
+Outlook
+Budget: ORG
+3 years: DATE
+Marketing: GPE
+2015: DATE
+3.7%: PERCENT
+NOI: ORG
+2014: DATE
+2016: DATE
+2015.Â: CARDINAL
+2014: DATE
+over $100: MONEY
+November 2015: DATE
+State
+
+Consulting: ORG
+each month: DATE
+Network Marketing
+
+Marketing: WORK_OF_ART
+October 2013: DATE
+Oversee: ORG
+310: CARDINAL
+Maintain: PRODUCT
+daily: DATE
+weekly: DATE
+monthly: DATE
+up to $50,000: MONEY
+quarterly: DATE
+Creating: PERSON
+annual: DATE
+Attend: ORG
+Nurse Server: PERSON
+June 2013 to November 2013: DATE
+May 2013 to September 2013: DATE
+Signing: GPE
+April 2011 to May 2013: DATE
+about 8-10: CARDINAL
+the end of the: DATE
+Coordinated: ORG
+Head Server: PERSON
+August 2007 to April 2011 Company Name ï¼​ City: DATE
+5: CARDINAL
+2008: DATE
+State: GPE
+United States: GPE
+May 2013: DATE
+Liberty University: ORG
+State: GPE
+United States Health Promotions - Clinical: ORG
+the Fellowship of Christian Athletes: EVENT
+FCA: ORG
+four years: DATE
+Varsity Softball: ORG
+FCA: ORG
+four years: DATE
+Varsity Softball: ORG
+Liberty University: ORG
+Virginia Tuition Assistance Grant: ORG
+Alumni Scholarship: PERSON
+Pastoral Scholarship
+
+Skills
+Sales: ORG
+Mac: PERSON
+Microsoft Office: ORG

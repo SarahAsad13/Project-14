@@ -1,0 +1,82 @@
+Skill Path: PERSON
+Mountain View: GPE
+CA: ORG
+Yellow Belt Process Excellence: PERSON
+ALZA Corp.: ORG
+Redwood City: GPE
+CA: ORG
+Fundamentals of Pharmaceutical cGMPs: ORG
+ALZA Corp.: ORG
+Mountain View: GPE
+CA: ORG
+HAZMAT Industrial Technician Certificate: ORG
+ALZA Corp.: ORG
+Palo Alto: GPE
+CA: ORG
+First Site: ORG
+Skill Path: PERSON
+Sunnyvale: GPE
+CA: ORG
+Supervising for Safety (ALZA Corp.: ORG
+Mountain View: GPE
+CA: ORG
+ALZA Corp.: ORG
+Mountain View: GPE
+CA: ORG
+Skill Path: PERSON
+Sunnyvale: GPE
+CA: ORG
+ISO 9001: ORG
+ALZA Corp.: ORG
+Redwood City: GPE
+CA: ORG
+ISO 14001: ORG
+ALZA Corp.: ORG
+Menlo Park: GPE
+CA: ORG
+Skill Path: PERSON
+San Jose: GPE
+CA: ORG
+ERT Membership: ORG
+ALZA Corp.: ORG
+Palo Alto: GPE
+CA: ORG
+January 2007: DATE
+Current Company Name
+
+: ORG
+a.
+poltry production: ORG
+Process Engineering Technician III: WORK_OF_ART
+January 2005 to January 2006: DATE
+the Oral Products R&D: ORG
+ALZA Corporation: ORG
+Performed: ORG
+Performed: ORG
+Authored: PERSON
+Completed: ORG
+Vacaville: GPE
+Process Engineer and Manufacturing Staff: ORG
+January 2001 to January 2005: DATE
+Mixing: GPE
+Standard Operational Procedures: ORG
+WI: ORG
+June 1999 to October 1999: DATE
+Tasks: ORG
+up to 5%: PERCENT
+Process Validation: ORG
+PV: FAC
+Green Belt: LOC
+Oil and Natural Gas Research Institute Worked: ORG
+Anatolia: GPE
+Natural Gas: ORG
+Research: ORG
+Validation: ORG
+Training
+Bachelor of Science : Petrochemical and Natural Gas Engineering: PERSON
+1999: DATE
+Istanbul Technical University Turkey Petrochemical: ORG
+Mobil: ORG
+1994: DATE
+Bosforous University - City: LAW
+Turkey: GPE

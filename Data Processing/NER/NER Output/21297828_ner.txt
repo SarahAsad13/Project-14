@@ -1,0 +1,25 @@
+Multi: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Public Relations and Event Planning: ORG
+May 2015 to August 2015: DATE
+Coordinated: ORG
+November 2014: DATE
+Twitter: PRODUCT
+six: CARDINAL
+Internal Marketing: ORG
+December 2013 to September 2014 City: DATE
+more than 8,000: CARDINAL
+Bachelor of Arts: ORG
+August 2012: DATE
+UNIVERSITY-PURDUE UNIVERSITY: ORG
+State Journalism Public Relations
+Certificate in Event Management
+Skills: ORG
+Event Management: ORG
+Journalism: NORP
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Multi: GPE

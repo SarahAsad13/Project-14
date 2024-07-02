@@ -1,0 +1,105 @@
+Highlights
+Achieve Global:: WORK_OF_ART
+PSS: ORG
+Intro: ORG
+Lean Strategies: ORG
+Lean Techniques: ORG
+Lean Logic: ORG
+Lean Value: ORG
+Recruiter: PERSON
+2010: DATE
+2015: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Adobe Pro: PERSON
+DCO: ORG
+Contact Management
+Databases: ORG
+four: CARDINAL
+daily: DATE
+Navy: ORG
+Key Accomplishments & Awards: ORG
+300%: PERCENT
+2014: DATE
+2015: DATE
+Recruiting District: LOC
+Houston Reserve Recruiter: ORG
+Year: DATE
+the Quarter: DATE
+the month: DATE
+Marine Corps Commendation Medal: ORG
+Navy: ORG
+Marine Corps Achievement Medal Military Outstanding Volunteer Service Medal: ORG
+Mar 2008: PERSON
+Sep 2010: LAW
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Adobe Pro: PERSON
+Contact Management Systems: ORG
+Human Resource: ORG
+1,400: CARDINAL
+300: CARDINAL
+1,000: CARDINAL
+Jan 2008: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Adobe Pro: PERSON
+Invoice Management System: ORG
+up to 23: CARDINAL
+Maintained: GPE
+PPE: ORG
+daily: DATE
+Conducted: ORG
+annual: DATE
+Maintained Material Safety Data: ORG
+Navy: ORG
+over 2,900: CARDINAL
+96 percent: PERCENT
+Quality Assurance Inspector: ORG
+6 years: DATE
+7,550 flight hours: QUANTITY
+Directed: ORG
+Six Sigma: PERSON
+30 percent: PERCENT
+over 140: CARDINAL
+the Quarter: DATE
+Marine Corps Achievement Medal: ORG
+Riddle Aeronautical University - City: ORG
+Summa Cum Laude: PERSON
+GPA: ORG
+4.0: CARDINAL
+Summa Cum Laude: PERSON
+GPA: ORG
+4.0: CARDINAL
+Bachelor of Business Administration: ORG
+May 2005: DATE
+Magna Cum Laude: PERSON
+3.84: CARDINAL
+Magna Cum Laude: PERSON
+GPA: ORG
+3.84: CARDINAL
+Counselor (Professional & Kindred): ORG
+September 2015: DATE
+Interests
+Department of Labor: ORG
+United Services Military Apprenticeship Program: ORG
+Contact Management: ORG
+Human
+Resource: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Windows: NORP
+Navy: ORG
+Quality, Quality Assurance: ORG
+Recruiter: PERSON
+Safety, Selling: ORG
+Six Sigma: PERSON
+Additional Information
+
+Department of Labor: ORG
+United Services Military Apprenticeship Program Active: ORG
+January 2025: DATE

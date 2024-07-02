@@ -1,0 +1,53 @@
+DIGITAL MARKETING SPECIALIST: ORG
+Digital: ORG
+PPC: ORG
+Superb: NORP
+Detail: PERSON
+Quick: FAC
+Microsoft Office: ORG
+Content: ORG
+CMS: ORG
+CSS: ORG
+Digital Marketing
+Search Engine Optimization
+Search Engine Marketing
+
+: ORG
+03/2015: WORK_OF_ART
+Digital Marketing Specialist Company Name: ORG
+11/2014: CARDINAL
+Meta: ORG
+301: CARDINAL
+404: CARDINAL
+Copywriter Developed: PERSON
+LiveEdit: PRODUCT
+Created: ORG
+Aurora: PRODUCT
+Google +: ORG
+LinkedIn: GPE
+Twitter: PERSON
+06/2013: CARDINAL
+Project Managers: ORG
+Coordinated: ORG
+06/2013: CARDINAL
+LiveEdit: ORG
+LiveEdit: PRODUCT
+Created: ORG
+Aurora: PRODUCT
+05/2012: CARDINAL
+LinkedIn: ORG
+Twitter: PERSON
+State Established: ORG
+Coordinated: ORG
+2002: DATE
+Google Adwords Certified Professional - Valid: ORG
+February 2017: DATE
+Google Analytics Individual Qualification - Valid: ORG
+September 2016: DATE
+Skills
+
+Independent: ORG
+Strong: PERSON
+Handles: ORG
+Communicates: ORG
+Possesses: PERSON

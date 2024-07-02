@@ -1,0 +1,33 @@
+MICHAEL'S ARTS: PERSON
+the next
+year: DATE
+Environmental Technology and Management: ORG
+Michael: PERSON
+Crafts Store: ORG
+March 2017: DATE
+Current Company Name: ORG
+Full-Time Replenishment: ORG
+the Month: DATE
+July: DATE
+February 2016 to March 2017: DATE
+Brier Creek: FAC
+Raleigh: GPE
+NC: GPE
+October 2015: DATE
+June 2015 to February 2016: DATE
+State: ORG
+40 Hour HAZWOPER Certification: TIME
+2015: DATE
+State: ORG
+Dean: PERSON
+List
+Graduated Cum Laude
+Bachelor of Science : Environmental Technology and Management: WORK_OF_ART
+2018: DATE
+North Carolina State University: ORG
+Richard R. Lee Estate: PERSON
+Clayton: GPE
+NC: GPE
+Management
+Inventory Management
+Communication: ORG

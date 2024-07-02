@@ -1,0 +1,84 @@
+9+ years: DATE
+Healthcare: ORG
+Social Services Recruitment: ORG
+Marketing and Staffing: WORK_OF_ART
+Skills: ORG
+Microsoft: ORG
+10+ years: DATE
+Talent Acquisition: ORG
+Talent Management: ORG
+Staffing, Business Development: ORG
+10+ years: DATE
+GROUPS Society for Human Resource Management: ORG
+January 2015: DATE
+English: LANGUAGE
+Russian: NORP
+Partnered with Hiring Managers: WORK_OF_ART
+Directed: ORG
+annual: DATE
+weekly: DATE
+Oversaw: GPE
+11/2015: CARDINAL
+Name City: GPE
+Advise Hiring Managers: WORK_OF_ART
+Research: ORG
+Identify: ORG
+Determine: PRODUCT
+Labor Market: ORG
+today: DATE
+Develop: ORG
+New Business: ORG
+New York: GPE
+Healthcare: ORG
+Healthcare Recruiter: PERSON
+Name City: GPE
+Program Managers: ORG
+Case Workers: ORG
+Social Workers: ORG
+PA: ORG
+Pharmacists: NORP
+Respiratory Therapists Administrative: PERSON
+Physical Therapist: ORG
+Occupational Therapist: ORG
+PTA: ORG
+OTA: ORG
+CareerBuilder: ORG
+Linked: PERSON
+Education Verification: ORG
+Physical and Drug Toxicology Interface: ORG
+daily: DATE
+11/2013: CARDINAL
+Name City: GPE
+Maintained: GPE
+CSE: ORG
+Coordinated with District Administrators: ORG
+Maintained: GPE
+Social Workers: ORG
+Occupational: ORG
+Communicated: ORG
+State: ORG
+Name City: GPE
+State: ORG
+Oversaw: GPE
+Maintained: GPE
+clinicians: NORP
+Staffed: ORG
+Training
+Bachelor: PERSON
+2009: DATE
+LONG ISLAND UNIVERSITY Communications: ORG
+MBA : Business Administration Long Island University-virtual HR: WORK_OF_ART
+Healthcare Management Concentration: ORG
+United States: GPE
+Skills
+Recruiting
+Talent Management
+Account Management
+Business Development and Sales
+ATS: PRODUCT
+Activities and Honors
+Society for Human ResourcesÂ 
+Additional Information
+
+Â Authorized: WORK_OF_ART
+US: GPE

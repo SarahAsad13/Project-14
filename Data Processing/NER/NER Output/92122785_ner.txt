@@ -1,0 +1,77 @@
+BANQUET CHEF
+Professional Summary
+
+: ORG
+seasonally: DATE
+the years: DATE
+Skills
+Work History
+Banquet Chef Sep 2016 - Current 
+Company Name City , State 
+
+The Country Club at Mirasol: WORK_OF_ART
+three: CARDINAL
+Platinum Clubs of Ameri-: ORG
+Distinguished Emerald Club: ORG
+The BoardRoom Magazine: ORG
+12: CARDINAL
+half: CARDINAL
+6 million: CARDINAL
+Sous Chef Aug: PERSON
+2014 - Sep 2016: DATE
+Name City: GPE
+Club: ORG
+Platinum Club: WORK_OF_ART
+one: CARDINAL
+10: CARDINAL
+States: GPE
+1300: DATE
+three: CARDINAL
+5 million: CARDINAL
+Clubs: ORG
+Maryland: GPE
+Jan 1996 -: DATE
+Candle Light Inn: WORK_OF_ART
+200: CARDINAL
+a.
+staff: PERSON
+50: CARDINAL
+Recruit: ORG
+Jan 1990 - Jan 1996: DATE
+Oversaw: GPE
+100: CARDINAL
+5: CARDINAL
+the years: DATE
+America: GPE
+Peter Timmins CMC: PERSON
+Handke CMC: PERSON
+John Johnstone: PERSON
+CMC: ORG
+Lawrence McFadden CMC: PERSON
+Keith: PERSON
+Coughenour CEC: PERSON
+Alex Darvish: PERSON
+CEC: ORG
+Richard Rosendale: PERSON
+CMC: ORG
+the Country Club: ORG
+Marco Lombardini
+: PERSON
+1990: DATE
+Baltimore Culinary College City: ORG
+White Sulphur Springs: PERSON
+West Virginia: GPE
+2012: CARDINAL
+2014: CARDINAL
+Richard Rosendale: PERSON
+2014: CARDINAL
+Richard Rosendale: PERSON
+C.M.C: PERSON
+2016: CARDINAL
+Skills
+ACF: ORG
+Platinum: ORG
+Safety: ORG
+the Country Club: ORG
+Marco: PERSON
+Lombardini: PERSON

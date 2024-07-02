@@ -1,0 +1,132 @@
+Treasury Management
+Business Banking Training: ORG
+Business Finance: ORG
+Achiever: GPE
+SBA Achiever: FAC
+Managing/Communications
+Leadership & Training: ORG
+Mentoring & Coaching Staff: ORG
+Retail & Commercial Banking
+Efficiency Maximization: ORG
+PNC Accel College Day Recruiter & Presenter: ORG
+11%: PERCENT
+1st: DATE
+2nd quarter: DATE
+Exceeded Treasury Management Goals: ORG
+115% - 129%: PERCENT
+2013 Million: CARDINAL
+16: CARDINAL
+Montgomery County: GPE
+50%: PERCENT
+over 100: CARDINAL
+46%: PERCENT
+Completed: ORG
+06/2016: PRODUCT
+VP Company Name: ORG
+annual: DATE
+$1MM- $50MM: MONEY
+annual: DATE
+1MM: MONEY
+Dealer Finance/Commercial Lending: ORG
+County: GPE
+Centers of
+Influence: ORG
+06/2013: CARDINAL
+Business Banking Treasury Management Officer: ORG
+Treasury Management: ORG
+Business Banking duties Â 
+Responsible: ORG
+Treasury Management: ORG
+the GWA Region: EVENT
+Treasury Management: ORG
+Business Bankers: ORG
+Tellers: ORG
+Financial Sales Consultants: ORG
+Treasury: ORG
+Treasury Management: ORG
+PNC Bank: ORG
+10/2010: DATE
+06/2013: CARDINAL
+annual: DATE
+$1MM- $: MONEY
+25MM: MONEY
+Centers of Influence: ORG
+treasury: ORG
+10/2010: CARDINAL
+TFCJ: ORG
+Select Employee Groups: ORG
+the Anne Arundel: FAC
+Howard County: GPE
+Companies: ORG
+over 50%: PERCENT
+Branch Platform Banker Company Name: LAW
+ATM: ORG
+Cash Management Analyst/Cash Management Officer Company Name: ORG
+the Commercial Real Estate and Business Banking: ORG
+monthly: DATE
+Maryland: GPE
+DC Regions: ORG
+Cash Management: ORG
+ATM: ORG
+ATM: ORG
+Reduced Bank: ORG
+12%: PERCENT
+more than 50: CARDINAL
+University of Phoenix: ORG
+Fairleigh Dickinson University: ORG
+B.S :: ORG
+Business Management Business Management
+Principals of Banking/Laws of Banking Management - Relationship Operations/ Retail Banking/ Business Banking: ORG
+2018: DATE
+State: GPE
+USA
+Leadership & Professional Affliations
+- Howard County Academy of Finance Board - Board: ORG
+2010: DATE
+Board - Board: ORG
+2010: DATE
+2010: DATE
+2010: DATE
+2012: CARDINAL
+2008: DATE
+The Ray Lewis Foundation - Finance: ORG
+2003: DATE
+2016: DATE
+Technical Skills
+Sales Force: ORG
+Sales Prism: GPE
+Ncino: GPE
+Oracle: ORG
+Genesis Customer Relationship Management System: ORG
+Siebel Systems: ORG
+400: CARDINAL
+Microsoft Office XP: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+MS Access 2.0: ORG
+Microsoft Outlook: ORG
+IBM: ORG
+Series: EVENT
+Lotus Notes: PRODUCT
+4.1: CARDINAL
+5: CARDINAL
+Maxaar System: ORG
+Apollo System: ORG
+Display Write: PERSON
+6.1: CARDINAL
+6.2: CARDINAL
+Facts: ORG
+Branch Suite: PERSON
+Base 2000: DATE
+Bank Pro, Hogan System: ORG
+Host System: ORG
+Symitar: ORG
+SEG Manager: ORG
+Banker: ORG
+Metavante: PERSON
+CRT Computer: ORG
+AT&T Encore: ORG
+IBM Compatible PC: ORG
+AFS System: ORG
+Rolm
+Switchboard: PERSON

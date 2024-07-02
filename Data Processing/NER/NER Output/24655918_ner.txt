@@ -1,0 +1,37 @@
+30 years: DATE
+Grew: PERSON
+Stanley Martin: PERSON
+Ryan Homes: PERSON
+Dan
+Ryan Homes: PERSON
+3: CARDINAL
+one: CARDINAL
+Keyed: GPE
+Pace Software: GPE
+FC7500 Plotter
+
+01/2005: WORK_OF_ART
+Spearheaded: ORG
+Collaborated: ORG
+daily: DATE
+Created: ORG
+Processed Estimates: ORG
+Price Proposals & Invoices: ORG
+Quick Books: ORG
+Ioline Graphics Plotter: ORG
+HP 5500: PRODUCT
+Liberal Arts Florida State University: ORG
+Panama Canal Branch
+Visual Communications Art Institute of Pittsburgh: ORG
+State Associates Degree
+: ORG
+Adobe Illustrator CC & CS6: ORG
+Corel Draw x7: ORG
+Microsoft Office Suite: ORG
+Omega: PERSON
+Printers: PRODUCT
+DesignJet: GPE
+Vinyl Plotters: PERSON
+Graphtec: NORP
+Ioline: GPE
+7500: CARDINAL

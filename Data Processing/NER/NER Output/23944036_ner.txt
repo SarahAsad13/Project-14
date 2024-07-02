@@ -1,0 +1,74 @@
+HEALTHCARE: ORG
+November 2012 to September 2015: DATE
+Name City: GPE
+State Healthcare Clinical Analyst: ORG
+Medicare: ORG
+January 2011 to November 2012: DATE
+Name City: GPE
+State: ORG
+National: ORG
+Battelle: ORG
+the University of Florida: ORG
+QA: ORG
+twenty: CARDINAL
+January 2007 to January 2011: DATE
+Name City: GPE
+State Oncology Nurse: ORG
+January 2005 to January 2007: DATE
+Name City: GPE
+State GI Infusion Nurse: ORG
+January 2002 to January 2003: DATE
+Name City: GPE
+State Clinical Research Coordinator: ORG
+IRB: ORG
+twenty: CARDINAL
+January 1999 to January 2001: DATE
+Name City: GPE
+State FAST Program Coordinator: ORG
+Schools Together: PERSON
+Jacksonville: GPE
+January 1997 to January 1998: DATE
+Name City: GPE
+State Research Coordinator: ORG
+the Fred Hutchinson Cancer Research
+Center: FAC
+the Moffitt Cancer Center and Research Institute: ORG
+the Norris Cotton Cancer Center: ORG
+a Study of Cancer Survivors: WORK_OF_ART
+the Behavioral Research Database: ORG
+12/2005: CARDINAL
+Florida State College: ORG
+ADN: ORG
+5/1998: CARDINAL
+Emory University 
+Health: ORG
+Behavioral Research 
+Masters of Public Health: ORG
+5/1995: CARDINAL
+Harvard University 
+Special Student Program: ORG
+5/1994: CARDINAL
+Emory University 
+Psychology 
+BA: ORG
+D.: NORP
+Baker: PERSON
+Denniston: GPE
+M.: GPE
+Winter: DATE
+2004: DATE
+Cancer Control: PERSON
+11(6):404-10: CARDINAL
+D.: NORP
+Winter: DATE
+K.: NORP
+1999: DATE
+the Center for Epidemiological Studies Depression Scale: ORG
+Journal of Psychosomatic Research: ORG
+May 46(5: DATE
+43: DATE
+Skills: ORG
+Cancer: PERSON
+Database: GPE
+QA: ORG
+Research: ORG

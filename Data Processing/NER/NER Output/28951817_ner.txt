@@ -1,0 +1,76 @@
+3 years: DATE
+5+ years: DATE
+Allocated: ORG
+monthly: DATE
+1000: MONEY
+Muslim Students Association's: ORG
+Wing's Program: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Adobe: PERSON
+Suite: PERSON
+SQL Database: GPE
+SAS: ORG
+English: LANGUAGE
+Urdu: GPE
+Functional: GPE
+Spanish: NORP
+Data Management
+Excellent: ORG
+Time: ORG
+Work History
+Health Revenue Specialist: WORK_OF_ART
+02/2019: PERSON
+Verifies: GPE
+12/2018: CARDINAL
+Communicated: ORG
+Created PowerPoint: ORG
+Monitored: ORG
+06/2016: ORG
+08/2016: CARDINAL
+Shadow: PRODUCT
+Organize: GPE
+daily: DATE
+08/2016: CARDINAL
+Assist: NORP
+Bachelor of Science : Community Health: ORG
+2017: DATE
+University Of Illinois: ORG
+Urbana-Champaign - City: ORG
+Pakistani Students Association: ORG
+2016: DATE
+Fundraising Chair: ORG
+Muslim Students Association: ORG
+2016: DATE
+Coursework in Health Planning, Health Administration and Health Finances: ORG
+Health Data Analysis: ORG
+Healthcare Systems: ORG
+2018: DATE
+College Of DuPage - City: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Adobe: PERSON
+Suite: PERSON
+SQL Database: GPE
+SAS: ORG
+English: LANGUAGE
+Urdu: GPE
+Functional: GPE
+Spanish: NORP
+Data Management
+Excellent: ORG
+Time: ORG
+Work History
+Consultant: WORK_OF_ART
+12/2018: CARDINAL
+Collaborated: ORG
+Intern: ORG
+05/2018: GPE
+Communicated: ORG
+06/2016: ORG
+08/2016: CARDINAL
+Shadow: PRODUCT
+Organize: GPE
+daily: DATE
+08/2016: CARDINAL
+Assist: NORP

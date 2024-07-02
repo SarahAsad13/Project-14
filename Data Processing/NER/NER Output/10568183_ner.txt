@@ -1,0 +1,88 @@
+OA: GPE
+2: CARDINAL
+Detail: PERSON
+Accomplishments
+Certificate of Acheivement: WORK_OF_ART
+12/2015: CARDINAL
+Current
+Medical Support: ORG
+OA: ORG
+2: CARDINAL
+32,918: MONEY
+40 hours: TIME
+Dwight Huddleston Â Â 
+Service: PERSON
+20000: CARDINAL
+Enters: LOC
+managersÂ 
+: PERSON
+Screen: ORG
+3: CARDINAL
+Knowledgeable of Â Defense Civilian Payroll System: WORK_OF_ART
+Automated Time: PERSON
+Attendance Production System: ORG
+Civilian
+Personnel OnLine: PERSON
+CPOL: ORG
+Microsoft: ORG
+MS
+Access: ORG
+MS Powerpoint: PERSON
+MS Excel: ORG
+MS Word: PERSON
+Composite Health Care System: ORG
+CHCS: ORG
+Allied
+Health Longitudinal Technology Application: ORG
+AHLTA: ORG
+Defense Manpower Human Resource System Information: ORG
+10/2013: CARDINAL
+Healthcare: ORG
+18,000: MONEY
+Supervisor: America Gurrero: WORK_OF_ART
+915: CARDINAL
+FSA/HRA: ORG
+Cobra: PERSON
+minutes: TIME
+08/2012: CARDINAL
+34,000.00: MONEY
+40 hours/week: TIME
+252: CARDINAL
+493-4081: CARDINAL
+Technical Representative Company Name: ORG
+18,000: CARDINAL
+40 hours/week: TIME
+Supervisor: PERSON
+Shana Jones: PERSON
+Arranged: PERSON
+12/2001: CARDINAL
+Pharmacy Technician Company Name: ORG
+15,000: MONEY
+40 hours/week: TIME
+Tiffany Bowman: PERSON
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+10/1997 to 11/2000: CARDINAL
+Bookkeeper Company Name: ORG
+20,000.00: MONEY
+40 hours/week: TIME
+Supervisor: PERSON
+Milton Hagan: PERSON
+cashier tills: PERSON
+2016: DATE
+State: GPE
+United States Health Care
+Administration/Healthcare Management: ORG
+3.7: CARDINAL
+5/10/2011: CARDINAL
+Medical Office Administration Fayetteville Tech Community College: ORG
+State: GPE
+United States Medical Office Administration: ORG
+3.0: CARDINAL
+Melissa Arnold: PERSON
+910: CARDINAL
+Tomeka Haddock: WORK_OF_ART
+252: CARDINAL
+Stephanie Williams: PERSON
+910-489-3215: CARDINAL

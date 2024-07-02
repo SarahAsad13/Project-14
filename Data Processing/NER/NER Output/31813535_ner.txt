@@ -1,0 +1,95 @@
+SR: ORG
+Disaster
+Recovery: PERSON
+Microsoft Office: ORG
+Guest: PERSON
+Lee County: PERSON
+Guide: GPE
+Zoom Text: PERSON
+Jaws: PERSON
+EH&S: ORG
+Private Pilot: ORG
+8+ years: DATE
+Skills
+
+Risk: ORG
+Team: ORG
+Client: GPE
+Strong: PERSON
+Team: ORG
+Work History
+Sr. Business Development Director , 01/2014: WORK_OF_ART
+12%: PERCENT
+12/2012: CARDINAL
+Xerox: GPE
+1.8 million: CARDINAL
+one physical year: DATE
+Devised: ORG
+Xerox: ORG
+Europe: LOC
+USA: GPE
+4: CARDINAL
+15: CARDINAL
+Xerox: ORG
+Poland: GPE
+3: CARDINAL
+Quality Engineering Analyst: ORG
+01/2011: CARDINAL
+Six Sigma: PERSON
+Six Sigma: PERSON
+20: CARDINAL
+Six: CARDINAL
+Root Cause Analysis: ORG
+NASA: ORG
+Lockheed: ORG
+US: GPE
+Coordinated Six Sigma: ORG
+NASA: ORG
+Gold Standard': ORG
+1.5: MONEY
+RS-25: CARDINAL
+X-51 Hypersonic: PRODUCT
+Nuclear and Electric ION: WORK_OF_ART
+F119: PRODUCT
+F135: ORG
+NASA: ORG
+Quality Engineering Analyst: ORG
+the Advanced Projects Group - Radar: ORG
+Ku: PRODUCT
+Nozzle: PERSON
+F-22 F119: ORG
+F-35 F135: PRODUCT
+IR: ORG
+Radar: PRODUCT
+Nispom: GPE
+Provided department business development: ORG
+Distributed Computer Systems Analyst / Network Administrator: ORG
+more than 200: CARDINAL
+5: CARDINAL
+Microsoft Windows: ORG
+Coordinated: ORG
+Skills
+
+Â Budget: ORG
+Microsoft Windows: ORG
+Radar: PRODUCT
+Six Sigma: PERSON
+Business Administration Management: ORG
+Argosy University - City: ORG
+State: ORG
+2004: DATE
+Embry Riddle University - State: ORG
+1984: DATE
+Southern Adventist University - City: ORG
+2009: DATE
+Eagle
+Award: ORG
+Space Shuttle: PERSON
+2006 - 2008: DATE
+500,000: MONEY
+2002: DATE
+F22 & F35: ORG
+2001: DATE
+Pratt & Whitney: ORG
+2000: DATE
+Six: CARDINAL

@@ -1,0 +1,131 @@
+DIGITAL M&E RESEARCH INTERN
+: ORG
+Skills
+Microsoft Office Suite: ORG
+Venture Capital Financial Model Interests: Entrepreneurship, Mentoring, Education: ORG
+Basketball, Strength Training: ORG
+Venture Capital: ORG
+Interests: NORP
+Rotterdam & Berlin: FAC
+June 2015 - June 2015: DATE
+Rotterdam: GPE
+Berlin: GPE
+two weeks: DATE
+USA National: ORG
+Sept. 2014 - Mar. 2015: DATE
+26,000: MONEY
+3,800: MONEY
+KIPP Through College: ORG
+Greenfield: PERSON
+Intercultural Center: FAC
+three-day: DATE
+390: CARDINAL
+the US Â: ORG
+Dominican: NORP
+BYU Professor Alba: ORG
+Ferreira CAMPUS INVOLVEMENT: PERSON
+Dominican Student Association: ORG
+Dec. 2014 - Dec. 2016: DATE
+800: MONEY
+Dana: PERSON
+Sept. 2013 - Sept. 2016: DATE
+Volunteer: PERSON
+West Philadelphia: GPE
+Sept. 2015 - Sept. 2016: DATE
+West Philadelphia: GPE
+MoneyThink: ORG
+Active Mentor: PERSON
+Sept. 2015 - Sept. 2016: DATE
+Philadelphia: GPE
+Digital M&E Research Intern: ORG
+May 2016 to August 2016: DATE
+Evaluated Big Data: ORG
+September 2015 to December 2015: DATE
+five-year: DATE
+50: CARDINAL
+700: CARDINAL
+11%: PERCENT
+May 2015 to August 2015: DATE
+Analyzed: PERSON
+daily: DATE
+monthly: DATE
+5: CARDINAL
+TheStreet: ORG
+Inc.: GPE
+Financial Content
+Network: ORG
+Banco del Austro: ORG
+Loans & Credit Card Intern: ORG
+Cuenca: GPE
+Ecuador: GPE
+July 2014 - Aug.
+2014: DATE
+Excel: PRODUCT
+Completed: ORG
+Training
+Bachelor of Science : Economics Management: PERSON
+The Wharton School: ORG
+University of Pennsylvania: ORG
+State Economics: ORG
+3.45 3.06: CARDINAL
+Acquisitions: ORG
+Growth Companies, Management: ORG
+Venture Capital Finance: ORG
+Wharton Industry Exploration Program: ORG
+San Francisco & Tech Sector Â·: ORG
+New York Times Scholar: ORG
+one: CARDINAL
+eight: CARDINAL
+800: CARDINAL
+NY Times: ORG
+Languages
+Fluent: WORK_OF_ART
+Spanish: NORP
+Skills
+Acquisitions: ORG
+Big Data: ORG
+Corporate Finance: ORG
+Credit: ORG
+Finance: ORG
+Financial: ORG
+Java, Mentoring, Excel: ORG
+Microsoft Office: ORG
+Suite: ORG
+Network 2.0: LAW
+San, Fluent: GPE
+Spanish: LANGUAGE
+Venture Capital: ORG
+Venture Capital: ORG
+EXTRACURRICULARS Penn: PERSON
+Rotterdam & Berlin June
+: FAC
+2015 - June 2015: DATE
+Rotterdam: GPE
+Berlin: GPE
+two weeks: DATE
+USA National Dominican Student Conference, Officer of Logistics and Finances: ORG
+2014 - Mar. 2015: DATE
+26,000: MONEY
+3,800: MONEY
+KIPP Through College: ORG
+Greenfield Intercultural Center: ORG
+three-day: DATE
+390: CARDINAL
+the US Â: ORG
+Dominican: NORP
+BYU Professor Alba: ORG
+Ferreira CAMPUS: PERSON
+Dominican Student
+Association: ORG
+Dec. 2014 - Dec. 2016: DATE
+800: MONEY
+Sept. 2013 - Sept. 2016: DATE
+Volunteer: PERSON
+West Philadelphia: PERSON
+Sept. 2015 - Sept. 2016: DATE
+West Philadelphia: GPE
+MoneyThink: ORG
+Sept. 2015 - Sept.
+
+2016 Â: DATE
+Philadelphia: GPE

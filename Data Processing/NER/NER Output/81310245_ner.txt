@@ -1,0 +1,60 @@
+BUSINESS DEVELOPMENT EXECUTIVE: ORG
+Writing Skills Â 
+
+Wrote: PERSON
+Researched: ORG
+Established: ORG
+Coordinated: ORG
+Business Development Executive 01/2010: ORG
+Utilized: ORG
+IRIS: ORG
+Lessor's Risk Commercial Property: ORG
+Liability Insurance: ORG
+Lloyd's of London: ORG
+Bermuda: GPE
+the Cayman Islands: GPE
+Emphasized: PERSON
+IRIS: ORG
+50: CARDINAL
+more than 500: CARDINAL
+monthly: DATE
+900%: PERCENT
+Prepared: PERSON
+Account Executives and Producers: ORG
+Created: ORG
+Acted: ORG
+IRIS: ORG
+01/2010 Company Name City: EVENT
+daily: DATE
+Marking Intern 01/2009 Company Name: ORG
+three: CARDINAL
+the Bay Area: LOC
+KNBR: ORG
+101.7: CARDINAL
+K-Fog: ORG
+KNBR: ORG
+Banquet Server: ORG
+Food Server: ORG
+five years': DATE
+3%: PERCENT
+California State University: ORG
+East Bay: LOC
+2009: DATE
+1996-2009: DATE
+Excellent Student of the Year: WORK_OF_ART
+2003-2004: DATE
+CSU: ORG
+East Bay: LOC
+The Pioneer: WORK_OF_ART
+2007-2009: DATE
+Bachelor of Arts: ORG
+2009: DATE
+California State University City Communication: ORG
+1 2007: DATE
+Diablo Valley College: ORG
+California State University City: ORG
+3%: PERCENT
+Graduated Magna Cum Laude: ORG
+3%: PERCENT
+Property and Casualty License: ORG
+1 1: CARDINAL

@@ -1,0 +1,28 @@
+FREELANCE: GPE
+nearly eight years: DATE
+Layout: GPE
+Adobe Photoshop: PERSON
+Design: GPE
+Acrobat: PERSON
+Microsoft Windows: ORG
+Word: PERSON
+Excel: PRODUCT
+Dreamweaver: ORG
+Quark: GPE
+Freelance Graphic Designer: PERSON
+01/2011: CARDINAL
+Brochure Design: ORG
+01/2004: CARDINAL
+Maintained: GPE
+daily: DATE
+01/2004: CARDINAL
+five: CARDINAL
+Acrobat: PERSON
+Dreamweaver: ORG
+Adobe Photoshop: PERSON
+Brochure Design: ORG
+Layout: GPE
+Excel: PRODUCT
+Microsoft Windows: ORG
+Word: PERSON
+Quark: ORG

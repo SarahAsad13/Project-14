@@ -1,0 +1,86 @@
+Skills
+
+Excellent: ORG
+Complex: NORP
+Print: GPE
+Complex: NORP
+Superb: NORP
+Adobe CS6
+Website: PERSON
+Print: FAC
+CSS: ORG
+Work History
+Owner: WORK_OF_ART
+Graphic Designer: PERSON
+HTML: ORG
+PHP: ORG
+DTG: ORG
+Translated: ORG
+Maintained: GPE
+Warner Bros.: ORG
+Disney: ORG
+Hasbro Â: ORG
+Maintained: GPE
+Designers: GPE
+Created Licensed: PERSON
+Superman: PERSON
+Maintained: GPE
+02/2002: ORDINAL
+labels &
+hangtags: ORG
+Translated: ORG
+Maintained: GPE
+Bachelor of Arts: ORG
+5 2012: DATE
+Hebert H. Lehman College - City: PERSON
+Sketching, Drawing: WORK_OF_ART
+Advanced Illustration: ORG
+Social psychologyÂ 
+Statistics
+
+Certificate: FAC
+Graphic Specialist Certificate: ORG
+The Mac Learning Center - City: ORG
+Vocational Certificate
+Coursework: PERSON
+Digital Design Certificate
+
+Certificate: ORG
+Pattern makingÂ 
+Sewing
+Sketching
+
+Certificates in Fashion: ORG
+917-773-6397: CARDINAL
+Award Nominee: PERSON
+Honorary: PERSON
+Graphic Designer: PERSON
+XZ: ORG
+ZX: ORG
+DC  DC: GPE
+Max: PERSON
+ActionScript: PERSON
+Adobe: PERSON
+Photoshop: PERSON
+Corel Draw: ORG
+CSS: ORG
+Dreamweaver: ORG
+Fashion: WORK_OF_ART
+Flash: PERSON
+Graphic Designer: PERSON
+Graphic: PERSON
+UX: ORG
+HTML: ORG
+Illustrator: ORG
+InDesign: ORG
+Maya: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Suite: ORG
+PowerPoint: ORG
+Word, Developer: ORG
+Photography: GPE
+PHP: ORG
+Quark Express: ORG
+Research: ORG
+Technician: NORP

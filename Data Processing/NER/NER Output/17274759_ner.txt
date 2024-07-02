@@ -1,0 +1,76 @@
+Inventory Management Specialist: ORG
+Logistics Management Specialist: ORG
+Supply Management
+Specialist: ORG
+Name City: GPE
+State: ORG
+Concepts of Logistics Management: ORG
+more than $5 million: MONEY
+Subordinates on Logistics and Supply Operations: ORG
+the Property Book Enhanced System: LAW
+Name City: GPE
+State: ORG
+Command: ORG
+the Department of the Army Regulations: ORG
+monthly: DATE
+Status Readiness: PERSON
+Name City: GPE
+State: ORG
+two: CARDINAL
+Brigade: ORG
+Theater: ORG
+Army Maintenance Management: ORG
+Supply Chain Management to Superiors and Subordinates: ORG
+Department of the
+Army: ORG
+Name City: GPE
+the Brigade Property Book Supervisor: ORG
+daily: DATE
+monthly: DATE
+Annual: DATE
+August 1, 2014: DATE
+Skills
+
+Logistics Forecasting/Planning: ORG
+Supply Chain Management, Inventory Management, Logistics Management: ORG
+Purchasing/Procurement: ORG
+QA/QC: ORG
+Record Organization/Maintenance, Strategic Planning: ORG
+Multi: GPE
+Operations: ORG
+Multi: GPE
+Operations: ORG
+Data Entry Process, Documentation: ORG
+Proofreading/Editing, File System Development, Written and Oral Communication: WORK_OF_ART
+Excel: PRODUCT
+Powerpoint: ORG
+Property Book Unit
+: ORG
+Supply Enhanced: WORK_OF_ART
+Property ManagementPrograms: PERSON
+WBFLIS: ORG
+LOGDAT: ORG
+Logistics Information Warehouse: ORG
+SSN: ORG
+Automated Management & Integrating System: ORG
+FEDLOG: NORP
+FAAST, Exchange Pricing: ORG
+FMSWEB: ORG
+General Fund Enterprise Business
+System: ORG
+Wright Express: PERSON
+Battalion and Brigade Level: ORG
+Staff Operations: ORG
+Brigade Combat Teams: ORG
+40 wpm: QUANTITY
+2013: DATE
+State: GPE
+US: GPE
+Technical Certificate, Planning, Program, Bugdeting, Executive :: ORG
+2008: DATE
+State: GPE
+US: GPE
+2007: DATE
+Property Book Unit Supply Enhanced: LAW
+State: GPE
+US: GPE

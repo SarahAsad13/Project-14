@@ -1,0 +1,118 @@
+Conduct: PERSON
+Attend IPP: FAC
+IEP: ORG
+Keep: PERSON
+NCLR: ORG
+Strategized: PERSON
+Community Organizer/Founder: ORG
+Organized: ORG
+Collaborated: ORG
+85+: CARDINAL
+300: CARDINAL
+100k: PRODUCT
+Community Organizer 01/2008: ORG
+Name City: GPE
+Collaborated: ORG
+Strategized: PERSON
+Name City: GPE
+Strategized: PERSON
+Maintained: GPE
+Family Advocate: PERSON
+Facilitated: ORG
+Facilitated: ORG
+JD: PERSON
+Organizational Communication Nonprofit Management: ORG
+St. Edward's: GPE
+University People's College of Law City: ORG
+State Organizational
+Communication Nonprofit Management: ORG
+Advocacy 4 Kids: PERSON
+Virginia Beach: GPE
+VA: GPE
+2015: DATE
+Board: ORG
+Council of Attorneys,: ORG
+Parents: GPE
+2009-current: DATE
+2012: DATE
+Latina Mami Los
+Angeles: PERSON
+Special Education Legal Clinics: ORG
+2011-current: DATE
+Community Now: ORG
+2008-2010: DATE
+Mamis of Color: WORK_OF_ART
+91.7: CARDINAL
+2001-2009: DATE
+Board: ORG
+Texans: NORP
+2001-2002: DATE
+Committee Chair: ORG
+Board: ORG
+KOOP Radio: ORG
+2005-2006: DATE
+Advisory Committee & Bilingual Committee: ORG
+2005-2008: DATE
+Member,: DATE
+March of Dimes Program Services: ORG
+1999-2004: DATE
+NCLR Latino Leadership Institute: ORG
+The Emotional Aspects of Working With Parents of Children: ORG
+Affecting Your Community: ORG
+Social Justice: ORG
+Civil Rights Perspective: ORG
+2015: DATE
+San Diego: GPE
+CA: ORG
+Xicana Mamihood & Activism: Responses to Violence: ORG
+Communities: ORG
+Chicago: GPE
+IL: GPE
+2010: DATE
+Latina Mami: PERSON
+Cristina Herrera: PERSON
+The 21st: DATE
+Century Motherhood
+Movement: ORG
+Demeter Press: PERSON
+2005: DATE
+Latina Magazine: PERSON
+2005: DATE
+one: CARDINAL
+Austin: PERSON
+10: CARDINAL
+Austin Monthly Magazine: ORG
+2004: DATE
+the Year Finalist 2002: EVENT
+Mamis of Color: WORK_OF_ART
+KOOP Social Justice Program: ORG
+COMMUNITY INVOLVEMENT Board: ORG
+4: CARDINAL
+Virginia Beach: GPE
+VA: GPE
+2015: DATE
+Board: ORG
+Council of Attorneys,: ORG
+Parents: GPE
+2009: DATE
+2012: DATE
+Latina Mami: PERSON
+Los Angeles: GPE
+2011-current: DATE
+Community Now: ORG
+2008-2010: DATE
+Mamis of Color: WORK_OF_ART
+91.7: CARDINAL
+2001-2009: DATE
+Board: ORG
+Texans: NORP
+2001-2002: DATE
+Board: ORG
+KOOP Radio: ORG
+2005-2006: DATE
+Advisory Committee & Bilingual Committee: ORG
+2005-
+2008: DATE
+Member,: DATE
+March of Dimes Program Services: ORG
+1999-2004: DATE

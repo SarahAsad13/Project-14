@@ -1,0 +1,256 @@
+DIRECTOR: ORG
+21-year: DATE
+13-year: DATE
+Strength: GPE
+Athletic Performance Executive: ORG
+High-School: ORG
+Skill Highlights: PERSON
+NSCA: ORG
+09: CARDINAL
+NSCA: ORG
+16-Present: DATE
+NSCA: GPE
+Colorado: GPE
+11-12: CARDINAL
+EXOS: ORG
+Formerly Athlete's: ORG
+05-2010: DATE
+10-Present: DATE
+09-Present: DATE
+09-Present: DATE
+Power Plate Academy Certified: ORG
+09-Present: DATE
+Internationally Recognized Speaker for the NSCA: WORK_OF_ART
+Keiser Corp: ORG
+08-Present: DATE
+Coaches Education: ORG
+SSCV: ORG
+10-Present: DATE
+Facilities and Operations Minturn Fitness Center: ORG
+14-: CARDINAL
+Noted Accomplishments
+
+Women's FIS Team Coach: WORK_OF_ART
+USST: GPE
+the 2 year: DATE
+1997-: CARDINAL
+99: CARDINAL
+USST Disabled/Paralympic Alpine Coach: ORG
+the Year 2005: DATE
+55-Hour: TIME
+Ski: ORG
+Vail Full: PERSON
+120: CARDINAL
+2009: DATE
+Human Performance Program for SSCV: ORG
+Strength: PERSON
+Conditioning, Sport Psychology,: ORG
+2009: DATE
+the Minturn Fitness Center: ORG
+General Population, Junior: ORG
+High-School: ORG
+2014-16: CARDINAL
+the NFL Combine: ORG
+Indianapolis: GPE
+"Power Training for Olympic Success: WORK_OF_ART
+Spring 2014: DATE
+Aug 2013 to: DATE
+2017: DATE
+Nation: ORG
+first: ORDINAL
+half: CARDINAL
+half: CARDINAL
+Performance Training
+Athletic Facility: PERSON
+the Town of Minturn: ORG
+Ski: ORG
+Snowboard Club Vail: ORG
+Sponsorships: PERSON
+Facility Design, Construction, Equipment, Staffing: ORG
+Uniforming: ORG
+Provide Operational Oversight: WORK_OF_ART
+Programming: GPE
+Zone Layout: PERSON
+Organizational Philosophies: ORG
+Strategies and Recruitment and Hiring: ORG
+Administrative and Coaching Staff: ORG
+Provide Budgetary Oversight: PRODUCT
+Salaried Payroll: ORG
+Relevant Fee Structures: PERSON
+Profit: PRODUCT
+Loss: PERSON
+May 2010: DATE
+Mar 2017: DATE
+SSCV: ORG
+Strength: PERSON
+Conditioning, Sport Psychology, Nutrition, Athletic Programming through Periodization: ORG
+Program
+Design: ORG
+Data Compilation and Analysis and Medical Coordination and Intervention Strategies: ORG
+Recruiting: GPE
+Integration and Collaboration: ORG
+SSCV: ORG
+LTAD: ORG
+Industry-Leading: ORG
+55 hour: TIME
+Continuing Education Program: ORG
+Organization of facilities: ORG
+Recruitment of Industry Professionals: ORG
+Leadership, Sport Performance Strategies, Communication Strategies: ORG
+Annual Operational Expectations: WORK_OF_ART
+Annual: DATE
+FIS: ORG
+the FIS World Cup: ORG
+FIS World Championships: ORG
+Beaver Creek: FAC
+Colorado: GPE
+Design of Safety Systems: ORG
+Strength: GPE
+Conditioning Apr 2005: PERSON
+Apr: PERSON
+2010: DATE
+first: ORDINAL
+Strength: GPE
+Snowboard Club: ORG
+Startup Facility Responsibilities: WORK_OF_ART
+Position Responsibilities: ORG
+Strength: GPE
+5: CARDINAL
+Snow Sport: PERSON
+Facility Scheduling for Team and Individual Training: ORG
+Injury Management through Strategic Partnerships: ORG
+Athlete Testing and Data Compilation for Presentation and Review: ORG
+Annual: DATE
+FIS: ORG
+the FIS World Cup: ORG
+FIS World Championships: ORG
+Beaver Creek: FAC
+Colorado: GPE
+Design of Safety Systems: ORG
+Strength: PERSON
+Alpine Coach: PERSON
+2001: DATE
+May 2004: DATE
+Alpine Coach: PERSON
+United States: GPE
+Disabled/Paralympic Ski Team Designed: ORG
+World Cup: EVENT
+Paralympic: GPE
+Coordinated: ORG
+USOC Sport Science: ORG
+Coordinated: ORG
+Howard Head Sport Medicine: PERSON
+Vail: GPE
+PSIA: ORG
+USSCA: ORG
+Coordinated: ORG
+Maintained: GPE
+National: ORG
+FIS: ORG
+International World Cup: ORG
+XPS: ORG
+2017: DATE
+ï¼​ City: GPE
+State: GPE
+Conditioning Coach Certification: ORG
+State: ORG
+USA: GPE
+Distinction: ORG
+10 year: DATE
+Conditioning Coach Certification 2011 National Strength: ORG
+State: GPE
+5 year: DATE
+2010: DATE
+Formerly Athlete's Performance: ORG
+State: GPE
+First: ORDINAL
+Level IV AP: PERSON
+Conditioning Specialist: ORG
+2009: DATE
+State: GPE
+2007: DATE
+Formerly Athlete's Performance: ORG
+State: GPE
+Formerly Athlete's Performance: ORG
+State: GPE
+Conditioning Specialist 2006 National Strength: ORG
+State: GPE
+2005: DATE
+Formerly Athlete's Performance: ORG
+State: GPE
+USA: GPE
+2000: DATE
+United States Olympic Committee: ORG
+State: GPE
+1998: DATE
+State: GPE
+1996: DATE
+Ski and Snowboard Association: ORG
+State: GPE
+English/Communications: EVENT
+1992: DATE
+New England College: ORG
+State: GPE
+USA: GPE
+4-Year: DATE
+the New England College: ORG
+Alpine Ski Team: PERSON
+4-Year: DATE
+the New England College MCLA Men's Club Lacrosse Team
+
+Affiliations
+
+Ski and: ORG
+the Minturn Fitness Center: ORG
+124: CARDINAL
+annually)Â 
+EXOS: PERSON
+Formerly Athlete's Performance: ORG
+Level IV AP: PERSON
+NSCA: ORG
+Colorado State: ORG
+Presenter: PERSON
+Regional: ORG
+National and International Clinics and Conferences: ORG
+Keiser Corporation Consulting: ORG
+National and International Conferences: ORG
+USSA: ORG
+Level 2 Sport Science Coach: PERSON
+Level 2 Referee - Presently Consult: PERSON
+Conditioning Performance and Education Programming for Junior: ORG
+USSA Center of Excellence
+Staff: ORG
+Keiser Power Summit - Toronto: PERSON
+Feb 2015: DATE
+Block Power Training for Olympic Success: WORK_OF_ART
+Fortius Power Summit - Vancouver Feb 2015: ORG
+Periodization for Power Performance: WORK_OF_ART
+Jan 2015: DATE
+Utilization of Power Training for Performance"
+
+Featured Speaker: WORK_OF_ART
+Block Power Training for Olympic Success: WORK_OF_ART
+USSA Congress - UT: ORG
+May 2011: DATE
+Performance Training for Club Programs: WORK_OF_ART
+NSCA: GPE
+Colorado State Clinic - CO: ORG
+June 2010: DATE
+"Power in Young Athletes: WORK_OF_ART
+NSCA Arizona State Clinic - AZ Oct: ORG
+2009: DATE
+Periodization Strategies for Power"
+
+Featured Speaker:: WORK_OF_ART
+Denver University: ORG
+FMS: Why, Where and How" FMS: Corrective Exercise Strategies: WORK_OF_ART
+PSIA Adaptive Copper Mt. Fall: ORG
+Oct 2004: DATE
+Building Strength and Conditioning Programming for the Paralympic Athlete: WORK_OF_ART
+Networking, Collaboration, Sponsorship and Partnerships: ORG
+Direction and Education of Staff: ORG
+Problem-Solving and Evaluation of Staff: ORG
+Sport Performance Technology: ORG
+Testing and Evaluation Technology: ORG
+MAC: ORG
+Windows: NORP

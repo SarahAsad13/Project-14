@@ -1,0 +1,66 @@
+Applicant Screening: PERSON
+Background Checks: ORG
+Employee
+Relations, Event Planning: ORG
+Full-Cycle Recruitment: ORG
+Performance Evaluations: ORG
+Training and Development: ORG
+Employee Diversity Council: ORG
+Kindred Healthcare: ORG
+2009-2010: DATE
+50%: PERCENT
+a year: DATE
+Kindred Healthcare: ORG
+Month-2005: PERSON
+Academic Counselor, University of Phoenix: ORG
+Xerox Corporation: ORG
+Total Quality Management Training-1999: ORG
+Xerox Document University: ORG
+January 2014: DATE
+Current HR Coordinator: ORG
+the Alternative School: ORG
+REAL School: ORG
+Seeks: PERSON
+Ensures: LOC
+Ensures: LOC
+Federal and State: ORG
+Richmond: GPE
+Counsels: ORG
+Travels: ORG
+35%: PERCENT
+January 2011 to January 2014: DATE
+the Employee Relations Hotline: ORG
+the Investigation Process: ORG
+the Grievance Coordinator: ORG
+HRIS: ORG
+January 2007 to January 2010: DATE
+CFO: ORG
+the Senior Leadership Committee: ORG
+Coordinated: ORG
+the Employee of: PRODUCT
+Conducted: ORG
+Monitored: ORG
+Maintained: GPE
+Hosted: ORG
+January 2006 to January 2007: DATE
+Maintained: GPE
+OSHA: ORG
+Leave of Absences: ORG
+Human Resource: ORG
+Coordinated: ORG
+Achievement/Recognition: ORG
+2011: DATE
+University of Phoenix December, 2006 MBA : Human Resources Management Human Resources Management
+Old Dominion University: ORG
+May, 1993: DATE
+VCU School of Business: ORG
+November, 2008: DATE
+Grace E. Harris Leadership Institute: PERSON
+VCU School of Business 2012: ORG
+Work History
+Company Name
+Company Name
+Skills: WORK_OF_ART
+Employee Relations: ORG
+HRIS: ORG
+Human Resource: ORG

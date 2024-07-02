@@ -1,0 +1,50 @@
+TEAM: ORG
+Career Overview
+RETAIL OPERATIONS MANAGEMENT Inventory Control Product Pricing DEDICATED and EXPERIENCED BUSINESS
+PROFESSIONAL: WORK_OF_ART
+Foster: PERSON
+Training Â: PERSON
+Payroll/Timekeeping: ORG
+Kronos: PERSON
+Financial Reporting Â: ORG
+OSHA Compliance: ORG
+Sharp: ORG
+Energetic: LOC
+Visual: ORG
+Current
+Team: ORG
+01/1990 to 01/2012: CARDINAL
+Club: ORG
+6: CARDINAL
+30: CARDINAL
+400-800: CARDINAL
+daily: DATE
+Customer Service: ORG
+Kids' Club: ORG
+Financial
+Management (Payroll, Accounts Receivable: ORG
+Processed: GPE
+Programs Oversaw: ORG
+20,000: MONEY
+monthly: DATE
+30,000: MONEY
+annual: DATE
+Maintained: GPE
+daily: DATE
+Maintenance Communicated: ORG
+Staff Management Hired: ORG
+Operations Management Organized: ORG
+Chicago Health Club: ORG
+Educational Background
+Business Administration: ORG
+Bally Total Fitness: ORG
+monthly: DATE
+Moraine Valley Community College: ORG
+Accounts Receivable: ORG
+Budget Management: ORG
+Business Administration: ORG
+Customer Service: ORG
+Financial Management: ORG
+Operations Management: ORG
+Payroll: ORG
+Reporting, Staff Management: ORG

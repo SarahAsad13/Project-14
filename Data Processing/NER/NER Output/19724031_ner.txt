@@ -1,0 +1,94 @@
+VOLUNTEER
+Summary: PERSON
+Volunteer: PERSON
+July 2010: DATE
+Current Company Name: ORG
+Emergency Medical Technician: ORG
+July 2010: DATE
+CPR: ORG
+the American Heart Association: ORG
+First Aid: ORG
+EMT: ORG
+Squad: ORG
+the State of: ORG
+New Jersey: GPE
+Completed Emergency Medical: ORG
+Completed ICS-100: ORG
+200 &: MONEY
+more than 50: CARDINAL
+Captain: PERSON
+EMT: ORG
+May 2013 to July 2014: DATE
+more than 50: CARDINAL
+Captain: PERSON
+April 2012 to April 2013: DATE
+daily: DATE
+Opening Macy's: ORG
+Martial Arts Instructor: ORG
+October 2008: DATE
+May 2009: DATE
+Experienced: PRODUCT
+Assisting the Head Instructor: WORK_OF_ART
+2011: CARDINAL
+Jonathan Dayton High School: PERSON
+State: GPE
+State: GPE
+US: GPE
+American Politics & Policy: Communication Skills for Political Leadership: ORG
+Modern Political Theory: ORG
+American Politics & Policy: Social Justice: ORG
+21:790:463:62: CARDINAL
+Activities and Societies: WORK_OF_ART
+Newman Catholic Club
+
+: ORG
+Union County College Cranford: ORG
+State: GPE
+US: GPE
+Treasurer: PERSON
+Fall 2014 & Spring 2015: DATE
+Rutgers University: ORG
+Newark: GPE
+the
+Office of Student Life
+
+Volunteer EMT: ORG
+July 2010 - Present: DATE
+Springfield First Aid Squad: ORG
+Springfield: GPE
+NJ: GPE
+Springfield: GPE
+911: CARDINAL
+5: CARDINAL
+K Committee: ORG
+December 2014 - Present: DATE
+Somerset: GPE
+Certifications
+
+Emergency Medical Technician - Basic
+
+New Jersey Department of Health & Senior Services: WORK_OF_ART
+220: CARDINAL
+Mailbox: ORG
+#256: CARDINAL
+Summit: ORG
+Microsoft Office: ORG
+Community Outreach: PERSON
+Teamwork: ORG
+CPR Certified: ORG
+Time Management
+
+Community Service
+
+Emergency Medical Technician: ORG
+Springfield: GPE
+First Aid Squad: ORG
+July 2010 - Present: DATE
+Overlook Hospital: ORG
+July 2010 - July 2011: DATE
+Mile Volunteer: PERSON
+Newman Catholic Club: ORG
+September 2014 - December 2014: DATE
+Mile Volunteer: PERSON
+Newman Catholic Club: ORG
+January 2015 - Present: DATE

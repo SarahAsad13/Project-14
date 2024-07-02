@@ -1,0 +1,58 @@
+Jack: PERSON
+daily: DATE
+Skills & Abilities Management Punctual: ORG
+Sales Regularly: PERSON
+Possesses: PERSON
+Critical: PRODUCT
+years: DATE
+Simulate: ORG
+Diagnose: NORP
+mcdonalds |: PERSON
+Prepare: ORG
+jun2014-aug2014 Operate: ORG
+Dig: PERSON
+8 ton: QUANTITY
+Slice: ORG
+Assist: NORP
+KKG: ORG
+4: CARDINAL
+Participate: ORG
+sep2013 Operate: PERSON
+April 2009 to July 2009: DATE
+Prepare: ORG
+first: ORDINAL
+jul2013-sep2013 Assist: PERSON
+1200-1800: CARDINAL
+Maintain: PERSON
+2200: CARDINAL
+Assist: NORP
+may2013-jul2013 Stock: ORG
+Assemble: PRODUCT
+Assist: NORP
+mar2013-may2013 Conduct: PERSON
+2-3: CARDINAL
+buff: PERSON
+Strip: LOC
+u.s.: GPE
+mar2009: ORG
+Maintain: PERSON
+100,000.00: MONEY
+Assess: ORG
+Assist: NORP
+Sell: ORG
+August 2007 to October 2007: DATE
+January 2006 to May 2009: DATE
+Wash: PERSON
+Cook: PERSON
+Troubleshoot: PRODUCT
+OBDII: ORG
+DTC: ORG
+jack
+stands: PERSON
+oct: DATE
+Troubleshoot
+Education: ORG
+2009: CARDINAL
+Automotive Skills General Education Automotive Skills General Education Career Management Class
+
+: ORG

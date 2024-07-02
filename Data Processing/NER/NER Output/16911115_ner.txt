@@ -1,0 +1,49 @@
+BIOMEDICAL ENGINEERING TECHNICIAN II: ORG
+Microsoft Excel: ORG
+Visio
+Adobe
+Engineering: PERSON
+OSHA: ORG
+MS Office: ORG
+Windows XP/Vista: WORK_OF_ART
+DHCP/DNS Ethernet: ORG
+Firewall: PERSON
+LAN: ORG
+AVG: GPE
+Printers: PERSON
+TCP: ORG
+Document: FAC
+June 2008: DATE
+Current Biomedical Engineering: ORG
+Philips: ORG
+Hillrom: PERSON
+Hugs Infant Security System: ORG
+Evaluate: ORG
+Assist: NORP
+Brings: ORG
+Assist: NORP
+Hugs: ORG
+one: CARDINAL
+3: CARDINAL
+Preventive Maintenance: ORG
+each month: DATE
+Supervisor: PERSON
+week: DATE
+up to 100: CARDINAL
+up to 250: CARDINAL
+hours: TIME
+January 2006 to July 2008: DATE
+the day: DATE
+Assist: ORG
+daily: DATE
+November 2006 to June 2008: DATE
+DeVry University Kansas City: ORG
+MO: GPE
+DeVry: ORG
+DeVry: PERSON
+ESC: ORG
+6-8: CARDINAL
+June 2006 to November 2006 Receptionist 
+City: DATE
+Monitored: ORG
+the Systems Administrator: ORG

@@ -1,0 +1,38 @@
+Microsoft Office: ORG
+January 2014: DATE
+March 2007 to December 2013: DATE
+Clerk 
+City: PERSON
+Schedule: ORG
+Process: ORG
+May 1999 to March 2008: DATE
+Route: GPE
+January 2006 to February 2007: DATE
+hours: TIME
+January 2004 to December 2005: DATE
+Verify: PRODUCT
+January 2002 to December 2003: DATE
+Front Office Receptionist: ORG
+Maintain: PRODUCT
+Complete: PERSON
+State: GPE
+US Flint: ORG
+MI: GPE
+US High School Diploma Flint Central High Flint: ORG
+MI High School Diploma: ORG
+1985: DATE
+Skills
+
+Telephones, Invoices, Greeting, Incoming Calls, Security: ORG
+Switchboards: NORP
+Clerk, Medical Records: ORG
+MS Word: PERSON
+Receiving, Database Systems: ORG
+Filing: GPE
+Incoming Mail: ORG
+Inventory: GPE
+Adp, Clients,: ORG
+Jms: GPE
+Microsoft Office: ORG
+Office
+Management Skills: ORG

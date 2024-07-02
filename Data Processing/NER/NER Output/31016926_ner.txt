@@ -1,0 +1,62 @@
+Â§: CARDINAL
+National Healthcare Insurer - Led: ORG
+National Healthcare Insurer - Led: ORG
+multi-year: DATE
+Global Pharmaceutical Organization - Led: ORG
+National Healthcare Provider - PM: ORG
+Time: ORG
+Created: ORG
+60: CARDINAL
+CFO: ORG
+Regional Healthcare Provider - Managed: ORG
+CFO: ORG
+Partner Model: PERSON
+National Pharmacy - Change Management and Communications Site Lead: ORG
+C.
+Melnick Page 1: PERSON
+5k+: CARDINAL
+daily: DATE
+Regional Healthcare Provider - Change Management and Communications: ORG
+5: CARDINAL
+Day 1: DATE
+Global Pharmaceutical Organization - Training: ORG
+9: CARDINAL
+01/2013: CARDINAL
+Dashboard: PERSON
+Dashboard: PERSON
+14: CARDINAL
+nine: CARDINAL
+CHRO: ORG
+Applicant Tracking System: ORG
+12: CARDINAL
+Finance: ORG
+L&D: ORG
+Coordinated: ORG
+Dashboard: PERSON
+Borderless Forest: ORG
+12/2007: CARDINAL
+Business Development and Operations Company Name: ORG
+3: CARDINAL
+three: CARDINAL
+five years: DATE
+less than one year: DATE
+night: TIME
+450: CARDINAL
+Training: PERSON
+2010: DATE
+Masters of Business Administration: ORG
+Organizational Management Baruch College: ORG
+Zicklin School of Business ï¼​ City: ORG
+2000: DATE
+Bachelor of Science : Business Management: ORG
+Arizona State University: ORG
+State Business Management: ORG
+2012: DATE
+Prosci, Change Management Certification: ORG
+2012: DATE
+Professional Human Resources: ORG
+Business Development: ORG
+Change Management: ORG
+Finance: ORG
+Human Resource: ORG
+Human Resources: ORG

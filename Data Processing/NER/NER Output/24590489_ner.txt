@@ -1,0 +1,85 @@
+Detail: PERSON
+Excels: PERSON
+HIGHLIGHTS Exceptional: ORG
+Microsoft Office Suite: ORG
+SharePoint: ORG
+PeopleSoft: ORG
+Time: ORG
+Billing Services Associate: ORG
+September 2012: DATE
+Current Company Name: ORG
+Oversee: ORG
+the Office of Society Services: ORG
+LaserFiche: ORG
+Media Services Group: ORG
+Elan Web: PERSON
+Accounts Receivable and Tax Office: ORG
+ACS: ORG
+OSS: ORG
+daily: DATE
+24 hours: TIME
+Established: ORG
+94%: PERCENT
+the year 2014: DATE
+the year 2013: DATE
+84%: PERCENT
+75%: PERCENT
+OSS: ORG
+SharePoint: ORG
+September 2014: DATE
+ACS AuthorChoice: ORG
+Columbus: GPE
+the Office of Society Services: ORG
+January 2015: DATE
+OSS: ORG
+ACS: ORG
+first: ORDINAL
+half: CARDINAL
+Accounting Coordinator: PERSON
+July 2007 to July 2012: DATE
+70+: PERCENT
+monthly: DATE
+Maconomy X: NORP
+T&M: ORG
+CPFF: ORG
+FFP: ORG
+daily: DATE
+Project Managers: ORG
+Processed: GPE
+Project Managers Assigned: ORG
+24 to 48 hours: TIME
+the same
+day: DATE
+the Senior Contracts Administrator: ORG
+monthly: DATE
+June 2011: DATE
+the Month: DATE
+Project Managers: ORG
+Project Managers and Accounts Payable/Receivable: ORG
+May 2005 to July 2007: DATE
+45: CARDINAL
+every month: DATE
+Researched: ORG
+Processed: GPE
+Account Managers, Consultants: ORG
+less than one hour: TIME
+one: CARDINAL
+Customer Service: ORG
+December 2003 to April 2005: DATE
+first: ORDINAL
+nine months: DATE
+two hours: TIME
+Processed: GPE
+Assigned: ORG
+the Practical Assessment Center: ORG
+Chosen: GPE
+20: CARDINAL
+BBA : Business Administration: ORG
+2003: DATE
+Temple University ï¼​ City: ORG
+State Business Administration: ORG
+Accounts Payable: ORG
+Contracts: ORG
+Office: ORG
+OSS: ORG
+Scanning: PERSON

@@ -1,0 +1,52 @@
+PERSONAL HEALTHCARE: ORG
+4+ years: DATE
+Adult/Child CPR With Mask Certification: ORG
+Adult/Child AED Certification: ORG
+American: NORP
+Skill Highlights: PERSON
+Understands: GPE
+Charting: PERSON
+50+ pounds: QUANTITY
+Quick: ORG
+Valid MO: PERSON
+Reliable transportation
+Calm: WORK_OF_ART
+06/2013 to 12/2013: CARDINAL
+Personal Healthcare Assistant Company Name: ORG
+Completed: ORG
+Personal Home Health Care Assistant Company Name: ORG
+Facilitated: ORG
+Maintained: GPE
+daily: DATE
+BP: ORG
+Completed: ORG
+Personal Healthcare Assistant Company Name: ORG
+Completed: ORG
+Facilitated: ORG
+daily: DATE
+daily: DATE
+Training: PERSON
+2012: DATE
+Professional HealthCare In-Service: ORG
+Adult Behavioral: ORG
+Diagnosed Mental Health Disorders Alzheimer's: ORG
+Missouri: GPE
+City: GPE
+State: ORG
+Demetia: WORK_OF_ART
+2011: DATE
+Professional HealthCare In-Service: ORG
+State: ORG
+Schizophrenia: GPE
+2000: DATE
+Lebanon High School: ORG
+State: ORG
+Laclede
+Skills: PERSON
+Compassionate: ORG
+Time: ORG
+Hospice: ORG
+Charting: PERSON
+Time: ORG
+Interests: NORP
+Yoga Â: PERSON

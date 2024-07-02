@@ -1,0 +1,86 @@
+Visionary: WORK_OF_ART
+Skill Highlights: PERSON
+Process Improvements
+Financial Analysis
+Human Resources
+
+Public Relations
+Compliance / Accountability
+Writing: ORG
+Core Accomplishments
+
+Managing: WORK_OF_ART
+two: CARDINAL
+50: CARDINAL
+5: CARDINAL
+1.8: CARDINAL
+20: MONEY
+OSHA: ORG
+January 2005: DATE
+Current Company Name: ORG
+DiSC Personality Assessment: ORG
+first: ORDINAL
+59%: PERCENT
+1.5%: PERCENT
+29%: PERCENT
+January 1992 to January 2005: DATE
+2: CARDINAL
+50: CARDINAL
+1.8: CARDINAL
+annual: DATE
+Conceived: PERSON
+Toyota: ORG
+Lean Manufacturing: ORG
+Coke: ORG
+Sprint: ORG
+Mini USA: ORG
+Radiant Systems: ORG
+Marketed: ORG
+32: CARDINAL
+annually: DATE
+Wall Street Journal: ORG
+Boston Globe: ORG
+DiSC Personality Assessment: ORG
+2005: DATE
+January 1991 to January 1992: DATE
+1992: DATE
+Manhattan: GPE
+January 1989 to January 1992: DATE
+600%: PERCENT
+first year: DATE
+Six: CARDINAL
+Green Belt: PERSON
+2006: DATE
+Villanova University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Bachelor of Arts: ORG
+1987: DATE
+Iona College: ORG
+GA Insurance License:Health/Life: ORG
+P&C: GPE
+DiSC Personality Assessment: ORG
+Pro Adviser: PERSON
+Volunteer Coordinator: PERSON
+30: CARDINAL
+Catholic Charities: ORG
+Atlanta: GPE
+Participant: ORG
+Camp Twin: FAC
+Sandy Springs: ORG
+Road Race: WORK_OF_ART
+Leadership Sandy: PERSON
+Chef Skins Game: ORG
+All Saints Catholic Church-Usher: ORG
+Sandwich Program for the Homeless: WORK_OF_ART
+schools)- Creator: WORK_OF_ART
+Keep: PERSON
+one hour: TIME
+Grass Roots Marketing
+Event / Project Management
+Turning: WORK_OF_ART
+Social Media: ORG
+Real Time Marketing
+
+: WORK_OF_ART

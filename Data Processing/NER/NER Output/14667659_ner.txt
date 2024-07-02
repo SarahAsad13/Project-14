@@ -1,0 +1,40 @@
+Skills
+
+Spreadsheet: ORG
+Microsoft Office: ORG
+Medical Billing: FAC
+Microsoft: ORG
+Excel: PRODUCT
+Insurance Specialist 04/2017 to Current Company Name City: ORG
+Expert: PRODUCT
+Microsoft: ORG
+Marsha: GPE
+Processed: GPE
+Researched: ORG
+Front: ORG
+12/2015: CARDINAL
+Name City: GPE
+Researched: ORG
+Name City: GPE
+Processed: GPE
+Researched: ORG
+State: ORG
+United States: GPE
+Majorette: ORG
+Volleyball Affiliations Walk of Life: ORG
+Anywhere Additional Information Won: ORG
+the month: DATE
+March 2016: DATE
+Invoice: GPE
+Medical Billing: ORG
+Microsoft Excel: ORG
+Microsoft Office: ORG
+MS Office Suite: ORG
+QuickBooks: ORG
+Spreadsheet: PERSON
+Majorette: ORG
+Volleyball Affiliations Walk of Life: ORG
+Anywhere Additional Information
+Won: ORG
+the month: DATE
+March 2016: DATE

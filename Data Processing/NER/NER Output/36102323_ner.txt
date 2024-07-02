@@ -1,0 +1,72 @@
+RESEARCH MOLECULAR/RESEARCH: PERSON
+LPN: ORG
+LPN: ORG
+Advanced Cardiac Life Support: ORG
+CPR/BLS: ORG
+Problem: PRODUCT
+Enthusiastic: ORG
+AED: ORG
+Abides: ORG
+July 2012 to July 2015: DATE
+Name City: GPE
+State Research molecular/Research Microbiologist/Research Ecologist (Research Associate: ORG
+Windows: NORP
+Linux: PERSON
+Collaborated: ORG
+Drafted: ORG
+CDC: ORG
+Created: ORG
+July 2012 to April 2013: DATE
+Name City: GPE
+State Caregiver
+
+Observed: ORG
+Completed: ORG
+Facilitated: ORG
+daily: DATE
+daily: DATE
+daily: DATE
+Maintained: GPE
+July 2009 to March 2012: DATE
+Name City: GPE
+State Department: ORG
+Reorganized: ORG
+Directed: ORG
+Shared: ORG
+first: ORDINAL
+Maintained: GPE
+daily: DATE
+April 2003 to June 2009: DATE
+Name City: GPE
+State: ORG
+Examined: NORP
+Communicated: ORG
+Maintained: GPE
+95%: PERCENT
+Organized: ORG
+20: CARDINAL
+monthly: DATE
+daily: DATE
+Initiated: ORG
+12%: PERCENT
+2015: DATE
+Brown-Mackie College: ORG
+State: ORG
+USA LPN: ORG
+Certificate: ORG
+3.5: CARDINAL
+GPA: ORG
+Nursing: GPE
+2001: DATE
+Phoenix College: ORG
+State: ORG
+USA EMT-B 
+Certificate: ORG
+3.7: CARDINAL
+GPA: ORG
+Camp Verde Chamber of Commerce
+
+Personal Information
+: ORG
+LPN: ORG
+Careful: PRODUCT

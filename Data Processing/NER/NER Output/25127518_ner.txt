@@ -1,0 +1,46 @@
+Accountant: ORG
+Skills
+
+Billing and Collections MS Office Suite
+Accounts Payable Accounting: ORG
+Accounts Receivable Written and Verbal Communication Skills
+Job Costing Journal: WORK_OF_ART
+Reconciliations Pivot Tables: PERSON
+Accountant Sep 2012: PERSON
+Clerk: PERSON
+Accountant: ORG
+Trains: ORG
+Weekly: DATE
+State: ORG
+Missouri: GPE
+the Financial Reporting System: ORG
+Facilitates Accounts Receivable: ORG
+Processes Accounts Payable: ORG
+Jun 2006: PERSON
+2011: CARDINAL
+each year: DATE
+May 2005: DATE
+Processed: GPE
+Accounts Payable: ORG
+Processed: GPE
+Accounts Receivable: ORG
+each month: DATE
+Specialist Jan 1997 to May 2004: DATE
+three: CARDINAL
+Facilitated: ORG
+IESI: ORG
+State Accounting
+Honors: ORG
+Project Completed: PERSON
+Financial Accounting: ORG
+Accountant, Accounting: ORG
+Accounts Receivable: ORG
+Financial Accounting: ORG
+Financial Reporting: ORG
+Forecasting: ORG
+Ledger: PERSON
+Job Costing: PERSON
+MS
+Office Suite: ORG
+Pivot Tables: ORG
+Verbal Communication Skills: ORG

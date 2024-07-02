@@ -1,0 +1,94 @@
+18 years: DATE
+8 years: DATE
+Skill Highlights: PERSON
+over $100,000: MONEY
+Video Conferencing: ORG
+over $50,000: MONEY
+CRM: PRODUCT
+Hyper-V: ORG
+DRP: ORG
+a Disaster Recovery Plan: PRODUCT
+4 days: DATE
+2 hours: TIME
+Initiated a Task: ORG
+Bradley-Morris: ORG
+over $250,000: MONEY
+Mentored: ORG
+25%: PERCENT
+nearly 100%: PERCENT
+Quickly: ORG
+CRM: PRODUCT
+over $: MONEY
+600,000: MONEY
+80%: PERCENT
+over $2.5M: MONEY
+VP of Information Technology 07/2014 to 03/2017 Company Name City: ORG
+State Hired: ORG
+the first few months: DATE
+VP of Information and Security Technology 02/2009: ORG
+Name City: GPE
+HIPAA: ORG
+Â Worked: PERSON
+Product Development: ORG
+Name City: GPE
+HIPAA Compliance: ORG
+the Executive Management Team: ORG
+Electronic Data Processing: ORG
+Visual Studio: ORG
+2010: DATE
+SQL Server: ORG
+ASP.NET: ORG
+Infrastructure: ORG
+Name City: GPE
+the Commissions Tracking Application: ORG
+CRM: PRODUCT
+CRM: PRODUCT
+80%: PERCENT
+over 99%: PERCENT
+Hyper-V: ORG
+apps: ORG
+Application Developer 08/2002: ORG
+Name City: GPE
+State: ORG
+year-long: DATE
+ETL: ORG
+SQL: ORG
+more than $2.5M: MONEY
+2014: DATE
+Park University: ORG
+GPA: ORG
+3.5: CARDINAL
+2007: DATE
+Park University: ORG
+Magna Cum Ladue: ORG
+GPA: ORG
+3.82: CARDINAL
+4.5: CARDINAL
+VB.NET: ORG
+Active Directory, Backup, Budget: ORG
+CRM: PRODUCT
+Data Analysis: ORG
+Data Processing: ORG
+Disaster Recovery: PERSON
+ETL: ORG
+EDI: ORG
+ITIL: ORG
+Training, Executive Management: ORG
+GoldMine: ORG
+Information Security: ORG
+HealthCare: ORG
+VoIP: LOC
+Process Enhancement: ORG
+SQL: ORG
+SQL Server: ORG
+Visual Studio: PERSON
+Name City: GPE
+State: ORG
+CAT5: GPE
+Technicians: NORP
+5: CARDINAL
+CAT5: GPE
+Â Conducted: ORG
+quarterly: DATE
+annual: DATE
+more than 400: CARDINAL

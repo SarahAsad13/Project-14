@@ -1,0 +1,60 @@
+BOY: ORG
+Clyde Muse: PERSON
+The Mission: â€œTherefore go and make disciples: WORK_OF_ART
+Matt.28:19-20: CARDINAL
+NIV: ORG
+Matt: PERSON
+20:28: TIME
+NIV: ORG
+Spirit: ORG
+Spirit: ORG
+Gal. 5:16,22: DATE
+NIV: ORG
+Spirit: ORG
+Christian: NORP
+Basketball Coach Company Name - City: ORG
+Evaluate: ORG
+Current
+Co-Founder: ORG
+Coach Company Name - City: ORG
+Christian: NORP
+Recruit: ORG
+12/2007: CARDINAL
+Current
+Bank Examiner Company Name - City: ORG
+State: ORG
+FDIC: ORG
+12/2007: CARDINAL
+Kinesiology & Sport Management Company Name - City: ORG
+State: ORG
+1713: DATE
+KSM Foundations of KSM: ORG
+Kinesiology and Sport Management: ORG
+4713: DATE
+KSM: ORG
+3723: DATE
+KSM Sports Marketing: EVENT
+4723: CARDINAL
+KSM Facility Management: ORG
+Advisor of Sport Management: ORG
+01/2000: CARDINAL
+Team Management: ORG
+01/1999 to 01/2000: CARDINAL
+Star Elementary: FAC
+Grant Management - Managing: ORG
+07/1997: DATE
+06/1999: CARDINAL
+Team Management Managing: ORG
+07/1997: DATE
+06/1999: CARDINAL
+06/1997: GPE
+1995: DATE
+Master of Science : Management Southern Nazarene University - City: WORK_OF_ART
+State
+
+Management Organizational Communication: ORG
+Managerial
+Economics and Ethics: ORG
+1994: DATE
+Bachelor of Science :: ORG
+1989: DATE

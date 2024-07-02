@@ -1,0 +1,72 @@
+Skills
+Microsoft Office Suite: ORG
+SAP: GPE
+Kronos: ORG
+IBM: ORG
+ADP: ORG
+ATS: ORG
+MSS: ORG
+HRSS: ORG
+Oracle, Workbrain: ORG
+Jan 2015: DATE
+Evaluates: NORP
+PAF: ORG
+Security: ORG
+Cintas: ORG
+Execute: ORG
+Administers: ORG
+Super User: ORG
+HRIS: ORG
+Jan 2012 to Jan 2015: DATE
+Arrange: NORP
+Created: ORG
+Reorganized: ORG
+30%: PERCENT
+Researched: ORG
+Created: ORG
+100%: PERCENT
+120 days: DATE
+Resource: ORG
+Jan 2010: DATE
+Jan 2012: DATE
+first: ORDINAL
+first: ORDINAL
+Maintained: GPE
+Processed: GPE
+LOA: ORG
+Maintained: GPE
+Benefits Program: ORG
+25%: PERCENT
+the month: DATE
+6: CARDINAL
+one year: DATE
+100%: PERCENT
+75%: PERCENT
+90 days: DATE
+Jan 2005: DATE
+Jan 2010: DATE
+Processed: GPE
+Recruited: PRODUCT
+Coordinated: ORG
+40%: PERCENT
+the month: DATE
+May 2007: DATE
+Reorganized: ORG
+30%: PERCENT
+68%: PERCENT
+14%: PERCENT
+100%: PERCENT
+Training
+Master of Business Administration 2012 University of Phoenix ï¼​ City: WORK_OF_ART
+State: ORG
+3.2: CARDINAL
+B.S , Public Administration: ORG
+Virginia State University: ORG
+State Public Administration: ORG
+3.3: CARDINAL
+Relations Strong: ORG
+Confidential Record Keeping Critical Thinking Conceptual Strength: ORG
+ADP: ORG
+HRIS: ORG
+microsoft: ORG
+SAP: ORG

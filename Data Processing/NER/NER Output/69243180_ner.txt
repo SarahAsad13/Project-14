@@ -1,0 +1,66 @@
+SR: ORG
+10 years: DATE
+Mortgage Executive: ORG
+Jan 2013: DATE
+12: CARDINAL
+one: CARDINAL
+three: CARDINAL
+Las Vegas: GPE
+NV: ORG
+Obtained: ORG
+Sr.: GPE
+six months: DATE
+over $6: MONEY
+00.00: CARDINAL
+201 $: MONEY
+Averaged 10: PERSON
+over $600,000: MONEY
+201: CARDINAL
+Created and Launched The Fraiman Group: ORG
+Global Equity Finance: ORG
+Banker & Financial: ORG
+Dec 2011 to Jan 2013: DATE
+over 100: CARDINAL
+ten: CARDINAL
+Loan Consultants: ORG
+25 million: CARDINAL
+84: CARDINAL
+2012: DATE
+50%: PERCENT
+2011: DATE
+30%: PERCENT
+Jan 2007 to Dec 2011: DATE
+Capital Raising via Private Placement for Preferred: ORG
+over $3,000,000 million dollars: MONEY
+one year: DATE
+two: CARDINAL
+Texas: GPE
+Ohio: GPE
+over $20,000,000 million: MONEY
+AUM: ORG
+the United States: GPE
+Jan 2007 to Jan 2008: DATE
+Bachelor of Arts: ORG
+English Literature 2004 University of Massachusetts ï¼​ City: EVENT
+English: NORP
+Homer High School ï¼​ City: ORG
+Professional Affiliations: ORG
+Mortgage Bankers Association: ORG
+National Association of Mortgage Brokers: ORG
+NAMB: ORG
+MBA: WORK_OF_ART
+National Technology: ORG
+University of Massachusetts Alumni Association: ORG
+Sr: GPE
+six months: DATE
+over $6,300: MONEY
+Club Achievement: ORG
+CERTIFICATIONS: ORG
+528972: CARDINAL
+California: GPE
+License Minnesota Mortgage Loan Originator
+: ORG
+License Nevada Mortgage Loan: ORG
+License New Mexico Mortgage Loan: ORG
+License Washington Mortgage Loan: ORG
+Investments: ORG

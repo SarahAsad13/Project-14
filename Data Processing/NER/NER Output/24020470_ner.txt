@@ -1,0 +1,129 @@
+twelve years: DATE
+late 2004: DATE
+Lexmark: ORG
+Hewlett Packard: ORG
+Microsoft: ORG
+Fujitsu: ORG
+ICÂ³: GPE
+ETA: ORG
+FEMA: ORG
+DHCP/DNS Ethernet: ORG
+Firewall: PERSON
+A+: NORP
+Microsoft Office Specialist: ORG
+100%: PERCENT
+daily: DATE
+almost 100%: PERCENT
+Information Technology Specialist 02/2012: ORG
+Current Company Name City: ORG
+State
+
+Service: ORG
+CCTV: ORG
+VoIP: ORG
+BDR: ORG
+StorageCraft: ORG
+Datto: GPE
+Intronis: NORP
+Wired / Wireless Network Infrastructure Audits: ORG
+44: CARDINAL
+Windows/VMware: EVENT
+05/2012: CARDINAL
+Name City: GPE
+55: CARDINAL
+Windows: NORP
+Dell Precision: ORG
+IBM xSeries: ORG
+T1: NORP
+Windows Server: PERSON
+2003: DATE
+Active Directory: ORG
+Maintain AutoBase CRM: PRODUCT
+Reynolds & Reynolds Repair Order: ORG
+WiFi: ORG
+Toyota Technical Services: ORG
+Field Service: ORG
+10/2011: CARDINAL
+Name City: GPE
+State: ORG
+IBM: ORG
+IBM: ORG
+Lenovo: ORG
+IBM Point: ORG
+Linksys: ORG
+Symbol: GPE
+Datalogic: ORG
+Kronos: ORG
+HP: GPE
+IVR
+Systems &: ORG
+setup &
+troubleshoot: ORG
+IBM: ORG
+Break/Fix technician: WORK_OF_ART
+RMA: EVENT
+24/7: CARDINAL
+overnight: TIME
+Kodak Imaging Expert / Field Marketing Specialist: ORG
+12/2009: CARDINAL
+Name City: GPE
+Kodak: ORG
+Kodak: ORG
+fourth quarter: DATE
+Black Friday: EVENT
+each year: DATE
+Kodak: ORG
+Kodak: ORG
+Merchandising / Marketing Specialist 10/2005: WORK_OF_ART
+12/2007: CARDINAL
+Name City: GPE
+ActionLink: ORG
+Dell, Sprint: ORG
+Logitech: ORG
+Garmin: ORG
+Digital Imaging Specialist: ORG
+35mm: QUANTITY
+DSLR: ORG
+Black Friday: EVENT
+3:30am: CARDINAL
+Seasonal: DATE
+Q4: PRODUCT
+March: DATE
+Business Machines Sales: ORG
+Name City: GPE
+Assisted: ORG
+desktop & laptop: ORG
+GPS: ORG
+the Copy Center: ORG
+Easy Tech: ORG
+Staples: PRODUCT
+Education: ORG
+GE - Residential Energy Auditor: ORG
+Energy Management and Systems Technology/Technician : Technology: ORG
+2014: DATE
+State: ORG
+USA: GPE
+Computer Information Management: ORG
+Computer Technology/Computer Systems Technology Online Courses: ORG
+Ashworth College City: GPE
+State: GPE
+USA: GPE
+Associate of Arts and Sciences: ORG
+A.A.S : Business Administration: ORG
+Management and Operations Business Management Club: ORG
+2009: DATE
+SUNY Orange
+City: ORG
+State: GPE
+Management and Operations Business Management Club
+
+Skills
+
+Sales Software: ORG
+Salesforce.com: ORG
+TapScan: ORG
+CMS: ORG
+Joomla: PERSON
+WordPress: ORG
+Desktop Publishing Software: ORG
+Experienced Desktop Support: ORG

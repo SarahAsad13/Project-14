@@ -1,0 +1,103 @@
+Career Focus: LOC
+10 years: DATE
+Africa: LOC
+Latin America: LOC
+the Middle East: LOC
+Infrastructure: ORG
+June 2009: DATE
+4,456km2: CARDINAL
+Equatorial Guinea: GPE
+US$25 million: MONEY
+U.S. LNG: ORG
+15%: PERCENT
+Chinese: NORP
+Saudi Arabian: NORP
+oil & gas company: ORG
+US$113
+million: MONEY
+1,200: CARDINAL
+PPP: ORG
+Nigeria: GPE
+Nigeria: GPE
+17%: PERCENT
+U.S.: GPE
+100: CARDINAL
+Viceroy: GPE
+Cartagena: GPE
+Columbia: GPE
+Structured: ORG
+South Korean: NORP
+the Jeddah Metro Transportation Plan: ORG
+April 2007 to: DATE
+May 2009: DATE
+Corporate & Investment Banking 
+City: ORG
+day: DATE
+over US$10 billion: MONEY
+US$8.5 billion: MONEY
+Bain Capital Partners: ORG
+Carlyle Group: ORG
+Clayton Dubilier & Rice: ORG
+US$99 million: MONEY
+CyrusOne: ORG
+ABRY Partners: ORG
+ABRY Partners: ORG
+Cincinnati Bell: ORG
+3.3x: CARDINAL
+Augusta Sportswear Group: ORG
+Florida East Coast: LOC
+Hawkeye Group: ORG
+Modern Luxury: GPE
+Control Services: ORG
+RailAmerica: ORG
+Selig Sealing Products: PERSON
+April 2005 to April 2007: DATE
+Associate, Corporate & Investment Banking 
+City: ORG
+Mastered: ORG
+SunTrust Robinson Humphrey's: ORG
+Credit Training Leadership Program: ORG
+US$500 million: MONEY
+FX: ORG
+Transactional: ORG
+Bacardi: PERSON
+CSX Corp.: ORG
+Duke Energy: ORG
+FPL: ORG
+Harris Corp.: ORG
+Interline Brands: ORG
+Jabil Circuit: ORG
+Lockheed Martin: PERSON
+Ring Power Corp.: ORG
+Ryder, TECO Energy: ORG
+Vulcan Materials Company: ORG
+Florida Rock: GPE
+Walter Energy: PERSON
+Watsco: GPE
+New York University: ORG
+2014: DATE
+State: GPE
+U.S.A.: GPE
+New York University: ORG
+Development, Construction Cost Estimating City: ORG
+State: GPE
+U.S.A.: GPE
+Babson College 2011 MBA :: ORG
+Finance City: GPE
+State: GPE
+U.S.A.: GPE
+University of Florida 2005 Bachelor of Arts :: ORG
+State: GPE
+U.S.A.: GPE
+Skills
+
+Emerging Markets: ORG
+Infrastructure and Real Assets Advisory, Strategic Business Development, Project Management: ORG
+Mergers
+
+Emerging Markets: WORK_OF_ART
+Infrastructure and Real Assets Advisory, Strategic Business Development, Project Management: ORG
+Acquisitions: ORG
+Domestic and International Experience
+
+: ORG

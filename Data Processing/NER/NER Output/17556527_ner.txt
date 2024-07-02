@@ -1,0 +1,122 @@
+Billing & Accounts Receivables: ORG
+Balance Sheet * Accounting Reports Management: ORG
+Admin & Secretarial Skills Competencies Proficient: ORG
+Highlights: GPE
+I-Travel Financials: ORG
+ERP: ORG
+QuickBooks: ORG
+Xpert: PERSON
+Leap Accounting: ORG
+MS Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Accountant: ORG
+October 2012 to October 2014: DATE
+Dubai: GPE
+Maintained: GPE
+Monitored: ORG
+Performed day to day: DATE
+Overseen: PERSON
+daily: DATE
+Prepared month-end: DATE
+Accountant - Payables / Accounting Clerk: ORG
+April 2011 to October 2012: DATE
+Processed: GPE
+Maintained: GPE
+Cash Receipts & Petty Cash Expenses - Managed: ORG
+daily: DATE
+daily: DATE
+daily: DATE
+Bank Reconciliation - Monitored Bank: ORG
+daily: DATE
+Accounting Vouchers & Data: ORG
+Prepared: PERSON
+MYOB: ORG
+Month: DATE
+Financial Reports - Maintained Fixed: ORG
+monthly: DATE
+MIS: ORG
+BRS: ORG
+CFS: ORG
+Ageing Reports, Commission Statement: ORG
+Finalisation of Accounts: ORG
+P&L: ORG
+the Finalization of Accounts and Annual Audit: ORG
+Secretarial - Provided secretarial & administrative support: ORG
+Finance: ORG
+July 2008 to April 2011: DATE
+TMT: PERSON
+the Middle East: LOC
+to:- Invoicing - Prepared: WORK_OF_ART
+the Leap Accounting Software: ORG
+Accounts Receivables - Monitored Receivables: ORG
+Fee Earners: PERSON
+weekly: DATE
+the Managing Partner: ORG
+Trademark/Patent/License
+Registration/Renewal: ORG
+Payroll - Controlled: ORG
+Petty Cash - Managed: PERSON
+daily: DATE
+Accounting Vouchers - Prepared: ORG
+Leap Accounting: ORG
+Financial Reports - Assisted Finance: ORG
+monthly: DATE
+Secretarial - Performed: ORG
+the Accounting Department: ORG
+August 2005 to July 2008: DATE
+crockery & computers: ORG
+daily: DATE
+Tally Accounting: ORG
+Maintained General Ledger, Trial Balance: ORG
+P & L A: ORG
+Balance Sheet: PERSON
+Import
+Shipments: ORG
+monthly: DATE
+Letter of Credit - Assisted: ORG
+L/Cs: ORG
+L/Cs: ORG
+Bank - Monitored: ORG
+daily: DATE
+Finalisation of Accounts & Annual Audit - Provided: ORG
+monthly: DATE
+Auditors: ORG
+Banks, Insurance Agencies: ORG
+M.Com: PERSON
+Mahatma Gandhi University: PERSON
+State: GPE
+India: GPE
+English: LANGUAGE
+Hindi: GPE
+Malayalam Availability: ORG
+Skills
+Accounting: ORG
+Accounts Payables: GPE
+Accounts Receivables: ORG
+Trial Balance: PERSON
+Balance Sheet: PERSON
+Bank Reconciliation, Bookkeeping: ORG
+Driving License: PERSON
+Credit, Clients, Data Entry: ORG
+English: LANGUAGE
+ERP: ORG
+Finance: ORG
+Financials, Financial, Fixed Assets: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+MIS: ORG
+MYOB: ORG
+Payroll: ORG
+Purchasing: ORG
+QuickBooks: ORG
+Secretarial: GPE
+Sound: GPE
+Xpert
+
+: PERSON

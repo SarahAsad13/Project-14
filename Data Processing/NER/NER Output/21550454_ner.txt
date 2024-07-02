@@ -1,0 +1,46 @@
+Henrico County Public Schools: ORG
+16 years: DATE
+Federal Preschool Programs: ORG
+first: ORDINAL
+Strong: PERSON
+Reconciliations: PERSON
+August 2011: DATE
+three years: DATE
+three years: DATE
+Start/Federal Preschool Programs: ORG
+August 2006 to July 2011 Company Name ï¼​ City: DATE
+First Grade: ORG
+November 2003 to July 2006 Company Name: DATE
+one year: DATE
+one year: DATE
+August 2001 to November 2003: DATE
+monthly: DATE
+Conducted: ORG
+monthly: DATE
+daily: DATE
+daily: DATE
+January 2001 to June 2001: DATE
+July 1998 to August 2000: DATE
+Oversaw: GPE
+Lead Teller: PERSON
+June 1996 to July 1997: DATE
+January 1994 to June 1996: DATE
+Maintained: GPE
+Maintained: GPE
+Training
+Master of Teaching: WORK_OF_ART
+December 2000: DATE
+Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Pre-K: PERSON
+fourth: ORDINAL
+Bachelor of Science : Psychology: ORG
+1997: DATE
+Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+PGP-562282: MONEY
+2016: DATE

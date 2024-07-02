@@ -1,0 +1,33 @@
+9 years: DATE
+Electrical
+Engineer: PRODUCT
+four years: DATE
+Electrical Engineer: ORG
+State Assist: ORG
+daily: DATE
+the Engineering Department: ORG
+Name City: GPE
+21: CARDINAL
+Department Heads: ORG
+Sky Cap: PERSON
+Name City: GPE
+State
+
+Confirmed: ORG
+12: CARDINAL
+El Dorado High School City: ORG
+State: GPE
+USA: GPE
+Skills
+
+Leadership Development Program
+
+Hands On Training: Electrical: ORG
+Wall Paper
+
+Management Training: ORG
+Team Builder: PERSON
+Outlook Training: PERSON
+Excel Training: PERSON
+Hotsos Training: PERSON
+Stratton Warren ": PERSON

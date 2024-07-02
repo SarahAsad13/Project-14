@@ -1,0 +1,123 @@
+BUSINESS DEVELOPMENT SPECIALIST/AE
+Professional Summary: ORG
+20 years: DATE
+Building: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+PageMaker: ORG
+InDesign: ORG
+Exemplary: PERSON
+Strong: PERSON
+Skills
+Work History
+BUSINESS DEVELOPMENT SPECIALIST/AE 09/2012: ORG
+1: MONEY
+Sell: PERSON
+Compile: PRODUCT
+Complete: PERSON
+Initiated: ORG
+Directed: ORG
+OF MARKETING & ADVERTISING 01/2004: ORG
+Research: ORG
+three: CARDINAL
+12: CARDINAL
+monthly: DATE
+CRM: PRODUCT
+PPC/SEO: ORG
+monthly: DATE
+Google Analytics: ORG
+Clicky: GPE
+ROO: ORG
+weekly: DATE
+multi-million dollar: MONEY
+Conceive: ORG
+Working with Company: ORG
+POP/POS
+materials: ORG
+Train: GPE
+28%: PERCENT
+16%: PERCENT
+600%: PERCENT
+first 18 months: DATE
+Company: ORG
+monthly: DATE
+Google Analytics: ORG
+Clicky: GPE
+68%: PERCENT
+Hispanic: NORP
+7% to 19%: PERCENT
+Asian: NORP
+4% to 12%: PERCENT
+Conceive: ORG
+3,000: MONEY
+30-second: TIME
+Produce 2-3 TV: ORG
+5: CARDINAL
+7 years: DATE
+hundreds of thousands: CARDINAL
+Researched: ORG
+TRAX: ORG
+first: ORDINAL
+weekly: DATE
+CRM: PRODUCT
+Conceive: ORG
+Identify: ORG
+Angels, Lakers,: ORG
+85%: PERCENT
+2007 Retailer of the Year: WORK_OF_ART
+WHFA: ORG
+01/2004: CARDINAL
+Columbia Pictures: ORG
+Fox Sports: ORG
+F/X: PRODUCT
+Sony Pictures Entertainment: ORG
+NBC: ORG
+Closets By Design: ORG
+Los Angeles: GPE
+Earl Scheib: PERSON
+Environmental Enterprises: ORG
+Western Nonwovens: NORP
+Created Sony Pictures Entertainment's: ORG
+syndication & environmental: ORG
+Sony Pictures Entertainment's: ORG
+3: CARDINAL
+Closets: ORG
+day: DATE
+Earl Scheib: PERSON
+close to 20%: PERCENT
+Earl Scheib TV: PERSON
+Nick at Night: WORK_OF_ART
+Developed Earl Scheib's: PERSON
+Hispanic: NORP
+Earl Scheib: PERSON
+Earl Scheib: PERSON
+national & regional advertising: ORG
+150: CARDINAL
+Coordinated: ORG
+day: DATE
+25: CARDINAL
+21: CARDINAL
+over 1,200: CARDINAL
+Fred Sands: PERSON
+7th: ORDINAL
+ten: CARDINAL
+L.A.
+Times: ORG
+24%: PERCENT
+Conceived: PERSON
+Conceptualized: PRODUCT
+Sand: ORG
+Home Auction: ORG
+Created Fred Sands University: ORG
+Created: ORG
+EDITOR: ORG
+01/1993: CARDINAL
+annual: DATE
+B2B: ORG
+CRM: PRODUCT
+Research: ORG
+7: CARDINAL
+annual: DATE
+General Air Conditioning & Heating /: ORG
+2 years: DATE

@@ -1,0 +1,95 @@
+EIT: ORG
+years: DATE
+SolidWorks Linear Control: ORG
+Solid Mechanics
+Engineering: ORG
+Microsoft: ORG
+Fluid Mechanics: ORG
+Thermal Analysis Project: ORG
+Heat Transfer Time: PERSON
+Statics/Dynamics Written: ORG
+Material Science
+Engineering Probability and Statistics Academic: ORG
+CAD: ORG
+Engineer: ORG
+Laser: ORG
+Material Science: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Project
+management: ORG
+SolidWorks: ORG
+Statistics: ORG
+Time: ORG
+Name City: GPE
+State Mechanical Engineering Intern 09/2015: ORG
+four: CARDINAL
+UCSD: ORG
+MAE: ORG
+3: CARDINAL
+Analyzed: PERSON
+Gantt: PERSON
+Energy Analysis Determined: ORG
+Utilization Developed: ORG
+CAD: ORG
+CAD: ORG
+Lasercamm: PRODUCT
+Reporting/Grading Worked: ORG
+UCSD: ORG
+MAE: ORG
+105: CARDINAL
+Communicated: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Design: PRODUCT
+SolidWorks Research: ORG
+Name City: GPE
+State Systems Engineering Intern 05/2014: ORG
+daily: DATE
+MECHANICAL ENGINEERING University of California , City: ORG
+EIT: ORG
+October 2015: DATE
+2011-Current: ORG
+Dong Shin Presbyterian Church Supervise: ORG
+about 20: CARDINAL
+Sunday Discipline: PERSON
+2014: DATE
+third: ORDINAL
+El Toyon Elementary: FAC
+San Diego Assisted: GPE
+2011-Current: ORG
+TA: ORG
+Dong Shin Presbyterian Church Supervise: ORG
+about 20: CARDINAL
+2014: DATE
+third: ORDINAL
+El Toyon Elementary: FAC
+San Diego Assisted: GPE
+2011-Current: ORG
+Dong Shin Presbyterian Church Supervise: ORG
+about 20: CARDINAL
+2014: DATE
+third: ORDINAL
+El Toyon Elementary: FAC
+San Diego Assisted: GPE
+2011-Current: ORG
+Dong Shin Presbyterian Church
+Supervise: ORG
+2014: DATE
+third: ORDINAL
+El Toyon Elementary: FAC
+San Diego Assisted: GPE
+CAD: ORG
+Engineer-In-Training: ORG
+EIT: ORG
+Laser: ORG
+Material Science: ORG
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Reporting, Research: ORG
+SolidWorks: ORG
+Statistics: ORG
+Time: ORG

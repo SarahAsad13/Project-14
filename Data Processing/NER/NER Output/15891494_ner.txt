@@ -1,0 +1,43 @@
+Accountant: ORG
+Data Base: ORG
+over four years: DATE
+Financial: ORG
+Accomplishments
+Achieved: PRODUCT
+25%: PERCENT
+April 2014 to January 2016: DATE
+Coordinate: FAC
+Advise: PERSON
+Evaluate: ORG
+Compute: ORG
+April 2013 to October 2013: DATE
+London Mining
+ Perform: ORG
+April 2013 to October 2013: DATE
+September 2012 to April 2013: DATE
+Monthly: DATE
+Money Laundering Prevention Procedures: ORG
+Unit Money Laundering Prevention Officer: ORG
+KYC: ORG
+Examine: ORG
+2013: DATE
+Fourah Bay College: ORG
+State: ORG
+Sierra Leone Accounting: ORG
+Accounting: GPE
+Interests: NORP
+Volunteer: PRODUCT
+Lunch Box: PERSON
+Student Government: ORG
+student sports club: ORG
+Skills
+
+Customer and Personal Service Administration and Management
+Active Listening Judgment: ORG
+Time Management Quality Control Analysis
+Computers and Electronics Clerical
+
+Additional Information: ORG
+Volunteer: PRODUCT
+Lunch Box: PERSON
+Student Government: ORG

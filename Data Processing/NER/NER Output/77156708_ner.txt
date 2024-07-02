@@ -1,0 +1,100 @@
+Finance: ORG
+Fintech: ORG
+l BA: NORP
+Economics: GPE
+year: DATE
+# 1796859: DATE
+Project Management
+Confluence: ORG
+Jira, Salesforce: PERSON
+SQL: ORG
+Financial Analysis: ORG
+Google G Suite: PERSON
+Keynote: ORG
+Microsoft Office
+Technology: ORG
+Budget: ORG
+Strategic
+Credit: PERSON
+Client: GPE
+Articles
+Documentation: ORG
+Mandarin: LANGUAGE
+Money
+Microsoft Office: ORG
+Newsletters
+POS
+Presentations
+Pricing: PERSON
+Producer: GPE
+Project Management
+Public: ORG
+Work History
+Banking Officer: WORK_OF_ART
+10/2018: DATE
+3: CARDINAL
+1: CARDINAL
+North Denver: GPE
+Asian Banking Center: ORG
+Finance: ORG
+05/2019: PERSON
+daily: DATE
+200%: PERCENT
+Directed the Finance Committee: ORG
+10%: PERCENT
+Marketing Specialist: PERSON
+09/2018: CARDINAL
+Mentored: ORG
+10: CARDINAL
+Retail Store: PERSON
+Master of Management : Business Management: ORG
+Colorado State University - City: ORG
+Applied Economics: ORG
+National University of Kaohsiung - Taiwan 
+Work History
+Banking Officer: ORG
+10/2018: DATE
+3: CARDINAL
+1: CARDINAL
+North Denver: GPE
+Asian Banking Center: ORG
+Finance: ORG
+05/2019: PERSON
+daily: DATE
+200%: PERCENT
+Directed the Finance Committee: ORG
+10%: PERCENT
+Marketing Specialist: PERSON
+09/2018: CARDINAL
+Mentored: ORG
+10: CARDINAL
+Retail Store: PERSON
+Interests: NORP
+INVOLVEMENT: GPE
+Asian Pacific Development Center - Volunteer: ORG
+2019 - Current: DATE
+Asian: NORP
+2019: DATE
+Mandarin: LANGUAGE
+# 1796859: DATE
+PProject Management
+CConfluence: ORG
+SQL: ORG
+SSales professional
+: PRODUCT
+FFinancial Analysis: ORG
+GGoogle G Suite: PERSON
+Keynote: ORG
+Microsoft Office: ORG
+Accounting: GPE
+Finance: ORG
+Financial
+
+Analysis: ORG
+Mandarin: LANGUAGE
+Sstrategy: PERSON
+Money,: ORG
+Microsoft Office: ORG
+Project Management: ORG
+SQL: ORG
+Strategic: PERSON

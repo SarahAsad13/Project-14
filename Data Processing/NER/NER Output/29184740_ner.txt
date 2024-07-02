@@ -1,0 +1,44 @@
+Career Focus
+
+Sales and Marketing: ORG
+15 years: DATE
+the Atlanta Real Estate Industry: ORG
+multi million dollars: MONEY
+yearly: DATE
+one: CARDINAL
+Savoir Faire: ORG
+Chanel Atelier Academy Graduate: ORG
+Maintained: GPE
+over 500: CARDINAL
+weekly: DATE
+Chanel: ORG
+Fragrance: PERSON
+Chanel: ORG
+Interface: ORG
+Atanta: GPE
+Vinings: ORG
+West Cobb: GPE
+Buckhead Chanelophites: PRODUCT
+State: ORG
+Atlanta Board of Realtors Million Dollar Club Life: ORG
+Phoenix Award: PERSON
+10 consecutive years: DATE
+Jenny Pruitt: PERSON
+Harry Norman Realtor: PERSON
+many years: DATE
+$150,000 - $950,000: MONEY
+Specialize: FAC
+Atlanta: GPE
+Name City: GPE
+30: CARDINAL
+POST: ORG
+Maintained: GPE
+two: CARDINAL
+Petitioned: ORG
+City Council: ORG
+Arson Investigation: ORG
+Bachelor of Arts: ORG
+Georgia State University: ORG
+Anthropolgy Atlanta: ORG
+Ga: GPE
+Roy S. Dickens: PERSON

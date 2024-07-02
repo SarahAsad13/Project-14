@@ -1,0 +1,78 @@
+SOX Compliance: ORG
+Oracle ERP (Enterprise Resource Planning: ORG
+Hyperion Planning: ORG
+XX)%: NORP
+November 2009: DATE
+Current Company Name: ORG
+5: CARDINAL
+Center of Excellence: ORG
+Monthly: DATE
+Hertz: ORG
+Sarbanes Oxley: PERSON
+SOX: ORG
+NA: ORG
+Treasury: ORG
+Financial Operations - Evaluated: ORG
+Treasury Operations: ORG
+Financial Operations: ORG
+Coordinated: ORG
+PricewaterHouseCoopers: ORG
+Financial Reporting: ORG
+HERC Fleet Operations - Evaluated: ORG
+HERC: ORG
+Sarbanes Oxley: PERSON
+2006: DATE
+Effective Tax Rate: ORG
+EFT: ORG
+Hertz Annual Bonus Audit - Verified: ORG
+2004, 2005: DATE
+2006: DATE
+Hertz Annual Bonus Awards: EVENT
+the Compensation Committee: ORG
+Hertz Divisions: ORG
+Hertz Claims Management - Reviewed: ORG
+Hertz Claims Processes: ORG
+Third Party Administrators: ORG
+State: ORG
+Licensee/Franchise Audits: ORG
+two: CARDINAL
+Yucatan: GPE
+Sonora States: GPE
+Mexico: GPE
+Nov 2006: DATE
+500: MONEY
+100: MONEY
+the Costa Rica Licensee: ORG
+Sept 2005: DATE
+81K.: MONEY
+January 2003: DATE
+1.5: MONEY
+September 2004 to October 2004: DATE
+the South Capital U-Haul: LOC
+January 1998 to January 2000: DATE
+15%: PERCENT
+Reorganized: ORG
+50%: PERCENT
+3000: MONEY
+Cultural Exchange Program: ORG
+7 1996: DATE
+MONTCLAIR STATE UNIVERSITY: ORG
+State: ORG
+United State: ORG
+Operations: ORG
+5 2004: DATE
+GEORGETOWN UNIVERSITY: ORG
+The Robert McDonough School: ORG
+Operations: ORG
+MBA: WORK_OF_ART
+4 1996: DATE
+UNIVERSITY OF GHANA: ORG
+State: ORG
+Ghana: GPE
+Statistical Analysis: ORG
+Mathematical: PRODUCT
+Financial Reporting & Analytics: ORG
+NPV: ORG
+Sarbanes Oxley: PERSON
+SOX - Tax: ORG
+Inventory Management: ORG

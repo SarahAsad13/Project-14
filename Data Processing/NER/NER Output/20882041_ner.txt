@@ -1,0 +1,55 @@
+Summary
+Mechanical: ORG
+more than 30 years: DATE
+the Halsey Mill: ORG
+Highlights
+
+Project: ORG
+Facility: ORG
+DMF: ORG
+Project Work Process
+Written: ORG
+Excel: PRODUCT
+May 2011: DATE
+the GP Project Work Process: ORG
+4MM: MONEY
+DMF: ORG
+January 2009: DATE
+State: ORG
+76: CARDINAL
+PM: EVENT
+November 2005 to January 2009: DATE
+aÂ: PERSON
+developingÂ: GPE
+Led RCM: PERSON
+Perini: PERSON
+CMMS: ORG
+RCM: ORG
+RCM: ORG
+RCM: ORG
+PM: EVENT
+Passport: ORG
+PM: EVENT
+Managed Machine: ORG
+machinists: ORG
+Process &Tooling Engineer: ORG
+November 2000 to November 2005: DATE
+80%: PERCENT
+Singapore: GPE
+GR&R: ORG
+Coordinated: ORG
+Converting Plant Engineer: ORG
+January 1993 to November 2000: DATE
+Halsey Mill: PERSON
+1MM+: MONEY
+Startup Superintendent: PERSON
+two year: DATE
+Converting Analyst: PERSON
+November 1992 to January 1993: DATE
+Mechanical Engineer: ORG
+January 1984 to November 1992: DATE
+CAD: ORG
+Bachelor of Science : Mechanical Engineering University of Idaho - School of Engineering - City: ORG
+State: ORG
+CAD: ORG
+SPC: ORG

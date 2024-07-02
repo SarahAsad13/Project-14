@@ -1,0 +1,59 @@
+Highlights
+
+Public Relations Strategy
+Marketing Communications
+Media Relations
+Relationship: WORK_OF_ART
+Persuasive: ORG
+October 2014: DATE
+Indonesia: GPE
+Researched: ORG
+each year: DATE
+#BetterU: CARDINAL
+SOHO Global Health: ORG
+May 27, 2015: DATE
+March 5, 2015: DATE
+Mid-Ear Inflammation Â 
+
+Commemorating the International Ear Care Day Â 
+
+Support CSR: ORG
+Corporate Social Responsibility): ORG
+the Himmata Foundation Layover: ORG
+House: ORG
+BPP: ORG
+Indonesian Association of
+Community Public Relations: ORG
+Gunung Sahari: ORG
+Medan: GPE
+Pulo Gadung: PERSON
+May 2013 to September 2014: DATE
+Researched: ORG
+Established: ORG
+Conferred: ORG
+monthly: DATE
+quarterly: DATE
+May 2009: DATE
+May 2013: DATE
+Indonesia: GPE
+Indonesian: NORP
+firsthand: GPE
+Bachelor: ORG
+Broadcast Journalism: PERSON
+2013: DATE
+Kwik Kian Gie School of Business ï¼​ City: ORG
+State: GPE
+Indonesia: GPE
+2004 - 2013: DATE
+Kwik Kian Gie School of Business: ORG
+Broadcast Journalism: PERSON
+One: CARDINAL
+Social Science: ORG
+7: CARDINAL
+BPK Penabur: ORG
+State: GPE
+Indonesia: GPE
+2001 - 2004: DATE
+7: CARDINAL
+High School: ORG
+Social Science: ORG

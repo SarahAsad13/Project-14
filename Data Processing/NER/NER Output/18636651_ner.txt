@@ -1,0 +1,95 @@
+FINANCE: ORG
+OPERATIONS: ORG
+International Business Management Executive: ORG
+Skill Highlights
+
+Organizational Development
+Business Development and Expansion: ORG
+Domestic: GPE
+International
+Markets
+Global Business Expertise
+Financial and Strategic Planning: ORG
+Contracts Management
+Risk Management
+Staff Development and Management
+
+Professional Experience
+Finance: ORG
+Operations: ORG
+03/2015: ORG
+State: ORG
+Multimillion-dollar: MONEY
+P&L Management
+Budget and Forecasting Development: ORG
+2016: DATE
+Oct 2015: DATE
+2016: DATE
+3yr: ORDINAL
+Researched: ORG
+401: CARDINAL
+US: GPE
+35%: PERCENT
+03/2000: CARDINAL
+14 years: DATE
+8: MONEY
+two: CARDINAL
+over $80: MONEY
+25: CARDINAL
+Finance: ORG
+4: CARDINAL
+two: CARDINAL
+three: CARDINAL
+2001: DATE
+Leadership and Executive: ORG
+teamsÂ 
+Strategic: PERSON
+3: CARDINAL
+the Board of Directors
+
+Business Development:
+
+Led company: ORG
+24%: PERCENT
+year over year: DATE
+51%: PERCENT
+2011: DATE
+31%: PERCENT
+2012: DATE
+16%: PERCENT
+2013: DATE
+8: CARDINAL
+25: CARDINAL
+Multinational: GPE
+Multimillion-dollar: MONEY
+P&L: ORG
+annual: DATE
+8: CARDINAL
+Created: ORG
+Legal: GPE
+Broader Ownership: ORG
+Risk Management:
+
+Implemented: WORK_OF_ART
+3 years in a row: DATE
+three: CARDINAL
+Created: ORG
+Controller: PERSON
+09/1997: DATE
+Accounting and Finance: ORG
+Controller: PERSON
+08/1988: CARDINAL
+Accounting and Finance: ORG
+BBA: ORG
+Accounting St Edwards University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+MS Project: ORG
+Visio: PERSON
+Microsoft Dynamics GP: ORG
+Epicor: ORG
+QuickBooks, Salesforce: ORG
+Projector PSA
+
+: PERSON

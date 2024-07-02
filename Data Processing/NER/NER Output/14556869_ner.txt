@@ -1,0 +1,61 @@
+DIGITAL MARKETING INTERN
+Education: ORG
+2015: DATE
+Bachelor of Arts : Psychology: ORG
+3.4: CARDINAL
+Grade Point: PRODUCT
+3.6: CARDINAL
+Vanderbilt: PERSON
+06/2013: CARDINAL
+Digital Marketing Intern Company Name: ORG
+Twitter: PERSON
+Linkedin: GPE
+12/2012: CARDINAL
+Vanderbilt: PERSON
+12/2011: CARDINAL
+Tutor Company Name ï¼​ City: WORK_OF_ART
+State: ORG
+04/2011: CARDINAL
+11/2012: CARDINAL
+Advertising & Public Relations Intern Company Name: ORG
+third: ORDINAL
+06/2012: CARDINAL
+08/2012: CARDINAL
+C.E.O.: ORG
+04/2012: CARDINAL
+08/2012: CARDINAL
+daily: DATE
+300,000: CARDINAL
+monthly: DATE
+Twitter: PERSON
+Foursquare: ORG
+Post Blasts: WORK_OF_ART
+08/2011: CARDINAL
+Data Analysis & Administrative Intern Company Name: ORG
+Performed: ORG
+05/2008: CARDINAL
+05/2010: CARDINAL
+Volunteer Company Name: PRODUCT
+Technical Skills: ORG
+Software: PERSON
+Microsoft Office: ORG
+Microsoft Works: ORG
+Microsoft Customer Relationship Management System: ORG
+Microsoft: ORG
+Adobe Illustrator: ORG
+Pro Tools: PERSON
+Content Management System: ORG
+Hootsuite: PERSON
+1st: DATE
+Place Marketing Campaign: EVENT
+Vanderbilt University Managerial Studies Department: ORG
+Parnassus Marketing: WORK_OF_ART
+Illinois State Scholar: ORG
+Prairie State Achievement Award
+Won "Battle of the Bands: ORG
+Chicagoland: ORG
+2009: DATE
+2010: DATE
+Northside College Preparatory High School Track & Field: ORG
+2010: DATE
+2010: DATE

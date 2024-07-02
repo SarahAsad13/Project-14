@@ -1,0 +1,63 @@
+Information Technology Specialist: ORG
+5 years: DATE
+the U.S. Army: ORG
+1
+year: DATE
+over $1 million: MONEY
+zero: CARDINAL
+Microsoft Certification: ORG
+Complex: NORP
+SharePoint: ORG
+Microsoft Excel: ORG
+Project and Visio
+
+Accomplishments
+Army Achievement Medal: ORG
+Yong San: GPE
+Korea: GPE
+Air Force
+Achievement Medal: ORG
+Operation Iraqi Freedom: EVENT
+the Tiger Team: ORG
+the Windows 7 Migration: ORG
+Good Conduct Medal: PERSON
+fidelity: ORG
+Name City: GPE
+10: CARDINAL
+one: CARDINAL
+over $1 million: MONEY
+the United States: GPE
+Fort Bragg: GPE
+IP: ORG
+LAN: ORG
+WAN: ORG
+Name City: GPE
+Command Post Controller 10/2001: ORG
+Name City: GPE
+State: ORG
+Microsoft: ORG
+Fort Bragg: GPE
+NC: GPE
+2012: DATE
+Comptia: GPE
+Yong San: GPE
+Korea: GPE
+2012: DATE
+Information Technology: ORG
+2009: DATE
+Cisco Routing: GPE
+Northwest Florida State College City: ORG
+Trumbull Career: ORG
+Warren G. Harding City: PERSON
+State: ORG
+Skills
+Army: ORG
+Cisco: GPE
+Information Technology: ORG
+IP: ORG
+LAN: ORG
+Windows 7,: ORG
+Network: ORG
+Routing: GPE
+San: GPE
+WAN: ORG

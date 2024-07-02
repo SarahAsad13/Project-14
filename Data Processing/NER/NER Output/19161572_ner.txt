@@ -1,0 +1,27 @@
+Profile
+Knowledge: PRODUCT
+Professional Experience
+Company: ORG
+January 2008: DATE
+Current Consultant 
+City: PERSON
+Troubleshoot: ORG
+October 2003 to December 2008: DATE
+Created: ORG
+MS Windows, Office: ORG
+September 2003 to November 2006: DATE
+June 2002: DATE
+August 2003: DATE
+Thomas College 2012 Masters of Education City: ORG
+State: ORG
+Thomas College 2010 Bachelor : Computer Information Systems City: ORG
+State Computer Information Systems: ORG
+2002: DATE
+A+: CARDINAL
+Software: PERSON
+2003: DATE
+A+: NORP
+Hardware: GPE
+Office: ORG
+MS Windows: PERSON
+Troubleshoot: ORG

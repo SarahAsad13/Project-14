@@ -1,0 +1,72 @@
+8+ years: DATE
+Team: ORG
+GL: ORG
+AP: ORG
+AR Experience: ORG
+monthly: DATE
+year-end: DATE
+Highlights
+Oracle Financial: ORG
+PeopleSoft: ORG
+Microsoft Dynamics Nav: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Lotus Notes: PRODUCT
+State
+
+Prepare: ORG
+Process: ORG
+Inventory: GPE
+COGS: ORG
+Rebates: PERSON
+Summarize: NORP
+annual: DATE
+monthly: DATE
+quarterly: DATE
+Create: ORG
+Prepare: ORG
+Maintain Sox: ORG
+Cross: PERSON
+Accountant II 09/2013 to 05/2014 Company Name City: PERSON
+Prepared: PERSON
+Financial Reporting: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Processed: GPE
+Nicole Morgan: PERSON
+Resume Page 2: ORG
+2: CARDINAL
+the Accounting department Worked: ORG
+the month/year end: DATE
+Performed: ORG
+month: DATE
+monthly: DATE
+quarterly: DATE
+Pools: ORG
+Syndicates Recognized: PERSON
+Analyzed: ORG
+monthly: DATE
+06/2008 Company Name City: ORG
+Compensation and Planning within Agency Division: ORG
+the year: DATE
+2%: PERCENT
+monthly: DATE
+Financial Analysis Summaries: ORG
+monthly: DATE
+Coordinated: ORG
+monthly: DATE
+Accounting: ORG
+Agency: ORG
+Budget: ORG
+Financial Analysis: ORG
+Financial Reporting: ORG
+Inventory: GPE
+Lotus: ORG
+Notes: PRODUCT
+Microsoft Dynamics: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+month end: DATE
+Oracle Financial: ORG
+PeopleSoft: ORG

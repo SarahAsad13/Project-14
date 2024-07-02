@@ -1,0 +1,104 @@
+Microsoft: ORG
+Excel: PRODUCT
+Assessment and Teaching
+
+Excellent: WORK_OF_ART
+3.9: CARDINAL
+GPA: ORG
+Quick: ORG
+90%: PERCENT
+10%: PERCENT
+Â Â 
+Designed: PRODUCT
+Spanish: NORP
+Community Outreach: PERSON
+80%Â: CARDINAL
+Liaison for Junior Board: ORG
+90: CARDINAL
+75: CARDINAL
+over 50%: PERCENT
+9 months: DATE
+Discover Your Future Program: ORG
+Strategic Plan: PRODUCT
+one: CARDINAL
+Develop: ORG
+Internships: ORG
+4 day Intensive: DATE
+Payson: PERSON
+Facilitated: ORG
+Developed: PRODUCT
+the Exceed Mentoring Program
+Trained: ORG
+Exceed Program: ORG
+monthly: DATE
+Maintained: GPE
+daily: DATE
+06/2013: CARDINAL
+Spanish: NORP
+Teacher/Language Arts: ORG
+7-8: PERCENT
+Core Curriculum Standards: PERSON
+Taught Learner: PERSON
+District Curriculum Planning Committee: ORG
+Spanish Department Representative: ORG
+World Language: LOC
+Developed: PRODUCT
+school days: DATE
+Zumba: LOC
+PE Department: ORG
+05/2008: CARDINAL
+Spanish: NORP
+Grades: PERSON
+6-8: PERCENT
+one year - 90%: DATE
+10%: PERCENT
+Grade Spanish High School
+Placement Test: ORG
+Girl Power Club: ORG
+"The 7 Habits of Highly Effective Teens: WORK_OF_ART
+Sean Covey
+Volunteered: ORG
+Mini Town Counselor and Adviser: PERSON
+08/2003: CARDINAL
+5k: CARDINAL
+Tempe Town Lake: FAC
+daily: DATE
+60: CARDINAL
+OSHA: ORG
+Bachelor of Arts: ORG
+Arizona State University: ORG
+Summa Cum Laude: PERSON
+Elementary Education Certificate: WORK_OF_ART
+Spanish: NORP
+Affiliations: ORG
+Young Nonprofit Professionals Network: ORG
+2014 - Present: DATE
+Phoenix Chamber of Commerce: ORG
+2014 - 2015: DATE
+Volunteer: PRODUCT
+Lincoln: ORG
+Student: GPE
+Arizona Nonprofit Association: ORG
+2015 - Present: DATE
+Native Spanish: NORP
+Italian: NORP
+Administrative, Branding, Budget Management: ORG
+Customer Service Skills: ORG
+Data Analysis: ORG
+Database: GPE
+Instructor, Team Building: ORG
+Leadership Skills: PERSON
+Microsoft Office Suite: ORG
+Newsletter: ORG
+Programming, Recruitment, Relationship Building, Scheduling: ORG
+Spanish: NORP
+Strategic Planning: ORG
+Training: PERSON
+Vision Planning: ORG
+Website
+
+Additional Information
+
+Extensive: ORG
+Current Status: PERSON
+Licensed Zumba: PERSON

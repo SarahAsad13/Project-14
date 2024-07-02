@@ -1,0 +1,38 @@
+RECREATION & SPORTS COORDINATOR
+Objective: ORG
+Recreation Supervisor: PRODUCT
+Name City: GPE
+State Recreation & Sports Coordinator 03/2015: ORG
+daily: DATE
+the calendar year: DATE
+first: ORDINAL
+Assisted: ORG
+daily: DATE
+Name City: GPE
+State Senior Health & Fitness Specialist: ORG
+HealthCalc: ORG
+Name City: GPE
+State Health and Fitness Specialist: ORG
+Maintained: GPE
+Name City: GPE
+State Facility: ORG
+40: CARDINAL
+100,000 square foot: QUANTITY
+daily: DATE
+2014-: CARDINAL
+250: CARDINAL
+The Center for Disease Control and Prevention's: ORG
+CDC: ORG
+Healthiest Center Institute Office (CIO: ORG
+annual: DATE
+the two previous years: DATE
+Center for Disease Control and Prevention Wellness on Worksite: ORG
+2012: DATE
+Bachelor of Science : Kinesiology: ORG
+East Carolina University: ORG
+City: GPE
+State: ORG
+Skills
+
+Microsoft Office Programs
+: ORG

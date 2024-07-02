@@ -1,0 +1,35 @@
+Career Overview
+
+Highly: ORG
+Document: FAC
+Customer: ORG
+Project Management Â 
+
+: ORG
+WordPress: ORG
+Interface Â 
+
+: PERSON
+May 2014: DATE
+Current Construction Work 
+City: ORG
+March 2012: DATE
+Current Owner 
+City: PERSON
+that day: DATE
+daily: DATE
+daily: DATE
+each day: DATE
+these two years: DATE
+Skills Used Problem: ORG
+daily: DATE
+daily: DATE
+June 2008 to September 2008: DATE
+first: ORDINAL
+Skills Used Doing: ORG
+Training
+Highline Community College: ORG
+Windows: ORG
+Microsoft: ORG
+Mac: PERSON
+Apple: ORG

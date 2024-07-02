@@ -1,0 +1,60 @@
+SR: ORG
+FREELANCE: GPE
+Apparel, Packaging: ORG
+the Product Development: ORG
+Cut n Sew: ORG
+Woven: PERSON
+Indesign-CC: ORG
+Microsoft: ORG
+Word: PERSON
+Power Point: ORG
+Lotus Notes: ORG
+Outlook: ORG
+Ned
+Graphics-Easy Weave: PERSON
+Kaledo: PERSON
+PDM: ORG
+Freelance Designer: PERSON
+Name City: GPE
+BALLARD DESIGNS/POTTERY BARN KIDS: ORG
+TJX: ORG
+DENNISON: PRODUCT
+Apparel Designer: PERSON
+10/2002: CARDINAL
+06/2012: CARDINAL
+Name City: GPE
+Men's: ORG
+Children: PERSON
+Grew Children's: PERSON
+Sweater: NORP
+100,000: MONEY
+10,000.000.00: MONEY
+10 years: DATE
+600: CARDINAL
+4 month: DATE
+30: CARDINAL
+WIP: ORG
+3: CARDINAL
+20: CARDINAL
+Freelance Contractors: ORG
+10/2002: CARDINAL
+Name City: GPE
+each season: DATE
+PDM: ORG
+Apparel: ORG
+MMC: ORG
+Asia: LOC
+2: CARDINAL
+Name City: GPE
+cor: ORG
+Buyer: LOC
+seasonal: DATE
+4: CARDINAL
+Training
+Bachelor of Science : Textile Design: PERSON
+1992: DATE
+State: ORG
+Sourcing/Negotiation  Print Repeat/Textile Design
+Technical Fit  Knitwear Expert
+
+: ORG

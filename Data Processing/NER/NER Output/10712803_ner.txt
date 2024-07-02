@@ -1,0 +1,107 @@
+20 years: DATE
+Industrial Automation: ORG
+Process Engineering: ORG
+Skill Highlights
+
+Proficient: ORG
+02/2013: CARDINAL
+Siemens PLC's: ORG
+WINCC: DATE
+SCADA: NORP
+Performed: ORG
+PLC: ORG
+Name City: GPE
+Allen-Bradley PLC's: ORG
+ControLogix: ORG
+CompactLogix: ORG
+FactoryTalk View ME: WORK_OF_ART
+SE: PERSON
+over $1MM: MONEY
+Buscetto: PERSON
+Navatta: ORG
+Zilli-Bellini: ORG
+PLC: ORG
+PLC: ORG
+NFPA 70E: ORG
+NEC: ORG
+5: CARDINAL
+Coordinated: ORG
+6: CARDINAL
+Performed: ORG
+PLC: ORG
+Allen-Bradley SLC500: PERSON
+Safety & Environmental: ORG
+State: ORG
+Tyco: ORG
+2001: DATE
+Mechanical Systems - HVAC: ORG
+Compressors: NORP
+Maintenance - Systems: ORG
+Housekeeping: GPE
+Supervision - Manpower: ORG
+Labor: ORG
+Environmental, Safety and Health: ORG
+Microsoft Access: ORG
+Performed: ORG
+Converted: ORG
+Modicon PLC: ORG
+Allen-Bradley PLC: ORG
+Wonderware: ORG
+PLC: ORG
+AC/DC: ORG
+Maintenance Technician 04/1995: PERSON
+Name City: GPE
+PLC: ORG
+Apple: ORG
+Completed PLC: ORG
+Electrician: PERSON
+Performed: ORG
+PLC: ORG
+AC: ORG
+DC: GPE
+AC: ORG
+DC: GPE
+Computerized Maintenance Management: ORG
+AC: GPE
+DC: GPE
+P.L.C.: ORG
+Name City: GPE
+VHF: ORG
+man-hours: TIME
+quarterly: DATE
+2015: DATE
+Certificate of Completion: WORK_OF_ART
+2004: DATE
+One: CARDINAL
+Yuba Community College - Business Management City: ORG
+2003: DATE
+Butte College - Basic Electronics: ORG
+State: ORG
+1985: DATE
+Elk Creek High School City: ORG
+One: CARDINAL
+Better Process Control School City: ORG
+State: GPE
+USA: GPE
+Apple: ORG
+CA: ORG
+DC: GPE
+Hammer: PERSON
+Labor: ORG
+Logistics: ORG
+Mechanical: ORG
+Microsoft Access: ORG
+2000: DATE
+Microsoft: ORG
+Microsoft Windows NT Server: ORG
+NEC: ORG
+Novell: ORG
+Personnel: ORG
+PLC: ORG
+Safety: ORG
+SCADA: ORG
+Siemens PLC: ORG
+UHF: ORG
+VHF: ORG
+View: WORK_OF_ART
+Wonderware: ORG

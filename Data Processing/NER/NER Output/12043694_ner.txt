@@ -1,0 +1,141 @@
+VEHICLE: ORG
+Career Focus: FAC
+OSHA: ORG
+NAVOSH: ORG
+Verbal: ORG
+Windows Server: PERSON
+2008: DATE
+Management of Windows 7
+Active Directory Windows Server: ORG
+2008: DATE
+R2
+Administration of Active Directory: ORG
+2008: DATE
+R2 Components: ORG
+IP Addressing & Name Resolution
+Network Components: ORG
+2008: DATE
+R2
+Windows Server 2008: WORK_OF_ART
+70-640: CARDINAL
+70-642: CARDINAL
+70-646: CARDINAL
+2003: DATE
+Server: PERSON
+2008: DATE
+Windows 7 Domain Integration & Client Support: ORG
+DHCP: ORG
+RRAS: ORG
+IPSEC: ORG
+TCP/IP, & Computer Troubleshooting: ORG
+Windows 7: EVENT
+Windows Server: PERSON
+2008: DATE
+IP: ORG
+IP Routing: ORG
+IPsec: ORG
+DHCP: ORG
+Remote Access: ORG
+2008: DATE
+Windows Server: PERSON
+2008 AD: DATE
+Domain Controllers: ORG
+Forests: NORP
+Windows Server: PERSON
+2008: DATE
+AD Group Policy: ORG
+Managing Files: PERSON
+Backup: GPE
+Patch Management and Security: ORG
+Certificate Services: ORG
+Server Virtualization: PERSON
+TCP/IP: ORG
+CIDR: ORG
+Training: PERSON
+2016: DATE
+Information System: LAW
+SecurityÂ: NORP
+2012: DATE
+State: ORG
+2011: DATE
+Southern University: ORG
+Information Security
+Work Experience: ORG
+04/2008: PERSON
+06/2012: CARDINAL
+fifth: ORDINAL
+Test Measurement Diagnostic
+Equipment: WORK_OF_ART
+Performed: ORG
+OSHA: ORG
+670-1: CARDINAL
+over 125: CARDINAL
+monthly: DATE
+quarterly: DATE
+approximately $3 million: MONEY
+Coordinated: ORG
+Tools: PERSON
+Iraq: GPE
+May 2009: DATE
+Researched: ORG
+Military Intelligence: ORG
+12-month: DATE
+Operation Iraqi Freedom
+Campaign: EVENT
+eight: CARDINAL
+01/2000: CARDINAL
+Organizational Apprentice Maintenance Technician Organizational Maintenance Technician Company Name: ORG
+01/2000: CARDINAL
+Tool Petty Officer and Training Petty Officer: ORG
+Tool Petty Officer and Training Petty Officer: ORG
+Maintained: GPE
+Corrosion Control - As an Aviation Mechanic: ORG
+OSHA: ORG
+NAVOSH: ORG
+60: CARDINAL
+U.S.: GPE
+Navy: ORG
+60: CARDINAL
+FA-18 E/F Super Hornets: PRODUCT
+$3.6 billion: MONEY
+Navy: ORG
+E3: GPE
+OSHA: ORG
+NAVOSH Hazmat: ORG
+Ship Board: ORG
+Rim
+Pac Maneuvers: ORG
+1995: DATE
+1997: DATE
+two: CARDINAL
+1996: DATE
+1997: DATE
+the F/A 18: LAW
+Carrier Qualifications: ORG
+U.S.S.: GPE
+Lincoln: ORG
+Tool Petty Officer: PERSON
+80,000: MONEY
+20: CARDINAL
+120,000: MONEY
+11/1994: CARDINAL
+Aviation Mechanic Company Name: ORG
+Certified Pursuing Network Security Certification Centriq Administrator Program: ORG
+Training Rollover: ORG
+MRAP: GPE
+Humvee's Training IED Training MRAP's: ORG
+Ambush Protected: PERSON
+Vehicles Training Combat Life Saver Skills Training Aberdeen Proving Ground 91B: ORG
+Training F/A: PERSON
+18: CARDINAL
+Markings Ship Board Fire Fighting: ORG
+Skills: ORG
+Client Support: PERSON
+IP Configuration: ORG
+Excel: PRODUCT
+Word: PERSON
+Windows 7: PERSON
+Routing: GPE
+TCP/IP Protocol: ORG
+Ribbon Overseas
+Service: ORG

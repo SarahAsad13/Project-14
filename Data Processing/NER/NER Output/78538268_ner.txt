@@ -1,0 +1,54 @@
+Accomplishments/ Skills & Attributes: ORG
+the St. Philips' College Truck Driving Program: ORG
+80%: PERCENT
+Dave Thomas Foundation: ORG
+Proficient Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+10/2012: CARDINAL
+State Community Relations: ORG
+Initiated: ORG
+Houston: GPE
+Solid Waste Management Department: ORG
+Coordinated: ORG
+State Program: ORG
+Organized: ORG
+Generated: ORG
+weekly: DATE
+20-30: CARDINAL
+Adhere to Privacy Act and Health Insurance Portability & Accountability Act: WORK_OF_ART
+Created: ORG
+St Philips College: ORG
+International Truck Driving Program: ORG
+Recruiter: PERSON
+summer: DATE
+University of Houston Clear Lake: ORG
+State: GPE
+US: GPE
+Generalist w EC-12
+: PERSON
+Special Education: ORG
+University of Houston Clear Lake: ORG
+Houston: GPE
+TX: ORG
+Anticipated: NORP
+Spring 2016: DATE
+Activities/Community
+Involvement: ORG
+Volunteer: PERSON
+Volunteer: PERSON
+the Greater Arc: ORG
+San Antonio: GPE
+annual: DATE
+Juneteenth: GPE
+Council for Exceptional Children
+Certifications: ORG
+Balanced Dave Thomas Foundation: ORG
+Skills
+Marketing, Clients: ORG
+Recruiter, Recruitment, Training: ORG
+Solid Waste Management: ORG
+Liaison, Customer Service: ORG
+Database: GPE
+Training Programs: ORG

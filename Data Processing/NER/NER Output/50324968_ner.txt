@@ -1,0 +1,42 @@
+AKIRA Chicago: ORG
+Education: ORG
+BBA: ORG
+2019: DATE
+DePaul University: ORG
+State: ORG
+GPA: ORG
+3.0Â: CARDINAL
+Economics: ORG
+105: CARDINAL
+Professional Business Writing, Business Ethics: ORG
+Chicago: GPE
+20: CARDINAL
+American Apparel: ORG
+Chicago: GPE
+40-55%: PERCENT
+Apr: PERSON
+2015: DATE
+Upsell: ORG
+KPI: ORG
+80: MONEY
+3.0: CARDINAL
+300: MONEY
+Created: ORG
+15%: PERCENT
+Nov 2014: DATE
+2015: DATE
+Assisted: ORG
+Maintained: GPE
+Volunteer Work
+Pre-Health Volunteer: WORK_OF_ART
+Illinois Advocate Masonic Health Center: ORG
+2013: DATE
+Advanced: PERSON
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+5: CARDINAL
+CSS: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT

@@ -1,0 +1,78 @@
+BUSINESS DEVELOPMENT: ORG
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Outlook *Salesforce.com CRM: ORG
+Customer Relationship Management: ORG
+July 2010: DATE
+Current Company Name: ORG
+EKPC: EVENT
+AT&T: ORG
+Time Warner: ORG
+Industrial/Commercial: ORG
+January 2012: DATE
+500,000: MONEY
+7
+months: DATE
+first: ORDINAL
+46 days: DATE
+1,000,000: MONEY
+180 days: DATE
+1,056,737: CARDINAL
+22: CARDINAL
+Account Executive: ORG
+November 2009 to June 2010: DATE
+Lean Six Sigma Consulting: ORG
+Consulting: ORG
+Louisville: GPE
+Lexington Markets: ORG
+Green Belt Training: PERSON
+Lean Six Sigma: EVENT
+Account Executive: ORG
+January 2008 to June 2009: DATE
+healthcare: ORG
+monthly: DATE
+January 2002 to January 2008: DATE
+Kentucky: GPE
+$25 million: MONEY
+Expense Management Solutions: ORG
+annual: DATE
+between $10
+million and $250 million: MONEY
+Auto, Construction, Medical: ORG
+138%: PERCENT
+14: CARDINAL
+$2mm: MONEY
+10%: PERCENT
+January 1994 to January 2002: DATE
+more than $4 million: MONEY
+January 1991 to January 1994: DATE
+Broke: ORG
+$2 million: MONEY
+13: CARDINAL
+Mechanical Engineering University of Kentucky: ORG
+City: GPE
+State Mechanical Engineering
+Professional Affiliations
+Professional Development, Skills & Seminars Toastmasters International: ORG
+Rainmaker Business Development: ORG
+2014: DATE
+Dale
+Carnegie: PERSON
+APC: ORG
+2008: DATE
+American Express University: ORG
+Achieve Global: PERSON
+2000: DATE
+Effective Negotiations: EVENT
+Karass: LOC
+1998: DATE
+Dale Carnegie: PERSON
+1992: DATE
+Skills: ORG
+Consulting: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Salesforce.com CRM: ORG
+Six Sigma: PERSON

@@ -1,0 +1,76 @@
+10 years: DATE
+Highlights
+
+Extensive: WORK_OF_ART
+Research: ORG
+the
+department: ORG
+Database: GPE
+6-20: CARDINAL
+Florida: GPE
+Name City: GPE
+State Service Advocate: ORG
+Clinical Support: PERSON
+â€¢ Research: WORK_OF_ART
+â€¢ Coordinate: PRODUCT
+Provider Service: ORG
+â€¢ Identify: PRODUCT
+â€¢Maintain: CARDINAL
+â€¢ Moderate: PRODUCT
+9+ years': DATE
+â€¢: PRODUCT
+â€¢: PRODUCT
+CPT-4: PERSON
+â€¢: PRODUCT
+BCBSF: ORG
+Name City: GPE
+State Service Advocate: ORG
+Over 65: CARDINAL
+MIPPA: ORG
+Medicare Advantage: ORG
+Health Care Reform: ORG
+BlueCare: PRODUCT
+HMO: ORG
+Blue Options PPO: ORG
+Blue Select PPO: ORG
+Dental and Life, Small and Large Group: ORG
+Assist: NORP
+Train: GPE
+Research: ORG
+Name City: GPE
+State Service Advocate: ORG
+Enrollment Maintenance: PERSON
+Over 65: CARDINAL
+MIPPA: ORG
+MedAdvantage: ORG
+65: CARDINAL
+Healthcare Reform: ORG
+BlueCare HMO: ORG
+Blue Options: ORG
+PPO: ORG
+Blue Select PPO: ORG
+Dental: ORG
+Create: ORG
+Prepare SQM: ORG
+SME: ORG
+Process: ORG
+2014: DATE
+Florida State College: ORG
+Jacksonville: GPE
+City: GPE
+State: ORG
+6-20: CARDINAL
+2004: DATE
+City: GPE
+Social Welfare Minor: ORG
+Strong: PERSON
+2001: DATE
+Jacksonville University: ORG
+State: GPE
+USA: GPE
+Associate of Arts : Psychology: WORK_OF_ART
+St Johns River Community College: ORG
+City: GPE
+Skills
+
+Healthcare:: ORG

@@ -1,0 +1,34 @@
+growÂ: PRODUCT
+Compelling: ORG
+4: CARDINAL
+2014,Awarded: CARDINAL
+2014: DATE
+Awarded Top Sales
+Rep: WORK_OF_ART
+2015Â: DATE
+September 2017: DATE
+Current Company Name: ORG
+224%Â byÂ: MONEY
+OTF: ORG
+Assisting the Studio: WORK_OF_ART
+monthly: DATE
+OTF: ORG
+July 2016 to September 2016: DATE
+January 2013 to January 2016: DATE
+97%: PERCENT
+Major: ORG
+Upsold: PERSON
+monthly: DATE
+10: CARDINAL
+annual: DATE
+Miami: GPE
+West Palm: GPE
+The Art Institute of Ft: ORG
+2002: DATE
+Coconut Creek High School: ORG
+Spanish: NORP
+Skills: ORG
+Experienced: PERSON
+FileMaker: ORG
+Media Production: ORG
+managingÂ: PERSON

@@ -1,0 +1,129 @@
+Career Overview
+
+AVP /: WORK_OF_ART
+â€¢: CARDINAL
+Microsoft: ORG
+2000: CARDINAL
+Microsoft: ORG
+â€¢: PRODUCT
+â€¢ Operating Systems: Installation & support: WORK_OF_ART
+Microsoft Windows: ORG
+Windows: ORG
+8.1: CARDINAL
+â€¢ Sever Systems: Installation & support: WORK_OF_ART
+Microsoft Server: ORG
+Server 2012: PERSON
+Microsoft Active Directory: ORG
+â€¢ Database Software: Installation & support: WORK_OF_ART
+Microsoft: ORG
+SQL: PERSON
+SQL 2012: ORG
+Microsoft Access: ORG
+â€¢ ERP Software: WORK_OF_ART
+OMD: ORG
+Installation &: ORG
+Microsoft Navision: ORG
+R2: CARDINAL
+Microsoft Office: ORG
+97 - 2013: DATE
+â€¢ Email Programs:: WORK_OF_ART
+Microsoft Exchange: ORG
+Ipswicth Imail: ORG
+Magento: ORG
+â€¢ Familiarity: PRODUCT
+Cisco: GPE
+Fortinet Firewalls: PERSON
+Netgear: PERSON
+Cisco: GPE
+â€¢ Expert: PRODUCT
+Smartphone: ORG
+Windows Mobile: ORG
+Blackberry: ORG
+Android: ORG
+IOS
+
+Sprint Coral: ORG
+May 2000: DATE
+Name City: GPE
+State Information Technology Coordinator: ORG
+2003 & 2008: DATE
+the year: DATE
+Club Winner: PERSON
+the month: DATE
+Sole: NORP
+150: CARDINAL
+300,000: MONEY
+Navision ERP System Continual: ORG
+Navision Upgraded: ORG
+Navision: ORG
+SQL: ORG
+2000: DATE
+Navision Created: ORG
+National: ORG
+2006: CARDINAL
+Negotiate: ORG
+Microsoft: ORG
+Supporting Communicating between Management & Employees Design: ORG
+2003: DATE
+Windows NT: LOC
+Maintain: PRODUCT
+Coordinate: ORG
+January 1996: DATE
+Name City: GPE
+State Information Systems: ORG
+Microsoft: ORG
+2003: CARDINAL
+WI-FI: ORG
+1 1988: DATE
+Curry College 
+City: ORG
+State Business Management 
+Bachelor of Arts Business Management
+Certifications: ORG
+Microsoft Certified Professional -NT: ORG
+4: CARDINAL
+Microsoft: ORG
+Comp-TA: ORG
+Microsoft Certified System Administrator: ORG
+Microsoft: ORG
+Design and Administration Microsoft: ORG
+II: CARDINAL
+III Navision Report Writer I & II: ORG
+Skills: ORG
+Cisco: GPE
+Cisco: GPE
+Hardware: ORG
+Content: ORG
+Coral: ORG
+Database: GPE
+Email: PERSON
+ERP: ORG
+Firewalls: ORG
+Lotus: ORG
+Microsoft Access: ORG
+Microsoft Access: ORG
+Microsoft Certified Professional: ORG
+Microsoft Certified: ORG
+Microsoft Exchange: ORG
+Office: ORG
+Microsoft Office: ORG
+97: CARDINAL
+Windows: GPE
+2000: DATE
+Microsoft Windows 2003: ORG
+Microsoft: ORG
+4, NT 4 0: DATE
+Microsoft Windows NT4 0: ORG
+Windows: NORP
+Operating Systems: ORG
+Organizing, Report Writer: ORG
+Microsoft: ORG
+SQL: ORG
+SQL 2000: ORG
+Sybase, System Administrator: ORG
+Visio: PERSON
+American Universities: ORG
+Achievement Academy - National: ORG
+Sanford R. Levitt - 1 -
+
+: PERSON

@@ -1,0 +1,38 @@
+INTERN: ORG
+Mediation: ORG
+Solution
+Development Impressive: ORG
+May 2012: DATE
+State: GPE
+USA: GPE
+State University: ORG
+December 2014: DATE
+Bachelor of Health Administration : Health Administration City: ORG
+Deans: NORP
+2014: DATE
+Governors State University: ORG
+2014: DATE
+State: GPE
+USA: GPE
+Dean: PERSON
+Skill Highlights: PERSON
+Motivation: ORG
+Critical: ORG
+September 2014 to July 2015: DATE
+CME: ORG
+Advocate South Suburban
+Hospital: ORG
+Maintained: GPE
+Maintained: GPE
+the [year] fiscal year: DATE
+January 2002 to January 2014: DATE
+daily: DATE
+Networked: PRODUCT
+Organized: ORG
+Maintained: GPE
+January 2008 to January 2012: DATE
+January 2002 to January 2011: DATE
+Professional Affiliations: ORG
+Healthcare Administration: ORG
+SHCMA, Governors State University: ORG
+2012: DATE

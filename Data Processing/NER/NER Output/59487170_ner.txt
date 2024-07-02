@@ -1,0 +1,132 @@
+Professional Profile
+Highly: ORG
+Microsoft: ORG
+Oranized
+Trustworthy
+Team Player: PERSON
+Volunteer
+Works: PERSON
+Process Improvement
+
+Updated: WORK_OF_ART
+Name City: GPE
+Current
+
+Oversee Welcome Desk: ORG
+Municipal Services: ORG
+Morgan Hill: ORG
+Engagement: PERSON
+Rebuild: ORG
+Assess: ORG
+Name City: GPE
+State Health and Wellness: ORG
+05/2015: PERSON
+65: CARDINAL
+the day to day: DATE
+the Health and Wellness: ORG
+11: CARDINAL
+the Silicon Valley YMCA: LOC
+Prepare weeklyÂ: PERSON
+quarterly: DATE
+Track: PERSON
+hours: TIME
+ADP
+Oversee Health and Wellness Coordinator: ORG
+Mentor: LOC
+Health and Wellness Coodinator
+Develop: ORG
+Oversee: ORG
+Coordinate: FAC
+AED: ORG
+Wellness Coach: ORG
+2012: DATE
+Volunteer: PRODUCT
+the YMCA Annual Giving Campaign: ORG
+2012: DATE
+SEER: ORG
+the City of Morgan Hill: GPE
+CRC: ORG
+2012: DATE
+Coordinate: FAC
+Get Fit
+Coordinate: PERSON
+the Indoor Triathlon: ORG
+El Toro: ORG
+40/40: CARDINAL
+March: DATE
+Madness: GPE
+Morgan Hill: ORG
+YMCA: LOC
+Name City: GPE
+State Health and Wellness Coordinator: ORG
+Oversee: ORG
+17: CARDINAL
+the day to day: DATE
+monthly: DATE
+monthly: DATE
+Track: PERSON
+hours: TIME
+ADP: ORG
+FitLinxx: ORG
+Develop: ORG
+the Health and Wellness: ORG
+the fitness department budget: ORG
+Created: ORG
+CRC Youth: ORG
+Mini Me: PERSON
+Youth Fitness: ORG
+Coordinate: FAC
+Zumba: PERSON
+UJamm: ORG
+the past 3 years: DATE
+Volunteer: PRODUCT
+the YMCA Annual Giving Campaign: ORG
+the past 3 years: DATE
+SEER: ORG
+Created: ORG
+CRC: ORG
+the past 2 years: DATE
+Coordinate: FAC
+Get Fit
+Coordinate: PERSON
+the Indoor Triathlon: ORG
+El Toro: ORG
+40/40: CARDINAL
+March: DATE
+Madness: GPE
+the Health and Wellness: ORG
+11: CARDINAL
+Danny and Fred: PERSON
+Health and Wellness Director: ORG
+Name City: GPE
+State Group Fitness Instructor: ORG
+Assess: ORG
+Kick Boxing: PERSON
+Turbo Kick: PERSON
+RIP: PERSON
+Step: ORG
+Boot Camp: ORG
+Zumba: PERSON
+Zumba Kids: PERSON
+Zumba Gold: PERSON
+Name City: GPE
+State: ORG
+Prepared: PERSON
+Prepared: PRODUCT
+Prepared: PERSON
+Researched: ORG
+Conducted: ORG
+Acted: ORG
+Prepared: PRODUCT
+Nampa: GPE
+Chamber of Commerce: ORG
+Bachelor of Arts: ORG
+2003: DATE
+Northwest Nazrene University: ORG
+City: GPE
+State Liberal Arts
+Credentials: ORG
+First Aid: ORG
+AED: ORG
+YMCA Diabetes Prevention Program: ORG
+FitLinxx: ORG

@@ -1,0 +1,47 @@
+Profile
+Write: ORG
+Tailor: PERSON
+26 years: DATE
+8 years: DATE
+Medical, Research & Development: ORG
+10 plus years: DATE
+years: DATE
+Project Engineer: ORG
+Project Engineer: ORG
+Skills
+
+Extensive: ORG
+Project Management & Estimation: ORG
+Develop Proposals: ORG
+Prepare: ORG
+Jan 2009 to Jan 2014: DATE
+Proposal: PERSON
+PROJECT VALUE ON TIME: ORG
+ENON FIELD CONVERSION & WATER DAMAGE REMEDIATION: ORG
+GRACE BAPTIST CHURCH: ORG
+Project Engineer: ORG
+Jan 2002: DATE
+Jan 2009: DATE
+man-hour: TIME
+Project Manager & Project Engineer Company Name: ORG
+first: ORDINAL
+Energy & Environmental Design: ORG
+the Green Building Council: ORG
+the Friends Center Renovation Project: ORG
+Jan 2001 to Jan 2002: DATE
+State: ORG
+Jan 1996 to Jan 2001: DATE
+State: ORG
+Jan 1994 to Jan 1996: DATE
+State: ORG
+Project Designer/Shop Drawing Clerk: ORG
+Jan 1990 to Jan 1994: DATE
+Training
+Bachelor of Science , Mechanical Engineering Lehigh University Mechanical Engineering: PERSON
+Affiliations: ORG
+American Society of Heating: ORG
+CONVERSION: GPE
+Council: ORG
+Platinum: ORG
+Project Management, Proposals: ORG
+Proposal, Renovation: WORK_OF_ART

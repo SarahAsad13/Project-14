@@ -1,0 +1,100 @@
+Highlights
+Microsoft Excel: ORG
+PowerPoint: ORG
+Capital IQ: ORG
+FactSet: ORG
+SNL: ORG
+Bloomberg: PERSON
+SPSS: ORG
+July 2015: DATE
+Current Financial Analyst: ORG
+AIG: ORG
+AIG: ORG
+Selected Transaction Experience: ORG
+500 Million: CARDINAL
+Craft: ORG
+Expand Commercial Business: ORG
+AIG: ORG
+first: ORDINAL
+20 Million Investment in Biotechnology Company Research: MONEY
+over 10: CARDINAL
+70: CARDINAL
+2015: DATE
+AIG: ORG
+June 2014 to August 2014: DATE
+Supported Industrials Coverage Group: ORG
+Selected Transaction Experience: ORG
+Initial Public Offering: ORG
+9: CARDINAL
+170 million: CARDINAL
+Buy-Side M&A: ORG
+8 years: DATE
+100 million: CARDINAL
+Strategic Planning Analysis Identified: ORG
+$100 million: MONEY
+Pitches and Client Presentations: ORG
+50: CARDINAL
+5: CARDINAL
+September 2013 to December 2014: DATE
+30: CARDINAL
+1,000: MONEY
+Bloomberg Analytics Boot Camp: ORG
+500: CARDINAL
+24: CARDINAL
+New York: GPE
+NY: ORG
+Participant: ORG
+May 2013 Â: DATE
+one week: DATE
+Analytics and Sales: WORK_OF_ART
+Bloomberg Terminal: ORG
+10: CARDINAL
+Yale University: ORG
+May 2015: DATE
+Diploma City: GPE
+GPA: ORG
+GPA: ORG
+3.75/4.0: CARDINAL
+GPA: ORG
+3.77: CARDINAL
+GPA: ORG
+3.89: CARDINAL
+GPA: ORG
+3.75/4.0: CARDINAL
+GPA: ORG
+3.77: CARDINAL
+GPA: ORG
+3.89 2nd: CARDINAL
+Corporate Ethics: ORG
+Yale-China Association Symposium on Global Strategic Leadership Â: ORG
+Relevant
+Coursework: Strategic Management, Accounting & Valuation Â: PERSON
+2390: DATE
+800: CARDINAL
+Verbal: ORG
+790: CARDINAL
+800: CARDINAL
+Cumulative GMAT: ORG
+770: CARDINAL
+Mandarin Chinese: NORP
+Spanish: NORP
+Interests: NORP
+Yelp
+Additional Information
+
+Interests: Traveling: ORG
+Skills
+Accounting, Biotechnology: ORG
+Bloomberg: PERSON
+Client: GPE
+Mandarin Chinese: NORP
+Math: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Presentations,: ORG
+Research, Sales: ORG
+SAT: ORG
+Spanish: NORP
+SPSS: ORG
+Symposium, Transportation, Valuation: ORG

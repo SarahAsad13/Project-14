@@ -1,0 +1,66 @@
+9 years: DATE
+Highlights: GPE
+Time: ORG
+Strong: PERSON
+Resourceful
+Strong: PERSON
+9th: ORDINAL
+daily: DATE
+9th: ORDINAL
+Foster: PERSON
+Remain: ORG
+Adult Education Summer School: ORG
+James Irvin Education: PERSON
+Wesley Chapel High School: ORG
+English: LANGUAGE
+11th: ORDINAL
+12th: ORDINAL
+daily: DATE
+11th: ORDINAL
+12th: ORDINAL
+Foster: PERSON
+Remain: ORG
+06/2016: ORG
+7th: ORDINAL
+daily: DATE
+7th: ORDINAL
+Foster: PERSON
+Remain: ORG
+10/2014: CARDINAL
+2nd: CARDINAL
+daily: DATE
+2nd: CARDINAL
+Foster: PERSON
+Remain: ORG
+10/2014: CARDINAL
+the City Commission: ORG
+Compiles: PRODUCT
+Record City Commission: ORG
+minutes: TIME
+Compile: PRODUCT
+the Municode Corporation: ORG
+quarterly: DATE
+Compiles: GPE
+City Commission: ORG
+Obtains: PERSON
+State: ORG
+Florida: GPE
+daily: DATE
+9th: ORDINAL
+Foster: PERSON
+Remain: ORG
+01/2004: CARDINAL
+Bookkeeper Company Name: ORG
+Communicated: ORG
+Communicated: ORG
+Principal: NORP
+10/2002: CARDINAL
+01/2004: CARDINAL
+III Company: PERSON
+December 2011: DATE
+Reading Endorsed: PERSON
+3.59: CARDINAL
+May 1991: DATE
+State Advertising Design: ORG
+English 3, English 4: DATE
+Secretarial: GPE

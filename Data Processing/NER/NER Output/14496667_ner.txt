@@ -1,0 +1,66 @@
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: PRODUCT
+Outlook
+Knowledge of State: PERSON
+Excellent Communicator:: WORK_OF_ART
+Verbal: ORG
+Provide Administrative: PERSON
+Oversee: ORG
+Assist Contracts and Accounts
+Payable: ORG
+PowerPoint: ORG
+quarterly: DATE
+Prepare: ORG
+Compile: PRODUCT
+Maintain: PERSON
+Excel: PRODUCT
+Provide: NORP
+fiscal year: DATE
+Confer: PERSON
+Intern: FAC
+11/2010: CARDINAL
+Name City: GPE
+Liaison: PERSON
+EPRS: ORG
+GIC: ORG
+Maintained: GPE
+Documents Performed: PERSON
+weekly: DATE
+Obtained: ORG
+Assisted: ORG
+MCB: ORG
+Summer Internship Opening and Closing Ceremonies: ORG
+Translated: ORG
+Spanish: NORP
+Coordinate: FAC
+MCB: ORG
+11/2008: DATE
+Name City: GPE
+Provided Customer: ORG
+TD Garden: FAC
+Provided: ORG
+Bachelor of Science : Business Management Accounting: ORG
+May 16, 2015: DATE
+Bridgewater State University City: ORG
+State
+
+Business Management
+
+Minor in Psychology, Accounting & Finance: ORG
+English: LANGUAGE
+Spanish: NORP
+Accounts Payable: ORG
+Contracts: ORG
+Customer: ORG
+English: LANGUAGE
+Finance: ORG
+Financial, Financial Analyst: ORG
+Human Resources: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word, Communicator: ORG
+People Soft: PERSON
+Spanish: NORP

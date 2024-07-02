@@ -1,0 +1,49 @@
+ASSEMBLY: ORG
+16Â  years: DATE
+Skills: ORG
+KRONOS: ORG
+SAP: ORG
+EWI: ORG
+Fuel Systems: ORG
+Aircraft Inspection
+Flight Controls
+Hydraulic Systems
+Transmissions
+
+Accomplishments
+Awarded: ORG
+2: CARDINAL
+One: CARDINAL
+second: ORDINAL
+Quality Assurance: FAC
+Assembly Mechanic 09/2014: ORG
+08/2016: CARDINAL
+Name City: GPE
+Boeing: ORG
+737: PRODUCT
+3: CARDINAL
+2: CARDINAL
+Name City: GPE
+Performed: ORG
+Assembly: ORG
+V-22: PRODUCT
+10/2010: CARDINAL
+60: CARDINAL
+16: CARDINAL
+QAR: ORG
+Performed: ORG
+FOD: ORG
+Flightline Troubleshooting
+Knowledgeable: ORG
+F-110 GE Powerplants: LAW
+Navy: ORG
+F-14: PRODUCT
+402: CARDINAL
+Navy: ORG
+F-18: ORG
+09/2000: CARDINAL
+Name City: GPE
+T-34 Mentor: PERSON
+Skills: ORG
+Intermediate Maintenance
+Inspection: WORK_OF_ART

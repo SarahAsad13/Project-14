@@ -1,0 +1,54 @@
+Psychology and Sociology: WORK_OF_ART
+Problem: PRODUCT
+Client: GPE
+Client: PERSON
+Quick: ORG
+Compassionate: ORG
+Youth Advocate 09/2015 Company: ORG
+Name City: GPE
+12-18: CARDINAL
+Counsel: ORG
+Quickly: ORG
+Name City: GPE
+Maintain: PRODUCT
+06/2008: ORG
+07/2011: CARDINAL
+Name City: GPE
+Modify: ORG
+10/2004: CARDINAL
+Name City: GPE
+Refer: NORP
+School Administration/Supervision: ORG
+45+ hours: TIME
+Certified in Special Education K-12
+Passed the Praxis Series: WORK_OF_ART
+10 years: DATE
+Five years: DATE
+Silver National Career Readiness Certificate
+
+Education: ORG
+Master of Education: WORK_OF_ART
+May 2016: DATE
+LIBERTY UNIVERSITY City: ORG
+GPA: ORG
+3.57: CARDINAL
+GPA: ORG
+3.57: CARDINAL
+May 2003: DATE
+NORTH CAROLINA WESLEYAN COLLEGE City: ORG
+GPA: ORG
+2.72: CARDINAL
+2.72: CARDINAL
+CAMBRIDGE: GPE
+COLLEGE City: GPE
+GPA: ORG
+3.82: CARDINAL
+GPA: ORG
+3.82: CARDINAL
+1997: DATE
+Skills
+
+Mental Health, Excel: ORG
+PowerPoint: ORG
+Windows: ORG
+Microsoft: ORG

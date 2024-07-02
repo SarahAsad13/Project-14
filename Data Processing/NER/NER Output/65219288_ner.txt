@@ -1,0 +1,48 @@
+ENTREPRENEUR: ORG
+Professional Summary
+Airport Operations Safety and Training Coordinator Â: ORG
+12/2011: CARDINAL
+12/2015: CARDINAL
+17%: PERCENT
+two-year: DATE
+daily: DATE
+Oversaw: GPE
+monthly: DATE
+Conducted: ORG
+Maintained: GPE
+Enforced: ORG
+more than 30: CARDINAL
+Oversaw: GPE
+Monitored: ORG
+monthly: DATE
+monthly: DATE
+USAID: ORG
+Haiti: GPE
+Conducted: ORG
+Haiti: GPE
+Coordinated: ORG
+daily: DATE
+Prepared: PERSON
+Safety & Training Coordinator: ORG
+06/1995: ORG
+more than 15,000: CARDINAL
+Maintained: GPE
+FAA: ORG
+Maintained: GPE
+Miami Dade Aviation: ORG
+Airside Division: ORG
+FAA Rules and Regulations: ORG
+Assigned: ORG
+Federal Aviation Administration: ORG
+FAA: ORG
+Miami-Dade Aviation: GPE
+the Air Operations Area: LAW
+December 2007: DATE
+Barry University: ORG
+ï¼​ City: GPE
+State Public 2: ORG
+Professional Affiliations: ORG
+Small Business Association: ORG
+2008: DATE
+AAAE: ORG
+Skills: ORG

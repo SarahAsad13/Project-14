@@ -1,0 +1,91 @@
+PROMOTED: PERSON
+second: ORDINAL
+Zendesk: PERSON
+Zendesk: PERSON
+San Francisco: GPE
+Holiday
+Party: ORG
+daily: DATE
+Zendesk: PERSON
+Zendesk: PERSON
+Zendesk: PERSON
+Recruiting: PERSON
+Associate: PRODUCT
+day: DATE
+Recruiting: ORG
+ATS: FAC
+LinkedIn: GPE
+Human
+Resources: ORG
+Zendesk: PERSON
+2+ years: DATE
+Human Resources: ORG
+1-2 years: DATE
+Jobvite: PERSON
+Bachelor: ORG
+Jamie: PERSON
+HM: GPE
+Finance: ORG
+Jamie first: PERSON
+TargetPro: ORG
+MapMarker - Predcitive Analytics Software: ORG
+Geoscape - Market Intelligence Software: ORG
+Nielsen
+PrimeLocation: ORG
+Market Structure and Segmentation Software: ORG
+Microsoft Office/Word: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Cision Media Services: ORG
+Workamajig: ORG
+Jobvite: PERSON
+Zendesk: PERSON
+10/2011: CARDINAL
+Jamie: PERSON
+Jamie: PERSON
+Legal: ORG
+Jobvite: PERSON
+Jobvite: PERSON
+Jamie: PERSON
+Jamie: PERSON
+Jamie: PERSON
+Jobvite: PERSON
+Jamie: PERSON
+Jamie: PERSON
+2 business days: DATE
+Jamie: PERSON
+Jamie: PERSON
+LI: PERSON
+Jamie: PERSON
+Jamie: PERSON
+Jobvite: PERSON
+Jamie: PERSON
+08/2011: CARDINAL
+Data Visualization and Demographics: ORG
+twenty: CARDINAL
+Metro: FAC
+Comcast: ORG
+Performed: ORG
+12/2008: CARDINAL
+Facilitated: ORG
+daily: DATE
+05/2008: CARDINAL
+Communicated: ORG
+Consulting Therapist: ORG
+2008: DATE
+Bachelor of Arts and Sciences : Psychology Sociology and French Studies UNIVERSITY: ORG
+State: GPE
+France: GPE
+French: NORP
+Jamie: PERSON
+Skills: ORG
+Consulting: ORG
+Data Visualization: ORG
+Legal: GPE
+MapInfo: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+SLA: ORG
+Jamie: PERSON

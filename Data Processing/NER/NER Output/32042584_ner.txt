@@ -1,0 +1,77 @@
+BUSINESS DEVELOPMENT: ORG
+Highlights
+Proficient: ORG
+SAS: ORG
+SAS Data Miner: ORG
+SQL: GPE
+Relational Databases: ORG
+Microsoft Office: ORG
+Search Engine Marketing: ORG
+AutoTrader: ORG
+SAS: ORG
+Google: ORG
+Market Share: ORG
+Haystak Digital Marketing: ORG
+AutoTrader: ORG
+$3.5 million: MONEY
+annually: DATE
+12/2012: CARDINAL
+SAS: ORG
+Zillow.com: ORG
+141: CARDINAL
+Virginia: GPE
+Dekalb County's: GPE
+1982: DATE
+Found: WORK_OF_ART
+SAS: ORG
+Accomplishments Smart Search Engine Marketing: PERSON
+Summer 2013: DATE
+SAS: ORG
+Detail Page: PERSON
+VDP: ORG
+VDP: ORG
+Search Engine Marketing: ORG
+Haystak Digital Marketing: ORG
+10 mile: QUANTITY
+IP: ORG
+Haystak: ORG
+$3.5 million: MONEY
+annual: DATE
+Spring 2013: EVENT
+SQL: ORG
+SAS: ORG
+2.5 million: CARDINAL
+Compucredit: ORG
+16: CARDINAL
+approximately $114k: MONEY
+1,000: CARDINAL
+Homelessness: PERSON
+Georgia: GPE
+Fall 2012 Performed: WORK_OF_ART
+SAS: ORG
+Georgia: GPE
+Lottery Sales per Person: ORG
+Bachelor of Science : Sociology Statistics: ORG
+May 2013: DATE
+Kennesaw State University City: ORG
+GPA: ORG
+3.45: CARDINAL
+GPA: ORG
+3.45: CARDINAL
+Credit: ORG
+IP: ORG
+Market: ORG
+Microsoft Office: ORG
+Page: PERSON
+Relational Databases: ORG
+SAS: ORG
+SQL: ORG
+Statistical Analysis: ORG
+Eagle Scout: ORG
+Boy Scouts of America: ORG
+Fall 2012: DATE
+Spring 2013: DATE
+Alpha: GPE
+Paris: GPE
+Romania: GPE
+Summer 2011: DATE

@@ -1,0 +1,74 @@
+May 2012 to Feb 2016: DATE
+Commercial Accounts: ORG
+3.5BN: MONEY
+7BN: MONEY
+monthly: DATE
+quarterly: DATE
+Earnings Releases: PERSON
+Shareholder
+Meetings: ORG
+annual: DATE
+annual: DATE
+CFO: ORG
+Sr: NORP
+Middle Market: LOC
+the Middle
+Market: LOC
+over 3,000: CARDINAL
+Strategic Initiatives: ORG
+May 2012: DATE
+Business Insurance: ORG
+Business Insurance: ORG
+Global Underwriting: ORG
+Process Improvement Engineer Jul 2006: WORK_OF_ART
+2009: DATE
+Completed a Liquid Petroleum Gas: ORG
+National Programs: ORG
+10: CARDINAL
+an estimated $12 million dollars: MONEY
+Northland Insurance: ORG
+18: CARDINAL
+monthly: DATE
+Managed an Architects & Engineers: ORG
+between 17: CARDINAL
+over 80: CARDINAL
+2008: DATE
+the Domestic Financial Officers: ORG
+Travelers: GPE
+New Jersey: GPE
+the Home Office: ORG
+Bachelor of Science , Economics and Finance: ORG
+Bentley College: ORG
+GPA: ORG
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+3.68: CARDINAL
+Magna Cum Laude: PERSON
+Honors Program: ORG
+List, Finance National Honors Society Economics: ORG
+3.7: CARDINAL
+GPA: ORG
+3.68: CARDINAL
+Magna Cum Laude: PERSON
+List, Finance National Honors Society
+MBA 2012 University of Connecticut Graduate School: ORG
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+Employee Relations: ORG
+Finance: ORG
+Financial, Home Office, Insurance: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Power Point: ORG
+Underwriting: GPE
+Visio: PERSON
+Workbench: GPE
+Core Qualifications
+
+Excel: ORG
+Power Point: ORG
+Visio TM1: PERSON
+SNL: ORG

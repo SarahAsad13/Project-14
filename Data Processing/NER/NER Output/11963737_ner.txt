@@ -1,0 +1,59 @@
+II: CARDINAL
+2 years in a row: DATE
+Affiliations: ORG
+V2: CARDINAL
+Fast Healthcare Interoperable Resources: ORG
+Consolidate Clinical Document Architecture: ORG
+Motivated Business Analyst: ORG
+Skills
+
+Data analysis Business: ORG
+MS: ORG
+SQL: ORG
+Release: NORP
+Requirements: PRODUCT
+12/2017: CARDINAL
+State: ORG
+Gabron: ORG
+BlueCross BlueShield: ORG
+South Carolina's: GPE
+TRICARE (Military Health Insurance: ORG
+annual: DATE
+5%: PERCENT
+Performed TRICARE: ORG
+Researched: ORG
+HEDIS: PERSON
+two: CARDINAL
+HEDIS: ORG
+Cancer Screening: PERSON
+COL: ORG
+Controlling Blood Pressure: WORK_OF_ART
+CBP: ORG
+HP's Application Lifecycle
+Management: ORG
+SQL: ORG
+12/2017: CARDINAL
+the Health Net: ORG
+BlueCross Operations: ORG
+BlueCross Information Systems Application: ORG
+ten: CARDINAL
+four: CARDINAL
+03/1992: CARDINAL
+11/1996: CARDINAL
+Information Systems City: ORG
+Cable and Wireless Communications: ORG
+London: GPE
+England: GPE
+12: CARDINAL
+Collaborated: ORG
+twelve: CARDINAL
+Training: PERSON
+1976: DATE
+Pennsylvania Northampton Community College: ORG
+State Health and Physical Education Computer Science and Information Technology: ORG
+Magna Cum Laude Computer Science: ORG
+1980: DATE
+Blood Pressure: ORG
+Brand: ORG
+Cancer: PERSON
+SQL: ORG

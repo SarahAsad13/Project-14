@@ -1,0 +1,110 @@
+206-1: PRODUCT
+Basic Administration: ORG
+Spiceworks: PERSON
+Foundations & Lab Introduction: ORG
+Military UA Army: ORG
+Ukraine: GPE
+August 2015: DATE
+Current Company Name: ORG
+Operational Management: ORG
+Define: ORG
+Develop: ORG
+Authorize: ORG
+Oversee: ORG
+Develop: ORG
+Oversee: ORG
+Business Application Specialist: ORG
+August 2013 to August 2015: DATE
+MoveTrack: ORG
+EMC: ORG
+Crystal Reporting: ORG
+Scribe, Salesforce PaaS Improve: ORG
+Diagram: ORG
+Coordinate: FAC
+Project Team: ORG
+Investigate: ORG
+Conduct Data Analysis: ORG
+Microsoft SQL Databases: ORG
+Information Technology Specialist: ORG
+February 2011 to August 2013: DATE
+VMware vSphere: ORG
+Citrix
+Infrastructure: WORK_OF_ART
+XenApp: ORG
+Access Gateway: ORG
+NetScaler Perform: ORG
+EMC Avamar: ORG
+Arkeia: ORG
+DNS: ORG
+Microsoft Exchange: ORG
+2007/2010: DATE
+Maintain: PERSON
+Windows/Linux: PERSON
+Train: GPE
+Respond: PERSON
+Administrate: LOC
+Mitel 5000 IP PBX: ORG
+MultiTech FaxFinder: ORG
+Maintain: PERSON
+Oversee: ORG
+Information Technology Specialist: ORG
+October 2010 to January 2011: DATE
+State
+
+Information Technology Specialist: ORG
+Norton Ghost, Macrium Reflect: ORG
+Acronis: PRODUCT
+FOG: ORG
+Clonezilla
+Hands: ORG
+Microsoft
+Management Console: ORG
+Upgrade: ORG
+Active Directory: WORK_OF_ART
+LAN: ORG
+Develop: ORG
+2: CARDINAL
+February 2010 to July 2010: DATE
+Assess: ORG
+Resolve: PRODUCT
+July 2004 to January 2006: DATE
+25: CARDINAL
+daily: DATE
+Associate of Applied Science : Network Administration: WORK_OF_ART
+2010: DATE
+Hennepin Technical College: ORG
+State Network Administration &: ORG
+Applied Science
+AAS GPA: ORG
+GPA: ORG
+3.71/4.0: CARDINAL
+GPA: ORG
+3.71/4.0: CARDINAL
+Business Management: ORG
+Ukraine: GPE
+1999: DATE
+Zaporizhzhya Pedagogical College: ORG
+City: GPE
+Ukraine: GPE
+Skills
+Active Directory: ORG
+DHCP: ORG
+DNS: ORG
+WINS: ORG
+GPO: ORG
+XenApp: ORG
+VMware: ORG
+Hyper V: PERSON
+CRM: PRODUCT
+GP: ORG
+ERP: ORG
+Crystal, Data Analysis: ORG
+Financial Management: ORG
+LAN: ORG
+WAN: ORG
+Linux: GPE
+Microsoft Exchange: ORG
+Office: ORG
+Microsoft SQL: ORG
+Windows: GPE
+Migration: PERSON

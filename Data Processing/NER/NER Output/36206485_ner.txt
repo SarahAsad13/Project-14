@@ -1,0 +1,41 @@
+Decisive
+Flexible: WORK_OF_ART
+Mississippi Teaching Certificate: WORK_OF_ART
+Urban: ORG
+Standardized: ORG
+Accomplishments
+Named â€œTeacher of the Yearâ€​: WORK_OF_ART
+2009: DATE
+Current Company Name City: ORG
+normal hours: TIME
+Maintained: GPE
+Assigned: PERSON
+Name City: GPE
+Maintained: GPE
+Researched: ORG
+Communicated: ORG
+Applied: ORG
+Intern: ORG
+12/2006: CARDINAL
+Name City: GPE
+daily: DATE
+seventh: ORDINAL
+Utilized: ORG
+PowerPoint: ORG
+Comic Life Promoted: ORG
+daily: DATE
+Supports: PERSON
+PBIS: ORG
+weekly: DATE
+seventh: ORDINAL
+Initiated: ORG
+Bachelor of Science : Reading 2006 Delta State University City: ORG
+Social Studies
+Professional Affiliations: ORG
+Mississippi Department of Education: ORG
+Jackson: GPE
+2011: DATE
+Skills: ORG
+PowerPoint: ORG
+Microsoft Excel: ORG
+Microsoft Office: ORG

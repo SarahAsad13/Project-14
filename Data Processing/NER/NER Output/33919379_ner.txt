@@ -1,0 +1,28 @@
+Texas: GPE
+Idaho State Boards of Pharmacy: ORG
+09/2016: PRODUCT
+State Board: ORG
+02/2016: PRODUCT
+08/2016
+Pharmacist: PERSON
+10/2015: CARDINAL
+02/2016: CARDINAL
+Pharmacist Company Name: PERSON
+State Gained: ORG
+06/2012: CARDINAL
+10/2015: CARDINAL
+State Pharmacist: ORG
+24 hour: TIME
+Skills
+
+Pharmacy operations
+Prescription: ORG
+Microsoft Office: ORG
+Intercom: ORG
+Training: PERSON
+2012: DATE
+Pharmacy University of the Incarnate Word ï¼​ City: ORG
+State: ORG
+2003: DATE
+ï¼​ City: GPE
+State: ORG

@@ -1,0 +1,57 @@
+Highlights: GPE
+Advanced Microsoft Office: ORG
+Visio: PERSON
+PowerPoint: ORG
+Adobe Creative Suite: PERSON
+SharePoint: ORG
+WebEx Expertise: FAC
+Advanced Project Management and Implementation
+Written: ORG
+Verbal: ORG
+Interpersonal Skills: ORG
+95%: PERCENT
+Name City: GPE
+Bank of America Merchant Services: ORG
+First Data: ORG
+Engage: ORG
+Engage: ORG
+weekly: DATE
+95%: PERCENT
+RFI: ORG
+Develop: ORG
+Spreadsheet: GPE
+Institutional Client Services: ORG
+Marketing Project: ORG
+Fulfillment, Information Technology: ORG
+Print: GPE
+Status: ORG
+Identify: ORG
+Communicate: ORG
+Institutional Marketing Coordinator/Administrative: ORG
+Name City: GPE
+Name City: GPE
+01/1997 to 01/2000: CARDINAL
+Name City: GPE
+Villanova University - Six Sigma Green Belt Certification: ORG
+2010: DATE
+Advanced Project Management Certification: ORG
+Project Management Essentials: ORG
+2007: DATE
+Project Management Courses - 7.25: ORG
+2012-2013: DATE
+35+ PDUs: DATE
+1983: DATE
+Citrix: GPE
+Interpersonal Skills: ORG
+Client: GPE
+Information Technology: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+MS Project: ORG
+Negotiation: ORG
+Project Management: ORG
+Relationship Management: ORG
+RFI: ORG
+Six Sigma: PERSON
+Spreadsheet: GPE
+Visio: PERSON

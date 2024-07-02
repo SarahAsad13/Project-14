@@ -1,0 +1,158 @@
+Skills
+
+Visual Studio: ORG
+ASP: ORG
+MVC: ORG
+4.0: CARDINAL
+#: CARDINAL
+Microsoft: ORG
+SQL Server: PERSON
+SQL: PERSON
+Stored Procedures
+TFS (Team Foundation Server: ORG
+HTML5: ORG
+Javascript: PERSON
+LINQ
+PHP: ORG
+Adobe Design Suite: PERSON
+Website Designer: PERSON
+Current Company Name: ORG
+HTML5: PERSON
+CSS3: GPE
+Javascript: PERSON
+JQuery: ORG
+Adobe Design Suite: PERSON
+Software Developer: PERSON
+2: CARDINAL
+XSLT: GPE
+XML: ORG
+LUXML: ORG
+62.5%: PERCENT
+800 hours: TIME
+500 hours: TIME
+3: CARDINAL
+2: CARDINAL
+LUXML: ORG
+3: CARDINAL
+India: GPE
+XML: ORG
+XSLT: GPE
+Visual Basic: PERSON
+SQL Server: ORG
+TFS: GPE
+Visual Studio: ORG
+2014: DATE
+SQL Server 2012: ORG
+TFS: ORG
+Created: ORG
+PHP: ORG
+Software Developer: ORG
+08/2014: CARDINAL
+12/2014: CARDINAL
+Bank of America's: ORG
+CaseCura: GPE
+daily: DATE
+#: CARDINAL
+MVC: ORG
+TFS: ORG
+SQL Server: ORG
+Software Developer: ORG
+10/2013: DATE
+AgriLogic: ORG
+Assigned: PERSON
+AgAdvantage: ORG
+QA: ORG
+October: DATE
+50: CARDINAL
+February: DATE
+about 3 or 4: CARDINAL
+weekly: DATE
+Lunch & Learn: WORK_OF_ART
+Visual Studio: ORG
+2012: DATE
+MVC: ORG
+SQL Server: ORG
+Atlassian: NORP
+4.5: CARDINAL
+Programmer Analyst: ORG
+Orlando: GPE
+Created: ORG
+CFO: ORG
+Maintained: GPE
+the Customer Mortgage Application: ORG
+UI: ORG
+2012: DATE
+#: CARDINAL
+MVC: ORG
+Javascript: PERSON
+TFS (Team Foundation Server: ORG
+Adobe
+Photoshop: PRODUCT
+SQL Server: ORG
+HTML ASP: ORG
+Vanishing Point: ORG
+Vanishing Point: ORG
+ASP: ORG
+Software Developer: ORG
+02/2002: DATE
+AT&T: ORG
+Orlando: GPE
+FL: ORG
+RRS)-: NORP
+over 8.7 million: CARDINAL
+$4.2 billion: MONEY
+2002: DATE
+daily: DATE
+Windows NT: LOC
+SQL Server: ORG
+7: CARDINAL
+Crystal Reports 8.5: PRODUCT
+RRS: ORG
+Microsoft Access: ORG
+SQL Server: ORG
+Sarbanes-Oxley: PERSON
+ASP: ORG
+HTML: ORG
+SQL Server 2000: ORG
+hour: TIME
+MegaCon: ORG
+2015: DATE
+April 2015: DATE
+Around 250: CARDINAL
+1999: DATE
+Training
+B.A: ORG
+City: GPE
+Adobe Suite: PERSON
+Adobe: PERSON
+Adobe Photoshop: PERSON
+Agile: ORG
+ASP: ORG
+Crystal Reports 8.5: PRODUCT
+CSS3: ORG
+XML: ORG
+HTML5: GPE
+PHP: ORG
+Javascript: PERSON
+JQuery: ORG
+Microsoft Access: ORG
+SQL Server 2000: ORG
+SQL Server: ORG
+7: CARDINAL
+Windows NT: LOC
+Migration: GPE
+MVC: ORG
+4.0: CARDINAL
+MVC: ORG
+QA: ORG
+Sarbanes-Oxley: ORG
+Software Development: ORG
+Microsoft: ORG
+SQL
+: PERSON
+Server: GPE
+SQL: ORG
+SQL Server: ORG
+6: CARDINAL
+Visual Studio: ORG
+XSLT: GPE

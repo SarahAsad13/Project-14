@@ -1,0 +1,140 @@
+PRINCIPAL: ORG
+Microsoft Office Suite: ORG
+Lean Six Sigma Black Belt: ORG
+Employee Management
+Instructional Strategies
+Conflict Resolution
+Performance Evaluation
+Behavioral Management
+
+Project: ORG
+Name City: GPE
+State: ORG
+Principal 06/2013: PERSON
+daily: DATE
+371: CARDINAL
+35: CARDINAL
+State: ORG
+Prepare: ORG
+Develop: ORG
+Compile: PRODUCT
+Demonstrate: ORG
+Name City: GPE
+State: ORG
+School Improvement 06/2013: ORG
+Coordinated: ORG
+Coordinated: ORG
+Development Directed: PERSON
+Provide: NORP
+Name City: GPE
+State Fraud Analyst 06/2012: ORG
+11/2013: CARDINAL
+Monitored: ORG
+daily: DATE
+ATM: PERSON
+Credit Card: ORG
+Card Service Reports: ORG
+Fraud Detective: ORG
+Maintained: GPE
+the Falcon Fraud Neural Network: ORG
+USAA Bank: ORG
+Suspicious Activity Report: ORG
+Name City: GPE
+State Coordinator of College & Career Readiness 08/2009: ORG
+06/2013: CARDINAL
+Oversaw Career & Technical Education: ORG
+Career & Technical Education: ORG
+Career & Technical: ORG
+Assisted Career & Technical Education Teachers: ORG
+Career & Technical Education: ORG
+evaluate department instructional goals: ORG
+Maintained: GPE
+Performance Based Monitoring & Analysis System: ORG
+Integrated: NORP
+District Data Management System: ORG
+Career & Technical Education: ORG
+per Texas Education Agency: ORG
+TEA: ORG
+Name City: GPE
+06/2012: CARDINAL
+Assisted: ORG
+Investigates: NORP
+Name City: GPE
+State Enterprise Business Operations Specialist: ORG
+Assisted: ORG
+Bill Pay: PERSON
+Serviced Consumer and Home Equity Loans: ORG
+Microsoft Money: ORG
+Quicken: PERSON
+Processed: GPE
+ATM: ORG
+PIN: ORG
+Processed: GPE
+USAA.com: ORG
+II: CARDINAL
+Assisted: ORG
+PIN: ORG
+Assisted: ORG
+Name City: GPE
+State Deposit Sales and Services Specialist 10/2001: ORG
+Assisted: ORG
+Deposit Sales & Service: ORG
+Processed: GPE
+Consumer Lending and Home Equity Servicing: ORG
+Name City: GPE
+State Human Resource: ORG
+Researched: ORG
+Coordinated: ORG
+OSHA: ORG
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+Completed: ORG
+Maintained: GPE
+Maintained: GPE
+Mid-Management Principal Certification: ORG
+2013: DATE
+Lamar University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Six: CARDINAL
+2008: DATE
+Villanova University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Lean Six Sigma Black Belt: ORG
+2008: DATE
+Villanova University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Lean Six Sigma : Leadership: EVENT
+2007: DATE
+Villanova: GPE
+City: GPE
+State: GPE
+USA: GPE
+Organizational Management 2003 University of Phoenix: ORG
+City: GPE
+State: GPE
+USA: GPE
+2002: DATE
+Southwest Texas State University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Health Care & Business Administration: ORG
+Wayland Baptist University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Dreamweaver, Illustrator: ORG
+Photoshop: PERSON
+Acrobat Pro: PERSON
+Mac OSX: PERSON
+Mac IOS: PERSON

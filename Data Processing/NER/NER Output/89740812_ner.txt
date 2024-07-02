@@ -1,0 +1,70 @@
+CAHS Student Leadership Apprentice Program: ORG
+Big Boom Business Planning Institute
+Host: ORG
+Outlook on Agriculture" Weekly Radio Show: WORK_OF_ART
+91.3FM: CARDINAL
+Sirius XM HBCU Channel 142: ORG
+02/2013: CARDINAL
+Marketing, Communications: ORG
+the Cooperative Extension Program: ORG
+Cooperative Agricultural Research Center: ORG
+Assess: ORG
+Attend: ORG
+College Advisory Board: ORG
+Dean: PERSON
+8: CARDINAL
+State
+
+Community and Economic Development, Cooperative Extension Program: ORG
+CAHS: ORG
+Created: ORG
+Web Developer Company Name: ORG
+Monitored: ORG
+Adjunct Faculty Computer Aided Drafting and Design: ORG
+Computer Aided Design: ORG
+more than 350: CARDINAL
+15-20: CARDINAL
+Performed Interim Department Chairperson: ORG
+10: CARDINAL
+Training: PERSON
+2015: DATE
+LEAD21 Executive Leadership Program: ORG
+The University of Georgia: ORG
+2008: DATE
+Masters of Business Administration: ORG
+MBA: WORK_OF_ART
+Marketing University of Phoenix Marketing: ORG
+1998: DATE
+Microsoft Certified Systems Engineer: ORG
+Software Applications Southern Methodist University: ORG
+1994: DATE
+Bachelor of Science : Mechanical Engineering: ORG
+Computer-Aided Design Prairie View A&M University Mechanical Engineering: ORG
+Computer-Aided
+Design
+Skills: ORG
+Creative Suite: PERSON
+Acrobat: PERSON
+Computer Aided Design: ORG
+CAD: ORG
+Drafting: PERSON
+Flash: PERSON
+InDesign: ORG
+Leadership: NORP
+MAC: ORG
+Access: ORG
+Microsoft Certified Systems Engineer: ORG
+Excel: PRODUCT
+MS Office: ORG
+Power Point: ORG
+Word: PERSON
+Operating Systems: ORG
+Research: ORG
+2016: DATE
+Gold Level Award for Print Publication: EVENT
+2013: DATE
+Storyteller Award: PERSON
+2012: DATE
+2011: DATE
+Multi: GPE
+the 21st Century: DATE

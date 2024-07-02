@@ -1,0 +1,27 @@
+TESOL: ORG
+English: LANGUAGE
+Lesson Planning
+Instructional Best Practices: ORG
+Special Needs Students: ORG
+English: LANGUAGE
+Name City: GPE
+English: LANGUAGE
+summer: DATE
+English: LANGUAGE
+11/2015: CARDINAL
+Name City: GPE
+English: LANGUAGE
+Shampoo Staff: ORG
+Name City: GPE
+Assigned: PERSON
+State: ORG
+daily: DATE
+Bachelor of Arts : Social Work - Minor: ORG
+2015: DATE
+Yonsei University City: ORG
+South Korea: GPE
+English: NORP
+Speakers of Other Languages: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON

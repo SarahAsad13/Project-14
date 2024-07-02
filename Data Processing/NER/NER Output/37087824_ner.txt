@@ -1,0 +1,86 @@
+20 years: DATE
+59: CARDINAL
+Microsoft Office Suite: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+Advanced MS Office: ORG
+Suite: PERSON
+Schedule: ORG
+Operations: ORG
+September 2007 to February 2012: DATE
+daily: DATE
+59: CARDINAL
+$2.5 million: MONEY
+2.8: CARDINAL
+Oversaw: GPE
+$11.4 million: MONEY
+annual: DATE
+442: MONEY
+18%: PERCENT
+seven months: DATE
+Allocated: ORG
+32: CARDINAL
+61: MONEY
+4: CARDINAL
+July 2006 to September 2007: DATE
+Allocated: ORG
+90: MONEY
+400: CARDINAL
+Accounted: ORG
+80: MONEY
+daily: DATE
+Operational Risk Management Program: ORG
+90%: PERCENT
+two weeks: DATE
+Networked: ORG
+19: CARDINAL
+5: CARDINAL
+2.8: MONEY
+February 2004 to July 2006 Company Name: DATE
+State: ORG
+the Air Logistics Center
+Prepared: ORG
+Readiness: ORG
+August 2001 to February 2004: DATE
+290: CARDINAL
+to100%: PERCENT
+two months: DATE
+monthly: DATE
+97: CARDINAL
+2014: CARDINAL
+Southwestern College: ORG
+Summa Cum Laude Graduate: PERSON
+Summa Cum Laude Graduate: PERSON
+2010: DATE
+U.S. Air Force: ORG
+Air University Distance Learning
+
+Training Specialized in Leadership Management: ORG
+Managerial Communication, Total Quality Management, Management Theory: ORG
+Motivation: ORG
+Services Management: ORG
+2007: DATE
+Community College: ORG
+the Air Force Fitness, Recreation: ORG
+Administrative Support: PERSON
+Subordinate Counseling: PERSON
+Customer Service: ORG
+Financial Report Reconcile, Funds Management, Inventory, Logistics Director: ORG
+Risk Management: ORG
+Quality Management, Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Memos: PERSON
+Lotus Notes: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Minute Taking: PERSON
+Multi-Task Management: ORG
+Telephone Skills: ORG
+Time Management: ORG
+Vendor Management: ORG

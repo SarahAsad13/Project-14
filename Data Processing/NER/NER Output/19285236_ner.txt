@@ -1,0 +1,53 @@
+Purchasing & Inventory Management
+Food/Beverage & Labor Cost Controls
+Innovative Menu Development & Planning
+Budget Administration: ORG
+Customer Service & Guest Relations: ORG
+60%: PERCENT
+more than 8 months later: DATE
+18%.Â: CARDINAL
+February 2014: DATE
+Coordinated: ORG
+180: CARDINAL
+monthly: DATE
+Â Lowered food &: ORG
+Hydration: PERSON
+Riderwood Village: GPE
+November 2005: DATE
+April 2013 City: DATE
+annual: DATE
+Maryland: GPE
+Sandy Point Park: FAC
+Chesapeake: LOC
+2014: DATE
+1st: ORDINAL
+Vegetable Crab Soup: WORK_OF_ART
+2nd: ORDINAL
+Cream of Crab Soup: ORG
+two years in a row: DATE
+three: CARDINAL
+Head Chef: PERSON
+August 2001 to November 2005: DATE
+Purchasing of food & beverage & small wares: ORG
+Maintain: PERSON
+Created: GPE
+Follow: PRODUCT
+February 1985 to July 2001: DATE
+daily: DATE
+weekend: DATE
+Weekly: DATE
+monthly: DATE
+Created: GPE
+2012: DATE
+Frontline Culinary Certificate 
+: WORK_OF_ART
+AACCÂ: ORG
+2: CARDINAL
+2012-2013: DATE
+Frontline Leadership Certificate - :: WORK_OF_ART
+2010: DATE
+Instructor & Proctor: ORG
+Leadership: PERSON
+Â Skills: PERSON
+Communication
+Critical: ORG

@@ -1,0 +1,123 @@
+19: CARDINAL
+SOX: ORG
+404: CARDINAL
+Internal Audit: ORG
+Skills Focus on Ethics Management Prioritize Audits
+Interact: ORG
+Microsoft Office: ORG
+Suite: PERSON
+MS Word: PERSON
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Outlook, Navision: ORG
+IBM: ORG
+HP: ORG
+Dell: ORG
+January 2009: DATE
+U.S.: GPE
+Canada: GPE
+Focus: GPE
+Internal Audit Departments: ORG
+Internal Audit: ORG
+January 2008 to January 2009: DATE
+Fourth: ORDINAL
+U.S.: GPE
+600M.: MONEY
+Managed Internal Audit Department: ORG
+Prepared: PRODUCT
+Company&risquÃ: ORG
+Interpreted: ORG
+Internal Audit: ORG
+Internal Audit: ORG
+January 2006 to January 2008: DATE
+500M.: MONEY
+annual: DATE
+quarterly: DATE
+Directed: ORG
+61: CARDINAL
+Board: ORG
+United Subcontractors: ORG
+Chapter 11: LAW
+Internal Audit: ORG
+Internal Audit: ORG
+January 2004 to January 2006: DATE
+Managed Internal Audit: ORG
+404: CARDINAL
+Sarbanes Oxley: PERSON
+Snap-On: ORG
+100%: PERCENT
+10: CARDINAL
+Internal Audit: ORG
+January 2003 to January 2004: DATE
+U.S.: GPE
+Sarbanes Oxley: PERSON
+404: CARDINAL
+Chicago: GPE
+Internal Auditor: ORG
+January 1996 to January 2003: DATE
+World&risquÃ: LOC
+1831: DATE
+600: CARDINAL
+Internal Audit Department: ORG
+Managed Audit Department: ORG
+19: CARDINAL
+21: CARDINAL
+U.S.: GPE
+Assigned: ORG
+SAP: ORG
+40: CARDINAL
+SAP: ORG
+U.S.: GPE
+19: CARDINAL
+Left: LOC
+100%: PERCENT
+Masters of Business Administration: ORG
+MBA: WORK_OF_ART
+Finance University of North Texas: ORG
+City: GPE
+BBA: ORG
+Finance University of Illinois ï¼​ City: ORG
+State: GPE
+Certified Internal Auditor: ORG
+CIA: ORG
+1994: DATE
+Certified Fraud Examiner: ORG
+CFE: ORG
+Professional Affiliations: ORG
+Institute of Internal Auditors: ORG
+26 years: DATE
+the Philadelphia Chapter: ORG
+Board of Governors: ORG
+Philadelphia: GPE
+Miami Chapters Chair: ORG
+two: CARDINAL
+the Philadelphia Chapter: ORG
+11 years: DATE
+Board: ORG
+Big Brothers: ORG
+10 years: DATE
+Board: ORG
+English-Speaking Union: NORP
+12 years: DATE
+Rotary International: ORG
+2 years: DATE
+U.S.: GPE
+AIR FORCE: ORG
+Strategic Air Command: ORG
+Finance Department: ORG
+Fort Worth: GPE
+TX: ORG
+Dell: ORG
+Focus, HP: ORG
+IBM: ORG
+Internal Auditor: ORG
+Internal Audit: ORG
+MS Excel: ORG
+Microsoft Office Suite: ORG
+MS Outlook: GPE
+MS: ORG
+PowerPoint: ORG
+MS Word: PERSON
+Navision: PERSON
+SAP: ORG
+Sarbanes Oxley: PERSON

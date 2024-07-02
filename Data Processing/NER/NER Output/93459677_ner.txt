@@ -1,0 +1,169 @@
+Career Focus: FAC
+SAP Consulting: ORG
+SYNOPSIS: ORG
+7 years: DATE
+5: CARDINAL
+2: CARDINAL
+Banking and Financial Analysis Working: ORG
+Infosys Limited: ORG
+Sunnyvale: GPE
+CA: GPE
+USA: GPE
+Oct 2010: DATE
+5: CARDINAL
+the SAP FI/CO: EVENT
+2
+years: DATE
+Banking: GPE
+Yes Bank Ltd. India: ORG
+Goldman Sachs: ORG
+India: GPE
+Ocwen Financials: ORG
+India Working: ORG
+California: GPE
+USA: GPE
+Oct 2012: DATE
+Current Company Name City: ORG
+State: ORG
+5: CARDINAL
+American: NORP
+Cupertino: GPE
+California: GPE
+5 Project Implementations: MONEY
+the Module Lead: PERSON
+40: CARDINAL
+Global FI/CO
+Support: ORG
+Requirement Gathering, Preparation of the Design Document: LOC
+Integration Testing: ORG
+Project Overview: Payment Consolidation System: ORG
+SAP Functionality: ORG
+RMCA: ORG
+the Core SAP Module: ORG
+Recognition: ORG
+SAP Functionality: ORG
+Subscription or Service Oriented Contracts: ORG
+Journal Voucher Workflow: PERSON
+Accounting Postings Types: ORG
+SAP: ORG
+Maintenance: PERSON
+General Ledger, AR/AP: ORG
+Automatic Payment
+Program: ORG
+F110: PRODUCT
+Asset Accounting: ORG
+AB-COPA: ORG
+Special Purpose Ledger: ORG
+Taxes on Sales / Purchases, Vertex: ORG
+Treasury: ORG
+EBS: ORG
+Collections and Dispute Management: ORG
+RM-CA: PRODUCT
+Invoice Cockpit: PERSON
+Lockbox: PRODUCT
+Module: ORG
+40: CARDINAL
+Global FI/CO Support: ORG
+Quarter End and Year End Close: DATE
+IMG: ORG
+Ledger: PERSON
+House: ORG
+Taxes: ORG
+Asset Accounting: ORG
+Profitability Analysis: ORG
+MM: ORG
+Creation of G/L Masters: ORG
+House: ORG
+Maintaining Field Status Variant: ORG
+Fiscal year: DATE
+Document: WORK_OF_ART
+Configuring Automatic Payment Program: ORG
+F110: PRODUCT
+Core: ORG
+SAP Expertise: ORG
+Key SAP: LOC
+General Ledger, AR/AP: ORG
+Automatic Payment
+Program: ORG
+F110: PRODUCT
+Asset Accounting: ORG
+AB-COPA: ORG
+RMCA: ORG
+the Core SAP Module: ORG
+the Revenue Accounting: ORG
+SAP: GPE
+SAP HANA Functionalities: ORG
+Electronic Bank Statements: ORG
+EBS: ORG
+Treasury: ORG
+SAP: ORG
+SD: ORG
+MM: ORG
+ABAP Code: LAW
+10/2010: CARDINAL
+SME: ORG
+Furnish: NORP
+Financial Markets: ORG
+Trade and Treasury services: ORG
+Corporate Finance: ORG
+Account Services: ORG
+Term Loans: PERSON
+Working Capital Requirements: ORG
+Cash Credit Limits: ORG
+Letter of Credit, Bank
+
+Guarantee: ORG
+Invoice Discounting: ORG
+06/2008 Company Name City
+
+Ensuring: ORG
+monthly: DATE
+daily: DATE
+Net Asset Value: ORG
+NAV: ORG
+Associate 07/2006: WORK_OF_ART
+Degree/Certificate Institute Year of Passing Percentage : Finance: ORG
+2010: DATE
+International Management Institute City: ORG
+GPA: ORG
+2006: DATE
+Sri Bhagawan: PERSON
+Baldwin Boys' High School: PERSON
+2001: DATE
+76.33%: PERCENT
+Financial Markets: ORG
+NCFM: ORG
+2003: DATE
+Shriram Consolidated Ltd.: ORG
+New Delhi: GPE
+21st September, 1985: DATE
+Infosys Limited: ORG
+Aug 2014: DATE
+Infosys Limited: ORG
+Q2: CARDINAL
+2012: DATE
+the SAP Area Received Muliple Spot Awards: LOC
+Infosys Limited: ORG
+Appraisal Cycle: PERSON
+Infosys
+Limited: ORG
+21st September, 1985: DATE
+Accounting, Accounts Payable: ORG
+AP: ORG
+AR: ORG
+Balance
+Sheet: PERSON
+CA: WORK_OF_ART
+Contracts: ORG
+Corporate Finance: ORG
+Credit, Client: ORG
+Document Management, Documentation: ORG
+Financial, Financial Analysis: ORG
+Functional: GPE
+Requirement, Retail: PRODUCT
+SAP BW: ORG
+SAP: ORG
+Taxes: ORG
+User Training: ORG
+Treasury: ORG
+Vertex: GPE

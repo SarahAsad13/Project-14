@@ -1,0 +1,73 @@
+more than 15 years: DATE
+Skills
+Lawson, Invision: ORG
+QuickBooks: ORG
+MS Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Lotus Notes: ORG
+Meditech: GPE
+40 hours/week: TIME
+ANALYZED FINANCIAL REPORTS: ORG
+Monitored: ORG
+monthly: DATE
+monthly: DATE
+ADVISED SENIOR MANAGEMENT on financial: ORG
+Lawson: PERSON
+Lawson: PERSON
+monthly: DATE
+monthly: DATE
+REPORTS: ORG
+monthly: DATE
+Drafted: ORG
+DEVELOPED: ORG
+White Marsh: FAC
+Maryland: GPE
+Lotus: ORG
+Notes: PRODUCT
+Washington Hospital Center's: ORG
+Washington Hospital Center's: ORG
+Xerox: ORG
+monthly: DATE
+two years: DATE
+200: CARDINAL
+Washington Hospital Center: FAC
+zero: CARDINAL
+Prepared an Excel: WORK_OF_ART
+monthly: DATE
+Xerox: ORG
+WHC's: ORG
+Xerox: ORG
+Xerox Corporation: ORG
+Washington Hospital Center: ORG
+Biomed: PERSON
+250: CARDINAL
+Lawson: PERSON
+Excel: PRODUCT
+monthly: DATE
+Lawson: PERSON
+Washington Hospital Center's: ORG
+01/2000: CARDINAL
+40 hours: TIME
+COORDINATED DAILY ACCOUNTING FUNCTIONS: ORG
+Conducted: ORG
+06/2012: CARDINAL
+Accounting Strayer University: ORG
+State Accounting: ORG
+1986: DATE
+BACHELOR OF SCIENCE Southern University: ORG
+New Orleans: GPE
+Skills: ORG
+ACCOUNTING: ORG
+CONCISE: ORG
+SENIOR MANAGEMENT: ORG
+Lawson: PERSON
+Lotus Notes: ORG
+Meditech: GPE
+Excel: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+MS Word: PERSON
+PRESENTATIONS: ORG
+QuickBooks: ORG
+Xerox: ORG

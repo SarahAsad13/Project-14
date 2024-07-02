@@ -1,0 +1,41 @@
+Elementary School: PERSON
+Highlights
+
+: GPE
+Urban: ORG
+Critical: PRODUCT
+Standardized: ORG
+Decisive
+
+Accomplishments
+
+Flexible: WORK_OF_ART
+Association of Texas Professional Educators
+
+Worked: ORG
+August 2011: DATE
+Current Teacher 
+City: PERSON
+Tutored: PRODUCT
+Collaborated: ORG
+weekly: DATE
+each month: DATE
+normal hours: TIME
+February 2011: DATE
+September 2006 to August 2008: DATE
+4th Grade: ORG
+Tutored: PRODUCT
+Collaborated: ORG
+weekly: DATE
+each month: DATE
+normal hours: TIME
+The University of Texas 2002 Master of Arts: ORG
+Education City: GPE
+State: ORG
+USA Education Worked: ORG
+Education: ORG
+Counseling Department: ORG
+GED: ORG
+The University Of Texas 1998 Bachelor of Arts : Psychology Government Early Childhood Development and Child Psychology City: ORG
+State: ORG
+USA Psychology Government Early Childhood Development and Child Psychology: ORG

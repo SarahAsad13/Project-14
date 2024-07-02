@@ -1,0 +1,64 @@
+the
+bio-pharmaceuticals: ORG
+Highlights
+Accomplishments
+
+Supercharged: WORK_OF_ART
+50%+ year: DATE
+every year: DATE
+50%+ year: DATE
+URS: ORG
+1,750,000: MONEY
+$5.5 million: MONEY
+25+%: CARDINAL
+3-year: DATE
+~200%: PERCENT
+over $ Â½ million: MONEY
+$6 million: MONEY
+Sanborn: ORG
+Heinkel, Sanborn: ORG
+TOM P. PATNAIK: PERSON
+May 2014 to March 2015: DATE
+Food & Beverage: ORG
+Chemical: ORG
+DuPont: ORG
+BASF: ORG
+April 2011 to May 2014: DATE
+European: NORP
+2
+years: DATE
+June 2007 to April 2011: DATE
+State: ORG
+down-
+flow: PERSON
+every year: DATE
+January 2003 to January 2007: DATE
+State: ORG
+December 1997 to January 2002: DATE
+April 1993 to November 1997: DATE
+Swiss: NORP
+US: GPE
+MBA: WORK_OF_ART
+Mech: PERSON
+MBA: WORK_OF_ART
+20+ years: DATE
+US: GPE
+Canada: GPE
+Mexico: GPE
+Skills
+Sales, Marketing, Sales And: ORG
+Consultative Sales: ORG
+Marketing, Marketing Management: ORG
+Engineer: ORG
+Filtration, Marketing Collateral: ORG
+Training: PERSON
+Strategic Direction: PERSON
+Asset Management, Business Development: ORG
+Clients, Offshore, Operations: WORK_OF_ART
+Financial Operations: ORG
+Internet Marketing, Million, Optimization, Outside Sales: ORG
+Product Concept, Prototype: ORG
+Prototypes: ORG
+Search Engine: PERSON
+Search Engine Optimization, Selling Techniques: ORG
+Voice: ORG

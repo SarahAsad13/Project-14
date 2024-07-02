@@ -1,0 +1,88 @@
+Career Overview: WORK_OF_ART
+Energetic: LOC
+Sharp: ORG
+Adaptive: ORG
+10/2013: CARDINAL
+Fill: ORG
+Recruit: ORG
+Commercial Lines Specialist: ORG
+Processed: GPE
+11/2012: CARDINAL
+01/2013 Company Name: ORG
+Processed: GPE
+05/2012: CARDINAL
+Processed: GPE
+100: CARDINAL
+each day: DATE
+Processed: GPE
+05/2012: CARDINAL
+Processed: GPE
+07/2011 ï¼​ 02/2012 Company Name: ORG
+Administrative/Receptionist: ORG
+07/2011: CARDINAL
+daily: DATE
+Customer Service Representative: ORG
+12/2010: CARDINAL
+02/2011 Company Name: ORG
+State
+
+Promoted: ORG
+New Account Representative/ Teller: ORG
+12/2009: CARDINAL
+12/2010: CARDINAL
+Cross: ORG
+Customer Service Representative: ORG
+09/2009: ORG
+12/2009: CARDINAL
+State
+
+Promoted: ORG
+Substitute Teacher: PERSON
+09/2009: ORG
+12/2009: CARDINAL
+Magnolia: GPE
+ISD: ORG
+Lead Teller: PERSON
+Team: ORG
+Train: GPE
+Assist: NORP
+every day: DATE
+Wells Fargo: ORG
+daily: DATE
+monthly: DATE
+quarterly: DATE
+Bakery Lead: PERSON
+ICS: ORG
+Apparel Sales Floor Associate: ORG
+06/2004: CARDINAL
+monthly: DATE
+monthly: DATE
+Lone Star College Montgomery ï¼​ City: ORG
+State: ORG
+USA Associate of Arts Business Administration Coursework in Business Administration: ORG
+Organizational Development: ORG
+Skills: ORG
+10: CARDINAL
+Account Management: ORG
+Critical
+Thinking: ORG
+Data Collection: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Filing: GPE
+Grammar: GPE
+Telephone Skills: ORG
+Typing, Writing: ORG
+Letters: PERSON
+Memos: PERSON
+Lotus Notes: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Multi-Task Management: ORG
+Organizational Skills: PERSON
+Dean: PERSON
+2011: CARDINAL

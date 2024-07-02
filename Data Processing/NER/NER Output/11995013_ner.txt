@@ -1,0 +1,43 @@
+Supervisor: PERSON
+Microsoft: ORG
+CPR: ORG
+Microsoft Excel: ORG
+Nov 2009: DATE
+Assigned: ORG
+Recommend: ORG
+Maintained: GPE
+2009: DATE
+Cooked: PERSON
+FDA: ORG
+Restaurant: ORG
+Cleaned: FAC
+2008: DATE
+Seasonal Culinary Arts CafÃ: ORG
+Hostess Apr 2008: PERSON
+Scrubbed: GPE
+Seasonal: DATE
+2007 to Jan 2008: DATE
+Recommended: ORG
+State: GPE
+US: GPE
+Sanford-Brown Institute Medical: ORG
+2007: DATE
+September 2008: DATE
+Certifications
+Medical: ORG
+Skills
+Customer Service: ORG
+Receptionist: NORP
+Inventory, Reconciling, Sales Activities: ORG
+Material Flow: ORG
+Excel: PRODUCT
+Leadership Skills: PERSON
+Microsoft Excel: ORG
+Microsoft: ORG
+Osha
+Certificate, Strong Communication Skills: FAC
+Word: PERSON
+General Office: ORG
+General Office Duties, Laboratory: ORG
+Medical Records: ORG
+Telephones: LOC

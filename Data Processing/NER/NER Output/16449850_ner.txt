@@ -1,0 +1,67 @@
+twenty years: DATE
+Financial Accountability: ORG
+Skills
+
+Financial: ORG
+US: GPE
+Fiscal: WORK_OF_ART
+Federal/State: ORG
+PeopleSoft: ORG
+monthly: DATE
+annual: DATE
+annual: DATE
+the Executive Team: ORG
+Yield: ORG
+Educate: ORG
+Recruit: ORG
+20: CARDINAL
+Negotiate: ORG
+third: ORDINAL
+I.T.: GPE
+08/2009: CARDINAL
+monthly: DATE
+annual: DATE
+annual: DATE
+100M.: MONEY
+the Executive Team: ORG
+Yield: ORG
+Educate: ORG
+Recruit: ORG
+27: CARDINAL
+Negotiate: ORG
+third: ORDINAL
+I.T.: GPE
+Financial Analyst: ORG
+forty: DATE
+eight: CARDINAL
+US: GPE
+Caribbean: LOC
+LXR: ORG
+Convert: ORG
+LXR: ORG
+monthly: DATE
+annual: DATE
+annual: DATE
+20MM: MONEY
+the Executive Team: ORG
+Yield: ORG
+Educate: ORG
+Recruit: ORG
+5: CARDINAL
+17: CARDINAL
+Negotiate: ORG
+third: ORDINAL
+I.T.: GPE
+Marriott Casa Marina: ORG
+Marriott Sawgrass: ORG
+Marriott Boca Raton: GPE
+Inn Madeira Beach: PERSON
+Marriott Portugal: ORG
+Sheraton Arlington: GPE
+Associate of Arts : Finance: ORG
+MDCC - City: NORP
+Florida Atlantic University - City: ORG
+State: ORG
+Skills
+Accounting: ORG
+Back-Office: ORG

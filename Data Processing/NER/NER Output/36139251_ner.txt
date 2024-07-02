@@ -1,0 +1,90 @@
+December 2013: DATE
+Fitness Club: ORG
+Assist: ORG
+daily: DATE
+October 2012 to December 2014: DATE
+Educator: PERSON
+75%: PERCENT
+working hours: TIME
+Metro Atlanta: LOC
+Oversee: ORG
+Created: ORG
+daily: DATE
+daily: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+hourly: TIME
+Educators & Key Leaders: ORG
+Performed: ORG
+Performed: ORG
+Store: PERSON
+Advocate: PERSON
+lululemon athletica's: PERSON
+June 2007 to October 2012: DATE
+13: CARDINAL
+Monitored: ORG
+Created: ORG
+950: MONEY
+620: MONEY
+Prepared: PERSON
+1500: CARDINAL
+Performed: ORG
+CSU: ORG
+Fitness Coordinator: ORG
+March 2006 to June 2007: DATE
+approximately 600: CARDINAL
+monthly: DATE
+ACSM: ORG
+quarterly: DATE
+monthly: DATE
+weekly: DATE
+Speak: LOC
+Conducts: ORG
+ACSM: ORG
+6: CARDINAL
+monthly: DATE
+15: CARDINAL
+daily: DATE
+Owner/Instructor: ORG
+March 2004: DATE
+State: ORG
+8: CARDINAL
+5: CARDINAL
+city council: ORG
+monthly: DATE
+45K.: MONEY
+Wellness: ORG
+July 2001 to February 2004: DATE
+the Wellness Department: ORG
+approximately 30: CARDINAL
+30: CARDINAL
+over 25: CARDINAL
+230: MONEY
+monthly: DATE
+annual: DATE
+monthly: DATE
+February 1999: DATE
+February 2007: DATE
+25: CARDINAL
+325: CARDINAL
+a week: DATE
+120: CARDINAL
+annual: DATE
+over $300: MONEY
+monthly: DATE
+annual: DATE
+September 1997 to February 1999: DATE
+Coordinated: ORG
+Processed: GPE
+daily: DATE
+weekly: DATE
+2010: DATE
+Clayton College of Natural Health Holistic Nutrition
+Accounting & Management Human Resources: ORG
+1992: DATE
+California State University Accounting & Management Human Resources: ORG
+Microsoft Windows: ORG
+Microsoft PowerPoint: ORG
+Microsoft Outlook: ORG
+Microsoft Access: ORG

@@ -1,0 +1,118 @@
+BUSINESS DEVELOPMENT: ORG
+January 2014: DATE
+Name City: GPE
+State Business Development: ORG
+Report: ORG
+COO: ORG
+CRO: ORG
+Launched Cinema6's: PERSON
+first: ORDINAL
+100%: PERCENT
+3rd: ORDINAL
+Jun Group: ORG
+Veeseo: PERSON
+Adblade: ORG
+Bidtellect: ORG
+Cinema6 Compose: ORG
+weekly: DATE
+daily: DATE
+January 2013: DATE
+January 2014: DATE
+Name City: GPE
+State Sales and Service: ORG
+Financial Advisors: ORG
+the Pacific
+Northwest: LOC
+Mid-America: LOC
+Educated Financial Advisors: ORG
+Alternative Investment: ORG
+the Merrill Lynch: ORG
+Desk Specialist: PERSON
+Financial Advisors: ORG
+the Alternative Investments Service Desk: ORG
+Best Practitioner: ORG
+Financial Advisors: ORG
+Awarded 2013 Alternative Investments Most Net Sales: ORG
+Budget for the Pacific Northwest Region: ORG
+January 2010: DATE
+January 2013: DATE
+Name City: GPE
+State New Business: ORG
+75-150: CARDINAL
+annual: DATE
+$4mm: MONEY
+Fortune 1000: LAW
+Vail Resorts: ORG
+Cargill: ORG
+Black: GPE
+Decker: GPE
+Colonial Williamsburg: ORG
+monthly: DATE
+January 2008: DATE
+January 2009: DATE
+Name City: GPE
+Showtime Networks: ORG
+the Mid-West: ORG
+Western: NORP
+10: CARDINAL
+894,623: MONEY
+1%: PERCENT
+Customer Contact Personnel: ORG
+15-20: CARDINAL
+Seneca: GPE
+SC: ORG
+Seattle: GPE
+WA: GPE
+zero: CARDINAL
+Established: ORG
+July 2006: DATE
+Name City: GPE
+State Summer Analyst: ORG
+Portfolio Managers: ORG
+10: CARDINAL
+10: CARDINAL
+weekly: DATE
+Portfolio
+Managers: ORG
+2007: DATE
+HOBART COLLEGE City: GPE
+English: LANGUAGE
+English: LANGUAGE
+May 2007: DATE
+Media: GPE
+Society Media: ORG
+Society: ORG
+Interests: NORP
+Men's Club Ice Hockey: ORG
+2003 - 2007: DATE
+12 hours: TIME
+Volunteer: PRODUCT
+2004: DATE
+1999-2003: DATE
+THE DELBARTON SCHOOL Morristown: ORG
+NJ: ORG
+Men's Varsity Ice Hockey: ORG
+NJ State Champions - 2002: ORG
+New Jersey Hockey Hall of Fame: ORG
+Men's Club Ice Hockey: ORG
+2003 - 2007: DATE
+12 hours: TIME
+Volunteer: PRODUCT
+House: ORG
+2004: DATE
+1999-2003: DATE
+Morristown: GPE
+NJ: ORG
+Men's Varsity Ice Hockey: ORG
+NJ State Champions - 2002: ORG
+New Jersey Hockey Hall of Fame: ORG
+Avid: PERSON
+Budget: ORG
+SC: ORG
+Financial, Investments: ORG
+Microsoft Excel: ORG
+Power Point: ORG
+Microsoft: ORG
+Networks: ORG
+Personnel: ORG
+Research, Sales: ORG

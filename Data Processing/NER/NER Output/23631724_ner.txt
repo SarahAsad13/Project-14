@@ -1,0 +1,98 @@
+Analytical: PRODUCT
+PowerPoint: ORG
+Adobe Photoshop
+
+Work History
+Communications: WORK_OF_ART
+09/2013 to Current 
+Company Name: ORG
+90,000: CARDINAL
+Pennsylvanians: NORP
+Twitter: PERSON
+YouTube: ORG
+Annual: DATE
+Capitol Rotunda: ORG
+19: CARDINAL
+Oversaw: GPE
+Pennsylvania Auditor: PERSON
+750: CARDINAL
+12.5 million: CARDINAL
+each year: DATE
+Pittsburgh Tribune-Review: ORG
+2004-2005: DATE
+Reagan: PERSON
+Recognized: PERSON
+year: DATE
+Pennsylvania Society of Professional Journalists: ORG
+US Airways': ORG
+08/2001: CARDINAL
+04/2003: CARDINAL
+Fortune: WORK_OF_ART
+more than 14,000: CARDINAL
+64: CARDINAL
+Germany: GPE
+India: GPE
+China: GPE
+annual: DATE
+annual: DATE
+Firestone: ORG
+HealthSouth: ORG
+Visa: ORG
+Os-Cal: ORG
+Peggy Fleming: PERSON
+ABC: ORG
+Good Morning: WORK_OF_ART
+12/1996: CARDINAL
+Fortune 500: WORK_OF_ART
+more than 350,000: CARDINAL
+Pennsylvania: GPE
+Maryland: GPE
+Public Utility Commission: ORG
+Created: ORG
+12/1996: CARDINAL
+Assigned: ORG
+Pittsburgh: GPE
+Westinghouse Electric: ORG
+Pa.: GPE
+12: CARDINAL
+sixth: ORDINAL
+Sunday: DATE
+U.S.: GPE
+Bachelor of Arts : Communications: ORG
+1977: DATE
+Pennsylvania State University - City: ORG
+Daily Collegian: ORG
+MFA: ORG
+June 2004: DATE
+Spalding University - City: ORG
+Youngest: ORG
+Sunday: DATE
+year: DATE
+Oversaw: GPE
+2008: DATE
+third: ORDINAL
+PA: GPE
+Obama: PERSON
+Keystone State
+Crisis: ORG
+Fortune: WORK_OF_ART
+Firestone: ORG
+Equitable Resources: ORG
+Kennametal Inc.: ORG
+Skills: ORG
+annual: DATE
+Additional Information
+
+Awards:: ORG
+Pennsylvania Keystone Press Award: ORG
+first: ORDINAL
+1990: DATE
+Golden Quill Award: PERSON
+first: ORDINAL
+1989: DATE
+Associated Press Sports Editors: ORG
+fifth: ORDINAL
+1986: DATE
+Associated Press Managing Editors: ORG
+first: ORDINAL
+1979: DATE

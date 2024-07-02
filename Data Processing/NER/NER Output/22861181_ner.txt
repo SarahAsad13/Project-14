@@ -1,0 +1,52 @@
+seven years: DATE
+Accounting & Basic Book: ORG
+Processing Payroll: ORG
+Analytical & detail: ORG
+Skills
+Work History: ORG
+Manage: PRODUCT
+Train & Supervise: ORG
+Oversee: ORG
+Schedule: ORG
+every year: DATE
+Coordinated: ORG
+Liaison: PERSON
+Oversaw: GPE
+daily: DATE
+11/2003: CARDINAL
+Multi: GPE
+English: LANGUAGE
+Grammar: PERSON
+English: LANGUAGE
+English: LANGUAGE
+USA: GPE
+grammar: GPE
+American: NORP
+Provided Administrative: ORG
+Aakash Institute: ORG
+Guwahati: PERSON
+year: DATE
+Administration: ORG
+Plan Meeting and Events: WORK_OF_ART
+Departments: ORG
+10/2003: CARDINAL
+State: ORG
+Oversaw: GPE
+daily: DATE
+Oversaw: GPE
+first: ORDINAL
+weekly: DATE
+1 2000: DATE
+GAUHATI UNIVERSITY: ORG
+Accounts Receivable: ORG
+Photoshop: PERSON
+ENGLISH: NORP
+Filing: GPE
+HINDI: GPE
+LANGUAGES: ORG
+Meetings: GPE
+Excel: PRODUCT
+Outlook Express: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Recruitment: PERSON

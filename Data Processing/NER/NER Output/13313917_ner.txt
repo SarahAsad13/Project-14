@@ -1,0 +1,60 @@
+more than 15 years: DATE
+Skill Highlights: PERSON
+Microsoft Office: ORG
+SPSS: ORG
+CRM: PRODUCT
+ERP: ORG
+Marketing Automation Systems: ORG
+January 2012 to: DATE
+May 2016: DATE
+third: ORDINAL
+20%: PERCENT
+January 2014 to January 2015: DATE
+Oversaw: GPE
+two: CARDINAL
+650: CARDINAL
+30 days: DATE
+100%: PERCENT
+15%: PERCENT
+January 2010 to January 2011: DATE
+30%: PERCENT
+100%: PERCENT
+15%: PERCENT
+January 2005 to January 2009: DATE
+last-minute: TIME
+24-hours: TIME
+150 miles: QUANTITY
+January 2000 to January 2005: DATE
+10: CARDINAL
+Fortune 500: LAW
+$2: MONEY
+Grew: PERSON
+20%: PERCENT
+previous year: DATE
+30%: PERCENT
+Asia: LOC
+Bachelor of Arts : International Relations International Relations
+Certificate: ORG
+Asian: NORP
+Florida International University - City: ORG
+Economics Program: ORG
+European Studies London School of Economics - City: ORG
+United Kingdom
+Languages
+Fluent: GPE
+Spanish: NORP
+French: NORP
+Portuguese: NORP
+Skills: ORG
+CRM: PRODUCT
+Economics: ORG
+ERP: ORG
+Finance: ORG
+French: NORP
+InDesign: ORG
+Microsoft Office Suite: ORG
+Portuguese: NORP
+Quickbooks: PERSON
+Securities, Fluent: ORG
+Spanish: LANGUAGE
+SPSS: ORG

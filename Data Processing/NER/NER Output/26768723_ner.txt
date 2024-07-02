@@ -1,0 +1,68 @@
+SUPPORT & NETWORK SERVICES: ORG
+Skills: ORG
+Windows XP: ORG
+Vista: ORG
+7: DATE
+8): CARDINAL
+Ubuntu Linux: PERSON
+City: GPE
+State: ORG
+September 2014 - December 2014: DATE
+Microsoft: ORG
+SCCM: ORG
+Facilitated: ORG
+Student Affairs: ORG
+Worked with Network & Support Services: ORG
+Microsoft: ORG
+Performed: ORG
+Cherwell Service Management
+Familiarized: ORG
+ImageNow: ORG
+Active Directory
+Discovered: WORK_OF_ART
+SCCM: ORG
+SCSM: PERSON
+Assisted: ORG
+City: GPE
+State: ORG
+June 2012 - June 2013: DATE
+Windows XP: ORG
+Spiceworks: NORP
+Contacted Central: ORG
+Deployed: PRODUCT
+Assisted: ORG
+SharePoint: ORG
+State: ORG
+September 2011 - December 2011: DATE
+CSS: ORG
+Prepared: PERSON
+Microsoft Office: ORG
+Created: ORG
+Microsoft Windows: ORG
+Macintosh: ORG
+Linux: PERSON
+Bachelor of Science Information Science & Technology University of Wisconsin City: ORG
+State: ORG
+12-2014: DATE
+AAS Waukesha County Technical College City: ORG
+State: ORG
+IT-Computer Support Specialist: ORG
+12: CARDINAL
+List
+Â·WCTC Honor List
+Â·Who's Who Program: WORK_OF_ART
+Member 2010: DATE
+Theta Kappa: PERSON
+CSS: ORG
+Linux: GPE
+Mac OS: PERSON
+Macintosh OS: ORG
+Microsoft Office: ORG
+Microsoft Windows: ORG
+Windows: GPE
+Windows XP: ORG
+Network & Support: ORG
+Vista: ORG
+NTHS: ORG
+2010: DATE
+BCHS Honor Roll: PERSON

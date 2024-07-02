@@ -1,0 +1,108 @@
+09/2016: PRODUCT
+$1M: MONEY
+Mental Health
+Services Administration: ORG
+the Principal Investigator: ORG
+Collaborates: PERSON
+APRN: ORG
+13th: ORDINAL
+annual: DATE
+the International Network on Brief Interventions for Alcohol and Other Drugs: ORG
+Lausanne: GPE
+Switzerland: GPE
+Ensures: LOC
+SAMHSA: ORG
+08/2016: CARDINAL
+GRANT PROJECT COORDINATOR Company Name: ORG
+APRN: ORG
+three: CARDINAL
+$1M: MONEY
+Mental Health Services Administration: ORG
+the Principal Investigator: ORG
+three: CARDINAL
+5000: CARDINAL
+three
+months: DATE
+Collaborated: ORG
+SBIRT: ORG
+YouTube: ORG
+09/2015: CARDINAL
+Social Services: ORG
+the Cancer Life Center: ORG
+300: CARDINAL
+$15 million: MONEY
+Centers for Medicare: ORG
+Medicaid Services Innovation Grant: ORG
+weekly: DATE
+04/2010: CARDINAL
+04/2014: CARDINAL
+GRANT ACCOUNTS OFFICER Company Name: ORG
+$137.6M Department: MONEY
+HUD: ORG
+1,246: CARDINAL
+five: CARDINAL
+three years: DATE
+300: CARDINAL
+Communicated: ORG
+Created: ORG
+Coordinated: ORG
+Monitored: ORG
+National Environmental Policy Act: WORK_OF_ART
+NEPA: ORG
+50: CARDINAL
+Grant Recipients: ORG
+Habitat for Humanity International: ORG
+Awarded a Certificate of Appreciation from Habitat for Humanity International: WORK_OF_ART
+09/2009: ORG
+PROJECT CO-COORDINATOR Company Name: ORG
+Infant: PERSON
+Children (WIC) Nutrition and Health Survey: WORK_OF_ART
+Chicago: GPE
+a National Institutes
+
+of Health: ORG
+12: CARDINAL
+six: CARDINAL
+100: MONEY
+Recruited: PRODUCT
+400: CARDINAL
+more than $2,000: MONEY
+State Public Health Candidate
+Community Health Education GPA: ORG
+3.3: CARDINAL
+2009: DATE
+Community Health Sciences University of Illinois at Chicago School of Public Health: ORG
+State Community Health
+Sciences Capstone: ORG
+Disease Services: ORG
+3.4: CARDINAL
+2007: DATE
+Bachelor of Arts: ORG
+Pre-Health Sciences Loyola University: ORG
+Chicago Loyola University Wellness Center Nursing Services: ORG
+3.3: CARDINAL
+more than seven years: DATE
+three: CARDINAL
+5000: CARDINAL
+three months: DATE
+Highlights
+Microsoft Office Outlook: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Atlas.ti: ORG
+SPSS: ORG
+SAS: ORG
+Cancer: PERSON
+Innovation: ORG
+Mental Health: ORG
+Excel: PRODUCT
+Microsoft
+Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Network: ORG
+SAS: ORG
+Social Services: ORG
+SPSS: ORG

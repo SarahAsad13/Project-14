@@ -1,0 +1,125 @@
+Accountant: ORG
+India: GPE
+the United states: GPE
+1st March: DATE
+2016: DATE
+Key Skills: LOC
+Familiar: PERSON
+Finance: ORG
+MS Office: ORG
+Accounts & Auditing
+General Administration: ORG
+Basic Computer
+Costing
+Knowledge, Tally 7.2 & 9: ORG
+ERP: ORG
+Strength: ORG
+Budget: ORG
+Financial: ORG
+Complex: NORP
+Advanced: ORG
+Mac: PERSON
+Ledger Accounts Â: PERSON
+Gujarat Education Board: ORG
+Grand Project Investment Pattern of Investor on Diversification of Portfolio Management: ORG
+Period Jan to March: DATE
+2009: DATE
+Inventory Management: WORK_OF_ART
+Inventory: GPE
+4)DURATION:-: CARDINAL
+Two Months May
+to: DATE
+July 2008: DATE
+RB Cars Pvt: ORG
+Last 4 Years: DATE
+1 Months: DATE
+Maruti Suzuki: PERSON
+June 2010: DATE
+two: CARDINAL
+Maruti Suzuki India Ltd.: ORG
+Prepare Documentation: ORG
+TA: ORG
+Vat: PERSON
+Previous Company: ORG
+Job: NORP
+Service Tax: PERSON
+Tds: GPE
+Vat: PERSON
+402: CARDINAL
+403: CARDINAL
+TDS: ORG
+Vat: PERSON
+1 year and 7 months: DATE
+Ratnaveer Stainless Products Pvt Ltd: WORK_OF_ART
+Finance Executive: ORG
+August 2008: DATE
+Finance Executive: ORG
+Finance Executive: ORG
+Account & Finance Executive: ORG
+Ledger: PERSON
+Purchase: PERSON
+daily: DATE
+Checking and Verification: ORG
+Expenditure: ORG
+Maintain Daily Stock: ORG
+Buyer: PERSON
+Basic Finance Knowledge: WORK_OF_ART
+Buyer: PERSON
+Monthly: DATE
+Tds: PERSON
+Prepare Direct and Indirect: ORG
+Management Accounting Preparing: ORG
+Make Credit & Debit: ORG
+Scrutiny: ORG
+Monthly: DATE
+Quarterly: DATE
+TDS Certificate: ORG
+Done Forex Entry: ORG
+daily: DATE
+Finalization of Accounts/ Audit: ORG
+Profit & Loss: ORG
+Balance
+Sheet: ORG
+summer: DATE
+Grand: ORG
+Sports: GPE
+March 2015: DATE
+Devry University M.S Accounting Accounting: ORG
+U.S.A: GPE
+April 2013: DATE
+May 2009: DATE
+ICFAI University Gujarat University Master of Business Administration: ORG
+April 2007: DATE
+Gujarat University Bachelor Of Commerce: ORG
+March 2004: DATE
+Gujarat: GPE
+Secondary Education Board HSC Commerce Commerce
+Personal Information
+Citizenship: ORG
+13th October 1986: DATE
+12: CARDINAL
+Girdhar Nagar: PERSON
+Dist: PERSON
+391770: DATE
+Gujarat: GPE
+INDIA: GPE
+13th October 1986: DATE
+12: CARDINAL
+Girdhar: PERSON
+Dist: PERSON
+391770: DATE
+Gujarat: GPE
+INDIA: GPE
+Activities Related: WORK_OF_ART
+Balance Sheet: PERSON
+Costing, Certified Public Accountant: ORG
+Credit, Debit, Documentation: ORG
+English: LANGUAGE
+ERP: ORG
+Finance: ORG
+Forex: ORG
+Inventory Management: ORG
+MS Office: ORG
+Problem: ORG
+Tax: PERSON
+TDS: GPE

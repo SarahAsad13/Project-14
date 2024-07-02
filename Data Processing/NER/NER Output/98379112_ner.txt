@@ -1,0 +1,55 @@
+17+ years: DATE
+Team: ORG
+Home &: ORG
+Microsoft Office
+
+Business development
+Negotiations: ORG
+Financial &: ORG
+Prospecting & referrals
+
+Professional Experience
+Company: ORG
+Name City: GPE
+State Business Development Consultant: ORG
+04/2020: CARDINAL
+up to 50: CARDINAL
+monthly: DATE
+Name City: GPE
+State Business Development: ORG
+up to 40: CARDINAL
+monthly: DATE
+Name City: GPE
+State Branch: ORG
+Coordinated: ORG
+8: CARDINAL
+monthly: DATE
+Applied: ORG
+Fiserv: GPE
+Ultipro: ORG
+Taleo: PERSON
+Continuity Control, Connections: ORG
+Applink: PERSON
+MortgageBot: ORG
+Name City: GPE
+State Branch: ORG
+Loan: NORP
+Branch: LOC
+Smith County State Bank and Trust Department: ORG
+30+: DATE
+Bachelor of Science : Business NorthWestern Oklahoma State University: ORG
+City: GPE
+Agricultural Business
+Minor: ORG
+Business Administration: ORG
+Effectiveness Training: PERSON
+The Peoples Bank: ORG
+annual: DATE
+State
+Associations: ORG
+Kansas Notary Public: ORG
+Kansas Notary Public: ORG
+Augusta Chamber of Commerce, Board: ORG
+Saint Francis Community Services: ORG
+Foster Parent: PERSON
+Nationwide Mortgage Licensing System: ORG

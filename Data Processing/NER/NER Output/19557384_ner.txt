@@ -1,0 +1,66 @@
+BUSINESS DEVELOPMENT: ORG
+more than 7 years: DATE
+4: CARDINAL
+3: CARDINAL
+6: CARDINAL
+Skills
+
+Strong: ORG
+Motivational: ORG
+Customer: ORG
+Strategic: PERSON
+MS Office Suite: ORG
+Adobe Photoshop: PERSON
+Macromedia Flash: PERSON
+Dreamweaver, Programming Skills - HTML: ORG
+Partner: PERSON
+2010: DATE
+Nov 2017: DATE
+more than 67%: PERCENT
+just 1 year: DATE
+135%: PERCENT
+133%: PERCENT
+EDITDA: ORG
+100%: PERCENT
+less than 7 years: DATE
+zero: CARDINAL
+more than $2 million: MONEY
+under 4 years: DATE
+more than 20: CARDINAL
+more than 300: CARDINAL
+years of 2008: DATE
+2009: DATE
+2007: DATE
+2009: DATE
+two and half year: DATE
+250: CARDINAL
+Responsibilities: WORK_OF_ART
+over 100-150: CARDINAL
+one: CARDINAL
+Training
+Masters of Science , Organic Chemistry: ORG
+May 2010: DATE
+Organic Chemistry Research and Thesis Option: ORG
+Virginia Tech
+Bachelor of Technology: PERSON
+Institute of Chemical Technology: ORG
+Institute of Chemical
+Technology Research: ORG
+Tetrahedron Letters: ORG
+2011: DATE
+52: DATE
+916: CARDINAL
+June 2008 - May 2010: DATE
+May 2007: DATE
+Skills
+Dreamweaver: ORG
+Adobe Photoshop: PERSON
+C++: PERSON
+Macromedia Flash: PERSON
+Letters: NORP
+MS Office Suite: ORG
+2000: DATE
+Programming, Project planning and development: ORG
+Publication: ORG
+Research: ORG
+Strategicsourcing: PERSON

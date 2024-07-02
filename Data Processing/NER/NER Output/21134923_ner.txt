@@ -1,0 +1,119 @@
+More than nine years: DATE
+Highlights: GPE
+Excel: PRODUCT
+Concur-Travel: ORG
+PeopleSoft-Human Resources: ORG
+Bud-E-Budgeting: PERSON
+Macromedia Dream Weaver: ORG
+Adobe
+Illustrator: ORG
+Quattro Pro: NORP
+India: GPE
+Laos: GPE
+Malaysia: GPE
+US: GPE
+Mexico: GPE
+Panama: GPE
+Kulim: NORP
+Kedah Established: PERSON
+Monitored: ORG
+the Ministry of Finance: ORG
+Business
+Development Volunteer: ORG
+FruitFriends: ORG
+Vang Vieng Laos: PERSON
+FruitFriends: ORG
+Created: ORG
+WildForest: ORG
+Created: ORG
+Created: ORG
+Fostered: PRODUCT
+04/2006: CARDINAL
+04/2013: CARDINAL
+annual: DATE
+multi-year: DATE
+Drafted: ORG
+Researched: ORG
+more than 25: CARDINAL
+Latin American: NORP
+Caribbean: LOC
+Washington: GPE
+D.C.: GPE
+Coordinated: ORG
+Corporate Social Responsibility Program: ORG
+Solidarity Coordinated: ORG
+US: GPE
+Coordinated: PRODUCT
+August 2003
+MA :: DATE
+International Affairs American University: ORG
+Costa Rica: GPE
+August 2003
+: DATE
+Natural Resources and Sustainable Development United Nations University: ORG
+April 2001: DATE
+BA : International Relations Economics Florida International University: ORG
+State International Relations Economics
+Certificate: ORG
+Latin American: NORP
+Caribbean Studies Independent Study: Governance and Legitimacy: ORG
+Effective Project Management for Development: ORG
+August 2015: DATE
+Permaculture Design: ORG
+Panya Project: GPE
+Thailand: GPE
+May
+: DATE
+2014: DATE
+April 2014: DATE
+Spanish: LANGUAGE
+English: NORP
+Interests: NORP
+Volunteer: PRODUCT
+Farmer to Farmer Program: ORG
+Americas: LOC
+June-November, 2009: DATE
+Ayuda, Inc.: ORG
+Self Reliance Institute: ORG
+2008: DATE
+Martha: PERSON
+2008 - 2009: DATE
+Volunteer Coptic Orphans: PERSON
+Merrifield: GPE
+VA: GPE
+2006 - 2007: DATE
+Norma Rivera: EVENT
+VOLUNTEER: ORG
+Farmer to Farmer Program: ORG
+Americas: LOC
+June-November, 2009: DATE
+Human Trafficking Hotline: PERSON
+Ayuda, Inc.: ORG
+Self Reliance Institute: ORG
+2008: DATE
+Martha: PERSON
+2008 - 2009: DATE
+Merrifield: GPE
+VA: GPE
+2006 - 2007: DATE
+Norma Rivera
+
+: EVENT
+Skills
+Dream Weaver: ORG
+Adobe Illustrator: ORG
+Budgeting: PERSON
+Business Development: ORG
+English: LANGUAGE
+Finance: ORG
+Human Resources: ORG
+Latin: NORP
+Macromedia: GPE
+Excel: PRODUCT
+Power Point: ORG
+MS Word: PERSON
+PeopleSoft: ORG
+Project Design: ORG
+Project Management: ORG
+Quattro Pro: PERSON
+Spanish: NORP

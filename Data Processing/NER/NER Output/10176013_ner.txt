@@ -1,0 +1,37 @@
+Proactive Project: PERSON
+6+ years': DATE
+PlanSwift: PRODUCT
+Honest: ORG
+12/2012 - Current
+Company Name: LAW
+State Construction Estimator: ORG
+Number] months: DATE
+PCOR: NORP
+Assigned: ORG
+Drafted: ORG
+Collaborated: ORG
+Processed: GPE
+40: CARDINAL
+Assisted: ORG
+Drafted: ORG
+12/2009 - 06/2012: CARDINAL
+RFI: ORG
+Obtained: FAC
+Assigned: ORG
+Computed: ORG
+Performed: ORG
+Drafted: ORG
+03/2006 - 11/2008: CARDINAL
+State Real Estate Agent: ORG
+05/2003 - 11/2008: CARDINAL
+State Executive: ORG
+05/2008 - 06/2008: ORG
+Coordinated: ORG
+2004: DATE
+Gettysburg College: ORG
+State: GPE
+US Bachelor of Arts : Business Management
+
+Coursework in Economics
+
+Coursework in Computer Science: ORG

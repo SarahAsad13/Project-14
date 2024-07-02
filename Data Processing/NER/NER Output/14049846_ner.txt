@@ -1,0 +1,36 @@
+Systems Engineering
+Systems Engineering: WORK_OF_ART
+Software: ORG
+Tools: PERSON
+MS Office
+Auto CAD: ORG
+Lean: GPE
+Kaizen Events: PERSON
+Noticeable Contribution: Prepared: WORK_OF_ART
+Directed: ORG
+Noticeable Contribution: WORK_OF_ART
+Rota: PERSON
+Noticeable Contribution: WORK_OF_ART
+Prepared: PRODUCT
+Monitored: ORG
+four: CARDINAL
+R.Senthil Kumar: PERSON
+first: ORDINAL
+close quarters: DATE
+Noticeable
+Contributions: WORK_OF_ART
+Monitored: ORG
+gloriosa superba seeds: ORG
+Performed: ORG
+Coordinated: ORG
+Master of Science : Engineering Management Oklahoma Christian University ï¼​ City: WORK_OF_ART
+State Engineering Management: ORG
+3.6/4: CARDINAL
+2016: DATE
+Bachelor of Technology :: ORG
+Chemical Engineering Sastra University: ORG
+Tamil Nadu Chemical Engineering: ORG
+6.97/10: CARDINAL
+Skills
+Auto CAD: ORG
+Lean: NORP

@@ -1,0 +1,74 @@
+Qualifications
+
+: ORG
+Microsoft: ORG
+Microsoft Office: ORG
+Microsoft Visio: ORG
+IBM: ORG
+Process Improvement
+CMPro: WORK_OF_ART
+Name City: GPE
+Boeing: ORG
+GS&S Emerging Leadership Development Program: ORG
+Boeing: ORG
+Systems Engineering Leadership Program: ORG
+first: ORDINAL
+Boeing: ORG
+GS&S: ORG
+the Hardware Engineering Integrated Product Team: ORG
+F-15: PRODUCT
+the United
+States: GPE
+Korea: GPE
+Singapore: GPE
+Saudi Arabia: GPE
+sixteen: CARDINAL
+the US Navy: ORG
+Royal Australian Air Force: ORG
+NASA: ORG
+P-8A: PRODUCT
+F-22: PRODUCT
+Starliner: PERSON
+thirty-five percent: PERCENT
+Design To Value: PERSON
+first: ORDINAL
+Earned Value Management: ORG
+Performed: ORG
+the Bill of Materials: LAW
+Name City: GPE
+ten: CARDINAL
+the US Air Force: ORG
+two: CARDINAL
+Singapore: GPE
+Team: ORG
+three weeks: DATE
+the United States: GPE
+United Kingdom: GPE
+South Korea: GPE
+AC/DC: ORG
+first: ORDINAL
+fidelity: ORG
+F-15: PRODUCT
+150,000: MONEY
+Master of Business Administration: ORG
+Indiana University: ORG
+BSEE University of Evansville
+Project Management Graduate Certificate Villanova University: ORG
+Coach: ORG
+Skills
+Air Force: ORG
+Hardware, Conflict Management: ORG
+DC: GPE
+Engineer: ORG
+Hardware Design: ORG
+IBM: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+Microsoft Visio: ORG
+Navy: ORG
+Process Improvement: PERSON
+Project Management: ORG
+Project Planning: ORG
+Siemens: ORG
+Systems Engineering: ORG
+Coach: ORG

@@ -1,0 +1,33 @@
+Training: PERSON
+2009: DATE
+University of the Incarnate Word City: ORG
+2011: DATE
+University of the Incarnate Word City: ORG
+Business Administration: ORG
+State: ORG
+Advocate: PERSON
+DentaQuest: ORG
+Medicaid: ORG
+enrollment: GPE
+Texas Health Steps: ORG
+State Provider Relations Specialist: ORG
+Medicaid: ORG
+Researched: ORG
+01/2011: CARDINAL
+State Business Development/Admissions Coordinator
+
+Responsible: ORG
+Coordinated: ORG
+01/2004: CARDINAL
+State Beneficiary Services: ORG
+TRICARE: ORG
+Texas: GPE
+National Guard: ORG
+Reserve: ORG
+State Office Coordinator
+
+Served: ORG
+State Business Office: ORG
+Medicaid: ORG
+Medicare: ORG
+Financial: ORG

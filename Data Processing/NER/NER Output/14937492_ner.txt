@@ -1,0 +1,67 @@
+Career Focus: ORG
+Skills
+
+Business Management & Development
+Strategic & Tactical Planning
+Cost Control & Analysis: ORG
+Quickbooks & Weekly Payroll
+
+Team Building & Leadership: ORG
+Personnel Recruiting & Training: ORG
+10/2006: CARDINAL
+Created: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+half: CARDINAL
+less than a year: DATE
+Prepared: PERSON
+Prepared: PERSON
+quarterly: DATE
+04/2012 to 12/2013: CARDINAL
+$32 Million to $6 Million: MONEY
+less than a 12 month: DATE
+60%: PERCENT
+30,000: MONEY
+about 20 hours: TIME
+FTP: ORG
+SOP: ORG
+40 hours: TIME
+FTP: ORG
+Mexico: GPE
+10 hours: TIME
+FTP: ORG
+60: CARDINAL
+48 hours: TIME
+24 hours: TIME
+80%: PERCENT
+User Acceptance: ORG
+12/2007: CARDINAL
+Customer Development Analyst Company Name: ORG
+Wal*Mart
+
+Responsible: PERSON
+HBI: ORG
+Responsibilities: ORG
+Retail Link: PERSON
+New Ventures: GPE
+New York: GPE
+daily: DATE
+Mexico: GPE
+Central America: LOC
+Caribbean: LOC
+Directed: ORG
+U.S: GPE
+2002: DATE
+Bachelor of Arts : International Business SALEM: ORG
+City: GPE
+State International Business: ORG
+1997: DATE
+City Colombia: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Portuguese: LANGUAGE
+Skills
+Advanced Excel: ORG
+Word: PERSON
+Intermediate Power Point: PRODUCT

@@ -1,0 +1,118 @@
+January 2007 to January 2010: DATE
+LEGRAND: CARDINAL
+HAVELLS: ORG
+2010: DATE
+march 2013: DATE
+Goods COSCHARIS Group: ORG
+1: CARDINAL
+Lagos: GPE
+Nigeria: GPE
+TVS: ORG
+General Goods Division: ORG
+Our General Goods Division: ORG
+Bike: PERSON
+Repair: ORG
+CUSTOMER: ORG
+Bike: PERSON
+Supervision: ORG
+Workshop: ORG
+Repairs: GPE
+Replacement of Spares: ORG
+Parts: ORG
+Workshop: ORG
+Repairs: ORG
+Annual: DATE
+Spares Needed for Workshop, Spares Shops: ORG
+TVS MOTORS CO.: ORG
+India: GPE
+Nirma International: ORG
+U) LTD: ORG
+Plot: ORG
+Kampala Uganda: PERSON
+East Africa: GPE
+124142: DATE
+NIRMA INTERNATIONAL: EVENT
+U) LTD: ORG
+the Authorized Dealers: ORG
+TVS Motorbikes: ORG
+Uganda: GPE
+East Africa: GPE
+Rwanda & Burundi: ORG
+Workshop, Service Centre: ORG
+January 1994 to January 2007: DATE
+Bike: PERSON
+Bike: PERSON
+Supervision: ORG
+Repairs: GPE
+Replacement: GPE
+Workshop: ORG
+Repairs: ORG
+Annual: DATE
+Spare: PERSON
+Workshop, Regular Free Services: ORG
+TVS MOTORS CO.: ORG
+India: GPE
+Zen Motors: ORG
+127/10.Bull Temple Road: FAC
+Kempegowda Nagar: PERSON
+080 26678266: DATE
+The Well Known Brand: WORK_OF_ART
+TWO: CARDINAL
+INDIA: GPE
+January 1990 to January 1994: DATE
+the Service Department of the Company: ORG
+TVS: ORG
+Looked: GPE
+TVS: ORG
+Spares: NORP
+TVS: ORG
+080 26540474: DATE
+Bharath Automobile Agency: ORG
+the Authorized Dealer / Sales & Service Agency: ORG
+the Well Known Brand: ORG
+TWO: CARDINAL
+INDIA: GPE
+the Sales & Services: ORG
+TVS Motorcycles: ORG
+Clients Bikes Services: ORG
+Looked: GPE
+Complaints: ORG
+Bike: PERSON
+Data Entry - Six Month Course: ORG
+1995: DATE
+India: GPE
+PUC: ORG
+2Nd year: DATE
+2002: DATE
+State: GPE
+India Computer Applications
+Personal Information
+Name: ORG
+Chikkegowdappa Date of Birth: PERSON
+37 Years: DATE
+# 35,11TH cross: MONEY
+Kurubarahalli: PERSON
+Muneshwara: GPE
+Laggere: GPE
+Bangalore-560058: GPE
+English: LANGUAGE
+Hindi: GPE
+Kannada: GPE
+Tamil: GPE
+Luganda: PERSON
+Uganda: GPE
+Skills
+Agency: ORG
+Clients, Data Entry,: ORG
+Engineer: ORG
+English: LANGUAGE
+Hindi: GPE
+Repairs: ORG
+Supervision: ORG
+35,11TH: CARDINAL
+Kurubarahalli: PERSON
+Muneshwara: GPE
+Laggere: GPE
+Chikkegowdappa Date of Birth: PERSON
+37 Years: DATE
+ANAND: ORG

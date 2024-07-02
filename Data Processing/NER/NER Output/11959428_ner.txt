@@ -1,0 +1,19 @@
+MAINTENANCE MECHANIC: PERSON
+FAA: ORG
+A&P: PRODUCT
+Fairmount Santrol: ORG
+Detail: PERSON
+Skill Areas: PERSON
+Maintenance Mechanic: ORG
+A&P Mechanic 06/2017: ORG
+Name City: GPE
+State: ORG
+Aircraft Maintenance: PERSON
+Carpenter: PERSON
+Name City: GPE
+State: ORG
+Construct: ORG
+Name City: GPE
+State: ORG
+over hundreds: CARDINAL
+Associate of Applied Science : Airframe & Power-plant Technology 2016 Hallmark University City: WORK_OF_ART

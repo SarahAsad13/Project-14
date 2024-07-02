@@ -1,0 +1,51 @@
+Excel: PRODUCT
+Power Point: ORG
+third: ORDINAL
+Central Pennsylvania: LOC
+Philadelphia: GPE
+Develop: ORG
+Jan 1997 to Jan 2008: DATE
+175: CARDINAL
+each year: DATE
+EDC: ORG
+Coordinated: ORG
+Lancaster County: GPE
+Jan 1995 to Jan 1998: DATE
+monthly: DATE
+Jan 1993 to Jan 1997: DATE
+3000: CARDINAL
+4: CARDINAL
+three: CARDINAL
+Chamber: ORG
+Government Affairs: ORG
+Researched: ORG
+120: CARDINAL
+Chamber: ORG
+Harrisburg: GPE
+Chamber: ORG
+Jan 1992 to Jan 1993: DATE
+Harrisburg: GPE
+the Pennsylvania General Assembly: ORG
+Managed Executive Roundtable Meetings: ORG
+Over 75: CARDINAL
+200: CARDINAL
+Jan 1989 to Jan 1992: DATE
+PBA: ORG
+PBA's Political Action Committee: ORG
+Penn State Harrisburg: ORG
+Lebanon Valley College
+B.A: ORG
+Indiana University: ORG
+Skills
+Assembly: ORG
+Meetings, Access,: ORG
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+Professional Affiliations: ORG
+Professional Women's Forum Committee: ORG
+Lancaster Chamber of Commerce and Industry: ORG
+Fundraising Committee: ORG
+Pennsylvania: GPE
+Leadership Team of Central PA MS: ORG
+Society Executive Committee: ORG

@@ -1,0 +1,58 @@
+FREELANCE UX/UI: ORG
+Architecture: ORG
+User-Centered Design: ORG
+Freelance UX/UI Interaction Designer: ORG
+State Company Name: ORG
+2017: DATE
+App: PERSON
+Created Interactive Prototypes: ORG
+UI: ORG
+State Company Name: ORG
+May 2017: DATE
+Testing for Airbrush App: PERSON
+State Company Name: ORG
+2017: DATE
+2017: DATE
+Website Redesign: GPE
+Bay Area Chinese Musician Association: LOC
+UI: ORG
+State Company Name /: ORG
+2015: DATE
+2017: DATE
+Architectural: ORG
+USC: ORG
+UCLA: ORG
+Created: ORG
+Lead Graphic Designer: PERSON
+State Company Name / Sep 2009: ORG
+May 2010: DATE
+Design for University IMechE Student Chapter
+
+: ORG
+Institution of Mechanical Engineers: ORG
+China: GPE
+Created: ORG
+Master of Arch and Design University of Michigan 2015 City ,: WORK_OF_ART
+State: GPE
+US: GPE
+Bachelor of Engineering University of Nottingham: ORG
+UK: GPE
+2017: DATE
+Coursera: PERSON
+2016-2017: DATE
+Energy and Environmental: ORG
+Accredited Professional: ORG
+LEED AP: PERSON
+2017: DATE
+The BP Achievement Award - BP: ORG
+2011: DATE
+Indesign, Invision: ORG
+Effects: ORG
+Keynote: GPE
+Revit: GPE
+Rhino: NORP
+Watercolor: PERSON
+Bluebeam, Design Thinking: ORG
+UI/UX: ORG
+Graphic Design: ORG
+Mandarin: LANGUAGE

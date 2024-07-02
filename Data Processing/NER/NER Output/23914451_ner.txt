@@ -1,0 +1,59 @@
+Employment: PRODUCT
+HRIS: NORP
+Records: ORG
+25: CARDINAL
+EEOC: ORG
+New Hire Orientation: ORG
+Time Management System: ORG
+Applicant Tracking System: ORG
+Positive Associate
+Relations: ORG
+first: ORDINAL
+Applicant Tracking System: ORG
+Implemented Positive Associate Relations: ORG
+Generalist: PERSON
+May 2015: DATE
+State
+
+Address: ORG
+Advise: ORG
+Facilitate: ORG
+Recruit: ORG
+daily: DATE
+Generate: PERSON
+each week: DATE
+June 2004 to May 2015: DATE
+12: CARDINAL
+1000: CARDINAL
+Facilitate: ORG
+Advise: ORG
+Prepare EEOC: ORG
+Coordinate: FAC
+Front End Supervisor: ORG
+February 2001 to March 2004: DATE
+Recruited: PRODUCT
+daily: DATE
+Customer Service: ORG
+Technical Trainer: PERSON
+June 1997 to February 2001: DATE
+Researched: ORG
+Built: ORG
+Mentored: ORG
+Troubleshot: PERSON
+June 1996 to June 1997: DATE
+Maintained: GPE
+monthly: DATE
+weekly: DATE
+State: GPE
+United States: GPE
+EEOC Responses, Succession Planning: ORG
+Terminations, Customer Service: ORG
+Time Management: ORG
+Lotus Notes: ORG
+Bakery, Merchandising, Ordering, Sales, Sanitation, Scheduling, Budget
+Preparation, Conflict Management, Employment Law, Expense Control: ORG
+Learning, Problem Solving: ORG
+Project
+Management: ORG
+Self Motivated: PERSON
+Team Building: ORG

@@ -1,0 +1,128 @@
+more than 29 years: DATE
+Mexican: NORP
+Italian: NORP
+Japanese: NORP
+American: NORP
+100-20000: CARDINAL
+QSR: PERSON
+Quality & Customer Service: ORG
+7: CARDINAL
+Performance Management
+IMenuPro
+Aloha: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Solomon
+Quest
+ETeac
+Eventmaster
+Caterease
+Food: PERSON
+Forecasting: ORG
+Operations: ORG
+Operations Management: ORG
+Performance Management
+Cost Control: ORG
+Quality
+DC: ORG
+Direction, Quality: ORG
+English: LANGUAGE
+Quest
+Financial: ORG
+Reception
+Focus, Recruitment
+Greek, Research
+Italian,: ORG
+Retail
+Kronos: PERSON
+Team Building: ORG
+Payroll: ORG
+Private Chef: ORG
+LA: GPE
+Orange County: GPE
+2 to 50: CARDINAL
+Plated: ORG
+07/2018: PERSON
+5-million-dollar: MONEY
+California: GPE
+Lounge: PERSON
+Grill: PERSON
+Banquets: GPE
+34%: PERCENT
+9%: PERCENT
+Culinary: ORG
+01/2015: DATE
+26-million-dollar: MONEY
+Whimsical: ORG
+California Cuisine: PERSON
+100: CARDINAL
+6: CARDINAL
+daily: DATE
+200-20000: CARDINAL
+20%: PERCENT
+8%: PERCENT
+2: CARDINAL
+Education: ORG
+AOS: ORG
+Culinary Arts & Hospitality Management: ORG
+1997: DATE
+California Culinary Academy - City: ORG
+1993: DATE
+Mary Star: PERSON
+Quality & Customer Service: ORG
+7: CARDINAL
+Performance Management
+IMenuPro
+Aloha: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Solomon
+Quest
+ETeac
+Eventmaster
+Caterease
+Food: PERSON
+Forecasting: ORG
+Operations: ORG
+Operations Management: ORG
+Performance Management
+Cost Control: ORG
+Quality
+DC: ORG
+Direction, Quality: ORG
+English: LANGUAGE
+Quest
+Financial: ORG
+Reception
+Focus, Recruitment
+Greek, Research
+Italian,: ORG
+Retail
+Kronos: PERSON
+Team Building: ORG
+Payroll: ORG
+Private Chef: ORG
+LA: GPE
+Orange County: GPE
+2 to 50: CARDINAL
+Plated: ORG
+07/2018: PERSON
+5-million-dollar: MONEY
+California: GPE
+Lounge: PERSON
+Grill: PERSON
+Banquets: GPE
+34%: PERCENT
+9%: PERCENT
+Culinary: ORG
+01/2015: DATE
+26-million-dollar: MONEY
+Whimsical: ORG
+California Cuisine: PERSON
+100: CARDINAL
+6: CARDINAL
+daily: DATE
+200-20000: CARDINAL
+20%: PERCENT
+8%: PERCENT
+2: CARDINAL

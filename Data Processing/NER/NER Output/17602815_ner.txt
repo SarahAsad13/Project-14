@@ -1,0 +1,70 @@
+BUSINESS DEVELOPMENT: ORG
+12 years': DATE
+Extensive: ORG
+USPAP Proficient: ORG
+GASB: ORG
+CSAM: ORG
+SACS: ORG
+Current Company Name: ORG
+West Coast: LOC
+CBIZ Valuation Group: ORG
+Developed: PRODUCT
+California: GPE
+Arizona: GPE
+New Mexico: GPE
+Utah: GPE
+Nevada: GPE
+Texas: GPE
+Oklahoma: GPE
+Alaska: GPE
+Hawaii Successfully: ORG
+Trainee: PERSON
+Name City: GPE
+Maintained: GPE
+Grew: PERSON
+Current Company Name City: ORG
+State: ORG
+URMIA: ORG
+PRIMA: ORG
+AGRIP: ORG
+my first year: DATE
+500: CARDINAL
+a multiple year: DATE
+500: CARDINAL
+multiyear: DATE
+California: GPE
+year: DATE
+year: DATE
+Appraiser: PERSON
+Assistant Appraiser: PERSON
+West Coast: LOC
+Perform: ORG
+Determine: PERSON
+Risk Pools: PERSON
+the budgeted hours: TIME
+Oversee: ORG
+daily: DATE
+B.A : Business Administration: ORG
+December 2003: DATE
+University of Wisconsin City Business Administration: ORG
+Detail: PERSON
+Microsoft Office Suite: ORG
+Windows: GPE
+Valuation: ORG
+Professional Affiliations
+Risk Management Society (RIMS): ORG
+California Association of Joint Powers Authorities: ORG
+Public Agency Risk Management Association: ORG
+Public Risk Management Association: ORG
+University Risk Management & Insurance Association: ORG
+Governmental Risk Pools: ORG
+AGRIP: LAW
+Food Service Industry Risk Management Association: ORG
+San Diego: GPE
+Orange County: GPE
+Los Angeles: GPE
+San Francisco: GPE
+Nevada: GPE
+Oregon: GPE
+Utah: GPE
+San Diego/Imperial Valley +: ORG

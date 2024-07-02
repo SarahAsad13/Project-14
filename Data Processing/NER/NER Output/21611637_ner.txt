@@ -1,0 +1,75 @@
+Restaurant Professional Executive Chef: ORG
+Healthy Cuisine: PERSON
+Passionate Food - Service: ORG
+4: CARDINAL
+Labor: ORG
+P & L: ORG
+15%: PERCENT
+annual: DATE
+4%: PERCENT
+annually: DATE
+20%: PERCENT
+5 year: DATE
+Kroger's: ORG
+Supermarket Nutritional: ORG
+Developed: NORP
+Contemporary: ORG
+Inventory: GPE
+Featured in Travel: WORK_OF_ART
+Leisure: ORG
+Store Chef: PRODUCT
+April 2014: DATE
+one: CARDINAL
+one: CARDINAL
+20%: PERCENT
+6 month: DATE
+HACCP: ORG
+July 2013 to January 2014: DATE
+Sodexo: ORG
+Drives: ORG
+Ensures: LOC
+the Food Service
+Supervisors and/or front line staff: ORG
+Sodexo: ORG
+May 2005 to January 2013: DATE
+Culinary: ORG
+65%: PERCENT
+5-year: DATE
+27%: PERCENT
+1 - 2.5: CARDINAL
+Kindred Magazine: ORG
+Tucson: ORG
+Outstanding: PERSON
+Arizona: GPE
+20%: PERCENT
+5-year: DATE
+daily: DATE
+Sous Chef: PERSON
+November 2001 to April 2005: DATE
+$1.5 million: MONEY
+four: CARDINAL
+Culinary Learning Center: ORG
+Budget: ORG
+Associate Degree: PERSON
+Culinary Arts Management: ORG
+1991: DATE
+Sullivan College: ORG
+the National Center for Hospitality ï¼​ City: ORG
+State Culinary Arts
+Management: ORG
+Educational Foundation - National Restaurant Association Certification Serve Safe Certification: ORG
+3: CARDINAL
+Menu: ORG
+Culinary: ORG
+Culinary: ORG
+45%: PERCENT
+3-year: DATE
+Transparency Brightness Contrast Reset: ORG
+1996: DATE
+Traveler: PERSON
+ten: CARDINAL
+Miraval Resort: FAC
+Bon Appetit Best: PERSON
+the year (1997: DATE
+Budget: ORG
+Inventory: GPE

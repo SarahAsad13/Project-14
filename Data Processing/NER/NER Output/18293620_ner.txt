@@ -1,0 +1,98 @@
+SR: ORG
+Professional Summary
+
+Highly: ORG
+12 years: DATE
+Exceptional Outside Sales Representative: ORG
+annual: DATE
+CFO: ORG
+healthcare: ORG
+annual: DATE
+125%: PERCENT
+2015: DATE
+at least 10: CARDINAL
+Atlanta Hawks: ORG
+TruGreen: ORG
+LG: ORG
+Salesfore.com: ORG
+healthcare: ORG
+M2M/IoT Operations: ORG
+Sales Engineering: ORG
+Legal: GPE
+Finance & Operations: ORG
+Accounts Payable: ORG
+Directed: ORG
+11/2016: CARDINAL
+annual: DATE
+125%: PERCENT
+2015: DATE
+at least 10: CARDINAL
+Atlanta Hawks: ORG
+TruGreen: ORG
+LG: ORG
+Salesfore.com: ORG
+healthcare: ORG
+M2M/IoT Operations: ORG
+Sales Engineering: ORG
+Legal: GPE
+Finance & Operations: ORG
+Accounts Payable: ORG
+monthly: DATE
+140%: PERCENT
+monthly: DATE
+140%: PERCENT
+the Wellstar Health Group(over: ORG
+20: CARDINAL
+100%: PERCENT
+80%: PERCENT
+60%: PERCENT
+healthcare: ORG
+over 300: CARDINAL
+$3 million: MONEY
+services(SaaS: ORG
+healthcare: ORG
+Maintained: GPE
+over 85%: PERCENT
+more than 30: CARDINAL
+200k: MONEY
+45%: PERCENT
+2009: DATE
+20%: PERCENT
+five months in a row: DATE
+175%: PERCENT
+Account Executive 05/2006: ORG
+04/2008: CARDINAL
+40: CARDINAL
+the Month: DATE
+70%: PERCENT
+nearly $10 million: MONEY
+140%: PERCENT
+each
+month: DATE
+Comcast Business: ORG
+2014: DATE
+over 300: CARDINAL
+$3 million: MONEY
+Networx Systems: ORG
+Comcast
+Business: ORG
+the Wellstar Health System: ORG
+Networx Systems: ORG
+Winner: PERSON
+Circle Award: PERSON
+2015: DATE
+two: CARDINAL
+W
+Hotel: ORG
+LG: GPE
+Strong: PERSON
+Operations: ORG
+Associate of Arts: ORG
+2002: DATE
+State: ORG
+Highlights
+Accounting, Accounts Payable: ORG
+CRM: PRODUCT
+Finance: ORG
+Legal: GPE
+Strategic: PERSON

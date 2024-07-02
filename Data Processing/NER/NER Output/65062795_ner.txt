@@ -1,0 +1,73 @@
+Manhattan Associates': ORG
+Warehouse Systems: ORG
+Complete: PERSON
+Inbound: GPE
+Warehouse: ORG
+Name City: GPE
+05/2015: PERSON
+XML: ORG
+Created Inbound: ORG
+one: CARDINAL
+one: CARDINAL
+Configured Wave Management: ORG
+Task Management: ORG
+RF: ORG
+Inventory Movement: ORG
+SQL Queries: ORG
+Manhattan Associates: ORG
+2013: DATE
+SQL Server: ORG
+11.02: CARDINAL
+Name City: GPE
+State Quality Assurance Engineer: ORG
+Name City: GPE
+State Junior PeopleSoft Developer 06/2014 to 11/2014
+
+: ORG
+Oracle: ORG
+PeopleSoft: ORG
+Oracle's: ORG
+SCM: PERSON
+PeopleTools: ORG
+eight: CARDINAL
+PeopleSoft: ORG
+PeopleSoft: ORG
+Structured Query Report: ORG
+SQR: ORG
+Oracle PeopleTools 8.46: ORG
+Oracle Database Express: ORG
+11: CARDINAL
+Name City: GPE
+State: ORG
+Monitored: ORG
+the University of Florida: ORG
+Assisted Professors: ORG
+the Academic Technology Labs: ORG
+University of Florida: ORG
+Master of Science : Computer Engineering: WORK_OF_ART
+May 2014: DATE
+State: GPE
+the College of Engineering,: ORG
+University of Florida: ORG
+Bachelor of Technology : Information Technology 2011 Anna University: ORG
+City: GPE
+State: GPE
+India: GPE
+Java
+Web Technologies: HTML5: PERSON
+CSS3: PERSON
+Java Script: PERSON
+PHP: ORG
+JQuery
+Development: ORG
+Eclipse: PRODUCT
+Microsoft Visual Studio: ORG
+2012: DATE
+Matlab
+Database: PERSON
+Microsoft: ORG
+Oracle 9i/10g/11: ORG
+Microsoft Test: ORG
+Software Suite: PERSON
+Manhattan Associates: ORG
+Oracle's: ORG

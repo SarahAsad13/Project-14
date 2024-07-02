@@ -1,0 +1,99 @@
+10 years: DATE
+10 years: DATE
+Thomson Reuters: ORG
+almost $3
+million: MONEY
+the last 6 years: DATE
+hundreds: CARDINAL
+Presidents Club: ORG
+2013: DATE
+one: CARDINAL
+10%: PERCENT
+Thomson Reuters: ORG
+10 years': DATE
+4 years: DATE
+Toyota Motor Company: ORG
+Kaizen: PERSON
+seven: CARDINAL
+30 years: DATE
+Microsoft: ORG
+Core Strengths
+Technical Sales Professional: ORG
+2010: DATE
+Accounting CS: ORG
+2010: DATE
+Accounting CS Payroll: ORG
+2011: DATE
+2012: DATE
+Accounting CS Payroll: ORG
+2011: DATE
+2011: DATE
+over $300: MONEY
+Accounting CS: ORG
+100%: PERCENT
+2012: DATE
+150: MONEY
+K Revenue Increase: ORG
+2012: DATE
+110%: PERCENT
+Quota
+Achievement: FAC
+150: CARDINAL
+K Revenue Increase: ORG
+Current Company Name City: ORG
+my second year: DATE
+Toyota: ORG
+the year: DATE
+Chosen: ORG
+one: CARDINAL
+three: CARDINAL
+Thomson Reuters Sales: ORG
+Jim Colantino: PERSON
+Transition Sales: ORG
+the first two years: DATE
+Accounting CS: ORG
+over $695,000: MONEY
+the Presidents Club: ORG
+2013: DATE
+Thomson Reuters: ORG
+Thomson Reuters Tax and Accounting: ORG
+the Culture Champion Team: ORG
+110: CARDINAL
+eight years: DATE
+200: CARDINAL
+25,000: CARDINAL
+800: CARDINAL
+6-month: DATE
+5: CARDINAL
+15: CARDINAL
+Commissioned: ORG
+40: CARDINAL
+three-day: DATE
+15,000-20,000: CARDINAL
+annually: DATE
+Relational Style Motivation: ORG
+2,000: CARDINAL
+over 20,000: CARDINAL
+six months: DATE
+Results Oriented Administration: ORG
+over 300: CARDINAL
+Michigan: GPE
+Name City: GPE
+State: ORG
+01/2000: CARDINAL
+Name City: GPE
+Training
+Master of Divinity Master of Arts: WORK_OF_ART
+Seminary City: PERSON
+Skills
+Accounting: ORG
+Team Builder: PERSON
+Microsoft: ORG
+Organizer: PERSON
+Reuters: ORG
+Tax and Accounting: ORG
+Technical Sales: ORG
+Additional Information
+
+Limited License Professional Counselor - License: ORG
+6401006038: CARDINAL

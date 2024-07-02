@@ -1,0 +1,121 @@
+daily: DATE
+Analytical Abilities: WORK_OF_ART
+Reliable
+Delegation of Duties
+Multitasking Abilities
+Work Ethics
+Problem Solver: WORK_OF_ART
+Microsoft Great Plains: FAC
+QuickBooks: ORG
+Microsoft: ORG
+Outlook Familiarity: PERSON
+Microsoft: ORG
+Strength: ORG
+Budget: ORG
+Complex: NORP
+SEC: ORG
+Superior: ORG
+Advanced: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft Power Point: ORG
+Microsoft: ORG
+Name City: GPE
+State: ORG
+Prepare daily: ORG
+Prepare: ORG
+monthly/quarterly/annual: DATE
+annual: DATE
+Prepare: ORG
+Tax Compliance: PRODUCT
+Annual: DATE
+Prepare: ORG
+monthly: DATE
+Goods and Services: ORG
+Complete: PERSON
+monthly: DATE
+daily: DATE
+month end: DATE
+Respond: PERSON
+Identify: ORG
+Assist: ORG
+Research: ORG
+SEC: ORG
+Name City: GPE
+monthly: DATE
+Payroll: ORG
+CAT: ORG
+Bank: ORG
+year end: DATE
+annual: DATE
+Respond: PERSON
+Name City: GPE
+State: ORG
+daily: DATE
+Prepare: ORG
+monthly: DATE
+weekly: DATE
+lien: PERSON
+monthly: DATE
+weekly: DATE
+weekly: DATE
+daily: DATE
+SafePay: ORG
+monthly: DATE
+month end: DATE
+year end: DATE
+Name City: GPE
+Accounts Payable: ORG
+monthly: DATE
+Accounts Payable: ORG
+weekly: DATE
+month: DATE
+daily: DATE
+Provide day: DATE
+General Ledger, Taxation, Compliance,: ORG
+Legal and Regulatory Department: ORG
+yearly: DATE
+monthly: DATE
+yearly: DATE
+MBA: WORK_OF_ART
+City: GPE
+State: GPE
+US: GPE
+Summa Cum Laude Â 
+
+Bachelor of Science : Business Management Penn Foster College: PERSON
+City: GPE
+State: GPE
+US: GPE
+Summa Cum Laude: PERSON
+List of Top 20: WORK_OF_ART
+Highest Scored Students of All Times: ORG
+Associate of Science : Accounting Penn Foster College: WORK_OF_ART
+City: GPE
+State: GPE
+US: GPE
+Ledger Skills: PERSON
+Accounting Reviews Â 
+
+: PERSON
+FAS 109: ORG
+quarterly: DATE
+Reconciliations: PERSON
+Budgeting, Budget Preparation: ORG
+Monthly: DATE
+Invoice: GPE
+Daily  Accounting, Expense  Report  Review: ORG
+Coding: ORG
+Financial Statements Preparation: ORG
+Forecasting, Fund Accounting: ORG
+Ledger Accounting: PERSON
+Income Tax Preparation, Inventory, Invoicing, Cost Reporting: ORG
+Journal Entries: ORG
+Departments: GPE
+Recognition: ORG
+Performance Management: ORG
+Process
+Invoices: ORG
+Tax Returns: PERSON
+Variance Analysis: PERSON

@@ -1,0 +1,108 @@
+Career Overview
+Detail: WORK_OF_ART
+Information Technology: ORG
+Microsoft Office: ORG
+Adobe Creative Suite: PERSON
+Qualifications
+Education: ORG
+2012: DATE
+Virus: ORG
+Digital: ORG
+Java: PERSON
+Mobile: GPE
+HTML - HTML5: ORG
+Audio: PERSON
+CSS - CSS3 q Medical: ORG
+JavaScript: PRODUCT
+Command Line: FAC
+Java Management q ActionScript: ORG
+Hardware: ORG
+PHP: ORG
+Database: GPE
+Documentation q: ORG
+Android: ORG
+Organization: ORG
+Multi: GPE
+Content Management Systems: ORG
+CMS: ORG
+2003 - 8: DATE
+Search Engine Optimization: ORG
+Multiple Linux Distributions q Ubuntu 10.04: ORG
+12.10: CARDINAL
+Networking: ORG
+1.0 - 4.0.4: CARDINAL
+Mac: PERSON
+OS X v10.0 - v10.8: ORG
+Server: GPE
+IOS: ORG
+1.0 - 6.1: CARDINAL
+Programs q Proficiency: WORK_OF_ART
+Microsoft Office: ORG
+2010: DATE
+TCP/IP q Small: ORG
+Wireless: ORG
+5: CARDINAL
+Telephony: ORG
+Wiring: ORG
+Network: ORG
+Graphics: ORG
+Media q Photo: ORG
+Electronics q Brochure: ORG
+Audio: PERSON
+Prototyping q Logo: PERSON
+Electromagnetisms: GPE
+Quantum: ORG
+monthly: DATE
+3422 to 40884: DATE
+a few months: DATE
+Altoids: PRODUCT
+Automated: ORG
+daily: DATE
+Batch Scripting: PERSON
+Troubleshot: PERSON
+Eaglesoft: ORG
+Information Technology: ORG
+March 2012 to November 2012: DATE
+July 2011 to February 2012: DATE
+May 2011 to July 2011 Company Name ï¼​ City: DATE
+social media administration: ORG
+2014: DATE
+State: GPE
+United States Information Technology: ORG
+all 4 years: DATE
+GPA: ORG
+Diamond Achievement Academic: ORG
+ActionScript: ORG
+Adobe Creative: PERSON
+5: CARDINAL
+Photo,: ORG
+Audio,: ORG
+Brochure: ORG
+CMS: ORG
+Hardware: ORG
+Content Management: ORG
+CSS: ORG
+CSS3: GPE
+Database: GPE
+Documentation: ORG
+XML: ORG
+Graphics: ORG
+HTML5: GPE
+PHP: ORG
+Java: PERSON
+Java: PERSON
+JavaScript: PRODUCT
+Linux: GPE
+Logo, Mac OS: ORG
+Microsoft Office: ORG
+Windows: GPE
+Networking: ORG
+Operating Systems: ORG
+Prototyping: PERSON
+Search Engine Optimization: ORG
+TCP/IP: ORG
+Telephony: ORG
+Phone 7.0: ORG
+Troubleshooting: GPE
+Windows Server: PERSON
+Wiring: ORG

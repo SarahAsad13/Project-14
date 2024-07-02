@@ -1,0 +1,81 @@
+Experienced Information Technology: ORG
+10 years: DATE
+Astute: WORK_OF_ART
+Key Proficiencies Personnel Management Leadership Management: ORG
+Project
+Management Business Intelligence Communications Business Analysis Report Development/ Analysis User Relations/User Training
+Development Superior Microsoft Office: ORG
+BI Program: ORG
+30,000: MONEY
+5 year: DATE
+Business Objects: ORG
+SAP BO: ORG
+SAP BW: ORG
+SharePoint: ORG
+SharePoint: ORG
+2010: DATE
+Redesign of SharePoint: ORG
+Business Intelligence: ORG
+SharePoint: ORG
+SharePoint: ORG
+Accomplishments Implementation of revamped: WORK_OF_ART
+SharePoint: ORG
+SharePoint: ORG
+GB: GPE
+BI: ORG
+one: CARDINAL
+30,000: MONEY
+5 years: DATE
+12/2005: CARDINAL
+Name City: GPE
+Accomplishments Upgrade: PERSON
+Business Objects: ORG
+MS SQL: ORG
+Oracle: ORG
+Business Objects: ORG
+SAP BO: ORG
+3: CARDINAL
+11/1997: CARDINAL
+Name City: GPE
+ERP: ORG
+CRM: PRODUCT
+SQL: ORG
+ERP: ORG
+Implementation of CRM: ORG
+BA : Management 2012 Western Governor's: ORG
+University Management
+General Studies: ORG
+2007: DATE
+University of Phoenix General Studies: ORG
+1993: DATE
+Denmark High School General Studies
+Professional Affiliations
+: ORG
+Girl Scouts of America - Troop: ORG
+2011 - Present: DATE
+May 2015 -
+Present: DATE
+Allouez Traffic and Safety Committee: ORG
+2009 - 2012: DATE
+Green Bay: PERSON
+2007: DATE
+Skills: ORG
+Business Analysis: ORG
+BI: GPE
+Business Intelligence: ORG
+Business Objects: ORG
+CRM: PRODUCT
+DBA: ORG
+ERP: ORG
+Financial: ORG
+Leadership: PERSON
+Microsoft Office: ORG
+SharePoint: ORG
+Oracle: ORG
+Personnel Management: ORG
+Project Management: ORG
+SAP BW: ORG
+SAP: GPE
+SQL: ORG
+User Training: ORG
+Upgrade: PERSON

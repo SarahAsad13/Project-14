@@ -1,0 +1,74 @@
+MS: GPE
+Word: PERSON
+Kronos: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Coordinator Apr: PERSON
+2012: DATE
+Federal, State, Local Laws: ORG
+Job Postings Board: ORG
+District Manager Monitor: ORG
+Processed: GPE
+I-9's: ORG
+Ensured Wage & Hour: ORG
+Ensures: LOC
+ARAMARK: ORG
+Ensured Affirmative Action Planning and Compliance
+Actively: ORG
+Retention Strategies: ORG
+Ensures: LOC
+Performance Improvement Plans: WORK_OF_ART
+Ensured Encore Encore: ORG
+Administered Two Union Contracts: ORG
+6: CARDINAL
+two: CARDINAL
+825: CARDINAL
+Review & Handle Unemployment Claims
+
+Owner: ORG
+Jan 2009: DATE
+Jan 2012: DATE
+Animal Rescue Organization: ORG
+Animal Shelter: ORG
+Jan 2003 to Jan 2009: DATE
+0%: PERCENT
+Maintain: PRODUCT
+Landlord: PERSON
+Prepared: PERSON
+Associates , Business Management Robert Morris College: ORG
+State: GPE
+US: GPE
+Associates in Business Management: ORG
+Robert Morris College: ORG
+Chicago: GPE
+2013: DATE
+Chicago Department Of Health: ORG
+2013: DATE
+Professional in Human Resources: ORG
+Affiliations: ORG
+SHRM: ORG
+Skills
+Customer Service: ORG
+Receptionist: NORP
+Advertising, Budget, Corrective Action: ORG
+Maintenance, Office: ORG
+Paying, Scheduling, Surveying, Accounting: ORG
+Inventory: GPE
+Bi, Business Intelligence, Claims, Clients, Coaching, Compensation, Contracts: ORG
+Employee Engagement: ORG
+Fmla: ORG
+Hr: PERSON
+Interviewing: PERSON
+Managerial: GPE
+Payroll, Pto, Recruiting, Staffing, Talent Selection, Tally: ORG
+Terminations, Training, Workers Compensation: ORG
+Excel: PRODUCT
+Excellent Multitasker: PERSON
+Kronos: PERSON
+Ms Word: PERSON
+Outlook: PERSON
+Performance
+Management: ORG
+Powerpoint: PRODUCT
+Human Resources, Business Management: ORG

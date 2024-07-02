@@ -1,0 +1,110 @@
+Skill Highlights
+
+Project Management and Planning
+Leadership/Communication: ORG
+Business Operations Organization
+Budget Administration: ORG
+New Business Development
+Report Matrix Development: ORG
+non-union: GPE
+Mentored: ORG
+September 2011: DATE
+Name City: GPE
+State: ORG
+Pipeline Operations
+
+Strengthened company's: ORG
+Directs: PRODUCT
+Spearheaded: PERSON
+O&M: ORG
+1,120,000MDTHD: CARDINAL
+3 years: DATE
+two: CARDINAL
+2013: DATE
+2014: DATE
+28,300: CARDINAL
+winter: DATE
+317,500MDTD: CARDINAL
+Gas Control: ORG
+multi-year: DATE
+ROW: ORG
+Capital: ORG
+O&M: ORG
+an over 95%: PERCENT
+2 years: DATE
+25%: PERCENT
+five year: DATE
+2020: DATE
+three: CARDINAL
+FERC: ORG
+May 2015: DATE
+39.8M.: MONEY
+January 2010: DATE
+September 2011: DATE
+Name City: GPE
+State: ORG
+Identify: ORG
+Business Development: ORG
+FERC: ORG
+December 2007: DATE
+January 2010: DATE
+Company Name City: LOC
+State Construction Project: ORG
+Coordinate: FAC
+two: CARDINAL
+two: CARDINAL
+27,900: CARDINAL
+108.2: MONEY
+January 1989: DATE
+December 2007: DATE
+Name City: GPE
+State Engineering: ORG
+Operations: ORG
+daily: DATE
+Prepare: ORG
+Interview: ORG
+Train: GPE
+State: ORG
+Federal and State: ORG
+Supervisor of Engineering:: WORK_OF_ART
+O&M: ORG
+Short: PERSON
+Company: ORG
+Engineering Technicians and Design
+Engineer/Technologists: ORG
+Prepare: ORG
+Prepare: ORG
+Review: ORG
+Safety Committee: ORG
+monthly: DATE
+Damage Prevention: ORG
+over 6%: PERCENT
+0%: PERCENT
+two years: DATE
+0%: PERCENT
+2 additional years: DATE
+first: ORDINAL
+68 days: DATE
+31 days: DATE
+1998: DATE
+Cambridge College Certificate: ORG
+1998: DATE
+Cambridge College Master of Education: ORG
+Integrated Studies and Management - Cambridge College: ORG
+1998: DATE
+1986: DATE
+Chester Institute Design Technology Architectural: ORG
+Civil Design Technology - Porter: ORG
+Chester Institute: ORG
+1985-1986: DATE
+Skills
+
+Project Management
+
+Operational Restructure and Change
+
+Quality Management
+
+Departmental Operations Management
+
+Eagle Scout: ORG

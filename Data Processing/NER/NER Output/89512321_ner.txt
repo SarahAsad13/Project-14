@@ -1,0 +1,167 @@
+Skill Highlights
+
+: PERSON
+Windows / Mac OS: ORG
+HRMS: PERSON
+Training Attended
+Year
+Title
+Location
+Organised: WORK_OF_ART
+2011: CARDINAL
+Tata Consultancy Services: ORG
+India: GPE
+over 305,000: CARDINAL
+more than 45: CARDINAL
+North America: LOC
+TCS: ORG
+New Jersey: GPE
+over 30,000: CARDINAL
+7 years: DATE
+Resource
+Management Group for BPS North America: ORG
+Tata Consultancy Services: ORG
+Cincinnati: GPE
+Ohio: GPE
+Generalist for TCS BPS: ORG
+Midland: GPE
+MI: GPE
+Cincinnati: GPE
+OH: GPE
+US: GPE
+Mumbai: GPE
+Chennai: ORG
+India: GPE
+over 3 years: DATE
+US: GPE
+the Head Talent Acquisition and: ORG
+Resource Management Group - BPS North
+America: ORG
+Satyam BPO at Hyderabad: FAC
+Mar 2007: DATE
+Sep 2008: DATE
+US: GPE
+Recruitment, Performance Management, Organization Development and Change
+Management: ORG
+Sep 2008: DATE
+Resource Management Group - BPS North America Work Location
+Midland: ORG
+Michigan: GPE
+Cincinnati: GPE
+Ohio: GPE
+Mumbai: GPE
+Chennai: ORG
+India Key Accomplishments: Proficient: ORG
+Leadership: NORP
+50: CARDINAL
+FTE: ORG
+Cincinnati: GPE
+OH: GPE
+less than 60 days: DATE
+25: CARDINAL
+FTE: ORG
+Pharma: PERSON
+Cincinnati: GPE
+OH: GPE
+30 days: DATE
+Focussed Analytics: WORK_OF_ART
+TCS BPS: ORG
+North America: LOC
+first: ORDINAL
+10: CARDINAL
+45 days: DATE
+US: GPE
+98%: PERCENT
+BPS North America Responsibilities: ORG
+Resource Management Group - BPS North America Recruitment for Mortgage: ORG
+Pharma: NORP
+Cincinnati: GPE
+Ohio: GPE
+Midland: GPE
+TCS BPS Sales: ORG
+Solutions: PRODUCT
+Analytics and Insights: WORK_OF_ART
+TCS: ORG
+North America: LOC
+10: CARDINAL
+45 days: DATE
+Niche: NORP
+30%: PERCENT
+Non-Niche: ORG
+45%: PERCENT
+FY: GPE
+14: CARDINAL
+Human Resource Relationship: ORG
+BPS: ORG
+the North America Geography: LOC
+IQMS: ORG
+Building Employee Connect: WORK_OF_ART
+CSR: ORG
+Increment: ORG
+FLSA: ORG
+BFSI: ORG
+Quarterly: DATE
+Ensure Promotion: ORG
+Drive: ORG
+BFSI: ORG
+Employer: ORG
+Design: PRODUCT
+Identify: ORG
+Green Belt: PERSON
+Provide: PERSON
+Leadership: NORP
+09/2008: GPE
+03/2007: GPE
+India Responsibilities End: ORG
+Employee Relations activities Induction: ORG
+Satyam BPO Policies: WORK_OF_ART
+Closure of Background: ORG
+one: CARDINAL
+the Code of Conduct Address: ORG
+Organization: ORG
+Complete Performance Management: ORG
+Interface: ORG
+2007: DATE
+ICFAI University: ORG
+Dehradun: GPE
+ICFAI School of HRD: ORG
+City: GPE
+India Human Resources
+Bachelor of Science : Information Technology Science and Commerce BSc: ORG
+I.T University of Mumbai Birla: ORG
+Arts India Information
+Technology Science and Commerce
+Personal Information: ORG
+US: GPE
+Interests: NORP
+2012: DATE
+Edison: ORG
+NJ TCS: ORG
+Freeh Group International Additional Details Current Location: ORG
+Cincinnati: GPE
+Thane: GPE
+India: GPE
+Visa Details: PERSON
+Bi, Change Management: ORG
+Employee Relations: ORG
+Human Resource: ORG
+Leadership Skills: PERSON
+Mac OS: PERSON
+MS: ORG
+Windows: GPE
+98: DATE
+Organization Development: ORG
+Performance Management: ORG
+Policies: GPE
+Promotion, Recruitment: ORG
+Design: PRODUCT
+US: GPE
+2012: DATE
+Edison: ORG
+NJ TCS: ORG
+Freeh Group International Additional Details Current Location: ORG
+Cincinnati: GPE
+OH Passport Details Passport: ORG
+Thane: GPE
+India: GPE
+Visa Details Visa: PERSON

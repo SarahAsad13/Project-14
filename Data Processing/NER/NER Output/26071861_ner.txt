@@ -1,0 +1,75 @@
+Vista: ORG
+Strong Knowledge of Linux: PERSON
+Linux Mint: PERSON
+Macintosh Operating Systems
+Proficient: ORG
+Microsoft Office: ORG
+2003, 2007,: DATE
+2010: DATE
+2011: DATE
+2013: DATE
+Excel: PRODUCT
+Powerpoint: ORG
+Access, Lync: ORG
+Livemeeting: PERSON
+OneNote: ORG
+Microsoft Lync: ORG
+Skype for Business: ORG
+Google Hangouts, Skype: ORG
+Outlook, Gmail: ORG
+Mac: PERSON
+Google Apps
+Extensive: ORG
+PHP: ORG
+Javascript: PERSON
+Customer Success Advocate: FAC
+November 2015: DATE
+Current Company Name: ORG
+II: CARDINAL
+June 2013 to November 2013: DATE
+the Central/Southern NAU: ORG
+Assist: ORG
+Faculty: PERSON
+Modify: ORG
+Faculty: ORG
+Assist: NORP
+Coordinate: FAC
+NAU ITS: ORG
+Faculty: PERSON
+Identify: ORG
+Maintain: PRODUCT
+Monitor NAU's: ORG
+Task Management Environment: ORG
+North Valley: LOC
+25: CARDINAL
+Faculty and Staff: ORG
+Active Directory: ORG
+Diamond: PERSON
+PostGhost Database: GPE
+TCP: ORG
+January 2012 to June 2012: DATE
+Hardline: NORP
+June 2013 to November 2013: DATE
+2014: DATE
+Sandra Day O'Connor: PERSON
+2017: DATE
+Northern Arizona University: ORG
+ï¼​ City: GPE
+State Computer Information Technology: ORG
+Active Directory: PERSON
+Database: GPE
+Ghost: PERSON
+HTML: ORG
+PHP: ORG
+Javascript, Linux: PERSON
+Mac: PERSON
+Macintosh: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Suite: ORG
+Windows Operating Systems: ORG
+Outlook, Powerpoint: ORG
+Word: PERSON
+Operating Systems: ORG
+TCP: ORG
+Vista: ORG

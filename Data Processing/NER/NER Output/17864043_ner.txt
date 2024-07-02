@@ -1,0 +1,67 @@
+Recruiter: PERSON
+Spanish: NORP
+HRIS: ORG
+Applicant Tracking: PERSON
+Name City: GPE
+Works with Talent Acquisition Specialist: ORG
+Bethesda: GPE
+Conducts: ORG
+daily: DATE
+Talent Acquisition Specialist: ORG
+Collects: ORG
+Healthcare Recruiter 02/2014: PERSON
+Name City: GPE
+Conducts: ORG
+Reviews: NORP
+Attend Weekly: ORG
+Complete: PERSON
+weekly: DATE
+Meets: NORP
+Recruiter: PERSON
+National Physician Recruiter 02/2012: ORG
+11/2014: CARDINAL
+Name City: GPE
+one: CARDINAL
+National Healthcare Recruiter 08/2011: ORG
+Name City: GPE
+60-100: CARDINAL
+daily: DATE
+Customer: ORG
+Personnel: ORG
+Agency: ORG
+Completed: ORG
+Recruitment Coordinator: ORG
+Recruiter: PERSON
+08/2011: CARDINAL
+Name City: GPE
+Coordinated: ORG
+Located: ORG
+Communicated: ORG
+Created: ORG
+Maintained: GPE
+the Human Resources Information System: ORG
+HRIS: ORG
+Admissions Recruiter 12/2005: PERSON
+Name City: GPE
+Established: ORG
+Created: ORG
+Portland State University City: ORG
+State Sociology
+Languages
+Bilingual: ORG
+Spanish: NORP
+Skills: ORG
+Agency: ORG
+Corporate Communications: ORG
+HRIS: ORG
+Human Resources: ORG
+Marketing Strategies: ORG
+Media Relations: ORG
+Works: ORG
+Personnel: ORG
+Presentation Skills: PERSON
+Recruitment: PERSON
+Recruiter: PERSON
+Sales Planning: ORG
+Spanish: NORP
+Territory Management: ORG

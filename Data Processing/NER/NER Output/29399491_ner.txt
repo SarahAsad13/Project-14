@@ -1,0 +1,49 @@
+5Â years: DATE
+Skills
+
+Trusted: ORG
+Windows: NORP
+Quick: ORG
+Multi: GPE
+Team: ORG
+Reliable
+Goal: WORK_OF_ART
+Decisive
+
+Fluent: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+Analytical: PRODUCT
+PowerPoint: ORG
+Communicated: ORG
+daily: DATE
+weekly: DATE
+Overnight Cashier 02/2014: WORK_OF_ART
+10%: PERCENT
+month: DATE
+Seasonal Overnight Stocking 10/2013 to 01/2014 
+Company Name: WORK_OF_ART
+Customer Service: ORG
+06/2013: CARDINAL
+200 Â: CARDINAL
+Associate of Arts: ORG
+State: ORG
+3.0: CARDINAL
+GPA: ORG
+Supernatural MovementÂ Club
+Coursework in Accounting, Finance: ORG
+2013: DATE
+100%: PERCENT
+Telephone Service 
+Professionally: ORG
+80+: DATE
+Skills
+
+Customer Service: ORG
+Spanish: NORP
+English: LANGUAGE
+Microsoft Word: PERSON
+Life 4 Cars Inc.: ORG
+the month: DATE
+the month: DATE
+AMC Theater 24: ORG

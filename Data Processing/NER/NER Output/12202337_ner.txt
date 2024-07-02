@@ -1,0 +1,102 @@
+Career Focus
+
+Accomplished: FAC
+Microsoft Office - MS Word: ORG
+MS Power Point: ORG
+MS Excel: ORG
+Pivot Tables: ORG
+Spreadsheets: NORP
+Macros: LOC
+Business Objects: ORG
+Lombardi: ORG
+Eagle Accounting System: ORG
+DRAS: ORG
+Workbench: GPE
+Detail: PERSON
+Variance: PERSON
+Detail: PERSON
+Analytical
+Expert: PRODUCT
+Complex: NORP
+Superior: ORG
+Name City: GPE
+State Investment Accountant 10/2012 to 11/2015
+
+: ORG
+Identified and Resolved: ORG
+Custody and Accounting Cash: ORG
+Eagle: ORG
+IAX: ORG
+Business Objects: ORG
+Lombardi: ORG
+Workbench Reports Communicated: ORG
+Collaborated: ORG
+Conducted: ORG
+weekly: DATE
+Trained,: ORG
+Oversee: ORG
+Pune, India: GPE
+Pune Office: ORG
+US: GPE
+US: GPE
+Pega Vs: PERSON
+Business Objects: ORG
+Eagle: ORG
+the Platform Migration Trained: ORG
+Ran daily: PERSON
+MS Database: GPE
+BNY Mellon Bank: ORG
+Dec 2013: DATE
+BNY Mellon Bank: ORG
+Dec 2014: DATE
+Name City: GPE
+State AML Compliance: ORG
+Performed: ORG
+google: ORG
+UD Project 1: Group: FAC
+1,000,000: MONEY
+about 50%: PERCENT
+about 25%: PERCENT
+25%: PERCENT
+CV: PERSON
+daily: DATE
+Performed: PERSON
+weekly: DATE
+Price Momentum Strategy Used: WORK_OF_ART
+US: GPE
+US: GPE
+Canadian: NORP
+annual: DATE
+eight: CARDINAL
+each quarter: DATE
+each quarter: DATE
+Name City: GPE
+State Medical: ORG
+Technologist: NORP
+Clinical Microbiology Experience - Highlights: ORG
+Rapid: ORG
+daily: DATE
+Master of Business Administration: ORG
+State: GPE
+State: GPE
+Financial Management: ORG
+Corporate Financial Policies: ORG
+Portfolio Management: ORG
+Financial Engineering and Risk Management: ORG
+English: LANGUAGE
+Marathi: PERSON
+Hindi: GPE
+Gujarati: GPE
+Skills
+
+MS Office: ORG
+Macros: PRODUCT
+Pivot: PERSON
+Outlook
+
+Company Platforms: Business Objects: ORG
+Workbench: GPE
+Eagle: ORG
+Pega: PERSON
+Lombardi: ORG
+DRAS: ORG

@@ -1,0 +1,154 @@
+20 years: DATE
+Accounts Payable: ORG
+apollo: ORG
+Credit: ORG
+FTP: ORG
+Ledger: PERSON
+Mail: GPE
+MS
+Office: ORG
+Express: ORG
+Problem: PRODUCT
+Committed: ORG
+Quick: ORG
+Windows: NORP
+Service Advocate: PERSON
+10/2015: CARDINAL
+Medicare: ORG
+Medicaid: ORG
+Nevada: GPE
+Georgia: GPE
+Arizona: GPE
+Indiana: GPE
+South Dakota: GPE
+ChampVa: PERSON
+Ohio Bureau of Workers Compensation and Mail
+Order: ORG
+KPI: ORG
+Service Advocate: PERSON
+10/2015: CARDINAL
+Medicare: ORG
+Medicaid: ORG
+Nevada: GPE
+Georgia: GPE
+Arizona: GPE
+Indiana: GPE
+South Dakota: GPE
+ChampVa: PERSON
+Ohio Bureau of Workers Compensation and Mail
+Order: ORG
+KPI: ORG
+Service Advocate: PERSON
+10/2015: CARDINAL
+Medicare: ORG
+Medicaid: ORG
+Nevada: GPE
+Georgia: GPE
+Arizona: GPE
+Indiana: GPE
+South Dakota: GPE
+ChampVa: PERSON
+Ohio Bureau of Workers Compensation and Mail
+Order: ORG
+KPI: ORG
+Service Advocate: PERSON
+10/2015: CARDINAL
+Medicare: ORG
+Medicaid: ORG
+Nevada: GPE
+Georgia: GPE
+Arizona: GPE
+Indiana: GPE
+South Dakota: GPE
+ChampVa: PERSON
+Ohio Bureau of Workers Compensation and Mail
+Order: ORG
+KPI: ORG
+10/2015: CARDINAL
+GoDaddy: ORG
+GoDaddy: ORG
+FTP: ORG
+cPanel: ORG
+Plesk: PERSON
+MySQLÂ: PERSON
+10/2015: CARDINAL
+GoDaddy: ORG
+GoDaddy: ORG
+FTP: ORG
+cPanel: ORG
+Plesk: PERSON
+MySQLÂ: PERSON
+10/2015: CARDINAL
+GoDaddy: ORG
+GoDaddy: ORG
+FTP: ORG
+cPanel: ORG
+Plesk: PERSON
+MySQLÂ: PERSON
+Designer Care Associate: ORG
+Customer Care Advocate: ORG
+Customer Care Advocate: ORG
+Customer Care Advocate: ORG
+International Certified Specialist: ORG
+Distribute: ORG
+Coordinate: FAC
+DHL Express: ORG
+International Certified Specialist: ORG
+Distribute: ORG
+Coordinate: FAC
+DHL Express: ORG
+International Certified Specialist: ORG
+Distribute: ORG
+Coordinate: FAC
+DHL Express: ORG
+Customer Service Representative: ORG
+08/2008: PERSON
+Alltel Wireless: ORG
+Review: ORG
+Determine: ORG
+Customer Service Representative: ORG
+08/2008: PERSON
+Alltel Wireless: ORG
+Review: ORG
+Determine: ORG
+Customer Service Representative: ORG
+08/2008: PERSON
+Alltel Wireless: ORG
+Review: ORG
+Determine: ORG
+04/2008: CARDINAL
+Ensures: ORG
+Develops: PERSON
+04/2008: CARDINAL
+Ensures: ORG
+Develops: PERSON
+04/2008: CARDINAL
+Ensures: ORG
+Develops: PERSON
+11/2004: CARDINAL
+Union General Ledger: ORG
+Accounts Payable: ORG
+70: CARDINAL
+MS Office: ORG
+MS Excel: ORG
+Word: PERSON
+11/2004: CARDINAL
+Union General Ledger: ORG
+Accounts Payable: ORG
+70: CARDINAL
+MS Office: ORG
+MS Excel: ORG
+Word: PERSON
+11/2004: CARDINAL
+Union General Ledger: ORG
+Accounts Payable: ORG
+70: CARDINAL
+MS Office: ORG
+MS Excel: ORG
+Word: PERSON
+GED: ORG
+1996: CARDINAL
+Mesa Community College: ORG
+GED: ORG
+1996: CARDINAL
+Mesa Community College - City: ORG

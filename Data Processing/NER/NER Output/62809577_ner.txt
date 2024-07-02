@@ -1,0 +1,49 @@
+15 years: DATE
+Accounts Payable: ORG
+AIA: ORG
+Nevada: GPE
+Nevada: GPE
+SkillsTimberline Accounting: ORG
+Foundation Accounting: ORG
+Spectrum: GPE
+JD Edwards: PERSON
+Ebuilder: GPE
+Microsoft Office: ORG
+10: CARDINAL
+2015: DATE
+Complex: NORP
+month-end: DATE
+Accountant Dec: PERSON
+lien
+waivers: PERSON
+Responsible for Payroll: WORK_OF_ART
+General Ledger journal: ORG
+2010: DATE
+State: ORG
+Accounts Payable: ORG
+$40 million: MONEY
+Contractor Responsible: PERSON
+Controller: PERSON
+Project Managers: ORG
+monthly: DATE
+Completed: ORG
+annual: DATE
+Nevada: GPE
+Revised Statutes: PERSON
+Nevada: GPE
+30%: PERCENT
+1997: DATE
+Santa Barbara Business College Accounting: ORG
+Interests: NORP
+Nevada Notary Public References: ORG
+Nevada: GPE
+Skills: ORG
+10: CARDINAL
+Accounts Payable: ORG
+AIA: ORG
+AS400: PRODUCT
+Controller: PERSON
+General Ledger, Human Resources: ORG
+Microsoft Office: ORG
+Payroll: ORG
+Project Management: ORG

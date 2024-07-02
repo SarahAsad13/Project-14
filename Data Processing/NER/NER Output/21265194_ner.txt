@@ -1,0 +1,91 @@
+Line of Business Leaders: ORG
+Talent: ORG
+Performance Management, Rewards: ORG
+Recognition: ORG
+Change Management: ORG
+the Line of Business: ORG
+June 2007: DATE
+Current Company Name: ORG
+Coach: ORG
+Coach: ORG
+Wells Fargo/Wachovia Bank: ORG
+LOB: ORG
+one: CARDINAL
+LOB Project Team: ORG
+four: CARDINAL
+COE: ORG
+Employee Relations, Compensation: ORG
+Leave Management: ORG
+Advise: PRODUCT
+Associate People Svcs Officer: PERSON
+November 2001: DATE
+May 2007: DATE
+Coach: ORG
+four: CARDINAL
+COE: ORG
+Employee Relations, Compensation: ORG
+Leave Management: ORG
+Advise: PRODUCT
+ADA: ORG
+1990: DATE
+Title VII of the Civil Rights Act: LAW
+1964: DATE
+ADEA: ORG
+1967: DATE
+Facilitate: ORG
+Appeal Texas Workforce Commissions: ORG
+March 2001 to November 2001: DATE
+State: ORG
+Coach: ORG
+Facilitate: ORG
+Advise: PRODUCT
+ADA: ORG
+1990: DATE
+Title VII of the Civil Rights Act: LAW
+1964: DATE
+ADEA: ORG
+1967: DATE
+September 1999: DATE
+May 2001: DATE
+State: ORG
+Coach: ORG
+Facilitate: ORG
+Advise: PRODUCT
+ADA: ORG
+1990: DATE
+Title VII of the Civil Rights Act: LAW
+1964: DATE
+ADEA: ORG
+1967: DATE
+August 1990 to September 1999: DATE
+Coach: ORG
+Facilitate: ORG
+Advise: PRODUCT
+ADA: ORG
+1990: DATE
+Title VII of the Civil Rights Act: LAW
+1964: DATE
+ADEA: ORG
+1967: DATE
+Masters of Arts: ORG
+May: DATE
+2004: DATE
+Webster University: WORK_OF_ART
+ï¼​ City: GPE
+State: GPE
+December,: DATE
+State: GPE
+USA: GPE
+Dean: PERSON
+ADA: ORG
+Function: ORG
+Policy Interpretation: ORG
+Relationship Building: ORG
+2005: DATE
+USAA: ORG
+Volunteer of the Year 2006: LAW
+Council on Service: ORG
+Wells Fargo - Latino Team: ORG
+Liaison: PERSON
+San Antonio Human Resources Management Association: ORG
+Bereavement Center Group Facilitator: ORG

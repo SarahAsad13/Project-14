@@ -1,0 +1,57 @@
+SPECIALIST: ORG
+Sunguard: PERSON
+Banner: ORG
+Ellucian: ORG
+Datatel Colleague: PERSON
+Microsoft: ORG
+Customer Service Budget Management Business Analysis Problem Resolution Productivity Improvements Process
+Enhancements Training Documentation Planning/Organization
+Professional Experience
+: ORG
+January 2012: DATE
+Current Company Name: ORG
+State: ORG
+Counsels: ORG
+30,000: MONEY
+annual: DATE
+Interprets: GPE
+Pell Grant: PERSON
+North Carolina Community College: ORG
+Lottery Scholarship: PERSON
+Utilizes: ORG
+Student Services Specialist/Financial Aid Counselor: ORG
+January 2010 to January 2012: DATE
+State: ORG
+Counsels: PERSON
+Reconciles: CARDINAL
+Communicates: ORG
+Utilizes: ORG
+Selected Accomplishments Achieved Financial Aid Employee of the Quarter: WORK_OF_ART
+3rd Quarter of 2010: DATE
+January 2007 to January 2010: DATE
+Ensures: LOC
+Selected Accomplishments Contributed: WORK_OF_ART
+9.98%: PERCENT
+just 3.12%: PERCENT
+1 year: DATE
+past-60-day: DATE
+first: ORDINAL
+monthly: DATE
+105,000: MONEY
+December 2008: DATE
+daily: DATE
+Training
+Bachelor of Science : Business Administration Finance Management Information Systems: PERSON
+2008: DATE
+State Business Administration Finance Management Information Systems: ORG
+Affiliations: ORG
+National Association of Student Financial Aid Administrators: ORG
+2010: DATE
+Southern Association of Student Financial Aid
+Administrators: ORG
+2012: DATE
+North Carolina Association of Student Financial Aid Administrators: ORG
+2010: DATE
+Financial: ORG
+Grants: PERSON
+98: DATE

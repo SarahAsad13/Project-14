@@ -1,0 +1,34 @@
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word, Access: ORG
+Minitab, Maple, Lingo: ORG
+SAP: ORG
+Six Sigma: PERSON
+Detail: PERSON
+Analyticalâ€‹
+Troubleshooting: LAW
+Superior: LOC
+Associate, Investment Banking Operations 07/2013 Company Name City: ORG
+Intern: ORG
+Syndicated Loan Operations 06/2012: ORG
+12/2012: CARDINAL
+Name City: GPE
+State Responsible: ORG
+over 150: CARDINAL
+over 1000: CARDINAL
+weekly: DATE
+monthly: DATE
+month-end: DATE
+Intern: ORG
+State Responsible: ORG
+monthly: DATE
+Education: ORG
+2013: DATE
+GPA: ORG
+3.978/4.0: CARDINAL
+Awards/Distinctions: ORG
+Alpha Lambda Delta: ORG
+National Society of Collegiate: ORG
+Scholars: PERSON
+Dean: PERSON

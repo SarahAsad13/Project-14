@@ -1,0 +1,65 @@
+Restaurant Professional Executive Chef: ORG
+Healthy Cuisine: PERSON
+Passionate Food - Service: ORG
+Star 4 Diamond Resorts Hotels Spa Country Club Customer Service / Team Educator / Multi - Unit: ORG
+Skill Highlights: PERSON
+Core Accomplishments
+
+Human: WORK_OF_ART
+Kroger's: ORG
+Supermarket Nutritional: ORG
+April 2014: DATE
+one: CARDINAL
+one: CARDINAL
+20%: PERCENT
+6 month: DATE
+HACCP: ORG
+July 2013 to January 2014: DATE
+Sodexo: ORG
+Drives: ORG
+Ensures: LOC
+the Food Service
+Supervisors and/or front line staff: ORG
+Sodexo: ORG
+May 2005 to January 2013: DATE
+Name City: GPE
+State Executive Chef/ Food: ORG
+Culinary: ORG
+65%: PERCENT
+5-year: DATE
+27%: PERCENT
+1 - 2.5: CARDINAL
+Kindred Magazine: ORG
+Tucson: ORG
+Outstanding: PERSON
+Arizona: GPE
+20%: PERCENT
+5-year: DATE
+Budget: ORG
+daily: DATE
+November 2001 to April 2005: DATE
+Name City: GPE
+State: ORG
+Sous Chef
+
+: PERSON
+$1.5 million: MONEY
+four: CARDINAL
+Culinary Learning Center: ORG
+Budget: ORG
+1991: DATE
+Sullivan College: ORG
+the National Center for Hospitality 
+City: ORG
+State Culinary Arts Management: ORG
+Educational Foundation - National Restaurant Association Certification Serve Safe Certification: ORG
+Transparency Brightness Contrast Reset: ORG
+1996: DATE
+Traveler: PERSON
+ten: CARDINAL
+Miraval Resort: FAC
+Bon Appetit Best: PERSON
+the year (1997: DATE
+Budget: ORG
+Inventory: GPE
+Retail: PERSON

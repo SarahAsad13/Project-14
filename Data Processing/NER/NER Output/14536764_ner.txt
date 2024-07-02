@@ -1,0 +1,102 @@
+Multi Task Abilities
+Proven Sales Success: WORK_OF_ART
+Microsoft Office: ORG
+June 2005 to January 2016: DATE
+AccordSQA: PERSON
+GatherWorks: ORG
+SmartScript: ORG
+Dobbs: PERSON
+SD Times: ORG
+Inside Sales Representative: ORG
+March 2008 to June 2008: DATE
+four: CARDINAL
+first two weeks: DATE
+December 2007 to January 2008: DATE
+more than $8,800: MONEY
+one month: DATE
+more than 100: CARDINAL
+more than 800: CARDINAL
+three: CARDINAL
+two: CARDINAL
+monthly: DATE
+January 2004 to May 2005: DATE
+AccuRev: ORG
+Bowstreet: LOC
+AccuRev: ORG
+150%: PERCENT
+Bowstreet: PERSON
+Partner PR: ORG
+Launched Bowstreet: PRODUCT
+Syndication Factory: ORG
+deNovis': ORG
+$22 million: MONEY
+the Wall Street Journal: ORG
+VentureWire: PRODUCT
+WiFiMed: ORG
+Massachusetts: GPE
+the Boston Business Journal: ORG
+November 2003 to December 2003: DATE
+Washington Post: ORG
+Global Insight's: ORG
+January 2000 to January 2003: DATE
+Broadened: ORG
+Redesigned: PERSON
+ATV: ORG
+CenterWatch: PRODUCT
+3-month: DATE
+ATV: ORG
+MIT Enterprise Forum: ORG
+VentureOne: ORG
+Toronto Venture Fair: ORG
+Veritas Medicine: ORG
+Acurian: NORP
+ATV Fund VII: ORG
+Acurian: NORP
+PharmaVoice: ORG
+March 1998 to December 1999: DATE
+3-6: CARDINAL
+1: CARDINAL
+20: CARDINAL
+Selected for Professional Development Team: ORG
+New Business Team: ORG
+Intern Leadership Team: ORG
+IDC: ORG
+500: CARDINAL
+60: CARDINAL
+IDC Directions ': ORG
+99: CARDINAL
+Boston: GPE
+San Francisco: GPE
+$100 million: MONEY
+Wall Street
+Journal: FAC
+September 1995 to March 1998: DATE
+Internet Computing: PERSON
+B.A: ORG
+Spanish: NORP
+Humanities: GPE
+1994: DATE
+PROVIDENCE: GPE
+COLLEGE - City: GPE
+Cum Laude GPA: PERSON
+3.5: CARDINAL
+Cum Laude: PERSON
+3.5: CARDINAL
+GPA: ORG
+1993: DATE
+Centro de Lenguas: PERSON
+Spain: GPE
+Intense: ORG
+Spanish: LANGUAGE
+Languages: NORP
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Interests: NORP
+PoundHounds: ORG
+Salesforce.com
+Public Relations Software: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

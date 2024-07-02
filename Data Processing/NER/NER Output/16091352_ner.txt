@@ -1,0 +1,95 @@
+Skills
+
+Prospecting: ORG
+Strategic: PERSON
+a single year: DATE
+GigaSpaces Technologies: ORG
+one thousand dollar: MONEY
+one million dollar: MONEY
+Buzz Food Service)â€‹
+
+Earned: ORG
+2012: DATE
+Spirit Of Generosity Award: WORK_OF_ART
+Buzz Food Service: ORG
+Buzz Food Service: ORG
+2006: DATE
+the Year: DATE
+Education: ORG
+Employment and Training Department: ORG
+Global Business Development: ORG
+Grew: PERSON
+10: CARDINAL
+35: CARDINAL
+30: CARDINAL
+Fortune 500: PRODUCT
+09/2012: PERSON
+Name City: GPE
+Grew: PERSON
+over 75%: PERCENT
+second: ORDINAL
+201: CARDINAL
+the Year for Generosity of Service: EVENT
+One: CARDINAL
+150: CARDINAL
+Certified Angus Beef Masters of Brand Program: ORG
+60: CARDINAL
+$ 1.2 million: MONEY
+Grew: PERSON
+60: CARDINAL
+a little under two years: DATE
+Collaborated: ORG
+quarterly: DATE
+Ranked: PRODUCT
+5 %: PERCENT
+10: CARDINAL
+the West Virginia: GPE
+Kentucky: GPE
+Ohio: GPE
+annual: DATE
+75 %: PERCENT
+Instruction and Job Development Coordinator 05/2005: ORG
+10/2011: CARDINAL
+Name City: GPE
+State: ORG
+2006: DATE
+the Year: DATE
+Education: ORG
+Employment and Training Department: ORG
+the Kanawha Valley: LOC
+10: CARDINAL
+Training: PERSON
+2002: DATE
+West Virginia State University - Marketing City: ORG
+State: GPE
+US: GPE
+3.5: CARDINAL
+GPA: ORG
+Dean: PERSON
+1998-2002: DATE
+Â Coursework in Business Administration and Management 
+
+Interests: ORG
+Enjoy: PERSON
+South Charleston First Church of Nazarene: ORG
+Hand Organized: PERSON
+Active Kids: ORG
+2002: DATE
+Kanawha County Schools
+Running: GPE
+CMR: ORG
+Salesforce.com: ORG
+Salesloft: ORG
+Sales Genius: PERSON
+Microsoft Office: ORG
+2012: DATE
+2006-2007: DATE
+the year 2007-2009 WV Association of
+: DATE
+Rehabilitation Facilities: ORG
+South
+Charleston First Church of Nazarene: ORG
+Hand Organized: PERSON
+Active Kids: ORG
+2002: DATE
+Kanawha County Schools: GPE

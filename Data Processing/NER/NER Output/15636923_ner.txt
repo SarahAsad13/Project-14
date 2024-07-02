@@ -1,0 +1,55 @@
+4+ years: DATE
+Core Qualifications
+
+Fitness Â 
+
+ISSA Certified
+: ORG
+CPR: ORG
+First Aid: ORG
+AED: ORG
+Weight: ORG
+MS Office: ORG
+Organized: ORG
+Superb: NORP
+Leadership
+Construction: ORG
+Detail: PERSON
+Certified Personal Trainer: WORK_OF_ART
+February 2014: DATE
+Devised: ORG
+weekly: DATE
+Utility Supervisor: PRODUCT
+January 2014 to December 2014: DATE
+Assess: ORG
+Evaluate: ORG
+Prepare: ORG
+daily: DATE
+April 2012 to November 2013: DATE
+Evaluate: ORG
+first: ORDINAL
+Organize: GPE
+April 2011 to November 2012: DATE
+Prepare: ORG
+all times of day: DATE
+Utilized: ORG
+Processed: GPE
+monthly: DATE
+2011: CARDINAL
+Angleton High School: ORG
+State: GPE
+United States: GPE
+Played in Life as A Techie
+
+Played as Mushnik in The Little Shop of Horrors
+
+Nursing Alvin Community College: WORK_OF_ART
+State: GPE
+United States: GPE
+up to 100: CARDINAL
+Microsoft: ORG
+Power Point
+
+Music Production
+
+Film/Act/Direct: ORG

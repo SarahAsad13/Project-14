@@ -1,0 +1,211 @@
+Operations: ORG
+BPO: ORG
+BPO: ORG
+Strategy Planning, Service Delivery, Delivery Management: ORG
+Business Analysis: ORG
+Operations and Service Delivery Extensive: ORG
+Bid
+Management: ORG
+Identification: ORG
+Business and Technology: ORG
+Projects: ORG
+Line of Business, Support
+Function: ORG
+Results: PERSON
+Skill Highlights: ORG
+Relationship Management
+Delivery Management
+Client: ORG
+Financial: ORG
+Core Accomplishments
+
+Account: WORK_OF_ART
+Transition Management
+Quality: ORG
+35: CARDINAL
+10: CARDINAL
+FY'14-15: PRODUCT
+year: DATE
+year: DATE
+5: CARDINAL
+Accenture: PERSON
+February 2014: DATE
+RFI: ORG
+RFP: ORG
+P&L Responsibilities: LAW
+ACN Engagement Leadership Responsible: ORG
+Created: ORG
+Accenture BPO: ORG
+Lead Establish: PERSON
+BPO Sales Team Participate: ORG
+Service Level
+Agreement: ORG
+35: CARDINAL
+10: CARDINAL
+last 2 years: DATE
+year: DATE
+March 2011 to January 2014: DATE
+2: CARDINAL
+F&A: ORG
+Legal BPO Scope: ORG
+Nordic: GPE
+US: GPE
+F&A: ORG
+T&E: ORG
+Reconciliation: NORP
+Billing: GPE
+CCI: GPE
+Data Entry &: ORG
+5: CARDINAL
+Data Entry, Case Information Gathering: ORG
+Backend Indexing: ORG
+2: CARDINAL
+250: CARDINAL
+9: CARDINAL
+3: CARDINAL
+2: CARDINAL
+200: CARDINAL
+5: CARDINAL
+2: CARDINAL
+the Accenture Operations: ORG
+Identify: PRODUCT
+Accenture Operations: ORG
+Program: ORG
+Accenture Operations SME's: ORG
+Client: GPE
+Identify: ORG
+the Service Delivery Organization: ORG
+Capability Development: ORG
+Geo: PRODUCT
+Key Achievements: LOC
+Accenture: PERSON
+Best Performing Outsourcing: WORK_OF_ART
+IAOP: ORG
+1: CARDINAL
+Accenture Worked: PERSON
+BPO: ORG
+70%: PERCENT
+March 2010: DATE
+State: ORG
+the Global Biostatistics and Programming and Document Technology: ORG
+the Clinical Research Team: ORG
+US: GPE
+Pharma: NORP
+Clinical Research: ORG
+FDA: ORG
+the Data Entry and Safety Review: ORG
+the Single Case Processing Team: ORG
+US: GPE
+Pharma: NORP
+2: CARDINAL
+91: CARDINAL
+5: CARDINAL
+2: CARDINAL
+3: CARDINAL
+91: CARDINAL
+5: CARDINAL
+2: CARDINAL
+the Overall Service Delivery &: ORG
+the Single Case Processing Team: ORG
+SLA: ORG
+Client: GPE
+Quarterly: DATE
+monthly: DATE
+Process: ORG
+annually: DATE
+Performance Appraisals of the Team Leaders: WORK_OF_ART
+the Central HR Dept: ORG
+Clients: PRODUCT
+Front-ending: ORG
+Key Achievements: LOC
+AEP: ORG
+GBP: ORG
+DocTech: ORG
+Balance Scorecard: WORK_OF_ART
+the "Incident Management: ORG
+month: DATE
+month: DATE
+Solutioned Aggregate Safety Reporting Productivity: ORG
+GES: ORG
+Created the Operation Guide: ORG
+August 2006 to October 2008: DATE
+72: CARDINAL
+5: CARDINAL
+20: CARDINAL
+2: CARDINAL
+the Credit Balance Project: ORG
+SLA: ORG
+Cr: PERSON
+month: DATE
+month: DATE
+monthly: DATE
+one: CARDINAL
+one: CARDINAL
+SLA: ORG
+Client: GPE
+Quarterly: DATE
+monthly: DATE
+Process: ORG
+annually: DATE
+Performance Appraisals of the Team Leaders: WORK_OF_ART
+the Central HR Dept: ORG
+Client: GPE
+Key Achievements: LOC
+Zen Master" Award Was: WORK_OF_ART
+Sr.: GPE
+30%: PERCENT
+2 months: DATE
+SLA: ORG
+the month of December 2009: DATE
+the 2 year: DATE
+December 2002 to July 2006 Company Name - City: DATE
+SLA: ORG
+weekly: DATE
+monthly: DATE
+Weekly: DATE
+Team: ORG
+Monthly Evaluation: ORG
+Recognition: ORG
+Sharing: PERSON
+daily: DATE
+Annual: DATE
+Analyzing CSAT: PERSON
+Key Achievements: LOC
+Quarterly: DATE
+February 2002 to: DATE
+December 2002: DATE
+second: ORDINAL
+ISP: ORG
+the United States: GPE
+Key Achievements: LOC
+94%: PERCENT
+96%: PERCENT
+245: CARDINAL
+G5: CARDINAL
+P4: CARDINAL
+Process Developer: ORG
+July 2000 to September 2001: DATE
+Sharing: PERSON
+Key Achievements: LOC
+12 months: DATE
+the month: DATE
+11: CARDINAL
+13: CARDINAL
+AES: ORG
+2015: DATE
+Mahatma Gandhi University - State: PERSON
+India: GPE
+2013: DATE
+ISB & Accenture Joint Program - City: ORG
+India: GPE
+Hotel Management: ORG
+Institute of Hotel Management - City: ORG
+India: GPE
+1997: DATE
+India: GPE
+Interests: NORP
+Soccer: PERSON
+Love: WORK_OF_ART
+Solutioning, Transition Management: ORG
+Performance
+Management: ORG

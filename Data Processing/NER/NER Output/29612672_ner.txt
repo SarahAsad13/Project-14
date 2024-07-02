@@ -1,0 +1,69 @@
+12 years: DATE
+January 2010: DATE
+Current Company Name: ORG
+12 years: DATE
+Evaluates: PRODUCT
+Financial Aid's: ORG
+Loans: NORP
+Grants: PERSON
+QA: ORG
+Proof: NORP
+daily: DATE
+Title IV: FAC
+Tuition Refund: LOC
+Main: ORG
+Processes National Student Loan Database: ORG
+Student Status Confirmation Reports: ORG
+SSCR: ORG
+Emphasis: ORG
+month end and quarter: DATE
+Microsoft: ORG
+Excel: PRODUCT
+ACH: ORG
+CampusVue: GPE
+Agency Sponsors: ORG
+Higher One: ORG
+month/quarter end: DATE
+January 2008 to January 2010: DATE
+Performed: ORG
+Execustar: PERSON
+SAM: PERSON
+Q Messenger: PERSON
+Created: ORG
+January 2007 to January 2008: DATE
+Item Processing Center's: ORG
+Processed: GPE
+Bank of America's: ORG
+Banco Popular: ORG
+Social Security: ORG
+Protest Letters: ORG
+Processed: GPE
+January 2003 to January 2007: DATE
+Proof Processor: PERSON
+Teller: PERSON
+night: TIME
+ATM: ORG
+daily: DATE
+La
+Salle or Federal Banks: ORG
+weekend: DATE
+the Item Processing Department: ORG
+First American Bank: ORG
+FAB: ORG
+Bachelor: ORG
+December 2006: DATE
+State Business Administration: ORG
+Business Administration Accounting: ORG
+April 2012: DATE
+American Intercontinental University Online ï¼​ City: ORG
+State Business
+Administration Accounting: ORG
+Agency: ORG
+ATM: ORG
+Database: GPE
+Financial: ORG
+Grants: PERSON
+Letters: NORP
+Microsoft Excel: ORG
+Processes: PERSON
+QA: ORG

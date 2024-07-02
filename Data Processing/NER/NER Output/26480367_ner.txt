@@ -1,0 +1,51 @@
+Information Technology: ORG
+Service techÂ: PERSON
+Core Qualifications: ORG
+Network: ORG
+Microsoft: ORG
+2003 & 2008: DATE
+Microsoft: ORG
+2000: DATE
+20010: DATE
+Windows XP: ORG
+Vista: ORG
+7: CARDINAL
+8: CARDINAL
+Network Security: ORG
+IT Technology Specialist: ORG
+Name City: GPE
+cat5: ORG
+Name City: GPE
+Perform Tier 3: PERSON
+cat5: ORG
+Information Technology Specialist: ORG
+Name City: GPE
+State: ORG
+Information Technology Specialist: ORG
+T1: CARDINAL
+Identify: ORG
+Domino Server: PERSON
+Microsoft Windows 2003 Server: ORG
+Oversee: ORG
+Communicate: ORG
+Laurinburg: PERSON
+Bladenboro: PERSON
+Nichols S.C.: PERSON
+Bachelor of Science : Business Management August-05 National American University City: ORG
+State Business Management
+Associate/Degree :: ORG
+Community College Business Computer Programming: ORG
+Comptia Network: ORG
+Comptia A: ORG
+Skills: ORG
+cat5: ORG
+Domino: PERSON
+Microsoft: ORG
+2000: DATE
+Microsoft: ORG
+2003: DATE
+Windows XP: ORG
+Network Security: ORG
+Network: ORG
+TCP/IP: ORG
+Vista: ORG

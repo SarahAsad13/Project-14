@@ -1,0 +1,132 @@
+ASP.NET: ORG
+Ms Visual Studio: PERSON
+Ms Office Suite: ORG
+Excel: PRODUCT
+Project, PowerPoint: ORG
+Access, Outlook, Visio: ORG
+SIMIO: ORG
+ERP-SAP: ORG
+SAS: ORG
+Prepared: PRODUCT
+china: GPE
+25: CARDINAL
+200: MONEY
+14%: PERCENT
+Industrial Engineering Intern 08/2014 to 12/2014: ORG
+Name City: GPE
+Visual: ORG
+6: CARDINAL
+SIMIO: ORG
+Salt Lake: GPE
+City Airline: ORG
+Industrial Engineer 01/2011 to 01/2013 Company Name
+
+Successfully: ORG
+13%: PERCENT
+5S: PRODUCT
+Performed: ORG
+Kaizen: PERSON
+5S: CARDINAL
+Industrial Engineer: ORG
+12/2010: CARDINAL
+5S: CARDINAL
+24%: PERCENT
+45%: PERCENT
+272,655.00: MONEY
+Methods Time Measurement: ORG
+MTM: ORG
+62%: PERCENT
+40%: PERCENT
+90%: PERCENT
+DMAIC: ORG
+Performed: ORG
+monthly: DATE
+Performed: ORG
+CNC: ORG
+12/2006: CARDINAL
+NCR: ORG
+QC: ORG
+25%: PERCENT
+CAPA: ORG
+Conducted: ORG
+ISO 90001: ORG
+ISO 14001: ORG
+Training
+Master of Science : Industrial and Manufacturing Engineering: WORK_OF_ART
+December 2014: DATE
+University of Texas: ORG
+Arlington City: GPE
+GPA: ORG
+4.00: CARDINAL
+GPA: ORG
+3.92: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+GPA: ORG
+3.92: CARDINAL
+Bachelor of Engineering : Materials and Metallurgical Engineering: ORG
+June 2004: DATE
+Federal University of Technology State Materials and Metallurgical
+Engineering: ORG
+Certified Project Management Professional: ORG
+July 2013: DATE
+Certifications: WORK_OF_ART
+Lean Manufacturing Techniques: ORG
+Statistical Process Control: ORG
+Earned Value Management Analysis: ORG
+Continuous
+Improvement Techniques: PERSON
+Project Feasibility Analysis: ORG
+Supply Chain and Logistics Management: ORG
+Time: ORG
+Motion Studies: ORG
+Safety Engineering: ORG
+FTA: ORG
+FMEA: ORG
+Product Development and Design: ORG
+Interests: NORP
+Institute of Industrial Engineers: ORG
+Tau Beta Pi Engineering: PERSON
+Volunteer: PERSON
+Mission Arlington: PERSON
+Arlington: GPE
+Texas: GPE
+ACTIVITIES G. T. Stevens: PERSON
+Arlington: GPE
+April 2014: DATE
+Alpha Pi Mu Industrial
+Engineering: PERSON
+Arlington: GPE
+April 2014: DATE
+National Society of Black Engineers: ORG
+Institute of Industrial
+Engineers: ORG
+Tau Beta Pi Engineering: PERSON
+Volunteer: PERSON
+Mission Arlington: PERSON
+Arlington: GPE
+Texas: GPE
+CNC: ORG
+Continuous Improvement: PERSON
+Product Development and Design: ORG
+ERP: ORG
+Inventory Control: ORG
+ISO, Languages: ORG
+Logistics: ORG
+Access, C#: ORG
+Excel: PRODUCT
+Ms Office Suite: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Project Management: ORG
+Safety: ORG
+SAP: ORG
+SAS: ORG
+Six Sigma: PERSON
+SQL: ORG
+Statistical Process Control: ORG
+Supply Chain: ORG
+Visio: PERSON
+6: CARDINAL
+Ms Visual Studio: PERSON

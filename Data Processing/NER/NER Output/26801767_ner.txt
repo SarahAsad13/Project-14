@@ -1,0 +1,130 @@
+DIRECTOR: ORG
+30 years: DATE
+Port and Higher Education: FAC
+Operations: ORG
+Budget: ORG
+Problem: PRODUCT
+Team: ORG
+Decisive: NORP
+Information Technology: ORG
+August 2008: DATE
+the Board of Commissioners of the Port of New Orleans: ORG
+Port: ORG
+I.T. professional services: ORG
+daily: DATE
+Port: FAC
+Evaluates: NORP
+Represents the Board of Commissioners: ORG
+I.T.: GPE
+Staying: PERSON
+Board: ORG
+I.T.: GPE
+Email: PERSON
+IBM: ORG
+ISeries Support: PERSON
+Imaging: GPE
+Computer Aided Software Engineering: ORG
+EDI: ORG
+Reviews: PRODUCT
+Port: FAC
+Board: ORG
+U.S. Customs: ORG
+Oversees: ORG
+Reviews: ORG
+Board: ORG
+Board: ORG
+Keeps: ORG
+Board: ORG
+Define: PRODUCT
+Hardware: ORG
+Homeland Security Grant Investment Justifications: ORG
+2008: DATE
+FAS system repair: ORG
+Building Access Command: ORG
+Control, Security Camera Projects: ORG
+Mobile Command Center Repair: ORG
+Upgrade: ORG
+the Harbor Police Patrol Boat: FAC
+Integration of Command Bridge Incident Control: ORG
+GIS: ORG
+Information Technology and Telecommunication: ORG
+April 1980 to October 2004: DATE
+22: CARDINAL
+19: CARDINAL
+Created: ORG
+the Office of Information Technology: ORG
+the Office of Information Technology: ORG
+Awarded: FAC
+$1.2 million: MONEY
+Integrated the Management Information System: ORG
+PBX: ORG
+324: CARDINAL
+more than 2,000: CARDINAL
+two to nine: CARDINAL
+Coastal Oceanography: ORG
+State University of New York ï¼​ City: ORG
+State: GPE
+USA: GPE
+Atmospheric Sciences Computer Science
+B.S :: ORG
+State Mathematics
+Xavier University: ORG
+AAPA Information Technology Committee: ORG
+Southern Educational Foundation: ORG
+the Instructional Technology Assistance Project: ORG
+Educational Leadership Council: ORG
+Academic Computing Committee: ORG
+Microsoft Certified Systems Engineer: ORG
+Certified Construction Quality Management for Contractors: ORG
+U.S. Army Core of Engineers
+Wireless Network Auditing Training System
+Forensics, Investigation & Response Training Hacker Techniques: ORG
+Exploits: GPE
+Incident Handling Training Accreditation: ORG
+Basic: PRODUCT
+Cobol: PERSON
+Hardware: ORG
+Data Processing, Database Management: ORG
+DBase IV: ORG
+EDI: ORG
+Email: PERSON
+Fortran: GPE
+GIS: ORG
+IBM: ORG
+IBM: ORG
+Imaging, Information Systems: ORG
+Information Technology: ORG
+Macintosh: ORG
+MapInfo: PERSON
+Mathematics, Access: ORG
+Excel: PRODUCT
+Office, Management Information System: ORG
+Naval: GPE
+Novell Netware: ORG
+Pascal: ORG
+PBX: ORG
+Camera: PERSON
+Protocols: PERSON
+Research: ORG
+RPG III: ORG
+Shell, Software Engineering: ORG
+Strategic: PERSON
+SUN: ORG
+SPARC: PRODUCT
+Telecommunication: PRODUCT
+UNIX: ORG
+UNIX: ORG
+Upgrade: ORG
+Vax: PERSON
+VMS: ORG
+Additional Information
+
+COMMUNITY SERVICE Board of North Region Leadership Institute: ORG
+Volunteer: PERSON
+New Orleans Enhancement
+Center: FAC
+Board of Advocates for Science & Math Education: ORG
+State University of New York: ORG
+Stony Brook: FAC
+United Negro College Fund Fellowship National Consortium of Educational Access Fellowship William: ORG
+Mary Simon Fellowship: PERSON

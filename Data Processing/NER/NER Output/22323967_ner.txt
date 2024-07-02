@@ -1,0 +1,62 @@
+SPECIALIST: ORG
+US: GPE
+Communications, Marketing, Human Resources and Technology: ORG
+Specialist: GPE
+US: GPE
+Operations: ORG
+hourly: TIME
+non-union: GPE
+hourly: TIME
+Conducted: ORG
+monthly: DATE
+US: GPE
+Business Unit: ORG
+RFI: ORG
+Background Check and Drug Screen: ORG
+SharePoint: ORG
+Researched: ORG
+quarterly: DATE
+Collaborated with Communication: ORG
+Digital Asset Management: ORG
+Marketing Toolkit: PERSON
+Created: ORG
+MySikorsky SharePoint: ORG
+Â Â Â Â 
+Created: PRODUCT
+annual: DATE
+Relationship Coordinator/Marketing Specialist Company Name: ORG
+Coordinated: PRODUCT
+10/2012: CARDINAL
+100 %: PERCENT
+Performed: ORG
+daily: DATE
+monthly: DATE
+ATM: ORG
+quarterly: DATE
+Â·Â Â Â Â: CARDINAL
+Â·Â Â Â Â: CARDINAL
+Utilized: ORG
+Â·Â Â Â Â: CARDINAL
+Â Â Â: PRODUCT
+SHU Media Exchange Company Name: ORG
+Connecticut: GPE
+110: CARDINAL
+Education: ORG
+2014: DATE
+Master of Arts : Corporate Communication & Public Relations Sacred Heart University: WORK_OF_ART
+State: ORG
+2013: DATE
+Relational Communication Western Connecticut State University: ORG
+ADP: ORG
+Asset Management: ORG
+Customer Care: ORG
+Illustrator: ORG
+InDesign, Innovation: ORG
+Lotus Notes: ORG
+Microsoft Office: ORG
+SharePoint: ORG
+Project Management: ORG
+Quality: ORG
+Recruitment: PERSON
+RFP: ORG
+Employee Development: ORG

@@ -1,0 +1,10 @@
+Problem: PRODUCT
+Certified Custom Framer: PERSON
+Sales Associate: PERSON
+11/2014: CARDINAL
+2014: DATE
+Trinity High School ï¼​ City: ORG
+State: GPE
+United States: GPE
+4.3: CARDINAL
+GPA: ORG

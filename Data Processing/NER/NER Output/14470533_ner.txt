@@ -1,0 +1,90 @@
+Bookkeeper: GPE
+20 years: DATE
+quarterly: DATE
+monthly: DATE
+year-end: DATE
+20 years: DATE
+1099: DATE
+monthly: DATE
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Google Drive: FAC
+QuickBooks: ORG
+AS400: PRODUCT
+Monthly: DATE
+QuickBooks: ORG
+State: ORG
+quarterly: DATE
+Federal: GPE
+Idaho: GPE
+QuickBooks: ORG
+monthly: DATE
+day: DATE
+State: ORG
+monthly: DATE
+Controller: PERSON
+State: ORG
+monthly: DATE
+Oregon: GPE
+each month: DATE
+Bookkeeper/Office: ORG
+IRS: ORG
+quarterly: DATE
+G/L: ORG
+monthly: DATE
+year-end: DATE
+AS400: PRODUCT
+IRS: ORG
+State Manage: ORG
+G/L: ORG
+monthly: DATE
+monthly: DATE
+Peachtree Accounting: ORG
+quarterly: DATE
+Federal: GPE
+Arizona: GPE
+G/L: ORG
+IRS: ORG
+State Hired: ORG
+monthly: DATE
+Education: ORG
+A.A. :: ORG
+Business Management-Accounting: ORG
+2016: DATE
+Treasure Valley Community College: ORG
+State: GPE
+US: GPE
+Treasure Valley Community College: ORG
+Caldwell: ORG
+2016 - A.A.: DATE
+Business Management-Accounting Clerical Skills
+Training, Fairbanks: ORG
+AK: ORG
+State: GPE
+US: GPE
+Bookkeeping and Office Administration Worland High School: ORG
+Worland: GPE
+WY High School Diploma
+Certifications: ORG
+Automated Payroll: ORG
+Cpa: ORG
+Excel: PRODUCT
+General Ledger, Office Management, Outlook, Payroll: ORG
+Bookkeeper: GPE
+Process Payroll: ORG
+Reconciliations: PERSON
+Tax Returns: PERSON
+Bank Reconciliations, Clients: ORG
+G/l: ORG
+Quickbooks, Business Management: ORG
+Reconciliations, Accountant, Accounts And: ORG
+Audit, Balance Sheets: ORG
+Contracts,: ORG
+Inventory: GPE
+Invoice, Office Administration: ORG
+Operations: ORG
+Peachtree, Peachtree Accounting: ORG
+Progress, Reconciling, Restaurant: ORG
+State Tax: ORG
+Typing: PERSON

@@ -1,0 +1,19 @@
+Recruiting
+Hiring: WORK_OF_ART
+Personnel: ORG
+12/2013: CARDINAL
+Compute: ORG
+Document: WORK_OF_ART
+Measure: WORK_OF_ART
+Observe: LOC
+daily: DATE
+FRONT DESK: ORG
+annually: DATE
+annual: DATE
+the [year] fiscal year: DATE
+annual: DATE
+daily: DATE
+annual: DATE
+Certificate Georgia Medical: ORG
+ï¼​ City: GPE
+Inventory, Exchange: ORG

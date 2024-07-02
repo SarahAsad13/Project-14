@@ -1,0 +1,101 @@
+Security Services - Identity Management
+Solutions: ORG
+Skills: ORG
+Microsoft: ORG
+Windows NT: LOC
+2000: DATE
+XP: ORG
+Vista: ORG
+iSeries IFS: ORG
+iSeries Navigator: ORG
+IBM Tivoli
+Administration: ORG
+Windows Server: PERSON
+2003-2008: DATE
+SMS: ORG
+WSUS: ORG
+Ethernet: PERSON
+Active Directory Users and Computers
+Hyena v.7.3: WORK_OF_ART
+Lotus Notes: PRODUCT
+LAN: ORG
+Sophos Virus Protection Utilities: ORG
+WebSense: ORG
+Norton: ORG
+Lawson
+Surveillix Central Station RSA
+Authentication: ORG
+Citrix: PERSON
+Remedy: PERSON
+Putty, Kana IQ Resource: ORG
+Telnet: ORG
+06/2012: CARDINAL
+Windows XP PC's: ORG
+Project Management: ORG
+Inventory: PERSON
+Active Directory Working: ORG
+Field Services: ORG
+Technician II: EVENT
+01/2011: CARDINAL
+Front: ORG
+10,000: CARDINAL
+Wal-mart Stores: ORG
+Sam: PERSON
+Front: ORG
+ISP: ORG
+Front: ORG
+Technician III/Security Analyst: ORG
+Front: ORG
+US: GPE
+Mexico: GPE
+Develop: ORG
+iSeries: ORG
+iSeries IFS: ORG
+800: CARDINAL
+Active Directory: ORG
+iSeries: ORG
+Commodity: FAC
+4.0: CARDINAL
+Lotus: ORG
+Microsoft: ORG
+Client Access: ORG
+NetSoft: ORG
+Dell Optiplex: ORG
+Dell Latitude: ORG
+Micron Certification: ORG
+Network Technology: ORG
+October 2000: DATE
+Vatterott College: ORG
+ï¼​ City: GPE
+State Computer Systems: ORG
+Network Technology: ORG
+Skills: ORG
+Citrix: PRODUCT
+Client: GPE
+Dell: ORG
+Ethernet: PERSON
+IBM: ORG
+ISP: ORG
+Inventory: GPE
+Lawson: PERSON
+Lotus: ORG
+Lotus Notes: ORG
+Micron: ORG
+Microsoft: ORG
+Access: ORG
+LAN: ORG
+2000: DATE
+4.0: DATE
+Windows NT: LOC
+Windows XP: ORG
+Navigator: ORG
+Networking: ORG
+Project Management: ORG
+SMS: ORG
+Sophos: ORG
+TCP/IP: ORG
+Telnet: GPE
+Tivoli: GPE
+Utilities: ORG
+Vista: ORG
+Windows Server: PERSON

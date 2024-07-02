@@ -1,0 +1,171 @@
+20+ years: DATE
+Baseline: PERSON
+MS Office: ORG
+Superb: NORP
+Dec 2014: DATE
+GIS: ORG
+ArcGIS: GPE
+Prepare: ORG
+Implementation of CADD: ORG
+2014: DATE
+State: ORG
+Oversaw day to day: DATE
+GPS: ORG
+Topcon 3D Office: ORG
+MicroStation: ORG
+Champaign: GPE
+IL: ORG
+841,000: MONEY
+Illinois - I-74: ORG
+IL - 4 miles: ORG
+1,250,000: MONEY
+Danville Public Schools - Danville: ORG
+IL - Rehab 4: ORG
+765,000: MONEY
+Jan 2014 to Feb 2014: DATE
+Liquefied Natural Gas / Diesel Gas: ORG
+RFI: ORG
+Compressed Natural Gas: ORG
+Rosenberg: GPE
+TX: ORG
+Lamar Ave: PERSON
+Memphis: GPE
+TN - Natural Gas Fueling Station - $: ORG
+1,750,000: MONEY
+Blu LNG - Brooks Rd: ORG
+Memphis: GPE
+TN - Natural Gas Fueling Station - $: ORG
+1,750,000: MONEY
+Rosenberg: PERSON
+TX: ORG
+890,000: MONEY
+Liaison: PERSON
+eGordian: NORP
+Microsoft Project Executed: ORG
+RFP's: ORG
+RFI: ORG
+University of Illinois - Roger Adams Laboratory: ORG
+117,000: MONEY
+University of Illinois - Labor: ORG
+94,000: MONEY
+University of Illinois - Labor: ORG
+II: CARDINAL
+107,000: MONEY
+University of Illinois - Memorial Stadium: ORG
+275,000: MONEY
+University of Illinois - Personnel Services Building: ORG
+193,000: MONEY
+University of Illinois -Foreign Language Building: ORG
+129,000: MONEY
+University of Illinois: ORG
+Crop Science Storage Building: WORK_OF_ART
+225,000: MONEY
+Park District - Virginia: GPE
+179,000: MONEY
+2013: CARDINAL
+Schedule: PERSON
+The International Building Code: ORG
+the International Residential Code: LAW
+the National ElectricalCode: ORG
+daily: DATE
+SWPPP: ORG
+Burger King - $: ORG
+2,200,000: MONEY
+475,000: MONEY
+10,000,000: MONEY
+Buffalo Wild Wings - $: ORG
+2,550,000: MONEY
+Wal-Mart Remodel - $: ORG
+3,000,000: MONEY
+Trinitas: GPE
+Colbert Park: FAC
+208: CARDINAL
+12,000,000: MONEY
+Over 430: CARDINAL
+190,000: MONEY
+1,100,000: MONEY
+Jan 2003: DATE
+State: ORG
+Survey Crew: PERSON
+ALTA: ORG
+FEMA: ORG
+Resident Engineer/Construction Observer: ORG
+2000: DATE
+Eaglepoint: ORG
+MicroStation: ORG
+Plats: NORP
+446: CARDINAL
+8,900,000: MONEY
+Ashland Park Subdivision: ORG
+540: CARDINAL
+10,800,000: MONEY
+Chestnut Grove Subdivision - 145: ORG
+4,350,000: MONEY
+Technician Jan 1994 to Jan 2003: DATE
+State: ORG
+Survey Crew: PERSON
+ALTA: ORG
+Resident Engineer/Construction Observer: ORG
+98: CARDINAL
+MicroStation: ORG
+University of Illinois - Marching Band Practice Area: ORG
+675,000: MONEY
+2: CARDINAL
+839,000: MONEY
+IL - Bradley Ave/Parkland Entrance: ORG
+1,300,000: MONEY
+Westville - MFT Oil & Chip - $: ORG
+279,000: MONEY
+Central Soya: FAC
+Gibson City: GPE
+IL - Hazardous Tank Containment - $: ORG
+585,000: MONEY
+IDOT: ORG
+2,200,000: MONEY
+Bachelor: ORG
+State: ORG
+Certificate , Surveying 2006 Southern Illinois University ï¼​ City: WORK_OF_ART
+21 credit hours: TIME
+Parkland College: ORG
+Skills
+
+Blueprint: ORG
+20+ years: DATE
+Documentation: PERSON
+20+ years: DATE
+Problem Solving: PERSON
+20+ years: DATE
+Effective Communication: ORG
+20+ years: DATE
+Inspection
+Scheduling and Coordination: ORG
+10+ years: DATE
+Pay Estimates: ORG
+10+ years: DATE
+8 years: DATE
+Estimating: PERSON
+20+ years: DATE
+2 years: DATE
+Survey Layout Calculations: ORG
+20+ years: DATE
+20+ years: DATE
+20+ years: DATE
+Microsoft: ORG
+20+ years: DATE
+Microsoft: ORG
+Excel: PRODUCT
+20+ years: DATE
+Microsoft Outlook: ORG
+20+ years: DATE
+Microsoft PowerPoint: ORG
+5 years: DATE
+Microsoft Project: ORG
+3 years: DATE
+Adobe Acrobat: PERSON
+10+ years: DATE
+10+ years: DATE
+Project Management: ORG
+10+ years: DATE
+ArcGIS: PERSON
+6
+years: DATE

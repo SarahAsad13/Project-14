@@ -1,0 +1,97 @@
+about 4 years: DATE
+about
+4 years: DATE
+Skills
+
+Strategy & Operations
+Process Optimization: ORG
+Digital Transformation
+
+Cross Functional Team Management
+Project/Product Management
+Agile/Lean Methodologies
+
+Work History: ORG
+State: ORG
+Led cross: PERSON
+3rd: ORDINAL
+American Consumer Food Products and Services Company Provided: ORG
+User Centered Design: ORG
+ADA: ORG
+E-Commerce Implementation project Performed Digital Conversion: ORG
+Google Analytics: ORG
+Performed User
+Acceptance: PERSON
+Eminence: GPE
+Firm Development Contributions Extensive: ORG
+Deloitte Digital's: ORG
+Carnegie Mellon University: ORG
+IBM Bluemix: ORG
+Executive: NORP
+Project Management: ORG
+RFID: ORG
+the Key Performance: LOC
+Roadmap: PERSON
+Product Roadmap: PERSON
+Business Model: ORG
+CMU: ORG
+Automatic Speech Recognition Technology: ORG
+Sand Hill Angel Investors: ORG
+Software Requirement and Interaction Design:: ORG
+first: ORDINAL
+Human Computer: ORG
+Apple: ORG
+Porsche: ORG
+Survivable Social Network on Chip: Performed Object Oriented Analysis: ORG
+Master of Science : Software Management Carnegie Mellon University - 2014 
+Recipient of the Software Management Fellowship: WORK_OF_ART
+Carnegie Mellon University: ORG
+Master of Science : Software Management Carnegie Mellon University - 2014 
+
+Recipient of the Software Management Fellowship: WORK_OF_ART
+Carnegie Mellon University: ORG
+MBA : International Business Institute of Technology & Management - 2012: WORK_OF_ART
+GPA: ORG
+4.0: CARDINAL
+MBA: WORK_OF_ART
+International Business International Business Institute of Technology and Management India GPA: ORG
+4.0: CARDINAL
+Skills: ORG
+ADA: ORG
+Adobe: PERSON
+Apple: ORG
+Business Process, Business Strategy, Consulting: ORG
+Conversion: ORG
+Data Analysis: ORG
+E-Commerce: ORG
+Financial: ORG
+Google Analytics: ORG
+Hub: ORG
+IBM: ORG
+International Business: ORG
+IP: ORG
+MBA: WORK_OF_ART
+#,: MONEY
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Power Point: ORG
+Word: PERSON
+Project Management: ORG
+Requirement, Research: ORG
+Scrum: PERSON
+Speech: ORG
+Vendor Management: ORG
+Visio: PERSON
+Data Analysis: ORG
+Gap Analysis: ORG
+Customer Journey Analysis: PERSON
+Product Management: ORG
+Balsamiq: GPE
+ALM Octane: PERSON
+Trello: ORG
+Version One: ORG
+Microsoft Office Suite: ORG
+Visio: PERSON
+Kanban: ORG
+Lean, Human Centered: ORG
+Design Thinking: ORG

@@ -1,0 +1,54 @@
+BRANCH: ORG
+More than 5 years: DATE
+first: ORDINAL
+Bilingual Professional: ORG
+Spanish: LANGUAGE
+English: LANGUAGE
+10%: PERCENT
+10%: PERCENT
+Retro
+Fitness: ORG
+Rutgers School of Criminal: ORG
+â€¢ Oversee: WORK_OF_ART
+â€¢: PRODUCT
+each month: DATE
+monthly: DATE
+â€¢ Respond: PRODUCT
+â€¢ Reinforce: PRODUCT
+Skills Used
+
+Lead: WORK_OF_ART
+Success: ORG
+10%: PERCENT
+10%: PERCENT
+Retro Fitness: ORG
+Recruited: PRODUCT
+Strong People Management: ORG
+Financially: PERSON
+Customer Service Specialist: ORG
+05/2012: CARDINAL
+12/2013: CARDINAL
+Assisted the Duty: WORK_OF_ART
+Solicited: ORG
+Bachelor of Science : Criminal Justice, Anthropology: ORG
+2014: DATE
+The State University of New Jersey: ORG
+City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+3.60/4.00: CARDINAL
+Affiliations: ORG
+Cumme Laude: PERSON
+Spanish: LANGUAGE
+English: LANGUAGE
+Portuguese: NORP
+Financial
+Management, Human Resources: ORG
+Recruitment, Sales, Sales Staff: ORG
+Customer Service: ORG
+Customer Support: PERSON
+Front Desk: PERSON
+Liaison: GPE
+Receptionist: NORP
+Maintenance: PERSON

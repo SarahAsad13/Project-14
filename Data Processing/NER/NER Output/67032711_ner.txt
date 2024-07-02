@@ -1,0 +1,65 @@
+a little over two years: DATE
+Skills: ORG
+Avid listenerÂ 
+: PERSON
+Expert Multi-taskerÂ: PERSON
+over 38: CARDINAL
+California: GPE
+year: DATE
+hours: TIME
+40: CARDINAL
+18-50: CARDINAL
+the age of 15: DATE
+Current
+Fitness Instructor Company Name: ORG
+State: ORG
+weeks: DATE
+barre: PERSON
+HIIT: ORG
+Jersey Mike's: FAC
+Jersey Mike's: FAC
+first: ORDINAL
+Specialized: ORG
+Alex and Ani jewelry: ORG
+Brighton: PERSON
+Pandora: NORP
+Sterilization Technician Company Name: ORG
+Order: ORG
+Sterilize: ORG
+Training: PERSON
+2018: DATE
+Bachelor of Arts : Human Resources and International Business Law Liberty University: ORG
+State: ORG
+U.S.A.: GPE
+LU: ORG
+2017: DATE
+one: CARDINAL
+one day: DATE
+2016: DATE
+Associate of Arts: ORG
+Liberal Arts College: ORG
+State: ORG
+United States: ORG
+Liberal Arts: PERSON
+Associate's Degree: WORK_OF_ART
+California: GPE
+United States: GPE
+AOC: ORG
+Academy of the Canyons: ORG
+2013-2014: DATE
+2015: DATE
+Valencia High School: ORG
+State: GPE
+United States: GPE
+Valencia High School: ORG
+Academy of the
+
+Canyons: ORG
+Valencia: PERSON
+2015: DATE
+the Phi Theta Kappa Honor's: ORG
+Lynchburg: GPE
+SHRM: ORG
+Human Resources: ORG
+Humane Society: ORG
+One: CARDINAL

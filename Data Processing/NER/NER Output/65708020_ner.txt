@@ -1,0 +1,84 @@
+10 years: DATE
+Account Management
+Analytical Problem Solver: ORG
+85%: PERCENT
+SunnySide Supply: ORG
+100%: PERCENT
+40%: PERCENT
+SunnySide Supply: ORG
+SunnySide Supply: ORG
+SunnySide Supply: ORG
+Davison: PERSON
+Rookie: PERSON
+the Year: DATE
+Davison: PERSON
+10%: PERCENT
+Davison: PERSON
+2: CARDINAL
+more than 50: CARDINAL
+Limousines/Morgan Coach: ORG
+$50,000 to $1.3 million: MONEY
+6 years: DATE
+Limousines/Morgan Coach: ORG
+Bachelor of Science : Marketing and Legal Studies: ORG
+Business: GPE
+Duquesne University: ORG
+Business Development: ORG
+September 2014: DATE
+Erect-A-Step: WORK_OF_ART
+Northeast: LOC
+Grown Erect-A-Step: PERSON
+85%: PERCENT
+Build: GPE
+SunnySide Supply: ORG
+OSHA: ORG
+Evaluate/Forecast: ORG
+New Products: ORG
+March 2013 to August 2014: DATE
+30%: PERCENT
+monthly: DATE
+75: CARDINAL
+Earned: PERSON
+Statistical Tracker: WORK_OF_ART
+Compile: PRODUCT
+Respond: PERSON
+Marketing/Business Development: ORG
+May 2006 to March 2013: DATE
+50: MONEY
+over $300: MONEY
+the first three years: DATE
+15%: PERCENT
+each year: DATE
+Oversaw: GPE
+30%: PERCENT
+daily: DATE
+Amore Limousines: PERSON
+Morgan Coach & Tours: ORG
+LLC: ORG
+2: CARDINAL
+26: CARDINAL
+Facility: ORG
+Concentrated: ORG
+8: CARDINAL
+43: CARDINAL
+January 2003: DATE
+Board of Directors: ORG
+The Consortium for Public Education: ORG
+2010: DATE
+Ongoing Community Service Initiatives
+
+Student of the Month Program: ORG
+Turner Elementary School: ORG
+2004-Present: DATE
+Created: ORG
+the Student of the Month Program: ORG
+Monthly: DATE
+limo: PERSON
+the Student of the Month: ORG
+Read-A-Thon Program: WORK_OF_ART
+Evergreen Elementary School: ORG
+2007: DATE
+Created: ORG
+the Read-A-Thon: WORK_OF_ART
+Quarterly: DATE
+limo: PERSON

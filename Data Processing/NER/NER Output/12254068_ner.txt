@@ -1,0 +1,63 @@
+2: CARDINAL
+3: CARDINAL
+Kayak: LOC
+Health Care Administrator: ORG
+April 2015 to May 2017: DATE
+April 2013 to April 2015: DATE
+March 2012 to April 2013: DATE
+Community: ORG
+year: DATE
+year: DATE
+Regional: ORG
+six: CARDINAL
+South-East Regional Events Committee: LOC
+monthly: DATE
+Licensed Insurance: ORG
+January 2006 to January 2013: DATE
+State: ORG
+2: CARDINAL
+January 2001 to January 2006: DATE
+Property and Casualty and Life and Health Insurance: ORG
+weekly: DATE
+Medicare: ORG
+Citizens: PERSON
+Develop: ORG
+January 1994 to January 2000: DATE
+Health First, Inc.: ORG
+seven week: DATE
+2400: DATE
+four year: DATE
+Health First Administration: ORG
+Internal: ORG
+Process Improvements: ORG
+Patient Amenities: ORG
+WorkAttire: PRODUCT
+Associate Recognition: PERSON
+Signage: ORG
+Hurricane Response Teams: EVENT
+Respond: PERSON
+Provided Customer Service Training: ORG
+Health First Directors: ORG
+Home Health: ORG
+Hospice: ORG
+Business Office: ORG
+Health First Health: ORG
+one: CARDINAL
+first: ORDINAL
+Tennessee: GPE
+one: CARDINAL
+42: CARDINAL
+monthly: DATE
+Introduced The Pampered Chef: ORG
+Training
+Bachelor of Science : Risk and Benefits Management: PERSON
+1985: DATE
+The University of Alabama
+Skills: ORG
+Customer Service Training: ORG
+Home Health: ORG
+Hospice: ORG
+Surgery: PERSON
+2: CARDINAL
+3: CARDINAL
+Kayak: LOC

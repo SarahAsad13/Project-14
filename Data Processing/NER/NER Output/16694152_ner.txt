@@ -1,0 +1,83 @@
+BUSINESS DEVELOPMENT EXECUTIVE: ORG
+Network Solutions: ORG
+September 2008: DATE
+Current Business Development Executive 
+
+: ORG
+Aggressive: ORG
+Identify: ORG
+Articulate: ORG
+OfficeMax: ORG
+Develop: ORG
+OfficeMax: ORG
+Perform: ORG
+BRM: ORG
+Develop: ORG
+Perform: ORG
+September 2005 to September 2008: DATE
+Accommodated: ORG
+Kept: PERSON
+Conducted: ORG
+Maintained: GPE
+Key Contributions Awarded Client Advisor: ORG
+Month 18: DATE
+BMW: ORG
+North America's: LOC
+yearly: DATE
+2006: DATE
+2007: DATE
+November 2001 to September 2005: DATE
+Key Contributions Gained: LOC
+March 2005: DATE
+quarterly: DATE
+25%: PERCENT
+April 1999 to November 2003: DATE
+Document Solutions Executive: ORG
+Developed: ORG
+over 200: CARDINAL
+weekly: DATE
+Analyzed: ORG
+Key Contributions: LOC
+100%: PERCENT
+3: MONEY
+fiscal year 2001: DATE
+2002: DATE
+February 2000: DATE
+Received Team Player: EVENT
+second quarter 2001: DATE
+Received Document Management Consultant of: LAW
+2001: DATE
+2002: DATE
+Skills
+Articulate: ORG
+Client: PERSON
+Document Management: ORG
+Image: ORG
+Leadership: PERSON
+2000: DATE
+Quality Assurance: ORG
+Sales Training: PERSON
+Team Player: ORG
+Education: ORG
+Hampton University: ORG
+May 1998: DATE
+January 2001: DATE
+Image Management Certification: ORG
+Levels 1 National Sales Training Phases: ORG
+III: ORG
+Forest Laboratories: ORG
+April
+2004: DATE
+BMW: ORG
+Porsche: GPE
+Arlington: GPE
+October 2006: DATE
+BMW: ORG
+Porsche: GPE
+Arlington: GPE
+September 2007: DATE
+BMW: ORG
+North America Quality Assurance Workshop: ORG
+BMW: ORG
+Porsche: ORG
+Arlington: GPE

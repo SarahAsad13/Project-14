@@ -1,0 +1,120 @@
+737: CARDINAL
+Industrial Engineer: ORG
+Skills
+
+Project planning and development
+Strategic: ORG
+Lean: NORP
+Analytical
+Personable
+
+Dedicated: WORK_OF_ART
+Dependable
+
+Work History: WORK_OF_ART
+Industrial Engineering: ORG
+Industrial Engineering: ORG
+the 737 Wing Seal: ORG
+daily: DATE
+over $1.5M: MONEY
+Final Assembly: ORG
+Root Cause: ORG
+2: CARDINAL
+Wings: ORG
+Rate: ORG
+MAX: ORG
+Manage Opportunities and Risks: ORG
+4: CARDINAL
+Employee Involvement Team: ORG
+5.0: CARDINAL
+Industrial Engineer / Project: ORG
+09/2008: PERSON
+12/2009: CARDINAL
+Sine Wave Fab-Cell: ORG
+Fabrication Division Floor Beam: ORG
+787: CARDINAL
+DIE: ORG
+Supplier Mgmt: PERSON
+Program Engineering: ORG
+Integrated: NORP
+Boris: PERSON
+TAL: ORG
+India: GPE
+Fabrication Estimating: ORG
+Fabrication Division: ORG
+Integrated: NORP
+SMA: ORG
+SDT: ORG
+Lead Green Rooms: PERSON
+Sine Wave Fab-Cell: ORG
+Sole Industrial Engineer: ORG
+India: GPE
+weekly: DATE
+Sine Wave Structure: ORG
+Boeing: ORG
+Daily Management and Load Chart System: ORG
+Auburn Site Core: ORG
+ATS: ORG
+AIW: ORG
+ATS metrics: ORG
+Developed IE: ORG
+MES: ORG
+Industrial Engineers: ORG
+daily: DATE
+the Business Plan: LAW
+Oversaw the Project Management of the: ORG
+35: CARDINAL
+38: DATE
+42+: DATE
+MAX Leadership: ORG
+MAX: ORG
+Lean Steering: ORG
+Lean Strategy: ORG
+PPMO: ORG
+the 737: ORG
+Leadership Team: ORG
+the Industrial Engineering Puget Sound Central Site: ORG
+Industrial Engineer / Project: ORG
+12/2009: CARDINAL
+State: ORG
+December 4th, 2009 - July 30th, 2010: DATE
+Industrial Engineer / Project: ORG
+the Core Integration: ORG
+Interiors Responsibility Center South Carolina Project: ORG
+Interior: ORG
+RIO: ORG
+Change Management: ORG
+Financial Planning: ORG
+the Implementation of a new Interiors: ORG
+South Carolina: GPE
+Interior: ORG
+Long Lead Capital: PERSON
+Fabrication and Program Business Operations: ORG
+Program Directives / Decision
+Memos: ORG
+MBA : Business Administration 2008 Seattle University - City: WORK_OF_ART
+6 2014: DATE
+Project Management Certification - Stevens Institute -
+Accomplishments: ORG
+Project Managers: ORG
+Employee Involvement/Engagement Teams: ORG
+Accelerated Improvement Workshop Certification Outgoing: ORG
+Quick: ORG
+Skills
+Assembly: ORG
+BCA: ORG
+Business Operations: ORG
+Change Management: ORG
+Council: ORG
+Design Of Experiments, Engineer: WORK_OF_ART
+ERP: ORG
+Estimating, Financial Planning: ORG
+IE, Leadership: ORG
+Mgmt: PERSON
+MAX: ORG
+MES: ORG
+MS Project, Paint: ORG
+Project Management: ORG
+Sound: ORG
+Strategy: PERSON
+TAL: ORG

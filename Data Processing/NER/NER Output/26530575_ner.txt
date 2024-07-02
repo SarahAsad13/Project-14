@@ -1,0 +1,115 @@
+FINANCE: ORG
+Skill Highlights: PERSON
+January 2012 to January 2012: DATE
+OPG: ORG
+21,000: CARDINAL
+17: CARDINAL
+20: CARDINAL
+41: CARDINAL
+Facilitated: ORG
+monthly: DATE
+monthly: DATE
+two: CARDINAL
+Collaborated: ORG
+year-end: DATE
+Prepared Form 990: PRODUCT
+IRS: ORG
+Ohio State: ORG
+OhioHealth Marion Area Physicians: ORG
+EPIC: ORG
+first: ORDINAL
+Committee Chair: ORG
+the Business Development and Acquisitions: ORG
+the Training Policies: ORG
+Develop: ORG
+the OhioHealth Physician Group's: ORG
+January 2003 to January 2004: DATE
+State: ORG
+PWC: ORG
+776: CARDINAL
+the PWC Assurance and Business AdvisoryServices: ORG
+ABAS: ORG
+education(Columbia University: ORG
+4,000,000,000: MONEY
+15,000,000,000.Key: MONEY
+3-5: CARDINAL
+January 1999: DATE
+AuditorLoeb: ORG
+20: CARDINAL
+NonprofitHealthcare: ORG
+CircularA-133: ORG
+1,000,000: MONEY
+large($4,000,000,000: NORP
+2: CARDINAL
+8-10: CARDINAL
+Develop: ORG
+FASB: ORG
+30%: PERCENT
+Name City: GPE
+State Internal Auditor: ORG
+Business Associate Agreement Policy: ORG
+AR: ORG
+January 2006: DATE
+42nd Street Inc.: ORG
+January 2012: DATE
+the State of New York: ORG
+seven: CARDINAL
+42nd Street: FAC
+annual: DATE
+13,000,000: CARDINAL
+two: CARDINAL
+seven: CARDINAL
+The Victory Theater: WORK_OF_ART
+42nd Street Facilitated: FAC
+50,000,000: MONEY
+Prepared: PRODUCT
+VP of Finance: ORG
+three: CARDINAL
+weekly: DATE
+AR: ORG
+AP: ORG
+quarter: DATE
+IRS: ORG
+quarterly: DATE
+annual: DATE
+IRS: ORG
+three: CARDINAL
+quarter: DATE
+50%: PERCENT
+January 2004: DATE
+UniversityJanuary 2006New York Internal AuditorColumbia University: ORG
+13,000,000,000: MONEY
+31,922: CARDINAL
+Columbia
+University: ORG
+Specialized: ORG
+NCAA: ORG
+Public Safety: ORG
+Counsel: PERSON
+Human Resources: ORG
+PricewaterhouseCoopers: ORG
+Keller Graduate School of ManagementBusiness Administration MBABusiness Administration Queens College: ORG
+City University of New
+: ORG
+YorkAccounting: ORG
+Certified Public Accountant: ORG
+New York: GPE
+Skills: ORG
+Accountant: ORG
+Acquisitions: ORG
+AP: ORG
+AR: ORG
+Business Development: ORG
+Certified Public Accountant 1: ORG
+Edge: ORG
+Finance: ORG
+Financial Statements: ORG
+HRIS: ORG
+Human Resources: ORG
+Internal Auditor: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Modeling: GPE
+Policies: GPE
+Public Safety: ORG
+year-end: DATE

@@ -1,0 +1,51 @@
+Dependable
+
+Property: ORG
+Cold: NORP
+12/2015: CARDINAL
+Name City: GPE
+24,000: CARDINAL
+one month's: DATE
+weekly: DATE
+Cold Calls: PERSON
+10/2014: CARDINAL
+02/2015 Company Name City: ORG
+weekly: DATE
+monthly: DATE
+Receptionist: NORP
+Telemarketer, Marketing 05/2014: ORG
+10/2014: CARDINAL
+Name City: GPE
+Acted: ORG
+Processed: GPE
+each week: DATE
+Cold Calls: PERSON
+11/2012: CARDINAL
+01/2014 Company Name City: ORG
+hundreds: CARDINAL
+each week: DATE
+Retention Officer: PERSON
+11/2011: CARDINAL
+Name City: GPE
+weekly: DATE
+monthly: DATE
+Name City: GPE
+Maintained: PERSON
+daily: DATE
+Name City: GPE
+Name City: GPE
+Name City: GPE
+Asst: PERSON
+12/2001: CARDINAL
+Name City: GPE
+1986: DATE
+Hyles Anderson College City: PERSON
+18 credit hours: TIME
+Master's Degree: WORK_OF_ART
+Bob Jones: PERSON
+State: ORG
+Skills
+
+Honest: ORG
+Reliable: WORK_OF_ART
+Driven: PERSON

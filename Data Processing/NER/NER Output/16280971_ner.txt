@@ -1,0 +1,86 @@
+Core Accomplishments
+Founded The Success Group: ORG
+200,000.00: MONEY
+the first year: DATE
+the next 5 years: DATE
+Auto Dealerships: ORG
+Atlanta: GPE
+Valentines: ORG
+150,000.00: MONEY
+yearly: DATE
+Sales Rep 05/2017: PERSON
+100: CARDINAL
+a week: DATE
+13: CARDINAL
+1: CARDINAL
+Physicians: NORP
+State Strengthened: ORG
+Client: GPE
+150,000.00: MONEY
+yearly: DATE
+Networked: PRODUCT
+Name City: GPE
+WSB-TV
+
+: ORG
+Interviewed Presidents: ORG
+the Atlanta Business Arena: ORG
+32: CARDINAL
+WSB-TV: ORG
+Inside America: FAC
+Olympics: EVENT
+WSB: ORG
+Inside America: ORG
+Emory Healthcare: PERSON
+Kimberly Clark: PERSON
+Alumax: ORG
+Coca Cola Bottlers of Chattanooga: ORG
+State: ORG
+60: MONEY
+$1.5 Million: MONEY
+5 Years: DATE
+monthly: DATE
+Masonry: PERSON
+Signature Advertising: ORG
+1: MONEY
+COUNTRY: ORG
+Best of Show: WORK_OF_ART
+the Homebuilders Association Tradeshow: ORG
+Gibson Top: PERSON
+Great Results: PERSON
+Karen: PERSON
+April 29, 2010: DATE
+Training
+Bachelor of Arts University: PERSON
+Columbus City: GPE
+Advertising Specialty Institute: ORG
+Atlanta Promotional Marketing Association: ORG
+BNI (Business Networking
+Institute: ORG
+1st: ORDINAL
+the Justin Time Foundation for Missing Teens &
+Young Adults *Elected: ORG
+the Board of Directors for: ORG
+Emmaus: GPE
+2009: DATE
+the Board of Directors: ORG
+Pathway East: WORK_OF_ART
+2010: DATE
+the Board of Directors for Trafficking in America Task Force 2011 National Winner of Senior Talent: ORG
+COG Jubilee: PERSON
+Strings: GPE
+2004, 2005: DATE
+2006: DATE
+COG Jubilee: PERSON
+Piano: PERSON
+2004: DATE
+New Business Development: ORG
+Client Management: ORG
+Customer Service: ORG
+Management, Marketing Communications: ORG
+Â Networking: ORG
+Team Player: ORG
+Melinda: ORG
+IN Touch Ministries: ORG
+Karen: PERSON
+April 29, 2010: DATE

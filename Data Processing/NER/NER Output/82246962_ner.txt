@@ -1,0 +1,161 @@
+Test Engineer: ORG
+10 years: DATE
+Areas of Expertise
+
+: ORG
+Digital/Analog: ORG
+RF Circuits Design Techniques: ORG
+Troubleshooting: GPE
+AC/DC: ORG
+View Expert CAD Design: WORK_OF_ART
+TEXMAC: ORG
+9000: CARDINAL
+Employment Hands on Computer Skills: ORG
+Solaris: PERSON
+10: CARDINAL
+Linux Mandrake: PERSON
+Red Hat OS Configuration: ORG
+UNIX Script & Shell Programming
+Networking Essentials
+Networking Cabling Cat5e,: ORG
+Cat6: PRODUCT
+Fiber Optic
+TCP/IP: ORG
+OSI Layers Knowledge
+Windows XP Pro-Win 7 Mac: ORG
+Switches: ORG
+Network Subnetting: ORG
+android mobile technology: ORG
+Android Debug: PERSON
+Troubleshoot: ORG
+Riverbed Steelhead: PERSON
+WAN: ORG
+Report: ORG
+RMA: EVENT
+RMA: EVENT
+RMA: EVENT
+Digital/Analog: ORG
+Signal Generators, Oscilloscope Tektronix: ORG
+3052: DATE
+26III: CARDINAL
+TestExpert: ORG
+Prepare: ORG
+Measure: ORG
+WIP: ORG
+RMA: EVENT
+Intel: ORG
+X-86: PRODUCT
+Created Visual Aids: ORG
+ECN: ORG
+Deviations: ORG
+ETN: ORG
+MES: ORG
+MES: ORG
+Bronze Six Sigma: ORG
+5S: ORG
+Kaizen Blitz: PERSON
+QRQC: ORG
+Workflow Analysis: ORG
+Layouts & workcell: ORG
+Kanban: ORG
+Takt Time: PERSON
+FPY: ORG
+Test Debug WIP: PERSON
+Applied Lean Six Sigma: ORG
+DFT: ORG
+NPI: ORG
+NPI: ORG
+NPI: ORG
+McAfee, Riverbed: ORG
+NEC: ORG
+Cisco: GPE
+Sunpower & Sable: ORG
+Security Access Control: ORG
+CCTV Surveillance System: ORG
+Alarm Systems for Government: ORG
+Commercial: ORG
+Residential: ORG
+Provided Technical Support: ORG
+Technicians: NORP
+2003: DATE
+Jul 2005: PERSON
+VIT: ORG
+US: GPE
+FCC: ORG
+Troubleshoot CCTV Security: ORG
+Agilent 83480A Digital Communication Analyzer: ORG
+Provided Technical Support: ORG
+Mar 2003: DATE
+daily: DATE
+Generate: PERSON
+daily: DATE
+CPU: ORG
+Assembly: ORG
+Kitting: GPE
+Assisted Manufacturing Engineers: ORG
+SUN Microsystems: ORG
+Netscape: FAC
+1999: DATE
+Sep 2000: DATE
+Engineers: ORG
+Telecommunication Servers: WORK_OF_ART
+Performed: ORG
+SMT: ORG
+BSEE 2016: ORG
+Northwestern Polyphonic University: ORG
+ï¼​ City: GPE
+Associate Degree: PERSON
+Physics: ORG
+Chemistry and Mathematics 2001 D.A.V.: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+AAS Degree: PERSON
+Electronics Technology Heald College School of Technology ï¼​ City: ORG
+State Electronics Technology: ORG
+Skills
+Assembly: ORG
+Cabling: GPE
+CAD: ORG
+Cat5: GPE
+Cisco: GPE
+CPU: ORG
+DC: GPE
+DFT: ORG
+GPS: ORG
+Intel: ORG
+Linux: GPE
+Mac OS: PERSON
+McAfee: ORG
+MES: ORG
+Access, Win 7: ORG
+Windows: NORP
+XP: ORG
+NEC: ORG
+Netscape, Network,: ORG
+Networking, Networking Essentials: ORG
+Oscilloscope: ORG
+OSI: ORG
+Software: PERSON
+Red Hat: PERSON
+RMS: ORG
+Routers: ORG
+Shell
+Programming: ORG
+Signal Generators: ORG
+Solaris: GPE
+SQL Server: ORG
+SUN Microsystems: ORG
+Switches: ORG
+TCP/IP: ORG
+TDS: ORG
+Technical Support, Telecommunication: ORG
+Troubleshoot,: ORG
+Troubleshooting: GPE
+UNIX: ORG
+Upgrade: ORG
+View: ORG
+WAN: ORG
+Workflow Analysis: ORG
+X-86: PRODUCT

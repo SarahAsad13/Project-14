@@ -1,0 +1,65 @@
+Human Resources: ORG
+non-union: GPE
+ISO: ORG
+FDA: ORG
+Knowledge of State: PERSON
+Excel: PRODUCT
+Word: PERSON
+Powerpoint: PRODUCT
+Ceridian HRIS: PERSON
+Paychex: PERSON
+Current Company Name City: ORG
+cryogenic: CARDINAL
+approximately 200: CARDINAL
+Corporate Payroll Department Implement: ORG
+Prepare: ORG
+Monthly: DATE
+HR metrics Active: ORG
+Wellness Program Coordinator: ORG
+Name City: GPE
+all day to day: DATE
+approximately 50: CARDINAL
+Corporate: ORG
+Lake Forest: ORG
+14: CARDINAL
+Texas: GPE
+LTD: ORG
+monthly: DATE
+annual: DATE
+Process: PRODUCT
+weekly: DATE
+Paychex: ORG
+Ensure Company: ORG
+chair safety committee: ORG
+Develop: ORG
+Prepare: ORG
+Conduct: ORG
+annual: DATE
+Sr HR Representative: ORG
+Name City: GPE
+both day to day: DATE
+150: CARDINAL
+700: CARDINAL
+annual: DATE
+Administer: ORG
+hourly: TIME
+monthly: DATE
+Union: ORG
+hourly: TIME
+Prepare annual Affirmative Action Plan: ORG
+Ceridian Payroll: ORG
+Develop: ORG
+monthly: DATE
+annual: DATE
+hourly: TIME
+Labor: ORG
+LOA: PERSON
+Safety: ORG
+Master of Science Degree : Industrial Psychology Continuing: WORK_OF_ART
+OSHA: ORG
+10-hour: TIME
+Wellness Program: ORG
+Ceridian: NORP
+HRIS: ORG
+Payroll: ORG
+Safety: ORG

@@ -1,0 +1,49 @@
+SPECIALIST: ORG
+15+ years: DATE
+18,000: CARDINAL
+FLSA: ORG
+Eight years: DATE
+ADA: ORG
+Skills
+
+Management consultation
+Negotiation: ORG
+Micro: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Skills
+Problem-solve: ORG
+hourly: TIME
+50+: QUANTITY
+250: CARDINAL
+10-month: DATE
+Budget: ORG
+daily: DATE
+Salary: DATE
+06/2013: CARDINAL
+Classification/Compensation Company Name: ORG
+an average of four months: DATE
+11 calendar days: DATE
+Established: ORG
+Cabinet and Council of State: ORG
+FLSA: ORG
+Recruitment/Classification/Compensation Company Name: ORG
+100%: PERCENT
+four-month: DATE
+NeoGov: ORG
+06/2004: CARDINAL
+01/2013: CARDINAL
+12: CARDINAL
+18,000: CARDINAL
+Processed: GPE
+05/2004: CARDINAL
+05/2000: CARDINAL
+ASTD: LAW
+internalÂ  Ethical Practice: ORG
+Trainers/Educational Leaders: ORG
+Training: PERSON
+2007: DATE
+Bachelor of Arts: ORG
+English: LANGUAGE
+State: GPE
+US: GPE

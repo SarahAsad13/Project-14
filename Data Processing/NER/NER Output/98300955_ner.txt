@@ -1,0 +1,150 @@
+HEALTHCARE: ORG
+HIL: ORG
+8 years: DATE
+SOA: ORG
+Product Development: ORG
+DevOps: ORG
+State: ORG
+Premera Blue Cross: ORG
+Washington: GPE
+USA: GPE
+The Healthcare Incubation Lab: ORG
+Premera Blue Cross: ORG
+CoE: WORK_OF_ART
+HIL: ORG
+Healthcare, Insurance & Technology: ORG
+LEAN: ORG
+Platform / Solution / Application Architect: ORG
+Collaborated: ORG
+API: ORG
+Electronic Medical Records: ORG
+third: ORDINAL
+Architected: ORG
+Identity and Access Management: ORG
+apps
+Performed: PERSON
+Burp Suite: PERSON
+OWASP: ORG
+Zed Attack Proxy: PERSON
+Solution Architect, Enterprise Architecture & IT Strategy Company Name: WORK_OF_ART
+Premera: ORG
+Premera Blue Cross: ORG
+Project Architect: ORG
+Â 
+
+Collaborated: ORG
+Premera: ORG
+Premera
+Worked: FAC
+Agile Scrum & Kanban: ORG
+Application Architect, Research & Development Company Name: ORG
+PriceMetrix: ORG
+SaaS: ORG
+Toronto: GPE
+Ontario: GPE
+Canada: GPE
+PriceMetrix: ORG
+US & Canada: ORG
+The Research & Development: ORG
+PriceMetrix: ORG
+BI: ORG
+North America: LOC
+daily: DATE
+the Application Architect: ORG
+North American: NORP
+about 30%: PERCENT
+annual: DATE
+about 35,000: CARDINAL
+daily: DATE
+about 30%: PERCENT
+annual: DATE
+PriceMetrix: ORG
+2.0: CARDINAL
+Microsoft: ORG
+2.0: CARDINAL
+Active Directory Federation Services: ORG
+WIF: ORG
+Windows Identity
+Foundation: ORG
+STS: ORG
+Conducted: ORG
+daily: DATE
+PriceMetrix: ORG
+100%: PERCENT
+4 months: DATE
+8 months: DATE
+85%: PERCENT
+04/2010
+Enterprise Application Developer, Information Systems Company Name: ORG
+State: ORG
+OACCAC: ORG
+Ontario: GPE
+Community Care Access Centres: ORG
+Toronto: GPE
+Ontario: GPE
+Canada: GPE
+Enterprise Applications Group: ORG
+1st year: DATE
+Developed: ORG
+user & custom: ORG
+CHRIS: PERSON
+Health Related Information
+System: ORG
+CruiseControl: ORG
+70%: PERCENT
+09/2008: GPE
+Software Developer: ORG
+OACCAC: ORG
+www.ccac-ont.ca: ORG
+14: CARDINAL
+Assisted: ORG
+OACCAC: ORG
+www.ccac-ont.ca: ORG
+14: CARDINAL
+Integrated Operations Configuration Management Database: ORG
+Windows
+Management Instrumentation: ORG
+WMI: ORG
+Education: ORG
+Jun.: PERSON
+2009: DATE
+Bachelor of Engineering : Systems & Computer Engineering (B.Eng: ORG
+Honours Program University: ORG
+State: GPE
+Canada: GPE
+Information Technology Infrastructure Library: ORG
+v3 Training: PERSON
+Jan. 2010: DATE
+The Open Group Architecture Framework - TOGAF: ORG
+Oct. 2014: DATE
+Skills: ORG
+ASP.NET: ORG
+Active Directory: WORK_OF_ART
+AJAX: ORG
+API: ORG
+BI: ORG
+Computer Engineering: ORG
+Configuration Management: ORG
+CSS: ORG
+Client: GPE
+Database: GPE
+Eclipse, Electronic Medical Records: ORG
+Gateway: PERSON
+Information Systems: ORG
+Information Technology: ORG
+Java: PERSON
+Javascript, Linux: PERSON
+Mac: PERSON
+Access, C#: ORG
+Windows: GPE
+Modeling: GPE
+MVC: ORG
+Enterprise: ORG
+Object Oriented Programming: ORG
+Product Development: ORG
+Proxy: PERSON
+Quality Assurance,: ORG
+SQL: ORG
+SQL Server: ORG
+UML: ORG
+Visual Studio: PERSON

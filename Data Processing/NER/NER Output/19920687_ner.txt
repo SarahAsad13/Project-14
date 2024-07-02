@@ -1,0 +1,96 @@
+Accomplishments
+Outstanding Bank: WORK_OF_ART
+January 2011 to October 2014: DATE
+Oversaw: GPE
+five: CARDINAL
+day: DATE
+Comerica: PERSON
+NSF: ORG
+Reg D: PERSON
+Reg CC: PERSON
+Oversaw: GPE
+Researched: ORG
+Assigned: PERSON
+Comerica: PERSON
+Assisted Regional Operations: ORG
+Process: PRODUCT
+Sourced: NORP
+March 2008 to March 2010: DATE
+Wells Fargo Company Licensed Financial Specialist: ORG
+December 2009: DATE
+Top Small Business Accounts Opened -: ORG
+May 2009: DATE
+monthly: DATE
+1,000,000: MONEY
+100,000: MONEY
+150,000: MONEY
+Initiated: ORG
+Initiated: ORG
+November 2006 to September 2007: DATE
+Accredited Home Lenders: ORG
+over $6,000,000: MONEY
+July 2000 to October 2006: DATE
+Windsor Capital: ORG
+Month - July 2005: DATE
+Windsor Capital Platinum Club - 2004: ORG
+Gold Club: ORG
+8: CARDINAL
+between 2003 - 2005: DATE
+Silver Club 8x's: ORG
+between 2003 and 2005: DATE
+Windsor Capital Branch: ORG
+2003: DATE
+2004: DATE
+2005: DATE
+100,000,000: MONEY
+University of Michigan,: ORG
+College of Engineering BS : Electrical and Computer Engineering Education & Licenses: ORG
+University of Michigan, College of
+Engineering: ORG
+BS Electrical and Computer Engineering: ORG
+State: GPE
+US: GPE
+California - Irvine, Certificate: ORG
+Project Management: ORG
+2015: DATE
+Microsoft Project: ORG
+Excel: PRODUCT
+Word: PRODUCT
+Certifications: ORG
+Wachovia Bank: ORG
+N.A.: GPE
+Wells Fargo Company Licensed Financial Specialist - March: ORG
+2008-March: DATE
+2010: DATE
+California - Irvine: ORG
+Project Management
+Professional Affiliations: ORG
+Windsor Capital: ORG
+Windsor Capital Platinum Club - and: ORG
+2005: DATE
+Gold Club: ORG
+8: CARDINAL
+between 2003 - 2005: DATE
+Silver Club 8x's: ORG
+between 2003 and 2005: DATE
+Windsor Capital Branch: ORG
+Producer - 2003: DATE
+2005: DATE
+Skills
+Loans, Mortgage, Sales: ORG
+Mortgage Loans, Clients,: ORG
+Escrow: PERSON
+Consultative Sales: ORG
+Customer Accounts: ORG
+Customer Service: ORG
+Effective Sales: ORG
+Lending, Operations: ORG
+Operations: ORG
+Performance Management, Problem Resolution: ORG
+Sales Management, Securities, Solutions: ORG
+Brokerage, Credit, Top Sales: ORG
+Account Executive: ORG
+Market Share: ORG
+Excel: PRODUCT
+Microsoft Project: ORG
+Project Management: ORG

@@ -1,0 +1,28 @@
+FINANCE: ORG
+Summary
+Confident: PRODUCT
+Finance: ORG
+three year: DATE
+ADP: ORG
+Reynolds & Reynolds: ORG
+UCS: ORG
+11/2003: CARDINAL
+05/2004: CARDINAL
+Solid: PRODUCT
+Maintained: GPE
+four: CARDINAL
+02/2002: LAW
+10/2002: CARDINAL
+Florida: GPE
+02/2002: CARDINAL
+Provided and/or: PRODUCT
+04/2000: CARDINAL
+26: CARDINAL
+the Florida Division: ORG
+Prepared: PRODUCT
+weekly: DATE
+1999: DATE
+State Accounting: ORG
+Additional Information
+
+Personal: ORG

@@ -1,0 +1,57 @@
+Detail: PERSON
+Budget: ORG
+Windows: NORP
+Mac: PERSON
+Active Directory: WORK_OF_ART
+Microsoft: ORG
+Leadership: NORP
+Resource: ORG
+Gunnery Sergeant: PRODUCT
+January 1997 to January 2014: DATE
+5000: CARDINAL
+40: CARDINAL
+Maintained Windows: PERSON
+Linux: GPE
+Oversaw: GPE
+5e: CARDINAL
+Cisco: GPE
+Alcatel: ORG
+ADP: ORG
+3000: CARDINAL
+Organization: ORG
+DOD IA: ORG
+IAVA: ORG
+Manage: PRODUCT
+Remedy: PERSON
+Organizational: ORG
+MAGTF Planning Specialist: ORG
+Baghdad: GPE
+Iraq: GPE
+over 50: CARDINAL
+daily: DATE
+weekly: DATE
+Command Post: ORG
+Maintained: GPE
+zero: CARDINAL
+about $50 to $100 million: MONEY
+Inventory Procured: PERSON
+Bachelor of Science : Information Technology: ORG
+October 2012: DATE
+Columbia Southern University: ORG
+Continuous Process Improvement Awareness: ORG
+Skills
+Active Directory: ORG
+ADP: ORG
+Budget: ORG
+5: DATE
+Cisco: GPE
+Communication Skills: ORG
+Detail: PERSON
+HP-UX: PRODUCT
+Linux: GPE
+Mac: PERSON
+Windows: NORP
+Organizational: ORG
+Personnel: ORG
+Process Improvement: PERSON
+Afghanistan: GPE

@@ -1,0 +1,56 @@
+Planet Fitness: ORG
+Fitness Industry: ORG
+10%: PERCENT
+15+ years: DATE
+Fitness Trainer: PERSON
+August 2014: DATE
+Current Company Name: ORG
+10+ years: DATE
+Softball: GPE
+January 2013: DATE
+Identify: ORG
+FrontRush: ORG
+daily: DATE
+2013: CARDINAL
+2013: DATE
+the Year Honors: EVENT
+Softball Coach/Strength: ORG
+Conditioning Coach: PERSON
+September 2012 to August 2013: DATE
+fourteen: CARDINAL
+Division I to Division III: ORG
+Golf Department: ORG
+January 2011 to December 2012: DATE
+Maintained: GPE
+30%: PERCENT
+year one: DATE
+20%: PERCENT
+year two: DATE
+Athletic Department: ORG
+Game Day: EVENT
+September 2006 to: DATE
+August 2010: DATE
+Processed: GPE
+six: CARDINAL
+Softball Coach: PERSON
+January 2004 to August 2011 Company Name ï¼​ City: DATE
+2005: DATE
+NFCA/Speedline National Coaching Staff: ORG
+2005: DATE
+2006: DATE
+one season: DATE
+31: CARDINAL
+2010: DATE
+2005: DATE
+seven: CARDINAL
+May 2014: DATE
+New England College: ORG
+Sport and Recreation Management Graduated Magna Cum Laude: ORG
+Liberal Arts: ORG
+May 2005: DATE
+City: GPE
+State: ORG
+Skills
+Academic: ORG
+Coach: ORG
+NAC: ORG

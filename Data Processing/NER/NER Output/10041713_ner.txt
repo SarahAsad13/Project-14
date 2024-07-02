@@ -1,0 +1,133 @@
+SR: ORG
+ESTIMATOR-BAS: ORG
+9+ years: DATE
+3 years: DATE
+fiscal year 2014: DATE
+$30 million: MONEY
+PLC: ORG
+Networking Chapter: ORG
+Boston: GPE
+National Association of Women In
+Construction: ORG
+Mass Building Congress: ORG
+American Society for Precision Engineering Obtain: ORG
+Energy Engineering: ORG
+Project Engineering: ORG
+Building Energy Systems: ORG
+Renewable Energy and Energy Management: ORG
+India: GPE
+Schneider
+Honeywell: PERSON
+the Alarm Management Suite: ORG
+IPCL: WORK_OF_ART
+Baroda: GPE
+first: ORDINAL
+India: GPE
+Energy Management Professional Certified: ORG
+India: GPE
+Active Volunteer: PRODUCT
+CSR: ORG
+Schneider: PERSON
+Initiated: ORG
+Individually: ORG
+Installation & Commissioning: ORG
+Alarm Management Suite: ORG
+Alarm Management Suite: ORG
+Honeywell Systems &: ORG
+Third Party: ORG
+PLC: ORG
+Estimator-BAS Construction Sales: ORG
+August 2015: DATE
+Current Company Name: ORG
+USA: GPE
+Studio 360: LOC
+40: MONEY
+YtD: GPE
+Generate: PERSON
+Building-Construction: ORG
+Branch Estimate Library: FAC
+360: CARDINAL
+Project Engineer 
+Company Name: ORG
+56&57: CARDINAL
+Hadapsar Industrial Estate: ORG
+411 013: CARDINAL
+System Design & Testing: ORG
+After Marketing Service
+Group: ORG
+Honeywell: ORG
+DCS & PLC: ORG
+PLC: ORG
+SCADA: ORG
+the Honeywell Systems: ORG
+Sales Engineer 
+Company Name: ORG
+Gurgaon: PERSON
+Haryana: GPE
+India: GPE
+40 million dollars: MONEY
+more than 50: CARDINAL
+almost 40: CARDINAL
+Prepared: PERSON
+Performance Contracting: ORG
+almost 5 million dollar: MONEY
+20: CARDINAL
+India: GPE
+BD/Sales: ORG
+Siemens Building Technologies Pvt. Ltd.: ORG
+49: DATE
+600 018: CARDINAL
+India: GPE
+Building
+Management System: ORG
+Fire Protection and Electronic Security: ORG
+Grabbed: PERSON
+around $2 million: MONEY
+Building Management: ORG
+July 2010: DATE
+May 2013: DATE
+9th: ORDINAL
+DLF Building No.10: ORG
+Tower C: ORG
+Bachelor of Instrumentation Engineering : Instrumentation Engineering: ORG
+2006-12-31: DATE
+Maharishi Markendeshwar Engineering College Bachelor: ORG
+Instrumentation Engineering: WORK_OF_ART
+December 31, 2006: DATE
+Maharishi Markendeshwar Engineering College: ORG
+Mullana India: ORG
+09,2002-July 21, 2006: DATE
+Affiliations
+Actively Involved: PRODUCT
+Networking Chapter: ORG
+Boston: GPE
+National Association of Women In Construction: ORG
+Mass Building Congress: ORG
+American: NORP
+Society for Precision Engineering
+
+Certifications
+Energy Management Professional Certified: ORG
+Schneider University: ORG
+Skills
+Sales,: ORG
+Proposals, Solutions: ORG
+Million: CARDINAL
+Ecms, Energy Conservation, Energy Solutions: ORG
+Industrial
+Facilities: ORG
+Disability, Ltd,: ORG
+Maintenance, Marketing, Networking: ORG
+Project Engineer: ORG
+Project Planning: ORG
+Scada: GPE
+Testing, Estimating,: ORG
+Operations: ORG
+Fire Protection: ORG
+Front End: ORG
+Quotations, Relationship Building: ORG
+Security: ORG
+Siemens: ORG
+Csr, Energy Management: ORG
+Project Development: ORG
+Sql: PERSON

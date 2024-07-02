@@ -1,0 +1,38 @@
+daily: DATE
+Childhood: ORG
+Time Management
+Creative: ORG
+Team: ORG
+01/2016
+: PERSON
+3-5 year old: DATE
+Maintained: GPE
+daily: DATE
+quarterly: DATE
+09/2008: ORG
+06/2013: CARDINAL
+Maintained: GPE
+daily: DATE
+monthly: DATE
+Baggage Supervisor Company Name: WORK_OF_ART
+Schedule: ORG
+weekly: DATE
+Maintained: GPE
+daily: DATE
+quarterly: DATE
+monthly: DATE
+03/2015: WORK_OF_ART
+01/2016
+Lead Volunteer Company Name: PERSON
+State: ORG
+the Month: DATE
+Assist: NORP
+weekly: DATE
+C.D.A - Child Development Associate Seattle Central Community College: ORG
+Special Needs Grand Canyon University: ORG
+ï¼​ City: GPE
+First Aid: ORG
+Problem Solver: PERSON
+Time Management
+
+: ORG

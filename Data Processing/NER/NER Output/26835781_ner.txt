@@ -1,0 +1,120 @@
+BEHAVIORAL: ORG
+Highlights: GPE
+Name City: GPE
+State Behavioral Interventionist 01/2010: ORG
+monthly: DATE
+95%: PERCENT
+Identify: ORG
+Name City: GPE
+State: ORG
+Summer: DATE
+Science Institute: ORG
+enrollment: GPE
+the College of Agriculture and Related Sciences: ORG
+Twitter: PERSON
+Alex D.
+: PERSON
+Meredith: PERSON
+302: CARDINAL
+241-7315: CARDINAL
+Scholars Program MonSanto Agriculture Future of America: ORG
+Plant Health Inspection Services: ORG
+DelDOT: ORG
+Delaware State University's: ORG
+College
+Survey Inventory: ORG
+the Delaware State University Agriculture Education Program: ORG
+the Summer Agri-Science
+Institute: EVENT
+Delaware State University's: ORG
+46,950: MONEY
+SAS: ORG
+Windows XP: PERSON
+MS Office: ORG
+Adobe In-design: PERSON
+6: CARDINAL
+Banner Web & Baseline: ORG
+Drupal Content Management System: ORG
+the College of
+Agriculture & Related Sciences: ORG
+4%: PERCENT
+Agriculture & Natural Resources: ORG
+the College of Agriculture &
+Related Sciences: ORG
+the College of Agriculture & Related Sciences' Student: ORG
+Capital School District: ORG
+the City of Dover: GPE
+Capital School District: ORG
+the Year: DATE
+Name City: GPE
+State: ORG
+MANRRS: ORG
+Delaware State University: ORG
+Mentored: ORG
+first: ORDINAL
+the Undergraduate Poster Research: ORG
+2010: DATE
+' 25th: DATE
+Annual: DATE
+Orlando: GPE
+Florida: GPE
+Name City: GPE
+State: ORG
+the Lake Forest School District: ORG
+Taught 75: CARDINAL
+Mathematics, Health: ORG
+English: LANGUAGE
+Science, Social Studies: ORG
+Processed: GPE
+the Novel Stars System: ORG
+Name City: GPE
+State Adjunct Professor: ORG
+Department of Agriculture & Natural Resources: ORG
+Taught Introduction to Algebra: WORK_OF_ART
+Department of Mathematics: ORG
+Taught Career Development: ORG
+Southern Illinois University Carbondale: ORG
+the Department of Plant: ORG
+Agricultural Systems: ORG
+weekly: DATE
+Master of Science : Plant and Soil Science Agriculture Education Southern Illinois University Carbondale: WORK_OF_ART
+State Plant: ORG
+Science Agriculture Education: WORK_OF_ART
+Master of Science : Agriculture Economics International Trade North Carolina A&T State University: WORK_OF_ART
+State Agriculture Economics
+International Trade
+Bachelor of Science : Agriculture Business Delaware State University: ORG
+City: GPE
+State Agriculture Business
+Interests: ORG
+4: CARDINAL
+Annual: DATE
+Delaware Highway Clean: FAC
+Delaware Aids Walk: ORG
+Affiliations: ORG
+Related Sciences: ORG
+America: GPE
+FFA: ORG
+Black Graduate Student Association: ORG
+National Association for
+College Admission Counseling: ORG
+NACAC: ORG
+Awards & Accomplishments: ORG
+2011: DATE
+Delaware State University's Office of Student Leadership and Activities: ORG
+2011: CARDINAL
+Advisor of the Year: WORK_OF_ART
+Delaware State University's Office of Student Leadership and Activities: ORG
+Community Involvement: ORG
+4: CARDINAL
+Annual: DATE
+Delaware Highway Clean: FAC
+Delaware Aids Walk: ORG
+SAS: ORG
+Windows XP: PERSON
+MS Office: ORG
+Adobe In-design: PERSON
+6: CARDINAL
+Banner Web & Baseline: ORG
+Drupal Content Management System: ORG
+the College of Agriculture & Related Sciences: ORG

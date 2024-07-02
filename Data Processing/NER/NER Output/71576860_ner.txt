@@ -1,0 +1,34 @@
+Familiar: PERSON
+30 feet: QUANTITY
+10 months: DATE
+Name City: GPE
+State Concrete Construction 03/2015: ORG
+Name City: GPE
+Maximizing: ORG
+Name City: GPE
+State: ORG
+Shift Managers: PERSON
+Inventory Counters: PERSON
+COMPETENCIES Management A: ORG
+Name City: GPE
+Loading: PERSON
+annual: DATE
+Loading: PERSON
+Loading: PERSON
+Skills
+Strong Communication Skills: ORG
+Pallet: PERSON
+Inventory Management
+Managing/Supervising
+: ORG
+Supply Chain Management/Time: ORG
+Merchandising/Organizing/Packaging
+Presenting/Promotional: WORK_OF_ART
+Reporting/Safety/Scanning/Spreadsheets
+Education: ORG
+Graphic Design Anthem Institute: ORG
+City: GPE
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE

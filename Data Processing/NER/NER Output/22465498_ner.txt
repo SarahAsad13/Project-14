@@ -1,0 +1,97 @@
+Dynamic: ORG
+Accountant: ORG
+Accountancy: GPE
+10 years: DATE
+Financial Accounting: ORG
+Financial Management: ORG
+Skills
+
+Financial Management
+Financial Performance: ORG
+Financial Planning
+Accounting
+Compliance/Auditing/Assurance
+Cash Management
+Budgeting
+Financial Reporting
+Cash Flow Statements
+Business: ORG
+ACHIVEMENTS: ORG
+Barclays Bank Zambia Limited: ORG
+2002: DATE
+Best Back Office Clerk: ORG
+Barclays Bank Zambia Limited: ORG
+2003: DATE
+1: CARDINAL
+Anna Mwinga Corporate Affairs: PERSON
+National Milling Company P.O: ORG
+Lusaka Tel: PERSON
+211 221149: DATE
+0977 757437 2: DATE
+the Republic of Zambia: GPE
+Accountant: ORG
+Functions: PERSON
+monthly: DATE
+the council (Board of Directors: ORG
+e.g payroll: PERSON
+Computing: ORG
+monthly: DATE
+Determine: PRODUCT
+Calculating: PERSON
+daily: DATE
+the Ministry of Science: ORG
+Vocational Training: PERSON
+Council: ORG
+Filling: ORG
+Internal and External auditors': ORG
+Government Ministries: ORG
+Sage Pastel Evolution: ORG
+Participate: ORG
+NAPSA: ORG
+PAYE: ORG
+VAT: ORG
+Liaising with Banks on Office Bank Accounts: ORG
+Finance: ORG
+01/2004: CARDINAL
+Bank Clerk Company Name
+
+Reporting to the Branch: ORG
+Functions: PERSON
+Customer: ORG
+Monthly: DATE
+Customer: ORG
+monthly: DATE
+12/2003: CARDINAL
+Cashier Company Name
+
+Reporting: ORG
+Functions Include: PERSON
+Bank Control Accounts: ORG
+Training: PERSON
+2008: DATE
+2001: DATE
+Accountancy National Institutes of Public Administration: ORG
+1995: DATE
+Kamwala Secondary School: ORG
+1990: DATE
+Chingwele Primary School: ORG
+Association of Chartered Certified Accountants: ORG
+ACCA: ORG
+Skills: ORG
+ACCA II, Accounting: ORG
+Accountant: ORG
+Auditing, Reconciling bank: ORG
+Budgeting: PERSON
+Business Management: ORG
+Council: ORG
+Dispatching: ORG
+Filling, Finance,: ORG
+Financial, Financial Management: ORG
+Financial
+Planning: ORG
+Financial Reporting: ORG
+Receiving, Reconciling, Reporting, Sage: ORG
+Sorting: GPE
+Sun: ORG
+Supervising: GPE
+Teamwork: ORG

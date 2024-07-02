@@ -1,0 +1,50 @@
+PUBLIC RELATIONS & DEVELOPMENT: ORG
+MS Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Banner: ORG
+VisiFlow: GPE
+XtenderSolutions: ORG
+Cisco Agent Desktop: ORG
+Cisco: GPE
+Adobe Acrobat: PERSON
+Team building & management: ORG
+Invoice: GPE
+06/2012 - 11/2015: DATE
+State Public Relations & Development Associate
+
+Managed: ORG
+day: DATE
+the Public Relations and Development Office: ORG
+Facilitated: ORG
+annual: DATE
+the Health Fund and Medical Center: ORG
+Nicholas DeRobertis Foundation: ORG
+the Medical Center's: ORG
+Monitored the Medical Centers Facebook: ORG
+Human Resources/Public Relations and Development: ORG
+State Specialist: ORG
+previous year's: DATE
+07/2004: CARDINAL
+the Admissions Processing Center: ORG
+Maintained: GPE
+Coordinated: ORG
+the Admissions Processing Center: ORG
+01/2002 - 06/2004: CARDINAL
+weekly: DATE
+the Admissions Processing Center: ORG
+12/2000 - 06/2002: CARDINAL
+State: ORG
+10/1998 - 11/2002: DATE
+February 2010: DATE
+Mercy College City: ORG
+Skills
+Seasoned: PRODUCT
+MS Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Banner: ORG
+VisiFlow: GPE
+XtenderSolutions: ORG
+Cisco Agent Desktop: ORG
+Adobe Acrobat: PERSON

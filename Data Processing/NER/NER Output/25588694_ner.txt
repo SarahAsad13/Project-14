@@ -1,0 +1,85 @@
+Spanish: NORP
+ten years: DATE
+Highlights
+
+Professional Certification: ORG
+Secondary: ORDINAL
+Spanish: NORP
+APPR: ORG
+more than 15: CARDINAL
+up to 23: CARDINAL
+25: CARDINAL
+twenty: CARDINAL
+Eighth: DATE
+Spanish: NORP
+10/2003: DATE
+Spanish: NORP
+1A: PRODUCT
+1B: CARDINAL
+II: CARDINAL
+Smart: ORG
+8th: ORDINAL
+State: ORG
+Proficiency Exam: PRODUCT
+3: CARDINAL
+Competency Exam: PERSON
+Administered Student Learning Objective: ORG
+September 1, 2006: DATE
+the Middle School International Club: ORG
+6th: ORDINAL
+World Cultures: ORG
+April, 2005: DATE
+Harris Whalen: ORG
+Name City: GPE
+2: CARDINAL
+3: CARDINAL
+60: CARDINAL
+9-4pm: DATE
+days: DATE
+daily: DATE
+5-12 years old: DATE
+5: CARDINAL
+daily: DATE
+Rochester: GPE
+Harris Whalen: ORG
+Name City: GPE
+2: CARDINAL
+3: CARDINAL
+60: CARDINAL
+9-4pm: DATE
+days: DATE
+daily: DATE
+5-12 years old: DATE
+5: CARDINAL
+daily: DATE
+Rochester: GPE
+Novice Teaching Academy: ORG
+University of Madrid: ORG
+Complutense
+Master of: ORG
+Spring 2008: DATE
+Nazareth College: ORG
+Spanish: LANGUAGE
+secondary: ORDINAL
+Spanish Spring 2003: EVENT
+State University of New York College City: ORG
+Spanish: NORP
+7: CARDINAL
+Spanish December 1999: DATE
+State University of New York College City
+
+Bachelor of Science in Sociology: ORG
+Spanish: NORP
+2004: DATE
+Northeastern Catholic Junior High School: ORG
+SUNY Fredonia College: ORG
+Certifications
+Permanent Certification: ORG
+Spanish: NORP
+Inclusive Education: ORG
+2008: DATE
+Interests: NORP
+Spanish: NORP
+Smart: PERSON
+Microsoft Office: ORG
+SUNY Fredonia College: ORG

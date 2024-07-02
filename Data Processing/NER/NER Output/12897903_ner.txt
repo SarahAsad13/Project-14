@@ -1,0 +1,25 @@
+May 2017: DATE
+2015: DATE
+State Create: ORG
+Rese: NORP
+Apr: PERSON
+2014: DATE
+State Carefully: ORG
+annually: DATE
+annual: DATE
+the [year] fiscal year: DATE
+weekly: DATE
+Jul 2009: PERSON
+State Created: ORG
+monthly: DATE
+Jun 2007: PERSON
+2009: DATE
+Jun 2003: PERSON
+weekly: DATE
+semi-monthly: DATE
+annual: DATE
+Education: ORG
+Management Holmes Community College: ORG
+Mississippi University for Women Business
+Administration: ORG
+10%.Â: CARDINAL

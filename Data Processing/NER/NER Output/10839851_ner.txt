@@ -1,0 +1,91 @@
+Information Assurance: ORG
+Cyber Network Defense
+
+: ORG
+Information Assurance: ORG
+Cyber Network Defense
+
+: ORG
+Information Assurance: ORG
+Cyber Network Defense
+
+Skills
+
+Desktops: ORG
+Cisco: GPE
+Video & Sound Cards: ORG
+TCP/IP Configuration: ORG
+Active Directory: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy: PERSON
+Information Technology Service Management: ORG
+Cisco: GPE
+Video & Sound Cards: ORG
+TCP/IP Configuration: ORG
+Active
+Directory
+Strong: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy: PERSON
+Information Technology Service Management: ORG
+ITSM: ORG
+Video & Sound Cards: ORG
+TCP/IP Configuration: ORG
+Active
+Directory
+Strong: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy: PERSON
+Information Technology Service Management: ORG
+ITSM: ORG
+Information: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy
+Installing: PERSON
+Active Directory
+
+: ORG
+Information: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy
+Installing: PERSON
+Active Directory: ORG
+Information Technology Service Managment: ORG
+ITSM: ORG
+Active
+Directory
+Strong: ORG
+Avaya: ORG
+Information: ORG
+Avaya: ORG
+Microsoft Office: ORG
+Remedy
+Installing: PERSON
+Active Directory: ORG
+Information Technology Service Managment: ORG
+ITSM: ORG
+Microsoft Office: ORG
+Remedy: PERSON
+Information Technology Service Management: ORG
+ITSM: ORG
+Coordinates: GPE
+Understands: GPE
+06/2016: ORG
+Diplomatic Security Service: ORG
+the Department of State Protected: ORG
+U.S.: GPE
+Maintained: GPE
+Assisted: ORG
+Senate: ORG
+State: ORG
+Information Technology Interpreter: ORG
+Assisted United States: GPE
+Created: ORG
+Dari: GPE
+Dutch: NORP
+Russian: NORP

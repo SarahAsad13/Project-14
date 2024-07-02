@@ -1,0 +1,45 @@
+4 years: DATE
+"Recognizing
+You: WORK_OF_ART
+6 months in a row: DATE
+Target: ORG
+Debit and Credit: ORG
+03/2015: WORK_OF_ART
+9.80 two months: DATE
+9.20: CARDINAL
+03/2015
+Teller: WORK_OF_ART
+Processed: GPE
+Maintained: GPE
+Maintained: GPE
+Processed: GPE
+Examined: NORP
+11/2014: CARDINAL
+daily: DATE
+ATM: ORG
+zero: CARDINAL
+FSA: ORG
+Processed: GPE
+5-7 SAR's: PERCENT
+about 2: CARDINAL
+CTR: ORG
+a month: DATE
+BSA: ORG
+GLB-Act: LAW
+FTC: ORG
+the Bank Secrecy Act and Federal: ORG
+about 46: CARDINAL
+Completed: ORG
+10/2010: DATE
+Target: ORG
+10/2009: CARDINAL
+Cashier Company Name: ORG
+Maintained: GPE
+Maintained: GPE
+2009: DATE
+Howard W. Blake: PERSON
+State: ORG
+U S: ORG
+Skills: ORG
+ATM: ORG
+FSA: ORG

@@ -1,0 +1,55 @@
+R14 & 2000: ORG
+5.0: CARDINAL
+7.1: CARDINAL
+Adobe Illustrator: WORK_OF_ART
+6.0: CARDINAL
+Excel: PRODUCT
+Current
+Job Captain Designer Company Name: ORG
+first: ORDINAL
+North American: NORP
+US: GPE
+Bentley College: ORG
+UMass: ORG
+& Wheaton College: ORG
+04/2000: CARDINAL
+10/2002: CARDINAL
+Fidelity Investments: ORG
+Collaborated: ORG
+Facilitated: ORG
+Fidelity: ORG
+Researched: PRODUCT
+Maintained: GPE
+40,000: CARDINAL
+SF: GPE
+Eaton Place: PERSON
+5,000: CARDINAL
+SF: GPE
+04/2000: CARDINAL
+465,000: CARDINAL
+SF: GPE
+200,000: CARDINAL
+SF: GPE
+50,000: CARDINAL
+SF: GPE
+Fidelity Foundation-: ORG
+1,200: CARDINAL
+06/1997: DATE
+09/1998: CARDINAL
+300,000: CARDINAL
+SF: GPE
+40,000: CARDINAL
+20,000: CARDINAL
+SF: GPE
+1997: DATE
+Architecture Tulane University School of Architecture ï¼​ City: ORG
+Adobe Illustrator: ORG
+6.0: CARDINAL
+R14: ORG
+Broadband: GPE
+Investments: ORG
+Excel: PRODUCT
+2000: DATE
+Word, Microstation 7.1: ORG
+Proposal: PERSON
+Renovations: ORG

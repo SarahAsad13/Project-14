@@ -1,0 +1,47 @@
+nearly 10: CARDINAL
+Committed: ORG
+Nonprofit and Public Relations: ORG
+Adobe InDesign: ORG
+WordPress: ORG
+annual: DATE
+more than 200,000: CARDINAL
+Kaiser Permanente: ORG
+Kaiser Permanente's: ORG
+10,000: CARDINAL
+Institute for Healthcare Improvement National Forum: ORG
+5,500: CARDINAL
+Kaiser Permanente's: ORG
+National Quality Conference: ORG
+1,000: CARDINAL
+monthly: DATE
+quarterly: DATE
+Rapidly: ORG
+The Permanente Federation: ORG
+eight: CARDINAL
+Permanente Medical Groups: ORG
+Name City: GPE
+first: ORDINAL
+kp.org: ORG
+125%.Â: CARDINAL
+22: CARDINAL
+annual: DATE
+Internal Communications Specialist: ORG
+Name City: GPE
+weekly: DATE
+4,600: CARDINAL
+daily: DATE
+$300 million: MONEY
+the Regional Hospital Administrator: ORG
+04/2013: CARDINAL
+Name City: GPE
+University of Southern California City: ORG
+State: GPE
+USA: GPE
+Bachelor of Arts: ORG
+State: GPE
+USA: GPE
+State: GPE
+USA
+Board & Leadership: ORG
+12/2015: CARDINAL
+Name City: GPE

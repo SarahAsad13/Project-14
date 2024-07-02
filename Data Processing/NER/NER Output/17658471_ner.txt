@@ -1,0 +1,57 @@
+AVID TUTOR
+: PERSON
+Microsoft: ORG
+Bachelor of Arts , Human Services: ORG
+Lindsey Wilson College: ORG
+State: GPE
+May 2013: DATE
+AVID: PERSON
+AVID: ORG
+Conducted: ORG
+AVID: PERSON
+Communicate: ORG
+AVID: ORG
+Feb 2011 to: DATE
+Substitute Teacher: PERSON
+Dec 2008 to: DATE
+May 2011: DATE
+Maintained: GPE
+2008: DATE
+Coordinated: ORG
+School Counselor/Practicum Student: ORG
+Jan 2008: DATE
+May 2008: DATE
+daily: DATE
+Oct 2004 to Dec 2007: DATE
+State
+
+Office: ORG
+the Fitness Instructor
+
+Office: ORG
+Aide Oct 2004 to Jan 2007: DATE
+Assisted Second: ORG
+daily: DATE
+Awards: NORP
+Society 2005: DATE
+Dean List: WORK_OF_ART
+four: CARDINAL
+the "Service Club: ORG
+the Lake Cumberland Community Action: FAC
+the Pulaski County Senior: FAC
+Necco Foster Care Agency: ORG
+the Kids Christmas Fund
+
+: ORG
+Skills
+
+Computer: ORG
+Microsoft Office: ORG
+the "Service Club: ORG
+Volunteer: PRODUCT
+Lake Cumberland Community Action: ORG
+Volunteer: PERSON
+Citizens Center/: PERSON
+Necco Foster Care Agency: ORG
+Put: ORG
+Kids Christmas Fund: ORG

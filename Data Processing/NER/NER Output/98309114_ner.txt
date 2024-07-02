@@ -1,0 +1,196 @@
+DIRECTOR: ORG
+QUALITY IMPROVEMENT NETWORK FACILITATION
+Professional Background
+Highly: ORG
+more than 20 years: DATE
+Years: DATE
+Skill Highlights: PERSON
+California Hospital Engagement: ORG
+Data Analysis: ORG
+2014: DATE
+Shining Star Champion: ORG
+Best Organ Donation Liaison: PERSON
+2011: DATE
+Alpha Eta Society Scholarship
+Recipient of Mary Greeley Scholarship: ORG
+Quality Improvement Network Facilitation: ORG
+January 2014: DATE
+California: GPE
+CALNOC: ORG
+CMQCC: ORG
+NHSN: ORG
+HRET: GPE
+HSAG: PERSON
+UC Davis Population
+Health: ORG
+CalHEN, Patient Safety First: ORG
+Patient & Family: ORG
+11: CARDINAL
+Developed Infographics: ORG
+Redesigned: ORG
+Board of Directors: ORG
+California: GPE
+CMS Grant-: PERSON
+California: GPE
+Quality Improvement Organizations: ORG
+QIN: ORG
+Institute of Healthcare Improvement: ORG
+IHI: ORG
+28: CARDINAL
+California: GPE
+40%: PERCENT
+Assisted: ORG
+April 2012 to September 2012: DATE
+Assist: NORP
+Coordinate: FAC
+management/ validation/: PERSON
+Consults with Service Line Leaders, Chiefs of Service: ORG
+Medical Staff Committee Chairpersons, Physicians: ORG
+Department Administrators: ORG
+Performs: GPE
+Quality Improvement: ORG
+Develop: ORG
+the Medical
+Center Quality Improvement Plan: ORG
+Joint Commission: ORG
+tissue/: NORP
+South Sacramento: GPE
+first: ORDINAL
+North California: LOC
+2010: DATE
+ED: GPE
+more than 60%: PERCENT
+100%: PERCENT
+more than two years: DATE
+Kaiser: ORG
+four: CARDINAL
+Best Coordinator: ORG
+Emergency Department: ORG
+Best Committee: ORG
+2011: DATE
+Organ Donation: ORG
+Assisted: ORG
+Quality Council: ORG
+Regional Kaiser: PERSON
+Joint Commission: ORG
+Healthcare Management Chair: ORG
+January 2005 to January 2011: DATE
+CHI: ORG
+Des Moines: GPE
+IA: GPE
+2011 Adjunct Faculty: ORG
+Healthcare Administration: ORG
+four: CARDINAL
+first: ORDINAL
+four: CARDINAL
+Developed: ORG
+Redesigned: PERSON
+annual: DATE
+12: CARDINAL
+two: CARDINAL
+Developed: PRODUCT
+50%: PERCENT
+January 2004 to January 2005: DATE
+25: CARDINAL
+Nurse Practitioners: ORG
+NP: ORG
+approximately 100: CARDINAL
+Primary Care: ORG
+Obstetrics/ Gynecology: ORG
+Pediatrics: ORG
+Completed first Joint commission: ORG
+Started: ORG
+Training
+Master of Public Health: WORK_OF_ART
+College of Health Sciences: ORG
+State: GPE
+US: GPE
+Des Moines University Osteopathic Medical: ORG
+College of Health Sciences: ORG
+Des Moines: GPE
+IA: GPE
+ADN: ORG
+State: GPE
+US: GPE
+Registered Nurse: PERSON
+Des Moines Area Community
+College: ORG
+Boone: ORG
+IA: GPE
+Health Care Administration: ORG
+Health Care Administration Moines: ORG
+College of Health
+Sciences: ORG
+State: GPE
+US: GPE
+Health Care Administration: ORG
+Des Moines University Osteopathic Medical: ORG
+College of Health
+Sciences: ORG
+Des Moines: GPE
+IA: GPE
+B.S.: GPE
+State: GPE
+US: GPE
+Tehran: GPE
+Iran: GPE
+Black Belt Six Sigma
+Methodology: EVENT
+IA: GPE
+Sacramento: GPE
+CA * Certified Public Health Nurse: FAC
+Sacramento: GPE
+CA *: FAC
+Des Moines: GPE
+IA: GPE
+Certified Medical Office: ORG
+Des Moines: GPE
+IA *: ORG
+Nurse Iowa: GPE
+California: GPE
+Des Moines: GPE
+IA: GPE
+Des Moines: GPE
+IA: GPE
+Certifications
+
+Board Certified Registered Nurse: ORG
+Board Certified Registered Public Health Nurse: ORG
+IHI: ORG
+Green Belt: PERSON
+Certified Medical Office: ORG
+Affiliations
+Association of Critical Care Nurses: ORG
+English: LANGUAGE
+Farsi: ORG
+Dari
+
+Presentations
+Develop: ORG
+the Medical Center
+Quality Improvement Plan: ORG
+Joint Commission: ORG
+Skills: ORG
+Lean/ Six Sigma Improvement: EVENT
+Advanced Analytics: ORG
+Data Management: ORG
+Improvement Planning: ORG
+Financial
+Management, Marketing, Strategic Planning: ORG
+Gap Analysis: ORG
+Process Control: ORG
+Data Entry: ORG
+Data Validation: ORG
+Liaison, Statistics, Management, Teaching, Coaching: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+PhotoShop: ORG
+Microsoft Picture: ORG
+Visio: PERSON
+SPSS: ORG
+Statit: GPE
+InfoView/Business Object: ORG
+KPHC: ORG
+Lotus Note: PERSON
+EPIC: ORG

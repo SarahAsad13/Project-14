@@ -1,0 +1,55 @@
+BUYER: GPE
+Detail: PERSON
+Training
+Bachelor of Science : Petroleum Engineering: PERSON
+Jul Texas A&M University: ORG
+ï¼​ City: GPE
+State Petroleum Engineering: ORG
+GPA: ORG
+CAD: ORG
+Matlab: ORG
+MS Office
+Process Implementation
+
+Languages
+English: ORG
+Portuguese: NORP
+Spanish: NORP
+Buyer/Planner: ORG
+May 2016: DATE
+Current Company Name: ORG
+Shipping/Receiving, Purchasing: ORG
+Negoatiate: ORG
+weekly: DATE
+daily: DATE
+Logistics Analyst: ORG
+February 2015: DATE
+Coordinated: ORG
+Warehouse Executive: ORG
+February 2011 to January 2015: DATE
+State
+
+Represented the Operations Group: ORG
+Inventories: ORG
+Vendor: ORG
+the Procurement Team: ORG
+Utilized Maximo: ORG
+Inventory: GPE
+daily: DATE
+Tools & Inventory: ORG
+Inventory: ORG
+Work Orders: WORK_OF_ART
+Monitored Stock Levels: ORG
+Inventory: GPE
+GHS Classification: ORG
+CAD: ORG
+English: LANGUAGE
+ERP: ORG
+Inventory: PERSON
+Matlab: ORG
+MS Office: ORG
+Portuguese: NORP
+Receiving, Sales: ORG
+Solid Works: PERSON
+Spanish: NORP
+Strategy & Planning: ORG

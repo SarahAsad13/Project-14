@@ -1,0 +1,50 @@
+Organized: ORG
+Detail: PERSON
+Superb: NORP
+January 2011: DATE
+Chicago: GPE
+Clarifies: ORG
+Convert: PERSON
+Electronic Medical Records: ORG
+HIPAA: ORG
+MU: ORG
+COBIT: GPE
+January 2007 to January 2011: DATE
+Construction Company: ORG
+100: MONEY
+annual: DATE
+jobsite: NORP
+up to 20: CARDINAL
+21: CARDINAL
+approximately $50M.: MONEY
+Oversee: GPE
+10: MONEY
+approximately 100: CARDINAL
+OSHA: ORG
+January 2003 to January 2007: DATE
+NYSE: ORG
+4,000: CARDINAL
+6B: MONEY
+annual: DATE
+25M+: MONEY
+annually: DATE
+Community of the Year: WORK_OF_ART
+10-month: DATE
+January 1998 to January 2001: DATE
+2.5B: CARDINAL
+annual: DATE
+Chosen: PERSON
+Oversaw: GPE
+50: CARDINAL
+20%: PERCENT
+10K+: MONEY
+annual: DATE
+Checkpoint Security Software: ORG
+Bachelor of Science : Technical Management DeVry University - City: ORG
+State Technical Management: ORG
+College of Technology - City: ORG
+State Computer Network Information
+Systems
+Check Point Certified Security Administrator: ORG
+Check Point Certified Security Administrator: ORG
+Electronic Medical Records: ORG

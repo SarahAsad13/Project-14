@@ -1,0 +1,74 @@
+Summary
+Highly accomplished Management Consultant / Senior Business Analyst: ORG
+Public and Financial Services Sectors: ORG
+Skills
+
+Business Process Improvement & Redesign
+Agile/Scrum
+SDLC
+Business Transformation: ORG
+IBM: ORG
+BPM: PRODUCT
+Blockchain
+Robotic Process Automation: ORG
+11/2003: CARDINAL
+the Customer Engagement & Design: ORG
+IBM Global Business Services: ORG
+US Federal: ORG
+Cognitive Process Transfomation: ORG
+Notable Projects: ORG
+Substance Abuse and Mental Health Services Administration: ORG
+SAMHSA: ORG
+IBM: ORG
+BPM: ORG
+BPM: ORG
+SAMHSA: ORG
+Agile: NORP
+Scrum Master: PERSON
+daily: DATE
+IBM CHQ Office of CIO - Next Generation Tooling Initiative: ORG
+BPM: ORG
+8.5.7: CARDINAL
+IBM: ORG
+Facilitated: ORG
+IBM: ORG
+Solution: PERSON
+PwC: WORK_OF_ART
+Federal Housing Finance Agency: ORG
+PMO: ORG
+Facilitated: ORG
+CIO: ORG
+United States Citizenship and Immigration Services: ORG
+IBM: ORG
+SME: ORG
+Requirements Update Team Lead: ORG
+$500 million: MONEY
+IBM: ORG
+the Electronic Immigration System: ORG
+ELIS: ORG
+Utilized: ORG
+IBM: ORG
+IBM: ORG
+Rationale ClearCase: PERSON
+United States Department of Agriculture: ORG
+Leveraged Component Business Modeling: ORG
+CIO: ORG
+State: ORG
+the Information Technology Resource Center: ORG
+ITRC: GPE
+12/1996: CARDINAL
+Name City: GPE
+Training: PERSON
+Information Technology 2003 University of Maryland: ORG
+Smith School of Business City: ORG
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+IBM: ORG
+Analyst - BlueworksLive: ORG
+IBM: ORG
+BPM: ORG
+8.5: CARDINAL
+IBM: ORG
+IBM: ORG

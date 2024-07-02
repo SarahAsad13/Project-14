@@ -1,0 +1,50 @@
+Accurate: ORG
+Knowledge of Sap Excellent: WORK_OF_ART
+ADP: ORG
+SAP: ORG
+MICROSOFT: ORG
+EXCEL: ORG
+OUTLOOK: ORG
+90 days to 10 days: DATE
+04/2016: PRODUCT
+Current
+Sales Company Name: ORG
+Sold Auto: ORG
+Renters: NORP
+Cross: PERSON
+ADMIN: ORG
+RUSH ENTERPRISES Company Name: ORG
+all month end & year end: DATE
+Processed: GPE
+Peterbilt & Cummins: ORG
+Assisted: ORG
+daily: DATE
+Processed: GPE
+Performed: PERSON
+daily: DATE
+four: CARDINAL
+two: CARDINAL
+02/2015
+INVENTORY CONTROL SPECIALIST Company Name: ORG
+Fed Ex: PERSON
+Maintained: GPE
+06/2008: ORG
+11/2014: CARDINAL
+AGENCY: ORG
+SPECIALIST Company Name: ORG
+about seven: CARDINAL
+Nationwide, Progressive: ORG
+Hartford: GPE
+2017: DATE
+BBA : Accounting University Of Texas: ORG
+the Permian Basin ï¼​ City: LOC
+State: GPE
+United States Accounting: ORG
+ADP: ORG
+EXCEL: ORG
+OUTLOOK: ORG
+MICROSOFT: ORG
+WORD: ORG
+Month: DATE
+SAFETY: ORG
+SAP: ORG

@@ -1,0 +1,11 @@
+04/2016: PRODUCT
+02/2014: ORG
+Training: PERSON
+2017: DATE
+Graphic/Advertising Design: ORG
+Edward R. Murrow: PERSON
+two: CARDINAL
+English: LANGUAGE
+Russian: NORP
+French: LANGUAGE
+French: LANGUAGE

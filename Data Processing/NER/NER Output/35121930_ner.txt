@@ -1,0 +1,67 @@
+Intimate Partner Violence: ORG
+Chiari: GPE
+June 7-9, 2013: DATE
+Chiari: ORG
+242 hours: TIME
+Matrix: PERSON
+HRT: ORG
+Wexler: PERSON
+Intimate Partner Violence: ORG
+Seeking Safety: ORG
+208 hours: TIME
+Bernalillo County Department of Substance Abuse Program Metropolitan Assessment and Treatment
+Services: ORG
+Mats: ORG
+3-10 day: DATE
+Supportive Aftercare Community: ORG
+SAC: ORG
+6 month: DATE
+Mats Detox: ORG
+LADAC: ORG
+SAC: ORG
+45 hours: TIME
+Bernalillo County Department of Substance Abuse Program Metropolitan Assessment & Treatment Services: ORG
+MATS: ORG
+Safety Center: FAC
+LADAC: ORG
+CCP: ORG
+2: CARDINAL
+Thin Films: PERSON
+12/2015: CARDINAL
+Albuquerque Turkey Trek: ORG
+November: DATE
+26, 2015: DATE
+NMCAN: ORG
+October 30, 2015: DATE
+Haven House: ORG
+March 20-25, 2015: DATE
+Haven House: ORG
+Performed: ORG
+Wet Etch: LOC
+Training: PERSON
+2015: DATE
+Social Work New Mexico Highlands University: ORG
+4.0: CARDINAL
+2014: DATE
+Associates of Arts : Child, Youth: ORG
+Family Development Social Work Central New Mexico Community College: ORG
+State Child: ORG
+Family Development Social: ORG
+3.96: CARDINAL
+List for Academic Progress Recognition: WORK_OF_ART
+3.5: CARDINAL
+GPA: ORG
+Recognized: PERSON
+2012: DATE
+2014: DATE
+GPA: ORG
+3.5: CARDINAL
+Associates of Science : Electronic Engineering Technology ITT Technical Institute: ORG
+State Electronic Engineering Technology: ORG
+1998: DATE
+2000: DATE
+Salutatorian: NORP
+second: ORDINAL
+Skills
+Approach: ORG
+Fashion: ORG

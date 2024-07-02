@@ -1,0 +1,41 @@
+Microsoft Offices: ORG
+HRIS: PERSON
+Payroll: ORG
+National Human Resources Association
+
+Event: ORG
+QuickBooks: ORG
+ADR: ORG
+first: ORDINAL
+Open Enrollment: ORG
+10%: PERCENT
+Generalist: PERSON
+January 2013 to January 2015: DATE
+State: ORG
+January 2013 to January 2014: DATE
+Maintained: GPE
+Negotiate/: ORG
+Coach: PERSON
+Plan: ORG
+Training: PERSON
+January 2006 to January 2012: DATE
+100%: PERCENT
+HRIS: ORG
+Employee Handbook: PERSON
+annual: DATE
+Aetna: ORG
+Harford: GPE
+US: GPE
+Point: ORG
+1000: CARDINAL
+US: GPE
+January 2005 to January 2006: DATE
+6: CARDINAL
+June 2013: DATE
+Fairleigh Dickinson University: ORG
+Liberal Arts: ORG
+2002: DATE
+ADP: ORG
+Coach: ORG
+HRIS: ORG
+Policies: GPE

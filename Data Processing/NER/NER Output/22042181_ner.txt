@@ -1,0 +1,63 @@
+29 years': DATE
+first: ORDINAL
+Verbal: ORG
+Problem: ORG
+Strong Analytics
+
+Strong: WORK_OF_ART
+Working: ORG
+Respond: PERSON
+Update: ORG
+Keep: PERSON
+Examine: PRODUCT
+Evaluate: ORG
+Research: ORG
+Resolve: PERSON
+Medicare: ORG
+Medicaid: ORG
+Collaborate: ORG
+daily: DATE
+07/2011: CARDINAL
+Highmark: GPE
+BlueChip: ORG
+IDM: ORG
+ITS/Formats: ORG
+BlueSquared: ORG
+OCR: ORG
+07/2011: CARDINAL
+Customer Service Representative Company Name: ORG
+Certificates of Credible Coverage: ORG
+Assisted: ORG
+BCBSDE: ORG
+NaviNet: ORG
+BlueChip: ORG
+IDM: ORG
+ITS/Formats: ORG
+Avaya Phone: ORG
+BlueCard: PRODUCT
+Maintained: GPE
+WGS: ORG
+Facets: GPE
+ETM: ORG
+Ultera: GPE
+NetWorx: GPE
+Citrix: GPE
+EDI Enrollment Specialist Company Name: ORG
+Processed: GPE
+MHS: ORG
+Facets: ORG
+SLIQ: ORG
+MGU: ORG
+Training
+Present
+Behavioral Science Wilmington University Behavioral Science: WORK_OF_ART
+1988: DATE
+Accounting Franklin Morris Business Academy Accounting: ORG
+1983: DATE
+John W. Hallahan Catholic High School: PERSON
+Skills: ORG
+Avaya: ORG
+Citrix: GPE
+IBM: ORG
+SharePoint: ORG
+OCR: ORG

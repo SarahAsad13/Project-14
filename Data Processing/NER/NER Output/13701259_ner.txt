@@ -1,0 +1,50 @@
+Practical: ORG
+Lean Six Sigma: ORG
+Month-end: DATE
+Budgeting: PERSON
+Financial: ORG
+Internal: ORG
+11/2009: CARDINAL
+One: CARDINAL
+annual: DATE
+$350 million: MONEY
+HPP: ORG
+more than 20: CARDINAL
+Subsidy Revenue: PERSON
+70: CARDINAL
+$53 million: MONEY
+monthly: DATE
+monthly: DATE
+the quarter: DATE
+Company: ORG
+70%: PERCENT
+30 days: DATE
+20%: PERCENT
+Coordinated: ORG
+Conducted: ORG
+monthly: DATE
+Executives: ORG
+Legal: GPE
+Divisional Presidents: ORG
+monthly: DATE
+annual: DATE
+over $5 million: MONEY
+the State of Florida Department of Juvenile Justice: ORG
+Maintained: GPE
+Company: ORG
+month end: DATE
+Financial: ORG
+twmergers/: CARDINAL
+ten month: DATE
+Facility: ORG
+CFO: ORG
+3: CARDINAL
+MAINTAINED: ORG
+Horizon Health: ORG
+20,000: MONEY
+the first year: DATE
+daily: DATE
+absences & vacation: ORG
+20%: PERCENT
+MERCY COLLEGE City: ORG
+Skills: ORG

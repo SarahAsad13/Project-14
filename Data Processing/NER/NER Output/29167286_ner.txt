@@ -1,0 +1,129 @@
+INSTRUCTOR/WRITER
+Experience
+: ORG
+Instructor/Writer: ORG
+February 2013: DATE
+Administering Maintenance: PERSON
+the UH-60 A/L: LAW
+Construction & Mission Capabilities: ORG
+Contemporary Operational Environment: ORG
+Flight Line
+Safety: ORG
+Hazardous Material Program: ORG
+Precision Tools: PERSON
+Hardware and Safety Devices: ORG
+Ground Support Equipment & Aircraft
+Ground Handling: ORG
+Troubleshooting: GPE
+the Army Maintenance Management System-Aviation: ORG
+751: CARDINAL
+Unit Level Logistics System-Aviation: ORG
+Landing Gear: ORG
+Electrical and Fuel: WORK_OF_ART
+Main Rotor: ORG
+Tail Rotor: ORG
+Drive: ORG
+Power Plant: FAC
+Inspections and Corrosion, Army Aviation Maintenance: ORG
+3: CARDINAL
+Preparation for Shipment: ORG
+the UH-60 A/L: LAW
+Construction & Mission Capabilities: ORG
+Contemporary Operational Environment: ORG
+Flight Line Safety: ORG
+Precision Tools: PERSON
+Hardware and Safety Devices: ORG
+Ground Support Equipment & Aircraft Ground Handling: ORG
+Troubleshooting: GPE
+the Army Maintenance Management System-Aviation: ORG
+Landing Gear: ORG
+Electrical and Fuel: WORK_OF_ART
+Main Rotor: ORG
+Tail Rotor: ORG
+Drive: ORG
+Power Plant: ORG
+Hydraulics and Flight Controls: ORG
+Inspections and Corrosion, Army Aviation Maintenance: ORG
+3: CARDINAL
+Prepared: PERSON
+the UH-60 A/L: LAW
+Construction & Mission Capabilities: ORG
+Contemporary
+Operational Environment: ORG
+Flight Line Safety: ORG
+Hazardous Material Program: ORG
+Precision Tools: PERSON
+Hardware and Safety
+Devices: ORG
+Ground Support Equipment & Aircraft Ground Handling: ORG
+Troubleshooting: GPE
+Unit Level Logistics System-Aviation: ORG
+Landing Gear: ORG
+Electrical and Fuel: WORK_OF_ART
+Main Rotor: ORG
+Tail Rotor: ORG
+Drive: ORG
+Power Plant: ORG
+Inspections and Corrosion: ORG
+Army Aviation Maintenance: ORG
+3: CARDINAL
+Preparation for Shipment: ORG
+Jonathan Hoesley: PERSON
+757-878-5350: CARDINAL
+Maintenance Supervisor: PERSON
+July 2011 to November 2012: DATE
+30: CARDINAL
+Technical Inspector: ORG
+August 2010 to June 2011 Company Name ï¼​ City: DATE
+daily: DATE
+the Inspection Department: ORG
+Quality Assurance Evaluator 
+: ORG
+June 2007 to June 2010: DATE
+Quality Assurance Evaluator: ORG
+QAE: ORG
+the Aviation Center Logistics Command: ORG
+the Aviation Training Brigade: ORG
+ATB: ORG
+Army: ORG
+ATB: ORG
+Coordinated: ORG
+ATB: ORG
+COR: ORG
+Quality Assurance Evaluation Surveillance Plan: ORG
+AAI: ORG
+UH-60 Blackhawk: PRODUCT
+3 years: DATE
+Supervisor: PERSON
+Bill Hensley: PERSON
+334: CARDINAL
+3: CARDINAL
+2009: DATE
+North Central Institute: ORG
+State: GPE
+United States: GPE
+15: DATE
+May 2013: DATE
+Cadre Training: PERSON
+Course(CTC: GPE
+08 March 2013: DATE
+UH-60 M Helicopter Course: PRODUCT
+21 March 2014: DATE
+02 October 1998: DATE
+Fundamentals of Systems Acquisition Management ACQ101 Section 308: ORG
+01 November: DATE
+2007: DATE
+Risk Management: ORG
+21 March 2008: DATE
+Quality & Manufacturing Fundamentals PQM101 Section 302: ORG
+18 March 2008: DATE
+Skills: ORG
+Army: ORG
+Hardware: ORG
+CTC: ORG
+Functional: GPE
+Hydraulics: ORG
+Instructor, Logistics: ORG
+Quality: ORG
+Risk Management, Safety: ORG
+Supervisor: PERSON

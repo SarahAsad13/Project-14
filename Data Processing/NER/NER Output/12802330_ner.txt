@@ -1,0 +1,64 @@
+Accounting Systems: ORG
+Financial Reporting: ORG
+90: CARDINAL
+WAWF: PERSON
+Great Plains: ORG
+Hyperion Workspace, Planning, Enterprise: ORG
+Essbase: PERSON
+Schedules: NORP
+Reports: ORG
+Crystal Reports: ORG
+MS Office: ORG
+Excel: PRODUCT
+Financial Accounting
+Database Management
+Budget Administration: ORG
+Performance Reporting
+Tax Preparation and Compliance
+Forecasting/Trend Analysis
+Strategic Planning
+Cash-Flow Analysis: WORK_OF_ART
+Lead Accountant: PERSON
+November 2011: DATE
+Develop: ORG
+daily: DATE
+Federal and State: ORG
+daily: DATE
+Identify: ORG
+Prepare: ORG
+monthly: DATE
+Improve: ORG
+September 2006 to October 2011 Company Name ï¼​ City: DATE
+Maintained: GPE
+Collaborated: ORG
+Maintained: GPE
+Monitored: ORG
+Federal and State: ORG
+Accountant 
+
+March 2006: PERSON
+monthly: DATE
+Maintained: GPE
+P & L: ORG
+Prepared: PERSON
+Researched: ORG
+Sarbanes-Oxley: ORG
+SEC: ORG
+IRS: ORG
+BS : Accounting Business Administration: ORG
+2005 University of Maryland University College: ORG
+State Accounting Business Administration: ORG
+Accounting Systems: ORG
+Budget: ORG
+Crystal Reports: ORG
+Database Management, Essbase: ORG
+Financial Accounting: ORG
+Financial Reporting: ORG
+Forecasting: ORG
+Great Plains: PERSON
+90: CARDINAL
+Excel: PRODUCT
+MS Office: ORG
+QuickBooks: ORG
+Research: ORG
+Oxley: PERSON

@@ -1,0 +1,98 @@
+Microsoft Office: ORG
+4 years: DATE
+4 years: DATE
+Quickbooks: PERSON
+4 years: DATE
+Performance Management: ORG
+2 years: DATE
+4 years: DATE
+Market Research: ORG
+4 years: DATE
+4 years: DATE
+Marketing Communications: ORG
+4 years: DATE
+Financial Analysis: ORG
+4 years: DATE
+Public Relations: ORG
+4 years: DATE
+Vincent Hall: PERSON
+the days of the 1950's: DATE
+wolf: PERSON
+two: CARDINAL
+First: ORDINAL
+five: CARDINAL
+30 seconds: TIME
+Second: ORDINAL
+24 hours: TIME
+72 hours: TIME
+Screen: ORG
+24 hours: TIME
+48 hours: TIME
+UT/ACC: ORG
+AR/AP: ORG
+Prepare: ORG
+all Preliminary Documentation: ORG
+Payroll: ORG
+Credit Card: ORG
+Follow: ORG
+07/2015: CARDINAL
+04/2016: CARDINAL
+Assisted: ORG
+Assisted: ORG
+Assisted: ORG
+Medicaid: ORG
+Microsoft Office Word: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Spanish: LANGUAGE
+Chamber of Commerce: ORG
+Rotary: GPE
+Lion Club(s: ORG
+Small Business
+Administration Office: ORG
+Bank: ORG
+multimillion: CARDINAL
+AR/AP: ORG
+QuickBooks/Quicken: ORG
+Accountant: ORG
+941: CARDINAL
+W-2: ORG
+940: CARDINAL
+1099: DATE
+IRS: ORG
+monthly, quarterly: DATE
+year-end: DATE
+Created: ORG
+Monitored: ORG
+Created: ORG
+SMP: ORG
+Conducted: ORG
+Created: ORG
+Training: PERSON
+April 2017: DATE
+Associate : Business - Marketing City: WORK_OF_ART
+State Business - Marketing: ORG
+December 2014: DATE
+Associate : Business Administration College: ORG
+State Business Administration: ORG
+Skills
+Accountant: ORG
+AP: ORG
+AR, Bank: ORG
+Business Administration: ORG
+Credit: ORG
+Documentation: ORG
+Market, Marketing and Sales: ORG
+Excel: PRODUCT
+Exchange: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+Word: PERSON
+Payroll: ORG
+QuickBooks: ORG
+Quicken: PERSON
+SMP: ORG
+Spanish: NORP
+year-end: DATE
+Vincent Hall Authorized: PERSON
+US: GPE

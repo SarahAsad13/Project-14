@@ -1,0 +1,75 @@
+CO-FOUNDER / SALES & MARKETING COORDINATOR
+: ORG
+Core Qualifications
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint *Proficient: PRODUCT
+Apple OSX: ORG
+Google Analytics: ORG
+Facebook Analytics & Ads
+Professional Experience
+01/2014: ORG
+Current
+Co-Founder / Sales & Marketing Coordinator Company Name: ORG
+Develop: ORG
+Recruit: ORG
+Brand: ORG
+Maintain: PERSON
+Instagram: GPE
+Twitter: PERSON
+Facebook Daily: ORG
+Google Analytics: ORG
+Evaluate: ORG
+Improve: WORK_OF_ART
+RecSports: ORG
+over 100: CARDINAL
+RecSports: ORG
+Enforce: ORG
+National Standards: WORK_OF_ART
+RecSports: ORG
+day: DATE
+Generate: PERSON
+The University of
+: ORG
+Tennessee: GPE
+Research: ORG
+07/2011: CARDINAL
+Decreased: PERSON
+over one million dollars: MONEY
+Developed: PRODUCT
+Implemented: PRODUCT
+Worked in: FAC
+the Community Programs Main Office: ORG
+May 2015: DATE
+City: GPE
+State Sport Management
+Master's: ORG
+THE OHIO STATE UNIVERSITY: ORG
+State Brand Awareness for Startup Companies: Avenues for Building and Sustaining
+Brand Awareness: ORG
+June 2011: DATE
+Certifications: WORK_OF_ART
+One year: DATE
+Ohio Northern University: ORG
+2007-2008: DATE
+FLAG Football: PERSON
+2004-2007: DATE
+Skills
+Ads: ORG
+Apple: ORG
+CPR: ORG
+First Aid: ORG
+Google Analytics: ORG
+Instructor: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Research: ORG
+One year: DATE
+Ohio Northern University: ORG
+2007-2008: DATE
+FLAG Football: PERSON
+2004-2007: DATE

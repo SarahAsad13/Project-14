@@ -1,0 +1,89 @@
+8TH: CARDINAL
+IEP: ORG
+504: CARDINAL
+Certified Student: WORK_OF_ART
+MS Office: ORG
+Standardized: ORG
+Google Drive: FAC
+2013-2014 school year End: DATE
+Chosen: PERSON
+the North Learning Community: ORG
+Charlotte Mecklenburg: PERSON
+2013-
+2014: DATE
+more than 75%Â: CARDINAL
+Individual Education Program: ORG
+8thÂ: CARDINAL
+Outer: PERSON
+120Â: CARDINAL
+2013: DATE
+North Carolina: GPE
+Charlotte: GPE
+State: GPE
+U.S.: GPE
+2011: DATE
+English University of North Carolina: ORG
+Charlotte: GPE
+State: GPE
+U.S.: GPE
+English: NORP
+04/2013: CARDINAL
+Grade Language Arts: LOC
+Talent Development Students: ORG
+8th: ORDINAL
+ELA Professional Learning Community: ORG
+10/2013: CARDINAL
+State: ORG
+Ridge Road: FAC
+10/2015: CARDINAL
+Current
+Advisor Company Name: ORG
+Ridge Road's: PERSON
+8th Grade: FAC
+Cover: ORG
+daily: DATE
+daily: DATE
+Submit: ORG
+quarterly: DATE
+the School Improvement Plan
+Encourage: LAW
+Contribute: ORG
+the School Improvement Plan
+Monitor: LAW
+the School Improvement Plan: ORG
+Facilitate: ORG
+the Professional Learning Community: ORG
+the Student Council
+Build: ORG
+Student Council Members Leadership: ORG
+Student Leaders Professional Development: ORG
+the School Improvement Plan: ORG
+Professional Development: ORG
+12/2014: CARDINAL
+CTI Fellow Company Name: ORG
+one: CARDINAL
+CTI: ORG
+eight: CARDINAL
+Young Adult: PERSON
+the summer: DATE
+CTI: ORG
+Yale National Initiative: ORG
+Tolerance: GPE
+Prejudice: ORG
+Three Pillars of RCA: WORK_OF_ART
+Tennessee: GPE
+Freedom School
+Partners Set-up: ORG
+Harambee: ORG
+each day: DATE
+ten: CARDINAL
+6 weeks: DATE
+the summer months: DATE
+the Children's Defense Fund: ORG
+afternoon: TIME
+Maintained: GPE
+first: ORDINAL
+Collaborated: ORG
+Microsoft
+Office: ORG
+Windows Operating Systems: ORG

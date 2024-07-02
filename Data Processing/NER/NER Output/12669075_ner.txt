@@ -1,0 +1,70 @@
+Project Management â—† Report Preparation: ORG
+General Office: ORG
+Skills â—† Computer Savvy â—† Customer Service: ORG
+Front-Office Operations: ORG
+Bi-Lingual: PERSON
+Spanish: NORP
+Microsoft: ORG
+Excel: PRODUCT
+Proofreading
+
+Accomplishments
+
+Received: WORK_OF_ART
+October 2009: DATE
+Current Branch Administrator: ORG
+State
+
+Prepare &: ORG
+daily: DATE
+â—† Diagnose: PERSON
+â—† Invoicing: ORG
+three: CARDINAL
+daily: DATE
+August 2005 to July 2009: DATE
+BILLER/CUSTOMER: ORG
+September 2002 to July 2005: DATE
+LOGISTICS & CUSTOMER: ORG
+State: ORG
+â—†Oversee: CARDINAL
+EDI: ORG
+Chargeback: PERSON
+daily: DATE
+Excel: PRODUCT
+Oversaw: GPE
+CSC: ORG
+LINCOLN TECHNICAL SCHOOL: ORG
+State: GPE
+US: GPE
+LINCOLN TECHNICAL SCHOOL - Edison: ORG
+NJ Graduated: GPE
+June 2007: DATE
+Certified Massage Therapist
+
+HUDSON COUNTY COMMUNITY COLLEGE High School Diploma :: ORG
+Liberal Arts City: PERSON
+State: GPE
+US: GPE
+HUDSON COUNTY COMMUNITY COLLEGE - Jersey City: ORG
+1993-1996: DATE
+Certifications: WORK_OF_ART
+Bi-Lingual: PERSON
+Spanish: NORP
+Skills
+
+Customer Service: ORG
+Receptionist: NORP
+Customer Service Representative: ORG
+Dispatching: GPE
+Inventory, Logistics,: ORG
+Operations, Accounting,: ORG
+Budgeting, Color Codes,: ORG
+Customer Inquiries: ORG
+Customer Service: ORG
+Edi: ORG
+Excel: PRODUCT
+Invoicing: GPE
+Service Center, Shipping,: FAC
+Transmissions, Accounting: ORG
+Bi: PERSON
+Bookkeeping, Business Intelligence, Correspondence, Project Management: ORG

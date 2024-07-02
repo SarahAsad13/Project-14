@@ -1,0 +1,72 @@
+EIGHTH: CARDINAL
+NINTH: ORG
+LA: GPE
+Highlights
+
+: GPE
+English: LANGUAGE
+6-12: CARDINAL
+Certified Reading K-12
+Gifted Endorsed, Special Ed: WORK_OF_ART
+Strong Communicator
+Classroom Management: ORG
+MA.E Reading
+Strategic Planning
+Project Management
+Team Leadership
+Professional Development
+
+Accomplishments
+
+Reading Department Chair: WORK_OF_ART
+National Writing Project: ORG
+2010: DATE
+Mentor: LOC
+up to 25: CARDINAL
+Foster: PERSON
+Eighth, Ninth: DATE
+Tenth: ORDINAL
+English: LANGUAGE
+March 2015 to June 2015: DATE
+8-10: CARDINAL
+daily: DATE
+Communicate: ORG
+Seventh: ORDINAL
+Department Chair: ORG
+August 2010 to July 2014: DATE
+Reading
+Department Chair: ORG
+Seventh Grade Reading/ Language Arts: ORG
+August 2009 to July 2010: DATE
+2: CARDINAL
+3: CARDINAL
+Title One: LAW
+Language Arts Educator: WORK_OF_ART
+August 2007 to July 2009: DATE
+nine/ten: CARDINAL
+Heavily: GPE
+Ninth: LOC
+Eleventh Grade Reading and Language Arts Educator: ORG
+August 2006 to January 2007: DATE
+2010: DATE
+ï¼​ City: GPE
+English Writing: PERSON
+Multi-Cultural Anthropology: ORG
+2005: DATE
+University of Central Florida: ORG
+English Writing: PERSON
+Multi-Cultural Anthropology
+
+Professional Affiliations
+
+National Writing Project: ORG
+FGCU: ORG
+ASCD Conferences: ORG
+Florida Virtual School: ORG
+Licensed: PERSON
+Lesson Planning: ORG
+Critical Thinking, Documentation: ORG
+Email: GPE
+Microsoft Outlook: ORG
+Microsoft Office: ORG
+Organizational, Reading Comprehension, Research, Time Management, Travel Planning: ORG

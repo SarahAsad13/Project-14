@@ -1,0 +1,79 @@
+Core Strengths
+
+Visual: ORG
+Stamina: PERSON
+Microsoft Office: ORG
+MS Word: PERSON
+MS PowerPoint: PERSON
+MS Excel: ORG
+MS Publisher: ORG
+MS Outlook: PERSON
+Karat: NORP
+CAD: ORG
+Easy Weave: PERSON
+10/2010: DATE
+2.4%: PERCENT
+last year: DATE
+daily: DATE
+daily: DATE
+monthly: DATE
+TM: ORG
+95: CARDINAL
+Bailey: PERSON
+25%: PERCENT
+last year: DATE
+26.6%: PERCENT
+the year: DATE
+Bailey: PERSON
+10/2010: DATE
+10/2013: CARDINAL
+Builds: PERSON
+monthly: DATE
+VMG: ORG
+Prepare: ORG
+weekly: DATE
+SM: ORG
+DSM: ORG
+RSM: PERSON
+04/2008: PERSON
+10/2010: CARDINAL
+Understands: GPE
+Chico: GPE
+FAS, Inc Values: ORG
+SM: ORG
+weekly: DATE
+monthly: DATE
+SM: ORG
+the Guiding Principles for Stores: ORG
+MARS Principles for Stores: ORG
+MPS: ORG
+04/2008
+Department: ORG
+daily: DATE
+monthly: DATE
+Rotate: ORG
+Schedule: ORG
+daily: DATE
+11/2005: CARDINAL
+State: ORG
+09/2002 to 11/2005: CARDINAL
+Visual Merchandising Specialist/Retail Sales Company Name: ORG
+seasonal: DATE
+Update: ORG
+Oversee: ORG
+December 2002: DATE
+Bachelor of Science : Textile Products Design University: ORG
+North Carolina: GPE
+Greensboro: GPE
+State Textile Products Design: ORG
+CAD: ORG
+Color: ORG
+Fashion: ORG
+GPS: ORG
+MS Excel: ORG
+Microsoft Office: ORG
+MS Outlook: GPE
+MS PowerPoint: PERSON
+MS Publisher: ORG
+MS Word: PERSON
+Supervisor: PERSON

@@ -1,0 +1,42 @@
+Time Management
+Service Orientation
+Critical Thinking
+
+Reading Comprehension
+Systems Analysis: ORG
+between 2nd and: DATE
+5th: ORDINAL
+AlsoÂ: ORG
+9th: ORDINAL
+12th: ORDINAL
+Serve: PERSON
+Maintain: PERSON
+Develop: ORG
+Â Â Â 
+
+: PRODUCT
+Data Processor Company Name: ORG
+Keep: ORG
+Resolve: PERSON
+Complete: ORG
+10/2014: CARDINAL
+Seasonal Activities Coordinator Company Name: ORG
+daily: DATE
+first: ORDINAL
+Organize: GPE
+05/2012: CARDINAL
+Professional International Athlete Company Name: ORG
+Compute: ORG
+2014: DATE
+Learning Jacksonville University: ORG
+State: ORG
+2011: DATE
+2011: CARDINAL
+Graduated Cum Laude Honors: ORG
+3.7: CARDINAL
+2006: DATE
+Robert E. Lee High School: PERSON
+Honesty: GPE
+American: NORP
+House Christian Fellowship Church Refugee: ORG
+Wolfson Children's Hospital: ORG

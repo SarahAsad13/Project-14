@@ -1,0 +1,93 @@
+Nobel Peace Prize: WORK_OF_ART
+Current Company Name: ORG
+Goodwill: ORG
+OpEx: PERSON
+IT - CIO: ORG
+Fierce CIO: ORG
+CDW: ORG
+CDM: ORG
+Cisco: GPE
+Splashtop: GPE
+Airwatch, Quantum Technologies: ORG
+Information Technology: ORG
+Enterprise Resource Planning: ORG
+MPS: ORG
+Multi-Function: ORG
+Document Management System: ORG
+MPS: ORG
+months versus years: DATE
+Strategized: PERSON
+Nobel Peace Prize: WORK_OF_ART
+Goodwill's Retention Policy: ORG
+the Disaster Recovery Policy/Business Continuity Plan: ORG
+43%: PERCENT
+Mission Service and Employment: ORG
+Goodwill: ORG
+Blade Server: ORG
+Data De-duplication: PERSON
+Fortune 100: PRODUCT
+Information Technology: ORG
+PIM: ORG
+Microsoft: ORG
+Novell: ORG
+Strategic Visionary - Chief Architect - Designed: PERSON
+Novell NetWare: ORG
+Netware Directory Service: ORG
+Microsoft Active Directory Service: ORG
+Novell: ORG
+WAN: ORG
+Assess: ORG
+Oversee: ORG
+Recommend: ORG
+LAN: ORG
+WAN: ORG
+LAN/WAN: ORG
+Network Administrator: ORG
+01/1997: CARDINAL
+State
+
+Network Administration: ORG
+Build: LOC
+LAN: ORG
+LAN: ORG
+Bachelor of Arts: ORG
+Geography State University of New York: ORG
+Stony Brook: FAC
+State: GPE
+US: GPE
+CERTIFICATIONS & AFFILIATIONS
+Bachelor of Arts - Sociology Bachelor of Science - Biochemistry Associates - Geography State University of New York: ORG
+Stony Brook: PERSON
+Stony
+Brook: PERSON
+New York: GPE
+Microsoft Certified Systems Engineer
+Certified Information Systems Security Professional: ORG
+CEH: ORG
+Information Technology Infrastructure Library Foundations: ORG
+Goodwill Industries International: ORG
+Mobile Enterprise: ORG
+Gartner Summit Panelist
+Enterprise CIO Forum Contributor: ORG
+Wall Street Journal CIO Contributor: ORG
+Cisco: GPE
+Contracts: ORG
+Opex: PERSON
+Process Improvement, Procurement: ORG
+Copy Machine: ORG
+Lending, Operations: ORG
+Roi: PERSON
+Server
+Virtualization, Virtualization, Active Directory: PERSON
+Engineer, Exchange: ORG
+Lan/wan: ORG
+Maintenance: ORG
+Microsoft Exchange: ORG
+Netware: GPE
+Novell: ORG
+Outlook, Backups: ORG
+Network Administration: ORG
+Workstations: ORG
+Certified Information Systems Security Professional: ORG
+Information Technology Infrastructure Library: ORG
+Itil, Journal, Systems Engineer: ORG

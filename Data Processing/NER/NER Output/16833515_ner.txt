@@ -1,0 +1,96 @@
+6 years': DATE
+Fast Food Cook: ORG
+2 years': DATE
+a Call Center: ORG
+1 year and 3 months: DATE
+Security Guard: ORG
+2 years: DATE
+Skills
+Typing Speed: ORG
+50: CARDINAL
+Apple: ORG
+Macintosh: ORG
+Excel: PRODUCT
+Team: ORG
+Data: ORG
+Timeline: PRODUCT
+Customer: ORG
+Customer: ORG
+State: ORG
+August 2017 - April 2018: DATE
+10-20: CARDINAL
+Monitored: ORG
+City: GPE
+State: ORG
+April 2016 - August 2017: DATE
+Maintained: GPE
+City: GPE
+State: ORG
+August 2015 - April 2016: DATE
+Control: ORG
+hourly: TIME
+every hour: TIME
+15 to 30 minute: TIME
+premises: LOC
+Noted: ORG
+State: ORG
+February 2015 - August 2015: DATE
+Welcomed: ORG
+Cleaned: FAC
+City: GPE
+State: ORG
+March 2014 - February 2015: DATE
+GE Security: ORG
+daily: DATE
+Incident Reports: ORG
+Patrol three: CARDINAL
+Enforced General Services Administration: ORG
+GSA: ORG
+Maintained: GPE
+premises: LOC
+City: GPE
+State: ORG
+April 2011 - March 2013: DATE
+Comcast: ORG
+monthly: DATE
+Created: ORG
+Directed: ORG
+clientÃ¨le: PERSON
+State: ORG
+January 2010 - June 2010: DATE
+Rebuilt: ORG
+first: ORDINAL
+Collaborated: ORG
+Designed Sharepoint: ORG
+State: ORG
+May 2004 - June 2009: DATE
+ten to twenty-five: CARDINAL
+Cooked: PERSON
+Completed: ORG
+hours: TIME
+weekly: DATE
+Processed: GPE
+Opening and Closing: WORK_OF_ART
+Driver: ORG
+License
+Education: ORG
+Stark City: GPE
+State: ORG
+2007: DATE
+West Orange-Stark High School City: PRODUCT
+State: ORG
+2007: DATE
+Skills
+Photoshop: ORG
+Apple: ORG
+Fork: PERSON
+Macintosh Computers: ORG
+MS Excel: ORG
+MS Outlook: GPE
+MS: ORG
+PowerPoint: ORG
+MS Word: PERSON
+QuickBooks: ORG
+Typing Speed
+Additional Information: PERSON
+Driver: ORG

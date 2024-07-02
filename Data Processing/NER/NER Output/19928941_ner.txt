@@ -1,0 +1,21 @@
+Skills
+
+Administration and Management
+Customer and Personal Service
+Judgment: ORG
+Car Salesman: PERSON
+February 2015: DATE
+March 2011: DATE
+Oversee: ORG
+Mix: PERSON
+BBA: ORG
+Supply Chain Management University of Central ï¼​ City: ORG
+State: GPE
+United States Operations and Quality Management: ORG
+Apics UCO: ORG
+Professional Affiliations: ORG
+Apics
+Skills
+Decision Making: ORG
+Marketing, Materials Management: ORG
+Project Plans: PERSON

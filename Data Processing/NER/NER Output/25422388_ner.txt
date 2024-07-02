@@ -1,0 +1,44 @@
+Driven Graphic Artist: PERSON
+Technical Skills: ORG
+Adobe InDesign: PERSON
+Adobe Illustrator: PERSON
+Adobe Photoshop: PERSON
+Adobe Acrobat: PERSON
+QuarkXpress: ORG
+Dreamweaver: ORG
+HTML Coding: ORG
+CSS: ORG
+Microsoft Office Suite: ORG
+Promotional Materials: ORG
+Extensive Direct-Mail: ORG
+Relevant Skills: PERSON
+Conceptual Thinker: PERSON
+Advanced: PERSON
+07/2012 to 10/2015: DATE
+Leadership Skills: PERSON
+Friendly Attitude: ORG
+Expert
+Juggling Skills: PERSON
+Resourceful Researcher: ORG
+Quick
+Learner: ORG
+Time Management
+
+Prepared: ORG
+02/2015
+Graphic Designer Company Name - City: PERSON
+Company Name - City: PERSON
+12/2006: CARDINAL
+Company Name - City: PERSON
+Company Name - City: PERSON
+12/2003: CARDINAL
+Company Name - City: PERSON
+12/2002: CARDINAL
+01/2000: CARDINAL
+07/1999: CARDINAL
+01/2000: CARDINAL
+04/1999: ORG
+07/1999: CARDINAL
+2001: DATE
+State: GPE
+United States: GPE

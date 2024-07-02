@@ -1,0 +1,71 @@
+Admirable: GPE
+Team: ORG
+Reliable: WORK_OF_ART
+XP: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+QuickBooks: ORG
+English Language & Literature: ORG
+up to 5: CARDINAL
+one day: DATE
+Mark: PERSON
+Prepare: ORG
+Stanford: ORG
+Prepare: ORG
+08/2009: CARDINAL
+Name City: GPE
+Maintained: GPE
+Communicated: ORG
+Collaborated: ORG
+Name City: GPE
+State: ORG
+the Department Chair: ORG
+15: CARDINAL
+Arranged Senior Thesis Defense: ORG
+Calculated GPA: ORG
+the Department of
+Philosophy & Religious Studies: ORG
+Student Services: ORG
+IEP: ORG
+Maintained: GPE
+annual: DATE
+Individual Education Program: ORG
+Processed: GPE
+monthly: DATE
+quarterly: DATE
+the Department of Education: ORG
+Virginia: GPE
+Special Education Programs for Children with Disabilities: ORG
+Virginia: GPE
+Maintained: GPE
+Name City: GPE
+NCAA: ORG
+Prepared: PERSON
+last minute: TIME
+46: CARDINAL
+Processed: GPE
+Name City: GPE
+State: ORG
+Dean, School of Technology: ORG
+Processed: GPE
+thirty-five: CARDINAL
+School of Technology: ORG
+AIS: ORG
+Administrative Information System: ORG
+SIS (Student Information System: ORG
+summer: DATE
+Master of Science : Education 2017 Liberty University City: WORK_OF_ART
+State: ORG
+2009: DATE
+College City: GPE
+State: ORG
+Skills
+Administrative: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Windows: ORG
+Microsoft: ORG
+QuickBooks: ORG

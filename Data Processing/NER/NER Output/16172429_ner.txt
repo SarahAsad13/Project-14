@@ -1,0 +1,77 @@
+Commissioned: ORG
+five years: DATE
+FDIC: ORG
+FDIC: ORG
+MS Office: ORG
+PowerPoint: ORG
+MS Excel: ORG
+SPSS: ORG
+Bloomberg: PERSON
+QuickBooks: ORG
+FINANCIAL INSTITUTION EXAMINER 01/2010: ORG
+State
+
+Division of Risk Management Supervision: ORG
+over 70: CARDINAL
+Pennsylvania: GPE
+$30 million: MONEY
+nearly $5 billion: MONEY
+Assess: ORG
+Facilitate: ORG
+Credit Review: ORG
+C&I: ORG
+Assess: ORG
+Discuss: PERSON
+2013: DATE
+$700 million: MONEY
+$10 million: MONEY
+Special Mention to Substandard: ORG
+$4.4 billion: MONEY
+2015: DATE
+Examination Tool Suites: ORG
+two: CARDINAL
+Certifications & Awards: ORG
+91: DATE
+2014: DATE
+Oct.
+2014: DATE
+Jul.
+2015: DATE
+170: CARDINAL
+Rural Electric Infrastructure Loan & Loan Guarantee Program: ORG
+Processed: GPE
+cooperatives: ORG
+Performed: ORG
+10-year: DATE
+three-year: DATE
+100%: PERCENT
+over $30 million: MONEY
+May 2010: DATE
+UNIVERSITY OF MARYLAND: EVENT
+Robert H. Smith School of Business: PERSON
+GPA: ORG
+3.82: CARDINAL
+3.82: CARDINAL
+B.A : Government & Politics School of Behavioral: ORG
+Social Sciences: ORG
+2nd Place Team -Wikler Finance Case Competition: ORG
+2008: DATE
+Dean: PERSON
+2010: DATE
+2nd Place Team -Wikler Finance Case Competition: ORG
+2008: DATE
+Dean: PERSON
+2010: DATE
+Skills: ORG
+Basic: GPE
+Bloomberg: PERSON
+Credit: ORG
+Focus: ORG
+MS Excel: ORG
+MS Office: ORG
+PowerPoint: ORG
+Oct: PERSON
+QuickBooks: ORG
+Risk Management, Safety: ORG
+SPSS: ORG
+Supervision: ORG

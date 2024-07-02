@@ -1,0 +1,22 @@
+Economics: ORG
+Central Connecticut State University: ORG
+Camp: ORG
+State: ORG
+State Took: ORG
+Correctly: ORG
+01/2016
+Student: PERSON
+Front End: ORG
+State: ORG
+10/2017: DATE
+State: ORG
+Training: PERSON
+May 2017: DATE
+Bachelor of Arts : Economics Finance Central Connecticut State University: ORG
+State Economics Finance: ORG
+3.26: CARDINAL
+Certifications: WORK_OF_ART
+Western Union Certified: GPE
+Microsoft: ORG
+SPSS: ORG
+Powerpoint: PRODUCT

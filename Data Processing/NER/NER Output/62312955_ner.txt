@@ -1,0 +1,54 @@
+Focus - Graphic Design / Digital Art
+Graphic Designer: ORG
+InDesign: ORG
+Microsoft Office: ORG
+Suite
+Windows & Mac: ORG
+Cinema 4D: PERSON
+Quick: ORG
+Digital and Manual Illustration
+
+Skills
+
+Digital Illustration: ORG
+Adobe Creative Suite: PERSON
+Composition: ORG
+InDesign: ORG
+2D Pattern: ORG
+Gerber Computer Aided Design Systems: ORG
+Graphic Artist: PERSON
+Designer 
+City: GPE
+State Company Name /: ORG
+Current
+
+Design: ORG
+State Company Name: ORG
+Jan 2000: DATE
+May 2015: DATE
+Spec: ORG
+Technical Illustration for PLM documentation: ORG
+60%: PERCENT
+about 50%: PERCENT
+Maintained: GPE
+Design: PRODUCT
+State Company Name: ORG
+Maintained: GPE
+State Company Name: ORG
+1999: DATE
+AFI: ORG
+Training
+Certificate of Proficiency: WORK_OF_ART
+Graphic Design / Animation Studio Arts, Ltd.: ORG
+2016 City: GPE
+State: GPE
+USA: GPE
+Computer Aided Design: ORG
+Lectra / Gerber Systems Art Institute & LA Trade Tech City: ORG
+State: ORG
+USA Digital Design: ORG
+Patternmaking, Grading: ORG
+Marker-Making: ORG
+Associate of Arts : Fashion Design Brooks College City: WORK_OF_ART
+State: GPE
+USA: GPE

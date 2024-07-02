@@ -1,0 +1,75 @@
+Human Resources in Oil & Gas Company: ORG
+Houston: GPE
+2009: DATE
+Meeting Project Client: ORG
+Escravos: GPE
+year end 2008: DATE
+Training Focus: PERSON
+Houston: GPE
+2007: DATE
+Death Notification Training: WORK_OF_ART
+KBR Employee: PERSON
+Assistance Program: ORG
+Houston: GPE
+2008: DATE
+Skills
+MS Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Applicant: PERSON
+Adminstrative: PERSON
+Generalist Mobilized: PERSON
+Inpat: NORP
+Directed: ORG
+Created: ORG
+Directed: ORG
+Administer the Good and Services: ORG
+Prepared: PERSON
+Assist: ORG
+Administrative: ORG
+Germany: GPE
+Kuwait: GPE
+Brazil: GPE
+Australia: GPE
+Italy: GPE
+Mexico: GPE
+China: GPE
+Zambia: GPE
+Angola: GPE
+Prepared: PERSON
+Prepared: PERSON
+Nigeria: GPE
+Chad: GPE
+Indonesia: GPE
+Algeria: GPE
+Canada: GPE
+Qatar: GPE
+Administrative Specialist Administrative associate/ Tax: ORG
+the Tax Equalization Program: ORG
+Complete: PERSON
+IRS: ORG
+Coverage: PRODUCT
+Order: ORG
+A&F: ORG
+Structured: ORG
+Training: PERSON
+2007: DATE
+San Jacinto College: ORG
+2010: DATE
+B.A : Business Mgt University: ORG
+Activities and Honors: WORK_OF_ART
+SHRM: ORG
+Houston: GPE
+2009: DATE
+2017: DATE
+Houston: GPE
+2009: DATE
+2018: DATE
+Houston International HR Roundtable: ORG
+Houston: GPE
+2011 to 2015: DATE
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills: ORG
+SAP: ORG
+Structured: ORG

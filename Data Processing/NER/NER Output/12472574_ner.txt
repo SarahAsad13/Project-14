@@ -1,0 +1,245 @@
+QA ENGINEERING TEAM: ORG
+Career Overview: WORK_OF_ART
+Eight years: DATE
+Strong: PERSON
+IEEE: ORG
+Key: NORP
+Qualifications
+Analytical: ORG
+Problem
+Solving
+
+Ability: WORK_OF_ART
+March 2001 to July 2001: DATE
+QA Engineering Team Lead 
+City: EVENT
+first: ORDINAL
+today: DATE
+Imagicast: ORG
+QA: ORG
+Imagicast: ORG
+QA: ORG
+QA: PERSON
+Applied: ORG
+May 2000 to February 2001: DATE
+Quality Assurance Engineering: ORG
+State: ORG
+two: CARDINAL
+The Sentica: LOC
+WAP: ORG
+Management Module: ORG
+Test
+Document: PRODUCT
+ADT - GUI Tool - Application Development Tool: ORG
+Composer: PERSON
+API: ORG
+SAM - System Administration Management: ORG
+UNIX: ORG
+Oracle/SQL: ORG
+November 1998 to: DATE
+May 2000: DATE
+Customer Care/Service Applications 
+City: ORG
+State: ORG
+Oracle Customer Care/Service Applications: ORG
+Test Document: PRODUCT
+Oracle Customer Care/Service Applications: ORG
+Oracle Telephony
+Management: ORG
+OTM: ORG
+UNIX: ORG
+10.x: CARDINAL
+Oracle/SQL: ORG
+Oracle Maintenance Repair: ORG
+Overhaul: PERSON
+MRO: ORG
+System Resource
+Planning Modules: ORG
+SRP: ORG
+Maintenance Repair: ORG
+Overhaul: PERSON
+MRO: ORG
+System Resource
+Planning: ORG
+SRP: ORG
+Modules: PERSON
+Oracle Applications: EVENT
+QA Testing: ORG
+Year 2000: DATE
+Coordinated: ORG
+4.0: CARDINAL
+QA Test Plan: LAW
+Test Scripts: PERSON
+Windows: NORP
+February 1998 to November 1998: DATE
+Mail - Software Quality Engineer II 
+City: ORG
+QA: ORG
+QA: ORG
+September 1997 to February 1998: DATE
+Quality Assurance Analyst: ORG
+State Foster City Electronic Invoice Presentment: ORG
+Visa: ORG
+Retail Customers: ORG
+Windows NT 4.0: LOC
+Visual Basic and Access: ORG
+MS Exchange: ORG
+Virtual Area Network: ORG
+VAN: ORG
+LAN: ORG
+CompuServe and Sprint-Net Responsible: ORG
+QA Test Plan: LAW
+QA
+Reference Documentation: ORG
+QA Findings Document: ORG
+QA Partners: ORG
+Perform Acceptance: PERSON
+GUI: ORG
+Validate: ORG
+QA: ORG
+the their first days: DATE
+Assigned: PERSON
+daily: DATE
+QA Group: ORG
+every 4 hours: TIME
+the QA Team: ORG
+the Developing Team: ORG
+TRACKER: ORG
+Drs: PERSON
+QA Partner: ORG
+4.0: CARDINAL
+Windows NT: LOC
+The Findings Document: WORK_OF_ART
+QA Team: ORG
+March 1993 to September 1997: DATE
+MS Access: ORG
+Windows 95: PRODUCT
+Develop: ORG
+QA Partner: ORG
+3.5: CARDINAL
+Printing Envelopes: PRODUCT
+Labels: PERSON
+User
+Preferences: ORG
+Lotus: ORG
+Education: ORG
+Training
+National Education Center Management City: ORG
+State: GPE
+US: GPE
+National Education Center: ORG
+San Francisco: GPE
+California: GPE
+State: GPE
+US: GPE
+Kensington Training Program: ORG
+San Mateo: GPE
+California: GPE
+Technion University BS : Electrical Engineering City: ORG
+IL: ORG
+BS Electrical Engineering - Technion University - Haifa: ORG
+Israel: GPE
+National Education Center
+Professional Affiliations
+Electronic Invoice Presentment: ORG
+Visa: ORG
+Retail Customers: ORG
+Windows NT 4.0: LOC
+Visual Basic: ORG
+MS Exchange: ORG
+Virtual Area
+Network: ORG
+VAN: ORG
+LAN: ORG
+CompuServe and Sprint-Net Responsible: ORG
+QA Test Plan: LAW
+QA Reference Documentation: ORG
+QA Findings Document: ORG
+QA Partners: ORG
+Perform Acceptance: PERSON
+Validate: ORG
+QA Analyst: ORG
+the their first days: DATE
+Assigned: ORG
+daily: DATE
+QA Group: ORG
+Department: ORG
+every 4 hours: TIME
+the QA Team: ORG
+the Developing Team: ORG
+TRACKER: ORG
+Drs: PERSON
+QA Partner 4.0: ORG
+Windows NT: LOC
+The Findings Document: WORK_OF_ART
+QA Team: ORG
+Skills
+Quality Assurance, Testing, Access: ORG
+Qa: ORG
+Client: GPE
+Clients, Integration, Integration
+Testing, Integrator: ORG
+Notes: PRODUCT
+Microsoft Windows: ORG
+Ms Access: ORG
+Ms Visual Basic: PERSON
+Printing, Software Quality Assurance: ORG
+Electrical Engineering, Documentation: ORG
+Network Protocols: PERSON
+Oracle, Proposals: ORG
+Sql: GPE
+Qa Test: ORG
+Test Cases: ORG
+Application Support: ORG
+Automated Test Scripts: PERSON
+C++: PERSON
+Contracts, Dispatching, Issues Management: ORG
+Logistics: ORG
+Process Management: ORG
+Qa Testing, Scheduling: ORG
+Telephony: ORG
+Test Scripts: PERSON
+Graphical User Interface: WORK_OF_ART
+Gui, Wireless: ORG
+Black Box, Usability: ORG
+Telephones, Voice: ORG
+Wap, Retail, Retail Marketing, Team Lead: ORG
+Database Systems, Design Review: ORG
+Engineer: ORG
+Quality Engineer: ORG
+Software Quality Engineer: ORG
+White Box: PERSON
+White Box
+: PERSON
+Data Acquisition: ORG
+Dbase: GPE
+Dbase Iv: FAC
+Ftp, Ieee: ORG
+Ipx: PERSON
+Java: PERSON
+Javascript, Linux: PERSON
+Ms Office: ORG
+Netbeui: ORG
+Networking: GPE
+Novell: ORG
+Operations: ORG
+San, Software Development: ORG
+Storage Area Network: ORG
+Structured Software: ORG
+Tcp: GPE
+Virtual Machine: ORG
+Visual Test: ORG
+Assurance Analyst: PERSON
+Automated Testing: ORG
+Back End: ORG
+Data Integrity: ORG
+Encryption, Exchange: ORG
+File,: ORG
+Invoice: GPE
+Lan, Ms Exchange: ORG
+Ms-dos: PERSON
+Progress, Security, Business Intelligence, Collection, Data Collection: ORG
+Data Mining: ORG
+Embedded Systems: ORG
+Html, Inspections, Inventory: ORG
+Qa Engineering: ORG

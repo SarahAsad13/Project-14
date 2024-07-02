@@ -1,0 +1,61 @@
+Over 5 years: DATE
+marijuana: PERSON
+marijuana: PERSON
+multi million dollar: MONEY
+Dispensary (Retail: WORK_OF_ART
+MIP: ORG
+CO State: ORG
+Skill Highlights: PERSON
+marijuana Staff: ORG
+marijuana products Staff: ORG
+Operations: ORG
+Dispensary: GPE
+Grow: GPE
+MIP: ORG
+Compliance: PERSON
+METRC: ORG
+MJFreeway: ORG
+Grow: GPE
+MIP: ORG
+Quickbooks: PERSON
+Excel: PRODUCT
+Core Accomplishments
+
+Options Medical Center: ORG
+Boulder Organic Food Group: ORG
+5282: CARDINAL
+Options Medical Center: ORG
+Boulder Organic Food Group: ORG
+Dave Charnick: PERSON
+985 3176: DATE
+720: CARDINAL
+216 4714: DATE
+Hemp Temp: PERSON
+Feb 2015: DATE
+2014 to Jan 2015: DATE
+MIP: ORG
+Tracking: PERSON
+METRC Collecting: ORG
+Jul 2010: PERSON
+2014: DATE
+MJFreeway: ORG
+METRC: ORG
+METRC: ORG
+daily: DATE
+Advertising: PERSON
+Jan 2001: DATE
+2010: DATE
+one: CARDINAL
+one: CARDINAL
+Bachelor of Science: ORG
+North Carolina: GPE
+City: GPE
+Associate of Science , Paramedicine) Paramedic/EMT Gaston Technical College: WORK_OF_ART
+State Paramedicine) Paramedic/EMT: ORG
+Skills
+Advertising: ORG
+Hiring: GPE
+Excel: PRODUCT
+Operations: ORG
+Payroll: ORG
+Quickbooks: ORG

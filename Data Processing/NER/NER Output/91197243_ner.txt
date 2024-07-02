@@ -1,0 +1,78 @@
+Media Relations: ORG
+Project Management
+
+Crisis Management
+Executive Coaching
+Event Planning/Execution: ORG
+IREM: ORG
+IREM: NORP
+Coordinate: FAC
+annual: DATE
+IREM: NORP
+Contribute: ORG
+the Marketing Department: ORG
+IREM: ORG
+Develop: ORG
+Key Achievements: LOC
+year-over-year: DATE
+Developed/: ORG
+IREM: NORP
+New York: GPE
+one: CARDINAL
+the Wall Street Journal: ORG
+IREM: NORP
+IREM: GPE
+IREM: ORG
+IREM: ORG
+93: CARDINAL
+US: GPE
+IREM: ORG
+Sharon V.
+: PERSON
+Peters Page Two: PERSON
+daily: DATE
+01/1988: ORG
+01/2003: CARDINAL
+50-plus: CARDINAL
+year-old: DATE
+Account Executive: ORG
+Coca-Cola: ORG
+Coopers & Lybrand: ORG
+Jamaica Tourist Board: ORG
+Comcast: PERSON
+Madison Gas and Electric Company: ORG
+National
+
+Roofing Contractors Association: ORG
+between eight and 13 years: CARDINAL
+e.g.
+Whirlpool, Defense Research Institute: ORG
+Madison Gas and Electric: ORG
+Jamaica Tourist Board: ORG
+Conceived: PERSON
+New York: GPE
+Chicago: GPE
+BA SYRACUSE UNIVERSITY: ORG
+Financial World Magazine *National Association of Investment Clubs *International
+Association of Business Communicators: ORG
+Affiliations
+National Association of Real Estate Editors: ORG
+Chicagoland COMMUNITY: ORG
+the Development Board: ORG
+PAWS: WORK_OF_ART
+2005-Present: DATE
+Financial World Magazine National Association of Investment
+Clubs International Association of Business Communicators: ORG
+Crisis Management: ORG
+Editing, Event Planning: ORG
+Media Relations: ORG
+Messaging: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Project Management: ORG
+Research: ORG
+Roofing: GPE
+Strategy: PERSON

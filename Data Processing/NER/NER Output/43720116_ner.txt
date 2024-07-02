@@ -1,0 +1,52 @@
+two: CARDINAL
+Jersey Shore University Medical Center: ORG
+Microstation, Inroads: ORG
+Excel: PRODUCT
+VBA: ORG
+AutoTurn: ORG
+I-295 Direct Connection Contract: ORG
+3: CARDINAL
+NJDOT: ORG
+CAD: ORG
+Coordinated: ORG
+Highway, Electrical, Drainage, Utilities: ORG
+I-295 Direct Connection Contract: ORG
+3: CARDINAL
+Excel: PRODUCT
+VBA: ORG
+I-280 Ramp: LOC
+ADA: ORG
+Summer Aviation Intern Company Name: ORG
+Structural Integrity: ORG
+Safety and Priority Repair: ORG
+Inspected: ORG
+Port Authority's Engineering Division: ORG
+New Jersey Institute of Technology ï¼​ City: ORG
+State Civil Engineering: ORG
+October 2013: DATE
+State Civil Engineering: ORG
+3.7/4.0: CARDINAL
+FE/EIT Exam *Relevant Courses: ORG
+Intro: ORG
+Transportation: ORG
+Transportation Planning: ORG
+Transportation Capstone: ORG
+Creative Writing: PERSON
+Rock Climbing: PERSON
+Spanish: LANGUAGE
+Skills: ORG
+ADA: ORG
+CAD: ORG
+CSS: ORG
+EIT: ORG
+Excel VBA: PRODUCT
+Excel: PRODUCT
+Powerpoint: PRODUCT
+Word, Microstation: ORG
+Python, Safety, Fluent: ORG
+Spanish: NORP
+Transportation: ORG
+Utilities: ORG
+VBA: ORG
+Creative Writing: PERSON
+Rock Climbing: PERSON

@@ -1,0 +1,78 @@
+Named: WORK_OF_ART
+the Month: DATE
+C Spire: ORG
+Winner: PERSON
+the "C Spire Employee: ORG
+the Quarter: DATE
+1st Quarter: DATE
+100%: PERCENT
+Foshee Residential: WORK_OF_ART
+5: CARDINAL
+3x: CARDINAL
+January 2012: DATE
+May 2014: DATE
+Project Design & Development: ORG
+Henderson-Thomas * Birmingham: ORG
+Alabama: GPE
+Contribute: ORG
+Company: NORP
+Refine: PERSON
+Research: ORG
+the C Spire Crew: ORG
+ASR II: ORG
+Provide: NORP
+Fiber to The Home: WORK_OF_ART
+Telephone,Cable: ORG
+Gained: NORP
+II: CARDINAL
+January 2010 to December 2012: DATE
+Approves: ORG
+Respond: PERSON
+Complete: PERSON
+Keeps: ORG
+May: DATE
+Coordinate: FAC
+Coordinate: FAC
+Supervison: PERSON
+Martial Arts Instructor/CLient: ORG
+January 2008: DATE
+May 2012: DATE
+varied martial arts: ORG
+Prepare: ORG
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+Prepare: ORG
+Develop: ORG
+monthly: DATE
+13: CARDINAL
+34: CARDINAL
+2years: CARDINAL
+Bachelor of Science : Business (Entrepreneurship: ORG
+2014: DATE
+Auburn University: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.87: CARDINAL
+3.87: CARDINAL
+Math & Science: ORG
+2009: DATE
+Alabama School of Math & Science *: ORG
+State: ORG
+United States: GPE
+GPA: ORG
+MemberHonor: PERSON
+Dean: PERSON
+List Math & Science Student: ORG
+MemberHonor: PERSON
+Dean: PERSON
+List
+Skills: WORK_OF_ART
+Business Administration: ORG
+client liaison: PERSON
+Project Design & Development: ORG
+Public Relations: ORG
+Research: ORG
+Telephone: ORG

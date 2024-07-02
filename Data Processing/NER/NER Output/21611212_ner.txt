@@ -1,0 +1,24 @@
+Childcare Provider: PERSON
+7+ years: DATE
+Understands: GPE
+Infant: PERSON
+Reliable: WORK_OF_ART
+Friendly
+Cheerful: WORK_OF_ART
+Arts: ORG
+First Aid: ORG
+CPR: ORG
+04/2016: PRODUCT
+IEP: ORG
+ARD: ORG
+first: ORDINAL
+Assistant Teacher: PERSON
+first: ORDINAL
+Communicated: ORG
+daily: DATE
+daily: DATE
+09/2016: PRODUCT
+Home Nanny Company Name: ORG
+the day: DATE
+2013: DATE
+High School Diploma Crossroads College: ORG

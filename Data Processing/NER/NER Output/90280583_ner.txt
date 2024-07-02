@@ -1,0 +1,183 @@
+Operations, Engineering, & Supply Chain Industries: ORG
+Gaming: GPE
+& Technology
+Consistent: ORG
+SUMMARY: ORG
+12 years: DATE
+GSC: ORG
+NPI/NPD: ORG
+ERP: ORG
+KPI: ORG
+Highlights: GPE
+OMNEX: ORG
+16: CARDINAL
+14: CARDINAL
+Crucial Conversations: ORG
+VitalSmarts Inc.: ORG
+12: CARDINAL
+Microsoft: ORG
+'11: DATE
+Microsoft SharePoint Essentials: ORG
+10: CARDINAL
+Siemens PLM: ORG
+SolidWorks: ORG
+Tableau: GPE
+Cognos: PERSON
+TM1
+MS Access: ORG
+Visio: PERSON
+SharePoint Designer: ORG
+Epicor
+Published Inventor - USPTO: PERSON
+8,684,847: MONEY
+1: MONEY
+01/2004: CARDINAL
+1b: MONEY
+3k: CARDINAL
+Las Vegas Sands: GPE
+MGM Resorts: ORG
+Caesars Entertainment: ORG
+Wynn Resorts: PERSON
+Boyd Gaming ': PERSON
+14: CARDINAL
+16: CARDINAL
+Manufacturing Engineering: ORG
+VP Operations: ORG
+3: CARDINAL
+15: CARDINAL
+P&L: ORG
+5: MONEY
+2: MONEY
+YOY: ORG
+East Asia: LOC
+Latin America: LOC
+FMEA: ORG
+3: CARDINAL
+MIS: ORG
+semi-annually: DATE
+BoD: ORG
+ELT: ORG
+Investors/Analysts: ORG
+NPI: ORG
+Lean Manufacturing: ORG
+200k: MONEY
+5%: PERCENT
+15%: PERCENT
+kaizen: PERSON
+95%: PERCENT
+1/3: CARDINAL
+Customer Service: ORG
+65%: PERCENT
+below 1%: PERCENT
+KPI: ORG
+Employee Development &: ORG
+20%: PERCENT
+12: CARDINAL
+Enterprise Resource Planning: ORG
+6: CARDINAL
+ERP: ORG
+1 million: CARDINAL
+25k: CARDINAL
+50k: DATE
+Key Contributions & Accomplishments: ORG
+Configuration Management: ORG
+additional $50: MONEY
+170: CARDINAL
+180,000: CARDINAL
+Cole S.
+Grundstedt - Page 2: PERSON
+1: CARDINAL
+702: CARDINAL
+353-0976: CARDINAL
+Order Fulfillment: ORG
+quarterly: DATE
+16%: PERCENT
+2: CARDINAL
+Business Intelligence: ORG
+20%: PERCENT
+60%: PERCENT
+12-fold: CARDINAL
+Strategic Planning: ORG
+ERP: ORG
+10: MONEY
+09: CARDINAL
+12: CARDINAL
+New Product (Project
+Management & NPI/NPD: ORG
+5: CARDINAL
+Key Contributions & Accomplishments: ORG
+Program Management: ORG
+Global Marketing: ORG
+NPI: ORG
+70%: PERCENT
+Industrial Engineering CMM: ORG
+96%: PERCENT
+Systems Management: ORG
+30%: PERCENT
+New Product Engineer: ORG
+Manufacturing Engineer: ORG
+01/2004: CARDINAL
+4-year: DATE
+4: CARDINAL
+3: CARDINAL
+15: MONEY
+33%: PERCENT
+one-fifth: CARDINAL
+Assessment Intern: PERSON
+Data Center Network Engineer: ORG
+50: CARDINAL
+10: CARDINAL
+RAID5: ORG
+three 20kVA UPS: MONEY
+Data Center Network Engineer: ORG
+50: CARDINAL
+10: CARDINAL
+RAID5: ORG
+three 20kVA UPS: MONEY
+85%: PERCENT
+Master of Business Administration : Finance: ORG
+09 University of Nevada Finance: ORG
+5%: PERCENT
+Bachelor of Science : Industrial and Systems Engineering University of Southern California: ORG
+4: CARDINAL
+Dean: PERSON
+Professional Affiliations: ORG
+Certified Project Management Professional (PMP)Â®: ORG
+Project Management Institute: ORG
+Gamma Sigma Business Honor: PERSON
+Society Â: ORG
+IEEE Engineering Management Society Â: ORG
+National Eagle Scout Association Professional: ORG
+Design for Manufacturing and Assembly: ORG
+OMNEX: ORG
+16 Â: CARDINAL
+Skills: ORG
+Business Intelligence: ORG
+CMM: ORG
+Cognos, Configuration Management: ORG
+Customer
+Service: ORG
+ERP: ORG
+Enterprise Resource Planning: ORG
+Global Marketing: ORG
+Industrial Engineering: ORG
+Latin: LANGUAGE
+Lean Manufacturing: ORG
+MS Access: ORG
+MS Dynamics: ORG
+Microsoft: ORG
+Microsoft SharePoint: ORG
+SharePoint: ORG
+MIS: ORG
+Network Engineer: ORG
+PDM: ORG
+PLM: ORG
+Program Management: ORG
+Project
+Management: ORG
+RAID5: ORG
+Siemens: ORG
+SolidWorks: ORG
+Strategic Planning, Systems Management: ORG
+Tableau: GPE
+Employee Development: ORG

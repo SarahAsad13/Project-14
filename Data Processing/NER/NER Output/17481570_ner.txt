@@ -1,0 +1,31 @@
+Differentiates: GPE
+Collaborates: PERSON
+First: ORDINAL
+SEI: ORG
+Special Edu: ORG
+School Site CouncilÂ 
+
+Experience
+09/2014: ORG
+Individual Education: ORG
+Applied: ORG
+Social-Emotional: ORG
+Math: PERSON
+8: CARDINAL
+Established: ORG
+State: ORG
+the Severe Special Education: ORG
+weekly: DATE
+Severe Special Education Paraprofessional Company Name: ORG
+Individual Education: ORG
+Worked 1:1: FAC
+Provided 1:1: FAC
+7: CARDINAL
+May 2016: DATE
+Arts American International College: ORG
+3.72Â: CARDINAL
+GPA: ORG
+May 2013: DATE
+Bachelor of Arts Emmanuel College: ORG
+Preliminary License: PERSON
+Severe Disabilities Initial License: ORG

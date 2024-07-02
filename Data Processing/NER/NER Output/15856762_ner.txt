@@ -1,0 +1,188 @@
+SVP: ORG
+July 2015: DATE
+Name City: GPE
+Business Banking
+
+AUB: ORG
+2006: DATE
+Los Angeles: GPE
+Los Angeles: GPE
+Business Banking Group: ORG
+$55 million: MONEY
+C&I: ORG
+SBA: ORG
+some $75 million: MONEY
+BBG: ORG
+Quickly: ORG
+Oversee: ORG
+monthly: DATE
+FIVE: CARDINAL
+CRE: ORG
+C&I & SBA: ORG
+six: CARDINAL
+Bank: ORG
+January 2012: DATE
+July 2015: DATE
+Name City: GPE
+Pan American Bank: ORG
+1964: DATE
+Minority Owned: ORG
+SBA: ORG
+Bank: ORG
+Finance & Thrift: ORG
+$6.4 million: MONEY
+CRA: ORG
+SPA: ORG
+July 2014: DATE
+Bank: ORG
+29%: PERCENT
+two: CARDINAL
+three: CARDINAL
+$1.1 million: MONEY
+annually: DATE
+Bank: ORG
+SBA: ORG
+$9.2 million: MONEY
+Bank: ORG
+$97 thousand: MONEY
+first: ORDINAL
+501c3: CARDINAL
+$1.1 million: MONEY
+Bank: ORG
+Bank: ORG
+ALLL: ORG
+$125 thousand: MONEY
+2013: DATE
+$2.4 million: MONEY
+2012: DATE
+2011: DATE
+Bank: ORG
+first: ORDINAL
+six years: DATE
+404: MONEY
+1Q2013: DATE
+quarterly: DATE
+ALM: ORG
+Jack Henry: PERSON
+$129 thousand: MONEY
+21: CARDINAL
+Yellow Hammer: PERSON
+COGNOS: PRODUCT
+Bank: ORG
+2013: DATE
+July 2007: DATE
+December 2011: DATE
+Name City: GPE
+State: ORG
+Primavera Capital: ORG
+750: MONEY
+the first four months: DATE
+monthly: DATE
+125K.: MONEY
+323: MONEY
+just one year: DATE
+annual: DATE
+quarterly: DATE
+monthly: DATE
+P/L: ORG
+monthly: DATE
+500: MONEY
+un: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+SBA: ORG
+February 2006: DATE
+July 2007: DATE
+Name City: GPE
+State: ORG
+Business Development/Emerging Markets
+
+Community Bank Ventures: ORG
+Community Bank Ventures: ORG
+IPO: ORG
+second: ORDINAL
+CBV: ORG
+$48 million: MONEY
+two: CARDINAL
+weekly: DATE
+annual: DATE
+March 2004: DATE
+February 2006: DATE
+Name City: GPE
+DLC Consulting: ORG
+over 150: CARDINAL
+one: CARDINAL
+Fortune 1000: LAW
+financial planning & analysis: ORG
+$7 million: MONEY
+monthly: DATE
+the Long-Term Incentive Program: ORG
+LTIP: PERSON
+2004: DATE
+year-end: DATE
+SEC: ORG
+10: CARDINAL
+10Q: DATE
+8: CARDINAL
+MD&A: ORG
+February 2003: DATE
+March 2004: DATE
+Name City: GPE
+State Financial Analyst: ORG
+The Pepsi Bottling Group: ORG
+Pepsi-Cola: ORG
+PBG: ORG
+about $10.5
+billion: MONEY
+annual: DATE
+65,000: CARDINAL
+the United States: GPE
+Canada: GPE
+Greece: GPE
+Mexico: GPE
+Russia: GPE
+Spain: GPE
+Turkey: GPE
+December 2001: DATE
+February 2003: DATE
+Name City: GPE
+Compass Aerospace: ORG
+775: CARDINAL
+2003: DATE
+Pepperdine University: ORG
+Graziadio School of Business and Management City: ORG
+State Business Administration: ORG
+1994: DATE
+California State University: ORG
+San Bernardino City: GPE
+2013: DATE
+Graziadio School of Business and Management City: ORG
+State Private Capital Markets
+Languages
+Speak: ORG
+Spanish: NORP
+Professional Affiliations: ORG
+Ramona: GPE
+Mexican Food Company: ORG
+July 2014: DATE
+the California Bankers (CBA: ORG
+State Government Relations Committee: ORG
+September 2014: DATE
+Board: ORG
+March 2011/2012: DATE
+Tustin: PERSON
+CA
+Executive Council: ORG
+Elected: GPE
+June 2006: DATE
+2010: DATE
+Pepperdine University: ORG
+Alumni Leadership Council: ORG
+Skills
+Accounting: ORG
+Â financial planning & analysis: ORG
+Â Hyperion: ORG
+Â JD Edwards: FAC
+Excel: PRODUCT
+Microsoft Office: ORG
+Â Oracle: ORG

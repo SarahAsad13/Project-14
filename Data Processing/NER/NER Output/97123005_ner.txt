@@ -1,0 +1,74 @@
+GROUP FITNESS INSTRUCTOR
+Summary: ORG
+Highlights
+Client: ORG
+Team: ORG
+Microsoft: ORG
+75% to 86%: PERCENT
+5 years: DATE
+Senior Customer Service: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Customer Service: ORG
+Researched: ORG
+90%: PERCENT
+10 years: DATE
+Group Fitness Instructor: ORG
+September 2010 to April 2015: DATE
+Explained: PERSON
+Suggested: ORG
+October 2005 to: DATE
+April 2015: DATE
+30: CARDINAL
+30: CARDINAL
+Maintained: GPE
+Created: ORG
+daily: DATE
+20-30: CARDINAL
+daily: DATE
+Maintain: PRODUCT
+Customer Service Representative: ORG
+December 2003 to June 2004: DATE
+daily: DATE
+fifteen: CARDINAL
+Maintained: GPE
+monthly: DATE
+February 2000: DATE
+August 2003: DATE
+State: ORG
+Oversaw: GPE
+day: DATE
+18: CARDINAL
+daily: DATE
+DOT: ORG
+Bachelor : Arts Human Resource Management: ORG
+2013: DATE
+Saint Leo University: ORG
+Skills
+
+Account Management: ORG
+Advanced: PERSON
+Active Learning: FAC
+Customer Needs Assessment: ORG
+Data Collection: ORG
+Email: GPE
+Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Internet Research, Research, Scheduling, Service Orientation: ORG
+Telephone Skills: ORG
+Time Management: ORG
+Typing, Writing: ORG
+Letters: PERSON
+Memos: PERSON
+Microsoft Excel: ORG
+Microsoft: ORG
+Suite: PERSON
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Minute Taking: PERSON
+Multi-Task Management: ORG
+Organizational Skills: PERSON
+Prioritization: PRODUCT

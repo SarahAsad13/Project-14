@@ -1,0 +1,30 @@
+19 year: DATE
+Customer Service: ORG
+Adaptive: ORG
+Name City: GPE
+Itemize: ORG
+09/2014 Company Name City: ORG
+State: ORG
+Oversee: ORG
+Combine: NORP
+Measure: WORK_OF_ART
+Prepare: ORG
+Order: ORG
+one: CARDINAL
+one: CARDINAL
+11/2000: CARDINAL
+Name City: GPE
+Customer Service Phones Deliveries: ORG
+May 1999: DATE
+Coastal Carolina University City: ORG
+State: ORG
+Marine Sciences: ORG
+State: ORG
+Critical Thinking: ORG
+Customer Service: ORG
+Decision Making: ORG
+English: LANGUAGE
+Listening: PERSON
+Phones: ORG
+Time
+Management: ORG

@@ -1,0 +1,51 @@
+12 years: DATE
+Education: ORG
+BBA: ORG
+2015: DATE
+City: GPE
+1999: DATE
+Name City: GPE
+State Branch Banking Coordinator 04/2013: ORG
+daily: DATE
+daily: DATE
+Assist: NORP
+Research Out of Balance Transactions/Daily Reports/Completed: WORK_OF_ART
+daily: DATE
+Vault Operations/Cash Master
+Assist with Risk Management: ORG
+Complete Staff Development/Performance Reviews/Salary Administration Ensure: ORG
+Branch Operational Manual (BOM: WORK_OF_ART
+Name City: GPE
+State Guest Service: ORG
+Greets: NORP
+Answers: PRODUCT
+Name City: GPE
+State Service: ORG
+Educate: ORG
+Conducted: ORG
+Hiring: GPE
+Terminating, Training Created/Maintained/Delivered Performance Evaluations of Employees Performed: ORG
+monthly: DATE
+Name City: GPE
+State: ORG
+Processed: GPE
+Processed: GPE
+Skills
+Accounting: ORG
+Accounts Payable: ORG
+Closing: PERSON
+Credit: ORG
+Customer Relations: ORG
+Customer Service: ORG
+Hiring, Human: ORG
+Human Resource: ORG
+Leadership Skills: PERSON
+97: DATE
+Operations: ORG
+Payroll: ORG
+Performance Reviews: PERSON
+Policies: GPE
+Recruiting, Research: ORG
+Risk Management: ORG
+Staff Development: ORG
+Trainer: ORG

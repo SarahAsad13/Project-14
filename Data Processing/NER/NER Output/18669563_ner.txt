@@ -1,0 +1,76 @@
+PROJECT ACCOUNTANT
+Professional Summary: ORG
+Core Qualifications: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+July 2012: DATE
+December 2013: DATE
+United State Army Corps of Engineers Performed: ORG
+weekly: DATE
+monthly: DATE
+Bank: ORG
+WEBFCR: ORG
+daily: DATE
+Prepared: PRODUCT
+months: DATE
+every month: DATE
+IMS: ORG
+February 2011: DATE
+June 2012: DATE
+United State Agency for: ORG
+LBG-B&V: ORG
+Party: ORG
+Kept: PERSON
+Head Quarter: DATE
+Headquarter DC: GPE
+Bank: ORG
+the GL Accounts: LAW
+Backups: PERSON
+Petty Cash: PERSON
+Bank: ORG
+B&V: ORG
+June 2010: DATE
+November 2010: DATE
+United State Agency for: ORG
+Facilitated: ORG
+Maintained: GPE
+Kabul: GPE
+Washington DC: GPE
+EDC/Washington: ORG
+Prepared: PERSON
+monthly: DATE
+Expense Vouchers: ORG
+Advance Vouchers: ORG
+Bank Vouchers: ORG
+September 2006: DATE
+May 2010: DATE
+Kabul: GPE
+Afghanistan Developed: ORG
+Files: PRODUCT
+Improvised Explosive Devices: ORG
+Facilitated: ORG
+the International Staff: ORG
+Performed other Administration: ORG
+1 2016: DATE
+Virginia International University: ORG
+Business Administration: ORG
+1 2012: CARDINAL
+Kardan University Bachelor : Business Administration Finance Business Administration Finance: ORG
+1 2006: DATE
+Capital Institute of Information Technology Diploma : Business Administration Business Administration: ORG
+1 2006: DATE
+Khurasan High School: ORG
+Army: ORG
+Agency: ORG
+Business Administration: ORG
+DC: GPE
+GL: ORG
+IMS: ORG
+International Business: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON

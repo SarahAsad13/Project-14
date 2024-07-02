@@ -1,0 +1,35 @@
+7 years: DATE
+Reliable: WORK_OF_ART
+Approachable
+Flexible
+Team: WORK_OF_ART
+quarterly: DATE
+Financial Center Managers: ORG
+Banking Center: ORG
+August 2012: DATE
+Current Company Name: ORG
+BCM: ORG
+One: CARDINAL
+BCM: ORG
+Observe: LOC
+Consumer Market Managers: ORG
+January 2010 to August 2012: DATE
+Credit Cards: ORG
+Loans: PERSON
+PB: ORG
+the Risk Framework: ORG
+August 2007 to: DATE
+February 2010: DATE
+Requires: PERSON
+May: DATE
+Involves: ORG
+May: DATE
+Routes: GPE
+Bachelor of Arts : Corporate Fitness: ORG
+2005: DATE
+Business Management
+
+Associates : Business Admin: ORG
+1999: DATE
+Frank Phillips College: ORG
+Credit: ORG

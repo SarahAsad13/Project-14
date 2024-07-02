@@ -1,0 +1,85 @@
+REGIONAL DEVELOPMENT: ORG
+Name City: GPE
+State Regional Development: ORG
+North America Real Estate Operations: ORG
+Project Management, Transactions: ORG
+Facility Management: ORG
+25 million: CARDINAL
+the United States: GPE
+Canada: GPE
+annual: DATE
+$450 million and $1.4 billion: MONEY
+90: CARDINAL
+Customer Experiences: ORG
+SVP: ORG
+fifty: CARDINAL
+Real Estate: ORG
+US: GPE
+1,300: CARDINAL
+Development Services: ORG
+Commanded: ORG
+twenty-five: CARDINAL
+$300
+million: MONEY
+US: GPE
+Created: ORG
+TD Bank: ORG
+Bank: ORG
+the Washington DC Market: ORG
+Maryland: GPE
+Virginia: GPE
+Washington DC: GPE
+Name City: GPE
+ten: CARDINAL
+the United States: GPE
+annual: DATE
+01/1999 to 01/2000: CARDINAL
+Northeast: LOC
+US: GPE
+Teamed: ORG
+112: CARDINAL
+three: CARDINAL
+fourteen: CARDINAL
+EPA: ORG
+Training
+Masters of Science : Environmental Technology 2000: ORG
+NEW YORK INSTITUTE OF TECHNOLOGY: ORG
+State Environmental Technology: ORG
+B.C.E : Civil Engineering: ORG
+1996: DATE
+VILLANOVA UNIVERSITY: ORG
+City: GPE
+State Civil Engineering: ORG
+ICSC: ORG
+USGBC: GPE
+GBCI: GPE
+REEB: ORG
+American Society of Civil Engineers: ORG
+Progress: GPE
+Lean Six Sigma: ORG
+Progress: GPE
+LEED Green Associate: PERSON
+40: CARDINAL
+Decisive: GPE
+Loyal: ORG
+Transactions, Construction Management: ORG
+Market Planning: ORG
+Data Analytics: ORG
+Program Management, Change Management and Communications, Procurement, Facility Management: ORG
+Lease
+Administration: ORG
+Strategic Sourcing: PERSON
+Vendor Management: ORG
+Mergers: PERSON
+Change Management: ORG
+Construction Management: ORG
+DC: GPE
+Facility Management, Finance: ORG
+Law: PERSON
+Market Planning: ORG
+Mergers and Acquisitions: WORK_OF_ART
+Procurement, Program Management, Progress, Project Management: ORG
+Retail, Risk Management: ORG
+Strategic Sourcing: PERSON
+Vendor
+Management: ORG

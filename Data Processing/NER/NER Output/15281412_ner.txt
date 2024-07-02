@@ -1,0 +1,81 @@
+Business Analyst: ORG
+Skills
+
+: ORG
+Microsoft: ORG
+#: CARDINAL
+JavaScript
+Visual: PERSON
+5.0: CARDINAL
+Rules Service: ORG
+Nationwide: ORG
+System Determination: ORG
+Practiced Lean AM: ORG
+Swim Lanes: WORK_OF_ART
+SRL: ORG
+Application Staff: ORG
+Name City: GPE
+State: ORG
+Templates: ORG
+Rule Sets, Patterns: ORG
+SRL: ORG
+300: MONEY
+one quarter: DATE
+Developed/Maintained Web Services for Underwriting Rules Engine: ORG
+Blaze: PRODUCT
+Fair Isaac: PERSON
+English: LANGUAGE
+Visual Studio: ORG
+2010: DATE
+#: CARDINAL
+XML: ORG
+FICO: ORG
+Testing Framework: PERSON
+Excel: PRODUCT
+XML: ORG
+Business Analyst: ORG
+#: CARDINAL
+Microsoft: ORG
+InterOp: ORG
+Researched/Developed Insurance New Business and Endorsement: ORG
+Policy Binding Authority: ORG
+Data Modelers: ORG
+Business Analyst: ORG
+Visual Studio: ORG
+XSD: ORG
+XML: ORG
+Managed Team Foundation Server: ORG
+SQL Database: GPE
+Visual Studio TFS: ORG
+Data Backlog Items: ORG
+Coordinated: ORG
+Coded: ORG
+SQL Server Database: PERSON
+Utilized SQL Server: ORG
+2008: DATE
+Quality Assurance: ORG
+CICS: ORG
+Training
+Bachelor's: PERSON
+Computer Science Ursinus College Computer Science: ORG
+Maxwell Institute: ORG
+Computer Learning Center
+Interests
+
+Exercise: ORG
+6.10.1: CARDINAL
+Microsoft C: ORG
+#: CARDINAL
+4.5: CARDINAL
+Developed Technical Specifications: ORG
+XML: ORG
+TFS Source: FAC
+JavaScript: ORG
+Excel: PRODUCT
+Quality Assurance: ORG
+SDLC: GPE
+SQL Server Management 2014: ORG
+5.0: CARDINAL
+Microsoft Visual Studio: ORG
+2013: DATE
+2015: DATE

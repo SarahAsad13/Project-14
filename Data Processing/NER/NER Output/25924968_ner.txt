@@ -1,0 +1,115 @@
+EXECUTIVE CHEF
+Executive Profile: ORG
+Talent, Education: ORG
+Abilities: ORG
+CATERING: ORG
+FRENCH: NORP
+ITALIAN: NORP
+ASIAN: NORP
+AMERICAN: ORG
+Skill Highlights: PERSON
+Luxury Hotel: PERSON
+500: CARDINAL
+10: CARDINAL
+Word: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Photoshop: ORG
+Executive Chef: PRODUCT
+February 2015: DATE
+40-60: CARDINAL
+Lunch: PRODUCT
+season: DATE
+2: CARDINAL
+every night: TIME
+2: CARDINAL
+2: CARDINAL
+VC Star: ORG
+Eye: ORG
+LA ABC: ORG
+Ventura County: GPE
+Great Food: ORG
+June 2014 to February 2015: DATE
+BOH: ORG
+Blush Restaurant: ORG
+Lounge Kitchen: PERSON
+Executive Chef & General: ORG
+July 2013 to February 2015: DATE
+State: ORG
+100: CARDINAL
+500: CARDINAL
+weekly: DATE
+Inventory: GPE
+weekly: DATE
+the Granada Theater: ORG
+Lunch: GPE
+Dinner: ORG
+Created: ORG
+weekly: DATE
+Took Over as Event Coordinator: ORG
+daily: DATE
+20: CARDINAL
+400: CARDINAL
+Sous Chef: PERSON
+April 2012 to February 2013: DATE
+State: ORG
+Five: CARDINAL
+Hotel: ORG
+Stonehouse & Plow: ORG
+2012: DATE
+Leisure World's: ORG
+6: CARDINAL
+daily: DATE
+BOH: ORG
+41: CARDINAL
+two: CARDINAL
+Culinary Arts Instructor: WORK_OF_ART
+July 2012 to September 2012: DATE
+1st and 2nd: DATE
+Executive Chef: PRODUCT
+September 2010 to February 2012: DATE
+two: CARDINAL
+two: CARDINAL
+Daily: DATE
+Sous Chef 
+: PERSON
+March 2010 to September 2010: DATE
+Executive Chef: ORG
+Owner: ORG
+House: ORG
+daily: DATE
+Executive Chef: PRODUCT
+March 2009 to: DATE
+February 2010: DATE
+Sous Chef/Head of Preparation: PERSON
+July 2008 to January 2009: DATE
+500: CARDINAL
+10: CARDINAL
+Ordering: NORP
+Line Cook: PERSON
+March 2008 to July 2008: DATE
+weekly: DATE
+30: CARDINAL
+French: NORP
+dining/.: ORG
+Prepared: PERSON
+Line Cook: PERSON
+May 2007 to March 2008: DATE
+200: CARDINAL
+three meals daily: DATE
+Line Cook: PERSON
+December 2005 to January 2007: DATE
+Waiter/Pastry: ORG
+July 1999: DATE
+August 2003: DATE
+Culinary Management: ORG
+State Culinary Management: ORG
+ABC: ORG
+Photoshop: PERSON
+Ventura: GPE
+French: NORP
+Inventory: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+VC: PERSON

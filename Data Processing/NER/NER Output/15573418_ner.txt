@@ -1,0 +1,139 @@
+BOARD: ORG
+Customer Relationship Management / BPO: ORG
+Professional Strengths Executive & General Management *
+Strategic Planning Operations: ORG
+Multi-Channel Contact Center: ORG
+Business Development P&L Management: ORG
+Organizational Development * Cross-Functional Leadership Selected: ORG
+$400 million to $2 billion: MONEY
+two years: DATE
+01/2011: CARDINAL
+Board: ORG
+CMP: ORG
+100: CARDINAL
+100%: PERCENT
+51%: PERCENT
+less than two years: DATE
+two: CARDINAL
+State: ORG
+$250 million: MONEY
+Human Resource Management: ORG
+two: CARDINAL
+two: CARDINAL
+dozens: CARDINAL
+PEROT Systems: ORG
+EAPC: PERSON
+Behavioral Health: ORG
+DELL: ORG
+SONY: ORG
+Verizon: LOC
+Discover: GPE
+TRUSOURCE Labs: PERSON
+Nest/Google: ORG
+Citigroup: ORG
+Thomas: PERSON
+Founder: ORG
+Contact Management Partners: ORG
+LLC: ORG
+CMP: ORG
+Thomas: PERSON
+the University of South Florida: ORG
+Franklin: GPE
+Tennessee: GPE
+two: CARDINAL
+Christopher: PERSON
+Michael: PERSON
+01/2004: CARDINAL
+Operations and Executive Team: ORG
+State: ORG
+2 billion: CARDINAL
+3,000: CARDINAL
+five: CARDINAL
+10,000: CARDINAL
+$250 million: MONEY
+Verizon Wireless: ORG
+Cingular: ORG
+Alltel: ORG
+$100 million: MONEY
+40%: PERCENT
+16%: PERCENT
+84% to 93%: PERCENT
+01/2004: CARDINAL
+Business Development Company Name: ORG
+Client Logic: PERSON
+APAC: ORG
+Physician Practice Group: ORG
+01/2003: CARDINAL
+State: ORG
+500 million: CARDINAL
+2,500: CARDINAL
+four: CARDINAL
+$80 million: MONEY
+DELL: ORG
+Sony: ORG
+Microsoft: ORG
+EarthLink: ORG
+Sears: ORG
+$11 million: MONEY
+7%: PERCENT
+40%: PERCENT
+$500 million: MONEY
+CRM: PRODUCT
+CRM: PRODUCT
+2,400: CARDINAL
+two: CARDINAL
+$70 million: MONEY
+Merck Pharmaceutical: ORG
+MCI World Communications: ORG
+JC Penney: ORG
+TY: ORG
+Citibank: ORG
+HBO: ORG
+Harland: GPE
+Corpus Christi: PRODUCT
+$4.5 million to $22 million: MONEY
+30 months: DATE
+$6.5 million to $16 million: MONEY
+under one
+year: DATE
+approximately 29%: PERCENT
+35%: PERCENT
+18%: PERCENT
+50: CARDINAL
+300: CARDINAL
+three: CARDINAL
+Functions: PERSON
+$12 million: MONEY
+5% to 1%: PERCENT
+100%: PERCENT
+2%: PERCENT
+01/1993: DATE
+Tele Company Name: ORG
+State: ORG
+127 million: CARDINAL
+55% to 90%: PERCENT
+over 50%: PERCENT
+4.9%: PERCENT
+$3 million: MONEY
+State: ORG
+1.3 billion: CARDINAL
+HSC: ORG
+7,000: CARDINAL
+North America: LOC
+Canadian: NORP
+HSN: ORG
+American Legion Employer: ORG
+the Year Award: EVENT
+Bachelor of Arts: ORG
+Pre-Law University of South Florida: ORG
+Skills: ORG
+P: ORG
+Behavioral Health: ORG
+Call Center: ORG
+Contact Management: ORG
+CRM: PRODUCT
+Client: GPE
+DELL: ORG
+Human Resource
+Management, Human Resource: ORG
+Logic: ORG

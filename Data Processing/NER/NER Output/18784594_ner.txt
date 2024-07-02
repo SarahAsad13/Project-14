@@ -1,0 +1,63 @@
+MBA- Management/Finance: ORG
+Skills
+
+Complaint: ORG
+Complex: NORP
+quarterly: DATE
+Leadership: NORP
+July 2015: DATE
+Name City: GPE
+State: ORG
+TSF: ORG
+UAW: ORG
+200 seconds: TIME
+30%: PERCENT
+the Account Receivable Department: ORG
+February 2013 to July 2015: DATE
+Name City: GPE
+State Clinical Administrative: ORG
+20%: PERCENT
+CMS: ORG
+Collaborated: ORG
+200: CARDINAL
+Fidelis Secure Care Medicare Advantage HMO: ORG
+October 2010 to January 2013: DATE
+65%: PERCENT
+10%: PERCENT
+Completed: ORG
+weekly: DATE
+October 2009 to October 2014: DATE
+Name City: GPE
+State Administrative Assistant/ Home: ORG
+Group: ORG
+Directed 12: ORG
+20%: PERCENT
+annual: DATE
+Completed: ORG
+3806: CARDINAL
+May 6, 2017: DATE
+University of Findlay 
+
+International Business 
+MBA International Business
+Lean Six Sigma Black Belt Certification: ORG
+March 31, 2017: DATE
+University of Michigan 
+Health Care Administration: ORG
+Science Health Care Administration: ORG
+May 2015: DATE
+Mercy College of Ohio 
+
+Associates of Science: ORG
+May 2013: DATE
+Wayne County Community College: ORG
+Magna: PERSON
+10 years: DATE
+May of 2017: DATE
+General Management: ORG
+5S: CARDINAL
+127: CARDINAL
+6 years: DATE
+Skills: ORG
+CMS: ORG
+Six Sigma: PERSON

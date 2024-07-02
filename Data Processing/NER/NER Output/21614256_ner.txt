@@ -1,0 +1,72 @@
+BILINGUAL: NORP
+Excel: PRODUCT
+EPIC: ORG
+ETO: ORG
+SAS: ORG
+R.: NORP
+approximately 30: CARDINAL
+one: CARDINAL
+two: CARDINAL
+first: ORDINAL
+Passageway: GPE
+ETO: ORG
+EPIC: ORG
+Brigham: GPE
+Intern Sep 2014: LOC
+May 2015: DATE
+up to ten: CARDINAL
+Collaborated: ORG
+Conducted: ORG
+weekly: DATE
+ages 3-21: DATE
+weekly: DATE
+Child and Family Mental Health Meetings: LAW
+monthly: DATE
+Pediatric Team Meetings: ORG
+goo.gl/Ea4QNR: ORG
+Corps: ORG
+7th: ORDINAL
+Markham Middle School: ORG
+South Los Angeles: GPE
+Behavior Counselors, Attendance Counselors: ORG
+Gang Intervention Program Counselors: ORG
+Created: ORG
+four: CARDINAL
+at least one: CARDINAL
+three: CARDINAL
+KIPPs: ORG
+Representatives: ORG
+eight: CARDINAL
+three: CARDINAL
+Around 80: CARDINAL
+Jun 2010: PERSON
+May 2011: DATE
+Conducted: ORG
+(ages seven to twelve: DATE
+Shtulman, A., & Checa: ORG
+I.
+2012: ORG
+Parent: GPE
+International Electronic Journal of Elementary Education: ORG
+5(1: CARDINAL
+27: CARDINAL
+Native: NORP
+Spanish: NORP
+Spanish: LANGUAGE
+Spanish: NORP
+Training
+Master of Public Health , Epidemiology: WORK_OF_ART
+Boston University: ORG
+ï¼​ City: GPE
+State Epidemiology: ORG
+Boston University: ORG
+ï¼​ City: GPE
+State Clinical Social Work
+Bachelor of Arts , Psychology 05/2013 Occidental College: ORG
+State: ORG
+Meetings, Mental Health, Access, Excel: ORG
+Word: PERSON
+SAS: ORG
+Spanish: LANGUAGE
+Spanish: LANGUAGE
+Spanish: LANGUAGE

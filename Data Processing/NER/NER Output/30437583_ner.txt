@@ -1,0 +1,104 @@
+the Stakeholder Relations Branch: ORG
+Food and Nutrition Service's: ORG
+FNS: ORG
+Core Qualifications: ORG
+Microsoft PowerPoint: ORG
+Word: PERSON
+Excel: PRODUCT
+Webinar Applications: PERSON
+Livemeeting: PERSON
+OnStream Media: PERSON
+ReadyTalk) Video and: ORG
+Camtasia: PERSON
+Basecamp: GPE
+Vovici: GPE
+Survey Monkey: PERSON
+Social Media Channels: ORG
+40 hours: TIME
+Cheryl Jackson-Lewis: PERSON
+703: CARDINAL
+305: CARDINAL
+U.S.: GPE
+Department of Agriculture Food Waste Challenge: ORG
+Organized: ORG
+Team Nutrition Managed: ORG
+Team Nutrition: ORG
+the Healthier US School Challenge: ORG
+06/2012: PRODUCT
+The Office of External: ORG
+Governmental Affairs Company Name: ORG
+Identify: ORG
+30: CARDINAL
+new &: ORG
+FNS: ORG
+FNS: ORG
+FNS: ORG
+Received 3 Performance Rewards: ORG
+FNS: ORG
+GIS: ORG
+FNS: ORG
+Internal & external review boards: ORG
+the USDA FNS Agency: ORG
+Working Group: ORG
+the Office of the Chief Communications: ORG
+three: CARDINAL
+517: CARDINAL
+FNS: ORG
+01/2011 to 06/2012: CARDINAL
+Student Intern Company Name: ORG
+20 hours: TIME
+Jeff Greenfield: PERSON
+703: CARDINAL
+605-4331: DATE
+March 2014: DATE
+Masters of Public Health: ORG
+Loma Linda University: ORG
+ï¼​ City: GPE
+GPA: ORG
+Cum Laude: PERSON
+Deans: NORP
+Health Education: ORG
+GPA: ORG
+Cum Laude: PERSON
+Deans: NORP
+May 2012: DATE
+Mason University: ORG
+ï¼​ City: GPE
+GPA: ORG
+3.04: CARDINAL
+Deans: NORP
+Community
+HealthNutrition GPA: ORG
+3.04: CARDINAL
+Deans: NORP
+Professional Affiliations: ORG
+the Young Professional Council Wish Granter: ORG
+Young Government Leaders: ORG
+the Organization of Professional Employees: ORG
+US: GPE
+Department of Agriculture
+Accomplishments
+TBD
+Interests: ORG
+Habitat for Humanity: ORG
+Greek Week Steering Committee: ORG
+Anatomy, Agency: ORG
+Biology, Chemistry: ORG
+Drupal, Edit, Environmental Health: ORG
+GIS: ORG
+Health Education: ORG
+Health Promotion, Information Technology: ORG
+Excel: PRODUCT
+Office: ORG
+Microsoft PowerPoint: ORG
+Word: PERSON
+Photo Editing: PERSON
+Program Evaluation: ORG
+Program Development and Evaluation: ORG
+Qualitative Research: ORG
+Research, Statistics: ORG
+Supervisor: PERSON
+Alpha Phi Fraternity: PERSON
+Habitat for Humanity: ORG
+Greek Week Steering Committee: ORG
+03/09/2016: NORP

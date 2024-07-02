@@ -1,0 +1,138 @@
+EXECUTIVE CHEF
+Executive: ORG
+Culinary: ORG
+Expertise Multi-Outlet: PERSON
+Menu Development & Research * Service & Marketing: ORG
+Price Structuring and Cost Containment * Inventory/Purchasing Team Building * Guest Relations: WORK_OF_ART
+Skill Highlights: PERSON
+Menu Development: ORG
+FoodTrac: PRODUCT
+CIA: ORG
+Culinary Training: PRODUCT
+Operations Management: Â 
+
+Managed Food Safety Program: ORG
+Food and Beverage: ORG
+Executive Chef 06/2003: PRODUCT
+Name City: GPE
+Flagship Restaurant: WORK_OF_ART
+Harris Ranch Agricultural: ORG
+Food and Beverage Revenue: ORG
+13 million: CARDINAL
+500,000: CARDINAL
+Plate and Farm to Table: ORG
+Three Restaurants: ORG
+Banquet Facility: ORG
+Culinary Classes: ORG
+90: CARDINAL
+5: CARDINAL
+8: CARDINAL
+7th: ORDINAL
+California: GPE
+67th: ORDINAL
+United States: GPE
+Sunset: ORG
+HRBC: ORG
+Choose Your Own Steak: WORK_OF_ART
+Food Trac: PERSON
+Cap: PERSON
+Hotel Complex: ORG
+Subway Franchise: ORG
+Air Strip: GPE
+RV Park: GPE
+Hotel: ORG
+Harris Ranch Entities: ORG
+Harris Ranch Beef Company: ORG
+Wine
+Vineyards: PERSON
+Horse Division: ORG
+01/2003 Company Name City: ORG
+300: CARDINAL
+Two Restaurants: ORG
+Banquet Facility: ORG
+Chamber of Commerce: ORG
+Produce annual: ORG
+Cap: PERSON
+Name City: GPE
+Harris Ranch Agricultural: ORG
+Food and Beverage Revenue: ORG
+13 million: CARDINAL
+500,000: CARDINAL
+Plate and Farm to Table: ORG
+Three Restaurants: ORG
+Banquet Facility: ORG
+90: CARDINAL
+6: CARDINAL
+8: CARDINAL
+Sunset: ORG
+HRBC: ORG
+Choose Your Own Steak: WORK_OF_ART
+Harris Ranch Beef Company: ORG
+Food Trac: PERSON
+Cap: PERSON
+Hotel Complex: ORG
+Subway Franchise: ORG
+Air Strip: GPE
+RV Park: GPE
+Hotel: ORG
+Harris Ranch Entities: ORG
+Harris Ranch Beef Company: ORG
+Wine
+Vineyards: PERSON
+Horse Division: ORG
+Name City: GPE
+100 Year Anniversary: DATE
+One: CARDINAL
+first: ORDINAL
+the west coast: LOC
+Florida: GPE
+Four Restaurants: ORG
+Banquet Facilities: ORG
+Yacht: GPE
+Researched: ORG
+100 year anniversary: DATE
+Hormel: PERSON
+Coleman Mustard: PERSON
+Quaker Oats: ORG
+years ago: DATE
+60: CARDINAL
+3: CARDINAL
+2: CARDINAL
+Food and Beverage Revenue: ORG
+7.5 million: CARDINAL
+Red Lion Inn and Hotels: Fess Parker Resort: ORG
+Santa Barbara: GPE
+California: GPE
+Red Lion Inn: ORG
+Vancouver: GPE
+Washington: GPE
+Portland: GPE
+Oregon: GPE
+Name City: GPE
+first: ORDINAL
+6: CARDINAL
+Hotels and Restaurants Company: ORG
+Red Lion: ORG
+Seattle: GPE
+San Francisco: GPE
+Nike: ORG
+National Women in Action Conference Was: ORG
+POP: ORG
+PIP: ORG
+6 years: DATE
+Red Lion Inn: ORG
+the Quay Main Concept: ORG
+Pacific Sea Foods: LOC
+1: CARDINAL
+the Pacific Northwest: LOC
+Casa Marina: PERSON
+Key West: GPE
+Florida: GPE
+Sous Chef: PERSON
+Name City: GPE
+Name City: GPE
+Associate of Arts: ORG
+1982: DATE
+Saint Augustine Culinary School City: ORG
+International Sales: ORG
+San: LOC

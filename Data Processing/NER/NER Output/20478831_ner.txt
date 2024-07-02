@@ -1,0 +1,49 @@
+Career Focus: FAC
+the Child Nutrition Program: ORG
+Highly: PERSON
+toÂ: CARDINAL
+Follow: ORG
+the Homebound Program: ORG
+Homebound: NORP
+Encourage: NORP
+Homebound: NORP
+Coordinate: ORG
+02/2016: CARDINAL
+Teen Parent: ORG
+the Pregnant Related Services: ORG
+Assisted: ORG
+Acted: ORG
+toÂ: CARDINAL
+Orient: LOC
+Classroom Teacher/ Consumer Science and Nutient Company Name: ORG
+Assigned: PERSON
+Encourage: NORP
+TEKS: ORG
+Classroom: ORG
+Grade: LOC
+Parent Liasion Company Name: ORG
+Coordinated: PRODUCT
+monthly: DATE
+Facilitated: ORG
+weekly: DATE
+French: NORP
+Elementary: PERSON
+Clerk/Receptionist Company Name: ORG
+2009: DATE
+Master of Science : Education Administration Grand Canyon University: WORK_OF_ART
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+1995: DATE
+Family and Consumer Science Lamar University: ORG
+State: GPE
+USA: GPE
+Dietetics and Nutrition
+
+Professional Affiliations
+Alpha Kappa Alpha Sorority: WORK_OF_ART
+Beaumont Teachers Association: ORG
+Lamar University Alumni Association: ORG
+Skills
+
+Academic planning: ORG

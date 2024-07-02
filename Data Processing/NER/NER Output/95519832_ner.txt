@@ -1,0 +1,60 @@
+Career Focus: FAC
+9: CARDINAL
+Skills
+
+Trade Finance Operations
+: ORG
+3: CARDINAL
+HSBC: ORG
+yearly: DATE
+HSBC
+
+Professional Experience
+Company: ORG
+August 2007 to January 2011: DATE
+Booking &: ORG
+L/C or Collection: ORG
+Advance & Direct: ORG
+RBI: ORG
+Letter of Credit: ORG
+Collection: ORG
+Bill: PERSON
+L/C & collections
+: ORG
+the TAT Â: ORG
+August 2005 to July 2007: DATE
+Abn Amro Bank -Netherland Investigate Fund Transfer: ORG
+Specializing: GPE
+Bank: ORG
+Escalate: PERSON
+October 2003 to August 2005: DATE
+Credit Card Collection Officer 
+City: ORG
+more than 60 days: DATE
+Ensured quick & sound: ORG
+Worked on Cacs: ORG
+Dialer: NORP
+Hub: ORG
+August 2001 to September 2003: DATE
+UC: GPE
+San Diego: GPE
+2015: DATE
+State: ORG
+United States: GPE
+Mumbai University: ORG
+2000: CARDINAL
+Accounting City: GPE
+State: GPE
+India: GPE
+28th of January: DATE
+1980: DATE
+Place Of Birth: KGF: WORK_OF_ART
+India: GPE
+Marital Status: ORG
+English: LANGUAGE
+Hindi: GPE
+Tamil
+Skills
+Client Relations: PERSON
+Credit and Collections,Marketing,Global Trade Services: ORG
+Â Computer Proficient: ORG

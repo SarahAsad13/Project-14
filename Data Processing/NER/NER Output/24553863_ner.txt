@@ -1,0 +1,115 @@
+VP FINANCE & IS&T
+Executive Profile
+
+Enterprising Finance Executive: ORG
+Builds: PERSON
+Financial Management and Controllership: ORG
+Business Process: ORG
+Skill Highlights: PERSON
+Core Accomplishments
+
+Developed the CFO Advisory Service's Quality Close Product: WORK_OF_ART
+KPMG Quality Close Training Sessions: ORG
+Oxley: PERSON
+AFFILIATIONS God's: ORG
+VP Finance & IS&T: ORG
+January 2012: DATE
+Current Company Name: ORG
+SAP ERP Implementation: ORG
+13: CARDINAL
+3 years: DATE
+Eleven: CARDINAL
+Europe: LOC
+USA: GPE
+Canada: GPE
+April 1, 2015: DATE
+$4M: MONEY
+Nine: CARDINAL
+Latin America: LOC
+Year 4: DATE
+SAP: ORG
+Created a Program
+Management Organization: ORG
+Finance: ORG
+USA: GPE
+Canada: GPE
+SAP ERP Project: ORG
+over $500: MONEY
+a European Budget and Procurement: ORG
+1 year: DATE
+8: CARDINAL
+next 2 years: DATE
+Global Digital: ORG
+US: GPE
+January 2009 to January 2011: DATE
+Marketing Analytics: ORG
+KPI Reporting: ORG
+6: CARDINAL
+US: GPE
+US Labels: PERSON
+Social Media: ORG
+daily: DATE
+Created the Business Case: ORG
+Sony Music: ORG
+BMG Music Supply Chain: ORG
+SAP Materials Management: ORG
+Product Setup: ORG
+Inventory Purchasing: PERSON
+MRP: GPE
+DRP: GPE
+Inventory Management: ORG
+Inventory Accounting: ORG
+two: CARDINAL
+one: CARDINAL
+Sony Music's: ORG
+Artist: NORP
+VP Finance: ORG
+January 2005 to January 2008: DATE
+Sony Music: ORG
+BMG Music: ORG
+over $1M: MONEY
+Projects: ORG
+six: CARDINAL
+two: CARDINAL
+Marketing and Recording: WORK_OF_ART
+two: CARDINAL
+Artist Project P&L System: ORG
+6: CARDINAL
+US: GPE
+Sony: ORG
+UK: GPE
+Project P&L: ORG
+monthly: DATE
+quarterly: DATE
+annually: DATE
+eight to three: CARDINAL
+January 2001 to January 2005: DATE
+CFO Advisory Services: ORG
+over $100M: MONEY
+annual: DATE
+Main: ORG
+Financial Services: ORG
+Media, Entertainment: ORG
+Utilities: ORG
+Disney: ORG
+Sony: ORG
+Bertelsmann Media: PERSON
+WWE: ORG
+Morgan Chase: ORG
+Comerica Bank: ORG
+Duke Energy: ORG
+United Rentals: GPE
+Controller: PERSON
+January 1994 to January 2001: DATE
+Controller: PERSON
+January 1990 to January 1994: DATE
+Controller: PERSON
+6 years: DATE
+Controller: PERSON
+5 years: DATE
+Appraisal: PERSON
+Commercial and Self-Insureds: ORG
+Financial Management Systems: ORG
+College Park
+
+Finance: FAC

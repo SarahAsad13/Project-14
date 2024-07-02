@@ -1,0 +1,77 @@
+Training: GPE
+2 years: DATE
+Subcontractors, Vendors: ORG
+Core Qualifications: ORG
+Digitizer
+Site: ORG
+Microsoft: ORG
+QA/QC/Field Engineering: ORG
+Revit: GPE
+Micro: ORG
+V8i: NORP
+Microsoft: ORG
+Report Writing
+Interpersonal/Communication
+
+Experience
+Construction Inspector: WORK_OF_ART
+November 2015: DATE
+the American Society for Testing and Material: ORG
+ASTM: ORG
+Anchor/Dowels: PRODUCT
+Slump: ORG
+Established: ORG
+Performed: ORG
+Project Engineer: PERSON
+May 2015 to October 2015: DATE
+Processed: GPE
+Coordinated: ORG
+Processed: GPE
+monthly: DATE
+jobsite: NORP
+Performed: ORG
+Digitizer: ORG
+Facilitated: ORG
+Traffic Engineer: ORG
+January 2013 to April 2013: DATE
+Outer Ring Road: WORK_OF_ART
+Shamirpet: ORG
+Keesara: PERSON
+Hyderabad: GPE
+next 20 years: DATE
+daily: DATE
+ADT: ORG
+Annual: DATE
+daily: DATE
+AADT: ORG
+VDF: ORG
+Project Engineer: PERSON
+February 2012 to October 2012: DATE
+Oversaw million dollar: MONEY
+Procured: PRODUCT
+Created the Baseline Schedule: ORG
+two weeks ahead: DATE
+Master of Science : Construction Engineering and Management: WORK_OF_ART
+May 2016: DATE
+The University of Texas ï¼​ City: ORG
+GPA: ORG
+3.54/4.0: CARDINAL
+Construction Engineering and Management: ORG
+3.54/4.0: CARDINAL
+Bachelor of Technology: ORG
+May 2013: DATE
+Jawaharlal: GPE
+Nehru Technological University: ORG
+184492: DATE
+OSHA: ORG
+10-Hour: TIME
+30-Hour: TIME
+Skills: ORG
+Interpersonal/Communication, Construction: ORG
+Microsoft: ORG
+Microsoft Project: ORG
+Micro: ORG
+Primavera: ORG
+QA: ORG
+Report Writing: PERSON
+Revit: GPE

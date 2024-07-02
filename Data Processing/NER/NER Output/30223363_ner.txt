@@ -1,0 +1,152 @@
+BUSINESS SYSTEMS: ORG
+Informatica Data Explorer: ORG
+MS Visio: PERSON
+MS Project: ORG
+Rational Rose: ORG
+SQL: ORG
+UML: ORG
+C++: PERSON
+Core Java: PERSON
+XML: ORG
+PHP Operating Systems: ORG
+Linux: PERSON
+2005/2008: DATE
+Oracle 9i/10: ORG
+SQL Server: ORG
+2005: DATE
+Mumbai University Active: ORG
+Student Council of Asian
+Students: ORG
+University of Maryland: ORG
+Merkle: PERSON
+Database: GPE
+North America: LOC
+Europe: LOC
+Middle East: LOC
+Latin America: LOC
+Customer Data Integration: ORG
+Business Objects: ORG
+European: NORP
+Asia Pacific: LOC
+CDI: ORG
+daily: DATE
+QA: ORG
+Automated Warranty Renewal Campaign Solution Project: ORG
+CRM: PRODUCT
+Responsibilities: -Support of the deployed: WORK_OF_ART
+CRM: PRODUCT
+Latin America: LOC
+Fortune 500 company focusing on: WORK_OF_ART
+weekly: DATE
+BSA: ORG
+Primary: PERSON
+daily: DATE
+QA: ORG
+Business Requirement Document: ORG
+Root Cause: ORG
+CRM: PRODUCT
+Latin America: LOC
+Fortune 500 High Tech: WORK_OF_ART
+Merkle: PERSON
+QA: ORG
+QA: ORG
+Project:: ORG
+Dell Financial Services Project: ORG
+Dell: ORG
+Dell: ORG
+Consumer: ORG
+weekly: DATE
+-Designed: PERSON
+Canada: GPE
+Interface: PERSON
+Merkle: PERSON
+Synthesize: ORG
+QA: ORG
+Provide: NORP
+Project Management: ORG
+Interface: ORG
+Merkle: PERSON
+Project Management: ORG
+Assist: NORP
+Merkle: PERSON
+Merkle Marketing: ORG
+12/2011: CARDINAL
+Assisted IT Admin: WORK_OF_ART
+SharePoint Analyzed: ORG
+HEAT: ORG
+Generate: PERSON
+Business Intelligence: ORG
+Maintained Local Area Network: ORG
+UM Libraries: ORG
+Ghosting: GPE
+Training
+MS : Information Management University of Maryland MS: ORG
+Information Management: ORG
+Dec 2011: DATE
+University of Maryland: ORG
+3.67: CARDINAL
+Database Design: ORG
+Information Architecture, Management of Information and Services: ORG
+Project
+Performance Measurement, System and Software Requirements
+B.E :: ORG
+Mumbai University B.E: ORG
+May 2009: DATE
+Mumbai University First Division Specialties: ORG
+Professional Affiliations
+Active: ORG
+Student Council of Asian Students: ORG
+University of Maryland: ORG
+Skills
+Database, Marketing, Systems Analyst: GPE
+Project Management, Business Requirements, Solutions, Metrics: ORG
+Qa, Documentation: ORG
+Account: GPE
+Basis, Campaign Management, Client Communication: ORG
+Consumer Marketing, Credit: ORG
+Data Quality, Financial Services: ORG
+Mapping, Marketing Analysis, Marketing Campaign, Marketing Research, Process Documentation: ORG
+Program Management, Public Relations: ORG
+Quality Control: ORG
+Business Systems
+Analysis: ORG
+Customer Relationship Management: ORG
+Database Marketing, Deployment: ORG
+Gap Analysis, Integration, Integrator: ORG
+Root Cause Analysis: ORG
+Satisfaction, Segmentation: ORG
+Access, Business Intelligence: ORG
+Liaison: PERSON
+Microsoft Sharepoint: ORG
+Ms Sharepoint: PERSON
+User Access: ORG
+Writing Functional: ORG
+Data Warehouse: ORG
+Front End: ORG
+Front End Design: ORG
+Front-end: ORG
+Html,: ORG
+Informatica: ORG
+Java: PERSON
+Lamp: GPE
+Lamp Stack: ORG
+Linux: GPE
+Microsoft Project: ORG
+Ms Project: PERSON
+Ms Sql Server: PERSON
+Ms
+Sql Server 2005: PERSON
+Ms Visio: PERSON
+Mysql: GPE
+Sql: PERSON
+Sql Server: PERSON
+Sql Server 2005: PERSON
+Subject Matter
+Expert: PERSON
+Technical Specifications: ORG
+Visio: PERSON
+Windows Xp: PERSON
+Xml: GPE
+Database Design, Information Architecture: ORG
+Php: PERSON
+Software Requirements: ORG

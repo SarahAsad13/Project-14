@@ -1,0 +1,71 @@
+Office Administrator: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+Strong: PERSON
+QuickBooks: ORG
+AR/AP
+Medical: ORG
+Power Point: ORG
+Outlook: PERSON
+Receptionist: NORP
+June 2007 to September 2014: DATE
+Developed X-: PRODUCT
+May 2013 to December 2013: DATE
+New Songs: ORG
+CCB: ORG
+MS Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+New Song Community Church's: ORG
+daily: DATE
+New Song Community Church's: ORG
+Created: ORG
+Administrative Executive: ORG
+Accountant: ORG
+February 2013 to December 2013: DATE
+State: ORG
+monthly: DATE
+daily: DATE
+Quicken Books: PERSON
+Fitness Executive: ORG
+Corporate Sales Representative: ORG
+November 2011 to December 2012: DATE
+Schedule: ORG
+daily: DATE
+CPR: ORG
+AED: ORG
+daily: DATE
+Business Management: ORG
+2007: DATE
+Harford Community College: ORG
+State: GPE
+United States: GPE
+Emphasis in Business Management and Biology
+
+Emergency Medical Technician-Basic: ORG
+CPR/AED Certified : Fire Science: ORG
+2005: DATE
+Maryland: GPE
+State: GPE
+United States: GPE
+2004: CARDINAL
+North Harford High School: ORG
+State: GPE
+United States: GPE
+Interests: NORP
+Chiari and Syringomylia Foundation: ORG
+Chiari and Syringnomylia Foundation: ORG
+Bel Air Volunteer Fire Company: ORG
+Habitat for Humanity: ORG
+March: DATE
+March of Dimes: DATE
+hundreds of dollars: MONEY
+AR/AP: ORG
+CPR: ORG
+Excel: PRODUCT
+MS
+Office: ORG
+Outlook, Power Point: ORG
+Microsoft: ORG
+Quick Books: PERSON

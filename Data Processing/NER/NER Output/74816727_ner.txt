@@ -1,0 +1,50 @@
+Missouri Council of Teachers of Mathematics 2014 Conference
+
+Tutoring: ORG
+MS Office: ORG
+Beauty Brands: WORK_OF_ART
+two: CARDINAL
+the Year: DATE
+one: CARDINAL
+seven: CARDINAL
+Beauty Brands: ORG
+annual: DATE
+Kansas City: GPE
+The next year: DATE
+a little over 100 hours: QUANTITY
+Sixty hours: TIME
+Lees Summit High School: ORG
+6th: ORDINAL
+Brittany Hill: FAC
+Fifteen hours: TIME
+Holden Middle
+School: FAC
+6th: ORDINAL
+8th: ORDINAL
+twelve hours: TIME
+about twenty hours: TIME
+6th: ORDINAL
+Grain Valley South Middle School: FAC
+One: CARDINAL
+three: CARDINAL
+One: CARDINAL
+January 2014: DATE
+Current Teacher 
+City: PERSON
+eight 18 month: DATE
+24 month olds: DATE
+October 2012 to January 2014: DATE
+August 2011 to October 2012: DATE
+annual: DATE
+Complete: PERSON
+monthly: DATE
+March 2010: DATE
+Assisted the Location: WORK_OF_ART
+100%: PERCENT
+Assisted Location: ORG
+University of Central Missouri Present Bachelor of Science : Education City: ORG
+State
+Metropolitan Community College 2012 Associate of Arts City: ORG
+State: ORG
+Blue Springs High School: ORG
+2009: DATE

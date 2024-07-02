@@ -1,0 +1,67 @@
+SR: ORG
+US: GPE
+Merchandiser: PERSON
+Online: PRODUCT
+Purchase: PERSON
+Microsoft: ORG
+US: GPE
+Oct 2012: DATE
+Microsoftstore.com: ORG
+annual: DATE
+96: MONEY
+Grew EDU: ORG
+YoY: GPE
+the first year: DATE
+Microsoft: ORG
+UX: NORP
+QA: ORG
+Merchandiser Women's Direct Apparel Apr 2007: WORK_OF_ART
+2010: DATE
+Drove: CARDINAL
+Partnered: PRODUCT
+Directed: ORG
+Utilized: ORG
+70: MONEY
+20: CARDINAL
+annually: DATE
+Developed: ORG
+Created: ORG
+Buyer/Buyer: ORG
+2004: DATE
+Apr: PERSON
+2007: DATE
+Endless.com: ORG
+Amazon.com: ORG
+first: ORDINAL
+QA: ORG
+Initiated: ORG
+Intimate Apparel, Sleepwear, Men's Sportswear: ORG
+Women's Sportswear: ORG
+Infant: PERSON
+Handbags: ORG
+Footwear
+Teamed: ORG
+Grew: PERSON
+10: MONEY
+the first year: DATE
+Buyer: PERSON
+Jan 2001 to Jan 2004: DATE
+Jan 2000 to Jan 2001: DATE
+Bon Marche: PERSON
+over 40: CARDINAL
+Jan 1998 to Jan 2000: DATE
+10: CARDINAL
+first: ORDINAL
+six: CARDINAL
+twenty-five: CARDINAL
+BA: ORG
+Liberal Studies Society, Ethics: ORG
+2001: DATE
+2011: DATE
+WASHINGTON - City: GPE
+Dean: PERSON
+winter quarter 2000: DATE
+Dean: PERSON
+winter quarter 2000: DATE
+Skills: ORG
+20+ years: DATE

@@ -1,0 +1,55 @@
+DIRECTOR: ORG
+COMPOUNDING: ORG
+SPECIALIST: ORG
+Core Qualifications: ORG
+Microsoft Office: ORG
+Word: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+Logix: PERSON
+Compounding Sales Specialist: ORG
+July 1997 to March 2015: DATE
+monthly: DATE
+PowerPoint: ORG
+Respond: PERSON
+Healthcare: ORG
+Supervisor: PRODUCT
+April 1996 to June 1997: DATE
+Recruit: ORG
+June 1994 to March 1996: DATE
+August 1983 to June 1994: DATE
+Develop: ORG
+Identify: ORG
+Front End: ORG
+June 1981 to July 1983: DATE
+Calculate: ORG
+Compute: ORG
+Assist: NORP
+L.P.N. Staff Nurse & PRN Charge Nurse: ORG
+June 1978: DATE
+1981: DATE
+ICU: ORG
+CCU: ORG
+ER: ORG
+Observe: LOC
+L.P.N.: ORG
+Answer: LOC
+Receptionist: NORP
+January 1971 to February 1975 Company Name ï¼​ City: DATE
+Compile: PRODUCT
+May 1971: DATE
+GRIFFITHVILLE: PERSON
+May 1977: DATE
+HARDING: PERSON
+City: GPE
+State Physical Education: ORG
+1978: DATE
+L.P.N: GPE
+Skills: ORG
+CRM: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+PowerPoint: ORG
+Word: PERSON
+Observe: LOC

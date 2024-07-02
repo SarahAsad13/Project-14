@@ -1,0 +1,63 @@
+REGISTERED CLIENT: ORG
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+Access: PRODUCT
+Adobe PageMaker: PRODUCT
+6.5: CARDINAL
+Adobe Photoshop: PERSON
+Dreamweaver, Visio, Unix: ORG
+Oracle 9i: ORG
+2000: DATE
+Registered Client Service: ORG
+Provide Financial Advisors: ORG
+monthly: DATE
+the Financial Advisors: ORG
+40 million: CARDINAL
+Relationship Banker II 06/2004: EVENT
+Name City: GPE
+Ranked: PRODUCT
+10: CARDINAL
+82: CARDINAL
+7 straight years: DATE
+a month: DATE
+Winner: PERSON
+the year: DATE
+3 straight years and first quarter: DATE
+2011: DATE
+10%: PERCENT
+800,000: MONEY
+7 months: DATE
+$1.7 million: MONEY
+the quarter: DATE
+Name City: GPE
+Federal Reserve: ORG
+Opening: WORK_OF_ART
+CIF: ORG
+Name City: GPE
+Training
+B.S :: ORG
+2001: DATE
+Strayer University Computer Information Systems: ORG
+1997: DATE
+Northern Virginia Community College: ORG
+DBA Training: ORG
+Completed First: ORG
+India: GPE
+2016: DATE
+Skills
+Dreamweaver: ORG
+Adobe PageMaker: PRODUCT
+6.5: CARDINAL
+Adobe Photoshop: PERSON
+DBA, Documentation: ORG
+Financial: ORG
+Access, Excel: ORG
+Power Point: ORG
+Windows: ORG
+Microsoft: ORG
+Oracle 9,: ORG
+2000: DATE
+Securities: ORG
+Visio: PERSON

@@ -1,0 +1,69 @@
+Skills
+
+Public Safety
+Administrative Support
+Proficient: ORG
+Lytec: NORP
+GSuite
+Patient: ORG
+Time: ORG
+Problem: PRODUCT
+Work History
+Health Advocate: WORK_OF_ART
+15: CARDINAL
+a day: DATE
+30: CARDINAL
+Lytec: NORP
+each day: DATE
+Developed: PRODUCT
+over 30: CARDINAL
+Checked: PRODUCT
+14: CARDINAL
+8 hours: TIME
+2 square miles: QUANTITY
+Collaborated: ORG
+Security Coordinator: ORG
+12/2019: DATE
+Oversaw: GPE
+Maintained: GPE
+Adhered: PRODUCT
+Applied: ORG
+CCTV: ORG
+CCTV: ORG
+Bachelor of Science :: ORG
+East Stroudsburg University - City: ORG
+State: ORG
+Phi Sigma Delta Fraternity: ORG
+P.R.I.D.E. Club
+
+High School: ORG
+2017: DATE
+Naugatuck High School - City: ORG
+20%: PERCENT
+GPA: ORG
+3.4: CARDINAL
+Marching Band: ORG
+2007: DATE
+2009: DATE
+2005: DATE
+2009: DATE
+2015-2016: DATE
+Aid Training: PERSON
+2015: DATE
+Lytec: NORP
+GSuite
+Patient: ORG
+Time: ORG
+Problem: PRODUCT
+Work History
+Transition Health Advocate: WORK_OF_ART
+30: CARDINAL
+Lytec: NORP
+each day: DATE
+Checked: PRODUCT
+14: CARDINAL
+8 hours: TIME
+2 square miles: QUANTITY
+Maintenance: PERSON
+10/2013: CARDINAL
+15: CARDINAL

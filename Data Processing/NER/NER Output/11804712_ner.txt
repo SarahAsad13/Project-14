@@ -1,0 +1,75 @@
+AVIATION: GPE
+Highlights
+
+Technical Proficiencies
+MS Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+August 2010: DATE
+Name City: GPE
+State Aviation Mechanic
+
+Orchestrate: ORG
+12: CARDINAL
+200: CARDINAL
+Completed 2,200: PRODUCT
+seven: CARDINAL
+three: CARDINAL
+P-8A: PRODUCT
+two: CARDINAL
+E-2D: PRODUCT
+P-8A: PRODUCT
+P-8A: PRODUCT
+FOD: ORG
+2014: DATE
+Embry-Riddle Aeronautical University Bachelor of Science : Technical Management / Occupational Safety and Health Bachelor of Science: ORG
+Technical Management / Occupational Safety and Health - 2014: ORG
+Embry-Riddle Aeronautical University: ORG
+Coastline Community College City: ORG
+State: GPE
+US: GPE
+Healthy Technology Associate of Science: ORG
+Aviation Technology and Healthy Technology Coastline Community College: ORG
+Fountain Valley: GPE
+California: GPE
+August 2010: DATE
+August 2010: DATE
+United States Navy: ORG
+Oak Harbor WA Aviation Maintenance & Production: ORG
+Present Orchestrate: ORG
+12: CARDINAL
+200: CARDINAL
+Completed 2,200: PRODUCT
+seven: CARDINAL
+three: CARDINAL
+P-8A: PRODUCT
+two: CARDINAL
+E-2D: PRODUCT
+P-8A: PRODUCT
+P-8A: PRODUCT
+United States Navy: ORG
+6/1994 - 8/2010: CARDINAL
+Vibration Analysis Test Set: WORK_OF_ART
+FOD: ORG
+Certifications: ORG
+30-Hour: TIME
+Skills
+Aviation, Calibration, Documentation: ORG
+Accountability For,: ORG
+Assembly, Avionics, Blueprints: ORG
+Electrical Systems: ORG
+Engines: ORG
+Hazardous Waste,: ORG
+Hydraulics, Internal Controls: ORG
+Quality Assurance: ORG
+Sequencing, Technical Publications: ORG
+Training: PERSON
+Turbine: ORG
+General Aviation, Logistics: ORG
+Quality Control, Solutions: ORG
+Excel: PRODUCT
+Ms Office: ORG
+Operations: ORG
+Outlook, Powerpoint: ORG
+Word: PERSON

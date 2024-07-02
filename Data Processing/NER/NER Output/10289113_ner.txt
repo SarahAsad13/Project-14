@@ -1,0 +1,78 @@
+Fortune 500: PRODUCT
+Success: ORG
+more than $1 million: MONEY
+each year: DATE
+at least $150,000 to millions: MONEY
+Titles: ORG
+COO: ORG
+CFO: ORG
+CMO: ORG
+EVP: ORG
+Human Resources & Finance: ORG
+Sold 17: ORG
+4: CARDINAL
+8 years: DATE
+$2.5 million: MONEY
+each year: DATE
+BDD: ORG
+over $6 million: MONEY
+Account Territory & District Sales: ORG
+08/1989: CARDINAL
+Name City: GPE
+DSR: ORG
+Nestle: ORG
+over $11 million: MONEY
+over 75%: PERCENT
+Created: ORG
+Nestle: ORG
+US: GPE
+every year: DATE
+$16 million: MONEY
+five: CARDINAL
+4: CARDINAL
+eight: CARDINAL
+$500,000 to $2.9 million: MONEY
+annual: DATE
+only 3-5%: CARDINAL
+Financial Operations Executive: ORG
+State Financial Operations
+Executive: ORG
+South Bend: LOC
+the 4th quarter of 1988: DATE
+4: CARDINAL
+Achievement Guild: PERSON
+3: CARDINAL
+Achievement Award: PERSON
+4: CARDINAL
+3 year: DATE
+BIW: ORG
+National: ORG
+1993: DATE
+Superbowl: GPE
+Twice: ORG
+The Over Achiever of the Year: WORK_OF_ART
+Outstanding or Exceeding Expectations: WORK_OF_ART
+Finance Club: ORG
+Resident Housing Association: ORG
+Business Development: ORG
+Territory Sales: ORG
+District Sales: ORG
+Travel & Meeting Sales: ORG
+Technology Application Sales: ORG
+Clients
+Management, Marketing, Budget: ORG
+Forecasts, Promotional, Travel & Meeting Operations: ORG
+Corporate Operations: ORG
+Human Resources: ORG
+Bachelor of Business Administration : Finance: ORG
+General Business 1988 Western Michigan University City: ORG
+State: GPE
+US: GPE
+over 85%: PERCENT
+10: CARDINAL
+two: CARDINAL
+4 years: DATE
+Milford Memories Planning Board: ORG
+Huron Valley Youth Baseball: ORG
+Lakeland Milford: PERSON
+Milford High School: ORG

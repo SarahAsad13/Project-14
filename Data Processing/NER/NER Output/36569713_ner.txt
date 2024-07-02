@@ -1,0 +1,42 @@
+Complex: NORP
+Reliable: WORK_OF_ART
+Charting: PERSON
+Complex: NORP
+August 2005 to January 2016: DATE
+State: ORG
+January 1997 to January 2004: DATE
+State: ORG
+January 1986 to January 1989: DATE
+Skills Proficiency: ORG
+Microsoft Office Capable: ORG
+Giving: ORG
+Discipline: PERSON
+Patience Encouraging: ORG
+Giving: PERSON
+Time: ORG
+More than 20 years: DATE
+Mathematics and Science Purposeful
+lesson planning Making: WORK_OF_ART
+Government College of Education: ORG
+State: ORG
+Pakistan: GPE
+Bachelor of Education: ORG
+Government College of Education: ORG
+State: ORG
+Pakistan: GPE
+Bachelor of Science : Biology, Chemistry: ORG
+1986: DATE
+Karachi University: ORG
+ï¼​ City: GPE
+State: ORG
+Pakistan: GPE
+Biology, Chemistry: ORG
+1986: DATE
+Karachi University: ORG
+ï¼​ City: GPE
+State: ORG
+Pakistan: GPE
+Skills: ORG
+Mathematics: NORP
+Microsoft Office: ORG
+Time: ORG

@@ -1,0 +1,31 @@
+Revit Microsoft Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+2006: DATE
+Oregon: GPE
+California High Value Residential Insurance Appraiser Appraise: ORG
+Oregon: GPE
+California: GPE
+Jan 2006: DATE
+Nov 2004: DATE
+Jan 1999: DATE
+Jan 2000: DATE
+BFA: ORG
+Product Design Present University: ORG
+City: GPE
+Business Administration 2005: ORG
+City: GPE
+State Business Administration: ORG
+2003 1999: DATE
+University of Washington ï¼​ City: ORG
+State Undeclared Objects: ORG
+Impacts Digital Illustration Interior Construction
+Elements Furniture Theory and Analysis Color Theory and Application Rome Program: ORG
+Skills: ORG
+Adobe Photoshop: PERSON
+Color: ORG
+Digital Illustration, Illustrator, Inspection, Insurance: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Revit: GPE

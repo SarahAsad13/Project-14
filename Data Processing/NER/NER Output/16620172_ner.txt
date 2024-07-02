@@ -1,0 +1,113 @@
+Instagram: PRODUCT
+3.5k: CARDINAL
+Hudson County: GPE
+New Jersey: GPE
+Skills
+
+Social Media Strategy Digital Marketing Content Development
+Copywriting Photo Editing Microsoft Office: ORG
+Suite: PERSON
+Marketing
+Materials
+Meetings
+Microsoft Office Suite
+: WORK_OF_ART
+200%: PERCENT
+1k: CARDINAL
+3.5k: CARDINAL
+the past four months: DATE
+12.2%: PERCENT
+Produce: ORG
+weekly: DATE
+weekly: DATE
+daily: DATE
+Instagram Stories: ORG
+Twitter: PERSON
+Johnson & Johnson: ORG
+Janssen: DATE
+daily: DATE
+LinkedIn: GPE
+weekly: DATE
+Management Trainee: PERSON
+06/2016: ORG
+10/2018: CARDINAL
+4: CARDINAL
+4: CARDINAL
+30: CARDINAL
+Super Bowl 2018: EVENT
+Thanksgiving 2017: DATE
+40%: PERCENT
+year-to-year: DATE
+2: MONEY
+10: CARDINAL
+50: CARDINAL
+2: CARDINAL
+the first month: DATE
+Recruiting Intern: PERSON
+12/2015: CARDINAL
+5: CARDINAL
+LinkedIn: GPE
+Advisor: ORG
+Founded the Women in Finance Internship: ORG
+Financial Advisors: ORG
+over $: MONEY
+6k: MONEY
+Master's Degree : Communication and Media Studies: WORK_OF_ART
+Rutgers University - City: ORG
+State: ORG
+GPA: ORG
+3.83: CARDINAL
+Bachelor: ORG
+Institute for Women's Leadership - City: ORG
+05/2016 
+Work History: PERSON
+200%: PERCENT
+1k: CARDINAL
+3.5k: CARDINAL
+the past four months: DATE
+12.2%: PERCENT
+Produce: ORG
+weekly: DATE
+weekly: DATE
+daily: DATE
+Instagram Stories: ORG
+Twitter: PERSON
+Johnson & Johnson: ORG
+Janssen: DATE
+daily: DATE
+LinkedIn: GPE
+weekly: DATE
+Management Trainee: PERSON
+06/2016: ORG
+10/2018: CARDINAL
+4: CARDINAL
+4: CARDINAL
+30: CARDINAL
+Super Bowl 2018: EVENT
+Thanksgiving 2017: DATE
+40%: PERCENT
+year-to-year: DATE
+2: MONEY
+10: CARDINAL
+50: CARDINAL
+2: CARDINAL
+the first month: DATE
+Recruiting Intern: PERSON
+12/2015: CARDINAL
+5: CARDINAL
+LinkedIn: GPE
+Advisor: ORG
+Founded the Women in Finance Internship: ORG
+Financial Advisors: ORG
+over $: MONEY
+6k: MONEY
+Skills
+
+Social Media Strategy Digital Marketing Content Development
+Copywriting Photo Editing Microsoft Office Suite: ORG
+Content Development, Copywriting: ORG
+Finance: ORG
+Microsoft Office Suite: ORG
+Photo Editing: PERSON
+Research: ORG
+Stories: ORG

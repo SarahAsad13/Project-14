@@ -1,0 +1,97 @@
+Finance Professional: ORG
+FINANCIAL MANAGEMENT & BUDGETING: ORG
+FORTUNE 500: LAW
+4: CARDINAL
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Access: ORG
+Oracle: ORG
+JD Edwards: PERSON
+Hyperion: ORG
+01/2013 ï¼​ Current Company Name: ORG
+Finance: ORG
+CFO: ORG
+Product & Marketing: ORG
+Finance: ORG
+the Executive Business Review Committee: ORG
+Finance: ORG
+SVP: ORG
+monthly: DATE
+CFO: ORG
+Financial Analyst: ORG
+12/2012: CARDINAL
+Concord & Paypoint: ORG
+the Concord & Paypoint: ORG
+225M.: MONEY
+$4M: MONEY
+annually: DATE
+National Sales: ORG
+PASO: ORG
+Product Reporting & Sales Compensation Overhaul: ORG
+First Data's: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+month-end: DATE
+year-end: DATE
+State
+
+Cross Sales: ORG
+Cross Sales: ORG
+57M.: MONEY
+1M.: MONEY
+the New York: GPE
+Florida: GPE
+Maryland: GPE
+300: CARDINAL
+Financial Analyst: ORG
+04/2000: CARDINAL
+Medical Products: ORG
+550M.: MONEY
+all aspects of: DATE
+month: DATE
+year: DATE
+Financial Analyst: ORG
+01/1997: CARDINAL
+the Medical and Industrial Products: ORG
+380M.: MONEY
+40: CARDINAL
+Financial Analyst: ORG
+03/1995: PRODUCT
+55M.: MONEY
+monthly: DATE
+200: CARDINAL
+Financial Analyst: ORG
+10/1992: CARDINAL
+41M.: MONEY
+Maintained: GPE
+300: CARDINAL
+ADP: ORG
+12/1990: CARDINAL
+10/1992: CARDINAL
+47: CARDINAL
+Macy: ORG
+Northeast: ORG
+the Thanksgiving Day Parade: EVENT
+4th: ORDINAL
+the Sports Entertainment Industry: ORG
+MLB: ORG
+NFL: ORG
+NBA: ORG
+1 1989: DATE
+Hofstra University: ORG
+Finance: ORG
+Financial Analyst: ORG
+Fireworks, Hyperion: ORG
+JD Edwards: PERSON
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Oracle: ORG
+Public Relations: ORG
+year-end: DATE

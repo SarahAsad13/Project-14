@@ -1,0 +1,24 @@
+Professional Summary
+Highly: ORG
+English: LANGUAGE
+Spanish: NORP
+Core Qualifications
+
+Report: ORG
+Time: ORG
+June 2013: DATE
+Current Administrative: PERSON
+Sorting &: ORG
+March 2012 to September 2012: DATE
+daily: DATE
+Ordering: NORP
+Data: ORG
+March 2011 to July 2011: DATE
+January 2007 to January 2011: DATE
+Registrar / Receptionist 
+City: ORG
+Register: ORG
+Follow: PERSON
+Sanford Brown Institute Medical: ORG
+State: ORG
+MS PowerPoint: PERSON

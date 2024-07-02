@@ -1,0 +1,87 @@
+Customer Service Professional: ORG
+Driven: PERSON
+Motivated Professional: ORG
+Levels: ORG
+Hunter: PERSON
+Harvester: PERSON
+Grew: PERSON
+FFCC Inc.: ORG
+a hundred thousand: CARDINAL
+over two and a half million: CARDINAL
+five: CARDINAL
+80: CARDINAL
+under $20,000.00: MONEY
+over $100,000.00: MONEY
+Silent Owners: ORG
+Tri State: LOC
+4: CARDINAL
+State Chemical Company: ORG
+Beckfield College for Jenny Clem: ORG
+Accounts Receivable: ORG
+PAHCOM: ORG
+monthly: DATE
+annual: DATE
+Vendor: ORG
+FFCC INC: ORG
+I C System Inc.: ORG
+just under 3 years: DATE
+3: CARDINAL
+65: CARDINAL
+the United States: GPE
+Ohio: GPE
+Truck Body: PERSON
+Inside Sales Coordinator: ORG
+two years: DATE
+Fyr Fyter Sales and Service: ORG
+ChangeMed: ORG
+five: CARDINAL
+a few months: DATE
+Name City: GPE
+Physicians: NORP
+daily: DATE
+weekly: DATE
+monthly: DATE
+monthly: DATE
+$2.5 million: MONEY
+each month: DATE
+annually: DATE
+Territories: LOC
+Ohio: GPE
+Kentucky: GPE
+Name City: GPE
+Physicians and Medical Facilities: ORG
+half: CARDINAL
+Ohio: GPE
+Northern Kentucky: GPE
+Louisville: GPE
+Lexington: GPE
+three: CARDINAL
+the entire year of 1999: DATE
+the Sales Summit Club: ORG
+the entire year: DATE
+Wilson Learning System Sales Training: ORG
+Zig Ziglar: PERSON
+Motivation Training: ORG
+Dale
+Carnegie: PERSON
+Bob Clements International: PERSON
+Tom Hopkins International: PERSON
+Elemental Selling: ORG
+Jeffrey Gitomer: PERSON
+Business Marketing Services: ORG
+Quality Sales Training: ORG
+02/2015 Company Name City: ORG
+Southern Ohio: LOC
+Kentucky: GPE
+State: GPE
+United States: GPE
+DECA: ORG
+Distributive Education Clubs of America: ORG
+the late day: DATE
+Publix Bakery Department: ORG
+Customer Service,: ORG
+Goldmine CRM: PRODUCT
+Allscripts Software: ORG
+Outlook, Practice Fusion Software: ORG
+Appointment Setting: PRODUCT
+Presenting, Closing and Client Retention: WORK_OF_ART

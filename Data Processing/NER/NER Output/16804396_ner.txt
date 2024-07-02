@@ -1,0 +1,32 @@
+MAIN CHEF
+Professional Summary
+Lead: ORG
+NMH: ORG
+Chicago: GPE
+6 plus years: DATE
+FOH: ORG
+Inventory: NORP
+Natural: ORG
+Main Chef Company Name: ORG
+daily: DATE
+Insured: ORG
+daily: DATE
+last minute: TIME
+Correctly: ORG
+Maintained: GPE
+Quickly: ORG
+Ensures: LOC
+daily: DATE
+Ensures: LOC
+Ensures: LOC
+daily: DATE
+Cook Company Name: ORG
+Maintained: GPE
+Cooked: PERSON
+Associate of Applied Science
+EMT: WORK_OF_ART
+Paramedic Malcolm X College - Chicago: PERSON
+IL EMT: ORG
+Disaster and Emergency Management: ORG
+Coursework in Human Anatomy: ORG
+MicroSoft: ORG

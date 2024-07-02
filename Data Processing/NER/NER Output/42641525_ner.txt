@@ -1,0 +1,180 @@
+AIR TRAFFIC CONTROLLER: ORG
+more than 32 years: DATE
+the En Route Environment: FAC
+CIC: ORG
+ERAM: ORG
+ERAM: ORG
+Principles: NORP
+Analysis of the Federal Aviation Administrations En Route Automation Modernization: WORK_OF_ART
+ERAM: ORG
+the Independent Operational Assessment: ORG
+ERAM: ORG
+the National Air Space System: ORG
+NAS: ORG
+ERAM: ORG
+16: CARDINAL
+ARTCC: ORG
+SME: ORG
+Air Traffic Controller: ORG
+08/1983: CARDINAL
+12/2015: CARDINAL
+more than 32 years: DATE
+En Route: LOC
+NAS: ORG
+the Federal Aviation Administration: ORG
+04/2013: CARDINAL
+Subject Mater Expert: PERSON
+SME: ORG
+16: CARDINAL
+En-Route Air Traffic Control
+Centers: ORG
+ERAM: ORG
+ERAM: ORG
+ERAM: ORG
+ERAM: ORG
+ERAM: ORG
+IOA: ORG
+SME: ORG
+OJT: ORG
+04/2013: CARDINAL
+FAA: ORG
+Independent Operational Assessment: ORG
+ERAM: ORG
+National Deployment: ORG
+28 years: DATE
+Air Traffic Services: ORG
+Oceanic Air Traffic: ORG
+Oakland Oceanic: ORG
+Radar-Non Radar: LAW
+Radar: PRODUCT
+Worked Arrival: GPE
+Seattle-Tacoma International Airport: ORG
+SEA: ORG
+32 years: DATE
+5: CARDINAL
+GPS: ORG
+Seattle Approach: PERSON
+S46: ORG
+FL230: PRODUCT
+FL240: FAC
+the Cascade Mountains: LOC
+28 years: DATE
+En Route: FAC
+Advanced R-NAV SID's: ORG
+STAR: ORG
+the En Route: FAC
+En
+Route: LOC
+Jet: LOC
+Navigation: ORG
+SID: ORG
+STAR: ORG
+daily: DATE
+IR: ORG
+ALTRAV: ORG
+P3: NORP
+F18: ORG
+E2: GPE
+A6: PRODUCT
+EA6: CARDINAL
+Air force (: ORG
+F16: ORG
+F15: ORG
+F4: PRODUCT
+C17: ORG
+C141: ORG
+B52: ORG
+Army: ORG
+A10: ORG
+Air National Guard: ORG
+F4: CARDINAL
+F15: ORG
+F16: ORG
+Naval: GPE
+Army: ORG
+Air National Guard: ORG
+Army: ORG
+USA: GPE
+Canada: GPE
+32 years: DATE
+CATTS: ORG
+Canadian: NORP
+ERAM: ORG
+ERAM: ORG
+32 years: DATE
+One: CARDINAL
+Paine Field: PERSON
+Everett: GPE
+WA: GPE
+PAE: ORG
+Boeing Company: ORG
+Boeing: ORG
+Paine: ORG
+PAE: ORG
+3NM: ORG
+RADAR: ORG
+West: LOC
+East: LOC
+SME: ORG
+Plans: NORP
+Airways and Facilities: ORG
+SME: ORG
+Airspace: GPE
+ZSE-520: PERSON
+South: LOC
+East: LOC
+SEA: ORG
+Seattle: GPE
+Portland: GPE
+PDX: ORG
+Vancouver Canada: ORG
+YVR: ORG
+Departures: PERSON
+South: LOC
+National High Altitude Redesign: ORG
+April 1991: DATE
+Controller: PERSON
+Charge: GPE
+CIC: ORG
+CIC: ORG
+First Line: ORG
+Emergences: PRODUCT
+December 1987: DATE
+The Job Instructor: ORG
+November 1986: DATE
+Certified Professional Controller: ORG
+CPC: ORG
+Area C: ORG
+September 1988: DATE
+Area A: ORG
+Seattle: GPE
+May 1989: DATE
+January 2016: DATE
+Safety Risk Management: ORG
+2013: DATE
+1992: DATE
+Controller: PERSON
+Charge Training: PERSON
+CIC: ORG
+1991: DATE
+June 2015
+June 2014: DATE
+May 2011
+November 2000: DATE
+1987: DATE
+Recertified: PERSON
+November 2007
+: DATE
+November 2000: DATE
+January 1992: DATE
+Associate of Applied Science : Manufacturing Engineering Highline Community Collage ï¼​ City , State , USA
+Affiliations
+
+National Air Traffic Controllers Association
+
+Skills
+
+En Route Air Traffic Controller: WORK_OF_ART
+August 1983 - January 2016: DATE
+ATC Automation: ORG
+ATC: ORG

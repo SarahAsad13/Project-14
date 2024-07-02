@@ -1,0 +1,105 @@
+SR: ORG
+Jan 2015: DATE
+VP of Finance: ORG
+Global Field Quota: ORG
+COO: ORG
+CFO: ORG
+the Customer Operations Expense Planning: ORG
+2B: MONEY
+the Monthly Close: EVENT
+Forecast: ORG
+Management Reporting: ORG
+Monthly: DATE
+3 business days: DATE
+0.5%: PERCENT
+forecast=: WORK_OF_ART
+q1'15=: PERSON
+the=: WORK_OF_ART
+award=: WORK_OF_ART
+q1'15=: PERSON
+Role Modeling of Execution: PERSON
+two: CARDINAL
+three: CARDINAL
+Bulgaria: GPE
+Customer Operations: ORG
+$2B.: MONEY
+Oct'14: GPE
+Excellence Award: PERSON
+Dec'14: GPE
+Created: ORG
+Customer Operations: ORG
+Created: ORG
+weekly: DATE
+Customer Operations: ORG
+8000: CARDINAL
+Corp FP&A: ORG
+Hyperion Planning/Essbase: ORG
+Initiated: ORG
+Jul 2012: PERSON
+WW Operations: ORG
+VP of Strategy and Enablement: ORG
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+mid-year: DATE
+Quarterly Business Reviews: ORG
+1.75: MONEY
+annually: DATE
+annually: DATE
+Developed a Programs: ORG
+monthly: DATE
+Mar 2010: PERSON
+2012: DATE
+Sr: NORP
+Finance: ORG
+monthly: DATE
+Forecast: ORG
+1,500: CARDINAL
+KPI: ORG
+Quarterly: DATE
+Headcount: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+MVP: ORG
+Mar 2010: DATE
+5-year: DATE
+Business Plan: ORG
+Prepared the Quarterly Forecast: WORK_OF_ART
+Monthly: DATE
+CFO: ORG
+Actual to Budget: ORG
+annual: DATE
+0.5: CARDINAL
+annual: DATE
+1.25: CARDINAL
+6-month: DATE
+Marketing Controlling: ORG
+Business Cases: ORG
+Partner: ORG
+quarterly: DATE
+monthly: DATE
+year end: DATE
+Performed Actual: ORG
+Quality Management Systems Department: ORG
+Dec 2001 to Mar 2004: DATE
+eight: CARDINAL
+Deliverables: PERSON
+Master of Science , Business Administration: WORK_OF_ART
+Germany: GPE
+Financial Controlling: ORG
+Marketing, Management and Tax
+
+Languages
+
+Fluent: ORG
+English: LANGUAGE
+German: NORP
+Bulgarian: NORP
+Skills
+
+Hyperion Planing, Essbase: ORG
+Oracle 11: LAW
+SAP BPC: ORG
+Business Objects: ORG
+Sharepoint, MS Office: ORG

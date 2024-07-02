@@ -1,0 +1,87 @@
+Skills
+
+Property insurance
+Report: ORG
+Critical: ORG
+Types: ORG
+11/2005: CARDINAL
+10/2008: CARDINAL
+Associate Claims Adjuster Company Name: WORK_OF_ART
+State: ORG
+04/2012: CARDINAL
+05/2014
+Casualty Auto Adjuster II Company Name: ORG
+Investigates: NORP
+Perform: ORG
+third: ORDINAL
+Adjusts: NORP
+PIP/Med Pay: ORG
+Acquires: ORG
+P&C: ORG
+USAA: ORG
+Collaborates: PERSON
+Contributes: ORG
+Supports: GPE
+Catastrophe Operations: ORG
+USAA Internal Catastrophe Unit- Property: ORG
+Hurricane Katrina: EVENT
+Maintained: GPE
+CAT: ORG
+Schedule: PERSON
+07/2001: CARDINAL
+12/2004: CARDINAL
+Complete: PERSON
+Interpret: ORG
+Negotiate: ORG
+10/2008: CARDINAL
+Associate Claims Adjuster-Settle Loss Company Name: WORK_OF_ART
+State: ORG
+12/2004: CARDINAL
+Immediate Response Unit Representative Company: ORG
+Current
+Master of Science : Criminal Justice: WORK_OF_ART
+Sul Ross State University - City: ORG
+State: ORG
+1 2011: DATE
+the Lake University - 
+
+Criminal Justice Sociology
+
+Minor: ORG
+1 1998: DATE
+Eagle Pass High School - 
+Courses: ORG
+Corrections,: ORG
+Crimes against Children and Adults, Tort: ORG
+2011: DATE
+the Lake University - City: ORG
+State: ORG
+2011: DATE
+Bexar County Medical Examiners Office - City: ORG
+Bexar County Medical Investigator: ORG
+morgue: DATE
+Evidence: LOC
+Log: PERSON
+the Medical Examiner: ORG
+United Services Automobile Association Auto Claim Adjuster II- 1st: ORG
+Affiliations: ORG
+the Association of Certified Fraud Examiners: ORG
+TX Casualty and Property License
+Skills
+C: ORG
+Criminal Justice: ORG
+ISO: ORG
+Law: PERSON
+Legal: GPE
+Lexis Nexis: PERSON
+Access: PRODUCT
+Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+Works: ORG
+Spanish: LANGUAGE
+John: PERSON
+USA Bank: ORG
+annual: DATE
+Henry Adams: PERSON
+USA Bank: ORG

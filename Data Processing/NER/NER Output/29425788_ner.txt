@@ -1,0 +1,126 @@
+ten years: DATE
+daily: DATE
+Culturally: PERSON
+the International Coaches Federation: ORG
+2013: DATE
+Harvard Vanguard Medical Associates: ORG
+Group Health Coaching: Strengths, Challenges: WORK_OF_ART
+May: DATE
+2013: DATE
+Global
+Advances in Health and Medicine: ORG
+The American College of Sports Medicine's Resources: ORG
+3rd: ORDINAL
+2009: DATE
+Health Coach: ORG
+October 2008: DATE
+the New England Quality Care Alliance Fall Forum: ORG
+October 2014 5: DATE
+the New England Wellcoaches Alliance: ORG
+May 2014: DATE
+Take Care Community Meeting: ORG
+Walgreens Health & Wellness Company: ORG
+February 2014: DATE
+The Transformative Power of Health
+Coaching: ORG
+Margaret Moore: PERSON
+Wellcoaches: PERSON
+June 2012: DATE
+Engaging and Empowering Your Clients: WORK_OF_ART
+Healthy Lifestyle Change: PERSON
+the Massachusetts Association of Clinical Exercise: ORG
+April 2012: DATE
+Changing Behaviors - Health: ORG
+Thad Schilling: PERSON
+MD: GPE
+Patient-Centered Medical Home: ORG
+Harvard Vanguard Medical
+Associates: ORG
+the Massachusetts Health Council: ORG
+March 2012: DATE
+Building a Team to Keep Your Patients: ORG
+the Institute of
+Lifestyle Medicine: ORG
+November 2011: DATE
+May 2010: DATE
+Client: GPE
+the Massachusetts Association of Clinical Exercise: ORG
+April 2010: DATE
+Mindful Listening, Curiosity: WORK_OF_ART
+the Council on Renal Nutrition of New
+England: ORG
+November 2009: DATE
+Mindful Listening, Curiosity: WORK_OF_ART
+August 2008: DATE
+Get More Sales: WORK_OF_ART
+May
+2008 o: DATE
+Semetree: GPE
+NERHSA: ORG
+October
+2007: DATE
+Healthtrax Fitness & Wellness: ORG
+June 2007: DATE
+Healthtrax Fitness & Wellness: ORG
+May 2007: DATE
+CARE Coaching Your Clients: ORG
+Successful Results: PERSON
+March 2007 o: DATE
+Positive Psychology: ORG
+Pursuit of Happiness for: ORG
+the Cambridge Center of Adult Education's: ORG
+Organization of Older Students: ORG
+November 2006: DATE
+Human Kinetics for: ORG
+the Connecticut Recreation and Parks Association: ORG
+November 2006: DATE
+Successful Results: PERSON
+Healthtrax Fitness & Wellness: ORG
+NEHRSA/NSCA Northeast Conference: ORG
+May 2006: DATE
+Practical Examiner: ORG
+January 2008 to July 2009: DATE
+Wellcoaches: ORG
+Wellness Coach and: ORG
+Fitness Specialist: ORG
+May 2006 to October 2008: DATE
+second: ORDINAL
+Principal, Life and Wellness Coach: ORG
+August 2005 to October 2008: DATE
+one: CARDINAL
+Training
+Master of Science : Health Psychology: WORK_OF_ART
+1 2014: DATE
+Walden University Health Psychology Capstone: ORG
+6-week: DATE
+Bachelor of Arts Anthropology University: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+Robert Kegan: PERSON
+Lisa Lahey: PERSON
+Harvard University: ORG
+2012: DATE
+1 2010 Completion: MONEY
+National Institute of Whole
+Health's: ORG
+Certified Professional Co-Active Coach: ORG
+Coaches Training Institute: ORG
+2008: DATE
+MINT: ORG
+Steven Berg-Smith: PERSON
+2006: DATE
+Wellcoaches: ORG
+2005: DATE
+Certified Health/Fitness Specialist: ORG
+the American College of Sports Medicine: ORG
+1999: DATE
+Skills
+Art: ORG
+Coach: ORG
+Council, Counseling,: ORG
+Client: GPE
+Harvard: ORG
+Lisa: PERSON
+Research, Sales: ORG

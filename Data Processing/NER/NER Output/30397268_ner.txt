@@ -1,0 +1,71 @@
+years: DATE
+Skills
+
+Spreadsheet Management
+Program: ORG
+Files Maintenance: PERSON
+Suite Knowledge: PERSON
+Customer & Client Relations: ORG
+Telephone Systems
+Office & Team Management
+AVImark Veterinary: ORG
+Software Knowledge: PERSON
+Software Knowledge: PERSON
+90: CARDINAL
+Residential Painting & Preparation
+
+Heavy Equipment Operations
+Flooring Removal & Installation
+Data Entry
+Telemarketing
+Billing & Collections: ORG
+Contract Negotiations
+Project Management
+Business Correspondence
+Contract Preparation
+Recordkeeping
+Purchase Order Preparation
+Conference Planning
+
+Work History
+Administrative: WORK_OF_ART
+04/2019: CARDINAL
+11/2020: CARDINAL
+Zoom & conference: ORG
+MS Excel: ORG
+Processed: GPE
+MS Excel: ORG
+FoxitPDF: PERSON
+Maintained: GPE
+MS Publisher: ORG
+MS Word: PERSON
+Prepared: PERSON
+RFI: ORG
+MS Office: ORG
+NISD: ORG
+FTP Sites: ORG
+12/2017: CARDINAL
+Processed: GPE
+EBT: ORG
+99%: PERCENT
+more than one dozen: CARDINAL
+Checked: PRODUCT
+Processed: GPE
+Maintained: GPE
+night: TIME
+Maintained: ORG
+Maintained: GPE
+Construction Laborer: PERSON
+Prepared: PRODUCT
+Gained: NORP
+Assisted: ORG
+Owner/Operator 01/2014: ORG
+01/2016: CARDINAL
+Created: ORG
+Maintained: GPE
+Liberal Arts And Sciences Jefferson State Community College - City: ORG
+one year: DATE
+3.7: CARDINAL
+GPA: ORG
+Springville High School - City: ORG
+State: ORG

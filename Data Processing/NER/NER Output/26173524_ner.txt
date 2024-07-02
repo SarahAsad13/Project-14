@@ -1,0 +1,37 @@
+CLIENT: GPE
+SPECIALIST: ORG
+Professional Experience
+Client Service: ORG
+2012: DATE
+second: ORDINAL
+Facilitate: ORG
+24 hours: TIME
+Public Relations & Event Planning Intern Sep 2011: ORG
+2012: DATE
+Facilitated: ORG
+May 2011 to Aug 2011: DATE
+State: ORG
+Oversaw Customer Rewards Program: PERSON
+Gained: NORP
+May 2009: DATE
+2010: DATE
+Monitored: ORG
+quarterly: DATE
+Cultivated: ORG
+third: ORDINAL
+Master of Science , Integrated Marketing Communications 2012 Roosevelt University: WORK_OF_ART
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Bachelor of Arts: ORG
+Mass Communications: ORG
+2009: DATE
+Babcock University: ORG
+State: GPE
+Nigeria: GPE
+Microsoft Office Suite
+
+Accomplishments
+
+Honored: ORG
+2010: DATE

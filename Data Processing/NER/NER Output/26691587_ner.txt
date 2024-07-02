@@ -1,0 +1,37 @@
+Grace Celsi: PERSON
+4 years: DATE
+busy hours: TIME
+Skills
+
+Service: ORG
+Guest: PERSON
+Reliable: WORK_OF_ART
+Team: ORG
+Communication: PRODUCT
+Relationship: DATE
+Child: PRODUCT
+First: ORDINAL
+CPR: ORG
+about hours: TIME
+State Apparel Team Lead: ORG
+Maintained: GPE
+Maintained: GPE
+Performed: ORG
+Wayne County Community College: PERSON
+State Some College: ORG
+Riverview Community High School: ORG
+State High School Diploma Expected: ORG
+05/2022: ORG
+2010-2018: DATE
+Most Valuable Player Award: WORK_OF_ART
+Youth: ORG
+Leads: PRODUCT
+Junior year: DATE
+Wayne State's: PERSON
+Taught 5th: FAC
+Huntington Elementary School
+
+Certifications
+
+Certified: ORG
+CPR: ORG

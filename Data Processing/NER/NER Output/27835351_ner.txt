@@ -1,0 +1,41 @@
+MAINTENANCE: ORG
+5+ years: DATE
+Skills
+
+Forklift driving
+Codes: ORG
+Standard: ORG
+Mechanical Repair: ORG
+Flooring Installation
+Framing
+Construction
+Carpentry
+Coordination
+Multitasking
+Maintenance & Repair
+Training & Development
+Friendly: WORK_OF_ART
+State Maintenance, Home Construction 08/2020 - Current
+
+Diagnosed: ORG
+Maintained: GPE
+Cut: ORG
+Examined: NORP
+Cut: FAC
+6: CARDINAL
+crown: ORG
+1: CARDINAL
+365+ days: DATE
+State: ORG
+daily: DATE
+OSHA: ORG
+1-2 hours: TIME
+State: ORG
+RV Technician: PERSON
+Performed: ORG
+Conducted: ORG
+RV: PERSON
+Roofer: PERSON
+Plywood: PERSON
+Door Hanger 02/2015 - 01/2017: PERSON
+City High School: ORG

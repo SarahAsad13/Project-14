@@ -1,0 +1,79 @@
+Group Fitness Instructor since1999: ORG
+2 years: DATE
+Nutrition Educator:
+
+Designed: WORK_OF_ART
+8 week: DATE
+2 years: DATE
+8 week: DATE
+3: CARDINAL
+Communicated: ORG
+Outdoor Adventure Group Coordinator: ORG
+monthly: DATE
+Yoga Instructor: WORK_OF_ART
+January 2015: DATE
+Coach: ORG
+April 2011 to August 2014: DATE
+Co-Coordinated: ORG
+Building Better Bodeez: WORK_OF_ART
+BBB: ORG
+Nutrition Challenge: ORG
+Created the Nutrition Connection Office: ORG
+Collaborated: ORG
+Performed: ORG
+weekly: DATE
+Zumba, Spinning, Yoga, Strength/Toning, Aqua Fitness: ORG
+Collaborated: ORG
+Bodeez Boomers Club: WORK_OF_ART
+Developed: PRODUCT
+June 2009 to: DATE
+April 2011 Company Name ï¼​ City: DATE
+weekly: DATE
+25-55: CARDINAL
+quarterly: DATE
+Group Fitness Instructor/ Personal Trainer: ORG
+October 1999: DATE
+April 2010: DATE
+weekly: DATE
+Spinning, Yoga: ORG
+Zumba: PERSON
+Skin Care Specialist: ORG
+October 1999: DATE
+August 2000: DATE
+2015: DATE
+Wellcoaches School of Coaching
+
+Master of Science : Exercise Science and Health Promotion: ORG
+2011: DATE
+California University of Pennsylvania: ORG
+State: GPE
+2007: DATE
+Indiana University: ORG
+State: GPE
+USA: GPE
+Yoga Alliance
+Exercise Is Medicine: ORG
+EIM: ORG
+the American College of Sports Medicine: ORG
+American Council on Exercise
+Aquatic Fitness Professional (AEA: ORG
+Aquatic Exercise Association
+â€‹CPR/AED/First Aid: ORG
+American Red Cross: ORG
+Life Guard: ORG
+American Red Cross: ORG
+LLC: ORG
+2012-2013: DATE
+Peer Reviewer: FAC
+Pinnacle Training & Consulting Systems "Synergy of Human Movement: ORG
+2012-2013: DATE
+Contributing Writer: WORK_OF_ART
+the "Laurel Mountain Post: ORG
+monthly: DATE
+Skills
+
+Program: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook
+Problem: ORG

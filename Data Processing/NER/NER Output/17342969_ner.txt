@@ -1,0 +1,279 @@
+Builds: PERSON
+Lean Journeys: WORK_OF_ART
+Organizational Goals: ORG
+Skill Highlights: PERSON
+Lean Implementations
+Change Agent
+
+: ORG
+Multi: GPE
+P&L Responsibilities
+Communications: ORG
+Labor Negotiations: ORG
+multi-million dollar: MONEY
+Changed Marinette Marine Module Construction: PERSON
+50% to 100%: PERCENT
+$5M: MONEY
+Module Facility: ORG
+$8M: MONEY
+Â Performed: PERSON
+Lean: GPE
+Customer Involvement: ORG
+Thermasys Corporation: ORG
+VP/GM: ORG
+Ship Construction 07/2015: ORG
+Fabrication, Assembly, Paint: ORG
+System: PRODUCT
+First Plate Cut: ORG
+Launch: NORP
+Schedule: PERSON
+Strategic Corporate Goals: ORG
+Relationship Building: ORG
+Collective Bargaining Unit: ORG
+Span: ORG
+4: CARDINAL
+over 850 Union: PERCENT
+61: CARDINAL
+Area Managers: ORG
+Lean Methods: Instrumental in the introduction and implementation of Lean: WORK_OF_ART
+Point of Use: ORG
+Implementation of Barcoding: ORG
+Name City: GPE
+Outfitting, Testing: WORK_OF_ART
+System: PRODUCT
+Propulsion
+Systems: ORG
+System: PERSON
+Span: ORG
+4: CARDINAL
+42: CARDINAL
+Stage of Construction: ORG
+June 2014: DATE
+roughly 65%: PERCENT
+90: CARDINAL
+97%: PERCENT
+70: CARDINAL
+LCS 9: LAW
+84%: PERCENT
+Team: ORG
+multi-million dollar: MONEY
+Work Centers: ORG
+Fabrication and Assembly: ORG
+06/2014 Company Name City: ORG
+the Construction of Modules: ORG
+Structure, Pipe Fabrication: WORK_OF_ART
+The Structural Trade (Steel and Aluminum: ORG
+50%: PERCENT
+each day: DATE
+1: CARDINAL
+Steel Module: ORG
+167: CARDINAL
+127: CARDINAL
+2: CARDINAL
+3: CARDINAL
+daily: DATE
+4: CARDINAL
+Team: ORG
+70: CARDINAL
+167: CARDINAL
+5S: CARDINAL
+Implemented Lean methods in the Pipe: WORK_OF_ART
+250: CARDINAL
+just over 400: CARDINAL
+Work Centers: ORG
+daily: DATE
+daily: DATE
+each day: DATE
+weekly: DATE
+75%: PERCENT
+thousands: CARDINAL
+hours: TIME
+Highlighting: ORG
+50 %: PERCENT
+the first year: DATE
+5S: CARDINAL
+11/2012: CARDINAL
+Name City: GPE
+Outfitting, Testing, System: WORK_OF_ART
+Lean Implementations and Team Building: ORG
+first 5 months: DATE
+Marinette Marine: ORG
+Lean Methods: ORG
+5S: PRODUCT
+Rigging: PERSON
+hours: TIME
+hours: TIME
+Module Construction 09/2009 to: ORG
+Name City: GPE
+the Construction of Modules: ORG
+JHSV: ORG
+Trades: PRODUCT
+Structure, Pipe, Fitout and Electrical: WORK_OF_ART
+370: CARDINAL
+JHSV: ORG
+LCS
+Programs: ORG
+the U.S. Navy: ORG
+50: CARDINAL
+just over 600: CARDINAL
+Skill: PERSON
+370: CARDINAL
+mid-January of 2012: DATE
+Phase II: PRODUCT
+Phase: ORG
+24: CARDINAL
+nearly 550: CARDINAL
+4 short months: DATE
+each week: DATE
+5S: CARDINAL
+50%: PERCENT
+Work Centers: ORG
+Vessel: GPE
+30%: PERCENT
+2nd: ORDINAL
+15%: PERCENT
+3rd: ORDINAL
+External: ORG
+90+: DATE
+first: ORDINAL
+roughly 75%: PERCENT
+Module: ORG
+Industry: ORG
+Name City: GPE
+HSF: ORG
+Trades: PRODUCT
+Structure, Pipe, Fitout and Electrical: WORK_OF_ART
+Lean: NORP
+Oct.2006: PERSON
+Nov 2007: DATE
+Lean Methods: ORG
+Tiger Teams: PERSON
+Nov 2007: DATE
+Module Facility: ORG
+100 acres: QUANTITY
+Corps of Engineers
+Spoils: ORG
+Lean Facility: ORG
+Corps of Engineers: ORG
+FEMA: ORG
+VE: ORG
+Alabama
+Department of Environmental Management: ORG
+Completed: ORG
+370: CARDINAL
+Supply Chain Management: ORG
+1: CARDINAL
+2: CARDINAL
+3: CARDINAL
+Continuous Improvement: PERSON
+40%: PERCENT
+1.7: MONEY
+44%: PERCENT
+Permanent" Corrective actions.
+: WORK_OF_ART
+Microsoft Project: ORG
+Began: PERSON
+PSI: ORG
+Customer: ORG
+Revolving: GPE
+Capital: ORG
+Name City: GPE
+Thermasys Corporation: ORG
+Business Unit Strategies: ORG
+Responsible for Aluminum: ORG
+Montgomery: GPE
+Alabama: GPE
+the Copper/Brass: ORG
+Detroit: GPE
+Michigan: GPE
+Implementing Lean Manufacturing: WORK_OF_ART
+Lean Manufacturing: ORG
+60% to 99%: PERCENT
+6 weeks to 3 days: DATE
+43%: PERCENT
+50%: PERCENT
+10%: PERCENT
+15%: PERCENT
+10%: PERCENT
+Restored: ORG
+Aluminum: PERSON
+Specialty: GPE
+Launched 113: CARDINAL
+3 years: DATE
+28: CARDINAL
+Grew: PERSON
+01/1999: CARDINAL
+Name City: GPE
+day: DATE
+the Heat Exchanger Division of Thermasys: ORG
+daily: DATE
+Lean: GPE
+Kaizen Approach: PERSON
+Lean Manufacturing: Took: ORG
+Kaizen: PERSON
+Kaizen: PERSON
+6% to 1.5%: PERCENT
+687: CARDINAL
+annual: DATE
+40%: PERCENT
+daily: DATE
+90+%: ORG
+eight months: DATE
+189: CARDINAL
+125: CARDINAL
+70%: PERCENT
+the high 90%: PERCENT
+35%: PERCENT
+the Kaizen Approach on Quality:: ORG
+Kaizen: PERSON
+Kaizen: PERSON
+John
+Deere: PERSON
+Name City: GPE
+the Heat Exchanger and Tubing Operations: WORK_OF_ART
+Continuous Improvement: PERSON
+Project Management:: ORG
+Implementation of this new: ORG
+annually: DATE
+Elimination of Epoxy Repair: ORG
+secondary: ORDINAL
+500: MONEY
+annual: DATE
+Thermasys: ORG
+Team Dynamics: ORG
+Process Improvements: ORG
+Engineers: ORG
+Name City: GPE
+Thermasys: ORG
+Technical: ORG
+Ford: ORG
+Aftermarket: PRODUCT
+$2.5M: MONEY
+Original Equipment Customers: ORG
+John Deere: ORG
+Thermasys: ORG
+QS 9000 Efforts: ORG
+QS 9000 Certification: ORG
+1996: DATE
+Insilco: PERSON
+Tubing: PERSON
+Troy State University City: ORG
+GPA: ORG
+3.6: CARDINAL
+Business Management GPA: ORG
+3.6: CARDINAL
+Business 1986 Auburn University City: ORG
+State Business
+Associates Degree : Drafting and Design Technology: ORG
+John Patterson: PERSON
+GPA: ORG
+4.0 Drafting: QUANTITY
+4.0: CARDINAL
+Skills
+
+Relationship: ORG
+Problem Solver: PRODUCT
+Conflict Resolution
+Great Organizational Skills: WORK_OF_ART
+Microsoft Office Professional
+Energetic: ORG

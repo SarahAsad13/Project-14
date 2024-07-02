@@ -1,0 +1,44 @@
+Skills
+
+Strong p: ORG
+Minor: ORG
+Work History
+Office: WORK_OF_ART
+daily: DATE
+the company Day: DATE
+day: DATE
+Medicare: ORG
+Practice Fusion and Payroll
+Communicating: ORG
+daily: DATE
+the day: DATE
+04/2013: CARDINAL
+daily: DATE
+Records: ORG
+Ordering: GPE
+Recruited: PRODUCT
+Established: ORG
+Medicare: ORG
+Medicaid: ORG
+Interpreted: ORG
+Established: FAC
+Continually: ORG
+daily: DATE
+Facilitated: ORG
+Volunteer 09/2011: PRODUCT
+Geriatrics: GPE
+Performed: ORG
+Healthcare: ORG
+01/2011: CARDINAL
+Loretto Hospital: ORG
+Bethany Hospital: FAC
+1 2011: DATE
+WINDSOR UNIVERSITY SCHOOL OF MEDICINE - City: ORG
+Skills: ORG
+Payroll: ORG
+Quality Assurance: ORG
+Craft Award - 2005: PERSON
+ANN: PERSON
+ROBERT H. LURIE CHILDREN'S: PERSON
+Chicago: GPE
+Illinois Formerly Children's Memorial Hospital: ORG

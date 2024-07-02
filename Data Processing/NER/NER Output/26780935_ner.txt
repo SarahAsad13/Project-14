@@ -1,0 +1,73 @@
+Trilingual: DATE
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Project Management
+Payroll System Expertise
+Creative Problem Solving: ORG
+Client: PERSON
+Internal Auditing
+Reporting
+Business Development
+HRIS Expertise
+
+Accomplishments
+
+Top: ORG
+HR Coordinator: ORG
+January 2011: DATE
+9: CARDINAL
+more than 285: CARDINAL
+semi-monthly: DATE
+yearly: DATE
+285: CARDINAL
+monthly: DATE
+weekly: DATE
+Arrange: NORP
+Manage: PRODUCT
+HRIS: ORG
+Ceate: ORG
+Communicate: ORG
+Server: NORP
+October 2009 to January 2011: DATE
+5: CARDINAL
+Maintained: GPE
+Averaged: PERSON
+between 18%-25%: PERCENT
+Server: GPE
+July 2004 to October 2009: DATE
+5: CARDINAL
+Maintained: GPE
+Averaged: PERSON
+between 18%-25%: PERCENT
+August 2004 to August 2006 Company Name ï¼​ City: DATE
+two first year: DATE
+French: NORP
+Created: ORG
+Blackboard: PERSON
+two: CARDINAL
+my second year: DATE
+second: ORDINAL
+summer: DATE
+three: CARDINAL
+two: CARDINAL
+at least six: CARDINAL
+Bachelor of Arts : Business Translation/French: ORG
+Northern Illinois University: ORG
+GPA: ORG
+3.8: CARDINAL
+Skills: ORG
+Carl Henry: PERSON
+Sales Training: PERSON
+Client: GPE
+Leadership: NORP
+Microsoft Office: ORG
+Troubleshooting, Problem: ORG
+Organized: ORG
+Detail: PERSON
+Ultimate Software Payroll: ORG
+HRIS: PERSON
+Kronos Time: GPE
+Attendance: PERSON
+Paychex: GPE
+NETtime: ORG

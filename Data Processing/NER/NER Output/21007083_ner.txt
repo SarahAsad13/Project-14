@@ -1,0 +1,38 @@
+Adobe Photoshop
+Capture: WORK_OF_ART
+Freelance Work
+Second/Associate: WORK_OF_ART
+Weddings: ORG
+Mitzvahs: ORG
+Barrie Anne Photography: PERSON
+Philadelphia: GPE
+Jeremy Messler Photography - Cherry Hill NJ: PERSON
+C & C Studios: ORG
+Chalfont: GPE
+Onestop.com: ORG
+Barney's New York and: ORG
+Product Photographer 
+: WORK_OF_ART
+June 2014: DATE
+State
+
+Collaborated: ORG
+Photograph: ORG
+May 2013 to March 2014: DATE
+Photographer: ORG
+Photograph: ORG
+Skin: PERSON
+Photograph: ORG
+Catalogs: PERSON
+October 2012: DATE
+May 2013: DATE
+Cropped: ORG
+Associate of Science : Photography: WORK_OF_ART
+2012: DATE
+Antonelli Institute of Art and Photography ï¼​ City: ORG
+2009: DATE
+North Penn High School: ORG
+Skills
+
+Desktop Publishing Software: ORG
+Lightroom: ORG

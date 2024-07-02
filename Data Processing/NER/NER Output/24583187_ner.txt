@@ -1,0 +1,88 @@
+INTERIOR: ORG
+Highlights
+Microsoft Office Suite: ORG
+Apple iWork Suite: ORG
+Autodesk AutoCAD Architecture 2015: WORK_OF_ART
+Buzzsaw: LOC
+Revit: GPE
+Adobe Creative Suite: PERSON
+Acrobat Pro: PERSON
+InDesign: ORG
+Photoshop: ORG
+GoPro Studio: PERSON
+Studio Webware: PERSON
+Wecora: GPE
+Bill Quick: PERSON
+Google: ORG
+5: CARDINAL
+K SF: ORG
+Alterra Group Limited: ORG
+Harbor Point Ltd.: ORG
+Max Capital Group Ltd.: ORG
+Interior: ORG
+2: CARDINAL
+New York City: GPE
+6/1996: CARDINAL
+10/2006: CARDINAL
+the Green Design Committee: ORG
+100%: PERCENT
+Stevens Institute of Tech: ORG
+Center for Technology Management: ORG
+96: CARDINAL
+K SF: ORG
+North Jersey: GPE
+Community Bank: ORG
+ConnectOne Bank: ORG
+65: CARDINAL
+K SF: ORG
+Montclair State University: ORG
+Campus: ORG
+Weehawken Police Department: ORG
+Ferrari-Maserati NA: ORG
+Kia Motor: ORG
+Admiral's Walk Condominiums: ORG
+Lobby & atrium: ORG
+The Mill Building: FAC
+Piermont: GPE
+Bergen County Jail: GPE
+263: CARDINAL
+K SF: ORG
+FF&E: ORG
+Visconti Design Associates: ORG
+The Bombay
+Company: ORG
+a CAD Draftsperson at Modular Home Center: ORG
+Feb 2012: DATE
+2015: DATE
+Cooper Gardner: PERSON
+Interior Design: ORG
+Master-Planning: ORG
+Willis: NORP
+Interior: ORG
+R&Q Investment Holdings Ltd.: ORG
+Bermuda/St.
+Kitts: custom millwork design: ORG
+INTERIOR: ORG
+Nov 2006: DATE
+2010: DATE
+Maintained: GPE
+Codes: ORG
+Interior Design ROCHESTER INSTITUTE OF TECHNOLOGY ï¼​ City: ORG
+State Interior Design: ORG
+NATIONAL COUNCIL FOR INTERIOR DESIGN QUALIFICATIONS: ORG
+NCIDQ: ORG
+#17785: DATE
+Professional Affiliations: ORG
+Energy and Environmental Design: ORG
+LEED AP: PERSON
+Skills: ORG
+Acrobat: PERSON
+Adobe Creative Suite: PERSON
+Photoshop: PERSON
+Apple: ORG
+Codes, C: ORG
+COUNCIL: ORG
+InDesign: ORG
+Microsoft Office Suite: ORG
+Quick: GPE
+Revit: GPE

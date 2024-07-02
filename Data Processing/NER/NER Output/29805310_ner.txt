@@ -1,0 +1,32 @@
+more than 2 years: DATE
+Name City: GPE
+State: ORG
+10/2013: CARDINAL
+99 %: PERCENT
+Cleaned: ORG
+Trained 2: ORG
+Welcomed: ORG
+Mentored: ORG
+Communicated: ORG
+Assisted: ORG
+18 months: DATE
+Name City: GPE
+Deli Clerk 08/2011: PERSON
+99 %: PERCENT
+health department regulations: ORG
+Welcomed: ORG
+Name City: GPE
+Cleaned: ORG
+Name City: GPE
+State: ORG
+Cashier 05/2010: PERSON
+95 %: PERCENT
+health department
+regulations: ORG
+National University Academy: ORG
+State General Education
+: ORG
+Riverside City College: ORG
+City: GPE
+State: ORG
+Merchandising, Natural: WORK_OF_ART

@@ -1,0 +1,135 @@
+TEACHER
+Accomplishments
+
+Monitor school: PERSON
+the Texas Education Agency: ORG
+TRS: ORG
+2015: DATE
+2015: DATE
+TRS: ORG
+Health Care: ORG
+more than 500: CARDINAL
+Awarded: ORG
+TEACHER: ORG
+March 2013: DATE
+third: ORDINAL
+Texas: GPE
+the Texas Education Agency: ORG
+Prepare: ORG
+monthly: DATE
+third: ORDINAL
+Compile: PRODUCT
+monthly: DATE
+State Regulations, Health Coverage Plans: ORG
+Texas Legislative: ORG
+Resolve: PERSON
+third: ORDINAL
+monthly: DATE
+TRS Retirees: ORG
+Health Insurance: ORG
+TRS Retirees: ORG
+Health Insurance: ORG
+annual: DATE
+the Affordable Care Act: LAW
+Health Insurance: ORG
+the Comprehensive Annual Financial Report: ORG
+TRS: ORG
+2015: DATE
+TRS: ORG
+more than $5M: MONEY
+the 2009-2014 fiscal years: DATE
+30%: PERCENT
+more than 100: CARDINAL
+2015: DATE
+TRS: ORG
+Health Care: ORG
+more than 500: CARDINAL
+more than $83: MONEY
+Awarded: FAC
+June 2007 to March 2013: DATE
+the City of Austin: GPE
+the fiscal year: DATE
+Accounts Payable: ORG
+monthly: DATE
+the City of Austin Records Retention: GPE
+the department of Aviation: ORG
+the department of Aviation's: ORG
+Dave Arthur: PERSON
+Power Pipeline
+Leadership Conference: ORG
+Dallas: GPE
+TX: ORG
+the City of Austin: GPE
+ProCard: ORG
+daily: DATE
+the fiscal year: DATE
+this fiscal year: DATE
+Aviation Department: ORG
+Processed: GPE
+Performed: ORG
+daily: DATE
+Maintained: GPE
+the City of Austin Records Retention: GPE
+Specialist Program: ORG
+Technician 
+December2005: PERSON
+April 2006 Company Name
+
+Performed: DATE
+Medicaid: ORG
+Children: PRODUCT
+Oversaw: GPE
+the Specialty Programs Work Group: ORG
+daily: DATE
+3 months: DATE
+more than 1500: CARDINAL
+Accounting Clerk: PERSON
+July 2002 to October 2005: DATE
+Accounts Receivable and Accounts Payable: ORG
+City: GPE
+State: GPE
+US CONCORDIA UNIVERSITY: ORG
+AUSTIN: GPE
+TEXAS Bachelors of Arts in Business Administration: ORG
+January 2012 to December 2014: DATE
+Associates of Arts : Business Administration AMERICAN INTERCONTINENTAL UNIVERSITY: ORG
+ï¼​ City: GPE
+State: GPE
+US AMERICAN: NORP
+INTERCONTINENTAL UNIVERSITY: ORG
+ILLINOIS Associates of Arts in Business Administration: ORG
+November 2010 to December 2011: DATE
+EAGLE: ORG
+EAGLE: ORG
+TEXAS: GPE
+May 1998: DATE
+Professional Affiliations: ORG
+MAXIMUS: ORG
+TEXAS ACCESS ALLIANCE: ORG
+Skills
+Accounting: ORG
+Credit, Invoices, Budget, Accounts Payable: ORG
+Customer
+Service: ORG
+General Accounting,: ORG
+Operations: ORG
+Receptionist: NORP
+Accounts Receivable: ORG
+Basis, Data Entry: ORG
+Associate, Aviation: ORG
+Budgeting, Career Development: ORG
+Contracts: ORG
+Credit Card: ORG
+Fixed Assets: ORG
+Maintenance,: ORG
+Pipeline: ORG
+Purchase Orders, Reconciling, Supply Chain: ORG
+Collection, Financial Report: ORG
+Healthcare: ORG
+Increase, Insurance Billing, Reconciliation, Solutions: ORG
+Filings: ORG
+Great Customer Service Skills: ORG
+Legal Documents: ORG
+Team Player: ORG
+Medicaid: ORG
+Quota: ORG

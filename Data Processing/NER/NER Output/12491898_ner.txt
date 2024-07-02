@@ -1,0 +1,243 @@
+Almeda-Genoa Constructors: ORG
+sin distinciÃ³n de raza: PERSON
+edad: GPE
+condiciÃ³n de veterano: ORG
+Informe al Departamento de Recursos Humanos de la: PERSON
+POR FAVOR: ORG
+Complete: PERSON
+secciÃ³n de esta solicitud: PERSON
+un: ORG
+Estado: GPE
+Postal: ORG
+TelÃ: PERSON
+TelÃ: PERSON
+TelÃ: PERSON
+Correro: ORG
+Salario: GPE
+Tiene: PERSON
+autorizado para trabajar SÃ​: PERSON
+el futuro: PERSON
+visa de trabajo: PERSON
+para el trabajo solicitado: PERSON
+Incluya: PERSON
+sistemas informÃ¡ticos: PERSON
+indique su nivel de conocimiento bÃ¡sico: ORG
+Adjunte: PERSON
+1: CARDINAL
+CÃ³mo: GPE
+enterÃ³: ORG
+de Almeda-Genoa Constructors: ORG
+todas las que aplican: PERSON
+Agencia de Empleo: ORG
+RecomendaciÃ³n de actual: PERSON
+PÃ¡gina Web de la compaÃ±Ã​a: PERSON
+Revista: PERSON
+Feria de empleo: PERSON
+Otro: FAC
+EDUCACIÃ“N Nombre: PERSON
+grado: PERSON
+Grado: PERSON
+Tipo de escuela completado: PERSON
+Escuela Primaria Escuela Secundaria Universidad Otros: FAC
+para el trabajo: PERSON
+2: CARDINAL
+Incluya su experiencia: PERSON
+Tambien: PERSON
+su experienca relevante como voluntario: PERSON
+su C.V.: PERSON
+ademas completar la informacion solicitada: ORG
+Para: PERSON
+experiencia previa: PERSON
+indique si: ORG
+hautilizado otro: PERSON
+TÃ​tulo del Puesto Salario: PERSON
+De / A Nombre de la organizaciÃ³n: ORG
+Nombre: GPE
+TÃ​tulo del Puesto Salario: PERSON
+De / A Nombre de la organizaciÃ³n: ORG
+Nombre: GPE
+TÃ​tulo del Puesto Salario: PERSON
+De / A Nombre de la organizaciÃ³n: ORG
+Nombre: GPE
+TÃ​tulo del Puesto Salario: PERSON
+De / A Nombre de la organizaciÃ³n: ORG
+Nombre: GPE
+3: CARDINAL
+que tengan: PERSON
+de su: PERSON
+el trabajo: GPE
+Nombre nÃºmero de telÃ: GPE
+CuÃ¡ndo: NORP
+Nombre nÃºmero de telÃ: GPE
+CuÃ¡ndo: NORP
+CuÃ¡ndo: NORP
+individuo: GPE
+LEA LAS INSTRUCCIONES: ORG
+un: ORG
+embargado: GPE
+el Tribunal: ORG
+un: ORG
+automÃ¡tico: GPE
+para el: ORG
+sÃ³lo se considerarÃ¡n aquellos: PERSON
+al trabajo: PERSON
+Si: GPE
+Si: PERSON
+SÃ​: PERSON
+California: GPE
+1: CARDINAL
+completado: PERSON
+descargada: GPE
+el caso: GPE
+sido desestimado judicialmente: PERSON
+2: CARDINAL
+un: ORG
+la participaciÃ³n: ORG
+programa de
+desviaciÃ³n: PERSON
+al juicio: PERSON
+3: CARDINAL
+de marihuana: PERSON
+tenga mÃ¡s de dos: PERSON
+el momento: ORG
+se relleneesta aplicaciÃ³n: PERSON
+Georgia: GPE
+dado de alta: ORG
+virtud de la Primera Ley: ORG
+la delincuencia: FAC
+Massachusetts: GPE
+la pregunta: ORG
+del estado de Washington: PERSON
+Limite su respuesta: PERSON
+las: GPE
+condenas: GPE
+para los: PERSON
+la fecha de la condena: PERSON
+prisiÃ³n liberaciÃ³n: PERSON
+lo que sea: PERSON
+encuentra: ORG
+dentro de los Ãºltimos: PERSON
+10) aÃ±os: DATE
+4: CARDINAL
+cada: GPE
+Certifico: GPE
+todas las respuestas: PERSON
+de mi
+conocimiento: PERSON
+mi consideraciÃ³n para el empleo: PERSON
+Entiendo: FAC
+de la informaciÃ³n presentada: ORG
+hoja de vida: PERSON
+entrevista: PERSON
+un: ORG
+supuesto de denegaciÃ³n: PRODUCT
+Entiendo: PRODUCT
+nada: ORG
+oferta: GPE
+acuerdo: GPE
+el empleo: ORG
+Dragados: PERSON
+lo que significa: PERSON
+tanto: GPE
+CompaÃ±Ã​a: PRODUCT
+En el caso de que yo: LOC
+empleado de Almeda-Genoa Constructors: PERSON
+su
+CÃ³digo de Ã‰tica: PERSON
+Almeda-Genoa Constructors: ORG
+reserva el derecho: ORG
+Entiendo: FAC
+oferta de empleo: PERSON
+xito del proceso de selecciÃ³n de
+empleados de la compaÃ±Ã​a: PERSON
+el resultado de los: ORG
+satisfactoria para la: PERSON
+CompaÃ±Ã​a: PRODUCT
+un: ORG
+verificaciÃ³n de referencia: PERSON
+un: ORG
+Entiendo: LOC
+de Dragados: ORG
+tiene la: PERSON
+para hacer: PERSON
+acuerdo que sea: PERSON
+sin la: ORG
+escrito
+del Presidente: PERSON
+escrito: PERSON
+el presidente al: GPE
+Firma Feche Esta: PERSON
+bueno para: PERSON
+60: CARDINAL
+ConsideraciÃ³n: PRODUCT
+empleo despuÃ: PRODUCT
+5: CARDINAL
+Consumer Financial Protection Bureau: ORG
+1700: DATE
+G Street N.W: ORG
+Washington: GPE
+D.C.: GPE
+20006: DATE
+the Fair Credit Reporting Act Consumer: LAW
+Fair: ORG
+Inaccurate: ORG
+30 days: DATE
+FCRA: ORG
+Consumer Financial Protection Bureau: ORG
+1700: DATE
+G Street N.W: ORG
+Washington: GPE
+D.C.: GPE
+20006: DATE
+seven years
+old: DATE
+more than 10 years old: DATE
+Access: PRODUCT
+FCRA: ORG
+Social Security: ORG
+Unsolicited: ORG
+1-888-5-OPTOUT: CARDINAL
+1-888: CARDINAL
+60 days: DATE
+every 12 months: DATE
+FCRA: ORG
+Credit: ORG
+States: GPE
+FCRA: ORG
+Skills
+Compliance Management, Credit, DC, Mail, Office: ORG
+Supervision
+Professional Summary
+
+Responsible: ORG
+years: DATE
+CNA: ORG
+Team: ORG
+Healthcare: ORG
+Process: PRODUCT
+Verbal: ORG
+Work History
+Construction Laborer: WORK_OF_ART
+extended hours: TIME
+Prepared: PRODUCT
+Supply Chain Specialist: ORG
+Established: ORG
+each quarter: DATE
+60%: PERCENT
+one year: DATE
+Maintained: GPE
+Performed: ORG
+Coordinated: ORG
+2007: DATE
+Lamar High School: ORG
+2012: DATE
+Houston Community College - Coleman College for Health Sciences - City: ORG
+State: ORG
+OSHA: ORG
+10: CARDINAL
+NCCER: ORG
+Core Curriculum: PERSON
+Core Curriculum:Introductory Craft: PERSON
+2017: DATE
+Houston Launch Pad - City: ORG
+Certified Nurses Aide: WORK_OF_ART

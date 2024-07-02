@@ -1,0 +1,170 @@
+4 years: DATE
+Windows: GPE
+Android: ORG
+Configuring: GPE
+Troubleshooting Windows: PERSON
+Linux: GPE
+Configuring: GPE
+Software Installation: ORG
+Troubleshooting
+Implementing, Configuring: WORK_OF_ART
+Critical Thinking: ORG
+Root Cause Analysis
+Encryption
+File Structures: ORG
+Network Protocols: PRODUCT
+AAA Security Model
+Accounts and Group: ORG
+Browser Support
+TECHNOLOGY: PERSON
+14.04: CARDINAL
+10.8-10.11: CARDINAL
+Android: PERSON
+2010-2016: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Google Apps (Drive: ORG
+Docs: DATE
+Sheets: ORG
+Slides: ORG
+Keep: PERSON
+Google
+Drive Sync Client: ORG
+Firefox: PERSON
+Chrome: PERSON
+Safari: PERSON
+Edge: ORG
+Wireshark: PERSON
+Sublime Text: PERSON
+MSRA: ORG
+Microsoft: ORG
+Puppet: ORG
+2012: DATE
+DNS: ORG
+DHCP: ORG
+LAN/WAN: ORG
+VPN/Remote Connectivity - OpenVPN: ORG
+Cisco: GPE
+Microsoft Virtual PC/Hyper-V: ORG
+TeamViewer: ORG
+Terminal Services: ORG
+Netgear, Linksys, Firewall: ORG
+Ports: ORG
+Routing & Switching: ORG
+OSPF: ORG
+Strong: PERSON
+Dell: ORG
+HP: ORG
+IBM: ORG
+Lenovo: ORG
+Apple: ORG
+Microsoft: ORG
+Android Smartphones: PERSON
+iPhones: ORG
+iPads: FAC
+Routers: PRODUCT
+Switches: ORG
+Modems: PERSON
+Video Conferencing: ORG
+Microphones: PRODUCT
+IPSEC: ORG
+GRE: ORG
+Radius / TACACS: ORG
+Strong: PERSON
+more than 120,000: CARDINAL
+Windows: NORP
+Linux: PERSON
+SolidWorks: ORG
+CAD: ORG
+SCCM: NORP
+Puppet: ORG
+Active Directory: ORG
+Google Groups: ORG
+Google: ORG
+Google: ORG
+Google X: ORG
+Nest: ORG
+Linux: PERSON
+WinOps: ORG
+SecOps: ORG
+NetOps: ORG
+Name City: GPE
+State: ORG
+Provided Remote: WORK_OF_ART
+600: CARDINAL
+New York Life Insurance: ORG
+Installed New York Life: ORG
+WinMagic: ORG
+SecureDoc: PRODUCT
+Windows: NORP
+Reset: PRODUCT
+OWA: ORG
+Microsoft Office: ORG
+2003-2008: DATE
+Outlook: PERSON
+Implemented Security with Windows Firewall: ORG
+Antivirus: PRODUCT
+Troubleshot: PERSON
+Malware: ORG
+the New York Life: ORG
+Version of Windows: ORG
+Pluralsight.com: ORG
+Help Desk Support: LOC
+A+(801/802: ORG
+Network: ORG
+CBTNuggets.com: ORG
+Microsoft: ORG
+Windows Server: PERSON
+410: CARDINAL
+411: CARDINAL
+412: CARDINAL
+Cisco: GPE
+the EC Council Certified Ethical Hacker(v8.0: ORG
+Bash: PERSON
+Skills: ORG
+Antivirus: PRODUCT
+Apple: ORG
+Bash: GPE
+Basic: GPE
+BGP: ORG
+CAD: ORG
+CCNA: PERSON
+CLI: ORG
+Cisco: GPE
+Cisco: GPE
+Hardware: ORG
+Council, Critical Thinking, Encryption, Client,: ORG
+Dell: ORG
+DHCP: ORG
+DNS: ORG
+Edge: ORG
+Firewall, Forms, Help Desk
+Support: ORG
+IBM: ORG
+LAN: ORG
+Linux: GPE
+Linux: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows 7: ORG
+Microsoft Windows: ORG
+Word: PERSON
+Modems: PERSON
+Networking, Networks: ORG
+OSPF: ORG
+Printers: PERSON
+Protocols: PERSON
+Routers: FAC
+Routing: GPE
+Software Installation: ORG
+SolidWorks: ORG
+SSL: ORG
+Switches: ORG
+TCP/IP, TV: ORG
+Video Conferencing: ORG
+VOIP: ORG
+WAN: ORG

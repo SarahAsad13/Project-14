@@ -1,0 +1,66 @@
+8+ years': DATE
+Highlights: GPE
+PRIVACY DATA SYSTEMS: ORG
+LLC: ORG
+8+ years': DATE
+skills & core competencies: ORG
+Market Research
+Development of Training Materials: ORG
+Adobe Creative Suite: PERSON
+InDesign: ORG
+Adobe Acrobat: PERSON
+CRM: PRODUCT
+Salesforce: ORG
+Microsoft Dynamics CRM: ORG
+Planning/Organization
+Exemplary: ORG
+Innovative: NORP
+Resourceful: GPE
+LLC: ORG
+SenditCertified: ORG
+SenditCertified: ORG
+eSignatures: ORG
+MS Outlook: GPE
+API: ORG
+Contribute: ORG
+Develop: ORG
+Develop: ORG
+Management of VAR: ORG
+MSP: ORG
+Design: PRODUCT
+CRM: PRODUCT
+01/2003: CARDINAL
+Corporate Atlantic Region: LOC
+9: CARDINAL
+Oversaw: GPE
+Utilized: ORG
+Allocated: ORG
+Highly: PERSON
+May 1996: DATE
+Texas A&M University: ORG
+Interests: NORP
+2007: DATE
+2010: DATE
+Allen Sports Association Board
+
+Additional Information: ORG
+2007: DATE
+2010: DATE
+Sports Association Board: ORG
+Adobe Acrobat: PERSON
+Photoshop: PERSON
+API: ORG
+Branding: ORG
+Competitive
+Analysis: ORG
+CRM: PRODUCT
+Client Support: PERSON
+Illustrator: ORG
+InDesign: ORG
+DIRECTOR: ORG
+Market
+Research, Marketing Strategies: ORG
+Media Relations: ORG
+Microsoft Dynamics: ORG
+MS Outlook: PERSON
+Training Materials: ORG

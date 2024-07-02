@@ -1,0 +1,205 @@
+Microsoft: ORG
+an Enterprise Desktop Architect: ORG
+VMware Server/View
+IIS
+Leadership
+System Center Configuration: ORG
+App-V
+: PERSON
+InstallShield AdminStudio: ORG
+VDI: ORG
+ASP.NET/VB.NET: ORG
+Microsoft BitLocker Administration: ORG
+Monitoring
+MS: ORG
+App Compat: PERSON
+Spanish: NORP
+2010: DATE
+Jul 2011: PERSON
+four: CARDINAL
+Community Star: ORG
+Key Talent: LOC
+85,000: CARDINAL
+Fortune 100: PRODUCT
+Enterprise: ORG
+MDOP: ORG
+Microsoft: ORG
+Bitlocker: ORG
+ConfigMgr 2012: ORG
+App-V.
+Founded: PERSON
+the Americas Client Solutions Birds: ORG
+40: CARDINAL
+Windows 8: PRODUCT
+Readiness Groups: ORG
+90: CARDINAL
+85,000: CARDINAL
+VB.NET: ORG
+three: CARDINAL
+Windows 7: LOC
+2010/2012: DATE
+ZTI: ORG
+MDT: ORG
+2007: DATE
+20: CARDINAL
+App-V: PERSON
+zero: CARDINAL
+thousands: CARDINAL
+PGP: ORG
+Bitlocker: GPE
+XP: ORG
+Created: ORG
+3 year: DATE
+Windows 8/Windows: ORG
+over $3 million: MONEY
+MDT: ORG
+2012: DATE
+USMT: ORG
+5 month: DATE
+2 Â½ years: DATE
+400,000: MONEY
+the Windows 7: LOC
+Workstation Transformation: ORG
+Microsoft: ORG
+2011: CARDINAL
+the Enterprise Client Systems: ORG
+2003: DATE
+2007: DATE
+over 30,000: CARDINAL
+22: CARDINAL
+hundreds: CARDINAL
+Intermountain Healthcare: ORG
+Performed QC: PERSON
+over 400: CARDINAL
+hundreds: CARDINAL
+InstallShield AdminStudio: ORG
+Utilized App-V: WORK_OF_ART
+ThinApp: ORG
+Integrated App-V: ORG
+VDI: ORG
+VMware View: FAC
+OSD: ORG
+WSUS: ORG
+EFS/Bitlocker/Safeboot: ORG
+3: CARDINAL
+over 250: CARDINAL
+one year: DATE
+5: CARDINAL
+2: CARDINAL
+Intermountain: GPE
+VDI: ORG
+VMware View: ORG
+100: CARDINAL
+VB.NET: ORG
+over 3 million: CARDINAL
+thousands: CARDINAL
+24 hours: TIME
+10 minutes: TIME
+VB.NET: ORG
+the Enterprise Client Systems: ORG
+hundreds: CARDINAL
+400: CARDINAL
+2: CARDINAL
+XP: ORG
+30,000: CARDINAL
+VMware View: FAC
+Windows 7: PRODUCT
+30%: PERCENT
+Architected a Certificate Authority: ORG
+logon: PERSON
+GPO: ORG
+Microsoft: ORG
+Intermountain: GPE
+HIPPA: ORG
+the Enterprise Desktop Subcommittee: ORG
+Hardware
+Subcommittee: ORG
+the CMDB Subcommittee: ORG
+Intermountain Healthcare: ORG
+OSD: ORG
+SCCM: ORG
+Created: ORG
+WMI: ORG
+SCCM: ORG
+BitLocker: ORG
+XML: ORG
+Sep 2005: DATE
+two: CARDINAL
+Provided 24 hour: TIME
+over 15: CARDINAL
+Created: ORG
+Park City Group's: ORG
+Exchange: ORG
+2000/2003: DATE
+Networking: ORG
+Active Directory: WORK_OF_ART
+Oracle: NORP
+Thailand: GPE
+five-day: DATE
+VMware Workstation: ORG
+Park City Group's: ORG
+Quickly: ORG
+hours: TIME
+ExxonMobil - Senior Systems Technical: ORG
+Sep 2002: DATE
+Sep 2005: DATE
+100,000: CARDINAL
+3: CARDINAL
+User Support Engineers and: ORG
+Data Management: ORG
+3: CARDINAL
+ExxonMobil: ORG
+5000: CARDINAL
+XP: ORG
+100,000: CARDINAL
+over $200,000: MONEY
+annual: DATE
+5: CARDINAL
+1: CARDINAL
+over $300,000: MONEY
+XP: ORG
+5: CARDINAL
+the Application Deployment: ORG
+Coordinator Queue: PERSON
+80%: PERCENT
+20%: PERCENT
+2 months: DATE
+over $280,000: MONEY
+Learned Active Directory: ORG
+2 weeks: DATE
+75: CARDINAL
+60: CARDINAL
+a year: DATE
+10: CARDINAL
+1: CARDINAL
+Team: ORG
+1: CARDINAL
+every 2 days: DATE
+more than 1: CARDINAL
+just 2 years: DATE
+Perl: WORK_OF_ART
+thousands of dollars: MONEY
+Business/MIS Brigham Young University: ORG
+State Business/MIS: ORG
+3.77: CARDINAL
+Skills: ORG
+ASP.NET: ORG
+Active Directory: PERSON
+AD: ORG
+Hardware: ORG
+Consulting, Encryption, Client: ORG
+Data Management: ORG
+XML: ORG
+Imaging: GPE
+InstallShield: ORG
+Knowledge Management, Leadership: ORG
+#, Exchange: MONEY
+Windows OS: ORG
+2: CARDINAL
+Oracle: NORP
+Perl: ORG
+SMS: ORG
+Spanish: NORP
+Server: GPE
+VBScript: ORG
+View: ORG

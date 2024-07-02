@@ -1,0 +1,91 @@
+VOLUNTEER ASST: PERSON
+five years: DATE
+Assisting
+Management of Human Resources: ORG
+Doctorate: ORG
+Manufacturing, Government: ORG
+Healthcare: ORG
+Business Administration: ORG
+MBA: WORK_OF_ART
+Skills
+
+Human Resource Management: ORG
+Business Administration: ORG
+Grand Canyon University: ORG
+2016: DATE
+04-2018: DATE
+Key: NORP
+Marketing Management
+Economics
+Leadership Organizations
+Operations Management
+Quantitative Methods: ORG
+Managerial Accounting
+Finance: ORG
+Client: GPE
+Business Administration: ORG
+Grand Canyon University: ORG
+2016: DATE
+04-2018: DATE
+Key: NORP
+Marketing Management
+Economics
+Leadership Organizations
+Operations Management
+Quantitative Methods: ORG
+Managerial Accounting
+Finance: ORG
+Client: GPE
+Work History
+
+Risk: WORK_OF_ART
+Strong: PERSON
+Strong: PERSON
+Team: ORG
+Volunteer Asst: PERSON
+State: ORG
+January 2009: DATE
+State: ORG
+August 2009 to September 2014: DATE
+Assist: ORG
+Assist: NORP
+Assist: NORP
+Assist: NORP
+Assist: NORP
+January 2014: DATE
+Assist: ORG
+Assist: NORP
+Assist: NORP
+Assist: NORP
+Assist: NORP
+Skills
+Advertising: ORG
+BA: ORG
+Business Administration: ORG
+Economics: ORG
+Finance: ORG
+Human
+Resource Management, Leadership, Logistics: ORG
+Managerial Accounting, Marketing Management: ORG
+Operations Management: ORG
+Product Design and Development: ORG
+BA: ORG
+Business Administration: ORG
+Economics: ORG
+Finance: ORG
+Human
+Resource Management, Leadership, Logistics: ORG
+Managerial Accounting, Marketing Management: ORG
+Operations Management: ORG
+Product Design and Development: ORG
+BA Entrepreneurship: ORG
+Specializing in Logistics: ORG
+2010: DATE
+2015: DATE
+Advertising New Business Strategy Organizational Management Organizational Dynamics: ORG
+MBA - Business Administration
+Grand Canyon University
+
+City: ORG
+State: ORG
+2018: DATE

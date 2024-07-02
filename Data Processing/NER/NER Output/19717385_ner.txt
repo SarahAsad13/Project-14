@@ -1,0 +1,107 @@
+2018: DATE
+Alliant International University: ORG
+State: GPE
+United States: ORG
+California School of
+Professional Psychology
+Master of: ORG
+Avinashilingam Institute for Home Science and Higher Education for Women: ORG
+State: ORG
+India: GPE
+GPA - 3.63Â: ORG
+Amrita Viswa Vidhyapeetham: PERSON
+State: GPE
+India: GPE
+Amrita School of Communication: ORG
+GPA - 3.07Â: ORG
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Contact: PRODUCT
+references &: ORG
+License: ORG
+Zip Recruiter: PERSON
+Attend: ORG
+Volunteer Feb 2016: PERSON
+2015 to Nov 2015: DATE
+53: CARDINAL
+Maintained: GPE
+daily: DATE
+Jan 2015 to Feb 2015: DATE
+Conducted &: ORG
+Stress Inventories: ORG
+Family & Matrimonial: ORG
+Dec 2014 to Jan 2015: DATE
+Assistance: PERSON
+May 2014: DATE
+Psychiatric: ORG
+Witnessed: PRODUCT
+ECT: ORG
+Gained: NORP
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Skills
+Organisational Skills: ORG
+SPSS: ORG
+2014-15)Â: DATE
+82: CARDINAL
+82: CARDINAL
+Exclusion Criteria: FAC
+Five: CARDINAL
+Group B ( Exercise Diet: ORG
+Group A: ORG
+Group B.: PERSON
+Group A and: ORG
+StateBoard: ORG
+Matriculation: ORG
+Demographic: PERSON
+2014: DATE
+150: CARDINAL
+24: CARDINAL
+17: CARDINAL
+Mindfulness Attention Awareness: ORG
+Burnout Inventory: ORG
+karl pearson: PERSON
+Mindfulness and Burnout: ORG
+Matriculation and State: ORG
+Indian: NORP
+Personality: PERSON
+2015: DATE
+100: CARDINAL
+48: CARDINAL
+The Myers Briggs Type Indicator: ORG
+MBTI: ORG
+two: CARDINAL
+Snega Prabha S.: PERSON
+Sawyerpuram Pope's: PERSON
+Emerging Aspirants In Research: ORG
+II: CARDINAL
+2: CARDINAL
+ISSN:2319-: ORG
+1902: DATE
+July-December 2013: DATE
+Preetha Menon: PERSON
+Snega Prabha S. Autosuggestion: PERSON
+Weight Management: ORG
+Female College Students: ORG
+International Journal of Scientific Research: ORG
+4: CARDINAL
+7 July 2015.Â: DATE
+Rehabilitation Council of India: ORG
+2014: DATE
+2015: DATE
+Hypnotism: NORP
+2015: DATE
+Bio Ethics: ORG
+Research: GPE
+2014)Â: CARDINAL
+Affiliations: ORG
+APA - American Psychological Association: ORG
+Volunteer Activities: PRODUCT
+CA: PERSON
+June 2016 - Present: DATE
+Humane Animal Society - India Â: ORG
+2014 - Nov 2015: DATE
+Puppy Palace - India: ORG
+2014 - Nov 2015: DATE

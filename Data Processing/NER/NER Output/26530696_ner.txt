@@ -1,0 +1,72 @@
+Career Overview
+
+Highly: ORG
+10 years: DATE
+Customer Service Representative: ORG
+Dedicated Customer Service Representative: ORG
+Core Strengths
+
+Strong: PERSON
+Seasoned: PRODUCT
+Sharp: ORG
+Customer: ORG
+Adaptive: ORG
+Opening: WORK_OF_ART
+Live Support: LOC
+May 2015: DATE
+Sep 2013: DATE
+May 2015: DATE
+Trainer New Hire Customer Service: ORG
+Specialist Jan 2000: DATE
+State: ORG
+2001-2010: DATE
+Awards: NORP
+95: CARDINAL
+daily: DATE
+five: CARDINAL
+Top Performer Award: PERSON
+2008: DATE
+2009: DATE
+the Month: DATE
+2004: DATE
+the second year: DATE
+Tracy: PERSON
+Five Service Star &: ORG
+15%: PERCENT
+Awards: NORP
+2000: DATE
+2004: CARDINAL
+skills & excels: ORG
+Compute r Skills: ORG
+2000, 2002: DATE
+Performance Review: ORG
+Janitorial
+Service: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: FAC
+SQL: ORG
+Mission State: ORG
+workload & customer/: ORG
+customers &: ORG
+2005: DATE
+second: ORDINAL
+skills &: ORG
+Maintain: PRODUCT
+Tracy &: ORG
+first: ORDINAL
+Trained 95: ORG
+quarterly: DATE
+X-Ray Science 2003: ORG
+Coursework in Business Administration: ORG
+Call Center: ORG
+Customer Service: ORG
+Access, Excel: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+2000: DATE
+Word: PERSON
+Sales Support: PERSON
+SQL: ORG
+SUPERVISOR: ORG

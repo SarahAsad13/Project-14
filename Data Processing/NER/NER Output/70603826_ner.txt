@@ -1,0 +1,67 @@
+health &
+fitness and/or sports: ORG
+Sports and Fitness Professional: ORG
+Qualified Fitness Coach: ORG
+health & wellness: ORG
+Flag Football
+Certified Fitness Trainer - [: ORG
+Aerobic & Fitness Association of America: ORG
+AFFA: ORG
+CPR/AED Certified: ORG
+American Safety & Health Institute: ORG
+American Heart
+Association ]
+Safety & First Aid Certification: ORG
+American Safety & Health Institute ]
+
+Sports medicine &: ORG
+Strength/Performance: ORG
+Health & wellness: ORG
+Nutrition: ORG
+learn &: ORG
+Demonstrate: ORG
+Demonstrate personal & professional integrity: ORG
+Dedicated & self-motivated: ORG
+Compassionate &: ORG
+personâ€​ &: ORG
+Master of Science : Sports Management - Coaching & Sports Administration: WORK_OF_ART
+2014: DATE
+American Public University: ORG
+2007: DATE
+University of Houston (Clear Lake: ORG
+City: GPE
+Health Promotion: ORG
+1999: DATE
+San Jacinto College: ORG
+1997: DATE
+La Marque High School: ORG
+San Jacinto College: ORG
+Finished Top: PRODUCT
+20%: PERCENT
+October 2012: DATE
+Current Company Name: ORG
+7th: ORDINAL
+Communicated: ORG
+Coach/Mentor: ORG
+June 2010: DATE
+Current Company Name: ORG
+Thomas Turner: PERSON
+5-16: DATE
+Leading &: ORG
+May 2011 - Present]: DATE
+2012: DATE
+Contributes: ORG
+equipment & cleaning: ORG
+YMCA: NORP
+health & safety standards: ORG
+YMCA: LOC
+Guides: PERSON
+Counsels: ORG
+Certified Personal Trainer (CPT: WORK_OF_ART
+July 2010: DATE
+ABS/Sports & Fitness - Charlotte: ORG
+Feb 2008 - Oct 2008: DATE
+24 Hour: TIME
+TX Â: ORG
+health & safety standards: ORG
+Explained: PERSON

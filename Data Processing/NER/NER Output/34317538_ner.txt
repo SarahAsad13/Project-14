@@ -1,0 +1,256 @@
+Tim: PERSON
+over 20 years: DATE
+HCI: ORG
+Usability & Interaction Design Usability: ORG
+Standards: PERSON
+Usability: ORG
+Personas: PERSON
+Scenarios, Contextual Inquiries: ORG
+Affinity Diagrams: ORG
+Ethnography: GPE
+Development Software: ORG
+Software: PERSON
+Artificial Intelligence: ORG
+SQL: ORG
+Military/: ORG
+SPA WAR/DOD/ONR: EVENT
+Healthcare: ORG
+Medical Diagnostic Imaging: ORG
+Electronic Medical Records: ORG
+HIPAA, Fitness Equipment: ORG
+Wireframes
+User Flows
+Prototyping
+
+: ORG
+2014: DATE
+RAD: ORG
+Improve Patient Care
+Innovation Tournament: ORG
+2013: DATE
+2009: DATE
+Treadmill: ORG
+2009: DATE
+Taiwan: GPE
+Treadmill: ORG
+February 14, 2012: DATE
+January 29, 2013: DATE
+September 23, 2014: DATE
+05/2012: CARDINAL
+State: ORG
+Tim: PERSON
+nine: CARDINAL
+Agile: ORG
+one: CARDINAL
+three: CARDINAL
+NHSN: ORG
+CDC: ORG
+two week: DATE
+the last six months: DATE
+Tim: PERSON
+Wellness: ORG
+the Safety Committee: ORG
+first: ORDINAL
+Name City: GPE
+State: ORG
+Tim: PERSON
+the VP of Engineering: EVENT
+Name City: GPE
+State: ORG
+Tim: PERSON
+third: ORDINAL
+USB HID: ORG
+Created: ORG
+Name City: GPE
+State: ORG
+Tim: PERSON
+LCD: ORG
+Matrix Fitness: ORG
+Matrix: PERSON
+Tim: PERSON
+Kiosk: ORG
+Tim: PERSON
+Johnson: PERSON
+Lance Armstrong: PERSON
+PopCap: ORG
+Konami: PERSON
+Softkinetics: ORG
+Big Rooster: ORG
+NEC: ORG
+LG: ORG
+Dewar: ORG
+Sharp: ORG
+AMTouch: ORG
+Immersion: ORG
+RA Sports: ORG
+DataModule: PRODUCT
+Tim: PERSON
+iTech Fitness: ORG
+FitLinxx: ORG
+Polar, Virtual Active: ORG
+Avnet: PERSON
+Eurotech: ORG
+Asian: NORP
+China: GPE
+Taiwan: GPE
+Tim: PERSON
+Johnson: PERSON
+Usability Specialist: ORG
+Name City: GPE
+State: ORG
+Tim: PERSON
+User Centered Design: ORG
+UCD: GPE
+Macromedia: ORG
+FLEX: ORG
+third: ORDINAL
+UI: GPE
+Name City: GPE
+State: ORG
+Tim: PERSON
+Tim: PERSON
+GUI: ORG
+GUI: ORG
+2D: ORG
+GUI: ORG
+GUI: ORG
+HCI: ORG
+Interface: ORG
+GUI: ORG
+Human Factors / Usability Engineer: ORG
+Name City: GPE
+State: ORG
+Tim: PERSON
+GUI: ORG
+Palm and Windows CE: ORG
+State: ORG
+Tim: PERSON
+the Video Pics and Paparazzi Pics: ORG
+Tim: PERSON
+VideoPics: ORG
+Macromedia: ORG
+QA/QC: ORG
+QA: ORG
+Established: ORG
+3rd: ORDINAL
+Scientist 11/1997 to 09/2000: DATE
+Name City: GPE
+State: ORG
+Tim: PERSON
+TacGraph: ORG
+Tim: PERSON
+2D: ORG
+Tim: PERSON
+GUI: ORG
+VA: ORG
+5th Marines: NORP
+Camp Pendleton: FAC
+Principal Investigators: ORG
+SPAWAR: ORG
+DOD: GPE
+NIMA: ORG
+DNR: ORG
+GUI: ORG
+over 80%: PERCENT
+Software Engineer and Human Factors / Usability Engineer: ORG
+11/1993: CARDINAL
+Name City: GPE
+State: ORG
+Tim: PERSON
+5: CARDINAL
+GUI: ORG
+GUI: ORG
+Timelapse: PERSON
+9: CARDINAL
+Ran: PERSON
+Austin: GPE
+TX: ORG
+GTE: ORG
+9 titles: QUANTITY
+GTEIM: GPE
+Alias: PERSON
+PhotoShop: PRODUCT
+Knoxville: GPE
+TN: ORG
+Cyberflix: GPE
+3 weeks: DATE
+GTE Entertainment: ORG
+Carlsbad: GPE
+CA: ORG
+Onlive: ORG
+Traveler: PERSON
+Studio Max: PERSON
+B.S. Degree :: PERSON
+June 1993: DATE
+State: GPE
+CHI UX Community
+Human Factors and Ergonomics Society: ORG
+Madison: PERSON
+User Experience Group: ORG
+S.: NORP
+Kobus: GPE
+D.: NORP
+Proctor: ORG
+S., Bank: ORG
+T., & Liebhaber: ORG
+1999: DATE
+San
+Diego: GPE
+CA: ORG
+Pacific Science & Engineering Group: ORG
+Kobus: GPE
+D.A.: GPE
+Proctor: GPE
+S., Bank: ORG
+T.E., & Holste: ORG
+44th: ORDINAL
+Annual Meeting of the Human Factors and Ergonomics Society: EVENT
+Santa Monica: GPE
+CA: PERSON
+Ergonomics Society: ORG
+Proctor: ORG
+S., Bank: ORG
+T.E., Holste, S., &: ORG
+Kobus: GPE
+D.A.: GPE
+1999: DATE
+San Diego: GPE
+CA: ORG
+Pacific Science &
+Engineering Group: ORG
+St. John: GPE
+Proctor: ORG
+S.: ORG
+Callan: ORG
+J., & Bank: ORG
+T.: PERSON
+1998: DATE
+APA: ORG
+Division 21: LAW
+Human Factors: ORG
+San Diego: GPE
+CA: ORG
+Smallman: ORG
+H.S.: GPE
+St. John: GPE
+Bank: ORG
+T.: ORG
+Cowen: GPE
+M.B.: GPE
+2000: DATE
+SPAWAR Systems Center: ORG
+San Diego: GPE
+CA: ORG
+Technical Report: ORG
+St. John: GPE
+Smallman: GPE
+H.S.: GPE
+Bank: ORG
+T.: ORG
+Cowen: GPE
+M.B. Tactical Route Planning Using Two-Dimensional: ORG
+Terrain: ORG
+SPAWAR Systems Center: ORG
+San Diego: GPE
+CA: ORG
+Technical Report: ORG

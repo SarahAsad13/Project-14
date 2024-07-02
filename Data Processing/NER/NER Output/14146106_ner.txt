@@ -1,0 +1,90 @@
+II: CARDINAL
+16 + years: DATE
+Affordable Care
+Reform: WORK_OF_ART
+the day: DATE
+the last six months: DATE
+Kelly Services: ORG
+MarketPlace: ORG
+BlueCross BlueShield: ORG
+Highlights
+
+Exceptional: ORG
+Windows: NORP
+Customer: ORG
+Quick: FAC
+Flexible
+Proficient: WORK_OF_ART
+Works: PERSON
+Credit: ORG
+MS Office: ORG
+Committed: ORG
+Independent: ORG
+Detail: PERSON
+Expertise: GPE
+PowerPoint: ORG
+PeopleSoft: ORG
+October 2014 to March 2015: DATE
+CES System: ORG
+PIRS: ORG
+Aclaims: NORP
+MarketPlace Operations: ORG
+BlueCross BlueShield: ORG
+CES: ORG
+Aclaims: NORP
+PIRS: ORG
+SEIU: ORG
+RMIM: ORG
+RMIH: ORG
+INFP: ORG
+Customer Service Representatives: ORG
+November 1998 to September 2014: DATE
+every day: DATE
+a high as $25,000: MONEY
+200: CARDINAL
+OSHA: ORG
+monthly: DATE
+daily: DATE
+every quarter: DATE
+Coastal Carolina University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Coastal Carolina University - Conway: ORG
+SC: ORG
+Coastal Carolina University: ORG
+Education: GPE
+one: CARDINAL
+three: CARDINAL
+4.0: CARDINAL
+GPA: ORG
+3.6: DATE
+Skills
+
+Accounting, Accounts: ORG
+Basis, Billing, Customer Inquiries: ORG
+Customer Service: ORG
+Inventory, Invoices, Invoicing, Payments: ORG
+Receptionist: NORP
+The Accounting: ORG
+Credit Card: ORG
+Customer
+Service Representative: ORG
+Data Archiving: ORG
+Data Integrity: ORG
+Detail: PERSON
+Etiquette: PERSON
+Filing: GPE
+Forecasting: GPE
+Invoice: GPE
+Ms Office: ORG
+Operations: ORG
+Peoplesoft: ORG
+Phone Etiquette: PERSON
+Powerpoint: PRODUCT
+Time Management: ORG
+CES: ORG
+PIRS: ORG
+Aclaims: NORP
+RMIM: ORG
+RMIH: ORG

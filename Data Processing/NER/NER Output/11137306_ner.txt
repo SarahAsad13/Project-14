@@ -1,0 +1,94 @@
+Electro: GPE
+Digital: ORG
+Superior: LOC
+Diagnostic: LOC
+FAA: ORG
+40%: PERCENT
+three: CARDINAL
+100: CARDINAL
+Simulator: PERSON
+April 2013 to May 2014: DATE
+LRU: ORG
+Installation of Avionics: ORG
+HSI: ORG
+ADI: ORG
+HUD: ORG
+ETC: ORG
+Avionics: ORG
+2,3,7: CARDINAL
+Excel: PRODUCT
+ultra bravo: PERSON
+CRJ: ORG
+UH-60: PRODUCT
+CH-47: PRODUCT
+737: CARDINAL
+350: CARDINAL
+Beach: GPE
+400: CARDINAL
+Global: ORG
+Aligned: ORG
+Avionics: ORG
+January 2012 to January 2013: DATE
+IAW FAA: ORG
+Avionics: NORP
+A&P: ORG
+Aligned: ORG
+Entry Avionics: ORG
+January 2007 to January 2008: DATE
+Wire Stamping: PERSON
+Boeing: ORG
+737: PRODUCT
+Airbus: ORG
+A320: PRODUCT
+Avionics: ORG
+Avionics: ORG
+January 2006 to January 2012: DATE
+CH-47: PRODUCT
+UH-60: PRODUCT
+Avionics: ORG
+2009: DATE
+Maintained: GPE
+Performed: ORG
+monthly: DATE
+Preventive Maintenance Checks and Services: ORG
+Military Avionics Equipment: ORG
+GED: ORG
+2005: DATE
+T.C.C: PERSON
+South Campus: PERSON
+State: GPE
+USA: GPE
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+Army Aviation School of Logistics ï¼​ City: ORG
+State: GPE
+3.0: CARDINAL
+GPA: ORG
+Professional Training: ORG
+Associate of Science : Avionics Maintenance: WORK_OF_ART
+2011 Spartan College of Aeronautics ï¼​ City: ORG
+State: GPE
+USA: GPE
+AEA Club: ORG
+3.2: CARDINAL
+GPA: ORG
+FAA Corrosion Control Academic Achievement Award
+
+Coursework in Avionics Maintenance Technology
+
+Coursework in Meteorology: ORG
+Air Traffic Regulations: ORG
+Qualified Rigging: PERSON
+AC Electricity and Electronics Theory: ORG
+Army Ethos: ORG
+Structure: PERSON
+Excel: PRODUCT
+Wire: PERSON
+Interpretation of schematics: ORG
+Soldering: GPE
+Skills, Service: ORG
+Technician Skills: PERSON
+Test Equipment Operation: ORG
+Wiring Diagnostics and Repair: ORG

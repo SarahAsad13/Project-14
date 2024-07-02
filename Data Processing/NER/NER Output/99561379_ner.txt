@@ -1,0 +1,133 @@
+Choreographer: PERSON
+Videographer: PERSON
+Producer: PERSON
+Annika Kay: PERSON
+age 33: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Quickbooks: ORG
+Creative Suite: PERSON
+120: CARDINAL
+10: CARDINAL
+minutes: TIME
+12/2012: CARDINAL
+State: ORG
+March 2016: DATE
+Ed Huddleston: PERSON
+Plant Operations: ORG
+DESCRIPTION: PERSON
+Plant Operation: ORG
+DESCRIPTION: PERSON
+Collaborates: PERSON
+daily: DATE
+OSHA: ORG
+TOSHA: PERSON
+hours: TIME
+2012-: CARDINAL
+Instructor/After School Program Specialist: ORG
+Idyllwild Elementary School: ORG
+951: CARDINAL
+659-0750 JAN 2013: DATE
+Sue -
+: PERSON
+After School Program: ORG
+Page 2: PERSON
+Assist/Substitute Dance Instructor: ORG
+JULY 2012: DATE
+Owner/Artistic Director City: ORG
+Modern, Jazz, Hip-Hop: ORG
+Modern, Jazz, Hip-Hop: ORG
+Stretch: PRODUCT
+Cardio: ORG
+State: ORG
+JAN: ORG
+California Institute of the Arts: ORG
+CA
+: PERSON
+MAY 2009: DATE
+Dance Dept: ORG
+Program - Idyllwild Elementary School: ORG
+jazz, salsa: GPE
+African: NORP
+Training: PERSON
+2007: DATE
+MFA: ORG
+Master's of Fine Arts California Institute of the Arts: WORK_OF_ART
+2003: DATE
+CSUF: ORG
+2000: DATE
+HS Diploma Orange County Educational Arts Academy: ORG
+Board: ORG
+Art Alliance of Idyllwild Â: PERSON
+Board: ORG
+Page 3 Various Finnish Organizations: ORG
+Finnish: NORP
+Church: ORG
+Los Angeles Finlandia Foundation: ORG
+Los Angeles Scandinavian Foundation: ORG
+National Finlandia Foundation: ORG
+The Ladies of the Kalevala: WORK_OF_ART
+Finnish Club of North Hollywood: ORG
+Golden Key International: ORG
+Dean's: ORG
+List and National Dean's List
+Volunteer: WORK_OF_ART
+CHOC Hospital: ORG
+Los Angeles Finlandia Foundation: ORG
+American Scandinavian Foundation: ORG
+Wellspring Wellness Association: ORG
+Community Arts Network: ORG
+Board: ORG
+Art Alliance of Idyllwild Â: PERSON
+Board: ORG
+3: CARDINAL
+Finnish: NORP
+Los Angeles Finlandia Foundation: ORG
+Los Angeles Scandinavian Foundation: ORG
+National
+Finlandia Foundation: ORG
+The Ladies of the Kalevala: WORK_OF_ART
+Finnish Club of North Hollywood: ORG
+Golden Key International: ORG
+2003: DATE
+National Dean's: ORG
+List CSUF: PERSON
+2000-2003: DATE
+2000: DATE
+GSE Recognition: PERSON
+2000: DATE
+2007: DATE
+the Interdisciplinary Project Committee: ORG
+CalArts: ORG
+the Video/Media Assistantship: ORG
+2006: DATE
+May 2003: DATE
+Christine Lyon Fund: PERSON
+Robert Christianson: PERSON
+Edith Morgan Dance Scholarship: ORG
+Robin Johnson Dance Scholarship: PERSON
+CSUF - Spring 2002: ORG
+Robert Christianson Dance Scholarship: PERSON
+Richard Willis Dance Scholarship: PERSON
+2003: DATE
+Front and Center Scholarship: ORG
+Los Angeles Finlandia Foundation: ORG
+2001: DATE
+CSUF: ORG
+National Finlandia Foundation: ORG
+2002: DATE
+CSUF: ORG
+Skills: ORG
+10: CARDINAL
+Arts: ORG
+CA: ORG
+Final Cut Pro: ORG
+Inspects: ORG
+Instructor: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG
+Quickbooks: ORG
+Supervisor: PERSON
+Videography: PERSON

@@ -1,0 +1,60 @@
+FINANCE: ORG
+Real Estate: ORG
+Multitasking
+Extensive: PERSON
+June 2015: DATE
+Quick Books: ORG
+Microsoft Outlook: ORG
+Microsoft
+Office
+Project: ORG
+Quick Books: ORG
+Budget: ORG
+National Sales Director: ORG
+September 2013 to July 2015: DATE
+Coordinated: ORG
+Advise: PRODUCT
+Lake Arrowhead: LOC
+September 2000 to July 2013: DATE
+State: ORG
+Oversaw: GPE
+daily: DATE
+3: CARDINAL
+Prepared: PERSON
+3: CARDINAL
+Maintained: PERSON
+weekly: DATE
+Oversaw: GPE
+annual: DATE
+next fiscal year: DATE
+Processed: GPE
+hundreds: CARDINAL
+State: ORG
+National: ORG
+State: ORG
+National: ORG
+12: CARDINAL
+Coordinated: ORG
+monthly: DATE
+annual: DATE
+Researched: ORG
+annual: DATE
+Processed: GPE
+April 1999 to September 2000: DATE
+23: CARDINAL
+Processed: GPE
+Processed: GPE
+Admissions Office Executive: ORG
+May 1998 to April 1999: DATE
+Maintained: GPE
+Assisted: ORG
+Tracked: ORG
+1979: DATE
+Lakewood Sr: PERSON
+State: ORG
+8 years: DATE
+Skills: ORG
+Budget: ORG
+Critical: ORG
+QuickBooks: ORG
+Time: ORG

@@ -1,0 +1,41 @@
+Communicate: ORG
+Established: ORG
+Current
+Social Services Specialist Company Name: ORG
+Coordinate: FAC
+Prepare: ORG
+Arrange: NORP
+Social Work Intern Company Name: ORG
+Training: PERSON
+May 2014: DATE
+Bachelor of Arts : Psychology: ORG
+Warner University: ORG
+ï¼​ City: GPE
+2014: DATE
+Bachelor of Arts :: ORG
+Social Work Nova Southeastern University: ORG
+ï¼​ City: GPE
+State Social Work
+Present
+Master of Science : Forensic Psychology Legal Systems Southeastern University: ORG
+ï¼​ City: GPE
+State Forensic Psychology Legal Systems: ORG
+Social Work Clinical: ORG
+Bright Futures Scholarship: ORG
+GPA: ORG
+NAIA: ORG
+Alpha Lambda Delta Honors Society: ORG
+Magna Cum Laude Honors Society: ORG
+Dean: PERSON
+2010-2014: DATE
+2012-2013: DATE
+2013-2014: DATE
+Skills: ORG
+Activities and Honors
+National Association of Social Workers: ORG
+NASW: PERSON
+Social Work and Psychology Student Association: ORG
+Warner University: ORG
+2013- 2014: DATE
+Phi Alpha Chapter: EVENT
+2013- 2014: DATE

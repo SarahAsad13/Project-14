@@ -1,0 +1,50 @@
+OPERATIONS: ORG
+Professional Summary
+Excellent: ORG
+monthly: DATE
+Implemented Total Quality Management: ORG
+month: DATE
+previous months: DATE
+Highlights of Accomplishments
+Increase: WORK_OF_ART
+Working: ORG
+Improve: ORG
+more than 28 years: DATE
+Analytical: PRODUCT
+Promotes: ORG
+Work History
+03/2004: WORK_OF_ART
+the Rehab Department: ORG
+Physician: NORP
+Recruited: PRODUCT
+3: CARDINAL
+Medicare: ORG
+Medicaid: ORG
+Established: FAC
+Oversaw: GPE
+AP: ORG
+AR: ORG
+Cooperated: ORG
+Conducted: ORG
+monthly: DATE
+07/2000: CARDINAL
+Healthcare: ORG
+Established: FAC
+03/1993 to 07/2000: CARDINAL
+Established: FAC
+Established: ORG
+Medicare: ORG
+Medicaid: ORG
+06/1986: PERSON
+Facilitated: ORG
+1986: DATE
+Bachelor of Science : Business Management/Healthcare 
+University of South Alabama - City: ORG
+1984: DATE
+Associate of Applied Science : Human Services: WORK_OF_ART
+Monroe Community College - City: ORG
+Additional Information
+
+Community/Volunteer Services: ORG
+Board: ORG
+Greece: GPE

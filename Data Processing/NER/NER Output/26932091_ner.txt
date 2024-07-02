@@ -1,0 +1,64 @@
+PMC/PSM/: ORG
+Career Focus
+
+Performance Management Consultant: ORG
+than10 years: DATE
+the Southwest Territory: ORG
+Detail: PERSON
+Name City: GPE
+State PMC/PSM/ Sales Manager/: ORG
+05/2010
+Responsible: WORK_OF_ART
+Corporate-Owned Retail: ORG
+the Southwest Territory: ORG
+1:1: DATE
+Facilitated: ORG
+weekly: DATE
+monthly: DATE
+Name City: GPE
+State Customer Service Lead: ORG
+01/2011: CARDINAL
+Name City: GPE
+State: ORG
+10/2008: DATE
+10/2010: CARDINAL
+Developed: PRODUCT
+Completed: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Created: ORG
+Oversees: ORG
+Name City: GPE
+State: ORG
+10/2005: CARDINAL
+10/2008: CARDINAL
+Prepared: PERSON
+weekly: DATE
+Name City: GPE
+State Quality Analyst/Special Projects/Repair Representative: ORG
+10/2005: CARDINAL
+06/2003-10/2005: CARDINAL
+weekly: DATE
+200%.Â: CARDINAL
+Birch Telecom: ORG
+09/2002-06/2003 - Install/Special Projects Specialist: CARDINAL
+Pots: ORG
+Birch: ORG
+ETTR: ORG
+daily: DATE
+90%: PERCENT
+100%: PERCENT
+99%: PERCENT
+Complex MAC: ORG
+Trunk to Pots: ORG
+09/2002 - Repair Operations Representative: ORG
+Skills
+Coaching, Consultation, Customer Service: ORG
+Data Analysis: ORG
+Performance
+Management: ORG
+Project Management: ORG
+Sales Development, Telecommunication,: ORG
+Mircosoft Office: ORG
+Visio: PERSON

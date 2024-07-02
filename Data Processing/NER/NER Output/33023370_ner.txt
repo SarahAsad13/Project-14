@@ -1,0 +1,114 @@
+OWNER/: ORG
+Owner/: ORG
+Fabricator/ Welder: PERSON
+October 2017: DATE
+Current Company Name: ORG
+Construct: ORG
+Gate: ORG
+Cattle Guards: ORG
+cor: ORG
+Mobile: ORG
+August 2017 to October 2017: DATE
+Live Gas: ORG
+Atlanta: GPE
+Chattanooga TN: PRODUCT
+24: CARDINAL
+Northwestern Georgia: ORG
+Lowered: ORG
+Mountain: GPE
+Fabricator/ Welder: PERSON
+April 2016 to August 2017: DATE
+Construct: ORG
+Gate: ORG
+Cattle Guards: ORG
+cor: ORG
+Furniture and Antique restoration Farm: ORG
+May 2013 to April 2016: DATE
+120: CARDINAL
+Recruited: PRODUCT
+107: CARDINAL
+Comingle Facilities: ORG
+Maverick Shale: PERSON
+South Texas: LOC
+Built: ORG
+Anadarko Oil: ORG
+daily: DATE
+Mechanics, Operators: ORG
+Maintained: PERSON
+24: CARDINAL
+3: CARDINAL
+3: CARDINAL
+1: CARDINAL
+4: CARDINAL
+daily: DATE
+Anadarko: GPE
+Chesapeake: GPE
+Bid Meetings: PERSON
+Bid: PERSON
+Conduct: PERSON
+Tailgate: GPE
+monthly: DATE
+daily: DATE
+Laid: PERSON
+Anadarko: GPE
+July 2011 to May 2013: DATE
+Received Daily: ORG
+Smith
+Crews: ORG
+daily: DATE
+Excel: PRODUCT
+Word: PERSON
+Outlook Enforced: ORG
+JSEA: PERSON
+Trenching and Excavation: WORK_OF_ART
+Lock Out Tag Out, Transfer Sheets: WORK_OF_ART
+Roller, Pipe: ORG
+Truck Operated Track: WORK_OF_ART
+Dozer: PERSON
+Roller: PERSON
+Maintainer: ORG
+Trencher Man Lift: ORG
+Forklift: ORG
+Build: GPE
+Superintendent Welders Helper/Operator: ORG
+October 2008 to July 2011 Company Name ï¼​ City: DATE
+Assisted Welder: PERSON
+Cut: GPE
+Buff: PERSON
+Pig Launchers: PERSON
+Helped: PERSON
+Hot Taps Throw Skids: ORG
+Spacing: PERSON
+the day: DATE
+Finances: ORG
+2008: DATE
+Tulsa: GPE
+United States: LOC
+4: CARDINAL
+School: ORG
+October 8th: DATE
+October 10th: DATE
+ED: PERSON
+2008: DATE
+Midland: GPE
+ï¼​ City: GPE
+State: ORG
+ED
+Coursework: PERSON
+almost 8 years: DATE
+two: CARDINAL
+120: CARDINAL
+200: CARDINAL
+South Texas: LOC
+Maintenance of Pipelines: ORG
+Compressor Stations: PERSON
+Hot Taps: PERSON
+the end of every day: DATE
+Affiliations: ORG
+FFA: ORG
+4H: CARDINAL
+Skills
+Blueprint: ORG
+first Aid, Forklift, Invoicing: ORG
+Welder: PERSON
+Welding: CARDINAL

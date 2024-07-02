@@ -1,0 +1,94 @@
+Skills
+
+Multiple Facility Management: ORG
+QAPI Program Support
+Accreditation Preparation
+Payer Contracting Negotiations
+
+Core Accomplishments
+
+Created: ORG
+30: CARDINAL
+Minute Power Point Presentation: LAW
+ASC: ORG
+the "Customers: EVENT
+ASC: ORG
+Board of Managers: ORG
+ASC Operations: ORG
+Created Revenue Cycle: ORG
+ASC: ORG
+Roles: WORK_OF_ART
+the Business Office
+Created Metrics and Goals: ORG
+100%: PERCENT
+sixteen consecutive quarters: DATE
+Human Resource: ORG
+OSHA: ORG
+IVF: ORG
+Surgical Services / ASC Administrator: ORG
+11/2012: CARDINAL
+40%: PERCENT
+25%: PERCENT
+Mentored Materials: ORG
+Business: GPE
+Management Company: ORG
+Board: ORG
+Board Review: ORG
+Information Technology Support: ORG
+Management
+Company: ORG
+Maintained: GPE
+Vendor: ORG
+the Surgery Center: ORG
+one: CARDINAL
+03/2008 Company Name: WORK_OF_ART
+Independent Physician Associations: ORG
+IPA: ORG
+monthly: DATE
+25%: PERCENT
+Profit & Loss: ORG
+25%: PERCENT
+year: DATE
+CT: ORG
+Ultrasound: PERSON
+seven: CARDINAL
+Optometry and Optical clinics: ORG
+Independent Physician Associations: ORG
+seven: CARDINAL
+Established: ORG
+Materials manager/ Business Office: ORG
+07/2000: CARDINAL
+10/2004: CARDINAL
+two, six month: DATE
+P&L: ORG
+Balance: PERSON
+six months: DATE
+Nurse: PERSON
+Limited Partnership: ORG
+HealthSouth: ORG
+Limited Liability Corporation: ORG
+JCAHO: ORG
+zero: CARDINAL
+General Education Connecticut College: ORG
+ï¼​ City: GPE
+State: ORG
+3.2: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+GPA: ORG
+Healthcare Administration: ORG
+Connecticut State University: ORG
+3.2: CARDINAL
+GPA: ORG
+ASC Association: ORG
+CASA: ORG
+NAPW: ORG
+Awarded National Association of Professional Women's VIP Woman of the Year: ORG
+US: GPE
+Official Navy Appointment: ORG
+Ombudsman: NORP
+Atlantic Submarine Fleet: ORG
+Navy: ORG
+Assisted Navy: ORG
+American: NORP
+first: ORDINAL

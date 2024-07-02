@@ -1,0 +1,28 @@
+five years': DATE
+Marketing Coordinator: ORG
+Ran: PERSON
+June 2014: DATE
+Coordinated: ORG
+monthly: DATE
+quarterly: DATE
+August 2012 to June 2014 Company Name - City: DATE
+Number] months: DATE
+Created: ORG
+March 2012 to: DATE
+May 2011 to September 2011: DATE
+September 2010: DATE
+Bachelor of Science : Business Marketing Montana State University - City: ORG
+State: ORG
+Club Name] ClubCoursework: WORK_OF_ART
+Alpha Omicron Pi
+Volunteer: PERSON
+Gorkana: PERSON
+Factiva: ORG
+Desktop Publishing Software: Illustrator: ORG
+Photoshop: ORG
+Microsoft Office: ORG
+Google Docs: PERSON
+Twitter: PERSON
+Pinterest: ORG
+YouTube: ORG
+Instagram: GPE

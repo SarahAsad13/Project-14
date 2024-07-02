@@ -1,0 +1,55 @@
+two years: DATE
+InDesign: ORG
+Core Qualifications
+Excellent: ORG
+Mandarin Chinese: LANGUAGE
+PowerPoint MS: ORG
+Outlook Windows 7: PERSON
+January 2013 to December 2013: DATE
+Advertising and Public Relations Through: ORG
+Asia: LOC
+China: GPE
+Japan: GPE
+Korea: GPE
+Advertising to Children: WORK_OF_ART
+Japan: GPE
+Research of Oreo Campaigns" Theories, Models and Practices: WORK_OF_ART
+Desktop Publishing -Masters: ORG
+Magazine: ORG
+February 2012 to December 2012: DATE
+Created: ORG
+Executive Intern: PERSON
+May 2011 to August 2011: DATE
+February 2014 to June 2014: DATE
+Shenzhen Investment company: ORG
+Obtained: ORG
+one year: DATE
+the Bay Area: LOC
+Los Angeles: GPE
+Costar: WORK_OF_ART
+Milpitas Jose: PERSON
+Asian: NORP
+- Pacific Mall: PRODUCT
+Contacted Los Angeles Local: ORG
+2011 Marietta College: ORG
+2010: DATE
+Utah State University Accounting Marketing: ORG
+Chinese: NORP
+Computer Knowledge: PERSON
+Desktop Publishing: ORG
+English: LANGUAGE
+Google Analytics: ORG
+Illustrator: ORG
+InDesign: ORG
+Leadership, Mac: ORG
+Mandarin: LANGUAGE
+Chinese: NORP
+Marketing Communication: ORG
+MS Excel: ORG
+MS Outlook: GPE
+MS: ORG
+PowerPoint: ORG
+Windows 7: ORG
+MS Word: PERSON
+Persuasion: ORG
+Research: ORG

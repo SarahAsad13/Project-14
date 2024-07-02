@@ -1,0 +1,56 @@
+HIM Specialist: ORG
+10 years: DATE
+Health Information: ORG
+HIPAA: ORG
+Epic: ORG
+Meditech: GPE
+Docuware: GPE
+3: CARDINAL
+Medisoft: GPE
+ICR: ORG
+January 2016: DATE
+Name City: GPE
+State Health Information Specialist: ORG
+DDS: ORG
+Institutions: PERSON
+SLRI: ORG
+Validates: GPE
+Assembles: PRODUCT
+ICR: ORG
+SLRI: ORG
+April 2013: DATE
+January 2016: DATE
+Name City: GPE
+State Health Information Specialist
+
+Collaborated: ORG
+under 10 days: DATE
+800: MONEY
+under $400K.: MONEY
+Coordinated with Department of Labor and Industries: ORG
+September 2011: DATE
+March 2013: DATE
+Name City: GPE
+State Healthcare Record/Payroll Coordinator
+
+Managed: ORG
+Maintained: GPE
+Monitored: ORG
+400: CARDINAL
+July 2009: DATE
+October 2010: DATE
+Name City: GPE
+State Medical Records Lead: ORG
+three: CARDINAL
+3K+: CARDINAL
+HIPAA: ORG
+200: CARDINAL
+Training: PERSON
+2009: DATE
+Spokane Community College City: ORG
+State Associate of Arts Degree : Health Information Technology Health Information Technology
+Health Records Clerk: ORG
+RHIT: ORG
+Skills: ORG
+DDS: ORG
+RHIT: ORG

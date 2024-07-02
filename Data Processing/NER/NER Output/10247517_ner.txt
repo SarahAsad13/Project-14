@@ -1,0 +1,128 @@
+Information Technology Management: ORG
+Excels: PERSON
+Detail: PERSON
+Network Engineering: ORG
+Helpdesk Administration: ORG
+Software Licensing: PERSON
+Backup/Restore Operations/Project Management: ORG
+TeamBuilding/Training: ORG
+Process Improvement: PERSON
+04/2013: CARDINAL
+Current
+Information Technology: ORG
+Trustee: ORG
+Chapter 13: LAW
+Chapter 12: LAW
+the Northern District: LOC
+Georgia Manages: ORG
+Chapter 13: LAW
+Evaluates: GPE
+LAN: ORG
+LAN: ORG
+Defines: GPE
+quarterly: DATE
+Established: ORG
+Researched: ORG
+DR: GPE
+WAN: ORG
+LAN: ORG
+WLAN: ORG
+100%: PERCENT
+WAN: ORG
+LAN: ORG
+WLAN: ORG
+35% to 87%: PERCENT
+Automated: ORG
+06/2012: CARDINAL
+Network Analyst Company Name: ORG
+1B+: MONEY
+1,000%: PERCENT
+LAN: ORG
+LAN: ORG
+20: CARDINAL
+five: CARDINAL
+Nortel: ORG
+WAN/LAN/WLAN: ORG
+600: CARDINAL
+Georgia: GPE
+200: CARDINAL
+Engineering Checker: PERSON
+Mechanical Designer: ORG
+Network Administrator: ORG
+75%: PERCENT
+50%: PERCENT
+30%: PERCENT
+90: CARDINAL
+60%: PERCENT
+40: CARDINAL
+each quarter: DATE
+100%: PERCENT
+WLAN: ORG
+Cisco: GPE
+Nortel: ORG
+Meraki: ORG
+US: GPE
+125: CARDINAL
+week: DATE
+ERP: ORG
+15: CARDINAL
+Designer/Drafter Company Name: ORG
+Apple Pages: ORG
+Numbers: ORG
+Autodesk: PERSON
+Microsoft: ORG
+Apple Pages: ORG
+Numbers: ORG
+Autodesk: PERSON
+SolidWorks: ORG
+SAP r3 Operating Systems: ORG
+Microsoft: ORG
+SQL: PERSON
+Microsoft Exchange: ORG
+SCCM: ORG
+DOS: ORG
+6.22: CARDINAL
+3.5: CARDINAL
+Windows Server 2012: PERSON
+10.2-10.11: CARDINAL
+IOS Hardware: ORG
+Mitel: ORG
+Shortel: ORG
+Cisco: GPE
+Meraki: ORG
+Apple
+AirPort: ORG
+Palo Alto-Firewall: GPE
+Sonicwall Firewall Peripherals: ORG
+Barracuda Web Filter: PERSON
+Barracuda Message Archiver: ORG
+Riverbed-WAN
+Accelerator: ORG
+Dell ISCSI SAN Installation and Configuration: ORG
+Adtran Routers: PERSON
+Cisco Routers: ORG
+Catalyst Switches: ORG
+HP
+Procurve Switches: ORG
+Cross Connects: PERSON
+Cat3-6A: PERSON
+Master of Science : Leadership Walden University: WORK_OF_ART
+ï¼​ City: GPE
+State: ORG
+2015: DATE
+Master of Science : Information Systems Management Project Management Walden University: WORK_OF_ART
+State: ORG
+2013: DATE
+ï¼​ City: GPE
+Â CompTIA Network+: ORG
+A+: CARDINAL
+Skills: ORG
+Cisco: GPE
+ERP: ORG
+Inspects: ORG
+LAN: ORG
+Mechanical: ORG
+Network
+Administrator: ORG
+Nortel: ORG
+WAN: ORG

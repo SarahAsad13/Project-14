@@ -1,0 +1,67 @@
+PRINCIPAL: ORG
+more than 20 years: DATE
+more than 10 years: DATE
+the years: DATE
+Learn: PERSON
+Love: WORK_OF_ART
+OLTP: ORG
+OLAP: ORG
+Principal Company Name: ORG
+Oracle Exadata: ORG
+Amazon Redshift: ORG
+SQL: ORG
+Java: PERSON
+Apache Ignite: PERSON
+AWS: ORG
+Data Science: ORG
+Pandas: PERSON
+Matplotlib: PERSON
+Data Architecture: ORG
+Data Quality: ORG
+2017: DATE
+2018: DATE
+1.0: CARDINAL
+instruments(e.g: ORG
+Wellington: GPE
+2007: DATE
+more than 10 years in a row: DATE
+4: CARDINAL
+Wellington: GPE
+2013: DATE
+IBOR: ORG
+IBOR: ORG
+IBOR: ORG
+IBOR: ORG
+2.0: CARDINAL
+AWS: ORG
+GridGain Ignite: PERSON
+one: CARDINAL
+TB: ORG
+Oracle Exadata: ORG
+ODS: ORG
+Oracle: ORG
+Amazon Redshift: ORG
+OLAP: ORG
+4.0: CARDINAL
+12/2001: CARDINAL
+01/2003: CARDINAL
+a Commodity Trading System: ORG
+Oracle for the
+business team: ORG
+Database Developer Company Name: ORG
+Oracle: ORG
+03/2001: CARDINAL
+Oracle Developer Company Name: ORG
+Fuji Foundation Islamabad: FAC
+Pakistan: GPE
+Oracle: ORG
+Hospital Management System: ORG
+Vehicle Management System
+Inventory Management System: ORG
+Training: PERSON
+Cloud Practitioner - 2020: PERSON
+Babson College 2018: ORG
+Oracle Certified Professional 2001: ORG
+2017: DATE
+2018: DATE
+Wellington: GPE

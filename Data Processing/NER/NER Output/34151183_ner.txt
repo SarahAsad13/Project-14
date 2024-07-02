@@ -1,0 +1,43 @@
+CASHIER: ORG
+Career Overview
+Experienced Receptionist Personable: WORK_OF_ART
+more than 15 years: DATE
+Detail: PERSON
+Maintenance Multi-Line: PERSON
+Cashier: ORG
+January 2012 to January 2013: DATE
+more than 20: CARDINAL
+daily: DATE
+January 2012: DATE
+Collaborated with Program Coordinator: ORG
+January 2010 to January 2011: DATE
+Chicago Family Health Center: ORG
+Maintained: GPE
+January 2009 to January 2010: DATE
+annual: DATE
+Switchboard Operator: PERSON
+Customer Service Clerk: ORG
+January 2008: DATE
+Maintained: GPE
+monthly: DATE
+January 2005 to January 2006: DATE
+seven: CARDINAL
+Collaborated: ORG
+January 2005 to January 2006: DATE
+State
+
+Conducted: ORG
+Performed: ORG
+Bronzeville: GPE
+January 1999 to January 2002: DATE
+Technicians: NORP
+January 1996 to January 2000: DATE
+Maintained: GPE
+Dentrix: GPE
+Social Services: ORG
+Northeastern Illinois University Interdisciplinary Studies: ORG
+Social Services: ORG
+Skills: ORG
+Switchboard Operator
+
+: PERSON

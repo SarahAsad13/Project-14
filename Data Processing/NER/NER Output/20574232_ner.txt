@@ -1,0 +1,123 @@
+Computer/Network: ORG
+20 years: DATE
+Oil and Gas: WORK_OF_ART
+Windows Server 2000: PERSON
+2003: DATE
+2008: DATE
+R2: GPE
+Cisco: GPE
+Core Qualifications: ORG
+GIS: ORG
+Kingdom: GPE
+Petra: ORG
+MS Office: ORG
+97-2013: DATE
+Market Data: ORG
+Mitel 3000 & 5000: ORG
+Cisco CME,: ORG
+2010: DATE
+Cisco: GPE
+WAN: ORG
+DHCP: ORG
+TCP/IP: ORG
+ODBC: ORG
+Isilon
+Accomplishments: PRODUCT
+Houston: GPE
+Texas: GPE
+Implementing Microsoft Windows 2000 Professional Server: ORG
+Implementing Microsoft Windows 2000 Network Infrastructure: ORG
+Administering Microsoft SQL 2000: ORG
+Server Database: PERSON
+January 2014 to February 2016: DATE
+T1: NORP
+VSAT: ORG
+Cisco: GPE
+Acronis: NORP
+Symantec: NORP
+Petra: ORG
+Petra: ORG
+SQL: ORG
+Installation: PRODUCT
+Accounting: ORG
+Active Directory: ORG
+Office 365 Administrator: ORG
+SCADA: NORP
+June 2013 to December 2013: DATE
+Apache: PRODUCT
+Apache Oil & Gas: ORG
+Apache: PRODUCT
+3rd: ORDINAL
+Apache: PRODUCT
+FieldWood Energy: ORG
+Apache: PRODUCT
+Gulf Platforms: ORG
+Cisco: GPE
+SPN Rescources/Dynamic Offshore LLC/SandRidge Energy: ORG
+4-2007: DATE
+5: CARDINAL
+Installation: PRODUCT
+Terminal: ORG
+G&G: ORG
+Kingdom: GPE
+Osilon: PRODUCT
+Mitel 3000 VOIP: ORG
+2003: DATE
+2008r2: CARDINAL
+Workover: PERSON
+Built: ORG
+Administrator for Exchange: ORG
+2010: DATE
+Windows 2008r2: LOC
+Bez: PERSON
+Samsung: ORG
+Superior Energy: ORG
+HoustonTexas: PERSON
+12-2005: DATE
+4-2007: DATE
+XP: ORG
+2003: DATE
+2003: DATE
+Administrator of Exchange: ORG
+Administror AD: ORG
+Bez: PERSON
+Workstation Technician: PERSON
+January 1997 to January 2005: DATE
+Windows NT: LOC
+2000: DATE
+XP: ORG
+Reuters: ORG
+Bloomberg: ORG
+Used Active: ORG
+1993: DATE
+MICROCOMPUTER TECHNOLOGY INSTITUTE ï¼​ City: ORG
+State Computer Science
+Technology: ORG
+Skills
+Accounting: ORG
+Apache: PRODUCT
+Bloomberg: GPE
+Citrix: GPE
+Dell: ORG
+DHCP: ORG
+GIS: ORG
+HP Servers: ORG
+LAN: ORG
+Exchange: ORG
+Office, MS Office 97: ORG
+Windows: GPE
+2000: DATE
+Windows NT: LOC
+Communicator: ORG
+Network Administrator: ORG
+Network: ORG
+Networking: GPE
+Reuters: ORG
+SCADA: GPE
+SQL: PERSON
+Symantec: GPE
+T1: GPE
+TCP/IP: ORG
+Terminal: ORG
+VOIP: ORG
+WAN: ORG

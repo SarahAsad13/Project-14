@@ -1,0 +1,96 @@
+BPO TEAM: ORG
+Accomplishments
+Recognized: PRODUCT
+4th quarter: DATE
+95%: PERCENT
+4 days: DATE
+BPO Team: ORG
+02/2015: PERSON
+Name City: GPE
+BPO Onboarding Team: ORG
+PPO Network: ORG
+95%: PERCENT
+4 days: DATE
+5%: PERCENT
+3000: CARDINAL
+BPO Implementation Specialist: ORG
+Name City: GPE
+DW: ORG
+Data Warehouse: ORG
+VP of Administration: ORG
+Name City: GPE
+HCFA: GPE
+UB: PERSON
+PPO: ORG
+Encore: GPE
+Multiplan: ORG
+Medicare: ORG
+DHS: ORG
+Aetna: ORG
+Correspond: PERSON
+RRT: ORG
+Aetna: ORG
+30,000: CARDINAL
+first: ORDINAL
+Aetna: ORG
+Verification of Provider/Facility: ORG
+PPO: ORG
+04/2009: ORDINAL
+State: ORG
+Spreadsheet: PERSON
+Rainbow Hospice - Receptionist: ORG
+Front: ORG
+PCM: PERSON
+RN: ORG
+ARK: GPE
+Keep: PERSON
+overnight: TIME
+General Administrative: ORG
+AS400: PRODUCT
+01/2004: CARDINAL
+Name City: GPE
+daily: DATE
+the
+Office of Building: ORG
+Prepare: ORG
+Review: ORG
+Assist: NORP
+Schedule: PERSON
+the day: DATE
+LAN: ORG
+Interface: ORG
+Demonstrate: ORG
+2018: DATE
+Northwestern Business College City: ORG
+State Business Administration: ORG
+2014: DATE
+State: ORG
+B.A.: GPE
+Biblical: ORG
+International School of Ministry City: ORG
+State: ORG
+Skills
+Administrative duties: Â Â: ORG
+Critical Thinking: ORG
+Customer Needs Assessment: ORG
+Â Data Entry, Documentation: ORG
+Email: GPE
+Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Memos: PERSON
+Â Multi-Task Management: ORG
+Time Management, Travel Arrangements: ORG
+Typing, Vendor Management: ORG
+Human Resources: ORG
+Â Â Order: PRODUCT
+Receptionist: NORP
+Â  MS Office: ORG
+SAP: GPE
+Outlook: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Suite: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG

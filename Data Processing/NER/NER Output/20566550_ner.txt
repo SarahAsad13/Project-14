@@ -1,0 +1,102 @@
+Australia: GPE
+New Zealand: GPE
+Living in Sydney Australia: WORK_OF_ART
+Knowledge Base
+C/Python: PERSON
+ANSYS: PERSON
+LaTeX: ORG
+SolidWorks: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+MATHEMATICS: NORP
+PHYSICS: ORG
+CHEMISTRY: ORG
+2012: CARDINAL
+State: ORG
+Ranked: PERSON
+1st: ORDINAL
+2: CARDINAL
+Chemistry and Engineering Studies: ORG
+Ranked 3rd place: PERSON
+Extension 1 Mathematics: LAW
+English: LANGUAGE
+2nd: ORDINAL
+ATAR: ORG
+2017: DATE
+UNSW: ORG
+State: ORG
+Maintained Distinction WAM: WORK_OF_ART
+79.42: CARDINAL
+2 years: DATE
+3rd: ORDINAL
+4th: ORDINAL
+Finite Element Methods,: ORG
+Professional Engineering and Communication: ORG
+MATLAB: ORG
+Certifications and Credentials
+
+Scrum Fundamentals Certified
+Data Science Fundamentals Certified
+: WORK_OF_ART
+Oracle SQL Developer: ORG
+Feb 2017: DATE
+2017: DATE
+CASA: ORG
+Built: ORG
+Finite Element: ORG
+ANSYS: PERSON
+CAD: ORG
+May 2016 to Jan 2017: DATE
+Purchase Orders: PERSON
+Down: PERSON
+Australian: NORP
+Collaborated: ORG
+Prepared: PERSON
+20 minutes: TIME
+May 2016: DATE
+Tutored: PRODUCT
+one: CARDINAL
+year 1-12: DATE
+English: LANGUAGE
+year 1-12: DATE
+2015: DATE
+2017: DATE
+CubeSat: ORG
+the Canadian Satellite Design
+Challenge: ORG
+SolidWorks: ORG
+ANSYS: ORG
+Communicated: ORG
+a Mars Rover: PRODUCT
+the European Rover Challenge: ORG
+ERC: ORG
+Gimbal: ORG
+SolidWorks: ORG
+SolidWorks: ORG
+Memberships
+BLUEsat: ORG
+UNSW Experimental Satellite) Group Engineers: ORG
+Australia: GPE
+CubeSat: ORG
+the Canadian Satellite Design
+Challenge: ORG
+SolidWorks: ORG
+ANSYS: ORG
+a Mars Rover: PRODUCT
+the European Rover Challenge: ORG
+ERC: ORG
+Gimbal: ORG
+SolidWorks: ORG
+SolidWorks: ORG
+Social Support and Youth Services: ORG
+Volunteer: PRODUCT
+Karabi community & Development Services: ORG
+Wentworthville: GPE
+Sydney AUSTRALIA: PERSON
+October 2016: DATE
+Displayed: PERSON
+CAD & 3D: ORG
+Spacecraft: PERSON
+Astronomy
+
+: PERSON

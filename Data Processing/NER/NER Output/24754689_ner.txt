@@ -1,0 +1,55 @@
+ten years: DATE
+Writing
+Communications
+Customer Service: ORG
+Training
+Counseling
+Client Support
+Multitasking
+Professional
+Microsoft Office: WORK_OF_ART
+Active Health: ORG
+98%: PERCENT
+each quarter: DATE
+October 2010 to November 2016: DATE
+daily: DATE
+August 2009 to October 2010: DATE
+Directed: ORG
+Assigned: ORG
+December 2008 to July 2010: DATE
+Conferred: ORG
+Examined: NORP
+October 2007 to June 2009: DATE
+Recovery Specialist: PERSON
+January 2007 to January 2008: DATE
+Located: ORG
+January 2006 to January 2007: DATE
+daily: DATE
+Established: ORG
+Examined: ORG
+January 2006 to January 2007: DATE
+daily: DATE
+Established: ORG
+Examined: ORG
+Sr Appeal & Complaints Analysts: ORG
+November 2016: DATE
+Current Company Name: ORG
+CFPB: ORG
+weekly: DATE
+Validate: PERSON
+Compliance
+Management: ORG
+Compliance Management Team: ORG
+daily: DATE
+Education: ORG
+Bachelor: ORG
+May: DATE
+2013: DATE
+Strayer University: ORG
+State: GPE
+USA: GPE
+Health Services Administration: ORG
+2016: DATE
+Strayer University: ORG
+State: GPE
+United States: GPE

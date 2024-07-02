@@ -1,0 +1,108 @@
+BUSINESS DEVELOPMENT: ORG
+ideas & adapt: ORG
+Shopper,Tally: ORG
+â€¢ Good Team: WORK_OF_ART
+4: CARDINAL
+PCH Life Style Ltd.: ORG
+5: CARDINAL
+EBO: ORG
+50: CARDINAL
+MBO: ORG
+John Players: PERSON
+Best B.D.M Award: ORG
+0%: PERCENT
+over 70%: PERCENT
+a single financial year: DATE
+MBO: ORG
+Denizen: WORK_OF_ART
+a month: DATE
+January 2010: DATE
+EBO: ORG
+first: ORDINAL
+Double Brand: WORK_OF_ART
+Assn. & Flying Machine: ORG
+Vijayawada: GPE
+Andhra Pradesh: ORG
+2011: DATE
+Mar 2014: DATE
+Coordinate: FAC
+Zonal Sales: ORG
+Maintain: PERSON
+Nov 2012: DATE
+Mar 2014: DATE
+Premium: PRODUCT
+John Players: PERSON
+11: CARDINAL
+MBO: ORG
+EBO: ORG
+Coastal Andhra Pradesh: ORG
+50: CARDINAL
+â€¢Development: CARDINAL
+the Trade Marketing Strategy: ORG
+Company: ORG
+â€¢Development: CARDINAL
+â€¢Handling Field and Venue Bookings for Channel Sales: WORK_OF_ART
+â€¢: PRODUCT
+Company/Brand: ORG
+Marketing Team: ORG
+Retail Stores: ORG
+opening hours: TIME
+Nov 2012: DATE
+MBO: ORG
+PCH Lifestyle Ltd.: ORG
+18: CARDINAL
+EBO'S: PERSON
+Store: PERSON
+Maintenance & Supervising: ORG
+2009: DATE
+2010: DATE
+Peter England: PERSON
+â€¢To: PERSON
+C.C.A: GPE
+FOOR: ORG
+May 2008: DATE
+2009: DATE
+the Floor Target Achievement: ORG
+â€¢ Arranging: PRODUCT
+â€¢ Ordering: PRODUCT
+â€¢ Stock: PRODUCT
+â€¢ Cleaning up store and display area: WORK_OF_ART
+â€¢ Convening: PRODUCT
+â€¢ Recruiting: WORK_OF_ART
+â€¢ Supervising: PRODUCT
+â€¢ Performing: PRODUCT
+â€¢ Delegating workload
+
+: WORK_OF_ART
+MCA: ORG
+COUMPTER 2008 K.G.R.L: DATE
+P.G College ï¼​ City: ORG
+State: GPE
+Post-Graduation: ORG
+P.G College: ORG
+Andhra University: ORG
+the year 2008: DATE
+1st: DATE
+71%: PERCENT
+Bachelor: ORG
+Degree College: ORG
+Degree College: ORG
+Andhra University: ORG
+the year 2005: DATE
+60%: PERCENT
+Product Training" Program: WORK_OF_ART
+Arvind Brands Ltd.: ORG
+PCH Corporate Office: ORG
+Madura: ORG
+Aditya Birla Group: ORG
+INSPIRE: ORG
+ONE: CARDINAL
+Building Sales Excellence & Communication Profiling: WORK_OF_ART
+ITC LRBD Head Office: ORG
+Qatar Valid Driving: PERSON
+MS-Office: ORG
+â€¢Voyager: CARDINAL
+08: CARDINAL
+09: DATE
+Focus Integrated: ORG
+Retail Garment Stores: ORG

@@ -1,0 +1,57 @@
+FINANCE: ORG
+Automobiles: ORG
+20 years: DATE
+Highlights Supervision: ORG
+Established: PERSON
+Cross: ORG
+Energetic Calm: LOC
+Resolution-oriented: LAW
+Effective Retail Sales: ORG
+Highlights
+Personal Information
+Insurance License: ORG
+Louisiana: GPE
+Skills Automobile Financing: ORG
+Skills: ORG
+Finance: ORG
+Life, Accident and Health Insurance License: ORG
+Property and Casualty Insurance License: ORG
+Louisiana: GPE
+Skills Automobile Financing: ORG
+Developing and Implementing Processes: WORK_OF_ART
+December 2013: DATE
+Name City: GPE
+March 2014: DATE
+Finance: ORG
+Warranty: ORG
+Monitored: ORG
+November 2012: DATE
+Name City: GPE
+December 2013: DATE
+up to 18: CARDINAL
+March 2010: DATE
+Company Name City: LOC
+November 2012Responsibilities: DATE
+10: CARDINAL
+monthly: DATE
+Initiated: ORG
+15%: PERCENT
+March 2009: DATE
+Name City: GPE
+August: DATE
+10: CARDINAL
+Monitored: ORG
+March 2003: DATE
+Name City: GPE
+March 2009My: DATE
+Generate: PERSON
+Created: ORG
+Maintained: GPE
+12 consecutive quarters: DATE
+daily: DATE
+monthly: DATE
+annual: DATE
+1 1977: DATE
+Southern University Baton Rouge State: ORG
+USA Bachelor of Arts: ORG
+Music Music Completed Dale Carnegie Sales and Management Training: ORG

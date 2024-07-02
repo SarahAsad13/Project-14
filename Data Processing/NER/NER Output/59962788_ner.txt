@@ -1,0 +1,94 @@
+Professional Summary
+Forward: ORG
+Generalist: PERSON
+Skills: ORG
+HR Compliance
+Project: ORG
+MS Office: ORG
+Knowledgeable: PRODUCT
+HR Systems
+Team: ORG
+11/2012: CARDINAL
+09/2014
+HR Executive Company: ORG
+Established: ORG
+HRMS: ORG
+2012: DATE
+MBA: WORK_OF_ART
+Systems: GPE
+Professional in Human Resources: ORG
+Organizational Training and Development: ORG
+8.6: CARDINAL
+GPA: ORG
+2006: DATE
+Lady Sivaswami: PERSON
+Secondary School - City: ORG
+State: ORG
+7.1: CARDINAL
+GPA: ORG
+2010: DATE
+B.E :: ORG
+Venkateshwaraa Engineering College - City: ORG
+Managerial Behavior & Effectiveness System Analysis & Design Industrial Project Ashok Leyland: ORG
+Indian: NORP
+Mar'12 - Apr'12: ORG
+2 Months: DATE
+Drill: PERSON
+Detail: PERSON
+Training &
+Development: ORG
+Motivation: ORG
+Corporate Social Responsibility & Safety: ORG
+Ennore: PERSON
+May &: DATE
+Ashok
+Leyland: PERSON
+Indian: NORP
+1 Month: DATE
+Completed a Project: ORG
+Organizational Climate: WORK_OF_ART
+Ashok Leyland's: WORK_OF_ART
+Guindy: PERSON
+Prepared &: ORG
+the Environment, Management Effectiveness,: ORG
+Involvement: GPE
+Rewards: NORP
+recognition & Commitment: ORG
+1 year 10 months: DATE
+Kamakshi Memorial: PERSON
+National Accreditation Board for Hospitals & Healthcare Providers: ORG
+NABH: ORG
+Core Team: ORG
+EPF: ORG
+ESI: ORG
+Trainer: ORG
+HR Manuals: ORG
+Interviews: ORG
+Initial Screening: PERSON
+Preparing & Conducting Induction: ORG
+the employees & Evaluating: ORG
+KPI/KRA's: ORG
+Employee's Grievances & Complaints &: ORG
+Ashok Leyland: ORG
+SAP implementation Search Engines &: ORG
+Completed: ORG
+Project Management: ORG
+Project Management Institute(PMI: ORG
+Conducted a National: ORG
+Work Life Balance: WORK_OF_ART
+Crescent Business School: ORG
+Industrial Relations: WORK_OF_ART
+Vels University: ORG
+ISBR Business School: ORG
+HRD CLUB: ORG
+quarterly: DATE
+Conferences &: ORG
+Tennikoit: GPE
+C++: GPE
+English: LANGUAGE
+Hindi: GPE
+Java, Languages: GPE
+Microsoft Office: ORG
+SQL: GPE
+Visual: ORG
+6.0: CARDINAL

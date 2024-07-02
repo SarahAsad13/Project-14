@@ -1,0 +1,97 @@
+10 years: DATE
+500: CARDINAL
+Highlights
+
+International Institute Business Analysis: ORG
+August 2011: DATE
+MCDST Certification - Microsoft: ORG
+August 2007: DATE
+Lean Six Sigma Certification: ORG
+May 2013: DATE
+Installed: LOC
+Cisco: GPE
+Netgear: PERSON
+Name City: GPE
+Cardinal Health's: ORG
+SME: ORG
+SAP: ORG
+Researched SAP CRM 3.0: PRODUCT
+CRM7.0: GPE
+ECC6.0: ORG
+SAP CRM: ORG
+UAT Team: ORG
+UAT: ORG
+SharePoint: ORG
+CRM7.0: GPE
+BP: ORG
+Business Objects: ORG
+10/2011: CARDINAL
+Name City: GPE
+State: ORG
+Provided MS Office: ORG
+2010: DATE
+SMS: ORG
+Technician / Business Analyst 08/2010: ORG
+12/2010: CARDINAL
+Name City: GPE
+Created: ORG
+SQL Server: ORG
+Coordinated: ORG
+Optimization: ORG
+Quality Assurance Team: ORG
+User Acceptance Plan: ORG
+Name City: GPE
+Promotion Item Forecasting: ORG
+Developed: PRODUCT
+Chambers of Commerce: ORG
+Leveraged Data Stage Tools: ORG
+Infosphere DataStage Designer: ORG
+Implementation: PRODUCT
+ICD-9: NORP
+Defined ICD-9: ORG
+Equivalency Mapping: PERSON
+un: ORG
+Collaborated: ORG
+Name City: GPE
+Certified Safety, Health & Environmental: ORG
+Established: ORG
+third: ORDINAL
+Liaison: PERSON
+Monitored: ORG
+Assisted: ORG
+FTP: ORG
+EDI Transaction Sets
+
+Business Analyst / Project: ORG
+Name City: GPE
+SME: ORG
+Established: ORG
+SQL: ORG
+DataStage: ORG
+Product Lifecycle Management: ORG
+Collaborated: ORG
+more than four: CARDINAL
+internal & external: ORG
+Analyst 11/2004 to 12/2005: DATE
+Name City: GPE
+State: ORG
+OOMC: ORG
+first: ORDINAL
+over 500: CARDINAL
+ILOG/France: ORG
+the Enterprise Pricing Requirements: ORG
+Go Live: LOC
+Name City: GPE
+OSHA: ORG
+Bachelor of Science :: ORG
+DeVry University City: ORG
+State: GPE
+USA: GPE
+Lean/Agile: ORG
+Waterfall: ORG
+GAP Analysis: ORG
+Business Requirements: ORG
+Process
+Improvement: ORG
+Resource Management: ORG
+Project Management Lifecycle: ORG

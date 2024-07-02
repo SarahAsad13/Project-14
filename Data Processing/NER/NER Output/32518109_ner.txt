@@ -1,0 +1,28 @@
+Summary
+Highly: ORG
+07/2009: CARDINAL
+07/2014: CARDINAL
+Laborer Company Name: ORG
+extended hours: TIME
+08/2016
+Laborer & Crew: PERSON
+Maintained: GPE
+up to four: CARDINAL
+up to eight: CARDINAL
+London High School: ORG
+State: ORG
+IT - Management University of Wisconsin - Stout ï¼​ City: ORG
+State: GPE
+USA: GPE
+UW - Stout: ORG
+two years: DATE
+IT - Computer Support Specialist: ORG
+Fox Valley Technical College: ORG
+State: GPE
+USA: GPE
+Fox Valley Tech: FAC
+a whole year: DATE
+Skills
+Team Player: ORG
+Physically: PERSON
+Shows Initiative: PERSON

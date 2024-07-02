@@ -1,0 +1,109 @@
+10 years: DATE
+Business Development: ORG
+Core Qualifications
+Proficient: ORG
+the Moves Management Fundraising Process *Proficient: ORG
+MAC: ORG
+Windows Vista: PERSON
+XP: ORG
+MS Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Access, Project: ORG
+Outlook: PERSON
+United Nation: ORG
+Membership: GPE
+NCBW Coordinate Community Relations: ORG
+NCBW Participate: ORG
+Manage: PRODUCT
+Board of Directors: ORG
+06/2013 to Current Company Name: ORG
+the East area: LOC
+Charlotte Develop: ORG
+Charlotte: GPE
+the Chamber of Commerce: ORG
+Develop: PRODUCT
+Coordinate Community Relations: ORG
+October: DATE
+06/2013 to Current Company Name: ORG
+15 Million: CARDINAL
+75: CARDINAL
+Delivered year: DATE
+20%: PERCENT
+Participate: ORG
+SunTrust: ORG
+06/2012: CARDINAL
+SunTrust: ORG
+SunTrust: ORG
+Onboarded 62: ORG
+SunTrust: ORG
+July 2012: DATE
+SunTrust: ORG
+SunTrust: ORG
+Grew: PERSON
+3,136: CARDINAL
+8,999,043: MONEY
+2011: DATE
+the BB&T @ Work Program: ORG
+1.2 million: CARDINAL
+3: CARDINAL
+36: CARDINAL
+February 2012: DATE
+over 600: CARDINAL
+$1.96 million dollars: MONEY
+23: CARDINAL
+BB&T: ORG
+Conduct: PERSON
+Perform: ORG
+Business Development Representative: ORG
+07/2005: PERSON
+BB&T: ORG
+Leadership Development Program: ORG
+BB&T's Payroll Services Division: ORG
+42: CARDINAL
+two: CARDINAL
+2
+years: DATE
+Grew: PERSON
+annually: DATE
+160,000: MONEY
+the Business Development: ORG
+Coordinated: ORG
+Acted: ORG
+BB&T Payroll Services Corporate
+Office: ORG
+BB&T: ORG
+Mid-South & North Florida Banking Networks: ORG
+Bachelor of Arts : Business Administration Marketing Concentration & History: ORG
+May 2005: DATE
+Salem College: ORG
+State Business Administration
+Marketing Concentration & History
+Masters : Business Administration: ORG
+May 2012: DATE
+Georgia Southern University: ORG
+State Business Administration: ORG
+Professional Affiliations: ORG
+Farr and Associates: ORG
+Mastering Leadership Dynamics: ORG
+2010: DATE
+National Coalition: ORG
+100: CARDINAL
+Black Women-National Board of Directors: ORG
+2016: DATE
+Charlotte Chamber: ORG
+2016: DATE
+Skills: ORG
+Business Development: ORG
+Community Relations: ORG
+Internet Skills: PERSON
+Leadership Development: ORG
+MAC: ORG
+Access, Excel: ORG
+MS Office,: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows: NORP
+Networks: ORG
+Payroll: ORG
+Vista: ORG

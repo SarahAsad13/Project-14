@@ -1,0 +1,76 @@
+11 years': DATE
+Vendor: ORG
+Integrated: NORP
+Email marketingÂ 
+Crisis: FAC
+01/2016: ORG
+State: ORG
+01/2010: DATE
+the BRCC Foundation: ORG
+Institutional Advancement: ORG
+up to $350,000: MONEY
+2 consecutive years: DATE
+more than 5 years: DATE
+cuttings: ORG
+Created 15: ORG
+annually: DATE
+approximately $: MONEY
+250k: MONEY
+Researched: ORG
+Spearheaded: ORG
+Media Specialist: ORG
+Oversaw: GPE
+annual: DATE
+Good News: WORK_OF_ART
+Advocate: ORG
+The Business Report: ORG
+the Healthcare Journal: ORG
+annual: DATE
+Coordinated: ORG
+Institutional Advancement: ORG
+11/2004: CARDINAL
+3: CARDINAL
+Conducted: ORG
+Â  
+Coordinated Foundation: ORG
+annual: DATE
+09/2003: CARDINAL
+11/2004: CARDINAL
+first: ORDINAL
+monthly: DATE
+Maintained: GPE
+annual: DATE
+10/2000: CARDINAL
+hundreds: CARDINAL
+6.Â: CARDINAL
+Rapidly: ORG
+weekend: DATE
+weekend: DATE
+Assigned: PERSON
+morning: TIME
+Master of Arts : Mass Communication: WORK_OF_ART
+May 2003: DATE
+Southern University: ORG
+State Public Relations: ORG
+December 2001: DATE
+Southern University: ORG
+2009: DATE
+Public Relations Association of Louisiana-: ORG
+2009: DATE
+National Council for Marketing and Public Relations - 2006: ORG
+National Association of Black: ORG
+2014: DATE
+2016: DATE
+Achievement Award: PERSON
+2013: DATE
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Meltwater News: ORG
+Community Service: ORG
+Capital Area ReEntry Coalition: ORG
+Media Relations: ORG
+2015: DATE
+April 2016â€‹: DATE
+2016: DATE

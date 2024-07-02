@@ -1,0 +1,70 @@
+Highlights
+
+Dependable: ORG
+Self-Starter: ORG
+Detail: PERSON
+Quick: ORG
+4: CARDINAL
+Award Runner: PERSON
+February 2015: DATE
+Name City: GPE
+State: ORG
+Laborer Laborer: PERSON
+March 2007 to April 2015: DATE
+13: CARDINAL
+over 1 million dollars: MONEY
+Guantanamo Bay: LOC
+Cuba: GPE
+July 2006 to July 2006: DATE
+Name City: GPE
+State: GPE
+US: GPE
+August 2007: DATE
+Naval Construction Training Center: ORG
+Gulfport: GPE
+Combat Training: PERSON
+June 2007: DATE
+Fort Leonard Wood: FAC
+MO: GPE
+Southeast Community College: ORG
+State: GPE
+US: GPE
+A.A.S: GPE
+April 2007: DATE
+Southeast Community College: ORG
+Milford: GPE
+NE Recognition: ORG
+Awards
+Army Commendation Medal: ORG
+4: CARDINAL
+4: CARDINAL
+2: CARDINAL
+Academy Ribbon: PERSON
+4: CARDINAL
+Award Runner: PERSON
+Silver De Flury
+Army Service Ribbon: PERSON
+North Atlantic Treaty Organization Ribbon: ORG
+Academy Ribbon: PERSON
+Combat Action Badge
+
+Military Experience
+: WORK_OF_ART
+March 2007 to April 2015: DATE
+United Sates Army: ORG
+Engineer: ORG
+March 2007-April 2015: DATE
+13: CARDINAL
+over 1 million dollars: MONEY
+Guantanamo Bay: LOC
+Cuba: GPE
+million-dollar: MONEY
+Carpenter: PERSON
+Ankeny: GPE
+IA: GPE
+Professional Affiliations: ORG
+Million: CARDINAL
+Project Management, Security: ORG
+Detail Oriented: PERSON
+Managerial, Problem Solving: ORG
+Team Lead: PERSON

@@ -1,0 +1,95 @@
+Career Overview: ORG
+20 years: DATE
+QA: ORG
+Windows: NORP
+Windows Store: PERSON
+Android: ORG
+Arduino & Linux: ORG
+Waterfall: ORG
+Proficient MS Office: ORG
+Visual Studio: ORG
+Eclipse: PRODUCT
+September 2011: DATE
+â€¢Scrum: CARDINAL
+Facilitate: ORG
+daily: DATE
+Jira: PERSON
+Quality
+Center: ORG
+GIT: ORG
+RTC: ORG
+Bugzilla: ORG
+Quality Center: ORG
+Jenkins: PERSON
+Gerrit: PERSON
+XMPP: ORG
+15: CARDINAL
+10: CARDINAL
+5: CARDINAL
+Windows: NORP
+Windows: NORP
+Android: ORG
+Linux: GPE
+Intel: ORG
+Wireless Software Services: ORG
+Bangalore: GPE
+India: GPE
+Formulate: PERSON
+10: CARDINAL
+SDK: ORG
+Java: PERSON
+weekly: DATE
+two
+weeks: DATE
+CI: ORG
+100%: PERCENT
+Gerrit: ORG
+50%: PERCENT
+Rally, Clear: GPE
+Jira: PERSON
+Volunteered: ORG
+July 2009 to September 2011: DATE
+Quality Assurance 
+City: GPE
+Qwarq: NORP
+Procure Hardware: ORG
+November 2006 to July 2009: DATE
+Quality Assurance 
+City: GPE
+Ultra: NORP
+MAC: ORG
+WIFI: PERSON
+Intel: ORG
+Microsoft: ORG
+Stonestreet One: ORG
+May 2004 to November 2006 Quality Assurance: DATE
+over 50%: PERCENT
+Ceridian CUSP: ORG
+August 2001 to February 2003: DATE
+Engineer 
+City: ORG
+July 1995 to December 1999: DATE
+ITU H26X: ORG
+H263 Plus: PRODUCT
+H263: PRODUCT
+I263: LAW
+H261: PRODUCT
+Automatic Echo Cancellation: EVENT
+Intel: ORG
+Developed: ORG
+Training
+Webster University: ORG
+State: ORG
+Kabul University: ORG
+C++: PERSON
+Ceridian: NORP
+Hardware: ORG
+Functional: GPE
+Intel: ORG
+Java, Linux: GPE
+MAC: ORG
+#,: MONEY
+Windows: GPE
+Windows XP: ORG
+USB: ORG
+Vista: ORG

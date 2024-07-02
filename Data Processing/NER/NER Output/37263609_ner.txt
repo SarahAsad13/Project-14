@@ -1,0 +1,61 @@
+three years: DATE
+the National Architectural Accrediting Board: ORG
+2014-2015: DATE
+Prize Awardâ€​ Design Recognition and Nomination for Outstanding Project 2012: WORK_OF_ART
+Competitionâ€​: PRODUCT
+Winner: PERSON
+Project Exhibition 2011: PERSON
+Architectural Design & Conservation: ORG
+2008: DATE
+Caguas: GPE
+21st: ORDINAL
+San Juan: GPE
+two: CARDINAL
+School: ORG
+Santiago Veve Calzada: PERSON
+Santiago Iglesias
+Pantin: PERSON
+Name City: GPE
+Coordinated: ORG
+Initiated: ORG
+Completed: ORG
+Name City: GPE
+Drafted: ORG
+Created: ORG
+Collaborated: ORG
+Coordinated: ORG
+Name City: GPE
+Drafted: ORG
+Created: ORG
+Created: ORG
+Collaborated: ORG
+3d: CARDINAL
+Coordinated: ORG
+Name City: GPE
+Collaborated: ORG
+Master of Science : ARchitecture 2013 University of Illinois Urbana-Champaign City: WORK_OF_ART
+State: GPE
+USA: GPE
+2010: DATE
+Puerto Rico City: GPE
+State: GPE
+USA: GPE
+Magna Cum Laude: PERSON
+Magna Cum Laude Honors
+
+Languages: ORG
+Bilingual: GPE
+Spanish/English
+
+Fluent: EVENT
+Spanish: NORP
+Rhino: NORP
+Revit: GPE
+Adobe CS: PRODUCT
+HDR: ORG
+Lighting: GPE
+Market Research: ORG
+3dMax: DATE
+Maya: PERSON
+Revit: GPE
+Modeler: PERSON

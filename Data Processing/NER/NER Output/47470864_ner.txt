@@ -1,0 +1,53 @@
+daily: DATE
+Microsoft Office: ORG
+Highlights: GPE
+Personnel: ORG
+1 year: DATE
+Researched: ORG
+Live Support: LOC
+August 2010: DATE
+February 2016: DATE
+Name City: GPE
+State General HR Assistant/Office: ORG
+the Medical Department: ORG
+Prepare: ORG
+Schedule: PERSON
+November 2009: DATE
+April 2010: DATE
+Company Name City: LOC
+State Customer Service: ORG
+Recruit: ORG
+the Call Center: ORG
+Schedule: ORG
+December 2005: DATE
+December 2008: DATE
+Name City: GPE
+State Human Resources: ORG
+Draft: ORG
+Coordinate: FAC
+New Hire Orientations: ORG
+Evaluate: ORG
+Create: ORG
+Zarca Interactive: ORG
+Human Resources: ORG
+December 2002: DATE
+April 2005: DATE
+Name City: GPE
+State: ORG
+the Internal Revenue Service: ORG
+Purchase: PERSON
+August 1999: DATE
+December 2005: DATE
+Name City: GPE
+State: ORG
+Answer: PRODUCT
+Develop: ORG
+STRAYER UNIVERSITY City: ORG
+State Associates Degree : Business Administration/Human Resources Business Administration/Human
+Resources: ORG
+State Essentials of Human Resource Management Certificate Program: ORG
+Skills: ORG
+Call Center: ORG
+Employee Relations: ORG
+Human Resource Management: ORG
+Organizational: ORG

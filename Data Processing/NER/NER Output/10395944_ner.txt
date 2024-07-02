@@ -1,0 +1,56 @@
+42 flying hours: TIME
+Southwestern Illinois College: ORG
+the Aviation Pilot Program: ORG
+eight years old: DATE
+Private Pilot Certificate: WORK_OF_ART
+Ideal Aviation: ORG
+Ideal Aviation: ORG
+Microsoft: ORG
+Fueling Aircrafts: PERSON
+Airport Ramp Knowledge
+
+Private Pilot: FAC
+two: CARDINAL
+Current
+Line Service Technician Company Name: ORG
+Cessna: ORG
+Gulfstream: GPE
+Aircraft: LOC
+Aircraft Cleaning: ORG
+Aircraft Management: ORG
+T-38: PRODUCT
+Boeing: ORG
+737: PRODUCT
+E-2: GPE
+Baggage for Allegiant Airlines: ORG
+Pushback Operator for Allegiant Airlines: WORK_OF_ART
+Unicom: GPE
+Deicing Military: ORG
+Ground Power Unit: ORG
+Pilot Communications: ORG
+12/2015: CARDINAL
+50 pounds: QUANTITY
+six: CARDINAL
+four: CARDINAL
+four: CARDINAL
+Training: PERSON
+2018: DATE
+Associate of Applied Science : Aviation Pilot Training Southwestern Illinois College ï¼​ City , State , USA: WORK_OF_ART
+SWIC: ORG
+Aviation Pilot Program: ORG
+two years: DATE
+Aviation Management: ORG
+May 2016: DATE
+State: GPE
+United States: GPE
+19 year old: DATE
+25 to 30 hours: TIME
+Freeburg: GPE
+Illinois: GPE
+about 50 minutes: TIME
+St. Louis Lambert International: ORG
+Pilot: FAC
+Skills
+Customer Service: ORG
+Outlook: PERSON
+Verbal Communication: ORG

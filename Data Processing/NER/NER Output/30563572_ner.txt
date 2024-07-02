@@ -1,0 +1,65 @@
+Employee Relations Coaching/Mentoring Talent Acquisition Salary Planning Organizational Design Workforce Planning Talent Management
+Succession Planning Change Management Development
+Highlights: ORG
+Talking Talent: PERSON
+Workday, PeopleSoft: WORK_OF_ART
+Oracle: ORG
+Workways: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook
+
+Performance: ORG
+HRIS: PERSON
+January 2000 to January 2014: DATE
+Employee Relations
+Coaching
+Talent Acquisition
+Workforce: ORG
+400: CARDINAL
+Legal: GPE
+Employee Relations - Responded: ORG
+Talent Management - Provided: ORG
+Facilitated: ORG
+Workforce Planning - Partnered with Talent Acquisition: ORG
+Partnered: PRODUCT
+HRIS: ORG
+Change Management: ORG
+January 1997 to January 2000: DATE
+400: CARDINAL
+Kept: ORG
+50: CARDINAL
+Workers' Compensation: ORG
+OSHA: ORG
+Associate Human Resources Representative: ORG
+January 1992 to January 1997: DATE
+800: CARDINAL
+Flexible Benefits: ORG
+monthly: DATE
+100: CARDINAL
+New Hire Orientation:: ORG
+weekly: DATE
+Wellness Program: ORG
+the Wellness Program: ORG
+Workers' Compensation: Filed: ORG
+Workers' Compensation: ORG
+OSHA: ORG
+Processed: GPE
+B.S :: ORG
+California State University: ORG
+City Business Administration: ORG
+2010: DATE
+HR Certification Institute: ORG
+Society of Human Resource Management: ORG
+Change Management: ORG
+Employee Relations: ORG
+Finance: ORG
+HRIS: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+MS Word: PERSON
+Oracle: ORG
+PeopleSoft: ORG
+Strategic: PERSON
+Verbal Communication Skills: ORG

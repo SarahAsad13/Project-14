@@ -1,0 +1,42 @@
+Summary
+College: ORG
+three years: DATE
+Corporate America: LOC
+Detail: PERSON
+Deadline Oriented *Critical
+Thinking: ORG
+Social Media Management: ORG
+10/2015: CARDINAL
+Current
+Social Media Agent Company Name: ORG
+MetroPCS HQ Build: ORG
+Engage: PERSON
+Facebook, Facebook Latino: ORG
+Twitter: PERSON
+Instagram Monitor: ORG
+Escalate: PERSON
+Customer Appreciation Team Agent Company Name: ORG
+Metro PCS Cell Phone Company Inbound: ORG
+Floor: PRODUCT
+Front Desk Customer Service Company Name: ORG
+Inbound: GPE
+Customer: ORG
+2015: DATE
+Richland College: ORG
+2014: DATE
+Winfreee Academy Charter School: ORG
+2011: DATE
+Berkner High School
+Languages
+Bilingual:: ORG
+Spoken: PERSON
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Avaya: ORG
+Cashier: PERSON
+English: LANGUAGE
+Microsoft Office Suite: ORG
+Phone System: ORG
+Spanish: NORP
+Phone: ORG

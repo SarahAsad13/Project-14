@@ -1,0 +1,48 @@
+Core Qualifications
+
+Organization Image Control
+Public Relation Initiatives
+Information Dissemination: ORG
+Social Media Management
+Media Production: ORG
+the San Bernardino Probation Department: ORG
+07/2015: CARDINAL
+Owner/Operator Company Name: ORG
+ESPN: ORG
+Fox Sports South: ORG
+Pitt County: GPE
+PIO: ORG
+PEG Access Channel Pitt-TV: ORG
+County: GPE
+annual: DATE
+200,000: MONEY
+annual: DATE
+Coordinated: ORG
+first: ORDINAL
+Associate Producer / Videographer Company Name: ORG
+6 p.m.: TIME
+6 p.m.: TIME
+11 p.m.: TIME
+1999: DATE
+Bachelor of Science (BS: ORG
+Mass Communications Marketing/Public Relations: ORG
+East Carolina University: ORG
+ï¼​ City: GPE
+State Mass Communications
+Marketing/Public Relations: ORG
+1997: DATE
+Associate of Art and Science (AAS: WORK_OF_ART
+Pre-Liberal Arts Computer Science Pitt Community College: ORG
+State Pre-Liberal Arts Computer
+Science
+Professional Affiliations
+
+Capio (California Public Information Officers: ORG
+Skills
+
+Administrative Management: ORG
+Website Management: ORG
+Image Control: ORG
+Governmental Relations: ORG
+Media Production: ORG
+Cable Television Franchise Coordinator: ORG

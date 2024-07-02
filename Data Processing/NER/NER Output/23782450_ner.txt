@@ -1,0 +1,24 @@
+six years: DATE
+Team: ORG
+Live Support: LOC
+State
+
+Active Learning Social Perceptiveness Reading Comprehension Computers and Electronics Picker Amazon: ORG
+Zaxbys: PERSON
+ï¼​: GPE
+01/2015 City: GPE
+Maintain: PRODUCT
+Assist: NORP
+Answer: ORG
+Oversee: ORG
+Calculate: ORG
+07/2014 City: GPE
+State: ORG
+09/2010: DATE
+May 2012: DATE
+State Monitor: ORG
+Calculate: ORG
+Skills: ORG
+Critical Thinking: ORG
+Decision Making, Electronics: ORG
+Inspect: GPE

@@ -1,0 +1,65 @@
+Mediation: ORG
+NIMS: GPE
+ICSÂ: ORG
+50: CARDINAL
+Cardon Outreach: PERSON
+4 months: DATE
+Chippewa River Industries: ORG
+Letter of Accomplishment: ORG
+MN: ORG
+Warden: PERSON
+Patient Advocate: PERSON
+November 2015: DATE
+Mpower: GPE
+Medicaid: ORG
+Medicaid: ORG
+Medicaid: ORG
+50-60: CARDINAL
+July 2013 to November 2015: DATE
+the Job Developer and DVR: ORG
+first: ORDINAL
+Created: ORG
+Job Coaching 101: WORK_OF_ART
+Office Administration Specialist Senior: ORG
+January 2012 to February 2013: DATE
+2012: DATE
+Crystal Reports: LOC
+Education: ORG
+Microsoft Office: ORG
+TABE: ORG
+GED/HSED
+Coordinated the Reading is Fundamental Book Fair: ORG
+July 2005 to January 2012: DATE
+ICS: ORG
+Employed de-escalation: PERSON
+the Conflict Resolution Committee: ORG
+Power Point: ORG
+the "Learning to Lead: ORG
+two: CARDINAL
+Corrections Manufacturing Specialist: ORG
+March 2002: DATE
+August 2004: DATE
+up to 20: CARDINAL
+Shopko: NORP
+State University: ORG
+A.A.S: PERSON
+Rasmussen College: ORG
+State Criminal Justice: ORG
+FEMA: ORG
+10/2015: CARDINAL
+10/2015: CARDINAL
+FEMA: ORG
+Minnesota Department of Corrections *Learning: ORG
+1/2012: CARDINAL
+Skills
+
+Public Relations: ORG
+Case Management: ORG
+American Red Cross - Altoona: ORG
+WI: ORG
+January 2016: DATE
+Child Adocate
+Turning Point Domestic Abuse Shelter - River Falls WI
+March-2005: WORK_OF_ART
+June 2005Â: DATE
+5 to 10 years old: DATE

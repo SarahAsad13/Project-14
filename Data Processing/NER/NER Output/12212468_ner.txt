@@ -1,0 +1,173 @@
+Civil Engineer: ORG
+16 years: DATE
+one: CARDINAL
+North America's: LOC
+more than $11 billion: MONEY
+five: CARDINAL
+Kiewit: ORG
+multi billion dollar: MONEY
+$545 million to $3.1 million dollars: MONEY
+the Field Engineer: ORG
+Project Controls: ORG
+one: CARDINAL
+Maryland: GPE
+P6: NORP
+six month: DATE
+Clara: PERSON
+daily: DATE
+CPM: ORG
+Viewpoint: WORK_OF_ART
+Sixteen years: DATE
+one: CARDINAL
+North America's: LOC
+$2.6 million: MONEY
+six month: DATE
+$2 million: MONEY
+the winter season: DATE
+over 200 miles: QUANTITY
+Fiber Optic Network Installation: ORG
+09/2013: CARDINAL
+Project Contract Administration: ORG
+Intercounty Connector-Segment B |: PERSON
+$550 million: MONEY
+Maryland State Highway Administration: ORG
+MDSHA: ORG
+seven miles: QUANTITY
+six: CARDINAL
+2.4 million: CARDINAL
+1.7 million: CARDINAL
+500,000: CARDINAL
+65,000: CARDINAL
+MSE: ORG
+over 80,000: CARDINAL
+15: CARDINAL
+over 600,000: CARDINAL
+up to: CARDINAL
+207: CARDINAL
+up to $2.6 million: MONEY
+Oversaw: GPE
+one: CARDINAL
+Maryland: GPE
+approximately 1,000: CARDINAL
+P6: NORP
+Coordinated: PRODUCT
+CPM: ORG
+RFI: ORG
+06/2011: CARDINAL
+Structures Project Engineer Company Name: ORG
+State: ORG
+I-95/I-495 Interchange: ORG
+Telegraph Road: FAC
+$256 million: MONEY
+VDOT: ORG
+I-495: ORG
+Telegraph
+Road: FAC
+Alexandria: GPE
+500,000: CARDINAL
+321,000: CARDINAL
+39,000: CARDINAL
+400,000: CARDINAL
+23: CARDINAL
+MSE: ORG
+4: CARDINAL
+11: CARDINAL
+AASHTO/Steel: ORG
+380,000: CARDINAL
+5: CARDINAL
+Prepared: PRODUCT
+Procured: ORG
+$2 million dollar: MONEY
+Oversaw: GPE
+Estimator Company Name: WORK_OF_ART
+State: ORG
+03/2007: GPE
+03/2008
+: PERSON
+Superintendent/Design Coordinator Company Name: ORG
+Reconstruction: ORG
+$170 million: MONEY
+Florida Department of Transportation: ORG
+FDOT: ORG
+5: CARDINAL
+10 miles: QUANTITY
+I-95: ORG
+four: CARDINAL
+six: CARDINAL
+Brevard County: GPE
+FL: ORG
+15,000: CARDINAL
+18: CARDINAL
+2,500: CARDINAL
+2,900: CARDINAL
+AASHTO: ORG
+50,000: CARDINAL
+174,000: CARDINAL
+585,000: CARDINAL
+435,000: CARDINAL
+280,000: CARDINAL
+Oversaw: GPE
+3: CARDINAL
+$56.2 million: MONEY
+Florida Turnpike Authority: ORG
+7: CARDINAL
+AASHTO: ORG
+2: CARDINAL
+2: CARDINAL
+6: CARDINAL
+2: CARDINAL
+approximately 2.5M: CARDINAL
+90 day: DATE
+3 week: DATE
+AASHTO: ORG
+over 100,000: CARDINAL
+12/2004: CARDINAL
+Stations Project Engineer Company Name: ORG
+State: ORG
+Douglas Line Renovation Project: PERSON
+$351 million: MONEY
+Chicago Transit Authority: ORG
+six: CARDINAL
+2: CARDINAL
+5 miles: QUANTITY
+15: CARDINAL
+Drafted: ORG
+Quality Control: ORG
+Prepared: PRODUCT
+RFI: ORG
+Procured: ORG
+the City of Chicago Building Department: GPE
+08/2004
+Structures Office/Field Engineer Company Name: ORG
+State: ORG
+Dublin I-16: PERSON
+$10.1 million: MONEY
+Georgia Department of Transportation: ORG
+Superintendent/Project Controls: ORG
+$41.5 million: MONEY
+Installation: ORG
+Atlanta: GPE
+GA: ORG
+Birmingham: GPE
+Coordinated: ORG
+over 150: CARDINAL
+weekly: DATE
+Florida: GPE
+North Carolina: GPE
+State: ORG
+Howard Street Track Reconstruction: PERSON
+$3.1 million: MONEY
+Baltimore Light Rail: ORG
+O'Donnell: ORG
+$10.3 million: MONEY
+Maryland Department of Transportation: ORG
+Quality Control: ORG
+1999: DATE
+Civil Engineering University of Kentucky: ORG
+City: GPE
+State: GPE
+US: GPE
+Clara Newsom: PERSON
+Engineer: ORG
+3.1: CARDINAL
+Transportation: ORG

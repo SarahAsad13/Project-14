@@ -1,0 +1,34 @@
+KIDS CLUB ATTENDANT
+Summary: ORG
+Reliable: WORK_OF_ART
+Customer Service: ORG
+marijuana: PERSON
+Skills
+
+Vast: ORG
+Microsoft: ORG
+10/2016: CARDINAL
+Kids Club Attendant Company Name: ORG
+Kid's Club: ORG
+Kids Club: ORG
+Kid's Club: ORG
+Operations: ORG
+04/2016: PRODUCT
+10/2016: CARDINAL
+State Greet: ORG
+07/2015: CARDINAL
+04/2016: PRODUCT
+Retail Sales Associate Company Name: ORG
+State: ORG
+09/2010: DATE
+Education: ORG
+2015: DATE
+Africana Studies University: ORG
+State: GPE
+USA: GPE
+August 2014 - May 2016: DATE
+2018: DATE
+Wellness Pasadena City College: ORG
+State: GPE
+USA Attending: ORG
+August: DATE

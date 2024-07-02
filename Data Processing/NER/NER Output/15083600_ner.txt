@@ -1,0 +1,106 @@
+PRINCIPAL: ORG
+Financial/Business Analyst: ORG
+fifteen years: DATE
+Subject Matter Expert: PERSON
+Front: GPE
+Back Office: ORG
+2015: DATE
+Trade Life Cycle: ORG
+Capital Markets: ORG
+Prepares Project Definition: ORG
+Business Specifications: ORG
+Designs: NORP
+FASB: ORG
+IFRS: ORG
+Fixed Income Securities: ORG
+Derivatives: GPE
+FX: ORG
+SME: ORG
+State: ORG
+Asia: LOC
+Europe: LOC
+Americas: LOC
+Interest Rate Derivatives: FAC
+FX: ORG
+Commodity: ORG
+Credit: ORG
+Prepared: PERSON
+Trade Life Cycle: ORG
+Capital Markets: ORG
+Front Arena: ORG
+STP: ORG
+Capital Market: ORG
+Private Banking: ORG
+Operations: ORG
+Treasury: ORG
+Fixed Income Securities: ORG
+Rate Derivatives: PERSON
+FX: ORG
+Commodities: ORG
+Dodd-Frank: PERSON
+Prepared: PERSON
+Financial Accounting Standard Board: ORG
+FASB: ORG
+International Financial
+Reporting Standards: ORG
+Hedge Accounting: ORG
+FAS 133 &157: ORG
+AIS: ORG
+39 &: CARDINAL
+FRS: ORG
+9: CARDINAL
+Fund
+Accounting: ORG
+SQL: ORG
+Latin American: NORP
+Asian: NORP
+Brazil: GPE
+Mexico: GPE
+Hong Kong: GPE
+Singapore: GPE
+Front Arena: ORG
+2006: DATE
+Provided Professional Services: ORG
+Asia: LOC
+Europe: LOC
+the Middle East: LOC
+North Americas: LOC
+OPICS: ORG
+Managed Treasury Operations: ORG
+OPICS: ORG
+Derivatives: ORG
+Hedge Accounting: ORG
+FAS 133 & 157: ORG
+IAS: ORG
+39 &: CARDINAL
+FRS: ORG
+9: CARDINAL
+Asia: LOC
+Central and North America: LOC
+Middle East: LOC
+$2.5 million: MONEY
+OPICS: PERSON
+Analyst Feb 1999: DATE
+Oct 2000: DATE
+85%: PERCENT
+the Board of Governors (BoG: ORG
+OMO: ORG
+Earned a Performance Plus Award: ORG
+Reserve Requirements: ORG
+BoG: ORG
+MBA: WORK_OF_ART
+International Finance: ORG
+1997: DATE
+St. John's University ï¼​ City: ORG
+State: GPE
+USA International Finance
+Accounting: ORG
+Long Island University: ORG
+State: ORG
+USA Accounting: ORG
+Front Arena: ORG
+Adaptiv: ORG
+Â  Proficient: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON

@@ -1,0 +1,60 @@
+Cook: PERSON
+Line Cook: PERSON
+2 years: DATE
+Bilingual: GPE
+English: LANGUAGE
+7: CARDINAL
+more than 350: CARDINAL
+10/2014: CARDINAL
+Name City: GPE
+fifteen percent: PERCENT
+Systematically: ORG
+hourly: TIME
+Established: ORG
+Quickly: ORG
+daily: DATE
+utensil: GPE
+9 %: PERCENT
+the summer months: DATE
+Correctly: PRODUCT
+12/2013: CARDINAL
+Name City: GPE
+utensil: GPE
+Correctly: ORG
+Cook: PERSON
+Name City: GPE
+State: ORG
+Systematically: ORG
+Established: ORG
+utensil: GPE
+Correctly: ORG
+Cook: PERSON
+12/2012: CARDINAL
+Name City: GPE
+State: ORG
+Season: DATE
+Observe: LOC
+Prepare: ORG
+Bake: PERSON
+Bake: PERSON
+Prep Cook 09/2011: ORG
+11/2011: CARDINAL
+Name City: GPE
+Prepare: ORG
+Cook: PERSON
+11/2011: CARDINAL
+Name City: GPE
+Observe: LOC
+Associate of Applied Science : Culinary Arts 2013: WORK_OF_ART
+Hudson County Community College City: ORG
+State: GPE
+United States: GPE
+Culinary Arts
+
+Learned: WORK_OF_ART
+Restaurant: ORG
+Facility Operations
+Courses: ORG
+Patisserie and Confectionery, International Cuisine
+Nutrition: ORG
+Working: ORG

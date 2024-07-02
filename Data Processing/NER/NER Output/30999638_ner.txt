@@ -1,0 +1,47 @@
+Supervisory: NORP
+Training: PERSON
+Property Management: ORG
+Skills: ORG
+Microsoft: ORG
+Microsoft: ORG
+Windows 10
+Excel: PRODUCT
+PowerPoint: ORG
+Social Media Evaluator Company Name: ORG
+Twitter: PERSON
+Instagram: ORG
+Avid: PERSON
+English: LANGUAGE
+Vista: ORG
+MAC: ORG
+Rental Sales Agent Company Name: ORG
+Avis: PERSON
+Customer: ORG
+Maintained: GPE
+10/2008: DATE
+Escalations Management Company Name: ORG
+20: CARDINAL
+Sprint: ORG
+annual: DATE
+10/2008: CARDINAL
+Floor Supervisor Company Name ï¼​ City: WORK_OF_ART
+daily: DATE
+Enforce: ORG
+Conduct: PERSON
+weekly: DATE
+Review: ORG
+Enforce: ORG
+Training: PERSON
+Thomas Nelson Community College: PERSON
+Avid: PERSON
+Customer: ORG
+Customer: ORG
+English: LANGUAGE
+MAC: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+PowerPoint: ORG
+Microsoft Windows: ORG
+Windows: GPE
+Microsoft: ORG
+Vista: ORG

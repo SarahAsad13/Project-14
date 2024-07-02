@@ -1,0 +1,46 @@
+CUSTOMER: ORG
+Energetic Customer Service Associate: ORG
+Dedicated Customer
+Service: PERSON
+Call Center Representative: ORG
+Highlights
+
+MS Office: ORG
+Quick: ORG
+Credit: ORG
+State: ORG
+20-30Â: CARDINAL
+Supervisor: PERSON
+Supervisor
+withinÂ: WORK_OF_ART
+3 months of start date: DATE
+Office Manager/ Fitness Instructor: ORG
+04/2013: CARDINAL
+Name City: GPE
+7: CARDINAL
+each month: DATE
+Explained: ORG
+Customer Service Associate 01/2013 to 04/2013 Company Name City: ORG
+up to 30: CARDINAL
+Customer Service Associate 08/2012: ORG
+Daycare Assistant/ Office: ORG
+Name City: GPE
+Communicated: ORG
+daily: DATE
+daily: DATE
+Maintained: GPE
+daily: DATE
+Maintaineda: PRODUCT
+Customer Service Rep 01/2009: ORG
+Name City: GPE
+up to 25: CARDINAL
+Paralegal Certificate Paralegal: ORG
+2009: DATE
+Branford Hall Career Institute City: ORG
+State: ORG
+CPR Certified: ORG
+Credit: ORG
+First Aid: ORG
+MS Office: ORG
+Paralegal, Persuasive: ORG
+Quick learner: ORG

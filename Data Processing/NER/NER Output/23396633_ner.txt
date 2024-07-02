@@ -1,0 +1,120 @@
+Business Development: ORG
+January 2010: DATE
+Current Company Name: ORG
+The American Chemical Society - Developed: ORG
+$1M: MONEY
+STM: ORG
+Factual.com - Advice: ORG
+UX: ORG
+the Wounded Warrior Project: ORG
+Veterans' Affairs: ORG
+23: MONEY
+34,000: CARDINAL
+Business Development: ORG
+January 2009 to January 2010: DATE
+State Led: ORG
+America: GPE
+Education: ORG
+Health, Personal Finance: ORG
+Legal: GPE
+1.2: MONEY
+90 days: DATE
+Google: ORG
+annual: DATE
+Google: ORG
+CPL: ORG
+four: CARDINAL
+nine months: DATE
+100: MONEY
+âž¢: PRODUCT
+âž¢: PRODUCT
+ten: CARDINAL
+January 2006 to January 2009: DATE
+State Sourced: ORG
+25: CARDINAL
+Charter Communications: ORG
+Virgin Media: PERSON
+40%: PERCENT
+more than 50: CARDINAL
+Viacom: ORG
+The Associated Press: ORG
+Major League Baseball: ORG
+The Weather Channel: ORG
+American Greetings: ORG
+Deal Structure: WORK_OF_ART
+40: CARDINAL
+Budget Management: ORG
+400,000: MONEY
+10%: PERCENT
+annually: DATE
+Business Development: ORG
+January 2000 to January 2005: DATE
+State: ORG
+2000-2002: DATE
+four: CARDINAL
+7: CARDINAL
+500K+: MONEY
+annually: DATE
+four-week: DATE
+8: CARDINAL
+2: MONEY
+2: CARDINAL
+multi-year: DATE
+60%: PERCENT
+Greece: GPE
+Croatia: GPE
+Germany: GPE
+Italy: GPE
+January 1998 to January 2000: DATE
+State: ORG
+AOL: ORG
+Partner Marketing: PERSON
+January 1994 to January 1998: DATE
+State Directed: ORG
+the National Football League: ORG
+CBS Sportsline: ORG
+ABC News: ORG
+Bloomberg L.P.: PERSON
+NBC: ORG
+Reuters: ORG
+25: CARDINAL
+each month: DATE
+Viacom: ORG
+Business Week: ORG
+Hachette-Filipacchi: ORG
+Ziff Davis: PERSON
+NBC: ORG
+between 1% and 5%: PERCENT
+Alliance Partnerships: ORG
+26: CARDINAL
+$12M: MONEY
+18: MONEY
+annual: DATE
+six: CARDINAL
+Education: ORG
+Master of Science : Communications University of Tennessee Master of Science, Communications University of Tennessee
+Bachelor of Arts : Journalism University of Oklahoma Bachelor of Arts, Journalism University of Oklahoma
+Marketing Strategies for Growth, Education University of North Carolina: WORK_OF_ART
+Chapel Hill: FAC
+State: GPE
+US Marketing Strategies for Growth: ORG
+Executive Educatio University: ORG
+Chapel Hill
+Certifications: ORG
+Blogger,: ORG
+DC EcoWomen: ORG
+Washington: GPE
+Skills
+Marketing, Marketing Strategy, Business Development: ORG
+Healthcare: ORG
+Advertising, Business Plan: ORG
+Media Relations: ORG
+Product Development, Transmissions, Budget, National Accounts,: ORG
+Pricing, Budget Management: ORG
+Greetings: ORG
+Finance: ORG
+Joint Venture: ORG
+Joint Ventures: ORG
+Lead Generation: PERSON
+Commercial Building: GPE
+Database: GPE

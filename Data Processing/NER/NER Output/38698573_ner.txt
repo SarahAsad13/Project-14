@@ -1,0 +1,56 @@
+Detail: PERSON
+Communication: ORG
+Microsoft Office: ORG
+Applicant Assessment: PERSON
+Human Resources professional Company: ORG
+Employee Relations/Conflict Resolution: ORG
+Policy/Process: ORG
+2 days: DATE
+every week: DATE
+FDU: ORG
+the Human Resources Information System: ORG
+Lawson: PERSON
+DC: GPE
+thousands of dollars: MONEY
+hours: TIME
+weekly: DATE
+the prior week: DATE
+Oversaw: GPE
+300+: DATE
+daily: DATE
+Kronos: GPE
+94%: PERCENT
+over 300: CARDINAL
+Human Resource: ORG
+HRIS: ORG
+Lawson: PERSON
+Kronos: PERSON
+Myinfo: ORG
+Onsite Supervisor Company Name: WORK_OF_ART
+Best Candiates (Staffing agency: ORG
+Park West: ORG
+Oversaw 200: PRODUCT
+COATS: ORG
+Park West: FAC
+hours & pay: ORG
+Excel: PRODUCT
+Negotiator Company Name: ORG
+250: CARDINAL
+Business Administration: ORG
+Miami Dade College - City: ORG
+GPA: ORG
+3.0: CARDINAL
+State: ORG
+GPA: ORG
+3.1: CARDINAL
+English: LANGUAGE
+Native: NORP
+Bilingual: NORP
+English: LANGUAGE
+Native: NORP
+Bilingual: NORP
+Spanish: NORP
+Native: NORP
+Bilingual: NORP
+Spanish: NORP
+Native: NORP

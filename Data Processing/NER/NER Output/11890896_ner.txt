@@ -1,0 +1,64 @@
+Math: PERSON
+3 years: DATE
+K-12: PRODUCT
+Mathematics: LOC
+8 years: DATE
+Silicon Valley: LOC
+K-12: PRODUCT
+Lesson Planning Â 
+
+: ORG
+SFSU: ORG
+Microsoft PowerPoint: ORG
+Google Docs: ORG
+SQL: ORG
+SQL: ORG
+Master of Business Administration: ORG
+Decision Sciences: ORG
+San Francisco State University City: ORG
+Operations Management: ORG
+Project Management, Business Forecasting: ORG
+Supply Chain Management
+
+Bachelor of Science : Mathematical Engineering: ORG
+2004: DATE
+University City: GPE
+Turkey: GPE
+2: DATE
+Linear Algebra, Fundamentals of Mathematical Logic: ORG
+Matrix Analysis: ORG
+Volunteer Math Tutor 09/2015: PERSON
+State: ORG
+Tutored: PRODUCT
+Algebra: GPE
+English: LANGUAGE
+Volunteer Math Tutor: PERSON
+Name City: GPE
+Name City: GPE
+Mathematics and Statistics Tutor 09/2005: WORK_OF_ART
+Name City: GPE
+State: ORG
+Tutored: PRODUCT
+Google Express: ORG
+11/2004: CARDINAL
+Name City: GPE
+Consultant 01/2013 to 02/2014 Company Name City: ORG
+June 2013: DATE
+10/2011: CARDINAL
+KPI: ORG
+more than 80%: PERCENT
+Analyst 10/2010 to: DATE
+10/2011: CARDINAL
+Name City: GPE
+Logistics Analyst: ORG
+10/2010: CARDINAL
+Name City: GPE
+Skills
+
+Tutoring: ORG
+English: LANGUAGE
+ESL: ORG
+C++: GPE
+MS Office Suite: ORG
+Google Docs: PERSON
+SQL: GPE

@@ -1,0 +1,95 @@
+15 years: DATE
+Â Maximized: ORG
+Analytical Skills: PERSON
+Oversaw: GPE
+Review: ORG
+Organization and Document Management
+
+: ORG
+CAPA: ORG
+Mode: PERSON
+Current Company Name City: ORG
+more than 15%: PERCENT
+11/2008: CARDINAL
+Provided Systems and: ORG
+Provided System Integration: ORG
+MIL-STD-1553: ORG
+EIA: ORG
+USB: ORG
+Ethernet: PRODUCT
+Performed Installation, Testing: ORG
+Simulators' Audio Visual Systems: ORG
+Developed Vehicle's: ORG
+Software Test Description: ORG
+STD: ORG
+Interface Design Description: ORG
+Developed Interface Cable Systems: ORG
+Principal Electrical Engineer: ORG
+11/2006: CARDINAL
+Provided Engineering Support of Dialysis Instruments: WORK_OF_ART
+the Quality Improvement Team: ORG
+Performed: ORG
+DFMEAs: ORG
+CAPA: ORG
+Technical Summaries, Technical Manuals: ORG
+Procedures
+Conducted Environmental Tests: ORG
+Engineer: ORG
+11/2004: CARDINAL
+Performed: ORG
+Name City: GPE
+Performed Analysis on Voltage Power System: ORG
+Audio Visual Systems: ORG
+Name City: GPE
+Maintained: GPE
+Provided Technical Support: ORG
+System
+Designed: PRODUCT
+whichÂ: PERSON
+US: GPE
+Egypt: GPE
+Kuwait: GPE
+Turkey: GPE
+Name City: GPE
+Project Engineer 07/1995: ORG
+07/1999: CARDINAL
+Name City: GPE
+Maintained Automated Test Equipments: ORG
+Reliability Engineer 04/1990: PERSON
+FMEA: ORG
+SAA: ORG
+MDR: ORG
+Performed System: ORG
+SCA: ORG
+Reliability Test: ORG
+Performed Reliability: ORG
+Training
+Bachelor of Science : Electrical Engineering Minor: PERSON
+1997: DATE
+State: ORG
+USA Electrical Engineering: ORG
+Computer
+Organization and Management 2011 Capella University City: ORG
+State: ORG
+USA Organization and Management
+Affiliations: ORG
+IEEE Computer Society: ORG
+NEU Alumni Association: ORG
+C++,Customer Support: PERSON
+Data Acquisition: ORG
+Data Analysis: ORG
+Database: GPE
+FDA: ORG
+GMP: ORG
+Interface Design: ORG
+Labview, MS Access: ORG
+MS Excel: ORG
+MS Power Point: ORG
+Microsoft Project: ORG
+Microsoft Visual Basic: ORG
+Microsoft Windows: ORG
+Organizational: ORG
+Product Development: ORG
+Protocols: PERSON
+Quality
+Improvement, Quality Control, Risk Assessment, Strategic Planning, System Integration: ORG

@@ -1,0 +1,49 @@
+LICENSED: GPE
+Licensed Practical Nurse: ORG
+15 years: DATE
+RN: ORG
+MD: GPE
+Geriatrics
+Pediatrics
+Correctional Nursing
+Occupational Health: WORK_OF_ART
+Hospice Care
+School Nursing
+Travel Nursing Agencies
+Hospitals: ORG
+Education: ORG
+2012: DATE
+Pre-Med) Foundations: ORG
+ï¼​ City: GPE
+State: GPE
+U.S: GPE
+2009: DATE
+Lawson State Community College: ORG
+State: GPE
+U.S: GPE
+2003: DATE
+Licensed Practical: ORG
+Bessemer State Technical College: ORG
+State: GPE
+U.S: GPE
+Licensed Practical: ORG
+Unit Company Name: WORK_OF_ART
+PCA: ORG
+License Practical Nurse Company Name: ORG
+PCA: ORG
+hernia: GPE
+8-10: CARDINAL
+20: CARDINAL
+IV: GPE
+COPD: ORG
+Geriatrics: GPE
+02/2015: PERSON
+20: CARDINAL
+IV: GPE
+Coordinated: ORG
+200: CARDINAL
+Maintained: GPE
+02/2015: PERSON
+Disciplined: ORG
+Registered Nurses: ORG
+Maintained: GPE

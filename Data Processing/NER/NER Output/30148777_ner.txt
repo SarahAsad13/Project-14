@@ -1,0 +1,73 @@
+Licensed Paralegal: PERSON
+Westlaw
+Highly: ORG
+PracticeMaster: ORG
+Tabs3: CARDINAL
+Paralegal: GPE
+January 2013: DATE
+General Litigation: ORG
+Estate Planning: ORG
+Worker's Compensation Researching: ORG
+West Law: LOC
+Reviewing: PERSON
+Analyzing: PERSON
+Courthouse: ORG
+Company: ORG
+Practice Master: ORG
+Ardex Laboratories: ORG
+2050: DATE
+Receptionist: NORP
+January 2009 to January 2013: DATE
+Organized: ORG
+Excel: PRODUCT
+daily: DATE
+MAS200: NORP
+Generated: ORG
+weekly: DATE
+Separated: PERSON
+Maintained: GPE
+Applied: ORG
+Processed: GPE
+PNC Pinnacle: ORG
+ninety day: DATE
+my final two weeks: DATE
+Ardex
+Laboratories: ORG
+two: CARDINAL
+two: CARDINAL
+January 2007 to January 2009: DATE
+Drafted: ORG
+Faxed: ORG
+Maintained: GPE
+Customer Service Representative: ORG
+January 2005 to January 2007: DATE
+Pilots and Business Aviation Companies: ORG
+Communicated: ORG
+Provided: ORG
+Pilots: PRODUCT
+Flight Attendants: PRODUCT
+Pilots: PRODUCT
+Input: ORG
+Administrative: ORG
+Recognized for Customer Service Excellence: ORG
+2012: DATE
+Manor College Paralegal Studies: ORG
+American Bar Association: ORG
+Paralegal Certificate: ORG
+Manor College American Bar Association: ORG
+2004: DATE
+Nazareth Academy High School Middle States Association of Secondary Schools: ORG
+Administrative: ORG
+Customer
+Service: ORG
+Law: PERSON
+Litigation: ORG
+Access, Excel: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Suite: ORG
+PowerPoint: ORG
+Word: PERSON
+Paralegal: GPE
+Researching: PRODUCT
+Westlaw: PERSON

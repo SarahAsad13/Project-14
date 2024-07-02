@@ -1,0 +1,32 @@
+TEACHER
+Skills: PERSON
+Critical: ORG
+Lesson planning: ORG
+August 2004 to March 2014: DATE
+Committed: ORG
+August 2002 to June 2004: DATE
+Coordinated: ORG
+the school year: DATE
+Completed: ORG
+August 1997 to June 2002: DATE
+daily: DATE
+one: CARDINAL
+Monitored: ORG
+August 1996 to June 1997: DATE
+State: ORG
+Monitored: ORG
+one: CARDINAL
+daily: DATE
+monthly: DATE
+Training
+Master of Science : Instructional Leadership Early Childhood Education: WORK_OF_ART
+2008: DATE
+Tennessee Technical University: ORG
+State Instructional
+Leadership Early Childhood Education: ORG
+Bachelor of Science : Early Childhood Education: ORG
+1996: DATE
+Georgia Southwestern University: ORG
+ï¼​ City: GPE
+Valdosta State University: ORG
+State: ORG

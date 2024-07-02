@@ -1,0 +1,41 @@
+January 2012: DATE
+Current Company Name: ORG
+23: CARDINAL
+January 2008 to January 2012: DATE
+RD: PERSON
+culinary associates: ORG
+Executive Chef / Event Consultant 
+: ORG
+January 2004 to January 2008: DATE
+Laison: PERSON
+the Chicago Board of Realtors: ORG
+25: CARDINAL
+GM: ORG
+January 1995 to January 2003: DATE
+12: CARDINAL
+R&I: ORG
+January 1993 to January 1995: DATE
+Chicago: GPE
+Vienna Beef: PERSON
+Connie's Pizza: ORG
+Diana's Bananas: ORG
+NBC: ORG
+Coffee Cam: WORK_OF_ART
+NBC: ORG
+Kiosk: PRODUCT
+Sous Chef / Production: PERSON
+January 1988 to January 1993: DATE
+Monitored Q & A: ORG
+Associate of Arts: ORG
+Culinary Arts: ORG
+1985: DATE
+Washburne TradeSchool: ORG
+ï¼​ City: GPE
+State: GPE
+United States: GPE
+Culinary Institute of America Hyde Park ï¼​ City: ORG
+State: GPE
+United States: GPE
+State: GPE
+United States: GPE
+Culinary Institute of America Greystone: ORG

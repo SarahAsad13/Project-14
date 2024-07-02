@@ -1,0 +1,55 @@
+Highlights
+Strong: FAC
+Excel: PRODUCT
+Outlook: PERSON
+PhotoShop: ORG
+InDesign: ORG
+PowerPoint: ORG
+MapPoint: ORG
+Leo Software: ORG
+04/2011: CARDINAL
+12/2011: CARDINAL
+Polar Expeditions Company Name: ORG
+Communicated: ORG
+South Pole: LOC
+Greenland Crossing: PERSON
+Digital: ORG
+Designer Company Name: ORG
+Executive VP/Principal: ORG
+CFO: ORG
+third: ORDINAL
+third: ORDINAL
+LeoSoftware: ORG
+Oversaw: GPE
+Maintained: GPE
+Entertained: ORG
+$300 million: MONEY
+2007: DATE
+04/2000: CARDINAL
+Conducted: ORG
+U.S.: GPE
+Client: GPE
+T.V.: ORG
+the Illinois Department of Public Health: ORG
+03/2000: CARDINAL
+08/1999: CARDINAL
+the Jewish Community Centers: ORG
+Drafted: ORG
+Bachelor of Arts : Photography & Fiction Writing Columbia College: ORG
+Chicago: GPE
+ï¼​ City: GPE
+Dean: PERSON
+List Dean's: PERSON
+Spring 1999: DATE
+Skills: ORG
+PhotoShop: ORG
+Client: GPE
+Digital: ORG
+InDesign: ORG
+Mac: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Public Health: ORG
+Desktop Publishing Software: ORG

@@ -1,0 +1,75 @@
+Profile Honorably Discharged Navy: ORG
+the US Navy: ORG
+justice-- Highly: ORG
+ten years: DATE
+Homeland Security Professional: ORG
+Child CPR Training
+Emergency Planning & Response
+SAR/Sexual Assault Awareness
+Windows Expertise
+Report/Operations Analyst
+Public Safety and Security
+Background: WORK_OF_ART
+Supervising/Management
+Critical Thinking
+Firearms Safety & Handling
+Judgment: ORG
+May 2013: DATE
+Maintained: GPE
+100%: PERCENT
+more than $120,000: MONEY
+Communicated: ORG
+20: CARDINAL
+Video Teleconfence: WORK_OF_ART
+the Defense Travel System: ORG
+239: CARDINAL
+967: CARDINAL
+Navy: ORG
+Navy: ORG
+Marine Corp Relief Society: ORG
+13.644: CARDINAL
+Maintenance Admin: PERSON
+March 2009: DATE
+May 2013: DATE
+Naval Aviation Logistics Data Analysis: ORG
+the Naval Aviation Logistics Command Management Information System: ORG
+March 2005 to March 2009: DATE
+Maintained: GPE
+114: CARDINAL
+Established: NORP
+Recognition & Awards Navy: ORG
+Marine Corps Achievement Medal: ORG
+Homeland Security & Intelligence Studies Homeland Security & Intelligence Studies: ORG
+Degree
+BA: PERSON
+Homeland Security: ORG
+7/28 /14: ORG
+State Homeland Security: ORG
+Process Technology: ORG
+5/25/08: CARDINAL
+Lee College: ORG
+State Process Technology: ORG
+first: ORDINAL
+Certificate: ORG
+FEMA: ORG
+IS-00559: PRODUCT
+Certificate 0817N-
+Computer Operator AZ-6303: FAC
+Maintenance Administration Enlisted Aviation Prepare Specialist Numerous Operation System: ORG
+Journeyman Aviation Computer Programmer: ORG
+Analyst: PERSON
+Computer Programmer: ORG
+CPR Certified: ORG
+CPR: ORG
+Critical Thinking: ORG
+Data Analysis: ORG
+Decision Making: ORG
+first: ORDINAL
+Human Resources: ORG
+Listening, Logistics: ORG
+Management Information System: ORG
+Navy: ORG
+Naval: GPE
+Personnel, Public Safety: ORG
+Safety, Security Clearance: ORG
+Technician: NORP

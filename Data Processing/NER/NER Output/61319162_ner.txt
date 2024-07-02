@@ -1,0 +1,113 @@
+200k: MONEY
+$10 million: MONEY
+the National Marketing and Communications: ORG
+Seattle: GPE
+Develops: GPE
+Seattle Executive: ORG
+Seattle Organizer: PERSON
+Stand for Children
+: ORG
+Washington: GPE
+Stand for Children's: ORG
+Log Camp: ORG
+National Association of Multicultural Digital: ORG
+Washington: GPE
+Pitched: NORP
+Developed: PRODUCT
+Black Girls CODE: ORG
+Created: ORG
+British: NORP
+Virgin Islands: GPE
+five: CARDINAL
+Developed: ORG
+22: CARDINAL
+the Ministry (press releases: ORG
+the Securities and Investment Business Act: ORG
+2010: DATE
+the Tax Information Exchange Agreement: ORG
+Represented the Ministry of Finance: ORG
+Cultivated: ORG
+Corporate Relations: ORG
+Maintained: GPE
+New York: GPE
+Management and Planning 01/2008: ORG
+Name City: GPE
+State: ORG
+New York: GPE
+NY: GPE
+Paris: GPE
+France: GPE
+New York: GPE
+Management and Planning
+Led: ORG
+the New York Office: ORG
+$10 million: MONEY
+440k: MONEY
+Bill: PERSON
+Melinda Gates Foundation: ORG
+Developed: ORG
+Paris: GPE
+the Department
+
+Governance: ORG
+Name City: GPE
+the Board of Directors
+Edited: ORG
+State: GPE
+US: GPE
+Philadelphia: GPE
+PA
+Masters: ORG
+May 2003: DATE
+GPA: ORG
+3.8: CARDINAL
+Wharton Business School - Corporate Finance: ORG
+Corporate Finance: ORG
+Marketing
+Bachelor of Arts: PERSON
+Annenberg School of Communications - Comparative Government City: ORG
+State: GPE
+US Annenberg School of Communications: ORG
+SMITH: ORG
+Northampton: GPE
+MA Bachelor of Arts: ORG
+May 1999: DATE
+NORTHWESTERN UNIVERSITY: ORG
+Kellogg School of Management - Marketing/Leadership Executive Program City: ORG
+State: GPE
+US: GPE
+NORTHWESTERN UNIVERSITY: ORG
+Kellogg School of Management Certificate Marketing/Leadership Executive Program: ORG
+July 2007: DATE
+Chicago: GPE
+IL ADDITIONAL Technology Skills: ORG
+MS Office: ORG
+Raisersedge: PERSON
+LexisNexis: ORG
+Twitter: PERSON
+Extensive International
+Work: Western Europe: ORG
+US: GPE
+Africa: LOC
+Asia: LOC
+Caribbean: LOC
+Chicago: GPE
+IL
+Professional Affiliations: ORG
+Log Camp: ORG
+National Association of Multicultural Digital: ORG
+Skills
+Marketing, Public Relations: ORG
+Copywriter, Proactive: ORG
+Self Motivated: PERSON
+Liaison, Budget, Governance, Proposals, Public
+Relations Strategy, Finance: ORG
+Business Development, Crisis Management, Exchange: ORG
+Strategic Planning: ORG
+White Papers: WORK_OF_ART
+Associate, Contract Management: ORG
+Operations: ORG
+Energetic: PRODUCT
+Organizational Skills: ORG
+San, Storage Area Network: GPE
+Public Policy: PERSON

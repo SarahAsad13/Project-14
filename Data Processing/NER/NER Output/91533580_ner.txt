@@ -1,0 +1,65 @@
+Strong: PERSON
+Highlights
+
+Established: WORK_OF_ART
+2010: DATE
+Exceeded Sales Management: ORG
+10+%: CARDINAL
+quarterly: DATE
+District Sales: ORG
+7 months: DATE
+monthly: DATE
+20: CARDINAL
+each month: DATE
+January 2011 to January 2014: DATE
+KPI: ORG
+Develop: ORG
+KPI: ORG
+J.
+Jill The Store Upscale: PERSON
+January 2000 to January 2010: DATE
+Facilitated: ORG
+Loss Prevention: ORG
+Accountable: PERSON
+Coordinated: PRODUCT
+quarterly: DATE
+Training: PERSON
+Victoria: PERSON
+Regional Trainer: PERSON
+January 1991 to January 2000: DATE
+Must Win: WORK_OF_ART
+annual: DATE
+3.5: MONEY
+35+associates: CARDINAL
+Must Win: WORK_OF_ART
+Motivate: NORP
+annual: DATE
+Maintained: GPE
+Loss Prevention: ORG
+Midwest Regional Trainer: LOC
+January 1990 to January 1991: DATE
+Coats: PERSON
+Dresses: ORG
+Lingerie Responsible: PERSON
+20: CARDINAL
+weekly: DATE
+Coordinated: PRODUCT
+Business Management and Accounting UVT College of Economics ï¼​ City: ORG
+Romania Business Management and Accounting: ORG
+1st: ORDINAL
+Take 5"award: WORK_OF_ART
+a year) 2000: DATE
+2010: DATE
+Affiliations: ORG
+Winner: PERSON
+LY Winner: PERSON
+2005: DATE
+2008: DATE
+Focus: ORG
+Team
+Building: ORG
+Loss Prevention: ORG
+Merchandising: PERSON
+Win: PERSON
+2000: DATE
+Trainer: ORG

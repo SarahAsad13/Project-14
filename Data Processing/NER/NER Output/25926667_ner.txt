@@ -1,0 +1,86 @@
+Detail: PERSON
+Analytical &: ORG
+Adaptability: ORG
+Program: ORG
+Exemplary: PERSON
+HIPAA: ORG
+Google Docs: PRODUCT
+google Sheets
+Research
+SPSS Statistic Software: ORG
+SAP Accounting: ORG
+Name City: GPE
+11/2011: CARDINAL
+Name City: GPE
+State: ORG
+10/2013: CARDINAL
+Name City: GPE
+State: ORG
+Explained: PRODUCT
+Baruch College's College Now: ORG
+Coordinated: ORG
+50%: PERCENT
+the spring 2014 semester: DATE
+Collaborated: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Baruch College: ORG
+Baruch College: ORG
+11/2011: CARDINAL
+Name City: GPE
+State
+
+Management: ORG
+daily: DATE
+Medicare: ORG
+Performed: ORG
+Evaluation & Management: ORG
+Procedural: ORG
+20-30: CARDINAL
+the Current Procedural Terminology: ORG
+International Classification
+Diseases 9th Revision: ORG
+Created: ORG
+Cardio-Vascular Intravenous Therapy Department: ORG
+Processed: GPE
+approximately 100: CARDINAL
+4: CARDINAL
+Identify: PRODUCT
+Assess: ORG
+Coordinate: FAC
+Training
+Master of Public Administration : Public Management Baruch College Public Management
+Bachelor of Professional Studies : Applied Business Management Medgar Evers College Applied Business Management
+Associate of Science : Business Administration Business Administration: WORK_OF_ART
+The New American Academy Charter School (TNAACS: ORG
+BROOKLYN: GPE
+NY: ORG
+Parent: GPE
+Organization (PTO: ORG
+09/2015-: CARDINAL
+Present Oversee: FAC
+PTO: ORG
+TNAACS: ORG
+Principal: PERSON
+Skills: ORG
+Accounting Software: ORG
+CPT: ORG
+ICD-9: NORP
+Access: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Problem Solving: PERSON
+Research: ORG
+SAP: ORG
+SPSS: ORG
+Teamwork: ORG
+Therapy: PERSON
+The New American Academy Charter School (TNAACS: ORG
+BROOKLYN: GPE
+NY: ORG
+Parent: GPE
+Organization (PTO: ORG
+PTO: ORG
+Principal: PERSON

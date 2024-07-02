@@ -1,0 +1,272 @@
+SENIOR AEROSPACE QUALITY ENGINEER
+: ORG
+SPC: ORG
+QFD: ORG
+Mistake-Proofing: ORG
+Root Cause Corrective Action: ORG
+PFMEA: ORG
+APQP: ORG
+DFMEA: ORG
+Cpk: PERSON
+DMADV: ORG
+QFD: ORG
+SIPOC: ORG
+COPIS: PERSON
+CAPA: ORG
+QA: ORG
+five years: DATE
+Mathworks: PRODUCT
+Energy: ORG
+Operations: ORG
+Reliability Testing
+Geometric Dimensioning
+
+Accomplishments
+
+Product Improvement
+
+Lean Manufacturing
+Physics: PRODUCT
+Material Properties
+Leadership
+Team: ORG
+Failure Analysis
+Product Engineering
+
+Liaised: WORK_OF_ART
+MRB: ORG
+Statistical Analysis: ORG
+Project Management Â 
+
+: ORG
+February 2009 to September 2014: DATE
+UTC: ORG
+the Non-Destructive Testing: ORG
+ETL: ORG
+Performed AS9102 First Article Inspections: ORG
+9100: CARDINAL
+Directed Kaizen: PERSON
+Lean Manufacturing: ORG
+weekly: DATE
+about thirty: CARDINAL
+Identify: ORG
+JSF: ORG
+Maintained Aerospace Quality Management Systems: ORG
+Initiated: ORG
+Value Stream Mapping: ORG
+Quality Engineers: ORG
+FAIR: ORG
+Six Sigma: PERSON
+the United States: GPE
+DoD: GPE
+FAA: ORG
+the Codes of Federal Regulations: ORG
+GE Aviation: ORG
+January 2005 to November 2009: DATE
+Supplier Quality Assurance: ORG
+SCM: ORG
+shop capacity & performance metrics: ORG
+Participate in Daily Management: ORG
+Key Performance Indicators: LOC
+KPI: ORG
+monthly: DATE
+Exert: PERSON
+IPT: ORG
+Integrated Product Team: ORG
+Aerospace: ORG
+Demonstrate: ORG
+Exert: PERSON
+IPT: ORG
+Supply Chain Management: ORG
+Directed: ORG
+Mathematics: NORP
+January 2002: DATE
+May 2005: DATE
+MATLAB: ORG
+Minitab: PERSON
+Calculus 1: FAC
+2: DATE
+3: DATE
+Differential Equations: ORG
+Partial Derivatives: PERSON
+Lie Super-Algebra: ORG
+Fluid Mechanics: ORG
+Applied
+Physics: ORG
+Solid State Physics: ORG
+FE Examand: ORG
+first: ORDINAL
+four: CARDINAL
+Related Coursework
+Ph: PERSON
+Theoretical Physics: ORG
+2010: DATE
+Massachusetts Institute of Technology ï¼​ City: ORG
+State: GPE
+USA: GPE
+H.Y. Loh Award Scholarship National
+Defense: PERSON
+Transverse Momentum Distribution: ORG
+Tevatron: ORG
+National Defense Science and Engineering Graduate: ORG
+Tevatron: ORG
+Dean: PERSON
+Summa Cum Laude: PERSON
+Econometrics: ORG
+2007: DATE
+MIT Sloan School of Management ï¼​ City: ORG
+State: GPE
+USA: GPE
+Dean: PERSON
+4.0/4.0: CARDINAL
+Emphasis: PERSON
+GPA: ORG
+Applied Physics: ORG
+2005: DATE
+Massachusetts Institute of Technology ï¼​ City: ORG
+State: GPE
+USA: GPE
+Summa Cum Laude Dean's: PERSON
+3.97/4.00: CARDINAL
+Pi Kappa Chapter: ORG
+MechE Honor's: PERSON
+Society Dissertation: Studies of Ultrafast Structural Dynamics In Metals
+
+Summa Cum Laude: ORG
+Dean: PERSON
+3.97/4.00: CARDINAL
+Pi Kappa Chapter: ORG
+MechE Honor's: PERSON
+Society
+
+Advanced: ORG
+Ultrafast Structural Dynamics In Metals
+
+Bachelor of Science : Mechanical Engineering: ORG
+2002: DATE
+Massachusetts Institute of Technology: ORG
+State: GPE
+USA: GPE
+Summa Cum Laude: PERSON
+Dean: PERSON
+MechE Honor's: PERSON
+Society GPA: ORG
+3.94/4.00: CARDINAL
+Summa Cum Laude: PERSON
+Dean: PERSON
+MechE Honor's: PERSON
+GPA: ORG
+3.94/4.00: CARDINAL
+Mathematics: NORP
+2008: DATE
+Lean Six Sigma Green Belt: EVENT
+2007: DATE
+Villanova: ORG
+PA 19085 Villanova University: ORG
+ï¼​ City: GPE
+2008: DATE
+Villanova University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Six Sigma Quality: ORG
+SPC: ORG
+QFD: ORG
+Mistake-Proofing: ORG
+Root Cause Corrective Action: ORG
+PFMEA: ORG
+APQP: ORG
+DFMEA: ORG
+Cpk: PERSON
+DMADV: ORG
+QFD: ORG
+SIPOC: ORG
+COPIS: PERSON
+CAPA: ORG
+Theoretical Physics: ORG
+2010: DATE
+Massachusetts Institute of Technology ï¼​ City: ORG
+State: GPE
+USA: GPE
+Dean: PERSON
+3.91/4.0: CARDINAL
+Graduate
+Student Council of the Massachusetts Institute of Technology Physics Department: ORG
+Sigma Pi Sigma: PERSON
+Undergraduate
+
+Analysis of Particle Kinetics: ORG
+Fluidized Bed Processing: ORG
+the Finite Element and Boundary Element Methods: ORG
+Undergraduate: ORG
+Combustion Performance: ORG
+High Energy Density: ORG
+Birational Manifolds: ORG
+Effective Field Theory and D Grand Unified Model: WORK_OF_ART
+Transitory Control of Separated Shear Layer: ORG
+Affiliations: ORG
+American Mathematical Society: ORG
+Connecticut: GPE
+Western Massachusetts Chapter: ORG
+Mensa: ORG
+Knights of: PERSON
+Columbus: GPE
+3rd: ORDINAL
+Degree Knight American Physical Society: PERSON
+American Society For Quality - Certified Quality Improvement Associate: ORG
+Connecticut: GPE
+Academy of Science and Engineering: ORG
+American Institute of Aeronautics and Astronautics: ORG
+Board of Directors: ORG
+HARC Inc.: ORG
+American Society of Mechanical Engineers
+Personal Information
+Euler-Mascheroni: ORG
+Leonhard Euler: ORG
+De Progressionibus: ORG
+1735: DATE
+Greek: NORP
+Gamma: PERSON
+Euler: ORG
+278 years: DATE
+the Taylor Polynomial: FAC
+Euler: ORG
+Nobel Laureate: PERSON
+Physics: ORG
+The
+Association of American Publishers: ORG
+2012: DATE
+Skills: ORG
+3: CARDINAL
+Approach: PERSON
+Derivatives: ORG
+ETL: ORG
+Government: ORG
+ISO: ORG
+ISO 9001: ORG
+Mathematics: NORP
+MATLAB: ORG
+Minitab: PERSON
+Modeling: GPE
+Physics: ORG
+Quality, Quality
+Assurance, Reporting, Research: ORG
+Six Sigma: PERSON
+SPC: ORG
+Supply Chain Management
+Additional Information: ORG
+Leonhard Euler: ORG
+De Progressionibus: PERSON
+1735: DATE
+Greek: NORP
+Gamma: PERSON
+Euler: ORG
+Mathematicians: NORP
+278 years: DATE
+the Taylor Polynomial: FAC
+Euler: ORG
+Fields Medal: PERSON
+Nobel Laureate: PERSON
+Physics: ORG
+The Association of American Publishers: ORG
+2012: DATE

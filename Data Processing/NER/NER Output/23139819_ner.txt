@@ -1,0 +1,50 @@
+Microsoft Office: ORG
+Accountant Company Name: ORG
+State
+
+Management: ORG
+Monthly: DATE
+Balance Sheet: PERSON
+Build: GPE
+quarterly: DATE
+monthly: DATE
+monthly: DATE
+01/2004: CARDINAL
+Accounts Payable: ORG
+Identification: ORG
+monthly: DATE
+01/2004: CARDINAL
+Reviews: PERSON
+Verifies: GPE
+Reviews: PRODUCT
+Communicates: ORG
+01/2000: CARDINAL
+State
+
+Management: ORG
+124: CARDINAL
+up to 25: CARDINAL
+Prepare: ORG
+night: TIME
+daily: DATE
+Accountancy National University ï¼​ City: ORG
+State Accountancy: ORG
+12/1999: CARDINAL
+Hotel Management University of Nevada Las ï¼​ City: ORG
+State Hotel Management: ORG
+Associate of Science : Business Administration Parkland College ï¼​ City: WORK_OF_ART
+State Business Administration: ORG
+Accounts Payable: ORG
+ADP Payroll: ORG
+Balance Sheet: PERSON
+Bank Reconciliations, Bank: ORG
+Cash Management: ORG
+Database: GPE
+Financial Statements: ORG
+Human Resources: ORG
+Microsoft Office: ORG
+ORACLE: ORG
+QuickBooks: ORG
+Research, Sales: ORG
+SAP: ORG
+monthly: DATE

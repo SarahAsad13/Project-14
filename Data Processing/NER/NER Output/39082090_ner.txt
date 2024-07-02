@@ -1,0 +1,76 @@
+20 years': DATE
+More than 10 years': DATE
+Health Information Management: ORG
+MBA: WORK_OF_ART
+Highlights
+Management: ORG
+Communication: ORG
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+Detail: PERSON
+Clerical: ORG
+01/2011: CARDINAL
+Surgical Clinical Reviewer Company Name Collected: ORG
+the ACS NSQIP: ORG
+NSQIP: ORG
+2009: DATE
+2010: DATE
+Physician Grading: PERSON
+Reporting, Medical Record Abstraction: ORG
+Quality Improvement: ORG
+HEDIS: PERSON
+NCQA: ORG
+01/2004 to 01/2008: CARDINAL
+Medicare: ORG
+01/2004: CARDINAL
+Health Information Management: ORG
+JCAHO: ORG
+JCAHO: ORG
+HEDIS: PERSON
+ACHA: ORG
+Tumor Registry: ORG
+Medical Records Abstract: ORG
+3: CARDINAL
+Education: ORG
+2015: DATE
+Paralegal Blackstone Institute Blackstone Institute - Paralegal: ORG
+2015: DATE
+June 2015
+2015: DATE
+MBA: WORK_OF_ART
+2014 - 2015: DATE
+October 2012: DATE
+BS : Health Information Management Florida International University Florida International University - BS Health Information Management - Dec: ORG
+1999: DATE
+Miami Dade Community College - AA Psychology: ORG
+May 1999: DATE
+Certifications
+ACS NSQIP Certificate of Completion Surgical Clinical Reviewer
+Languages
+customer service: WORK_OF_ART
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+the ACS NSQIP: ORG
+NSQIP: ORG
+Skills
+Payroll: ORG
+Hedis: PERSON
+Coding: ORG
+Healthcare: ORG
+Medicare: ORG
+Outpatient: ORG
+Quality Assurance, Reconciliation, Audit: ORG
+Encoder, Medical Records: ORG
+Customer Service: ORG
+Energetic: LOC
+Etiquette: PERSON
+Excellent Writing: PERSON
+Writing Skills: PERSON
+Hr: PERSON
+Liaison: PERSON
+Receptionist: NORP
+Self Motivated: PERSON
+Solutions, Strong Communication Skills: ORG
+Paralegal: GPE

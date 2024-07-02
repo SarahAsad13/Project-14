@@ -1,0 +1,53 @@
+Key Skills: PERSON
+Google Drive: FAC
+Google Calendar: PRODUCT
+Microsoft Office: ORG
+Suite: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+July 2014: DATE
+Cisco Systems': ORG
+Influence "Chapter 7: Liking" Group Presentation: LAW
+Social Psychology: ORG
+Persuasion Experiment Study, Social Psychology: WORK_OF_ART
+Spring 2014: DATE
+Mattress Discounters: ORG
+Robert Cialdini's: PERSON
+Influence: ORG
+Research Paper: ORG
+Seminar: PERSON
+the Aesthetics of Citizen Participation: ORG
+October 2014: DATE
+7%: PERCENT
+first two months: DATE
+HR department: ORG
+Coordinate: FAC
+Execute: ORG
+Sequoia: ORG
+first: ORDINAL
+weekly: DATE
+June 2004 to October 2014: DATE
+300: CARDINAL
+Quickbooks: ORG
+15: CARDINAL
+Established: ORG
+University of California 
+City English B.A: ORG
+English: LANGUAGE
+Industrial-Organizational Psychology, Statistics: ORG
+Social Psychology: ORG
+General Psychology: ORG
+Abnormal
+Psychology, Child Development, Cultural Anthropology: WORK_OF_ART
+July: DATE
+2014-January 2015: DATE
+Human Capital Growth, Inc.: ORG
+Cisco: GPE
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+Word: PERSON
+Organizational: ORG
+Persuasion: ORG
+Quickbooks: PERSON
+Research: ORG

@@ -1,0 +1,24 @@
+FEDERAL GRAIN INSPECTOR
+Summary
+
+Service: ORG
+5 years: DATE
+the Industrial Industry: ORG
+Processing, Observing, Analyzing: ORG
+Mechanical: ORG
+Name City: GPE
+State Federal Grain Inspector 06/2015: ORG
+70 pounds: QUANTITY
+Name City: GPE
+State: ORG
+Name City: GPE
+Electrician: PERSON
+ITI Technical College: ORG
+City: GPE
+State: GPE
+United States: GPE
+SECURITY: ORG
+SURVIVAL: NORP
+HUET: PERSON
+CPR AEDÂ 
+FALL: ORG

@@ -1,0 +1,79 @@
+TERRITORY: ORG
+Career Focus: FAC
+GPO: ORG
+formulary: ORDINAL
+men&apos;s: PERSON
+Customer: ORG
+August 2013: DATE
+Current Territory Sales Consultant 
+City: ORG
+$9 million: MONEY
+Cardinal Health: ORG
+Group
+Purchasing Organizations: ORG
+Value Analysis Coordinators: ORG
+GP: ORG
+MVP: ORG
+II: CARDINAL
+my first fiscal year: DATE
+98.7%: PERCENT
+23.90%: PERCENT
+previous year: DATE
+first: ORDINAL
+January 2007 to July 2013: DATE
+Rookie of the Year: DATE
+11%: PERCENT
+my first year: DATE
+Lilly: ORG
+Awarded 3: FAC
+2012: DATE
+Launched 3: PRODUCT
+3: CARDINAL
+the Future Marketers: ORG
+West: LOC
+the Future Marketers: ORG
+Midwest: LOC
+Chosen: ORG
+Lilly: ORG
+Chicago: GPE
+2012: DATE
+Responsible for Selling a Variety of Disease States: ORG
+Multiple Specialties: ORG
+Rheumatologists: NORP
+Pain
+Management: ORG
+OB: ORG
+representatives&apos: ORG
+men&apos;s: PERSON
+Mental Health /Licensed: ORG
+November 1994 to January 2007: DATE
+Youth Assessment Center: ORG
+clinicians: NORP
+Level II Instructor 
+
+: PERSON
+Motivate: PRODUCT
+Coached 2: CARDINAL
+10-week: DATE
+3: CARDINAL
+Develop: ORG
+University of Nebraska: ORG
+Family Therapy Marriage: PERSON
+Family Therapy: PERSON
+University of Nebraska: ORG
+the Mesa Verde Townhouse Association: ORG
+2012: DATE
+Nebraska Juvenile: PERSON
+2001-2006: DATE
+Current Lincoln: PERSON
+NE: ORG
+1994: DATE
+Lincoln: ORG
+NE: GPE
+USA 1991: ORG
+Lincoln: ORG
+NE: GPE
+USA: GPE
+Materials, Mental Health: WORK_OF_ART
+98: DATE
+Pain Management: ORG

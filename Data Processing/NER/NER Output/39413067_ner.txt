@@ -1,0 +1,84 @@
+FREELANCE: GPE
+Career Overview
+Highly: ORG
+Information Technology Specialist: ORG
+Microsoft Server: ORG
+Core Strengths Excellent: PERSON
+Mobile: ORG
+Accurate: ORG
+Vast: ORG
+Skills
+Active Directory: ORG
+Business Management and Development: ORG
+Network: ORG
+Consulting: ORG
+Document: PRODUCT
+Information Technology: ORG
+Java: PERSON
+LAN: ORG
+#: CARDINAL
+Microsoft
+Office: ORG
+Microsoft Office: ORG
+Windows 7,: ORG
+2000: DATE
+Microsoft Windows XP: ORG
+Windows XP: ORG
+Migration: GPE
+Network Administration: ORG
+Network: ORG
+Networks: ORG
+Novell Network: ORG
+PC Repair and Support: ORG
+Copier: GPE
+PHP: ORG
+Software: NORP
+SQL: ORG
+Upgrading: GPE
+Vista: ORG
+Visual Basic: ORG
+XML: ORG
+14 hours: TIME
+1 1/2 hours: TIME
+Information Technology Specialist: ORG
+COO: ORG
+81%: PERCENT
+400: CARDINAL
+Windows 7 Professional, Windows 8.1: ORG
+Microsoft Office: ORG
+Sharing Network: PERSON
+Novell Network: ORG
+Microsoft Active Directory: ORG
+2012: DATE
+Microsoft System Center Configuration: ORG
+200: CARDINAL
+Microsoft Terminal Services: ORG
+Active Directory: ORG
+12/2012 City: GPE
+State: ORG
+LAN: ORG
+WLAN: ORG
+Networks: ORG
+08/2011: CARDINAL
+Monitored: ORG
+Maintained: GPE
+Microsoft Active Directory: ORG
+Windows Server 2008: PERSON
+3000: CARDINAL
+Windows 7 Professional: ORG
+Windows XP: ORG
+1 2012 Minnesota School of Business ï¼​ City: MONEY
+State: GPE
+United States: ORG
+Applied Science Computer Science Computer Science
+Information Technology AAS: ORG
+Application Development Android: ORG
+C++: GPE
+Java: PERSON
+PHP: ORG
+SQL: ORG
+Visual Basic: ORG
+Business
+Management and Development Microsoft Network Administration: ORG
+Microsoft: ORG
+2010: DATE

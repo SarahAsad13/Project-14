@@ -1,0 +1,50 @@
+INTERIOR: ORG
+Realtor: PERSON
+Detail: PERSON
+CAD: ORG
+Paier: ORG
+History of Interiors: ORG
+Microsoft
+Office
+Model Making
+Corporate
+Building Design
+Residential
+Planning: ORG
+Excellent
+Attention: WORK_OF_ART
+Paier Perspective: ORG
+the Interior Design Department: ORG
+Dean: PERSON
+all four years: DATE
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+11/2013: CARDINAL
+August 2013: DATE
+3,200: CARDINAL
+West Brook: GPE
+May 2012: DATE
+North Haven: GPE
+the summer of 2011: DATE
+New England Kitchen: LOC
+Bath: PERSON
+Glastonbury: ORG
+CT: ORG
+Abbey Miller: PERSON
+the summer of 2009: DATE
+East Hampton: GPE
+New York: GPE
+the Grand Acquisitor: FAC
+Antique Dealer: PERSON
+18th and 19th century: DATE
+2013: DATE
+Professional Affiliations
+
+: ORG
+The American Society of Interior Designers: ORG
+ASID: ORG
+National Occupational Competency Testing Institute: ORG
+NOCTI: ORG
+CAD: ORG

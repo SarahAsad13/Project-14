@@ -1,0 +1,82 @@
+Costumer Service: ORG
+10 years: DATE
+first consecutive 6 months: DATE
+Highest: ORG
+Developed and Promoted 5 company: ORG
+General Managers for La Fitness: ORG
+Highest: ORG
+New Jersey Club: ORG
+GM: ORG
+Co-General Managers: ORG
+North east: LOC
+September 2014 to January 2015: DATE
+Feeder Driver 
+City: PERSON
+June 2014 to August 2014: DATE
+State: ORG
+Pepsi Transport Carrier: ORG
+Pepsi: ORG
+State: ORG
+Federal DOT: ORG
+Driver: ORG
+Truck Safety: ORG
+Â·Report: CARDINAL
+March 2008 to June 2014: DATE
+Researched: ORG
+Initiated: ORG
+monthly: DATE
+U.S.: GPE
+Established: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Established: ORG
+North Jersey: GPE
+Corporate Office: ORG
+the Club Level: FAC
+May 2003 to August 2008: DATE
+Upper Management: ORG
+Pepsi Costumer Service Accounts: ORG
+Pepsi: ORG
+Northern New: LOC
+Jersey: GPE
+Obtained: ORG
+CDL: ORG
+Pepsi: ORG
+Truck Loads: PERSON
+Pepsi: ORG
+June 2006 to March 2008: DATE
+Focus on: ORG
+daily: DATE
+GM: ORG
+weekly: DATE
+5%: PERCENT
+previous years: DATE
+June 2005 to: DATE
+December 2005: DATE
+Generate: PERSON
+March 2003: DATE
+May 2005: DATE
+Corporate Office: ORG
+Club Level: FAC
+Racquetball Leagues: ORG
+North Jersey La Fitness: ORG
+racquetball league: ORG
+North Jersey: GPE
+Staten Island Â: LOC
+35%: PERCENT
+first: ORDINAL
+Johnson C. Smith University 1996 Bachelor Of Science : Business Administration City: ORG
+State
+
+Business Administration: ORG
+Marketing: GPE
+Skills
+
+Acquisitions: ORG
+Advertising: PERSON
+Business Operations: ORG
+Customer Service: ORG
+Microsoft Excel: ORG
+Office: ORG
+Safety, Sales: ORG
+Strategic Planning: ORG

@@ -1,0 +1,51 @@
+Highlights
+Skills:
+
+Computer Proficiency: WORK_OF_ART
+Microsoft: ORG
+Excel: PRODUCT
+Lesson planning expertise: ORG
+Standardized: ORG
+State: ORG
+7th: ORDINAL
+8th Grade: FAC
+8th: ORDINAL
+CCSS
+Created: ORG
+Included Smart: ORG
+PowerPoint: ORG
+09/2003: CARDINAL
+11/2003: CARDINAL
+Curriculum
+Developed: PERSON
+Students: FAC
+Maintained: GPE
+daily: DATE
+State: GPE
+US Masters of Science in Education & Special Education: ORG
+Touro College: ORG
+Bayshore: GPE
+New York: GPE
+June 2006: DATE
+ï¼​ City: GPE
+State: GPE
+US Bachelor of Science: ORG
+New York: GPE
+New York: GPE
+September 2003: DATE
+Certifications: ORG
+1: CARDINAL
+New York State Permanent: GPE
+2: CARDINAL
+New York City Permanent Certificate: GPE
+2007- Present: TIME
+â€¢Urban Advantage: ORG
+2013-: CARDINAL
+2014-Present: DATE
+NYU University: ORG
+Point: ORG
+Skills
+
+Computer Proficiency: ORG
+Microsoft: ORG
+Excel: PRODUCT

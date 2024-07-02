@@ -1,0 +1,61 @@
+May 2015 to August 2017: DATE
+May 1996 to March 2015: DATE
+CMS: ORG
+PCB: ORG
+box builds: PERSON
+Coordinate: FAC
+Translate: ORG
+MRP: GPE
+June 1995 to: DATE
+May 1996: DATE
+Determine: ORG
+July 1994 to June 1995: DATE
+December 1992 to July 1994: DATE
+January 1988 to January 1992: DATE
+pcb: ORG
+Supervisor: PERSON
+Manufacturing Engineer: ORG
+January 1981 to January 1988: DATE
+Variable Speed Drives: PERSON
+BOM: ORG
+Liaison: PERSON
+Bachelor of Business Administration: ORG
+1996: DATE
+Langston University: ORG
+ï¼​ City: GPE
+State: ORG
+Magna Cum Laude: PERSON
+3.5: CARDINAL
+10 years: DATE
+BOM: ORG
+SOP: ORG
+ISO: ORG
+Lean, Six Sigma: ORG
+APICS: ORG
+WDS: ORG
+Syteline: PERSON
+Microsoft Great Plains: FAC
+Certifications
+SharePoint: ORG
+Adobe Acrobat: PERSON
+Altium/Protel (Intermediate) Excel: ORG
+CompliantPro: ORG
+Polydyne Quote
+Software: PERSON
+WDS MRP Software: ORG
+Outlook: PERSON
+Syteline MRP Software: ORG
+Project (Intermediate) MS Great Plains (Intermediate: ORG
+Skills: ORG
+Adobe Acrobat: PERSON
+CMS: ORG
+ERP: ORG
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Windows: NORP
+Word: GPE
+MRP: GPE
+Protel: ORG
+Supervisor: PERSON

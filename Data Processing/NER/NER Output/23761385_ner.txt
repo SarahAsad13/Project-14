@@ -1,0 +1,78 @@
+Advocate Leading: ORG
+SUCCESSFUL: ORG
+Business Management: ORG
+Human Resources and Financials: ORG
+MBA: ORG
+BA: ORG
+Accounting: GPE
+Highlights: GPE
+Microsoft Office: ORG
+Suite: PERSON
+HRIS: ORG
+Leadership: NORP
+100%: PERCENT
+over $50,000,000: MONEY
+Process Improvement
+
+Created: WORK_OF_ART
+Protective Services: ORG
+Department Safety Manual: ORG
+Aviation Electronics: ORG
+January 2003 to November 2014: DATE
+Winner: PERSON
+2,000: CARDINAL
+US: GPE
+500K.: MONEY
+150K.: CARDINAL
+Equal Opportunity: ORG
+EOM: ORG
+4 years: DATE
+EO: ORG
+Conflict Management: ORG
+Reports: ORG
+Relevant Skills: PERSON
+Interpersonal Relation Effective Communications: ORG
+Strategic Analysis: PERSON
+Critical Thinking: ORG
+AP/AR, Work Flow Planning: ORG
+Competencies Execute: ORG
+Collaborate: ORG
+Received Navy/ Marine Corps Achievement Medal: ORG
+1,500: CARDINAL
+Navy Reserve: ORG
+2,300: CARDINAL
+Defense Travel: ORG
+Utilize Naval Aviation Logistics Command Management Information System Optimized: ORG
+Maintained: GPE
+Command Drug: ORG
+Alcohol Program Advisor: ORG
+Alcohol Awareness: ORG
+Alcohol Abuse Program: ORG
+daily: DATE
+monthly: DATE
+quarterly: DATE
+Operations Management: ORG
+35: CARDINAL
+500: CARDINAL
+100%: PERCENT
+Evaluate: ORG
+Collaborate: ORG
+December 2000 to January 2003: DATE
+State: ORG
+Oversaw: GPE
+Masters of Business Administration: ORG
+MBA: WORK_OF_ART
+Business Administration/Management: ORG
+1 2014: DATE
+SAINT LEO UNIVERSITY: ORG
+ï¼​ City: GPE
+2011: DATE
+Saint Leo University: ORG
+State: GPE
+United States: GPE
+Men Mentoring Program: ORG
+Skills
+
+Business Management: ORG
+Operations Management: ORG
+2,000: CARDINAL

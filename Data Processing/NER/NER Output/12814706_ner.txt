@@ -1,0 +1,120 @@
+Highlights
+
+Fluent: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+Customer Service Professional
+Superior: ORG
+Superb: NORP
+154%: PERCENT
+monthly: DATE
+34: CARDINAL
+21: CARDINAL
+14.5MM: MONEY
+Current Company Name City: ORG
+3: CARDINAL
+Kia: ORG
+Hyundai: ORG
+CDJR: ORG
+Chrysler: ORG
+Dodge,Jeep & Ram: ORG
+Trained/Developed Sales Team: ORG
+Trained/Developed Sales Team: ORG
+CRM: PRODUCT
+Met Weekly/: ORG
+Monthly: DATE
+GM: ORG
+Built Strong Relationships with Fleet Organizations
+Developed: WORK_OF_ART
+two: CARDINAL
+05/2012: CARDINAL
+Name City: GPE
+five: CARDINAL
+Home Depot: ORG
+over $5MM: MONEY
+annual: DATE
+Home Depot Management, Associates, Professional Contractors: ORG
+ISD: ORG
+Government Agencies: ORG
+Municipalities: ORG
+Multi - Family Apartment Groups: ORG
+Monitored: ORG
+Behr/Kilz: ORG
+Behr/Kilz: ORG
+2009: DATE
+Behr Ultra: PERSON
+Int/Ext Oil Base: ORG
+Ext Wood Stains: ORG
+Floor Coatings: PERSON
+Kilz Pro X
+Trained: PERSON
+Home Depot: ORG
+Home Depot: ORG
+Won "Rookie of The Year: PERSON
+2010: DATE
+2: CARDINAL
+10: CARDINAL
+2011: DATE
+New Home Counselor 01/2006: ORG
+28: CARDINAL
+5,236,000: MONEY
+first six months
+Achieved: DATE
+97%: PERCENT
+first: ORDINAL
+Minimized: PERSON
+58: CARDINAL
+8,700,000: MONEY
+39: CARDINAL
+Mi CasaTV
+Protected: ORG
+14: CARDINAL
+one day: DATE
+first: ORDINAL
+Dallas Division: ORG
+Realtor: PERSON
+Beazer University: ORG
+New Business Development Sales: ORG
+11/1992: CARDINAL
+Name City: GPE
+154%: PERCENT
+2000: DATE
+weekly: DATE
+125%: PERCENT
+1999: DATE
+21: CARDINAL
+14%: PERCENT
+Q2: CARDINAL
+Q3: CARDINAL
+1998: DATE
+four: CARDINAL
+Created: ORG
+Superstar Selling: ORG
+Brian Tracy: PERSON
+Ft. Worth: GPE
+Texas: GPE
+2005: DATE
+Plano: GPE
+Texas: GPE
+Success: ORG
+Jeffrey: PERSON
+Ft. Worth: GPE
+Texas: GPE
+State: GPE
+Brian Tracy :: PERSON
+Marketing 2005: ORG
+University City: GPE
+State: GPE
+USA: GPE
+2003: CARDINAL
+State: GPE
+USA: GPE
+Associate of Arts: ORG
+State: GPE
+USA: GPE
+Account Management, Business Development, Client Relations: ORG
+Cold Calling: ORG
+Computer Literate: PERSON
+Creative Problem Solving: WORK_OF_ART
+CRM Systems: ORG
+Customer Needs Assessment: ORG

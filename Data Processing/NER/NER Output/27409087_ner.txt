@@ -1,0 +1,109 @@
+Budget: ORG
+Microsoft Office: ORG
+SAP: GPE
+Employee Management Â 
+
+Liaised: WORK_OF_ART
+Ledger Accounts Â: PERSON
+October 2013: DATE
+monthly: DATE
+Principal Accountabilities: LOC
+Oversee: ORG
+the
+department's: ORG
+Oversee: ORG
+Freetown: ORG
+Kenema: PERSON
+Kono: PERSON
+Kailahun: PERSON
+Bank: ORG
+PPE: ORG
+Maintain: PRODUCT
+Maintain: PERSON
+second: ORDINAL
+that month: DATE
+monthly: DATE
+monthly: DATE
+SAP: ORG
+Coordinate: FAC
+annual: DATE
+Recommend: ORG
+Calculate: ORG
+annual: DATE
+Calculate: ORG
+annual: DATE
+Coordinate: FAC
+Coordinate: FAC
+IFAD: GPE
+Social Projects: ORG
+Crop: PRODUCT
+Crop: PRODUCT
+Crop Grower: PRODUCT
+Establishing Geo-traceability: ORG
+December 2010 to October 2013: DATE
+weekly: DATE
+weekly: DATE
+Report: ORG
+two: CARDINAL
+monthly: DATE
+SDL: ORG
+NSSF: ORG
+W/Tax: ORG
+Preparation of monthly Bank: ORG
+HO & Branches: ORG
+Exchange: ORG
+External & internal auditors: ORG
+TRA: ORG
+Stock Valuation, Physical Stock: ORG
+Movement: ORG
+District Levies
+
+Company: ORG
+June 2009 to: DATE
+December 2010: DATE
+Suppliers: PERSON
+Petty: PERSON
+Monthly: DATE
+Bank Statements: ORG
+Bank: ORG
+un: ORG
+Monthly: DATE
+VAT: ORG
+Register: ORG
+Fixed Assets: ORG
+Monthly: DATE
+Pastel: ORG
+Daily Freight: WORK_OF_ART
+Upcountry: ORG
+Retainers: ORG
+Tally & Pastel
+
+Advertisement: ORG
+August 2008 to June 2009: DATE
+Disburse: PERSON
+Post: ORG
+Reconcile: PRODUCT
+Tanzania Institute Of Accountancy 2012 Post: ORG
+Accountancy: GPE
+Accounting City: GPE
+State: GPE
+Tanzania: GPE
+Institute Of Finance Management 2008: ORG
+Accountancy: GPE
+Accountancy City: GPE
+Tanzania: GPE
+Science City: GPE
+Tanzania: GPE
+Secondary School 1998 Certificate of Secondary Education: ORG
+Tanzania: GPE
+English: NORP
+Microsoft: ORG
+Outlook, Power Point: ORG
+Quick Books: PERSON
+SAP ERP: ORG
+TAS Books: GPE
+TALLY: GPE
+Financial Reporting
+Management Accounting: ORG
+weekly: DATE
+Mabibo Teaching Center - Assist: ORG

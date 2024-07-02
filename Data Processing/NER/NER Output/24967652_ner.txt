@@ -1,0 +1,90 @@
+an additional million dollars: MONEY
+Operations: ORG
+multi million dollar: MONEY
+North Carolina: GPE
+Property and Casualty: ORG
+95%: PERCENT
+27: CARDINAL
+Qualification Highlights Intermediate: ORG
+Microsoft Office: ORG
+FinanceMaster: PERSON
+Jenesis: ORG
+Client: PERSON
+two: CARDINAL
+Insurance Payment Center: ORG
+Johnson Insurance
+Management: ORG
+Skills
+Work History: ORG
+Finance: ORG
+5000: CARDINAL
+300: CARDINAL
+Utilized: ORG
+two: CARDINAL
+more than $75,000: MONEY
+weekly: DATE
+an additional $20,000: MONEY
+40,000: MONEY
+IPC: ORG
+more then 40%: PERCENT
+weekly: DATE
+95%: PERCENT
+27: CARDINAL
+9: CARDINAL
+North Carolina: GPE
+Daily: GPE
+weekly: DATE
+monthly: DATE
+5000: CARDINAL
+9: CARDINAL
+17: CARDINAL
+daily: DATE
+Daily: DATE
+daily: DATE
+01/2011: CARDINAL
+Liaison: PERSON
+17: CARDINAL
+monthly: DATE
+more than 80: CARDINAL
+more than $40,000: MONEY
+Owner: ORG
+Responsible for Ordering, Maintaining inventory: ORG
+01/2004: CARDINAL
+30: CARDINAL
+daily: DATE
+Bachelor of Science : Organizational Management: ORG
+1 2016: DATE
+Charleston Southern University - City: ORG
+Organizational Management: ORG
+North Carolina: GPE
+Casualty Insurance: ORG
+North Carolina: GPE
+Property Insurance: ORG
+2009: DATE
+Charlotte: GPE
+NC Certification: ORG
+2007: DATE
+Foodlion Management
+Wadesboro: ORG
+NC Certification: ORG
+Restaurant: ORG
+Jills Sports: ORG
+Charlotte: GPE
+NC Associate: PERSON
+1 2009 
+City: DATE
+1995: DATE
+South Piedmont Community College - City: ORG
+State: ORG
+American Career College - City: ORG
+State: ORG
+GPA: ORG
+South Carolina: GPE
+Charleston: GPE
+SC Affiliations North Carolina Department of Insurance North Carolina Chamber of Commerce
+Association of Agents: ORG
+North Carolina: GPE
+Department of Insurance: ORG
+Keep: PERSON
+Information Technology: ORG
+Merchandising: PRODUCT

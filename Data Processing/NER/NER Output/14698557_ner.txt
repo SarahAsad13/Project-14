@@ -1,0 +1,39 @@
+Highlights
+
+Retail: ORG
+Store: PRODUCT
+MS Office: ORG
+the Standard Operation Procedures: ORG
+10/2013: CARDINAL
+Name City: GPE
+State: ORG
+Reorganized: ORG
+Store: PERSON
+weekly: DATE
+Name City: GPE
+State: ORG
+Completed: ORG
+weekly: DATE
+09/2008: PERSON
+Name City: GPE
+State Delivered: ORG
+weekly: DATE
+11/2002: CARDINAL
+Name City: GPE
+State: ORG
+weekly: DATE
+Name City: GPE
+State Delivered: ORG
+Associate of Science : Biology Florida International University City: WORK_OF_ART
+State Biology
+Languages: ORG
+Spanish: LANGUAGE
+Italian: NORP
+Inventory Control: PERSON
+Italian: NORP
+MS Windows: PERSON
+Oracle, Payroll: ORG
+Spanish: NORP
+Staff Development: ORG
+55: DATE
+Visual: GPE

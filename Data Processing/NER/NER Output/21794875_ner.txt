@@ -1,0 +1,64 @@
+Masters , Accounting University of Florida ï¼​ City: ORG
+State: GPE
+US: GPE
+Bachelor , Business Administration Florida International University: ORG
+State: GPE
+US: GPE
+Associate of Arts: ORG
+Liberal Arts Miami Dade College: ORG
+State: GPE
+USA: GPE
+State: ORG
+Spanish: LANGUAGE
+Computer Skills: ORG
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+QuickBooks: ORG
+Office Equipment: ORG
+Accountant Apr 2012: PERSON
+Ascertained: PRODUCT
+Board of Directors: ORG
+month end: DATE
+annual: DATE
+monthly: DATE
+month end: DATE
+Jan 1997 to Jan 2004: DATE
+State: ORG
+Florida Power & Light: ORG
+FPL: ORG
+Florida: GPE
+the Accounting Team: ORG
+FPL: ORG
+monthly: DATE
+FPL: ORG
+Bookkeeper/Accountant: ORG
+Jan 1994: DATE
+the Quick Books Software: ORG
+monthly: DATE
+annual: DATE
+reports;Â: GPE
+The Rock Miami Church: ORG
+the Children's Ministry: ORG
+Audio-visual Ministry: ORG
+support;Â: PERSON
+Languages
+
+Language and Writing Skills: WORK_OF_ART
+Spanish: LANGUAGE
+Additional Professional Background
+
+Positions:: ORG
+Reconciliations: PERSON
+Public
+Accounting Auditor Â  Â  Â  Â Â 
+
+AsÂ  Systems: ORG
+Analys: PERSON
+72: CARDINAL
+thousands: CARDINAL
+$1 million to $3million: MONEY
+three-month: DATE
+nine: CARDINAL
+annual: DATE

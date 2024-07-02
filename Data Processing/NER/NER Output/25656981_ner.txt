@@ -1,0 +1,74 @@
+Summary
+Technical: ORG
+Oct 2013: DATE
+600,000: MONEY
+$1.6 million: MONEY
+Omaha: GPE
+Oversee: ORG
+jobsite: NORP
+Jan 2010: DATE
+Oversaw: GPE
+$30 million: MONEY
+Copper Ridge: GPE
+Omaha: GPE
+NE: GPE
+daily: DATE
+jobsite: NORP
+Collaborated: ORG
+85: CARDINAL
+114: CARDINAL
+less than 3 years: DATE
+17: CARDINAL
+Saddlebrook Villas: ORG
+Contractor Aug: PERSON
+2007: DATE
+Specialize: FAC
+Omaha Steaks: ORG
+Complete Nutrition: ORG
+Scooters Coffee Shops: ORG
+Lincoln: GPE
+NE: GPE
+Olathe: GPE
+KS: GPE
+West Des Moines: GPE
+IA: GPE
+Omaha: GPE
+NE: GPE
+Mutual: GPE
+Omaha: GPE
+FDR: PERSON
+DTN: ORG
+the WOWT News Station: ORG
+Omaha: GPE
+NE: GPE
+the Bellevue Foot and Ankle Clinic: EVENT
+Bellevue: GPE
+NE: GPE
+Professional Development Current: ORG
+Randal School of Real Estate Licensed: ORG
+Omaha Insured: ORG
+the City of: GPE
+the Nebraska Department of Labor: ORG
+OSHA: ORG
+10 Hours: TIME
+2009: DATE
+Microsoft Project: ORG
+Builder Trend 2012 ITT Technical Institute School: ORG
+Omaha: GPE
+Nebraska: GPE
+2001: DATE
+MSCE: PERSON
+Computer Programming Specialist: ORG
+Institute of Computer Science: ORG
+1990-1992: DATE
+BAL: ORG
+JCL: ORG
+COBAL: GPE
+COBAL: GPE
+Computer Programming: ORG
+FDR: PERSON
+JCL: ORG
+Mainframe: PERSON
+Microsoft Project: ORG
+Network: ORG
+Trend: ORG

@@ -1,0 +1,77 @@
+MARKETING & SALES: ORG
+Marketing & Sales Analyst: ORG
+10 years: DATE
+Media: GPE
+Business Process Flow Documentation & Data Analysis: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+Powerpoint: PRODUCT
+Outlook tools & Salesforce: ORG
+Microsoft Dynamics NAV: ORG
+Marketing & Sales Analyst: ORG
+07/2015: CARDINAL
+Healthcare: ORG
+Provided: ORG
+Facilitated: ORG
+Excel: PRODUCT
+Client Sourcing & Inside Sales Specialist: ORG
+New Business Development &: ORG
+Hospitals: ORG
+Private
+Practices: ORG
+Career Fair: ORG
+webinar: ORG
+Renew: PERSON
+Career Center: FAC
+Utilization of Salesforce: ORG
+requirements & propose customized solutions: ORG
+Business Development B2B outside & inside Sales: ORG
+naukri.com: ORG
+more than 40%: PERCENT
+4 years: DATE
+Selling Referral Tool & Assessments: ORG
+Sales Planning - Planning: ORG
+Pipeline Management / Territory Management Product Management / Business Analysis - Articulate: ORG
+Collect: ORG
+Branch Management & Team Management: ORG
+20: CARDINAL
+15 quarters: DATE
+the 5.5 years: DATE
+naukri.com: ORG
+Infoedge India Ltd.: ORG
+more than $ 6 Million: MONEY
+Hong Kong: GPE
+Times Group Company: ORG
+more than 20: CARDINAL
+Good Life World: ORG
+Times of India Channel: ORG
+Timesjobs.com: ORG
+Magicbricks.com & Simplymarry.com Services: ORG
+South Delhi: GPE
+INDIA: GPE
+Business Development / Inside Sales - Making Presentations / Closure, Negotiation, Follow: ORG
+more than 30%: PERCENT
+Inside Sales & walk: ORG
+Sales Planning - Planning: ORG
+Pipeline Management Promoting: ORG
+Swyamvar: ORG
+Kiosk: ORG
+Corporate Clients: ORG
+Delhi & NCR: ORG
+INDIA: GPE
+Master of Science: WORK_OF_ART
+International Business Management (Marketing) Fore School of Management: ORG
+Nottingham Business School: ORG
+UK State: GPE
+India: GPE
+2003: CARDINAL
+Kirori Mal College: ORG
+Delhi University: ORG
+State: GPE
+India: GPE
+Chandan Baluja
+Skills
+Articulate, Business Analysis: PERSON
+Excel: PRODUCT
+Negotiation, Relationship Management, Sales Planning: ORG

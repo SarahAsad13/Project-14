@@ -1,0 +1,112 @@
+More than 26 years: DATE
+Veteran Superintendent: PERSON
+Prolog: NORP
+Construction Scheduling: ORG
+P3: PRODUCT
+Work History
+Construction Superintendent: WORK_OF_ART
+Owner -Operator: ORG
+the Leading Banks and Local Brokers: ORG
+Maintained: GPE
+1250: CARDINAL
+a fiscal year: DATE
+Coordinate: FAC
+weekly: DATE
+weekly: DATE
+Prepare: ORG
+Oversee: ORG
+07/2002 to 12/2005: DATE
+Saint Agnes Medical: ORG
+weekly: DATE
+03/2003: CARDINAL
+Installations of: PRODUCT
+22 million: CARDINAL
+04/2002: CARDINAL
+Maintained Budget: ORG
+Performed: ORG
+up to $50 million: MONEY
+Project Size - 22.5: PERSON
+MillionGottschalks Inc.: ORG
+Gottschalks Expansion: ORG
+27: CARDINAL
+StoresPerformed: ORG
+27: CARDINAL
+Oregon: GPE
+Washington: GPE
+Idaho: GPE
+Nevada: GPE
+Alaska: GPE
+Metal Stud Framing: PERSON
+11 month: DATE
+Project Size - 48.5 Million: PERSON
+Superintendent / Project Engineer: ORG
+08/1991: CARDINAL
+Butler Building: ORG
+Tilt Ups: ORG
+Wood Frame: ORG
+Apprentice Carpenter: PERSON
+Journeyman Carpenter: PERSON
+General Cleanup: ORG
+1990- 1992: DATE
+Plans: NORP
+Layout: GPE
+Finish: NORP
+Completed: ORG
+Journeyman: ORG
+1990: DATE
+1983: DATE
+North Monterey High School - City: ORG
+Contractor License: PERSON
+# 961804EPA Accreditation: MONEY
+Open Water Diver: WORK_OF_ART
+Jump MasterCommunity: PERSON
+InvolvementBoy Scouts of America: ORG
+Prolog: NORP
+Construction Scheduling: ORG
+P3: PRODUCT
+Owner -Operator: ORG
+the Leading Banks and Local Brokers: ORG
+Maintained: GPE
+1250: CARDINAL
+a fiscal year: DATE
+Coordinate: FAC
+weekly: DATE
+weekly: DATE
+Prepare: ORG
+Oversee: ORG
+07/2002 to 12/2005: DATE
+Saint Agnes Medical: ORG
+weekly: DATE
+03/2003: CARDINAL
+Installations of: PRODUCT
+22 million: CARDINAL
+04/2002: CARDINAL
+Maintained Budget: ORG
+Performed: ORG
+up to $50 million: MONEY
+Project Size - 22.5: PERSON
+MillionGottschalks Inc.: ORG
+Gottschalks Expansion: ORG
+27: CARDINAL
+StoresPerformed: ORG
+27: CARDINAL
+Oregon: GPE
+Washington: GPE
+Idaho: GPE
+Nevada: GPE
+Alaska: GPE
+Metal Stud Framing: PERSON
+11 month: DATE
+Project Size - 48.5 Million: PERSON
+Superintendent / Project Engineer: ORG
+08/1991: CARDINAL
+Butler Building: ORG
+Tilt Ups: ORG
+Wood Frame: ORG
+Apprentice Carpenter: PERSON
+Journeyman Carpenter: PERSON
+General Cleanup: ORG
+1990- 1992: DATE
+Plans: NORP
+Layout: GPE
+Finish: NORP

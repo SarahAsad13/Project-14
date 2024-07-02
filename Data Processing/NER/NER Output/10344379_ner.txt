@@ -1,0 +1,33 @@
+Logistics/ Distribution Management Medical Device Repair Technician: ORG
+Written/ Verbal Communication: ORG
+Jan 2015: DATE
+May 2014: DATE
+Examine: NORP
+Field Electronics: ORG
+Technician Jan 2010 to Jan 2013: DATE
+Explained: PRODUCT
+Conferred: ORG
+Jan 2008 to Jan 2009: DATE
+Identified: ORG
+20: CARDINAL
+Conferred: ORG
+Customer Service: ORG
+Jan 2003 to Jan 2008: DATE
+one: CARDINAL
+Communicated: ORG
+Supply Chain Management - Post Secondary Training Certificate: ORG
+Florida State College: ORG
+Jacksonville - City: GPE
+State: ORG
+2003: DATE
+Career Institution - City: ORG
+State Military Service: ORG
+84: CARDINAL
+UNITED STATES ARMY Communications: ORG
+Received Honorable Discharge
+Skills
+
+ARMY: ORG
+Inspect, Logistics: ORG
+Research: ORG
+Supply Chain Management: ORG

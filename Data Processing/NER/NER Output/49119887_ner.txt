@@ -1,0 +1,44 @@
+MARKETING & PUBLIC: ORG
+multi-million dollar: MONEY
+daily: DATE
+Operations: ORG
+MARKETING & PUBLIC RELATIONS: ORG
+April 2015: DATE
+â€¢ Develop: PRODUCT
+â€¢ Drive: PRODUCT
+â€¢ Collaborate: PRODUCT
+â€¢ Oversee: PRODUCT
+â€¢: PRODUCT
+â€¢ Manage: PRODUCT
+â€¢ Supervise the creation of: WORK_OF_ART
+The ONE Group: ORG
+â€¢ Develop: PRODUCT
+monthly: DATE
+â€¢ Monitor: PRODUCT
+â€¢ Manage: PRODUCT
+three: CARDINAL
+â€¢ Marketing: WORK_OF_ART
+5 years: DATE
+â€¢: PRODUCT
+â€¢: PRODUCT
+â€¢ Positive: PRODUCT
+April 2012 to April 2015: DATE
+State: ORG
+Develop: ORG
+The ONE Group: ORG
+Food & Beverage: ORG
+Update: ORG
+daily: DATE
+Staffing and Team Development: ORG
+Coach: ORG
+Responsible for Team: ORG
+Fiscal Responsibility: ORG
+Reviews: NORP
+monthly: DATE
+Education: ORG
+Bachelor of Science :: ORG
+2011: DATE
+Marymount Manhattan College: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE

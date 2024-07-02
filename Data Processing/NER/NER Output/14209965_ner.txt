@@ -1,0 +1,109 @@
+SapientNitro 07/2014 - Current Company Name City: ORG
+KPMG: ORG
+Citizens Bank: ORG
+The Institutes: ORG
+Compile: PRODUCT
+Analyze: PRODUCT
+Assist: NORP
+04/2014 - 05/2014 Company Name City: ORG
+Major Projects: ORG
+Ad Sales Team: ORG
+PPT: ORG
+Ad Sales Team: ORG
+Coordinated: ORG
+the Ziff Davis Organization: ORG
+Ziff Davis: PERSON
+Ad Sales: ORG
+Operations: ORG
+Finance: ORG
+Editorial: PERSON
+Editorial Programs: PERSON
+Brainstormed with Marketing: ORG
+Ziff Davis: PERSON
+Digital 01/2014 - 02/2014 Company Name City: ORG
+Sundance TV: ORG
+FUSE: ORG
+Nuvo TV: ORG
+20th Century TV Â 
+
+: DATE
+Created: ORG
+Strata: GPE
+Ad Ops: ORG
+Dart DFA: ORG
+Excel: PRODUCT
+Studio: PERSON
+08/2013 - 01/2014 Company Name City: ORG
+the day: DATE
+prop: ORG
+Digital Sales Planner: ORG
+Dart DFP: ORG
+Name City: GPE
+State: ORG
+16: CARDINAL
+two: CARDINAL
+daily: DATE
+Created: ORG
+Account Managers: ORG
+six: CARDINAL
+Freelance Digital Media/Traffic Coordinator: ORG
+Prudential 02/2013 - 03/2013 Company Name City: ORG
+MediaVisor: ORG
+MediaOcean: ORG
+monthly: DATE
+Dart DFA: ORG
+the previous months: DATE
+Aventa: GPE
+Maintained: GPE
+RFP: ORG
+DDS: ORG
+Integrated Junior Media Associate 11/2011 - 11/2012: ORG
+Name City: GPE
+Samsung: ORG
+Consumer Business and Telecom Â 
+
+: ORG
+Samsung Developed: PRODUCT
+Enterprise: ORG
+Consumer Business Divisions: ORG
+US: GPE
+weekly: DATE
+9+: DATE
+MediaOcean: ORG
+Dart DFA: ORG
+Analysis: PRODUCT
+monthly: DATE
+IMS: ORG
+Comscore: ORG
+Tardiis: PERSON
+weekly: DATE
+Accomplishments Completed Starcom Mediavest Group: PERSON
+eCornell - Marketing Strategy: ORG
+Seven: CARDINAL
+December 2010: DATE
+Seton Hall University - Communications City: ORG
+GPA: ORG
+3.4: CARDINAL
+Journalism: NORP
+PRSSA: ORG
+Alpha Phi: ORG
+2008-2009: DATE
+Marketing: GPE
+2009-2010: DATE
+MediaOcean: ORG
+DDS: ORG
+MediaVisor: ORG
+Aspen: GPE
+Strata: GPE
+DFP
+Research Software: ORG
+IMS Clear Decisions: ORG
+comScore: ORG
+Adviews: ORG
+Snapshot: GPE
+Hyperion: ORG
+Lotus Notes: ORG
+Mircsoft Office Suite: ORG
+Google Drive: FAC
+Docs, Box: ORG
+Mac: PERSON

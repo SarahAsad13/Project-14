@@ -1,0 +1,69 @@
+Nearly 20 years: DATE
+Title I and inclusive learning: WORK_OF_ART
+Classroom Teacher: PERSON
+January 2006: DATE
+2: CARDINAL
+4 & 5: ORG
+Nine week: DATE
+the spring of 2005: DATE
+January 2000 to January 2006: DATE
+January 1998 to January 2000: DATE
+the Dimensions of Learning: ORG
+Beyond ViewSpace: WORK_OF_ART
+NASA: ORG
+EOS: ORG
+ViewSpace: ORG
+Earth: LOC
+NASA: ORG
+Cooperative Agreement Notices for Science Education: ORG
+Science Education: ORG
+Hubble: FAC
+2010 - 2015: DATE
+2015: DATE
+18: CARDINAL
+11: CARDINAL
+25th: ORDINAL
+200: CARDINAL
+Amazing Space: ORG
+Coordinated the Maryland: ORG
+the Hubble ERO Pilot Project: ORG
+four: CARDINAL
+the Maryland Science Center: ORG
+the Maryland Science Center: ORG
+November to December 2009: DATE
+NASA: ORG
+NASA: ORG
+Project 2061: ORG
+NASA: ORG
+NASA: ORG
+three: CARDINAL
+five: CARDINAL
+NASA: ORG
+Universe of Learning & Hubble Education Program: ORG
+NGSS: ORG
+Common Core: PERSON
+AAAS Project 2061: PERSON
+NCTM: ORG
+NRC: ORG
+NSES: ORG
+Amazing Space: ORG
+Hubble 25th: LOC
+PO: ORG
+NASA: ORG
+Master of Education: WORK_OF_ART
+2004: DATE
+Towson University: ORG
+Elementary Curriculum Development: PERSON
+1997: DATE
+Elementary Education: EVENT
+Holly Ryer Resume: PERSON
+Content Development & Management: ORG
+Curriculum Development: PERSON
+Dimensions, Event Planning &
+Coordination: ORG
+Program Evaluation: ORG
+Proposal Writing: PERSON
+Maintain: PERSON
+Research, Strategic Planning: ORG
+Usability
+Testing: ORG

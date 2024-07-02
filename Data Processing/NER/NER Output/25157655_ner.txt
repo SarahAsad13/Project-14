@@ -1,0 +1,35 @@
+eight years: DATE
+SHI: ORG
+Inside Sales Team: ORG
+Customer: ORG
+Organized: ORG
+Name City: GPE
+Constant: PERSON
+Microsoft: ORG
+Sandia National Labs: ORG
+multi-year: DATE
+Name City: GPE
+Associate 09/2005: CARDINAL
+Name City: GPE
+State House: ORG
+Box Office: ORG
+Utilized: ORG
+Skills
+
+Sales Center: ORG
+SHOES: ORG
+CRM: PRODUCT
+SharePoint: ORG
+Catalog Management: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Lockheed Martin Procure: PERSON
+Sandia Oracle Storefront
+
+Education
+: ORG
+Bachelor of Arts :: ORG
+The College of New Jersey: ORG
+City: GPE
+State: ORG

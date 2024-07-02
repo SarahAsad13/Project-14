@@ -1,0 +1,85 @@
+TIMESHARE: WORK_OF_ART
+Brickell: PERSON
+NYC: LOC
+Team: ORG
+Microsoft Office: ORG
+Detail: PERSON
+The National Association of Realtorsâ€‹
+
+National: ORG
+Established: ORG
+Energetic: PRODUCT
+Effective Retail Sales Manager: WORK_OF_ART
+Highlyprofessional
+Proficient: ORG
+Microsoft Office: ORG
+Current
+Timeshare Sales Company Name: ORG
+10/2015: CARDINAL
+State Rent: ORG
+FOUNDER: ORG
+Start-Up Motor Coach Transportation Company: ORG
+Hotel, Stadium and Convention Centers: ORG
+Miami: GPE
+50: CARDINAL
+01/2010: DATE
+10/2014: CARDINAL
+FOUNDER: ORG
+one: CARDINAL
+Shark Diving: PERSON
+Accommodations: ORG
+Luxury Yachts: PERSON
+30: CARDINAL
+200: CARDINAL
+Client Relations: ORG
+03/2006: GPE
+Contracts: ORG
+86: CARDINAL
+$1M - $17M: MONEY
+212: CARDINAL
+Fractional Ownership Residences: ORG
+$100,00 - $550,000: MONEY
+1/12 Interest: PERCENT
+Contracts: ORG
+Quality Assurance Department: ORG
+Problem Solving: PERSON
+Account Management: ORG
+People Management, Accounting Principals: ORG
+Practices: PERSON
+03/2006: CARDINAL
+848: CARDINAL
+Directed: ORG
+848: CARDINAL
+Directed: ORG
+Liaison: PERSON
+Planned: NORP
+One: CARDINAL
+11/2004: CARDINAL
+Voice & Data: ORG
+500: CARDINAL
+2000 - 2001 fiscal year: DATE
+1: MONEY
+NTT/VERIO: ORG
+2001: DATE
+2000: DATE
+Business Administration Pace University: ORG
+State: ORG
+1996: DATE
+Murry Bergtraum: PERSON
+State: GPE
+USA: GPE
+English Fluent: EVENT
+Spanish: NORP
+Skills
+Sales, Sales Management: ORG
+Account Management, Accounting: ORG
+Administrative Support: PERSON
+Contracts: ORG
+Conversion, Client Relations: ORG
+Customer Service: ORG
+People Management, Managing, Marketing, Marketing: ORG
+Excel: PRODUCT
+Policies: GPE
+Project Management, Quality, Quality Assurance: ORG
+Affiliations: ORG
+The National Association of Realtors: ORG

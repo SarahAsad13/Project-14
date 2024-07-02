@@ -1,0 +1,25 @@
+2014: DATE
+50: CARDINAL
+20: CARDINAL
+Organize: GPE
+Educate: ORG
+seasonal: DATE
+2003 to Jan 2008: DATE
+from year: DATE
+Tessitura: GPE
+2003: DATE
+2018: DATE
+Stratford Career Institute: ORG
+State: GPE
+Canada: GPE
+The Training Source: ORG
+CLIENT: GPE
+10 successful years: DATE
+Strong: PERSON
+Windows: PRODUCT
+50: CARDINAL
+Filing: GPE
+Office: ORG
+MS Windows: ORG
+Quick learner: ORG
+50: CARDINAL

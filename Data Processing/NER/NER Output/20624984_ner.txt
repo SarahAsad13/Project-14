@@ -1,0 +1,65 @@
+HFM: ORG
+Specialist: ORG
+Financial Statements: ORG
+Governmental: ORG
+Maintained: GPE
+Researched: ORG
+days: DATE
+Cash Application and/or Adjustments Process: ORG
+AP: ORG
+G/L: ORG
+HFM: ORG
+weekly: DATE
+weekly: DATE
+month-end: DATE
+May: DATE
+January 2016 to January 2016: DATE
+Preparation of Bank Reconciliation Statement: ORG
+Billing And Realisation From Debtors Verification of Expenditure Bills: WORK_OF_ART
+Salary JV Verification: EVENT
+January 2016 to January 2016: DATE
+Bank: ORG
+SAP: GPE
+HFM: ORG
+55: CARDINAL
+Reviewing Balance: PERSON
+Monthend: ORG
+year end: DATE
+Intercompany: GPE
+Invoice: GPE
+SAP: GPE
+W 9: PERSON
+Automatic: NORP
+SAP: GPE
+3: CARDINAL
+Process Developer: ORG
+AP: ORG
+23: CARDINAL
+March 2009 to December 2012: DATE
+Accounts Payable: ORG
+APP: ORG
+Invoice Processing: ORG
+MIRO: ORG
+Vendor Master: PERSON
+Customer Master: PERSON
+Ledger Master: PERSON
+Order 2 Cash: LAW
+Buy 2: PERSON
+Client: PERSON
+Query: ORG
+Bank Reconciliation: ORG
+MBA: WORK_OF_ART
+Diploma :: ORG
+Computer Application Computer Application
+Personal Information
+Date: ORG
+singh: GPE
+Accounts Receivable: ORG
+AP: ORG
+Bank Reconciliation, Banking, Billing: ORG
+Client: GPE
+Finance: ORG
+General Ledger,: ORG
+Invoice Processing: ORG
+MBA: WORK_OF_ART
+SAP: ORG

@@ -1,0 +1,26 @@
+Customer: ORG
+Oct 2017 to: DATE
+2017: DATE
+State: ORG
+Cashier: ORG
+Front Desk Receptionist Dec: PERSON
+2016: DATE
+Collect: ORG
+Enroll: PERSON
+Calculate: ORG
+hourly: TIME
+weekly: DATE
+2016: DATE
+Examine: ORG
+Team: ORG
+Jan 2015 to Dec 2015: DATE
+Observe: LOC
+Cleaning: ORG
+2016: DATE
+Tint School of Makeup & Cosmetology Grand: ORG
+Skills
+Critical Thinking: ORG
+Technician: NORP
+Time Management
+
+: ORG

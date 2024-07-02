@@ -1,0 +1,74 @@
+Instructional Designer: ORG
+Camtasia: GPE
+2.5: CARDINAL
+Adobe Presenter: PERSON
+Captivate: ORG
+Dream Weaver: PERSON
+Microsoft Office: ORG
+1993-2007: DATE
+PowerPoint: ORG
+Word: PERSON
+Excel: PRODUCT
+Dropbox
+Video: PERSON
+XenDesktop: ORG
+EC Council: ORG
+iLabs: PRODUCT
+VCASTLE: ORG
+Microsoft Live Meeting: ORG
+Screenr: PRODUCT
+Canvas
+Moodle 1.9: FAC
+2.4: CARDINAL
+Blackboard
+MRDS
+: PERSON
+Microsoft Office: ORG
+SharePoint: ORG
+Level: PERSON
+NCPACE: ORG
+Lynda.com: ORG
+Articulate Storyline: ORG
+CBT: ORG
+Capstone: ORG
+Maintained: GPE
+10/2009: CARDINAL
+eLearning: ORG
+Created: ORG
+Multimedia: PERSON
+PowerPoint: ORG
+Capstone: ORG
+Maintained: GPE
+Elementary: PERSON
+High School English & Writing: ORG
+Name City: GPE
+English: LANGUAGE
+Maintained: GPE
+Created: ORG
+Middle & High School: ORG
+English: LANGUAGE
+Name City: GPE
+English: LANGUAGE
+Writing: PERSON
+second: ORDINAL
+non-English: NORP
+Maintained: GPE
+February 2009: DATE
+Lesley University City: ORG
+State: ORG
+United States: GPE
+English: LANGUAGE
+May 1997: DATE
+Claflin University City: ORG
+State: GPE
+United States of America: GPE
+English: LANGUAGE
+French: NORP
+VCASTLE: ORG
+NetLab: ORG
+XenDesktop: ORG
+SharePoint: ORG
+EC-Council: ORG
+â€¢Blooms Taxonomy
+
+â€¢Strong: ORG

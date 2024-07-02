@@ -1,0 +1,175 @@
+the Financial Industry: ORG
+Advanced Monitoring
+Regulatory Compliance
+Protection of Customer's: ORG
+Loss Mitigation
+Complex Administrative Skills COMPUTER: WORK_OF_ART
+WordPerfect Microsoft: PERSON
+Excel PowerPoint: PERSON
+Outlook Time Map: PERSON
+3000: CARDINAL
+LawDrill eRoom CourtExpress Courtlinks Lexis-Nexis Westlaw Live Edgar Pacer
+Summation Concordance Trial: ORG
+Notary Public: PERSON
+Monitoring
+Regulatory
+Compliance
+Protection: ORG
+Customer: ORG
+Thinking
+Policy &: ORG
+Development
+Regulatory
+Affairs: ORG
+2008: DATE
+Paralegal of the Year Award: WORK_OF_ART
+the American Association for Justice: ORG
+2003: DATE
+the Month
+1999: DATE
+2015: DATE
+the Rewards & Recognition Committee: ORG
+2010: DATE
+the National Federation of Paralegal Associations: ORG
+2009: DATE
+2007: DATE
+Law Crossing: PERSON
+2005: DATE
+Labor & Employment Newsletter: ORG
+2004: DATE
+Diversity Sensitivity Training: ORG
+2003: DATE
+December 2013: DATE
+Investment Bank: ORG
+Bank Secrecy Act: ORG
+BSA: ORG
+USA Patriot Act: ORG
+Office of Foreign Asset Control: ORG
+FinCen: NORP
+FDIC: ORG
+Federal Trade Commission: ORG
+FTC: ORG
+the US Treasury Department: ORG
+Bank: ORG
+Anti-Money Laundering (AML: ORG
+Suspicious Activity Reports: PERSON
+Communicating: ORG
+GS&I: ORG
+AML: ORG
+Construct: ORG
+LDM Department: ORG
+April 2013 to November 2013: DATE
+Healthcare: ORG
+12: CARDINAL
+Healthcare: ORG
+New Jersey: GPE
+New York: GPE
+Project Management Professional: ORG
+October 2000: DATE
+April 2013: DATE
+5-15: CARDINAL
+Coordinate: FAC
+New York: GPE
+New Jersey: GPE
+Boston: GPE
+Boost: PERSON
+hours: TIME
+Trial Paralegal: PERSON
+Assist NY: ORG
+NJ: ORG
+CA: ORG
+TX: ORG
+US: GPE
+10: CARDINAL
+Prosecute: FAC
+the International Trade Commission: ORG
+Board of Patent Appeals: ORG
+Trial Paralegal: PERSON
+Labor &
+Employment
+Assist 5: ORG
+FLSA: ORG
+ERISA: ORG
+ADA: ORG
+ERISA: ORG
+Provide: NORP
+the Alternative Dispute Resolution: EVENT
+NASD: ORG
+EEOC: ORG
+Draft: ORG
+Trial Paralegal: PERSON
+10: CARDINAL
+10: CARDINAL
+SEC: ORG
+Equity Capital Market: ORG
+ECM: ORG
+Paralegal, Litigation
+Assist: ORG
+Identify: ORG
+Create: ORG
+Paralegal: GPE
+the Asbestos, Lead & Insurance: GPE
+January 1999 to October 2000: DATE
+New York: GPE
+New York: GPE
+01/1999 - 10/2000: CARDINAL
+Paralegal: GPE
+March 1997 to January 1999: DATE
+Paralegal: GPE
+May 1996 to March 1997: DATE
+State Securities
+Education: ORG
+License : Life & Health Insurance: ORG
+2012: DATE
+Paralegal Studies Program: ORG
+1996: DATE
+Benjamin N. Cardozo School of Law: PERSON
+State: GPE
+US: GPE
+ABA: ORG
+Certification: PRODUCT
+Paralegal Studies Program: ORG
+General Practice 1996
+
+: ORG
+1995: DATE
+Fairleigh Dickinson University: ORG
+State: GPE
+US: GPE
+Fairleigh Dickinson University: ORG
+Teaneck: GPE
+New Jersey: GPE
+Bachelor of Arts in Sociology, Concentration: ORG
+1995: DATE
+Certifications
+Project Management Professional ABA: ORG
+Affiliations: ORG
+the Rewards & Recognition Committee: ORG
+US: GPE
+10: CARDINAL
+Skills
+Paralegal, Securities: ORG
+Training: GPE
+Ada, Advertising, Cases, Claims, Compensation, Correspondence, Database, Defendant, Deposition: ORG
+Eeoc, Equal Employment Opportunity Commission: ORG
+Erisa: ORG
+Liability, Litigation: ORG
+Nasd: ORG
+Patents, Plaintiff, Project Management: ORG
+Sec: ORG
+Trademark: GPE
+Asbestos, Office: ORG
+Aml, Brokerage, Bsa, Business
+Systems Analysis: ORG
+Capital Markets: ORG
+Data Analytics,: ORG
+Treasury Department: ORG
+Healthcare: ORG
+Excel: PRODUCT
+Lexis: PERSON
+Loss Mitigation: PERSON
+Microsoft Word: PERSON
+Regulatory
+Affairs: ORG
+Westlaw: PERSON
+Word: PERSON

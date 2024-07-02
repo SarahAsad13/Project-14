@@ -1,0 +1,25 @@
+BUSINESS DEVELOPMENT: ORG
+the month: DATE
+Bilingual: PERSON
+English/Twi: EVENT
+State
+
+Collaborated: ORG
+daily: DATE
+English: LANGUAGE
+French: LANGUAGE
+European: NORP
+Collaborated: ORG
+the Food and Beverage: ORG
+Monitored: ORG
+Directed: ORG
+CURLINARY: GPE
+1999: DATE
+Kumasi Polytechnic: PERSON
+GHANA: PRODUCT
+Culinary Arts
+Coursework in Business and Restaurant Management 
+CURLINARY: ORG
+1990: DATE
+GHANA: PRODUCT
+Highly motivatedÂ: NORP

@@ -1,0 +1,86 @@
+daily: DATE
+Microsoft Office: ORG
+Time: ORG
+Flexible
+Professional: WORK_OF_ART
+Strong: PERSON
+Works: PERSON
+Database: GPE
+Customer: ORG
+Name City: GPE
+one: CARDINAL
+Etsy.com: ORG
+September 2013: DATE
+April 2015: DATE
+Name City: GPE
+State Logistics Service: ORG
+Strictly: ORG
+April 2009: DATE
+August 2013: DATE
+Name City: GPE
+State Courier/Driver
+
+PRIME INC: ORG
+US: GPE
+Canada: GPE
+Ohio: GPE
+US: GPE
+Canada: GPE
+October 2002: DATE
+November 2008: DATE
+Name City: GPE
+State Legal Administrative: ORG
+Executive: ORG
+General Counsel: ORG
+Asset Management: ORG
+Transcription: ORG
+American Institute of Architects: ORG
+Maintaining: GPE
+Maintaining: ORG
+Maintaining: GPE
+Screening: PERSON
+the Chairman & CEO: ORG
+November 2001: DATE
+September 2002: DATE
+Name City: GPE
+State Customer Service: ORG
+March 1997: DATE
+April 2000: DATE
+Name City: GPE
+Working: ORG
+October 1994: DATE
+March 1997: DATE
+Name City: GPE
+State Sales Support Coordinator
+
+: ORG
+Trades Shows, Electronics: ORG
+Special Commodities and Household Goods: ORG
+April 1991: DATE
+October 1994: DATE
+Name City: GPE
+State Leasing Professional: ORG
+380: CARDINAL
++ Unit Property: ORG
+Received: PERSON
+Data: ORG
+monthly: DATE
+Liaison: PERSON
+three months: DATE
+Delinquency: PERSON
+Processed: GPE
+February 1989: DATE
+April 1991: DATE
+Name City: GPE
+State: ORG
+520: CARDINAL
+two: CARDINAL
+HUD: ORG
+HUD: ORG
+the Federal Government: ORG
+the Fire Marshall: FAC
+1973: DATE
+Gates Chili HS City: ORG
+State High School Diploma: ORG
+AIA: ORG
+50-60: CARDINAL

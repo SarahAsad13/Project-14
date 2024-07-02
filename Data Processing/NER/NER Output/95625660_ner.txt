@@ -1,0 +1,105 @@
+June 2012 to October 2013 Company Name: DATE
+Microsoft Dynamics: ORG
+NAVISION: PERSON
+15: CARDINAL
+CL's Responsible: ORG
+GRN: ORG
+material & inventory: ORG
+daily: DATE
+the FIFO & 3C: ORG
+JIT System: ORG
+CAPA: ORG
+I-Process Services: ORG
+India: GPE
+October 07: DATE
+Credit Operations: ORG
+Finacle - Core Banking & Symbols: ORG
+Bank Guarantee: ORG
+Letter of Guarantee & Demand Loan: ORG
+Bank: ORG
+CC: ORG
+TL Preparing
+Post Sanction Documents: ORG
+CAL: ORG
+month: DATE
+MIS: ORG
+Customer: ORG
+the Outstanding Limit: FAC
+Overdue: ORG
+Tempory: PERSON
+Inward / Outward: ORG
+DR: GPE
+Due: PERSON
+the Term Loan Clients: ORG
+the Repayment Schedules for Term Loan Clients: ORG
+Admin: PERSON
+May 2005 to August 2007: DATE
+New Joinee: GPE
+monthly: DATE
+9: CARDINAL
+VAT: ORG
+MIS: ORG
+Degree Institution/College/School University/Board Year: ORG
+M.B.A -HR: PERSON
+Chidambaram Annamalai University: ORG
+2008: DATE
+B.B.A Madras University: ORG
+ï¼​ City
+Dip : Computer Technology: GPE
+2000: DATE
+Madras University: ORG
+City Computer Technology: ORG
+Labour Law & Administrative Law: ORG
+1997: DATE
+I.C.F: ORG
+Certifications
+Handling of Vendor management
+Personal Information
+Father's Name : C. Gopinathan DOB: WORK_OF_ART
+27-12-1978: CARDINAL
+Moorthy Nagar: PERSON
+Villivakkam: ORG
+Languages Known: PERSON
+English: LANGUAGE
+Hindi: GPE
+Tamil: PERSON
+Malayalam: ORG
+Chennai K. Sanjay: PERSON
+Lions Club Volunteer: ORG
+Blood Donor: PERSON
+Apollo Hospital: ORG
+All India Inter University Gold: ORG
+State: ORG
+2: CARDINAL
+Nehru: GPE
+Chennai: ORG
+Played Volley Ball: PERSON
+Level: PRODUCT
+Skills: ORG
+CL: ORG
+Credit, Client, Clients: ORG
+Insurance: ORG
+Microsoft Dynamics: ORG
+MIS: ORG
+NAVISION: PERSON
+Vendor: ORG
+Lions Club Volunteer: ORG
+Blood Donor: PERSON
+Apollo Hospital: ORG
+All India Inter University Gold: ORG
+State: ORG
+Athletics: GPE
+Nehru: GPE
+Chennai: ORG
+Played Volley Ball: PERSON
+Level: PRODUCT
+C. Gopinathan DOB: PERSON
+27-12-1978: CARDINAL
+Moorthy Nagar: PERSON
+Villivakkam: ORG
+Languages Known: PERSON
+English: LANGUAGE
+Hindi: GPE
+Tamil: PERSON
+Malayalam: ORG
+Chennai K. Sanjay: PERSON

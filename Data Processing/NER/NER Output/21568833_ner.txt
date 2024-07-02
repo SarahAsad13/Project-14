@@ -1,0 +1,127 @@
+Summary
+Position in Accounting/Regulatory: ORG
+Highlights
+Microsoft Office: ORG
+Lotus Notes: ORG
+QuickBooks: ORG
+ACBS: ORG
+BCS: ORG
+OTG: ORG
+AP: ORG
+RECON+, FMS (: ORG
+G/L System: ORG
+REVAL: ORG
+Bloomberg: PERSON
+Certificate of Recognition: WORK_OF_ART
+the year 1998: DATE
+Federal Reserve Bank: ORG
+New York: GPE
+Certificate of Appreciation: ORG
+the year 1999: DATE
+Consultant 01/2013 to 09/2016: ORG
+Name City: GPE
+State: ORG
+Transworld Inc: ORG
+Internal Revenue Services: ORG
+NYS: ORG
+monthly: DATE
+quarterly: DATE
+Accountant/Accounting Officer: ORG
+The New York Branch: ORG
+Bank Hapoalim: ORG
+Reviewed Bank's: ORG
+Ledger: PERSON
+the G/L.
+: ORG
+the G/L: ORG
+month end,: DATE
+quarterly: DATE
+yearly: DATE
+Post Journal: ORG
+Prepared month end: DATE
+Processed: GPE
+IRS: ORG
+1042: DATE
+annual: DATE
+Controller: PERSON
+CFO: ORG
+Fixed Assets: ORG
+Balance Sheet: ORG
+monthly: DATE
+FAS115: GPE
+Performed: ORG
+monthly: DATE
+two: CARDINAL
+Bank: ORG
+QuickBooks: ORG
+Amortization of Premium: ORG
+Responsible for Assets Swaps: ORG
+Non-Trading: ORG
+Chart of Accounts: ORG
+G/L: ORG
+Processed: GPE
+01/2000: CARDINAL
+Name City: GPE
+2900: DATE
+FR2951: ORG
+BL 1: ORG
+BC: ORG
+BL: ORG
+SA: ORG
+BC: ORG
+SA: ORG
+FFIEC: ORG
+Call
+Report: ORG
+DPSC Software: ORG
+monthly: DATE
+Head Office: ORG
+quarterly: DATE
+Department of Commerce: ORG
+Prepared: PERSON
+month end: DATE
+Prepared: PERSON
+Compliance Manual: PERSON
+BSA: ORG
+FRB
+Regulations: ORG
+US Sanctions: ORG
+Prepared: PERSON
+monthly: DATE
+Senior Management: ORG
+monthly: DATE
+quarterly: DATE
+BSA: ORG
+OFAC: ORG
+US Sanctions: ORG
+Handling NYS Banking: WORK_OF_ART
+FRB: ORG
+B.S :: ORG
+1994: DATE
+YORK: GPE
+COLLEGE CITY UNIVERSITY OF NEW YORK Accounting: ORG
+124: CARDINAL
+Advance Accounting: ORG
+Business Law and Taxation: ORG
+B.S :: ORG
+1979: DATE
+Accounting: ORG
+M.A : Economics Economics: ORG
+1983: DATE
+Skills
+Accounting: ORG
+AP: ORG
+Balance Sheet: PERSON
+BC: ORG
+Bloomberg: PERSON
+Business Law: ORG
+Controller: PERSON
+Senior Management, Finance: ORG
+Fixed Assets: ORG
+Ledger, Government: ORG
+Lotus Notes: ORG
+Microsoft Office: ORG
+Office: GPE
+month end: DATE
+QuickBooks: ORG
+monthly: DATE

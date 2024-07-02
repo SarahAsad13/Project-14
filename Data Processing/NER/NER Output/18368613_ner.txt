@@ -1,0 +1,31 @@
+Summary
+Highly: ORG
+Snap Shot
+Sales Consultant 
+City: PERSON
+State Company Name: ORG
+Build: GPE
+12.5%: PERCENT
+3.8 million: CARDINAL
+2014: DATE
+5%: PERCENT
+4 million: CARDINAL
+2015: DATE
+10%: PERCENT
+2016: DATE
+PCP: ORG
+Demos: PERSON
+State Company Name: ORG
+May 2013: DATE
+Server / Bartender 
+City: ORG
+State Company Name: ORG
+May 2010: DATE
+May 2013: DATE
+5: CARDINAL
+90: MONEY
+B.B.A : Business Management Management Information Systems: ORG
+Business Intelligence Florida Atlantic University: ORG
+May 2014 City: DATE
+State
+Business Management Management Information Systems: ORG

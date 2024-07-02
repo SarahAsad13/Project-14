@@ -1,0 +1,63 @@
+03/2015: DATE
+Cashier: ORG
+10%: PERCENT
+Telephone Banking: ORG
+2011: DATE
+2012: DATE
+Winner: PERSON
+Morgan Chase: ORG
+Award for Outstanding Customer Service: WORK_OF_ART
+2012: DATE
+Morgan Chase: ORG
+2013: DATE
+2014: DATE
+5: CARDINAL
+Columbus Fraud Analysts: GPE
+zero: CARDINAL
+Subject Matter Expert: PERSON
+Morgan Chase: ORG
+Morgan Chase: ORG
+2015: DATE
+Trainee: PERSON
+Benefits System: ORG
+Fosters: ORG
+Name City: GPE
+Researched: PRODUCT
+Chase.com: ORG
+Chase: ORG
+Name City: GPE
+Chase: ORG
+Account Restrictions: ORG
+AML Closures: ORG
+Chase: ORG
+Screen: ORG
+KYC: ORG
+Chase: ORG
+SME: ORG
+12/2012: CARDINAL
+Name City: GPE
+Investigate: ORG
+Identify: ORG
+Customer Service: ORG
+11/2012: CARDINAL
+Name City: GPE
+80-150: CARDINAL
+daily: DATE
+Chase: ORG
+every month: DATE
+Peer: ORG
+Intern 06/2008: ORG
+08/2008 Company Name City: WORK_OF_ART
+Customer Service: ORG
+10/2004: CARDINAL
+Name City: GPE
+Assist: NORP
+Answer: ORG
+2008: DATE
+Associate of Arts: WORK_OF_ART
+Wright State University - Criminal: ORG
+State Criminal Justice Sociology: ORG
+Skills: ORG
+Cashier: ORG
+Customer Service: ORG
+Telephone: ORG

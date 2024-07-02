@@ -1,0 +1,156 @@
+Accomplished Healthcare Professional: ORG
+Healthcare: ORG
+Healthcare: ORG
+Skills: ORG
+Registrar Office: ORG
+Meditech Magic: PERSON
+CS 5.6x and: ORG
+6.x: CARDINAL
+Athena: ORG
+Excel: PRODUCT
+Quick Base: PERSON
+SharePoint: ORG
+Project: GPE
+Visio: PERSON
+July 2013: DATE
+State: ORG
+400: CARDINAL
+Hospital with Residency Program: ORG
+two: CARDINAL
+ten: CARDINAL
+Physician Practices
+Report: PERSON
+the VP/CIO of IT: ORG
+Ancillary: GPE
+Evaluate: ORG
+over $: MONEY
+250,000: MONEY
+7 Application Analysts: ORG
+2: CARDINAL
+125: CARDINAL
+25: CARDINAL
+Audit: ORG
+MU: ORG
+2: CARDINAL
+MU Stage: ORG
+3: CARDINAL
+10: CARDINAL
+EMR: PERSON
+10: CARDINAL
+the Oct 1: LOC
+2015: DATE
+EHR/Application: ORG
+Meditech: GPE
+Curaspan: GPE
+Midas: ORG
+NYeC & HealthiX: ORG
+LOINC: ORG
+SNOMED: ORG
+RxNorm: ORG
+IMO: ORG
+Executive Team: ORG
+Six Sigma: ORG
+Population Health Initiative:: ORG
+NY Queens/Long Island: ORG
+IT Committee: ORG
+NYS: ORG
+Medicaid: ORG
+January 2012 to June 2013 Project: DATE
+State: ORG
+140: CARDINAL
+3: CARDINAL
+Department Heads: ORG
+75,000: MONEY
+1: CARDINAL
+CMS: ORG
+Health Information Exchange: ORG
+HIE: ORG
+Executive Committee: ORG
+1: CARDINAL
+10: CARDINAL
+HIM Team: ORG
+Labor: ORG
+TraceVue: ORG
+CardiacScience Pyramis: ORG
+Meditech: GPE
+October 2011: DATE
+May 2012: DATE
+January 2008 to September 2011: DATE
+Zynx: PERSON
+1: CARDINAL
+2000+: DATE
+Healthcare Organization: ORG
+15: CARDINAL
+Ambulatory: ORG
+Applications Reported: WORK_OF_ART
+the Corporate CIO: ORG
+CNO: ORG
+Corporate: ORG
+Administrative Steering Committee: ORG
+Legal Counsel: ORG
+1.5: MONEY
+monthly: DATE
+quarterly: DATE
+As many as 50: CARDINAL
+over $5M: MONEY
+75: CARDINAL
+Health Systems': ORG
+50: CARDINAL
+up to 150: CARDINAL
+Regional Application Managers: ORG
+Project Managers: ORG
+Teams: ORG
+the Health System: ORG
+Senior Management: ORG
+Projects as Hospital: ORG
+the Health System: ORG
+Healthcare System's: ORG
+Meditech: GPE
+the Health System: ORG
+3: CARDINAL
+9 - 12 months to 6 - 8 months: DATE
+25% - 30%: PERCENT
+Computerized Physician Order Entry: PERSON
+Order: ORG
+Physician: PERSON
+Provider: ORG
+Physicians, Case Managers and Clinical Documentation Specialists: ORG
+the Health System: ORG
+Training
+University of Nevada 2007: ORG
+Science City: GPE
+State: ORG
+Sri Ram Engineering College: ORG
+India Professional Associations: ORG
+Interests: NORP
+HIMSS: ORG
+NYC: PRODUCT
+1: CARDINAL
+Page
+Additional Information
+
+: ORG
+HIMSS: ORG
+NYC: PRODUCT
+1: CARDINAL
+Administrative: ORG
+CMS: ORG
+Documentation: ORG
+Senior Management: ORG
+Team Lead: PERSON
+Legal: GPE
+Magic: ORG
+Meditech: GPE
+Excel: PRODUCT
+Exchange: ORG
+2000: DATE
+MS Word: PERSON
+Midas: PERSON
+Nursing: GPE
+OCR: ORG
+Order Entry: ORG
+PACS: ORG
+Quick: ORG
+Six Sigma: PERSON
+Time: ORG
+Visio: PERSON

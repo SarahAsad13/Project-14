@@ -1,0 +1,50 @@
+TEACHER
+Professional Summary
+
+: PERSON
+the past ten years: DATE
+Arizona Teaching Certificate: ORG
+July 2017: DATE
+Scottsdale: GPE
+Arizona: GPE
+3rd: ORDINAL
+4th: ORDINAL
+5th: ORDINAL
+OT: ORG
+PT: ORG
+the year: DATE
+three: CARDINAL
+15: CARDINAL
+12: CARDINAL
+each day: DATE
+06/2017: CARDINAL
+2016: DATE
+Resource: ORG
+SAMA: GPE
+PBIS: ORG
+morning: TIME
+06/2016: ORG
+2012: DATE
+3rd-5: CARDINAL
+up to 12: CARDINAL
+IEP: ORG
+Response: ORG
+08/2009: CARDINAL
+08/2012: CARDINAL
+2009: DATE
+the Olympia School District: ORG
+two years: DATE
+1on1: CARDINAL
+daily: DATE
+EBD: ORG
+Education: ORG
+2013: DATE
+University - City: ORG
+Elementary Education: WORK_OF_ART
+1998: DATE
+Eastern University: ORG
+Covenant Bible College: ORG
+Classroom Management: ORG
+Support, Coordinating services: ORG
+Â Technology: ORG
+Data Collection: ORG

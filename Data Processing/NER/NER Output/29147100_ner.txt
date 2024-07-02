@@ -1,0 +1,33 @@
+Technical Skills: ORG
+Adobe Illustrator
+Adobe InDesign
+Adobe Premiere
+Adobe Dream Weaver
+Sketchbook Pro
+
+Intermediate Html Coding: WORK_OF_ART
+Microsoft: ORG
+Windows
+Â Troubleshooting
+Calculator: PERSON
+Microsoft: ORG
+Microsoft PowerPoint: ORG
+2014: DATE
+Multimedia Designer: PERSON
+May 2016: DATE
+Boards: PERSON
+FreeLance Graphic: PRODUCT
+State
+
+Created: ORG
+2009: DATE
+Bachelor: ORG
+Fine Arts: ORG
+Digital Art & Design: ORG
+Towson University: ORG
+State: GPE
+United States: GPE
+Digital Art & Design Community College: ORG
+Baltimore County ï¼​ City: GPE
+State: GPE
+United States: GPE

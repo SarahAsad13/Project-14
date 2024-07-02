@@ -1,0 +1,188 @@
+SYSANALSYS: ORG
+Professional Overview
+
+Highly: ORG
+Department: ORG
+Mission  Partner: PERSON
+Infrastructure Technology: ORG
+Excels: PERSON
+January 2010: DATE
+Name City: GPE
+State Information Technology Project Manager System Analysis: ORG
+SYSANALSYS: ORG
+Holds Active Security: ORG
+the Development and Business Center for Defense Logistics Agency: ORG
+DLA: ORG
+Defense Finance: ORG
+Accounting Service: ORG
+DFAS: ORG
+Program Management Office: ORG
+the Mission Partner Engagement Office: ORG
+MPEO)/Engagement Executive: ORG
+BDM11: PERSON
+DISA: ORG
+Project Management: ORG
+DISA End-to-End: ORG
+DISA Program: ORG
+DLA: ORG
+Enterprise Business Systems: ORG
+EBS: ORG
+$39 million: MONEY
+annual: DATE
+Subject Matter Expert: PERSON
+SME: ORG
+Federal Data
+Center Consolidation Initiative: ORG
+Defense Contract Management Agency: ORG
+DCMA: ORG
+Defense
+Manpower Data Center (DMDC): ORG
+Office of Personnel Management: ORG
+DFAS: ORG
+DISA Project: ORG
+Point of Contact: ORG
+the Mission Partner: ORG
+Operational Environments: ORG
+DISA: ORG
+DISA Mission Partner: ORG
+Schedule: PERSON
+Mission Partner: PERSON
+Develop: ORG
+Mission Partner: ORG
+Coordinate: FAC
+DISA Information Assurance: ORG
+IA: GPE
+Mission Partner: ORG
+DoD Information
+Assurance Certificates and Accreditation Process: ORG
+Baseline Change Request: ORG
+BCR: ORG
+Bill of Materials: LAW
+Solution Designs: PERSON
+Mission Partner: ORG
+Analyze: PRODUCT
+Fiscal Year: DATE
+Authorization Increases: PERSON
+AI: ORG
+Initial Operating Environment (: ORG
+the Customer Account Representative: ORG
+CAR: ORG
+Mission Partner: ORG
+Coordinate: FAC
+CAR: ORG
+Initial Operating Capability (IOC: ORG
+Security Technical Implementation Guides: ORG
+Enclave Connection Authority: ORG
+ECA: ORG
+Designating Approval Authority: ORG
+DAA: ORG
+FOC: ORG
+DISA Project: ORG
+x-86: ORG
+Itanium: GPE
+SPARC: ORG
+Windows Server: PERSON
+2008: DATE
+R2: WORK_OF_ART
+2012: DATE
+R2: PRODUCT
+Red Hat: ORG
+Hewlett Packard: ORG
+HPUX: ORG
+Solaris: PERSON
+SUSE: ORG
+Relational Database Management Systems: ORG
+Oracle: ORG
+Microsoft: ORG
+SQL: PERSON
+Hewlett Packard: ORG
+System Analyses Program: ORG
+VOE: ORG
+Microsoft: ORG
+DISA: ORG
+milCloud: GPE
+Storage Area Network: ORG
+Network Attached Storage: PERSON
+NAS: ORG
+CAS: ORG
+Hitachi Virtual Storage Platform: ORG
+HP 3Par: ORG
+SAN: ORG
+NetApp: ORG
+NAS: ORG
+EMC Centera: ORG
+CAS: ORG
+Oracle Supercluster: PERSON
+Mission Partner: PERSON
+DISA: ORG
+Mission Partners: ORG
+Mission Partner: ORG
+Mission Partner: PERSON
+DISA Capacity Services: ORG
+weekly: DATE
+Mission Partner: PERSON
+4.57: CARDINAL
+the previous five years: DATE
+annual: DATE
+Performance Work Plan
+& Appraisal: LAW
+Mission Partner: ORG
+DISA: ORG
+DISA: ORG
+Holds: ORG
+January 2010 to January 2014: DATE
+Name City: GPE
+101: CARDINAL
+August 2009 to January 2010: DATE
+Company Name City: LOC
+State Computer Technician Specialist
+
+Managed: ORG
+Navy/Marine Corps Intranet: ORG
+March 2008 to August 2009: DATE
+Name City: GPE
+Student Technology Education Program: ORG
+DISA Naval: ORG
+Coursework: ORG
+2015: DATE
+Shippensburg University 
+City: ORG
+State: ORG
+USA Organizational Development and Leadership: ORG
+Master of Science
+Concentration: Public Organizations
+Relevant Courses: WORK_OF_ART
+Charge and Innovation
+Leadership, Theory and Practice
+Policy Implementation and Administration
+Public Policy Analysis
+Organizational Theory and Behavior
+Research Methods: WORK_OF_ART
+2009: DATE
+YTI Career Technical Instituation 
+City: ORG
+State: ORG
+USA Network: ORG
+Internet Security Administration: ORG
+NISA: ORG
+Associate Technical: ORG
+Virtual: ORG
+Backup: PERSON
+2006: DATE
+Millersville University: ORG
+State: ORG
+Noteables: ORG
+Information Technology Infrastructure Library: ORG
+Project Management: ORG
+The Project Management Professional: ORG
+Microsoft: ORG
+2010: DATE
+1: CARDINAL
+DISA Information Systems Engineering Seminar: ORG
+Defense Acquisition University: ORG
+EMW: ORG
+Defense Acquisition University: ORG
+the System Integration and Delivery: ORG
+SID: ORG
+SID: ORG
+$45 million: MONEY

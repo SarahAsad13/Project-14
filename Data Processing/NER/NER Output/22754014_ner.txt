@@ -1,0 +1,47 @@
+Public Relations Specialist: ORG
+Microsoft Office
+: ORG
+Social Media Marketing
+Strong Editing Skills
+Project Management
+Exceptional Writing: ORG
+Grammar
+Graphic Design: PERSON
+Strategist Jan 2015: DATE
+Typist: NORP
+Telephone Skills/Multi-Line
+Fast & Accurate Data Entry
+Correspondence
+Search Engine Advertising: ORG
+Vector Media: PERSON
+five: CARDINAL
+daily: DATE
+Public Relations & Marketing: ORG
+Mar 2013: DATE
+Marion Restaurant Guide: ORG
+fans & build: ORG
+Plan &: ORG
+the Marion Restaurant Guide: ORG
+Client/Community Coordinator Sep: ORG
+2009: DATE
+Facebook, AdWords: ORG
+Twitter: PERSON
+LinkedIn: GPE
+over 100: CARDINAL
+May 2010: DATE
+Sep 2010: LAW
+15: CARDINAL
+Marion: ORG
+over 30%: PERCENT
+the previous year: DATE
+Specialist Jan 2006 to Jan 2006: DATE
+Dealt: PERSON
+35%: PERCENT
+Associate of Applied Science , Marketing & Project Management 2016 Marion Technical College: WORK_OF_ART
+Social Media: ORG
+Journalism: NORP
+Associate of Applied Science: WORK_OF_ART
+Marion Technical College: ORG
+Copywriter
+
+Graphic Design: PERSON

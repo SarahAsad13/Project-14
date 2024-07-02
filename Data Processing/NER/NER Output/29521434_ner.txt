@@ -1,0 +1,36 @@
+CASHIER: ORG
+Kennel Responsibility's: ORG
+Calm: PERSON
+korean: NORP
+December 2015: DATE
+February 2016: DATE
+Name City: GPE
+State: ORG
+Cashier Assessed: PERSON
+September 2015: DATE
+Name City: GPE
+State Apparel
+
+Described: ORG
+Maintained: GPE
+Apparel: ORG
+January 2013: DATE
+August 2015: DATE
+Name City: GPE
+daily: DATE
+Education: ORG
+2017: DATE
+Chandler: PERSON
+State: ORG
+USA Associate of Arts: ORG
+English: LANGUAGE
+First year: DATE
+Majoring: GPE
+English: LANGUAGE
+2015: DATE
+Adult Education school: ORG
+State: GPE
+Skills
+Problem Solving: ORG
+Time Management
+Critical Thinking: ORG

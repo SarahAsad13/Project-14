@@ -1,0 +1,147 @@
+Microbiologist: GPE
+Molecular Genetic Research: ORG
+Quality Control System
+Operations: ORG
+Skills: ORG
+PCR: ORG
+Southern: NORP
+Transcription: CARDINAL
+ELISA: ORG
+ISO 9001: ORG
+MS Office: ORG
+Certified Training Specialist: ORG
+Consulting
+Project: ORG
+Taught Aseptic: WORK_OF_ART
+400: CARDINAL
+Assisted: PRODUCT
+NCBI: ORG
+KEGG: ORG
+OMIM: PERSON
+Entrez: PERSON
+Minitab: GPE
+PSI-Blast: ORG
+Pub Med: ORG
+5.0: CARDINAL
+COGS: ORG
+CDD
+MS Office: ORG
+MS Outlook: GPE
+Citrix Sever: PERSON
+FTP: ORG
+LIMS: ORG
+SAP: GPE
+COGNOS: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+FDA: ORG
+Technique Training: PERSON
+ISO 5 - ISO: ORG
+Technique Training: PERSON
+ISO 5 - ISO8: ORG
+Technique Training: PERSON
+ISO 5 - ISO 8) Environmental Monitoring Technique Training Aseptic Cleaning Technique
+Training Sterile Gloves Techniques Training Basic Aseptic Technique Training: ORG
+Conduct Bio Burden: PERSON
+Media Testing: ORG
+Aseptic GMP Facility Qualification: ORG
+Facility Qualification: ORG
+Commissioning Qualification Validation: ORG
+API: ORG
+FDA: ORG
+483: CARDINAL
+Process Analytical Technology: ORG
+PAT: ORG
+12/2015: CARDINAL
+Aseptic Area: LOC
+25: CARDINAL
+80%: PERCENT
+10: CARDINAL
+daily: DATE
+one: CARDINAL
+Aseptic: LOC
+Terminally Sterile Area: PRODUCT
+21: CARDINAL
+CFE: ORG
+11: CARDINAL
+Quality System: ORG
+21: CARDINAL
+CFR: ORG
+820: CARDINAL
+Terminal Sterilization Filling Line: ORG
+QA: ORG
+QC: ORG
+Reviews: NORP
+10/2011: CARDINAL
+Obtained: ORG
+Conducted TMC: PERSON
+LAL: ORG
+Micro-ID: ORG
+TOC: ORG
+Purification Test
+Reviewed: WORK_OF_ART
+FDA: ORG
+Cleaned: ORG
+Performed: ORG
+Performed micro'ID: PERSON
+FDA: ORG
+GMP: ORG
+Title 21: LAW
+CFR: ORG
+11: CARDINAL
+transcription: CARDINAL
+Title 21 Code: LAW
+11: CARDINAL
+siRNAs: NORP
+SNP: ORG
+Maintained: GPE
+DEC: ORG
+EPA: ORG
+Monitored: ORG
+Minispec: GPE
+one: CARDINAL
+Maintained: GPE
+Maintained: GPE
+Michigan Department of Health: ORG
+Collaborated: ORG
+Steered: ORG
+Title 21: LAW
+CFR: ORG
+11: CARDINAL
+May 2009: DATE
+Michigan State University - City: ORG
+State Microbiology
+Skills: ORG
+21: CARDINAL
+CFR: ORG
+11: CARDINAL
+API: ORG
+Aseptic Technique: ORG
+Citrix: GPE
+COGNOS: PRODUCT
+Consulting: ORG
+DEC: ORG
+Department of Health: ORG
+ELISA: ORG
+Filling: ORG
+FTP: ORG
+GMP: ORG
+Good Laboratory Practices: ORG
+ISO 5: ORG
+ISO 8: ORG
+ISO8: ORG
+ISO 9001: ORG
+LIMS: ORG
+Access, MS Office: ORG
+MS Outlook, Outlook: GPE
+Power Point: PRODUCT
+Word: PERSON
+Minitab: PERSON
+PCR: ORG
+Quality: ORG
+QA: ORG
+SAP: ORG
+Southern: NORP
+TOC: ORG
+Transcription: ORG
+Validation: ORG

@@ -1,0 +1,149 @@
+Seeking a Purchasing: WORK_OF_ART
+New York: GPE
+15+ years: DATE
+B.S.: GPE
+Business: GPE
+A.A.S.: ORG
+Engineering Technology: ORG
+Highlights: GPE
+15 years: DATE
+Excel: PRODUCT
+Outlook: PERSON
+MRPII: ORG
+Experienced: PRODUCT
+Career: LOC
+Supervisory: NORP
+Experienced: PRODUCT
+Safety Professional / Construction Supervisor Aug: ORG
+2013: DATE
+State Safety and Construction Supervisor Professional: ORG
+ISO: ORG
+OSHA: ORG
+30 Hour
+Construction Safety Training: TIME
+Red Cross: ORG
+Buyer / Purchasing: ORG
+2010: DATE
+2013: CARDINAL
+State Manage: ORG
+2009: DATE
+Oct 2010: DATE
+State Developed: ORG
+Jan 2006: DATE
+2009: DATE
+State Developed: ORG
+Asian: NORP
+Japan: GPE
+China: GPE
+Korea: GPE
+multi-million dollar: MONEY
+MRO: ORG
+ISO 9001-2000: ORG
+JIT: ORG
+MRPII: ORG
+annual: DATE
+monthly: DATE
+Feb 1994 to: DATE
+2005: DATE
+State Developed: ORG
+multi-million dollar: MONEY
+MRO: ORG
+ISO 9001-2000: ORG
+JIT: ORG
+MRPII: ORG
+21.5%: PERCENT
+annual: DATE
+monthly: DATE
+May 1993 to Dec 1993: DATE
+State: ORG
+Controller/MIS Program Development: ORG
+Nov 1992: DATE
+May 1993: DATE
+State: ORG
+Accountant: PERSON
+May 1988 to Nov 1992: DATE
+State Project Modification Coordinator/Customer Service
+Operations: ORG
+Dec 1986: DATE
+1988: DATE
+State: ORG
+1983: DATE
+1986: DATE
+Education: ORG
+2010: DATE
+OSHA Institute of America ï¼​ City: ORG
+State: GPE
+US: GPE
+Hour Construction Safety and Health: ORG
+OSHA Institute of America: ORG
+Austin: GPE
+TX: ORG
+2010: DATE
+1995: DATE
+Pennsylvania State University: ORG
+Great Valley: GPE
+State: GPE
+US: GPE
+C.P.M.) Review & APICS Review
+Courses: ORG
+Pennsylvania State University: ORG
+Great Valley: GPE
+PA: GPE
+1995: DATE
+B.S.: GPE
+Business Administration: ORG
+Industrial Engineering: ORG
+1983: DATE
+Grove City College: ORG
+State: GPE
+US: GPE
+B.S.: GPE
+Business Administration/Minor: ORG
+Industrial Engineering: ORG
+Grove City College: ORG
+Grove City: GPE
+PA: GPE
+1983: DATE
+A.A.S.: ORG
+Engineering Technology 1979 Community College: ORG
+Allegheny County: GPE
+State: GPE
+US A.A.S. Engineering Technology: ORG
+Community
+College of Allegheny County: ORG
+Pittsburgh: GPE
+PA: GPE
+1979: DATE
+Certifications: WORK_OF_ART
+C.P.M: PRODUCT
+Purchasing, Operations, Inventory, Procurement, Invoices, Health And Safety: ORG
+Iso, Logistics: ORG
+Strategic Sourcing: PERSON
+Contracts: ORG
+Financial Reporting: ORG
+Jit, Logistics Management: ORG
+Million: CARDINAL
+Accountant, Customer Service: ORG
+Receptionist: NORP
+Continuous Improvement: PERSON
+Forecasts: PERSON
+Lean Manufacturing: ORG
+Materials Procurement, Budget, Business Operations: WORK_OF_ART
+Buyer: LOC
+Office Supplies, Construction Safety: ORG
+Industrial Hygiene, Machine Safety: ORG
+30 Hour: TIME
+Project
+Management: ORG
+Red Cross: ORG
+Safety Training, Training, Underground Storage: ORG
+Underground Storage Tank: ORG
+Operations: ORG
+Increase, Inventory Control, Marketing, Award, Database,: ORG
+Excel: PRODUCT
+Finance: ORG
+Invoice: GPE
+Maintenance, Materials Management: ORG
+Pos, Project Development: ORG
+Industrial Engineering: ORG
+A.a.s: PERSON

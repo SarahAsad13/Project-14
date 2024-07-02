@@ -1,0 +1,235 @@
+Career Focus
+
+Creative Marketing Professional: ORG
+MBA: WORK_OF_ART
+many years: DATE
+the U.S. Department of Agriculture's Foreign Agricultural
+Service: ORG
+U.S.: GPE
+May 1998: DATE
+Team: ORG
+Deadline-: PRODUCT
+the U.S. Department of Agriculture's Foreign Agricultural Service: ORG
+U.S.: GPE
+May 1998: DATE
+Awarded Contract: ORG
+Southern U. S. Trade Association: ORG
+Canadian/US Trade Mission: ORG
+Ceremony: ORG
+GA's International Trade Division: ORG
+a State Model of Excellence: ORG
+the Small Business Administration: ORG
+Washington, DC: GPE
+1998: DATE
+Germany: GPE
+July 1991: DATE
+Middle Georgia College: ORG
+Cochran: GPE
+GA: GPE
+two: CARDINAL
+Gubernatorial: LOC
+Admiral of the Georgia Navy: WORK_OF_ART
+Named Outstanding Young Women of America - '91
+Executive Board: WORK_OF_ART
+the University of Georgia's: ORG
+Center for International Agriculture: ORG
+State: ORG
+State Competitions ': ORG
+GA Council of International Visitors - Host: ORG
+the Business Women's Council ': ORG
+93: CARDINAL
+the Atlanta Chamber of Commerce
+Board of Directors: ORG
+Refugee Women's Association of Metro Atlanta ': ORG
+95: CARDINAL
+English: LANGUAGE
+Armenian: NORP
+'94-'95: DATE
+Atlanta Women in International Trade ': ORG
+95: CARDINAL
+Georgia Economic Developer's Trade Committee ': ORG
+97-'99: CARDINAL
+Kennesaw State University: ORG
+'97: DATE
+DeKalb County ': GPE
+93-99: CARDINAL
+Junior League: ORG
+Alumni Advisor: PRODUCT
+Georgia State University's: ORG
+August 1999 to January 2002: DATE
+Awarded Contract: ORG
+Southern U. S. Trade Association: ORG
+Canadian/US Trade Mission: ORG
+Ceremony: ORG
+International Trade Division: ORG
+November 1996 to: DATE
+August 1999: DATE
+Atlanta: GPE
+GA: ORG
+Brussels: GPE
+Belgium: GPE
+January 1998 to January 1998: DATE
+a State Model of Excellence: ORG
+the Small Business Administration: ORG
+Washington, DC: GPE
+1998: DATE
+Atlanta: GPE
+Brussels: GPE
+Asia: LOC
+the Americas
+Developed: LOC
+Linked: GPE
+Canada: GPE
+Mexico: GPE
+Developed: ORG
+Southern United States Trade Association: ORG
+SUSTA: ORG
+98: CARDINAL
+$900 M: MONEY
+fifteen: CARDINAL
+Oversaw: GPE
+400 M: PRODUCT
+U.S: GPE
+Canada: GPE
+Canada: GPE
+Costa Rica: GPE
+UK: GPE
+Russia: GPE
+United States: GPE
+Mexico: GPE
+China: GPE
+Japan: GPE
+Georgia: GPE
+the Atlanta Olympic Games
+Served on: EVENT
+Centennial Park: FAC
+Coordinated Olympic Game: WORK_OF_ART
+the Georgia Department of Agriculture
+Advisor: ORG
+Atlanta U. S. Export Assistance Center
+Advisor: ORG
+Georgia Specialty Foods Association: ORG
+InterTrade: ORG
+97: DATE
+Atlanta: GPE
+500: CARDINAL
+May 1995 to November 1996: DATE
+State
+International Account Executive: ORG
+November 1994: DATE
+May 1995: DATE
+the U.S. Department of Commerce-International Trade Division's: ORG
+District Export Council: ORG
+International Freight Forwarder/ NVOCC: WORK_OF_ART
+Atlanta: GPE
+Georgia International Account Executive: ORG
+11/94-5/95: CARDINAL
+Computed: ORG
+Coordinated: ORG
+Liaison: PERSON
+Prepared: PERSON
+Cotton/Textile Broker & Sales: ORG
+October 1991 to November 1994: DATE
+the Southern U. S.: LOC
+Import/Export: ORG
+Arranged: PERSON
+the International School of Cotton '90: ORG
+Supervisor-Risk Fleet Management: ORG
+January 1989 to January 1990: DATE
+five: CARDINAL
+Coordinated: ORG
+January 1988 to January 1988: DATE
+Liaison: PERSON
+six: CARDINAL
+1993: DATE
+Mercer University: ORG
+Stetson School of Business and Economics: ORG
+State: ORG
+US Masters: ORG
+Business Administration: ORG
+1993: DATE
+Mercer University: ORG
+Stetson School of Business and Economics: ORG
+Atlanta: GPE
+GA: GPE
+Risk Management/Insurance: ORG
+1987: DATE
+University of Georgia: ORG
+Terry College of Business Administration: ORG
+City: GPE
+State: GPE
+US Bachelors: PERSON
+Business Administration: ORG
+1987: DATE
+University of Georgia: ORG
+Terry College of Business Administration: ORG
+Athens: GPE
+GA: GPE
+Risk Management/Insurance: ORG
+Student-Alumni Committee: ORG
+1984: DATE
+ï¼​ City: GPE
+State: GPE
+US Associate in Business Administration: ORG
+1984: DATE
+Middle Georgia College: ORG
+Cochran: GPE
+Student Government: ORG
+Advertising: PERSON
+1984: DATE
+Kernel College Newspaper: ORG
+Student Government: ORG
+Student Advisory
+Council: ORG
+the GA Board of Regents: ORG
+Editor & Advertising: ORG
+the Kernel College Newspaper: ORG
+Voted: FAC
+1984: DATE
+MBA: WORK_OF_ART
+International Business Mercer University: ORG
+International Business: ORG
+Germany: GPE
+July 1991: DATE
+Professional Affiliations
+: ORG
+Southern U. S. Trade Association: ORG
+Canadian/US Trade Mission: ORG
+Ceremony: ORG
+January 1993 to June 1983: DATE
+two: CARDINAL
+Gubernatorial: LOC
+Admiral of the
+Georgia Navy: WORK_OF_ART
+Chamber of Commerce: ORG
+Atlanta: GPE
+GA,: ORG
+Membership Development: ORG
+1993: DATE
+Richard Ray: PERSON
+US House of Representatives: ORG
+Washington, DC: GPE
+Congressional Intern: ORG
+Summer 1983: DATE
+English: LANGUAGE
+Armenian: NORP
+Southern U. S. Trade Association: ORG
+Canadian/US Trade Mission: ORG
+Master of Ceremony: WORK_OF_ART
+Skills
+
+Trade Show, Buyer: ORG
+Market Research, Marketing, Accounts Through: ORG
+Cold Calling: ORG
+Commodities, Credit, Import/export: ORG
+Fleet Management: ORG
+Liaison: PERSON
+Trading, Database: GPE
+Maintenance: PERSON
+Budget: ORG
+Account Executive: ORG
+Documentation, Quotations, Shipping,: ORG
+Northern Telecom: LOC
+Peachtree, Property Management: ORG
+Telecom: GPE
+Risk Management, Advertising: ORG

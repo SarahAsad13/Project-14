@@ -1,0 +1,59 @@
+Highlights: GPE
+10 years: DATE
+Prior Management: ORG
+MS Excel: ORG
+JD Edwards: PERSON
+QuickBooks: ORG
+January 2016: DATE
+Accountant 
+City: PERSON
+month-end: DATE
+Prepare: ORG
+monthly: DATE
+Assist: ORG
+Participate: WORK_OF_ART
+Prepare: ORG
+monthly: DATE
+February 2012 to August 2015: DATE
+JDE Business Analyst 
+City: ORG
+Oversee: ORG
+approximately 12: CARDINAL
+Interface: ORG
+Oversee: ORG
+Develop: ORG
+Forecast: ORG
+August 2011 to January 2012: DATE
+QuickBooks: ORG
+monthly: DATE
+monthly: DATE
+Microsoft: ORG
+daily: DATE
+Payroll: ORG
+September 2007 to April 2008: DATE
+20 - 25 hours: TIME
+USF Worked: ORG
+QuickBooks: ORG
+Bank Reconciliations: ORG
+Fishbowl: GPE
+PO: GPE
+August 2006 to September 2011: DATE
+15 - 20 hours: TIME
+QuickBooks: ORG
+15 - 20 hours: TIME
+QuickBooks: ORG
+University of South Florida: ORG
+December 2010: DATE
+State: ORG
+Skills
+
+Accounting: ORG
+Bank Reconciliations: ORG
+ERP: ORG
+JD Edwards: PERSON
+MS Excel: ORG
+Microsoft: ORG
+month-end: DATE
+Payroll: ORG
+Public Accounting: ORG
+QuickBooks: ORG

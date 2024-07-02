@@ -1,0 +1,119 @@
+Highlights
+Software: WORK_OF_ART
+MS Word: PERSON
+Outlook: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+Access: ORG
+CRM: PRODUCT
+Adobe Acrobat XI
+Professional: PERSON
+Snag-ItTM: ORG
+MS: ORG
+Windows XP/Vista/7/8: ORG
+Windows Server: PERSON
+2000/2003: DATE
+12/2009: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+Accomplishments: Setup: WORK_OF_ART
+daily: DATE
+SQL: ORG
+Time Matters: ORG
+Edward S.Clay: PERSON
+P.A.
+
+Office Administrator/Billing: ORG
+UCAP: ORG
+Assisted: ORG
+monthly: DATE
+UCAP: ORG
+UCAP: ORG
+Funding & Settlement Coordinator/Office: ORG
+08/2011: CARDINAL
+Build: GPE
+Order: ORG
+Answer: ORG
+Schedule: ORG
+Print: GPE
+Witness: ORG
+Generate: PERSON
+Family Legacy: PERSON
+Troubleshoot: ORG
+73%: PERCENT
+Client Services Coordinator: ORG
+Funding & Settlement Coordinator: ORG
+daily: DATE
+Student Operations Specialist: ORG
+12/2009: CARDINAL
+ACCET: ORG
+Data: ORG
+CFO: ORG
+monthly: DATE
+Excel: PRODUCT
+third: ORDINAL
+25: CARDINAL
+first: ORDINAL
+Maintained: GPE
+$4 million: MONEY
+Created: ORG
+third: ORDINAL
+FERPA (Federal Education Right to Privacy Act: ORG
+25: CARDINAL
+MS Excel: ORG
+Information Technology Coordinator: ORG
+05/1996: DATE
+Windows 2000: EVENT
+Processed: GPE
+Operations: ORG
+two: CARDINAL
+one: CARDINAL
+Maintained: GPE
+annual: DATE
+SEC: ORG
+New Accounts Clerk: ORG
+Lead Cashier: PERSON
+Operations: ORG
+millions of dollars: MONEY
+Lutherville: FAC
+93: CARDINAL
+6: CARDINAL
+Microsoft Certified Systems: ORG
+Engineer Training: PERSON
+January 2002: DATE
+B.S :: ORG
+January 1991: DATE
+Towson University: ORG
+State Business Finance: ORG
+Maryland Notary Public: ORG
+August 26, 2018: DATE
+Microsoft Certified Systems Engineer: ORG
+February 2002: DATE
+Skills: ORG
+Adobe Acrobat: PERSON
+Schedule: PERSON
+Cashier: PERSON
+Hardware, Council: ORG
+CRM: PRODUCT
+Client: GPE
+Data: ORG
+Law: PERSON
+Access: ORG
+Microsoft Certified Systems: ORG
+Engineer: ORG
+Microsoft Excel: ORG
+MS Excel: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+MS Windows, Windows 2000: ORG
+2000: DATE
+MS Windows XP: ORG
+MS Word: PERSON
+Notary Public: PERSON
+Order: ORG
+Software: ORG
+SQL: ORG
+Answer: ORG
+Troubleshoot: ORG
+Vista: ORG

@@ -1,0 +1,46 @@
+AREA: ORG
+Professional Summary
+
+Project: ORG
+Operations: ORG
+multi-million-dollar: MONEY
+OSHA: ORG
+QA/QC/Field Engineering: ORG
+Bidding/Estimating/Proposals: ORG
+Subcontractor/Crew Supervision Proficient: ORG
+daily: DATE
+multi-million: CARDINAL
+Opening: WORK_OF_ART
+10/2014: CARDINAL
+Transformed: ORG
+4: CARDINAL
+112: CARDINAL
+WIP: ORG
+73%: PERCENT
+WIP: ORG
+30-60 days: DATE
+511 Days: DATE
+90: CARDINAL
+4: CARDINAL
+15: CARDINAL
+5: CARDINAL
+the south east: LOC
+Maintaining Intelex: ORG
+Investigations of Workers Comp: ORG
+General Liability: ORG
+JSO: ORG
+Maintained: GPE
+01/2011: CARDINAL
+Construction Management: ORG
+Prepared: PERSON
+P&L: ORG
+Corp: ORG
+2010: DATE
+Bachelor of Science : Information Technology 
+UNIVERSITY OF PHOENIX - City: ORG
+2009: DATE
+2015: DATE
+OSHA: ORG
+The University of Tennessee - Knoxville - City: ORG
+510: CARDINAL
+CPR Adult & Child: ORG

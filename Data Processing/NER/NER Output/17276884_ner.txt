@@ -1,0 +1,77 @@
+Policy: PERSON
+Complex: NORP
+Operations: ORG
+Project Management: Â 
+
+: ORG
+1: CARDINAL
+2: CARDINAL
+Financial Management: ORG
+1: CARDINAL
+2: CARDINAL
+Leadership: NORP
+January 2009: DATE
+Current Mortgage Banking Executive: ORG
+Internal and External Partners: ORG
+Senior
+Management and Third Party Customers: ORG
+Servicing Systems: ORG
+Chase: ORG
+Participation: ORG
+Collaborated: ORG
+monthly: DATE
+Consumer Financial Protection
+Bureau: ORG
+the Office of the Comptroller: ORG
+Communicate: ORG
+300: CARDINAL
+weekly: DATE
+Loss Mitigation: ORG
+weekly: DATE
+monthly: DATE
+daily: DATE
+SLA: ORG
+Chase: ORG
+RESPA: ORG
+January 2003 to February 2015: DATE
+30-45 day: DATE
+Manage: PRODUCT
+Supervise: PERSON
+25: CARDINAL
+Vera Perry Cont: ORG
+25: CARDINAL
+January 2006 to January 2009: DATE
+State
+
+Risk Management Deposit Recovery Collector Was: ORG
+Auto Dialer: ORG
+January 2003 to January 2007: DATE
+10%: PERCENT
+2003-2007: DATE
+Created: ORG
+daily: DATE
+IRS: ORG
+ten: CARDINAL
+Business Analysis: ORG
+CMS: ORG
+Senior
+Management: ORG
+Fast, Financial, Government: ORG
+Imaging: GPE
+Lotus: ORG
+Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Oracle: ORG
+Peach Tree: PERSON
+Research, Risk Management: ORG
+SLA: ORG
+Solomon: PERSON
+Workflow: ORG
+Education: ORG
+San Francisco State University: ORG
+State Management
+CAL State Hayward Bachelor of Business Administration: ORG
+Accounting City: GPE
+State Accounting: ORG

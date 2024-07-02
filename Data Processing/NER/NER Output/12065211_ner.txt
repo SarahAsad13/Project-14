@@ -1,0 +1,77 @@
+CMS: ORG
+Excel: PRODUCT
+SQL: ORG
+US: GPE
+Name City: GPE
+State: ORG
+annual: DATE
+Deloitte: ORG
+annual: DATE
+Assist: NORP
+Seoul: GPE
+Shanghai: GPE
+Tokyo: GPE
+Aderant/CMS: ORG
+Vienna: GPE
+Seoul: GPE
+Resolve: PRODUCT
+monthly: DATE
+W-2: ORG
+Prepare initial K-1: ORG
+month-end: DATE
+Prepare: ORG
+monthly: DATE
+Seoul: GPE
+Shanghai: GPE
+Tokyo: GPE
+Vienna: GPE
+Prepare: ORG
+monthly: DATE
+Seoul: GPE
+Tokyo: GPE
+Asian: NORP
+the first quarter of '08: DATE
+Japanese: NORP
+Jan 2005 - Mar 2006: DATE
+Name City: GPE
+Analyze &: ORG
+G/L: ORG
+daily: DATE
+Communicate: ORG
+Receive & compute hours: ORG
+401: CARDINAL
+Paychex Prepare: ORG
+2002 - Jan 2005: DATE
+Name City: GPE
+Palm Desert National Bank: ORG
+350: CARDINAL
+ATM: ORG
+2.5 million: CARDINAL
+weekly: DATE
+Reconcile &: ORG
+Innobeta Systems: ORG
+Money Marketing, Inc.: ORG
+Prepare monthly Profit: ORG
+Loss: PERSON
+ATM World
+Corp.: ORG
+annual: DATE
+daily: DATE
+Translate: ORG
+ComNet ATM Series: PRODUCT
+Nextran Industries: ORG
+Chungho ComNet Co., Ltd.: ORG
+Bachelor of Business Administration: ORG
+August 2002: DATE
+TEMPLE UNIVERSITY City: ORG
+State 
+Accounting Audit Project: ORG
+Xerox Corp.: ORG
+Select Courses: Advance Accounting: WORK_OF_ART
+Accounting Information System: ORG
+Auditing & Assurance Services: ORG
+New York State: GPE
+117205: DATE
+APS (Accounting Professional Society: ORG
+Temple University: ORG
+2001 - 2002: DATE

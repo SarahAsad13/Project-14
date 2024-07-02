@@ -1,0 +1,86 @@
+26 months: DATE
+Lean Manufacturing: ORG
+Production Planning and Supply Chain Management: ORG
+Highlights
+Application Software: MS Office: WORK_OF_ART
+Minitab: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+Java: PERSON
+C++: GPE
+Process Mapping: PERSON
+JIT: ORG
+Intro: ORG
+Project Management: Project: ORG
+CPM: ORG
+PERT: ORG
+Production & Inventory Control:: ORG
+JIT: ORG
+Facility Planning: Designing: ORG
+Underwater Robot: Worked at: WORK_OF_ART
+IIT: ORG
+Bombay: GPE
+Technical Papers Inventory Management and Risk Pooling:: ORG
+Single Minute Exchange of Die: ORG
+Industrial Engineering Intern: ORG
+May 2015 to January 2016: DATE
+32%: PERCENT
+48%: PERCENT
+WIP: ORG
+Kaizen: PERSON
+5S: CARDINAL
+Kanban: ORG
+July 2013 to June 2014: DATE
+Siemens: ORG
+4: CARDINAL
+24: CARDINAL
+the assembly department: ORG
+Process Planning: ORG
+Forecasting: ORG
+Lean
+Manufacturing Practices: ORG
+Participate: ORG
+monthly: DATE
+Kaizen: PERSON
+Intern: ORG
+November 2012: DATE
+May 2013: DATE
+Maintain Gauge Calibration: ORG
+Awareness of ISO 9001:2008: ORG
+ISO: ORG
+Integrated Management: ORG
+HIRA: ORG
+May 2016: DATE
+University of Texas: ORG
+City: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.5: CARDINAL
+Industrial Engineering GPA: ORG
+3.5: CARDINAL
+Production & Inventory: ORG
+Bachelor of Engineering : Production Engineering Manufacturing: ORG
+July 2013: DATE
+Mumbai: GPE
+India: GPE
+GPA: ORG
+3.5: CARDINAL
+3.5: CARDINAL
+C++: PERSON
+Database: GPE
+Forecasting: GPE
+IMS: ORG
+ISO: ORG
+ISO
+9001: ORG
+Java: PERSON
+Lean Manufacturing: ORG
+MS Access: ORG
+Excel: PRODUCT
+MS Office: ORG
+PowerPoint: ORG
+Minitab: PERSON
+SAP: ORG
+Siemens: ORG
+4: CARDINAL

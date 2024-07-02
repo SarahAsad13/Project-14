@@ -1,0 +1,74 @@
+Mobile: ORG
+third: ORDINAL
+Decisive
+Competitive: WORK_OF_ART
+Creative and Innovative
+
+Increased: WORK_OF_ART
+XXX: PERSON
+Radian 6: DATE
+Name City: GPE
+Collaborated: ORG
+eight: CARDINAL
+Oversee: ORG
+Generate: PERSON
+PPC: ORG
+Name City: GPE
+100,000: MONEY
+Communicated: ORG
+Managed Site Core: ORG
+Community: ORG
+Twitter: PERSON
+Pinterest: ORG
+Google +: ORG
+Blog: PERSON
+01/2016 
+: PERSON
+Name City: GPE
+Twitter: PERSON
+UPS: ORG
+Google: ORG
+Logitech: ORG
+Zagat: ORG
+Frito Lay: PERSON
+Chicago: GPE
+New Jersey: GPE
+Atlanta: GPE
+Name City: GPE
+monthly: DATE
+SJ Magazine: ORG
+Name City: GPE
+first: ORDINAL
+Content: ORG
+Virtua.org: ORG
+VirtuaWoman.org: ORG
+Name City: GPE
+State: ORG
+The Virtua Voice: ORG
+HealthSavvy: PERSON
+Name City: GPE
+State: ORG
+The Virtua Voice: ORG
+annual: DATE
+Name City: GPE
+monthly: DATE
+Writer: PERSON
+Name City: GPE
+10/2003: CARDINAL
+Name City: GPE
+Bachelor of Science : Telecommunications: ORG
+May 2000: DATE
+Kutztown University City: ORG
+State: GPE
+USA: GPE
+Cum Laude
+
+: PERSON
+Cum Laude: PERSON
+AVID: PERSON
+Final Cut Pro: ORG
+Blogger: PRODUCT
+Apple/Mac: ORG
+Microsoft Office: ORG
+PPC: ORG
+Radian: NORP

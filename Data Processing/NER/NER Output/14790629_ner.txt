@@ -1,0 +1,46 @@
+toÂ: CARDINAL
+Leadership/Management: ORG
+Time: ORG
+FlexibleÂ 
+FriendlyÂ 
+Personable
+Persuasive
+Enthusiastic: WORK_OF_ART
+NASA: ORG
+Southwest AirlinesÂ  as: PERSON
+Collaborated: ORG
+Customer Support Company Name: ORG
+06/2013: CARDINAL
+Customer Support Company Name: ORG
+Build: GPE
+Evaluate: ORG
+Possess: ORG
+Coordinate: FAC
+Order: ORG
+06/2013: CARDINAL
+Processed: GPE
+Manage: PRODUCT
+Utilize Microsoft Office: ORG
+Coordinated: ORG
+07/2011: CARDINAL
+Demonstrate: ORG
+Oversee: ORG
+five: CARDINAL
+Verify: LOC
+first: ORDINAL
+FAA: ORG
+FAA: ORG
+Assist: NORP
+Assist: NORP
+Maintained: GPE
+Skills: ORG
+Customer Support: PERSON
+first: ORDINAL
+Inspect: GPE
+Leadership: PERSON
+Management Skills: PERSON
+Microsoft Office: ORG
+Research: ORG
+Time Management: ORG
+Anywhere Authorized: ORG
+US: GPE

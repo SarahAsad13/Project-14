@@ -1,0 +1,32 @@
+Microsoft Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Training: PERSON
+May 2016: DATE
+Bachelor of Science : Communications Public Relations Political Science SALEM STATE UNIVERSITY: ORG
+State Communications Public
+Relations Political Science
+Work: ORG
+OTF: ORG
+Sell: ORG
+08/2016: CARDINAL
+11/2016: CARDINAL
+Twitter: PERSON
+Intern Company Name: ORG
+Malden: GPE
+Malden: PERSON
+Researched: ORG
+Gained: NORP
+11/2013: CARDINAL
+06/2016: ORG
+Customer Service/Sales Representative Company Name: ORG
+Answer: LOC
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+salesforceÂ 
+
+: PERSON

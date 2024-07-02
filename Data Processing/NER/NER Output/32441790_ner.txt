@@ -1,0 +1,52 @@
+EDITOR: ORG
+Detail: PERSON
+Accurate: ORG
+Grant Management
+Budget Management
+Goal Planning
+Business and Office Administration: ORG
+Sep 2002: DATE
+State
+
+Human Resources Administration: ORG
+Orientation Presentations
+Excellent Organization Skills: ORG
+Proofreading Microsoft Office Products: ORG
+Customer: ORG
+Oversee: ORG
+Generate: PERSON
+Arrange: PERSON
+Network: ORG
+Jun 2012: PERSON
+Oct 2014: DATE
+State
+
+Financial Administration: ORG
+Insurances: ORG
+Monthly: DATE
+2006 to Feb 2009: DATE
+2003 to Jan 2006: DATE
+Coordinate: FAC
+Assist: NORP
+Immigration/Refugee: ORG
+Gosudarstvennyi Universitet: PERSON
+Kuban State University: ORG
+City: GPE
+Russia: GPE
+Russian Language and Literature/Editing/Public Relations: LOC
+English: LANGUAGE
+Russian: NORP
+Budget Management: ORG
+Contracts: ORG
+English: LANGUAGE
+Feature Articles: ORG
+Human Resources: ORG
+Layout and Design: ORG
+Microsoft: ORG
+OfficeProducts: PRODUCT
+Networking, Office Administration: ORG
+Organization Skills: ORG
+Proofreading, Publications: ORG
+QuickBooks, Recruitment: ORG
+Russian: NORP
+Workshops.: GPE

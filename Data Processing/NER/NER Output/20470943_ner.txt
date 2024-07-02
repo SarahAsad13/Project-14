@@ -1,0 +1,51 @@
+Microsoft Office: ORG
+Articulate: ORG
+Time: ORG
+Excel: PRODUCT
+Strong: PERSON
+Invoice: GPE
+Understands: PERSON
+Customer: ORG
+Payroll
+Mail: ORG
+Multi: GPE
+Google: ORG
+Adobe Illustrator
+Adobe InDesign: WORK_OF_ART
+Superb: PERSON
+25%: PERCENT
+50%-75%: PERCENT
+two year: DATE
+25: CARDINAL
+15%: PERCENT
+each month: DATE
+Process Improvement
+
+Created: WORK_OF_ART
+Current
+Administrative: ORG
+Calendar Management: WORK_OF_ART
+Calendar Management: ORG
+Assist: NORP
+monthly: DATE
+10/2010: DATE
+weekly: DATE
+25: CARDINAL
+09/2010: DATE
+01/2011: CARDINAL
+daily: DATE
+CAD: ORG
+daily: DATE
+Google Alerts: ORG
+First Fashion Night Out: ORG
+Anna Wintour: PERSON
+Kate Hudson: PERSON
+Hamptons Pop-Up Store: PERSON
+2015: DATE
+LIM College: ORG
+ï¼​ City: GPE
+Strong: PERSON
+Superior: LOC
+Adobe Illustrator: ORG
+English: LANGUAGE
+Spanish: NORP

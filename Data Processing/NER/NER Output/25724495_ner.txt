@@ -1,0 +1,122 @@
+REGIONAL: ORG
+Summary
+Holistic HR Professional: ORG
+5 years 7 months: DATE
+Human Resources: ORG
+2 years: DATE
+Aug 2015 to Dec 2016: DATE
+San Francisco Bay Area: LOC
+VISA: ORG
+Skills Staffing: WORK_OF_ART
+Microsoft Office: ORG
+HRIS: PERSON
+Boarding/Off-boarding Report Writing Employee: ORG
+Performance Management Accomplishments Recruited: LAW
+250: CARDINAL
+4 months: DATE
+RIBG: WORK_OF_ART
+ICICI Bank: ORG
+Female Workforce: WORK_OF_ART
+Bank: ORG
+Assisted: ORG
+Applicant Experience: WORK_OF_ART
+ICICI Bank: ORG
+Andhra Pradesh/Telangana: ORG
+Assets & Liability: ORG
+two: CARDINAL
+Role: PERSON
+Business Leaders: ORG
+PMS: ORG
+every month: DATE
+joinee tracker: PERSON
+monthly: DATE
+MIS: ORG
+Branch Visit: EVENT
+monthly: DATE
+Regional: ORG
+PowerPoint: ORG
+quarterly: DATE
+HRIS: ORG
+monthly: DATE
+Closing Performance Management: ORG
+the financial year: DATE
+Regional Heads: ORG
+Regional Heads: ORG
+Presenter: PERSON
+RCU: ORG
+Legal: ORG
+half: CARDINAL
+PMS: ORG
+May 2013 to Jun 2015: DATE
+HRIS: PERSON
+Performance Management: ORG
+Half: CARDINAL
+Normalization: WORK_OF_ART
+Talent Panels: WORK_OF_ART
+PMS: ORG
+May 2011: DATE
+Retail Banking Group: ORG
+Rural Inclusive Banking Group: ORG
+GOG: ORG
+Global
+Operations Group: ORG
+Payroll: ORG
+monthly: DATE
+PPT: ORG
+monthly: DATE
+Business Heads: ORG
+Recruitment Forecast Report: WORK_OF_ART
+Hirecraft: WORK_OF_ART
+ICICI Bank: ORG
+NIIT Leadership Program: ORG
+Bank: ORG
+PO Program: ORG
+Campus Recruitment -Visited: ORG
+MDI Gurgaon: PERSON
+IMT Ghaziabad: ORG
+ICFAI Gurgaon IIM Kashipur: ORG
+Mar 2010: DATE
+Jun 2010: PERSON
+Mass Mailing, Job Posting: WORK_OF_ART
+Coordinated &: ORG
+Training: PERSON
+MBA: WORK_OF_ART
+State: GPE
+India Human Resource
+Bachelor of Science , Electrical Engineering: ORG
+2009: DATE
+Bharati Vidyapeeth College Of Engineering ï¼​ City: ORG
+State: GPE
+India Electrical Engineering: ORG
+Completed Diploma: ORG
+3 years: DATE
+3rd: ORDINAL
+Inter: NORP
+SEEDS: ORG
+10: CARDINAL
+health & literacy awareness: ORG
+Outstanding Contribution to Society: WORK_OF_ART
+SEEDS: ORG
+Skills
+Banking, Closing: ORG
+Employee Relations: ORG
+HRIS: ORG
+MBA: WORK_OF_ART
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+MIS: ORG
+Payroll: ORG
+People Soft: PERSON
+Performance Management: ORG
+Performance Management: ORG
+Presenter: PERSON
+Recruitment: PERSON
+Report Writing: PERSON
+Retail: GPE
+3 years: DATE
+3rd: ORDINAL
+Inter: NORP
+SEEDS: ORG
+10: CARDINAL
+Outstanding Contribution to Society: WORK_OF_ART
+SEEDS: ORG

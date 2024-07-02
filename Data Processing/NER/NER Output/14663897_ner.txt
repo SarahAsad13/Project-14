@@ -1,0 +1,33 @@
+National Registry of Food Safety Professionals Certified Food Safety: ORG
+National Registry of Food Safety Professionals Test Administrator/Proctor
+Education: ORG
+1991: DATE
+Newington High School ï¼​ City: ORG
+Passionate Chef: ORG
+P&L: ORG
+Systematically: ORG
+hourly: TIME
+Established: ORG
+Quickly: ORG
+daily: DATE
+50: CARDINAL
+25%: PERCENT
+2015: DATE
+Order: ORG
+Determine: PERSON
+Prepare: ORG
+Demonstrate: ORG
+Cook: PERSON
+Compile: PRODUCT
+one: CARDINAL
+Bake: PERSON
+season: DATE
+2015: DATE
+Schedule: PERSON
+hours: TIME
+Order: ORG
+Recruit: ORG
+Restaurant / Kitchen & Bar Manager: ORG
+2009: DATE
+2012: DATE
+State: ORG

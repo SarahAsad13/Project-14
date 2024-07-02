@@ -1,0 +1,70 @@
+5 year: DATE
+Environmental Microbiology: ORG
+Food Microbiology, Medical Microbiology: ORG
+Conflict: PERSON
+Critical: ORG
+Hardworking Professional Summary Education: ORG
+December 2009 to October 2013: DATE
+Computed: PERSON
+Performed: ORG
+Inspected: ORG
+Coordinated: PRODUCT
+Planned: PERSON
+Processed: GPE
+Controlled: PRODUCT
+the Remote Processing Station: ORG
+RPS: ORG
+Customer Care/Public Relation: ORG
+March 2009 to October 2009: DATE
+Laboratory/Research: ORG
+August 2006 to October 2006 Company Name: DATE
+Ibadan: NORP
+Research: ORG
+Intern: ORG
+February 2006 to July 2006 Company Name: DATE
+100%: PERCENT
+NAFDAC: ORG
+Inspected Industrial Equipment Professional Experience Participated: ORG
+2014: DATE
+National University ï¼​ City: ORG
+State: GPE
+United States Public Health (Mental Health) Study: ORG
+Community and Public Health: ORG
+Health and Human Services: ORG
+Health Service: ORG
+Global Health, Environmental Health: ORG
+Epidemiology and Biostatistics: ORG
+Bachelor of Science : Healthcare Management: ORG
+2013: DATE
+Park University: ORG
+State: GPE
+United States Healthcare Management Study: ORG
+Economics, Financial management: ORG
+Legal: GPE
+Associate of Arts: ORG
+2009: CARDINAL
+Air University: ORG
+State: GPE
+United States Logistics Study: ORG
+Bachelor of Science: ORG
+2008: DATE
+Ladoke Akintola University: ORG
+State: GPE
+Nigeria Applied Biology (Microbiology) Study: PERSON
+Certifications: ORG
+Microsoft: ORG
+MCP: ORG
+2000: CARDINAL
+Database Administrator SAP Business Object Business Intelligence 4.0: ORG
+Skills: ORG
+Business Intelligence 4.0: ORG
+Database: GPE
+Economics, Financial management: ORG
+Legal: GPE
+Logistics: ORG
+Microsoft: ORG
+Professional: GPE
+MCP: ORG
+Research: ORG
+SAP: ORG
+SQL 2000: ORG

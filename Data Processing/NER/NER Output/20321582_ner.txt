@@ -1,0 +1,59 @@
+EXECUTIVE CHEF
+Professional Summary
+
+A Dynamic: ORG
+Hospitality Suite: PERSON
+Payroll: ORG
+ServSafe Certification
+High: PRODUCT
+Sysco/U.S Foods: ORG
+Problem: PRODUCT
+Strong: PERSON
+Monitored: ORG
+weekly: DATE
+Executive Chef 08/2012: PRODUCT
+the Food and Beverage: ORG
+Established: ORG
+daily: DATE
+$15 million: MONEY
+Sous Chef/Interim Executive Chef 01/2009: ORG
+08/2012: CARDINAL
+$3 million: MONEY
+BOH: ORG
+daily: DATE
+FMS: ORG
+Maintained: GPE
+daily: DATE
+Created: ORG
+HACCAP: ORG
+Created: ORG
+10/2005: CARDINAL
+Coordinated: ORG
+Knowledge of Food Service Management Focused: ORG
+Conflict Resolution: ORG
+Ordering Assisted: PERSON
+FMS 4.0 Featured: LAW
+Mediterranean: LOC
+Associate of Arts: ORG
+2005: DATE
+Savannah Technical University - City: ORG
+3.5: CARDINAL
+GPA: ORG
+10%: PERCENT
+Patisserie and Confectionery, International Cuisine :: ORG
+2002: DATE
+Conflict Resolution: PERSON
+Training: PERSON
+Focus: ORG
+Inventory: GPE
+Leadership Skills: PERSON
+Director: PERSON
+2011: DATE
+Sodexo New Recipes Contest: ORG
+2013: DATE
+Kentucky: GPE
+Legendary: GPE
+Award Winner: PERSON
+First: ORDINAL
+National Food Service Audits: ORG
+two years: DATE

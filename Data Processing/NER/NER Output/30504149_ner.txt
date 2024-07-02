@@ -1,0 +1,69 @@
+Digital Strategy: ORG
+Influencer Engagement: PERSON
+CPG: ORG
+Henkel: ORG
+Digital Marketing Manager - 170000NU: ORG
+02/2015: ORG
+12/2016: CARDINAL
+12 months: DATE
+$6 million: MONEY
+Clients of Note: Revlon: WORK_OF_ART
+Elizabeth Arden: PERSON
+Remington: GPE
+Allergan: GPE
+02/2015: PERSON
+Dentsu Aegis Company Name: ORG
+B2C / B2B programs
+: ORG
+Created: ORG
+Arkansas: GPE
+NYC: LOC
+Chicago: GPE
+3: CARDINAL
+250k: MONEY
+over $1million: MONEY
+Walmart: ORG
+P&G: ORG
+Hilton Hotels: ORG
+Cracker Barrel: PERSON
+digital channels & social media strategy: ORG
+Developed &: ORG
+social plans & content marketing efforts: ORG
+new offerings &: ORG
+WOM: ORG
+first year: DATE
+Clients of Note: Disney: WORK_OF_ART
+General Mills: ORG
+Burger King: ORG
+Digital Content Company Name: ORG
+State: ORG
+Oversaw: GPE
+$6+ million dollar: MONEY
+LA: GPE
+Seattle: GPE
+Chicago: GPE
+New York: GPE
+mentoringÂ 
+Clients: ORG
+Starbucks: ORG
+Ebay: ORG
+Unilever: ORG
+Pepsico: ORG
+Microsoft: ORG
+CNN: ORG
+Cable Ace: PERSON
+1989/96: CARDINAL
+CNN.com - Original: ORG
+CNN.comÂ 
+WIRED +: PERSON
+1996/97: CARDINAL
+1997/98: CARDINAL
+Education: ORG
+1987: DATE
+Bachelor of Science : Journalism UCM ï¼​ City: ORG
+State: GPE
+USA: GPE
+10-15 + years: DATE
+Print: GPE
+CPM: ORG
+CRM: PRODUCT

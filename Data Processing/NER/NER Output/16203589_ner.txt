@@ -1,0 +1,63 @@
+PROJECT & CONSTRUCTION: ORG
+CAD: ORG
+Best Practices: PERSON
+Detail: PERSON
+Accurate: ORG
+Schedule: PERSON
+Leadership: PRODUCT
+Restored: ORG
+Facilitated: ORG
+8: CARDINAL
+9: CARDINAL
+Five: CARDINAL
+Egypt: GPE
+first: ORDINAL
+five: CARDINAL
+August 2014 to April 2016: DATE
+Project & Construction: ORG
+State Assisted: ORG
+daily: DATE
+Facilitate: ORG
+January 2012 to January 2014: DATE
+U.S.: GPE
+Ashley: ORG
+January 2004 to January 2011: DATE
+2008-2011: DATE
+January 2004 to January 2008: DATE
+Permit Coordinator: ORG
+more than 70: CARDINAL
+International Academy of Design and Technology City: ORG
+State Interior Design: ORG
+International Academy of Design: ORG
+WLC: ORG
+2003: DATE
+first: ORDINAL
+WLC: ORG
+month-long: DATE
+Soldiers: ORG
+Sergeant: PERSON
+Ohio State University Sports and Fitness Management City: ORG
+State: ORG
+Franklin
+Military Experience
+Company: ORG
+July 1998 to September 2007: DATE
+Field Artillery: PERSON
+State Records: ORG
+PADS: ORG
+Operates: NORP
+Skills
+Auto CAD: ORG
+Great Leadership Skills: ORG
+Operation Monitoring,Â Management of Material Resources: ORG
+Management of Personnel Resources: ORG
+Time Management: ORG
+Â Complex Problem Solving: ORG
+Â Critical Thinking: ORG
+Â Active Listening: ORG
+Contribute: ORG
+Working Within Budget, Creative &
+Resourceful, Hard Working: ORG
+Microsoft Office: ORG
+Outlook, Excel & Most Other Office Programs: ORG
+Detailed Knowledge: PERSON

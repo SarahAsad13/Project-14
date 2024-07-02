@@ -1,0 +1,93 @@
+OSP ENGINEERING: ORG
+OSP Engineering Designer: ORG
+OCalc: ORG
+OCalc: ORG
+Created: ORG
+Created: ORG
+National Electrical Safety Code Standards: ORG
+BSTCAD: GPE
+MicroStation: ORG
+AutoCad: ORG
+06/2014 to 12/2014: CARDINAL
+Connect America Fund Deployment: ORG
+Created: ORG
+MicroStation: ORG
+Windstream: FAC
+Outside Plant Engineering: ORG
+Coordinated: ORG
+Assisted: ORG
+Assisted: ORG
+FTTT: ORG
+RT and Cell Sites: ORG
+Windstream: FAC
+RUS Engineering Methods: WORK_OF_ART
+Procedures and Codes: WORK_OF_ART
+Project: ORG
+Completed: ORG
+MicroStation: ORG
+Collaborated: ORG
+Keyed: GPE
+monthly: DATE
+OSP Engineering Designer: ORG
+OCalc: ORG
+OCalc: ORG
+Created: ORG
+Created: ORG
+National Electrical Safety Code Standards: ORG
+BSTCAD: GPE
+MicroStation: ORG
+AutoCad: ORG
+06/2014 to 12/2014: CARDINAL
+Connect America Fund Deployment: ORG
+MicroStation: ORG
+Windstream: FAC
+Outside Plant Engineering: ORG
+Coordinated: ORG
+Assisted: ORG
+Assisted: ORG
+FTTT: ORG
+RT and Cell Sites: ORG
+Windstream: FAC
+RUS Engineering Methods: WORK_OF_ART
+Procedures and Codes: WORK_OF_ART
+Project: ORG
+Completed: ORG
+MicroStation: ORG
+Collaborated: ORG
+Keyed: GPE
+monthly: DATE
+2007: DATE
+Continental Academy - City: ORG
+Telecom: GPE
+10 years': DATE
+Telecom: GPE
+Highly: PERSON
+Adaptive: ORG
+Customer: ORG
+Customer: ORG
+AutoCad: ORG
+Safety
+Contracts: ORG
+Clientele: ORG
+Telephone
+Customer: ORG
+Designing
+Drafting
+Engineer
+Logistics
+Notes
+Memory
+Outlook
+MicroStation
+Negotiator
+Organizational
+Persuasive
+Processes
+
+AutoCad: WORK_OF_ART
+Cold Calling: ORG
+Customer: ORG
+Customer: ORG
+MicroStation: ORG
+Persuasive: ORG
+Telecom: GPE

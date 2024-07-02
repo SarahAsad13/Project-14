@@ -1,0 +1,87 @@
+10 years: DATE
+Highlights
+
+Meeting: WORK_OF_ART
+May 2016: DATE
+Current Company Name: ORG
+Research: ORG
+Prepare: ORG
+Develop: ORG
+Network: ORG
+User Groups, Associations: ORG
+Trade Shows: ORG
+the Business Development: ORG
+the Customer Relationship Management Software: ORG
+CRM-Zoho: PRODUCT
+Ballet: ORG
+Barre Instructor: PERSON
+August 2014 to August 2015: DATE
+Ballet: GPE
+Ballet: GPE
+Belle: GPE
+Highland Park High School
+
+Real Estate Professional: FAC
+July 2014: DATE
+over 2 million dollars: MONEY
+70%: PERCENT
+Created: ORG
+Barre: PERSON
+January 2013 to January 2016: DATE
+State
+
+Guided: ORG
+Grew: PERSON
+January 2012: DATE
+Current Company Name: ORG
+the Sub List: EVENT
+Studio Six: EVENT
+Larry North: PERSON
+Dallas Country Club: ORG
+March 2011 to July 2014: DATE
+over 1.5 million dollars: MONEY
+75%: PERCENT
+Created: ORG
+Barre: PERSON
+January 2011: DATE
+Cleaned: ORG
+October 2004 to January 2010: DATE
+Account: ORG
+Created: ORG
+Ntreis: GPE
+North Texas Real Estate Information Services
+Proficient: ORG
+Smart Locating Apartment Data
+Proficient: ORG
+Zumper: GPE
+Craigslist: NORP
+Microsoft: ORG
+Word: PERSON
+Excel: PRODUCT
+Powerpoint
+Proficient: ORG
+Microsoft Office Suite
+Proficient: ORG
+CRM - Zoho
+Excels: PRODUCT
+In-Kind Donations: ORG
+Public Presentation/Speaking: EVENT
+weekly: DATE
+Education: ORG
+Birmingham Southern College: ORG
+Birmingham: GPE
+AL
+: PERSON
+24 Hour Club: TIME
+The Junior League: ORG
+Dallas: GPE
+the Dallas Council on Drug and Alcohol Abuse Campaign: ORG
+previous years: DATE
+$37,000 - $75,000: MONEY
+Presbyterian Hospital Weekly Volunteer: ORG
+11/2013 - Present: DATE
+Symphony League: ORG
+University Park Association: ORG
+The Magdalena House: ORG
+Green House Treatment Center
+The Bridge Homeless Shelter: ORG

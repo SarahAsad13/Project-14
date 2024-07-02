@@ -1,0 +1,15 @@
+Excel: PRODUCT
+Power Point: ORG
+Safety Intern Company Name - City: ORG
+Material Safety
+Data Sheet to Safety Data Sheet: ORG
+GHS: ORG
+December 2015: DATE
+Pennsylvania - City: GPE
+State Occupational Safety and Environmental Health Applied Engineering Emergency Management: ORG
+American Society of Safety Engineers: ORG
+February 2015: DATE
+Skills: ORG
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG

@@ -1,0 +1,47 @@
+BUSINESS DEVELOPMENT: ORG
+Professional Summary
+Innovative: ORG
+10 years: DATE
+Training: PERSON
+2003: DATE
+Health Management and Marketing California State University of Hayward ï¼​ City: ORG
+State: ORG
+United
+States: GPE
+Critical: ORG
+Problem: PRODUCT
+Billing
+Attention: ORG
+Interviewing
+Strategic: PERSON
+Multi: GPE
+Skills
+Â Proficient: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+Outlook Express: ORG
+Â Optimizer: PERSON
+WFX: ORG
+Stafferlink: PERSON
+Healthtrust: GPE
+Bullhorn: PERSON
+State: ORG
+Generate: PERSON
+Demonstrate: ORG
+HIPAA Privacy and Security Regulations: ORG
+Coach: ORG
+Respond Onboard: PERSON
+05/2003: CARDINAL
+08/2008
+Staffing Coordinator Company Name: WORK_OF_ART
+State Created: ORG
+CPR: ORG
+05/2003: CARDINAL
+08/2008
+Staffing Manager Company Name: WORK_OF_ART
+State: ORG
+Â Generate: PRODUCT
+HIPAA Privacy and Security Regulations: ORG
+Coach: ORG

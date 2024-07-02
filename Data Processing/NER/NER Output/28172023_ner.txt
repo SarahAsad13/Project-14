@@ -1,0 +1,40 @@
+Business Administration: ORG
+Eye: ORG
+Verbal: ORG
+Time: ORG
+10/2015: CARDINAL
+Changed: ORG
+Created: ORG
+Emphasized: PERSON
+10/2014: CARDINAL
+10/2015: CARDINAL
+Maintained: GPE
+Established: ORG
+monthly: DATE
+10/2014: CARDINAL
+Oversaw: GPE
+overnight: TIME
+5: CARDINAL
+weekly: DATE
+November 2015: DATE
+Business Administration AIB College of Business ï¼​ City: ORG
+State Business Administration: ORG
+May 2014: DATE
+Business Administration Des Moines Area Community College: ORG
+State Business Administration: ORG
+Iowa: GPE
+March 16th, 1993: DATE
+Present Resident: WORK_OF_ART
+Knoxville: GPE
+Iowa: GPE
+Hiking, Biking, Reading, Writing
+
+Skills: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+March 2015: DATE
+Marion County Humane Society: FAC
+Knoxville: GPE
+Iowa: GPE

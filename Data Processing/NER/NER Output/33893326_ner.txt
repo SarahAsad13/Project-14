@@ -1,0 +1,86 @@
+JR: PERSON
+Media Buying and Optimization: ORG
+September 2011: DATE
+Milan: GPE
+Calvin Klein: PERSON
+20th Century Fox, Luxottica, Paypal: DATE
+Indesit: PERSON
+Panasonic: ORG
+Pernod Ricard: PERSON
+Burberry: PERSON
+Fastweb: PERSON
+Allianz: ORG
+Digital: ORG
+January 2014: DATE
+Affiliation Marketing Agency: ORG
+Poinx: PRODUCT
+Utet: ORG
+Compara Meglio: PERSON
+Photobox: PRODUCT
+Microsoft: ORG
+AdRelevance: PERSON
+Nielsen Audiweb: PERSON
+Amnet: PERSON
+Strategies: ORG
+JR: ORG
+Jan 2014 to Mar 2014: DATE
+http://www.clickpoint.com/it/ Clickpoint: PERSON
+Digital Marketing Company: ORG
+DEM: ORG
+JR Digital Media Planner: ORG
+Aegis Media: PERSON
+Constant: PERSON
+Analysis: PRODUCT
+Oct 2011 to Nov 2011: DATE
+3: CARDINAL
+Milan: GPE
+Art Studio: PERSON
+3: CARDINAL
+Integrated Marketing Communication Agency: ORG
+Telemarketing: PERSON
+Customers: ORG
+Popolare: NORP
+Assistance: PERSON
+the financial department: ORG
+Digital & Social Media Marketing: ORG
+May 2014: DATE
+Digital-Coach Institute Digital & Social Media Marketing: ORG
+Diploma , Accounting: ORG
+June 2007: DATE
+Coder: ORG
+ECDL European Computer Driving Licence Certificate: ORG
+June 2007: DATE
+Istituto Tecnico Commerciale: ORG
+G. Maggiolini - Milan: PERSON
+December 2013: DATE
+3: CARDINAL
+June 2007: DATE
+Advertising and Public Relations: ORG
+July 2011: DATE
+DIGITAL: ORG
+SEM & Display Advertising: ORG
+E-Commerce: ORG
+Mobile & Social Commerce: ORG
+Email Marketing: PERSON
+Inbound Marketing & Lead Generation: ORG
+Italian: NORP
+Italian: NORP
+English: LANGUAGE
+Spanish: NORP
+Interests
+Gym, Skiing, Travel: ORG
+Dance
+Personal Information
+Skype: ORG
+2 August 1988: DATE
+2 August 1988: DATE
+ART: PERSON
+Agency: ORG
+Branding: ORG
+E-Commerce: ORG
+Email: GPE
+English: LANGUAGE
+Italian: NORP
+Mathematics: NORP
+Spanish: NORP
+Telemarketing: PERSON

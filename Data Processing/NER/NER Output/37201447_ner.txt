@@ -1,0 +1,77 @@
+Seasoned Agriculture: WORK_OF_ART
+more than 20 years: DATE
+FFA: ORG
+Credit Recovery Programs: ORG
+Covina High School: ORG
+Bloomington High School: ORG
+Adult Education Program: ORG
+the Colton Joint Unified School District: ORG
+Name City: GPE
+State Adult Education Instructor: ORG
+Current Developed: PERSON
+Name City: GPE
+State Agriculture/Credit Recovery: ORG
+Parent Communication Regularly: ORG
+year: DATE
+Created: ORG
+80%: PERCENT
+Name City: GPE
+80%: PERCENT
+Cal Poly: PERSON
+Pomona Pomona: PERSON
+CA: GPE
+USA Community Involvement Been: ORG
+Desert Challengers: PERSON
+the last 12 years: DATE
+Material Development
+
+Created: ORG
+Adult: ORG
+EducationÂ: CARDINAL
+Lesson Planning:
+
+Introduced: ORG
+Subject Matter Authorization in Science: Science: ORG
+Crosscultural Language and Academic Dev: ORG
+2005: DATE
+University Of San Diego: EVENT
+State: ORG
+USA Crosscultural
+Language: ORG
+Cert
+Bachelor of Science : Agriculture Education: PERSON
+1995: DATE
+Affiliations
+National Education Association: ORG
+NEA: ORG
+1995: DATE
+1995: DATE
+Skills
+
+Excellent classroom managementÂ 
+: ORG
+Ag: ORG
+Innovative: NORP
+Advise: PRODUCT
+Community Service
+
+Blooming FFA: ORG
+Bloomington FFA: PERSON
+Thanksgiving Food Baskets: ORG
+25: CARDINAL
+Christmas: DATE
+Thanksgiving: EVENT
+4H: CARDINAL
+Desert Challengers: PERSON
+Phelan Roadrunners: PERSON
+Mojave Greens: PERSON
+the Builders Club: ORG
+the Veterans Dinner
+
+Additional Information
+
+Material Development - created college: ORG
+Process Improvement: ORG
+Plan Develop: ORG
+Parent Communication - Regularly: WORK_OF_ART
+year: DATE

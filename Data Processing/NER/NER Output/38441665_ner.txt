@@ -1,0 +1,50 @@
+15 years: DATE
+Budget: ORG
+Compensation: ORG
+Poilcy: GPE
+Certified Public Accountant: ORG
+Philippines: GPE
+Oracle Financials: ORG
+Microsoft Office: ORG
+Microsoft Dynamics: ORG
+Peach Tree Accounting: ORG
+Problem: PRODUCT
+Schedule: ORG
+Strategic
+Good: PRODUCT
+Customer: ORG
+Finance: ORG
+June 2003 to January 2014: DATE
+Reviews: NORP
+Reviews: ORG
+IFASB: ORG
+Handles: ORG
+Reviews: PRODUCT
+Reviews: PRODUCT
+Reviews: NORP
+Corporate: ORG
+Board of Directors: ORG
+October 2000: DATE
+May 2013: DATE
+Consolidates: PRODUCT
+Reviews: NORP
+Oversee: ORG
+Ensures: LOC
+Reviews: NORP
+January 1999 to October 2000: DATE
+State
+
+Prepare: ORG
+Process: PRODUCT
+Bachelor of Science : Accountancy: ORG
+1997: DATE
+Miriam College Foundation Inc: ORG
+State: GPE
+Philippines: GPE
+Philippine Institute of Certified Public Accountants: ORG
+PIPCA: ORG
+2000: DATE
+Microsoft Dynamics: ORG
+Microsoft Office: ORG
+Oracle Financials: ORG
+Peach Tree: PERSON

@@ -1,0 +1,59 @@
+PATIENT ACCESS REP: ORG
+Network: ORG
+Epic: ORG
+Epic: ORG
+LSU Medical Science Center: ORG
+FMOL Health System: ORG
+Acted: ORG
+Application Analyst: ORG
+LSU Medical Science
+
+Experience
+: ORG
+Notifies: ORG
+Geek Squad Consultation: ORG
+Name City: GPE
+Microsoft Operating Systems: ORG
+Name City: GPE
+AT&T: ORG
+Analyst 10/2011 to: DATE
+Name City: GPE
+Epic: ORG
+Epic: ORG
+Troubleshoot: ORG
+12/2011: CARDINAL
+State: ORG
+over 5,000: CARDINAL
+Setup: ORG
+Electronic Medical Records
+
+Computer Asst/Functional Adm. 06/2001: ORG
+03/2007 Company Name City: ORG
+Remedy: PERSON
+FootPrints: ORG
+morning: TIME
+Bachelor of Science : Computer Information Systems Telecommunication Systems: ORG
+2008: DATE
+Tulane University City: EVENT
+State: GPE
+USA: GPE
+2002: DATE
+State: GPE
+USA: GPE
+United States Navy: ORG
+Adobe Dreamweaver: PERSON
+Skills: ORG
+disc backups: PERSON
+Electronic Medical Records: ORG
+Adobe Flash: PERSON
+HTML: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Operating Systems: ORG
+PowerPoint: ORG
+Word: PERSON
+LAN/WAN/Enterprise: ORG
+TCP/IP: ORG
+IBM: ORG
+HTML Website Design: ORG
+Candidate Project Management Professional: ORG

@@ -1,0 +1,99 @@
+40 years: DATE
+Petrochemical: ORG
+Petrochemical: ORG
+LPG Storage Facility: ORG
+Polyethylene Plants: PERSON
+Pipeline Pumping: ORG
+Pulp & Paper: ORG
+Sulfur Recovery Units: ORG
+Storage Tanks: ORG
+Fire Water Systems: ORG
+Name City: GPE
+the Enterprise Front Range Pipeline Project: ORG
+3: CARDINAL
+Kiowa Colorado: FAC
+Skellytown Texas: FAC
+8: CARDINAL
+3: CARDINAL
+5: CARDINAL
+Equipment Arrangements: GPE
+PFD: ORG
+Principal Piping Designer 08/2008: ORG
+Name City: GPE
+Equipment Arrangements: GPE
+PFD: ORG
+weekly: DATE
+2013: DATE
+the Alky 1 & 2 ARN Scrubber Replacement Project: ORG
+Pasadena: GPE
+Texas: GPE
+the Sterling Chemicals - Water Neutralization System - WHIP LITE Project: ORG
+Bentley: ORG
+Principal Piping Designer: ORG
+Name City: GPE
+the Clean Fuels Project Vapor Recovery System: ORG
+Bakersfield: GPE
+California: GPE
+Principal Piping Designer 06/2006: ORG
+the ExxonMobil Refinery - BTRF / DCU De-bottleneck: ORG
+pdf: ORG
+the Coatings Unit: ORG
+CAS: ORG
+the Coatings Unit: FAC
+04/2006: CARDINAL
+Name City: GPE
+HCU: ORG
+California: GPE
+the Sinclair Refinery: ORG
+Sinclair Wyoming: GPE
+12/2001: CARDINAL
+Name City: GPE
+the Premcor Task Force: ORG
+Premcor: PERSON
+Port Arthur Texas: FAC
+Motiva Enterprises: ORG
+Port Arthur Texas: FAC
+the SRU4 Cope Burner Project: ORG
+Burner: PERSON
+Furnace: PERSON
+Steam Boiler: PERSON
+Condenser: PERSON
+two
+weeks: DATE
+11/1987: CARDINAL
+12/2001: CARDINAL
+Name City: GPE
+the HTU Revamp Project: ORG
+second: ORDINAL
+Lube Train: WORK_OF_ART
+HTU: ORG
+HTU: ORG
+Matrix Engineering: ORG
+Motiva: PERSON
+Petrocon: GPE
+1 year: DATE
+11/1978: CARDINAL
+Name City: GPE
+5: CARDINAL
+5: CARDINAL
+Motiva: ORG
+03/1977: CARDINAL
+11/1978: CARDINAL
+Name City: GPE
+Mobil Oil Refinery: ORG
+Beaumont: GPE
+Texas: GPE
+03/1977: CARDINAL
+Name City: GPE
+Name City: GPE
+1971: DATE
+Chenier Business College City: ORG
+Cadworx: PERSON
+Autodesk Vault: PERSON
+Navisworks: GPE
+Microstation, & Flexcad: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Powerpoint: PRODUCT
+Access: CARDINAL

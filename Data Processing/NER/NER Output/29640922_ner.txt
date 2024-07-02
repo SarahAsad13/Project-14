@@ -1,0 +1,113 @@
+COLOUR: ORG
+Color: ORG
+PLM: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Lotus Notes: ORG
+Adobe Illustrator: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Adobe Illustrator
+Accomplishments: WORK_OF_ART
+Athleta: PERSON
+$565 million: MONEY
+Athleta: PERSON
+State
+
+Office Choosing: ORG
+PMS: ORG
+Visual Evaluation: ORG
+Colour Technician & Label /Trims: ORG
+PMS: ORG
+Senior Color Analyst Company Name: ORG
+Athleta: PERSON
+$565 Million: MONEY
+Provide Color: ORG
+the Athleta Brand: ORG
+Provide Fabric Dye: PERSON
+Merchandising: PRODUCT
+Assist: NORP
+Archroma: GPE
+CSI & Pantone: ORG
+PMS: ORG
+Designers: GPE
+Coats & AE: ORG
+Global Color: ORG
+Gap Inc.: ORG
+Monthly: DATE
+UV Calibration: ORG
+Color: ORG
+Data: ORG
+Old Navy: ORG
+Gap: ORG
+Gap Outlet: ORG
+Banana Republic: GPE
+Banana Republic Factory Store: GPE
+Provide Color: ORG
+GIS Americas: ORG
+Provide Global Color & Sr.: ORG
+quarterly: DATE
+Assist GAP & Banana Republic Denim: ORG
+PMS: ORG
+GAP: ORG
+Banana Republic: ORG
+Banana Republic: ORG
+Cross: ORG
+Coats & AE: ORG
+GAP: ORG
+Banana Republic and Old Navy: GPE
+Global Color: ORG
+Gap Inc.: ORG
+In-Store: WORK_OF_ART
+GAP Inc.: ORG
+Monthly: DATE
+UV Calibration: ORG
+Data: ORG
+Global Metrics: ORG
+Womens Apparel Color Analyst Company Name: ORG
+Sears: ORG
+Nevada: GPE
+Jessica: PRODUCT
+Jessica Sport: PERSON
+Attitude: GPE
+La Redoute: ORG
+Creating Labels/Hang: PERSON
+Clariant: ORG
+Data: ORG
+Quarterly Metrics: ORG
+May 2001: DATE
+Richard Robinson Academy of Fashion Design: PERSON
+Fashion Ryerson University: ORG
+State: ORG
+Canada: GPE
+May 2000: DATE
+Richard Robinson-Academy of Fashion Design: PERSON
+State: GPE
+Canada: GPE
+Project Management Courses -ECornell: ORG
+Cornell University: ORG
+Time Management Course- ECornell: ORG
+Cornell University: ORG
+Adobe Illustrator: ORG
+Calibration, Color: ORG
+Data: ORG
+Fashion: ORG
+GIS: ORG
+Leadership: PERSON
+Logos: PERSON
+Lotus Notes: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Navy: ORG
+Organizing: GPE
+PLM: ORG
+Project Management: ORG
+Quality Assurance: ORG
+Technician: NORP
+Time Management: ORG

@@ -1,0 +1,60 @@
+the Banking/Lending: ORG
+22+ years: DATE
+13 years: DATE
+Commercial Real Estate: ORG
+7 years: DATE
+2 years: DATE
+SBA: ORG
+Highlights: GPE
+Excel: PRODUCT
+Word: PERSON
+Outlook: PERSON
+Alchemy: PERSON
+Fidelity
+Ability: ORG
+Borrowers: EVENT
+Order: ORG
+Documentation and Disbursement: ORG
+Borrower: PERSON
+Loan: ORG
+Process Material Change Forms: ORG
+04/2009: CARDINAL
+04/2012: CARDINAL
+Loan: ORG
+Loan File: ORG
+Payoffs: ORG
+Lieu: GPE
+FDIC: ORG
+OREO: ORG
+Order: ORG
+Pre-Litigation Analysis: ORG
+03/2004 to 05/2008: CARDINAL
+quarterly: DATE
+annual: DATE
+Assist: NORP
+Loan: ORG
+05/2003: CARDINAL
+Loan File: ORG
+03/2003: CARDINAL
+Store/Area Manager Company Name: ORG
+6-10: CARDINAL
+6-10: CARDINAL
+2011: CARDINAL
+State Anatomy/Physiology and Psychology: ORG
+2000: DATE
+State Business: ORG
+1988: DATE
+Diploma: GPE
+State: ORG
+2007: DATE
+Financial Analyst: ORG
+Skills: ORG
+Customer Service: ORG
+Documentation: ORG
+Fashion: ORG
+Financial Analyst: ORG
+Litigation: ORG
+Excel: PRODUCT
+Outlook, Windows: ORG
+Word: PERSON
+Tax: PERSON

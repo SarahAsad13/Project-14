@@ -1,0 +1,87 @@
+US: GPE
+six years: DATE
+NYC: LOC
+Italian: NORP
+IACP: ORG
+Afield: PERSON
+James Beard Nominated: PERSON
+Off the Menu: WORK_OF_ART
+Primal Cuts: GPE
+America: GPE
+JustFood.org: ORG
+Jessica Gaffney: PERSON
+Napa: ORG
+Chicago: GPE
+Highlights
+Worked: WORK_OF_ART
+JustFood.org: ORG
+Ark Endeavors: PERSON
+Garnered: PERSON
+six years: DATE
+Created: ORG
+hundreds: CARDINAL
+Chicago: GPE
+50: CARDINAL
+Italian: NORP
+50: CARDINAL
+Napa: ORG
+JustFood.org: ORG
+GoogaMooga: ORG
+Thrillist: NORP
+The Culinary Road Trip: ORG
+LA: ORG
+April 2015: DATE
+Current Owner 
+City: PERSON
+Boulder: GPE
+MailChimp: ORG
+Cision: ORG
+Example Press Placements: ORG
+Inside Edition: ORG
+New York Daily News: ORG
+September 2014 to May 2015: DATE
+Researched: ORG
+Example Press Placements: ORG
+The Boston Globe: ORG
+Time Magazine: ORG
+The Daily Mail: ORG
+New York Daily News: ORG
+NPR Marketplace: ORG
+Forbes: ORG
+Today.com: ORG
+Women's Health, Success Magazine: ORG
+March 2014 to September 2015: DATE
+State
+
+Logistics: ORG
+Thrillist Media Group: ORG
+Mixxtails Man Cave: PERSON
+Bud Light: PRODUCT
+March 2014 to September 2014: DATE
+annual: DATE
+three hundred: CARDINAL
+March 2013 to March 2014: DATE
+UX: ORG
+UI: ORG
+June 2009 to March 2013: DATE
+Google: ORG
+Random House: ORG
+Conferred: ORG
+Associate Publisher: ORG
+Example Press Placements: ORG
+NPR: ORG
+The Splendid Table: WORK_OF_ART
+Jamie Magazine: PERSON
+The New York Times: ORG
+Wall Street Journal: ORG
+Washington Post: ORG
+June 2008 to: DATE
+April 2010: DATE
+Social Media: ORG
+Deborah Madison: PERSON
+St. John's College 2009: ORG
+The Great Books of Western Civilization: EVENT
+Affiliations: ORG
+Skills
+
+Event management: ORG

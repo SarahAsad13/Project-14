@@ -1,0 +1,53 @@
+OPERATIONS: ORG
+Skills
+
+Human Resources: ORG
+4 years: DATE
+Microsoft Office: ORG
+6 years: DATE
+Community Outreach: PERSON
+3 years: DATE
+Community Relations: ORG
+1 year: DATE
+7 years: DATE
+Strategic Planning: ORG
+2 years: DATE
+12/2016: CARDINAL
+Operations: ORG
+daily: DATE
+Current
+Operations: ORG
+60: CARDINAL
+70%: PERCENT
+2016Â: DATE
+Maintained: GPE
+20%: PERCENT
+6 months in a row: DATE
+06/2015 to 12/2015: CARDINAL
+Administrator Company Name: ORG
+Training: PERSON
+2016: DATE
+George Mason University: ORG
+ï¼​ City: GPE
+State Sports Management: ORG
+Interests: NORP
+John Wall- Coach: PERSON
+John Wall: PERSON
+this summer: DATE
+27: CARDINAL
+10 years: DATE
+Skills: ORG
+Community Relations, Human Resources: ORG
+Microsoft Office: ORG
+Strategic Planning
+Additional Information: ORG
+Richmond: GPE
+VA: GPE
+Henrico: GPE
+Glen Allen: PERSON
+VA Authorized: ORG
+US: GPE
+John Wall: PERSON
+this summer: DATE
+27: CARDINAL
+10 years: DATE

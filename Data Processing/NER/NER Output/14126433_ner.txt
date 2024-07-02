@@ -1,0 +1,119 @@
+Core Qualifications: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+MS Access: ORG
+Atlas: PERSON
+Harvard Graphics: ORG
+QuickBooks: ORG
+NGS Systems: ORG
+People Soft: PERSON
+SAP: GPE
+Quicken, Nanovision: ORG
+2: CARDINAL
+Phoenix: GPE
+E1: CARDINAL
+Business Objects: ORG
+Supervisor Accountant: PERSON
+July 2015: DATE
+the Ichthys Project: ORG
+Financial Reporting: ORG
+P&L: ORG
+Balance Sheet: PERSON
+month end: DATE
+Sarbanes Oxley: PERSON
+Backlog Roll Forward for Ichthys: ORG
+Prepare PowerPoint: ORG
+Monthly: DATE
+Quarter PSR: ORG
+July 2008 to July 2015: DATE
+Infrastructure and Minerals: ORG
+Financial Reporting: ORG
+P&L: ORG
+Balance Sheet: PERSON
+month end: DATE
+Sarbanes Oxley: PERSON
+Quarterly: DATE
+Backlog Roll Forward for Infrastructure and Minerals: ORG
+PowerPoint: ORG
+December 2007 to June 2008: DATE
+SSC: ORG
+Access and Excel: ORG
+SSC: ORG
+SOX: ORG
+Generate: PERSON
+Lotus Notes: ORG
+SSC: ORG
+PowerPoint: ORG
+18: CARDINAL
+Prepare: ORG
+Reconcile AP: ORG
+JDE: ORG
+monthly: DATE
+monthly: DATE
+monthly: DATE
+October 2005 to October 2007: DATE
+State: ORG
+20th: ORDINAL
+Century Fox Home Entertainment: ORG
+monthly: DATE
+quarterly: DATE
+PeopleSoft: ORG
+month-end: DATE
+year-to-date: DATE
+Prepared: PERSON
+Atlas: PERSON
+Prepared: PERSON
+PeopleSoft: ORG
+Accountant: PERSON
+June 2005 to: DATE
+August 2005: DATE
+120: CARDINAL
+the United States: GPE
+Nanovision: PERSON
+monthly: DATE
+Nanovision and Excel: ORG
+month-end: DATE
+September 2004 to January 2005: DATE
+State: ORG
+Oversaw: GPE
+over 150: CARDINAL
+weekly: DATE
+Adjusted: FAC
+1099: DATE
+2005: DATE
+month-end: DATE
+Master of Business Administration :: ORG
+May 2008: DATE
+Graziadio School of
+Business and Management ï¼​ City: ORG
+State Business Development Strategy, Management
+Bachelor of Science : Finance: ORG
+Spanish: NORP
+May 2004: DATE
+University of New Orleans: ORG
+Spanish: NORP
+English: LANGUAGE
+Spanish: NORP
+AP: ORG
+Business Objects: ORG
+English: LANGUAGE
+Financial Reporting: ORG
+Harvard Graphics: ORG
+JDE: ORG
+Lotus Notes: ORG
+Access, MS Access: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+PowerPoint: ORG
+Windows 95: ORG
+month-end: DATE
+PeopleSoft: ORG
+People Soft: PERSON
+QuickBooks: ORG
+Quicken: PERSON
+SAP: ORG
+SOX: ORG
+Sarbanes Oxley: PERSON
+Spanish: NORP

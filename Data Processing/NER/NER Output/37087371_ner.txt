@@ -1,0 +1,92 @@
+May 2009: DATE
+Mar 2012: PERSON
+Promoting Internships: PERSON
+Internal and External: ORG
+La Poste: FAC
+Marseille: GPE
+June to December 2008: DATE
+La Poste: ORG
+Constantly: FAC
+the month: DATE
+Jourpost: ORG
+May 2007: DATE
+2015: DATE
+Contribute: ORG
+annual: DATE
+2007: DATE
+Association: ORG
+annual: DATE
+Papier Suggest: ORG
+Paris Match: ORG
+Hachette Filipacchi Medias: PERSON
+Paris: GPE
+January to May 2005: DATE
+Analyse: PRODUCT
+Communicate: ORG
+Promoting Kedge-Business school: PERSON
+Euromed-Marseille: ORG
+June 2004: DATE
+Gestion Lastchance: ORG
+May to July 2007: DATE
+Change: ORG
+Intern Communication: ORG
+Feb 2013 to Feb 2014: DATE
+the Chambers Press Relations: ORG
+Chambers: ORG
+CRMA: ORG
+Chambers: ORG
+Bachelor of Science , Marketing Communications: ORG
+City: GPE
+France: GPE
+Master of Science , Change management (: WORK_OF_ART
+France: GPE
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+Bachelor of Science , Marketing 2006 Kedge Business School ï¼​ City: ORG
+France: GPE
+Cambridge: GPE
+English: LANGUAGE
+2001: DATE
+English: LANGUAGE
+2000: DATE
+European: NORP
+English: LANGUAGE
+2003: DATE
+Luynes: GPE
+France: GPE
+2: CARDINAL
+Management de la Communication d'entreprise: ORG
+2008/2009: DATE
+Communication et Management du
+: ORG
+Puyricard: GPE
+France: GPE
+Bachelor of Business Administration: ORG
+SpÃ: DATE
+2006/2007: DATE
+East Tennessee State University: ORG
+State: ORG
+USA: GPE
+Programme Cesemed: PERSON
+Euromed Marseille Ecole de Management: ORG
+Marseille: GPE
+France: GPE
+Divers Autonomie: PERSON
+Ã¢tre: NORP
+Media: GPE
+American Marketing Association: ORG
+AMA: ORG
+38,000: CARDINAL
+Second Life: ORG
+LANCEL: ORG
+McDonalds, Research: ORG
+Spicy Chicken: WORK_OF_ART
+McDonalds: FAC
+Fluency: GPE
+English: LANGUAGE
+French: NORP
+Spanish: NORP
+Skills
+Projet: ORG

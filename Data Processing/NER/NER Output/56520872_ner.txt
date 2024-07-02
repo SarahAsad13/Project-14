@@ -1,0 +1,46 @@
+LICENSED HEALTHCARE COMMUNICATOR: ORG
+Current
+Licensed Healthcare Communicator Company Name: ORG
+Identify: ORG
+Patient Support Programs: WORK_OF_ART
+10/2016: CARDINAL
+RN - OR Company Name: ORG
+Clinical or Client Services: ORG
+12/2015: CARDINAL
+02/2016: PRODUCT
+RN Supervisor Company Name: ORG
+12/2015: CARDINAL
+Clinical or Client Services: ORG
+RN Company Name: ORG
+Clinical or Client Services: ORG
+evening: TIME
+three: CARDINAL
+04/2013: CARDINAL
+11/2013: CARDINAL
+Nurse/Evening Shift: ORG
+Clinical or Client Services: ORG
+evening: TIME
+06/2012: CARDINAL
+State
+
+Review: ORG
+Milliman: ORG
+Quest: LOC
+Communicate: ORG
+days: DATE
+06/2012: CARDINAL
+Nurse Company Name: PERSON
+Clinical or Client Services: ORG
+4/2018: CARDINAL
+Master's Degree : Nursing: WORK_OF_ART
+Nurse Educator Herzing University Nursing: ORG
+Nurse Educator: PERSON
+4/2014: CARDINAL
+Bachelor: ORG
+2/2016: CARDINAL
+American Nurses Association: ORG
+6/2016: CARDINAL
+2008 - 2012: DATE
+Skills: ORG
+Client: GPE
+Quest: LOC

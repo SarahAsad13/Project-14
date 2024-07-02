@@ -1,0 +1,29 @@
+11/2018: DATE
+Maintain: PRODUCT
+Organize: GPE
+Engage: ORG
+Maintain: PRODUCT
+hours: TIME
+Volunteer - Receptionist: PERSON
+first: ORDINAL
+07/2018: PERSON
+10/2018: CARDINAL
+Maintained: GPE
+Sought: ORG
+Rang: PERSON
+06/2016: ORG
+Utilized: ORG
+2017: DATE
+Eastmont Senior High School - City: ORG
+Internet Savvy
+Customer: PERSON
+07/2018: PERSON
+10/2018: CARDINAL
+Maintained: GPE
+Assembly Line Worker: ORG
+06/2016: ORG
+Utilized: ORG
+Library Volunteer: PERSON
+06/2017: CARDINAL
+Cleaned: FAC
+Welcomed: ORG

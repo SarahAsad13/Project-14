@@ -1,0 +1,59 @@
+CHEF
+Executive Profile: ORG
+Skill Highlights
+
+Classically: ORG
+daily: DATE
+Communicates: ORG
+10/2004: CARDINAL
+Chef Company Name: ORG
+daily: DATE
+kimchi: GPE
+Understand: PERSON
+Oversaw: GPE
+wild & foraged foods: ORG
+10/2004: CARDINAL
+Current
+Chef Consultant Company Name: ORG
+diet & recipe: ORG
+Hepatitis C: ORG
+Crohn's: ORG
+10/2004: CARDINAL
+Banquet Chef Company Name: ORG
+$800 million: MONEY
+Oversaw: GPE
+2,500: CARDINAL
+Specialized: ORG
+Developed: PRODUCT
+06/2003: CARDINAL
+60%: PERCENT
+daily: DATE
+06/2002: CARDINAL
+Shepherd/Caretaker Company Name: ORG
+160: CARDINAL
+Montadale: PERSON
+Harvest: ORG
+Care Taker: ORG
+207 acre: QUANTITY
+Lake
+Champlain: LOC
+06/1999: CARDINAL
+11/1999: CARDINAL
+Italian: NORP
+Associate of Arts: ORG
+Culinary Arts Culinary Institute of America ï¼​ City: ORG
+Chef's Collaborative: ORG
+Hudson Valley: LOC
+Charcuterie Study: PERSON
+Spain: GPE
+Spanish: NORP
+Nutrition Dietetics West Virginia Wesleyan: FAC
+State: GPE
+3 years: DATE
+Skills
+Flexible: ORG
+SCD: ORG
+Kosher, Halal: ORG
+& Heritage: ORG
+daily: DATE
+Â Professional: ORG

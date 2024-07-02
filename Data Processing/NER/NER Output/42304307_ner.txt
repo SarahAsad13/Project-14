@@ -1,0 +1,60 @@
+Sales Associate: PERSON
+Time: ORG
+Detail: PERSON
+2014: DATE
+15: CARDINAL
+ASU: ORG
+2010-2014: DATE
+Westview High School Honor Roll
+Proficient: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Valid Driver's: PERSON
+June 2015: DATE
+daily: DATE
+opening hours: TIME
+December 2014 to February 2015: DATE
+Sandwich Artist: PERSON
+Prepared: PRODUCT
+Collects: ORG
+Understands: GPE
+Cleans: NORP
+Understands: GPE
+3: CARDINAL
+Understands: GPE
+Completes University of SUBWAYï¿½courses: ORG
+October 2013 to September 2014: DATE
+Cashier/Sales Associate 
+City: ORG
+Smiles: PERSON
+Greets: NORP
+Associates: ORG
+Associates: ORG
+Â Â 
+: PRODUCT
+5: CARDINAL
+Kohl: PERSON
+Charge: PRODUCT
+Service Desk: PERSON
+October 2012 to September 2014: DATE
+Prepared: PRODUCT
+Collects: ORG
+Understands: GPE
+Cleans: NORP
+Understands: GPE
+3: CARDINAL
+Understands: GPE
+Completes University of SUBWAYï¿½courses: ORG
+Arizona State University: ORG
+African American: NORP
+State: ORG
+United States: GPE
+08/14: CARDINAL
+Arizona State University: ORG
+Skills
+Customer Service: ORG
+Cashier: ORG
+MS Excel: ORG
+Office: ORG
+Powerpoint: PRODUCT

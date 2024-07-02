@@ -1,0 +1,68 @@
+CUSTOMER: ORG
+Career Focus: FAC
+Core Qualifications
+
+Operations: ORG
+Natural: ORG
+Quick: ORG
+Background: FAC
+Microsoft Office: ORG
+Financial: ORG
+First Aid: ORG
+2014: DATE
+AED: ORG
+2014: DATE
+Mathematical: ORG
+Devoted: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Training: PERSON
+2014: DATE
+State: GPE
+US: GPE
+One: CARDINAL
+Boeing: ORG
+737: PRODUCT
+Radar: PRODUCT
+State: GPE
+US: GPE
+4 week: DATE
+Combat First: ORG
+Moon Valley High School - City: ORG
+State: GPE
+US: GPE
+100%: PERCENT
+over $1million: MONEY
+daily: DATE
+less then a year: DATE
+Progessive Leasing: ORG
+QA: ORG
+Service Center: FAC
+Aprentice Tech: FAC
+May 2015: DATE
+State Followed: ORG
+Wheels and Lugs: WORK_OF_ART
+Jun 2012: PERSON
+2014: CARDINAL
+250: CARDINAL
+daily: DATE
+Coordinated: ORG
+Radar: PRODUCT
+Integrated Friend: ORG
+Foe
+Interrogator: ORG
+Crew Resource Management: ORG
+Coordinated: ORG
+Logged: ORG
+Coordinated: ORG
+Basic, Change management: ORG
+CHI: ORG
+Financial: ORG
+First Aid: ORG
+MA: ORG
+Microsoft
+Office: ORG
+Radar: PRODUCT
+Operations: ORG
+Quick learner: ORG
+50-100 pounds: QUANTITY

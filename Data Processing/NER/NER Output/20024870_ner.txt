@@ -1,0 +1,103 @@
+INTERNSHIP: ORG
+a Business Management of the industries institution: ORG
+Skill: PERSON
+Skills
+Language:: ORG
+Chinese: NORP
+English: LANGUAGE
+Japanese: NORP
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Outlook: PERSON
+SQL: ORG
+Adobe Suit: PERSON
+Flash: PERSON
+PHP: ORG
+Java: PERSON
+HTML: ORG
+Cording, Programming: ORG
+Customer: ORG
+CRM: PRODUCT
+ERP System: ORG
+RFID: ORG
+Commerce: ORG
+Financial Accounting: ORG
+Business Marketing, International Trade: ORG
+QMS Statistics: ORG
+Healthcare: ORG
+July 2014 to September 2014: DATE
+Name City: GPE
+State Information Technology (Internship: ORG
+Examined: NORP
+ER: ORG
+Registration, Pharmacy,: ORG
+Central Sterile Supplies Department: ORG
+September 2013 to December 2015: DATE
+Name City: GPE
+State Business Analyst: ORG
+Tourism Bureau: ORG
+Taiwan Hot Spring Voucher: WORK_OF_ART
+Taiwan: GPE
+3: CARDINAL
+Facebook Fan: ORG
+3 months: DATE
+Built: ORG
+May 2012 to January 2015: DATE
+Name City: GPE
+State: ORG
+Expand: ORG
+five: CARDINAL
+two: CARDINAL
+Simple Life Festival: ORG
+Taipei: GPE
+Shanghai: GPE
+China: GPE
+100: CARDINAL
+4 hours: TIME
+25%: PERCENT
+two quarters: DATE
+September 2011 to June 2013: DATE
+Name City: GPE
+State: ORG
+Volunteer
+Planned: PERSON
+winter: DATE
+Team: ORG
+2016: DATE
+Metropolitan State University: ORG
+State: ORG
+USA Business Administration: ORG
+MBA: WORK_OF_ART
+International Trade
+Organizational Behavior
+Finance: ORG
+GPA: ORG
+3.7: CARDINAL
+2015: DATE
+National Taipei University of Nursing and Health Science 
+City: ORG
+State: ORG
+Taiwan Information Management 
+Bachelor of Science
+Bachelors of Information Management
+
+Information Technology: ORG
+3: CARDINAL
+2015: DATE
+Global Language Institute: ORG
+State: GPE
+USA English: NORP
+English Dialect and Language
+
+ 
+: LOC
+English: LANGUAGE
+Read and Speak English
+
+Chose to be Graduation Speaker for the Classs
+
+: WORK_OF_ART
+GPA: ORG
+3.4: CARDINAL

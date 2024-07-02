@@ -1,0 +1,111 @@
+a fifteen months: DATE
+Quality, Supply Chain: ORG
+FMEA: ORG
+Kaizen: PERSON
+Lean Manufacturing: ORG
+5S: CARDINAL
+Value Stream Mapping, Root Cause Analysis: ORG
+PFMEA Quality: ORG
+ANOVA: ORG
+Discrete Control: ORG
+DCS: ORG
+Microsoft: ORG
+Minitab: PERSON
+Accomplishments
+
+Manufacturing: WORK_OF_ART
+9: CARDINAL
+Jan 2014 - April 2014: DATE
+9V: CARDINAL
+ANOVA: ORG
+Fractional: ORG
+Central: ORG
+Applied: ORG
+Supply Chain Management and Initiatives: ORG
+2013 - Dec 2013: DATE
+Supply Chain Management: ORG
+the Supply Chain of AMUL: ORG
+EIAS: ORG
+GIS: ORG
+DISK Advantages of E: ORG
+Railway: ORG
+Demand Forecast: PRODUCT
+Ellicott Food Court: ORG
+University at Buffalo Sept: ORG
+EFC: ORG
+Lean Approach: ORG
+Jan 2014 -
+May2014 Studied: DATE
+Toyota: ORG
+Mapped A3: PRODUCT
+Applied: ORG
+May 2014 to Aug 2014: DATE
+State
+
+Research and Development: ORG
+Rubber Screen Panels: ORG
+Injection Molding: ORG
+Scheduling and Planning operations Implementation: ORG
+Application of Lean: ORG
+Efficient: PERSON
+Injection Molding: ORG
+ISO 9001 Community: ORG
+Lean Six Sigma Intern: ORG
+Sep 2013 to Dec 2013 
+City: DATE
+six: CARDINAL
+Reviewed: WORK_OF_ART
+5S: CARDINAL
+Pareto Chart: PERSON
+Suggested: ORG
+National Organic Chemicals of India Limited: ORG
+NOCIL: ORG
+Rubber Chemical
+Division: ORG
+Navi Mumbai: FAC
+India: GPE
+CBS: ORG
+MRF: PERSON
+Madras Rubber Factory: ORG
+Monsento: PERSON
+brazil: GPE
+PLC: ORG
+DCS Efficiently: ORG
+HAZOP: ORG
+FMEA: ORG
+Master of Science , Industrial Engineering Dec 2014 University at Buffalo,: WORK_OF_ART
+The State University of New York: ORG
+GPA: ORG
+3.35/4.0 3.35/4.0: TIME
+Industrial
+Engineering Design and Analysis of Experiments,: ORG
+Optimization, Production Planning: ORG
+Facility Design: ORG
+Quality Assurance: ORG
+Sustainable Manufacturing: ORG
+Lean Manufacturing: ORG
+Computer Integrated Manufacturing: ORG
+Project Management: ORG
+Bachelor of Engineering: ORG
+City: GPE
+India Chemical Engineering Instrumentation and Process
+Control: ORG
+Environmental Engineering: ORG
+Heat Transfer Operations: PERSON
+Mass Transfer Operations: ORG
+Chemical
+Engineering Thermodynamics: ORG
+Skills
+Auto-Cad: ORG
+C++: PERSON
+HAZOP: ORG
+ISO 9001: ORG
+Logic: ORG
+Microsoft: ORG
+Works: PERSON
+Minitab, Optimization, PLC: ORG
+Pro-E: NORP
+Project
+Management, Quality, Quality Assurance: ORG
+Research, Scheduling: ORG
+Six Sigma: PERSON

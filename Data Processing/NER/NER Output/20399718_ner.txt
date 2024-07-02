@@ -1,0 +1,47 @@
+INCLUSION: GPE
+Stimulates: PRODUCT
+Control * Technology Integration & Analysis: ORG
+Classroom Management & Assessment *: ORG
+Secondary School * Transition and Social Assistance
+Core Qualifications: ORG
+Proficienct: GPE
+Inclusion: GPE
+01/2010: DATE
+State: ORG
+Created: ORG
+Individualized Education: ORG
+annual: DATE
+Individualized Education Program: ORG
+Teacher / Special Education /Teacher: ORG
+Name City: GPE
+daily: DATE
+English: LANGUAGE
+Execute Individualized Education: ORG
+Occupational Teacher 01/2005: PERSON
+Name City: GPE
+Individualized Education: ORG
+Established: ORG
+one: CARDINAL
+Name City: GPE
+Maintained: GPE
+Collaborated: ORG
+Special Education Preschool Handicapped Children Hampton University City: ORG
+State Special Education Preschool
+Handicapped Children
+
+Master of Science: ORG
+Bachelor of Arts: ORG
+State Special Education Hearing Impaired
+Children
+Bachelor's: ORG
+Interests: NORP
+1: CARDINAL
+5: CARDINAL
+Skills: ORG
+Educator: PRODUCT
+English: LANGUAGE
+Community Affiliations: ORG
+Daycare Children Tutor - Reading and Language Arts *After School Program Tutor -
+: FAC
+1: CARDINAL
+5: CARDINAL

@@ -1,0 +1,44 @@
+Skills
+
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Strong: PERSON
+Quick: ORG
+Energetic: LOC
+APA: ORG
+MLA: ORG
+Fact: ORG
+September 2016: DATE
+Current Company Name: ORG
+Chapman Athletics: ORG
+Chapman: PERSON
+over $15,000: MONEY
+Orange County: GPE
+April 2016 to September 2017: DATE
+March 2015 to June 2016: DATE
+March 2015 to June 2016: DATE
+Communicated: ORG
+June 8th 2016: DATE
+Northwood High School: ORG
+World Wildlife Club Events Coordinator: ORG
+Yoga and Pilates Club
+Executive: ORG
+Fellowship of Christian Athletes: ORG
+Student Forum Recipient: ORG
+Named Athlete of the Month: WORK_OF_ART
+three: CARDINAL
+2 year: DATE
+Lacrosse Team: ORG
+1 year: DATE
+Basketball Team: ORG
+4 year: DATE
+May: DATE
+Chapman University TV Writing: ORG
+Graphic: PERSON
+Inventory: NORP
+Journalism: NORP
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Multi: GPE

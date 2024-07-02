@@ -1,0 +1,58 @@
+Professional Overview
+Service: ORG
+healthcare systems: ORG
+Social Security: ORG
+Core Qualifications
+
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+Word: PERSON
+Powerpoint: PRODUCT
+Knowledgeable: PRODUCT
+Meditech: GPE
+EMR: PERSON
+Mckesson/Stars: ORG
+Artiva: ORG
+Onbase and Host: ORG
+Licensed Navigator: ORG
+Affordable Care Act Certified
+Knowledeable: LAW
+Knowledgeable: FAC
+June 1995: DATE
+Albany State College Sociology: ORG
+January 2014 to January 2016: DATE
+Change Healthcare: ORG
+Federal/State: ORG
+6: CARDINAL
+Quality Assurance Specialist: ORG
+Completed: ORG
+Evaluations: ORG
+95%: PERCENT
+3%: PERCENT
+Trustworthy: PERSON
+Healthcare: ORG
+January 2002 to January 2014: DATE
+State: ORG
+Medicaid: ORG
+Advocate: ORG
+Federal and State: ORG
+Protected Health Insurance(PHI: ORG
+Health
+Insurance Portability Accountability Act: ORG
+Maintained: GPE
+Change Healthcare: ORG
+Change Healthcare: ORG
+yearly: DATE
+January 1996 to January 2002: DATE
+Processed: GPE
+Keyed: GPE
+Exceeded/ Met: ORG
+monthly: DATE
+CPT Coding: ORG
+Meditech: GPE
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Powerpoint: PRODUCT
+Word: PERSON
+Navigator: ORG
+Quality Assurance: ORG

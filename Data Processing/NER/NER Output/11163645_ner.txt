@@ -1,0 +1,64 @@
+Reliable: WORK_OF_ART
+Committed: ORG
+Core Qualifications
+Intermediate Word Advanced Excel PowerPoint Intermediate Access Accounts Receivable Accounts Payable QuickBooks Enterprise Outlook: ORG
+Accountant: ORG
+January 2011 to November 2015: DATE
+Processed: GPE
+ACH: ORG
+Lockbox: PRODUCT
+Credit Card and Checks: ORG
+G/L Accounts: ORG
+Processed: GPE
+ACH: ORG
+G/L Accounts: ORG
+Calculate: ORG
+quarterly: DATE
+Maintain: PRODUCT
+quarterly: DATE
+the Job Development Credit: ORG
+South Carolina: GPE
+Order: ORG
+Visa: ORG
+January 2008 to January 2010: DATE
+Processed: GPE
+daily: DATE
+Corresponded: ORG
+monthly: DATE
+Created: ORG
+monthly: DATE
+Ran: PERSON
+daily: DATE
+the end of day: DATE
+January 2006 to January 2008: DATE
+Processed: GPE
+Corresponded: ORG
+January 2004 to January 2006: DATE
+Performed: ORG
+Gail L.
+: PERSON
+2: CARDINAL
+864: CARDINAL
+January 2001 to January 2004: DATE
+Performed: ORG
+Processed: GPE
+Claims Examiner: PERSON
+January 1983 to January 2001: DATE
+Performed: ORG
+Created: ORG
+Truth: ORG
+Performed: ORG
+Rapidly: ORG
+one-year: DATE
+2008: CARDINAL
+Business Training Center ï¼​ City: ORG
+Skills: ORG
+Accounts Payable: ORG
+Computer Applications, Credit: ORG
+Customer Service: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG

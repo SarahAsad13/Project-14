@@ -1,0 +1,102 @@
+9 years: DATE
+Facilitating Training: PERSON
+600: CARDINAL
+quarterly: DATE
+annually: DATE
+Project Management: ORG
+over 100: CARDINAL
+794%: PERCENT
+$1.2 Million: MONEY
+400%: PERCENT
+annual: DATE
+less than 35 days: DATE
+Tech & Startups: ORG
+8 years: DATE
+Professional Development: ORG
+Core Qualifications
+Empowering Motivational Public: ORG
+Microsoft Suite Proficient: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Google Suite: PERSON
+Analytics: NORP
+Gmail: PERSON
+Presenter & High Energy: ORG
+Multi-Project Management: ORG
+Innovative
+Professional Development Collaborative/Team: ORG
+June 2014: DATE
+794%: PERCENT
+quarterly: DATE
+$1.2 Million: MONEY
+40,000: MONEY
+35 days: DATE
+Facilitate: ORG
+daily: DATE
+KPI: ORG
+Coach: ORG
+quarterly: DATE
+July 2013 to June 2014: DATE
+500: CARDINAL
+Execute: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Office & Marketing: ORG
+June 2013: DATE
+20%: PERCENT
+Residential Communities Coordinator: ORG
+January 2011 to June 2013 Company Name ï¼​ City: DATE
+100: CARDINAL
+76,000: CARDINAL
+Facilitated: ORG
+600: CARDINAL
+annually: DATE
+13: CARDINAL
+four: CARDINAL
+1,500: CARDINAL
+July 2010 to January 2011: DATE
+50: CARDINAL
+1,800: CARDINAL
+7: CARDINAL
+6 months: DATE
+July 2008: DATE
+May 2010: DATE
+12: CARDINAL
+34: CARDINAL
+20: CARDINAL
+150: CARDINAL
+Oversaw: GPE
+two: CARDINAL
+over 1,500: CARDINAL
+2: CARDINAL
+40: CARDINAL
+Awarded: WORK_OF_ART
+the Dance for Haiti benefit: ORG
+20,000: MONEY
+August 2006 to May 2007: DATE
+the Palouse Food Project: ORG
+Directed: ORG
+Tutored: PRODUCT
+May 2005 to July 2006 Company Name ï¼​ City: DATE
+30%: PERCENT
+Oversaw: GPE
+Training
+Bachelor: PERSON
+Washington State University Social Sciences Wells Fargo Bank N.A: ORG
+State Business &
+Personal Banker Academy Entrepreneurship: ORG
+Business S.A.F.E.: ORG
+Account Management: ORG
+Coach: ORG
+Client: GPE
+Financial: ORG
+Excel: PRODUCT
+Microsoft Suite: PERSON
+Outlook: PERSON
+Word: PERSON
+Presenter: PERSON
+Project Management: ORG
+Strategic: PERSON
+Training Programs: PERSON

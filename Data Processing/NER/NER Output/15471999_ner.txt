@@ -1,0 +1,34 @@
+Sales Associate: PERSON
+Time: ORG
+Detail: PERSON
+11/2014: CARDINAL
+Eyelash: ORG
+Utilized: ORG
+Demonstrate: ORG
+daily: DATE
+30: CARDINAL
+each day: DATE
+12/2012 to: CARDINAL
+11/2013: CARDINAL
+Receptionist Company Name: ORG
+Eyelash: ORG
+Utilized: ORG
+Demonstrate: ORG
+daily: DATE
+Influence: ORG
+Men's Haircut Utilized: ORG
+Demonstrate: ORG
+01/2011 to 01/2012: CARDINAL
+Utilized: ORG
+Demonstrate: ORG
+Influence: ORG
+2012: DATE
+School of Beauty ï¼​ City: ORG
+State: GPE
+USA: GPE
+Licensed Cosmetologist Glendale: ORG
+2010: DATE
+State: GPE
+USA: GPE
+Uncommon: PERSON
+Uncommon: ORG

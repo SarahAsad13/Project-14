@@ -1,0 +1,166 @@
+Hardware Network Servers Technical Support: ORG
+Operations: ORG
+Cisco: GPE
+Network Associates: ORG
+nearly 6 year & 3 months: DATE
+Site & Networking Operations: ORG
+Incident Management: ORG
+Client Servicing: PERSON
+2k3: CARDINAL
+2k8 &: MONEY
+Network Configuration: ORG
+DHCP Server: ORG
+DNS: ORG
+Network Monitoring: ORG
+Possess: ORG
+UTP: ORG
+STP: ORG
+Key Highlights: LOC
+NAS Server: ORG
+AD Server: ORG
+Child Domain: GPE
+Cisco Router: PERSON
+Cisco: GPE
+Servers: PERSON
+Thin: ORG
+Systems: GPE
+Network Cables: ORG
+Softwares: PERSON
+2003 to 2008: DATE
+Client: GPE
+Top Management: ORG
+Skill Highlights
+
+Configuration: ORG
+VMware: ORG
+Windows XP: ORG
+Vista: ORG
+Windows 8: PRODUCT
+Microsoft: ORG
+2003: DATE
+2007: DATE
+Working: ORG
+Kingsoft Office: ORG
+Libre Office: ORG
+PME: ORG
+Computer Hardware Assembling, Dissembling: WORK_OF_ART
+ERP: ORG
+Time: ORG
+CCTV: ORG
+PPC: ORG
+CHS: ORG
+March 2011 to August 2015: DATE
+April 2010 to January 2011: DATE
+April 2009 to March 2010: DATE
+Protocols: PERSON
+LAN/WAN: ORG
+Switches: ORG
+LAN: ORG
+WAN: ORG
+RIP: ORG
+EIGRP: ORG
+OSPF: ORG
+IP Phones: ORG
+Network Printers: ORG
+Virtual Interface: PERSON
+VMWare: ORG
+Active Directory: ORG
+DNS: ORG
+DHCP: ORG
+FTP: ORG
+TELNET: ORG
+Remote Connectivity: ORG
+IP Address, Managing Local: ORG
+Permission, Terminal Services,: ORG
+Trusting, Software Deployment: ORG
+2003: DATE
+2008: DATE
+Active Directory: ORG
+Terminal Server Group Policy: ORG
+SAP Basis Client GUI: ORG
+SAP Online Support System Backup and Recovery DR: ORG
+HADR Data: ORG
+Transaction Lock/Unlock User Authorization and Users Role Windows Servers: ORG
+Microsoft: ORG
+2003-2008: DATE
+Share Folders: PERSON
+DNS: ORG
+DHCP: ORG
+2003-2008: DATE
+Configuration Microsoft Terminal: ORG
+RDP: ORG
+B.A EIILM University: ORG
+M.P. Board: ORG
+M.P. Board Bhopal: ORG
+MCP Microsoft: PERSON
+Certified Professional: ORG
+Windows Server 2012: PERSON
+June 2013: DATE
+CCNA - Cisco Certified: PERSON
+Network Associates: ORG
+Dec. 2009: DATE
+A.B. Road Indore
+M.P: ORG
+2010: DATE
+Professional Affiliations
+National Council For Vocational Training: ORG
+Neocorp International Ltd Pithampur: ORG
+Nov - 2013: DATE
+Attainments Accredited: PERSON
+Cricketer Award: PERSON
+Neocorp Internation LTD Inter Tournament: ORG
+Indore: GPE
+2014: DATE
+Govind Singh: PERSON
+1st Jan 1988: DATE
+Jhinna: PERSON
+Abhana: GPE
+Disit:- Damoh: GPE
+470662 Declaration: WORK_OF_ART
+English: LANGUAGE
+Hindi: GPE
+Skills
+Active Directory, Backup: ORG
+CISCO: ORG
+Cisco Certified: GPE
+Hardware: GPE
+Client: GPE
+DHCP: ORG
+DNS: ORG
+EIGRP: ORG
+English: LANGUAGE
+ERP: ORG
+Firewalls: ORG
+FTP: ORG
+GUI: ORG
+Hindi: GPE
+IP: ORG
+LAN: ORG
+Microsoft Certified Professional: ORG
+MCP: ORG
+Microsoft: ORG
+Office: ORG
+Windows 8: ORG
+Windows: NORP
+Windows XP: PERSON
+ESS: ORG
+Network Associates: ORG
+Network Printers: ORG
+Networking: ORG
+OSPF: ORG
+Protocols: PERSON
+RIP: PERSON
+Routers: FAC
+Routing: GPE
+SAP: GPE
+SAP Basis, Servers, Switches: ORG
+Phones: ORG
+TELNET: ORG
+Terminal Server: ORG
+Troubleshooting: GPE
+Vista: ORG
+WAN: ORG
+Windows Server: ORG
+Jhinna: PERSON
+Abhana: GPE
+Disit:- Damoh: GPE

@@ -1,0 +1,85 @@
+Professional Summary
+Financial Expert: ORG
+Revenue Cycle Management: ORG
+Healthcare: ORG
+Subject Matter Expert: PERSON
+Revenue Cycle Management: ORG
+Value Based Healthcare Reimbursement: ORG
+Training
+Programming Support Specialist: WORK_OF_ART
+Data Center Technical Support: ORG
+Shared Medical Systems: ORG
+Malvern: GPE
+PA Computer Operator: ORG
+Operations: ORG
+Shared Medical Systems: ORG
+State Computer Information Systems: ORG
+Graduate Courses in Business Communications: ORG
+Project Management: ORG
+Operating Systems: ORG
+Networking: GPE
+Programming Management, Organization, Ethics and Intellectual Property: ORG
+Financial Management: ORG
+Certified Project Management
+Associate: ORG
+International Project Management Association: ORG
+IPMA: ORG
+Level D: PERSON
+Skill Highlights: PERSON
+Skills: ORG
+Accounts Receivable: ORG
+Business Communications: ORG
+Database: GPE
+Financial Management: ORG
+Intellectual Property: PERSON
+2000: DATE
+Networking, Operating Systems: ORG
+Programming: GPE
+Project
+Management: ORG
+Quality: ORG
+Siemens: ORG
+Software Engineering: ORG
+SQL: ORG
+Technical Support
+Professional Experience
+Highly: ORG
+Healthcare Analyst: ORG
+Siemens Health Services: ORG
+Cerner: ORG
+2014: DATE
+Shared Medical Services: ORG
+Siemens: ORG
+2000: DATE
+SQL: GPE
+Database: GPE
+Improve Revenue Cycle Management: ORG
+Accounts Receivable: ORG
+Identify: ORG
+Key
+Performance Indicators: LOC
+the Recovery Audit Contractor: ORG
+RAC: ORG
+Medicare: ORG
+Develop: ORG
+Medicare: ORG
+Participate: ORG
+its 16th month: DATE
+7-10 years: DATE
+third: ORDINAL
+Accelerate: ORG
+6 days to 6 months: DATE
+the SOARIAN Financials Test Team: ORG
+Charm NT: LOC
+Quality Center: ORG
+Kanban: ORG
+Associate Systems Analyst: ORG
+over 100,000: CARDINAL
+monthly: DATE
+six-month: DATE
+Pennsylvania Hospital: ORG
+Temple University Hospital: ORG
+Build: GPE
+Consultant/Analyst: ORG
+Current Company Name: ORG
+State: ORG

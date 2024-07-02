@@ -1,0 +1,33 @@
+BUSINESS DEVELOPMENT: ORG
+Dedicated Business Development Representative: ORG
+Skills
+
+FCA Kain Automotive: ORG
+3: CARDINAL
+Chrysler: ORG
+CRM: PRODUCT
+Highlights
+
+Seasoned: WORK_OF_ART
+Energetic: LOC
+Adaptive: ORG
+Â Telephone: ORG
+Quick Learner: PERSON
+Name City: GPE
+State Business Development Representative: ORG
+10/2016: CARDINAL
+Name City: GPE
+State Internet & Social Media: ORG
+Twitter: PERSON
+Instagram: GPE
+weekly: DATE
+weekly: DATE
+the Business Development Department: ORG
+Update: ORG
+Name City: GPE
+State: ORG
+10/2014: CARDINAL
+Finished: PRODUCT
+Oversaw: GPE
+Name City: GPE
+State Server & Lead Bartender: ORG

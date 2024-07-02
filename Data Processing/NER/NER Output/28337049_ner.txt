@@ -1,0 +1,76 @@
+Program Coordinator: ORG
+Â System Administration: ORG
+Operations: ORG
+Time: ORG
+Business Development Coordinator: ORG
+May 2016: DATE
+Current Company Name: ORG
+October 2014: DATE
+five: CARDINAL
+Â Â: PRODUCT
+the Learning
+Management System: ORG
+the South Region: LOC
+11: CARDINAL
+Puerto Rico: GPE
+SSE: ORG
+toÂ: CARDINAL
+Client: GPE
+weekly: DATE
+Operations: ORG
+February 2014 to October 2014: DATE
+State Carries: ORG
+the Learning Management System: ORG
+the South Region: LOC
+11: CARDINAL
+Puerto Rico: GPE
+Liaison: PERSON
+the Region Office: ORG
+Compiles: ORG
+April 2012 to April 2013: DATE
+Â Â: PRODUCT
+Â Â: PRODUCT
+Georgia: GPE
+Technical Support Coordinator: ORG
+June 2011 to March 2012: DATE
+First: ORDINAL
+Canfield Imaging
+Systems: ORG
+Canfield: GPE
+Return Merchandise Authorizations: ORG
+Processed: GPE
+overnight: TIME
+RMA: EVENT
+50%: PERCENT
+Clinical Administrator: ORG
+January 2011 to April 2011: DATE
+Coordinated: ORG
+monthly: DATE
+minutes: TIME
+User Applications: WORK_OF_ART
+January 2007: DATE
+May 2010: DATE
+State Monitored: ORG
+daily: DATE
+Saba: GPE
+over 6,000: CARDINAL
+first: ORDINAL
+48 to 24 hours: TIME
+Saba: PERSON
+Established: ORG
+Training Coordinator: ORG
+October 2001 to January 2007: DATE
+2%: PERCENT
+Senior Management: ORG
+monthly: DATE
+Concur: NORP
+Bachelor of Science : Business Administration: ORG
+Centenary College: ORG
+Salesforce.com: ORG
+Paperless Proposals
+Learning Management: ORG
+Saba LMS: PERSON
+Success Factors LMS: ORG
+Microsoft Office Suite: ORG
+Concur
+Technical: ORG

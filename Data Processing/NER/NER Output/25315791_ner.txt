@@ -1,0 +1,26 @@
+.i: ORDINAL
+Accurate: ORG
+Team: ORG
+Reliable: WORK_OF_ART
+Name City: GPE
+Email: PERSON
+SMS: ORG
+Sale/Customer Service: ORG
+12/2012: CARDINAL
+Name City: GPE
+Established: ORG
+Kept: PERSON
+daily: DATE
+weekly: DATE
+monthly: DATE
+annual: DATE
+Established: ORG
+Associate/ Customer: ORG
+10/2010: DATE
+Name City: GPE
+June 2009: DATE
+Charles Churn: PERSON
+Christian Academy: ORG
+Email: PERSON
+Researching: PRODUCT
+SMS: ORG

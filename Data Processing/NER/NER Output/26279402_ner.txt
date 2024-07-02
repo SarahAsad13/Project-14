@@ -1,0 +1,72 @@
+15 year: DATE
+bringingÂ: ORG
+aÂ ton: TIME
+12/2012: CARDINAL
+Current
+Outside Machinist Company Name: ORG
+11/1996 to 01/2012: CARDINAL
+toÂ: CARDINAL
+the USS NIMITZ: FAC
+December 1997 to March 2004: DATE
+3: CARDINAL
+3 year: DATE
+Refueling Carrier Overhaul: PERSON
+300: CARDINAL
+25: CARDINAL
+Navy: ORG
+Officers and Chiefs: ORG
+40: CARDINAL
+Navy: ORG
+85 %: PERCENT
+the USS CARL VINSON (CVN 70: PRODUCT
+April 2004 to January 2007: DATE
+the Work Center Control Representative: ORG
+Weapons Department: ORG
+over 250: CARDINAL
+Navy: ORG
+Navy: ORG
+NAS Patuxent River: ORG
+January 2007: DATE
+toÂ: CARDINAL
+MayÂ: GPE
+2010Â: DATE
+17: CARDINAL
+12: CARDINAL
+309: CARDINAL
+$4.7 million: MONEY
+17: CARDINAL
+300: CARDINAL
+quarterly: DATE
+IAW: ORG
+the Safe and Ready For Issue: EVENT
+50: CARDINAL
+toÂ: CARDINAL
+May 2010Â toÂ January 2012Â: DATE
+the Navy Occupation Safety and Health (NAVOSH: ORG
+Program: ORG
+Traffic Safety Program: ORG
+Athletics: ORG
+Home Safety Program: ORG
+Identify: PRODUCT
+overÂ 10 (2002-2012) years: DATE
+the United States Navy: ORG
+3: CARDINAL
+2012-2016)Â years: DATE
+Huntington Ingalls Industries: ORG
+Tidewater Tech School of Welding: ORG
+3.83: CARDINAL
+June and September, 2012: DATE
+Dean: PERSON
+List June: EVENT
+September 2012: DATE
+3.83: CARDINAL
+June and September, 2012: DATE
+Dean: PERSON
+List June: EVENT
+September 2012: DATE
+Skills
+Shielded Metal Arc Weld:: ORG
+Flux Core Arc Weld : Flat, Vertical: WORK_OF_ART
+Â Administrative, Inspection, Inventory: ORG
+Navy Publications: ORG
+Â Record Keeping,: FAC

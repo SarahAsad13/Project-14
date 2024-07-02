@@ -1,0 +1,49 @@
+24  years: DATE
+Medi-Cal/Medicare: ORG
+Highlights
+
+Detective: ORG
+Fraud Program: ORG
+the San Diego Medical
+Fraud Task Force: ORG
+Awarded: ORG
+the year 2011: DATE
+100%: PERCENT
+Presenter for the CA District Attorney's Association: WORK_OF_ART
+the Southern California Fraud Investigators Association: ORG
+Arrest: PERSON
+Name City: GPE
+State Detective 06/1995: ORG
+CDI: ORG
+October 2010: DATE
+San Diego County: GPE
+NICB: ORG
+San Diego: GPE
+Office: ORG
+first: ORDINAL
+CDI: ORG
+Urban: ORG
+six years: DATE
+Name City: GPE
+State Senior Special Investigator: ORG
+the Professional Standards Unit: ORG
+Name City: GPE
+State Special Investigator: ORG
+Outreach: PERSON
+Microsoft Office: ORG
+Obtaining: ORG
+Search: ORG
+Arrest: PERSON
+Execute Search: ORG
+Arrest Warrants
+Testify: ORG
+Surveillance: ORG
+Emergency Vehicle Operations
+
+Education: ORG
+Bachelor of Arts: ORG
+California State University: ORG
+Fullerton: GPE
+City: GPE
+State: GPE
+USA: GPE

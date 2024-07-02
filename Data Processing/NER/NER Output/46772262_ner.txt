@@ -1,0 +1,45 @@
+Nurse Practitioner: PERSON
+Superb: NORP
+Basic Life Support
+Advanced Cardiac Life Support
+Pediatric Advanced Life Support
+
+Highlights
+
+Practicum hours: WORK_OF_ART
+Primary Care,: ORG
+Urgent
+Care
+Practicum: ORG
+the Emergency Department
+Emergency Department: ORG
+Charge Nurse: PERSON
+Aug 2014: DATE
+Proficiencied: PERSON
+Prepared: PERSON
+Nurse Clinician: NORP
+Dec 2010: DATE
+Utilized: ORG
+Nurse Nov 2008: DATE
+May 2010: DATE
+approximately 40: CARDINAL
+Nurse: PERSON
+May 2007: DATE
+a Registered Nurse: ORG
+Provided: ORG
+the Registered Nurse: ORG
+Assisted: ORG
+the Emergency Department
+Encouraged: ORG
+Master of Science: WORK_OF_ART
+2017: DATE
+State: ORG
+Nurse Practitioner
+Bachelor of Science: PERSON
+Associate of Applied Science: WORK_OF_ART
+Nursing 2010 Richland Community College: ORG
+State Registered Nurse
+Practical Nurse: ORG
+Nursing 2005 Richland Community College: ORG
+State Licensed Practical Nurse
+Professional Affiliations: ORG

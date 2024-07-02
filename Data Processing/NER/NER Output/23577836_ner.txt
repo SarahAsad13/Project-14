@@ -1,0 +1,80 @@
+Physician: PERSON
+Types: ORG
+WPM Patient: ORG
+Microsoft Office Suite Quality: ORG
+January 2011 to August 2012: DATE
+Child Performer Welfare Advocate: ORG
+as many as 9: CARDINAL
+40: CARDINAL
+one: CARDINAL
+February 2007 to February 2007: DATE
+GA Checked: ORG
+6: CARDINAL
+6: CARDINAL
+hundreds: CARDINAL
+March 2006 to February 2007: DATE
+Technician 
+City: GPE
+State Oversaw: ORG
+daily: DATE
+Eyeglass World: ORG
+Optometrist: NORP
+Intraocular: ORG
+Maintained: GPE
+July 2001 to April 2005: DATE
+State: ORG
+Mount Pleasant: GPE
+SC Worked: ORG
+Education: ORG
+American Military University: ORG
+State: GPE
+US: GPE
+University - Charleston: ORG
+WV: GPE
+Appalachian State University: ORG
+State: GPE
+US: GPE
+2000-2004: DATE
+Appalachian State University - Boone: ORG
+NC: GPE
+February 2007 to March 2006: DATE
+ABC Studios/Army Wives Television Production - Charleston: ORG
+SC Responsible: ORG
+as many as 9: CARDINAL
+40: CARDINAL
+one: CARDINAL
+Education: ORG
+08/2008Medical Receptionist Cardiovascular Consultants: ORG
+GA Checked: ORG
+6: CARDINAL
+6: CARDINAL
+hundreds: CARDINAL
+03/2006: CARDINAL
+Optometry Technician Eyeglass World: ORG
+LLC - Savannah: ORG
+GA: ORG
+Oversaw: GPE
+daily: DATE
+Eyeglass World: ORG
+Optometrist: NORP
+Intraocular: ORG
+07/2001: CARDINAL
+Bridal Consultant/Sales Associate: ORG
+Belk - Boone: ORG
+NC: GPE
+Mount Pleasant: LOC
+SC Worked: ORG
+Skills
+Associate: ORG
+Credit Card: ORG
+Greetings: ORG
+New Sales: ORG
+Sales Associate: PERSON
+Administrative Tasks: ORG
+50 Wpm: DATE
+Filing: GPE
+Microsoft Office: ORG
+Ms Office: ORG
+Quality Assurance: ORG
+Cardiology, Documentation, Medical Insurance, Medical Records: ORG
+Outpatient: ORG

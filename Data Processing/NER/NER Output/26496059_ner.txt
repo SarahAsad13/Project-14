@@ -1,0 +1,55 @@
+Graphic Designer: PERSON
+Photoshop, Illustrator,: ORG
+Indesign: ORG
+CSS: ORG
+Adobe
+Creative Suite: PERSON
+Photoshop and Illustrator: ORG
+Adobe Illustrator
+Adobe Indesign
+Adobe Animate: WORK_OF_ART
+Written and Social Communication Skills: ORG
+Microsoft: ORG
+Adobe Dreamweaver: PERSON
+Created: ORG
+3 years: DATE
+Resolution: ORG
+Magnetic Lasso: ORG
+Camera Raw: WORK_OF_ART
+Google: ORG
+Submitted: LOC
+2019-2021: DATE
+Coordinated: ORG
+Phoenix Contact Machine: ORG
+2016-2019: DATE
+Established: ORG
+Maintained: GPE
+GES Automation Panel: ORG
+2014-2016: DATE
+Secco Inc.: ORG
+2009-2014: DATE
+Communicated: ORG
+Utilized: ORG
+Maintained: PERSON
+OSHA: ORG
+Examined: ORG
+Collaborated: ORG
+Veterans Service Representative: ORG
+11/2008: CARDINAL
+Assisted Veterans: PERSON
+Briefed Veterans: PERSON
+2005: DATE
+Penn Foster College - City: ORG
+Graphic Designer: PERSON
+Honor Roll (Semester 1 and: ORG
+Dean: PERSON
+3.6: CARDINAL
+GPA: ORG
+Completed: ORG
+Photoshop, Illustrator,: ORG
+Multimedia: GPE
+HTML/CSS Coding: ORG
+Typography, Animate: ORG
+Dreamweaver: ORG
+Camera Raw: WORK_OF_ART
+Penn Foster College - 2020: ORG

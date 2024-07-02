@@ -1,0 +1,78 @@
+Life and Success Coach: ORG
+VanÂ Buren Middle School: ORG
+97%: PERCENT
+2016-2017: DATE
+15 years: DATE
+experience(tenured: PERSON
+Hillsborough Alliance for Black School Educators: ORG
+HABSE Teacher: PERSON
+the Year 2016-2017: EVENT
+the Year: DATE
+Greco Middle School: ORG
+2005-2006: DATE
+Rookie: PERSON
+the Year: DATE
+Greco Middle School: ORG
+2002-2003: DATE
+August 2006 to May 2017: DATE
+97%: PERCENT
+August 2013 to June 2016: DATE
+Sunshine Social Chairperson 
+City: ORG
+Parent Conference Night: PERSON
+Birthdays: PRODUCT
+year: DATE
+Morale Booster 
+
+Company: PERSON
+August 2010 to September 2012: DATE
+On-Site Professional Developer 
+City: ORG
+110: CARDINAL
+more than 37%: PERCENT
+the first semester of the: DATE
+2015-2016: DATE
+August 2006 to June 2009: DATE
+Created: ORG
+Monitored: ORG
+Maintained: GPE
+July 2002: DATE
+May 2006: DATE
+Sunshine Committee: ORG
+Chairperson
+Facilitated: PRODUCT
+20: CARDINAL
+August 2002: DATE
+May 2006: DATE
+Sunshine Social Chairperson 
+City: ORG
+Parent Conference Night: PERSON
+Birthdays: PRODUCT
+year: DATE
+Morale Booster
+
+Company: PERSON
+August 2002: DATE
+May 2006: DATE
+gamesÂ 
+Met: ORG
+Created: ORG
+Monitored: ORG
+Maintained: GPE
+University of South Florida 2002 Bachelor of Science : Varying Exceptionalities& ESOL City: ORG
+State
+University of South Florida Master of Science : Educational Leadership School Administration City: ORG
+State Educational Leadership School
+Administration: ORG
+Goal Setting
+Parent Communication: WORK_OF_ART
+year: DATE
+FSA: ORG
+Established: NORP
+40%: PERCENT
+Skills
+
+Highly Effective: ORG
+Classroom Discipline
+Classroom Management
+Creative: PERSON

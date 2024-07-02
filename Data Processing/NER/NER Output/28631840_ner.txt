@@ -1,0 +1,51 @@
+24 years: DATE
+Project Management Professional: ORG
+Leadership: NORP
+Operations: ORG
+Decisive: NORP
+State: ORG
+$1M: MONEY
+1.5 year: DATE
+IPT: ORG
+one: CARDINAL
+the Military Sensing
+Symposium: ORG
+$150K-$49: MONEY
+supervision & manage: ORG
+more than $3M: MONEY
+ACAT1: PRODUCT
+OSD: ORG
+30: CARDINAL
+the security &: ORG
+14 years: DATE
+Name City: GPE
+first: ORDINAL
+Battle Damage Assessment & Repair: ORG
+the Expeditionary Fighting Vehicle: ORG
+Battle Damage Assessment and Repair: ORG
+Interactive Electronic Technical Manual (IETM: ORG
+Technical Manuals: ORG
+Name City: GPE
+State: ORG
+Platoon Sergeant: WORK_OF_ART
+70: CARDINAL
+10%: PERCENT
+one: CARDINAL
+5%: PERCENT
+Army: ORG
+the Abrams Master Gunner School: WORK_OF_ART
+85%: PERCENT
+14: CARDINAL
+56: CARDINAL
+twelve: CARDINAL
+98%: PERCENT
+the month/quarter: DATE
+three: CARDINAL
+5000: CARDINAL
+Graduate Certificate : Project Management 2010 University of Maryland University College City: ORG
+State: ORG
+MBA: WORK_OF_ART
+2004: DATE
+2003: DATE
+Strayer University City: ORG
+State: ORG

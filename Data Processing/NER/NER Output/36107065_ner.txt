@@ -1,0 +1,91 @@
+December 9, 1980: DATE
+Athens: GPE
+Greece: GPE
+Excels: PERSON
+more than 7 years: DATE
+SQL: PERSON
+Microsoft Office: ORG
+Greek: NORP
+English: LANGUAGE
+Work History
+Research and Study Elaboration Manager / Public Relations: WORK_OF_ART
+10/2007: CARDINAL
+Research Associate: ORG
+10/2009: CARDINAL
+Principal Investigators: ORG
+annual: DATE
+the Research Ethics Board
+Research Associate: ORG
+10/2010: CARDINAL
+UHN: ORG
+ICH/GCP: ORG
+05/2014 
+Company Name: ORG
+Bachelor of Science : Economics: ORG
+06 2004: DATE
+University of Essex - City: ORG
+Business and Business Administration: ORG
+12 2005: DATE
+Athens University of Economics and Business - City: ORG
+Basic Econometric Modelling and Statistics
+* Financial Portfolios: WORK_OF_ART
+Financial Times Global Events: ORG
+Upturn: ORG
+Greece: GPE
+April 1st & 2nd, 2009: DATE
+Athens: GPE
+Greece: GPE
+Ministry of Administrative Reform: ORG
+the Common Evaluation Framework: ORG
+December 5th, 2013: DATE
+Athens: GPE
+Greece: GPE
+English: LANGUAGE
+French: NORP
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Communication with National: ORG
+European: NORP
+RESEARCH & STUDIES: ORG
+The Banking System: ORG
+the Business Sector: ORG
+the Athens University of Economics: ORG
+K-RESEARCH S.A.~ Â: ORG
+the University of Piraeus: ORG
+the Total Tax Burden: ORG
+the Bureaucracy Involved: ORG
+Friday: DATE
+February 20, 2009: DATE
+the Development of Several Business Sectors: ORG
+Supermarkets: NORP
+Construction Companies: ORG
+Between 2005 and 2008: DATE
+the Banking System: ORG
+Yiannis Varoufakis: PERSON
+Tasos Patokos: PERSON
+Greece: GPE
+Analyzing the Business Data of the Athens Chamber of Commerce and Industry: ORG
+Nationwide Greek Chambers' Research: Identifying the Problems: ORG
+Most Accurate Estimation: FAC
+the Greek Recession and Austerity Measures: EVENT
+the Correlation Between Firms' Transactions: ORG
+the Greek Public Sector: ORG
+Undergraduate Project: University of Essex: ORG
+the English Government: ORG
+1930: DATE
+English: LANGUAGE
+Project: Athens University of Economics and Business: ORG
+the State Hospital of Lamia'- Â: ORG
+University of Essex: ORG
+University of Essex â€“â€˜Romano Prodi: ORG
+University of Essex â€“â€˜Population Growth As A Source Of Economic Growth'- Â: ORG
+University of Essex -â€˜Market: ORG
+the late 1980s: DATE
+Discuss: PERSON
+University of Essex: ORG
+the Purchasing Power Parity: ORG
+Athens University of Economics and Business â€“â€˜Operational Analysis: ORG
+the Greek Pharmaceutical: ORG
+Athens University of Economics and Business â€“â€˜Economic Analysis: ORG
+K.M. Westelle & Associates: ORG

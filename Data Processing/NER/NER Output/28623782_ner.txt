@@ -1,0 +1,121 @@
+Highlights
+
+Credit & Accounts Payables/Receivables Management
+Pricing and Cost Reduction Strategies
+Finance & Procurement
+Forecasting: ORG
+Contract Management & Risk Analysis
+Financial & Business Planning Analysis: ORG
+Career Accomplishments
+
+Formally: WORK_OF_ART
+National Account Executives: ORG
+10%: PERCENT
+10 days: DATE
+Territory Divestiture Collaboration: ORG
+June 2013 to February 2015: DATE
+State
+
+Forecasting Business Partner: ORG
+12: CARDINAL
+$58M: MONEY
+National Account Executives: ORG
+Assisted: ORG
+annual: DATE
+the Planning Revenue Growth Management: ORG
+PRGM: ORG
+National Retail Sales Drug: ORG
+$87.6M Trade: MONEY
+Drug/Value: ORG
+1010: DATE
+Scan Data: ORG
+10%: PERCENT
+18 month: DATE
+Freds, Variety Stores: ORG
+Big Lots: ORG
+Aldi: PERSON
+Managed Checkbook Accruals: PERSON
+Trade Fund and Marketing Funding: ORG
+Monthly: DATE
+Accrual: ORG
+Dead Net Sales Income: ORG
+DNNSI: ORG
+Volumes: PERSON
+Package/Brand Categories: WORK_OF_ART
+Non-Financial: ORG
+Prepared Regional and National: WORK_OF_ART
+P&L: ORG
+Submitted National: ORG
+weekly: DATE
+Sarbanes Oxley: PERSON
+September 2011 to June 2013: DATE
+State: ORG
+Costco: ORG
+Weis: GPE
+Monthly: DATE
+NRS: ORG
+$6 million: MONEY
+Communicate: ORG
+National Sales Executives: ORG
+P&L
+National Retail Sales Key: ORG
+Sarbanes Oxley: PERSON
+SOX: ORG
+SEC Regulations: ORG
+Ernst: PERSON
+Young: PERSON
+monthly: DATE
+Weekly Micro Strategy: ORG
+IWR: ORG
+Accrual/Payment Analysis: ORG
+Manage Off Invoice Accrual Post: WORK_OF_ART
+Approve Rebate: WORK_OF_ART
+September 2010 to September 2011: DATE
+II: CARDINAL
+Philly Coke: PERSON
+Supply Chain Financial Risk: ORG
+day: DATE
+DSO: ORG
+97: CARDINAL
+one year: DATE
+Researched Market: ORG
+Performed A/R month end: ORG
+Sarbanes Oxley: PERSON
+SOX: ORG
+June 2009 to September 2010: DATE
+State: ORG
+Subway West: LOC
+$3M: MONEY
+Performed A: ORG
+month: DATE
+83%: PERCENT
+10 month: DATE
+ACH: ORG
+47%: PERCENT
+month end: DATE
+Dunn: GPE
+Bragg Street: LOC
+November 2007 to December 2008: DATE
+Ran Client: PERSON
+July 2007 to October 2007: DATE
+third: ORDINAL
+Processed: GPE
+Maintained: GPE
+August 2004 to July 2007: DATE
+Collections: ORG
+daily: DATE
+monthly: DATE
+15: CARDINAL
+Maintained: GPE
+Provided Market: ORG
+Yearly: DATE
+Scheduled, Hired: ORG
+Disciplined: NORP
+University of Phoenix Masters of Business Administration City: ORG
+State: ORG
+Florida Agricultural and Mechanical University Bachelor of Science : Public Management - Human Resources City: ORG
+State Public Management -
+Human Resources
+Technical Skills: ORG
+IWR: ORG
+Microsoft Office: ORG

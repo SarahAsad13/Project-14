@@ -1,0 +1,17 @@
+Graphic Designer: PERSON
+January 2014 to January 2015: DATE
+Rowena: ORG
+one: CARDINAL
+Fall 2014 to Spring 2015: DATE
+January 2006: DATE
+January 2002 to January 2004: DATE
+2010: DATE
+Journalism: GPE
+2015: DATE
+De Anza College: ORG
+State Journalism
+Additional Information: ORG
+Rowena: ORG
+De Anza College: ORG
+Rutgers University: ORG
+Fall 2016: DATE

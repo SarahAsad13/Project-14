@@ -1,0 +1,41 @@
+BUSINESS DEVELOPMENT: ORG
+Summary
+Energetic: PRODUCT
+30%: PERCENT
+monthly: DATE
+42 %: PERCENT
+2015: DATE
+8: CARDINAL
+Jun 2010: PERSON
+2012: DATE
+32%: PERCENT
+Weatherford: GPE
+Baker Hughes: PERSON
+40%: PERCENT
+Baker Hughes: ORG
+Halliburton: GPE
+Weatherford: GPE
+21%: PERCENT
+Jan 2009 to Jan 2016: DATE
+more than 14%: PERCENT
+20%: PERCENT
+1 year: DATE
+Calgary: GPE
+Houston: GPE
+Calgary: GPE
+Technical Sales Representative / Key Account Team: ORG
+Jan 2005: DATE
+Jan 2016: DATE
+more than 200%: PERCENT
+9 million dollar: MONEY
+the oilfield business group: ORG
+Created: ORG
+Engineering,: ORG
+Manufacturing and Management: ORG
+Texas Jan 2001 to Jan 2016: DATE
+over 1million dollars: MONEY
+Bachelor of Science , Communication Disorders University of Houston: ORG
+Houston Texas Communication Disorders
+Marketing courses University: ORG
+University of Houston
+Skills: ORG

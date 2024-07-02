@@ -1,0 +1,19 @@
+two years': DATE
+1 year's: DATE
+Basic Microsoft Office: ORG
+Dillard: ORG
+11/2015: CARDINAL
+02/2016: CARDINAL
+Receptionist Company Name: ORG
+Operate Microsoft Lync: PERSON
+02/2015 to 11/2015: CARDINAL
+Compile: PRODUCT
+Understand: GPE
+Skills
+Excellence: ORG
+Associate of Arts: ORG
+Mesa Community College: ORG
+State General Business: ORG
+2014: DATE
+James Madison Preparatory School: PERSON
+State: ORG

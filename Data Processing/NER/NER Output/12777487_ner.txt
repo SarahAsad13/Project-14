@@ -1,0 +1,98 @@
+5,000: CARDINAL
+Certified Trainer of Trainers (ToT: WORK_OF_ART
+SIOP: ORG
+Sheltered Instruction
+Observation Protocol: ORG
+Multiple Learning Management System: ORG
+Moodle: PERSON
+Blackboard
+Multiple: PERSON
+International Society for Technology in Education: ORG
+ISTE: ORG
+2012: DATE
+ESL: ORG
+the Year: DATE
+Plummer Middle School: ORG
+2006-2007: DATE
+International Literacy Association: ORG
+2014: DATE
+Online Learning Coordinator - Program Training: ORG
+October 2013: DATE
+RtI: ORG
+General Education: ORG
+Campus: ORG
+One: CARDINAL
+one: CARDINAL
+Oversee: ORG
+the Learning Management System: ORG
+125: CARDINAL
+Virtual School and Credit Recovery: ORG
+Design: PRODUCT
+Â Â Â  : PRODUCT
+75: CARDINAL
+Instructional Technology: ORG
+System Administrator: ORG
+5,000: CARDINAL
+65,000: CARDINAL
+Design: PRODUCT
+Homebound: DATE
+Virtual School and Credit
+Recovery: ORG
+2: CARDINAL
+11: CARDINAL
+Certified Classroom Teacher: WORK_OF_ART
+August 2007 to October 2013 Company Name ï¼​ City: DATE
+RtI: ORG
+General Education: ORG
+4th Grade ESL Language Arts: ORG
+SIOP: ORG
+daily: DATE
+Develop: ORG
+Co-Teach: ORG
+Language Arts: WORK_OF_ART
+August 2005 to June 2007 Company Name: DATE
+1: CARDINAL
+daily: DATE
+Summer Curriculum Writing: PERSON
+District Staff Development: ORG
+Language Arts: WORK_OF_ART
+August 2003 to June 2005: DATE
+daily: DATE
+Develop: ORG
+TEKS: ORG
+Summer Curriculum Writing: PERSON
+Training
+Bachelor of Science : Criminal Justice: PERSON
+December 1998: DATE
+Southwest Texas State University: ORG
+ELAR & ESL 4-8 - 2003: ORG
+October 2013: DATE
+Lone Star College: ORG
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+2016: DATE
+Lamar University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+ToT: ORG
+SIOP: ORG
+Abydos Learning International: WORK_OF_ART
+Texas: GPE
+Trainer
+TEA Certified: ORG
+English: LANGUAGE
+Language Arts: ORG
+4: CARDINAL
+English: LANGUAGE
+Supplementary)Â  K-12
+TEA Certified Social Studies: PERSON
+4: CARDINAL
+Harris County Department of Education: ORG
+9-12: DATE
+Skills
+Learning Mangement System: ORG
+Learning Technologies, Technology Integration: ORG
+Online Programs: PERSON

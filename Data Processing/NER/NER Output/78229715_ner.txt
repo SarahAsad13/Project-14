@@ -1,0 +1,102 @@
+AVP: ORG
+Detail: PERSON
+Quick: ORG
+Great Plains: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Budget: ORG
+Journal Entries & General Ledge
+Strong Administrative: ORG
+Organizational Skills
+Reporting and Documentation
+Planning and Scheduling: PERSON
+Governance, Risk & Ethics: ORG
+Effective Time Management and Communication Skills
+Public: ORG
+AVP: ORG
+Finance: ORG
+Research Sales & Trading Division: ORG
+Market Research Healthcare Division: ORG
+the G/L.
+Prepared: ORG
+monthly: DATE
+annual: DATE
+Name City: GPE
+Project Managers: ORG
+Schedule: PERSON
+Recording of AP: ORG
+Monthly: DATE
+Perform month-end: DATE
+Maintain: PERSON
+weekly: DATE
+Working: ORG
+Working: ORG
+Ledger Accounting: PERSON
+JD Edwards: PERSON
+10/2010: CARDINAL
+Name City: GPE
+Project Managers: ORG
+Schedule: ORG
+Recording of AP: ORG
+Monthly: DATE
+Perform month-end: DATE
+Maintain: PERSON
+weekly: DATE
+Working: ORG
+Working: ORG
+Ledger Accounting: PERSON
+Quickbooks: GPE
+Name City: GPE
+monthly: DATE
+Managed A/P and A/R: WORK_OF_ART
+weekly: DATE
+monthly: DATE
+Prepared: PERSON
+weekly: DATE
+Communicated: ORG
+Bank: ORG
+Maintained: GPE
+weekly: DATE
+Prepared: PRODUCT
+Accountant: ORG
+Name City: GPE
+State: ORG
+Monthly: DATE
+Monthly: DATE
+AR: ORG
+General Ledger Accounting: ORG
+Great Plains: GPE
+Accountemps Salaried Professional Service - Accountant 08/2005: ORG
+Name City: GPE
+State: ORG
+Monthly: DATE
+Bank: ORG
+daily: DATE
+Ledger Accounting: PERSON
+Great Plains: GPE
+Name City: GPE
+State: ORG
+Monthly: DATE
+Responsible for Accounts Payable: ORG
+Use of Property Management: ORG
+Deposited: PERSON
+Prepared: PERSON
+monthly: DATE
+Aged Receivables: ORG
+annual: DATE
+Timberline Accounting Software: ORG
+Name City: GPE
+Schedules A: PERSON
+IRS: ORG
+prior years: DATE
+Prepared the end of day: WORK_OF_ART
+Bachelor of Accounting Cameron University City: ORG
+State: ORG
+Accounting Software: ORG
+Bank: ORG
+Analysis of Financial Statements: ORG
+Variance: PERSON
+General Ledger Accounting: ORG
+JD Edwards: PERSON
+Quickbooks: ORG
+Excel: PRODUCT

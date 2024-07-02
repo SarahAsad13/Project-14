@@ -1,0 +1,87 @@
+ACTIVITY SPECIALIST
+Summary
+
+Highly: ORG
+10 years: DATE
+8 years: DATE
+8 years: DATE
+Microsoft: ORG
+Photoshop: PERSON
+Filemaker: PERSON
+MS Office: ORG
+Substitute Teaching Certificate: ORG
+two: CARDINAL
+6 years: DATE
+summer: DATE
+First Aid: ORG
+Vocal: PRODUCT
+the Desi Arnaz Performing Arts Department: ORG
+I.S: GPE
+238: CARDINAL
+4 years: DATE
+over 200: CARDINAL
+6: CARDINAL
+8
+
+years: DATE
+Material Development Â 
+
+Created: ORG
+Process Improvement
+Developed: WORK_OF_ART
+Performing Arts Schools: PERSON
+New York City: GPE
+Department of Education: ORG
+Lesson Planning:
+Introduced: ORG
+Community Service: ORG
+Sports and Arts Foundation: ORG
+year: DATE
+Parent Communication
+Regularly: ORG
+June 2001 to August 2013: DATE
+age 6-12: DATE
+Chorus: PERSON
+January 2009 to September 2011 Company Name ï¼​ City: DATE
+the Colonial Theatre: ORG
+Pittsfield: GPE
+Massachusetts: GPE
+two consecutive years: DATE
+Teen Action Service Learning Program: ORG
+January 2009 to September 2011 Company Name ï¼​ City: DATE
+September 2004 to September 2011 Company Name ï¼​ City: DATE
+Shoe: ORG
+daily: DATE
+Board of Education: ORG
+I.S.: GPE
+109: CARDINAL
+213: CARDINAL
+238: CARDINAL
+88-15: CARDINAL
+Classroom Teacher: PERSON
+January 2007 to June 2008: DATE
+English: LANGUAGE
+weekly: DATE
+Bachelor of Arts: ORG
+Professional Music: ORG
+Berklee College of Music: ORG
+Coursework in Music Education: ORG
+Berklee College of Music Deans List :: ORG
+Faculty: GPE
+2004: DATE
+Bayside High School Art and Music: ORG
+Berklee College of Music Bayside High School
+
+Gained: ORG
+Bayside High School Choral Club
+
+Vocal Academic Achievement Award
+
+Interests
+
+Fitness: ORG
+Peer Counseling: ORG
+Customer Service: ORG
+HTML: ORG
+Microsoft: ORG
+Retail/Sales,: ORG

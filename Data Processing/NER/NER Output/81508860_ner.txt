@@ -1,0 +1,98 @@
+DIGITAL: ORG
+Marketing and Event: ORG
+International Marketing: ORG
+first: ORDINAL
+Volunteer: PERSON
+Danish: NORP
+DABGO: ORG
+Danish: NORP
+Silicon Valley: LOC
+30: CARDINAL
+30: CARDINAL
+200: CARDINAL
+Microsoft Office: ORG
+QuickBooks, Navision: ORG
+Rejs Ud: ORG
+Danish: NORP
+HTML: ORG
+Keynote: ORG
+CSS: ORG
+Digital Marketing Director: ORG
+January 2014 to January 2015: DATE
+Danish American Chamber of Commerce Northern CA: ORG
+Reconstructed Web-site: PERSON
+Facebook / Linkedin / Twitter: ORG
+Media: NORP
+PowerPoint: ORG
+Salesforce( Dreamforce: WORK_OF_ART
+Structured Sales Processes: ORG
+Marketing and Event: ORG
+Danish American Chamber of Northern California: ORG
+80-100: CARDINAL
+Program Office: ORG
+January 2013 to January 2014: DATE
+Danish: NORP
+Silicon Valley: LOC
+US: GPE
+Danish: NORP
+Silicon Valley: LOC
+VC: PERSON
+Developed: ORG
+VC: ORG
+Silicon Valley: LOC
+Danish: NORP
+Denmark: GPE
+daily: DATE
+Human Resource: ORG
+January 2013 to January 2014: DATE
+Danish: NORP
+East: LOC
+Danish: NORP
+Visas: GPE
+400: CARDINAL
+Danish: NORP
+Communicating: GPE
+US: GPE
+PET: ORG
+Denmark: GPE
+Denmark: GPE
+Danish: NORP
+Danes: NORP
+Assisted: ORG
+Danish: NORP
+US: GPE
+the Swedish Innovation Center: ORG
+Norway: GPE
+Silicon Vikings: ORG
+Translator & Product Tester: ORG
+Apple HQ: ORG
+January 2010 to January 2012: DATE
+Worldserver: PERSON
+iCloud: PERSON
+Lead Danish Translation: PERSON
+Project Management: ORG
+UC Berkeley: ORG
+2014-2015: DATE
+1 2008: DATE
+San Francisco State University Photography: ORG
+Human Resources: ORG
+BA : Business Administration: ORG
+1 1998: DATE
+Copenhagen Business school Business Administration: ORG
+Apple: ORG
+CA: ORG
+CSS: ORG
+Danish: NORP
+HTML, Human Resource, Human Resources: ORG
+Innovation: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Navision, Enterprise: ORG
+Processes: ORG
+Coding: ORG
+Project Management: ORG
+QuickBooks: ORG
+Structured: ORG
+Swedish: NORP
+Translation, Translator: ORG
+VC: PERSON

@@ -1,0 +1,88 @@
+Highlights: GPE
+Superior: LOC
+Exemplary: PERSON
+Punctual: LOC
+Exceptional Computer Proficiency: WORK_OF_ART
+Microsoft Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Internet Research
+Social Media: ORG
+CisionPoint: ORG
+2012: DATE
+February 2013: DATE
+Salesforce & Fattail: ORG
+monthly: DATE
+Schedule: PERSON
+Newsletters: PERSON
+Assist: NORP
+monthly: DATE
+Create Presentations: ORG
+Media Coordinator: ORG
+June 2012 to January 2013: DATE
+50: CARDINAL
+Coordinate: ORG
+Process: ORG
+Review: ORG
+Assemble: PERSON
+monthly: DATE
+the end of the month: DATE
+Provide: PERSON
+Check: ORG
+July 2011 to June 2012: DATE
+Read: PERSON
+monthly: DATE
+Manage: PRODUCT
+Warner Bros.: ORG
+Paramount: ORG
+Universal: ORG
+CBS-Radford: ORG
+February 2011 to June 2011 Company Name: DATE
+Organize: GPE
+Conduct: PERSON
+February 2010 to June 2010: DATE
+Obtain: PRODUCT
+Compile: PRODUCT
+Compile: PRODUCT
+Organize: GPE
+Marketing Intern: PERSON
+September 2009 to January 2010: DATE
+11: CARDINAL
+Twitter: PRODUCT
+11: CARDINAL
+Upload: ORG
+Develop: ORG
+September 2008 to June 2010: DATE
+Bachelor of Arts : Public Relations: ORG
+Journalism Seton Hall University: ORG
+Cum Laude Public Relations: ORG
+Journalism Cum
+Laude: PERSON
+Adobe Photoshop: PERSON
+Chinese: NORP
+Fame: ORG
+IMS: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Newsletters: PERSON
+Internet Research: ORG
+Oracle: ORG
+Research: ORG
+Type, Video: ORG
+Professional Affiliations
+Order: ORG
+Greek: NORP
+Society: ORG
+Alpha Phi Sorority: PERSON
+March 2007-: DATE
+January 2009-: DATE
+Present Relay for Life Participant: WORK_OF_ART
+April 2007, 2008,: DATE
+2009: DATE
+2010: DATE
+SHU: ORG
+September 2006, 2007, 2008: DATE
+2009: DATE

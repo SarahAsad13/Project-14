@@ -1,0 +1,48 @@
+Middle: LOC
+Elementary: PERSON
+Football, Basketball: ORG
+Strength: ORG
+08/2009: CARDINAL
+05/2012: CARDINAL
+PE/Special Education/Coach Company Name: ORG
+three: CARDINAL
+the Middle School: ORG
+Elementary: PERSON
+Football, Basketball, Baseball: ORG
+Track & Field: ORG
+the Athletic Department: ORG
+Maintained: GPE
+Maintained: GPE
+Training: PERSON
+May 2009: DATE
+Parks and Recreation Management SOUTHWESTERN OKLAHOMA STATE UNIVERSITY: ORG
+Parks: PERSON
+Recreation
+Management
+Criminal Justice Blinn College: ORG
+ï¼​ City: GPE
+State: ORG
+SAAC: ORG
+the Student Council: ORG
+Crimianl: GPE
+Texas A&M University-Commerce: ORG
+SAAC: ORG
+THSCA: ORG
+the Bulldogs Baseball Team: ORG
+2007-09: DATE
+Special Olympics Coordinator: ORG
+TKE: ORG
+Tau Kappa
+Epsilon: PERSON
+The Student Athlete Advisory Committee: ORG
+SAAC: ORG
+COMMERCE: ORG
+TX: ORG
+the Lions Football Team: ORG
+the Student Athlete Advisory Committee: ORG
+the Criminal Law Club BLINN: ORG
+TX: ORG
+the Buccaneers Football and Baseball Teams: ORG
+CPI Certified (Crisis Prevention Intervention: ORG
+THSCA: ORG
+Texas High School Coaches Association: ORG

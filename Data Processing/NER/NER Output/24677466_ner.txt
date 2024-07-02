@@ -1,0 +1,77 @@
+SOCIAL MEDIA & COMMUNICATIONS: ORG
+Education: ORG
+2007: DATE
+North Carolina Agricultural & Technical State University City: ORG
+seven years: DATE
+Social Media & Communications: ORG
+07/2011: CARDINAL
+Formulates: ORG
+Oversees: ORG
+Agitate Media: PERSON
+MAM Squared: ORG
+LLC: ORG
+Evaluates: NORP
+Community Outreach & Involvement: ORG
+Technical Community: ORG
+Name City: GPE
+Kentico: NORP
+43: CARDINAL
+Facebook: GPE
+LinkedIn: GPE
+YouTube: ORG
+Twitter: PRODUCT
+Generated: ORG
+monthly: DATE
+Developed: PRODUCT
+43: CARDINAL
+10/2008: DATE
+Name City: GPE
+Assisted: ORG
+Google Analytics: ORG
+Twitter: PRODUCT
+monthly: DATE
+Worked with Community Outreach Department: ORG
+Assisted: ORG
+Youth Department: ORG
+10/2008: CARDINAL
+Name City: GPE
+more than 16,000: CARDINAL
+Contributed: ORG
+Contributed: ORG
+the Homefront Magazine: ORG
+Edited Homefront Magazine: ORG
+AP Style: ORG
+Processed: GPE
+Dreamweaver
+Responded: ORG
+daily: DATE
+1: CARDINAL
+Coordinator Intern: PERSON
+Name City: GPE
+Developed: ORG
+14-17 years old: DATE
+Coordinated: ORG
+annual: DATE
+annual: DATE
+the Human Relations Department
+
+Public Relations Intern: ORG
+Name City: GPE
+YMCA: ORG
+YMCA: LOC
+Assisted the Financial Development Department: ORG
+The Mayor's Challenge: WORK_OF_ART
+Guilford County: GPE
+The Mayor's Challenge: WORK_OF_ART
+YMCA: ORG
+Created: ORG
+Name City: GPE
+Athletic Department's: ORG
+Athletic Department's: ORG
+weekly: DATE
+Technical Skills: WORK_OF_ART
+Dreamweaver: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+Oracle Procurement: ORG
+Kentico Content Management System: ORG

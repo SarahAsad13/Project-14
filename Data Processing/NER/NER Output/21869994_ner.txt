@@ -1,0 +1,34 @@
+ASSISTANT CHEF
+Professional Summary: ORG
+Training
+Bachelor's: PERSON
+Jan 2016: DATE
+City: GPE
+Magna Cum Laude: PERSON
+ART INSTITUTE OF: ORG
+WASHINGTON: GPE
+City: GPE
+State Culinary Arts: ORG
+Name City: GPE
+State: ORG
+4: CARDINAL
+4: CARDINAL
+Name City: GPE
+State: ORG
+Prepare: ORG
+Assists Executive Chef: ORG
+Sous Chefs: PERSON
+first: ORDINAL
+White House: ORG
+Executive Chef: ORG
+Name City: GPE
+State: ORG
+Observe: LOC
+Name City: GPE
+Name City: GPE
+State Accounts Receivable: ORG
+Match: LOC
+Calculate: ORG
+Name City: GPE
+State Administrative: ORG
+10/2003: CARDINAL

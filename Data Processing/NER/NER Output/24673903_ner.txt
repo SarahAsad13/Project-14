@@ -1,0 +1,19 @@
+Career Overview
+
+Dedicated Customer Service Representative: WORK_OF_ART
+Core Strengths
+
+Strong: PERSON
+Sharp: ORG
+Energetic: LOC
+September 2013 to January 2016: DATE
+2: CARDINAL
+daily: DATE
+150: CARDINAL
+Continuously: ORG
+August 2005: DATE
+POP: ORG
+May 2003 to April 2005: DATE
+Business City: GPE
+Summa Cum Laude Business: PERSON
+Summa Cum Laude: PERSON

@@ -1,0 +1,110 @@
+two years: DATE
+the US Government: ORG
+three: CARDINAL
+twelve: CARDINAL
+January 2004: DATE
+January 2012: DATE
+Name City: GPE
+State: ORG
+F/A-18C.
+Masked: PRODUCT
+Performed Plastic Media Blasting: ORG
+Striped: PRODUCT
+Cleaned: ORG
+Sprayed: PERSON
+lacquer: ORG
+Painted: ORG
+Applied: ORG
+Laid: PERSON
+Aluminum: NORP
+three: CARDINAL
+twelve: CARDINAL
+Ran: PERSON
+Tool Control Program: ORG
+Inventoried
+HAZMAT Separated: ORG
+HAZWASTE: ORG
+EPA: ORG
+daily: DATE
+0%: PERCENT
+January 2012: DATE
+Name City: GPE
+State Administration Clerk
+
+Prepare: ORG
+Organize: GPE
+October 2013: DATE
+June 2014: DATE
+Name City: GPE
+P-3s: GPE
+T-34s: GPE
+T-44s: PRODUCT
+F/A-18s: ORG
+Performed Plastic Media Blasting: ORG
+Striped: PRODUCT
+Cleaned: ORG
+Sprayed: PERSON
+lacquer: ORG
+Painted: ORG
+November 2014: DATE
+March 2015: DATE
+Name City: GPE
+State Aircraft Painter
+
+Worked on: ORG
+Boeing: ORG
+737 - 777: PRODUCT
+Airbus: ORG
+320: PRODUCT
+Striped: PRODUCT
+Cleaned: ORG
+Sprayed: PERSON
+lacquer: ORG
+Painted: ORG
+April 2015: DATE
+October 2015: DATE
+Name City: GPE
+State Aircraft Painter
+
+Worked: ORG
+Airbus 319 & 320: ORG
+Sanded: CARDINAL
+Cleaned: ORG
+lacquer: ORG
+Florida State College: ORG
+Jacksonville City: GPE
+State Aircraft Coating Technician Certificate: ORG
+148 hours: TIME
+Associated Painters
+Tulsa Welding School City: ORG
+State Welding Certificate Job-Related Training
+Interests
+Aviation Structural Mechanics Common Core: ORG
+A1: PERSON
+4 weeks: DATE
+Level Strand: PERSON
+40 hours: TIME
+Aircraft Corrosion: ORG
+40 hours: TIME
+Aircraft Paint/Finish: ORG
+80 hours: TIME
+Additional Information
+
+Aviation Structural Mechanics Common Core: ORG
+A1: PERSON
+4 weeks: DATE
+Level Strand: PERSON
+40
+hours: TIME
+Aircraft Corrosion: ORG
+40 hours: TIME
+Aircraft Paint/Finish: ORG
+80 hours: TIME
+Awards Navy: ORG
+http://www.usamilitarymedals.com/navy-ribbons-awards-navy-marine-corps-achievement-medal-ribbon-c-: GPE
+Marine Corps Achievement Medal Ribbon Affiliations: ORG
+the American Legion Post: ORG
+M.U.C.H.: GPE
+Makers United for Children's Hope) Foundation: ORG
+Maintain: PRODUCT
+Technician: NORP

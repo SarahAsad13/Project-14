@@ -1,0 +1,74 @@
+Design Engineer: PERSON
+Enthusiastic: LOC
+Machine Operation & Programming: ORG
+Autodesk Inventor: PERSON
+Autocad: ORG
+Solidworks: ORG
+Lean Manufacturing: ORG
+Computer Aided Drafting & DesignÂ: ORG
+Qualifications
+
+Rapid: ORG
+Microsoft: ORG
+Communication: ORG
+10/2011: CARDINAL
+Name City: GPE
+Autodesk Inventor: PERSON
+5: CARDINAL
+CAD: ORG
+CAD: ORG
+Researched: ORG
+Drafter: PERSON
+Lathe Operator 06/2010: ORG
+10/2010: CARDINAL
+Name City: GPE
+Polish: NORP
+Blemishes: GPE
+Vacuum Packed: PERSON
+CAD: ORG
+NC Programmer/Administrative: PERSON
+Name City: GPE
+Ran CNC: PERSON
+Name City: GPE
+Trumpf Trumatic L260 Punch/Laser: ORG
+L4030: PERSON
+Maintenance: PERSON
+Name City: GPE
+Name City: GPE
+02/1987: CARDINAL
+Name City: GPE
+Maintained: GPE
+Associates of Applied Science : Computer Drafting and Design: ORG
+ITT Technical Institute City: ORG
+State Computer Drafting: ORG
+February 25, 2000: DATE
+June 18, 1999: DATE
+Rotolas
+Training: PERSON
+February 25, 2000: DATE
+State: ORG
+2.83: CARDINAL
+State: ORG
+Advanced Custom Training Certification: ORG
+Enhancement City: GPE
+State: ORG
+Skills: ORG
+Client/Server: PERSON
+CNC: ORG
+Engineer: ORG
+Instruction, Inventory, Laser: ORG
+Lathe, Linux: GPE
+Lotus Notes: PERSON
+Mapics: GPE
+Mechanical: ORG
+Microsoft Office: ORG
+Windows Operating Systems: ORG
+PDM: ORG
+Personnel: ORG
+Polish: NORP
+Processes,: ORG
+Programming, Project Management: ORG
+Red Hat: GPE
+Revit: GPE
+Shipping: PERSON
+Technical Management: ORG

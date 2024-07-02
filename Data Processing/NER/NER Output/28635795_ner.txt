@@ -1,0 +1,83 @@
+DRIVER: ORG
+more than five years: DATE
+Bachelor: ORG
+J.S.S. Law College: ORG
+Karnataka: GPE
+India: GPE
+Karnataka: GPE
+the Legal Aid Cell: FAC
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Aptech Learning Institution: ORG
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Aptech Learning Institution: ORG
+FLIXILBEL: PERSON
+DRIVER: ORG
+April 2015 to March 2016: DATE
+Server Fire: FAC
+Brazil: GPE
+Arrange: PERSON
+Pleasant: ORG
+September 2013 to March 2014: DATE
+Translator: GPE
+Legal: GPE
+Cultural Adivsor: ORG
+International Security: ORG
+January 2011 to January 2013: DATE
+Farsi (Daro: ORG
+English: LANGUAGE
+American: NORP
+CDP: ORG
+Community Development Program: ORG
+Education Department: ORG
+Kunduz Province: GPE
+Translated: ORG
+Maintained: GPE
+January 2010 to January 2011: DATE
+State: ORG
+Maintained: GPE
+weekly: DATE
+up to 12 months: DATE
+English: LANGUAGE
+January 2005 to January 2007: DATE
+English Language Center Puli Khumri: WORK_OF_ART
+Afghanistan: GPE
+English: LANGUAGE
+English: LANGUAGE
+Maintained: GPE
+January 2008 to January 2011: DATE
+State: ORG
+the State Legal Services
+Authority: ORG
+January 2008 to January 2011: DATE
+Facilitated: ORG
+Bachelor of Academic Law: ORG
+J.S.S Law College Mysore: ORG
+State: GPE
+India: GPE
+English: LANGUAGE
+Pashto: GPE
+Daro: PERSON
+Hindi: GPE
+Farsi (Dari: ORG
+English: LANGUAGE
+American: NORP
+English: LANGUAGE
+Second Language: LOC
+Puli Khumri: GPE
+Afghanistan: GPE
+Skills: ORG
+English: LANGUAGE
+English: LANGUAGE
+Farsi: ORG
+Hindi: GPE
+Legal: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Translator: GPE

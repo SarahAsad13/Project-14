@@ -1,0 +1,45 @@
+7 year: DATE
+working long hours: TIME
+Scaffold Erection
+Measurement and Calculation Accuracy
+Power Tools
+: ORG
+Debris: NORP
+Blueprints: ORG
+50+ pounds: QUANTITY
+Preventive and Reparative Maintenance
+Forklift Operation
+Commercial Construction
+Safety: ORG
+04/2019: DATE
+06/2020: CARDINAL
+Prepared: PRODUCT
+daily: DATE
+Solar Panel Installer: ORG
+08/2018: ORG
+Examined: NORP
+04/2010: CARDINAL
+Central High School - City 
+Associate of Science : Construction Management: ORG
+Expected: ORG
+06/2024: GPE
+Liberty University - City: ORG
+Scaffold Erection
+Measurement and Calculation Accuracy
+Power Tools
+: ORG
+Debris: NORP
+Blueprints: ORG
+50+ pounds: QUANTITY
+Preventive and Reparative Maintenance
+Forklift Operation
+Commercial Construction
+
+Safety: ORG
+04/2019: DATE
+06/2020: CARDINAL
+Prepared: PRODUCT
+daily: DATE
+Solar Panel Installer: ORG
+08/2018: ORG
+Examined: NORP

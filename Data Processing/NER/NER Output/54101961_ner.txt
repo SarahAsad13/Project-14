@@ -1,0 +1,35 @@
+Technology: GPE
+8: DATE
+7: DATE
+Vista: ORG
+XP: ORG
+2013: DATE
+Cables Software: ORG
+Adobe Reader: PERSON
+Mozilla: PERSON
+Loss Prevention and Management: ORG
+Loss Prevention: ORG
+Materials Handler: PERSON
+2009: DATE
+State
+
+Extract: ORG
+Mailroom Clerk Oct: PERSON
+2007 to Feb 2008: DATE
+Dec 2006: DATE
+2017: DATE
+Moorpark College Network Engineering: ORG
+AS , Computer Information Systems: ORG
+2007: DATE
+Moorpark College Computer Information Systems: ORG
+1994: DATE
+Simi Valley High School Graduate: ORG
+Skills
+Adobe,: ORG
+IE: ORG
+Loss Prevention: ORG
+Win, Monitors: ORG
+Printers: PERSON
+Routers: ORG
+Scanners: NORP
+Vista: ORG

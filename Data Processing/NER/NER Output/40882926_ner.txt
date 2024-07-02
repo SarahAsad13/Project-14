@@ -1,0 +1,67 @@
+January 2008 to April 2014: DATE
+Department: ORG
+the
+Department's: ORG
+Department: ORG
+annual: DATE
+Iowa: GPE
+Iowa: GPE
+January 2000 to December 2007: DATE
+Department: ORG
+Department: ORG
+Liaison: PERSON
+Grow: PERSON
+Iowa: GPE
+Agriculture: ORG
+Iowa: GPE
+The Good Neighbor Award: WORK_OF_ART
+first: ORDINAL
+Iowa: GPE
+Media Consultant for the NASDA (National Association of State Departments of Agriculture: ORG
+U.S.: GPE
+Food Export Showcase: ORG
+FDA: ORG
+Food and Drug Administration: ORG
+Development Coordinator/Event Planner: ORG
+September 1997 to May 2000: DATE
+PPGI Book Fair: ORG
+the State Fair Grounds: ORG
+the two years: DATE
+annual: DATE
+Ruth Westheimer: PERSON
+Associate Degree: PERSON
+Paralegal/Legal Research: ORG
+Paralegal/Legal Research: ORG
+Iowa Iowa Food Bank: ORG
+the World
+Food Prize Hunger Summit: ORG
+State Emergency Operations Center: ORG
+Inter-Agency State Committee: ORG
+Iowa Insurance Division: ORG
+Iowans: NORP
+Volunteer Iowa: PERSON
+Department: ORG
+Iowa Council of International Understanding: ORG
+Drake
+Community Center: ORG
+Iowa Lutheran Services: ORG
+Volunteer: PERSON
+ESLP: EVENT
+English: LANGUAGE
+COMMITTEES/COMMUNITY ACTIVITIES Iowa Council on Homelessness: ORG
+Iowa Iowa Food Bank: ORG
+the World Food Prize Hunger Summit: ORG
+State Emergency Operations Center: ORG
+Inter-Agency State Committee: ORG
+Iowa Insurance Division: ORG
+Iowans: NORP
+Volunteer Iowa: PERSON
+Department: ORG
+Iowa Council of International Understanding: ORG
+Drake Community Center: ORG
+Iowa Lutheran Services: ORG
+Volunteer: PERSON
+ESLP: EVENT
+English: LANGUAGE
+Second Language Program: ORG
+Book, Consultant, event planning, Fund Raising: WORK_OF_ART

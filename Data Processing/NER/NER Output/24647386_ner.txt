@@ -1,0 +1,121 @@
+toÂ: CARDINAL
+Skills
+Business Development: ORG
+Specialist: ORG
+Business Development Company Name: ORG
+Account Management: ORG
+$43Â million: MONEY
+annual: DATE
+25: CARDINAL
+500: CARDINAL
+the Bay Area: LOC
+Â University: ORG
+the City of Los Angeles: GPE
+University of California: ORG
+Berkeley: GPE
+San Francisco State University: ORG
+$10 million: MONEY
+annually: DATE
+Obtained: ORG
+multi-million dollar: MONEY
+first four months: DATE
+Develop: ORG
+Silicon Valley Fortune: LOC
+500: CARDINAL
+San Francisco: GPE
+Silicon Valley: LOC
+APTA: LOC
+GBTA: ORG
+Bay Area: LOC
+Bay Area General: LOC
+State
+
+Executive: ORG
+the Bay Area: LOC
+approximately 80: CARDINAL
+the Bay Area: LOC
+San Francisco: GPE
+Oakland-East Bay: ORG
+San Jose: GPE
+Marin County: GPE
+over $65 Million dollars: MONEY
+annually: DATE
+35: CARDINAL
+the Bay Area: LOC
+750KÂ: MONEY
+annually: DATE
+AC Transit: PERSON
+BART: ORG
+Bay Area Rapid Transit: ORG
+the City of San Jose: GPE
+15: CARDINAL
+Bay Area: LOC
+5%: PERCENT
+Bay Area: LOC
+35: CARDINAL
+over 200: CARDINAL
+the Bay Area Region: LOC
+Bay Area: LOC
+over $300,000: MONEY
+Bay Area: LOC
+monthly: DATE
+Bay Area: LOC
+Bay Area: LOC
+San Francisco Teamsters: GPE
+665: CARDINAL
+Bay Area: LOC
+State
+
+Executive: ORG
+35: CARDINAL
+$6 million: MONEY
+annual: DATE
+5: CARDINAL
+first: ORDINAL
+over $70,000: MONEY
+annually: DATE
+Implementation of employee development: ORG
+02/2003 to: CARDINAL
+9: CARDINAL
+Project and Area Managers: ORG
+over 20: CARDINAL
+University of
+North Texas: ORG
+Reunion Arena: PERSON
+Presbyterian Hospital: ORG
+Assisted General: ORG
+Profit: PRODUCT
+Loss Statements: PERSON
+Maintained: GPE
+Crescent Real Estate Equities: ORG
+Cousins Properties: ORG
+Trammel Crow: ORG
+Cushman: PERSON
+Wakefield: GPE
+Equity Office Properties: ORG
+CPS Advanced Management Training Program: ORG
+two weeks: DATE
+06/1999: CARDINAL
+one year: DATE
+Oversaw: GPE
+25: CARDINAL
+monthly: DATE
+daily: DATE
+Class A Office Properties: ORG
+5%: PERCENT
+Training
+Bachelor of Science : Business Administration Marketing / Management East Central University: PERSON
+State Business Administration Marketing: ORG
+San Francisco: GPE
+Association for Commuter Transportation - Northern California Board: ORG
+Silicon Valley: LOC
+International
+Facility Managers Association: ORG
+San Francisco: GPE
+Silicon Valley / East: LOC
+CRM: PRODUCT
+Cold Calling: ORG
+Networking, Budget
+Preparation: ORG
+Â Executive: ORG
+Financial Analysis: ORG

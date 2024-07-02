@@ -1,0 +1,78 @@
+SOUS CHEF
+Summary
+
+Current General: ORG
+Jersey Mike's: PERSON
+Boca Park: GPE
+GM: ORG
+the past 15 months: DATE
+over 30%: PERCENT
+more than 4 years: DATE
+Sous: PERSON
+7: CARDINAL
+the 11 years: DATE
+Quickly: PERSON
+A+: NORP
+-Complex: PRODUCT
+Jersey Mike's: PERSON
+over 30%: PERCENT
+14 months ago: DATE
+3rd: ORDINAL
+2013: DATE
+the Rock - Team Canyons Cross: ORG
+North Carolina: GPE
+8 hours: TIME
+4: CARDINAL
+150: CARDINAL
+14.5 years old: DATE
+40 hours: TIME
+weekly: DATE
+20 hours: TIME
+Name City: GPE
+daily: DATE
+Julius Kalman: PERSON
+the Executive Chef of the Crown Plaza: ORG
+San Antonio: GPE
+a period of 4 years: DATE
+2 month: DATE
+Reason: ORG
+Las Vegas: GPE
+NV: ORG
+Name City: GPE
+40 hours: TIME
+weekly: DATE
+20 hours: TIME
+weekly: DATE
+daily: DATE
+Thursday-Sunday: DATE
+Reason: PERSON
+Melbourne: GPE
+Australia: GPE
+12/2009: CARDINAL
+Name City: GPE
+Best Sports Bar: WORK_OF_ART
+dart league competition: ORG
+40 hours: TIME
+weekly: DATE
+20-30: CARDINAL
+weekly: DATE
+Reason: ORG
+Char: GPE
+Sous Chef 12/2003: PRODUCT
+Name City: GPE
+Sous: PERSON
+daily: DATE
+Vernon: ORG
+Geno's Sports Lounge: ORG
+Bachelor of Science : Business Administration: ORG
+2008: DATE
+Appalachian State University City: ORG
+State: GPE
+Bachelor of Science Business Administration: ORG
+20 semester hours: TIME
+BSBA: ORG
+Criminal Justice: ORG
+University: ORG
+2003: DATE
+State: GPE
+USA: GPE

@@ -1,0 +1,167 @@
+20+ years: DATE
+10+ years: DATE
+10+: DATE
+40: CARDINAL
+September 2009: DATE
+Name City: GPE
+State Software Engineering: ORG
+Windows: ORG
+STL: ORG
+OOP: GPE
+MFC: ORG
+ATL: ORG
+IPC: ORG
+FTP: ORG
+TCP: ORG
+HTTP: ORG
+XML: ORG
+JSON: PERSON
+SOA: ORG
+SDK: ORG
+API: ORG
+BCD: ORG
+Imagine: GPE
+2013: DATE
+Nexio: ORG
+SAN: ORG
+NAS: ORG
+Nexio: ORG
+IL: ORG
+CA: ORG
+6: CARDINAL
+Burbank: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+3: CARDINAL
+one: CARDINAL
+Adopted: ORG
+2014: DATE
+ScrumMaster: ORG
+3 to 6: CARDINAL
+Burbank: ORG
+Naperville: GPE
+2013: DATE
+Team: ORG
+Mercurial / Jenkins: ORG
+30: DATE
+IP: ORG
+Server: ORG
+Released: PERSON
+Nexio Software: ORG
+6.0: CARDINAL
+7.0: DATE
+8.0: DATE
+Global Proxy Suite: PERSON
+2.5: CARDINAL
+3.0: CARDINAL
+3.5: CARDINAL
+SOA: ORG
+UI: ORG
+2: CARDINAL
+10: CARDINAL
+Hercules: GPE
+H.264: PRODUCT
+AAC: ORG
+HTML5: ORG
+JavaScript: ORG
+Team: ORG
+#: CARDINAL
+CLI: ORG
+TCP: ORG
+C++: PERSON
+SOA Created API: ORG
+Created: ORG
+SAX: ORG
+Helper: GPE
+Picon: GPE
+GPRX: ORG
+Helios: ORG
+MB, Scavenger: ORG
+Transcoder: ORG
+Helper: ORG
+API: ORG
+3rd: ORDINAL
+two: CARDINAL
+UMID: ORG
+2: CARDINAL
+two: CARDINAL
+24/7: CARDINAL
+MediaBase DLL: PRODUCT
+200: CARDINAL
+Approach: PERSON
+one: CARDINAL
+Team: ORG
+one: CARDINAL
+DLL: ORG
+November 2005: DATE
+August 2009: DATE
+Name City: GPE
+State Software Engineering: ORG
+Nexio: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+8: CARDINAL
+Beijing: GPE
+Team: ORG
+Released: PERSON
+2.5: CARDINAL
+August 1997: DATE
+October 2005: DATE
+Name City: GPE
+State: ORG
+Harris Corporation: ORG
+Leitch: GPE
+DLL: ORG
+Win32: PERSON
+GUI: ORG
+Media: NORP
+Hardware: ORG
+64: CARDINAL
+Unicode: GPE
+over 4 million: CARDINAL
+August 1994: DATE
+July 1997: DATE
+Name City: GPE
+State Software Engineer: ORG
+Star Media: ORG
+Leitch: PERSON
+DPS: ORG
+2000: DATE
+Star Media: ORG
+Project
+media management tools: ORG
+Render Bank: ORG
+Professional Training
+Illinois Institute of Technology City: ORG
+State M.S :: ORG
+National Institute of Technology City: ORG
+India: GPE
+B.E : Electronics and: ORG
+Communication Engineering Electronics: ORG
+Skills
+API, Approach, ATL: ORG
+C++: PERSON
+CLI: ORG
+CA: PERSON
+Hardware: ORG
+Content: ORG
+HTML5: PRODUCT
+XML: ORG
+FTP: ORG
+GUI: ORG
+IP: ORG
+JavaScript: ORG
+LAN: ORG
+MB: ORG
+MFC: ORG
+Win, Windows: ORG
+2000: DATE
+NAS: ORG
+OOP: GPE
+Proxy: PERSON
+SAN: ORG
+Video Editing: PERSON

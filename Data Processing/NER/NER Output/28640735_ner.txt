@@ -1,0 +1,94 @@
+Generalist: PERSON
+Builds: PERSON
+Skill Highlights: PERSON
+January 2013: DATE
+65-year: DATE
+day: DATE
+two: CARDINAL
+annual: DATE
+Research: ORG
+Developed Wellness Program: ORG
+annual: DATE
+Director of Human Resources and Administration: ORG
+January 2006 to January 2013: DATE
+Founder: ORG
+Healthcare: ORG
+2000: DATE
+45: CARDINAL
+eight: CARDINAL
+8): CARDINAL
+215: CARDINAL
+32: CARDINAL
+Puerto Rico: GPE
+2011: DATE
+HR/Office: ORG
+2006: DATE
+HR/Administration: ORG
+2008: DATE
+VP/HR & Administration: ORG
+2010: DATE
+Over 45%: PERCENT
+4) years: DATE
+Created: ORG
+monthly: DATE
+two-day: DATE
+28%: PERCENT
+under10%: PERCENT
+annually: DATE
+Created: ORG
+annual: DATE
+2012: DATE
+Northern VA Technology Council: ORG
+Hottest
+Company Culture: WORK_OF_ART
+95+%: ORG
+the past 5 years: DATE
+Account Managers: ORG
+January 2001 to January 2006: DATE
+21: CARDINAL
+Day-to- day: DATE
+Human Resources, Finance, Administration: ORG
+Financially: PERSON
+annual: DATE
+monthly: DATE
+monthly: DATE
+Novell: ORG
+Windows: NORP
+January 1988 to January 2001: DATE
+daily: DATE
+DC: GPE
+18: CARDINAL
+120: CARDINAL
+$1.3M: MONEY
+annual: DATE
+14: CARDINAL
+day: DATE
+$1.9M: MONEY
+over 44,000: CARDINAL
+The Ketchum Washington Tool Kit" - Employee: WORK_OF_ART
+annual: DATE
+quarterly: DATE
+NY: GPE
+weekly: DATE
+monthly: DATE
+year-to-date: DATE
+Quality of Life: WORK_OF_ART
+Created: ORG
+Recognition Program: ORG
+Human Resources Management Business Administration Human Resources Management Business Administration: ORG
+Professional Affiliations
+Senior Professional in Human Resources: ORG
+Society for Human Resource Management: ORG
+Montgomery County: GPE
+MD SHRM Chapter Notary Public: ORG
+the State of Maryland: GPE
+Skills: ORG
+Council: ORG
+DC: GPE
+Finance: ORG
+Human Resources: ORG
+Windows: NORP
+2000: DATE
+Novell: ORG
+Quality: ORG
+Research: ORG

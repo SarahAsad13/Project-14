@@ -1,0 +1,63 @@
+FINANCE: ORG
+Financial: ORG
+March 2003: DATE
+ten: CARDINAL
+Senior Management: ORG
+monthly: DATE
+P&L: ORG
+ten: CARDINAL
+Senior Management
+Assist Show Management: ORG
+Review: ORG
+Manage: PRODUCT
+Created: ORG
+Finance: ORG
+Operations: ORG
+Redesigned: PERSON
+the Show Set Up Process: WORK_OF_ART
+Finance: ORG
+Accounting: ORG
+U.S.Â: ORG
+the
+department
+Streamlined: ORG
+Year-End: DATE
+June 2000 to June 2001: DATE
+Portfolio Administrator 
+City: ORG
+70: CARDINAL
+Communicated: ORG
+CFO: ORG
+COO: ORG
+quarterly: DATE
+quarterly: DATE
+Primary: PERSON
+Bowman Capital: ORG
+October 1998 to June 2000: DATE
+Accountant 
+City: PERSON
+monthly: DATE
+quarterly: DATE
+Peoplesoft: ORG
+monthly: DATE
+Assisted Investor Relations: ORG
+October 1996 to October 1998: DATE
+Advanced: ORG
+Auditor 
+City: PERSON
+University of Massachusetts -Amherst: ORG
+MA: PERSON
+1996: DATE
+GPA: ORG
+3.3: CARDINAL
+Skills
+
+Financial: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+MicroSoft Office: ORG
+Microsoft Outlook: ORG
+Powerpoint: PRODUCT
+Microsoft: ORG
+Onyx: ORG
+PeopleSoft: ORG

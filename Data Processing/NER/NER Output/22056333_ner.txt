@@ -1,0 +1,33 @@
+Childcare: ORG
+Infant: PERSON
+Reliable
+Approachable
+Playful
+Highly: WORK_OF_ART
+11/2014: CARDINAL
+Name City: GPE
+daily: DATE
+daily: DATE
+Name City: GPE
+4-5 year: DATE
+VPK: ORG
+VPK: ORG
+daily: DATE
+Supportive VPK Student Teacher 01/2013 to 01/2014 Company Name City: ORG
+Early Childhood Education Department: ORG
+45 Hours: TIME
+VPK Literacy Department of Education: ORG
+State: ORG
+Florida: GPE
+National Child Development Associate
+Credential American Red Cross: ORG
+Frist Aid: PERSON
+CPR: ORG
+Child: PERSON
+Adult Volunteer: PERSON
+2014: DATE
+Fort Myers Institute of Technology
+City: ORG
+Early Childhood Professional Certification : Special Olympics Present Special Olympics
+: ORG
+Computer Skills: ORG

@@ -1,0 +1,27 @@
+Hardworking Concrete
+Laborer: PERSON
+Focused Concrete Laborer: PERSON
+03/2020: CARDINAL
+City: GPE
+up to 250 pounds: QUANTITY
+250 pounds: QUANTITY
+Maintained: GPE
+Concrete Construction Laborer: ORG
+City: GPE
+jack: PERSON
+Lead Dishwasher: PERSON
+09/2003 - 01/2015 Company Name: ORG
+City: GPE
+Maintained: GPE
+Oversaw: GPE
+Escambia High School - City: ORG
+State: ORG
+Skills
+
+Forklift Operation
+Power Tools
+Cleaning
+Commercial Construction
+Heavy Lifting
+
+Predictive: ORG

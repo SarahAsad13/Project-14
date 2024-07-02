@@ -1,0 +1,64 @@
+TERRITORY: PERSON
+Name City: GPE
+Franchises: ORG
+Digital and Advertising Agencies on Reselling ProductSelling Local Clients: ORG
+the Arkansas Territory: ORG
+the Mobile Loyalty
+Platform: FAC
+Name City: GPE
+LivingSocial Deals: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+LivingSocial: ORG
+2011: DATE
+5MVP*Hawaii: CARDINAL
+Cole Challenge Badge*Turkey & Gravy: ORG
+Madness: GPE
+Badge Winner: PERSON
+12: CARDINAL
+Tim: PERSON
+20x15: CARDINAL
+2nd: CARDINAL
+Las Vegas: GPE
+JulyWhalewinners Circle: LOC
+2012: DATE
+Costa RicaRoadunner: NORP
+Winner: PERSON
+Jan.
+Feb, March 2013Quarterly: DATE
+2nd: DATE
+3rd: ORDINAL
+4th 2013: DATE
+03/2011 Company Name City: ORG
+10/2004: CARDINAL
+06/2008 Company Name City: ORG
+Team Building: ORG
+the New York Times: ORG
+2007: DATE
+Retail Account Executive/Internet Advertising: ORG
+10/2004: CARDINAL
+Name City: GPE
+Created Internet Sales Department: ORG
+Buyer: PERSON
+dozens: CARDINAL
+Remote Senior Buyer: ORG
+Fayetteville: GPE
+State Searching: ORG
+dozens: CARDINAL
+Fayetteville: GPE
+State Searching: ORG
+dozens: CARDINAL
+Fayetteville: GPE
+State Searching for New: ORG
+dozens: CARDINAL
+Education: ORG
+MBA UNIVERSITY OF ARKANSAS City: WORK_OF_ART
+State Business Administration/Marketing
+High School Diploma MANSFIELD HIGH SCHOOL City: ORG
+State: ORG
+Skills
+Advertising: ORG
+Innovation, Inventory, Team Building: ORG
+Sales Management: ORG
+Strategic: PERSON

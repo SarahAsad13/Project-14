@@ -1,0 +1,56 @@
+COMBAT MARKSMANSHIP TRAINER/ PRIMARY MARKSMANSHIP: ORG
+South Carolina: GPE
+over $ 500,000.00: MONEY
+the Inspector General: ORG
+Marine Corps Association & Foundation: ORG
+Combat Marksmanship: NORP
+Marine Corps TacticsÂ & Operations Group: ORG
+Response Cell Non-Commissioned Officer: ORG
+Charge: GPE
+June 2015: DATE
+August 2016: DATE
+Name City: GPE
+over 2,000: CARDINAL
+Marines: NORP
+the Marine Corps Marksmanship Program: ORG
+35: CARDINAL
+June 2015: DATE
+July 2016: DATE
+Name City: GPE
+State: ORG
+Martial Arts Instructor: ORG
+four: CARDINAL
+Martial Arts Instructors: ORG
+over 200: CARDINAL
+Marines: NORP
+the Marine Corps Martial Arts Program: ORG
+Combat Conditioning: PERSON
+the Marine Corps Martial Arts Program: ORG
+September 2014: DATE
+June 2015: DATE
+Name City: GPE
+over 3,000: CARDINAL
+the Marine Corps Marksmanship Program: ORG
+56: CARDINAL
+October 2015: DATE
+October 2015: DATE
+Name City: GPE
+Marine Crops: ORG
+50: CARDINAL
+Marines: NORP
+daily: DATE
+2016: DATE
+Marine Corps University: ORG
+Distance Learning City: FAC
+Terrorism Awareness - Leading Marines - Pistol Marksmanship - Infantry Squad: ORG
+Fire Support - Inspection and Repair: PERSON
+M9: CARDINAL
+The Marine Rifleman: ORG
+Combat Skills: PERSON
+U.S.: GPE
+Interests: NORP
+Basic: GPE
+SC: ORG
+Inspection, Instructor: ORG
+Microsoft Office Programs: ORG
+Security Clearance: ORG

@@ -1,0 +1,135 @@
+10+ years': DATE
+Microsoft Word: PERSON
+Excel: PRODUCT
+Project, Visio, Power Point: ORG
+June 2012 to September 2015: DATE
+Adobe Acrobat Professional
+
+Leading: ORG
+US: GPE
+Rockville: GPE
+MD Relocation Project
+Managing Technical Leadership Program: ORG
+TLP: ORG
+US: GPE
+Germany: GPE
+Italy: GPE
+UK: GPE
+Switzerland: GPE
+China: GPE
+India: GPE
+Brazil: GPE
+2,600: CARDINAL
+Flight Risk Analysis: PRODUCT
+Mitigation, Technical Development Global Career Framework: ORG
+Global Job Family Architect: ORG
+Partnered: PRODUCT
+M Compass: PRODUCT
+first: ORDINAL
+Mentoring Program: ORG
+40: CARDINAL
+annually: DATE
+Drive: GPE
+Stock Award Program Nominations: ORG
+Leading Talent Management and Development Process: ORG
+Manufacturing: ORG
+the OTR Talking Talent Sessions: ORG
+2: CARDINAL
+50: CARDINAL
+annually: DATE
+1HR: CARDINAL
+2: CARDINAL
+Global HR Analyst: ORG
+November 2010 to June 2012: DATE
+Global TLP Associates: ORG
+China: GPE
+India: GPE
+Brazil: GPE
+Facilitated: ORG
+annual: DATE
+Generalist: PERSON
+May 2009 to: DATE
+August 2010: DATE
+India: GPE
+200: CARDINAL
+Germany: GPE
+Designed &: ORG
+Global Engagement Survey: ORG
+US: GPE
+Latin America: LOC
+Finance: ORG
+Generalist: PERSON
+July 2006 to June 2008: DATE
+over 300: CARDINAL
+200: CARDINAL
+Utilized SAP Human Resources Information Systems: ORG
+HRIS: ORG
+Collaborated: ORG
+HRIS: ORG
+SAP: GPE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Kraft: ORG
+China: GPE
+Top Employer: FAC
+2007: DATE
+CRF: ORG
+European: NORP
+Specialist: ORG
+August 2003 to July 2006 Company Name ï¼​ City: DATE
+2,200: CARDINAL
+45: CARDINAL
+China: GPE
+Supervised: PERSON
+Assessment Center: PERSON
+China: GPE
+HRIS: PERSON
+monthly: DATE
+Coordinated: ORG
+Industrial and Labor Relations : Human Resources and Organizations: ORG
+2010: DATE
+Cornell University: ORG
+School of Industrial and Labor
+Relations: ORG
+State: GPE
+Human Resource Management: ORG
+July 2003: DATE
+TIANJIN UNIVERSITY OF FINANCE & ECONOMICS: ORG
+State: GPE
+China
+
+Resource Management
+
+Languages
+Mandarin: ORG
+Chinese: NORP
+Spanish: NORP
+German: NORP
+Professional Affiliations
+Global Professional of Human Resources: ORG
+Society for Human Resource Management: ORG
+July: DATE
+Human Resources (PHR: ORG
+Society for Human Resource Management: ORG
+July 2012: DATE
+Adobe Acrobat: PERSON
+Analyst: PERSON
+Architect: ORG
+Finance: ORG
+German: NORP
+HRIS: ORG
+Human Resources: ORG
+Information Systems: ORG
+Latin: LANGUAGE
+Leadership, Leadership Development: ORG
+Mandarin Chinese: NORP
+Excel: PRODUCT
+Point: ORG
+Microsoft: ORG
+Performance Management: ORG
+SAP: ORG
+Spanish: LANGUAGE
+Vaccines: NORP
+Visio: PERSON
+annual: DATE

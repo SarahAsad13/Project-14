@@ -1,0 +1,150 @@
+SALES & CUSTOMER: ORG
+Summary
+
+Administrative & HR Professional Holds Master of Arts: ORG
+Human Resource Development: ORG
+Bowie State University: ORG
+4.0: CARDINAL
+GPA: ORG
+10+ years: DATE
+Federal & State Laws: ORG
+Project Management: ORG
+Microsoft: ORG
+Highlights: GPE
+Microsoft Office: ORG
+Suite: PERSON
+Quickbooks
+Human: ORG
+HRMS: ORG
+National Human Resources Association
+Human: ORG
+Human Resource Development: ORG
+Bowie State University: ORG
+4.0: CARDINAL
+GPA: ORG
+Project Management: ORG
+Microsoft: ORG
+Affiliation: ORG
+Society of Human Resources Management: ORG
+Project Management Institute: ORG
+years: DATE
+HRIS: ORG
+September 2012: DATE
+Current Company Name: ORG
+550: CARDINAL
+100%: PERCENT
+recent years: DATE
+Assist: NORP
+Assist: NORP
+95 -100%: PERCENT
+2012: DATE
+daily: DATE
+Explained: PRODUCT
+year-end: DATE
+year-end: DATE
+each month: DATE
+PTO: ORG
+ADP: ORG
+January 2011 to August 2012: DATE
+ADP: ORG
+London: GPE
+UK: GPE
+Generalist: PERSON
+Aug. 2003 - July 2007: DATE
+Created: ORG
+Oversaw: GPE
+Maintained: GPE
+August 2007 to September 2010: DATE
+State
+
+Administration & Organization Provided: ORG
+Coordinated: ORG
+55: MONEY
+2009: DATE
+quick & thorough indexing, filing &: ORG
+about 15%: PERCENT
+Maintained: GPE
+reorganized executive & finance: ORG
+Communication & Client Relations: ORG
+Master of Arts : Human Resource Development BOWIE STATE UNIVERSITY: WORK_OF_ART
+State: GPE
+US: GPE
+BOWIE STATE UNIVERSITY: ORG
+Bowie: GPE
+Maryland: GPE
+May 2012Top: DATE
+HonorsHuman Resources
+Management: ORG
+Industrial-Organizational PsychologyCoursework: ORG
+Business, Economics and Organizational
+DevelopmentGraduate: ORG
+Organizational Development
+
+Certificate : Project Management Bowie State University Certificate: ORG
+Project Management: ORG
+Bowie State University: ORG
+March 2011: DATE
+Bachelor: ORG
+Human Resources Management CENTRAL UNIVERSITY: ORG
+CENTRAL UNIVERSITY: ORG
+E Accra: PERSON
+Ghana Bachelor's: PERSON
+Human Resources Management July: ORG
+2003: DATE
+Microsoft Office Applications: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+HRIS: PERSON
+MS Project: ORG
+MS Publisher: ORG
+HonorsHuman Resources Management: ORG
+Organizational PsychologyCoursework in Business, Economics and Organizational DevelopmentGraduate: WORK_OF_ART
+Organizational
+Development
+
+Certifications
+
+Certificate: ORG
+Project Management: ORG
+Bowie State University: ORG
+Affiliation: ORG
+Society of Human Resources Management: ORG
+Project Management Institute
+
+Skills
+
+Databases: ORG
+Automated Payroll: ORG
+Generalist: PERSON
+New Hire Orientation: ORG
+Personnel Records: ORG
+Recruiting: GPE
+Terminations, Increase: ORG
+Access, Client Relations: ORG
+Finance: ORG
+Liaison, Marketing, Office: ORG
+Pricing, Customer Service: ORG
+Receptionist: NORP
+Problem Resolution: PERSON
+Satisfaction, Training: ORG
+Ada: PERSON
+Employee Relations: ORG
+Flsa: PERSON
+Labor Laws, Managerial, New Hires: ORG
+Performance Management, Recruitment, Claims, Clients, Compensation And Benefits: ORG
+Highly Organized: PERSON
+Time Management: ORG
+Workers Compensation, Mitigation, Human Resources: ORG
+Project Management: ORG
+Excel: PRODUCT
+Hr Information System: ORG
+Hris: PERSON
+Human Resources Management: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+Ms Office: ORG
+Ms Project: PERSON
+Ms Publisher: ORG
+Outlook: PERSON
+Word: PERSON

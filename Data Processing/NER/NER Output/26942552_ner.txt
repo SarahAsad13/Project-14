@@ -1,0 +1,47 @@
+INTERIOR: ORG
+Skills
+
+Persuasive: ORG
+Prospect: ORG
+Exceptional Customer Service: ORG
+12/2020: CARDINAL
+Created: ORG
+Collaborated: ORG
+La-z: ORG
+Self Employed: PERSON
+02/2015 
+Company: PERSON
+Maintained: GPE
+PR With Investors: ORG
+01/2011: CARDINAL
+America: GPE
+Canada: GPE
+Designer: ORG
+12/2004: CARDINAL
+French: NORP
+Los Angeles: GPE
+Orange County: GPE
+Bachelor of Science :: ORG
+NASM - City: ORG
+Skills
+
+Persuasive: ORG
+Prospect: ORG
+Exceptional Customer Service: ORG
+12/2020: CARDINAL
+Created: ORG
+Collaborated: ORG
+La-z: ORG
+Self Employed: PERSON
+02/2015 
+Company: PERSON
+Maintained: GPE
+PR With Investors: ORG
+01/2011: CARDINAL
+America: GPE
+Canada: GPE
+Designer: ORG
+12/2004: CARDINAL
+French: NORP
+Los Angeles: GPE
+Orange County: GPE

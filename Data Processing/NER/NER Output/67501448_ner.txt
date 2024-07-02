@@ -1,0 +1,51 @@
+BUSINESS DEVELOPMENT COORDINATOR/EVENT COORDINATOR
+
+Summary
+Dynamic: ORG
+Business Development Coordinator: ORG
+Highlights
+
+Event Management
+Negotiation: ORG
+Customer Targeting
+Polyglot
+
+Social Networking
+Online Marketing Strategies
+Â Teamwork: ORG
+Skills
+Responsible: ORG
+Highly: PERSON
+Calm: PERSON
+Versed: PERSON
+November 2013: DATE
+Current Business Development Coordinator/Event Coordinator 
+City: ORG
+State: ORG
+Identify Customer: PERSON
+Businessassociations and Companies: ORG
+the Chamber of Commerce: ORG
+Italian: NORP
+Update: ORG
+Opening: GPE
+January 2008 to October 2013: DATE
+October 2003 to August 2008: DATE
+srl - Turin Italy Customer: ORG
+Assigned: PERSON
+DUE: ORG
+Turin: GPE
+GRAN BAR Piazza Gran Madre: ORG
+23: CARDINAL
+Corso Dante Alighieri: PERSON
+19: DATE
+Cashier: ORG
+12/2006: CARDINAL
+10/2011Movement: CARDINAL
+Torino Music Festival - Turin Italy: EVENT
+The Movement Torino Music Festival: ORG
+6000-15000: CARDINAL
+2002: DATE
+Languages City: GPE
+ENGLISH: LANGUAGE
+FRENCH: NORP
+2007: DATE

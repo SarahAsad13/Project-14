@@ -1,0 +1,35 @@
+ADMISSIONS: ORG
+Professional Summary
+
+Highly: ORG
+Microsoft Office: ORG
+Group: ORG
+Organized: ORG
+Admissions Executive: ORG
+August 2015: DATE
+Communicated: ORG
+each year: DATE
+Customer Service Specialist: ORG
+December 2004 to August 2015: DATE
+Conducted: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Provided Behavioral Based Safety and Education: ORG
+daily: DATE
+Excel: PRODUCT
+January 2015 to April 2015: DATE
+one: CARDINAL
+Child Advocate: PERSON
+October 2013 to July 2014: DATE
+weekly: DATE
+Identify: ORG
+Communicate: ORG
+Education: ORG
+2014: DATE
+UWG Social Science Newspaper "Sociological Collective: ORG
+Psychology Club: ORG
+Sports Management Committee: ORG
+2012: DATE
+Deans: NORP
+Project Management Relationship Builder Professional Attitude Marketing Multi-Task Management: ORG

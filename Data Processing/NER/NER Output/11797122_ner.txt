@@ -1,0 +1,82 @@
+20 years: DATE
+Mechanist Tech: ORG
+more than 8 years: DATE
+Key Skills: PERSON
+OSHA: ORG
+Clean D.O.T.: ORG
+Solid: PRODUCT
+Strong: PERSON
+Team: ORG
+05/2014 - Current
+Company Name: ORG
+DOT: ORG
+Hooked: PRODUCT
+Coordinated: ORG
+daily: DATE
+Maintain: PRODUCT
+Obeyed: PRODUCT
+State Driver/Car Hauler
+
+Coordinated: ORG
+daily: DATE
+Conducted: ORG
+DOT: ORG
+Maintained: GPE
+Maintained: GPE
+State Independent Contractor
+
+Facilitated: ORG
+monthly: DATE
+month end: DATE
+3: CARDINAL
+quarterly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+monthly: DATE
+Drove: CARDINAL
+Maintain: PRODUCT
+10/2004: CARDINAL
+State Driver/Car Hauler
+
+Transport: ORG
+Obeyed: PRODUCT
+08/2003 - 10/2004: CARDINAL
+State Driver/Car Hauler
+
+Coordinated: ORG
+daily: DATE
+Obtained: ORG
+Conducted: ORG
+DOT: ORG
+09/2000 - 05/2003: CARDINAL
+Maintained: GPE
+daily: DATE
+DOT: ORG
+Completed: ORG
+Established: ORG
+04/1992 - 09/2000: CARDINAL
+State Aviation Machinist Mate
+
+: ORG
+Guided: ORG
+Established: ORG
+Prepared: PERSON
+FAA: ORG
+Coordinated: ORG
+Performed: ORG
+airfield: ORG
+the Safety Risk Management: ORG
+SRM: ORG
+Specialized Training
+: ORG
+2000: DATE
+Road Master Truck driving School ï¼​ City: WORK_OF_ART
+State: GPE
+United States: ORG
+GPA: ORG
+GPA: ORG
+3.7: CARDINAL
+Road Master Truck Driving School City: WORK_OF_ART
+Commercial Driver License: WORK_OF_ART
+CDL: ORG

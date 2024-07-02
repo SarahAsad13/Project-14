@@ -1,0 +1,73 @@
+HEALTHCARE: ORG
+Professional Summary
+
+A: ORG
+Microsoft Office Word: ORG
+Excel: PRODUCT
+Access: PRODUCT
+Outlook: PERSON
+Schedule: PERSON
+Problem: PRODUCT
+Time: ORG
+Skill Highlights: PERSON
+Microsoft Office: ORG
+State High School Diploma
+East: ORG
+State Microsoft Office: ORG
+Skills
+
+Human Resources: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Outlook
+
+Electronic Time Card: ORG
+Time Management
+
+Works: ORG
+January 2009 to January 2014: DATE
+Name City: GPE
+State Healthcare Documentation Services: ORG
+97%: PERCENT
+95%: PERCENT
+Prepared: PRODUCT
+Initiated: ORG
+daily: DATE
+Created: ORG
+weekly: DATE
+25%: PERCENT
+monthly: DATE
+Human Resources: ORG
+Account Management: ORG
+Inside Sales: ORG
+Project Management and Customer Service: ORG
+January 2005 to January 2009: DATE
+Name City: GPE
+first: ORDINAL
+all day to day: DATE
+HIM Directors: ORG
+Physicians: NORP
+COO: ORG
+Conducted: ORG
+monthly: DATE
+Oversaw: GPE
+over 98%: PERCENT
+1-4 year: DATE
+January 1995 to January 2005: DATE
+Name City: GPE
+State Work Flow Coordinator: ORG
+Oversaw: GPE
+three: CARDINAL
+Southern California: LOC
+Maintained: GPE
+Work Flow: ORG
+Oversaw: GPE
+Created: ORG
+yearly: DATE
+500: CARDINAL
+daily: DATE
+weekly: DATE
+monthly: DATE
+Quality Assurance: ORG
+Account Management and Technical Support: ORG

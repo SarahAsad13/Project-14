@@ -1,0 +1,111 @@
+more than 8 years: DATE
+GASB: ORG
+IFRS: ORG
+QuickBooks: ORG
+Sun: ORG
+Peachtree Accounting: ORG
+Core Qualifications
+
+: ORG
+Ledger Accounting: PERSON
+Bank & Office: ORG
+Financial Statements & Audit Support
+Generate: ORG
+Review: ORG
+Financial Planning: ORG
+Budgeting & Reporting
+: ORG
+Grants Management
+Contractual: ORG
+Donor: ORG
+External/Internal: ORG
+Project closing Accounting Systems: ORG
+Sage Accounting: ORG
+QuickBooks: ORG
+Sun: ORG
+Peachtree Accounting: ORG
+Microsoft PowerPoint: ORG
+Lookups: ORG
+Microsoft Access: ORG
+Lotus: ORG
+Accountant Feb 2015 
+City: ORG
+Record: GPE
+Accounts Payables: ORG
+monthly: DATE
+Review: ORG
+Review: ORG
+35: CARDINAL
+Bank: ORG
+FIM: ORG
+Review: ORG
+weekly / monthly: DATE
+yearly: DATE
+Responsible for Journal Entries: ORG
+General Ledger analysis Prepare: ORG
+Credit Card: ORG
+Delegated Finance: ORG
+Admin: PERSON
+Finance: ORG
+Jan 2010: DATE
+2014: DATE
+monthly: DATE
+quarterly: DATE
+biannual: DATE
+annual: DATE
+financial status &
+Over: ORG
+Conducted: ORG
+Collaborated: ORG
+monthly: DATE
+Facilitated: ORG
+grants & contract: ORG
+Controlling: PRODUCT
+Account Receivable: ORG
+monthly: DATE
+annual: DATE
+Facilitated: ORG
+Accountant Oct 2008: PERSON
+2009: DATE
+donors & control budget utilization Ensured: ORG
+Donor: ORG
+annual: DATE
+Sep 2008: DATE
+annual: DATE
+Prepared: PERSON
+daily: DATE
+World Vision: ORG
+World Vision: ORG
+annual: DATE
+internal &
+external audit: ORG
+MBA Degree , Business Administration Foundation for Academic Excellence: WORK_OF_ART
+Ethiopia Completed: ORG
+29: CARDINAL
+Business Administration
+B.A: ORG
+Accounting Haramaya University: ORG
+Ethiopia Accounting: ORG
+Accounting Systems: ORG
+Accounts Payables: GPE
+Budgeting: PERSON
+Credit: ORG
+Database: GPE
+Email: PERSON
+Finance: ORG
+Financial, Financial Planning: ORG
+Financial
+Statements: ORG
+General Ledger: ORG
+Ledger Accounting: PERSON
+Grants, Information Technology: ORG
+Lotus: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Microsoft PowerPoint: ORG
+Peachtree Accounting: ORG
+QuickBooks: ORG
+Spreadsheets: NORP
+Sun: ORG
+Vision: ORG

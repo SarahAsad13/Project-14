@@ -1,0 +1,82 @@
+15 years: DATE
+January 2013 to January 2015: DATE
+Program Management: ORG
+Coordinated with Program Managers: ORG
+Aid Program Managers: ORG
+Memorandum of Agreement: ORG
+Outline: ORG
+Plan: ORG
+Motivate: GPE
+Prepare: ORG
+Establish: NORP
+CBS Banking Representative: ORG
+January 2012 to January 2014: DATE
+State: ORG
+daily: DATE
+Collaborated: ORG
+5: CARDINAL
+one: CARDINAL
+Windows: ORG
+daily: DATE
+one: CARDINAL
+Social Services Coordinator: ORG
+January 2009 to January 2012: DATE
+Head Start: PERSON
+the day: DATE
+day: DATE
+Coordinated with Medical Wellness Coordinator: ORG
+Home: ORG
+Participate: ORG
+Home: ORG
+Submitted: ORG
+weekly: DATE
+monthly: DATE
+Coordinator: PERSON
+Assisted Coordinator: ORG
+Head Start: PERSON
+Assist: NORP
+PIR: ORG
+January 2006 to January 2009: DATE
+38: CARDINAL
+16: CARDINAL
+Indiana First Steps: ORG
+22: CARDINAL
+first: ORDINAL
+Danville: ORG
+Community Schools: PERSON
+monthly: DATE
+Indiana University: ORG
+ï¼​ City: GPE
+Facilitate: ORG
+55+ Growth Group: MONEY
+monthly: DATE
+New Direction Christian Church: ORG
+2013-2015: DATE
+Us: GPE
+Faith-Based Organization against Domestic Violence: ORG
+Christians: NORP
+2010-2013: DATE
+the Annual Kids Fair: EVENT
+Danville: GPE
+2007-2009: DATE
+summer: DATE
+Charles T. Myers Golf: PERSON
+Charlotte: GPE
+NC Convention & Visitors Bureau: ORG
+2004 & 2005 Board: ORG
+Healthy Start Girls Group: ORG
+2003-2005: DATE
+Community Action Agency: ORG
+2001-2003: DATE
+Annual: DATE
+2001-2004: DATE
+Volunteer: PRODUCT
+Greensboro Volunteer Center Annual Human: FAC
+2000-2005: DATE
+Skills: ORG
+Educator: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Windows: NORP
+Word: PERSON

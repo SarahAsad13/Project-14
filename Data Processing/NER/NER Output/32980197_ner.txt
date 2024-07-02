@@ -1,0 +1,56 @@
+04/2013: CARDINAL
+State
+
+: ORG
+Treasury: ORG
+Treasury Management Sales Consultant: ORG
+Prepare Treasury Management Work Orders: ORG
+the Treasury Management Implementation Automation: ORG
+Technical
+Assistance Requests: ORG
+Assist the Treasury Management Consultant: ORG
+Treasury Management: ORG
+Treasury Management: ORG
+Treasury Management Consultant: ORG
+Validate Treasury Management: ORG
+Treasury Management Agreement
+Housing: ORG
+Coordinate: FAC
+Business Banking: ORG
+Citibank: ORG
+New Jersey: GPE
+Oversee: ORG
+daily: DATE
+15: CARDINAL
+Team: ORG
+Assisted: ORG
+Oversee: ORG
+Liaison: PERSON
+Item Fraud Coordinator Company Name: ORG
+10: CARDINAL
+Identify: ORG
+SignPlus: PRODUCT
+NCIS: ORG
+Check Vision: ORG
+CUSTOM: ORG
+FileNet: ORG
+Information: ORG
+Financial Center: ORG
+Advise: PRODUCT
+Financial Center: ORG
+Fraud Department: ORG
+Prepare: ORG
+daily: DATE
+MIS: ORG
+10: CARDINAL
+05/2000: CARDINAL
+Bank Teller Company Name: ORG
+5/2000: CARDINAL
+FileNet: ORG
+Financial, Team: ORG
+Management Consultant, Access: ORG
+MIS: ORG
+NCIS: ORG
+Technical Assistance: ORG
+Treasury: ORG
+Vision: ORG

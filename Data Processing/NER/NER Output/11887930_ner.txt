@@ -1,0 +1,140 @@
+CLINICAL: ORG
+Innovative: NORP
+Skills
+Excellent: ORG
+Detail: PERSON
+Excel: PRODUCT
+Strong: PERSON
+Strong: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Strong: PERSON
+Articulate: ORG
+Strong: PERSON
+Works: PERSON
+Bachelor of Arts: ORG
+Emphasis: ORG
+Cum Laude: PERSON
+3.63: CARDINAL
+GPA: ORG
+May 1999: DATE
+the Golden Key National Honor Society
+Associates Degree: ORG
+Liberal Arts: ORG
+4.0: CARDINAL
+GPA: ORG
+Phi Theta Kappa International Honor Society: ORG
+the Golden Key
+National Honor Society: FAC
+4.0: CARDINAL
+GPA: ORG
+the Phi Theta Kappa International Honor Society
+
+Experience
+Company: ORG
+December 2012: DATE
+Current Clinical and Data Operations Support Analyst: ORG
+monthly: DATE
+Oracle Business Intelligence Tools
+Create: ORG
+Oracle Answers: ORG
+monthly: DATE
+Build eRoom: WORK_OF_ART
+monthly: DATE
+ICON: ORG
+March 2008 to February 2013: DATE
+Excel: PRODUCT
+Powerpoint: PRODUCT
+Modify: ORG
+Executive Management: ORG
+eRooms: ORG
+CTMS: ORG
+Sr: NORP
+Mgmt: PERSON
+Microsoft Office: ORG
+Sr: NORP
+Mgmt
+Prepared: PERSON
+PowerPoint: ORG
+Sponsor Quality Management and Joint
+Operations Committee: ORG
+eRoom: GPE
+US Clinical Operation: ORG
+May 2006 to September 2007: DATE
+Counsel: PERSON
+Labor & Employment 
+Company: ORG
+September 2007 to March 2008: DATE
+¦: PERSON
+Microsoft SharePoint: ORG
+¦: PERSON
+The University of Texas: ORG
+San Antonio: GPE
+State: GPE
+US: GPE
+The University of Texas: ORG
+San
+Antonio: GPE
+1996-1999: DATE
+Emphasis: ORG
+Cum Laude: PERSON
+3.63: CARDINAL
+GPA: ORG
+Southwest Texas Junior College 1996 Associates: ORG
+Liberal Arts Southwest Texas Junior College: ORG
+Texas: GPE
+1995-1996: DATE
+Liberal
+Arts: ORG
+4.0: CARDINAL
+GPA: ORG
+Phi Theta Kappa International Honor Society: ORG
+the Golden Key National Honor Society: ORG
+Cape Fear Community College: ORG
+State: GPE
+US Cape Fear Community College: ORG
+Wilmington: GPE
+North Carolina: GPE
+1994-1995: DATE
+GPA: ORG
+the Phi Theta Kappa International Honor Society: ORG
+Certifications: WORK_OF_ART
+Microsoft: ORG
+Specialist - Microsoft: ORG
+2003: DATE
+Microsoft: ORG
+Specialist - Microsoft Office: ORG
+PowerPoint 2003: LAW
+Certified Microsoft Office: ORG
+Specialist - Microsoft Office: ORG
+2003: DATE
+Microsoft: ORG
+Specialist - Microsoft Office: ORG
+Outlook 2003: DATE
+Affiliations: ORG
+UNITED AUTOMOBILE SERVICES ASSOCIATION: ORG
+USAA: ORG
+PowerPoint: ORG
+Sponsor Quality Management and Joint Operations
+Committee: ORG
+Skills
+Basis: ORG
+Operations: ORG
+Database: GPE
+Excel: PRODUCT
+Governance: PERSON
+Microsoft Office: ORG
+Ms Office: ORG
+Planview: ORG
+Business Intelligence: ORG
+Data Sources: ORG
+Microsoft Sharepoint: ORG
+Process Improvement, Security: ORG
+2003: DATE
+Microsoft Excel: ORG
+Outlook: PERSON
+Outlook 2003: DATE
+Microsoft Powerpoint: ORG
+Powerpoint 2003: PERSON
+Word: PERSON
+2003: DATE

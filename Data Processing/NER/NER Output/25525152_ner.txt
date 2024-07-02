@@ -1,0 +1,40 @@
+English: LANGUAGE
+Skills
+
+Proficient: ORG
+Edius: PERSON
+Desktop Publishing Software: ORG
+Name City: GPE
+first: ORDINAL
+Update: ORG
+Name City: GPE
+State: ORG
+The University of Tennessee: ORG
+Name City: GPE
+Sydney: GPE
+Peninsula: LOC
+Northshore Living: ORG
+12/2015: CARDINAL
+Name City: GPE
+08/2013: PERSON
+12/2016: CARDINAL
+Name City: GPE
+weekly: DATE
+School of Sarcasm: ORG
+three consecutive years: DATE
+Freelance Writer: PERSON
+Wojdylo: PERSON
+Deejay 01/2014: ORG
+Name City: GPE
+Training
+Bachelor of Science :: PERSON
+2017: DATE
+The University of Tennessee City: ORG
+Journalism and Electronic Media: ORG
+English: LANGUAGE
+College of Communication and Information Global Scholars Study Abroad Program: ORG
+Sydney: GPE
+Australia: GPE
+Spring
+: DATE
+2016: DATE

@@ -1,0 +1,21 @@
+Love: WORK_OF_ART
+Teaching 2010 Heritage University: ORG
+ï¼​ City: GPE
+State Â K-8 Endorsement
+Bachelor of Arts: ORG
+Central Washington University: ORG
+ï¼​ City: GPE
+Law: PERSON
+Justice: ORG
+2012: DATE
+2010: DATE
+20-27: CARDINAL
+Maintain: PRODUCT
+Communicate: ORG
+2009: DATE
+monthly: DATE
+daily: DATE
+2010: DATE
+Work History
+Police Services: WORK_OF_ART
+Specialist II Jan 1997: DATE

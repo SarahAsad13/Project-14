@@ -1,0 +1,16 @@
+Client: PERSON
+Multi: GPE
+Team: ORG
+August 2013: DATE
+August 2012 to November 2012: DATE
+10: CARDINAL
+first: ORDINAL
+23%: PERCENT
+four consecutive quarters: DATE
+February 2008 to June 2012: DATE
+6: CARDINAL
+Directed: ORG
+Initiated: ORG
+12%: PERCENT
+2010: DATE
+United States: GPE

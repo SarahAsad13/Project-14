@@ -1,0 +1,107 @@
+Summary
+Requirements: ORG
+Bachelor: ORG
+Business, Management: ORG
+Minimum 5 years': DATE
+2 additional years': DATE
+Strong: PERSON
+Demonstrate: ORG
+up to 10%: PERCENT
+Brio / Hyperion: ORG
+Mapper: GPE
+PPS: ORG
+PDM: ORG
+Nike Apparel: ORG
+Microsoft
+Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Word: PERSON
+SharePoint: ORG
+Tableau: GPE
+SPC: ORG
+DOE: ORG
+Green Belt: PERSON
+Lean Manufacturing: ORG
+Strong: PERSON
+third: ORDINAL
+Interests: NORP
+American Society of Quality: ORG
+2010: DATE
+Alumnae: PERSON
+2005: DATE
+the City of Montrose: GPE
+1999 - 2001: DATE
+11/2014: CARDINAL
+MLT: ORG
+seasonal: DATE
+Material Operations: ORG
+MLT: ORG
+04/2010 to 11/2014: CARDINAL
+Nike: ORG
+Nike: ORG
+3: CARDINAL
+30: CARDINAL
+Provide
+: PERSON
+Nike: ORG
+Six: CARDINAL
+Lean Manufacturing: ORG
+Gage R&R: PERSON
+Pareto: PERSON
+Control Charts: ORG
+ANOVA: ORG
+Facilitated: ORG
+75%: PERCENT
+800k: MONEY
+Prepared: PRODUCT
+ISO: ORG
+ASTM: ORG
+NADCAP: ORG
+Project Coordinator Company Name: ORG
+AIA: ORG
+2007: DATE
+Alpha: GPE
+Mines Activity Council: ORG
+Associated Students: ORG
+the Colorado School of Mines: ORG
+years: DATE
+Additional Information
+
+Sports Activities Holiday Half Marathon: ORG
+2011: DATE
+2011: DATE
+2011: DATE
+2011: DATE
+2010: DATE
+2010: DATE
+Coed Kickball: PERSON
+Softball: GPE
+2010 - 2011: DATE
+2009: DATE
+2008 - 2010: DATE
+Volunteer Nike Materials Library: LAW
+2011 - 2013: DATE
+PBS: ORG
+2010: DATE
+Eastern Washington University: ORG
+2009 - 2010: DATE
+Alpha: GPE
+Analyst: GPE
+Brio: PERSON
+Council: ORG
+Hyperion: ORG
+ISO: ORG
+Lean Manufacturing: ORG
+Mapper: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+PDM: ORG
+Six: CARDINAL
+SPC: ORG
+Tableau: GPE

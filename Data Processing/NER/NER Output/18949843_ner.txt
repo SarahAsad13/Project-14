@@ -1,0 +1,73 @@
+Skill Highlights: PERSON
+Microsoft Office Suite: ORG
+Adobe: PERSON
+Athena Clarity: ORG
+Crystal Reports: LOC
+Professional Experience
+Electronic Health Record Optimization Specialist 
+Company Name: ORG
+Medicare: ORG
+Understands: GPE
+EHR Use Requirements: ORG
+HIPAA: ORG
+Understands: GPE
+Quality Improvement Coordinator: ORG
+October 2013 to August 2014: DATE
+Provide: NORP
+POD: ORG
+Medicare: ORG
+PCP: ORG
+Athena Clarity: ORG
+Healthcare Financial: ORG
+Payer Audit: PERSON
+July 2011 to October 2013: DATE
+Develop: ORG
+Medicare: ORG
+third: ORDINAL
+third: ORDINAL
+Modeling: GPE
+third: ORDINAL
+RMS: ORG
+Clinical Research: ORG
+February 2011 to July 2011: DATE
+Independent
+Review Board: ORG
+IRB: ORG
+Program and Fund Developer: ORG
+March 2007 to January 2008: DATE
+State
+
+Research: ORG
+quarterly: DATE
+mid-year: DATE
+August 2007: DATE
+Current Company Name: ORG
+30: CARDINAL
+daily: DATE
+100%: PERCENT
+32%: PERCENT
+each year: DATE
+2011 100%: PERCENT
+HIPAA: ORG
+1 2011: DATE
+PENNSYLVANIA STATE UNIVERSITY: ORG
+100%: PERCENT
+1 2002: DATE
+GPA: ORG
+Dean: PERSON
+3.8: CARDINAL
+3.8: CARDINAL
+Skills
+Accounting: ORG
+Adobe: PERSON
+ADR: ORG
+Analyst: PERSON
+CPT: ORG
+Crystal Reports: LOC
+ICD-9: NORP
+Microsoft Office Suite: ORG
+Modeling: GPE
+Coding: ORG
+Quality Improvement: ORG
+Research: ORG
+RMS: ORG

@@ -1,0 +1,206 @@
+Floral Designerwrite: ORG
+National
+Competitions: ORG
+Las Vegas: GPE
+The Tropicana Hotel: ORG
+the Las Vegas Hilton: ORG
+Caesar's Palace: ORG
+National and International: ORG
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas: GPE
+National and International Auction: ORG
+Owner/Operator
+Garden of the Nile Flower Shop: ORG
+Caesar's: ORG
+Palace - Las Vegas: ORG
+NV - October 1991 to: ORG
+June 1995: DATE
+Responsibilities
+Hired: ORG
+European: NORP
+National and International Flower Auctions: ORG
+Standardized: ORG
+Urban: ORG
+Critical: PRODUCT
+AIFD Successfully: ORG
+the Floral Exam: ORG
+the Louisiana State University Agriculture
+School: ORG
+Skills Used Negotiated with: ORG
+Hotel Management: ORG
+Caesar's Palace Designed: ORG
+Hotel Management: ORG
+layout and hours: TIME
+National and International regions Chose: ORG
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas Educated: ORG
+National and International Auction: ORG
+the Tropicana Hotel - Las Vegas: FAC
+NV - September 1990 to December 1993 Responsibilities Negotiated: ORG
+first: ORDINAL
+Hotel: ORG
+the day to day: DATE
+quarterly: DATE
+monthly: DATE
+hotel department management: ORG
+five: CARDINAL
+The Island Wedding
+Chapel: FAC
+first: ORDINAL
+Skills Used Promoted: ORG
+1990: DATE
+Las Vegas: GPE
+1990: DATE
+Owner/Operator Tropicana Hotel Florist - Las Vegas: ORG
+NV - April 1986 to December 1993 Responsibilities Hired: ORG
+European: NORP
+National and International Flower Auctions: ORG
+Accomplishments
+Promoted: PRODUCT
+Design: PRODUCT
+AIFD Successfully: ORG
+Floral Exam: WORK_OF_ART
+the Louisiana State University Agriculture School: ORG
+Skills Used Successfully: WORK_OF_ART
+the Management of the Tropicana Hotel Appointed: ORG
+less than a year: DATE
+the Purchasing Department: ORG
+Hotel Management: ORG
+layout and hours: TIME
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas Educated: ORG
+the Los Angles Flower Auction Prepared: ORG
+Vegas Hilton Florist: PERSON
+Las Vegas: GPE
+NV - April
+1989: ORG
+August 1993: DATE
+Responsibilities Hired and Terminated Employees: ORG
+European: NORP
+Accomplishments
+Impacted: PRODUCT
+Promoted: ORG
+AIFD Successfully: ORG
+the Floral Exam: ORG
+the Louisiana State
+University Agriculture School: ORG
+Skills Used Negotiated with: ORG
+Hotel Management: ORG
+The Las Vegas Hilton Florist: ORG
+the Purchasing Department: ORG
+Hotel Management: ORG
+layout and hours: TIME
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas Educated: ORG
+the Los Angles Flower Auction Prepared: ORG
+Desert Flower - Las Vegas: PERSON
+NV - January 1988 to
+: ORG
+June 1993: DATE
+Design: PRODUCT
+National: NORP
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas Educated: ORG
+the Los Angeles Flower Auction Prepared: ORG
+Accomplishments Promoted: PERSON
+Design: PRODUCT
+AIFD Successfully: ORG
+the Floral Exam: ORG
+the Louisiana State University
+Agriculture School: ORG
+Skills Used Interfaced: WORK_OF_ART
+the State of Nevada Taxation Department: ORG
+Hired and Terminated Employees: ORG
+European: NORP
+the Los Angeles Flower Auction Interfaced: ORG
+Us: GPE
+Las Vegas: GPE
+NV - January 1986 to June 1992
+: ORG
+Responsibilities Promoted: ORG
+Design: PRODUCT
+National and International: ORG
+Trade Markets: ORG
+Dallas: GPE
+Atlanta: GPE
+Los Angeles: GPE
+Las Vegas Educated: ORG
+the Los Angeles Flower Auction Prepared: ORG
+Accomplishments Promoted: PERSON
+Design: PRODUCT
+AIFD Successfully: ORG
+the Floral Exam: ORG
+the Louisiana State University
+Agriculture School: ORG
+Skills Used Chose: WORK_OF_ART
+European: NORP
+the Los Angeles Flower Auction Interfaced: ORG
+Guest: PERSON
+October 2012 to October 2015: DATE
+June 2005: DATE
+April 2011 Company Name ï¼​ City: DATE
+European: NORP
+National and International Markets: ORG
+Accomplishments
+Impacted: PRODUCT
+AIFD Successfully: ORG
+the Floral Exam: ORG
+the Louisiana State University Agriculture
+School: ORG
+October 2012 to October 2015: DATE
+Assisted: PERSON
+Monitored: ORG
+Accomplishments Enjoyed: PERSON
+Individualized: PERSON
+Listed: PERSON
+Skills Used Utilized: ORG
+Vigilant: PERSON
+Promptly: ORG
+Clark County School System: ORG
+2012: DATE
+National Bartender's School ï¼​ City: ORG
+State: GPE
+USA: GPE
+Clark County School District: ORG
+10/10/2015.Â: CARDINAL
+Advanced Licensed: PERSON
+1978: DATE
+Louisiana State University: ORG
+Agricultural & Mechanical College: ORG
+State: GPE
+USA: GPE
+first: ORDINAL
+100 percent: PERCENT
+Bachelor of Arts: ORG
+Secondary Education: ORG
+1971: DATE
+Southeastern Louisiana University: ORG
+State: GPE
+USA: GPE
+English: NORP
+Social Studies: ORG
+1971: DATE
+1983: DATE
+National and Regional Exams
+Pleased: ORG
+Skills: ORG
+Entrepenuer
+Additional Information
+
+Authorized: ORG
+US: GPE

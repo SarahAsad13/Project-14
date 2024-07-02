@@ -1,0 +1,68 @@
+DANCE EDUCATOR
+: PERSON
+Clinical Mental Health Counselor and Registered Dance/Movement Therapist: ORG
+Group: ORG
+Group: ORG
+Expressive Art Therapies: WORK_OF_ART
+Dance/Movement Therapy: ORG
+Cognitive Behavioral Therapy (CBT: WORK_OF_ART
+DBT: ORG
+Clinical documentation- Avatar: ORG
+Compassionate: ORG
+February 2012: DATE
+7-12: CARDINAL
+Rhode Island: GPE
+five: CARDINAL
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Individual Education: ORG
+July 2012: DATE
+Current Dance/Movement Therapist - Clinical Mental Health Counselor 
+City: ORG
+1:1: CARDINAL
+September 2014 to November 2014: DATE
+Dance/Movement Therapist 
+City: ORG
+July 2013 to November 2013: DATE
+Dance/Movement: ORG
+Therapy Intern: PERSON
+Assistance: PERSON
+daily: DATE
+August 2011 to August 2012: DATE
+Dance/Movement Therapist - Clinical Mental Health Counselor Intern 
+
+City: ORG
+18 years of age: DATE
+IEP: ORG
+RTI: ORG
+Conferred: ORG
+1:1: CARDINAL
+January 2004 to January 2011: DATE
+State: ORG
+weekly: DATE
+Lesley University: ORG
+2014: DATE
+Clinical Mental Health Counseling: ORG
+Rhode Island College: ORG
+Andrea Rizzo Foundation: PERSON
+National Dance Education Organization: ORG
+State Affiliate: ORG
+Rhode Island Association of Health, Physical Education: ORG
+Dance (RIAHPERD: ORG
+Dance Educator: PRODUCT
+2008: DATE
+Gestalt Therapy: PERSON
+CBT-: GPE
+Expressive: PERSON
+Interpersonal Skills: Empathetic: ORG
+Expressive Arts Therapy: Dance/Movement, Music, Drama, Art
+Dance: Creative Movement: WORK_OF_ART
+Modern: GPE
+Ballet: GPE
+Microsoft Office Suite: ORG
+Word: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Google Docs: ORG
+Avator: WORK_OF_ART

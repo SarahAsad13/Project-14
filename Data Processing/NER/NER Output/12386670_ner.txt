@@ -1,0 +1,108 @@
+22 years': DATE
+Urban: ORG
+08/1990 - 05/2012: PERCENT
+Tempe: GPE
+Arizona Board: ORG
+daily: DATE
+150: CARDINAL
+daily: DATE
+8: CARDINAL
+10: CARDINAL
+Methods Applied Curriculum Design: PERSON
+daily: DATE
+150: CARDINAL
+daily: DATE
+2002: DATE
+Arizona State University - City: ORG
+State: ORG
+USA Masters Education: ORG
+Secondary Education Curriculum Development: ORG
+1973: DATE
+Arizona State University - City: ORG
+State: GPE
+Arizona Board of Education - State
+
+Certifications Â 
+
+Structured English Immersion K-12: ORG
+1995 - 2000: DATE
+National Art Education: EVENT
+annual: DATE
+Chicago: GPE
+New York City: GPE
+Phoenix: GPE
+San Francisco: GPE
+AFFILIATIONS National
+Education Association National Art Education Association: ORG
+Arizona Art Education Association: ORG
+2000-
+2002: DATE
+Middle School Division Chair: ORG
+1992-1994: DATE
+Stanford Accelerated School: ORG
+Arizona Alliance: ORG
+Arizona Alliance for Arts: ORG
+Arizona Visual Arts Standards: ORG
+Arizona: GPE
+Accomplishments and Awards
+2013 Implemented: WORK_OF_ART
+Piaute Middle School: ORG
+Paradise Valley: LOC
+Arizona: GPE
+2012: DATE
+Grady Gammage: ORG
+Arizona State University: ORG
+2011-2012: DATE
+HBO: ORG
+J.R.: GPE
+2005: DATE
+Art and Writing: Interdisciplinary Inquiry: WORK_OF_ART
+Discovery: PRODUCT
+the National Art Education Association: ORG
+Reston Virginia: GPE
+2005-2006: DATE
+Middle School: ORG
+Tempe: GPE
+Arizona: GPE
+2004-2005: DATE
+over 300: CARDINAL
+Tempe: GPE
+Arizona: GPE
+1997: DATE
+Art Education Magazine: ORG
+Focus of participant: ORG
+Middle School Division of National Art Education: ORG
+a Middle School Art Teacher Integrates Multiculturalism: ORG
+1995: DATE
+Pacific Region: EVENT
+National Art Education Association: ORG
+Southwest Cultures: PERSON
+Tempe Diablos: PERSON
+Tempe: GPE
+Arizona: GPE
+1995: DATE
+NBA: ORG
+Coca Cola's: ORG
+Stay in School" Mural for All Star: WORK_OF_ART
+Phoenix Arizona: PERSON
+1995 - 2000: DATE
+National Art Education: EVENT
+annual: DATE
+Chicago: GPE
+New York City: GPE
+Phoenix: GPE
+San Francisco: GPE
+AFFILIATIONS: ORG
+National Education Association: ORG
+National Art Education Association: ORG
+Arizona Education Association: ORG
+Arizona Art Education Association: ORG
+2000-2002: DATE
+Middle School Division Chair: ORG
+1992-1994: DATE
+Stanford Accelerated School: ORG
+Arizona Alliance: ORG
+Arizona Alliance for Arts: ORG
+Arizona Visual Arts Standards: ORG
+Arizona: GPE
+Lesson Plan Development: ORG

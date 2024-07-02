@@ -1,0 +1,63 @@
+VIDEOGRAPHER
+Professional Profile
+Creative: PERSON
+Associate Editor: PRODUCT
+American Greetings: ORG
+03/2015: WORK_OF_ART
+Digital Media Specialist Company Name: ORG
+Created: ORG
+10,000: CARDINAL
+monthly: DATE
+six months: DATE
+Managed Facebook: PERSON
+Twitter: PERSON
+Instagram: ORG
+Communicated: ORG
+Emerge Inc.: ORG
+10/2013: CARDINAL
+the Akron Beacon Journal: ORG
+the Youngstown Vindicator: ORG
+TheNewsOutlet.org: ORG
+07/2013
+Promotions Intern Company Name: PRODUCT
+Maintained: GPE
+summer: DATE
+Filmed: PERSON
+annual: DATE
+Created: ORG
+annual: DATE
+04/2013: CARDINAL
+Z-TV: ORG
+WVPX: ORG
+Lights, Camera, Akron: WORK_OF_ART
+Facilitated: ORG
+Communicated: ORG
+WVPX Channel 23: ORG
+Production Intern Company Name: ORG
+daily: DATE
+New Day Cleveland: EVENT
+Social Media: ORG
+Content Specialist Company Name: ORG
+Emerge Inc.: ORG
+May 10, 2014
+Bachelor of Arts :: DATE
+Media Production: ORG
+Radio/TV THE UNIVERSITY OF AKRON ï¼​ City: ORG
+GPA: ORG
+3.988/4: CARDINAL
+Radio/TV GPA: ORG
+3.988/4: CARDINAL
+Skills: ORG
+Explorer: ORG
+Camera: PERSON
+Graduated Summa Cum Laude: ORG
+Two: CARDINAL
+Emmy Nominated: PERSON
+Lights, Camera,: WORK_OF_ART
+Akron: PERSON
+2013 & 2014: DATE
+10: CARDINAL
+Ohio Association of Broadcasters Scholarship Recipient National Academy of Television Arts: ORG
+John S. Knight Scholarship: PERSON
+National Society of Leadership of Success Dean's: ORG
+2010-2014: DATE

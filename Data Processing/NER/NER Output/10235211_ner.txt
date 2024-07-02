@@ -1,0 +1,77 @@
+the United States: GPE
+the United States Army: ORG
+Displays: PERSON
+November 2013: DATE
+Team: ORG
+Quick: ORG
+Microsoft Office: ORG
+Cold Calling
+Sales Force: WORK_OF_ART
+January 2015: DATE
+Build: GPE
+January 2011: DATE
+Nevada: GPE
+Owner: ORG
+state: ORG
+23 million dollars: MONEY
+three: CARDINAL
+January 2001 to January 2005: DATE
+State
+
+Infantry: ORG
+Iraq: GPE
+Oct, 2008: DATE
+The Lane Organization: ORG
+LLC: ORG
+Nevada: GPE
+State: ORG
+Limited Liability Corporation: ORG
+Main: ORG
+Radio Operator Communication: ORG
+January 1983 to January 1987: DATE
+2012: DATE
+National University ï¼​ City: ORG
+State: ORG
+1983: DATE
+Midfield: PERSON
+State: ORG
+Associate of Arts : Golf Management: WORK_OF_ART
+PGCC Professional Golfers Career College: ORG
+State: ORG
+Professional Golf Management City: ORG
+State: ORG
+2011: DATE
+Sport Psychology: ORG
+Veterans Administration
+
+Personal Information
+Fair: ORG
+at least one: CARDINAL
+Interests: NORP
+Shadow Valley Golf Course: Boise: WORK_OF_ART
+Idaho - Caddie Services: ORG
+2009-2010: DATE
+Ontario: GPE
+Oregon: GPE
+2009-2011: DATE
+Volunteer 2009-2010: DATE
+Mission Hills Country Club: ORG
+Pro Am: ORG
+Caddie 2011 Professional Golfers Career College Associates Degree: ORG
+2009-2011: DATE
+Skills: ORG
+Bachelors: ORG
+Negotiating: GPE
+Oct: PERSON
+Valley Golf: PERSON
+Idaho - Caddie Services: ORG
+2009-2010: DATE
+Ontario: GPE
+Oregon: GPE
+2009-2011: DATE
+Volunteer 2009-2010: DATE
+Mission Hills Country Club: ORG
+Caddie: PERSON
+2011 Professional Golfers Career College Associates Degree: ORG
+2009-2011: DATE
+at least one: CARDINAL

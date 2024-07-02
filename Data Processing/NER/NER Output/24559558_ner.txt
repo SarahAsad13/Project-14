@@ -1,0 +1,54 @@
+Daiana Rocha: PERSON
+Forward-: CARDINAL
+Corporate: ORG
+Audio-Visual: ORG
+20+ Years: DATE
+Savvy Social Media: ORG
+Audio - Visual Content
+Creator/Producer
+Strong Research: ORG
+DSLAR Cameras: PERSON
+Adobe: PERSON
+Adobe Photoshop: PERSON
+01/2008 - 10/2020 Public Relations Specialist Company Name: ORG
+Attend to Commission: ORG
+Assisted: ORG
+Monitored: ORG
+Established: ORG
+Univision: ORG
+KUTH: ORG
+the 6 p.m. and 11 p.m.: TIME
+Interim News Executive: ORG
+Devised: ORG
+GM: ORG
+03/2003 - 01/2004: MONEY
+State
+
+News Anchor: ORG
+5 pm: TIME
+10 pm: TIME
+daily: DATE
+Maintained: GPE
+any hour: TIME
+daily: DATE
+Collaborated: ORG
+South Florida: LOC
+Noticiero Univision: ORG
+Primer Impacto: ORG
+Despierta America: FAC
+Univision Sports: ORG
+30: CARDINAL
+60: CARDINAL
+English: LANGUAGE
+Spanish: NORP
+Juris Doctorate: PERSON
+Nova Southeastern University: ORG
+Florida International University: ORG
+Awards and Certifications: ORG
+2017: DATE
+Embracing Autism: WORK_OF_ART
+2016: CARDINAL
+Media Relations: ORG
+Award - Social Responsibility
+
+: ORG

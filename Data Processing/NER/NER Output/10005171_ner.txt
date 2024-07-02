@@ -1,0 +1,101 @@
+Chattanooga State: PERSON
+Hosted: ORG
+1997-2004: DATE
+Commissioned: PRODUCT
+State: ORG
+African American: NORP
+Tennessee: GPE
+Modern Times: ORG
+2004: DATE
+Spanish: LANGUAGE
+Spanish: NORP
+1995: DATE
+Led Chattanooga State: PERSON
+National Awards: ORG
+2012: DATE
+the National Council for Marketing and Public
+Relations: ORG
+the Radio/Advertisement/PSA Series: ORG
+2011: DATE
+NCMPR: GPE
+The Power of Achievement: ORG
+2010: DATE
+NCMPR: GPE
+Online Services: ORG
+the Gold Medallion: WORK_OF_ART
+Early College Video: ORG
+theCollege Promotional Video: ORG
+the Silver Medallion: PRODUCT
+five: CARDINAL
+Bronze Medallion: PERSON
+Neil de Grasse Tyson: PERSON
+Cosmos: ORG
+Michio Kaku: PERSON
+deans: NORP
+Utilized: ORG
+up to $500,000: MONEY
+Proofed: ORG
+seven: CARDINAL
+three: CARDINAL
+three: CARDINAL
+Recruited: PRODUCT
+Developed: ORG
+Student Services: ORG
+Commissioned: PRODUCT
+African Americans: NORP
+Tennessee: GPE
+Legislature: ORG
+Continuing Education Coordinator: ORG
+first: ORDINAL
+Spanish: LANGUAGE
+ER: ORG
+Professional Affiliations
+
+National Council for Marketing and Public Relations: ORG
+Tennessee College Public Relations Association: ORG
+Tennessee Screenwriters Association
+
+Education: ORG
+1994: DATE
+Master of Arts : Radio, Television & Motion Pictures University of North Carolina: WORK_OF_ART
+City: GPE
+Radio, Television & Motion Pictures: ORG
+9: DATE
+Paramount Pictures: ORG
+Los Angeles: GPE
+California: GPE
+Summer 1993: DATE
+1975: DATE
+Bachelor of Arts : Human Services University of Tennessee: ORG
+City: GPE
+State
+
+Human Services
+
+M ortar: ORG
+Board: ORG
+Academic Council: ORG
+Cheerleader: PERSON
+Campus
+Entertainment Board: ORG
+International Living: ORG
+Italy: GPE
+Operation Crossroads: ORG
+Africa: LOC
+six: CARDINAL
+West African: NORP
+the summer of 1972: DATE
+Resident: ORG
+1975: DATE
+2011-2012: DATE
+Sanctified Sisters Performing Ministry: ORG
+Howard High School: PERSON
+1971: DATE
+Reunion Chairperson: PERSON
+2001-2011: DATE
+Murray Hills Neighborhood Association Board: ORG
+2009-2011: DATE
+2009-2010: DATE
+Moccasin Bend Council of the Girl Scouts of America: ORG
+Brownie Troop 875: PRODUCT
+2007-2009: DATE

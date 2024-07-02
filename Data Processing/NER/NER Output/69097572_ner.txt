@@ -1,0 +1,76 @@
+6 years: DATE
+Multimedia Illustration: ORG
+Adobe CS5: ORG
+Graphic Design: ORG
+Excel: PRODUCT
+Word: PERSON
+the Army Reserve: ORG
+17: CARDINAL
+8 years: DATE
+Buffalo's SW Cafe: ORG
+one year: DATE
+Became Theater: ORG
+13 months: DATE
+10 %: PERCENT
+5 months: DATE
+over 200: CARDINAL
+Â Initiated: ORG
+Leadership: NORP
+Accenture: ORG
+2014: DATE
+6 months: DATE
+12 months: DATE
+more than 4: CARDINAL
+December 2014: DATE
+Current Transaction: ORG
+State: ORG
+Provided EVMS: LOC
+Control Account Managers: ORG
+F100/OME and Power systems: PRODUCT
+Work Breakdown Structure: FAC
+Schedule: PERSON
+Performance, Actual: ORG
+Created Work Release Authorizations: ORG
+Created Interdivisional Work Authorizations: ORG
+SAP: GPE
+monthly: DATE
+EV Metrics: ORG
+quarterly: DATE
+CAM: ORG
+hours: TIME
+Basis of Estimate: LOC
+BOE: ORG
+monthly: DATE
+quarterly: DATE
+Business Warehouse: ORG
+Winsight Â: PRODUCT
+July 2010 to February 2014: DATE
+March 2008 to September 2010: DATE
+20: CARDINAL
+July 2007 to July 2013: DATE
+Multimedia Illustrator 
+
+Trained: WORK_OF_ART
+Performed: ORG
+Maintained: GPE
+100%: PERCENT
+more than $20,000: MONEY
+Translated: ORG
+Maintained: GPE
+PowerPoint: ORG
+Created: ORG
+Researched: ORG
+Art Institute of San Antonio Bachelor of Arts: ORG
+Media Arts: ORG
+Animation City: GPE
+State Media Arts: ORG
+State: ORG
+Dependable: ORG
+First Aid, Government: ORG
+Leadership: NORP
+Microsoft: ORG
+PowerPoint: ORG
+Troubleshooting: GPE
+Honesty: GPE
+SAP: GPE
+EVMS: PERSON

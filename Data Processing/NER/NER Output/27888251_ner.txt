@@ -1,0 +1,37 @@
+four and a half years: DATE
+Lummi Planning and Public Works: ORG
+the Lummi Indian Reservation: ORG
+multipleÂ: ORG
+Tribal Codes of Laws: ORG
+Microsoft Access: ORG
+Use of Geographic Information Systems: ORG
+GIS: ORG
+Microsoft: ORG
+PowerPoint: PRODUCT
+100: CARDINAL
+managingÂ 7-10: PERSON
+January 2012: DATE
+Lummi Planning and Public Works Department: ORG
+marineÂ: ORG
+Water Resources Specialist: ORG
+February 2007 to January 2012: DATE
+Coordinated: ORG
+Maintained: GPE
+Gypsy Moth: PERSON
+May 2005 to November 2006 Company Name - City: DATE
+sixÂ: CARDINAL
+Washington: GPE
+Gypsy Moth: PERSON
+State: ORG
+Olympia: GPE
+March 2006 to June 2006 Company Name - City: DATE
+meetingsÂ: FAC
+Coordinated: ORG
+the Tree Subcommittee: ORG
+Bachelor of Science : Environmental Science and Geology: ORG
+2004: DATE
+Western Washington University - City: ORG
+State Conducted: GPE
+2002: DATE
+Whatcom Community College - City: ORG
+State Focus: ORG

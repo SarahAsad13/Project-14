@@ -1,0 +1,67 @@
+Skill Highlights: PERSON
+January 2014: DATE
+Current Housekeeper 
+City: PERSON
+every two weeks: DATE
+Sajeda: PRODUCT
+816-500-2786: CARDINAL
+January 2014: DATE
+Current Housekeeper 
+City: PERSON
+Stephanie: ORG
+Stephanie: ORG
+each week: DATE
+571: CARDINAL
+October 2013: DATE
+Current Housekeeper 
+City: PERSON
+Schwarz: PERSON
+918: CARDINAL
+April 2012: DATE
+Current Housekeeper/Caregiver 
+City: ORG
+Saft: PERSON
+561: CARDINAL
+April 2012: DATE
+Current Housekeeper 
+City: PERSON
+Boca Raton: GPE
+Delray Beach: GPE
+Boynton Beach: GPE
+Wellington: GPE
+Singer Island: LOC
+several months: DATE
+daily: DATE
+May 2013: DATE
+Current Housekeeper 
+City: PERSON
+State: ORG
+561: CARDINAL
+November 2012 to April 2013: DATE
+two: CARDINAL
+June 2010 to October 2011: DATE
+State: ORG
+that day: DATE
+the morning: TIME
+25%: PERCENT
+the first season: DATE
+December 1996 to September 2009: DATE
+Owner/Chef 
+City: ORG
+State: ORG
+Maine: GPE
+Oversaw: GPE
+Created: ORG
+many years: DATE
+year: DATE
+Training
+Wiscasset High: PERSON
+1985: DATE
+State: GPE
+USA: GPE
+Lowell: GPE
+Massachusetts: GPE
+8th of April, 1967: DATE
+Lake Worth: GPE
+Florida: GPE
+Beach: GPE

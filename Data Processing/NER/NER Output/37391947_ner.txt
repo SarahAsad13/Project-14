@@ -1,0 +1,64 @@
+BUSINESS DEVELOPMENT SPECIALIST: ORG
+10 years: DATE
+2016: DATE
+May 2016: DATE
+State Contacted: ORG
+Capital Ford: ORG
+Cashier/Office Support Staff Apr 2015 to Feb 2016: ORG
+daily: DATE
+SPMS: ORG
+Maintained: GPE
+daily: DATE
+Mar 2015: DATE
+2015: DATE
+Ohio: GPE
+Medicaid: ORG
+Medicaid: ORG
+Medicaid: ORG
+2-300: CARDINAL
+Obtained: ORG
+Departments: ORG
+2008: DATE
+Mar 2013: DATE
+Assisted: ORG
+Explained: ORG
+Assisted: ORG
+2 years in a row: DATE
+the North Carolina State Employees Combined Campaign: GPE
+Processor Oct: PERSON
+2007: DATE
+Mar 2008: DATE
+Processed: GPE
+401: CARDINAL
+daily: DATE
+Customer Service: ORG
+Oct 2006 to: DATE
+Maintained: GPE
+Strictly: ORG
+Processed: GPE
+Researched: ORG
+up to 100: CARDINAL
+IBM: ORG
+Explained: ORG
+my first year: DATE
+Fidelity Investments: ORG
+the Outstanding Customer Service Award: ORG
+Welfare: ORG
+Generalist: PERSON
+May 2003: DATE
+2003: DATE
+Assisted: ORG
+May 1997 to Mar 2002: DATE
+Fortune 500: LAW
+Assisted: ORG
+Associate of Science , Science Aug: ORG
+1979: DATE
+Louisburg College: ORG
+State: GPE
+US: GPE
+Customer Service: ORG
+IBM: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Word: PERSON
+Personnel: ORG

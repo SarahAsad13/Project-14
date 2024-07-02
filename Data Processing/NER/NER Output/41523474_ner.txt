@@ -1,0 +1,84 @@
+Human Resource Management and Finance: ORG
+May 2013: DATE
+June 2014: DATE
+Name City: GPE
+State HR Executive
+
+Duties and Responsibilities: ORG
+H.O.: GPE
+each month: DATE
+monthly: DATE
+2012: DATE
+Doon University City: ORG
+State: GPE
+India: GPE
+the Organization
+
+Organization : HDFC, Sales
+
+Location: ORG
+Dehradun: GPE
+India: GPE
+2 Months: DATE
+Group Dynamics: ORG
+summer: DATE
+HDFC Sales: ORG
+Dehra Dun: ORG
+India: GPE
+Management Trainee: PERSON
+WINTER: DATE
+the Organization
+
+Organization: ORG
+Narender Nagar: PERSON
+Uttarakhand: GPE
+India: GPE
+3 Weeks: DATE
+Group Dynamics: ORG
+Management Trainee: PERSON
+winter: DATE
+â€œANANDA IN THE HIMALAYAâ€​.
+
+Roles: HR: TIME
+the Organization Organization : HDFC, Sales Location: ORG
+Dehradun: GPE
+India: GPE
+2: CARDINAL
+Months: DATE
+Group Dynamics: ORG
+summer: DATE
+HDFC Sales: ORG
+Dehra Dun: ORG
+India: GPE
+Management Trainee WINTER: PERSON
+the Organization Organization: ORG
+Narender Nagar: PERSON
+Uttarakhand: GPE
+India: GPE
+3 Weeks
+Methodology :: DATE
+Group Dynamics: ORG
+Management Trainee: PERSON
+winter: DATE
+ANANDA IN THE HIMALAYA: WORK_OF_ART
+Management Trainee: PERSON
+Project Report: ORG
+Comparative Analysis of the Factors Determining Motivational Level of Employees Working in Public and Private Banks: WORK_OF_ART
+Dehradun: GPE
+Uttarakhand Data: ORG
+Primary Data: ORG
+Secondary Data: ORG
+Houston: GPE
+Texas: GPE
+Renu Sharma Date: PERSON
+-Uttarakhand State Council of Science and Technology: ORG
+-State Level Programme of Capacity Building and Strengthening: ORG
+Universities: GPE
+Development Institute of India: ORG
+EDI: ORG
+Skills
+
+Computer: ORG
+Word, Excel: WORK_OF_ART
+Power Point: ORG
+Key Skills and Management: ORG

@@ -1,0 +1,147 @@
+Microsoft Office Specialist: ORG
+Symantec Endpoint Protection: ORG
+Symantec Backup Exec: PERSON
+A+: NORP
+Network+: GPE
+Service Management: ORG
+Software: ORG
+Software: NORP
+Software: ORG
+500: CARDINAL
+1: CARDINAL
+2: CARDINAL
+3: CARDINAL
+Network: ORG
+Voice: ORG
+3rd: ORDINAL
+Avaya: ORG
+IBM: ORG
+Verizon: ORG
+AT&T: ORG
+Communicate: ORG
+DCJS: ORG
+AMAG Access Control Systems: ORG
+Code Blue Systems: ORG
+Access IT Universal - RS2 Technologies: WORK_OF_ART
+VMWARE Administrator: ORG
+Microsoft
+Office: ORG
+97, 2000: DATE
+XP: ORG
+2003: DATE
+2007: DATE
+2010: DATE
+2013: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Access, Project: ORG
+Visio: PERSON
+Citrix: GPE
+VMware: ORG
+Big Fix: GPE
+Tivoli: GPE
+Avaya Intuity: ORG
+Shoretel: ORG
+Novell: ORG
+Full Disk Encryption: ORG
+Remedy, Service Center, Service Now
+Work: ORG
+Independent: ORG
+Server: GPE
+Server: ORG
+Laptop and Desktop: ORG
+WIFI: ORG
+WIFI: ORG
+07/2013 Company Name City: EVENT
+BigFix IT Asset & Software: ORG
+Inventory System Administrator: ORG
+Casper: GPE
+Novell ZENworks Administrator: ORG
+ServiceNow Implementation: ORG
+Remote Support Administrator: ORG
+Laptop and Desktop: ORG
+Asset Inventory: ORG
+Windows XP & Windows 7 PC Operating System
+Architecture: ORG
+Build: GPE
+yearly: DATE
+2: CARDINAL
+HP/Dell/Lenovo Systems: ORG
+Research: ORG
+3rd: ORDINAL
+XP/Windows 7: ORG
+IOS: ORG
+3rd: ORDINAL
+Virus: ORG
+Malware: GPE
+Active Directory: ORG
+Access: ORG
+Information Technology Field Services: ORG
+12/2009: CARDINAL
+Richmond: GPE
+VA: GPE
+Perform weekly: ORG
+24/7 hour: TIME
+Troubleshoot: ORG
+ITIL: ORG
+Remedy: PERSON
+Deployed: PRODUCT
+Lotus: ORG
+Notes: PRODUCT
+6.5: CARDINAL
+Microsoft: ORG
+Assist: NORP
+Assist: NORP
+LAN: ORG
+WAN: ORG
+Maintain: NORP
+Blackberry Enterprise Server: ORG
+Execute: ORG
+IMAC: ORG
+Service Level Agreement & Incident Report: ORG
+Troubleshoot networking & PC: ORG
+Assist: NORP
+Training
+AUBURN UNIVERSITY SARGEANT: ORG
+COMMUNITY COLLEGE - Management Information Systems Information Systems Technology City: ORG
+State Management Information Systems Information Systems Technology: ORG
+Skills: ORG
+Active Directory: ORG
+Avaya: ORG
+Backup Exec: PERSON
+Citrix: PRODUCT
+Dell: ORG
+HP: ORG
+IBM: ORG
+IMAC: ORG
+Inventory: GPE
+ITIL: ORG
+LAN: ORG
+Lotus: ORG
+Notes: PRODUCT
+6.5: CARDINAL
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+97: CARDINAL
+Microsoft Office Specialist: ORG
+Microsoft Outlook: ORG
+Windows XP: ORG
+Microsoft: ORG
+Enterprise: ORG
+Network: ORG
+Novell: ORG
+Research, Service Level Agreement: ORG
+Symantec, System
+Administrator: ORG
+Tivoli: GPE
+Troubleshoot: GPE
+Visio: PERSON
+Voice: ORG
+VPN: ORG
+WAN: ORG
+ZENworks
+Additional Information
+
+https://www.linkedin.com/pub/
+/8/50/41b: ORG

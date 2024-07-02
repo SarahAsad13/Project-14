@@ -1,0 +1,55 @@
+8: CARDINAL
+0 through 18 months: DATE
+daily: DATE
+Highlights
+
+Charting: WORK_OF_ART
+Child: ORG
+Understands: GPE
+First: ORDINAL
+Reliable: WORK_OF_ART
+Friendly
+Cheerful: WORK_OF_ART
+Teamwork: ORG
+November 2014 to October 2015: DATE
+TeacherSanitized: ORG
+Maintained: GPE
+one: CARDINAL
+one: CARDINAL
+Prepared: PERSON
+daily: DATE
+8: CARDINAL
+Cashier: PERSON
+November 2006 to January 2009: DATE
+Cleaned: ORG
+Performed: ORG
+Prepared: PRODUCT
+Prepared: PRODUCT
+Cashier: PERSON
+July 2004 to September 2006: DATE
+Cleaned: PRODUCT
+Prepared: PRODUCT
+Stored: PRODUCT
+Communicated: ORG
+Prepared: PRODUCT
+Maintained: GPE
+hours: TIME
+April 2001 to December 2003: DATE
+Maintained: GPE
+8: CARDINAL
+3years: CARDINAL
+Monitored: ORG
+daily: DATE
+Exchanged: ORG
+first: ORDINAL
+Maintained: GPE
+Associate of Science : Computer Information Science AS: ORG
+2017: DATE
+State: GPE
+US: GPE
+Social Work University of North Dakota: ORG
+Social Work
+
+Business Northland Community and Technical College: ORG
+Liberals: NORP
+08/2008 - 05/2014: ORG

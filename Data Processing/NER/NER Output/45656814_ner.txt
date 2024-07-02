@@ -1,0 +1,47 @@
+FLOATER: ORG
+Motivates: ORG
+Lesson Planning: ORG
+Communicates: ORG
+first: ORDINAL
+the Jewish Academy of Arts and Sciences: ORG
+MyPlate: PERSON
+3-5.Â: CARDINAL
+03/2015: WORK_OF_ART
+from ages 6 weeks: DATE
+Pre-K. Â 
+Enforce: GPE
+daily: DATE
+Physical Education: ORG
+Health Teacher Company Name: ORG
+60 minute: TIME
+Physical Education: ORG
+first: ORDINAL
+third: ORDINAL
+fourth: ORDINAL
+fifth: ORDINAL
+daily: DATE
+daily: DATE
+monthly: DATE
+the Health Education: ORG
+60 minute: TIME
+third: ORDINAL
+fourth: ORDINAL
+fifth: ORDINAL
+â€‹I: WORK_OF_ART
+first: ORDINAL
+daily: DATE
+12/2013: CARDINAL
+ages 18 months to 5 years old: DATE
+Stretch-n-Grow: ORG
+August: DATE
+2013: DATE
+weekly: DATE
+daily: DATE
+2008: DATE
+Physical Education University of New Mexico: ORG
+State: ORG
+2005: DATE
+New Mexico State University: ORG
+State: ORG
+Volunteer Activities: PERSON
+60-minute: TIME

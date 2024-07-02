@@ -1,0 +1,30 @@
+ten years: DATE
+Complex: NORP
+Front: ORG
+Meeting Maker: WORK_OF_ART
+Fed Ex: ORG
+Hospitality: PERSON
+Leadership: NORP
+Financial Management: ORG
+Oversaw: GPE
+Dermalogica: ORG
+General/Operations: ORG
+45: CARDINAL
+12%: PERCENT
+Millenium: PERSON
+daily: DATE
+Spa Therapist: PERSON
+Therapist: PERSON
+11/2007 to 10/2009: CARDINAL
+Esthetician: NORP
+Certified Laser Technician Company Name: ORG
+Training: PERSON
+2006: DATE
+Bachelor Marketing/Management University of Aesthetics ï¼​ City: ORG
+1993: DATE
+Seward County Community College: ORG
+Business and Management
+
+Skills: ORG
+Inventory: GPE
+Laser: ORG

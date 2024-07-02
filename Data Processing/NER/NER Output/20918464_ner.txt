@@ -1,0 +1,105 @@
+Aim: PERSON
+Highlights
+
+MS-Word: GPE
+MS-
+Excel: ORG
+Windows: ORG
+Internet
+Software &
+Hardware: ORG
+Working: ORG
+Created: ORG
+Client: PERSON
+ULCCS Private Limited: ORG
+45 Days Duration: DATE
+2012: DATE
+2015: DATE
+Bank: ORG
+Keep: PERSON
+Handling: PERSON
+Payroll: ORG
+Internal Auditor Feb: ORG
+2010: DATE
+Ensures: LOC
+Bank: ORG
+Handling: PERSON
+Jan 2008 to Jan 2010: DATE
+the Bank Maintenance: ORG
+Bank: ORG
+Prepared: PRODUCT
+Education: ORG
+M.COM: PERSON
+2013: CARDINAL
+ï¼​ City: GPE
+State: GPE
+india: GPE
+2013,chennai: CARDINAL
+MBA: WORK_OF_ART
+2013: DATE
+City: GPE
+State: GPE
+India: GPE
+2011-2013: DATE
+2010: DATE
+ï¼​ City: GPE
+State: GPE
+India: GPE
+Certifications: ORG
+2009: DATE
+IPA: GPE
+City: GPE
+State: GPE
+INDIA: GPE
+GPA: ORG
+7.2: CARDINAL
+GPA: ORG
+7.2: CARDINAL
+MBA: WORK_OF_ART
+Business Proffessional Programmer: ORG
+Doeacc: PERSON
+AICTE-DIT Scheme) Description : The
+objective: ORG
+Microsoft Office Â 
+
+Duration: ORG
+6 Month: DATE
+6 Months: DATE
+Practical Accounting - Certified: ORG
+English: LANGUAGE
+Malayalam: ORG
+Tamil: PERSON
+Read &Write: ORG
+English: LANGUAGE
+Arabic: LANGUAGE
+Hindi: GPE
+Malayalam: ORG
+14-05-1987: DATE
+Marital Status :Engaged: ORG
+Permanent Address : Rabiyas: ORG
+Vatakara: GPE
+PO: ORG
+kerala-676506: DATE
+Indian: NORP
+Languages Known: PERSON
+English: LANGUAGE
+Malayalam: ORG
+Tamil: PERSON
+English: LANGUAGE
+Arabic: LANGUAGE
+Hindi: GPE
+Malayalam: ORG
+Visa: ORG
+Qatari: NORP
+28735642209: CARDINAL
+Self Confident: PERSON
+Dedicated
+Diligent: ORG
+Hardware: ORG
+ERP: ORG
+9: CARDINAL
+MS-Excel: ORG
+Microsoft Office: ORG
+Windows: GPE
+Payroll: ORG
+Peachtree, Programmer: ORG

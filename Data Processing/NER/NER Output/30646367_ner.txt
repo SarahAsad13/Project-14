@@ -1,0 +1,142 @@
+Time Star: ORG
+InfoTronics: ORG
+Dominion: ORG
+QuickBooks Ceridian: ORG
+PeopleSoft: ORG
+SAP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Crystal Reports: PRODUCT
+15 years: DATE
+Accurate: ORG
+Payroll & Benefits Coordinator Company Name: ORG
+weekly: DATE
+100: CARDINAL
+hourly: TIME
+Associates Garnishment: ORG
+Levy: PERSON
+Compile: PRODUCT
+weekly: DATE
+HRIS: ORG
+Respond: PERSON
+Assist: NORP
+Worker's Compensation: ORG
+OSHA: ORG
+300: CARDINAL
+OSHA: ORG
+Calculate: ORG
+daily: DATE
+HRIS: ORG
+300: CARDINAL
+Process: ORG
+monthly: DATE
+Process: ORG
+Generate: PERSON
+Maintain HRIS/Payroll: PERSON
+01/2013: CARDINAL
+weekly: DATE
+100: CARDINAL
+hourly: TIME
+Associates Garnishment: ORG
+Levy: PERSON
+Compile: PRODUCT
+weekly: DATE
+HRIS: ORG
+Respond: PERSON
+Assist: NORP
+Worker's Compensation: ORG
+OSHA: ORG
+300: CARDINAL
+quarterly: DATE
+01/2012: CARDINAL
+Safety & Benefits Coordinator Company Name: ORG
+State: ORG
+2009: DATE
+monthly: DATE
+HRIS: ORG
+Determine: GPE
+quarterly: DATE
+401k: PRODUCT
+Monthly: DATE
+Process 401k Benefit Event Notices Record Associate: ORG
+OSHA: ORG
+300 log: QUANTITY
+annual: DATE
+300A: CARDINAL
+Worker: ORG
+Conducted: ORG
+annual: DATE
+Coordinate: ORG
+monthly: DATE
+Respond: PERSON
+Assist: NORP
+Enrollment Coordinate: FAC
+Recognition Luncheon Assist: ORG
+01/2004: CARDINAL
+Payroll / Human Resources: ORG
+weekly: DATE
+300 hourly: QUANTITY
+Associates Garnishment: ORG
+Levy: PERSON
+Compile: PRODUCT
+weekly labor hours: TIME
+HRIS: ORG
+Compilation: PRODUCT
+weekly: DATE
+Process: ORG
+weekly: DATE
+401k: PRODUCT
+the State of MI Respond: ORG
+01/2004: CARDINAL
+Human Resources: ORG
+Corporate Payroll Prepare: ORG
+Maintain: PERSON
+daily: DATE
+Assist: NORP
+Coordinate Annual Service Award Program: ORG
+200: CARDINAL
+quarterly: DATE
+Continental: GPE
+U.S.: GPE
+weekly: DATE
+EFT Examined: ORG
+monthly: DATE
+quarterly: DATE
+quarterly: DATE
+annual: DATE
+Federal, State: ORG
+Payroll Clerk / Human Resources: ORG
+over 200: CARDINAL
+Prepared: PRODUCT
+quarterly: DATE
+State: ORG
+Coordinated: LAW
+Workers Compensation: ORG
+Researched: ORG
+monthly: DATE
+Michigan: GPE
+weekly: DATE
+over 350: CARDINAL
+Determined: LOC
+Liaison: PERSON
+400: CARDINAL
+Maintained: ORG
+Researched: ORG
+New Hire: GPE
+State: ORG
+weekly: DATE
+200: CARDINAL
+Developed: ORG
+B.B.A : Human Resources Human Resources: ORG
+Ceridian: PERSON
+Crystal Reports: PRODUCT
+HRIS: ORG
+Human Resources: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Payroll: ORG
+PeopleSoft: ORG
+QuickBooks: ORG
+SAP: ORG

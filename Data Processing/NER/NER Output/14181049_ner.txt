@@ -1,0 +1,174 @@
+Skill Highlights: PERSON
+Financial Planning Operations Management
+Data Development
+Process Improvement
+Functional Integration
+Budget Creation
+Tool / System Development
+Team Building / Management
+System Integrations
+Cost Control
+Mergers & Acquisitions: ORG
+Project Management
+Turnarounds/Restructurings
+International Hyperion Essbase * Hyperion Enterprise
+: ORG
+Hyperion Retrieve: ORG
+Excel: PRODUCT
+PowerPoint: PRODUCT
+FileMaker: ORG
+Minitab
+Storm
+WordPerfect: PERSON
+Strategen: ORG
+AccPac: ORG
+Business Objects
+Daly & Wolcott
+Great Plain Dynamics: ORG
+Lawson: PERSON
+MacPac: ORG
+OneGlobe: ORG
+PeopleSoft: ORG
+QuickBooks: ORG
+Magnitude
+TMS
+nSIMMS
+Monarch
+Razorsight: PERSON
+Finance: PERSON
+State: ORG
+A.T.
+Cross: ORG
+169 year: DATE
+CFO: ORG
+two: CARDINAL
+my first three months: DATE
+A.T.
+Cross: ORG
+MS Access: ORG
+Over my first nine months: DATE
+A.T.
+Cross: ORG
+five: CARDINAL
+ERP: ORG
+a five week: DATE
+five day: DATE
+Constrained: ORG
+MS Excel: ORG
+MS Access: ORG
+$7M: MONEY
+the next three years: DATE
+KPI: ORG
+200K.: MONEY
+KPI: ORG
+four: CARDINAL
+Granite City Electric: ORG
+Staples: PRODUCT
+Sun Life
+Financial and Saint Gobain: ORG
+Achievements: PERSON
+ERP: ORG
+Staples: PRODUCT
+ERP: ORG
+Saint Gobain: FAC
+one: CARDINAL
+Business Objects: ORG
+Excel: PRODUCT
+VBA: ORG
+Lightower Fiber Networks: ORG
+2012: DATE
+2B: MONEY
+Con Ed
+Solution's: PERSON
+RCN Communications: ORG
+2008: DATE
+Achievements: PERSON
+two: CARDINAL
+MS Excel: ORG
+40%: PERCENT
+Sidera: ORG
+zero: CARDINAL
+two year: DATE
+100: MONEY
+annual: DATE
+Global Engagement & Mobility Solutions: ORG
+Finance: ORG
+January 2005 to January 2006: DATE
+State: ORG
+3.5BM: MONEY
+more than 4,000: CARDINAL
+Achievements: PERSON
+the Corporate Tax Department: ORG
+Legal: GPE
+the Payroll Department: ORG
+31: CARDINAL
+millions: CARDINAL
+$1.3 billion: MONEY
+China: GPE
+Mexico: GPE
+the Corporate Executive: ORG
+Ireland: GPE
+the Supply Chain
+Operations': ORG
+six: CARDINAL
+four: CARDINAL
+3Com: CARDINAL
+Finance: ORG
+January 1997 to January 2005: DATE
+1B: MONEY
+Controller: PERSON
+three: CARDINAL
+Executive: ORG
+Achievements: PERSON
+the Engineering and Technical Operations: ORG
+FCC: ORG
+$1.2M: MONEY
+13: CARDINAL
+Lawson: GPE
+less than five days: DATE
+Master of Business Administration : Finance: ORG
+2016 University of Massachusetts ï¼​ City: ORG
+State Finance: ORG
+State Accounting: ORG
+Skills: ORG
+3Com: CARDINAL
+Accounting: ORG
+AccPac: ORG
+Acquisitions: ORG
+Budget, Business Objects: ORG
+Controller: PERSON
+ERP: ORG
+Excel: PRODUCT
+VBA: ORG
+Executive: ORG
+FileMaker: ORG
+Financial, Financial Planning: ORG
+Financial Analysis / Reporting: ORG
+Functional: GPE
+Hyperion: ORG
+Lawson: PERSON
+Mergers: PERSON
+MS
+Access: ORG
+Excel: PRODUCT
+MS PowerPoint: PERSON
+MS Word: PERSON
+Minitab: PERSON
+Monarch, Enterprise: ORG
+Networks: ORG
+Operations
+Management: ORG
+Oracle, Payroll: ORG
+PeopleSoft: ORG
+Process Improvement: PERSON
+Project
+Management: ORG
+Proposal: GPE
+QuickBooks: ORG
+RfP: ORG
+SAP: ORG
+SQL: ORG
+Strategic: PERSON
+Sun: ORG
+Tax: PERSON
+WordPerfect: ORG

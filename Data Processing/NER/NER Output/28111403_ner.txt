@@ -1,0 +1,112 @@
+Skill Highlights: PERSON
+Project Management
+
+Employee: ORG
+Spearheaded: ORG
+$5 million dollar: MONEY
+Capital Campaign: ORG
+10Â: MONEY
+$11.5 million: MONEY
+Expanded Residential Services: ORG
+twenty six: CARDINAL
+26: CARDINAL
+thirty-five: CARDINAL
+35: CARDINAL
+Foster Care Services Â: ORG
+the Columbus Foundation: ORG
+2015: DATE
+2010: DATE
+State: ORG
+St. Vincent Family Centers: ORG
+St. Vincent Family Centers: ORG
+the Board of Directors: ORG
+âž¢: PRODUCT
+the Nomination
+Committee: ORG
+the Board of Directors: ORG
+St. Vincent Family Centers: ORG
+Board: ORG
+âž¢ Monitors: PRODUCT
+Oversee: ORG
+âž¢: PRODUCT
+St.
+Vincent Family Center: GPE
+Ohio: GPE
+Jan 2009: DATE
+Oct 2010: DATE
+Columbus: GPE
+Ohio: GPE
+âž¢: PRODUCT
+the National Youth Advocate Program: ORG
+Ohio: GPE
+day: DATE
+âž¢: PRODUCT
+Human Resources Department: ORG
+the Advisory Board: ORG
+Board: ORG
+Jun 2002: PERSON
+Jan 2009: DATE
+Columbus: GPE
+Ohio: GPE
+Franklin County: GPE
+Foster Care, Clinical Services: ORG
+Sexual
+Offender: PERSON
+Service Utilization: ORG
+Prepared: PERSON
+Columbus: GPE
+Ohio: GPE
+Child Welfare Caseworker Jul 1998: WORK_OF_ART
+May 2002: DATE
+State: ORG
+âž¢: PRODUCT
+1996: DATE
+1998: DATE
+State: ORG
+âž¢: PRODUCT
+daily: DATE
+Unusual Incident Reports: PERSON
+âž¢: PERSON
+Jun 1995: PERSON
+1996: DATE
+State: ORG
+one: CARDINAL
+Education: ORG
+B.A.: GPE
+State: GPE
+US: GPE
+Bethany College: ORG
+Bethany: GPE
+West Virginia: GPE
+B.A.: GPE
+1995: DATE
+M.S.: GPE
+Human Services Management 2001 Franklin University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Franklin University: ORG
+Columbus: GPE
+Ohio: GPE
+M.S. 2001-: FAC
+Human Services Management
+Professional Affiliations: ORG
+Central Ohio Finance Committee: ORG
+Past Board: ORG
+Ohio Association of Child Caring Agencies: ORG
+OACCA: ORG
+The John Glenn Leadership Institute for Public Service & Public Policy: PERSON
+The Ohio State University: ORG
+Leadership Academy: ORG
+Mental Health and Addiction Services Professionals: ORG
+Improving Outcomes: Merging Best Practice: ORG
+Managed Care Strategies: ORG
+Improving Outcomes: ORG
+Foster Family-Based: PERSON
+Child Welfare Privatization
+Strategies: WORK_OF_ART
+Foster Family-Based: PERSON
+FL: ORG
+Improving Outcomes: ORG
+Â Quality Control, Corrective Action, Human Resources: ORG
+Finance: ORG

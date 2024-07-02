@@ -1,0 +1,105 @@
+more than 7 years': DATE
+EPC Oil &Gas: ORG
+Core Qualifications: ORG
+Solid Works: ORG
+Visio: PERSON
+Microsoft: ORG
+PowerPoint: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Material Handling: PERSON
+Pump And Piping Systems: ORG
+ASME: ORG
+Talented Technical Writer: ORG
+Time Management Skills: ORG
+Shore Senior Construction Piping Engineer: ORG
+November 2013: DATE
+Equipment(slug: PRODUCT
+16: CARDINAL
+Metering Gas Skid: WORK_OF_ART
+16: CARDINAL
+30 km: QUANTITY
+18 km Gas: QUANTITY
+3: CARDINAL
+500: CARDINAL
+M3: PRODUCT
+GOSP: ORG
+Platform-A Construction: ORG
+24: CARDINAL
+8" &: PERCENT
+17: CARDINAL
+Km: ORG
+110 ton: QUANTITY
+4: CARDINAL
+maridive-300: DATE
+two: CARDINAL
+45 tons: QUANTITY
+20 tons: QUANTITY
+two: CARDINAL
+25 tons: QUANTITY
+18 tons: QUANTITY
+124: CARDINAL
+AMAL: PERSON
+GEPO EL AMLAK: ORG
+two 46: DATE
+10: CARDINAL
+three 30: DATE
+20: CARDINAL
+8: CARDINAL
+ELZAHRA: ORG
+NDT: ORG
+4: CARDINAL
+RIG EL-ZAHRA: NORP
+three: CARDINAL
+22: CARDINAL
+three: CARDINAL
+BAHRI-1: GPE
+Construction Piping Engineer: ORG
+June 2009 to November 2013: DATE
+Petroleum Company: ORG
+SHELL - Matroh: ORG
+34
+meters: QUANTITY
+80 Tons: QUANTITY
+500: CARDINAL
+50: CARDINAL
+Fabrication & Installation: ORG
+Metering: PERSON
+A&B: ORG
+first: ORDINAL
+second: ORDINAL
+Carbon Steel: ORG
+Duplex: ORG
+Hydro: ORG
+Electrical & Instrument: ORG
+10: CARDINAL
+Supervisor: PERSON
+OBAIYED: ORG
+2: CARDINAL
+125: CARDINAL
+Construct: ORG
+Constructions / Piping Engineer: ORG
+July 2011 to September 2011 Company Name: DATE
+cable & control house: ORG
+ZAGAZIG: ORG
+Egypt Technical Skills: ORG
+Checking: PERSON
+31.3: CARDINAL
+Material Inspection: ORG
+daily: DATE
+HSE: ORG
+Base Crew: WORK_OF_ART
+Shut-Downs and Prepare: ORG
+Bachelor of Mechanical Engineering: ORG
+2009: CARDINAL
+Skills: ORG
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Proposal: PERSON
+SHELL: ORG
+Solid Works: PERSON
+Time
+Management: ORG
+Visio: PERSON

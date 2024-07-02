@@ -1,0 +1,53 @@
+ROUND: ORG
+Laboer Floor Construction Worker: ORG
+06/2015: CARDINAL
+02/2015: ORG
+12/2016: CARDINAL
+daily: DATE
+the day: DATE
+daily: DATE
+06/2003: CARDINAL
+Thomas: PERSON
+Xavier Thomas: PERSON
+more than 3years: CARDINAL
+Laborer: PERSON
+FDA: ORG
+Arts: ORG
+Poised
+Organized
+Detail: PERSON
+English: LANGUAGE
+Communicates: ORG
+Driven
+Charismatic
+Adaptable: ORG
+daily: DATE
+daily: DATE
+at least 13: CARDINAL
+000 Â square feet per hour: QUANTITY
+12Â  months: DATE
+Completed 4: ORG
+1 Â years: DATE
+7 Â: CARDINAL
+100%: PERCENT
+2020 AntelopeValley Community College: ORG
+City: GPE
+State: GPE
+U.S.A: GPE
+3.00: CARDINAL
+GPA: ORG
+Warehouse Operations Transportation: ORG
+Specialized: ORG
+Â  Coursework in Travel: ORG
+Tourism
+Hair: ORG
+Emphasis: ORG
+Learner Communications: ORG
+English: LANGUAGE
+Journalism: NORP
+Coursework in Environmental Science and Biology
+Coursework in Communications and Psychology: ORG
+Coursework in Communication: ORG
+Theater Arts: PERSON
+2012: DATE
+Oklahomacity: GPE

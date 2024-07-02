@@ -1,0 +1,93 @@
+the professional services department: ORG
+Skills
+
+Strong: ORG
+Critical: PRODUCT
+November 2016: DATE
+May 2017: DATE
+Mirth Connect: ORG
+NextGen: ORG
+RFP: ORG
+EHR Application Specialist: ORG
+April 2014 to March 2016: DATE
+Hosted: ORG
+SQL Server Management Studio: ORG
+SQL
+Statements: PERSON
+SQL Profiler: PERSON
+SQL Tracing: ORG
+Communicate: ORG
+Defects and Enhancement Request: PRODUCT
+Xaxis: PERSON
+24/7: CARDINAL
+Business Data Analyst: ORG
+December 2013 to January 2014: DATE
+Optimizing: GPE
+AppNexus: ORG
+Saleforce: ORG
+Client: GPE
+Oracle: ORG
+Excel: PRODUCT
+Data: ORG
+OAS: ORG
+Training
+B.S :: ORG
+Management & Marketing Option: ORG
+May 2014: DATE
+The Pennsylvania State University Business Administration: ORG
+Management & Marketing Option: ORG
+3.51: CARDINAL
+6: CARDINAL
+Data Analytics: ORG
+2018: DATE
+The Pennsylvania State University: ORG
+Data Analytics - Business Analytics Option: ORG
+The Pennsylvania State University Data Analytics - Business
+Analytics Option 3.71: ORG
+October 2014: DATE
+Indian Cultural Association of Pennsylvania: ORG
+Interests: NORP
+SASA: ORG
+South Asian Student Association: ORG
+Penn State Abington: ORG
+September 2010 - May
+2014: DATE
+Hindi: GPE
+Guajarati
+Technical Qualifications
+Communication: ORG
+English: LANGUAGE
+Hindi: GPE
+Gujarati: GPE
+Microsoft Office Suite: ORG
+Rally Methodologies: ORG
+Agile: ORG
+Scrum
+Language Familiarity: PRODUCT
+SQL: ORG
+CSS: ORG
+JavaScript: ORG
+XML: ORG
+XHTML: PERSON
+HTML5
+Data BI Tools: ORG
+Tableau: GPE
+SAS: ORG
+Excel: PRODUCT
+Database Tools: MySQL,: WORK_OF_ART
+Microsoft: ORG
+SQL Server: PERSON
+Oracle
+Network Software: ORG
+Citric: ORG
+CRM Applications: Salesforce, and Service Desk Enterprise
+Operating Systems: Windows XP/Vista/7/8/: WORK_OF_ART
+Mac: PERSON
+10: CARDINAL
+Android: ORG
+SASA: ORG
+South Asian Student Association: ORG
+Penn State Abington: ORG
+September 2010 -
+: DATE
+May 2014: DATE

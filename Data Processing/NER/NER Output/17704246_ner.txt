@@ -1,0 +1,156 @@
+HyVee Grocery Store: ORG
+Detail: PERSON
+Transportation Logistics Coordinator: ORG
+Resourceful Hyvee: PERSON
+Retech: ORG
+2 years: DATE
+Hyvee: LOC
+ReTech Â: ORG
+16+ year: DATE
+Excels: PERSON
+Time: ORG
+Client: GPE
+Excel: PRODUCT
+03/2007: ORG
+03/2008: CARDINAL
+â€¢Display: CARDINAL
+â€¢Maintain: CARDINAL
+State: ORG
+â€¢ Maintain: PRODUCT
+â€¢ Take: WORK_OF_ART
+â€¢ Assemble: PRODUCT
+â€¢ Process: PRODUCT
+â€¢ Clean: PRODUCT
+â€¢ Respond: PRODUCT
+â€¢ Follow: PRODUCT
+â€¢ Arrive: PRODUCT
+Vacuumed: ORG
+Emphasized: PERSON
+3: CARDINAL
+Sprayed: PERSON
+daily: DATE
+Devised: ORG
+17 years: DATE
+Correctly: ORG
+Maintained: GPE
+Directed: ORG
+09/2016
+Stock Associate/ Stock: ORG
+Collaborated: ORG
+50%: PERCENT
+monthly: DATE
+Performed: ORG
+Oversaw: GPE
+Shared: ORG
+4 quarters in a row: DATE
+Communicated: ORG
+Recruited: PRODUCT
+Maintained: GPE
+Processed: GPE
+20: CARDINAL
+daily: DATE
+Communicated: ORG
+30%: PERCENT
+Processed: GPE
+15-20: CARDINAL
+each day: DATE
+Maintained: GPE
+Communicated: ORG
+Communicated: ORG
+first: ORDINAL
+10: CARDINAL
+each month: DATE
+Processed: GPE
+weekly: DATE
+Hand Packer Company Name: ORG
+First: ORDINAL
+â€¢Remove: CARDINAL
+â€¢Be: PERSON
+SQF: NORP
+GMP: ORG
+â€¢Maintain: CARDINAL
+â€¢Report: CARDINAL
+Processing Management: ORG
+10/2018: CARDINAL
+Assembler Tech Company Name: ORG
+Â Review: ORG
+Hours: TIME
+6-2:30pm: CARDINAL
+Friday: DATE
+Mechanical Assembler: ORG
+the day: DATE
+up to: MONEY
+50 pounds: QUANTITY
+Training: PERSON
+2000: DATE
+State: GPE
+United States: GPE
+3.0: CARDINAL
+GPA: ORG
+2013: DATE
+Iowa Central Community College: ORG
+State: GPE
+United States: GPE
+3.2: CARDINAL
+GPA: ORG
+Institute of Logistics and Transport: ORG
+week/month/year: DATE
+Maintained: GPE
+Project Management: ORG
+Quality Control
+Identified: ORG
+Quality Control
+Identified: ORG
+Project Planning: ORG
+Inventory Control: ORG
+Operation Monitoring
+Watched: WORK_OF_ART
+Quality Control
+Identified: ORG
+Vendor Management: ORG
+8%: PERCENT
+Preventative Maintenance: PERSON
+daily: DATE
+annual: DATE
+90,000: MONEY
+Machine Repair: ORG
+Equipment Maintenance
+Performed: PERSON
+Crew Management 
+Interviewed: ORG
+25: CARDINAL
+Safety Audit 
+Led: PRODUCT
+monthly: DATE
+Maintenance
+Reduced: PERSON
+25%: PERCENT
+Supervision
+Trained: ORG
+20: CARDINAL
+up to 50 pounds: MONEY
+Color: ORG
+Estimate: LOC
+Surface: PERSON
+Strong: PERSON
+Basic: PRODUCT
+Accurate: ORG
+Quality: ORG
+lineÂ 
+Safety: PRODUCT
+Solid: PRODUCT
+Team: ORG
+Demolition: ORG
+Detail: PERSON
+Strategic: PERSON
+up to 100: CARDINAL
+Solid: PRODUCT
+OSHA: ORG
+English: LANGUAGE
+Interests: NORP
+37 years old: DATE
+Fort Dodge: GPE
+IA: GPE
+3years: CARDINAL
+7 years: DATE
+April of 2019: DATE

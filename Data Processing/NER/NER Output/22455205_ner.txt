@@ -1,0 +1,54 @@
+Economics: ORG
+the University of California Irvine: ORG
+Microsoft: ORG
+Critical: ORG
+Articulateandwell: PERSON
+Skills
+Work History: ORG
+State: ORG
+Prepared: PERSON
+Oversaw: GPE
+clientÃ¨le: PERSON
+05/2010 to 04/2012: CARDINAL
+State: ORG
+Cultivated: ORG
+Coordinated: ORG
+daily: DATE
+Obtained: ORG
+State: ORG
+l Helped: ORG
+08/2007: PERSON
+Obtained: ORG
+Bachelor of Arts : Economics: ORG
+1 2013: DATE
+University of California - City: ORG
+State: ORG
+GPA: ORG
+September 2013: DATE
+Deans: NORP
+six consecutive quarters: DATE
+National Society of Leadership: ORG
+September 2013: DATE
+Deans: NORP
+six consecutive quarters: DATE
+Independent Research: ORG
+December: DATE
+Economics and Finance l Research: ORG
+Data Analysis: ORG
+Statistics l Upper: ORG
+Research l Money and Banking Operations l Economic Anthropology l: ORG
+the Financial Sector l International Studies l: LOC
+Investment Management: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Access: ORG
+1 2013: CARDINAL
+Skills: ORG
+Data Analysis, Economics, Finance: ORG
+Investment Management: ORG
+Access: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Research: ORG

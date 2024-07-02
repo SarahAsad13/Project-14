@@ -1,0 +1,96 @@
+Highlights
+Safety ManagementEmployee EngagementHR: WORK_OF_ART
+GeneralistTraining & DevelopmentOrganizationRecruiting & Succession Planning: ORG
+non union: ORG
+Established North American: NORP
+US & Canada: ORG
+7: CARDINAL
+4separate: CARDINAL
+January 2007 to October 2010: DATE
+2015: DATE
+CurrentDanone - Minster: ORG
+OHDevelopment: ORG
+7: CARDINAL
+Environmental, Health & Safety: ORG
+2010 to October 2015Dannon - Minster: DATE
+4: CARDINAL
+US: GPE
+7: CARDINAL
+US: GPE
+Attained One Team Award: ORG
+ISO 22000: ORG
+ISO 14001 Environmental: ORG
+2: CARDINAL
+400: CARDINAL
+200: CARDINAL
+first: ORDINAL
+BCTGM: ORG
+millions of dollars: MONEY
+the 5 year: DATE
+12: CARDINAL
+zero: CARDINAL
+3 year: DATE
+24: CARDINAL
+4: CARDINAL
+12 hour: TIME
+24/7: CARDINAL
+January 2002 to April 2007: DATE
+5: CARDINAL
+New England States: LOC
+one: CARDINAL
+Bayer: ORG
+24/7: CARDINAL
+141,000: MONEY
+Massachusetts: GPE
+hourly: TIME
+Oversaw: GPE
+the Job Safety Behavior Observation: ORG
+andISO: PERSON
+Reason: ORG
+January 2000: DATE
+February 2002: DATE
+Angola: GPE
+INServed: ORG
+asliaison: ORG
+Facilitated: ORG
+83%: PERCENT
+Reason: ORG
+ManagerJuly 1996 to December 1999Ingersoll: DATE
+INManaged: ORG
+UAW: ORG
+Americans: NORP
+ADA: ORG
+Kaizen: PERSON
+4%: PERCENT
+days: DATE
+273: CARDINAL
+zero: CARDINAL
+62%.Closed 114: CARDINAL
+3 years: DATE
+ManagerFebruary 1989 to March 1996Hendrickson: DATE
+Truck Suspension - Kendallville: PERSON
+INOversaw: ORG
+Functions: PERSON
+3: CARDINAL
+first: ORDINAL
+HRIS - ABRAAttained 3: ORG
+Hendrickson: ORG
+Reason: ORG
+Bachelor of Science : Personnel: ORG
+Purdue University: ORG
+State: ORG
+USA Personnel: ORG
+1987: DATE
+Purdue University ï¼​ City: ORG
+State: GPE
+USA Supervision: ORG
+1985: DATE
+State University of New York - Cobleskill: ORG
+State: GPE
+USA Plant: ORG
+ADA: ORG
+HRIS: ORG
+Human Resource: ORG
+ISO: ORG
+Material Science: ORG
+Safety: ORG

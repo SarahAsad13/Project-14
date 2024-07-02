@@ -1,0 +1,140 @@
+FlexibleÂ Controller: PERSON
+20 years: DATE
+200: CARDINAL
+Multi-million dollar: MONEY
+September 2017: DATE
+State: ORG
+Oversaw: GPE
+30: CARDINAL
+Finance: ORG
+-Kimco Facility Services: ORG
+LLC: ORG
+$18M to: MONEY
+500 to 8,000: CARDINAL
+48: CARDINAL
+Grew: PERSON
+6: CARDINAL
+6 months: DATE
+Established: ORG
+Primary: PERSON
+day: DATE
+Setup ACH: ORG
+Payroll: ORG
+Transferred: PRODUCT
+8,000: CARDINAL
+3rd: ORDINAL
+4 months: DATE
+Accounts Receivable: ORG
+approximately 5: CARDINAL
+Accounts Payable: ORG
+Transferred: CARDINAL
+700: CARDINAL
+over 350: CARDINAL
+350: CARDINAL
+Business Analyst: ORG
+Colorado: GPE
+14: DATE
+remote & traveled: ORG
+Linked revenue &: ORG
+5,000: CARDINAL
+48: CARDINAL
+Developed: ORG
+annual: DATE
+March 2017: DATE
+Current US Accounting: ORG
+10: CARDINAL
+US: GPE
+US: GPE
+month-end: DATE
+4: CARDINAL
+Australia: GPE
+Asia/Pacific: ORG
+United Kingdom: GPE
+Russia: GPE
+South Africa & Germany: GPE
+Organized &: ORG
+50%: PERCENT
+prior year: DATE
+14 to 5 days: DATE
+US: GPE
+German: NORP
+30K+: MONEY
+monthly: DATE
+January 2010 to July 2012: DATE
+State: ORG
+Oversaw: GPE
+month end: DATE
+2: CARDINAL
+30M+: MONEY
+15-20: CARDINAL
+Analyzed &: ORG
+April 2009 to August 2009: DATE
+Financial / Tax Analyst 
+City: ORG
+2M+: MONEY
+monthly: DATE
+Australian: NORP
+Canadian: NORP
+US: GPE
+December 2007 to April 2009: DATE
+Controller: PERSON
+State: ORG
+annual: DATE
+6: CARDINAL
+3: CARDINAL
+Processed: GPE
+monthly: DATE
+Pepsi Lane: ORG
+Pepsi Bottle Group: ORG
+Fortune 200: WORK_OF_ART
+Lane: PERSON
+PBG: ORG
+Merged Lane's: PERSON
+PGB: ORG
+April 2002 to February 2006: DATE
+Controller: PERSON
+Controller: PERSON
+9: CARDINAL
+month-end: DATE
+750: CARDINAL
+month: DATE
+111M: PRODUCT
+39: CARDINAL
+December 2000: DATE
+April 2002: DATE
+Reconciliation Coordinator: PERSON
+December 1996 to: DATE
+April 2000: DATE
+Accountant 
+City: PERSON
+February 1920 to: DATE
+February 1920: DATE
+Accountant 
+City: PERSON
+Regis University: ORG
+2001: DATE
+State
+University of Northern Colorado 1996 Bachelor of Science : Business Administration - Finance: ORG
+State: ORG
+Skills
+Accounting:Â 
+Financial Statements: ORG
+Business / Financial Analysis: ORG
+Budgeting: GPE
+Month-End Close: DATE
+General Ledger, Fixed
+Assets: ORG
+Â Review / Implement Software & Policies: ORG
+Â Accounts Payable: ORG
+Citrix Budgeting: PERSON
+PeopleSoft: ORG
+Brio Reporting: PERSON
+Accpac: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Mortgageware: ORG
+Jack Henry: PERSON
+JD Edwards: PERSON
+Campus Vue: PERSON
+Professional Affiliations: ORG
+June 2012: DATE

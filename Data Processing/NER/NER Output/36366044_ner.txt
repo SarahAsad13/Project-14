@@ -1,0 +1,139 @@
+BARTENDER / SERVER TRAINER / BANQUET EVENT CAPTAIN
+Summary
+
+Seeking: ORG
+Referral/Repeat Business Generation
+
+Public Speaking
+Objection Handling
+Consultative Sales: ORG
+Team Player: ORG
+9 months: DATE
+two: CARDINAL
+Awarded: GPE
+the Spring & Summer Campaign of 2012: EVENT
+slowest days: DATE
+Named: WORK_OF_ART
+the Month: DATE
+Conducted: ORG
+110: CARDINAL
+Collaborated: ORG
+#1 Branch Office: MONEY
+Summer Conference Sales: WORK_OF_ART
+roughly 75: CARDINAL
+10: CARDINAL
+Name City: GPE
+Uphold: ORG
+BEO: ORG
+Facilitate: ORG
+Name City: GPE
+State: ORG
+19 hour: TIME
+Assisted: ORG
+90 minute: TIME
+110: CARDINAL
+summer: DATE
+Assisted: ORG
+Branch Office: ORG
+15-30: CARDINAL
+weekly: DATE
+Assisted: ORG
+weekly: DATE
+weekly: DATE
+monthly: DATE
+annual: DATE
+Monitored: ORG
+Collaborated: ORG
+#1 Branch Office: MONEY
+roughly 75: CARDINAL
+Assisted Branch: ORG
+110k: MONEY
+the Summer Campaign: ORG
+the previous years: DATE
+157%: PERCENT
+CUTCO: ORG
+Field Training
+
+Company: ORG
+Name City: GPE
+State Sales Representative / Field Sales: ORG
+CUTCO: ORG
+one: CARDINAL
+Vector Marketing: ORG
+over $250 Million: MONEY
+CUTCO: ORG
+Emphasized: PERSON
+Collaborated: ORG
+20: CARDINAL
+Shared: ORG
+10-15: CARDINAL
+Obtained: ORG
+Presidents Club: ORG
+two: CARDINAL
+30,000: MONEY
+9 months: DATE
+two: CARDINAL
+10: CARDINAL
+the East Coast: LOC
+Over $450: MONEY
+Order - 80%: ORG
+43,000: MONEY
+Name City: GPE
+State: ORG
+George Mason High School: ORG
+Food Runner / Server: WORK_OF_ART
+Bachelor of Science : Neuroscience Northern Virginia Community College: ORG
+City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.9: CARDINAL
+George Mason University: ORG
+GPA: ORG
+3.9: CARDINAL
+40: CARDINAL
+Computer Competency: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Access: ORG
+OneNote: ORG
+City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+4.0: CARDINAL
+Transfer Program for University of Florida - 2012: ORG
+GPA: ORG
+4.0: CARDINAL
+Dean: PERSON
+Coursework in Communications and Psychology
+Voluntarism: Study Group: ORG
+IB Studies George Mason High School , City ,: ORG
+State: GPE
+USA: GPE
+2011
+Concentration: DATE
+Awarded 3 College Credits: ORG
+Completed: ORG
+IB: GPE
+Spanish: NORP
+Hiking: GPE
+Racquetball: PERSON
+Horseback Riding: ORG
+Canada: GPE
+China: GPE
+Thailand: GPE
+Peru: GPE
+Argentina: GPE
+Chile: GPE
+Spain: GPE
+Germany: GPE
+Ideally: GPE
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+Establishing Good Rapport: ORG
+Time Management: ORG
+Problem Solving: PERSON
+two: CARDINAL

@@ -1,0 +1,63 @@
+2.0: CARDINAL
+Design for Manufacturability
+Supplier: WORK_OF_ART
+April 2013: DATE
+Name City: GPE
+State: ORG
+Engine Peripheral: ORG
+Creo 2.0 Process Engineering Change Notices: ORG
+Teamcenter PDM: PERSON
+JD Edwards: PERSON
+Create: ORG
+Hose: PERSON
+Assembly: ORG
+Prototype: ORG
+Completed: ORG
+one week: DATE
+September 2007: DATE
+March 2013
+City: DATE
+State: ORG
+Armor: GPE
+2D: CARDINAL
+Catia V5: PRODUCT
+Pro Engineer Wildfire: ORG
+Creo
+Process Engineering Change Notices: ORG
+JD Edwards: PERSON
+Utilized GD&T: ORG
+Utilized Catia Kinematics: ORG
+four: CARDINAL
+M-ATV: PRODUCT
+FMTV: ORG
+two: CARDINAL
+FMTV: ORG
+Surface: PERSON
+June 2006: DATE
+August 2007: DATE
+Name City: GPE
+State Project Engineer/Technical Customer Service: ORG
+Specialized: ORG
+Solidworks: ORG
+Solidworks: ORG
+February 2006: DATE
+May 2006: DATE
+Name City: GPE
+State Payroll Auditor: ORG
+the Chicago Public School District: ORG
+Training: PERSON
+2005: DATE
+Mount Mercy College City: ORG
+State: GPE
+2003: DATE
+College of DuPage City: ORG
+State: ORG
+USA Associate of Science
+Skills: ORG
+Assembly: ORG
+Catia: ORG
+JD Edwards: PERSON
+PDM: ORG
+Pro Engineer: ORG
+Process Engineering: ORG
+Solidworks: ORG

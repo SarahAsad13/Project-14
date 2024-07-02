@@ -1,0 +1,40 @@
+CUSTOMER: ORG
+Call Center Representative: ORG
+Customer
+Service, Collections: ORG
+Call Center Operations: ORG
+monthly: DATE
+Customer Relations Specialist: ORG
+January 2015: DATE
+Honda: ORG
+Respond: PERSON
+Client: GPE
+Voice of the Client: ORG
+Customer Service: ORG
+April 2014 to October 2014: DATE
+Collaborates: PERSON
+Customer Service Representative: ORG
+August 2013 to January 2014: DATE
+Explained: PERSON
+Call Center Representative: ORG
+May 2012 to August 2013: DATE
+Customer Service Representative: ORG
+December 2010 to March 2012: DATE
+Dispatcher: PERSON
+March 2010 to: DATE
+December 2010: DATE
+Starbucks Coffee Company: ORG
+Starbucks: ORG
+Customer Care Rep: ORG
+February 2009 to January 2010: DATE
+Respond: PERSON
+ACSR: ORG
+Teller: PERSON
+April 2007 to February 2008: DATE
+Wells Fargo: ORG
+ATM: ORG
+August 2005 to March 2007: DATE
+200-: CARDINAL
+300: CARDINAL
+2-3 minutes: TIME
+MS: PERSON

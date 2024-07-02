@@ -1,0 +1,33 @@
+Career Overview
+
+Customer: WORK_OF_ART
+Core Strengths
+
+Excellent: ORG
+Airport: PRODUCT
+Airline: GPE
+Amadeus: GPE
+Altea: GPE
+Gaetan: GPE
+Oscar: PERSON
+Computers: NORP
+Native: NORP
+Spanish: LANGUAGE
+English: LANGUAGE
+French: NORP
+Buyer: PERSON
+12/2009: CARDINAL
+Name City: GPE
+the Apparel Buyer: ORG
+weekly: DATE
+Oversaw: GPE
+2: CARDINAL
+Name City: GPE
+daily: DATE
+Famous Horse Co.: ORG
+2013: DATE
+Queensborough Community College City: ORG
+Jonh Bowne High School City: PERSON
+Easily: ORG
+Experienced: PERSON
+Focus: ORG

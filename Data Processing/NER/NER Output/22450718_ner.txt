@@ -1,0 +1,76 @@
+UNIX: ORG
+Team: ORG
+J2EE, Oracle, Unix O/S: ORG
+Linux: GPE
+Database, Service Oriented Architecture: ORG
+Mainframe: PERSON
+Remedy: PERSON
+Virtual Machine: ORG
+MS Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook: PERSON
+100%: PERCENT
+15%.Awarded: CARDINAL
+Information Technology Specialist Sep 2013 to Dec 2015 
+Company Name: ORG
+State: ORG
+5 years: DATE
+Provide Help Desk Services: ORG
+first: ORDINAL
+Line-Replaceable: ORG
+LRU: WORK_OF_ART
+LRU: ORG
+Discrepancy Report: ORG
+DR: GPE
+monthly: DATE
+daily: DATE
+Requirements
+Management Plans: ORG
+May 2010: DATE
+Sep 2013: DATE
+24x7: CARDINAL
+Coordinated: ORG
+Coordinated: ORG
+UNIX: ORG
+Windows: NORP
+first: ORDINAL
+Recommend: ORG
+May 2010: DATE
+weekly: DATE
+the VA-95 Technical Resource Center: ORG
+the VA-95 TRC Technical Library: ORG
+SME: ORG
+COTS: ORG
+the National Center for Missing and Exploited Children: ORG
+Managers: ORG
+the Resource Planning Team: ORG
+RPT: ORG
+Researched: ORG
+Science , Computer Engineering Technology: ORG
+2008: DATE
+Prairie View A&M University: ORG
+ï¼​ City: GPE
+GPA: ORG
+3.048/4.0: CARDINAL
+Computer Engineering Technology: ORG
+3.048/4.0: CARDINAL
+SCI w Poly: ORG
+SCI w Poly: ORG
+TAC: ORG
+Dean: PERSON
+2006-2007: DATE
+Engineering Technology Association: ORG
+2005-2007: DATE
+2007-2008: DATE
+Database: GPE
+Linux: GPE
+Mainframe: PERSON
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows: ORG
+Word: PERSON
+Oracle: ORG
+UNIX: ORG

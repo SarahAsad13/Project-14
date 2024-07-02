@@ -1,0 +1,77 @@
+Almost twenty years: DATE
+Microsoft Office: ORG
+Nov 2011 to Oct 2016: DATE
+6: CARDINAL
+Build: GPE
+Engineer: ORG
+annual: DATE
+Manage Marketing Department Staffing: ORG
+Foster: PERSON
+CRM: PRODUCT
+2011: CARDINAL
+Generate: PERSON
+annually: DATE
+Franciscan Health System: ORG
+FHS: ORG
+FHS: ORG
+seven: CARDINAL
+St. Francis: GPE
+St. Clare: GPE
+Franciscan Hospice
+Golf Tournaments: ORG
+the Brett Erickson: ORG
+the Franciscan Hospice Luncheon: ORG
+St. Joseph Ball: PERSON
+Francis Gala: PERSON
+FHS: ORG
+approximately 90: CARDINAL
+seven: CARDINAL
+Tacoma: GPE
+Lakewood: GPE
+Federal Way: ORG
+2: CARDINAL
+up to 30: CARDINAL
+the Franciscan Foundation Board: ORG
+Trustees: PERSON
+Liaison: PERSON
+the Franciscan Foundation: ORG
+FHS: ORG
+Oversee: ORG
+Maintain: PRODUCT
+Public Relations and Event Contact: ORG
+the Franciscan Foundation: ORG
+Ticket Office: ORG
+Nov 1998 to Feb 2005: DATE
+as many as 200: CARDINAL
+a year: DATE
+3: CARDINAL
+4: CARDINAL
+Ticket Office: ORG
+30: CARDINAL
+House: ORG
+Level Administrative: PERSON
+Provided year: DATE
+Board Members: ORG
+Accurate: ORG
+Ticket Office Budget and Sales: ORG
+Patrons and Donors: ORG
+ArtSoft: ORG
+the 2001-2004 seasons: DATE
+Board Functions: ORG
+the Broadway Center: FAC
+Initiated: ORG
+ArtSoft Box Office: PERSON
+Wallingford: GPE
+CT: ORG
+Associate of Arts: ORG
+General Pierce Community College: ORG
+Windows 10: PRODUCT
+ConnectWise: PRODUCT
+Raisers Edge: ORG
+ArtSoft: ORG
+ResNet Â: NORP
+Microsoft: ORG
+One: CARDINAL
+4: CARDINAL
+2015: DATE
+2009Â: DATE

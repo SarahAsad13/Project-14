@@ -1,0 +1,82 @@
+FACILITATOR: ORG
+COACH: ORG
+Corporate Trainer: PERSON
+25 years: DATE
+18 years: DATE
+Coach: ORG
+Core Qualifications
+
+Active: ORG
+Clear: GPE
+$ 65 million: MONEY
+500,000: MONEY
+2012: DATE
+four: CARDINAL
+Dale Carnegie Certifications: ORG
+a one year (2005: DATE
+â€œExceedsâ€​: CARDINAL
+Profile International Incorporated: ORG
+Corporate Facilitator: ORG
+January 2005: DATE
+Current Company Name: ORG
+January 2010 to January 2014: DATE
+State: ORG
+one: CARDINAL
+5%: PERCENT
+15: CARDINAL
+monthly: DATE
+Corporate: ORG
+Certified Wellness Program: ORG
+Health Coach: ORG
+January 2005 to January 2010: DATE
+State: ORG
+Structured: ORG
+Authored: PERSON
+Healthy Profits: The 5: WORK_OF_ART
+Ignite Your Passion: WORK_OF_ART
+Corporate Wellness Magazine: ORG
+Retail Systems: ORG
+Trainer: ORG
+January 1997 to January 2005: DATE
+third: ORDINAL
+Trained True Value: ORG
+$1 million: MONEY
+1000: CARDINAL
+Coordinated: ORG
+40: CARDINAL
+two year: DATE
+$6.5 million: MONEY
+Training
+Foundations of Motivational Interviewing I & II Motivational Interviewing: ORG
+2012: DATE
+Dale: PERSON
+5: CARDINAL
+Dale Carnegie - Chicago: PERSON
+Intrinsic Solutions International: ORG
+2010: DATE
+CWPM: ORG
+2007: DATE
+Chapman Institute: ORG
+Certified Professional Life Coach: ORG
+2004 Life Coach College: ORG
+1981: DATE
+Robert Morris University: ORG
+State Business
+Administration/Information Technology: ORG
+Coach: ORG
+Educator: PERSON
+Strategic: PERSON
+Structured: ORG
+Above And Beyond The Call: WORK_OF_ART
+2009: DATE
+Professional Women - Cambridge: ORG
+Honors Edition: WORK_OF_ART
+2008-2009: DATE
+Treasurer: PERSON
+Women's Leadership
+Network: WORK_OF_ART
+2006-2007: DATE
+True Value Company: ORG
+4: CARDINAL
+four: CARDINAL
+1997-2005: DATE

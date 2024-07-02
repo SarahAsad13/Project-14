@@ -1,0 +1,90 @@
+Project Management
+Verbal & Written Communication
+Payroll & Budget Management
+Data Collection and Reporting: ORG
+Grant Writing: PERSON
+Cross-Functional Collaboration
+New Process Implementation
+Deadline Adherence
+
+Experience
+Company: ORG
+Name City: GPE
+State Instructional: ORG
+Current
+
+Assist: ORG
+Name City: GPE
+Contracts Coordinator: ORG
+Created: ORG
+Name City: GPE
+State Marrow Donor Program Coordinator: ORG
+the Marrow Donor Program: ORG
+Coordinated: ORG
+annual: DATE
+the Miracle Match Marathon: LAW
+Escort: PRODUCT
+Name City: GPE
+State Clinical Research Coordinator: ORG
+Coordinated: PRODUCT
+two: CARDINAL
+Excel: PRODUCT
+daily: DATE
+Name City: GPE
+State Clinical Research Associate 01/1995: ORG
+Institutional Research Committee: ORG
+minutes: TIME
+Institutional Review Board Institutional Research Committee: ORG
+Western Governor's: ORG
+University , City: GPE
+State: GPE
+USA: GPE
+2001: DATE
+Texas A&M University: ORG
+State Health Sciences
+Associates of Applied Science : Medical Office Information Systems 1995 Temple College: ORG
+State Medical Office Information Systems
+
+Professional Affiliations: ORG
+Society of Certified Clinical Research Professional: ORG
+1998-2008: DATE
+2012: DATE
+Carpet: ORG
+2011/12: CARDINAL
+American Business Woman's Association: ORG
+2015-: CARDINAL
+Stephen Bufton Memorial Educational Fund: PERSON
+SBMEF: ORG
+2015: DATE
+L. Bunkowski: PERSON
+S. Scott: PERSON
+L. Trusty: PERSON
+Fall 2015: DATE
+Transition to Online Teaching and Learning: WORK_OF_ART
+Texas Rural Education Association: ORG
+Texas & New Mexico: ORG
+L. Bunkowski: PERSON
+S. Scott: PERSON
+L. Trusty: PERSON
+Dec. 2014: DATE
+the Journey Together: Mentoring, Women's Issues: PERSON
+U.S. Distance Learning Association - International
+Forum of Women: ORG
+San Antonio: GPE
+L. Bunkowski: PERSON
+S. Scott: PERSON
+April 2014: DATE
+Staying Afloat: PERSON
+Texas Distance Learning Association Conference: ORG
+Skills: ORG
+Budget Management: ORG
+Data Collection: ORG
+Functional: GPE
+Grant Writing: PERSON
+Hiring: GPE
+Excel: PRODUCT
+Office: ORG
+Payroll: ORG
+Project Management: ORG
+Research: ORG
+Written Communication: ORG

@@ -1,0 +1,77 @@
+Detail: PERSON
+Highlights
+Microsoft Office XP: ORG
+Microsoft: ORG
+2000: DATE
+Adobe Photoshop: PERSON
+Adobe: PERSON
+IPRO: ORG
+LAW: ORG
+Excel: PRODUCT
+Kronos: PERSON
+Invoice: GPE
+Outlook: PERSON
+Microsoft Certified: ORG
+Construction Installer 01/2014: ORG
+Current City: GPE
+Constructing: GPE
+Name City: GPE
+more than 100: CARDINAL
+daily: DATE
+Costco: ORG
+Gourmet Coffee: ORG
+Office Technologies: ORG
+USPS: ORG
+Fed-Ex: ORG
+Sparkletts Waters: PERSON
+weekly: DATE
+20: CARDINAL
+annual: DATE
+Responsible for AED's: ORG
+CPR Certified: ORG
+monthly: DATE
+DSO: ORG
+Invoice: GPE
+MSR: ORG
+monthly: DATE
+MFD: GPE
+RTV: ORG
+Name City: GPE
+more than 450: CARDINAL
+daily: DATE
+Director of Operations: ORG
+4: CARDINAL
+Costco: ORG
+Bluebird: GPE
+Complete: PERSON
+Max: PERSON
+Staples: PRODUCT
+weekly: DATE
+25: CARDINAL
+monthly: DATE
+DSO: ORG
+Invoice: GPE
+CSR: ORG
+MFD: GPE
+RTV: ORG
+Name City: GPE
+State
+
+Planning & Design: ORG
+day: DATE
+Customized: ORG
+Business Management LA Valley College: ORG
+State: ORG
+Adobe: PERSON
+Adobe Photoshop: PERSON
+CPR Certified: ORG
+Invoice: GPE
+Kronos: ORG
+Layout: GPE
+LAW: ORG
+Max: PERSON
+Microsoft Certified: ORG
+Excel: PRODUCT
+Office: ORG
+Microsoft Office XP: ORG
+Outlook: PERSON

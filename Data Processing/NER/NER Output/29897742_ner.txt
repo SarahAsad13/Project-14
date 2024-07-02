@@ -1,0 +1,53 @@
+Cal Poly: PERSON
+Pomona Pomona: PERSON
+CA: GPE
+USA Community Involvement Been: ORG
+Desert Challengers: PERSON
+the last 12 years: DATE
+Project Development
+Collaborated: ORG
+the Adult Education Project: ORG
+Colton Joint Unified School District: ORG
+three: CARDINAL
+Seasoned Agriculture: WORK_OF_ART
+more than 20 years: DATE
+FFA: ORG
+Credit Recovery Programs: ORG
+Covina High School: ORG
+Bloomington High School: ORG
+two years: DATE
+Innovative: NORP
+Ag: ORG
+Advise: PRODUCT
+Material Development Created: ORG
+growthPlan Development: ORG
+Skills
+
+Data: ORG
+Strong: PERSON
+Work History
+Adult Education: WORK_OF_ART
+08/2016: CARDINAL
+the Adult Ed Program: ORG
+Parent Communication Regularly: ORG
+year: DATE
+Created: ORG
+80%: PERCENT
+Agriculture Teacher: PERSON
+08/1995: CARDINAL
+80%: PERCENT
+2016: CARDINAL
+Crosscultural Language and Academic Dev: ORG
+2005: DATE
+University Of San Diego - City: ORG
+State: ORG
+Crosscultural Language and Academic Dev: ORG
+Cert
+Bachelor of Science : Agriculture Education: PERSON
+1995: DATE
+Agriculture Education: ORG
+Affiliations
+National Education Association: ORG
+NEA: ORG
+1995: DATE
+Skills: ORG

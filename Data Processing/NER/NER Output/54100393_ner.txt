@@ -1,0 +1,57 @@
+National Board Certification: ORG
+January of 2019: DATE
+Classroom Management
+Variety of Teaching Strategies
+Multimedia Teaching and Learning
+: ORG
+10/2013: CARDINAL
+English Language Arts: WORK_OF_ART
+Lakes High School: ORG
+the Clover Park School District: FAC
+the past five years: DATE
+Lakes: ORG
+9th: ORDINAL
+11th: ORDINAL
+12th: ORDINAL
+English: LANGUAGE
+AP Literature: ORG
+AP Language: ORG
+English: NORP
+one: CARDINAL
+06/2016: ORG
+06/2017: CARDINAL
+the past two years: DATE
+the English: ORG
+monthly: DATE
+the District Literacy Committee: ORG
+English: LANGUAGE
+English: NORP
+monthly: DATE
+Principal: ORG
+Mauer-Smith: PERSON
+monthly: DATE
+06/2017: CARDINAL
+Lakes High School: ORG
+Leadership Program: ORG
+Leadership Development: ORG
+All year: DATE
+Knowledge: GPE
+Knowledgeable: PRODUCT
+Education: ORG
+2012: DATE
+Secondary Education University: ORG
+State: GPE
+United States: GPE
+English Language Arts Endorsement: WORK_OF_ART
+English Language Learner Endorsement: WORK_OF_ART
+2011: DATE
+English University of Washington: ORG
+State: GPE
+United States: GPE
+Education: GPE
+Learning: GPE
+Society: ORG
+2009: DATE
+Associate of Arts Tacoma Community College: ORG
+State: ORG
+98409 Running Start Program: ORG

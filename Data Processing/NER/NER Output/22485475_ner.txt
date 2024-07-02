@@ -1,0 +1,73 @@
+15 years: DATE
+Native American: NORP
+Latino: PERSON
+development/: PERSON
+Skills: ORG
+Microsoft: ORG
+Excel & Office Project Evaluation Media Relations: ORG
+Volunteer Training: PERSON
+ESL: ORG
+English: LANGUAGE
+second: ORDINAL
+Golden Boy Promotions: ORG
+GBP: ORG
+Digital/Marketing: ORG
+Scott Tetreault: PERSON
+Lead Employment Specialist Company Name - City: ORG
+State: ORG
+02/2015 - 03/2016: PERSON
+Department of Rehabilitation: ORG
+America: GPE
+Job Exchange: ORG
+Coordinate: FAC
+Veterans: NORP
+Los Angeles: GPE
+State: ORG
+the Albuquerque Urban Native American: EVENT
+NM Indian Affairs Department: ORG
+NM
+Department of Health, City of Albuquerque: ORG
+Navajo Nations: PERSON
+Otten: GPE
+Kellogg: ORG
+First Nations: ORG
+Summer Solstice: PERSON
+Halloween: DATE
+Thanksgiving: DATE
+Christmas: DATE
+Job/Health Fairs: ORG
+Evaluate: ORG
+Recruit: ORG
+Representatives: ORG
+AIC: ORG
+Native American: NORP
+approximately $300,000: MONEY
+Navajo Nations: PERSON
+Spanish: NORP
+Education: ORG
+MA: PERSON
+June 2004: DATE
+2: CARDINAL
+700 hours: TIME
+48 hours: TIME
+The University of New Mexico - City: ORG
+State: ORG
+May 2001: DATE
+Obtained: ORG
+Psi Chi: PERSON
+the National Honor Society in Psychology: WORK_OF_ART
+Family Studies: ORG
+two: CARDINAL
+Dean: PERSON
+List (Spring & Fall: ORG
+2003 - 2004: DATE
+Behavioral Health: ORG
+Chi: ORG
+Department of Health: ORG
+English: LANGUAGE
+Media Relations, Mental Health: ORG
+Exchange: ORG
+Microsoft: ORG
+Project Coordination: ORG
+Rehabilitation: ORG
+Spanish: NORP

@@ -1,0 +1,171 @@
+Professional Overview
+Biophysicist/Biochemist Expert: ORG
+16 years: DATE
+7 years: DATE
+20: CARDINAL
+30: CARDINAL
+60: CARDINAL
+7: CARDINAL
+5: CARDINAL
+25: CARDINAL
+20: CARDINAL
+Protein Characterization
+Molecular Biology
+Ligand-Binding Protein
+Enzyme Biotechnology
+Microbiology
+Fermentation
+Drug Delivery
+ADME: WORK_OF_ART
+Experimental Skills
+Spectroscopic Methods: ORG
+IR: ORG
+Chromatographic Methods: WORK_OF_ART
+HPLC: GPE
+Gel Exclusion: WORK_OF_ART
+Ion Exchange: ORG
+Affinity: ORG
+Electrophoretic Methods: SDS-PAGE: WORK_OF_ART
+Isoelectric Focusing: ORG
+Offgel: GPE
+2D: ORG
+Blotting Techniques: ORG
+Thermodynamic/Hydrodynamic Methods: ORG
+ITC: ORG
+Centrifugation, Filtration, Diafiltration, Dialysis: ORG
+Molecular Biology Methods: WORK_OF_ART
+DNA/RNA Extraction: ORG
+PCR: ORG
+Genetic Engineering: ORG
+Cell Biology methods/ Immuno Assay: Cell Culture, Cell Phantom Preparation: ORG
+MTT: ORG
+ELISA: ORG
+Microbiology Methods: Screening, Identification, Fermentation: WORK_OF_ART
+PhD Enzyme Biotechnology, Department of Biochemistry, University: WORK_OF_ART
+Putra Malaysia: PERSON
+Malaysia: GPE
+2010: DATE
+Thesis: PERSON
+Characterization of Thermostable Recombinant Lipase: ORG
+Biophysics, University of Tehran: ORG
+Tehran: GPE
+Iran September 1997: EVENT
+Qualitative and Quantitative Studies on Protein Transportation: WORK_OF_ART
+the Blood-Air Barrier: FAC
+Cell and Molecular Biology: ORG
+Tehran: GPE
+Tehran: GPE
+Iran: GPE
+November 1993: DATE
+May 2011: DATE
+January 2015: DATE
+Immunomodulatory: ORG
+ADME: ORG
+PhD: WORK_OF_ART
+5: CARDINAL
+7: CARDINAL
+22: CARDINAL
+Completed 4: ORG
+over 60: CARDINAL
+6: CARDINAL
+9: CARDINAL
+7: CARDINAL
+2: CARDINAL
+GAD: ORG
+GABA: ORG
+18: CARDINAL
+Invention, Innovation, Research and Technology Exhibitions: ORG
+January 2007: DATE
+December 2009: DATE
+2007/2008: DATE
+2007/2008: DATE
+Innovation, Research and Technology Exhibition: ORG
+Putra Malaysia: PERSON
+3: CARDINAL
+4: CARDINAL
+September 2003: DATE
+July 2005: DATE
+February 1999: DATE
+July 2005: DATE
+17: CARDINAL
+Published 13: CARDINAL
+Phosphatidylinositol: ORG
+ATPase: ORG
+Pepto Cure: PERSON
+Immunomodulatory: ORG
+Actinopyaga lecanora: PERSON
+Gold Medal: WORK_OF_ART
+25th International Invention, Innovation & Technology Exhibition: EVENT
+2014: DATE
+8-10 May: DATE
+Kuala Lumpur: GPE
+Malaysia: GPE
+VasoPept: ORG
+A Marine Antihypertensive Bioingredient: ORG
+Gold Medal: PERSON
+25th International Invention, Innovation &
+Technology Exhibition: EVENT
+2014: DATE
+8-10 May: DATE
+Kuala Lumpur: GPE
+Malaysia: GPE
+PeptoGreen: ORG
+Green Soybean Proteolysate: ORG
+Industrial Application: ORG
+Silver Medal: GPE
+25th: ORDINAL
+International Invention, Innovation & Technology Exhibition: ORG
+2014: DATE
+8-10 May: DATE
+Kuala Lumpur: GPE
+Malaysia: GPE
+Multifunctional Winged Bean Seed Proteolysate, Gold Medal: ORG
+24th: ORDINAL
+International Invention, Innovation & Technology Exhibition: ORG
+ITEX: ORG
+2013: DATE
+9-11 May: DATE
+Kuala Lumpur: GPE
+Malaysia: GPE
+Dual Biosynthesizing Activities: ORG
+GABA: ORG
+Gold
+Medal: ORG
+24th: ORDINAL
+International Invention, Innovation & Technology Exhibition: ORG
+2013: DATE
+9-11 May: DATE
+Kuala Lumpur: GPE
+Malaysia: GPE
+Patents Generation: PERSON
+Stichopus: PRODUCT
+2013: DATE
+448: CARDINAL
+2013: DATE
+338: CARDINAL
+Actinopyge: GPE
+PI 2013: ORG
+2013: DATE
+397: CARDINAL
+Psophocarpus: PERSON
+449: CARDINAL
+Glycine max: PERSON
+2013: DATE
+406: CARDINAL
+Novel: ORG
+EP 2450458,09.05.2012 View Publications: ORG
+Google Scholar: ORG
+ResearchGate: ORG
+Acid: ORG
+DSC: ORG
+ELISA: ORG
+Functional: GPE
+HPLC: GPE
+Innovation: ORG
+max, Exchange: ORG
+Novel, Optimization: ORG
+PCR: ORG
+PhD: WORK_OF_ART
+Publications, Research: ORG
+Transportation: ORG
+386: CARDINAL

@@ -1,0 +1,43 @@
+Career Focus: FAC
+Reliable: WORK_OF_ART
+Superior: ORG
+Opening: WORK_OF_ART
+Superb: PERSON
+Sharp: ORG
+Time: ORG
+at least 60%: PERCENT
+The other 40%: PERCENT
+15%: PERCENT
+4%: PERCENT
+60%: PERCENT
+10% - Follow: PERCENT
+3%: PERCENT
+3%: PERCENT
+3%: PERCENT
+2%: PERCENT
+Bladium: LOC
+Customer: ORG
+Sports and Fitness: ORG
+Customer: ORG
+EFT: ORG
+09/2014
+Customer Service: ORG
+Bladium: LOC
+04/2006: CARDINAL
+Sales/Customer Service Representative Company Name: ORG
+Party America: ORG
+Party America: ORG
+03/2003: CARDINAL
+Customer: ORG
+10/2002: CARDINAL
+01/2003
+Merchandise: ORG
+Customer: ORG
+MCA: ORG
+Customer: ORG
+Education: ORG
+2005: DATE
+Thornton Thornton: PERSON
+CO: ORG
+Customer: ORG
+Telephone: ORG

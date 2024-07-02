@@ -1,0 +1,51 @@
+Seeking an Education Coordinator: WORK_OF_ART
+Highlights
+
+Microsoft Office: ORG
+Outlook: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+CDA-Infants & Toddlers: ORG
+Maryland Child Care Credential: ORG
+Time: ORG
+Verbal: ORG
+Organizational: ORG
+Teamwork: ORG
+Resourcefulness
+Patience
+Responsibility
+Reliability
+Determination
+Multi-Tasking
+
+Experience
+Teacher 01/2014: WORK_OF_ART
+Reliable
+
+Plan: WORK_OF_ART
+Prepare: ORG
+Organize: GPE
+Assimilate: LOC
+Attend: ORG
+Attend: ORG
+daily: DATE
+zoos: PERSON
+Prepare: ORG
+Organize: GPE
+Assimilate: LOC
+Attend: ORG
+Attend: ORG
+daily: DATE
+Name City: GPE
+May 2015: DATE
+Concordia University City: EVENT
+Princess City: GPE
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Organizational: ORG
+Teaching, Teamwork: ORG
+Time: ORG
+Verbal: ORG

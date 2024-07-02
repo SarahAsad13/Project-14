@@ -1,0 +1,113 @@
+Conflict Analysis: ORG
+August 2015: DATE
+8 1/2 years': DATE
+the US Army: ORG
+Executive Administrative: ORG
+4 year: DATE
+Core Qualifications
+
+Personnel Management: ORG
+Personnel Information
+Management: ORG
+Microsoft: ORG
+Word/Power: ORG
+Employee Relations: ORG
+General Office
+Operations: ORG
+Orientations/Ceremonies Training: ORG
+Performance Management: ORG
+45: CARDINAL
+June 2013: DATE
+Current City: GPE
+three: CARDINAL
+two: CARDINAL
+three: CARDINAL
+one: CARDINAL
+September 2004 to June 2013 Company Name: DATE
+35: CARDINAL
+September 2012 to April 2013: DATE
+Army: ORG
+Install: ORG
+Calibrate: ORG
+Test: ORG
+September 2011 to September 2012 City: DATE
+Coordinated: ORG
+1st: ORDINAL
+Infantry Division: ORG
+Possess: ORG
+Detail: PERSON
+S3 Operations Noncommissioned Officer: PRODUCT
+40+ hrs 40hrs Supervised: DATE
+5: CARDINAL
+daily: DATE
+Brigades: PERSON
+January 2011 to September 2011: DATE
+40+: DATE
+Division - Fort Riley: ORG
+KS Served: ORG
+the Division Command Sergeant Major: ORG
+the Division Command Sergeant Major: ORG
+Command Sergeant Major: PERSON
+Sergeants Major: PERSON
+Coordinated: ORG
+27: CARDINAL
+de corps: ORG
+daily: DATE
+June 2010 to December 2010: DATE
+State: ORG
+35-40: CARDINAL
+Instructor: ORG
+54: CARDINAL
+three month: DATE
+Coordinated: ORG
+25: CARDINAL
+the Brigade Command Sergeant Major: ORG
+January 2009 to June 2010: DATE
+State: ORG
+35-40: CARDINAL
+320: CARDINAL
+3: CARDINAL
+Cashier/Copy Center: ORG
+May 2003 to July 2004: DATE
+State: ORG
+35-40: CARDINAL
+Bachelor of Science : Interdisciplinary Social Science: ORG
+August 2015: DATE
+Kansas State University - City: ORG
+State: ORG
+USA Interdisciplinary Social Science
+Coursework in Sociology, Psychology and Communications: ORG
+Conflict
+Analysis: ORG
+GPA: ORG
+GPA: ORG
+3.41: CARDINAL
+GPA: ORG
+3.41: CARDINAL
+May 2004: DATE
+North Garland High School - City: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+2.7: CARDINAL
+GPA: ORG
+2.7: CARDINAL
+Professional Affiliations
+National Society of Collegiate: ORG
+Scholars: PERSON
+Sigma Alpha Lambda: ORG
+Skills: ORG
+Army: ORG
+Bachelors: ORG
+Detail: PERSON
+Employee Relations: ORG
+General Office: ORG
+Instructor: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+Word: PERSON
+Performance
+Management: ORG
+Personnel Management, Psychology: ORG
+Trauma: PERSON
+45: CARDINAL

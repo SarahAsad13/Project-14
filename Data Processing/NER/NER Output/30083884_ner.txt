@@ -1,0 +1,69 @@
+Summary
+Building Design and Construction Manager Extensive: WORK_OF_ART
+Business Development, Building Construction, Estimating, Scheduling: ORG
+Contracts: ORG
+Project Management: ORG
+Texas: GPE
+Program Management: ORG
+Developed: ORG
+Owners and Architects: ORG
+Provided Project Management and Cost Consulting Services: ORG
+Owners and Architects: ORG
+Higher Education: ORG
+K-12: PRODUCT
+Healthcare: ORG
+Worked with Contractors and Construction Managers: ORG
+Estimates: ORG
+Schedules: ORG
+Scope Changes: PERSON
+Advised Owners, Developers: ORG
+Lending Institutions: PERSON
+Architects, Engineers, Constructors and Subcontractors: ORG
+$250 million: MONEY
+Austin: PERSON
+Advised Owner: ORG
+FEMA: ORG
+Non-Profit Organizations: ORG
+Principal Company Name: ORG
+Procured Design/Build: ORG
+Competitive Bid: PERSON
+Client: GPE
+two: CARDINAL
+State: ORG
+Principal Company Name: ORG
+Architectural: ORG
+Contracted Engineering: ORG
+01/1984: CARDINAL
+Branch Office: ORG
+1965: DATE
+Architecture University of Houston ï¼​ City: ORG
+State: GPE
+United States Architecture
+Post: ORG
+City Planning: ORG
+University of Houston: ORG
+Houston: GPE
+TX: ORG
+Texas License: ORG
+6624: CARDINAL
+Texas Residential
+Construction Commission Registration: ORG
+Professional Affiliations
+American Institute of Architects City of: ORG
+Rollingwood: GPE
+Texas - Planning & Zoning Commission: ORG
+1986-1989: DATE
+Utility Commission: ORG
+2009-2012: DATE
+2012: DATE
+Co-Chair Building Committee: ORG
+2001-2004: DATE
+Board of Trustees: ORG
+2005: DATE
+Volunteer Healthcare
+Clinic: PERSON
+2012: DATE
+Competitive, Consulting: ORG
+Client: GPE
+Profit, Program Management: ORG
+Project Management: ORG

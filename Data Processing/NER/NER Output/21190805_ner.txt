@@ -1,0 +1,91 @@
+9 plus years: DATE
+5 years: DATE
+the Executive & Advisory Board of Directors: ORG
+daily: DATE
+monthly: DATE
+50: CARDINAL
+Highlights: GPE
+Word: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Access: ORG
+Adobe Pro: PERSON
+Windows XP: PERSON
+Vista: ORG
+Mac: PERSON
+Skype: ORG
+YouTube: ORG
+Twitter & LogMeIn Remote: ORG
+March 2009: DATE
+Current Company Name: ORG
+Gynecological cancers &
+their caregivers: ORG
+third year: DATE
+U of L & U: ORG
+James Graham Cancer: PERSON
+Facilitate: ORG
+monthly: DATE
+GYN Cancer Survivors: ORG
+Cargiv-: GPE
+the day to day: DATE
+Non-Profit Organization: ORG
+Maintain: PERSON
+50: CARDINAL
+Virtual: ORG
+Merchant Solutions: PRODUCT
+Interior: ORG
+Oprah Winfrey's: PERSON
+RJ: ORG
+UPS: ORG
+Fed Ex: PERSON
+Gulfstream: GPE
+Guest Services: ORG
+State
+
+Collaborated with Customer Care / In-Flight Managers: ORG
+Emergency Safety: ORG
+CPR & Automated External Defibrillator: ORG
+Crew Resource Management: ORG
+Line Holding Pilots & Flight Attendants Â: ORG
+Bachelor of Arts : Psychology Social Sciences The University of Louisville: ORG
+City: GPE
+State Psychology Social Sciences: ORG
+Interests: NORP
+Psi Chi: PERSON
+Louisville Science Center: FAC
+Twinbrook Nursing Home: ORG
+The Home of the Innocence: ORG
+Meredith Dunn Day Care Center: ORG
+Deaf
+Adult/Youth Community: PERSON
+Mini Deaf Olympics: PERSON
+The Junior League: ORG
+Louisville & Ovarian Awareness of Kentucky Advisory Board: ORG
+Skills
+Adobe: ORG
+CPR: ORG
+Customer Service: ORG
+Customer Care: ORG
+Instructor: ORG
+Interior: ORG
+Mac: PERSON
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows XP: PERSON
+Word: PERSON
+Norton: ORG
+Operating Systems: ORG
+QuickBooks: ORG
+Vista: ORG
+Tennis, Skiing, Flying and Photography: WORK_OF_ART
+Psi Chi: PERSON
+The Louisville Science Center: ORG
+Twinbrook Nursing Home: ORG
+The Home of the Innocence: ORG
+Meredith Dunn Day Care Center: ORG
+Deaf Adult/Youth Community: PERSON
+Mini Deaf Olympics: PERSON
+The Junior League: ORG
+Louisville & Ovarian Awareness of Kentucky Advisory Board: ORG

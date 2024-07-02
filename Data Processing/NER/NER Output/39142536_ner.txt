@@ -1,0 +1,60 @@
+Profile
+Innovative: ORG
+thirteen years: DATE
+hundreds of
+hours: TIME
+Core Qualifications
+Proficient: ORG
+Microsoft Office Suite: ORG
+Lotus Notes: ORG
+Outlook, Sales Certifications: ORG
+Apc: GPE
+Symantec: GPE
+VMware: ORG
+HP: ORG
+Microsoft: ORG
+IBM: ORG
+1: CARDINAL
+Page: PERSON
+Channel: ORG
+Negotiate: GPE
+Submit: NORP
+Insight Maintain: ORG
+Insight: ORG
+Banking Sales Representative Company Name: ORG
+Charles Schwab Co: ORG
+Charles
+Schwab Bank: ORG
+Financial Consultants: ORG
+$17 million: MONEY
+2008: DATE
+10: CARDINAL
+Networked: PRODUCT
+FHA/VA: ORG
+Systematically: ORG
+10 million: CARDINAL
+CTX: ORG
+Collaborated: ORG
+quarterly: DATE
+Established: ORG
+monthly: DATE
+yearly: DATE
+2002: DATE
+2003: DATE
+Bachelor: ORG
+Portales: GPE
+Interests: NORP
+Kappa Psi Fraternity: PERSON
+Financial: ORG
+HP: ORG
+IBM: ORG
+Lotus: ORG
+Notes: PRODUCT
+Microsoft: ORG
+Office Suite: PERSON
+Outlook: PERSON
+Page: PERSON
+Symantec: ORG
+Woodrow Wilson Leadership Award: PERSON
+ACTIVITIES Humane Society: PERSON
+Kappa Psi Fraternity: PERSON

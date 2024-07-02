@@ -1,0 +1,118 @@
+management?s: PERSON
+years: DATE
+HSE: ORG
+Drilled: ORG
+6,891: CARDINAL
+GW: PERSON
+17.54 days: DATE
+TD: ORG
+only 8.75: CARDINAL
+Cleveland: GPE
+Grady County: GPE
+Developed: ORG
+Drilled: ORG
+Medrano: PERSON
+19.35 days: DATE
+TD: ORG
+one: CARDINAL
+two: CARDINAL
+Wellview: FAC
+Directed: ORG
+the Wellview Master User: ORG
+Completions Engineer: PERSON
+Unit Corporation: ORG
+Tulsa: GPE
+Mar 2011: WORK_OF_ART
+Western Oklahoma: LOC
+eight months: DATE
+twelve months: DATE
+Drilling Engineer: ORG
+80: CARDINAL
+one: CARDINAL
+the Washita River: LOC
+Landmen: PERSON
+Completions Engineer: PERSON
+Unit Corporation: ORG
+Tulsa: GPE
+Sep 2008: DATE
+Foreman: PERSON
+Communicate: ORG
+Intern: ORG
+Tulsa: GPE
+June 2007: DATE
+Prepared: PERSON
+Heavily: GPE
+Wellview: PRODUCT
+Derrickhand, Nabors Drilling: ORG
+Dec 1999: DATE
+2003: DATE
+Assisted: ORG
+daily: DATE
+three: CARDINAL
+July 2015: DATE
+acquisitions & divestitures: ORG
+Powertools: PERSON
+Petra: ORG
+Enerdeq: GPE
+Drilling Info: PERSON
+February 2015 to July 2015: DATE
+Permian: NORP
+the Midland Basin: LOC
+Permian: NORP
+the Midland Basin: LOC
+HSE: ORG
+IHS: ORG
+PHD Win: PERSON
+Drilling Info: PERSON
+previous years: DATE
+March 2011 to February 2015: DATE
+Marmaton Play:: PERSON
+Drilled: ORG
+9,870: CARDINAL
+8.71 days: DATE
+TD: ORG
+the first 18 months: DATE
+30+ days: DATE
+13.14 days: DATE
+DHC: ORG
+$2.1MM to $1.37MM: MONEY
+68%: PERCENT
+Dramatically: ORG
+TD days: DATE
+DHC: ORG
+Mechanical Engineering University of Tulsa Mechanical Engineering
+Publications
+Horizontal Marmaton Wells: ORG
+Beaver Co: FAC
+Drilling Improvements: WORK_OF_ART
+National Technology Conference: ORG
+Oklahoma City: GPE
+27 Feb 2013: DATE
+two: CARDINAL
+Dustin: NORP
+Rod Lifting: PERSON
+Norman W Hein: PERSON
+Gary W Batcheller: PERSON
+James F Lea: PERSON
+IADC: ORG
+Glen Wanzer Leadership Essentials: ORG
+Kurt Webber Halliburton: PERSON
+Drill Bits & Services: ORG
+Drill Bit Technology Seminar: ORG
+K&M Technology: ORG
+Multiple Lecturers Blade Energy Partners: ORG
+Stan Mason PTTC: Completion &
+Stimulation(s: ORG
+Horiz: PERSON
+Tight: GPE
+Unconv: PERSON
+Larry K Britt Society of Petroleum Engineers:: PERSON
+Frank J Schuh Baker
+Hughes: PERSON
+Murchinson Drilling School: ORG
+Operational Drilling Technology Course: ORG
+Bill Murchinson: PERSON
+Skills: ORG
+Explorer,: ORG
+Win: PERSON
+PHD: ORG

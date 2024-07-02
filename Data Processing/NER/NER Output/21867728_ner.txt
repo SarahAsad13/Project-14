@@ -1,0 +1,79 @@
+Digital: ORG
+Database: GPE
+Complex: NORP
+Strong: PERSON
+Detail: PERSON
+Best Practices: PERSON
+PwC: WORK_OF_ART
+Vision Service Plan: ORG
+TD: ORG
+Ameritrade: ORG
+Tyco: ORG
+Parker Hannifin: ORG
+Evaluate: LOC
+Eloqua: PERSON
+On24: ORG
+CVENT: GPE
+Citrix: GPE
+Oracle Sales Cloud: ORG
+Twitter: PERSON
+3rd: ORDINAL
+Develop: ORG
+Build: GPE
+Eloqua: PERSON
+Develop: ORG
+Eloqua, Salesforce: ORG
+Design: PRODUCT
+Program Builder: WORK_OF_ART
+API: ORG
+Define: PRODUCT
+QA Processes: ORG
+Build: GPE
+Custom Data Objects: ORG
+Develop: ORG
+10/2011: CARDINAL
+09/2014 Company Name City: ORG
+Integrated Marketing: ORG
+Eloqua: PERSON
+day: DATE
+Eloqua: PERSON
+Develop: ORG
+Ownership: NORP
+Database: GPE
+KPI: ORG
+Marketing Programs: WORK_OF_ART
+10/2011: CARDINAL
+Name City: GPE
+cor
+Responsible: ORG
+Increased year: DATE
+year: DATE
+30%: PERCENT
+monthly: DATE
+60%: PERCENT
+Modern Marketing Luminary Certification: ORG
+5: CARDINAL
+2015: DATE
+State: ORG
+United States: GPE
+B2B Oracle Eloqua Masters : Marketing Automation 2013: ORG
+State: GPE
+United States: GPE
+University City: GPE
+State: GPE
+United States: GPE
+Modern Marketing: ORG
+2015: DATE
+Eloqua University Education: ORG
+Modern Marketing: ORG
+2015: DATE
+Chinatown U.S.A. Pageant: ORG
+Shaolin Kung Fu: PERSON
+Martial Arts Examining Committee: ORG
+2010: DATE
+Eloqua: PERSON
+Salesforce.comÂ: PERSON
+zero: CARDINAL
+Expertise: GPE
+third: ORDINAL
+Proactive: PERSON

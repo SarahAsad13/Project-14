@@ -1,0 +1,55 @@
+BUSINESS DEVELOPMENT
+Career Overview
+
+Committed: ORG
+Background: FAC
+Skill Highlights
+
+Problem: ORG
+Core Accomplishments
+
+Data Organization Â 
+
+: WORK_OF_ART
+Microsoft Office: ORG
+Customer: ORG
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Coordinated: ORG
+40: CARDINAL
+40: CARDINAL
+Business Development: ORG
+February 2015 to September 2015: DATE
+Coordinated: ORG
+daily: DATE
+November 2014 to February 2015: DATE
+System Technology Specialist: ORG
+November 2012 to January 2014: DATE
+April 2012 to November 2012: DATE
+Mentor: LOC
+April 2011 to December 2011 Company Name - City: DATE
+daily: DATE
+98%: PERCENT
+thirty percent: PERCENT
+the first two months: DATE
+first: ORDINAL
+20%: PERCENT
+monthly: DATE
+KAIZEN: PERSON
+Project Administrator: ORG
+September 2006 to December 2011 Company Name - City: DATE
+RFI: ORG
+1996: DATE
+Denver High School - City: ORG
+State: ORG
+Front Range Community College - City: ORG
+Critical Thinking: ORG
+Data Collection: ORG
+Email: GPE
+Executive Management Support: ORG
+Memos: PERSON
+Minute Taking: PERSON
+Multi-Task Management: ORG
+Organizational Skills, Research, Scheduling, Service Orientation, Speaking,: ORG
+Travel Arrangements: ORG

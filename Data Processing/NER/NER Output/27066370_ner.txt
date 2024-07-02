@@ -1,0 +1,54 @@
+PROJECT COORDINATOR/SITE ACQUISITION AND CONSTRUCTION
+Professional Profile
+Skilled: ORG
+Project Coordinator: ORG
+September 2015: DATE
+Name City: GPE
+State Project Coordinator/Site Acquisition and Construction
+
+Process Purchase Order Requests: ORG
+Purchase Orders: PERSON
+Site Acquisition: ORG
+99%: PERCENT
+Assist Project: ORG
+daily: DATE
+over 600: CARDINAL
+weekly: DATE
+semi-weekly: DATE
+daily: DATE
+Site Acquisition: ORG
+daily: DATE
+MS Office: ORG
+NORAD: ORG
+Oracle,: ORG
+Nsite: ORG
+Filenet: ORG
+Share Drive: PERSON
+REM: ORG
+April 2013: DATE
+March 2015: DATE
+Name City: GPE
+State Construction Coordinator II
+
+Download: ORG
+Download: ORG
+Assist Project Managers: ORG
+day: DATE
+over 1,000: CARDINAL
+November 2004: DATE
+April 2013: DATE
+Name City: GPE
+State Administrative Assistant/Office: ORG
+daily: DATE
+weekly: DATE
+ADP: ORG
+five: CARDINAL
+QuickBooks: ORG
+Prepare: ORG
+University of the Incarnate Word City: ORG
+University of Texas City Paralegal Certificate: ORG
+ADP: ORG
+Filenet: ORG
+MS Office: ORG
+Oracle, Paralegal, Process: ORG
+QuickBooks: ORG

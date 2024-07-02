@@ -1,0 +1,62 @@
+FREELANCE: GPE
+Marine Corps: ORG
+4 years: DATE
+15+ years: DATE
+Marines: NORP
+Name City: GPE
+Freelance Website: PERSON
+Twitter: PERSON
+Foursquare: ORG
+10 years: DATE
+PPC: ORG
+Name City: GPE
+daily: DATE
+150: CARDINAL
+Obtained Request for Quotes: FAC
+Created: ORG
+LinkedIn: GPE
+daily: DATE
+daily: DATE
+10: CARDINAL
+Name City: GPE
+State: ORG
+Utilized: ORG
+Name City: GPE
+State: ORG
+11/2002: CARDINAL
+daily: DATE
+9: CARDINAL
+$8.4 million: MONEY
+2006: DATE
+Collections: ORG
+9: CARDINAL
+2006: DATE
+$32 million: MONEY
+Name City: GPE
+NCO: ORG
+Marines: NORP
+Prepared: PERSON
+daily: DATE
+weekly: DATE
+monthly: DATE
+Management of SABRS: ORG
+350k: MONEY
+annually: DATE
+CMR - Consolidated Memorandum: ORG
+Associate of Science 2001 United States Marine Corps: ORG
+City: GPE
+2yrs: CARDINAL
+3: CARDINAL
+1: CARDINAL
+2: CARDINAL
+Meritorious Promotion: ORG
+MAG: ORG
+26: CARDINAL
+1) Letter of Recommendation: MONEY
+Skills
+
+Accounting: ORG
+Microsoft Office: ORG
+SalesForce: ORG
+Zoho: PERSON
+Outlook: PERSON

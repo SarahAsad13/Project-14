@@ -1,0 +1,38 @@
+Summary
+Construction/MasonryÂ: ORG
+5 years: DATE
+Accurate: ORG
+Tiling
+Construction machinery: ORG
+Detail: PERSON
+Problem: PRODUCT
+Mathematical: ORG
+26: CARDINAL
+Flatbed Trucks: ORG
+3: CARDINAL
+01/2011: CARDINAL
+daily: DATE
+Performed: ORG
+daily: DATE
+Assisted: ORG
+Arranged: PERSON
+Cut: FAC
+01/2011: CARDINAL
+Cut: FAC
+Briefed: ORG
+Coordinated: ORG
+Cleaned: ORG
+Education: ORG
+2004: DATE
+Diploma: CARDINAL
+North Rockland High School
+Languages
+Bi-Lingual: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Microsoft: ORG
+Microsoft Excel
+
+: ORG
+BluePrints: ORG

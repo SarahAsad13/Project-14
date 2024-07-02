@@ -1,0 +1,159 @@
+01/2016: CARDINAL
+Familiar: PERSON
+Represents: ORG
+daily: DATE
+HOD: ORG
+Oversee: ORG
+Respond: PERSON
+Mechanical: ORG
+Installation &: ORG
+Fire Safety: ORG
+daily: DATE
+weekly: DATE
+Train: GPE
+Fire Alarm: GPE
+CCTV: ORG
+Hilton: PERSON
+Engineer & Security: ORG
+the National Electric Code: ORG
+Budget: ORG
+Rotate: ORG
+Engineer: ORG
+Atlantis: PRODUCT
+day: DATE
+ten: CARDINAL
+Evaluates: NORP
+400 hundred: CARDINAL
+Locksmith: ORG
+four: CARDINAL
+3: CARDINAL
+two: CARDINAL
+8: CARDINAL
+4: CARDINAL
+4: CARDINAL
+5 million dollars: MONEY
+rooms & equipment's: ORG
+8: CARDINAL
+55: CARDINAL
+Paradise Island: LOC
+7: CARDINAL
+CurrentChief Engineer: ORG
+01/2016: ORG
+Continental Luxury Property Management Evaluates: ORG
+Evaluate: ORG
+01/2016: ORG
+Continental Luxury Property Management Evaluates: ORG
+Evaluate: ORG
+Engineering: GPE
+01/2016: CARDINAL
+Familiar: PERSON
+Represents: ORG
+daily: DATE
+HOD: ORG
+Oversee: ORG
+Respond: PERSON
+Mechanical: ORG
+Installation &: ORG
+Fire Safety: ORG
+daily: DATE
+weekly: DATE
+Train: GPE
+Fire Alarm: GPE
+CCTV: ORG
+Hilton: PERSON
+Engineer & Security: ORG
+the National Electric Code: ORG
+Budget: ORG
+Rotate: ORG
+Engineer: ORG
+Atlantis: PRODUCT
+day: DATE
+ten: CARDINAL
+Evaluates: NORP
+400 hundred: CARDINAL
+Locksmith: ORG
+four: CARDINAL
+3: CARDINAL
+two: CARDINAL
+8: CARDINAL
+4: CARDINAL
+4: CARDINAL
+5 million dollars: MONEY
+rooms & equipment's: ORG
+8: CARDINAL
+55: CARDINAL
+Paradise Island: LOC
+7: CARDINAL
+Jan 2014Penn: DATE
+Mainstream
+Engineering Corporation: ORG
+EPA: ORG
+Mold Awareness & Inspection, Certificate: ORG
+Central Piedmont College - City: ORG
+State: ORG
+Assemble: PRODUCT
+Associate Degree Course: PERSON
+Physics: ORG
+3: CARDINAL
+first: ORDINAL
+ECM Maintenance: PERSON
+Orlando FL: PERSON
+alarm systems & installation: ORG
+Florida Solar Energy School: ORG
+Analysis: PRODUCT
+Ashworth College: ORG
+Norcross GA Certificate Course: ORG
+Carlton Hotel: PERSON
+Electrical Resident: ORG
+Commercial Laundry Equipment Kitchen Equipment Air Condition Plumbing Electrical Motor Control Outstanding Customer Service: ORG
+Troubleshooting & Diagnostics Electrical & Mechanical Repairs Preventive Maintenance
+Interests
+Maintenance: ORG
+Kitchens, & Restaurants: ORG
+200: CARDINAL
+Locksmith: ORG
+1r: CARDINAL
+2: CARDINAL
+500: CARDINAL
+rooms & equipment's: ORG
+two: CARDINAL
+one: CARDINAL
+18: CARDINAL
+Repairs
+Budget 5,: ORG
+Safety
+Budget: ORG
+Supervision
+Communication: ORG
+Skills: ORG
+CA: ORG
+Wiring
+Counseling
+Customer: ORG
+Designing
+Drafting
+Engineer
+Estimating
+Features: WORK_OF_ART
+First: ORDINAL
+Focus
+Hand: ORG
+Personnel
+Physics
+Plumbing
+Property Management
+Purchasing
+Read
+Reading
+Record: ORG
+5: CARDINAL
+Budget: ORG
+Skills: ORG
+CA: ORG
+Drafting,: ORG
+first: ORDINAL
+Mechanical: ORG
+Physics: ORG
+Property Management: ORG
+Repairs, Safety: ORG
+Troubleshooting: GPE

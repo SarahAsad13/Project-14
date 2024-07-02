@@ -1,0 +1,34 @@
+Certified Nursing: WORK_OF_ART
+New York State Department of Health Nursing Home: ORG
+1/31/14: CARDINAL
+Skill Highlights: PERSON
+Charting: PERSON
+Reliable transportation
+
+Trained: WORK_OF_ART
+Calm: PERSON
+March 2015: DATE
+State: ORG
+CNA: ORG
+August 2007 to July 2013 Company Name - City: DATE
+daily: DATE
+daily: DATE
+daily: DATE
+CNA: ORG
+June 2005 to January 2007: DATE
+Cashier: PERSON
+February 2004 to August 2005: DATE
+Cashier: PERSON
+July 2001 to March 2003: DATE
+Quickly Served: ORG
+Maintained: GPE
+100%: PERCENT
+Cashier: PERSON
+March 1998 to August 2000: DATE
+Mastered Point: ORG
+GED: ORG
+2005: DATE
+Rochester Educational Opportunity Center - City: ORG
+State: GPE
+United States: GPE
+Compassionate: ORG

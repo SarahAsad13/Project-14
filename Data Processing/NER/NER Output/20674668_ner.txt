@@ -1,0 +1,115 @@
+five years: DATE
+Drupal: GPE
+the NYSED Redesign Project: ORG
+the NYSED ITS and Program Office Managements: ORG
+Core Qualifications: PERSON
+â€¢ Superior: PRODUCT
+â€¢ Excellent: PRODUCT
+Drupal Ajax: PERSON
+jQuery: ORG
+â€¢ Exceptional: PRODUCT
+â€¢ Extensive: PRODUCT
+â€¢ Strong: PRODUCT
+â€¢: PRODUCT
+Technical Skills
+
+Programming and Scripting Languages: ORG
+Java: PERSON
+JavaScript: ORG
+PHP: ORG
+Data-Oriented Languages and Databases: ORG
+SQL: ORG
+PL/SQL: ORG
+Oracle Database: GPE
+DMS II: ORG
+PL/SQL: ORG
+JDBC
+Markup: PERSON
+HTML5: PERSON
+XHTML: PERSON
+CSS: ORG
+Design Patterns: PERSON
+Oracle JDeveloper, Eclipse: ORG
+Microsoft Visual Studio: ORG
+Apache Struts: PERSON
+Apache: PRODUCT
+Tomcat
+Software Applications: MS Office: ORG
+Oracle Database Server: ORG
+UNIX: ORG
+Automated Testing Tools: Selenium: ORG
+Information Technology Specialist III: ORG
+State: ORG
+NYSED.GOV: ORG
+â€¢: PRODUCT
+NYSED.GOV: ORG
+â€¢: PRODUCT
+Responsive Drupal: ORG
+â€¢: PRODUCT
+â€¢ Designing: PRODUCT
+Department: ORG
+â€¢ Developing the NYSED: WORK_OF_ART
+Drupal: GPE
+HTML5: ORG
+CSS3: ORG
+â€¢ Supervising: PRODUCT
+â€¢ Analyzing: PRODUCT
+â€¢: PRODUCT
+NYSED: GPE
+â€¢ Coordinating: PRODUCT
+NYSED: GPE
+â€¢ Executing: PRODUCT
+â€¢ Managing: PRODUCT
+NYSED: GPE
+â€¢: PRODUCT
+NYSED: ORG
+â€¢ Maintaining the NYSED: WORK_OF_ART
+Dreamweaver: FAC
+Contribute: ORG
+â€¢ Managing: PRODUCT
+â€¢: PRODUCT
+weekly: DATE
+â€¢ Communicating: PRODUCT
+â€¢ Documenting Drupal: WORK_OF_ART
+Information Technology Specialist II / Company Name - City: ORG
+â€¢ Developed: PRODUCT
+LINC: ORG
+Java: PERSON
+Struts: PERSON
+PL/SQL: ORG
+XML: ORG
+â€¢ Analyzed: PRODUCT
+â€¢ Collaborated: WORK_OF_ART
+â€¢ Worked: PRODUCT
+â€¢ Developed: PRODUCT
+â€¢ Assured: ORG
+Intern Application Developer / Company Name - City: ORG
+State 01/2013 - 06/2013: ORG
+â€¢ Maintained: PRODUCT
+â€¢ Developed: PRODUCT
+â€¢ Provided: PRODUCT
+â€¢ Developed: PRODUCT
+â€¢ Tested: PRODUCT
+EDI: ORG
+Data: ORG
+SQL: ORG
+Developer / Company Name - City: ORG
+State: ORG
+â€¢ Designed: PRODUCT
+â€¢ Ensured: PRODUCT
+â€¢ Collaborated: WORK_OF_ART
+â€¢ Identified: PRODUCT
+Store Supervisor / Company Name - City: PERSON
+State: ORG
+Footwear Department / Company Name - City: ORG
+State: ORG
+PROFESSIONAL DEVELOPMENT
+City College of New York of the City University of New York: ORG
+State: GPE
+United States: GPE
+the IT Committee Board: ORG
+â€¢ Create: PRODUCT
+â€¢ Train: PRODUCT
+â€¢ Organize: PRODUCT
+weekly: DATE
+â€¢ Encourage: PRODUCT

@@ -1,0 +1,44 @@
+INTERN: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Instagram: ORG
+January 2016: DATE
+May 2016: DATE
+Intern: ORG
+spring season: DATE
+Organize: GPE
+daily: DATE
+August 2015: DATE
+December 2015: DATE
+Name City: GPE
+State Fitness Intern
+
+: ORG
+daily: DATE
+one: CARDINAL
+Assisted: PERSON
+Created: ORG
+Month: DATE
+Maintained: GPE
+August 2013: DATE
+May 2016: DATE
+Name City: GPE
+State Student: ORG
+Organize: GPE
+May 2013: DATE
+December 2015: DATE
+Name City: GPE
+May 2016: DATE
+BALDWIN WALLACE UNIVERSITY City: ORG
+Spring
+: DATE
+2014: DATE
+2015: DATE
+RELATED BALDWIN WALLACE UNIVERSITY City: ORG
+Professional Affiliations: ORG
+Physical Therapy and Exercise Science Club ACTIVITIES Executive: PERSON
+CRU - Christian Organization: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG

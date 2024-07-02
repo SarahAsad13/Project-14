@@ -1,0 +1,50 @@
+MicroSoft Office: ORG
+Data: ORG
+Strong: PERSON
+Work History: WORK_OF_ART
+April 2000: DATE
+Current Healthcare Recruiter Company Name: ORG
+Radiology Techs,: ORG
+Physical Therapists: ORG
+Pharmacists: NORP
+U.S.: GPE
+Stanford University Hospital: ORG
+Children's Hospital: WORK_OF_ART
+Florida Hospital: ORG
+Inova Health Systems: ORG
+Adventist Healthcare: ORG
+Brigham Women's Hospital: ORG
+April 1998 - December 1999: DATE
+Healthcare Recruiter: PERSON
+State: ORG
+Virginia Beach: ORG
+General Hospital: ORG
+RN Management: ORG
+Allied Health: ORG
+Maintained: GPE
+Conducted: ORG
+March 1990 - February 1997: DATE
+Employment and Staffing Representative: WORK_OF_ART
+Southside Hampton Roads: PERSON
+Peninsula: LOC
+Conducted: ORG
+Networked: PRODUCT
+May 1985 - March 1990: DATE
+Medical: ORG
+Dental: ORG
+401: CARDINAL
+Conducted: ORG
+1500: CARDINAL
+annual: DATE
+Open Enrollment Communications: ORG
+Liberal Arts Saint Leo University: ORG
+State: ORG
+42 credit: TIME
+Liberal Arts: PERSON
+Anne High School: ORG
+State: ORG
+Skills: ORG
+Excel: PRODUCT
+MicroSoft Office: ORG
+PowerPoint: ORG
+MSWord: ORG

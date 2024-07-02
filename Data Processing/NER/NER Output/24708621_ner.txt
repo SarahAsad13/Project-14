@@ -1,0 +1,32 @@
+today: DATE
+Karass Effective Negotiating Training: FAC
+March 2012: DATE
+Current Procurement Analyst 
+City: ORG
+MRO: ORG
+Repairs: ORG
+Operations: ORG
+North American: NORP
+70M+: MONEY
+Total Cost of Ownership: WORK_OF_ART
+Procurement Services: ORG
+Resource Units: ORG
+Builds: PERSON
+Captures: PERSON
+November 2010 to March 2012: DATE
+Blast Furnace: PERSON
+day: DATE
+Coke: ORG
+Lime: ORG
+day: DATE
+May 2009 to August 2011: DATE
+Obtained Pennsylvania Insurance License: ORG
+Established: ORG
+May 2009 to November 2010: DATE
+100+ clients per week: MONEY
+California University of Pennsylvania: ORG
+Works: ORG
+Repairs: ORG
+National Academy of Sports Medicine: ORG
+May 2009 - May 2011: DATE
+August 2009 - August 2011: DATE

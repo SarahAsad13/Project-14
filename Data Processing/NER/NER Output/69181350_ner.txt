@@ -1,0 +1,66 @@
+Career Focus
+Analytical: ORG
+2+ years: DATE
+SPSS: ORG
+MS Word: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Gartner: ORG
+Forrester, Datamonitor: ORG
+OneSource: ORG
+Factiva: ORG
+April 2012 to April 2014: DATE
+Capgemini Group: ORG
+3000: CARDINAL
+5: CARDINAL
+Employ: PERSON
+Liaison: PERSON
+Projects Executed: Strategic Research: ORG
+Market Study / Competitor Analysis: ORG
+HCM: ORG
+Big Data: ORG
+Best Practices Study / Benchmarking of Best Practices: Preparation of in-depth: ORG
+Oil & Gas Company: ORG
+Intern: ORG
+April 2011 to June 2011 Company Name: DATE
+Pantaloon Retail: FAC
+Future Group: ORG
+India: GPE
+over 220 million: CARDINAL
+85: CARDINAL
+60: CARDINAL
+Big Bazaar: ORG
+Central Malls: LOC
+Activations Management: Responsible: ORG
+Bangalore Central: ORG
+Intern: ORG
+April 2008 to June 2008: DATE
+The Goldman Sachs: ORG
+Treasury: ORG
+Goldman Sachs: ORG
+58%: PERCENT
+treasury: ORG
+72%: PERCENT
+Business Administration Marketing Management: ORG
+2012: DATE
+University India Business Administration Marketing Management
+Bachelor: ORG
+Business Management: ORG
+2010: DATE
+University India Business Management
+Additional Information: ORG
+Rewards: NORP
+one year: DATE
+Capgemini Consulting: ORG
+the month of April 2013: DATE
+Competitor Analysis: ORG
+Consulting: ORG
+Client: GPE
+Investment Banking: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+MS Word: PERSON
+Research, Retail: ORG
+SPSS: ORG
+Strategic: PERSON
+Treasury: ORG

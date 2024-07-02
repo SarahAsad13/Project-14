@@ -1,0 +1,96 @@
+NATIONAL ADMINISTRATOR: ORG
+Maters Certificate: PRODUCT
+Lean Six Sigma: ORG
+Healthcare: ORG
+2015: DATE
+Villanova University City: ORG
+State: ORG
+MPH Masters of Public Health: ORG
+Health Care Administration: ORG
+2012: DATE
+Academy City: GPE
+Russia: GPE
+Healthcare: ORG
+16+ years: DATE
+National Administrator: ORG
+Population Health and Associate: ORG
+Visit Clinical Practice 03/2014: ORG
+Name City: GPE
+State: ORG
+$1 billion: MONEY
+300: CARDINAL
+22: CARDINAL
+100: CARDINAL
+Visit Clinical Practice: ORG
+100: CARDINAL
+16.9%: PERCENT
+6%-16.9%: PERCENT
+21%: PERCENT
+5.2%: PERCENT
+13,085,546: MONEY
+14 months: DATE
+461: CARDINAL
+3000: CARDINAL
+National COPD Foundation: ORG
+Comprehensive Joint Replacement: ORG
+CJR: ORG
+CABG: ORG
+AMI: ORG
+fifteen: CARDINAL
+Collaborated: ORG
+30: CARDINAL
+Palliative Care: ORG
+two: CARDINAL
+three years: DATE
+Resident, Executive Administration: ORG
+Name City: GPE
+231: CARDINAL
+Main Line Health: ORG
+Philadelphia: GPE
+Patient Care Services: ORG
+OBS: ORG
+Patient Centered Medical Home: ORG
+PCMH: ORG
+OBS: ORG
+HCAHPS: PERSON
+Conducted: ORG
+Healthcare: ORG
+12/2012: CARDINAL
+Name City: GPE
+State National Institutes of Health(NIH: ORG
+Upper Merion Area: ORG
+MPH: ORG
+Department of General Medicine & Consultative Services: ORG
+Physician 11/2005: PERSON
+06/2012: CARDINAL
+Name City: GPE
+State: ORG
+280: CARDINAL
+30,000: CARDINAL
+OPD: ORG
+annually: DATE
+70: CARDINAL
+FTE: ORG
+three: CARDINAL
+Patient Safety Committee: ORG
+Physician Leadership Assembly: ORG
+Strategic
+Planning and Execution Committee: ORG
+Professional Affiliations
+
+: ORG
+American College of Healthcare Executives: ORG
+Healthcare Leadership Network: ORG
+Delaware Valley: LOC
+Partner Healthcare Organization: ORG
+Lean Healthcare Exchange: ORG
+Community Involvement
+
+Advisor, Quality Insights-Care Coordination: ORG
+Medication Safety Project
+Advisor: ORG
+Population Health Alliance: ORG
+PHA: ORG
+Social Determinants of Health Project
+
+: ORG

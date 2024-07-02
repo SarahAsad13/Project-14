@@ -1,0 +1,104 @@
+Microsoft: ORG
+Excel: PRODUCT
+Visio
+Advanced: PERSON
+CAD: ORG
+Project Management: ORG
+Lighting Field Engineering Technician 10/2014: WORK_OF_ART
+Name City: GPE
+Supports Tampa Electric Company's: ORG
+Designs: NORP
+Designs: NORP
+TEC: ORG
+TEC: ORG
+TEC: ORG
+TEC: ORG
+Administrative Technical Aide: ORG
+06/2013: CARDINAL
+Name City: GPE
+the Records Coordinator: ORG
+Service Area: LOC
+WorkPro: ORG
+TEC: ORG
+URD: ORG
+TEC: ORG
+GIS: ORG
+URD: ORG
+Process: PRODUCT
+Work Request: PERSON
+Assess: ORG
+DDT/FE's: ORG
+U.G.
+Coordinators and Service Crews: ORG
+Schedule Service Crew: ORG
+WorkPro: ORG
+Daily Service Route Sheet: ORG
+Administrative Technical Aide: ORG
+06/2013: CARDINAL
+Name City: GPE
+the Records Coordinator: ORG
+Service Area: LOC
+WorkPro: ORG
+TEC: ORG
+URD: ORG
+TEC: ORG
+GIS: ORG
+URD: ORG
+Process: PRODUCT
+Work Request: PERSON
+DDT/FE's: ORG
+U.G.
+Coordinators and Service Crews: ORG
+Schedule Service Crew: ORG
+WorkPro: ORG
+Daily Service Route Sheet: ORG
+Assist Customer Engineering Representative: ORG
+Ops Engineer: ORG
+Line
+Crews: ORG
+the Senior Service Area Representative: ORG
+kWh: NORP
+Operation's Service Crews: ORG
+CIS Interface: ORG
+One: CARDINAL
+Customer Service Professional 08/2012: ORG
+Name City: GPE
+Educate: ORG
+Fetch: PERSON
+Pragma: ORG
+daily: DATE
+Business Cooperative Education: ORG
+Student- Customer Care: PERSON
+Business Cooperative Education: ORG
+Student- Customer Care: PERSON
+Name City: GPE
+Admin Specialist: PERSON
+CI-SF Mailboxes: ORG
+Ybor Call Center: ORG
+100: CARDINAL
+Workforce Management: ORG
+2017: DATE
+University of South Florida City: ORG
+GPA: ORG
+3.4: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+February 2014: DATE
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+Microsoft Office: ORG
+May 2011 Excel: DATE
+Power Point: ORG
+Word: PERSON
+May 2012: DATE
+Tampa
+Bay Technical High School
+Skills: ORG
+GIS: ORG
+Visual Professional, Access, Excel: ORG
+Microsoft Office: ORG
+Power Point: ORG

@@ -1,0 +1,117 @@
+PhD: WORK_OF_ART
+Superb: NORP
+Research / Analysis: ORG
+Consulting, Research, Analysis: ORG
+Qualitative Analysis: ORG
+Social Media: ORG
+Project Management: ORG
+Media
+Analysis: ORG
+Copy Editing: ORG
+Editorial: PERSON
+Fundraising, Government: ORG
+Law Enforcement: PERSON
+Personnel Management: ORG
+Networking, Security: ORG
+Marine Security Guard: ORG
+Sec State: ORG
+Colin Powell: PERSON
+Tashkent: GPE
+Uzbekistan: GPE
+Dec.
+2001: DATE
+911: CARDINAL
+December 2006: DATE
+2009: DATE
+Donor Relations Uganda Community Farm - Eastern: ORG
+Uganda: GPE
+Community Farm: ORG
+African: NORP
+UCF: ORG
+Orchestrate: ORG
+UCF: ORG
+Helped: PERSON
+UCF: ORG
+UCF: ORG
+Edinburgh Global Partnerships: PERSON
+Project Editor PRIME Research: ORG
+UK: GPE
+Oxford Primary: ORG
+GE Renewable Energy: ORG
+Research: ORG
+Associate Lecturer: PERSON
+Afghanistan: GPE
+Attend: ORG
+Marine Security Guard: ORG
+United States: GPE
+two: CARDINAL
+annual: DATE
+Marine Corps Balls: ORG
+40,000: MONEY
+Marine Welfare and Recreation: ORG
+Marine Security Guard: ORG
+0331: CARDINAL
+Guantanamo Bay: LOC
+Cuba: GPE
+2012: DATE
+PhD International Relations: WORK_OF_ART
+John Henry Brookes: PERSON
+December 2016: DATE
+Master of Arts: WORK_OF_ART
+the Failed State Discourse: ORG
+Historical Bases: ORG
+Contemporary Form(s: ORG
+Implications for International Security: ORG
+the Failed State Discourse: ORG
+Historical Bases: ORG
+Contemporary Form(s: ORG
+Implications for International Security: ORG
+Afghanistan International Studies
+M.A :: ORG
+5%: PERCENT
+5%: PERCENT
+Discourse
+Bachelor of Science : Political: PERSON
+State: GPE
+United States Political Science & Global
+Studies
+B.S :: ORG
+Cultural Geography, International Relations and Organizations: ORG
+John Henrickson Award -
+: PERSON
+Political Science: WORK_OF_ART
+2005 - 2007: DATE
+Cum Laude: ORG
+John
+
+Henrickson Award - Awarded: PERSON
+Political Science: WORK_OF_ART
+2005 - 2007: DATE
+Cum Laude: ORG
+Publications
+Szarkowski: ORG
+Governmentality: ORG
+US: GPE
+2009: DATE
+the University of Aberdeen
+2009 Szarkowski, S. "On the Need for Critical Reflexivity: ORG
+One: CARDINAL
+2011: DATE
+University of Aberdeen 2011 Szarkowski: ORG
+Identity Constructions: ORG
+Afghanistan: GPE
+the International Studies Association: ORG
+San Franciso: GPE
+2013: CARDINAL
+Skills: ORG
+Articulate: ORG
+Data Entry, Drafting: ORG
+Editor: PERSON
+Editorial: PERSON
+Fundraising, Government: ORG
+Law Enforcement: PERSON
+MOS: ORG
+Personnel Management: ORG
+Project Management: ORG
+Research, Security Clearance: ORG
+SOP: ORG

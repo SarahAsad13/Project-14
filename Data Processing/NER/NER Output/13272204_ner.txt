@@ -1,0 +1,113 @@
+LOGISTICS COORDINATOR: PERSON
+15 years: DATE
+Human Resources: ORG
+10 years: DATE
+July 2013 to November 2013: DATE
+Name City: GPE
+State Logistics Coordinator
+
+Rail: ORG
+three: CARDINAL
+three: CARDINAL
+Data Entry: ORG
+Instructions
+Document: ORG
+December 2011 to October 2012: DATE
+Name City: GPE
+State Administrative: ORG
+Assist: NORP
+the Management Team: ORG
+Coordinate: FAC
+Coordinated: ORG
+January 2011 to September 2011: DATE
+Name City: GPE
+State: ORG
+36th District Court: ORG
+one: CARDINAL
+HRIS/Payroll System: ORG
+5.0: CARDINAL
+400: CARDINAL
+March 2008 to October 2008: DATE
+Name City: GPE
+State HR Coordinator Administered: ORG
+monthly: DATE
+30: CARDINAL
+3: CARDINAL
+D&O: NORP
+FLSA: ORG
+Coordinated: ORG
+June 2006 to: DATE
+February 2008: DATE
+Name City: GPE
+State: ORG
+Specialist Facilitated: PERSON
+over 100: CARDINAL
+Conducted: ORG
+IPAY systems Administered: ORG
+Prepared: PERSON
+monthly: DATE
+August 2001 to June 2006: DATE
+Name City: GPE
+State: ORG
+monthly: DATE
+BCBS: ORG
+BCN: ORG
+HAP: ORG
+Healthcare: ORG
+Omnicare: ORG
+Delta Dental: PERSON
+Omaha Life Insurance: ORG
+Employee Census Report: ORG
+Worker's Compensation: ORG
+STD/LTD: ORG
+ADA: ORG
+Child Support
+Orders: PERSON
+LOA: ORG
+The Healthcare Reform Act: ORG
+Prepared: PRODUCT
+Education: ORG
+2016: DATE
+University of Phoenix 
+Health: ORG
+Mgmt 
+BS BS: PERSON
+Health: ORG
+Mgmt: PERSON
+2013-2016: DATE
+350: CARDINAL
+HRIS: ORG
+ADP: ORG
+quarterly: DATE
+DIA: ORG
+today: DATE
+Professional Affiliations: ORG
+Warren Conner Development Coalition -Detroit: ORG
+Skills
+Compensation: ORG
+Healthcare: ORG
+Cobra, Reconciliation, Adp, Accounts For: WORK_OF_ART
+Ada, Annuities: ORG
+Dental: ORG
+Fmla: ORG
+Healthcare Accounts: ORG
+Healthcare: ORG
+Leave Of Absence, Life Insurance, Loa: ORG
+Disability, Ltd: ORG
+New Hires: ORG
+Disability: ORG
+Std: PERSON
+Award: PERSON
+Health And Safety: ORG
+Payroll: ORG
+Faxing: GPE
+Filing: GPE
+Adp Hr: PERSON
+Project Manager: PERSON
+Database: GPE
+Flsa: PERSON
+Liability: ORG
+Detail: PERSON
+Human Resources, Office Experience: ORG
+Automotive, Data Entry, Logistics,: ORG
+Railroad: GPE

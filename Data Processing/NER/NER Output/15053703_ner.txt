@@ -1,0 +1,71 @@
+Microsoft Office Programs: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Outlook: PERSON
+Decisive
+Curriculum: WORK_OF_ART
+Portland Helping
+Hands: PERSON
+Rota High School: ORG
+2009-2013: DATE
+Valedictorian: PERSON
+Youth Advisory: ORG
+Anti-Bullying Campaign: ORG
+Junior Achievement Program Public Relations Officer: ORG
+Army JROTC Company: ORG
+Leadership Award
+Founded: PERSON
+Rota Elementary School: ORG
+The Reading Bridge Project: WORK_OF_ART
+University of Portland Student: ORG
+2017: DATE
+Kappa Delta Pi: ORG
+Honor Society
+Officer: PERSON
+3: CARDINAL
+the Portland District: FAC
+Name City: GPE
+Cultural Affairs: ORG
+2: CARDINAL
+Department of Public Safety: ORG
+M.P.: ORG
+96951: DATE
+Songsong Village: GPE
+3: DATE
+CNMI: ORG
+Name City: GPE
+CPR: ORG
+3: CARDINAL
+Northern Marianas College Internship Program: ORG
+Rota: PERSON
+M.P.: ORG
+96951: DATE
+Highway: GPE
+CNMI: GPE
+Nutrition and Agriculture Internship Trainee 07/2012: WORK_OF_ART
+Name City: GPE
+Internship Program: ORG
+4.: CARDINAL
+Rota High School: ORG
+M.P.: ORG
+96951: DATE
+Songsong Village: GPE
+CNMI: GPE
+English: LANGUAGE
+SPED: ORG
+the school year: DATE
+Student Activities Office: ORG
+12/2014: CARDINAL
+Name City: GPE
+2013: CARDINAL
+Rota High School City: ORG
+2017: DATE
+University of Portland City: ORG
+State
+
+University of Portland Student: ORG
+Elementary Education: ORG
+2017: DATE
+ARMY ROTC: PERSON
+Kappa Delta Pi Honor: PERSON

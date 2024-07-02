@@ -1,0 +1,55 @@
+ADMIN: ORG
+Career Overview
+Self-motivated: WORK_OF_ART
+10 years': DATE
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Suite: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+PeopleSoft: ORG
+ADP Payroll: ORG
+Current
+Admin Operating Room Administrative Coordinator Company Name: ORG
+Joint Commission: ORG
+the Health Insurance Portability: ORG
+10-15: CARDINAL
+Maintained: GPE
+90%: PERCENT
+daily: DATE
+Healthcare: ORG
+DCF: ORG
+Families: ORG
+DMH: ORG
+DTA: ORG
+Activities of Daily Living: ORG
+daily: DATE
+Schedule: PERSON
+Maintained: GPE
+J.C.A.H.O.: PERSON
+the Health Insurance Portability: ORG
+7: CARDINAL
+December 2016: DATE
+Mental Health Counseling & Crime: ORG
+ï¼​ City: GPE
+State Mental Health Counseling &
+Crime Justice: ORG
+May 2013: DATE
+May 2013: DATE
+State Sociology Health Medicine: ORG
+May 2009: DATE
+Bunker Hill Community College: ORG
+Criminal Justice & Psychology: ORG
+2013: CARDINAL
+Alpha: GPE
+Kappa Delta: LOC
+2013: DATE
+The Eastern Middlesex Opioid Task Force: ORG
+Massachusetts Child Psychiatry Access Project: ORG
+ADP Payroll: ORG
+French: LANGUAGE
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+Word: PERSON
+PeopleSoft: ORG

@@ -1,0 +1,96 @@
+Skills: ORG
+App: PERSON
+May 2013 to August 2013: DATE
+1.2B: MONEY
+11: CARDINAL
+Drove: CARDINAL
+3: CARDINAL
+Excel: PRODUCT
+Communicated: ORG
+Goldman: ORG
+Performed M&A: ORG
+20B: MONEY
+7: CARDINAL
+30: CARDINAL
+10: CARDINAL
+May 2012: DATE
+May 2013: DATE
+SEC: ORG
+300: CARDINAL
+Systemically: PERSON
+Excel: PRODUCT
+May 2011 to August 2011 Company Name ï¼​ City: DATE
+20%: PERCENT
+the period of June to August: DATE
+Named: WORK_OF_ART
+the Month: DATE
+July: DATE
+YEAR - MONTH: DATE
+YEAR - MONTH: DATE
+Training
+Bachelor: PERSON
+State: ORG
+4.0: CARDINAL
+Bachelor of Science : Aeronautical Engineer: ORG
+2015: DATE
+UNITED STATES AIR FORCE ACADEMY COLORADO: ORG
+ï¼​ City: GPE
+State: ORG
+Probability & Statistics: ORG
+Multivariable Calculus: ORG
+Thermodynamics I & II: ORG
+Schulte Memorial Scholarship: PERSON
+London School of Economics Study Abroad Program: ORG
+Spring 2014: DATE
+COLORADO ACADEMY: ORG
+DENVER: GPE
+4/4.0 3.8/4.0: CARDINAL
+2350/2400: CARDINAL
+2011: CARDINAL
+National Society of Collegiate: ORG
+Varsity Volleyball Captain
+Personal Information
+Summary: PERSON
+YEAR - MONTH: DATE
+Interests: NORP
+INC: ORG
+CO FOUNDER: ORG
+NOV: PERSON
+501: CARDINAL
+3: CARDINAL
+the United States: GPE
+Air Force Academy: ORG
+a day: DATE
+56: MONEY
+annual: DATE
+Languages
+Language: WORK_OF_ART
+Economics: ORG
+Finance: ORG
+French: NORP
+Java: PERSON
+Excel: PRODUCT
+SAT: ORG
+Spanish: NORP
+Technical Training: PERSON
+Additional Information
+
+LEADERSHIP & ACTIVITIES ORGANIZATION CITY: ORG
+YEAR - MONTH: DATE
+YEAR - MONTH: DATE
+Interests: NORP
+INC: ORG
+CO FOUNDER: ORG
+NOV: PERSON
+PRESENT Founded: ORG
+501: CARDINAL
+3: CARDINAL
+the United States: GPE
+Air
+Force Academy: ORG
+a day: DATE
+56: MONEY
+annual: DATE
+Interests: NORP
+CrossFit: ORG
+World Cup: EVENT

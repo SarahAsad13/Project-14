@@ -1,0 +1,63 @@
+BUDGET FINANCE SPECIALIST SENIOR
+
+Summary
+
+Dynamic: ORG
+Complex: NORP
+Superior: LOC
+PeopleSoft: ORG
+SAP/MS Office Suite: ORG
+Excel: PRODUCT
+School Finances
+
+Accomplishments
+
+Promoted: ORG
+3: CARDINAL
+Budget/Finance Specialists: ORG
+less than 200: CARDINAL
+2 days: DATE
+October 2007: DATE
+Current Budget Finance Specialist: ORG
+3: CARDINAL
+1: CARDINAL
+Clerk Cadre: PERSON
+daily: DATE
+annual: DATE
+school year: DATE
+144: CARDINAL
+nearly $12.5 million: MONEY
+annually: DATE
+one year: DATE
+25: CARDINAL
+daily: DATE
+annual: DATE
+SAP: ORG
+UFARS: ORG
+Oversee: ORG
+Human Resources: ORG
+PO: GPE
+School District's: ORG
+July 2006 to October 2007: DATE
+daily: DATE
+the Trust Fee Unit: ORG
+daily: DATE
+monthly: DATE
+daily: DATE
+2007: DATE
+September 2005 to July 2006: DATE
+Wells Fargo Funding: ORG
+2015: DATE
+State
+University of Wisconsin 2005 Bachelor of Science : Business Administration-Finance City: ORG
+State
+
+Business Administration-Finance: ORG
+Skills
+
+Accounting:: ORG
+AP: ORG
+Purchasing: GPE
+Quickbook
+Finance: PERSON
+financial analysis & planning: ORG

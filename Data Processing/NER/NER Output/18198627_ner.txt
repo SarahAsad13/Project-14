@@ -1,0 +1,51 @@
+Skills
+
+Photoshop
+InDesign
+After: ORG
+Effects
+Maya
+Illustrator
+Z: PRODUCT
+/XP: GPE
+Microsoft: ORG
+Windows NT/95/98: PERSON
+Dreamweaver: ORG
+PowerPoint: ORG
+Analog Integrated Circuits: ORG
+Excel: PRODUCT
+Determining: ORG
+Assisted: ORG
+Completed: ORG
+daily: DATE
+Performed: ORG
+MS Office: ORG
+Maintain: PERSON
+daily: DATE
+Oversee: ORG
+Maintained: GPE
+2009: DATE
+Queens College: ORG
+City Arts Advanced Illustration Coursework Art Design Coursework Cartooning: ORG
+Animation Coursework Course: ORG
+Digital Arts Color Theory: ORG
+Skills: ORG
+3: CARDINAL
+Animation, Arts: ORG
+Art: PERSON
+CAD: ORG
+Cartooning: ORG
+Color, Computer Networks: ORG
+XML: ORG
+Graphic Design: ORG
+HTML, Illustration, Illustrator, InDesign: ORG
+Mac OS: PERSON
+Maya: PERSON
+Excel: PRODUCT
+MS Office: ORG
+PowerPoint: ORG
+Windows: ORG
+95/98: CARDINAL
+Windows NT: LOC
+Microsoft: ORG
+Vista: ORG

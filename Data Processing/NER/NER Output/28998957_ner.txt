@@ -1,0 +1,88 @@
+Skills
+PLM: ORG
+Enovia: PERSON
+SQL: ORG
+Crystal Reports: LOC
+Google Analytics: ORG
+JIRA: ORG
+HPQC: ORG
+QlikView: PERSON
+Cognos: ORG
+Advanced Microsoft Access: ORG
+Advanced: ORG
+Excel: PRODUCT
+SAS: ORG
+Power Point: ORG
+SharePoint: ORG
+Visio: PERSON
+MicroStrategy: ORG
+Microsoft Project: ORG
+JCL: ORG
+Jobtrac: PERSON
+TSO: ORG
+CA7: GPE
+Tivoli: GPE
+Maestro: ORG
+Telnet: ORG
+FTP: ORG
+Exceed: PERSON
+Altiris: NORP
+Name City: GPE
+State
+
+Technical: ORG
+700: CARDINAL
+Used Google Analytics: ORG
+the Regional Store Replenishment Managers: ORG
+seasonal: DATE
+SDLM: ORG
+SIT: ORG
+UAT: ORG
+SQL: ORG
+7.0: CARDINAL
+CRM: PRODUCT
+SD: ORG
+MM: GPE
+WM: GPE
+FI/CO: ORG
+PLM: ORG
+Enovia: PERSON
+SQL: ORG
+SAS: ORG
+Quality Assurance Data Analyst 01/2006 to 01/2008 Company: ORG
+Name City: GPE
+monthly: DATE
+Provide Functional Excellence: ORG
+KPI: ORG
+weekly: DATE
+weekly: DATE
+Customer File Master: ORG
+Training
+Bachelor of Science : Information Systems Northeastern University City: PERSON
+State Information Systems: ORG
+SAS Business Intelligence Client Tools: ORG
+SAS Training Center New York: ORG
+NY: ORG
+4.0: CARDINAL
+New Horizons Training
+Center Braintree: ORG
+MA Fundamentals of Solaris: ORG
+2: CARDINAL
+Sun Microsystems Massasoit Community College City: ORG
+Boston University Center for Information Technology City: ORG
+State
+Concepts & Facilities of Emerging Technologies: ORG
+Business Intelligence, Citrix: ORG
+Cognos: GPE
+Crystal Reports: PRODUCT
+Database
+Management: ORG
+Google Analytics: ORG
+SharePoint: ORG
+MicroStrategy: ORG
+SAP: ORG
+7.0: CARDINAL
+SAS: ORG
+Software Design & Development: ORG
+SQL: ORG
+Tivoli: GPE

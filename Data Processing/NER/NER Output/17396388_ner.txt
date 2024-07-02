@@ -1,0 +1,36 @@
+twenty years: DATE
+15 years: DATE
+Staff Management
+Business Development
+Strategic: ORG
+Financial Management: ORG
+Organization and Time: ORG
+State: ORG
+June 2011: DATE
+3.5 billion: CARDINAL
+Oversaw: GPE
+125: CARDINAL
+11: CARDINAL
+Westside: PERSON
+Santa Monica: GPE
+11: CARDINAL
+Located: ORG
+State: ORG
+April 2007 to June 2011: DATE
+five: CARDINAL
+State: ORG
+August 2005 to April 2007: DATE
+Lead Teller: PERSON
+State: ORG
+June 1999 to: DATE
+August 2005: DATE
+weekly: DATE
+ATM: ORG
+Completed: ORG
+Maintained: GPE
+Bachelor of Arts - Psychology
+University of California - Los Angeles
+
+City: ORG
+State: ORG
+June 2004: DATE

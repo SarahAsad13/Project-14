@@ -1,0 +1,30 @@
+7+ years: DATE
+daily: DATE
+40%: PERCENT
+Maintained: GPE
+Â Created: ORG
+Researched: ORG
+11/2016: CARDINAL
+Customer Services Company Name: ORG
+english: LANGUAGE
+spanish: NORP
+06/2013: CARDINAL
+15: CARDINAL
+Citibank International: ORG
+ACH: ORG
+monthly: DATE
+10/2008: DATE
+Client Accounts: PERSON
+2014: DATE
+Spanish: LANGUAGE
+English - Portuguese: NORP
+Skills
+Attention: ORG
+Billing, Customer Services: ORG
+Analysis, Documentation: ORG
+English: LANGUAGE
+Microsoft: ORG
+Portuguese: NORP
+Risk Management: ORG
+Spanish: NORP
+Strategic Planning: ORG

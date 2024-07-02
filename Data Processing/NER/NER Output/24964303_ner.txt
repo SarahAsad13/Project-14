@@ -1,0 +1,62 @@
+20+ years: DATE
+Business Development: ORG
+quarterly: DATE
+Business Development: ORG
+125%: PERCENT
+the first year: DATE
+30: CARDINAL
+quarterly: DATE
+Business Development: ORG
+UI: GPE
+08/2011: CARDINAL
+UI/UX: ORG
+Realtors: ORG
+48%: PERCENT
+Interface: ORG
+CRM: PRODUCT
+172%: PERCENT
+the first year: DATE
+125%: PERCENT
+second
+year: DATE
+36: CARDINAL
+monthly: DATE
+annual: DATE
+Regional Publishing Consultant: ORG
+12/2007: CARDINAL
+CA: ORG
+Nashville: GPE
+Created: ORG
+01/2004: CARDINAL
+11/2007: CARDINAL
+05: CARDINAL
+06: CARDINAL
+115%: PERCENT
+60%: PERCENT
+85: CARDINAL
+Grew: PERSON
+one: CARDINAL
+3: CARDINAL
+9: CARDINAL
+04/1996: CARDINAL
+monthly: DATE
+230%: PERCENT
+10: CARDINAL
+monthly: DATE
+230%: PERCENT
+10: CARDINAL
+85%: PERCENT
+Masters of Business Administration : Business Strategy: ORG
+Western Governors University - City: ORG
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+Skills
+
+New Business Development
+Sales Management
+MS Office Suite
+Salesforce / CRM: ORG

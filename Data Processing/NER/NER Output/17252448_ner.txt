@@ -1,0 +1,95 @@
+Civil: ORG
+Master's: WORK_OF_ART
+Civil Engineering: WORK_OF_ART
+Auburn University: ORG
+my college days: DATE
+Skills
+
+Project: ORG
+Value: ORG
+OSHA: ORG
+Work History
+Construction Project: WORK_OF_ART
+01/2016: ORG
+Mitigated: ORG
+$2 Million dollar: MONEY
+Housing Project
+Monitored: ORG
+25: CARDINAL
+2017: DATE
+Maintained: GPE
+zero: CARDINAL
+days: DATE
+1.5 years: DATE
+12/2015: CARDINAL
+Pile Driving Operations
+Initiated: ORG
+95%: PERCENT
+Master of Science : Civil Engineering: WORK_OF_ART
+11/2019: CARDINAL
+Auburn University - City: ORG
+Project Management and Cost Estimation: ORG
+University Tennis Club: ORG
+L.J. Institute of Technology - City: ORG
+College Quiz Club
+Thesis: Energy Generation in Floating City
+
+Hobbies
+
+National level: ORG
+Lawn Tennis Champion
+Registered Adult: WORK_OF_ART
+Professional Tennis Registry: ORG
+U.S.A.: GPE
+PROJECT WORK
+
+Event Center: ORG
+SIFAT: ORG
+Alabama
+
+Rock: GPE
+Dirt: PERSON
+Landscape: ORG
+Model: ORG
+Auburn University Facilities: ORG
+AU Colleges: ORG
+Atchafalaya Basin: PRODUCT
+Project: GPE
+Haul: PERSON
+Sequence: ORG
+Rip Rap: PERSON
+Alabama: GPE
+between 2006: DATE
+2016,3500 Projects: PERSON
+Rip-rap: PERSON
+Los Gatos: GPE
+California: GPE
+Streetsaver: ORG
+Weagle: PRODUCT
+100 day: DATE
+REVIT Architecture: ORG
+Navisworks: PERSON
+RS Means: ORG
+Bluebeam: GPE
+WinTR55: PERSON
+Kenslabs: NORP
+MS Project: ORG
+Value: ORG
+OSHA: ORG
+Work History
+Construction Project: WORK_OF_ART
+01/2016: ORG
+Mitigated: ORG
+$2 Million dollar: MONEY
+Housing Project
+Monitored: ORG
+25: CARDINAL
+2017: DATE
+Maintained: GPE
+zero: CARDINAL
+days: DATE
+1.5 years: DATE
+12/2015: CARDINAL
+Pile Driving Operations
+Initiated: ORG
+95%: PERCENT

@@ -1,0 +1,41 @@
+Chemistry: ORG
+Chemistry: PERSON
+Microsoft Office: ORG
+3D Chemistry Laboratories: ORG
+IR: ORG
+NMR: ORG
+SQL: ORG
+Photoshop and Illustrator: LAW
+Graphic Designer: PERSON
+August 2009 to March 2013 Company Name - City: DATE
+Point of Sale: ORG
+August 2009 to August 2011 Company Name - City: DATE
+Payroll: ORG
+March 2006 to October 2014: DATE
+State: ORG
+Accomplishments Â: PRODUCT
+Eight year: DATE
+Chemistry: ORG
+2015: DATE
+El Camino College - City: ORG
+El Camino: GPE
+MESA: ORG
+Mathematics, Engineering: ORG
+Science Achievement Program: ORG
+the El Camino Chemistry Club: ORG
+Mathematics, Engineering: ORG
+Science Achievement Program: ORG
+Developmental Biology: ORG
+2017: DATE
+University Of California Los Angeles - City: ORG
+State: GPE
+USA: GPE
+Photoshop: PERSON
+Chemistry: ORG
+Graphic: PERSON
+Basic HTML: PERSON
+Illustrator, Inventory: ORG
+Microsoft Office: ORG
+NMR: ORG
+Payroll: ORG
+SQL: ORG

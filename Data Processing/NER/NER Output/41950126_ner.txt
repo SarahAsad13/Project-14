@@ -1,0 +1,43 @@
+Detail: PERSON
+MS Office: ORG
+Evaluate: ORG
+AML: ORG
+Review: ORG
+EDD: ORG
+Fraud: NORP
+Operations: ORG
+State Branch Representative: ORG
+Retail: LOC
+Credit Union's: ORG
+Developed: PRODUCT
+Maintained: GPE
+11/2011: CARDINAL
+State: ORG
+Oversaw: GPE
+Facilitated: ORG
+90%: PERCENT
+5 consecutive years: DATE
+12: CARDINAL
+State: ORG
+Researched: ORG
+Minimized: PERSON
+18: CARDINAL
+Communicated: ORG
+11/1999 - 02/2008: DATE
+Oversaw: GPE
+10: CARDINAL
+zero: CARDINAL
+90%: PERCENT
+5 consecutive years: DATE
+Citizens Bank: ORG
+2010: DATE
+Peirce College City: ORG
+Magna Cum Laude: PERSON
+Credit: ORG
+Reporting, Retail: ORG
+BSA: ORG
+Credit Union: ORG
+Epysis/ Symitar: ORG
+Meridian Link: PERSON
+Patriot Officer: PERSON
+VISA: ORG

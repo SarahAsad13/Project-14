@@ -1,0 +1,32 @@
+SOUS CHEF
+Summary: ORG
+Reliable: WORK_OF_ART
+5: CARDINAL
+Name City: GPE
+State: ORG
+Sous Chef 03/2017: PERSON
+Current Works: PERSON
+working hours: TIME
+Ensures: ORG
+Name City: GPE
+State: ORG
+Garm Chef 05/2016: PERSON
+Current Prepare: ORG
+Name City: GPE
+Lead Cook: PERSON
+Lead Cook: PERSON
+5: CARDINAL
+Name City: GPE
+State: ORG
+06/2013: CARDINAL
+Education: ORG
+Culinary Arts Expect: ORG
+Graphic design University of Alaska Anchorage: ORG
+State: GPE
+United States: ORG
+one year: DATE
+Seward High School: ORG
+State: GPE
+United States: GPE
+Skills
+Excellent: ORG

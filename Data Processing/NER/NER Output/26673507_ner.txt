@@ -1,0 +1,76 @@
+one: CARDINAL
+Core Competencies
+Credit &: ORG
+Deadline: NORP
+110%: PERCENT
+Wells Fargo 2015
+
+: ORG
+Year: DATE
+162%: PERCENT
+230%: PERCENT
+180%: PERCENT
+2013: CARDINAL
+Gold Star Award of Western Mountain Region: ORG
+Wells Fargo Bank: ORG
+2: CARDINAL
+Gold Star Award: ORG
+Wells Fargo Bank: ORG
+2014: DATE
+1: CARDINAL
+Gold Star Award: ORG
+Wells Fargo Bank: ORG
+2015: DATE
+Annual: DATE
+20%: PERCENT
+US Bank 2010 Star of Excellent: ORG
+US Bank: ORG
+2009: DATE
+2010: DATE
+2011: DATE
+2006: DATE
+2007: DATE
+Fleet Bank 2002: ORG
+2003: DATE
+45%: PERCENT
+Maintained: GPE
+11/2012: CARDINAL
+State: ORG
+2010: DATE
+Annual: DATE
+Winner: PERSON
+Business Operations/Finance Officer: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Consumer Banking Specialist: ORG
+State: ORG
+2003: DATE
+Masters Business Administration: ORG
+2011: CARDINAL
+Graduate School of Management - City: ORG
+2009: DATE
+Central Connecticut State University - City: ORG
+State Business Administration/Finance
+Professional Development
+
+Credit Risk Fundamentals: ORG
+US Bank 2011: EVENT
+US Bank 2011
+
+: ORG
+US: GPE
+2010: DATE
+FDIC Certification: ORG
+Central Connecticut State University: ORG
+2009: DATE
+Community Involvement: ORG
+United  Way: GPE
+Board: ORG
+Women's  Chamber  of  Commerce: ORG
+Southern: NORP
+Nevada: GPE
+NAWBO: ORG
+Computer Skills: PERSON
+Microsoft Office: ORG
+Wells Fargo: ORG

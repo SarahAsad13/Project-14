@@ -1,0 +1,48 @@
+English: LANGUAGE
+Spanish: LANGUAGE
+Application of GAAP regulations
+Financial modeling
+: WORK_OF_ART
+Variance Trend Analysis: ORG
+2011 to Jan 2015: DATE
+Bank Secrecy Act: ORG
+BSA: ORG
+Anti-Money Laundering: ORG
+AML: ORG
+$100 thousand to $25 million: MONEY
+Bank Secrecy Act: ORG
+Laundry: ORG
+Information Technology: ORG
+Information Security Systems: ORG
+the Community Reinvestment Act: ORG
+CAMELS: ORG
+$100 million to $20 billion: MONEY
+Cited: ORG
+Researched: ORG
+Nov 2008 to Nov 2010: DATE
+annual: DATE
+2007 to Feb 2008: DATE
+2000: DATE
+Vista: ORG
+Researched: ORG
+Department Administrator/Dental: ORG
+2003: DATE
+Apr: PERSON
+2007: DATE
+fiscal year: DATE
+Standardized: ORG
+Master of Science , Accounting and Financial Management: WORK_OF_ART
+December 2016: DATE
+University College: ORG
+University of Maryland Accounting: ORG
+Financial
+Management
+Bachelor of Science , Business Information Systems: ORG
+2008: DATE
+State Business Information Systems: ORG
+Skills
+Account Analysis & Reconciliation
+Accounts Payable Accounts Receivable: ORG
+Ledger AccountingÂ 
+
+: PERSON

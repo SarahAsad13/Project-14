@@ -1,0 +1,69 @@
+17 years: DATE
+the Federal Aviation Administration: ORG
+the year: DATE
+40- to 60: CARDINAL
+weekly: DATE
+Oct 1st to December 15th: DATE
+2003: DATE
+Neat: ORG
+the Year Award: EVENT
+the Year Award: EVENT
+Commitment to People Group Award: ORG
+Administrative Employee of: ORG
+the Year Award: EVENT
+Administrative Employee of: ORG
+the Year Award: EVENT
+Greater Boston Federal Executive: ORG
+Greater Boston Federal Executive: ORG
+January 1998 to October 2015: DATE
+the Aviation Safety: ORG
+the Facility Emergency Security Plan: ORG
+daily: DATE
+3: CARDINAL
+the year awards: DATE
+SharePoint Databases: ORG
+SharePoint: ORG
+weekly: DATE
+SharePoint: ORG
+three: CARDINAL
+five: CARDINAL
+SharePoint: ORG
+Computer Learning Center Business School Graduate Basic Accounting, Webpage Design: ORG
+Microsoft Office: ORG
+Software Installations Honors Graduate : Business: WORK_OF_ART
+1998: DATE
+Computer Learning Center Business Course - City: ORG
+State: ORG
+Basic Accounting
+
+Microsoft Office
+
+Graphic Design
+
+Database Management
+
+Personal Information
+
+: WORK_OF_ART
+16 years: DATE
+Administrative: ORG
+the Combined Federal Campaign: ORG
+14 years: DATE
+weekly: DATE
+40 to 60: CARDINAL
+the Occupational Safety and
+Health Administration: ORG
+OSHA: ORG
+Compliance Philosophy Briefing
+FY15: WORK_OF_ART
+Information Security & Privacy Awareness Training Course: ORG
+Records Management 101: ORG
+Annual: DATE
+Resolution
+Introduction to Safety
+2014 Security and Privacy Awareness Training: ORG
+Effective Team: ORG
+Office Safety
+Administrative Professionals: Putting Your Best Foot Forward
+Administrative Professionals: Interacting with Others
+Safety and Health: ORG

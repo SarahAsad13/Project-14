@@ -1,0 +1,85 @@
+13 years: DATE
+Hardware: ORG
+Certified Information Security: ORG
+Collaborative
+
+Accomplishments
+Reduced the incidence of IT: WORK_OF_ART
+95%: PERCENT
+10/2003: CARDINAL
+Hrs/Week: ORG
+Windows 2003: PERSON
+Windows 2003 Exchange: ORG
+IBM: ORG
+internal & remote: ORG
+04/2000: CARDINAL
+AT&T Frame Relay: ORG
+Processed: GPE
+AT&T: ORG
+ATM/Frame Relay Platforms: ORG
+04/2000: CARDINAL
+02/2002: CARDINAL
+Network Support Specialist Company Name: ORG
+Provided Second: NORP
+Laptop: ORG
+06/1999: CARDINAL
+10/1999: CARDINAL
+Network Support Technician Company: ORG
+State: ORG
+Windows NT: LOC
+Microsoft Office: ORG
+95-2000: DATE
+Lotus: ORG
+06/1999: CARDINAL
+State: ORG
+40: CARDINAL
+Hrs/Week Install: ORG
+Win 95/98: FAC
+Novell: ORG
+5.0 & NT 2000: DATE
+LAN: ORG
+Novell GroupWise: ORG
+Windows NT: LOC
+LAN: ORG
+Ethernet10baseT: ORG
+Provided: CARDINAL
+3: CARDINAL
+120: CARDINAL
+Microsoft: ORG
+MS Exchange: ORG
+Performed: PERSON
+six: CARDINAL
+120: CARDINAL
+February 2002: DATE
+Science Devry University: ORG
+GPA: ORG
+3.2: CARDINAL
+GPA: ORG
+3.2 / 4.0: CARDINAL
+Skills: ORG
+ATM: ORG
+ATM: ORG
+Ethernet: PERSON
+Frame Relay, Ghost: PRODUCT
+IBM: ORG
+LAN: ORG
+Lotus Suites: PERSON
+Meridian: GPE
+Microsoft: ORG
+Exchange: ORG
+MS Exchange: ORG
+Microsoft Office: ORG
+97: DATE
+Windows: GPE
+2000: DATE
+Win 95: LAW
+98: DATE
+Windows NT: LOC
+Nortel: ORG
+Novell: ORG
+5.0: CARDINAL
+PBX: ORG
+Phone System: ORG
+Troubleshoot,: ORG
+Troubleshooting: GPE
+UNIX: ORG

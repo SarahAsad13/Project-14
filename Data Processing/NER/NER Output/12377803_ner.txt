@@ -1,0 +1,89 @@
+BUSINESS DEVELOPMENT: ORG
+Identify: ORG
+Maximizing: GPE
+January 2014: DATE
+Name City: GPE
+State Business Development: ORG
+Identify: ORG
+daily: DATE
+January 2012: DATE
+January 2014: DATE
+Name City: GPE
+State Business Development: ORG
+Identify: ORG
+daily: DATE
+January 2009: DATE
+January 2012: DATE
+Name City: GPE
+State: ORG
+Chapter: ORG
+five: CARDINAL
+January 2007: DATE
+January 2009: DATE
+Name City: GPE
+State Budget/Project Accountant Coordinated: ORG
+annual: DATE
+January 2006: DATE
+January 2007: DATE
+Name City: GPE
+Accountant Performed: PERSON
+monthly: DATE
+January 2000: DATE
+January 2005: DATE
+Name City: GPE
+State: ORG
+January 2000: DATE
+January 2000: DATE
+Name City: GPE
+State Merchantainment: ORG
+Intern Assisted: ORG
+one: CARDINAL
+only 13: CARDINAL
+Colorado State: ORG
+January 1997: DATE
+January 2000: DATE
+Name City: GPE
+State Telemarketing: ORG
+Education: ORG
+Colorado State University City: ORG
+State: GPE
+US: GPE
+Organizational Leadership Human Resources: ORG
+Global: GPE
+Denver: GPE
+CO Master: ORG
+Organizational Leadership Human Resources: ORG
+Progress: GPE
+Colorado State University City: ORG
+State: GPE
+US: GPE
+University-Pueblo: ORG
+Pueblo: ORG
+Business Administration: ORG
+Degree Plus Program
+Bachelor of Business Administration: ORG
+Accounting: GPE
+National MS Society: ORG
+Colorado: GPE
+Denver: GPE
+CO
+Skills
+Clients, Satisfaction, Accounting: ORG
+Business Development, Database, Documentation: ORG
+Outbound Calls: PERSON
+Human Resources, Accounts Payable, Accounts Receivable: ORG
+Credit Card: ORG
+Finance: ORG
+Including Accounting: ORG
+Telemarketing, Budget: ORG
+Liaison: PERSON
+Maintenance, Audit, Bookkeeping: ORG
+Tax Returns: PERSON
+Customer Service: ORG
+Inventory, Inventory Control: ORG
+Loss Prevention: ORG
+Merchandising, Problem Resolution: WORK_OF_ART
+Sales Counter, Stocking,: PERSON
+Managerial, Networking, Marketing, Progress
+
+: ORG

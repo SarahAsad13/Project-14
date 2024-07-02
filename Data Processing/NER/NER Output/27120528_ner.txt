@@ -1,0 +1,94 @@
+February 2015: DATE
+Name City: GPE
+State Mortgage Banking Default Operations Specialist II: ORG
+third: ORDINAL
+Facilitate: ORG
+QC: PERSON
+Communicate: ORG
+Assess: ORG
+Coordinate: FAC
+streamline department processes &: ORG
+May 2014: DATE
+Name City: GPE
+Coordinate: ORG
+Operates: NORP
+Coordinate: FAC
+InDesign: ORG
+Adobe Creative Cloud: PERSON
+PSAV: ORG
+May 2013 to October 2013: DATE
+Name City: GPE
+Liaison: PERSON
+Borrower: PERSON
+Processed: GPE
+Prepared: PRODUCT
+July 2009 to January 2011: DATE
+Name City: GPE
+State: ORG
+eLearning: ORG
+Conduct Train-the-Trainer: PERSON
+Facilitate: ORG
+January 2011 to January 2012: DATE
+Name City: GPE
+State Mortgage Loan Processor II
+
+Act: ORG
+Processed: GPE
+FNMA: ORG
+GNMA: ORG
+FHLMC: ORG
+FHA: ORG
+VA: GPE
+Jumbo: PERSON
+203k: CARDINAL
+2nd: ORDINAL
+HELOC: ORG
+daily: DATE
+60 to 80: CARDINAL
+Develop: ORG
+daily: DATE
+January 2012: DATE
+May 2013: DATE
+Name City: GPE
+State: ORG
+Customer Service
+
+Managed: ORG
+15: CARDINAL
+Bankruptcy and Property Claims
+Coached: LAW
+Hires: ORG
+the Job Training: FAC
+Created: ORG
+Foreclosure: ORG
+October 2006 to October 2008: DATE
+Name City: GPE
+State Team: ORG
+IP: ORG
+VOIP: ORG
+January 2006 to January 2008: DATE
+Name City: GPE
+State Operations: ORG
+Troubleshooted: ORG
+Hardware: ORG
+Software: PERSON
+January 2005 to January 2006: DATE
+Name City: GPE
+University of North Texas: ORG
+City: GPE
+State: ORG
+2008: DATE
+Remington College: ORG
+Linux: PERSON
+Ms Word: PERSON
+Photoshop: PERSON
+Hardware, Computer Networking: ORG
+Customer Service: ORG
+InDesign: ORG
+IP: ORG
+Linux: PERSON
+Excel: PRODUCT
+Ms
+Word: PERSON
+Trainer: PERSON
+VOIP: ORG

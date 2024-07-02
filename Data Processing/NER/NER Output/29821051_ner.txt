@@ -1,0 +1,87 @@
+8+ years: DATE
+Solar Â: PRODUCT
+8 years: DATE
+Accountng & Finance: ORG
+Oracle: ORG
+Hyperion Financial Management: ORG
+MS Office Suite
+Budget: ORG
+FFIEC 031 &: ORG
+041: CARDINAL
+Strong: PERSON
+Excel Accounting: ORG
+Invoice: GPE
+Operations: ORG
+Consolidations
+Finance: PRODUCT
+Oracle: ORG
+Hyperion Financial Management: ORG
+MS Office Suite
+Budget: ORG
+FFIEC 031 &: ORG
+041: CARDINAL
+Strong: PERSON
+Excel Accounting: ORG
+Invoice: GPE
+Consolidations
+Finance: WORK_OF_ART
+Strong: PERSON
+Team: ORG
+Data: ORG
+Work History
+Financial Accountant: WORK_OF_ART
+AAA Northeast: ORG
+Subsidiaries (Club: ORG
+the Club to Finance: ORG
+monthly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Prepared financial Information: ORG
+Excel: PRODUCT
+Solar Energy Consultant: WORK_OF_ART
+Solar Energy Consultant: WORK_OF_ART
+Created: ORG
+Solar Systems: PRODUCT
+04/2016: ORG
+Lines of Business: ORG
+monthly: DATE
+Possess: ORG
+Treasury: ORG
+07/2012 to 07/2015: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Derivatives Middle Office Analyst: ORG
+Maintained: GPE
+100]%: CARDINAL
+Facilitated: ORG
+monthly: DATE
+month end: DATE
+SEC: ORG
+OCC: ORG
+Consolidated: ORG
+the Bank Secrecy Act: ORG
+USA Patriot Act: ORG
+Privacy Act: PRODUCT
+Community Reinvestment Act: ORG
+Maintained: GPE
+Maintained: PERSON
+Bank Secrecy Act: ORG
+USA Patriot Act: ORG
+Community Reinvestment Act: ORG
+4: CARDINAL
+SEC: ORG
+OCC: ORG
+monthly: DATE
+each month: DATE
+Bachelor of Science : Accounting: ORG
+1993: DATE
+Rhode Island College - City: ORG
+State 
+Accounting: ORG
+Budget: ORG
+Financial
+Management: ORG
+Hyperion: ORG
+Pivot Tables: PERSON

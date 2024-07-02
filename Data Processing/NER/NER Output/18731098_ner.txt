@@ -1,0 +1,108 @@
+Human Resources Process & Project
+Management Team Training & Development Staff Recruiting & Retention Organizational Optimization Benefits & Payroll Administration Policy &
+Procedure Development Administrative Management
+Skills
+Work History: ORG
+12/2006: CARDINAL
+LLC: ORG
+one: CARDINAL
+Narcotic Treatment Programs: ORG
+Opiate
+Treatment Programs: ORG
+daily: DATE
+Human Resources: ORG
+6: CARDINAL
+Employee Relations/Employee Retention: Oversight: ORG
+Management Coaching Staff: ORG
+Policy: PERSON
+recruitingÂ: PERSON
+Salary: DATE
+Benefits/: ORG
+monthly: DATE
+year-end: DATE
+Payroll: ORG
+quarterly: DATE
+HRIS: PERSON
+Coordinated: ORG
+Researched: ORG
+Initiated: ORG
+Completed: ORG
+EDD: ORG
+DOL: ORG
+LOA: ORG
+OSHA: ORG
+reportingÂ 
+Excellent: PERSON
+12/2006: CARDINAL
+America: GPE
+1912: DATE
+two: CARDINAL
+Researched: ORG
+Calendar: PRODUCT
+Maintenance: PERSON
+Human Resources Coordinator: ORG
+06/2004: CARDINAL
+Narcotic Treatment Programs: ORG
+Opiate Treatment Programs: ORG
+40 hours: TIME
+less than 3%: PERCENT
+Maintain LVN: PERSON
+Maintain I-9: PERSON
+Processed: GPE
+LOA: ORG
+Financial Operations: ORG
+02/2002 to 06/2004: CARDINAL
+State 
+
+Department of Justice: ORG
+the United States Government: GPE
+20 hours: TIME
+Filing: GPE
+Creating: PERSON
+fiscal years: DATE
+Customer: ORG
+Greeting: PERSON
+Maintain: PERSON
+Authorized: DATE
+Master of Science : Health Administration: WORK_OF_ART
+5 2011: DATE
+California State University: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.85/4.00: CARDINAL
+Health Administration GPA: ORG
+3.85/4.00: CARDINAL
+5 2008: DATE
+UCLA: ORG
+Human Resources Management: ORG
+6/2015: CARDINAL
+Affiliations: ORG
+Society of Human Resources Management: ORG
+Skills: ORG
+10: CARDINAL
+ADP: ORG
+Customer: ORG
+Data: ORG
+Database: GPE
+Employee Relations: ORG
+Filing: GPE
+HRIS: ORG
+Human Resources,: ORG
+Kronos: ORG
+Lotus Notes: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows: NORP
+Operating Systems: ORG
+Payroll: ORG
+Payroll: ORG
+Personnel: ORG
+Safety: ORG
+SAP: ORG
+Supervisory: PERSON
+Typing: PERSON
+year-end: DATE

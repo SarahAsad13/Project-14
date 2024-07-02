@@ -1,0 +1,72 @@
+MBA: WORK_OF_ART
+Broad: ORG
+Core Qualifications
+Proficient: ORG
+Windows 2000: DATE
+EMR: PERSON
+McKesson: PERSON
+TCP/IP Enterprise Networks: ORG
+Asset Management/ITIL: ORG
+Arcserve/Backup Exec/Net Backup: ORG
+Cable Installation/Management: ORG
+Server 2000/2003/2008: PERSON
+HIPAA: ORG
+Professional Experience
+Practice: ORG
+Aug 2014: DATE
+annual: DATE
+39.4%: PERCENT
+Federal: ORG
+DEA: ORG
+Develop: ORG
+Build: GPE
+Feb 2012: DATE
+Sep 2013: DATE
+ADR: ORG
+Mentored: ORG
+the Performance Improvement: ORG
+Sep 2008 to: DATE
+May 2011: DATE
+EMR: PERSON
+EMR: DATE
+2007: DATE
+Sep 2008: DATE
+Oversaw: GPE
+3rd: ORDINAL
+Jan 2004 to Feb 2007: DATE
+first: ORDINAL
+2: CARDINAL
+VoIP: LOC
+Verizon: LOC
+the Field Force: ORG
+Integrated: NORP
+Master of Business Administration: ORG
+MBA: WORK_OF_ART
+Keller Graduate School of Management ï¼​ City: ORG
+CCNA/CCAI: ORG
+HIPAA/HITECH Regulation
+Skills: ORG
+ADR: ORG
+Arcserve,: ORG
+Asset Management: ORG
+Backup Exec: PERSON
+Backup: PERSON
+Budget Management: ORG
+CCNA, Cisco Certified Network Associate: ORG
+5.1: CARDINAL
+Change Management: ORG
+Customer Relations: ORG
+Employee Relations: ORG
+Leadership Training: PERSON
+2000: DATE
+Enterprise: ORG
+Networks: ORG
+Novell NetWare 4.x: ORG
+Certified Novell Administrator: ORG
+Performance Management: ORG
+Policies: GPE
+Project Management - Leadership: ORG
+Strategic Planning: ORG
+Symantec: ORG
+TCP/IP: ORG
+VoIP: LOC

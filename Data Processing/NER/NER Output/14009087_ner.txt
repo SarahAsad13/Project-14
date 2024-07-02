@@ -1,0 +1,80 @@
+Skill Highlights
+
+Exceptional: ORG
+Promotional: ORG
+International Relations
+Project management Market: ORG
+Copywriting: WORK_OF_ART
+Customer: ORG
+Social Media: ORG
+Dreamweaver
+
+Public Relations and Event Management: ORG
+10%-20%: GPE
+over $20 million: MONEY
+Garnered: PERSON
+first: ORDINAL
+40+ year old: DATE
+more than 40: CARDINAL
+each year: DATE
+25%: PERCENT
+the first year: DATE
+Palm Beach County: GPE
+10%: PERCENT
+the Palm Beach County: FAC
+three fiscal years: DATE
+Jet Aviation: ORG
+Keys: PERSON
+less than three weeks': DATE
+more than 20: CARDINAL
+Researched: ORG
+more than 15: CARDINAL
+January 2009: DATE
+Current Independent Public Relations: ORG
+nearly 20: CARDINAL
+monthly: DATE
+5-10: CARDINAL
+each year: DATE
+up to $100,000: MONEY
+Oversaw: GPE
+two: CARDINAL
+Oversaw: GPE
+quarterly: DATE
+more than 40: CARDINAL
+each year: DATE
+Researched: ORG
+Represented the Museum: ORG
+the Palm Beach County Attractions Association: FAC
+CVB: ORG
+Tourist
+Development Council: ORG
+Florida: GPE
+VisitFlorida: ORG
+Palm Beach County Cultural Council: GPE
+Pitched: NORP
+500k: MONEY
+$2 million: MONEY
+ten years: DATE
+Palm Beach Atlantic University: ORG
+Journalism: NORP
+International Business Management Buena: ORG
+Vista Hospitality: ORG
+State: GPE
+USA: GPE
+Spanish: LANGUAGE
+Mandarin: LANGUAGE
+Affiliations: ORG
+Palm Beach County Attractions Association: GPE
+Treasurer: PERSON
+1999: DATE
+Palm Beach County: GPE
+4 years: DATE
+Palm Beach County Cultural Council: GPE
+1999: DATE
+2002: DATE
+Skills
+
+MS Office: ORG
+Dreamweaver: ORG
+Spanish: LANGUAGE
+Mandarin: LANGUAGE

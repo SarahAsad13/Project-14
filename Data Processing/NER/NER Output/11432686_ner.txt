@@ -1,0 +1,132 @@
+20 years: DATE
+CPG: ORG
+Category Management Data Analytics Document Management P&L Management Employee Communication Market Analysis: ORG
+Jan 2016: DATE
+17%: PERCENT
+annual: DATE
+4%: PERCENT
+prior year: DATE
+24%: PERCENT
+prior year: DATE
+Wal-Mart: ORG
+11%: PERCENT
+prior year: DATE
+12%: PERCENT
+fiscal 2012: DATE
+Grew Baking/Cooking: ORG
+6%: PERCENT
+Grew Facebook: PERSON
+500 to 30,000: CARDINAL
+6 month: DATE
+three: CARDINAL
+$1 million: MONEY
+12 month: DATE
+32%: PERCENT
+Wal-Mart: ORG
+Dry Roast: NORP
+16,000: MONEY
+$4.5 million: MONEY
+80: CARDINAL
+600: CARDINAL
+$33 million: MONEY
+Jan 2012 to Jan 2016: DATE
+American: NORP
+over 15: CARDINAL
+annual: DATE
+35: MONEY
+9%: PERCENT
+20%: PERCENT
+Merchandising Management - Designed: WORK_OF_ART
+Project Management - Managed: ORG
+Forecasting - Conducted: ORG
+Jan 2008 to Jan 2012: DATE
+annual: DATE
+$600 million: MONEY
+25: CARDINAL
+the Baking/Cooking Nut: ORG
+$75 million: MONEY
+the Food Service and Export: ORG
+Project Management - Managed: ORG
+Profit & Loss Statements: ORG
+Procurement, Accounting,: ORG
+Operations, Research & Development: ORG
+Customer Service: ORG
+Data Analytics - Utilized: ORG
+Mintel: ORG
+Nielsen: PERSON
+Website Management - Successfully: ORG
+Promotions - Successfully: ORG
+Package Development - Responsible: ORG
+Employee Communication - Researched: ORG
+Customer Study: ORG
+the Resource Conservation Team: ORG
+EPA: ORG
+Energy
+Star Partner of the Year: ORG
+Associate Category: PERSON
+Jan 2007 to Jan 2008: DATE
+12 million: CARDINAL
+Category Management Presentations - Presented: ORG
+Market Analysis - Conducted: ORG
+Document Management - Managed: ORG
+Cross Functional Team Leadership - Worked: ORG
+Quality, Engineering: ORG
+Sourcing, Legal: ORG
+Packaging: PERSON
+Associate Product: PERSON
+Jan 1997 to Jan 2003: DATE
+Wilton: PERSON
+one: CARDINAL
+$94 million: MONEY
+Storage and Pantry: ORG
+$4.5
+million: MONEY
+50%: PERCENT
+130%: PERCENT
+Category Management - Conducted: ORG
+Jan 1995 to Jan 1997: DATE
+State: ORG
+Turner: ORG
+$8 billion: MONEY
+annual: DATE
+first: ORDINAL
+second: ORDINAL
+Chicago: GPE
+Proposal Management - Responsible: ORG
+Municipal, Food & Beverage, Pharmaceutical: ORG
+Correctional Facility and Entertainment: ORG
+Researched: ORG
+Marketing Support - Created: PERSON
+Jan 1993 to Jan 1995: DATE
+Bretford: PERSON
+Chicago Deming Assoc.-Six Sigma Masters Program: ORG
+Naperville: GPE
+IL: ORG
+2012: DATE
+Graduate Level Courses: ORG
+Illinois Institute of Technology: ORG
+Chicago: GPE
+IL: ORG
+1997: DATE
+1992: DATE
+Northern IL University: ORG
+State Organizational/Corporate
+Communications Journalism American Management Association: ORG
+2016: DATE
+2017: DATE
+Communicating Up: PERSON
+Down: PERSON
+Across the Organization: ORG
+Critical Thinking: ORG
+Project Management Success: ORG
+The Power of Persuasion
+Skills: ORG
+SharePoint BPC: ORG
+SAP Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft Access Microsoft: ORG
+Microsoft Dynamics
+Seminars/Classes:: ORG
+Social Media Marketing Facebook for Business Project Management Profitability Simulation Nielsen Syndicated Data Analysis
+Power Presentations Technical Writing: ORG

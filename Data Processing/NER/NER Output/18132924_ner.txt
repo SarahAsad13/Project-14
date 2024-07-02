@@ -1,0 +1,93 @@
+Maintained: GPE
+Skills
+
+Analytical: ORG
+Budget: ORG
+Advanced: ORG
+Mac: PERSON
+Quick Books System: ORG
+Completed: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+more than two: CARDINAL
+Current
+Accountant Company Name: ORG
+Bookkeeper Company Name: ORG
+Excel: PRODUCT
+weekly: DATE
+Processed: GPE
+Researched: ORG
+Controller: PERSON
+Completed: ORG
+quarterly: DATE
+monthly: DATE
+Collaborated: ORG
+year-end: DATE
+08/2016: CARDINAL
+Controller Company Name: ORG
+Profit Software System: ORG
+Language Skills: PERSON
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Portuguese: NORP
+Certifications and Credentials
+
+Certified Public Accountant CPA - #: WORK_OF_ART
+138.882: MONEY
+2014-2015: DATE
+Venezuela: GPE
+Background: FAC
+2014: DATE
+Bello Catholic University: ORG
+State: ORG
+5 year: DATE
+Emphasis in Business Administration: ORG
+4: CARDINAL
+International Financial Reporting Standards: ORG
+4: CARDINAL
+International Auditing Standards: ORG
+4: CARDINAL
+International Accounting Standards: ORG
+4: CARDINAL
+4: CARDINAL
+Business & Managements: ORG
+2Â: CARDINAL
+Economics: ORG
+4: CARDINAL
+Financial Math: ORG
+4: CARDINAL
+2009: DATE
+Bello Catholic University: ORG
+State: ORG
+1 year: DATE
+2008: DATE
+La Florida: ORG
+City: GPE
+2016: DATE
+Seminar: PERSON
+QuickBooks: ORG
+Microsoft: ORG
+Excel: PRODUCT
+2014: DATE
+Prepaid Taxes: ORG
+State: ORG
+2013: DATE
+Bello Catholic University: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+MacÂ: GPE
+Chart: ORG
+1099: DATE
+General  Journal  Entries: ORG
+2k8: CARDINAL
+QuickBooks: ORG
+Forms Tax Software: WORK_OF_ART
+ComplyRight: ORG
+W-2: ORG
+1099s: DATE
+Real Estate P.M.A.S.: ORG
+AppFolio: ORG
+ADP Ezlabor: PERSON

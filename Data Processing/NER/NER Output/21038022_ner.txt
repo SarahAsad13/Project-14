@@ -1,0 +1,156 @@
+30
+years: DATE
+Lean Manufacturing and Management: ORG
+Six Sigma: PERSON
+RCM: ORG
+FMEA: ORG
+DMAIC: ORG
+PFD: ORG
+Restructuring and Reducing Manpower: ORG
+Improving Efficiency: ORG
+Software: ORG
+Microsoft Office: ORG
+2003-2011: DATE
+Microsoft Visio: ORG
+2008-2010: DATE
+Business Objects: ORG
+SAP: ORG
+Apple Lion: ORG
+Keynote: ORG
+Numbers: ORG
+Microsoft Access: ORG
+2010: DATE
+Visual Studio: ORG
+2008-: CARDINAL
+2010: DATE
+Microsoft Project: ORG
+Netbeans: NORP
+TextPad: ORG
+SQL Server: ORG
+2008: DATE
+PowerSteering: ORG
+Tango: GPE
+Computer Language Experience - HTML: ORG
+Java: PERSON
+Java Script: PERSON
+C++: GPE
+VB.NET: ORG
+BSIT: ORG
+C++: CARDINAL
+Java 1: PERSON
+Java 2: PERSON
+Algorithms: PERSON
+Software Engineering Courses: ORG
+C++ Mortgage Calculator: WORK_OF_ART
+Java: PERSON
+GUI: ORG
+Netbeans: NORP
+TextPad: ORG
+Microsoft: ORG
+PowerSteering: ORG
+PowerSteering Software Super User-PowerSteering: ORG
+CI Savings: ORG
+Operations: ORG
+Inventory: ORG
+Policy: PERSON
+Complex: NORP
+Motivational: ORG
+Analytical: PRODUCT
+Corporate Process/Systems Engineering: ORG
+July 2013 to January 2016: DATE
+Build: GPE
+Engineering Services: ORG
+Function: ORG
+six: CARDINAL
+the Corporate Engineering Services: ORG
+US: GPE
+Mexico: GPE
+Vet: GPE
+Develop: ORG
+CI: ORG
+Contribute: ORG
+Identify: ORG
+Identify: ORG
+September 2012 to July 2013: DATE
+Purchasing, Inventory Control: ORG
+Human Resource Management: ORG
+Facilities Management: ORG
+National Suppliers: ORG
+annual: DATE
+2: CARDINAL
+MRO: ORG
+HR Management: ORG
+Productivity Facilities Management: ORG
+Continuous Improvement: PERSON
+Financial Reporting and Budget Management: ORG
+Inventory: PERSON
+National Suppliers: ORG
+annual: DATE
+Operations Group: ORG
+November 1981 to October 2011 Company Name: DATE
+Non-Union: ORG
+Strong: PERSON
+Leadership: NORP
+Develop: ORG
+Coordinate: FAC
+Coach: ORG
+100,000: CARDINAL
+Draught: PERSON
+three: CARDINAL
+25%: PERCENT
+B.S :: ORG
+2005: DATE
+McFord University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+GPA: ORG
+3.6: CARDINAL
+Mechanical Engineering GPA: ORG
+3.6: CARDINAL
+2010: DATE
+McFord University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+GPA: ORG
+3.7: CARDINAL
+Electrical Engineering GPA: WORK_OF_ART
+3.7: CARDINAL
+Software Engineering: ORG
+2012: DATE
+University Of Phoenix College: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.7: CARDINAL
+3.7: CARDINAL
+the Red Cross: ORG
+Skills: ORG
+ASP.NET: ORG
+Apple, Budget Management, Business Objects: ORG
+C++: PERSON
+Coach: ORG
+Continuous Improvement: PERSON
+Facilities Management: ORG
+Financial Reporting: ORG
+GUI: ORG
+HTML, Human Resource
+Management: ORG
+Inventory: GPE
+Inventory Control: ORG
+Java: PERSON
+Java 1: PERSON
+Java 2: PERSON
+Java Script: PERSON
+Lean Manufacturing: ORG
+Microsoft Access: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+Microsoft Visio, Works: ORG
+SAP: ORG
+Six: CARDINAL
+SQL Server: PERSON
+Tango: GPE
+Visual
+Studio: ORG

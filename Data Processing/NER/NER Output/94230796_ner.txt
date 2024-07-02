@@ -1,0 +1,72 @@
+LIBRARY: PERSON
+June 2008: DATE
+Broward County: GPE
+the aviation department: ORG
+a least a year: DATE
+seven years': DATE
+English: LANGUAGE
+Client: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+Adapts: PRODUCT
+Library Aide: WORK_OF_ART
+June 2009: DATE
+Current Company Name: ORG
+700: CARDINAL
+Created: ORG
+Excel: PRODUCT
+Route: GPE
+VST: ORG
+November 2014 to November 2014: DATE
+ADA iVotronic: ORG
+DS200: PRODUCT
+Election Day: DATE
+Friday: DATE
+the Regional Site: ORG
+Election Day: DATE
+Election night: TIME
+VST: ORG
+the Regional Site: ORG
+June 2008 to: DATE
+April 2009: DATE
+Assisted: ORG
+Assisted: ORG
+annual: DATE
+Created: ORG
+Assisted: ORG
+Researched: ORG
+Culinary Arts: WORK_OF_ART
+August 2007 to June 2008: DATE
+Nutrition
+Food: ORG
+Proper Seasoning: ORG
+Women of Tomorrow: WORK_OF_ART
+October 2004 to June 2008: DATE
+State 
+
+Mentor & Scholarship: ORG
+August 2007 to May 2008: DATE
+Quick thinker: PRODUCT
+Creative
+Displayed: PERSON
+Listened: PERSON
+Tolerance: GPE
+Culinary Arts: ORG
+2008: DATE
+McFatter Technical HIGH School ï¼​ City: ORG
+State: GPE
+United States: GPE
+Culinary: ORG
+Professional Affiliations: ORG
+Spirit: ORG
+the SPIRIT Committee: ORG
+South Regional Library: LOC
+Sisters for Abundant Living: ORG
+Summer 2014: DATE
+Library: PERSON
+Summer Reading Program: ORG
+the Florida Department of Agriculture and Consumer Services': ORG
+Summer: DATE
+Excel: PRODUCT
+Skills
+Credit: ORG

@@ -1,0 +1,66 @@
+Highlights
+
+Extensive: WORK_OF_ART
+USDA Detailee: ORG
+the Federal Bureau of Investigation
+Weapons of Mass Destruction Directorate's: ORG
+Infrastructure
+Countermeasures Unit: ORG
+SME: ORG
+Agency: ORG
+230,000: MONEY
+the Food and Drug Administration: ORG
+Dec 2003: DATE
+Detailee: GPE
+the Federal Bureau of Investigation: ORG
+FBI: ORG
+Agency: ORG
+FBI: ORG
+Established: ORG
+White House: ORG
+Demonstrate: ORG
+Specialist Jan 2000: DATE
+Nov 2003: DATE
+Marianne L.
+: PERSON
+2: CARDINAL
+weekly: DATE
+Agency: ORG
+the USDA Office of Communications: ORG
+Coordinated: ORG
+Established: ORG
+Associate Jan 1995 to Dec 1999: DATE
+Regulatory Affairs: ORG
+Specialist Jan 1990: DATE
+1994: DATE
+Researched: ORG
+1987: DATE
+Mar 1989: DATE
+Established: ORG
+1987: DATE
+Universal: ORG
+Completed: ORG
+Graduate Certificate: ORG
+Washington Representatives Program: ORG
+1994: DATE
+George Washington University: ORG
+ï¼​ City: GPE
+Radio/Television/Film Production 1986 University of Maryland ï¼​ City: ORG
+the Daughters of the American Revolution: ORG
+the Colonial Dames 17th Century: ORG
+the Mount Vernon Terrace Community Association: ORG
+Resourceful: GPE
+Negotiate and Implement a Cooperative Activity Agreement: ORG
+Canada: GPE
+FDA Group Recognition Award: ORG
+Building Global
+Capacity for Food Defense through Outreach, Education: WORK_OF_ART
+Collaboration
+Exemplary Efforts: ORG
+Securing a Joint Project Arrangement: ORG
+the UK Food Standards Agency: ORG
+CIA Outstanding Contribution on Collection Issues of Critical Importance to National Security: ORG
+Developing the Framework for Intelligence Information Sharing for the FSIS Office of Food Defense
+Initiatives Fostering Collaboration with Intelligence Community: WORK_OF_ART
+CBP: ORG
+TSA: ORG

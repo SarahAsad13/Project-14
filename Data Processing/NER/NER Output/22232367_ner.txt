@@ -1,0 +1,117 @@
+Summary
+Highly: ORG
+15 years: DATE
+toÂ: CARDINAL
+U.S Navy: ORG
+Marine Corp: ORG
+Proven Problem: ORG
+Deadline: NORP
+June 2014: DATE
+Current Aviation Records: ORG
+200: CARDINAL
+Instructions for Research Airworthiness: ORG
+February 2014 to June 2014: DATE
+Functional Analyst: EVENT
+two: CARDINAL
+Linux: GPE
+over 1,000: CARDINAL
+100%: PERCENT
+24 hours: TIME
+nightly: DATE
+Navy: ORG
+ERP: PRODUCT
+November 2004 to September 2013: DATE
+State: ORG
+SME: ORG
+Advanced Skill Management: ORG
+ASM: ORG
+day: DATE
+ASM: ORG
+ASM: ORG
+4500: CARDINAL
+3000: CARDINAL
+ASM: ORG
+Coordinated: ORG
+ASM: ORG
+ASM: ORG
+19: CARDINAL
+Marine: NORP
+February 1999 to October 2004: DATE
+Proven Aviation Data Analyst: ORG
+the U.S. Navy: ORG
+Naval Air Station Jacksonville: FAC
+FL: ORG
+NTCSS Desktop II: ORG
+NTCSS: ORG
+3M: PRODUCT
+the
+Naval Aviation Maintenance Program: ORG
+SQL: ORG
+hocs: PERSON
+50%: PERCENT
+7.4 days: DATE
+3.7 days: DATE
+45%: PERCENT
+man-hour: TIME
+4,950 hours: TIME
+9,000 hours: TIME
+the Aviation Financial Analysis Tool: ORG
+over 3.7 million dollars: MONEY
+Downers Grove South High School: ORG
+State: GPE
+US: GPE
+Florida State College: ORG
+State: ORG
+Computer Science: ORG
+2011-2015Â: DATE
+GPA: ORG
+55Â Semester Hours: ORG
+Â  Computer Concepts: ORG
+Intro: ORG
+Hardware Configuration: ORG
+Micro-Computer Applications: ORG
+Database Concepts: ORG
+Intro: ORG
+Oracle
+
+SQL: ORG
+PL/SQL: ORG
+Customer Support Operations: ORG
+Project Management: ORG
+Web Technologies: ORG
+Information Systems: ORG
+One year: DATE
+Aviation Records Analyst: ORG
+Bell Helicopter: ORG
+Four months: DATE
+Nine years': DATE
+the U.S. Navy's: ORG
+Advanced Skill Management: ORG
+Five years': DATE
+the U.S. Navy: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+Power Point: ORG
+Outlook: PERSON
+MS Project: ORG
+SQL: ORG
+Florida State College: ORG
+Jacksonville: GPE
+Customer Support: PERSON
+Networking: GPE
+Project Management, Software Configuration: ORG
+Based, Technical Support: ORG
+Data Entry: ORG
+Analyst: PERSON
+Â Aircraft
+Maintenance: ORG
+Saas: PERSON
+Â Crystal Reports: PERSON
+Excel: PRODUCT
+Linux: PERSON
+Microsoft Project: ORG
+Microsoft: ORG
+Ms Project: PERSON
+Remedy: PERSON
+Â Enterprise Resource Planning: ORG

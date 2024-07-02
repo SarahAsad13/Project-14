@@ -1,0 +1,70 @@
+FINANCE: ORG
+OPERATIONS: ORG
+12 years: DATE
+C-Level Management: ORG
+Microsoft Office System: ORG
+QuickBooks: ORG
+Microsoft Windows: ORG
+Trax: PERSON
+ADP: ORG
+Accuchex: PERSON
+Sure Payroll: ORG
+Wells Fargo: ORG
+Intuit: ORG
+Intuit's: ORG
+Continuing Research Program: ORG
+QuickBooks: ORG
+Budget: ORG
+Financial Statements: ORG
+Governmental: ORG
+Ledger Accounts Â: PERSON
+Finance: ORG
+Operations: ORG
+May 2010 to December 2014: DATE
+Executive: ORG
+$1.2-1.7 million: MONEY
+monthly: DATE
+Maintained Accounts Receivable: ORG
+three years: DATE
+five: CARDINAL
+IRS: ORG
+990: CARDINAL
+QuickBooks: ORG
+Excel: PRODUCT
+Collaborated: ORG
+five: CARDINAL
+Regional Managers: ORG
+Grant Obligations: ORG
+the Chart of Accounts: ORG
+Bookkeeping Services - Various Bay Area: ORG
+monthly: DATE
+annual: DATE
+January 2003: DATE
+Current Company Name: ORG
+Quick Books System: ORG
+Buyer / Accounting: ORG
+January 1987 to January 2003: DATE
+over $12 million: MONEY
+annual: DATE
+quarterly: DATE
+Prepared: PRODUCT
+55%: PERCENT
+Maintained: GPE
+20%: PERCENT
+Excel: PRODUCT
+Coordinated: ORG
+ISO 9000 Purchasing: ORG
+Excel: PRODUCT
+Coordinated: ORG
+BS/BA : Business Administration: ORG
+1994: DATE
+University of Phoenix: ORG
+State: GPE
+Filing: GPE
+Grants: PERSON
+ISO 9000: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Windows: ORG
+Payroll: ORG
+QuickBooks, Research: ORG

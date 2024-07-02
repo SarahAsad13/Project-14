@@ -1,0 +1,33 @@
+years: DATE
+January 2015 to November 2015: DATE
+State: ORG
+March 2015 to November 2015: DATE
+January 2015 to March 2015: DATE
+Assistant Managers: ORG
+Member Service
+Representatives: ORG
+Trainers: ORG
+Custodians: NORP
+Judgement Free: WORK_OF_ART
+Created: ORG
+weekly: DATE
+monthly: DATE
+Corporate Payroll Team Ordered: ORG
+December 2013 to October 2014: DATE
+Coordinator: PERSON
+DRxD: PERSON
+medications & successful: ORG
+DRxD: PERSON
+University of Montevallo ï¼​ City: ORG
+State Kinesiology Completed: ORG
+First Aid/CPR/AED Certified: ORG
+Conflict Resolution: PERSON
+CPR: ORG
+Customer Service: ORG
+First Aid: ORG
+Leadership: PERSON
+Multi: GPE
+Payroll: ORG
+Supervision, Time Management
+
+: ORG

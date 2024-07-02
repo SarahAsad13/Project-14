@@ -1,0 +1,26 @@
+Marketing and Advertising: ORG
+Account Management
+Brand Development Sales Promotion: ORG
+05/2016: CARDINAL
+11/2016: CARDINAL
+Digital Marketing Associate Company Name: ORG
+PatientPop: ORG
+one: CARDINAL
+20: CARDINAL
+Los Angeles: GPE
+first: ORDINAL
+Create: ORG
+Google Analytics: ORG
+The Beauty Box: WORK_OF_ART
+Brazilian: NORP
+BoticÃ¡rio Group: ORG
+Sephora: ORG
+Blog: PERSON
+Instagram: PRODUCT
+Twitter: PERSON
+Transitions Lenses: ORG
+Berlitz Language School: ORG
+Contributed: ORG
+Skills
+Advertising: ORG
+Google Analytics: ORG

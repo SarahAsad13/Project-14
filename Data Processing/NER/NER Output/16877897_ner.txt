@@ -1,0 +1,138 @@
+Human Resource
+Professional: ORG
+4 years: DATE
+Recruitment, Organization Developement: ORG
+Time Management, Training & Development: ORG
+Performance Management: ORG
+TPM & Audit: ORG
+Generalist Profile: PERSON
+VARROC: GPE
+LTD: ORG
+HRM & SAP: ORG
+Fast Learner: PERSON
+Skills
+SAP R/3: ORG
+4.7: CARDINAL
+MS Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+SQL: ORG
+HTML: ORG
+CSS: ORG
+JavaScript: PRODUCT
+Organization Management: ORG
+Time
+Management: ORG
+Payroll: ORG
+Personal Administration: ORG
+Training and Development: ORG
+Appraisal: PERSON
+Generalist: PERSON
+Recruitment, Training & Development: ORG
+Audit: ORG
+the Enterprise Structure, Personnel Structure and Pay Scale Structure: ORG
+Personnel Administration: ORG
+Customized: ORG
+Groupings: PERSON
+Assigned Personnel Area to Company Code: ORG
+Recruitment & Selection Involved: ORG
+the Recruitment Process: ORG
+Induction of New joiners: ORG
+Preparation of Job Description and Roles & Responsibilities: ORG
+Training & Development Responsible for Establishment, Implementation & Maintaining: ORG
+Training & Development: ORG
+PMS & IDP: ORG
+Workmen: GPE
+Skill Matrix: PERSON
+Preparation &: ORG
+Annual: DATE
+QMS: ORG
+ISO/TS: ORG
+Designing &: ORG
+Modules: PERSON
+Organizing internal & external: ORG
+OBT: ORG
+Events & Workshop: ORG
+Creating Pre & Post-Training Assessment Tools: ORG
+Kaizen: PERSON
+Performance Management Co-ordination: ORG
+Functional Heads: ORG
+KRA: ORG
+Performance Appraisal Form: WORK_OF_ART
+yearly: DATE
+Statutory Compliance & Grievance Handling Involved: ORG
+Gratuity, Labour Welfare Fund: ORG
+Labour Management: ORG
+Standing Order &: ORG
+IR: ORG
+TPM Was: ORG
+TPM ET-Pillar Head: ORG
+TPM: ORG
+Audit Responsible: ORG
+M&M: ORG
+GM: ORG
+Bajaj: GPE
+VW: GPE
+ISO/TS: ORG
+16949:2009: DATE
+EMS-OHSAS & TPM
+Audit: ORG
+Vehicle: ORG
+Stationery & Guest Management: ORG
+Initiatives: NORP
+Connect to Home, Skip: ORG
+Knowledge Sharing: PERSON
+Established: ORG
+Library: PERSON
+07/2011: CARDINAL
+SAP: ORG
+SAP: GPE
+the Recruitment Process: ORG
+Organizational: ORG
+MIS: ORG
+Preparation of Job Description and Roles & Responsibilities: ORG
+Responsible for Establishment, Implementation & Maintaining: ORG
+Training & Development: ORG
+Connect to Home, Skip: ORG
+Knowledge
+Sharing: PERSON
+Established: ORG
+Library: PERSON
+Performance Appraisal Form: WORK_OF_ART
+yearly: DATE
+05/2008: CARDINAL
+Bachelor of Education: ORG
+2014-2015: DATE
+Magadh University - City: ORG
+2006-2008: DATE
+Xavier Institute of Social Service - City 
+
+Human Resource
+
+Bachelor of Science: ORG
+2002-2005: DATE
+Ranchi University - City: ORG
+CSS: ORG
+Functional: GPE
+ISO: ORG
+JavaScript: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook, Power Point: ORG
+2000: DATE
+Windows 95: ORG
+98: DATE
+Word: PERSON
+MIS: ORG
+Enterprise: ORG
+Operating Systems: ORG
+Organizing, Organizational, Painting, Payroll: ORG
+Performance Appraisal: PERSON
+Performance Management: ORG
+Personnel: ORG
+Safety: ORG
+SAP: ORG
+4.7: CARDINAL
+SQL: ORG
+Time Management: ORG

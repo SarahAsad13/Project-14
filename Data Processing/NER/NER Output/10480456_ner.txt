@@ -1,0 +1,430 @@
+DIRECTOR: ORG
+GLOBAL ORAL HEALTHCARE R&D: ORG
+CONSUMER: ORG
+HEALTHCARE: ORG
+Skill Highlights: PERSON
+1B+: MONEY
+FDA: ORG
+Professional, Industry and Research Associations: ORG
+EPT: ORG
+first: ORDINAL
+Listerine: ORG
+Rolaids: PRODUCT
+Benadryl: ORG
+Lubriderm: ORG
+Trident: PRODUCT
+first: ORDINAL
+GSK: ORG
+GSK: ORG
+Venture Group: ORG
+Aquafresh White Strips: PERSON
+GSK Consumer Healthcare: ORG
+1B: MONEY
+6 months: DATE
+Block Drug: ORG
+New Product Research: ORG
+Global Oral Healthcare R&D: ORG
+Consumer Healthcare: ORG
+Name City: GPE
+Reviewing: ORG
+Reviewing: PERSON
+R&D Responsibilities Include: Development: ORG
+Identification: ORG
+Consumer business Technical evaluations for World-Wide Business Development Due: ORG
+Marketing, Legal: ORG
+FDA: ORG
+CHPA: ORG
+CTFA: ORG
+ADA: ORG
+Responsibilities Include: Identification of novel technologies: ORG
+Identification: ORG
+GSK Evaluation: ORG
+Marketing, Legal: ORG
+Business Development Liaising: ORG
+FDA: ORG
+CHPA: ORG
+CTFA: ORG
+ADA: ORG
+2002 - 2006: DATE
+North America Technical: LOC
+Marketing, Legal: ORG
+Business Development Liaising: ORG
+FDA: ORG
+CHPA: ORG
+CTFA: ORG
+ADA: ORG
+Identification: ORG
+Oral Healthcare R&D: ORG
+Consumer Healthcare R&D 01/1996: ORG
+Name City: GPE
+North America Liaising: LOC
+Legal: GPE
+Business Development Liaising: ORG
+FDA: ORG
+CHPA: ORG
+CTFA: ORG
+ADA: ORG
+Scientist: ORG
+Analytical Technology Group: ORG
+Name City: GPE
+Oral Care (Listerine: ORG
+Liaison: PERSON
+Warner-Lambert Product: ORG
+Oral Care (Listerine, Cool Mint: ORG
+Ph.D.: WORK_OF_ART
+Benadryl Generation: ORG
+Team: ORG
+Mouthwash Technology
+Development Team: ORG
+12: CARDINAL
+FreshBurst Listerine: ORG
+QA: ORG
+Development of micro: ORG
+QA: ORG
+Corporate Legal: GPE
+Licensing, Parke-Davis: ORG
+QA: ORG
+Corporate
+Legal: ORG
+Analytical: GPE
+Licensing,: ORG
+Hawaii Biosensor Laboratory: ORG
+Name City: GPE
+Neuronal: ORG
+Department of Chemistry: ORG
+Responsibilities: PRODUCT
+General Chemistry: ORG
+Instrumental Analysis
+Quality Control Analyst: ORG
+Name City: GPE
+Analysis: PRODUCT
+Coaching Masterclass for Senior Leaders, Parsippany: WORK_OF_ART
+Penn State Executive Leadership Program: ORG
+State College: ORG
+GlaxoSmithKline: PERSON
+Pittsburgh: GPE
+McCrone Research
+Institute: ORG
+Chicago: GPE
+University of Massachusetts: ORG
+Amherst: GPE
+Leica-Cambridge Co.: ORG
+Dearfield: GPE
+New York: GPE
+Project Management: ORG
+Catapult Inc.: ORG
+Parsippany: GPE
+Information Systems Project Management: ORG
+Wilhelm Assoc.: PERSON
+Huntington: ORG
+Behavioral Technology Inc.: ORG
+Memphis: GPE
+TN
+Education: ORG
+Ph.D.: WORK_OF_ART
+1990: DATE
+DELAWARE City: GPE
+State: GPE
+US: GPE
+DELAWARE: GPE
+CHEMISTRY: ORG
+BIOCHEMISTRY: ORG
+NEWARK: GPE
+DE 19711 Ph.D.: ORG
+1990: DATE
+G.A. Rechnitz: PERSON
+Unidel: ORG
+Biosensors: ORG
+M.S.: ORG
+1987: DATE
+DELAWARE City: GPE
+State: GPE
+US: GPE
+DELAWARE: GPE
+CHEMISTRY: ORG
+BIOCHEMISTRY: ORG
+NEWARK: GPE
+DE 19711: ORG
+M.S.: GPE
+Analytical Chemistry: PERSON
+1987: DATE
+G.A. Rechnitz: PERSON
+Unidel: ORG
+Chemistry and Biotechnology Dissertation: Development and Study of Biosensors Utilizing Intact Chemoreceptor Structures: ORG
+B.A.: GPE
+COLLEGE City: GPE
+State: GPE
+US: GPE
+LANCASTER: ORG
+17604: DATE
+Chemistry (American Chemical Society Certified: ORG
+Certifications
+Identified: PRODUCT
+GSK: ORG
+Chemistry (American Chemical Society
+Certified: ORG
+Professional Affiliations
+Institute on Science for Global Policy: ORG
+Saliva Diagnostics: ORG
+Wong: GPE
+DT: GPE
+ed.: PERSON
+der-Smith: PERSON
+J. Dent: ORG
+Spec: PERSON
+2097: DATE
+2007: DATE
+Blackwell, Baek: ORG
+Hammer-Wilson: ORG
+Buch: PERSON
+RM: GPE
+Lee: PERSON
+Than: GPE
+Chen: PERSON
+Wil Efficacy: PERSON
+Marketed: ORG
+Proskin: PERSON
+HM: GPE
+RM: GPE
+Bosma: GPE
+ML: GPE
+Smith: GPE
+SR: ORG
+Enamel Hardness Gambogi: PERSON
+R.J.: GPE
+Bosma: GPE
+M.L.: GPE
+R.M.: PERSON
+Schemehorn: GPE
+B.R., Verification of Caries Inhibition: ORG
+Toothpaste Tanzer: PERSON
+J.M, Pelligrino: ORG
+J.: ORG
+R. M.: PERSON
+NH4Cl Chorda Tympani: PERSON
+J., Lyall, V., Heck, G., Phan, T.: ORG
+Alam: PERSON
+R.: NORP
+Feldman: PERSON
+R.M.: ORG
+Intact Chemoreceptor-Based Biosensors: Antennular Receptrodes
+Biosensor Design and Application: ORG
+P.R. Mathewson: PERSON
+J.W. Finley: PERSON
+T.Q.: GPE
+R.M.: PERSON
+Rechnitz: ORG
+G.A. Neuronal Biosensors Buch: ORG
+R.M.: PERSON
+Rechnitz: GPE
+G.A.: GPE
+Hammer-Wilson: ORG
+Buch: PERSON
+RM: GPE
+Lee: PERSON
+Than: GPE
+Chen: PERSON
+Wilder-Smith: ORG
+An Optical Approach: WORK_OF_ART
+the Salivary Pellicle: LAW
+General Session and Exhibition: EVENT
+the International Association of Dental Research: ORG
+New Orleans: GPE
+LA: GPE
+March, 2007: DATE
+Saunders: GPE
+FG: ORG
+Bosma: GPE
+ML: ORG
+RM: GPE
+Koller: ORG
+CM: ORG
+Zero: DATE
+the International Association of Dental Research: ORG
+New Orleans: GPE
+LA: GPE
+March, 2007: DATE
+Zero: CARDINAL
+Proskin: PERSON
+HM: GPE
+RM: GPE
+Bosma: GPE
+ML: ORG
+Smith: GPE
+SR: ORG
+the International Association: ORG
+Dental Research: ORG
+New Orleans: GPE
+LA: GPE
+March, 2007: DATE
+Wetterer: PERSON
+Lefever: GPE
+S.W., Buch: ORG
+R.M.: PERSON
+Stain Formation: PERSON
+American Association of Dental Research: ORG
+Canadian Association of Dental Research: ORG
+Orlando: GPE
+FL: ORG
+March, 2006: DATE
+Wetterer: GPE
+S.M.: GPE
+Buch: GPE
+R.M.: PERSON
+Schemehorn: GPE
+B.L.: GPE
+Temperature Dependence of Chemical and Mechanical Activity of
+Traditional Dentifrices": WORK_OF_ART
+International Association of Dental Research: ORG
+American Association of Dental Research: ORG
+Canadian Association of Dental
+Research: ORG
+Baltimore: GPE
+MD: GPE
+March, 2005: DATE
+Gamboji: PERSON
+R.J.: GPE
+Bosma: GPE
+M.L.: GPE
+Buch: PERSON
+R.M.: PERSON
+Schemehorn: GPE
+B.L.: GPE
+Peroxide Treatments on Enamel Hardness: WORK_OF_ART
+International Association of Dental Research: ORG
+American Association of Dental Research: ORG
+Canadian
+Association of Dental Research: ORG
+Honolulu: GPE
+March: DATE
+2004: DATE
+Tanzer: PERSON
+J.M.: PERSON
+Thompson: ORG
+Gambogi: PERSON
+R.J.: GPE
+R.M.: PERSON
+Model for the Evaluation of Anticalculus Agent: ORG
+32nd: ORDINAL
+Annual Meeting and Exhibition: EVENT
+the American Association: ORG
+Dental Research: ORG
+27th: ORDINAL
+Annual Meeting of the Canadian Association for Dental Research: EVENT
+San Antonio: GPE
+Texas: GPE
+March,: DATE
+2003: DATE
+Couzis: PERSON
+R.M.: PERSON
+Fares: GPE
+H.M.: PERSON
+the Stain Prevention Properties of Aquafresh Whitening Dentifrice: ORG
+the International
+Association for Dental Research: ORG
+San Diego: GPE
+CA: GPE
+March, 2002: DATE
+Schemehorn: GPE
+B.: GPE
+R.M.: PERSON
+Fares, H.: GPE
+Fluoride Uptake Study: ORG
+Toothpaste: WORK_OF_ART
+the International Association for Dental Research 79th: ORG
+Chiba: ORG
+Japan: GPE
+June, 2001: DATE
+Tanzer: PERSON
+J.M.: PERSON
+Pellegrino: GPE
+J., Buch: ORG
+R.M.: PERSON
+Fares: GPE
+H.M.: PERSON
+Inhibition of Caries in Rats: WORK_OF_ART
+30th: ORDINAL
+Annual Meeting of the American Association for Dental Research: EVENT
+25th: ORDINAL
+Annual Meeting of the
+Canadian Association for Dental Research: EVENT
+Chicago: GPE
+Illinois: GPE
+March, 2001: DATE
+Barker: PERSON
+T.Q.: GPE
+R.M.: PERSON
+Rechnitz: GPE
+G.A.: GPE
+Intact Chemoreceptor-
+Based Biosensors: WORK_OF_ART
+the ACS 199th National Meeting: ORG
+Boston: GPE
+MA: GPE
+April 1990: DATE
+R.M.: PERSON
+Rechnitz: GPE
+G.A.: GPE
+The Receptrode: A
+Novel Chemoreceptor-Based Biosensor Utilizing Intact Chemosensing Structures: WORK_OF_ART
+the Pittsburgh Conference: ORG
+Atlanta: GPE
+GA: GPE
+March
+1989: DATE
+R.M.: PERSON
+Listerine Prebrush Rinse: The Plax Attack: WORK_OF_ART
+the Consumer Products R&D Expo: ORG
+Morris Plains: PERSON
+NJ: ORG
+February
+1994: DATE
+Additional Information
+Buch: ORG
+Robert M.: PERSON
+Gambogi: PERSON
+Robert J: PERSON
+Veleda: PERSON
+Jose L.: PERSON
+20070178055: DATE
+A1: PERSON
+SmithKline Beecham, Corp.: ORG
+March 31, 2005: DATE
+Robert M.: PERSON
+Couzis: PERSON
+Alexander, Wetterer, Sean M., Compositions and Methods for Preventing Dental Stain: ORG
+20060223865: DATE
+A1: PRODUCT
+SmithKline Beecham, Corp.: ORG
+March 10, 2004: DATE
+Skills
+Healthcare, Marketing, Claims, Product Development, Transmissions: ORG
+Ada, Business Development,: ORG
+Comprehensive Large
+Array Data Stewardship System: PERSON
+Budgeting: GPE
+Liaison: PERSON
+Project Planning: ORG
+Qa, Metrics: ORG
+Due Diligence: PERSON
+Electron Microscopy: PERSON
+Interviewing: PERSON
+Leica: GPE
+Disability, Ltd: ORG
+Project
+Management, Quality Control, Scanning, Scanning Electron: ORG
+Biochemistry: ORG
+Chemistry: PERSON
+Maintenance: PERSON
+Data Archiving: ORG
+Adme: ORG
+Consumer Needs: ORG
+Dental: ORG
+New Product Development, Optical: ORG
+Pipeline: ORG
+Progress, Prototype: ORG
+Prototypes, Regulatory Affairs: ORG
+San: LOC
+Storage Area Network: ORG
+Translate: ORG
+Vitro: PERSON

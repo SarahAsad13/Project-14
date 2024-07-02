@@ -1,0 +1,24 @@
+SET: ORG
+Jan 2014: DATE
+T.V. Commercials: ORG
+Select Â furniture, accessories: WORK_OF_ART
+Develop: ORG
+2008: DATE
+May 2010: DATE
+Resident Advisors: ORG
+RA: ORG
+LedÂ: NORP
+RA: ORG
+Directed: ORG
+necessaryÂ 
+Worked with: FAC
+Residence Life: ORG
+weekly: DATE
+Bachelor of Arts: ORG
+May 2011: DATE
+Cazenovia College - City: ORG
+GPA: ORG
+3.5: CARDINAL
+Retail, Customer Service: ORG
+Microsoft Office: ORG
+Microsoft Excel: ORG

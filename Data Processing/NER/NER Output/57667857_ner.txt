@@ -1,0 +1,81 @@
+Detail: PERSON
+25 years: DATE
+Human Resources Association: ORG
+National Human Resources Association
+Talent: ORG
+Background: FAC
+Affirmative Action: ORG
+Mediation: ORG
+PeopleFluent/Taleo: ORG
+18%: PERCENT
+Led the Staffing Planning Committee: ORG
+years: DATE
+Branch: ORG
+500: CARDINAL
+Career: PRODUCT
+Executive Recruiting for Banking Professionals: WORK_OF_ART
+10/2014: CARDINAL
+Customer Strategies-Heart Walks Company Name: ORG
+Customer Strategies Team: ORG
+all Heart Walks: ORG
+Heart Walks: ORG
+Heart Walks for the Southwest Affiliate: ORG
+6: CARDINAL
+06/2014 to 05/2015: CARDINAL
+Human Resources-Recruiter Company Name: ORG
+100-200: CARDINAL
+Facilitated: ORG
+monthly: DATE
+Processed: GPE
+year-end: DATE
+05/2014
+Talent Attraction Company Name: ORG
+Equal Employment Opportunity: ORG
+Americans: NORP
+Disabilities Act: LAW
+ADA: ORG
+Perform: ORG
+Prepare: ORG
+Schedule: PERSON
+Schedule: PERSON
+Advise: ORG
+Coordinate: FAC
+Evaluate: GPE
+Evaluate: LOC
+Advise: PRODUCT
+Identify: ORG
+Oversee: ORG
+Prepare: ORG
+Allocate: ORG
+Develop: ORG
+05/2012: CARDINAL
+Equal Employment Opportunity: ORG
+Americans: NORP
+Disabilities Act ADA: LAW
+Perform: ORG
+Prepare: ORG
+Schedule: PERSON
+Schedule: PERSON
+Advise: ORG
+Coordinate: FAC
+Evaluate: GPE
+Interests: NORP
+Austin: PERSON
+TX: ORG
+2012: CARDINAL
+the Year: EVENT
+Austin: PERSON
+TX: ORG
+2012: DATE
+BAAS Dallas Baptist University: ORG
+ï¼​ City: GPE
+State: GPE
+United States: GPE
+Skills: ORG
+ADA: ORG
+the Year: EVENT
+Austin: PERSON
+TX: ORG
+2012: DATE
+PHR State Certified: ORG
+United States: GPE

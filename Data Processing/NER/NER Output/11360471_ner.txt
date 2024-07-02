@@ -1,0 +1,37 @@
+Highlights
+
+Certified: GPE
+Electric: ORG
+Pipe: PRODUCT
+Material and Tooling Control Lead 01/2012: ORG
+State Helped: ORG
+eight: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+daily: DATE
+Electrician Apprentice 01/2008: ORG
+Name City: GPE
+State Worked: ORG
+Martial Arts Instructor: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State Oversaw: ORG
+Name City: GPE
+State Interpreted: ORG
+Laid: PERSON
+AbilityÂ: ORG
+Microsoft: ORG
+Estitrack: PERSON
+Dynamics AX: NORP
+up to 20: CARDINAL
+Installation of underground utilities: LOC
+Pipe: FAC
+Education: ORG
+Skill Center City: PERSON
+State: ORG
+Electricians License: ORG
+Electrician Northeast Flordia Builders Association City: ORG
+State: GPE
+USA: GPE

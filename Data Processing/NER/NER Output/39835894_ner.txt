@@ -1,0 +1,124 @@
+Eleven years: DATE
+Analog: ORG
+RF: ORG
+Mixed Signal Layout Design: ORG
+180nm, 65nm, 45nm: DATE
+28: CARDINAL
+TSMC: ORG
+Samsung: ORG
+10: CARDINAL
+Intel: ORG
+Skills
+
+Aware of Analog Layout: ORG
+Isolation: ORG
+ESD: ORG
+Latchup: PERSON
+Antenna: PERSON
+EM: ORG
+DFM
+Physical: ORG
+Hercules: GPE
+ICCT: ORG
+Chip Assembly: ORG
+Aprisa: PERSON
+VSR: ORG
+Used Â Nucleus (TI internal tool for: WORK_OF_ART
+ESD: ORG
+Latchup: PERSON
+SPIRE (TI
+internal tool for EMIR analysis: ORG
+Voltrace: PERSON
+Synchronicity: ORG
+Intel USA: ORG
+Genesys: PERSON
+10: CARDINAL
+Intel: ORG
+LDO: ORG
+Pvt Ltd: ORG
+SYNTH: NORP
+14FF: CARDINAL
+Samsung: ORG
+6: CARDINAL
+WTR: ORG
+Samsung: ORG
+first: ORDINAL
+RF: ORG
+FF: ORG
+12/2012: CARDINAL
+Gantt: PERSON
+XL: ORG
+WTR-RX/TX: ORG
+SYNTH: NORP
+28: CARDINAL
+TSMC: ORG
+4: CARDINAL
+Qualcomm USA: ORG
+US: GPE
+HFVCO: ORG
+Regulator: ORG
+Gantt: PERSON
+XL: ORG
+WTR: ORG
+Daisy Chain: PERSON
+TSMC: ORG
+Daisy Chain: PERSON
+WLP CHIP: ORG
+Tape Out: LOC
+FAB: ORG
+WTR: ORG
+TSMC: ORG
+QLNA: ORG
+four: CARDINAL
+Tape Out: LOC
+FAB: ORG
+WTR: ORG
+180: CARDINAL
+TSMC: ORG
+first: ORDINAL
+180: CARDINAL
+TSMC: ORG
+one: CARDINAL
+MBIAS: ORG
+LNA: ORG
+WTR RX BBF: ORG
+28: CARDINAL
+4: CARDINAL
+Qualcomm USA: ORG
+US: GPE
+Gantt: PERSON
+XL: ORG
+BBF: ORG
+WTR FBRX: ORG
+28: CARDINAL
+TSMC: ORG
+FBRX: ORG
+WTR Low Band: ORG
+TSMC: ORG
+LNA: ORG
+860: CARDINAL
+Mhz: GPE
+Majorly: PERSON
+RF_IN: NORP
+WTR Mixer: ORG
+28: CARDINAL
+TSMC: ORG
+first: ORDINAL
+Analog Layout Engineer: ORG
+10/2011: CARDINAL
+12/2012: CARDINAL
+Technical Staff: ORG
+06/2006 to 09/2011 Company Name: ORG
+Training
+Bachelor of Engineering :: PERSON
+2006: DATE
+Visvesvaraya Technological University: ORG
+ï¼​ City: GPE
+India Electrical and Electronics: ORG
+Skills
+Cadence: ORG
+LINUX: ORG
+Windows: GPE
+Operating Systems: ORG
+Packaging: PERSON
+Sun-Solaris: ORG

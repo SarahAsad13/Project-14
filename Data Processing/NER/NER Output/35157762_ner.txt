@@ -1,0 +1,160 @@
+GRILL CHEF: ORG
+21 years: DATE
+FOH: ORG
+Cross Functional Team Leadership: ORG
+Crew Leader: PERSON
+Team Player: ORG
+Gourmet Chef
+Pastry Chef: PERSON
+Gourmet Cuisines: PERSON
+Baker
+Proficient: ORG
+Food Service: ORG
+Sous Chef: PERSON
+Pastry Chef, Line Cook: ORG
+Prep
+Executive Chef: ORG
+Sous Chef: PERSON
+Pastry Cook
+Hospitality & Culinary Management: ORG
+9 years 6 months: DATE
+7 years 9 months: DATE
+Restaurant Management/Food Service: ORG
+10 years 9 months: DATE
+Grill Cook: PERSON
+Deep Fryer: PERSON
+Beverage Designer: PERSON
+Food & Beverage Service
+Restaurant Management/Hospitality: ORG
+Microsoft: ORG
+Excel/ General Business
+MCP Microsoft Windows 2000 Certified Professional: ORG
+Hospitality: GPE
+Culinary Arts
+Team Building: ORG
+Cross Functional Team Leadership: ORG
+additionalInfo
+BeKnown
+Terms of Service: PRODUCT
+Feedback
+
+Highly: ORG
+Safe-Serv Food: ORG
+Serv-Safe Food: ORG
+Food Handlers Card
+
+Accomplishments: WORK_OF_ART
+June 2010: DATE
+Original Preparation!: ORG
+June 2007: DATE
+Gourmet
+Cuisine Chef@Your Service ServSafe Food Protection: ORG
+McFatter Technical College: ORG
+September 2006: DATE
+United Workers & Commercial Foods Gourmet Chefs Of America: ORG
+GOURMET: GPE
+Awarded: WORK_OF_ART
+2010: DATE
+August 2013: DATE
+August 2014: DATE
+Name City: GPE
+State Food Preparation Workers: ORG
+Food & Beverage Serving CONNECT Summary GOURMET @YOUR: ORG
+July 2013: DATE
+June 2014: DATE
+Name City: GPE
+State Pastry Chef
+
+Prepare All Foods For The Line Cook: ORG
+Serve Finished Meals On Front Line: ORG
+Skills: Food & Beverage Service: ORG
+Restaurant Management/Hospitality: ORG
+Prep Cook: PERSON
+March 2010: DATE
+May 2013: DATE
+Name City: GPE
+3 years 2 months: DATE
+Aventura: GPE
+Florida Prepared All Line Foods & Desserts In A Timely Fashion Per Customer Request: ORG
+Gourmet Cuisines: PERSON
+Baker: PERSON
+Hospitality & Culinary Management: ORG
+Restaurant
+Management/Food Service Master: ORG
+April 2001: DATE
+August 2010: DATE
+Company Name City: LOC
+9 years 4 months: DATE
+Hallandale Beach: GPE
+Florida: GPE
+Grill Cook: PERSON
+Deep Fryer: PERSON
+Beverage Designer: PERSON
+February 2008: DATE
+October 2009: DATE
+Name City: GPE
+1 years 8 months: DATE
+Florida: GPE
+Team Sales Flyers: ORG
+Display Menu Development/Specials: ORG
+Skills: Proficient: ORG
+Hospitality & Culinary Management: ORG
+Restaurant Management/Food Service: ORG
+September 1995: DATE
+December 2000: DATE
+Name City: GPE
+State: ORG
+2010: DATE
+Johnson & Wales University City: ORG
+State: GPE
+United States: ORG
+Culinary Arts: ORG
+Hospitality Administration and Management: ORG
+Hospitality Administration and Management: ORG
+2007: DATE
+Le Cordon Blue Culinary College City: ORG
+State: ORG
+Hospitality Administration and Management: ORG
+Culinary Arts: ORG
+Restaurant: ORG
+Food Services Management: ORG
+Restaurant: ORG
+Food Services
+
+Management: ORG
+2006: DATE
+Mcfatter Technical College City: ORG
+State: ORG
+USA Certification Commercial Foods: ORG
+Culinary Arts Management: ORG
+Gourmet Cooking & Seafood
+Preparation: ORG
+Pastry's / Wine & Spirits: ORG
+1977: DATE
+Richard J. Daley College City: PERSON
+State: ORG
+Managerial Economics: ORG
+Restaurant: ORG
+Food Services
+Management, Hospitality Administration and Management
+
+Business and Managerial Economics: ORG
+Restaurant and Food Services Management: ORG
+Culinary Arts/Hospitality: ORG
+4.0: CARDINAL
+American: NORP
+Year~2005: PRODUCT
+Bell Ringer/Salvation Army: ORG
+Fort Lauderdale: GPE
+Florida: GPE
+2006: DATE
+Guest Speaker/ American Cancer Society: ORG
+Skills
+
+Arts, Cooking, Fashion, Functional, Team Building: ORG
+MCP: ORG
+Excel: PRODUCT
+Microsoft Windows 2000: ORG
+Microsoft: ORG
+Restaurant Management: ORG
+Team Player: ORG

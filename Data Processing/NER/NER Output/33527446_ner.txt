@@ -1,0 +1,82 @@
+Several years: DATE
+Three plus years: DATE
+MS Office: ORG
+Skills
+
+Excel: ORG
+Strong: PERSON
+Accountant Company Name: ORG
+COBOL: GPE
+CL: ORG
+iSeries: PERSON
+Assist: NORP
+Accounts Receivable: ORG
+Payroll: ORG
+Schedule: PERSON
+Select Accomplishments: Automate: WORK_OF_ART
+Create: ORG
+Automate: PERSON
+Automate: GPE
+Accounts Payable File W-2s: ORG
+W-2: ORG
+SUTA: ORG
+Payroll: ORG
+401k: PRODUCT
+CL: ORG
+1985: DATE
+Developed Bank Reconciliation and Financial Statement: ORG
+the year 2000: DATE
+2: CARDINAL
+Inventory and Accounts Receivable: ORG
+Supervisor of Accounting Company Name: WORK_OF_ART
+IA: GPE
+General Accounting: ORG
+REA: ORG
+Accounts Receivable: ORG
+three: CARDINAL
+Programmer Company Name: ORG
+IBM: ORG
+System/36: PRODUCT
+Inventory: NORP
+Programmer Company Name: ORG
+5 years: DATE
+5 years: DATE
+System/36: PRODUCT
+36: CARDINAL
+5120: DATE
+System/23: ORG
+System/34: ORG
+General Accounting: ORG
+Payroll: ORG
+Order Entry: ORG
+Accountant Company Name: PERSON
+State
+
+Bank: ORG
+Minneapolis: GPE
+MN: ORG
+Wells Fargo & Co.: ORG
+month-end: DATE
+quarterly: DATE
+monthly: DATE
+Training: PERSON
+August 1980: DATE
+Bachelor of Arts : Accounting Mathematics Computer Science University of Northern Iowa -: ORG
+May 1980: DATE
+Passed Certified Public Accountant: WORK_OF_ART
+Iowa: GPE
+Skills: ORG
+General Accounting: ORG
+Accounts Payable: ORG
+Automate: GPE
+Bank Reconciliation, Banking: ORG
+Cash Management: ORG
+CL: ORG
+Hardware: GPE
+General Ledger: ORG
+IBM: ORG
+Inventory, Invoicing: ORG
+KRONOS: ORG
+Order Entry: ORG
+Payroll: ORG
+year 2000: DATE

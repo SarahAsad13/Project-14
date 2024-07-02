@@ -1,0 +1,35 @@
+RN: ORG
+Preschool: ORG
+may 2015: DATE
+15: CARDINAL
+america phoenix: FAC
+2013 160 hours: TIME
+toÂ: CARDINAL
+May 2015: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+Maintained: GPE
+daily: DATE
+Created: ORG
+January 2015: DATE
+May 2015: DATE
+Name City: GPE
+State: ORG
+November 2014: DATE
+January 2015: DATE
+Name City: GPE
+State Customer Service Inbond: ORG
+Education: ORG
+2013: DATE
+College America City: LOC
+State: ORG
+united states: GPE
+GPA: ORG
+GPA: ORG
+48: CARDINAL
+Certifications: WORK_OF_ART
+First Aid & CPR Finger: ORG
+Skills: ORG
+Microsoft: ORG
+38: CARDINAL

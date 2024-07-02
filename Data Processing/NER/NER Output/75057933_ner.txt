@@ -1,0 +1,69 @@
+FAMILY: ORG
+Domestic Violence: ORG
+Trauma counseling & community
+referrals Excellent: ORG
+Effective: NORP
+Expertise: GPE
+Knowledge: PERSON
+Mental Health & Substance Abuse: ORG
+Strong: PERSON
+Client: GPE
+Work History: WORK_OF_ART
+03/2015: WORK_OF_ART
+Family and Community Advocate Company Name: ORG
+Home Weatherization: ORG
+Head Start Facilities: PERSON
+VITA Tax: ORG
+yearly: DATE
+Utilized: ORG
+Community Outreach: PERSON
+15%: PERCENT
+01/2011: CARDINAL
+Opiate Addiction: ORG
+weekly: DATE
+Urine Surveillance: PERSON
+T-19: PRODUCT
+Collaborated: ORG
+Group: ORG
+Utilized: ORG
+monthly: DATE
+45%: PERCENT
+01/2004: CARDINAL
+Supervisor: PERSON
+50%: PERCENT
+4 year: DATE
+Virgil Joiner: PERSON
+2: CARDINAL
+01/2000: CARDINAL
+Mental Health Disorders: ORG
+weekly: DATE
+Urine Surveillance: ORG
+60%: PERCENT
+Psychotherapist Company Name: WORK_OF_ART
+Mental Health Disorders: ORG
+Directed: ORG
+weekly: DATE
+Psychiatrist: NORP
+35%: PERCENT
+Counselor, Counseling: ORG
+Mental Health: ORG
+Psychiatrist: NORP
+Supervisor: PERSON
+Tax: PERSON
+Trauma: PERSON
+Education: ORG
+1995: DATE
+Social Welfare 
+University: ORG
+African American Student Achievement
+Award *Association of Black Social Workers Book Fund Award: ORG
+1993: DATE
+Social Welfare 
+Concordia University: ORG
+State: ORG
+Student Social Work Club: ORG
+Milwaukee: GPE
+WI AODA Counselor/Social Work Intern: ORG
+Need of Greater Support: WORK_OF_ART
+VA Medical Center - City: ORG
+State: ORG

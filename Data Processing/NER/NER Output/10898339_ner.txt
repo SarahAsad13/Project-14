@@ -1,0 +1,35 @@
+seven years: DATE
+Skills
+
+Dependable: ORG
+Solid: PRODUCT
+August 2013 to December 2013: DATE
+Perform: ORG
+ALWAYS: ORG
+May 2013 to September 2013: DATE
+â€¨: CARDINAL
+Lawn Mowing- Edging, Weed: WORK_OF_ART
+â€¨and 20: CARDINAL
+36: CARDINAL
+42: DATE
+Snow Plowing-Snow: WORK_OF_ART
+Salt: ORG
+Skills Used:
+
+â€¨Learned how: WORK_OF_ART
+36,42 inch: QUANTITY
+Handyman: NORP
+January 2009 to July 2016: DATE
+Painting Repairing: WORK_OF_ART
+Snow Plowing: WORK_OF_ART
+2011: CARDINAL
+State: ORG
+Liberal Arts: ORG
+2013: DATE
+Community College: ORG
+State: ORG
+Liberal Arts: ORG
+2016: DATE
+Oakland Community College: ORG
+Skills: ORG
+Jack: PERSON

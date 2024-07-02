@@ -1,0 +1,53 @@
+California: GPE
+Vocational Nurse: PERSON
+25+ years: DATE
+Core Qualifications: ORG
+CA License #VN133323: ORG
+Skill Highlights Patient: PERSON
+BAC: ORG
+Acute: ORG
+Mobility: PERSON
+IV: GPE
+Colostomy: PERSON
+Gastroenteral: ORG
+January 2011: DATE
+Coordinated: ORG
+Nurse/Detox Specialist: ORG
+December 2012 to October 2013 Company Name ï¼​ City: DATE
+Acted: ORG
+10: CARDINAL
+Coordinated: ORG
+March 2009 to November 2010: DATE
+daily: DATE
+MD: GPE
+Nurse: PERSON
+October 2008 to January 2009: DATE
+State: ORG
+Certified Nursing Assistants: WORK_OF_ART
+Nurse: PERSON
+May 2007 to September 2007: DATE
+State: ORG
+daily: DATE
+Provided Gastrointestinal: WORK_OF_ART
+Nurse: PERSON
+March 1999: DATE
+55: CARDINAL
+Respiratory Support Unit: ORG
+Provided Gastrointestinal: WORK_OF_ART
+April 1992 to February 1999: DATE
+Nurse: PERSON
+September 1987 to: DATE
+August 1991: DATE
+Bachelor of Science : Business Administration: ORG
+1999: DATE
+California State University: ORG
+GPA: ORG
+3.66/4.0: CARDINAL
+Interests: NORP
+San Francisco Community College: ORG
+San Francisco: GPE
+CA: ORG
+San Francisco Community College: ORG
+San Francisco: GPE
+CA: ORG
+CA: ORG

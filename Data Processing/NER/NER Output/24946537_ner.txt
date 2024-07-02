@@ -1,0 +1,117 @@
+35 years: DATE
+Baton Rouge: GPE
+Skills
+
+Persuasive: ORG
+Analytical
+Excellent: PRODUCT
+Driven
+Positive: PERSON
+Excel: PRODUCT
+Strata: PERSON
+AdMall: PERSON
+Google Analytics
+
+Work History
+Multimedia Sales Consultant: ORG
+09/2018: ORG
+PPC: ORG
+Multimedia Sales Consultant: WORK_OF_ART
+08/2018: CARDINAL
+Built: ORG
+Outside Sales Executive: ORG
+10/2016: CARDINAL
+06/2017: CARDINAL
+monthly: DATE
+quarterly: DATE
+Maintained: GPE
+Advanced Advertising Account Executive: ORG
+10/2016: CARDINAL
+Prepare: ORG
+Power Point: ORG
+Excel: PRODUCT
+Gather: ORG
+30: CARDINAL
+40,000: MONEY
+monthly: DATE
+Ascension Parish Market: WORK_OF_ART
+0: MONEY
+480,000: MONEY
+Louisiana: GPE
+Viamedia: ORG
+Comcast: ORG
+Southeast Regional: LOC
+Ad Insertion: ORG
+EATEL: ORG
+12/2008: CARDINAL
+Identify: ORG
+Negotiate: ORG
+Classify: ORG
+AFAE: PERSON
+Automotive: ORG
+AdGorilla: PERSON
+Viamedia Ad Insertion: ORG
+EATEL: ORG
+Bailey: GPE
+Spillway: PERSON
+Fidelity: ORG
+04/1990: PERSON
+Marketing/Accounting Louisiana State University - City: ORG
+State: ORG
+American Red Cross: ORG
+BR Eye Bank: ORG
+BR Food Bank: ORG
+St George School & Church: ORG
+Analytical
+Excellent: PRODUCT
+Driven
+Positive: PERSON
+Excel: PRODUCT
+Strata: PERSON
+AdMall: PERSON
+Google Analytics
+
+Work History
+Multimedia Sales Consultant: ORG
+09/2018: ORG
+PPC: ORG
+Multimedia Sales Consultant: WORK_OF_ART
+08/2018: CARDINAL
+Built: ORG
+Outside Sales Executive: ORG
+10/2016: CARDINAL
+06/2017: CARDINAL
+monthly: DATE
+quarterly: DATE
+Maintained: GPE
+Advanced Advertising Account Executive: ORG
+10/2016: CARDINAL
+Prepare: ORG
+Power Point: ORG
+Excel: PRODUCT
+Gather: ORG
+30: CARDINAL
+40,000: MONEY
+monthly: DATE
+Ascension Parish Market: WORK_OF_ART
+0: MONEY
+480,000: MONEY
+Louisiana: GPE
+Viamedia: ORG
+Comcast: ORG
+Southeast Regional: LOC
+Ad Insertion: ORG
+EATEL: ORG
+12/2008: CARDINAL
+Identify: ORG
+Negotiate: ORG
+Classify: ORG
+AFAE: PERSON
+Automotive: ORG
+AdGorilla: PERSON
+Viamedia Ad Insertion: ORG
+EATEL: ORG
+Bailey: GPE
+Spillway: PERSON
+Fidelity: ORG
+04/1990: PERSON

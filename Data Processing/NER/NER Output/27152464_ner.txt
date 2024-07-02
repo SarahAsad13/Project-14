@@ -1,0 +1,143 @@
+QA ENGINEERING: ORG
+Seasoned Engineering: WORK_OF_ART
+14+ years: DATE
+Skills: ORG
+QA Engineering: ORG
+Estimate: LOC
+Execute: ORG
+Root: PRODUCT
+Demos: PERSON
+QA Engineering: ORG
+01/2016: ORG
+Time: ORG
+Training & Development: ORG
+Behavioral: ORG
+Detail: PERSON
+Flexible & Adaptable: ORG
+20: CARDINAL
+calendar year: DATE
+2: CARDINAL
+QA: ORG
+Collis: NORP
+EMV: ORG
+1 week: DATE
+EMV: ORG
+3 months: DATE
+Katalon: ORG
+less than 1: CARDINAL
+20%: PERCENT
+80%: PERCENT
+Dev Life-cycle: PERSON
+QA: ORG
+monthly: DATE
+8: CARDINAL
+4: CARDINAL
+1: CARDINAL
+1: CARDINAL
+EMV: ORG
+6 months: DATE
+EMV: ORG
+1+ year: DATE
+Automation of EMV Certification: ORG
+Established: ORG
+QA: ORG
+QA: ORG
+Merchant Implementations: ORG
+Jira: PERSON
+QA: ORG
+Project Lead: PERSON
+2009: DATE
+2012: DATE
+First Data: ORG
+2012: DATE
+2014: DATE
+3: CARDINAL
+â€œ0â€​: ORG
+10: CARDINAL
+calendar year: DATE
+MCA: ORG
+Operating Systems: ORG
+2005: DATE
+Devi Ahilya University: ORG
+2002: DATE
+Devi Ahilya University - City: ORG
+Operating Systems
+
+Certifications: ORG
+Certificate code:: WORK_OF_ART
+1221056: DATE
+May 2022: DATE
+Certified Tester Foundation Level: ORG
+17: CARDINAL
+Expiry Agile Scrum: PERSON
+2146592: DATE
+LinkedIn: GPE
+Expiry: PERSON
+XML: ORG
+JSON: PERSON
+Expiry SQL: PERSON
+LinkedIn: GPE
+Expiry: PERSON
+Performance Testing: WORK_OF_ART
+Traceability: ORG
+Katalon: ORG
+XLS: ORG
+UNIX Shell/: ORG
+Groovy: PERSON
+JSON: GPE
+XML: ORG
+ISO 8583: ORG
+EMV: ORG
+TCP: ORG
+HTTP: ORG
+POSTMAN: ORG
+Jmeter: GPE
+JCL: ORG
+CICS: GPE
+Postman: GPE
+Unix-Solaris: ORG
+Linux: GPE
+Windows: GPE
+IBM: ORG
+Virtual Systems: ORG
+VMWare: ORG
+VSphere: ORG
+Proxmox: ORG
+VeriFone: CARDINAL
+Ingenico: ORG
+PAX: ORG
+Innowi, Key Management: ORG
+KPI: ORG
+DUKPT: ORG
+Git: GPE
+Git: PERSON
+TorquiseSVN: PERSON
+SourceTree: ORG
+Oracle 11: LAW
+Oracle 12c, PostgreSQL: DATE
+4: CARDINAL
+SQL Developer: ORG
+SQL: ORG
+Toad: ORG
+Jira: PERSON
+Microsoft Office Suite: ORG
+Bugzilla: PERSON
+HP Quality: ORG
+Waterfall: ORG
+Iterative: PERSON
+Talent Management: ORG
+HireRight: ORG
+Symphony: ORG
+EMV Systems: ORG
+ICCVerify: ORG
+VTS: ORG
+Astrex: ORG
+ATS: ORG
+MAS: GPE
+MDFS: ORG
+ACI-Interchange: ORG
+ACI-PRM: ORG
+ACI-: CARDINAL
+ADM: ORG
+TSYS CertifyNow: ORG
+FirstData CertPro: PRODUCT

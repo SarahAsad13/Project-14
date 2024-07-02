@@ -1,0 +1,353 @@
+100: CARDINAL
+Data Stewardship - Appropriate: ORG
+Data Quality - Applicable: ORG
+RPA: ORG
+Phase 2: PRODUCT
+Data Integrity/Data Warehousing - Structure: ORG
+99.8%: PERCENT
+Data Governance Committee - Oversee: ORG
+Information Technology: ORG
+Supply Chain Management - Warehouse: ORG
+3PL: DATE
+Food Services: ORG
+Project Manager: PERSON
+WMS: ORG
+ERP: ORG
+QMS: ORG
+CMMS: ORG
+GDPR: ORG
+UAT: ORG
+Deployed: PRODUCT
+BI: ORG
+3PL: CARDINAL
+4: CARDINAL
+SQL: ORG
+1: CARDINAL
+EDI: ORG
+ETL: ORG
+200,000: CARDINAL
+15: CARDINAL
+1,000: CARDINAL
+100: CARDINAL
+AP: ORG
+300: CARDINAL
+2MM: MONEY
+CapEx: PERSON
+250: MONEY
+ERP: ORG
+WMS: ORG
+BDR: ORG
+50%: PERCENT
+Information Technology Governance & Steering Committee: ORG
+ITGSC: ORG
+12: CARDINAL
+ITGSC: ORG
+NatJan Solutions: ORG
+Facility Management - Retail, Medical, Grocery Sectors: ORG
+Information Technology and Analytics: ORG
+ERP: ORG
+325,000: MONEY
+its first year: DATE
+8%: PERCENT
+BI: ORG
+PowerBI/SSRS: ORG
+P/L summaries: ORG
+multi-million-dollar: MONEY
+Fortune 500: LAW
+KPI: ORG
+SQL: ORG
+Utilized: ORG
+VBA: ORG
+two: CARDINAL
+an estimated $75,000: MONEY
+Salary: DATE
+2015: DATE
+40%: PERCENT
+BI/SSRS: ORG
+COO: ORG
+CFO: ORG
+~$108,000: ORG
+South Jersey: GPE
+Camden: GPE
+Philadelphia: GPE
+HGF: ORG
+100: MONEY
+its first year: DATE
+Philadelphia: GPE
+Whole Foods: ORG
+Sales & Operations Planning: ORG
+S&OP: ORG
+SKU: ORG
+Operations - Oversaw: ORG
+daily: DATE
+Automation Systems - Implemented: ORG
+Finance - Oversaw: ORG
+P/L: ORG
+OpEx: PERSON
+CapEx: PERSON
+annual: DATE
+100: CARDINAL
+Data Stewardship - Appropriate: ORG
+Data Quality - Applicable: ORG
+RPA: ORG
+Phase 2: PRODUCT
+Data Integrity/Data Warehousing - Structure: ORG
+99.8%: PERCENT
+Data Governance Committee - Oversee: ORG
+Information Technology: ORG
+Supply Chain Management - Warehouse: ORG
+3PL: DATE
+Food Services: ORG
+Project Manager: PERSON
+WMS: ORG
+ERP: ORG
+QMS: ORG
+CMMS: ORG
+GDPR: ORG
+UAT: ORG
+Deployed: PRODUCT
+BI: ORG
+3PL: CARDINAL
+4: CARDINAL
+SQL: ORG
+1: CARDINAL
+EDI: ORG
+ETL: ORG
+200,000: CARDINAL
+15: CARDINAL
+1,000: CARDINAL
+100: CARDINAL
+AP: ORG
+300: CARDINAL
+2MM: MONEY
+CapEx: PERSON
+250: MONEY
+ERP: ORG
+WMS: ORG
+BDR: ORG
+50%: PERCENT
+Information Technology Governance & Steering Committee: ORG
+ITGSC: ORG
+12: CARDINAL
+ITGSC: ORG
+NatJan Solutions: ORG
+Facility Management - Retail, Medical, Grocery Sectors: ORG
+Information Technology and Analytics: ORG
+ERP: ORG
+325,000: MONEY
+its first year: DATE
+8%: PERCENT
+BI: ORG
+PowerBI/SSRS: ORG
+P/L summaries: ORG
+multi-million-dollar: MONEY
+Fortune 500: LAW
+KPI: ORG
+SQL: ORG
+Utilized: ORG
+VBA: ORG
+two: CARDINAL
+an estimated $75,000: MONEY
+Salary: DATE
+2015: DATE
+40%: PERCENT
+BI/SSRS: ORG
+COO: ORG
+CFO: ORG
+~$108,000: ORG
+South Jersey: GPE
+Camden: GPE
+Philadelphia: GPE
+HGF: ORG
+100: MONEY
+its first year: DATE
+Philadelphia: GPE
+Whole Foods: ORG
+Sales & Operations Planning: ORG
+S&OP: ORG
+SKU: ORG
+Operations - Oversaw: ORG
+daily: DATE
+Automation Systems - Implemented: ORG
+Finance - Oversawall: ORG
+P/L: ORG
+OpEx: PERSON
+CapEx: PERSON
+annual: DATE
+Bachelor of Science : Management of Information Systems: ORG
+2017: DATE
+Associates of Science : Accounting: ORG
+2015: DATE
+Rowan College 
+Pursuing Project Management Professional: ORG
+Rowan University: ORG
+Zeel Patel: PERSON
+Miami: GPE
+FL: ORG
+Zeel: PERSON
+Zeel: PERSON
+ERP: ORG
+WMS: ORG
+CRM: PRODUCT
+WOM: ORG
+QMS: ORG
+SCP: ORG
+Retail
+
+Microsoft Office: ORG
+Dynamics 365: ORG
+PowerApps: ORG
+Sharepoint: ORG
+Excel: PRODUCT
+Access: ORG
+Intune: PERSON
+Visio: PERSON
+EMS: ORG
+SQL: PERSON
+SSRS: ORG
+SSIS: ORG
+VBA: ORG
+CSS: ORG
+VBA: ORG
+VB.NET: ORG
+Powershell: PERSON
+Oracle
+Business Intelligence Packages:: ORG
+Qlik: PERSON
+SiSense: GPE
+Tableau: GPE
+Datorama: GPE
+Yellowfin: GPE
+Crystal: LOC
+SSRS: ORG
+Cisco Switch Management: ORG
+VMWare: ORG
+Hyper-V: ORG
+Automation Anywhere: ORG
+Android: GPE
+Windows: GPE
+VB.NET: ORG
+EDI, Procurement, Ventilation
+Accounting: ORG
+ERP: ORG
+Visio
+Active Directory: ORG
+ETL: ORG
+Progress: ORG
+VBA: ORG
+Facility Management: ORG
+Project Management: ORG
+AP: ORG
+Floor: PERSON
+Architect, Forecasting: ORG
+Red Hat Linux: PERSON
+Automate: GPE
+Retail
+Billing: ORG
+Information
+Technology: ORG
+Budgeting, Insurance, Risk: ORG
+Budgets: GPE
+Inventory: GPE
+Budget: ORG
+BI,: ORG
+Logistics: GPE
+Access: ORG
+SQL: GPE
+Cisco: GPE
+Excel: PRODUCT
+Strategy
+Hardware: PERSON
+Strategic
+Contracts: PRODUCT
+Microsoft Office Suite: ORG
+Crystal, Office: ORG
+Structured
+CSS: ORG
+Supplier: ORG
+Clientele, Windows: ORG
+Client: GPE
+Negotiating: GPE
+Supply Chain
+Management
+Clients: ORG
+Switches
+Data: ORG
+Network: ORG
+Switch
+Data: ORG
+Oracle, System: ORG
+Oracle: NORP
+Tableau: GPE
+Organizational: ORG
+Data Warehousing: ORG
+Policies: GPE
+Translating
+Documentation: ORG
+Process: PRODUCT
+Dynamics 365: ORG
+PowerApps: ORG
+SSharepoint: ORG
+Excel: PRODUCT
+Access: ORG
+Intune: PERSON
+Visio: PERSON
+EMS: ORG
+SQL: PERSON
+SSRS: ORG
+SSIS: ORG
+VBA: ORG
+CSS: ORG
+VBA: ORG
+VB.NET: ORG
+Powershell: PERSON
+Oracle
+BBusiness Intelligence Packages:: ORG
+Qlik: PERSON
+SiSense: GPE
+Tableau: GPE
+Datorama: GPE
+Yellowfin: GPE
+Crystal: LOC
+SSRS: ORG
+AWS: ORG
+Cisco Switch Management: ORG
+VMWare: ORG
+Hyper-V: ORG
+Automation Anywhere: ORG
+Aand: ORG
+Android: GPE
+Windows: GPE
+VB.NET: ORG
+Active Directory: ORG
+AP: ORG
+Automate: GPE
+BI: ORG
+Business Intelligence: ORG
+Cisco: GPE
+Crystal: LOC
+CSS: ORG
+Data Warehousing: PERSON
+EDI: ORG
+ERP: ORG
+ETL: ORG
+Facility
+Management, Finance: ORG
+HTML, Information Technology: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Office, Sharepoint,: ORG
+Windows: GPE
+Oracle: ORG
+Oracle: NORP
+Project Management: ORG
+Red Hat Linux: PERSON
+Retail: PERSON
+SOP: ORG
+SQL: ORG
+Supply Chain Management: ORG
+Switch: ORG
+Tableau: GPE
+Visio: PERSON
+VBA: ORG

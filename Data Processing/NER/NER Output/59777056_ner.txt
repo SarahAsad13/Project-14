@@ -1,0 +1,54 @@
+Highlights
+Financial: ORG
+Strength: PERSON
+Superior: ORG
+Advanced: ORG
+Oversaw: GPE
+Data Organization Â 
+
+Improved: ORG
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+CFO: ORG
+300: CARDINAL
+July 2012: DATE
+Current Finance Project Coordinator: ORG
+February 2012 to June 2012: DATE
+January 2011 to February 2012: DATE
+Technician 
+City: GPE
+March 2006 to June 2009: DATE
+Quality Control Specialist -Compliance Coordinator 
+City: ORG
+monthly: DATE
+quarterly: DATE
+FDIC: ORG
+Fair Lending Act: LAW
+Liberty University: ORG
+State: GPE
+US: GPE
+Deans: NORP
+2013: DATE
+Coursework in Human Resources: ORG
+Community and Public Health: ORG
+Non-Profit Management: ORG
+Strategic Planning & Management: ORG
+Advanced
+Computer Applications, Economics, Organizational Behavior: ORG
+Skills
+
+Proficient: ORG
+Microsoft Office: ORG
+Windows,Word,Excel: WORK_OF_ART
+PowerPoint: ORG
+Outlook: PERSON
+Drive, Office: ORG
+360: CARDINAL
+daily: DATE
+AR financial department for company: ORG
+Controller: PERSON
+monthly: DATE
+quarterly: DATE
+Strong Organizational: PERSON
+Desktop Publishing Software: ORG

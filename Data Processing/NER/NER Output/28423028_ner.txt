@@ -1,0 +1,121 @@
+Education: ORG
+Training
+Certificate of Completion: Health Information Technology - Coding Certificate Program: ORG
+Burlington County ï¼​ City: GPE
+State: ORG
+Administrative Management/Public Administration Administrative Management/Public Administration: ORG
+State Social Science/Political Science
+Skill Highlights
+
+Professional Summary
+: ORG
+10 years: DATE
+Medical Practice Management: ORG
+Behavioral Health: ORG
+Medicare Services: ORG
+Core Qualifications
+Patient: ORG
+Population Health Management
+Medicare: ORG
+Medicaid Services
+Regulatory Compliance
+Performance and Quality Improvement
+Electronic Health Records
+Reimbursement Methodologies: ORG
+CPT-4: PERSON
+Life Insurance
+Physician Quality Reporting System Microsoft Office: ORG
+Suite: PERSON
+Lawson: PERSON
+IDX: ORG
+EPIC: ORG
+NextGen: ORG
+DocuTap: ORG
+Virtual Physician: PERSON
+VPA: ORG
+Business Objects: ORG
+Navinet: GPE
+Medview: ORG
+SAM: ORG
+STATT: ORG
+Press Ganey,: PERSON
+SharePoint: ORG
+Professional Affiliations
+American Health Information Management Association: ORG
+AHIMA: ORG
+2014: DATE
+American Society for Quality: ORG
+2013: DATE
+American
+College of Health Care Executives: ORG
+ACHE: ORG
+2006: DATE
+2: CARDINAL
+January 2016: DATE
+Current Company Name: ORG
+PCMH: ORG
+Complete: PERSON
+Investigate: ORG
+Train: GPE
+PAQ: ORG
+Healthcare Operations Professional: ORG
+September 2012 to January 2016: DATE
+day: DATE
+Assess: ORG
+Foster: PERSON
+Improve: WORK_OF_ART
+Educate: ORG
+Medicare: ORG
+January 2008 to July 2012: DATE
+day: DATE
+3: CARDINAL
+40: CARDINAL
+50,000: CARDINAL
+annual: DATE
+15%: PERCENT
+Facilitated: ORG
+monthly: DATE
+monthly: DATE
+8.5%: PERCENT
+3 consecutive years: DATE
+Monitored: ORG
+CME: ORG
+OSHA: ORG
+HIPAA: ORG
+PHI: ORG
+CMS: ORG
+IDX: ORG
+EPIC Ambulatory Practice Management: ORG
+Electronic Medical Records: ORG
+EMR: PERSON
+Maintained: GPE
+2%: PERCENT
+97%: PERCENT
+Monitored: ORG
+October 2005 to July 2007: DATE
+Nephrology, Pulmonology: ORG
+6: CARDINAL
+Maintained: GPE
+The Joint Commission: ORG
+the Department of Health: ORG
+the Call Center: ORG
+APM: ORG
+Streamline: GPE
+Behavioral Health: ORG
+Business Objects: ORG
+Call Center: ORG
+CMS: ORG
+CPT: ORG
+Department of Health: ORG
+Electronic
+Health Records, Electronic Medical Records: ORG
+Health
+Information Technology, Hyperion: ORG
+Lawson: PERSON
+Microsoft Office Suite: ORG
+97: DATE
+SharePoint: ORG
+Patient Safety: ORG
+Press: ORG
+Coding: ORG
+Strategic: PERSON

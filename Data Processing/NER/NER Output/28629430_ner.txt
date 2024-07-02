@@ -1,0 +1,99 @@
+Career Focus: PERSON
+Graphic Artist: PERSON
+Studio Artist: PERSON
+Data Analyst: ORG
+Fine: PERSON
+Illustration: ORG
+Adobe CS: PERSON
+InDesign, Illustrator & Photoshop: ORG
+Dreamweaver
+Microsoft Office: ORG
+Excel: PRODUCT
+Word, Access & PowerPoint: ORG
+MySQL, Citrix,: ORG
+Retrieve: GPE
+Dynamic HTML
+Photography: PERSON
+drawing & mural: ORG
+JavaScript: PRODUCT
+Eclipse: PRODUCT
+January 2002 to January 2015: DATE
+Marketing Department: ORG
+Data Analyst: ORG
+the past 7 years: DATE
+Retrieve: GPE
+IRI: ORG
+60%: PERCENT
+Elizabeth Arden: PERSON
+Reckitt Benckiser: PERSON
+PepsiCo: ORG
+Kraft: ORG
+Maple Flooring: PERSON
+Acosta: PERSON
+Green Mountain Coffee: ORG
+Johnson Helped: PERSON
+NetBench: ORG
+Ironbridge: ORG
+this past year: DATE
+the past 5 years: DATE
+weekly: DATE
+Print: ORG
+CGM - Consumer Goods Magazine: ORG
+April 1999: DATE
+February 2016: DATE
+Lymphoma Society: ORG
+Susan G Komen Foundation: PERSON
+CAR: ORG
+Slant: ORG
+Douglas Frohman: PERSON
+Cornelia Arts Building: PERSON
+Cancer Research and Charity: ORG
+Chicago: GPE
+Delaware Street Capital: FAC
+Southern Wine: LOC
+August 2000 to October 2002: DATE
+Elkay Manufacturing: PERSON
+Spitfire Spark Plugs: PERSON
+NAF Graphic Arts Firm: ORG
+Branded: ORG
+News Letter: ORG
+Master Arts, Inc.: ORG
+Master Arts: ORG
+December 1994 to July 1998: DATE
+Medical Billing for Radiology Department: ORG
+Blended: ORG
+30%: PERCENT
+the first year: DATE
+22%: PERCENT
+the following
+years: DATE
+Drake University: ORG
+June 2000: DATE
+second: ORDINAL
+the past 6 years: DATE
+Graphic Design: ORG
+the years: DATE
+Skills
+
+Painting: ORG
+Adobe CS: PERSON
+Dreamweaver: ORG
+Photoshop: PERSON
+Arts: ORG
+Cancer: PERSON
+Citrix: PRODUCT
+SC: ORG
+Data Analyst: ORG
+Dynamic HTML: PERSON
+Eclipse: PRODUCT
+Graphic Arts: PERSON
+Illustration, Illustrator: ORG
+InDesign: ORG
+JavaScript: ORG
+Maple: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Team Player: ORG

@@ -1,0 +1,93 @@
+BUSINESS DEVELOPMENT: ORG
+Sales & Account Professional
+
+Highly: ORG
+Signature Strengths
+
+Business to Business
+Business to Customer
+Contract Negotiation
+Calm Under Pressure
+
+Account Management
+Total Quality Management
+P&L Management
+Business Development
+
+Career Accomplishments
+Business Development: WORK_OF_ART
+Dallas: GPE
+1 year: DATE
+3 year: DATE
+5 year: DATE
+W2: CARDINAL
+60%: PERCENT
+2007: DATE
+Developed department's: ORG
+first: ORDINAL
+23%: PERCENT
+annually: DATE
+25: CARDINAL
+$400 thousand: MONEY
+Grew: PERSON
+2: CARDINAL
+50: CARDINAL
+5 years: DATE
+06/2013: CARDINAL
+Name City: GPE
+Loan: ORG
+20-100%: PERCENT
+20: CARDINAL
+10: CARDINAL
+75: CARDINAL
+Successfully: ORG
+400: CARDINAL
+$200 thousand: MONEY
+$12 Million dollars: MONEY
+21: CARDINAL
+first month: DATE
+Name City: GPE
+third: ORDINAL
+annual: DATE
+20%: PERCENT
+Established: CARDINAL
+more than 30: CARDINAL
+1M.: MONEY
+Route Sales Associate 08/2003: WORK_OF_ART
+Name City: GPE
+Fortune 500: PRODUCT
+Wal-Mart: ORG
+Sam's Club: ORG
+Kroger: ORG
+quarterly: DATE
+$1.5 million: MONEY
+Ranked: PRODUCT
+15%: PERCENT
+80: CARDINAL
+North Dallas: GPE
+Frito Lay Board: ORG
+Highest Producing: ORG
+North Dallas Market: LOC
+2005: DATE
+Skill Trainer: PERSON
+Name City: GPE
+Host: PERSON
+Prep Cook: PERSON
+Order Cook: PERSON
+Cook: PERSON
+8: CARDINAL
+daily: DATE
+Name City: GPE
+Producer: PERSON
+Jazz: NORP
+Hop: PERSON
+R&B: ORG
+Blues and Gospel: ORG
+University Rallies: ORG
+Name City: GPE
+one year: DATE
+20%: PERCENT
+Bachelor of Science : Business Management Grambling State University City: ORG
+United States Racquetball Association
+
+Skills & Qualifications: ORG

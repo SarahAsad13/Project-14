@@ -1,0 +1,71 @@
+Highlights
+
+Information System Audit: ORG
+Sarbanes-Oxley: PERSON
+The Institute of Internal Auditors: ORG
+Internal Audit: ORG
+Software: ORG
+annual: DATE
+Consumer Services: ORG
+Healthcare: ORG
+Automotive: ORG
+50%: PERCENT
+NA: ORG
+Internal Audit 08/2011 to 08/2012 Company Name City: ORG
+North America: LOC
+$55 million: MONEY
+$2 million: MONEY
+Internal Control 10/2006 to 05/2011 Company Name City: ORG
+45: CARDINAL
+six: CARDINAL
+Prepared: PERSON
+the Audit Committee: ORG
+at least quarterly: DATE
+35%: PERCENT
+25%: PERCENT
+ITGC: ORG
+100,000: MONEY
+annually: DATE
+Oracle's Internal Controls: ORG
+ICM: ORG
+User Acceptance Testing: ORG
+26: CARDINAL
+325: CARDINAL
+annual: DATE
+Enterprise Risk Management: ORG
+Hong Kong: GPE
+Name City: GPE
+Living and Properties: ORG
+9%: PERCENT
+10%: PERCENT
+Internal Audit 08/2002: ORG
+03/2003: CARDINAL
+Name City: GPE
+60%: PERCENT
+Internal Auditor 05/1999: ORG
+12/2001: CARDINAL
+Name City: GPE
+more than $1 million: MONEY
+Accounts Payable, Accounts Receivable: ORG
+Analyst/Develop Team: ORG
+Name City: GPE
+Atlantic Richfield Company: ORG
+Analyst/Development Team: ORG
+Name City: GPE
+$1.8 million: MONEY
+Name City: GPE
+the South Bay Region: LOC
+12%: PERCENT
+$1 million: MONEY
+the first year: DATE
+Business Administration 2000: ORG
+State: ORG
+CISA: ORG
+Certified Public Accountant: ORG
+ICM: ORG
+Information Systems: ORG
+Information Technology: ORG
+Enterprise: ORG
+Oracle: ORG
+Risk Management: ORG
+Sarbanes-Oxley: ORG

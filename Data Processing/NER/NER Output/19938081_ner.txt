@@ -1,0 +1,66 @@
+Work History
+Customer Care Representative: WORK_OF_ART
+06/2013: CARDINAL
+Invoice: GPE
+Defused: PERSON
+Gathered: PERSON
+Met: ORG
+Maintained: PERSON
+Ran: PERSON
+Communicated: ORG
+Maintained: GPE
+Promoted: PERSON
+Recruited: PRODUCT
+12: CARDINAL
+Coordinated: ORG
+daily: DATE
+daily: DATE
+Performed: ORG
+daily: DATE
+four consecutive quarters: DATE
+Explained: PRODUCT
+Performed: ORG
+weekly: DATE
+Maintained: GPE
+over 8,000: CARDINAL
+Maintained: GPE
+Customer Service Team Lead: ORG
+daily: DATE
+18: CARDINAL
+Developed: ORG
+Generated: ORG
+each week: DATE
+hours: TIME
+Formulated: ORG
+Facilitated: ORG
+Defused: PERSON
+Prepared: PERSON
+Initiated: ORG
+Provided: ORG
+Oversaw: GPE
+Conducted: ORG
+all Customer Service
+Representatives: ORG
+daily: DATE
+the Call Center Answered: ORG
+Described: PERSON
+Earned: ORG
+Communicated: ORG
+Successfully: ORG
+Recommended: ORG
+daily: DATE
+Conducted: ORG
+weekly: DATE
+daily: DATE
+Monitored: ORG
+Associate of Applied Business Administration : Human Resources, Management Studies: ORG
+Payroll Records: ORG
+Business Law: ORG
+6: CARDINAL
+2007: DATE
+Trumbull Business College - City: ORG
+State 
+Human Resources, Management Studies: ORG
+Payroll Records: ORG
+Call Center: ORG
+Customer Service: ORG

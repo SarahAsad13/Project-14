@@ -1,0 +1,31 @@
+The past six years: DATE
+one: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Reliable: WORK_OF_ART
+Restaurant: ORG
+Math: PERSON
+Name City: GPE
+Communicated: ORG
+Cut: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+01/2011: CARDINAL
+Rock Creek Sports Club: ORG
+January 2012: DATE
+Floor Management Assisted Managers Clean: ORG
+Maintain: PERSON
+Graduate 2012 Watkins Mills High School: ORG
+Towson University: ORG
+2014: DATE
+Interests: NORP
+2009 - 2011: DATE
+Community: ORG
+2009 - 2011: DATE
+Community: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG

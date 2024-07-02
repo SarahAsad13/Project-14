@@ -1,0 +1,79 @@
+San Antonio: GPE
+Microsoft Office: ORG
+Google Tools/Apps: ORG
+10: CARDINAL
+HTML5: PERSON
+CSS: ORG
+Basic PHP: ORG
+Adobe Creative Cloud: PERSON
+Techsmith Relay: PERSON
+Camtasia: GPE
+2.0: CARDINAL
+Strong Analytical: ORG
+Multi-: ORG
+Media Services Coordinator: ORG
+Name City: GPE
+AP: ORG
+AR: GPE
+GL: ORG
+month-end: DATE
+one: CARDINAL
+AV: ORG
+AV: ORG
+Audio Visual: ORG
+Classroom Technology Design/Project: ORG
+the Lynda.com Campus Administrator: ORG
+monthly: DATE
+CITO: ORG
+AV: ORG
+TU: ORG
+evening: TIME
+CLT: ORG
+AV: ORG
+AV: ORG
+Name City: GPE
+month end: DATE
+Group Billing: ORG
+300: CARDINAL
+Credit: ORG
+monthly: DATE
+monthly: DATE
+Controller: PERSON
+Assistant Controller: PERSON
+Developer 01/1998: ORG
+Name City: GPE
+State Office: ORG
+AP: ORG
+AR: GPE
+GL: ORG
+month-end: DATE
+First: ORDINAL
+Associate of Applied Science : Digital Media Northwest Vista College: WORK_OF_ART
+2012: DATE
+Northwest Vista College: ORG
+Associate of Applied Science: PERSON
+Digital Media
+Presentations: ORG
+Social Security: ORG
+Skills
+
+Accounting: ORG
+Reconciliations, Closing Procedures: ORG
+AP: ORG
+AR, Bank Reconciliations: ORG
+GL, Payroll: ORG
+Public Relations: ORG
+Property
+Management, Scheduling, Travel Arrangements: ORG
+Change Orders: PERSON
+Interviewing: PERSON
+Helpdesk: PERSON
+Inventory: PERSON
+Process Payroll: ORG
+Purchaser, Technical Support: ORG
+Highly Organized: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+Quick Books Pro: ORG
+Receptionist: NORP
+Team Player: ORG

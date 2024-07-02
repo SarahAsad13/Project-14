@@ -1,0 +1,82 @@
+Aerospace & Defense: ORG
+Computing: PERSON
+Industrial and Telecom markets: ORG
+Highlights
+New Business Development Pricing Proposal Development P & L Management Customer Relationship Management Strategic Planning
+Exceptional Customer: ORG
+Key Account Management Contract Negotiations Management NPI/JDM/ODM Financials Budgeting &
+Forecasting: ORG
+Business Development: PERSON
+December 2007 to August 2014: DATE
+JDM: ORG
+100: MONEY
+Defense: ORG
+$120M: MONEY
+480: MONEY
+4%: PERCENT
+the year: DATE
+Strategic Partnership: ORG
+2 consecutive
+years: DATE
+December 2001 to December 2007: DATE
+State Developed: ORG
+the System Development Group: ORG
+5: CARDINAL
+$10M to: MONEY
+350: MONEY
+annually: DATE
+5%: PERCENT
+July 1991 to November 2001: DATE
+20%: PERCENT
+year: DATE
+the Interconnect and Systems Solution: ORG
+8%: PERCENT
+North America: LOC
+annual: DATE
+10X: DATE
+PCB Fab: ORG
+May 1981: DATE
+May 1991: DATE
+State: ORG
+PCB: ORG
+PCB: ORG
+Education: ORG
+State: GPE
+US California University - California: ORG
+Science Industrial Education
+Certifications: WORK_OF_ART
+Transformation - Certificate of Achievement CRM Training and Certification: ORG
+Professional Affiliations: ORG
+the System Development Group: ORG
+5: CARDINAL
+$10M to: MONEY
+350: MONEY
+annually: DATE
+5%: PERCENT
+Skills
+Sales: ORG
+Pcb, Increase: ORG
+New Accounts, Budget: ORG
+Budgets, Circuit Board: ORG
+Printed Circuit: ORG
+Printed Circuit
+Board: ORG
+Process Control, Procurement: ORG
+Statistical Process Control: ORG
+Marketing, Business Development: ORG
+Customer Service: ORG
+Integration, Integrator, Market Share, Marketing: ORG
+Metrics: PERSON
+Receptionist: NORP
+Solutions: PRODUCT
+Award, Company Sales: ORG
+Regional Sales: ORG
+Award, Sales Representatives, System Development: ORG
+Customer Relationship
+Management, Finance: ORG
+Inspection, Ipc, Key Account: ORG
+New Business Development: ORG
+Proposal Development, Relationship Management: ORG
+Salesforce.com: ORG
+San, Selling: GPE
+Storage Area Network: ORG

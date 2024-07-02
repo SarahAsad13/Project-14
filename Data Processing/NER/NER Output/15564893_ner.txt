@@ -1,0 +1,133 @@
+three years: DATE
+Detail: PERSON
+eight: CARDINAL
+two: CARDINAL
+July 2008 to January 2010: DATE
+Company Name City: LOC
+State Construction: ORG
+May 2007 to September 2007: DATE
+Name City: GPE
+State: ORG
+crown: ORG
+September 2010: DATE
+English: LANGUAGE
+Leeds University: ORG
+UK: GPE
+December 2009-January 2010: DATE
+Al-Azhar University: ORG
+May 2011: DATE
+Azhar University 
+Religions: ORG
+Al 
+B.A Religions: PERSON
+Al Dawah: PERSON
+second: ORDINAL
+December 2013: DATE
+American University: ORG
+English: LANGUAGE
+Western Michigan University: ORG
+USA: GPE
+August 2013: DATE
+English: LANGUAGE
+Colorado State University: ORG
+2013: DATE
+American: NORP
+American: NORP
+Cairo: GPE
+February 2013: DATE
+AMIDEAST: PERSON
+Cairo: GPE
+June
+2012: DATE
+English: NORP
+Islamic: NORP
+December 2012: DATE
+English: LANGUAGE
+AMIDEAST: PERSON
+Cairo: GPE
+October 2009-June 2011: DATE
+English Course: PERSON
+Al-Azhar: PERSON
+September 2011: DATE
+Al-Azhar: PERSON
+August 2011: DATE
+Al-Azhar: PERSON
+English: LANGUAGE
+Spanish: LANGUAGE
+Interests: NORP
+2014: DATE
+Midwest Popular Culture Association Conference: ORG
+Arab American Culture: EVENT
+Muslim: NORP
+the Midwestern United States: GPE
+2015: DATE
+Global Halal: LOC
+Muslim: NORP
+the Permissibility of Maulid: WORK_OF_ART
+Muslim: NORP
+American: NORP
+Chicago: GPE
+Muslims: NORP
+Midwestern America: LOC
+Western Michigan University: ORG
+Friday: DATE
+Khutbah: PERSON
+Arabic: LANGUAGE
+English: LANGUAGE
+Islamic: NORP
+Kalamazoo: GPE
+Madina Islamic: ORG
+Benton Harbor: GPE
+Arabic: NORP
+Quranic: NORP
+Adult: PERSON
+Michigan: GPE
+USA: GPE
+Al Azhar English Training Centre: FAC
+Islam: NORP
+Chosen: PERSON
+Al Azhar English Training Centre: FAC
+British: NORP
+English: LANGUAGE
+Al Azhar English: FAC
+2014: CARDINAL
+Midwest Popular Culture Association Conference: ORG
+Arab American Culture: EVENT
+Muslim: NORP
+the Midwestern United States: GPE
+2015: DATE
+Global Halal: LOC
+Muslim: NORP
+Muslim: NORP
+American: NORP
+Chicago: GPE
+Muslims: NORP
+Midwestern America: LOC
+Western Michigan University: ORG
+Friday: DATE
+Khutbah: PERSON
+Arabic: LANGUAGE
+English: LANGUAGE
+Islamic: NORP
+Kalamazoo: GPE
+Madina Islamic: ORG
+Benton Harbor: GPE
+Arabic: NORP
+Quranic: NORP
+Adult: PERSON
+Michigan: GPE
+USA: GPE
+Al Azhar English Training Centre: FAC
+Islam: ORG
+Chosen: PERSON
+Al Azhar English Training Centre: FAC
+British: NORP
+English: LANGUAGE
+Al Azhar English Training Centre
+
+Skills
+Academic: FAC
+Arabic: NORP
+English: LANGUAGE
+Presentation Skills: PERSON
+Spanish: NORP

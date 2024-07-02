@@ -1,0 +1,47 @@
+Photoshop: PERSON
+Acrobat Professional
+Strongly: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Adobe Dreamweaver: PERSON
+WordPress
+Able: PRODUCT
+Listens: ORG
+Proof: NORP
+PDF: ORG
+Operates: NORP
+Ensures: ORG
+04/2000: CARDINAL
+State
+
+Created: ORG
+Desktop Publisher Company Name: ORG
+Mac: PERSON
+UNIX: ORG
+Mac: PERSON
+06/1997: DATE
+03/2000: CARDINAL
+Macintosh: ORG
+Alltel Publishing: ORG
+Cleveland School District: ORG
+HKM Marketing Communications: ORG
+Nationwide Advertising: ORG
+Training: PERSON
+May 1997: DATE
+Bachelor of Fine Arts Alfred University: ORG
+ï¼​ City: GPE
+Skills: ORG
+Acrobat: PERSON
+Adobe Dreamweaver: PERSON
+HTML, Illustrator: ORG
+Adobe InDesign: PERSON
+Mac: PERSON
+Macintosh: ORG
+Marketing
+Communications: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft Word: PERSON
+PDF: ORG
+UNIX: ORG

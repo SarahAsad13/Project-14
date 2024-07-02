@@ -1,0 +1,120 @@
+6+ years: DATE
+60+ weekly: DATE
+MS Excel - vLook: ORG
+Pivot: PERSON
+MS
+Office: ORG
+Taleo: PERSON
+SharePoint: ORG
+PeopleSoft: ORG
+Adobe Professional: ORG
+Initiated: ORG
+45: CARDINAL
+200: CARDINAL
+Processed: GPE
+Scanned: PRODUCT
+Assisted: ORG
+New Hire: GPE
+Adobe Acrobat: PERSON
+MS Excel: ORG
+Adobe: PERSON
+Acrobat: PERSON
+Photoshop: PERSON
+InDesign: ORG
+PeopleSoft: ORG
+SharePoint: ORG
+Concur: ORG
+MS Excel: ORG
+February 2015: DATE
+Generalist: PERSON
+SAP: ORG
+Onboard: PERSON
+ADP: ORG
+SAP: ORG
+monthly: DATE
+Excel: PRODUCT
+November 2014 to January 2015: DATE
+State: ORG
+Sr: NORP
+Coordinator: PERSON
+Processed: GPE
+ADP Enterprise: ORG
+Recruiting Coordinator: PERSON
+June 2014 to November 2014: DATE
+State: ORG
+3: CARDINAL
+Taleo: PRODUCT
+CV: PERSON
+Maintained: GPE
+MS Excel: ORG
+Scanned: PRODUCT
+Applicant: PERSON
+February 2014: DATE
+May 2014: DATE
+State: ORG
+Department: ORG
+Dean of Liberal Arts & Sciences: ORG
+Created: ORG
+Maintained: GPE
+MS Excel: ORG
+MS Excel: ORG
+Maintained: GPE
+Assisted: ORG
+Faculty: GPE
+April 2013 to December 2013: DATE
+Wellness: ORG
+SharePoint: ORG
+weekly: DATE
+Coordinated: ORG
+Learning Management Systems: ORG
+eCourses: ORG
+Uploaded eCourses: ORG
+Learning Management System: ORG
+the Learning Management
+System: ORG
+Recruiting Coordinator - Human Resources: ORG
+September 2007 to April 2013: DATE
+ADP: ORG
+45: CARDINAL
+monthly: DATE
+MS Excel: ORG
+VLookup & Pivot: ORG
+ADP: ORG
+Labcorp: ORG
+eScreen: ORG
+monthly: DATE
+January 2006 to January 2007: DATE
+2010: DATE
+American InterContinental University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+American InterContinental
+University Schaumburg: ORG
+IL Bachelor of Fine Arts: ORG
+2010: DATE
+Skills
+Excel: ORG
+Human Resources: ORG
+Training: PERSON
+Adp Software: PERSON
+Hr: PERSON
+Integration, Integrator, Intranet, Intranet Content, Learning Management: ORG
+Learning Management System: ORG
+Learning Management Systems: ORG
+Microsoft Sharepoint: ORG
+Usability: ORG
+New
+Hires: ORG
+Acrobat: PERSON
+Adobe Acrobat: PERSON
+Illustration, Illustrator,: ORG
+Indesign, Ms Office: ORG
+Ms Outlook: PERSON
+Ms Publisher: PERSON
+Outlook: PERSON
+Peoplesoft: ORG
+Photoshop: PERSON
+Applicant Tracking System: ORG
+Database: GPE
+Cobra, Payments, Sap, Award, Budget, Correspondence: WORK_OF_ART

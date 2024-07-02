@@ -1,0 +1,61 @@
+6: CARDINAL
+Classroom: ORG
+Clear: GPE
+6th: ORDINAL
+Language Arts: LOC
+20%: PERCENT
+95%: PERCENT
+6th: ORDINAL
+4th: ORDINAL
+5th: ORDINAL
+the school year: DATE
+Voyager Reading: PRODUCT
+8th: ORDINAL
+95%: PERCENT
+the Standard of Learning: ORG
+first: ORDINAL
+four years: DATE
+Goal Setting
+
+Established: WORK_OF_ART
+Name City: GPE
+State: ORG
+Performed: ORG
+Language Arts: LOC
+Established: ORG
+35: CARDINAL
+Name City: GPE
+State Administrative: ORG
+11/2004: CARDINAL
+four: CARDINAL
+Microsoft Word Programs: ORG
+Name City: GPE
+State Administrative: ORG
+Microsoft Office: ORG
+Name City: GPE
+State: ORG
+five: CARDINAL
+Created: ORG
+Collaborated: ORG
+Seattle: GPE
+Paris: GPE
+2014: DATE
+City: GPE
+4.0: CARDINAL
+GPA
+
+Professional Development : Education: ORG
+2009: DATE
+18: CARDINAL
+City: GPE
+State: ORG
+27: CARDINAL
+Associate of Applied Science : Print Media Journalism 1996 Kingsborough Community College: WORK_OF_ART
+City: GPE
+Skills
+
+Research journal: ORG
+APA: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Microsoft: ORG

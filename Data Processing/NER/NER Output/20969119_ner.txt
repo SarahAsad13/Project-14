@@ -1,0 +1,136 @@
+10+ years: DATE
+Financial Management *: ORG
+September 2013: DATE
+the School of Information: ORG
+15%: PERCENT
+five-year: DATE
+annual: DATE
+Oversaw: GPE
+American Library Association Accreditation Task Force: ORG
+November 2012 to September 2013: DATE
+Voice of the Customer: ORG
+the
+department's: ORG
+April 2012 to November 2012: DATE
+Michigan: GPE
+Good Government Center of Excellence: ORG
+more than 100: CARDINAL
+54: CARDINAL
+Lean Green Belt Certificates: ORG
+September 2009 to November 2012: DATE
+Business Resource & Technology: ORG
+Facilitated: ORG
+Initiated: ORG
+105,000: MONEY
+annual: DATE
+August 2004 to September 2009: DATE
+the Upper Peninsula State Fair: LOC
+MDARD: ORG
+Escanaba: GPE
+15%: PERCENT
+multi-year: DATE
+20%: PERCENT
+Recruit: ORG
+more than 100: CARDINAL
+annually: DATE
+Received the Community Foundation: ORG
+the Upper Peninsula State Fair Foundation: LOC
+February 2002: DATE
+August 2004: DATE
+day: DATE
+Full P & L: ORG
+more than $40 million: MONEY
+annual: DATE
+Initiated: ORG
+22%: PERCENT
+Conceived: PERSON
+55% to 95%: PERCENT
+500,000: MONEY
+Cabela: ORG
+al: ORG
+June 2000: DATE
+February 2002: DATE
+Full P & L: ORG
+more than $6 million: MONEY
+annual: DATE
+Received Cabela's: ORG
+32: CARDINAL
+five: CARDINAL
+2 years: DATE
+Baker College Master of Business Administration: ORG
+State Finance: ORG
+Michigan State University Bachelor of Science : Fisheries and Wildlife City: ORG
+State Fisheries: ORG
+Lean Leadership: ORG
+University of Michigan College of Engineering: ORG
+2014: DATE
+Michigan: GPE
+2009: DATE
+Interests: NORP
+Pastoral Council: ORG
+Mary Parish: PERSON
+Chelsea: ORG
+2015: DATE
+Taste of Chelsea Event Committee: ORG
+Chelsea: GPE
+2013: DATE
+2015: DATE
+Grand Knight: PERSON
+Saint Louis Guanella Council: ORG
+Knights of Columbus: ORG
+Chelsea: GPE
+2012-2014 & 2000-2002: DATE
+Escanaba Area
+Catholic Board of Education: LOC
+Escanaba: GPE
+2005 - 2008: DATE
+Board of Directors: ORG
+Delta County: GPE
+Escanaba: GPE
+MI: GPE
+2006-2008: DATE
+Gifts Chairperson: PERSON
+Delta County: GPE
+Escanaba: GPE
+MI: GPE
+2007 - 2008: DATE
+United Way: GPE
+Delta County: GPE
+Escanaba: GPE
+MI: GPE
+2007-2008: DATE
+Skills: ORG
+Customer Service: ORG
+Leadership: PERSON
+Salesforce CRM: PRODUCT
+Pastoral Council: ORG
+Mary Parish: PERSON
+Chelsea: ORG
+2015: DATE
+Chelsea
+Event Committee: ORG
+Chelsea: GPE
+2013 - 2015: DATE
+Grand Knight: PERSON
+Saint Louis Guanella Council: ORG
+Knights of Columbus: ORG
+Chelsea: GPE
+2012-2014: DATE
+2000-2002: DATE
+Escanaba Area Catholic Board of Education: ORG
+Escanaba: GPE
+2005 - 2008: DATE
+Board of Directors: ORG
+Delta County: GPE
+Escanaba: GPE
+MI: GPE
+2006-2008: DATE
+Gifts Chairperson: PERSON
+Delta County: GPE
+Escanaba: GPE
+2007 - 2008: DATE
+United Way: GPE
+Delta County: GPE
+Escanaba: GPE
+MI: GPE
+2007-2008: DATE

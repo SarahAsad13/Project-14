@@ -1,0 +1,74 @@
+both Field Service: ORG
+my first 5 years: DATE
+Skills
+
+Operational: ORG
+Exceptional: LOC
+Strong: PERSON
+Detail: PERSON
+Analog: ORG
+Detail: PERSON
+Detail: PERSON
+Understand: GPE
+Rigging 
+Soldering: WORK_OF_ART
+Tenacity: ORG
+Work History
+Engineering Technician/ Field Service: WORK_OF_ART
+May 1994 - May 2000: DATE
+Name City: GPE
+RF: ORG
+Limited: ORG
+Collaborated: ORG
+Jun 1988 - Jun 1994 
+: PERSON
+Name City: GPE
+State 
+
+Research and Development: ORG
+MCI: ORG
+Wiring: ORG
+RF: ORG
+1985 - May 1988: DATE
+Name City: GPE
+Antenna: PERSON
+SPS: ORG
+49: CARDINAL
+Radar: PRODUCT
+Accomplishments Reduced: PERSON
+2 days: DATE
+less than one: CARDINAL
+Skills: ORG
+RF Propagation: ORG
+1980 - Mar 1982: DATE
+USS Belknap CG-26: PERSON
+Air Intercept Control: ORG
+Skills Used: ORG
+Naval Tactical Data Systems: ORG
+Associate of Applied Science : Current 
+Central Maine Community College 
+
+Continuing: WORK_OF_ART
+Math: PERSON
+ELT: ORG
+National Vocational Technical Honor Society
+Phi-Theta-Kappa
+
+Certifications
+State of Maine Electricians Helpers: ORG
+Skills: ORG
+Radar: PRODUCT
+Naval: GPE
+Network, Oscilloscopes: ORG
+Research: ORG
+SPS: ORG
+Test Equipment: ORG
+UHF: ORG
+Wiring
+Additional Information
+
+Additional Information: ORG
+Customer: ORG
+Geometry: ORG
+English: LANGUAGE
+The Veteran's Administration: ORG

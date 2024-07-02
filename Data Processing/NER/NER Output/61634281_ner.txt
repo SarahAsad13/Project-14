@@ -1,0 +1,39 @@
+FINANCE: ORG
+10+ years: DATE
+Mar 2015: DATE
+AP: ORG
+monthly: DATE
+Project Managers: ORG
+year-end: DATE
+Collaborated: ORG
+Bookkeeper Apr 2014: GPE
+2014: CARDINAL
+Processed: GPE
+Maintained: GPE
+Researched: ORG
+Nov 2011 to Apr 2014: DATE
+Reconciled 11: DATE
+Quickbooks: PERSON
+Human Resources: ORG
+Coordinated: ORG
+weekly: DATE
+Coordinated: ORG
+Jan 2008: DATE
+2011: CARDINAL
+2007: DATE
+State: ORG
+daily: DATE
+Processed: GPE
+Maintained: GPE
+State: ORG
+5: CARDINAL
+Audio Arts & Acoustics 2002 Columbia College: ORG
+Chicago: GPE
+ï¼​ City: GPE
+State: ORG
+MS Office Suite: ORG
+CMS: ORG
+Google Analytics: ORG
+GoogleDocs: ORG
+Digital: ORG
+Mac: PERSON

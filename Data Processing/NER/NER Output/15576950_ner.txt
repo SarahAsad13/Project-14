@@ -1,0 +1,49 @@
+SPECIALIST: ORG
+Affirmative Action: ORG
+Detail: PERSON
+Microsoft Office: ORG
+Suite: PERSON
+the George's Employment and Training Center: FAC
+first: ORDINAL
+George: PERSON
+SSN: ORG
+1 hour to 30 minutes: TIME
+first: ORDINAL
+hours: TIME
+I-9 Verification: ORG
+Coordinated: ORG
+10/2010 to 07/2015: DATE
+16: CARDINAL
+Tyson: LOC
+over 100: CARDINAL
+first: ORDINAL
+Collaborated with Team: ORG
+Ran: PERSON
+Knowledgeable: FAC
+SAP: GPE
+10/2010: CARDINAL
+monthly: DATE
+quarterly: DATE
+SAP: GPE
+Explained: ORG
+each month: DATE
+Tyson: ORG
+03/2009: GPE
+Clerk Company Name: PERSON
+Maintained: GPE
+Maintained: GPE
+SAP: GPE
+SAP: ORG
+Spanish: LANGUAGE
+10/2006: CARDINAL
+Receptionist Company Name: ORG
+Maintained: GPE
+Workforce: ORG
+Explained: ORG
+Maintained: GPE
+Coordinated CPR: PRODUCT
+2001: DATE
+Diploma Rogers High School: ORG
+CPR: ORG
+SAP: GPE
+Spanish: LANGUAGE

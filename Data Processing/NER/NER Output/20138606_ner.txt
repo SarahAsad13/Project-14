@@ -1,0 +1,61 @@
+Highlights: GPE
+30 hour: TIME
+Violence Training: PERSON
+Microsoft Office: ORG
+Sensitive
+Empathetic
+Detail-oriented
+Excellent: WORK_OF_ART
+10: CARDINAL
+Community Advocate: ORG
+February 2015 to February 2016: DATE
+Facilitated: ORG
+Advocacy Based Counseling: PERSON
+Advocacy: PERSON
+WAC: ORG
+388-: CARDINAL
+61A Chapter 70.123: MONEY
+RCW Created: ORG
+2013: DATE
+Communicates: ORG
+Domestic Violence: ORG
+Developed: ORG
+ages 6-12 years: DATE
+Children's Program: ORG
+Maintained: GPE
+Maintained: GPE
+15: CARDINAL
+Volunteer Coordinator: PERSON
+Treasurer: PERSON
+September 2013 to June 2015: DATE
+Assisted: ORG
+PTA: ORG
+QuickBooks Maintained: ORG
+Assist: NORP
+January 2011 to January 2014: DATE
+PowerPoint Created: ORG
+Took: PRODUCT
+Resident Index: PERSON
+Retention Specialist: PERSON
+January 2008 to January 2009: DATE
+Data Entry: ORG
+Started: ORG
+Maintained: GPE
+Bachelor: ORG
+2017: DATE
+State: ORG
+King
+
+Human Services Management: ORG
+YWCA Domestic Violence: ORG
+Skills: ORG
+Customer: ORG
+Data Entry: ORG
+Leadership Training: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG
+50: CARDINAL

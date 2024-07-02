@@ -1,0 +1,113 @@
+Career Focus
+Selling: FAC
+10%: PERCENT
+1: MONEY
+three years in a row: DATE
+Identify: ORG
+Regional: ORG
+120%: PERCENT
+monthly: DATE
+Established 30: PRODUCT
+a single year: DATE
+Earned: ORG
+2003: DATE
+February 2010: DATE
+Current Company Name: ORG
+Family: PRODUCT
+Collaborates: PERSON
+Wound Care Center Physicians: ORG
+October 2007 to: DATE
+February 2010: DATE
+Pain Management, Neurology, Anesthesiology, Rheumatology, Orthopedics, Oncologist: ORG
+Ranked Top: PERSON
+10%: PERCENT
+2008-2009: DATE
+114%: PERCENT
+1: MONEY
+Matrix Management Skills: ORG
+Market Research Knowledge: ORG
+December 2005 to October 2007: DATE
+1: MONEY
+2006: DATE
+Respiratory Divisions: ORG
+Achieve: PERSON
+quarterly: DATE
+139%: PERCENT
+annual: DATE
+126%: PERCENT
+2006: DATE
+Ranked Top: PERSON
+10%: PERCENT
+136%: PERCENT
+2007: DATE
+1: MONEY
+2007: DATE
+#2 2006: MONEY
+Develop: ORG
+Specialty Market Placement: ORG
+August 1997 to December 2005: DATE
+Hep B: PERSON
+Hep C: PERSON
+Hep B: PERSON
+Hep C: PERSON
+Field Representative Insurance Market Advisor: ORG
+Northeast: LOC
+the Federal and State Government: ORG
+Directed: ORG
+Medicaid: ORG
+2004: DATE
+Completed "Management Skills Development" Seminar: ORG
+2000: DATE
+the Northeast Region: LOC
+December 2001: DATE
+100%: PERCENT
+121%: PERCENT
+10%: PERCENT
+Hudson: LOC
+Essex: GPE
+Bergen county: GPE
+Medicare: ORG
+VA: GPE
+Health Care Administration FAIRLEIGH DICKINSON UNIVERSITY: ORG
+Health Care Administration Graduated Summa Cum Laude: ORG
+Human Resource Administration: ORG
+Paralegal FDU
+Bachelor of Arts :: PERSON
+State: GPE
+ï¼​ City: GPE
+State Knowledge Management
+Master Certificates - Human Resources/ Six Sigma Black Belt / Green/ Lean- Health Care Villanova University: ORG
+Fairleigh Dickinson University Special Achievement Awards: ORG
+Presidents Club
+
+Professional Affiliations
+
+National Sales Network: ORG
+Analytical Skills: PERSON
+Business Development: ORG
+Change
+Management: ORG
+Oral, Competitive Intelligence: ORG
+Customer Service: ORG
+Database Design and Management, Designing: ORG
+Government, Human Resource Management: ORG
+Interface Design: ORG
+Legal: GPE
+Management Skills: PERSON
+Market Research: ORG
+2000: DATE
+Multitasking: GPE
+Negotiating: GPE
+Negotiations: GPE
+Neurology: PERSON
+Paralegal: GPE
+Persuasion: ORG
+Problem
+Solving Skills,: WORK_OF_ART
+Product Management, Profit: ORG
+Project Management, Public Relations: ORG
+Relationship Building: ORG
+Research: ORG
+Six Sigma: PERSON
+Teamwork: ORG
+Trainer: ORG

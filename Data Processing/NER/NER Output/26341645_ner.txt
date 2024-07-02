@@ -1,0 +1,102 @@
+SR BUSINESS SYSTEMS: ORG
+Career Overview
+Motivated: WORK_OF_ART
+Analytical: PRODUCT
+Document: FAC
+Problem: PRODUCT
+Technical Skills: PERSON
+PeopleSoft HCM & Portal: ORG
+PeopleTools: ORG
+PeopleSoft Query: ORG
+SQL: ORG
+Oracle: ORG
+Microsoft: ORG
+SQL Server: PERSON
+SharePoint: ORG
+Windows NT: GPE
+2003: DATE
+Terminal Server: ORG
+Word: PERSON
+PowerPoint: ORG
+Project, Publisher: ORG
+Visio: PERSON
+SDT: ORG
+RQM: ORG
+Clear Case: PERSON
+Document Management Systems(PDM & Documentum: ORG
+Kronos Workforce Central: ORG
+Kronos Connect: ORG
+SR BUSINESS SYSTEMS: ORG
+State: ORG
+8.3: CARDINAL
+8.9: CARDINAL
+Kronos: ORG
+Nextrak: PERSON
+ADP: ORG
+PeopleSoft: ORG
+HRIS: ORG
+Vendor: ORG
+Partnered: PRODUCT
+BPO: ORG
+Quality Compliance: ORG
+BSC: ORG
+BSC: ORG
+SOX: ORG
+the Global System Methodology(GSM: PRODUCT
+Prepared: PERSON
+Communicates: ORG
+Data Analysis: ORG
+HRIS: ORG
+HRIS: ORG
+Mentoring/Coaching other Analysts: ORG
+12/2004: CARDINAL
+Name City: GPE
+ADP: ORG
+Kronos: PERSON
+Nextrak: PERSON
+II: CARDINAL
+ADP: ORG
+Prepared: PRODUCT
+HRIS CUSTOMER SERVICE: PERSON
+HRIS SPECIALIST 01/2001: PERSON
+01/2003 Company Name City: ORG
+Payroll: ORG
+BSC: ORG
+PeopleSoft: ORG
+ADP: ORG
+Webhire: GPE
+Kronos: ORG
+the Support Center: ORG
+Prepared: PRODUCT
+EDI COORDINATOR 09/1999: ORG
+Name City: GPE
+Trading Partner: ORG
+third: ORDINAL
+EDI: ORG
+Performed EDI Project Management: ORG
+EDI: ORG
+EDI: ORG
+Boston Scientific: ORG
+EDI: ORG
+CUSTOMER: ORG
+11/1998 to 09/1999: CARDINAL
+Name City: GPE
+11/1998: CARDINAL
+Name City: GPE
+AAA: ORG
+Five Diamond Service Standards: ORG
+AAA: ORG
+Five: CARDINAL
+Assisted: ORG
+hour: TIME
+AAA: ORG
+New England: LOC
+Training
+Bachelor of Science : Management Information Systems: PERSON
+2000: DATE
+Northeastern University City: ORG
+State: GPE
+USA: GPE
+1998: DATE
+Quincy College City: ORG
+State: ORG

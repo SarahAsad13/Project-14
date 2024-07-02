@@ -1,0 +1,115 @@
+Career Overview
+
+Highly: ORG
+years: DATE
+Retail Sales Associate: ORG
+Core Strengths
+
+Computer Skills: ORG
+Excel: PRODUCT
+MS Access: ORG
+MS Word: PERSON
+MS Power Point: ORG
+MS Outlook: GPE
+Adobe Acrobat: PERSON
+Navy Enterprise Resource Planning: ORG
+FedEx: GPE
+United Parcel Service: ORG
+Webflis: NORP
+DODDAC: ORG
+FACTS: ORG
+Deans: NORP
+List
+Work Experience
+: WORK_OF_ART
+March 2014: DATE
+Name City: GPE
+State Security: ORG
+AMC: ORG
+January 2010 to January 2012: DATE
+Name City: GPE
+State Aviation Ordnanceman
+
+CVN 77: ORG
+Virginia Beach: GPE
+Virginia: GPE
+Assemble: PRODUCT
+Requisitioned: ORG
+un: ORG
+Maintained: GPE
+January 2007 to January 2010: DATE
+Company Name City: LOC
+State: ORG
+24: CARDINAL
+F/A18: ORG
+14: CARDINAL
+F-16: PRODUCT
+4MH-60: CARDINAL
+Retail Outlet: PERSON
+Excel: PRODUCT
+bank handler: ORG
+over $60,000: MONEY
+50,000: MONEY
+MWR: ORG
+MWR: ORG
+6,000: MONEY
+2015: DATE
+Saint Leo University: ORG
+State: GPE
+US Criminal: ORG
+Chesapeake: GPE
+VA: GPE
+Deans: NORP
+2015: DATE
+GPA: ORG
+3.778: CARDINAL
+Spanish: NORP
+January 1977 to January 2010: DATE
+AMC: ORG
+Oceana Naval Air Station/USS George Bush: ORG
+CVN: ORG
+Virginia Beach: GPE
+Virginia: GPE
+Stowed: ORG
+Loaded: PERSON
+Assemble: PRODUCT
+Supervise: PERSON
+Requisitioned: ORG
+un: ORG
+Warfare Center NAS Fallon: ORG
+Nevada: GPE
+2007-2010: DATE
+24: CARDINAL
+F/A18: ORG
+14: CARDINAL
+F-16: PRODUCT
+4MH-60: CARDINAL
+Retail
+Outlet: PERSON
+Excel: PRODUCT
+over $60,000: MONEY
+50,000: MONEY
+MWR: ORG
+MWR: ORG
+6,000: MONEY
+Spanish: NORP
+Skills
+Ordnance, Weapons, Airborne Weapons: ORG
+Aircrew: PERSON
+Aviation, Calibration, Corrosion, Corrosion Control, Inspection: ORG
+Weapon: ORG
+Cashier: PERSON
+Excel: PRODUCT
+F-16: PERSON
+Maintenance, Retail, Retail Marketing: ORG
+Scanning, Security: WORK_OF_ART
+Access: PRODUCT
+Acrobat: PERSON
+Adobe Acrobat: PERSON
+Enterprise Resource Planning: ORG
+Ms Access: PERSON
+Ms Excel: PERSON
+Ms Outlook: PERSON
+Ms
+Word: PERSON
+Outlook: PERSON

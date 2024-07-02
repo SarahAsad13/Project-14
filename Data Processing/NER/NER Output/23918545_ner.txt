@@ -1,0 +1,57 @@
+3 years: DATE
+Skills
+
+Medical: ORG
+International Classification of Disease Systems: ORG
+Inpatient: ORG
+Outpatient: ORG
+HCPCS Coding Guidelines
+Familiar: ORG
+DRG: ORG
+Understands: GPE
+Research: ORG
+Adept: ORG
+Work History
+Claims Service Specialist: WORK_OF_ART
+10/2013: DATE
+State: ORG
+Windows: NORP
+Customer: ORG
+Microsoft: ORG
+Word: PERSON
+Excel: PRODUCT
+MS Office: ORG
+Resource: ORG
+Medicare: ORG
+NextGen: ORG
+Obtaining: ORG
+Reviewing: ORG
+Correctly: PRODUCT
+Specialist: ORG
+10/2011: CARDINAL
+third: ORDINAL
+Researched: ORG
+Researched CPT: FAC
+ICD-9: NORP
+CPT: ORG
+ICD-9: NORP
+third: ORDINAL
+TES: ORG
+Examined: NORP
+Subject Matter Expert: PERSON
+10/2013: CARDINAL
+Created: ORG
+15+: DATE
+Took: ORG
+Healthcare: ORG
+Associate of Science : Medical Billing: ORG
+Coding: ORG
+Central Piedmont Community College - City: ORG
+Healthcare Administration: ORG
+Healthcare Management
+Coursework: ORG
+Healthcare Administration: ORG
+10 2007: DATE
+Skills: ORG
+Medical Billing: ORG
+Coding: ORG

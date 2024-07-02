@@ -1,0 +1,125 @@
+BUSINESS DEVELOPMENT
+Executive Profile: ORG
+22 years: DATE
+Business Development: ORG
+To apply years: DATE
+Top Secret
+: PERSON
+Skill Highlights: PERSON
+80: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Sales Force: PERSON
+Outlook
+Professional Experience
+: ORG
+Business Development: ORG
+Prospect: ORG
+Client Government Sales Management: ORG
+the sales year: DATE
+Analyze day to day: DATE
+Negotiate: ORG
+over $1K.: MONEY
+Health, Safety and Environmental: ORG
+Scott Safety: ORG
+Honeywell First Responders Product: ORG
+Hurst Jaws of Life: ORG
+Kappler: ORG
+Elkhardt Brass: PERSON
+Smith Optics: ORG
+over $5M: MONEY
+the last three years: DATE
+Supervisor:: WORK_OF_ART
+Airfield Fire & Emergency Services Officer: ORG
+over 40: CARDINAL
+Steve Kirkpatrick: PERSON
+803: CARDINAL
+414: CARDINAL
+Aircraft Rescue: ORG
+06/2008: ORG
+24 hour: TIME
+5: CARDINAL
+1: CARDINAL
+P-23 10K gallon: QUANTITY
+1: CARDINAL
+4: CARDINAL
+3: CARDINAL
+10 Department of Defense fire Stations: ORG
+60 hours: TIME
+more than 140: CARDINAL
+Initiated: ORG
+an additional $57: MONEY
+120: MONEY
+Carl Kuga: PERSON
+910: CARDINAL
+581-2025: CARDINAL
+Airfield Fire & Emergency Services Officer: ORG
+06/2008 Company Name: ORG
+200: CARDINAL
+8: CARDINAL
+6: CARDINAL
+35: MONEY
+Emergency Airfield Services: ORG
+LtCol Manlee Herrington: PERSON
+808: CARDINAL
+256: CARDINAL
+Hours Worked/40Wk: ORG
+Airfield Fire & Emergency Services Officer: ORG
+Operation Iraqi Freedom: EVENT
+over 20: CARDINAL
+Iraq: GPE
+100: CARDINAL
+Marine Corp Auxiliary: ORG
+Bogue Field: GPE
+NC: GPE
+over $100K dollars: MONEY
+over $1.5: MONEY
+2K gallon: QUANTITY
+Jay Johnson: PERSON
+571: CARDINAL
+408: CARDINAL
+Hours Worked/40Wk: ORG
+Bachelor of Fire Science: ORG
+8/15: CARDINAL
+Edison State College: ORG
+GPA: ORG
+3.37: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+HAZMAT Materials Operations: ORG
+Airfield: PERSON
+Fire Inspector I, II: FAC
+Fire Fighter: PERSON
+Airport Firefighter: FAC
+Emergency Vehicle: PERSON
+Amphibious Warfare School Nonresident Program: ORG
+Advance EAF School: ORG
+M-31 Arresting Gear Systems Course: ORG
+Marine
+Corps Aircraft Launch and Recovery School: ORG
+Aircraft Firefighting School: ORG
+Hazardous Waste Coordinator Course RCRA: ORG
+Hazardous Materials and Hazardous Waste
+Management Course: ORG
+Minimum Operating Strip Lighting System Course: ORG
+Lean Six Sigma White Belt Course
+Professional Affiliations: WORK_OF_ART
+EAF Association: ORG
+Marine Corps Association: ORG
+Skills
+Basic: ORG
+Client: GPE
+Customer Relations: ORG
+Hazardous Waste Management: ORG
+Human Resources: ORG
+Lighting, Materials: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+2: CARDINAL
+Microsoft Word: PERSON
+Quality: ORG
+Safety, Sales, Sales Management: ORG
+Six Sigma: PERSON
+Supervisor: PERSON

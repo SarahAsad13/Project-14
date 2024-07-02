@@ -1,0 +1,42 @@
+4 years: DATE
+Professional Construction Laborer: ORG
+Skills
+
+Cabinetry
+Material prepping
+Construction: ORG
+Drywalling
+Safety: WORK_OF_ART
+Work History
+Carpenter Apprentice: WORK_OF_ART
+Installed: LOC
+journeyman carpenter: PERSON
+OSHA: ORG
+100%: PERCENT
+Construction Worker: PRODUCT
+08/2016: CARDINAL
+crown: ORG
+Gathered: PERSON
+Monitored: ORG
+04/2010 
+Buffalo High School - City: ORG
+State: ORG
+Certified Safety & Health Official: ORG
+- City: GPE
+Skills
+
+Cabinetry
+Material: ORG
+Drywalling
+Safety: WORK_OF_ART
+Work History
+Carpenter Apprentice: WORK_OF_ART
+Installed: LOC
+journeyman carpenter: PERSON
+OSHA: ORG
+100%: PERCENT
+Construction Worker: PRODUCT
+08/2016: CARDINAL
+crown: ORG
+Gathered: PERSON
+Monitored: ORG

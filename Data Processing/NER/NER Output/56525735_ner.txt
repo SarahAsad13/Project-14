@@ -1,0 +1,49 @@
+Summary
+Construction: ORG
+Organized: ORG
+Baseline: PERSON
+MS Office: ORG
+Superb: NORP
+up to $5: MONEY
+USAF: ORG
+USACE: ORG
+NASA: ORG
+Prepared: PERSON
+monthly: DATE
+12/2012: CARDINAL
+up to $15: MONEY
+Completed: ORG
+NASA: ORG
+12/2012: CARDINAL
+up to $85M: MONEY
+Completed: ORG
+Performed: ORG
+RFI(s: GPE
+Project Engineer V - Architect: PERSON
+03/2003: CARDINAL
+up to $25: MONEY
+NASA: ORG
+USAF: ORG
+Cape Canaveral Air Force Station: FAC
+Kennedy Space Center: FAC
+Florida: GPE
+Performed: ORG
+RFI(s: GPE
+Coordinated: ORG
+Bachelor of Architecture Montana State University: ORG
+MSU: ORG
+City: GPE
+State: ORG
+Microsoft: ORG
+40-hour: TIME
+30-hour: TIME
+Construction Safety and Health Program: ORG
+Fall Protection Equipment Program: ORG
+Skills: ORG
+ADA: ORG
+Air Force: ORG
+Construction Management: ORG
+Office Suite: PERSON
+Microsoft Project: ORG
+RFI: ORG
+Safety: ORG

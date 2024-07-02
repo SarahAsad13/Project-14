@@ -1,0 +1,39 @@
+daily: DATE
+Client: GPE
+Personal Trainer: WORK_OF_ART
+22 years: DATE
+Client: GPE
+Core Accomplishments
+Business Development:
+Successfully: WORK_OF_ART
+325,000: CARDINAL
+annually: DATE
+annual: DATE
+XXXM
+Hired: PERSON
+Marketed: ORG
+Customer Service: ORG
+Financial Management: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+hourly: TIME
+Owner/Operator Company Name: ORG
+Orange County: GPE
+CA: ORG
+one: CARDINAL
+State: ORG
+Orange County: GPE
+CA: ORG
+02/1997: CARDINAL
+General Manger Company Name: ORG
+1996: DATE
+Emphasis: ORG
+1994: DATE
+Conditioning Emphasis: PERSON
+Skills
+
+Sales &: ORG
+Budget: ORG
+Client: GPE
+Comprehension of policies & procedures: ORG

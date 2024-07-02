@@ -1,0 +1,109 @@
+I.T.: GPE
+Career Overview
+
+I: WORK_OF_ART
+20 years': DATE
+Martial Arts Businesses: ORG
+first: ORDINAL
+I.T.: GPE
+Martial Arts: ORG
+I.T.: GPE
+2012: DATE
+Southern Crescent Technical College: ORG
+I.T.: GPE
+one: CARDINAL
+one: CARDINAL
+SCTC I Possess: ORG
+Networking: GPE
+CISCO: ORG
+MICROSOFT: ORG
+Southern Crescent Technical College: ORG
+Network Management: ORG
+Western Governors University: ORG
+LAN: ORG
+MS Office: ORG
+AVG: GPE
+Printers: PERSON
+MS Office: ORG
+LAN: ORG
+Virus: GPE
+Technical Skills
+
+Skills
+
+Experience Total Years: WORK_OF_ART
+5: CARDINAL
+Desktop and Laptop: ORG
+5: CARDINAL
+Active Directory: WORK_OF_ART
+5: CARDINAL
+5: CARDINAL
+Computer Troubleshooting
+Expert: WORK_OF_ART
+5: CARDINAL
+Expert: PRODUCT
+5: CARDINAL
+2008: DATE
+R2
+Experienced 5: WORK_OF_ART
+Microsoft Office: ORG
+5: CARDINAL
+5: CARDINAL
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+2015: DATE
+1: CARDINAL
+3: CARDINAL
+Ducks in a Row" Award from Southern Crescent Technical College 2013: WORK_OF_ART
+2: CARDINAL
+2: CARDINAL
+90%: PERCENT
+3: CARDINAL
+Technical Support Specialist: ORG
+4: CARDINAL
+School: ORG
+Duplex: ORG
+Auto: ORG
+my first 3 months: DATE
+I.T.: GPE
+Technician/Specialist: ORG
+Faculty and Staff: ORG
+Cisco: GPE
+Risevision: ORG
+Kaseya: GPE
+Program Developer/Operations: ORG
+the day to day: DATE
+one: CARDINAL
+one: CARDINAL
+Instructor/Owner: ORG
+Name City: GPE
+the day to day: DATE
+one: CARDINAL
+one: CARDINAL
+Training
+Bachelor of Science : Network Administration: PERSON
+Western Governors University City: ORG
+State: GPE
+USA: GPE
+Cisco: GPE
+Microsoft: ORG
+SouthernSouthern Crescent Technical College: ORG
+Griffin City: GPE
+State: ORG
+USA: GPE
+Graduated Summa Cum-Laude: ORG
+Networking Cisco: GPE
+Microsoft: ORG
+Summa Cum-Laude: PERSON
+Griffin High School City: ORG
+State: GPE
+USA: GPE
+Skills
+
+Comptia Project+ Certification: ORG

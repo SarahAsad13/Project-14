@@ -1,0 +1,101 @@
+a decade: DATE
+PCB: ORG
+Skills
+
+Proficient: ORG
+Microsoft Office: ORG
+Vocus: ORG
+Familiar: PERSON
+Hootsuite: PERSON
+SocialBro: ORG
+TrendKite: ORG
+BuzzSumo: ORG
+Industry Analyst Relations: ORG
+2015: DATE
+Forrester: PERSON
+Gartner Magic Quadrant: PERSON
+May 2015: DATE
+Alcatel Lucent: ORG
+Rajant Corporation: ORG
+ASE Group, Inc.: ORG
+Altium: ORG
+The City of Fremont: GPE
+Alcatel Lucent's: ORG
+Rapport: ORG
+Wireless Week: DATE
+Fierce Enterprise Communications: ORG
+Converge: PERSON
+Network Digest: ORG
+UC Strategies: ORG
+Light Reading: WORK_OF_ART
+Europe Outlook: LOC
+up to: CARDINAL
+six: CARDINAL
+Rajant Corporation: ORG
+Network Computing: PERSON
+Urgent Communications: ORG
+Network World: ORG
+eWeek: LOC
+Oversaw: GPE
+LinkedIn: GPE
+Twitter: PERSON
+Google+: GPE
+Instagram: ORG
+Ineda Systems: ORG
+Intelepeer: ORG
+RAE Systems: ORG
+Altium: ORG
+Rajant Corporation: ORG
+Ineda: ORG
+Venture Beat: PERSON
+The Wall Street Journal: ORG
+EE Times: ORG
+Reuters: ORG
+Times: GPE
+eWeek: LOC
+Network Computing: ORG
+Journal: ORG
+IEEE Spectrum and Design News: ORG
+Oct 2008 to: DATE
+2012: DATE
+Asigra: PERSON
+Bay Area Lyme Foundation: ORG
+California Childen's: ORG
+Heritage Bank: ORG
+Toeniskeotter & Breeding: ORG
+FAQ: ORG
+The Wall Street Journal: ORG
+Oprah Magazine: PERSON
+Salon.com: ORG
+CNN Small Business: ORG
+G4TV: ORG
+MSN Games: ORG
+Massively.com: ORG
+The Globe and Mail: ORG
+Jul 2007 
+: PERSON
+Amulet Technologies: ORG
+SPX Automotive: ORG
+CalTrain: ORG
+The Wall Street Journal: ORG
+San Francisco Times: ORG
+San Jose: GPE
+Mercury News: ORG
+Jan 2003 to Jan 2004: DATE
+Mar 2002: DATE
+Jan 2003: DATE
+AV: ORG
+Oversaw: GPE
+1999 to Feb 2001: DATE
+Silicon Valley Bank: ORG
+Sand Hill Capital: ORG
+MeriWest Credit Union: ORG
+Toeniskoetter & Breeding: ORG
+Bachelor of Science , Public Relations: ORG
+2000: DATE
+San Jose: GPE
+State: GPE
+USA: GPE
+Spring 1998: DATE
+Bath: GPE
+England: GPE

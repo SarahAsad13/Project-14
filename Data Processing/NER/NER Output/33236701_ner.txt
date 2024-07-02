@@ -1,0 +1,40 @@
+Accurate: ORG
+Customer: ORG
+Verbal: ORG
+Point of Sale (POS) system operation
+Passion: ORG
+Name City: GPE
+Name City: GPE
+Preform: ORG
+Answer: ORG
+the year: DATE
+Completed: ORG
+Name City: GPE
+Maintained: GPE
+Inventory
+Cut: PERSON
+Filing: GPE
+Excel: PRODUCT
+Listened: ORG
+Maintained: GPE
+State: ORG
+USA Graduate: ORG
+August: DATE
+2016: DATE
+Affiliations: ORG
+CPR & AED: ORG
+US: GPE
+ServSafe 2015: DATE
+the National Exam: ORG
+3&4: CARDINAL
+Culinary: ORG
+August 2014 to 2016: DATE
+Key: NORP
+November 2015 to 2016: DATE
+Fashionista: NORP
+2014-2016: DATE
+Filing: GPE
+Inventory: GPE
+Tables: PRODUCT
+Team: ORG
+Good People Skills: PERSON

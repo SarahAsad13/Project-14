@@ -1,0 +1,59 @@
+more than 10Â years: DATE
+toÂ: CARDINAL
+Skills
+
+Filing: ORG
+Â  Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Â  : ORG
+Accurate: ORG
+Â 
+Customer: PRODUCT
+Â  : ORG
+Work History
+Teacher 08/2013 to Current 
+Company Name: WORK_OF_ART
+Reading, Phonics: ORG
+Language Arts: WORK_OF_ART
+weekly: DATE
+Teacher Intern 01/2013: ORG
+second: ORDINAL
+12/2011: CARDINAL
+12/2012: CARDINAL
+Screened: ORG
+Created: ORG
+Teller: PERSON
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+Researched: ORG
+Processed: GPE
+daily: DATE
+Coordinated: ORG
+12/2008: CARDINAL
+12/2010: CARDINAL
+Screened: ORG
+Maintained: GPE
+Completed: ORG
+05/2008: CARDINAL
+Performed: ORG
+Screened: ORG
+Completed: ORG
+Coordinated: ORG
+Coordinated: ORG
+four: CARDINAL
+OSHA: ORG
+ADA: ORG
+HIPAA: ORG
+Customer Service: ORG
+08/2003: CARDINAL
+150Â: PRODUCT
+Met: ORG
+2013-2014: DATE
+Louisiana Highly Qualified: EVENT
+Compass Score:4: PERSON
+Education: ORG
+2013: DATE
+University of Louisiana: ORG
+Lafayette - State: ORG

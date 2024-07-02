@@ -1,0 +1,109 @@
+more than 12 years: DATE
+West Virginia: GPE
+TJC: ORG
+CMS: ORG
+NFPA: ORG
+Name City: GPE
+Clinical Biomedical Service: ORG
+West
+Virginia: GPE
+TJC: ORG
+CHS: ORG
+NFPA: ORG
+OHFLAC: ORG
+Imaging Service Engineer 06/2012: ORG
+Name City: GPE
+over $8 million: MONEY
+two: CARDINAL
+West Virginia: GPE
+Kentucky: GPE
+LAN: ORG
+WLAN: ORG
+TCP/IP: ORG
+RIS: ORG
+PAC: ORG
+Imaging Service Engineer: ORG
+10/2009: CARDINAL
+Name City: GPE
+over $10 million: MONEY
+CT: ORG
+TCP/IP: ORG
+RIS: ORG
+PAC: ORG
+Biomedical Equipment: ORG
+Name City: GPE
+State: ORG
+over 250: CARDINAL
+Coordinated: ORG
+LAN: ORG
+WLAN: ORG
+40: CARDINAL
+over 20 years: DATE
+$1 million: MONEY
+TJC: ORG
+CHS: ORG
+NFPA: ORG
+Initiated: ORG
+over 7,000: CARDINAL
+first: ORDINAL
+WV: GPE
+Found: PERSON
+State: ORG
+Business Management Marshall University City: ORG
+Computer Programming Center College City: ORG
+Association of Medical Service Provider: ORG
+WV Biomedical Association: ORG
+KARC: PERSON
+Radio Club: ORG
+Call Sign: LOC
+CAMC: ORG
+Charleston: GPE
+Certified Biomedical Equipment: ORG
+University of St. Louis
+
+Toshiba: ORG
+Aquilion 16: LAW
+32: DATE
+64: CARDINAL
+CT: ORG
+Toshiba: ORG
+Vantage 1.5: FAC
+8: CARDINAL
+Toshiba: ORG
+Siemens E-Cam Nuclear Medicine Camera: ORG
+GE: ORG
+4: CARDINAL
+XR: ORG
+Aramark: GPE
+GE 9600: ORG
+9800: DATE
+GE Precision 500 Radiology: ORG
+XR: ORG
+Microsoft Applications: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+Outlook
+
+: ORG
+Foresight Imaging Systems: WORK_OF_ART
+DICOM: GPE
+DICOM: GPE
+RIS/PACS
+
+Skilled: ORG
+2000: DATE
+Windows 7: ORG
+MySQL: GPE
+PHP: ORG
+Apache: GPE
+UNIX: ORG
+Linux: GPE
+Cisco: GPE
+DSL/Cable: ORG
+Hubs: PERSON
+LAN/WAN
+
+Skilled: ORG
+IDE/ SCSI: ORG

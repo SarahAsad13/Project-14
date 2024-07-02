@@ -1,0 +1,129 @@
+DIGITAL MARKETING: ORG
+10 years: DATE
+Highlights
+Mac: ORG
+Microsoft Windows: ORG
+Vista: ORG
+Microsoft Office: ORG
+Smartpath: PERSON
+Project Tracker: PERSON
+SharePoint: ORG
+JIRA: ORG
+Tempo: PRODUCT
+Google Analytics: ORG
+SearchMart: PRODUCT
+Kenshoo: ORG
+Google Adwords: ORG
+AdRoll: ORG
+Digital Marketing: ORG
+11/2012: CARDINAL
+Current Company Name City: ORG
+PPC: ORG
+5: CARDINAL
+Develop: ORG
+Execute: ORG
+Content Marketing: ORG
+Lead Gen Programs: PERSON
+Influence Social Media Marketing Strategies: ORG
+Measure: ORG
+Develop: ORG
+PPC: ORG
+Digital Marketing Develop: ORG
+Develop: ORG
+Global Marketing Organization: ORG
+Digital Marketing: ORG
+11/2012: CARDINAL
+Name City: GPE
+PPC: ORG
+Email: PERSON
+Content Marketing: ORG
+Oversees: ORG
+4: CARDINAL
+Prepare: ORG
+Name City: GPE
+SEO Project Management Clients: ORG
+Procter and Gamble (: ORG
+Crest: ORG
+Crest Pro-Health: PERSON
+Crest Complete: PERSON
+Dawn: PERSON
+Cascade Create: PERSON
+Initiate: PRODUCT
+Document: FAC
+hours: TIME
+Identify: PERSON
+Develop: ORG
+Build: GPE
+Foster: PERSON
+Manage 4: LAW
+Project Management: ORG
+quarterly: DATE
+09/2010: PERSON
+Name City: GPE
+State: ORG
+Trainingas: PERSON
+WSM: PERSON
+the Web Search Marketing (SEO: ORG
+18: CARDINAL
+3000: CARDINAL
+MathWorks: PRODUCT
+Oversee: ORG
+Human Resources: ORG
+Recruiting and Training: WORK_OF_ART
+Career Page: ORG
+Prepare: ORG
+weekly: DATE
+04/2010 to 09/2010 Company Name City: ORG
+State
+
+National Association of Realtors: ORG
+National Pen: ORG
+Newsweek: ORG
+HouseLogic.com Organizes: PERSON
+Participate: ORG
+weekly: DATE
+monthly: DATE
+Manage: PRODUCT
+monthly: DATE
+the Process Task Force for Professional Services: ORG
+Account Executive 06/2006: ORG
+Name City: GPE
+State: ORG
+Technology (Easy Tech: ORG
+Copy & Print: ORG
+Field Marketing: ORG
+Digital: ORG
+Online-Interactive: ORG
+State: ORG
+GE: ORG
+Workscape, Life Line: ORG
+Beth Israel Deaconess Medical Center: ORG
+11/2005: CARDINAL
+Name City: GPE
+5 2005: DATE
+Framingham State College City: ORG
+State Business Administration Marketing
+Psychology
+Creative Concepts/Advance Creative Concepts: ORG
+Effective Speaking/Advanced Effective
+Speaking: WORK_OF_ART
+Strategic Writing Certifications Google Analytics Individual Certification: ORG
+Google AdWords Certification: ORG
+Google Analytics
+Fundamentals Certification: ORG
+Google Partner: ORG
+Skills
+Ad: ORG
+Content: ORG
+Crest: ORG
+Clients: GPE
+Email: PERSON
+Human Resources: ORG
+Mac: PERSON
+Marketing Strategies: ORG
+Microsoft Office: ORG
+Microsoft Windows: ORG
+Page: PERSON
+Project Management: ORG
+Strategic: PERSON
+Vista: ORG

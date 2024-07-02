@@ -1,0 +1,90 @@
+Profile
+Highly: ORG
+Skill Highlights: PERSON
+2 years: DATE
+Microsoft Office: ORG
+4 years: DATE
+Adobe Cloud: PERSON
+2 years: DATE
+Photoshop: PERSON
+2 years: DATE
+Data Entry: ORG
+2 years: DATE
+Merchandising: PERSON
+3 years: DATE
+Critical: PRODUCT
+Detail: PERSON
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint
+Planning: ORG
+Team: ORG
+Areas of Expertise
+
+: ORG
+Flash: PERSON
+Photoshop and Illustrator: LAW
+October 2016: DATE
+Name City: GPE
+Develop & Exhibit: ORG
+Customer Service: ORG
+Print: GPE
+Copy Services: ORG
+Packaging Services: ORG
+NCR: ORG
+ECT: ORG
+Postal, Shipping, & Freight Services: ORG
+Computer Skills: PERSON
+Point of Sale: ORG
+Print: GPE
+Point of Sale: ORG
+Counter Manifest System: ORG
+Mailbox: ORG
+MS Office: ORG
+September 2014: DATE
+November 2014: DATE
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+Clerk II Created: PERSON
+daily: DATE
+Facilitated: ORG
+the United States Postal Service: ORG
+D.: NORP
+2017: DATE
+The College Of Health Care Professions City: ORG
+State: ORG
+Communication Coursework in Sociology and Psychology Coursework: ORG
+Communication
+Skills and Typing Skills: ORG
+2014: DATE
+Floresville High School City: ORG
+State: ORG
+USA High School: ORG
+Promotions Management Coursework in Business, Marketing and Communications Communications: ORG
+English: LANGUAGE
+Journalism: NORP
+Microsoft Excel: ORG
+Word: PERSON
+Skills
+Adobe: ORG
+Photoshop: PERSON
+Cashier: PERSON
+Communication Skills: ORG
+Customer Service: ORG
+Data Entry: ORG
+Math: PERSON
+Microsoft Office: ORG
+MS Office: ORG
+Packaging: PERSON
+Quick learner: ORG
+Shipping: ORG
+Typing Skills: PERSON
+Careful: PRODUCT
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

@@ -1,0 +1,44 @@
+Adjunct Information Technology Instructor 01/2014: ORG
+KCTCS CIT: ORG
+Information Technology Instructor and School Technology Coordinator 11/2011: ORG
+A+: NORP
+Cisco: GPE
+Java: PERSON
+Javascript: PERSON
+STC: ORG
+CTE Unit: ORG
+LMS: ORG
+Supervisor: PERSON
+Help Desk: PERSON
+Geek Squad: ORG
+Coordinated: PRODUCT
+Trained Â: ORG
+Master of Science : Computer Information Systems: WORK_OF_ART
+2015: DATE
+Murray State University City: ORG
+State Project Management and Data Analysis Emphasis: ORG
+2013: DATE
+Murray State University City: ORG
+State Educational Technology Emphasis: ORG
+2011: DATE
+Murray State University City: ORG
+GPA: ORG
+3.69: CARDINAL
+Information Technology Certifications: ORG
+Microsoft Technology Associate - Network Fundamentals: ORG
+Microsoft Technology Associate: ORG
+Windows O.S.: PERSON
+Microsoft Technology Associate - Software: ORG
+Microsoft Technology Associate - Web Development
+
+Skills
+
+Google: ORG
+Microsoft: ORG
+Familiar: PERSON
+Awards / Recognition / Volunteer Work
+
+Â Kentucky: ORG
+HCHS Curriculum Committee: ORG
+Cum Laude - Murray State: PERSON
+May 2011: DATE

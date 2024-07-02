@@ -1,0 +1,178 @@
+NETWORK SECURITY: ORG
+7+ years: DATE
+Network: ORG
+Palo Alto Firewalls: GPE
+Cisco: GPE
+Load Balancers: FAC
+VMware: ORG
+7+ years: DATE
+Network: ORG
+Palo Alto Firewalls: GPE
+Load Balancers: FAC
+VMware: ORG
+OSPF: ORG
+BGP: ORG
+Route Redistribution: FAC
+Policy: PERSON
+NAT: ORG
+PAT: ORG
+HSRP: ORDINAL
+VRRP: ORG
+GLBP: ORG
+VTP: ORG
+Link: PERSON
+LACP: ORG
+STP: ORG
+Palo Alto: GPE
+Check Point: ORG
+7600, 7200: DATE
+Catalyst 6500: FAC
+ASR 12000: ORG
+ASR 9000: ORG
+Cisco: GPE
+Nexus 7000: LAW
+5000 Series: TIME
+Catalyst 6500: FAC
+6800: CARDINAL
+Wildfire: GPE
+GlobalProtect: ORG
+Blue Coat Proxy: ORG
+PKI: ORG
+SSL: ORG
+IKE: ORG
+IPSec: ORG
+HIP: ORG
+F5: CARDINAL
+LTM/GTM: ORG
+Citrix NetScaler: PERSON
+Cisco Meraki: PERSON
+Aruba: GPE
+Clear: GPE
+Cisco: GPE
+WLAN: ORG
+Wireless Aps: PERSON
+Panorama: GPE
+Smart
+Dash Board: ORG
+VMware: ORG
+Solar Winds: ORG
+SevOne: ORG
+Wireshark: ORG
+MS Visio: PERSON
+Lucid Chart: PERSON
+BMC Remedy: PERSON
+EIGRP: ORG
+OSPF: ORG
+BGP: ORG
+Route Redistribution: FAC
+Policy: PERSON
+NAT: ORG
+PAT: ORG
+HSRP: ORDINAL
+VRRP: ORG
+GLBP: ORG
+VTP: ORG
+Link: PERSON
+LACP: ORG
+STP: ORG
+Work History
+Senior Network Security Engineer: WORK_OF_ART
+Palo Alto: GPE
+Check Point: ORG
+7600, 7200: DATE
+Catalyst 6500: FAC
+ASR 12000: ORG
+ASR 9000: ORG
+Cisco: GPE
+Nexus 7000: LAW
+5000 Series: TIME
+Catalyst: ORG
+6500: CARDINAL
+6800: CARDINAL
+Wildfire: GPE
+GlobalProtect: ORG
+Blue Coat Proxy: ORG
+PKI: ORG
+SSL: ORG
+IKE: ORG
+IPSec: ORG
+HIP: ORG
+F5: CARDINAL
+LTM/GTM: ORG
+Citrix NetScaler: PERSON
+Cisco Meraki: PERSON
+Aruba: GPE
+Clear: GPE
+Cisco: GPE
+WLAN: ORG
+Wireless Aps: PERSON
+Panorama: GPE
+VMware: ORG
+Solar Winds: ORG
+SevOne: ORG
+Wireshark: ORG
+MS Visio: PERSON
+Lucid: PERSON
+Chart: ORG
+BMC Remedy: PERSON
+layer2: ORG
+Cisco: GPE
+IP: ORG
+Wide Area Network: ORG
+Performed: ORG
+TCP: ORG
+Performed: ORG
+Layer3: PERSON
+Maintained: GPE
+Network Security Engineer: ORG
+12/2016: CARDINAL
+11/2012: CARDINAL
+University - State Computer Science
+Bachelor's Degree : Electronics and Communications JNTU - Electronics and Communications: ORG
+Skills: ORG
+ADS: ORG
+Antivirus: PRODUCT
+Aps: PERSON
+BGP: ORG
+CLI: ORG
+Cisco 2: ORG
+3: CARDINAL
+Cisco: GPE
+Cisco: GPE
+Cisco: GPE
+Citrix: GPE
+DHCP: ORG
+Disaster Recovery: PERSON
+EIGRP: ORG
+Firewalls, Firewall,: ORG
+Frame-Relay: ORG
+FTP: ORG
+Gateways: PERSON
+GUI: ORG
+IP: ORG
+LAN: ORG
+MAC: ORG
+Access: PRODUCT
+Mail: GPE
+NAC: ORG
+Network Access: ORG
+Networking, Networks: ORG
+Next: ORG
+OSPF: ORG
+PCI: ORG
+Proxy: PERSON
+Routers: PRODUCT
+Routing: GPE
+SSL: ORG
+Switches: ORG
+Cisco: GPE
+TCP/IP: ORG
+Troubleshoot: ORG
+View: ORG
+VISIO: ORG
+Wide Area Network: ORG
+WAN: ORG
+LAN: ORG
+Palo Alto ACE
+
+: GPE

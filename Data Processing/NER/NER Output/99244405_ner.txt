@@ -1,0 +1,27 @@
+Kpandipou Koffi: PERSON
+Communication: ORG
+Energetic: FAC
+Administrative: ORG
+Reliability: ORG
+Organizational: ORG
+Career: FAC
+Microsoft Office
+Fluent: ORG
+French: LANGUAGE
+English: LANGUAGE
+Teacher 
+City: PERSON
+State Company Name: ORG
+Jan 2010: DATE
+2011: DATE
+30: CARDINAL
+Prepared: PERSON
+Arranged: PERSON
+State Company Name: ORG
+May 2006: DATE
+each day: DATE
+State Company Name / Sep 2004: ORG
+Oversaw: GPE
+monthly: DATE
+Training: PERSON
+2007: DATE

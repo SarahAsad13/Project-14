@@ -1,0 +1,36 @@
+Ashanique Gray: PERSON
+Skills
+
+Mental: ORG
+Loading: PERSON
+Team: ORG
+Communication: ORG
+Structured: ORG
+Cleansiness: ORG
+State Company Name: ORG
+Jan 2014: DATE
+May 2021: DATE
+halethorpe Md: PERSON
+Amazon: ORG
+Dap: DATE
+Employed: PERSON
+Scan: NORP
+State Company Name: ORG
+Trailer: ORG
+Team: ORG
+Pick: PERSON
+Scanning: GPE
+Server: PRODUCT
+Waiter: PERSON
+State Company Name / Sep 2013 to: ORG
+more than 200: CARDINAL
+La Fontaine Bleu: FAC
+Server: ORG
+Cook: PERSON
+Cook: PERSON
+Completed: ORG
+Collaborated: ORG
+Met: ORG
+Human Services Social Worker: ORG
+3.5: CARDINAL
+Gpa Level: PERSON

@@ -1,0 +1,42 @@
+Certified Human Resources Professional: ORG
+Personnel: ORG
+HRIS: PERSON
+Certified Professional Human Resource Management: ORG
+the Staffing Planning Committee: ORG
+years: DATE
+first: ORDINAL
+Open Enrollment: ORG
+03/2013 - Current
+Company Name - City: ORG
+State HR Coordinator
+
+: ORG
+Develop: ORG
+Advise: PRODUCT
+Wellness: ORG
+Develop: ORG
+11/2012: CARDINAL
+State Independent HR Contractor
+
+Assisted Human Resources: ORG
+Assisted Human Resources: ORG
+Room & Board: ORG
+State Human Resource Assistant/ HR: ORG
+Conducted: ORG
+Employee Relations: ORG
+Conducted: ORG
+11/2003 - 10/2004: CARDINAL
+State Receptionist/Administrative: ORG
+Equal Employment Opportunity: ORG
+Microsoft Excel: ORG
+Coordinated with Memorial Blood Centers: ORG
+NRG/ATT Blood Drive: ORG
+2012: DATE
+Keller Graduate School of Management City: ORG
+Human Resource Management Human Resource Management: ORG
+2002: DATE
+University of North Dakota City: ORG
+State B.A : Communications Communications: ORG
+Skills: ORG
+Employee Relations: ORG
+Safety: ORG

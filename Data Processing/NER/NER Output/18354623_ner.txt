@@ -1,0 +1,76 @@
+DIGITAL MARKETING: ORG
+Career Focus: FAC
+Digital Marketing: ORG
+Identify: ORG
+Core Strengths Web Marketing
+Strategy Development Web Analytics and Analysis Vendor & Contractor Management Project Management Team Building: PERSON
+Education E-: FAC
+Mail Marketing Business Needs Analysis Technical Proficiency Competitive Analysis Search Engine Optimization: ORG
+Cross-Functional Team Collaboration Resource Allocation Social: ORG
+Project
+Management: ORG
+SEM: ORG
+Social Media, Analytics: ORG
+Keyword Research
+MS Office: ORG
+Adobe Photoshop: PERSON
+Dreamweaver, Illustrator: ORG
+Flash: PERSON
+Acrobat: PERSON
+Google Analytics: ORG
+Siteimprove: GPE
+WebTrends: ORG
+Websidestory: ORG
+XML: ORG
+CSS: ORG
+CMS: ORG
+JavaScript: PRODUCT
+Jquery: GPE
+PHP: ORG
+Ajax: ORG
+Visio: PERSON
+DIGITAL MARKETING: ORG
+Directs: PRODUCT
+$1M: MONEY
+Communicate: ORG
+Utilize Search Engine Optimization: ORG
+12/2008: CARDINAL
+Name City: GPE
+38: CARDINAL
+2: CARDINAL
+Name City: GPE
+daily: DATE
+250: CARDINAL
+20K.: MONEY
+200: MONEY
+Recruited: PRODUCT
+PDF: ORG
+Banner: PERSON
+Created: ORG
+Graphic Design Liberty University: ORG
+New York University: ORG
+CLE Mac Learning Center City: ORG
+American Management Association: ORG
+Adobe Photoshop: PERSON
+Art Director: PERSON
+CMS: ORG
+Content Development: ORG
+CSS: ORG
+Dreamweaver: ORG
+Flash: PERSON
+HTML, Illustrator: ORG
+JavaScript: ORG
+Layout: GPE
+MS Office: ORG
+MS Project: ORG
+2: CARDINAL
+Multimedia, Optimization: ORG
+PDF: ORG
+PHP: ORG
+Project Management: ORG
+Recruiting, Research: ORG
+Search Engine Optimization, Strategy: ORG
+User Interface Design: ORG
+Visio: PERSON
+WebTrends: ORG
+XML: ORG

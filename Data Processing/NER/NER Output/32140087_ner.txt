@@ -1,0 +1,88 @@
+February 2002 to January 2010: DATE
+56,000: CARDINAL
+$50 million: MONEY
+Associated Press AdSend: ORG
+FTP: ORG
+Macy: ORG
+Pre-Press: ORG
+Macy: ORG
+Soft Proofing: WORK_OF_ART
+AdGate Adsend: ORG
+Stakeholder / Team: ORG
+a Soft Proof Committee: ORG
+Approve V.1.3: ORG
+Digital Color: PERSON
+four: CARDINAL
+ROP: ORG
+Macy: ORG
+Continually: ORG
+25%: PERCENT
+every quarter: DATE
+50%: PERCENT
+75%: PERCENT
+Adsend Roadmap: LOC
+Macy: ORG
+ROP: ORG
+Magazine Ads: PERSON
+$200+ million: MONEY
+Macy: ORG
+East: LOC
+4th: ORDINAL
+January 2010 to February 2018: DATE
+SVP of Marketing Operations: ORG
+URL/QR Codes: ORG
+Pre-Press: ORG
+Blue Line: ORG
+FTP: ORG
+Created InDesign: ORG
+Pre-Press: ORG
+85%: PERCENT
+VP of Marketing & Operations: ORG
+$250+ million: MONEY
+Direct Mail: ORG
+Fall and Spring Seasons: ORG
+Receiving Macy's: ORG
+Marketing Star of the Year Awards: WORK_OF_ART
+2013 - 2018: DATE
+annual: DATE
+Macy: ORG
+Men's Fashion Book: ORG
+SEM: ORG
+Advertising Project: ORG
+Staging Street Operations: WORK_OF_ART
+January 1998 to January 2010: DATE
+State: ORG
+January 1998 to January 2002: DATE
+January 2000 to January 2001: DATE
+January 1995 to January 1998: DATE
+Bachelor of Arts : History & Political Science (Management & Marketing: ORG
+MANHATTANVILLE: PERSON
+PMP Certificate in Project Management Certificate: ORG
+Digital Plate Processing Certificate: ORG
+Pre-Press Preparation & Processing Certificate: ORG
+4 / Color Processing & Correction Certificate: MONEY
+Social Media Advertising Certificate: ORG
+Email Marketing Certificate: FAC
+Google Analytics Search Advertising Certificate: ORG
+Branding & Fan Building Certificate: ORG
+Printing Workshop Certificate: WORK_OF_ART
+Digital Photography Workshop: ORG
+TOOLS: DATE
+Digital/Print Production: ORG
+Campaign Development: ORG
+Consulting: ORG
+Project Management: ORG
+SEM Platforms: ORG
+Affiliations: ORG
+American Marketing Association The Organization of Black Designers Advertising Production Club of New York National Black MBA
+Association Association for Project Management Digital Marketing Association Digital Advertising Alliance Macy's: ORG
+Thanksgiving Day Parade: EVENT
+Committee Macy's: ORG
+4th July Fireworks Committee: ORG
+Digital Photo: ORG
+ADTransit: ORG
+ADSend / Pre-Press: ORG
+Skills
+Vendor Relations Project Management/OOH 4/Color Correction Specialization Team Building / Training / Innovation Print Production/ Schedules: ORG
+ADTransit: ORG
+ADSend / Pre-Press: ORG

@@ -1,0 +1,113 @@
+more than 15 years: DATE
+Highlights
+
+Inventory: ORG
+Expense: NORP
+Safe: ORG
+Vendor: ORG
+CDL: PERSON
+Map: NORP
+May 2016: DATE
+July 2018: DATE
+Name City: GPE
+State Sales Representative Established: ORG
+Efficiently: ORG
+Maintained: GPE
+Processed: GPE
+November 2015: DATE
+May 2016: DATE
+Name City: GPE
+State: ORG
+Truck Driver: PERSON
+Hooked: PRODUCT
+Conducted: ORG
+DOT: ORG
+June 2015: DATE
+November 2015: DATE
+Name City: GPE
+State Sales Representative: ORG
+February 2015: DATE
+June 2015: DATE
+Name City: GPE
+State Sales: ORG
+100%: PERCENT
+5 months: DATE
+60: CARDINAL
+daily: DATE
+July 2014: DATE
+August 2014: DATE
+Name City: GPE
+State: ORG
+Assigned: PERSON
+Assigned: ORG
+daily: DATE
+Bid: PERSON
+Drivers: NORP
+DVR: ORG
+June 2006: DATE
+July 2014: DATE
+Name City: GPE
+Select Energy Services - Cleburne: ORG
+Texas Qualified: PERSON
+Supervisor: PRODUCT
+Assigned: ORG
+monthly: DATE
+daily: DATE
+June 2004: DATE
+June 2006: DATE
+Name City: GPE
+State: ORG
+Maintained: GPE
+daily: DATE
+Company Men: ORG
+June 2002: DATE
+June 2004: DATE
+Name City: GPE
+State Forklift and Loader Operator
+
+: ORG
+Maintained: GPE
+DOT Regulations: ORG
+Obtained: ORG
+daily: DATE
+DOT: ORG
+June 2000: DATE
+June 2002: DATE
+Name City: GPE
+State: ORG
+Coordinated: ORG
+daily: DATE
+July 1998: DATE
+June 2000: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+Processed: GPE
+Obtained: ORG
+May 1997: DATE
+July 1998: DATE
+Name City: GPE
+Processed: GPE
+Obtained: ORG
+Conducted: ORG
+DOT: ORG
+1981: DATE
+Castleberry City: GPE
+State: GPE
+Texas: GPE
+USA: GPE
+Commercial Driver Training: ORG
+Quality Management: ORG
+Alcohol and Drug Behavioral: ORG
+CPR: ORG
+First: ORDINAL
+Skills: ORG
+CPR: ORG
+Client: PERSON
+Drivers: NORP
+First: ORDINAL
+Forklift Operator: PERSON
+Quality Management: ORG
+Supervisor
+
+: PERSON

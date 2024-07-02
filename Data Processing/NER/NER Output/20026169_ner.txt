@@ -1,0 +1,139 @@
+Statistical
+Analysis: ORG
+Seventeen years: DATE
+four million to: CARDINAL
+Last six years: DATE
+Industrial Welding Company: ORG
+Ironworkers Local Union: ORG
+118: CARDINAL
+Sacramento: GPE
+December 7, 2001: DATE
+Utah Valley University: ORG
+2005: DATE
+Bachelor: ORG
+a Professional Pilot: ORG
+A Master's Degree: WORK_OF_ART
+Arizona State University: ORG
+December 19, 2012: DATE
+a Master's of Science
+Technology Aviation Management (Human Factors: WORK_OF_ART
+Supervisory Skills Able: PERSON
+Aviation Research and Statistical Analysis Task: ORG
+FAA: ORG
+Department of Transportation: ORG
+CFR: ORG
+Public Airport: FAC
+SPSS: ORG
+Excel: PRODUCT
+Power Point: ORG
+R.: NORP
+Skills
+Work History: WORK_OF_ART
+Current
+Aircraft Sales Company Name: ORG
+Investigate: ORG
+FAA: ORG
+FAA: ORG
+Research: ORG
+01/2012 to 05/2012: CARDINAL
+Internship Company Name: ORG
+Weekly: GPE
+Monthly: DATE
+Uphold: ORG
+Investigate: ORG
+Line Crews Safety Gear: ORG
+Hess Steel Company: ORG
+four: CARDINAL
+118: CARDINAL
+SACRAMENTO CALIFORNIA Supervised: ORG
+3: CARDINAL
+40: CARDINAL
+Supervise Jobs: PERSON
+tens of thousands: CARDINAL
+Construction of State Prisons: ORG
+Bridges: PERSON
+Work Breakdown Structures: ORG
+Coordinate: ORG
+Workflow &: ORG
+Graduate Degree: PERSON
+Arizona State University: ORG
+ASU: ORG
+Science Technology Aviation Management - Human Factors GPA:: ORG
+GPA: ORG
+3.5/4.0: CARDINAL
+Science Technology Aviation Management - Human
+Factors: ORG
+3.5/4.0: CARDINAL
+Applied Project - (: ORG
+FAA Sponsored: ORG
+ANALYSIS: ORG
+14: CARDINAL
+CFR: ORG
+67: CARDINAL
+AME: ORG
+47 BEFORE: TIME
+33: CARDINAL
+EthicsIntermed StatisticsAirport Planning: ORG
+DesignResearch Techniques: ORG
+4 2010: DATE
+Bachelor of Science : Aviation Science Aviation: ORG
+Utah Valley University: ORG
+UVU: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.67/4.0 Aviation Science GPA: ORG
+3.67/4.0 Aviation Professional Pilot Program Â: ORG
+120: CARDINAL
+General Ed.:Air
+Transportation ManagementAviation LawCrew Resource Management/Human FactorsSafety: ORG
+Professional SeminarsIntroduction to Aviation
+SecurityAviation Insurance/Risk ManagementCorporate Aviation: ORG
+Commercial, Ground InstructorFlight Training:Private, Instrument, Commercial, Flight InstructorTheory of Instruction: ORG
+4 2008: DATE
+Certified InstructorAir Traffic Control: ORG
+Columbia College - State: ORG
+GPA: ORG
+GPA: ORG
+3.52/4.0: CARDINAL
+3.52/4.0: CARDINAL
+12 1982: DATE
+General Education: ORG
+American River College - City: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.2: CARDINAL
+3.2: CARDINAL
+20
+: TIME
+Sim Time: PERSON
+Sim Check: PERSON
+Welding Certificates: WORK_OF_ART
+6010: DATE
+7018: DATE
+202: CARDINAL
+211: CARDINAL
+232: CARDINAL
+Skills
+Photo: ORG
+Bridges: PERSON
+Dec 7: DATE
+Instructor, Instruction, Insurance, Labor Relations: ORG
+Law: PERSON
+Research, Risk Management, Safety: ORG
+Seminars, Statistics: ORG
+Transportation: ORG
+Tae Kwon: PERSON
+Warner Football: ORG
+Super Bowl
+Championship: EVENT
+2005 Â​ 2012: DATE
+Bachelor: ORG
+1975: DATE
+Flying General Aviation Airplanes Restore Antique Cars Avid Motorcycle Rider: ORG
+Volunteer: PERSON
+Tuolumne Recreation Department: ORG
+Football: ORG
+6th, 7th: DATE
+8th: ORDINAL

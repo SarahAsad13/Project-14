@@ -1,0 +1,104 @@
+directingÂ: PERSON
+17 years: DATE
+achievingÂ: PERSON
+18+ years: DATE
+PMI: ORG
+CMMI: ORG
+Certified Microsoft Professional: Enterprise Project Management: ORG
+SharePoint Portals: ORG
+Detail-orientedÂ: PERSON
+Project/Program Management: ORG
+six: CARDINAL
+first: ORDINAL
+two: CARDINAL
+one: CARDINAL
+PMBOK: ORG
+Software Engineering: PERSON
+Microsoft Framework: ORG
+2: CARDINAL
+Practice Development and Management: ORG
+$10 million: MONEY
+four: CARDINAL
+fifteen: CARDINAL
+$5 million: MONEY
+annual: DATE
+Maryland-: ORG
+LLC: ORG
+February 2011: DATE
+Current Technology Project: ORG
+February 2010 to January 2011: DATE
+USDA: ORG
+U.S.: GPE
+USDA: ORG
+SharePoint: ORG
+February 2007 to January 2010: DATE
+Project Management Consultant 
+City: ORG
+$1mm: MONEY
+Professional Project: ORG
+includesÂ: ORG
+weeks: DATE
+the first 3 months: DATE
+two: CARDINAL
+3: CARDINAL
+September 2006 to January 2007: DATE
+NASA: ORG
+September 2001 to August 2006: DATE
+Principal 
+City: PERSON
+servicesÂ: ORG
+Microsoft: ORG
+Project Server: PERSON
+SharePoint Services: ORG
+Procter & Gamble: ORG
+Microsoft Corp.: ORG
+Allegis Group: ORG
+Verizon: GPE
+January 1999 to June 2001: DATE
+PMO: ORG
+$10 million: MONEY
+$10 million: MONEY
+Microsoft Solutions Framework: ORG
+PMBOK: ORG
+Rational Unified Process: ORG
+January 1997 to January 1999: DATE
+Procter & Gamble Pharmaceuticals Research &
+Development Division: ORG
+six: CARDINAL
+Corporate Practice Deployment Lead: ORG
+May 1987 to: DATE
+February 1994: DATE
+Professional Services Delivery 
+City: ORG
+the U.S. Professional Services
+Organization: ORG
+four: CARDINAL
+15Â: DATE
+$5 million: MONEY
+George Washington University 1997 Masters Certificate : Technology Project Management State IT Project Management
+Loyola University: ORG
+1987: DATE
+State: ORG
+Towson University: ORG
+State Business Administration: ORG
+Skills
+
+Project Management Software: ORG
+Microsoft Project: ORG
+Project Server: ORG
+SharePoint, Office, Team Foundation Server: ORG
+Project Planning: ORG
+PMI: ORG
+CMMI: ORG
+Agile: NORP
+Iterative: GPE
+Waterfall, Risk Management, Requirements Management: ORG
+Vendor Selection: ORG
+Vendor Management: ORG
+Portfolio Management: ORG
+Computer Manufacturing: ORG
+Software Development, Pharmaceuticals: ORG
+Federal Government, Technology
+Consulting: ORG
+Professional Services: ORG
+Staffing and Recruiting, Testing and Certification Services, Systems Integration, Telecommunications: WORK_OF_ART

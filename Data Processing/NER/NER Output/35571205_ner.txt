@@ -1,0 +1,47 @@
+Grocery Clerk: ORG
+Maintained: GPE
+first: ORDINAL
+first: ORDINAL
+Established: ORG
+Inspected: ORG
+Connect/Disconnect Washers: ORG
+Picker: ORG
+04/2016: PRODUCT
+09/2016: CARDINAL
+Delivery Driver: PERSON
+holiday season: DATE
+10/2017: DATE
+Maintained: GPE
+each day: DATE
+09/2016: PRODUCT
+04/2018: ORG
+Maintained: GPE
+Maintained: GPE
+monthly: DATE
+Oversaw: GPE
+each day: DATE
+Apparel Clerk/PIC: PERSON
+12/2017: DATE
+04/2018: ORG
+Cleaned: FAC
+daily: DATE
+Assigned: ORG
+Mentored: ORG
+Maintained: GPE
+Steel Worker: PERSON
+04/2018: ORG
+jobsite: NORP
+extended hours: TIME
+Prepared: PERSON
+monthly: DATE
+Informed: ORG
+Prepared: PRODUCT
+2013: CARDINAL
+Auburn Mountainview High School - City: ORG
+daily: DATE
+Backhoe: PERSON
+Bobcat: PERSON
+Basic: PRODUCT
+Dependable, Driving: ORG
+Works: ORG
+Safety: ORG

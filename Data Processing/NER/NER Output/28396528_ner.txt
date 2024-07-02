@@ -1,0 +1,53 @@
+CNA: ORG
+4+
+years: DATE
+Skill Highlights: PERSON
+Charting: PERSON
+Understands: GPE
+Documentation: ORG
+Quick: ORG
+Chart: ORG
+Enthusiastic: ORG
+April 2012: DATE
+January 2013: DATE
+Name City: GPE
+January 2013: DATE
+April 2013: DATE
+Name City: GPE
+State Caregiver/PCA
+
+Observed: ORG
+daily: DATE
+daily: DATE
+daily: DATE
+April 2013: DATE
+Name City: GPE
+State Caregiver
+
+: ORG
+daily: DATE
+daily: DATE
+daily: DATE
+April 2014: DATE
+August 2014: DATE
+Name City: GPE
+ADL: ORG
+daily: DATE
+daily: DATE
+April 2015: DATE
+October 2015: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+daily: DATE
+October 2015: DATE
+Name City: GPE
+State Caregiver
+
+Observed: ORG
+Training: PERSON
+2012: DATE
+Orting High School City: ORG
+State High School Diploma: ORG
+Detail: PERSON
+Hospice: NORP

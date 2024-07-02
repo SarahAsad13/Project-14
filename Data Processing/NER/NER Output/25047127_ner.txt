@@ -1,0 +1,43 @@
+Specialist Â: ORG
+Skills
+
+Advanced MS Office: ORG
+Suite: PERSON
+Excel: PRODUCT
+Word: PERSON
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Critical Thinking: PERSON
+Decision
+Making and Communication Skills
+Responsible: ORG
+Understands: GPE
+Centralized Administrative: PERSON
+Arrange: NORP
+Order: ORG
+Follow: PERSON
+Complete Marketplace Compliance: PERSON
+Oct 2015 to Dec 2015: DATE
+Maintained: GPE
+Maintained: ORG
+May 2015: DATE
+tracking employees hours: TIME
+Training
+Health Education: ORG
+Science 2015: PERSON
+Jackson State University: ORG
+State Health Education: ORG
+General Science
+Skills
+
+Software:: ORG
+Salesforce.com: ORG
+Desktop Publishing Software: ORG
+Activities and Honors: WORK_OF_ART
+2015: DATE
+Magna: PERSON
+Dean: PERSON
+List Scholar: PERSON
+Kappa Phi: PERSON

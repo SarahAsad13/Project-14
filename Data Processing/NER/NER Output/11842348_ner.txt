@@ -1,0 +1,68 @@
+SVP: ORG
+REGIONAL: ORG
+Associate: PRODUCT
+24: CARDINAL
+500: MONEY
+up to $2,000,000: MONEY
+September 2014: DATE
+SVP: ORG
+Wealth Management 
+City: ORG
+24: CARDINAL
+500: MONEY
+up to $2,000,000: MONEY
+April 2014 to September 2014: DATE
+SVP: ORG
+Group: ORG
+State: ORG
+Citizens Bank's: ORG
+Business Banking Contact Center: ORG
+RI: GPE
+Phonebank: ORG
+210: CARDINAL
+April 2004 to March 2014: DATE
+SVP: ORG
+21: CARDINAL
+Boston Downtown Region: GPE
+Citizens Management: ORG
+January 2002 to April 2004: DATE
+April 2000 to December 2001: DATE
+January 1997 to January 1999: DATE
+Department Head: PERSON
+Men's Wear 
+City: ORG
+15: CARDINAL
+2: MONEY
+3: MONEY
+50%: PERCENT
+Education: ORG
+Babson College Executive: ORG
+2011: DATE
+MA: PERSON
+Leadership Management Programme 2011 Investment Licenses Series: ORG
+7 & Producers Life and Health: ORG
+MA: GPE
+Commercial Lending Training Program: ORG
+2008: DATE
+Citizens Bank Commercial Lending Training Program: ORG
+Citizens Bank: ORG
+2008: DATE
+Moody's Analytic's: ORG
+, inc..
+University of Ottawa 1997 BSc: ORG
+Economics 1997 University of Ottawa
+Professional Affiliations
+
+: ORG
+Citizens Management: ORG
+Market Research: ORG
+Wealth Management: ORG
+Customer
+Service: ORG
+Detail Oriented: PERSON
+Exceed, Journal: ORG
+Receptionist: NORP
+Self Motivated,: PERSON
+Territory: PERSON
+Sales Activities: PERSON
+7: CARDINAL

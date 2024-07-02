@@ -1,0 +1,99 @@
+BUSINESS DEVELOPMENT: ORG
+Builds: PERSON
+Skill Highlights: PERSON
+Operational Risk
+
+Core Accomplishments
+
+Operations Management: Managed: WORK_OF_ART
+150 FTE: MONEY
+Mentored: ORG
+12%: PERCENT
+Project Management: ORG
+Initiated: ORG
+80%: PERCENT
+40%: PERCENT
+one year: DATE
+NY City Bar: ORG
+GSE: PERSON
+NYC: LOC
+Name City: GPE
+State Business Development: ORG
+1.2 million dollar: MONEY
+first six months: DATE
+60%: PERCENT
+one year: DATE
+Name City: GPE
+10/2014: CARDINAL
+two: CARDINAL
+AVP: ORG
+ten: CARDINAL
+one: CARDINAL
+120: CARDINAL
+Wells Fargo: ORG
+Created: ORG
+two: CARDINAL
+the Office of the
+President: ORG
+WFHM: ORG
+FHA: ORG
+VA: GPE
+FNMA: ORG
+FHLMC: ORG
+OCC: ORG
+GCOR: ORG
+3rd: ORDINAL
+Wells Fargo: ORG
+Wells Owned: ORG
+Wells Fargo Financial: ORG
+Wells Fargo Home Equity: ORG
+Wells Fargo Pick: ORG
+FNMA: ORG
+FHLMC: ORG
+USDA: ORG
+VA: ORG
+FHA: ORG
+FHLB: ORG
+Created: ORG
+Represented Wells Fargo: ORG
+Government Relations: ORG
+Legal: GPE
+Name City: GPE
+State: ORG
+Ensures: LOC
+Liaison: PERSON
+Aligns: PERSON
+Loss Mitigation: ORG
+Name City: GPE
+State Customer Service: ORG
+Customer Service and Collections: ORG
+Initiated: ORG
+monthly: DATE
+Monitored: ORG
+monthly: DATE
+Monitored: ORG
+daily: DATE
+monthly: DATE
+annual: DATE
+two: CARDINAL
+Call Centers: ORG
+Rancho Cucamonga: GPE
+California: GPE
+Schaumburg: GPE
+Illinois: GPE
+Name City: GPE
+State Loan Processing: ORG
+VOE: ORG
+VOM: ORG
+Collaborated: ORG
+Name City: GPE
+State Loan Officer: ORG
+Maintained: GPE
+Prepared: PERSON
+Call Center: ORG
+Customer Service: ORG
+Equity: ORG
+Financial: ORG
+Legal: GPE
+Pick: PERSON
+Vendor: ORG

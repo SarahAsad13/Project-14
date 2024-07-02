@@ -1,0 +1,98 @@
+U.S.: GPE
+US: GPE
+8 years: DATE
+Clerk: PERSON
+2 years: DATE
+4 years: DATE
+Advert: ORG
+Administrative Support: PERSON
+Office Materials Management: ORG
+Microsoft Word: PERSON
+MS Excel: ORG
+MS Outlook: GPE
+MS PowerPoint: PERSON
+PeopleSoft: ORG
+40: CARDINAL
+Data Entry,: ORG
+Organizational Skills: PERSON
+Receptionist, Research, Scanning, Scheduling,: ORG
+Telephone Skills: ORG
+Inventory Management: ORG
+Name City: GPE
+monthly: DATE
+Maintained Heavy Filing: ORG
+HR Personnel Action Forms: ORG
+Assisted Senior Personnel: ORG
+Coordinating: GPE
+Utilized: ORG
+Navigated PeopleSoft: ORG
+Initiated: ORG
+NPS: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State Office Clerk/ Federal Contractor 06/2008: ORG
+10/2009: CARDINAL
+Retirement & NRC: ORG
+CIS: ORG
+Completing File Maintenance of Riders: ORG
+Certificates: PRODUCT
+3-Box Audit: ORG
+FBI: ORG
+Assign: ORG
+Clerical Reception of Scheduled Applicants: ORG
+Auditing Confidential Department Files: ORG
+Composing & Mailing: ORG
+Printouts for Examinations/Cases: ORG
+Naturalization: EVENT
+Distribution of Certificates: ORG
+B.
+Retrieval of Documentation: ORG
+Using Computer Terminal: ORG
+DHS Automated Systems: ORG
+Performing Daily: WORK_OF_ART
+Name City: GPE
+State Office Clerk/Federal Contractor 07/2005: ORG
+Online Mail Information Updating
+Setting Schedules for Staff: ORG
+Confidential Court Documents
+Metering: ORG
+Office administrators & Managers: ORG
+Bachelor: ORG
+Montclair State University: ORG
+City: GPE
+State: GPE
+US Bachelor's: PERSON
+Political Science: WORK_OF_ART
+1998: DATE
+State: GPE
+US High School Diploma Our Lady of Good Counsel: ORG
+School - Newark: ORG
+1995: DATE
+1998: DATE
+Skills
+Filing: ORG
+Clerk: PERSON
+Clerical Support: ORG
+Legal Documents: ORG
+Office
+Supplies, Stamping, Administrative Support, Audit, Auditing,: ORG
+Copying, Documentation: ORG
+Fbi, File, Finishing, Nrc, Scheduling: ORG
+Basis, Correspondence, Database: ORG
+Hr, Human Resources: ORG
+Peoplesoft: ORG
+Teaching, Inventory: ORG
+60 Wpm: DATE
+Customer Service: ORG
+Excel: PRODUCT
+File Management, Materials Management: ORG
+Microsoft: ORG
+Ms Excel: PERSON
+Ms Outlook: PERSON
+Ms Powerpoint: PERSON
+Organizational Skills: PERSON
+Outlook, Powerpoint: ORG
+Proofreading: GPE
+Receptionist: NORP
+Scanning: GPE

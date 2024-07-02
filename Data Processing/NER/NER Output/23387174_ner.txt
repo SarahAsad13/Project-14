@@ -1,0 +1,109 @@
+16+ Years: DATE
+Accounting: GPE
+Finance: ORG
+Accountant: ORG
+Controller: PERSON
+Accounts & Finance: ORG
+Budgeting &fund planning: ORG
+Auditing, Taxation: ORG
+Accurate: ORG
+Bookkeeper: GPE
+Highlights: GPE
+Monthly: DATE
+Reconciliations: PERSON
+Month: DATE
+& Journal: ORG
+Account Payable: ORG
+Ledger Reconciliations: PERSON
+Inter-Company Reconciliations
+Fixed Assets Accounting
+Stock Valuation
+MIS, Financials (Profit & Loss / Balance Sheet: ORG
+Internal & Statutory Audits Ms-Office: ORG
+Outlook: PERSON
+SAP: ORG
+Quick Books
+Periodic: PERSON
+Managerial: ORG
+Fiscal: WORK_OF_ART
+Complex: NORP
+Strong: PERSON
+Ethical: PERSON
+first: ORDINAL
+VAT Refund Claim: ORG
+INR: ORG
+32.50 Million: CARDINAL
+the State Government: ORG
+Central Sales Tax Reimbursement Claim: ORG
+Furnace Oil Duty: PERSON
+4%: PERCENT
+the Kandla Free Trade Zone: ORG
+every quarter: DATE
+1997 to 2008: DATE
+Zero: CARDINAL
+Excise & Labour Office: ORG
+Accountant: PERSON
+January 2011 to April 2016: DATE
+200: CARDINAL
+weekly: DATE
+Monthly: DATE
+month-end: DATE
+year-end: DATE
+Inter-company: ORG
+Processed: GPE
+Excel: PRODUCT
+Processed: GPE
+quarterly: DATE
+April: DATE
+March: DATE
+Great Plains Compile: ORG
+monthly: DATE
+Finance: ORG
+Perform AR/AP: PERSON
+Prepare & forecasting Budget: ORG
+month to month: DATE
+monthly: DATE
+Managing internal & statutory auditors: ORG
+May 2008 to January 2011: DATE
+weekly: DATE
+Month: DATE
+Prepare: ORG
+Ad Hoc: PERSON
+April 1997 to May 2008: DATE
+Reconcile: PRODUCT
+monthly: DATE
+Prepare: ORG
+monthly: DATE
+10: CARDINAL
+Oracle Payables Post: ORG
+month-end: DATE
+weekly: DATE
+1996: DATE
+M S University: ORG
+Skills
+Accounting: ORG
+Ad: ORG
+AP: ORG
+Balance Sheet: PERSON
+Monthly Bank Reconciliations: ORG
+Budgeting, Budget, Cash Flow: ORG
+ERP: ORG
+Filling, Finance: ORG
+Fixed Assets: ORG
+General Ledger, Great Plains: ORG
+Ledger: PERSON
+Excel: PRODUCT
+Office: ORG
+Ms-
+Office: ORG
+Outlook, Power Point: ORG
+Word: PERSON
+MIS: ORG
+month-end closing,: DATE
+Month end: DATE
+Oracle, Payables,: ORG
+Payroll: ORG
+Quick Books: ORG
+SAP: ORG
+Valuation: PERSON
+year-end: DATE

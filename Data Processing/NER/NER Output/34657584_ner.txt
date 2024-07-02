@@ -1,0 +1,99 @@
+2D & 3D: ORG
+Primavera Complete: PERSON
+Team: ORG
+M.S-Office: ORG
+M.S-Dos: ORG
+Digital
+Designing & Video Editing: ORG
+Adobe-Photoshop: ORG
+Page Maker: PERSON
+Illustrator: ORG
+Corel-Draw: ORG
+Adobe-Preimere: ORG
+Ulead Video Studio: ORG
+Macromedia: ORG
+Flash: PRODUCT
+Projects, Computer Fundamentals and Information Technology: ORG
+Mar 2014: DATE
+OCS: ORG
+MIR: ORG
+Program: ORG
+site &
+histogram: ORG
+weekly: DATE
+monthly: DATE
+Supervisor Oct: PERSON
+2012 to Jan 2014: DATE
+Program: ORG
+site &
+histogram: ORG
+weekly: DATE
+monthly: DATE
+Architecture: ORG
+Interior: ORG
+Structural: ORG
+site & the main: ORG
+monthly: DATE
+Analyzing efficiencies & preparation: ORG
+Liaison: PERSON
+Supervisor Apr: PERSON
+2010: DATE
+Sep 2012: LAW
+Program: ORG
+site &
+histogram: ORG
+weekly: DATE
+monthly: DATE
+Architecture: ORG
+Interior: ORG
+Structural: ORG
+site & the main: ORG
+monthly: DATE
+Analyzing efficiencies & preparation: ORG
+Liaison: PERSON
+2010: DATE
+weekly: DATE
+Languages Known: PERSON
+English: LANGUAGE
+Hindi: GPE
+Malayalam: GPE
+Tamil: PERSON
+DIPLOMA: ORG
+2010: DATE
+Gurukulam Campus: PERSON
+State: GPE
+INDIA: GPE
+Civil Engineering Government: ORG
+Tamil Nadu: PERSON
+Gurukulam Campus: PERSON
+Mahathma College: ORG
+Tirur: PRODUCT
+20th April 1990: DATE
+Indian: NORP
+Karatt House: PERSON
+Annara Chattikkal P.O: PERSON
+Malappuram Kerala: PERSON
+India Current: ORG
+Doha: GPE
+Qatar: GPE
+Skills: ORG
+Adobe: PERSON
+Adobe-Photoshop: ORG
+2: CARDINAL
+Corel-Draw: ORG
+Client: GPE
+English: LANGUAGE
+Estimating: GPE
+Macromedia: GPE
+Flash, Government: ORG
+Hindi, Illustrator, Information Technology: ORG
+Office, Works: ORG
+Page Maker: PERSON
+Primavera: ORG
+20th April 1990: DATE
+Indian: NORP
+Karatt House: PERSON
+Malappuram Kerala: PERSON
+India Current: ORG
+Doha: GPE
+Qatar: GPE

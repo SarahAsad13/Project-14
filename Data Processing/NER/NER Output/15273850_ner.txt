@@ -1,0 +1,10 @@
+Skills: ORG
+Quickly: ORG
+Maintained: GPE
+daily: DATE
+Created: ORG
+Maintained: GPE
+all season: DATE
+1985: DATE
+Northwood High School: ORG
+State: ORG

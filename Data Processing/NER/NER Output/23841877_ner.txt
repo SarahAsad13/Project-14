@@ -1,0 +1,73 @@
+Career Overview: WORK_OF_ART
+28 Years: DATE
+Core Strengths
+
+Customer: WORK_OF_ART
+Client: GPE
+Accounting
+Inventory: ORG
+Strategic Planning
+Strong oral Communications
+
+Accomplishments
+
+Certified: ORG
+Bistro Chef 01/2014: ORG
+Maintained: GPE
+01/2010: DATE
+Filling Online: PERSON
+DSP: ORG
+01/2010 Company Name City: EVENT
+Mentally: PERSON
+Physically: PERSON
+daily: DATE
+Name City: GPE
+State
+
+Daily: ORG
+Processed: GPE
+H.R.: PERSON
+Internal Auditor 01/2004 to 01/2008 Company Name City: ORG
+daily: DATE
+Pre-Bill: PERSON
+Start Up: ORG
+Retail Business Management
+System: ORG
+Customer Service: ORG
+01/2000: CARDINAL
+Name City: GPE
+Maintained: GPE
+Specialist/Customer Service: ORG
+Name City: GPE
+Maintained: GPE
+T1: NORP
+T3: NORP
+Explained: PERSON
+Name City: GPE
+Opening: WORK_OF_ART
+Counter: PERSON
+Ulima 2 Cosmetics: ORG
+Name City: GPE
+State: ORG
+1990: DATE
+State: GPE
+Germany: GPE
+1987: DATE
+Hermannsburg City: GPE
+State: GPE
+Germany: GPE
+Hermannsburg City: GPE
+State: GPE
+Germany: GPE
+Associate of Arts : Arts: ORG
+State: ORG
+United States of America: GPE
+Windows NT: LOC
+Vista: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+Android: ORG
+AS400: PRODUCT
+SMS800: PRODUCT

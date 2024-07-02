@@ -1,0 +1,82 @@
+4: CARDINAL
+10+ years: DATE
+Sharp: ORG
+Time: ORG
+State: GPE
+USA: GPE
+Ravenswood Annex: PERSON
+City: GPE
+State: GPE
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Microsoft: ORG
+Microsoft Office: ORG
+Perfect Attendance: PERSON
+State: GPE
+WV Department of Education: ORG
+Customer Service & Accountability Â 
+
+Helped: ORG
+Department of Education: ORG
+1: CARDINAL
+10-1500: CARDINAL
+2: CARDINAL
+Microsoft: ORG
+Microsoft Office: ORG
+Accomplishment Typing Institute of America: ORG
+Microsoft Office - Advanced: ORG
+62+ wpm: CARDINAL
+97%: PERCENT
+10/2010: CARDINAL
+Accountant III Company Name: ORG
+Division of Student Services
+
+Internal Operations: ORG
+1900: DATE
+Kanawha Boulevard: FAC
+Charleston: GPE
+25305-0330: DATE
+Phil Uy: PERSON
+FIMS: ORG
+10/2010: CARDINAL
+II Company: PERSON
+Division of Student Support Services
+
+Child Nutrition: ORG
+1900: DATE
+Kanawha Boulevard: FAC
+Charleston: GPE
+25305-0330: DATE
+304)558.2708P: CARDINAL
+304)558.1149F: CARDINAL
+Richard Goff: PERSON
+the Office of Child Nutrition: ORG
+4: CARDINAL
+Gloria Cunningham: PERSON
+Gus Nelson: PERSON
+Lynn Nehoda: PERSON
+Bekki
+Leigh: PERSON
+11/2007: CARDINAL
+II Company: PERSON
+State: ORG
+Division of Teaching and Learning
+
+Special Programs
+
+: ORG
+First: ORDINAL
+1900: CARDINAL
+Boulevard: LOC
+Charleston: GPE
+25305-0330: DATE
+304)558.2696P: CARDINAL
+Jacqueline Veres: PERSON
+III-A: PERSON
+First: ORDINAL
+3: CARDINAL
+daily: DATE
+RF: ORG
+the Reading First Program: ORG
+WV: GPE

@@ -1,0 +1,57 @@
+Certified Massachusetts Domestic Violence: ORG
+Skill Highlights: PERSON
+Risk Assessment
+Program Development
+
+Youth Advocacy
+Court: WORK_OF_ART
+advocacyÂ 
+Outreach
+Case: PERSON
+July 2014: DATE
+Current Domestic Violence: ORG
+One: CARDINAL
+one: CARDINAL
+up to 15: CARDINAL
+one: CARDINAL
+the Haverhill District Courthouse: FAC
+Created: ORG
+first: ORDINAL
+Haverhill: PERSON
+10-20: CARDINAL
+Haverhill Public Schools: ORG
+10-14: CARDINAL
+January 2014: DATE
+May 2014: DATE
+Samdperil: PERSON
+Conducted: ORG
+Samdperil: PERSON
+Performed: ORG
+January 2010 to January 2014: DATE
+Outreach Coordinator: PERSON
+the Sexual Harassment and Rape Prevention Program: ORG
+Digitized: ORG
+New England: LOC
+1980: DATE
+One: CARDINAL
+January 2012: DATE
+Current Customer Service: ORG
+January 2010 to January 2013: DATE
+years: DATE
+Gained: NORP
+SPSS: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+January 2011 to January 2012: DATE
+Office of Multicultural Student Affairs 
+City: ORG
+Facilitated: ORG
+January 2011 to January 2012: DATE
+January 2006: DATE
+Current Server 
+City: PERSON
+Training
+University of New Hampshire: ORG
+May 2014: DATE
+Microsoft Office: ORG

@@ -1,0 +1,20 @@
+Nine years: DATE
+Excels: PERSON
+Key Skills: LOC
+01/2016: ORG
+State
+
+Met: ORG
+01/2016: ORG
+cashier: PERSON
+Determine: ORG
+Skills: ORG
+Legendary: GPE
+Training: PERSON
+2010: DATE
+Business and Computer: ORG
+August 2014: DATE
+Victoria Secret: PERSON
+August 2015: DATE
+the month: DATE
+the month August 2015: DATE

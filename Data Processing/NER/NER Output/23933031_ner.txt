@@ -1,0 +1,147 @@
+SR: ORG
+Workforce & Relationship: ORG
+12/2014: CARDINAL
+State: ORG
+33%: PERCENT
+14 million: CARDINAL
+yearly: DATE
+5%: PERCENT
+Q1: CARDINAL
+250,000: MONEY
+46%: PERCENT
+$17 million: MONEY
+annually: DATE
+1.14: MONEY
+30%: PERCENT
+three: CARDINAL
+600,000: MONEY
+Volunteer: PRODUCT
+Bluestem: PERSON
+Pennsylvania: GPE
+07/15 - 10/16 Managed: PERCENT
+five: CARDINAL
+5: CARDINAL
+seven: CARDINAL
+two: CARDINAL
+four: CARDINAL
+4: CARDINAL
+two: CARDINAL
+2: CARDINAL
+Sales & Customer Services: ORG
+14 million: CARDINAL
+yearly: DATE
+5%: PERCENT
+7: CARDINAL
+24: CARDINAL
+Allocated: ORG
+Q1: CARDINAL
+250,000: MONEY
+33%: PERCENT
++/-600: CARDINAL
+14: CARDINAL
+weekly: DATE
+$1 Billion: MONEY
+Developed &: ORG
+Workforce: ORG
+Kronos & QA: ORG
+16%: PERCENT
+100,000: MONEY
+annual: DATE
+Modified Hours of Operations: WORK_OF_ART
+46%: PERCENT
+$17 Million: MONEY
+annually: DATE
+four: CARDINAL
+4: CARDINAL
+six: CARDINAL
+6: CARDINAL
+7: CARDINAL
+24: CARDINAL
+Alorica: GPE
+#1: MONEY
+nine (9: DATE
+Developed: ORG
+30-minute: TIME
+between nine (9: CARDINAL
+seven: CARDINAL
+7: CARDINAL
+Directed &: ORG
+weekly: DATE
+seven: CARDINAL
+7: CARDINAL
+Hosted: ORG
+daily: DATE
+seven: CARDINAL
+7: CARDINAL
+eBay Enterprise: ORG
+Florida: GPE
+11/11 - 12/14: CARDINAL
+Workforce Planning & Business Intelligence: ORG
+40%: PERCENT
+Intraday: DATE
+4: CARDINAL
+5,000: CARDINAL
+7: CARDINAL
+24: CARDINAL
+90%: PERCENT
+Prepared, Hosted & Reported: ORG
+WebX: PERSON
+daily: DATE
+day: DATE
+current & future day's: ORG
+100: CARDINAL
+20 Million: CARDINAL
+Trained new & current: ORG
+Volunteer: PRODUCT
+BET: ORG
+01/2000: CARDINAL
+15-100: CARDINAL
+Integrated: LOC
+$1.14 million: MONEY
+30%: PERCENT
+Recruited: PRODUCT
+three: CARDINAL
+3: CARDINAL
+600,000: MONEY
+annually: DATE
+Charrette: ORG
+1: MONEY
+budgets &: ORG
+Promoted &: ORG
+social media
+& marketing: ORG
+10/1996: CARDINAL
+01/2000: CARDINAL
+Workforce Management Operations: ORG
+10: CARDINAL
+two: CARDINAL
+2: CARDINAL
+Centers: ORG
+Center KPIs Chaired: ORG
+weekly: DATE
+Clientele: ORG
+Microsoft: ORG
+Deutsch-Bank: ORG
+Gateway: GPE
+daily: DATE
+Help Desk: LOC
+400-1400+: DATE
+Intraday: WORK_OF_ART
+contractual stipulations & current: ORG
+Co-Created &
+Co-Chaired: ORG
+Stream: GPE
+Values Committee: ORG
+Stream University: ORG
+workforce development & lower: ORG
+today: DATE
+Bachelor of Science : Social Science Portland State University: ORG
+State Social Science
+Skills: ORG
+Business Intelligence: ORG
+Clientele: ORG
+Customer Services: ORG
+Gateway: PERSON
+Kronos: PERSON
+QA: ORG
+Quality Assurance: GPE

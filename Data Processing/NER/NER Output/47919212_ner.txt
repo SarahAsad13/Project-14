@@ -1,0 +1,110 @@
+Tier 3: DATE
+Fortune 1000: LAW
+up to 26: CARDINAL
+Windows Platforms and System Center: ORG
+Setup: ORG
+Cluster, Performance: ORG
+SCOM: GPE
+Virtualization: ORG
+Connects: ORG
+Platforms Core (Setup, Cluster, Performance: ORG
+Core: ORG
+weekly: DATE
+Core: ORG
+HIPO: ORG
+1 year: DATE
+Windows Hiring: NORP
+Windows Platforms Cluster: ORG
+70: CARDINAL
+1 year: DATE
+Career Fair: WORK_OF_ART
+MACH: GPE
+Angel Tree: PERSON
+Digi Girlz: PERSON
+Intune: ORG
+System Center MSD
+Cluster: WORK_OF_ART
+PG: GPE
+Routing: GPE
+Product Group PM's: ORG
+System Center Scenarios for System Center: ORG
+2012: DATE
+Windows, Cluster, Performance, App-V: ORG
+VMM: ORG
+Operations: ORG
+Club: ORG
+Toastmasters Area Governor: LOC
+Vince Hampton: PERSON
+MSD LEAN: ORG
+Days: DATE
+CPE: ORG
+CSS Americas: ORG
+Advisory Council: ORG
+MSD Improve: ORG
+North
+America: ORG
+weekend: DATE
+evening: TIME
+Led Peace: WORK_OF_ART
+Earth: LOC
+WFM Staffing, Duty Managers: ORG
+NA Managers: ORG
+India Managers: ORG
+CIS Organization: ORG
+Windows and System Center: ORG
+Phillips 66: FAC
+Dave Parker: PERSON
+TAM: ORG
+Engineer: ORG
+12/1997: DATE
+Outlook, Exchange Server: ORG
+Microsoft Operations: ORG
+Systems Management Server: ORG
+2000: CARDINAL
+Exchange Management: ORG
+Exchange Management: ORG
+Exchange 2000: ORG
+Network Administrator: ORG
+12/1997: CARDINAL
+Novell: ORG
+22: CARDINAL
+Lincoln County School: ORG
+Maintained: GPE
+Lincoln County School of Technology: ORG
+about 50: CARDINAL
+75: CARDINAL
+a day: DATE
+Network Technician: PERSON
+4: CARDINAL
+CPCC: ORG
+6 month: DATE
+Library: PERSON
+Maintained: GPE
+Novell: ORG
+Associate of Science : Mechanical Engineering Technology: ORG
+1993: DATE
+Central Piedmont Community College Mechanical Engineering Technology: ORG
+1993: DATE
+Central Piedmont Community College Manufacturing Engineering
+Technology: ORG
+2011 Montreat College: ORG
+State Business Administration: ORG
+2017: DATE
+Montreat College: ORG
+State Business Administration: ORG
+2017: DATE
+Capella University: ORG
+Montreat College: ORG
+MBA: WORK_OF_ART
+May 10, 2014: DATE
+February, 2015: DATE
+Gold Star: ORG
+70: CARDINAL
+Council: ORG
+CSS: ORG
+Exchange: ORG
+Exchange Server: ORG
+Outlook, Windows: ORG
+2000: DATE
+Novell: ORG
+Recruiting: GPE

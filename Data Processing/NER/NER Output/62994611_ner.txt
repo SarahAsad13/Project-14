@@ -1,0 +1,156 @@
+Enthusiastic: ORG
+#: CARDINAL
+HTML: ORG
+SQL: ORG
+Restful API design &
+implementations: ORG
+English: LANGUAGE
+Turkish: NORP
+Skills
+
+C: ORG
+CSS: ORG
+JavaScript: ORG
+5 years: DATE
+SQL: ORG
+5 years: DATE
+MatLab: ORG
+Tableau: GPE
+Node JS: ORG
+Frameworks: PERSON
+TensorFlow: ORG
+Keras: ORG
+Pandas: GPE
+NLTK: GPE
+Search Engine Optimization
+Net
+API
+CSS
+Clients
+Database: ORG
+English: LANGUAGE
+JavaScript
+Leadership
+Marketing: PRODUCT
+MatLab: ORG
+#
+Office: MONEY
+Search Engine Optimization: ORG
+Spanish: NORP
+SQL
+System: ORG
+Turkish: NORP
+Interface: PERSON
+12/2015: CARDINAL
+Internal Marketing System: ORG
+Amazon: ORG
+Walmart: ORG
+eBay: ORG
+Shopify: GPE
+API: ORG
+Coordinated: ORG
+30%: PERCENT
+06/2013: CARDINAL
+Executed Performance: ORG
+06/2012: CARDINAL
+Turkish Patent and Trademark Office: ORG
+MatLab: ORG
+#: CARDINAL
+SQL: ORG
+HTML: ORG
+FAQ: ORG
+Researched: ORG
+Maintained: GPE
+PROJECTS Question Answering System: ORG
+Phyton: ORG
+COVID-19: ORG
+BERT: ORG
+ELMO: ORG
+Frameworks: PERSON
+Pandas, Tensorflow, NLTK: ORG
+Data Visualization Tool: ORG
+2019: DATE
+100,000: CARDINAL
+Frameworks: PERSON
+Flask: GPE
+Pandas: ORG
+Phyton: GPE
+Leadership: PRODUCT
+Pre-Assess: ORG
+Matlab
+Language: PRODUCT
+The User Interface: WORK_OF_ART
+06/2021: GPE
+Rowan University - City: ORG
+Selcuk University - City: ORG
+12/2015: CARDINAL
+Internal Marketing System: ORG
+Amazon: ORG
+Walmart: ORG
+eBay: ORG
+Shopify: GPE
+API: ORG
+Coordinated: ORG
+30%: PERCENT
+06/2013: CARDINAL
+Executed Performance: ORG
+06/2012: CARDINAL
+Turkish Patent and Trademark Office: ORG
+MatLab: ORG
+#: CARDINAL
+SQL: ORG
+HTML: ORG
+FAQ: ORG
+Researched: ORG
+Maintained: GPE
+PROJECTS Question Answering System: ORG
+Phyton: ORG
+COVID-19: ORG
+BERT: ORG
+ELMO: ORG
+Frameworks: PERSON
+Pandas, Tensorflow, NLTK: ORG
+Data Visualization Tool: ORG
+2019: DATE
+100,000: CARDINAL
+Frameworks: PERSON
+Flask: GPE
+Pandas: ORG
+Phyton: GPE
+Leadership: PRODUCT
+Pre-Assess: ORG
+Matlab
+Language: PRODUCT
+The User Interface: WORK_OF_ART
+English: LANGUAGE
+Science, Technology: ORG
+Mathematics University of Virginia Darden School of Business Getting Started: ORG
+English: LANGUAGE
+Spanish: NORP
+Native: NORP
+Turkish: NORP
+CSS: ORG
+JavaScript: ORG
+5 years: DATE
+SQL: ORG
+5 years: DATE
+MatLab: ORG
+Tableau: GPE
+Node JS: ORG
+Frameworks: PERSON
+TensorFlow: ORG
+Keras: ORG
+Pandas: GPE
+NLTK: GPE
+Search Engine Optimization: ORG
+API: ORG
+CSS: ORG
+English: LANGUAGE
+HTML: ORG
+JavaScript: PRODUCT
+MatLab: ORG
+#: CARDINAL
+Search Engine Optimization: ORG
+Spanish: NORP
+SQL: ORG
+Turkish: NORP

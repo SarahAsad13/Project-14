@@ -1,0 +1,57 @@
+Project Coordination: ORG
+Proactive: PERSON
+Self Motivated
+Ability: WORK_OF_ART
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook
+Knowledge: PERSON
+Microsoft Office: ORG
+PowerPoint: ORG
+Minor Accounting
+
+: ORG
+11/2005: CARDINAL
+Texas Commission on Environmental Quality: ORG
+HOA: ORG
+Developed: ORG
+Assisted Civil Engineer: ORG
+Residential Development: ORG
+International Developments: ORG
+08/2003: CARDINAL
+Project Coordinator Company Name: ORG
+CPS: ORG
+Time Warner: ORG
+SBC: ORG
+SAWS: ORG
+SARA: ORG
+Bexar County: GPE
+Bexar MET: ORG
+Plat Tracking- city: ORG
+Planning Commission: ORG
+Researched: FAC
+Preliminary Overall Area Development Plans: ORG
+Planned Unit Development Plans: ORG
+Vested Rights Permits: WORK_OF_ART
+08/2003: CARDINAL
+13: CARDINAL
+09/1999: CARDINAL
+Collected US Mail: ORG
+Business Certification Charter College: ORG
+State: ORG
+3 quarters: DATE
+ï¼​ City: GPE
+State International Business: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills
+Accounting: ORG
+Civil Engineer: ORG
+English: LANGUAGE
+Access, Excel, Mail: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Quality: ORG
+Spanish: NORP

@@ -1,0 +1,48 @@
+Calm: PERSON
+Strong: PERSON
+Toddler: ORG
+Classroom: ORG
+Classroom: ORG
+Early Childhood Education: ORG
+2000: DATE
+San Jacinto College: ORG
+State: GPE
+USA: GPE
+1991: DATE
+Beaumont High School ï¼​ City: ORG
+State: GPE
+USA: GPE
+2010: DATE
+2013: CARDINAL
+the day: DATE
+daily: DATE
+one: CARDINAL
+daily: DATE
+weekly: DATE
+first: ORDINAL
+2009: DATE
+5-6: CARDINAL
+the day: DATE
+daily: DATE
+one: CARDINAL
+the day: DATE
+daily: DATE
+weekly: DATE
+first: ORDINAL
+daily: DATE
+quarterly: DATE
+daily: DATE
+Aug 1999: DATE
+5-6: CARDINAL
+the day: DATE
+daily: DATE
+one: CARDINAL
+daily: DATE
+weekly: DATE
+first: ORDINAL
+Maintained: GPE
+daily: DATE
+quarterly: DATE
+Sunday: DATE
+another two years: DATE
+daily: DATE

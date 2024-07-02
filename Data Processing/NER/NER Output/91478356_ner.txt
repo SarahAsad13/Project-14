@@ -1,0 +1,38 @@
+6 years: DATE
+Skills
+
+Patient: ORG
+Data: ORG
+Charting: PERSON
+Nurse: PERSON
+the Patient Care Technician: ORG
+the Registered Nurse: ORG
+daily: DATE
+Certified Nursing: WORK_OF_ART
+each day: DATE
+7: CARDINAL
+11/2013: CARDINAL
+Cooked: PERSON
+daily: DATE
+Performed: ORG
+Retail Associate: PERSON
+12/2009: CARDINAL
+01/2011: CARDINAL
+2011: DATE
+Boston Reed - City: ORG
+Data: ORG
+Charting: PERSON
+Nurse: PERSON
+the Patient Care Technician: ORG
+the Registered Nurse: ORG
+daily: DATE
+Certified Nursing: WORK_OF_ART
+each day: DATE
+7: CARDINAL
+11/2013: CARDINAL
+Cooked: PERSON
+daily: DATE
+Performed: ORG
+Retail Associate: PERSON
+12/2009: CARDINAL
+01/2011: CARDINAL

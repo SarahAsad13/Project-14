@@ -1,0 +1,17 @@
+the Retail Industry: ORG
+over 44 years: DATE
+Compelling: ORG
+Team: ORG
+06/2016: CARDINAL
+Designer Company Name: ORG
+the day: DATE
+almost two years: DATE
+Brighton: PERSON
+IÂ: GPE
+toÂ: CARDINAL
+Â theÂ: PRODUCT
+05/2008: CARDINAL
+Owner/: ORG
+State IÂ: ORG
+Weatherford: GPE
+Texas: GPE

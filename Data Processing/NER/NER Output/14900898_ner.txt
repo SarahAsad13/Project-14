@@ -1,0 +1,71 @@
+Summary
+Energetic Construction: ORG
+knowledgeableÂ inÂ Pipe: PERSON
+Highlights: GPE
+Specifications API 6A: ORG
+5L: CARDINAL
+15D: CARDINAL
+1104: DATE
+653: CARDINAL
+ASTM: ORG
+A350: ORG
+AWS D1: ORG
+Clear: GPE
+Verbal: ORG
+20: MONEY
+120mÂ: CARDINAL
+40: CARDINAL
+265Â: CARDINAL
+first: ORDINAL
+1: CARDINAL
+2.: CARDINAL
+Kennecott mine: ORG
+GSL: ORG
+3: CARDINAL
+Tank: ORG
+API 650: ORG
+653: DATE
+620: CARDINAL
+651,652: CARDINAL
+4: CARDINAL
+5: CARDINAL
+February 2014: DATE
+State: ORG
+API: ORG
+Port Hudson: FAC
+API: ORG
+12: CARDINAL
+Port Hudson: PERSON
+Port Allen: GPE
+March 2008 to January 2014: DATE
+State: ORG
+Kennecott Construction: ORG
+Shut: PERSON
+Boiler: PERSON
+Barrick Gold: PERSON
+85: CARDINAL
+API: ORG
+GSLÂ: ORG
+6: CARDINAL
+Denham: PERSON
+Pacific Pipeline: ORG
+Fontana Ca: PERSON
+January 2003 to January 2008: DATE
+State: ORG
+6: CARDINAL
+17 mile: QUANTITY
+API: ORG
+4: CARDINAL
+WyomingÂ  Douglas: PERSON
+Pronghorn: PERSON
+12: CARDINAL
+State: ORG
+26 years: DATE
+the last 15 years: DATE
+Project Construction: ORG
+15 years: DATE
+Skills: ORG
+Strong Computer: PERSON
+Pipe: FAC
+Tanks, Facilities, Mechanical, Civil, Instrumentation: ORG
+one: CARDINAL

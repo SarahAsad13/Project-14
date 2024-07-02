@@ -1,0 +1,175 @@
+Summary
+
+Personable Engineering: ORG
+MS: ORG
+Name City: GPE
+State: ORG
+Collaborated: ORG
+8: CARDINAL
+the Manufacturing Engineering: ORG
+Name City: GPE
+State: ORG
+15: CARDINAL
+5: MONEY
+Manufacturing, & Logistics: ORG
+EM&L: ORG
+Process Initiatives: ORG
+PI: ORG
+Coordinate: FAC
+CMMI: ORG
+ISSO: ORG
+SharePoint: ORG
+2010: DATE
+SharePoint 2013 for Engineering,: ORG
+&
+Logistics: ORG
+EM&L: ORG
+Efforts: ORG
+the Enterprise Shared Services: ORG
+Electronic Systems: ORG
+SharePoint 2013: LAW
+Name City: GPE
+State: ORG
+six: CARDINAL
+2: MONEY
+& Logistics: ORG
+EM&L: ORG
+Process Initiatives: ORG
+PI: ORG
+Coordinate: FAC
+CMMI: ORG
+ISSO: ORG
+SharePoint: ORG
+2007: DATE
+SharePoint: ORG
+2010: DATE
+Efforts: ORG
+Directed: ORG
+SharePoint: ORG
+2010: DATE
+the Reuse Library: ORG
+Idea Exchange: ORG
+Champion: ORG
+SharePoint: ORG
+2010: DATE
+SharePoint: ORG
+15: CARDINAL
+Name City: GPE
+State Business Process: ORG
+quarterly: DATE
+the Medicare Beneficiary
+Database Suite of Systems: ORG
+the Centers for Medicare: ORG
+Medicaid Services: ORG
+CMS: ORG
+the Social
+Security Administration: ORG
+SSA: ORG
+Information Technology: ORG
+CMS: ORG
+Northrop: ORG
+October 2013: DATE
+Northrop: ORG
+Name City: GPE
+State Requirements: ORG
+11/2012: CARDINAL
+Oversaw: GPE
+the Cultural Knowledge Consortium: ORG
+CKC: ORG
+Army TRADOC G2: ORG
+3.6mil: CARDINAL
+Maintained: GPE
+CKC: ORG
+CKC: ORG
+CKC: ORG
+Project Charter: PERSON
+Project Plan and Functional Requirements Documentation: ORG
+Army: ORG
+Name City: GPE
+Epic: ORG
+Epic Summer 2009: LOC
+Epic Spring: FAC
+2007: DATE
+Electronic Health Records: ORG
+Epic: ORG
+Electronic Health Record: ORG
+Name City: GPE
+State Business Systems: ORG
+the Norfolk Naval Shipyard: ORG
+CMMI: ORG
+3: CARDINAL
+Metrics Coordinator: PERSON
+Collaborated: ORG
+NAVSEA: ORG
+NWEPS: ORG
+Earned Value
+Management: ORG
+Strategic Workload Forecasting: ORG
+Human Resource Management and Quality Performance: ORG
+Name City: GPE
+State Information Architect: ORG
+MS Access: ORG
+Excel: PRODUCT
+Cognos: ORG
+Medicaid: ORG
+an additional $690k: MONEY
+fiscal year 2009: DATE
+Cognos: PRODUCT
+SAS: ORG
+Medicaid: ORG
+6: MONEY
+Fiscal
+Year 2009: DATE
+Medicare: ORG
+Optima Health -Government Programs: ORG
+between $40: MONEY
+125: MONEY
+2009: DATE
+Masters of Business Administration: ORG
+Project Management 2011 NOVA SOUTHEASTERN UNIVERSITY DISS: ORG
+City: GPE
+State: GPE
+US: GPE
+Project Management
+
+Bachelor of Science : Management Information Systems: ORG
+2008: DATE
+NORFOLK STATE UNIVERSITY: ORG
+City: GPE
+State: GPE
+US: GPE
+Management Information Systems
+
+Associate of Science : Business Administration: ORG
+TIDEWATER COMMUNITY COLLEGE: ORG
+City: GPE
+State: GPE
+US: GPE
+Business Administration
+
+: ORG
+Adobe Captivate: PERSON
+Blackboard, Business Objects: ORG
+Clarity, Cerner: ORG
+Eclipsys: GPE
+EPIC: ORG
+HBOC: ORG
+IDX: ORG
+FACET: ORG
+HEAT: PERSON
+SQL Server: PERSON
+2005: DATE
+Cognos: GPE
+ER/Studio: ORG
+Mini: PERSON
+Oracle: ORG
+SAS: ORG
+SharePoint Foundation: ORG
+2007/2010: DATE
+SPSS: ORG
+the Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+One: CARDINAL
+SharePoint: ORG
+Visio: PERSON

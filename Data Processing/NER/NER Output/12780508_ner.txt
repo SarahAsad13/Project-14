@@ -1,0 +1,84 @@
+2005: DATE
+Savings: GPE
+2012: DATE
+Operational and Soundness
+Training 2013: ORG
+the month: DATE
+November: DATE
+PNC Bank 2011: ORG
+the Quarter: DATE
+PNC Bank 2011: ORG
+Retail Banking
+Achievement Award: PERSON
+2012: DATE
+NMLS- Nationwide Mortgage Licensing System: ORG
+2013: DATE
+two: CARDINAL
+Detail: PERSON
+Accountant: ORG
+5 years: DATE
+Invoice: ORG
+QuickBooks: ORG
+Work History
+Accountant II: WORK_OF_ART
+Verifies: GPE
+the Credit Union: ORG
+ATM: ORG
+daily: DATE
+month end and: DATE
+year-end: DATE
+annual: DATE
+IRS Form 1099: LAW
+Visa: ORG
+Finance Department: ORG
+State: ORG
+40hrs: CARDINAL
+Accounts Payable: ORG
+Oversee: ORG
+Communicate: ORG
+Credit Union: ORG
+ACH: ORG
+ATM: ORG
+Federal Reserve: ORG
+Credit Cards: ORG
+1099s: DATE
+Visa: ORG
+State: ORG
+40hrs: CARDINAL
+Accounts Payable: ORG
+daily: DATE
+daily: DATE
+ACH: ORG
+two: CARDINAL
+Accounting Clerks Staff: ORG
+Maintains: PERSON
+Print: GPE
+Verifies: GPE
+Order: ORG
+the Federal Reserve: ORG
+Financial Service: ORG
+01/2011: CARDINAL
+40hrs: CARDINAL
+Relationship Bankers: ORG
+Utilized: ORG
+Assisted: ORG
+Maintained: GPE
+Processed: GPE
+daily: DATE
+May 2010: DATE
+University of Maryland - State 
+Finance: ORG
+Skills
+Accounting, Accounting System: ORG
+Articulate: ORG
+ATM: ORG
+Credit: ORG
+Finance: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Microsoft: ORG
+PeopleSoft: ORG
+Maintains: PERSON
+year-end: DATE

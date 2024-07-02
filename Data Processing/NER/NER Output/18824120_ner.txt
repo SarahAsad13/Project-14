@@ -1,0 +1,84 @@
+Skills
+Financial Planning & Analysis: ORG
+Portfolio & Wealth Management: ORG
+Financial
+Consulting: ORG
+Market Research: ORG
+Financial Modelling: ORG
+Project Management, Strategy, Operations, Risk Management: ORG
+Corporate Finance: ORG
+Global Finance: ORG
+Product Management Slabware: ORG
+Microsoft Office: ORG
+Microsoft Excel: ORG
+Mutual Funds: PERSON
+Alternate Investments: ORG
+Microsoft PowerPoint: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+25%: PERCENT
+30%: PERCENT
+Spearheaded: PERSON
+Acue Marmonite's: PERSON
+India: GPE
+NPV: ORG
+Business Requirement Documentation: ORG
+BRD: ORG
+11/2015: CARDINAL
+USD 16 million to: MONEY
+less than 9 months: DATE
+up to 27%: PERCENT
+10/2015: CARDINAL
+Wealth Management: ORG
+USD 5 million: CARDINAL
+the year 2014: DATE
+USD 0.65 million to: MONEY
+Boosted: ORG
+18%: PERCENT
+34%: PERCENT
+Foreign Exchange: ORG
+40: CARDINAL
+PAN INDIA: ORG
+5 months: DATE
+Axis Bank: ORG
+15 months: DATE
+HSBC: ORG
+first: ORDINAL
+HSBC Delhi: GPE
+'14: DATE
+first: ORDINAL
+2014: DATE
+Dec 2017: DATE
+Financial Analysis: ORG
+Investments University of Connecticut School of Business ï¼​ City: ORG
+State Financial
+Analysis and Investments: ORG
+36 months: DATE
+UConn Graduate Consulting Club: ORG
+CT: ORG
+the Cigna Strategic Investment Case Challenge: FAC
+2010: DATE
+Bachelor of Arts :: ORG
+Sri Venkateswara College: ORG
+University of Delhi ï¼​ City India Economics: ORG
+Business Analysis: ORG
+Consultant, Consulting: ORG
+Corporate Finance: ORG
+Documentation: ORG
+Fast, Finance,: ORG
+Financial Planning & Analysis: ORG
+Financial
+Consulting: ORG
+Financial Reporting: ORG
+Funds, Insurance: ORG
+Team Lead: PERSON
+Market Research, Marketing: ORG
+Microsoft Access: ORG
+Microsoft Excel: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Microsoft PowerPoint: ORG
+Product Management: ORG
+Project Management, Quantitative Analysis: ORG
+Requirement, Retail, Risk Management: PRODUCT
+Strategy, Strategic: PERSON

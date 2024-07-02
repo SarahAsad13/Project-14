@@ -1,0 +1,79 @@
+2012: DATE
+nine plus years: DATE
+forty: CARDINAL
+10: CARDINAL
+2012: DATE
+R2: WORK_OF_ART
+SCCM: ORG
+2012: CARDINAL
+R2: PRODUCT
+Windows Server: PERSON
+2008: DATE
+R2 Patch Management: ORG
+Application Deploying: ORG
+Task Sequence Development: ORG
+Desktop Support Engineer: ORG
+August 2012: DATE
+Current Company Name: ORG
+North Highland: PERSON
+System Center Configuration: ORG
+2012: DATE
+R2: WORK_OF_ART
+Critical and Required Software: ORG
+Windows 7: ORG
+Windows Server: PERSON
+2008: DATE
+R2: PRODUCT
+Operation System Deployment (: ORG
+R2: PRODUCT
+Microsoft Office: ORG
+Application: ORG
+Dell: ORG
+Lenovo: ORG
+thousand: CARDINAL
+six: CARDINAL
+three: CARDINAL
+LAN: ORG
+WAN: ORG
+Responsibilities: ORG
+2nd: DATE
+3rd: ORDINAL
+Information Technology: ORG
+January 2011 to January 2012: DATE
+IDE Cables: ORG
+SATA Cables: PERSON
+more than 100: CARDINAL
+Operating Systems: ORG
+Windows Deployment Services: ORG
+WDS: ORG
+2008: DATE
+Active Directory: ORG
+January 1997 to January 2009: DATE
+over 130: CARDINAL
+Navy: ORG
+Navy: ORG
+Inspected: ORG
+Item Reports: PERSON
+Notice of Ammunition Reclassification Coordinated: LAW
+Navy: ORG
+Bachelor of Computer Science :: ORG
+State Network Security: ORG
+Active Directory: ORG
+Cables: PERSON
+Client: GPE
+Customer Service: ORG
+Dell: ORG
+Email: PERSON
+Hard Drive: FAC
+IDE: ORG
+LAN: ORG
+Exchange: ORG
+Exchange Server: ORG
+Microsoft Office: ORG
+Windows: NORP
+Motherboards: ORG
+Navy: ORG
+Operating Systems: ORG
+Routers: PRODUCT
+Switches: ORG
+WAN: ORG

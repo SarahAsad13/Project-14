@@ -1,0 +1,36 @@
+BI: ORG
+25 years': DATE
+Core Qualifications
+
+School: ORG
+Truancy Committee
+Administrative: ORG
+08/2005: PRODUCT
+Current
+BI: ORG
+four: CARDINAL
+Developed a Student Success Plan: ORG
+5%: PERCENT
+Middle School Resource: ORG
+Taught English: PERSON
+Collaborated: ORG
+08/1988: CARDINAL
+05/1999: CARDINAL
+Resource: ORG
+3: CARDINAL
+Albuquerque School District: ORG
+Training
+Masters of Arts : Education Administration Whitworth University: ORG
+ï¼​ City: GPE
+State Education Administration: ORG
+State Elementary Education/Technology
+Bachelor of Science : Special and Elementary Education: ORG
+New Mexico State University: ORG
+State Special and Elementary Education: ORG
+2017 1995 1988 1983: DATE
+Associate of Arts :: WORK_OF_ART
+State Education: ORG
+Skills: ORG
+English: LANGUAGE
+Functional: GPE
+3: CARDINAL

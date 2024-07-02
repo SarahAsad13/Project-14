@@ -1,0 +1,110 @@
+Underwriter: PERSON
+Washington: GPE
+Soft Skill Coaching: PERSON
+Coverage Counseling: PERSON
+Development of Training Materials: ORG
+Workflows: GPE
+Quality Assurance Programs: ORG
+Form Letters: ORG
+Problem Solving: PERSON
+De-Escalations: ORG
+Employee Development, Quality Assurance
+Work Force Management: ORG
+Time Keeping: ORG
+Attendance: PERSON
+Schedule Adherence Coaching: ORG
+Employee Onboarding and Termination: WORK_OF_ART
+Customer Care: ORG
+Front-Line Underwriting: ORG
+Needs Analysis: ORG
+Cross Selling: ORG
+Endorsing Policies: PERSON
+Project Management: ORG
+MS Office: ORG
+Applied Epic: ORG
+Vertafore Sagitta / BenefitPoint: WORK_OF_ART
+CC Pulse: ORG
+360: CARDINAL
+Verba: GPE
+Kronos: ORG
+MyTime: ORG
+Taleo: ORG
+Cisco Enterprise/: ORG
+Finesse/Admin/Report Server, SalesForce Service: ORG
+Excel: PRODUCT
+American Modern: ORG
+Chubb: ORG
+Dairyland: GPE
+Kemper: ORG
+RLI: ORG
+Mapfre: ORG
+Progressive: GPE
+Safeco: ORG
+Travelers: ORG
+Premera Blue Cross: ORG
+Regence Blue Shield: PERSON
+United
+Healthcare: ORG
+Aetna: ORG
+Cigna: GPE
+Kaiser Permanente: ORG
+Group Health: ORG
+Symetra: ORG
+Unum: GPE
+Delta Dental: ORG
+Willamette Dental: PERSON
+VSP: ORG
+May 2014: DATE
+Licensed Life and Disability Benefit: ORG
+Benefit Advocate: ORG
+Assist Consultants: ORG
+Client: PERSON
+Coordinate: ORG
+daily: DATE
+Coach: ORG
+one: CARDINAL
+Benefit Advocate: ORG
+November 2011 to May 2014: DATE
+Coach: ORG
+14: CARDINAL
+Licensed Property & Casualty Customer Service Agents Coordinate: ORG
+daily: DATE
+one: CARDINAL
+September 2005 to October 2011 Company Name ï¼​ City: DATE
+Customer: ORG
+40+: DATE
+Bachelor of Social Sciences: ORG
+2009 University of Washington Law: ORG
+The National Alliance for Insurance Education: ORG
+Councilor - Agency Management, Life & Health: ORG
+Commercial Casualty: ORG
+the end of the year 2016: DATE
+CIC: ORG
+Skills: ORG
+Agency: ORG
+Billing: GPE
+Cisco: GPE
+Coach: ORG
+Counseling: GPE
+Client: GPE
+Customer
+Service: ORG
+Customer Care: ORG
+Hiring: GPE
+Insurance: ORG
+Kronos: ORG
+Law: PERSON
+Excel: PRODUCT
+MS Office: ORG
+SharePoint: ORG
+MS
+Windows, Needs Analysis: ORG
+Newsletter: ORG
+Policies: GPE
+Problem Solving: PERSON
+Project Management: ORG
+Research, Selling: ORG
+Employee
+Development, Training Materials: ORG
+Underwriting: PERSON
+Articles: PERSON

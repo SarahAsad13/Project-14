@@ -1,0 +1,43 @@
+eight plus years: DATE
+one: CARDINAL
+one: CARDINAL
+Â Â: PRODUCT
+Work History
+Night Warehouse: WORK_OF_ART
+Selects: PRODUCT
+next day: DATE
+Voxware: ORG
+Voice Logistics Software: ORG
+Validates: GPE
+Notify Stocker: PERSON
+weekly: DATE
+Petra Industries: ORG
+Locates: ORG
+Contributes: ORG
+12/2016: CARDINAL
+25%: PERCENT
+07/2014: CARDINAL
+daily: DATE
+Provides: PERSON
+daily: DATE
+Trains Sales Associates: ORG
+security & loss: ORG
+Oversees: ORG
+Tracking Results & Coaching Performance: ORG
+Opens: ORG
+Holds: ORG
+Holds: ORG
+Ladies Fitness 01/2014: ORG
+12/2015: CARDINAL
+Â Counsel: ORG
+Â Â Â 
+
+: PRODUCT
+12/2015: CARDINAL
+Logistics: ORG
+2007: DATE
+2010: DATE
+Hale High School - City: ORG
+State: ORG
+2 Years: DATE
+Murray State College Tishomingo: ORG

@@ -1,0 +1,61 @@
+CUSTOMER: ORG
+Solid: PRODUCT
+Name City: GPE
+State Customer Service: ORG
+Intervene: PERSON
+Assist: NORP
+UnitedHealth Group: ORG
+Research: ORG
+first: ORDINAL
+Name City: GPE
+State Customer Service: ORG
+02/2016: CARDINAL
+first: ORDINAL
+Processed: GPE
+Communicated: ORG
+Functioned: PERSON
+Name City: GPE
+Provided day to: DATE
+24-hour: TIME
+Utilized: ORG
+Applied de-escalation: PERSON
+Name City: GPE
+State Business Wireless Care: ORG
+10/2009: CARDINAL
+twelve: CARDINAL
+Contributed: ORG
+weekly: DATE
+Training
+Masters of Science : Public Safety/Emergency Management: ORG
+December 2017: DATE
+Capella University: ORG
+State Public Safety/Emergency
+Management
+Relevant Courses Collaboration, Communication: ORG
+Learners, Introduction to Research Methodology: ORG
+Public Safety
+Ethnic and Cultural Awareness, Foundations of Emergency Management, Public Safety Leadership, Coordinating a Modern Emergency
+Management Program: ORG
+Comprehensive Emergency Management: Mitigation: ORG
+Cyber Security: ORG
+Integrative Project: ORG
+2010: DATE
+Florida A & M University: ORG
+City: GPE
+State Criminal: ORG
+Criminal Justice: ORG
+Criminal Justice: ORG
+Cases in Corrections: ORG
+Research Methods in Criminal Justice: WORK_OF_ART
+Society: ORG
+Justice: ORG
+Penology: ORG
+Contemporary Issues: ORG
+Corrections: GPE
+American Court System: ORG
+Women and Crime: ORG
+Social
+Problems: ORG
+Skills
+Criminal Justice: ORG
+Public Safety: ORG

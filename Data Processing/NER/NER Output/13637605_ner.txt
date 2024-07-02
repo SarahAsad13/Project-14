@@ -1,0 +1,18 @@
+Reliable Sales Associate: WORK_OF_ART
+Verbal: ORG
+Team: ORG
+Time: ORG
+Skills: ORG
+Detail: PERSON
+Team: ORG
+State
+
+Met: ORG
+Completed: ORG
+09/2015 to 12/2015: CARDINAL
+Cashier Company Name: ORG
+09/2015 to 12/2015: CARDINAL
+Training: PERSON
+2017: DATE
+State: ORG
+USA Education: ORG

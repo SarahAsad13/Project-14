@@ -1,0 +1,76 @@
+Skill Highlights
+
+: PERSON
+Time and Resources Optimization: ORG
+24/7: CARDINAL
+Global Information Technology 06/2004: ORG
+Information Technology: ORG
+70: CARDINAL
+my first year: DATE
+ERP: ORG
+$2.5 million dollars: MONEY
+one: CARDINAL
+New Product Development: ORG
+Project Life Cycle: ORG
+one: CARDINAL
+IT Steering Committee: ORG
+Information Technology 01/2002: ORG
+06/2004: CARDINAL
+Name City: GPE
+ERP: ORG
+VHS: ORG
+20: CARDINAL
+Completed: ORG
+Oracle: NORP
+ERP: ORG
+US: GPE
+Radio Frequency: ORG
+ERP: ORG
+Oracle: NORP
+01/1995 to 01/2002 Company Name City: ORG
+500: MONEY
+20%: PERCENT
+Coordinated: ORG
+22: CARDINAL
+Prepared Request for Proposals: WORK_OF_ART
+7-year: DATE
+Oracle Corporation: ORG
+over $24M: MONEY
+Completed: ORG
+Oracle's: ORG
+Fortune 100: PRODUCT
+Conducted Functional: ORG
+the Supply Chain, Manufacturing and Financial: ORG
+one: CARDINAL
+Name City: GPE
+2,800: CARDINAL
+up to $8M: MONEY
+Oracle Financials: ORG
+Monterrey: GPE
+Mex: PERSON
+Name City: GPE
+MAPICS: ORG
+Supply Chain Streamline: ORG
+Electronic Data Interchange: ORG
+Information Systems & Technology: ORG
+Name City: GPE
+the Information Technology: ORG
+Enterprise Resources Planning: ORG
+Pull Material System: ORG
+KANBAN: ORG
+Analyst 01/1984: DATE
+Name City: GPE
+1983: DATE
+El Paso City: GPE
+State
+
+Computer Science
+
+Languages
+Bilingual: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills: ORG
+day: DATE
+â€¢Proven: CARDINAL
+â€¢Proven: CARDINAL

@@ -1,0 +1,27 @@
+daily: DATE
+August 2013: DATE
+Name City: GPE
+State Apparel Production: ORG
+Checked: PRODUCT
+Performed: ORG
+Oversaw: GPE
+daily: DATE
+February 2009: DATE
+August 2013
+City: DATE
+September 2006: DATE
+November 2008: DATE
+Name City: GPE
+State Apparel Production: ORG
+Maintained: GPE
+May 2005: DATE
+September 2006: DATE
+Name City: GPE
+State Apparel Production: ORG
+monthly: DATE
+Oversaw: GPE
+Education: ORG
+2005: DATE
+University of California City: ORG
+2009: DATE
+University of California City: ORG

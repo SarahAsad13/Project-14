@@ -1,0 +1,45 @@
+Summary
+Highly: ORG
+Nebraska: GPE
+multi-million dollar: MONEY
+January 2005: DATE
+Current Company Name: ORG
+up to $35 Million: MONEY
+Lincoln: ORG
+NE: GPE
+Manage Architects: PRODUCT
+Engineers: ORG
+General Contractors and Subcontractors: ORG
+Army: ORG
+the Nebraska National Guards: ORG
+EIA: ORG
+Master Planning, Environmental, Financial: ORG
+Facility Management: ORG
+Briefings: EVENT
+The Adjutant General: ORG
+the State of
+: ORG
+Nebraska Additional: ORG
+CAD: ORG
+over 350: CARDINAL
+48: CARDINAL
+January 2002 to January 2005: DATE
+up to $10 million: MONEY
+Established: ORG
+2 week: DATE
+weekly: DATE
+Assistant Party: ORG
+January 2000 to January 2002: DATE
+Processed: GPE
+Coordinated: ORG
+Researched: ORG
+Bachelor of Science : Construction Management University of Nebraska: ORG
+City: GPE
+State Construction Management: ORG
+Peru State College: ORG
+State: ORG
+Peru Pre-Engineering Studies: PERSON
+Skills
+Army: ORG
+CAD: ORG
+EIA: ORG

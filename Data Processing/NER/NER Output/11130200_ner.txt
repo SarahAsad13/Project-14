@@ -1,0 +1,34 @@
+Laborer: GPE
+years: DATE
+Warehouse/ Mover: ORG
+Maryland: GPE
+D.C.: GPE
+Performed: ORG
+OSHA: ORG
+daily: DATE
+80 to 100 pounds: QUANTITY
+437 minutes: TIME
+the full day: DATE
+four
+hours: TIME
+State Warehouse Selector / Driver: ORG
+daily: DATE
+80 to 100 pounds: QUANTITY
+437 minutes: TIME
+the full day: DATE
+four
+hours: TIME
+Maintained: GPE
+Coordinated: ORG
+70: CARDINAL
+Identify: ORG
+State Fitness: ORG
+Aqua Aerobics Instructor: PRODUCT
+Evaluate: ORG
+Skills
+Forklift: ORG
+Inventory: PERSON
+Building Materials Read and Interpret Drawings Safety Service Time Management
+Education: WORK_OF_ART
+2000: DATE
+Northern High School High School Diploma: ORG

@@ -1,0 +1,79 @@
+5 years: DATE
+2 years: DATE
+the Peace Corps: ORG
+Geography and Urban Planning: ORG
+Microsoft Office & GIS
+Data: ORG
+Vaccine Distribution: PERSON
+week: DATE
+50-60: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+daily: DATE
+weekly: DATE
+monthly: DATE
+06/2020: PERSON
+12/2020: CARDINAL
+hours/week: DATE
+40: CARDINAL
+Maintained: GPE
+Agriculture Volunteer: PERSON
+10/2018: DATE
+03/2020: CARDINAL
+hours/day: DATE
+12: CARDINAL
+Agriculture, Health: ORG
+Education: ORG
+300: CARDINAL
+Facilitated: ORG
+Parks: PERSON
+hours/week: DATE
+40: CARDINAL
+Maintained: GPE
+71: CARDINAL
+Trimmed: ORG
+daily: DATE
+Bachelor of Science : Geography/Urban Studies: ORG
+05/2018 
+University of Minnesota - Twin Cities - City: ORG
+05/2016: CARDINAL
+Normandale Community College - City: ORG
+Dean: PERSON
+Dec 2015: DATE
+India: GPE
+Plymouth Citizens Academy: ORG
+2015: DATE
+Certified Forest: ORG
+Trainer - APMG International: ORG
+March 2020: DATE
+Microsoft Office & GIS
+Data: ORG
+Vaccine Distribution: PERSON
+week: DATE
+50-60: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+daily: DATE
+weekly: DATE
+monthly: DATE
+06/2020: PERSON
+12/2020: CARDINAL
+hours/week: DATE
+40: CARDINAL
+Maintained: GPE
+Agriculture Volunteer: PERSON
+10/2018: DATE
+03/2020: CARDINAL
+hours/day: DATE
+12: CARDINAL
+Agriculture, Health: ORG
+Education: ORG
+300: CARDINAL
+Facilitated: ORG
+Parks: PERSON
+hours/week: DATE
+40: CARDINAL
+Maintained: GPE
+71: CARDINAL
+Trimmed: ORG
+daily: DATE

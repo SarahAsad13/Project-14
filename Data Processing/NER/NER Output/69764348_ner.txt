@@ -1,0 +1,219 @@
+PAVEMENT & CONSTRUCTION EQUIPMENT CRAFTSMAN
+: ORG
+U.S.: GPE
+8-year: DATE
+the United States: GPE
+Pavement & Construction Equipment: ORG
+Current Company Name City: ORG
+State: ORG
+Airfield Repair Project Lead: ORG
+12: CARDINAL
+267: CARDINAL
+Air Traffic Control
+Movement Area: ORG
+AFB B-52: PERSON
+15: CARDINAL
+16 million dollar: MONEY
+1.8 million square
+feet: QUANTITY
+76 miles: QUANTITY
+2.1 million square yards: QUANTITY
+annual: DATE
+3: CARDINAL
+Antiterrorism/Force Protection: ORG
+AT/FP: ORG
+13: CARDINAL
+517: CARDINAL
+55: CARDINAL
+AT/FP Barrier Plan: ORG
+Minot AFB: FAC
+Lock Out Tag Out: WORK_OF_ART
+53: CARDINAL
+Snow School Instructor: ORG
+annual: DATE
+56: CARDINAL
+Airman: PERSON
+Electrical Power Production Journeyman 06/2010: PRODUCT
+Name City: GPE
+State: ORG
+$5.2 million: MONEY
+Head Quarters AFSOC: PERSON
+38: CARDINAL
+Shop Logistic Inventory: ORG
+over 10,000 dollars: MONEY
+weekly: DATE
+Quality Assurance Program: ORG
+25: CARDINAL
+over $650 thousand dollars: MONEY
+CPR/AED Instructor: ORG
+monthly: DATE
+American Heart Association CPR/AED: ORG
+300: CARDINAL
+Booster Club: PERSON
+Airman: PERSON
+Electrical Power Production: PRODUCT
+Name City: GPE
+Special Operations Central Command: ORG
+Macdill AFB: FAC
+FL: ORG
+Amman: GPE
+Jordan: GPE
+three: CARDINAL
+Special Forces: ORG
+125,000 dollars: MONEY
+Relentless: ORG
+over 300: CARDINAL
+15.2 million dollars: MONEY
+Awarded Joint Commendation Medal: ORG
+58: CARDINAL
+two: CARDINAL
+Multi-National: ORG
+three: CARDINAL
+Airman First: PERSON
+Electrical Power Production Apprentice: ORG
+Name City: GPE
+State
+
+Equipment Operation & Maintenance: ORG
+Installs: GPE
+37: CARDINAL
+2.8: CARDINAL
+Mega Watt: ORG
+AAS: ORG
+Barrier Arresting Kits: PERSON
+Prime Base Engineer Emergency Force: ORG
+AEF Enabler: PERSON
+Safety Program Monitor :: ORG
+Zero: CARDINAL
+Airman First: PERSON
+Electrical Power Production Apprentice 06/2008: ORG
+Name City: GPE
+State
+
+Electrical Power Production Apprentice: ORG
+277: CARDINAL
+seven: CARDINAL
+$16 million dollars: MONEY
+two: CARDINAL
+$2 million dollars: MONEY
+$36 thousand dollars: MONEY
+Airman Basic: ORG
+E-1: ORG
+Basic Military Training & Electrical Power Production Technical Training: ORG
+Name City: GPE
+State
+
+Electrical Power Production Apprentice: ORG
+Skills
+
+Generator Operation & Maintenance Skills: ORG
+Aircraft Arresting Systems Â 
+
+Extensive: ORG
+Aircraft Arresting Systems: ORG
+Â 
+
+Equipment Operation & Maintenance Skills: ORG
+Duel Drum Steel Wheel Roller: ORG
+Foot Roller: PERSON
+Wheel Roller: PERSON
+Airfield: PERSON
+Front Mounted Snow Removal Broom
+Excavator-Skid: ORG
+Airfield: PERSON
+Front Mounted Snow Removal Plow
+Grader
+Street Sweeper
+Backhoe Loader
+Industrial Tractor
+Trencher
+Bulldozer
+Pneumatic Roller
+Water Truck
+Crane-Scoop Loader: ORG
+Pavement Installation & Repair Skills Â 
+
+Extensive: ORG
+Pavement Installation & Repair Skills Â 
+
+Extensive: ORG
+Removing: PERSON
+Snow Removal Operations: WORK_OF_ART
+11.6 thousand: CARDINAL
+Associate of Applied Science : Construction Technology 2014 Community College of the Air Force City: WORK_OF_ART
+Airman Leadership School: ORG
+AFB: ORG
+ND Feb: ORG
+2013 - March 2013: DATE
+Leadership & Management: ORG
+Managerial Communications, Military Studies: ORG
+Total Quality Management: ORG
+Civil Engineering Silver Flag Training Program Â 
+
+Tyndall: WORK_OF_ART
+AFB: ORG
+FL: ORG
+April 2014: DATE
+week-long: DATE
+Pavement & Construction Equipment Career Development Course: ORG
+Minot AFB: GPE
+ND: GPE
+December 2012: DATE
+Career Development Courses: ORG
+Technical Training: ORG
+the Pavement & Construction Equipment: ORG
+Pavement & Construction Equipment Technical Training Â 
+
+Ft: ORG
+Leonard Wood: PERSON
+MO: GPE
+September 2008 - April 2009: DATE
+Associate of Applied Science : Electrical and Mechanical Technology 2014 Community College of the Air Force City: WORK_OF_ART
+TX: ORG
+September 2009: DATE
+Contingency Power Generation and Force Bedown Course Â 
+
+Sheppard AFB: PRODUCT
+TX: ORG
+December 2011: DATE
+Hickam: NORP
+July 2007â€: DATE
+Electrical Power Production Technical Training: ORG
+TX: ORG
+March 2007 - June 2007: DATE
+Basic Military Training
+
+Lackland AFB TX: WORK_OF_ART
+January 2007: DATE
+â€“ March 2007: DATE
+1: CARDINAL
+Joint Service Commendation Medal: ORG
+2: CARDINAL
+Air Force Achievement Medal: ORG
+3: CARDINAL
+2: CARDINAL
+4: CARDINAL
+2: CARDINAL
+5: CARDINAL
+2: CARDINAL
+6: CARDINAL
+National Defense Service Medal: ORG
+7: DATE
+Iraq: GPE
+8: CARDINAL
+Global War on Terrorism Service Medal: EVENT
+9: CARDINAL
+Air Force Overseas Ribbon Short: ORG
+10: CARDINAL
+Air Force Overseas Ribbon Long
+11: ORG
+Air Force Expeditionary Service Ribbon: ORG
+Gold Border: ORG
+12: CARDINAL
+Air Force Longevity Service: ORG
+13: CARDINAL
+Graduate Ribbon: PERSON
+14: CARDINAL
+Rifle: ORG
+15: CARDINAL
+AF Training Ribbon: PERSON

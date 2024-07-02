@@ -1,0 +1,38 @@
+BUSINESS DEVELOPMENT: ORG
+Highlights
+Excellent: WORK_OF_ART
+Effective Retail Sales Manager
+
+Experience
+Business Development: WORK_OF_ART
+September 2012 to March 2015: DATE
+Confer: PERSON
+Advise: ORG
+April 2008 to June 2012: DATE
+10: CARDINAL
+Compile: PRODUCT
+Match: LOC
+Calculate: ORG
+Calculate: ORG
+Prepare: ORG
+Complete: PERSON
+Prepare: ORG
+Office Coordinator: ORG
+April 1998 to April 2008: DATE
+Keep: ORG
+Refer: PRODUCT
+Resolve: PERSON
+Answer: LOC
+Coordinate: FAC
+April 1992 to April 1998: DATE
+Retail Management Purdue University: ORG
+State: GPE
+USA: GPE
+May 1986: DATE
+Bluffton High School ï¼​ City: ORG
+State: GPE
+USA: GPE
+10%: PERCENT
+10: CARDINAL
+Merchandising: PERSON
+Retail Management: ORG

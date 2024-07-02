@@ -1,0 +1,94 @@
+Excel: PRODUCT
+PowerPoint: ORG
+Adobe: PERSON
+Java: PERSON
+Oracle JD Edwards Enterprise: ORG
+Data Collection: ORG
+Social Media: ORG
+July 2012: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+50,000: MONEY
+thousands: CARDINAL
+$20 million: MONEY
+Initiated: ORG
+quarterly: DATE
+daily: DATE
+Business Development: ORG
+May 2014: DATE
+Maintence Operations: ORG
+20-30%: PERCENT
+September 2012 to March 2014: DATE
+Advise: PRODUCT
+May 2001 to January 2012: DATE
+Bolletieri Tennis Academy: ORG
+Bradenton: GPE
+one: CARDINAL
+2001: DATE
+Flamingo Park: FAC
+Miami Beach: GPE
+2002: DATE
+Miami Shores Country Club: ORG
+Miami: GPE
+summer: DATE
+10-18: CARDINAL
+2004: DATE
+Cassandra Herzberg: PERSON
+200: CARDINAL
+3: CARDINAL
+2004-2008: DATE
+Nike: ORG
+Wilson: ORG
+Luxilon: ORG
+Cassandra to Brown University: ORG
+first: ORDINAL
+four: CARDINAL
+Associate of Arts: ORG
+May 2011: DATE
+City: GPE
+the Highest Praise: ORG
+Summa Cum Laude GPA: PERSON
+4.0: CARDINAL
+the Highest Praise: ORG
+Summa Cum Laude: PERSON
+4.0: CARDINAL
+January 2001: DATE
+ZAGREB SCHOOL OF ECONOMICS & MANAGEMENT GPA: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+CFA: ORG
+1: CARDINAL
+December 2013: DATE
+FLORIDA INTERNATIONAL UNIVERSITY: ORG
+December 2012: DATE
+GPA: ORG
+the Highest Praise: ORG
+Summa Cum
+Laude: PERSON
+3.9: CARDINAL
+Hospitality: PERSON
+the Highest Praise: ORG
+Summa Cum Laude: PERSON
+3.9: CARDINAL
+Work History
+Company Name
+Languages
+Multilingual: WORK_OF_ART
+English: LANGUAGE
+Croatian: NORP
+Cyrillic: GPE
+Adobe: PERSON
+Coach: ORG
+Data Collection: ORG
+English: LANGUAGE
+Java: PERSON
+JD Edwards: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Enterprise: ORG
+Oracle: ORG
+Extraordinary Ability 01: ORG

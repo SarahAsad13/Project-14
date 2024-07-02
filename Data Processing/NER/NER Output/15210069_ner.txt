@@ -1,0 +1,43 @@
+SPECIALIST: ORG
+Dedicated Customer Service Representative: ORG
+Skill Highlights: PERSON
+Energetic: LOC
+Customer: ORG
+Adaptive: ORG
+Sharp: ORG
+Software: NORP
+Maintained: GPE
+Assisted: ORG
+Financial Foundations Associate 
+Company Name: ORG
+Auto: ORG
+Valuable Personal Property: ORG
+Assisted: ORG
+Admission Representative 
+Company Name: ORG
+Processed: GPE
+Wells Fargo Equity Direct - Customer Service: ORG
+Communicated: ORG
+Coordinated: ORG
+Prepared: PRODUCT
+Business Development Representative 
+Company Name: ORG
+annual: DATE
+$1-3M: MONEY
+weekly: DATE
+ADP: ORG
+the Security Forces: ORG
+NORAD: LAW
+NORAD: EVENT
+NORAD: ORG
+Oversaw: GPE
+Developed Security: ORG
+Air Force: ORG
+Training
+Bachelor of Science : Business Administration: PERSON
+2015: DATE
+Regis University: ORG
+ï¼​ City: GPE
+State: GPE
+Air Force: ORG
+Customer Service: ORG

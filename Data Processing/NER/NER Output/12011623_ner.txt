@@ -1,0 +1,92 @@
+Career Overview: WORK_OF_ART
+SAS: ORG
+SQL: ORG
+Ensures: ORG
+More than six years: DATE
+SQL: ORG
+Modelling: GPE
+Fascinated: ORG
+Data Mining and Machine Learning: ORG
+4: CARDINAL
+3 years: DATE
+Tech: ORG
+more than 200: CARDINAL
+Modelling: GPE
+SAS: ORG
+Pandas: ORG
+Oracle: ORG
+Microsoft: ORG
+SQL: PERSON
+4.5: CARDINAL
+HTML: ORG
+JMP: ORG
+SPSS: ORG
+GIS: ORG
+Visualization: CARDINAL
+Tableau: GPE
+Modelling: GPE
+Random Forests: PERSON
+Decision Trees: PERSON
+Boosted Trees: PERSON
+Modelling: GPE
+Ridge: PERSON
+LASSO: ORG
+Elastic: NORP
+Dimension Reduction: ORG
+PCA: ORG
+Linear Regression: ORG
+Quality Technician Company Name: ORG
+SQL: ORG
+JMP: ORG
+Monitored: ORG
+10%: PERCENT
+the fiscal year of 2014: DATE
+Applied: ORG
+5%: PERCENT
+every quarter: DATE
+Lecturer in Environmental Science and Technology: WORK_OF_ART
+Statistics: ORG
+GIS: ORG
+2008: DATE
+GIS: ORG
+SQL: ORG
+SPSS: ORG
+01/2004: CARDINAL
+Assisted: ORG
+Established: ORG
+Training: PERSON
+May 2017: DATE
+Master of Science : Analytics University of New Hampshire USA Analytics: WORK_OF_ART
+4.0/4.0: CARDINAL
+Granite State College: ORG
+GSC: ORG
+UNH: ORG
+6: CARDINAL
+summer: DATE
+Chicago: GPE
+Seattle: GPE
+90%: PERCENT
+Yitayew: ORG
+Anteneh: PERSON
+ï¼​ City: GPE
+State: ORG
+April 2010: DATE
+Master of Science : Environmental Science and Technology UNESCO-IHE ï¼​ City The Netherlands Environmental Science and Technology: WORK_OF_ART
+July 2004: DATE
+University Ethiopia Resource Management: ORG
+Skills: ORG
+4.5: CARDINAL
+Environmental Science: PERSON
+GIS: ORG
+HTML: ORG
+Lecturer: GPE
+#: CARDINAL
+Microsoft: ORG
+SQL: PERSON
+Natural: ORG
+Oracle: ORG
+SAS: ORG
+SPSS: ORG
+SQL: ORG
+Statistics: GPE
+Tableau: GPE

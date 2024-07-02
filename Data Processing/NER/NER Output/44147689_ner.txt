@@ -1,0 +1,45 @@
+Microsoft Office: ORG
+01/1995: PERSON
+Project Coordinator / Inspector Company Name: ORG
+Maintained: GPE
+approximately 90: CARDINAL
+Maintained: GPE
+02/1989: DATE
+Resident Engineer/Construction Proj Mgr Company Name: ORG
+$8 million: MONEY
+NYC: LOC
+approximately 15-20: CARDINAL
+Coordinated: ORG
+daily: DATE
+Conducted: ORG
+weekly: DATE
+monthly: DATE
+Coordinated: ORG
+New York City: GPE
+monthly: DATE
+01/1989: CARDINAL
+01/1988: ORG
+General Office Assistance / Drafter Company Name: ORG
+Training: PERSON
+Historic Preservation Pratt Institute Historic Preservation: ORG
+ATI - Asbestos & Lead Training Institute: ORG
+State
+Institute of Design ï¼​ City: ORG
+State Perspective and Rendering
+Certificate International Design Seminar: ORG
+Poltechnico of Milan: ORG
+Italy Certificate Mechanics Institute: ORG
+Languages
+Bi-lingual: PERSON
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills: ORG
+ADA: ORG
+Bi, Construction: ORG
+English: LANGUAGE
+English: LANGUAGE
+Inspector: ORG
+Microsoft Office Suite: ORG
+Paradox: GPE
+Spanish: NORP
+Supervisor, Team: ORG

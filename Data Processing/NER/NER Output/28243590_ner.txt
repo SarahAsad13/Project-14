@@ -1,0 +1,40 @@
+20 years: DATE
+12/1996: CARDINAL
+Current Company Name: ORG
+IFC: ORG
+Loss Reserve Review Paper: ORG
+the Investment Departments: ORG
+Policy Analyst: PERSON
+03/1991: ORG
+seven: CARDINAL
+Company: ORG
+first: ORDINAL
+Austrian: NORP
+Berthold
+& Stempel: ORG
+Lecturer: PERSON
+01/1987: CARDINAL
+Microeconomics: GPE
+Bulgarian: NORP
+Russian: LANGUAGE
+German: NORP
+Training: PERSON
+November 1996: DATE
+GEORGETOWN UNIVERSITY: ORG
+State: ORG
+3.67: CARDINAL
+Finance Club: ORG
+Consulting Club: ORG
+Eastern European Development: ORG
+February 1987: DATE
+Varna University School of Economics: ORG
+Bulgaria: GPE
+3.85/4.00: CARDINAL
+5%: PERCENT
+the Bulgarian Ministry of Education: ORG
+Skills: ORG
+Bulgarian, Consulting: ORG
+Database: GPE
+Senior Management, Finance: ORG
+German: NORP
+Russian: NORP

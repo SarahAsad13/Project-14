@@ -1,0 +1,79 @@
+PROJECT COORDINATOR: PERSON
+Training and Development Coordinator: ORG
+Skills: ORG
+Time: ORG
+Work History
+Project Coordinator Associate 06/2014 to Current 
+Company Name: WORK_OF_ART
+Team Installation Quality Audit Reports: ORG
+the Installation Quality Audit: ORG
+less than five days: DATE
+Revie Coordinating: ORG
+9: CARDINAL
+Global Off-Highway Customer Engineering
+Application Engineers Result: ORG
+Q1 2015 Conferences: ORG
+Trainings: ORG
+99%: PERCENT
+the Tier 4 Final Training: ORG
+UCC: ORG
+Cummins Connect: ORG
+Outlook 365 Result: ORG
+Outlook: PERSON
+the last Week of October and first week of: DATE
+CCW: ORG
+PO: ORG
+Ariba: ORG
+Talent Management HR Associate: ORG
+CES: ORG
+OnBoarding: ORG
+Prepared Training Modules: PERSON
+Created the Right Environment: ORG
+Process Improvement: ORG
+Aftertreatment 101: LAW
+Talent Management: ORG
+OnBoarding: ORG
+80%: PERCENT
+US: GPE
+their first 90 days: DATE
+CES CES Intern Events
+Evaluated: ORG
+Coordinated: ORG
+annual: DATE
+152: CARDINAL
+Key Responsibilities: LOC
+01/2003: ORG
+Project Based Learning: ORG
+Arts: ORG
+01/2003: CARDINAL
+summer: DATE
+200: CARDINAL
+5: CARDINAL
+01/1999: CARDINAL
+Bachelor of Science of Education: ORG
+1 1994: DATE
+Indiana University Purdue University - City: ORG
+State: ORG
+Indiana State Teachers: ORG
+Skills: ORG
+Arts: ORG
+Basic, Budget Planning: ORG
+Budget, Conferences: ORG
+Content: ORG
+Data Analysis: ORG
+Document Management: ORG
+Edge, File Management: ORG
+Hiring: GPE
+Team Building: ORG
+Math: PERSON
+Excel: PRODUCT
+97: DATE
+Outlook: PERSON
+PowerPoint: ORG
+98: DATE
+Performance Management: ORG
+Project Management: ORG
+Quality: ORG
+UCC: GPE
+Workshops: ORG
+year-end: DATE

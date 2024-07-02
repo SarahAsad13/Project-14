@@ -1,0 +1,78 @@
+Type of Restaurant: WORK_OF_ART
+Detail: PERSON
+CRM: PRODUCT
+Microsoft Dynamics CRM: ORG
+Microsoft Office: ORG
+Adobe: PERSON
+List for Academic Honors: ORG
+Fall 1998 through: DATE
+Summer 2002: DATE
+DNB: ORG
+CRM: PRODUCT
+01/2011 - 01/2014: MONEY
+State Senior Business Consultation Acquisitions: ORG
+New Business Acquisition and Consulting: ORG
+7: CARDINAL
+more than 2,000: CARDINAL
+2012: DATE
+weekly: DATE
+API: ORG
+State Independent: ORG
+State Account Executive: ORG
+300: CARDINAL
+the State of Connecticut: ORG
+Sold Search Engine Marketing and Optimization: ORG
+CRM: PRODUCT
+monthly: DATE
+State: ORG
+27: CARDINAL
+6-month: DATE
+100: CARDINAL
+Oversee: ORG
+two weeks: DATE
+HP: ORG
+HP: ORG
+API: ORG
+State Account Executive: ORG
+Media Consultant
+
+Consultative: ORG
+2002: DATE
+St. Edward's: GPE
+State: GPE
+US Bachelor of Arts: ORG
+University: ORG
+Austin: GPE
+TX: ORG
+1998- 2002: DATE
+Communications: GPE
+Specialty in Communication Studies: ORG
+GPA: ORG
+3.8: CARDINAL
+Skills
+
+Sales, Marketing, Sales And: ORG
+Operations: ORG
+Account Executive: ORG
+Search Engine: PERSON
+Account Development, Advertising, Advertising Sales: ORG
+Time Management: ORG
+Networking, Clients, Crm: ORG
+Customer Relationship Management: ORG
+Payroll: ORG
+Leads, Optimization: ORG
+Search Engine Marketing, Test Cases: ORG
+Account Management: ORG
+Pipeline: ORG
+Created Sales: ORG
+Production Process, Prospecting: ORG
+Account: ORG
+Customer Service: ORG
+Detail: PERSON
+Dynamics, Dynamics Crm: ORG
+Microsoft Dynamics: ORG
+Microsoft Dynamics Crm: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+Receptionist: ORG
+Team Player, Business Operations: ORG

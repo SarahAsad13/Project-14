@@ -1,0 +1,118 @@
+ANALYSIS: PRODUCT
+ARCOM: ORG
+the Oklahoma National Guard: ORG
+two: CARDINAL
+Volunteered: PERSON
+the Oklahoma National
+Guard: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word/ Typing 45 Words: ORG
+Oklahoma Counter: PERSON
+meet National Guard Bureau: ORG
+100%: PERCENT
+88%: PERCENT
+Applicant/Resume/ListResurnes: ORG
+3/9/2015: CARDINAL
+https: PERSON
+Budget: ORG
+Complex: NORP
+Spreadsheet: PERSON
+Financial Records: ORG
+Records Maintencance
+
+: PERSON
+Management and Program Analysis 08/2011: ORG
+12/2015: CARDINAL
+Name City: GPE
+annual: DATE
+the SAO(State Aviation Office: ORG
+Completed: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+11: CARDINAL
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+01/2011 to 08/2011 City: CARDINAL
+State: ORG
+USO per Year Hours: EVENT
+40: CARDINAL
+Analyzes: PERSON
+Oklahoma National Guard
+Aviation: ORG
+Counter-Narcotics Program: ORG
+Periods: PERSON
+Reviews: ORG
+Summarizes: NORP
+Evaluate: ORG
+FHP: ORG
+annual: DATE
+Reviews: ORG
+Anticipates: NORP
+Forecast: ORG
+Parts, Oil: ORG
+Lubrication: ORG
+hours: TIME
+ARMY: ORG
+STANFINS: ORG
+Defense Travel System: ORG
+Excel: PRODUCT
+Clifton Barger: PERSON
+405: CARDINAL
+40: CARDINAL
+40: CARDINAL
+Budget: ORG
+Budget: ORG
+the Oklahoma National Guard Mobilization: ORG
+over $100 million dollars: MONEY
+monthly: DATE
+fiscal year: DATE
+Reviews: NORP
+Verify: LOC
+Mid-Year: DATE
+SIDPERS: ORG
+DTS: ORG
+Microsoft Office: ORG
+Supervisor: PERSON
+Bobby Yandell: PERSON
+405-228-: CARDINAL
+Bachelor: ORG
+State: ORG
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.4: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+120.00: CARDINAL
+Human Services
+Aviation Operation Specialist 06/13 GFEBS: ORG
+36B: CARDINAL
+Financial Management 3/10 Activity Managers/Budget: ORG
+12/09: CARDINAL
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+04/06 11/09: CARDINAL
+Languages
+Languge: ORG
+English: NORP
+Oklahoma National Guard - Soldier/ES Oklahoma National Guard: ORG
+Analyst, Army: ORG
+Budget: ORG
+Credit: ORG
+DTS: ORG
+English: LANGUAGE
+Financial Management 3: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+3: CARDINAL
+Word, Oil: ORG
+Safety: ORG
+SAP: ORG
+Supervisor: PERSON
+Technician: NORP
+Phone: ORG

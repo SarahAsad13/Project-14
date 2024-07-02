@@ -1,0 +1,119 @@
+FRONT DESK CLERK: ORG
+JOHN D DINGELL VA MEDICAL CENTER: ORG
+Customer Service: ORG
+Highlights
+
+Effective: ORG
+Computer Proficient: ORG
+Team: ORG
+Accomplishments
+Coordinated: PRODUCT
+10: CARDINAL
+55: DATE
+98 %: PERCENT
+3Â years: DATE
+Jackson Hewitt (SoFar, Inc.: ORG
+Customer Relations: ORG
+March 2011 to June 2011: DATE
+John D Dingell: PERSON
+Monitored: ORG
+weekly: DATE
+VA
+Arranged: FAC
+VA: ORG
+Processed: GPE
+VA: ORG
+VA: ORG
+30%: PERCENT
+Screened: ORG
+VA: ORG
+January 2004 to April 2006: DATE
+Jackson Hewitt 
+City: PERSON
+180: CARDINAL
+Maintained: GPE
+Oversaw: GPE
+April 2003 to September 2003: DATE
+General Merchandise Clerk: ORG
+1000: MONEY
+50: CARDINAL
+Assisted: ORG
+10%: PERCENT
+April 2001 to June 2001: DATE
+U S: ORG
+Screened: ORG
+Organized: ORG
+1000: CARDINAL
+Foot: PERSON
+the U S
+
+Company: GPE
+January 2000 to December 2000: DATE
+Oversaw: GPE
+Interviewed 7: ORG
+Maintained: GPE
+500: CARDINAL
+30: CARDINAL
+Answered multiline: PERSON
+30: CARDINAL
+November 2013: DATE
+Hebrew: LANGUAGE
+Tutored: PRODUCT
+first: ORDINAL
+Wayne State University: ORG
+2013: DATE
+Linguistics City: GPE
+State: GPE
+US: GPE
+Wayne State University: ORG
+Detroit: GPE
+MI: ORG
+BA: ORG
+Linguistics: GPE
+12/2013: CARDINAL
+Wayne County Community College: ORG
+2007: DATE
+Liberal Arts City: EVENT
+State: GPE
+US: GPE
+Wayne County Community College District: PERSON
+Detroit: GPE
+Liberal Arts: ORG
+Northcentral University Master: ORG
+English: LANGUAGE
+Second Language City: LOC
+State: GPE
+USA: GPE
+Education: ORG
+Emphasis: ORG
+Expected Graduation Year:: ORG
+Professional Affiliations: ORG
+Detroit: GPE
+December 1986 to: DATE
+May 1991: DATE
+Aircraft Armament Systems Specialist: ORG
+United States Air Force: ORG
+Lowry AFB: ORG
+CO: ORG
+12/1986-05/1991 Special Forces: ORG
+United States: GPE
+101st Airborne Command: ORG
+01/1991-05/1991: CARDINAL
+Air Force Outstanding Unit Award: WORK_OF_ART
+one: CARDINAL
+Oak Leaf Cluster
+Air Force Good Conduct Medal
+National Defense Service Medal
+Air Force Overseas Ribbon-Long Tour: ORG
+Air Force Longevity Service Award
+NCO Professional Military Education: ORG
+Grad Ribbon: PERSON
+Skills
+Data Entry: ORG
+Printers: PERSON
+Loans: PERSON
+Tax Returns: PERSON
+Clerk: PERSON
+Multiline: PERSON
+Maintenance, Recruiting, Recruitment, Testing, Games: ORG
+Front Desk: PERSON

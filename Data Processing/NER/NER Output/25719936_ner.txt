@@ -1,0 +1,144 @@
+Seasoned Electrical Engineer: ORG
+Engineer: ORG
+Seasoned Electrical
+Engineer offeringÂ: ORG
+5 years: DATE
+Eagle: ORG
+MATlab: ORG
+Solidworks Standard: PERSON
+Solidworks Electrical: ORG
+Microsoft Office: ORG
+2016: DATE
+Visio: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+OneNote: ORG
+Outlook
+: ORG
+Microsoft Dynamics GP: ORG
+Team Gantt: PERSON
+Allen Bradley RSLogix Software: PERSON
+Computer Language:: WORK_OF_ART
+Microsoft Visual C: ORG
+C++: CARDINAL
+Project Management Skills: ORG
+Complex: NORP
+Analog: ORG
+Name City: GPE
+State
+
+Practical: ORG
+Electrical Engineering
+Critical: ORG
+Prepared: PRODUCT
+SAE: ORG
+NEC: ORG
+NEMA: ORG
+IEEE: ORG
+DCS: ORG
+SAE: ORG
+IEEE: ORG
+NEMA: ORG
+ANSI: ORG
+Created: ORG
+Created BOM's: ORG
+Microsoft Dynamics GP: ORG
+Implemented NEC: ORG
+HSE: ORG
+OSHA Standards
+Managed: ORG
+30%: PERCENT
+Managed Chemical 6: ORG
+C&J Energy Services: ORG
+40%: PERCENT
+C&J Energy Services: ORG
+20%: PERCENT
+NITRO Drilling Services: ORG
+100%: PERCENT
+Weir SPM: ORG
+40% to 100%: PERCENT
+Name City: GPE
+80%: PERCENT
+86%: PERCENT
+20%: PERCENT
+LTI: ORG
+Lost Time Incident: ORG
+7500: CARDINAL
+50%: PERCENT
+Pump Assembly: ORG
+Pump Test: ORG
+10%: PERCENT
+250: CARDINAL
+86%: PERCENT
+LEAN Pump Assembly: ORG
+Pump Paint: ORG
+10%: PERCENT
+the Williston Service: ORG
+10k: MONEY
+Troubleshot: PERSON
+SLC500 PLC's: ORG
+Baldor: ORG
+Eaton: PERSON
+multi-meter: QUANTITY
+RS Logix: PERSON
+SCADA: ORG
+Electrician Petty Officer: PERSON
+Name City: GPE
+State: ORG
+Troubleshot: PERSON
+F-18
+Hornet: PRODUCT
+F-16 Tomcat: PERSON
+EA6B Prowler: PERSON
+Navy: ORG
+Broadened Opportunity for Officer Selection and Training: ORG
+2010: DATE
+University of Texas: ORG
+Arlington - Electrical Engneering City: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.0: CARDINAL
+Electro: GPE
+Thermodynamics and Electronics: ORG
+129: CARDINAL
+1999: DATE
+Certificate of Completion : Officer Candidate School (BOOST: WORK_OF_ART
+State: GPE
+United States: GPE
+GPA: ORG
+3.0: CARDINAL
+Skills
+Armed Forces: ORG
+C++: PERSON
+Critical: ORG
+Electrical Engineering: ORG
+MATlab: ORG
+Microsoft Dynamics: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft Visual C: ORG
+Word: PERSON
+mpe9: GPE
+Navy: ORG
+NEC: ORG
+Enterprise: ORG
+Paint: ORG
+PDM: ORG
+PLC: ORG
+Project Management: ORG
+SCADA: GPE
+Solidworks: ORG
+Time: ORG
+Tomcat: ORG
+Visio: PERSON
+OHSA: ORG
+HSE: ORG
+IEEE: ORG
+NEMA: ORG
+UL: ORG
+MRP: GPE
+ANSI: ORG

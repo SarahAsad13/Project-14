@@ -1,0 +1,144 @@
+CUSTOMER: ORG
+Name City: GPE
+State Information Technology Support Specialist Network Specialist: ORG
+01/2011: CARDINAL
+more than 10 years': DATE
+INTEL: ORG
+AMD: ORG
+IT Systems: ORG
+DELL: ORG
+HP: ORG
+IBM: ORG
+MICROSOFT Software: ORG
+CMOS: ORG
+BIOS: PERSON
+Novel: ORG
+Robocopy: PRODUCT
+Apollo / SunTrust EIS Data Migration Project (Non-Branch Analyze: ORG
+Network Attached Storage: WORK_OF_ART
+NAS: ORG
+Novel: ORG
+eDirectory/NDS Report Generator: ORG
+Use Carbon Copy: PERSON
+Outlook: PERSON
+Robocopy: NORP
+NAS: ORG
+Use Remote Desktop Connection: EVENT
+Robocopy: NORP
+NAS: ORG
+8:00am: CARDINAL
+12:00noon twice a week: DATE
+Attend: ORG
+Communicate: ORG
+PST: ORG
+30: CARDINAL
+Novell: ORG
+Windows: ORG
+Manage Command Center Support: ORG
+Day 1 and Day 2: DATE
+Command Center: FAC
+Update SharePoint: ORG
+Day 1 and Day 2: DATE
+Daily Command Center: ORG
+Perform H:\drive: ORG
+Shared Drive: ORG
+SunTrust: ORG
+up to: CARDINAL
+1000: CARDINAL
+GB: GPE
+GB: GPE
+Up to 50,000: CARDINAL
+Identify the Line of Business: WORK_OF_ART
+30: CARDINAL
+Novell: ORG
+Windows: NORP
+Perform H:\Drive: ORG
+Shared Drive: ORG
+weekly: DATE
+Perform Shared Drive: ORG
+30: CARDINAL
+Novell: ORG
+Windows: NORP
+Identify: PRODUCT
+Identify: ORG
+Use Netware Console: ORG
+Novell: ORG
+Tree Size (Windows: PERSON
+Novell: ORG
+Tree Size (Windows: PERSON
+Identify the Lines of Business: WORK_OF_ART
+Search: ORG
+ERIM: ORG
+Update: ORG
+daily: DATE
+SRP: ORG
+Name City: GPE
+State: ORG
+NAS: ORG
+Send: ORG
+ROM: ORG
+Use Carbon Copy: PERSON
+Outlook: PERSON
+NAS: ORG
+Use Remote Desktop Connection: EVENT
+20: CARDINAL
+NAS: ORG
+Active Directory: ORG
+8:30am: CARDINAL
+10:00am: CARDINAL
+daily: DATE
+second: ORDINAL
+07/2009: CARDINAL
+ATT: ORG
+7: CARDINAL
+ATT: ORG
+Ingenico SigCap: ORG
+Flash: PERSON
+Troubleshoot: ORG
+Remedy: PERSON
+4QT09: CARDINAL
+12/2008: CARDINAL
+the Radisson Hotel: FAC
+300: CARDINAL
+Associate of Arts: WORK_OF_ART
+2001: DATE
+Southern College Paralegal Network Engineering: ORG
+Diploma 2002 Southern Technical Institute: ORG
+A+: NORP
+SEC+ MILITARY: GPE
+1989-1998: DATE
+US: GPE
+Missouri: GPE
+Florida MOS-12B: ORG
+Combat Engineer: ORG
+Andrew: PERSON
+1992: DATE
+Skills: ORG
+Active Directory: ORG
+Apollo: ORG
+ARMY: ORG
+Data Migration: ORG
+DELL: ORG
+Email: PERSON
+Engineer: ORG
+Flash: PERSON
+HP: ORG
+IBM: ORG
+Image: ORG
+INTEL: ORG
+Inventory: GPE
+MICROSOFT Software: ORG
+MOS: ORG
+Outlook: PERSON
+SharePoint: ORG
+Windows: ORG
+NDS: ORG
+NAS: ORG
+NAS: ORG
+NAS: ORG
+Novel: ORG
+Novell: ORG
+Netware: GPE
+Shipping: PERSON
+Software: ORG
+Troubleshoot: ORG

@@ -1,0 +1,74 @@
+daily: DATE
+Continuous: PERSON
+KPI: ORG
+annual: DATE
+Data Center: ORG
+Negotiate Pricing: ORG
+Current
+Facilities Engineering Manager Company: ORG
+Facility: ORG
+the Facilities Organization: ORG
+HVAC: ORG
+Security Systems: ORG
+Data Center,: ORG
+Vacuum: PERSON
+20 million: CARDINAL
+100%: PERCENT
+MSA: ORG
+daily: DATE
+Safety Committee: ORG
+Accordance and Compliance: ORG
+NFPA: ORG
+NEC: ORG
+OSHA: ORG
+EPA: ORG
+Corporate: ORG
+Divisional: ORG
+internal customers & project teams: ORG
+monthly: DATE
+Demonstrate: ORG
+OSHA: ORG
+NFPA: ORG
+IBC: ORG
+NEC: ORG
+12/2007: CARDINAL
+Field Engineering Supervisor Company Name: WORK_OF_ART
+PLC: ORG
+CPU: ORG
+Experienced with PLC: ORG
+State: ORG
+annual: DATE
+over $350,000: MONEY
+PLC: ORG
+HVACR: ORG
+11/1999: CARDINAL
+a Nuclear Quality Assurance Inspector: ORG
+ASME: PERSON
+Mil: PERSON
+the Nuclear Regulatory Commission: ORG
+over 30: CARDINAL
+10/1999: CARDINAL
+Submariner Company Name: ORG
+Machinists: NORP
+the USS Philadelphia: PRODUCT
+EMT: ORG
+the Nuclear Power Propulsion: ORG
+first: ORDINAL
+the 30 year: DATE
+the Navy Achievement: ORG
+Fireman: ORG
+Professional Certified Energy: ORG
+Leed Green: PERSON
+Skills: ORG
+CPU: ORG
+Documentation, Electrical: ORG
+Facility: ORG
+HVAC: ORG
+Inspector: ORG
+MSA: ORG
+Navy: ORG
+NEC: ORG
+PLC programming: ORG
+PLC: ORG
+Quality Assurance: ORG
+Safety: ORG

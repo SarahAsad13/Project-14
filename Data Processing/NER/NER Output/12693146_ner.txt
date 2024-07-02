@@ -1,0 +1,49 @@
+MS Office: ORG
+Organized: ORG
+Superb: NORP
+Excel: PRODUCT
+PowerPoint: ORG
+MSProject Proficient: ORG
+Revit: GPE
+ITT Tech: ORG
+Associates: NORP
+RFI: ORG
+over $3 milion dollars: MONEY
+February 2012: DATE
+Current Superintendant 
+City: PERSON
+Incident: ORG
+IIT: ORG
+500,000+Â: MONEY
+daily: DATE
+RFI: ORG
+700,000: CARDINAL
+Structural Engineer: ORG
+daily: DATE
+Family Medical Center: ORG
+daily: DATE
+RFI: ORG
+February 2010 to: DATE
+State: ORG
+Marlin Stadium: PERSON
+Haiti: GPE
+Marlin Stadium: FAC
+6: CARDINAL
+daily: DATE
+15: CARDINAL
+a couple of months: DATE
+4: CARDINAL
+1-3: CARDINAL
+miami Garden: GPE
+North Miami: GPE
+North Miami Beach: GPE
+3: CARDINAL
+one: CARDINAL
+January 2008 to February 2010: DATE
+State Carefully: ORG
+RFI: ORG
+Itemized: NORP
+Education: ORG
+ITT TECH 2013 Bachelor of Science : Construction Management City: ORG
+State: GPE
+U.S: GPE

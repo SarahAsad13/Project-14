@@ -1,0 +1,84 @@
+Certified Accountant: WORK_OF_ART
+more than 10 years: DATE
+more than 20 years: DATE
+Microsoft: ORG
+Skills
+
+Good Communication
+Customer Service
+Problem Solver
+Team: ORG
+IT Skill
+Proficient: FAC
+70%: PERCENT
+20%: PERCENT
+a period of two years: DATE
+the Tax Identification Number (TIN: LAW
+monthly: DATE
+Taxes Apr 2011 to Apr 2012 
+Company Name: ORG
+80: CARDINAL
+Prepared: PRODUCT
+Taxes Apr: ORG
+2007: DATE
+the Large Taxpayer Unit: ORG
+monthly: DATE
+Established: ORG
+Conducted: ORG
+LTU: ORG
+Apr: PERSON
+2007: DATE
+May 1999: DATE
+2002: DATE
+Prepared: PERSON
+1999: DATE
+Maintained: GPE
+Tax Clerk: PERSON
+Dec 1991 to Jan 1997: DATE
+Maintained: GPE
+first: ORDINAL
+HMRC Staff College: ORG
+State: ORG
+United Kingdom
+
+Leadership: GPE
+Communication: ORG
+Working: ORG
+Certificate , Management 2007 Management Institute for National Development (MIND: ORG
+City: GPE
+Jamaica
+
+Management: ORG
+Commonwealth: ORG
+Value: ORG
+HMRC Staff College: ORG
+State: ORG
+United Kingdom
+
+Personal development Â 
+
+: GPE
+Communication: ORG
+Association of Certified Chartered Accountants: ORG
+Accountancy 2002: ORG
+Kaplan Financial: ORG
+FTC: ORG
+City: GPE
+State: ORG
+United Kingdom
+
+Management Accounting
+Financial Accounting
+Financial Management
+Taxation
+Audit: ORG
+Accounting 1998 Management Development Institute: ORG
+State: GPE
+Gambia: GPE
+English: LANGUAGE
+Affiliations
+
+Association of Certified Chartered Accountants: ORG
+UK: GPE
+Association of Accounting: ORG
+February 17th 1971: DATE

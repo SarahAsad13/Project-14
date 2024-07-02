@@ -1,0 +1,78 @@
+PASTRY SOUS CHEF
+Summary
+
+Service: ORG
+Microsoft Office: ORG
+Word: PRODUCT
+Excel: PRODUCT
+Project, Power Point: ORG
+Outlook: LOC
+11/2014: CARDINAL
+weekly: DATE
+four: CARDINAL
+two: CARDINAL
+two: CARDINAL
+daily: DATE
+daily: DATE
+BEO: ORG
+morning: TIME
+weekly: DATE
+F&B: ORG
+Hotel: ORG
+weekly: DATE
+daily: DATE
+11/2014: CARDINAL
+Pastry Cook II Company Name: ORG
+State
+
+Prepare: ORG
+daily: DATE
+Contribute: ORG
+Communicate: ORG
+daily: DATE
+the week: DATE
+Pastry Cook II/Chocolatier Company Name: LOC
+cor: ORG
+Utilized Montage: ORG
+4000: DATE
+III: ORG
+daily: DATE
+Valrhona Chocolate: ORG
+Tain l'Hermitage: GPE
+France: GPE
+Pastry Cook III Company Name: ORG
+State
+
+Prepare: ORG
+Communicate: ORG
+the Asst Pastry Chef and Executive Pastry Chef: ORG
+Created the birthday\comp: ORG
+State: ORG
+daily: DATE
+Green Room: PERSON
+75: CARDINAL
+third: ORDINAL
+Retirement Customer Services: ORG
+Project Managers: ORG
+Liaison: PERSON
+Customer Service: ORG
+2005: DATE
+Patisserie and Baking Program California School of Culinary Arts: ORG
+List in the Le Cordon Bleu: WORK_OF_ART
+Pastry Arts Patisserie and Baking Program Graduated: ORG
+List in the Le Cordon Bleu: WORK_OF_ART
+Pastry Arts: ORG
+1993: DATE
+Bachelor of Arts :: ORG
+Economics Wheaton College: ORG
+Cum Laude- Dean's: PERSON
+List Economics Cum: ORG
+List
+Skills: WORK_OF_ART
+Customer Services: ORG
+Customer Service: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG
+Word: PERSON
+Supervisor: PERSON

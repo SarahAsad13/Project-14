@@ -1,0 +1,36 @@
+Richmond: GPE
+two years: DATE
+creatingÂ: PERSON
+Chesterfield County Schools: GPE
+Strong: PERSON
+Superb: NORP
+Time: ORG
+Traditional: PRODUCT
+Photo: PRODUCT
+Substitute Teacher Oct: PERSON
+2015: DATE
+Chesterfield County: GPE
+Digital Media Specialist: ORG
+State
+
+Met: ORG
+Photoshop, Illustrator,: ORG
+InDesign: ORG
+15: CARDINAL
+Cape Fear's Purple Heart: WORK_OF_ART
+2009: DATE
+State: ORG
+Bachelor of Arts: ORG
+Art and Visual Technology & Anthropology: ORG
+George Mason University: ORG
+ï¼​ City: GPE
+first: ORDINAL
+Google AdWords: ORG
+Created: ORG
+2004: DATE
+West Springfield: ORG
+High School ï¼​ City: ORG
+ï¼​ City: GPE
+Digital Art Programs: ORG
+Maya: PERSON
+Flash: PERSON

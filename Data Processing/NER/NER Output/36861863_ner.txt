@@ -1,0 +1,30 @@
+Strong: PERSON
+Customer Relationship Management: ORG
+CRM: PRODUCT
+2002: DATE
+Advisor: ORG
+Name City: GPE
+over 10: CARDINAL
+first: ORDINAL
+Apple: ORG
+iPhones: ORG
+iPads: GPE
+MacBooks: ORG
+Macs Â Â 
+: PERSON
+Healthcare: ORG
+Name City: GPE
+Maintained: GPE
+100%: PERCENT
+Kaiser: ORG
+Name City: GPE
+10- 15: CARDINAL
+neededÂ: PERSON
+Training
+Bachelor of Arts :: PERSON
+Business Management 2017 University of Phoenix Business Management Rancho Cordova: ORG
+Ca: GPE
+USA: GPE
+Skills
+Professional: ORG
+toÂ: CARDINAL

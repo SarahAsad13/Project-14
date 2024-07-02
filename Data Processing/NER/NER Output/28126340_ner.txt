@@ -1,0 +1,149 @@
+B.S.: GPE
+9+ years: DATE
+Client: GPE
+Transact SQL: PERSON
+Classic: PRODUCT
+ASP: ORG
+DHTML: ORG
+XML: ORG
+JavaScript: ORG
+CSS: ORG
+7+ years: DATE
+over 30,000: CARDINAL
+Kronos TM Workforce Central: ORG
+13,000: CARDINAL
+MS: ORG
+SQL Server 6.5,7, 2000 and: PERSON
+2005: DATE
+SQL: ORG
+Oracle 9i: ORG
+MS Windows: ORG
+MS Office: ORG
+Minitab, Business Objects: ORG
+Adobe CS3: PERSON
+Web Edition, Visual Studio, Frontpage: WORK_OF_ART
+Information Technology Coordinator Nov: ORG
+2003: DATE
+Leadership: NORP
+GivingBack Foundation, Inc.: ORG
+100%: PERCENT
+Classic ASP: PRODUCT
+2.0: CARDINAL
+SQL Server: PERSON
+2000/2005: DATE
+Windows Hosting: ORG
+PHP 4.0 - 5.0: ORG
+the Linux
+Hosting: FAC
+ASP.Net/MS SQL 2005: ORG
+Intranet Application Support: ORG
+Analyst Jan 2003: DATE
+Marketing, Risk: ORG
+Operations: ORG
+Collections: ORG
+14: CARDINAL
+1.26B: MONEY
+Graphical User Interface: WORK_OF_ART
+50%: PERCENT
+Kronos TM Workforce Central - Key: ORG
+the Windows 2k/Oracle: LOC
+9i: CARDINAL
+3: CARDINAL
+1: CARDINAL
+Human Resource: ORG
+99%: PERCENT
+the Consumer Finance: ORG
+three: CARDINAL
+ASP: ORG
+SQL: PERSON
+Portfolio Services: ORG
+120: CARDINAL
+the Information Management
+Leadership Program: ORG
+six month: DATE
+MS SQL Server: ORG
+6.5 to 2000: DATE
+two: CARDINAL
+SQL: ORG
+two: CARDINAL
+one: CARDINAL
+6.5: CARDINAL
+7.0: CARDINAL
+two: CARDINAL
+7.0 to 2000: DATE
+MS SQL Server: ORG
+6.5: CARDINAL
+30 days: DATE
+10: CARDINAL
+zero: CARDINAL
+the Mid-Range Application: ORG
+Stamford: GPE
+Atlanta: GPE
+60 days: DATE
+Education: ORG
+Bachelor: ORG
+Computer Information Systems: ORG
+DeVry University: ORG
+State: GPE
+US: GPE
+9/2000: CARDINAL
+DeVry University: ORG
+Alpharetta: GPE
+Georgia: GPE
+Bachelor: ORG
+Degree, Computer Information Systems Academic Honors: ORG
+Dean: PERSON
+List, Hope Scholarship GPA 3.46: WORK_OF_ART
+Affiliations: ORG
+GivingBack Foundation,: ORG
+Inc
+Certifications: ORG
+Skills
+
+Marketing, Operations: ORG
+Database: GPE
+Ms Sql Server: PERSON
+Sql: PERSON
+Sql Server: PERSON
+Technical Support: PERSON
+Asp.net, Budget, Clients, Database Systems: ORG
+Life Cycle: PERSON
+Ms Asp: PERSON
+Ms Sql Server 2000: PERSON
+Mysql, Online Solutions: ORG
+Php: PERSON
+Project Launch, Solutions: ORG
+Sql Server 2000: PERSON
+System
+Development: ORG
+Media Strategy: ORG
+Bank Card, Collections, Credit, Data Migration, Receivables: ORG
+Maintenance, Application Support: ORG
+Data Management: ORG
+Finance: ORG
+Graphical User Interface, Increase: WORK_OF_ART
+Kronos: ORG
+Load Balancing: WORK_OF_ART
+Belt Certified: GPE
+Black Belt: LOC
+Six: CARDINAL
+Associate, Client: ORG
+Coding: ORG
+Database Management: ORG
+Detail Oriented: PERSON
+Dhtml: PERSON
+Flash: PERSON
+Javascript: PERSON
+Microsoft: ORG
+Sql Server: PERSON
+Microsoft: ORG
+Sql Server: PERSON
+2000: DATE
+Minitab, Ms Office: ORG
+Photoshop: ORG
+Project Management: ORG
+Receptionist: ORG
+Self Motivated: PERSON
+Team Player: ORG
+Time & Attendance: ORG
+Attendance: GPE

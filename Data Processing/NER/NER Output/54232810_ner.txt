@@ -1,0 +1,74 @@
+American Heart Association
+: ORG
+Patient Safety & Care: ORG
+Current
+Bank Teller Company Name: ORG
+Bank of America: ORG
+Build: GPE
+Driven: ORG
+the months of February and March 2015: DATE
+Ranked Top: PERSON
+5%: PERCENT
+Voluntary: PERSON
+Established: ORG
+12/2011: CARDINAL
+Current
+Aviation Resource: ORG
+day: DATE
+6 months: DATE
+Processed: GPE
+9,500: CARDINAL
+Aviation Resource Management System: ORG
+zero: CARDINAL
+62: CARDINAL
+20 percent: PERCENT
+21: CARDINAL
+Oversee: ORG
+12: CARDINAL
+daily: DATE
+07/2011: CARDINAL
+Administrative Executive Company Name: ORG
+5: CARDINAL
+487: CARDINAL
+375: CARDINAL
+100 percent: PERCENT
+800: CARDINAL
+24: CARDINAL
+North Atlantic Treaty Organization: ORG
+67: CARDINAL
+Training: PERSON
+2012: DATE
+State: ORG
+30434: DATE
+GPA 3.7Â: ORG
+5%: PERCENT
+2015: DATE
+Aviation Management Community College: ORG
+the Air Force GPA: ORG
+GPA: ORG
+3.5 Aviation Management: ORG
+2015: DATE
+Georgia Southern University: ORG
+AHA: ORG
+2017: DATE
+2016: DATE
+Pre Nursing East: GPE
+State: ORG
+30458: CARDINAL
+2017: DATE
+Nursing Georgia Southern University: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.6: CARDINAL
+Completed First Semester of Georgia Southern Clinical: ORG
+Acute Nursing Clinical: ORG
+St Joseph Candler Hospital: PERSON
+Awards Airman: PERSON
+Major Command Level: ORG
+Air Combat Command: ORG
+Airman: PERSON
+X6: CARDINAL
+the Student Nurses Association: ORG
+Georgia Southern UniversityÂ: ORG

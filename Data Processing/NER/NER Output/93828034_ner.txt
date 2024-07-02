@@ -1,0 +1,88 @@
+WEB DEVELOPMENT COORDINATOR
+Highlights
+Adobe Photoshop: ORG
+Acrobat: PERSON
+Dreamweaver *Content Management Systems: ORG
+CMS: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Health Care Internet Conference: Leading: ORG
+the Digital Transformation: ORG
+Nov.
+: DATE
+2014: DATE
+Health Care Marketing: ORG
+Physician Strategies Summit: ORG
+May 2014: DATE
+IMA: ORG
+Award: PERSON
+2013: CARDINAL
+St.
+Cloud Area Chamber of Commerce Leadership Development Program: GPE
+2007: DATE
+1999: DATE
+Aegis: PRODUCT
+Renae's Story" Writer: WORK_OF_ART
+four: CARDINAL
+Healthcare Marketing Report Advertising
+Awards: ORG
+1999-2000: DATE
+six: CARDINAL
+Lake Superior Ad Club: LOC
+Citations of Excellence: ORG
+1995-97: DATE
+Current
+Web Development Coordinator Company Name: PERSON
+CentraCare Health: ORG
+Develop: ORG
+01/2000: CARDINAL
+Web Marketing Specialist Company Name: ORG
+Built: ORG
+Evaluated: ORG
+first: ORDINAL
+Minnesota: GPE
+01/1997 to 01/2000: CARDINAL
+Special Events & Promotions Coordinator Company Name: ORG
+01/1993: CARDINAL
+Coordinated: ORG
+1997: DATE
+Communicating Arts: ORG
+University of Wisconsin-Superior: ORG
+GPA: ORG
+3.9: CARDINAL
+GPA: ORG
+3.9: CARDINAL
+1992: DATE
+Bemidji State University: ORG
+Dean: PERSON
+NCAA: ORG
+Division III: ORG
+GPA: ORG
+3.4: CARDINAL
+Dean: PERSON
+NCAA Division III: ORG
+GPA: ORG
+3.4: CARDINAL
+Professional Affiliations: ORG
+more than 20 years: DATE
+Skills: ORG
+Acrobat: PERSON
+Dreamweaver: ORG
+Adobe Photoshop: PERSON
+Agile: ORG
+Budget: ORG
+CMS: ORG
+Content
+Management: ORG
+Detail: PERSON
+Leadership: PERSON
+Media planning: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Quark Xpress: PERSON
+Research: ORG
+Vendor: ORG

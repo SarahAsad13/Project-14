@@ -1,0 +1,45 @@
+21st century: DATE
+my years: DATE
+years: DATE
+ELEMENTARY: ORG
+SCHOOL: ORG
+Grades: PERSON
+Louisiana: GPE
+Title I: LAW
+seven plus years: DATE
+August 2015: DATE
+Current Teacher 
+City: PERSON
+August 2010 to: DATE
+May 2015: DATE
+State: ORG
+4th: ORDINAL
+Math: PERSON
+the Jackson Parish School
+Board: ORG
+Louisiana Board of Education: ORG
+504: CARDINAL
+Math: PERSON
+August 2007 to July 2010: DATE
+Monitored: ORG
+May 2008 to September 2008: DATE
+Training
+Grambling State University: WORK_OF_ART
+State: GPE
+USA Elementary Education: ORG
+1-5: CARDINAL
+Louisiana Tech University: ORG
+History Music Education City: ORG
+State: GPE
+USA History Music Education: ORG
+Interests: NORP
+La Tech University Band: ORG
+4: CARDINAL
+318: CARDINAL
+318: CARDINAL
+Eagle/DNC AFFILIATIONS Tau Beta Sigma: ORG
+La Tech University Band: ORG
+4: CARDINAL
+Lesson Planning: ORG
+Math: PERSON
+Microsoft Office: ORG

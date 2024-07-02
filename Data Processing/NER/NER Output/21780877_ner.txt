@@ -1,0 +1,100 @@
+07/2004: CARDINAL
+Current
+Information Technology Specialist: ORG
+State
+
+Information Technology Specialist: ORG
+Supervison: ORG
+Project Management; Circuit Management: ORG
+Licensed Electrician: PERSON
+Alarm: GPE
+Alarm
+Technician; Training: ORG
+Supply: ORG
+Kevin L.
+: PERSON
+Trostle: ORG
+865: CARDINAL
+336: CARDINAL
+Geographically Separated Units: ORG
+GSU: ORG
+Tenants: ORG
+Develop: ORG
+Remedy: PERSON
+Manage Telecommunications: ORG
+NIPR: ORG
+GSU: ORG
+Oversee: ORG
+CFP: ORG
+Troubleshoot: ORG
+SOW: ORG
+CFP: ORG
+Assist: NORP
+Assist: NORP
+State: ORG
+Kevin L.
+: PERSON
+Trostle: ORG
+865: CARDINAL
+336: CARDINAL
+Computer: ORG
+PMI: ORG
+Maintain: PERSON
+07/1996 to 07/2000: CARDINAL
+F-16 Ejection System Technician Company Name: WORK_OF_ART
+State: ORG
+Ronald Buckman: PERSON
+COMM: ORG
+803: CARDINAL
+895-1190: DATE
+Performed: ORG
+ninety: CARDINAL
+monthly: DATE
+Shop: ORG
+Quality Assurance Assessor: GPE
+1996: DATE
+Brockport High School ï¼​ City: ORG
+MAY 2003: DATE
+Electrical Engineering University: ORG
+State Electrical Engineering: ORG
+November 1996: DATE
+Electronic Principles: ORG
+June 2002 to August 2002: DATE
+USAF: ORG
+Telephone Systems Apprentice Course: ORG
+September 2002 to December 2002: DATE
+USAF: ORG
+Aircrew Egress Systems Apprentice Course Numerous: ORG
+LAN: ORG
+Interests: NORP
+South Carolina: GPE
+three years: DATE
+Habitat for Humanity: ORG
+Skills: ORG
+Client: GPE
+Electrician: NORP
+Information Technology: ORG
+LAN: ORG
+Telephone Systems: ORG
+Project Management: ORG
+Technician, Telecommunications: ORG
+Troubleshoot: ORG
+Superior Performer: PERSON
+2nd Quarter 2003: DATE
+Achievement Medal: PERSON
+June 2000: DATE
+Humanitarian Service Medal: ORG
+January 1998: DATE
+20: CARDINAL
+1998: DATE
+Airman: PERSON
+the Quarter: DATE
+May 1997: DATE
+Airman: PERSON
+the Month, March 1997: DATE
+Airman: PERSON
+the Month: DATE
+February 1997: DATE
+South Carolina: GPE
+three years: DATE
+Habitat for Humanity: ORG

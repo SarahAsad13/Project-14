@@ -1,0 +1,98 @@
+WELLNESS: ORG
+Telehealth: ORG
+Group Instruction: ORG
+One: CARDINAL
+Data: ORG
+Supervision
+Planning and Coordination
+Training & Development
+Leadership
+Compassion: ORG
+CERTIFICATIONS
+Group Fitness Instructor: ORG
+ACE Certified
+Yoga: ORG
+Tai Chi, Spin: GPE
+Mixed Martial Arts and Boxing: ORG
+Association of Boxing
+Commissioners: ORG
+Promotion
+Administrative: ORG
+Interpersonal, Access, Statistics
+Excellent: ORG
+NETA, Supervision
+Communication: ORG
+Personnel: ORG
+Trainer
+Clients: ORG
+Policies: GPE
+Processes
+Financial: ORG
+Conducted: ORG
+Met: ORG
+monthly: DATE
+Performed: ORG
+every month: DATE
+BMI: ORG
+Conducted: ORG
+daily: DATE
+Explained: PRODUCT
+Communicated: ORG
+daily: DATE
+Established: NORP
+Monitored: ORG
+more than: CARDINAL
+Coordinated: PRODUCT
+Applied: ORG
+Established: ORG
+80%: PERCENT
+Devised: ORG
+Recruited: PRODUCT
+Applied: ORG
+Maintained: GPE
+Bachelor of Science : Natural Health Studies: ORG
+Clayton College of Natural Health - City: ORG
+Conducted: ORG
+Met: ORG
+monthly: DATE
+Performed: ORG
+every month: DATE
+BMI: ORG
+Conducted: ORG
+daily: DATE
+Explained: PRODUCT
+Communicated: ORG
+daily: DATE
+Established: NORP
+Monitored: ORG
+more than: CARDINAL
+Coordinated: PRODUCT
+Applied: ORG
+Established: ORG
+80%: PERCENT
+Devised: ORG
+Recruited: PRODUCT
+Applied: ORG
+Maintained: GPE
+Group Fitness Instructor: ORG
+ACE Certified
+Yoga: ORG
+Tai Chi, Spin: GPE
+Health and Wellness: ORG
+Mixed Martial Arts and Boxing: ORG
+Association of Boxing Commissioners: ORG
+Skills
+
+Accounting: ORG
+Arts: ORG
+Chi: ORG
+Communication: ORG
+Data: ORG
+Instructor: ORG
+NETA: ORG
+Supervision: ORG
+20 years: DATE
+ACE: ORG
+NETA: ORG
+Tai chi: PERSON
+5: CARDINAL

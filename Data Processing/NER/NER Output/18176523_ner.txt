@@ -1,0 +1,75 @@
+Information Technology: ORG
+Twenty-Two years: DATE
+Core Qualifications
+
+Operations: ORG
+Complex: NORP
+Jan 2000 to Jan 2016: DATE
+13,000: CARDINAL
+Asset/Lease Reporting: ORG
+Patch Management and Application Distribution: ORG
+over 10,000: CARDINAL
+Data Center Footprint: ORG
+Twenty-Three: CARDINAL
+North America: LOC
+Deployment and Management of Microsoft Products: ORG
+Server: GPE
+Desktop, Office 365: ORG
+Mail, Skype, Active Directory: ORG
+Federated Services: ORG
+SQL: ORG
+System Center
+Management/Deployment: ORG
+Data Centers: ORG
+Jan 1996 to Jan 1999: DATE
+Server: PRODUCT
+Storage: ORG
+Washington State Agencies: ORG
+Significant: PERSON
+Network Support: PERSON
+Jan 1995 to Jan 1996: DATE
+State: ORG
+Netware: GPE
+Macintosh: GPE
+Cisco: GPE
+3Com: DATE
+Bay: LOC
+Seattle: GPE
+Installations: ORG
+Oversaw: GPE
+Technician Jan 1993 to Jan 1995: DATE
+Bachelor of Science , Industrial Technology East Carolina University: ORG
+ï¼​ City: GPE
+State: GPE
+Associate of Arts , Business University of Phoenix/WIU
+
+BusinessCoursework in Business Administration: ORG
+GPA: ORG
+Microsoft Certified Professional/Administrator CompTIA: ORG
+A+: NORP
+Network+: GPE
+Certified Management Accountant: ORG
+Institute of Management Accountants: ORG
+IMA: ORG
+Affiliations: ORG
+VMware Users: ORG
+EMC Users: ORG
+Association of Information Technology Professionals
+
+Leadership Development Program: ORG
+Skills: ORG
+3Com: CARDINAL
+A+: NORP
+Active Directory: ORG
+Cisco: GPE
+Citrix: GPE
+Disaster
+Recovery: PERSON
+Hub: ORG
+Macintosh: ORG
+Microsoft Products: ORG
+Microsoft Certified Professional, Exchange, Mail, Office: ORG
+Network: ORG
+Netware: GPE
+Novell Netware: ORG
+SQL: ORG

@@ -1,0 +1,196 @@
+TEACHER
+Professional Summary
+
+Microbiology: PERSON
+Food  Microbiology: ORG
+Microbial  Toxicology: ORG
+Industrial  Microbiology: ORG
+Lactic: LOC
+Listeria: PERSON
+CONYCIT: PERSON
+Chile: GPE
+GMP: ORG
+Internal Quality Auditor: ORG
+University Austral of Chile: ORG
+Valdivia: GPE
+Chile: GPE
+2007-2008: DATE
+University of Pamplona: ORG
+Pamplona: GPE
+Colombia: GPE
+2001- 2003: DATE
+University of Pamplona: ORG
+Pamplona: GPE
+Colombia: GPE
+1992- 1999: DATE
+Bucaramanga: GPE
+144: CARDINAL
+2010: DATE
+Industrial University of Santander: ORG
+Colombia: GPE
+120 hours: TIME
+2006: DATE
+Internal Quality Auditor: ORG
+2000: DATE
+Name City: GPE
+Department of Microbiology: ORG
+Science Faculty: ORG
+Pontificia Universidad Javeriana: PERSON
+2010-2015: DATE
+Colombia: GPE
+Industrial Microbiology: ORG
+University of Santander: ORG
+Bucaramanga: GPE
+Colombia: GPE
+January to July 2010: DATE
+Microbiology  Laboratory: ORG
+Department: ORG
+Tunja: GPE
+Colombia: GPE
+First: ORDINAL
+2009: DATE
+Central American: NORP
+Caribbean Games: EVENT
+Cartagena: GPE
+Colombia: GPE
+June and July 2006: DATE
+Department of Microbiology: ORG
+School of Basic Sciences: ORG
+University of Pamplona: ORG
+Colombia: GPE
+First: ORDINAL
+half: CARDINAL
+Department of  Microbiology: ORG
+Pamplona  University: ORG
+Pamplona: GPE
+first: ORDINAL
+second: ORDINAL
+half: CARDINAL
+2005: DATE
+Basic  Sciences: ORG
+Pamplona: GPE
+Colombia: GPE
+first: ORDINAL
+2010-12-27: DATE
+Universidad: GPE
+Pamplona City: GPE
+State: GPE
+Colombia: GPE
+2008: DATE
+Universidad Austral de Chile City: ORG
+State: ORG
+Chile: GPE
+Science menthion Microbiology University Austral of Chile: ORG
+2008: DATE
+Professional Affiliations
+
+Colombian Association of Science and Technology of Foods: ORG
+Daniel  Rubio: PERSON
+Gustavo  Barbosa: PERSON
+Deyci: GPE
+2014: DATE
+National  Health: ORG
+Colombia: GPE
+Ministry of Social Protection and Health: ORG
+Colombia: GPE
+Listeria: PERSON
+Colombia: GPE
+D National Health Institute: ORG
+2014: DATE
+Risk Analysis in Public Health, Risk Analysis Branch: WORK_OF_ART
+Risk Assessment Group on Food Safety: ORG
+J.: ORG
+D.: NORP
+MelÃ: PERSON
+ndez: PERSON
+J.: ORG
+Sanchez: GPE
+O.  (: PERSON
+2014: DATE
+L24: ORG
+172: CARDINAL
+7: DATE
+D.: NORP
+Moreno: PERSON
+H. Orjuela: PERSON
+S. Lopez L.: PERSON
+2013: DATE
+Porcicultura Colombiana: PERSON
+Listeria: PERSON
+16th: ORDINAL
+Food Science and Technology: ORG
+Latin American: NORP
+2012: DATE
+http://iufost.org.br/sites/iufost.org.br/files/anais/index.htm#tema9Moreno B. H.: PERSON
+Orjuela M. S.: PERSON
+SepÃºlveda: ORG
+L.: PERSON
+de  Salud: PERSON
+Unidad: GPE
+Inocuidad de Alimentos UERIA: PERSON
+Colombia: GPE
+2011: DATE
+RodrÃguez: LOC
+D.: NORP
+SchÃ¶bitz R.: PERSON
+2009: DATE
+PelÃcula: ORG
+incorporada: ORG
+de Listeria: PERSON
+Revista: PERSON
+Agropecuario: PERSON
+Agroindustrial: ORG
+Universidad: GPE
+Cauca: GPE
+Facultad  de  Ciencias: PERSON
+ISSN: ORG
+7(2: CARDINAL
+49: CARDINAL
+O.: GPE
+Useche: GPE
+Rodriguez: GPE
+D.: NORP
+Huertas: ORG
+L.: ORG
+Castellanos: PERSON
+Benavides: GPE
+Botero: ORG
+I.: ORG
+2010: DATE
+EvaluaciÃ³n de la calidad
+: PERSON
+microbiolÃ³gica: GPE
+Colombia: GPE
+Revista Argentina de
+MicrobiologÃa: PERSON
+Buenos  Aires: ORG
+Argentina: GPE
+Congreso: PRODUCT
+118pag: DATE
+ComunicaciÃ³n: ORG
+2: CARDINAL
+V Congresso de Microbiologia Industrial: PERSON
+Pontificia Universidad Javeriana: PERSON
+Jefe De Laboratorio: PERSON
+Acta: GPE
+Bpm: PERSON
+Bpm: PERSON
+Process Management: ORG
+Carne De
+: PERSON
+Cerdo: PERSON
+Carne Porcina: PERSON
+Data Mining: ORG
+Iso, Iso 9001: ORG
+Manipuladores: PERSON
+Microbiologia: GPE
+ProducciÃ³n: GPE
+ProgramaciÃ³n: GPE
+QuÃ​mica: GPE
+QuÃ​mico: GPE
+Sas: GPE
+Seguridad: GPE
+Tutor: PRODUCT
+Vigilancia
+
+: PERSON

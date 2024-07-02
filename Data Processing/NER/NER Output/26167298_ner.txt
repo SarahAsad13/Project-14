@@ -1,0 +1,249 @@
+15 years: DATE
+Fortune 1000: LAW
+Success: ORG
+over million-dollar: MONEY
+Entrepreneur: PERSON
+MBA: WORK_OF_ART
+Skills
+
+Strategic Planning
+Forecasting: ORG
+Budgets, & P & L
+Brand & Product Management
+Channel Strategies
+Lead Generation
+Account Management
+Complex Selling
+Software & Technology
+Manufacturing
+Sourcing
+Sales Enablement
+
+Business Competitive Analysis
+Market Research
+New Product Development
+Packaging
+Creative/Design
+Content & Communications: ORG
+Social Media & Digital
+Events
+Project Management: ORG
+Vendor Management
+CRM & Automation Apps
+Call Center & Telemarketing: ORG
+May 2011: DATE
+April 2015 to December 2016: DATE
+60%: PERCENT
+one year: DATE
+B2B technology & healthcare: ORG
+VAR: ORG
+GE: ORG
+Oversaw: GPE
+three: CARDINAL
+GE Imaging: ORG
+WordPress: ORG
+Project: ORG
+June 2014 to December 2015: DATE
+UX: ORG
+two: CARDINAL
+6: MONEY
+Oversee: ORG
+Created: ORG
+weekly: DATE
+Initiated: ORG
+Initiated: ORG
+CRM: PRODUCT
+2015: DATE
+$1M: MONEY
+750: CARDINAL
+more than 45: CARDINAL
+AHIP: ORG
+AMCP: ORG
+w/: DATE
+6 weeks: DATE
+January 2013 to May 2014: DATE
+$1M: MONEY
+annual: DATE
+20: CARDINAL
+over $50K.: MONEY
+50: MONEY
+2014: DATE
+400%: PERCENT
+75%: PERCENT
+Peer Review: ORG
+Rebuilt: ORG
+LinkedIn: GPE
+SEO & SEM: ORG
+MRA: ORG
+Revamped: PRODUCT
+first: ORDINAL
+Customer Satisfaction Survey: ORG
+30%: PERCENT
+200: CARDINAL
+Marketing & Executive Team: ORG
+May 2011 to January 2013: DATE
+B2B healthcare IT & RCM: ORG
+two years: DATE
+Targeted: NORP
+28: CARDINAL
+$1M YR1: MONEY
+Facilitated: ORG
+25: CARDINAL
+300: CARDINAL
+Established: ORG
+US: GPE
+US: GPE
+CRM: PRODUCT
+25%: PERCENT
+PPC: ORG
+300,000: CARDINAL
+CRM: PRODUCT
+10: CARDINAL
+Executive: NORP
+Marketing & Executive Team: ORG
+November 2008: DATE
+Aftermarket: NORP
+2B: MONEY
+31%: PERCENT
+$48M: MONEY
+2010: DATE
+more than 100: CARDINAL
+North America: LOC
+$37M: MONEY
+2009: DATE
+DIY & DIFM: ORG
+over 14,000: CARDINAL
+North America: LOC
+US: GPE
+Canada: GPE
+Initiated: ORG
+3,400: CARDINAL
+$5M: MONEY
+2010: DATE
+Grew: PERSON
+42%: PERCENT
+2009: DATE
+Annual: DATE
+$2M: MONEY
+25: CARDINAL
+Channel Marketing: ORG
+April 2006 to September 2008: DATE
+150: MONEY
+$2B FKI Industries: MONEY
+FKI: ORG
+Melrose: NORP
+VP of Marketing: ORG
+20: MONEY
+$5M: MONEY
+Designer Collection: ORG
+China: GPE
+Hickory Hardware: PERSON
+Menards, Home Depot: ORG
+Lowe's: ORG
+Briggs: PERSON
+50M.: MONEY
+Established: ORG
+New Product Development: ORG
+NPD: ORG
+30%: PERCENT
+Established: ORG
+Lowe: ORG
+monthly: DATE
+annually: DATE
+11%: PERCENT
+2007: DATE
+first: ORDINAL
+HGTV: ORG
+Pros: LOC
+DIY: ORG
+September 2004 to April 2006 Company Name ï¼​ City: DATE
+COO: ORG
+400: MONEY
+first six months: DATE
+$1.2M: MONEY
+April 1999 to September 2004: DATE
+Annual: DATE
+$350: MONEY
+Reed Elsevier: ORG
+Responsible for Brand/Product Mgt: ORG
+Customer Service: ORG
+Business Development: ORG
+2.1: MONEY
+annually: DATE
+300: MONEY
+annually: DATE
+18%: PERCENT
+annual: DATE
+August 1996 to November 1997: DATE
+Annual: DATE
+$120M: MONEY
+30: MONEY
+$1M: MONEY
+Grew: PERSON
+Created: ORG
+three: CARDINAL
+Conducted: ORG
+200: CARDINAL
+October 1990 to July 1996: DATE
+Annual: DATE
+$400M: MONEY
+Berol: ORG
+Sharpie Brand: ORG
+150: MONEY
+Art, Writing Products: ORG
+7OM: MONEY
+Berol Writing/Office Products: ORG
+18: MONEY
+Asst: PERSON
+Art/Writing Products: ORG
+80: MONEY
+$3M: MONEY
+annual: DATE
+monthly: DATE
+P & L: ORG
+Redefined: ORG
+27%: PERCENT
+five: CARDINAL
+10%: PERCENT
+500: MONEY
+Conducted: ORG
+200: CARDINAL
+Initiated: ORG
+150: MONEY
+3: CARDINAL
+80%: PERCENT
+daily: DATE
+annual: DATE
+2017: DATE
+Hubspot Academy: ORG
+2010: DATE
+Leadership Strategies Group: ORG
+Management Belmont University: ORG
+State Management Completed: ORG
+Marketing University of Kentucky: ORG
+City: GPE
+State: ORG
+75%: PERCENT
+the Year Finalist: EVENT
+Branding and Identity Development: ORG
+Web Site Design & Marketing: ORG
+Creating Effective Promotions: ORG
+Leadership Development, Driving Innovation: ORG
+Microsoft Office Suite: ORG
+Writing Effective Copy: ORG
+P & G Leadership Writing
+
+Technology: ORG
+Microsoft Office: ORG
+2013: CARDINAL
+Excel: PRODUCT
+PowerPoint: ORG
+Constant Contact and: ORG
+Emma: PERSON
+Survey Monkey: PERSON
+Salesforce, Dynamics: ORG
+Hubspot, Hootsuite, Eloqua: ORG
+Marketo: GPE
+InDesign: ORG
+Software Life
+Cycle & Project Management: ORG

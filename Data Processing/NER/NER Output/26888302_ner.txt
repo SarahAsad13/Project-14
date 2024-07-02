@@ -1,0 +1,71 @@
+CONTROL SPECIALIST
+Professional Summary: ORG
+Process Technology: ORG
+six: CARDINAL
+Core Qualifications: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+June 2010: DATE
+Name City: GPE
+State Aviation Fuel Quality Control Specialist: ORG
+API Gravity: ORG
+60F.: CARDINAL
+PSI: ORG
+June 2010 to August 2011: DATE
+Name City: GPE
+State Quality Implementation: ORG
+ISO9000: NORP
+Initiated: ORG
+Facility Security: ORG
+July 2008 to September 2009: DATE
+Name City: GPE
+State Formulation Chemist
+
+Performed on Polyvinyl Alcohol: ORG
+nelfilicon: ORG
+N-Acryloylaminoacetaldehyde-Dimethyl Acetal: ORG
+NAAADA: ORG
+Irgacure: PERSON
+nelfilicon: ORG
+September 2006 to September 2007: DATE
+Name City: GPE
+State Quality Software Tester: ORG
+Initiated: ORG
+April 2003 to July 2006: DATE
+Name City: GPE
+Directed: ORG
+April 1998 to January 2002: DATE
+Name City: GPE
+State Process Development Technician
+
+Managed: ORG
+Collected: ORG
+January 1994 to January 1998: DATE
+Name City: GPE
+State Research and Development: ORG
+Conducted: ORG
+Maintained: GPE
+July 1994 to December 1997: DATE
+Name City: GPE
+State Analytical Chemist
+
+Conducted: ORG
+8 2012: DATE
+Lee College 
+City: ORG
+State Process Technology: ORG
+A.A.S: GPE
+GPA: ORG
+3.8: CARDINAL
+3.8: CARDINAL
+New Jersey Institute of Technology 
+City: ORG
+State Chemical Engineering Bachelor of Science Chemical Engineering: ORG
+API: ORG
+ISO9000: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG

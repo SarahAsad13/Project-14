@@ -1,0 +1,35 @@
+Sous Chef: PERSON
+Lead Cook: PERSON
+Supervisor: PERSON
+4 years: DATE
+Bilingual: GPE
+Sous: PERSON
+CHEF DE PARTIE
+Experience
+Company: ORG
+Name City: GPE
+State Chef de Partie: ORG
+Name City: GPE
+State: ORG
+Sous Chef 05/2015: PERSON
+hourly: TIME
+Name City: GPE
+State Chef de Partie 04/2014: ORG
+hourly: TIME
+Name City: GPE
+Lead Cook: PERSON
+Established: ORG
+Education: ORG
+GED: ORG
+2012: DATE
+California: GPE
+State: GPE
+USA Culinary Arts: ORG
+State: GPE
+USA: GPE
+English: LANGUAGE
+Spanish: NORP
+Skills
+Cost control: ORG
+Customer: ORG
+Bilingual: GPE

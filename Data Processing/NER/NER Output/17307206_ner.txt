@@ -1,0 +1,61 @@
+Leasing Consultant: PERSON
+June 2010: DATE
+State: ORG
+Drill: PERSON
+Color: ORG
+BHS: ORG
+second: ORDINAL
+JROTC: GPE
+Bachelor of Arts: ORG
+2016: DATE
+Virginia Wesleyan College City: ORG
+Â  Introduction to Business
+coursework: ORG
+Â  Coursework in Business Management and Administration: ORG
+Â  Coursework in Organizational Development: ORG
+Team: ORG
+Microsoft Office: ORG
+Decisive
+Personable
+Fast learner
+Fair housing mandates
+Flexible: WORK_OF_ART
+Interests: NORP
+Virginia Wesleyan College: ORG
+Virginia Wesleyan College: ORG
+Community Service for CHKD: ORG
+Virginia Wesleyan College: ORG
+Hampton: GPE
+VA: GPE
+Sixth: ORDINAL
+PORTfolio Program: ORG
+Skills
+Â: ORG
+Retail Sales: ORG
+Leasing Consultant 03/2014 Company Name City: ORG
+Property: ORG
+Demonstrate: ORG
+Fair Housing: ORG
+Update: ORG
+Submit: ORG
+Community: ORG
+Orient: LOC
+Gather: ORG
+Completed: ORG
+05/2012: CARDINAL
+Name City: GPE
+State: ORG
+Third: ORDINAL
+Cashier (Summer Position: ORG
+Using Point of Sale (POS) system: ORG
+Customer: ORG
+Name City: GPE
+State: ORG
+Scans: NORP
+Directed: ORG
+Soul of The South: WORK_OF_ART
+VA Wesleyan College: ORG
+Original: ORG
+one: CARDINAL
+one: CARDINAL
+EachÂ: PERSON

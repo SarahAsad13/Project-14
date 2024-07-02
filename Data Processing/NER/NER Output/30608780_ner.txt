@@ -1,0 +1,78 @@
+Career Focus
+Professional: FAC
+29 year: DATE
+Corporate: ORG
+Established: ORG
+Decisive: NORP
+Customer: PERSON
+Compelling: ORG
+Exceptional: LOC
+month: DATE
+Month Awards: EVENT
+Peninsula: LOC
+Ford Motor Company's: ORG
+300/500 Masters Club Earned: ORG
+Chrysler: ORG
+Tysinger Motor Co.'s: ORG
+Loyalty/Management: ORG
+May 2011: DATE
+Monitored: ORG
+monthly: DATE
+Maintained: GPE
+Assisted: ORG
+Assisted: ORG
+Helped: PERSON
+Chrysler: ORG
+Maintained: GPE
+Locked: PERSON
+night: TIME
+Mar 2004: DATE
+May 2011: DATE
+weekly: DATE
+the week: DATE
+GM: ORG
+weekly: DATE
+Regional GM's: ORG
+GM: ORG
+Appraised: ORG
+days: DATE
+weekly: DATE
+Smart Auction: WORK_OF_ART
+Arranged: PERSON
+weekly: DATE
+Regional GM's: ORG
+Prepared: PERSON
+monthly: DATE
+Maintained: GPE
+Wholesale Buyer: ORG
+Handled Fleet: ORG
+Municipalities: ORG
+State: ORG
+Prepared: PERSON
+Assisted: ORG
+Valeted: ORG
+Maintained: GPE
+Promoted: PERSON
+Monitored: ORG
+Appraised: PERSON
+Processed: GPE
+Established: ORG
+Franchise: NORP
+Attended Auto Auctions: ORG
+Switched: NORP
+Dealer Principle: ORG
+Bought: PRODUCT
+State: GPE
+USA: GPE
+Dale Carnegie (Public: ORG
+Grant Cardone: ORG
+Ford Motor Company: ORG
+Chrysler Corporation: ORG
+one: CARDINAL
+500: CARDINAL
+SRT Viper: PRODUCT
+Skills: ORG
+Army: ORG
+Customer: ORG
+Navy: ORG
+Retail Sales: ORG

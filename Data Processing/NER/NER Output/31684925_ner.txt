@@ -1,0 +1,98 @@
+Civil Engineering: ORG
+Bringing Civil
+Engineering: ORG
+Highlights
+Proficient: ORG
+MicroStation: ORG
+Google Earth Google Documents: ORG
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Word: PERSON
+Name City: GPE
+State Engineering: ORG
+Virginia Department of Transportation: ORG
+VDOT: ORG
+Fairfax County Department of Transportation: ORG
+Virginia: GPE
+Washington DC: GPE
+VDOT: ORG
+FCDOT: ORG
+Prime Consultants Engineers: ORG
+Plans: NORP
+I-495 Express Lanes: ORG
+Route 7: FAC
+Jones Branch Connector: WORK_OF_ART
+I-66: PRODUCT
+State Route: ORG
+Worked on County: GPE
+Route 643: FAC
+Route 645: FAC
+Fairfax County Roads: GPE
+Fairfax County: GPE
+VDOT Standard Specification: ORG
+Project Special Provisions: ORG
+Assisted Project Engineers: ORG
+MicroStation: ORG
+Used Highway Capacity Manual: FAC
+Performed: ORG
+Uniform Traffic Control Devices: ORG
+VDOT Supplement: ORG
+2009: DATE
+Traffic Control Devices: ORG
+Virginia: GPE
+Washington DC: GPE
+GuideSign: ORG
+VDOT Standard Specifications: ORG
+Cost and Engineering
+Estimates: WORK_OF_ART
+VDOT Road Design Manual: ORG
+FHWA: PERSON
+I-66: PRODUCT
+50: CARDINAL
+VDOT: ORG
+2012: DATE
+MicroStation: ORG
+MicroStation: ORG
+Civil Highway: FAC
+Traffic Engineering Design: ORG
+Performed: ORG
+Consulting Engineers: ORG
+minutes: TIME
+Name City: GPE
+State Medical Receptionist 07/2014: ORG
+Name City: GPE
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Word Skilled: PERSON
+five days: DATE
+Name City: GPE
+State: ORG
+Current
+
+Collaborated: ORG
+CAD: ORG
+SAP: ORG
+Bachelor of Science : Civil Engineer Civil: ORG
+2014: DATE
+George Mason University: ORG
+City: GPE
+GPA: ORG
+3.82: CARDINAL
+3.82: CARDINAL
+Spring 2014: DATE
+one: CARDINAL
+December 2014: DATE
+EIT: ORG
+Professional Engineering: ORG
+EIT: ORG
+Professional Engineering: ORG
+Civil Engineering: ORG
+Consulting: ORG
+Client: GPE
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS PowerPoint: PERSON
+MS Word: PERSON
+MicroStation: ORG
+Express: ORG
+Specification, Transportation: ORG

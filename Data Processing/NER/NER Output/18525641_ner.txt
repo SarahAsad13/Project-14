@@ -1,0 +1,84 @@
+DIRECTOR: ORG
+STRATEGY
+: PERSON
+9 years: DATE
+MillerCoors: ORG
+Digital: ORG
+Competitive: ORG
+Client: PERSON
+Cross-agency: ORG
+Media: NORP
+State: ORG
+Oversaw: GPE
+Miller Lite & Miller High Life: ORG
+MillerCoors: ORG
+optimal audience reach &: ORG
+MillerCoors: ORG
+Name City: GPE
+State: ORG
+Miller Lite's: ORG
+2014: DATE
+the Original Lite Can: ORG
+15%: PERCENT
+the first quarter: DATE
+7 years: DATE
+MillerCoors: ORG
+Miller Fortune
+- Strategic: PERSON
+Miller Lite's: ORG
+summer: DATE
+Miller Lite: PERSON
+MillerCoors: ORG
+2014: DATE
+Media Agency: ORG
+Recognition Program - 1: ORG
+3: CARDINAL
+Managing Millennials & Essentials: ORG
+Digital Marketing Â: ORG
+weekly: DATE
+Supervisor: PERSON
+State: ORG
+MillerCoors: ORG
+NFL: ORG
+Media Supervisor 09/2011: ORG
+05/2012: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+OOH: ORG
+digital & print: ORG
+MillerCoors: ORG
+40: CARDINAL
+all day to day: DATE
+6: CARDINAL
+2012: CARDINAL
+20: CARDINAL
+12/2010: CARDINAL
+Name City: GPE
+State: ORG
+MillerCoors: ORG
+$80MM: MONEY
+NFL: ORG
+Emerging Media Team: ORG
+MillerCoors: ORG
+11/2008: CARDINAL
+Name City: GPE
+State: ORG
+Coors: ORG
+MillerCoors: ORG
+TRP: ORG
+Education: ORG
+Bachelor of Arts: ORG
+Journalism - Strategic Communications: PERSON
+May 2007: DATE
+University of Missouri City: ORG
+State: ORG
+United States: ORG
+Nielsen Clear Decisions: ORG
+MRI & Scarborough: ORG
+Competitive Spending Tools - Ad*Views: WORK_OF_ART
+Kantar: GPE
+Media reach &: ORG
+Media Tools: ORG
+Econometric Modeling Analysis: ORG

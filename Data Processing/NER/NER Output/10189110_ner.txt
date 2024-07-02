@@ -1,0 +1,73 @@
+PURCHASER: NORP
+Featured Skills x Expedite / AOG / Logistics: PERSON
+Purchasing x Inventory Control: ORG
+MS Office: ORG
+12 years: DATE
+15 years: DATE
+Boeing: ORG
+Airbus: ORG
+Bombardier, Dornier: ORG
+Lockheed: ORG
+January 2011: DATE
+Name City: GPE
+Flightstar: ORG
+one: CARDINAL
+man hours: TIME
+first: ORDINAL
+FAS: ORG
+Purchasers: ORG
+FAS: ORG
+February 2009: DATE
+December 2010: DATE
+Name City: GPE
+State Purchasing Clerk / Material Specialist: ORG
+Vision Airlines: ORG
+Aircraft and Stock: ORG
+Stores / Warehouse: ORG
+Airline: PERSON
+Executive: ORG
+Coordinate: FAC
+Excel: PRODUCT
+Word: PERSON
+Adobe: PERSON
+Purchase Orders: PERSON
+AOG: ORG
+Aircraft: LOC
+February 2005: DATE
+January 2009: DATE
+Name City: GPE
+State Purchasing: ORG
+Purchasing, Maintenance: ORG
+Airline: GPE
+day: DATE
+day: DATE
+daily: DATE
+Airline: GPE
+no two days: DATE
+Buyer: LOC
+three: CARDINAL
+AOG: ORG
+Clientlogic: ORG
+DELL: ORG
+1/2010: CARDINAL
+Transportation Dangerous Goods Development Group Training Certificate: ORG
+Vision Airlines Maintenance Indoctrination: ORG
+Vision Airlines Reduced Vertical Separation: ORG
+Lake City Test of: FAC
+TABE: ORG
+12.9: CARDINAL
+Federal Aviation Certificate of Training "Gold Award" Administration Maintenance Technicians Awards Program: ORG
+5/2001: CARDINAL
+Florida High School Diploma Department of Education: ORG
+Skills: ORG
+Adobe: PERSON
+DELL: ORG
+Excel: PRODUCT
+Word: PERSON
+Shipping,: ORG
+Transportation: ORG
+Vision
+Additional Information
+
+Business reference: ORG
+9 years: DATE

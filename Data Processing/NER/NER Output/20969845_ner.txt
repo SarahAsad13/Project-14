@@ -1,0 +1,93 @@
+FINANCE & ADMIN: ORG
+more than eight: CARDINAL
+8) years: DATE
+the last 5 years: DATE
+Persian  &  Pashto: ORG
+English: LANGUAGE
+Russian: NORP
+Arabic  &  Urdu: ORG
+Fulbright Scholarship Program: WORK_OF_ART
+The University of Akron: ORG
+2015: DATE
+American Scholarship Program: ORG
+August: DATE
+June 2011: DATE
+four-year: DATE
+Bachelor: ORG
+Finance & Admin: ORG
+10/2011: CARDINAL
+Conducted: ORG
+Prepared: PRODUCT
+financial policies & procedures: ORG
+Prepared monthly: WORK_OF_ART
+Measurement Result:
+
+Obtained: WORK_OF_ART
+over 85%: PERCENT
+15: CARDINAL
+Advisor & Interpeter/Translator 06/2011: ORG
+Name City: GPE
+Dari: ORG
+English: LANGUAGE
+Measurement Result: WORK_OF_ART
+Obtained: ORG
+over 90%: PERCENT
+Name City: GPE
+Credit Banking: ORG
+Worked in Accounting department: ORG
+Maintained: GPE
+monthly: DATE
+Prepared: PERSON
+daily: DATE
+Voluntarily: ORG
+03/2011 Company: ORG
+Name City: GPE
+Obtained: ORG
+Totur 07/2004: DATE
+Name City: GPE
+30: CARDINAL
+3 Nov 2011: DATE
+Financial Administration: ORG
+27 Jan 2012: DATE
+3: CARDINAL
+Financial Administration: ORG
+O&R: ORG
+27 June 2012: DATE
+Time: ORG
+2-3 June 2013: DATE
+Qualification: ORG
+1 July 2013: DATE
+Communication: ORG
+1-2 Sept 2013: DATE
+IPO-Information Portal Online of the Risk Management: ORG
+10 Sept 2012: DATE
+Financial Management: ORG
+16: CARDINAL
+2012: DATE
+23-27: DATE
+MBA : Business Administration: WORK_OF_ART
+Conentration on Managment 2017 University of Akron City: ORG
+State: GPE
+USA: GPE
+Business Administration- Concentration on Finance: ORG
+Banking & Investment 2011 American University of Central Asia City: ORG
+Kyrgyzstan: GPE
+Persian: NORP
+Pashto: GPE
+English: LANGUAGE
+Russian: NORP
+Arabic: LANGUAGE
+Windows: PERSON
+98, 2000: DATE
+XP: ORG
+Vista: ORG
+7: DATE
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Access: ORG
+MS
+Publisher: ORG
+MS FrontPage: ORG
+Networking Linksys Routers & wirelessBroadband: ORG
+Web Designing HTML/DHTML: WORK_OF_ART
+Adobe Photoshop: PERSON

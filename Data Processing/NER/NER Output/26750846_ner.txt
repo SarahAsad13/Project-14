@@ -1,0 +1,73 @@
+Highlights
+Accounting: ORG
+Reliable
+Excellent: WORK_OF_ART
+Bilingual: GPE
+Spanish: NORP
+Microsoft: ORG
+Time: ORG
+Accomplishments
+
+Accounting Skills Â 
+
+Operated: WORK_OF_ART
+Ledger Accounts Â: PERSON
+Current
+Finance Coordinator Company Name
+
+Responsible: ORG
+30: CARDINAL
+Paychex: NORP
+Maintained: GPE
+Paychex Time: PERSON
+Labor: ORG
+Applied: ORG
+Maintained: GPE
+30 days: DATE
+State: ORG
+Accountant Company Name: ORG
+175: CARDINAL
+ADP: ORG
+ADP EZ Labor Management: ORG
+10/2006: CARDINAL
+550: CARDINAL
+ADP: ORG
+Maintained: GPE
+Applied: ORG
+monthly: DATE
+quarterly: DATE
+Maintained: GPE
+Maintained: GPE
+30 days: DATE
+ten: CARDINAL
+monthly: DATE
+year end: DATE
+Maintained: GPE
+2008: DATE
+GED: ORG
+Humanities: NORP
+Accounting Lehman College: ORG
+Lehman College: ORG
+Vocational Educational Program: ORG
+Alianza Dominicana Inc.: ORG
+Coding Netcom Information Technology: ORG
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills
+
+Payroll: ORG
+Ledger: PERSON
+Reconciliation, Accounting, Billing Audit: ORG
+Disability, Government Contracts: ORG
+Leave Of
+Absence: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+Windows Xp: PERSON
+Ms Excel: PERSON
+Ms Word: PERSON
+Outlook: PERSON
+Quickbooks: PERSON
+Quickbooks Pro: ORG
+Paychex: GPE
+ADP: ORG

@@ -1,0 +1,61 @@
+10 years: DATE
+Highlights
+
+Property: ORG
+Time: ORG
+Excel: PRODUCT
+Word: PERSON
+Pacify: ORG
+January 2013 to June 2015: DATE
+Assign: ORG
+Recognize: ORG
+Recognize: ORG
+11.2: CARDINAL
+100%: PERCENT
+September 1997 to December 2010: DATE
+Maintained: GPE
+100: CARDINAL
+Maintained: GPE
+Coordinated Customer: ORG
+Vendor: ORG
+dozens: CARDINAL
+Suggested: ORG
+third: ORDINAL
+monthly: DATE
+Researched: ORG
+month-end: DATE
+Communicated: ORG
+September 1990 to February 2000: DATE
+first: ORDINAL
+third: ORDINAL
+Coordinated: ORG
+Obtained: ORG
+Communicated: ORG
+Evaluate: ORG
+Bodily Injury: ORG
+3: CARDINAL
+January 1986 to January 1988: DATE
+Customer Service Representative: ORG
+Maintained: GPE
+daily: DATE
+Cashiering: WORK_OF_ART
+Research: ORG
+Processed: GPE
+California State University of San Bernardino Bachelor of Science Degree :: ORG
+State: ORG
+San Bernardino: GPE
+GPA: ORG
+3.13: CARDINAL
+Computer Science GPA: WORK_OF_ART
+3.13: CARDINAL
+Accounts Payable and Receivable: ORG
+Cashiering: ORG
+CA: ORG
+CPT: ORG
+Data: ORG
+ICD-9, Inspect, Inventory Control: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Reconciling: GPE
+Research: ORG
+San, Scheduling: GPE

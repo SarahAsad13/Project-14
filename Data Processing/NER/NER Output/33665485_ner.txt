@@ -1,0 +1,76 @@
+workingÂ: ORG
+Skills
+
+Team: ORG
+Project Management
+Problem: ORG
+Budget Management: ORG
+Process Improvement
+Innovation
+Client Relations
+Contract negotiationÂ 
+
+Â 
+Experience: WORK_OF_ART
+Created: ORG
+Design and Sales: ORG
+TAL: ORG
+Men's: ORG
+Product Development: ORG
+Developed Â Processes and Systems: ORG
+over $ 100 million: MONEY
+annually: DATE
+Â Â Â 
+
+: PRODUCT
+Jan 2007 to Jan 2015: DATE
+March 2015: DATE
+2014 - 2015: DATE
+$100 million: MONEY
+2012 - 2014Â: DATE
+$120 million: MONEY
+2011-Â  2012: DATE
+$100 million: MONEY
+2007-Â: DATE
+2010Â Â  : CARDINAL
+$100 million: MONEY
+JCPenney: ORG
+Egypt: GPE
+Bahrain: GPE
+Bangladesh: GPE
+India: GPE
+Vietnam: GPE
+China: GPE
+Hong Kong: GPE
+millions of dollars: MONEY
+Feb 2003 to Feb 2006: DATE
+more than $200M: MONEY
+1100: DATE
+annually: DATE
+Drove: CARDINAL
+Collaborated: ORG
+Project Manager Business Operations Feb 2000: ORG
+2003: DATE
+State: ORG
+20M.: MONEY
+Drove: CARDINAL
+200: CARDINAL
+Buyer: PERSON
+Buyer: PERSON
+Training
+Bachelor of Science: PERSON
+Samaritan Inn: PERSON
+McKinney: PERSON
+Collin County's: GPE
+Homeless Shelter: PERSON
+Volunteer: PERSON
+JCP Cares: PERSON
+JCPenney: ORG
+Volunteer Organization
+
+Skills
+Budget Management, Business Operations: ORG
+Corporate Social Responsibility, Innovation, Inventory, Leadership, Team
+Leadership,Marketing: ORG
+Process Improvement: PERSON
+Project Management: ORG

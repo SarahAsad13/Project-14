@@ -1,0 +1,86 @@
+seven years: DATE
+September 2014: DATE
+2010: DATE
+Panda Power Funds: ORG
+Dallas: GPE
+Texas: GPE
+PPF: ORG
+$6 billion: MONEY
+6: CARDINAL
+the United States: GPE
+monthly: DATE
+quarterly: DATE
+Prepared: PRODUCT
+four day: DATE
+monthly: DATE
+P&L: ORG
+Maintained: GPE
+EPICOR: ORG
+Excel: PRODUCT
+over 50: CARDINAL
+ADP: ORG
+Project Accountant: PERSON
+April 2013 to September 2014: DATE
+monthly: DATE
+Liberty: PERSON
+Patriot: PERSON
+Monthly: DATE
+Provide: NORP
+monthly: DATE
+Prepare: ORG
+Prepare: ORG
+monthly: DATE
+Accounts Payable: ORG
+month end closing and: DATE
+year end: DATE
+Process ADP Payroll for Temple and: ORG
+Sherman O&M & backup payroll: ORG
+PGS: ORG
+Accountant: PERSON
+September 2010 to March 2013: DATE
+monthly: DATE
+up to 30: CARDINAL
+Ledger: PERSON
+IRS Forms 1120: LAW
+1120S.: CARDINAL
+General Ledger: ORG
+Journal: ORG
+Prepared closing Journal: WORK_OF_ART
+year-end: DATE
+50: CARDINAL
+Payroll: ORG
+hour: TIME
+Prepared: PERSON
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+941: CARDINAL
+940: CARDINAL
+TWC: ORG
+W-2/W-3 &1099: ORG
+daily: DATE
+Training
+Master of Science : Accounting and Information Management: WORK_OF_ART
+2012: DATE
+University of Texas: ORG
+Naveen Jindal School of Management
+Accounting and Information Management GPA: ORG
+3.7/4.0: CARDINAL
+2010: DATE
+Accounting and Information Management GPA: ORG
+3.8/4.0: CARDINAL
+Magna Cum Laude Graduate: PERSON
+Bank Reconciliations: ORG
+Financial Statement Preparation: ORG
+Forecasting: ORG
+General Ledger: ORG
+Ledger: PERSON
+General Ledger Accounting: ORG
+month end: DATE
+Quick Books: ORG
+monthly: DATE
+Activities and Honors
+
+The Professional Program in Accounting
+YMCA
+Beta Alpha Psi Alpha Kappa Psi: WORK_OF_ART

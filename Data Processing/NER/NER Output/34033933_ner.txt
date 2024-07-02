@@ -1,0 +1,58 @@
+Detail Administrative Support: PERSON
+Patient Scheduling: PERSON
+Microsoft Programs: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+over 4 year: DATE
+Â Team: ORG
+10/2015: CARDINAL
+Current Company Name: ORG
+State: ORG
+Fort Lauderdale: GPE
+FL: ORG
+Broward County: GPE
+Substitute Teacher: PERSON
+State
+
+School district: ORG
+51: CARDINAL
+Escambia County: GPE
+Florida: GPE
+Grades K - 12 Full: PERSON
+ages 5 to 18: DATE
+Key Achievements: LOC
+Blue Angels Elementary: ORG
+Pensacola: GPE
+Technician: NORP
+Receptionist: NORP
+10: CARDINAL
+Veterinarians: NORP
+Escambia: ORG
+Santa Rosa: PERSON
+Baldwin: GPE
+Key Achievements: LOC
+01/2013 Company Name: ORG
+the United States: GPE
+560: CARDINAL
+Bridged: ORG
+Key Achievements: LOC
+Present Pensacola State College: ORG
+State Healthcare Administration: ORG
+my Associates of Arts: ORG
+Associates of Arts: ORG
+2014: DATE
+Gulf Coast State College: ORG
+State General Education
+Personal Information
+Buddy': ORG
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Volunteer: PERSON
+Miracle League: ORG
+Pensacola: ORG
+FL: ORG

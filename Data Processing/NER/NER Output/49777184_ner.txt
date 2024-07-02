@@ -1,0 +1,47 @@
+NegotiationsProcedure: PRODUCT
+Group: ORG
+Outreach: PERSON
+Articulate: ORG
+Time: ORG
+Personnel: ORG
+Innovative
+Cross-Cultural Mediation: ORG
+Customer: ORG
+Strategic thinker: PRODUCT
+Schedule: ORG
+Problem: PRODUCT
+Oversaw: GPE
+Data Organization Â 
+
+Improved: ORG
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Project Management: Â 
+
+: ORG
+Operations Management:: ORG
+Mentored: ORG
+12%: PERCENT
+annual: DATE
+09/2014 Company Name City: ORG
+Operations Coordinator 05/2014: ORG
+multi-million: CARDINAL
+GTM: ORG
+$2 million: MONEY
+Current Company: PERSON
+55%+: CARDINAL
+05/2012: CARDINAL
+Name City: GPE
+weekly: DATE
+Bachelor of Arts: ORG
+2014: DATE
+State: GPE
+United States of America: GPE
+International Development
+
+Coursework in Business Management
+
+Affiliations
+
+: ORG

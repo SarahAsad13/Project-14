@@ -1,0 +1,42 @@
+Microsoft Office: ORG
+Awarded: WORK_OF_ART
+2) Army Achievement Medals: ORG
+January 2014 to February 2015: DATE
+more than 60: CARDINAL
+daily: DATE
+weekly: DATE
+Safeguarded: GPE
+Centralized Aviation
+Flight Records: ORG
+more than 60: CARDINAL
+20%: PERCENT
+more than 30 thousand dollars: MONEY
+Defense Travel System: ORG
+January 2012 to December 2014: DATE
+over 1 million dollars: MONEY
+over 300: CARDINAL
+Defense Travel Operating Systems: ORG
+10%: PERCENT
+more than 300: CARDINAL
+over 300: CARDINAL
+Created: ORG
+Trained 5: ORG
+DTS: ORG
+July 2011 to December 2011: DATE
+Created: ORG
+weekly rotational day: DATE
+FAA Created: ORG
+weekly: DATE
+Bachelor of Arts : Organizational Leadership University of Brandman - City: ORG
+State: GPE
+US: GPE
+February 2017: DATE
+Business Administration Accounting University: ORG
+State: GPE
+USA: GPE
+115 credit hours: TIME
+Business Administration: ORG
+hours: TIME
+DTS: ORG
+Spanish: LANGUAGE
+English: LANGUAGE

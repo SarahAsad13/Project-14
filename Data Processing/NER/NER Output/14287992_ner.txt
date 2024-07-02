@@ -1,0 +1,49 @@
+Product Control Analyst: ORG
+Critical: PRODUCT
+Budgeting
+Forecasting: ORG
+two: CARDINAL
+two: CARDINAL
+Business Development Analyst: ORG
+August 2012: DATE
+Current Company Name: ORG
+weekly: DATE
+monthly: DATE
+Oversaw: GPE
+quarterly: DATE
+Maintained: GPE
+Prepared: PRODUCT
+Provided: ORG
+Family Liaison Officer: PERSON
+July 2009: DATE
+Current Company Name: ORG
+daily: DATE
+Received: PERSON
+Prepared: GPE
+Completed: ORG
+Customer Service Associate: ORG
+July 2009 to July 2012: DATE
+Performed: ORG
+Account & Finance Officer: ORG
+January 2007 to February 2009: DATE
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+Researched: ORG
+Finance & Management: ORG
+2014: DATE
+GPA: ORG
+3.80/4.00: CARDINAL
+GPA: ORG
+3.80/4.00: CARDINAL
+2007: DATE
+Ambrose Alli University: ORG
+ï¼​ City: GPE
+State: GPE
+Strong: PERSON
+Multi: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+QuickBooks: ORG

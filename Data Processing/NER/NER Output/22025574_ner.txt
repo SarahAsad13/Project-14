@@ -1,0 +1,111 @@
+LTAC Marketing: ORG
+LTAC: ORG
+annual: DATE
+Understands: GPE
+LTAC: ORG
+04/2013: CARDINAL
+10/2014: CARDINAL
+Business Development Company Name: ORG
+Acute: ORG
+5-10%: PERCENT
+LTAC: ORG
+each month: DATE
+Angleton-Danbury Medical Center, Brazosport Regional Medical Center, University General Hospital and Memorial Hermann Medical
+Center: ORG
+Acute: ORG
+26 day: DATE
+LTAC: ORG
+Highest: ORG
+over 88%: PERCENT
+40+ days: DATE
+72 hours to 12 hours: TIME
+CBS Billboard: ORG
+one year: DATE
+the Sugar Land on Hwy 6: FAC
+99: CARDINAL
+Halal: GPE
+Kosher: PERSON
+only one: CARDINAL
+one: CARDINAL
+a kind evening: TIME
+five: CARDINAL
+Awards
+
+Atrium Medical Center - Certificate of Recognition: ORG
+January 2014: DATE
+2015: DATE
+State: GPE
+United States: GPE
+2012: DATE
+Associate of Arts : General Studies Houston Community College System: WORK_OF_ART
+State: GPE
+United States: GPE
+Houston Community College System - Honors: ORG
+3.8: CARDINAL
+GPA: ORG
+Theta Kappa: PERSON
+2010: DATE
+ï¼​ City: GPE
+State: GPE
+United States: GPE
+Galveston College: ORG
+Dean: PERSON
+Photograph: PRODUCT
+Galveston county: GPE
+English: LANGUAGE
+Hindi: GPE
+India: GPE
+Urdu: GPE
+Pakistan: GPE
+Abdul Hannan Khan: PERSON
+MD: GPE
+Pulmonologist: NORP
+Internal Medicine: ORG
+37 Years: DATE
+281: CARDINAL
+679-8282: DATE
+Naveed Umer Farooq: PERSON
+25 Years: DATE
+832: CARDINAL
+723: CARDINAL
+Suleman Lalani: PERSON
+MD: GPE
+Internal Medicine: ORG
+21 Years: DATE
+281: CARDINAL
+491 - 3225: DATE
+Sarfaraz Aly: PERSON
+MD: GPE
+Internal Medicine, Infectious Disease Medicine: ORG
+8 Years: DATE
+832: CARDINAL
+886: CARDINAL
+Tana Healy: PERSON
+MBA: GPE
+RN: ORG
+CCM: ORG
+Case Management West Houston Medical Center: ORG
+281: CARDINAL
+588: CARDINAL
+RN: ORG
+Houston Medical Center: ORG
+281: CARDINAL
+588: CARDINAL
+Afsha Dawwa: PERSON
+281: CARDINAL
+777 - 6237: CARDINAL
+Rachael Wheaton: PERSON
+Rehab Center: ORG
+832: CARDINAL
+498: CARDINAL
+Angleton-Danbury Medical Center
+
+Brazosport Regional Health System
+
+Skills
+
+Networking
+
+Health Care
+
+Patient Evaluation: ORG

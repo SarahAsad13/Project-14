@@ -1,0 +1,95 @@
+TERRITORY: ORG
+Skill Highlights
+
+Human Resources Leadership: ORG
+Employee Development
+Performance Analysis: ORG
+Employee Engagement
+Wage Analysis
+Legal Compliance
+
+Core Accomplishments
+
+Successfully leadsÂ all Human Resource/Employee: WORK_OF_ART
+14: CARDINAL
+Territory: PERSON
+250: CARDINAL
+25,000: CARDINAL
+Non-Exempt: ORG
+750: CARDINAL
+77%: PERCENT
+2013: DATE
+85%: PERCENT
+2016: DATE
+companyÂ: ORG
+EEOC: ORG
+Territory: PERSON
+Territory: PERSON
+Oct 2010: DATE
+Counsels: ORG
+activitiesÂ: ORG
+Advocates: LOC
+Mitigates: PERSON
+addressingÂ: ORG
+Oversees: ORG
+ADA: ORG
+FLSA: ORG
+DEH: ORG
+OSHA: ORG
+CFRA: ORG
+DFEH: ORG
+EEOC: ORG
+Â Â Â Â Â Â 
+Partners: PRODUCT
+Directs: PRODUCT
+Managers and Associates: ORG
+State: ORG
+Federal Employment Law: ORG
+Â Â Â 
+: PRODUCT
+Â Â Â 
+: PRODUCT
+Â Â Â Â 
+Proficient: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG
+Excel: PRODUCT
+Mar 2000: DATE
+Oct 2010: DATE
+4: CARDINAL
+20: CARDINAL
+120: CARDINAL
+Associates: ORG
+$24 million: MONEY
+Develop: ORG
+Store Operations: ORG
+‚: PERSON
+Communicate: ORG
+Team: ORG
+Coach: ORG
+counselÂ Employees: ORG
+hourly: TIME
+Lead Loss Prevention: ORG
+District Business Planning: ORG
+Multi Unit: ORG
+1989: DATE
+Oct 1999: DATE
+2: CARDINAL
+16 Stores: ORG
+3: CARDINAL
+$110 million: MONEY
+Develop: ORG
+Store Management: ORG
+Coordinate: FAC
+45: CARDINAL
+first: ORDINAL
+25: CARDINAL
+Advise Store Management: ORG
+First Level Management: ORG
+Bachelor of Science , Business Management 1995 Metropolitan State College of Denver: ORG
+State: GPE
+USA: GPE
+2016: DATE
+Capital Institute: ORG
+University of Wisconsin ï¼​ City: ORG
+State: ORG

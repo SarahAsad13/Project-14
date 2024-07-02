@@ -1,0 +1,182 @@
+BUSINESS DEVELOPMENT: ORG
+Accomplished Business Development: ORG
+20 years: DATE
+10: MONEY
+Business Development: ORG
+20-year: DATE
+20 years: DATE
+Marketing
+Verbal: WORK_OF_ART
+Territory: PERSON
+Work History
+Business Development: WORK_OF_ART
+10/2019: CARDINAL
+Skyworks: PERSON
+GCS: ORG
+Northrop Grumman: PERSON
+NXP: ORG
+Cypress: PRODUCT
+Grew: PERSON
+200K: MONEY
+CS Mantech: ORG
+Collaborated: ORG
+06/2003 to 11/2013: CARDINAL
+WW Key: ORG
+Avago: GPE
+Triquint: ORG
+Saint Gobain: GPE
+Territory: ORG
+18: MONEY
+15%: PERCENT
+Customer: ORG
+quarterly: DATE
+Responsible for Leadership and Team Development Training: WORK_OF_ART
+Materion
+Develop: PERSON
+Materion: NORP
+01/2003: CARDINAL
+Singapore: GPE
+U.S.: GPE
+Singapore: GPE
+designers - EDA Industry: ORG
+Fairchild: PERSON
+AMD: ORG
+3Com: DATE
+Juniper Networks: ORG
+Annual: DATE
+1.7: MONEY
+weekly: DATE
+weekly: DATE
+quarterly: DATE
+weekly: DATE
+01/2000: CARDINAL
+Data Management Software: ORG
+Ariba: ORG
+Software: ORG
+ERP: ORG
+SAP: ORG
+Oracle, Baan: ORG
+JD Edwards: PERSON
+LSI: ORG
+Micron: ORG
+ST Micro: ORG
+Territory: PERSON
+U.S East: LOC
+West: LOC
+Europe: LOC
+01/2000: CARDINAL
+PVD: ORG
+AZ: ORG
+CA: ORG
+Northwest: ORG
+Hyundai: ORG
+Motorola: ORG
+Conexant: PERSON
+Micron: ORG
+Grew Northwest: PERSON
+300K: MONEY
+$5 million: MONEY
+3 1/2 years: DATE
+Buyer / Program: ORG
+Solectron: PERSON
+Certified Professional Coach: ORG
+2010: DATE
+Institute of Professional Excellence: ORG
+1991: DATE
+UNIVERSITY OF TULSA - City 
+
+: ORG
+the Year awards: EVENT
+Skyworks: GPE
+IRC: ORG
+2012: DATE
+2013: DATE
+AMA: ORG
+Miller Heiman: PERSON
+Mike Bosworth Solution Selling Techniques: PERSON
+IPEC: ORG
+Institute of Professional Excellence in Coaching: ORG
+Coach Certified Life Solutions Coach for Personal Empowerment for
+Individuals and Teams Negotiation: ORG
+Fab Owners Association Technical Program Committee: ORG
+CS Mantech
+
+Additional Information
+
+Kyle Cease Meditation Retreat: ORG
+2019: DATE
+Tony Robbins UPW Event: ORG
+Michael Beckwith Program: PERSON
+2019: DATE
+Joe Dispenza Follower: PERSON
+Team: ORG
+Territory: PERSON
+10/2019: CARDINAL
+Skyworks: PERSON
+GCS: ORG
+Northrop Grumman: PERSON
+NXP: ORG
+Cypress: PRODUCT
+Grew: PERSON
+200K: MONEY
+CS Mantech: ORG
+Collaborated: ORG
+06/2003 to 11/2013: CARDINAL
+WW Key: ORG
+Avago: GPE
+Triquint: ORG
+Saint Gobain: GPE
+Territory: ORG
+18: MONEY
+15%: PERCENT
+Customer: ORG
+quarterly: DATE
+Responsible for Leadership and Team Development Training: WORK_OF_ART
+Materion
+Develop: PERSON
+Materion: NORP
+01/2003: CARDINAL
+Singapore: GPE
+U.S.: GPE
+Singapore: GPE
+designers - EDA Industry: ORG
+Fairchild: PERSON
+AMD: ORG
+3Com: DATE
+Juniper Networks: ORG
+Annual: DATE
+1.7: MONEY
+weekly: DATE
+weekly: DATE
+quarterly: DATE
+weekly: DATE
+01/2000: CARDINAL
+Data Management Software: ORG
+Ariba: ORG
+ERP: ORG
+SAP: ORG
+Oracle, Baan: ORG
+JD Edwards: PERSON
+LSI: ORG
+Micron: ORG
+ST Micro: ORG
+Territory: PERSON
+U.S: GPE
+East: LOC
+West: LOC
+Europe: LOC
+01/2000: CARDINAL
+PVD: ORG
+AZ: ORG
+CA: ORG
+Northwest: ORG
+Hyundai: ORG
+Motorola: ORG
+Conexant: PERSON
+Micron: ORG
+Grew Northwest: PERSON
+300K: MONEY
+$5 million: MONEY
+3 1/2 years: DATE
+Buyer / Program: ORG
+Solectron: PERSON

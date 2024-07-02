@@ -1,0 +1,106 @@
+Profile
+
+Middle School/Secondary: ORG
+History, Biblical Reflection: ORG
+Lesson Planning: ORG
+the Common Core
+Academic: FAC
+Differentiating Lessons: WORK_OF_ART
+EC: ORG
+Professional Learning Community Lead: ORG
+Eight Years: DATE
+AIG: ORG
+English: LANGUAGE
+Literacy Tutoring: WORK_OF_ART
+the Academically/Intellectually Gifted
+Committee: ORG
+SIOP: ORG
+ELL: ORG
+Sixth Grade: ORG
+the School Improvement
+Committee
+MS Office: ORG
+PowerSchool: ORG
+Bilingual: GPE
+Bahasa: GPE
+Indonesia: GPE
+Coach: ORG
+Assisted: ORG
+20: CARDINAL
+2 years: DATE
+twelve years: DATE
+North Carolina: GPE
+Sixth Grade English Language Arts: FAC
+2007: DATE
+2015: DATE
+English Language Arts: WORK_OF_ART
+several Professional Learning Communities: ORG
+Communicated: ORG
+Sixth: ORDINAL
+2003: DATE
+Jun: PERSON
+English Language Arts: WORK_OF_ART
+Communicated: ORG
+Pastoral Care Ministerial Internship Jun 2002: ORG
+2002: DATE
+Created: ORG
+Duke Divinity School Ministerial Intern Jun 2001: ORG
+Washington D.C.: GPE
+weekly: DATE
+monthly: DATE
+Substitute Teacher Sep: PERSON
+May 2000: DATE
+Several months: DATE
+4th Grade: FAC
+Lake Ridge Elementary School: FAC
+English: LANGUAGE
+English: NORP
+Non-Native Speakers: ORG
+ELL-Instructor: ORG
+English: LANGUAGE
+Assist: NORP
+English: NORP
+Jakarta: GPE
+English: LANGUAGE
+Teacher Licensing: GPE
+NC: GPE
+North Caroline Central University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Middle Grades: LOC
+English: NORP
+East Carolina: GPE
+Theology 2002: ORG
+Duke Divinity School: ORG
+Duke University: ORG
+State: GPE
+3 year: DATE
+History &: ORG
+1999: DATE
+Milligan College: ORG
+State: GPE
+USA: GPE
+Liberal Arts: ORG
+Humanities: NORP
+Bible: WORK_OF_ART
+Renaissance: ORG
+Identify How our Culture and the Society Subtlety Challenge our Faith: WORK_OF_ART
+Identify and Explaining the Forces and Trends that Propel Human History: WORK_OF_ART
+Instructional Planning and Implementation: ORG
+Developing a Dynamic and Personal Writing Style
+
+Additional Information
+
+Growing: WORK_OF_ART
+Indonesia: GPE
+Central Java Inter-Mission School: PERSON
+Mountainview International Christian
+School: ORG
+Salatiga: GPE
+Jesus Christ: PERSON
+CJIMS: ORG
+Interests: NORP
+Asian: NORP
+Drama/Theater
+Music Appreciation: ORG

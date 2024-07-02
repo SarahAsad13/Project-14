@@ -1,0 +1,48 @@
+Excel: PRODUCT
+Power Point: ORG
+Lotus: ORG
+Concur: NORP
+Arriba - Internet
+
+Excel: PERSON
+September 2014: DATE
+Current Media Administrator 
+City: ORG
+monthly: DATE
+Request: ORG
+January 2013 to September 2014: DATE
+I Department of Ophthalmology 
+City: ORG
+Montefiore Excellence: PERSON
+Contribute: ORG
+HIPAA: ORG
+August 2012 to November 2012: DATE
+State: ORG
+Medical House Calls Program: ORG
+Joint Commission Review: ORG
+April 2012 to June 2012: DATE
+State: ORG
+October 2010 to November 2011: DATE
+Humana Health Insurance Medicare Part C & D: ORG
+Medicare Advantage: ORG
+Annual Enrollment
+Period: EVENT
+May 2006 to January 2010: DATE
+CFO: ORG
+Created: ORG
+Briarcliffe College Associate of Arts: ORG
+State: GPE
+USA: GPE
+Completed 57: PRODUCT
+Associates of Arts Degree
+
+Professional Affiliations: ORG
+Alumni Association Dress for Success Worldwide: ORG
+2012-Present: DATE
+Alumni Association Henry Street Settlement: ORG
+2012-Present: DATE
+Board: ORG
+Community Action Plan for Emergency Preparedness: ORG
+2015: DATE
+Volunteer - Community: ORG
+Outlook: PERSON

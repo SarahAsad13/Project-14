@@ -1,0 +1,131 @@
+VOLUNTEER FRONT DESK RECEPTIONIST: PERSON
+Career Overview
+
+I am: WORK_OF_ART
+Core Strengths
+
+Strong: PERSON
+Seasoned: PRODUCT
+35: CARDINAL
+Familiar: PERSON
+Twitter: PERSON
+Apps
+
+Consistently: PERSON
+Worked as Museum Attendant: ORG
+Excel: PRODUCT
+Microsoft Software: ORG
+Volunteered for Red Cross: ORG
+Hurricane Katrina Relief: EVENT
+Baton Rouge: GPE
+Baltimore City
+Community: GPE
+Math Tutoring: PERSON
+Baton Rouge Public Schools: FAC
+2008: DATE
+Volunteer Front Desk Receptionist: PERSON
+Canteen: NORP
+Mar 2014 to Nov 2014: DATE
+Answer: PRODUCT
+Canteen: NORP
+Maintained: GPE
+Red Cross: ORG
+Musician: NORP
+Choir: NORP
+2013: DATE
+Sunday Morning: WORK_OF_ART
+Schedule: ORG
+weekly: DATE
+monthly: DATE
+Dedra Mathews: ORG
+Supervisor's Phone: WORK_OF_ART
+225: CARDINAL
+Volunteer Security: PERSON
+Jan 2010: DATE
+2012: DATE
+hourly: TIME
+hourly: TIME
+daily: DATE
+Volunteer: PRODUCT
+Barbara Moir: PERSON
+Cotton Breeding Lab Technician Sep 2006: ORG
+2007: DATE
+Dr J Myers: ORG
+Supervisor: PERSON
+225: CARDINAL
+Organists: NORP
+Choir: NORP
+Jan 2005: DATE
+Jan 2007: DATE
+Sunday: DATE
+weekly: DATE
+Sundays: DATE
+Easter and Communion: ORG
+Roosevelt Pryor: PERSON
+Supervisor: PERSON
+225: CARDINAL
+Student Anatomy & Physiology Laboratory: ORG
+Technician Dec 2003 to Jun 2004: DATE
+Perform: ORG
+2003: DATE
+Prepare: ORG
+Prepare: ORG
+Supervisor's Name: WORK_OF_ART
+Fikire: PERSON
+410)462-6842: DATE
+2003: DATE
+Advise: PRODUCT
+Assist: NORP
+Joanna Bagg: PERSON
+Supervisor's Phone: WORK_OF_ART
+410)462-6024: DATE
+1997: DATE
+1999: DATE
+Respond: PERSON
+daily: DATE
+Temporary Security Gallery: ORG
+1993: DATE
+1993: DATE
+the beginning and end: DATE
+premises: LOC
+Greet Patrons: ORG
+1989: DATE
+1991: DATE
+State: ORG
+Follow: ORG
+Security Handbook: GPE
+2008: DATE
+Louisiana State University - City: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.0: CARDINAL
+Semester Hours History International Studies GPA: WORK_OF_ART
+3.0: CARDINAL
+Laboratory: ORG
+Metric: ORG
+Earth: LOC
+Formations, Earthquake: ORG
+Volcanoes: GPE
+Associate Degree: PERSON
+2004: DATE
+Baltimore City Community College - City: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.2: CARDINAL
+12: CARDINAL
+Semester Hours: WORK_OF_ART
+3.2: CARDINAL
+French: NORP
+L: GPE
+Mathematics: NORP
+Activities
+
+Art: WORK_OF_ART
+Illustration
+Composing: ORG
+Piano: PERSON
+Volunteer: PRODUCT
+Elementary: PERSON
+Interior: ORG

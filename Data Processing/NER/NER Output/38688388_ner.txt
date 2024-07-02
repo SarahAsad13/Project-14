@@ -1,0 +1,58 @@
+Skills
+
+Business Development & Sales Leadership: ORG
+Market Analysis/Competitive Positioning: ORG
+Profit Improvement 
+
+: WORK_OF_ART
+January 2014: DATE
+January 2018: DATE
+Name City: GPE
+State: ORG
+Communications Progressed: PERSON
+Facilitated: ORG
+Utilized: ORG
+4: CARDINAL
+80%: PERCENT
+95%: PERCENT
+90%: PERCENT
+VoIP: LOC
+Outlook: PERSON
+5%: PERCENT
+Created: ORG
+their hours: TIME
+20%: PERCENT
+Screened: ORG
+Coordinated: ORG
+up to 30: CARDINAL
+Monitored: ORG
+DOT (Department of Transportation: ORG
+DOT: ORG
+Oversaw: GPE
+January 2013: DATE
+Name City: GPE
+State Inside Sales Representative: ORG
+Denver: GPE
+Utilized: ORG
+150%: PERCENT
+weekly: DATE
+400: CARDINAL
+daily: DATE
+25%: PERCENT
+January 2009: DATE
+January 2013: DATE
+Name City: GPE
+2: CARDINAL
+12: CARDINAL
+Coordinated: ORG
+500%: PERCENT
+annual: DATE
+January 2008: DATE
+January 2009: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+30%+: CARDINAL
+Training
+UNIVERSITY OF COLORADO City: ORG
+VoIP: LOC

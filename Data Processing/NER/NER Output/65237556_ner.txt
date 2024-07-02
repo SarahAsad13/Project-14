@@ -1,0 +1,136 @@
+Retail Marketing
+Organized: PERSON
+Advanced: ORG
+Mac: PERSON
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Bilingual: GPE
+English: LANGUAGE
+2016: CARDINAL
+State: ORG
+Taco Palenque: ORG
+18: CARDINAL
+10: CARDINAL
+Laredo: GPE
+Cotulla: ORG
+San Antonio: GPE
+New Braunfels: GPE
+Houston: GPE
+McAllen: GPE
+Weslaco: GPE
+Brownsville: GPE
+Palenque Grill 5: PERSON
+3: CARDINAL
+Laredo: GPE
+McAllen: GPE
+San Antonio: GPE
+5: CARDINAL
+2: CARDINAL
+Laredo: GPE
+McAllen: PERSON
+Taco Palenque: ORG
+Taco Palenque's: ORG
+Customer Relations Management: ORG
+Taco Palenque: ORG
+Palenque Grill: PERSON
+Tensai
+Sushi: PERSON
+al: ORG
+Taco Palenque: ORG
+Palenque Grill: PERSON
+Pollo Palenque: ORG
+LTO: ORG
+Taco Palenque: ORG
+Taco Palenque: ORG
+Taco Palenque's: ORG
+Palenque Grill's: PERSON
+Official Voice: ORG
+Taco Palenque: ORG
+Palenque Grill: PERSON
+Oct 2010: DATE
+Dec 2010: DATE
+State Created: ORG
+Un dia de tu: WORK_OF_ART
+Regional Marketing campaign: WORK_OF_ART
+4: CARDINAL
+2010: DATE
+Jun 2010: PERSON
+State: ORG
+five: CARDINAL
+Client: GPE
+Customer: ORG
+Jan 2010: DATE
+Mar 2010: DATE
+Client: GPE
+Client: GPE
+Sep 2008: DATE
+2009: DATE
+State
+Organization: ORG
+first: ORDINAL
+Laredos: PERSON
+Digital: ORG
+Auditor Apr 2006: PERSON
+Reviewing: GPE
+Communicating: ORG
+Apr 2006 
+Company Name: ORG
+Housekeeping: GPE
+hours: TIME
+Jan 2005: DATE
+Jan 2012: DATE
+whichÂ: PERSON
+U.S.Â: ORG
+Georgia: GPE
+Florida: GPE
+Oklahoma: GPE
+Education: ORG
+BBA: ORG
+Centro de Estudios Superiores Royal: PERSON
+State: GPE
+Mexico: GPE
+First: ORDINAL
+2006-2010: DATE
+the Alumni Society: ORG
+2008-2009: DATE
+2008: DATE
+Founder: PERSON
+the Royal College Lions Club: ORG
+2008: DATE
+Nuevo Laredo: PERSON
+City: GPE
+State: GPE
+Tampico Tamaulipas 
+Date of Birth:: ORG
+Frebruary 6th, 1988: DATE
+Present Resident: WORK_OF_ART
+Nuevo: GPE
+Mexico: GPE
+Corporate Negociations
+Administration: ORG
+Hotel Hilton: PERSON
+Inn Nuevo Laredo: PERSON
+Centro Educativo: ORG
+Skills
+Microsoft Office: ORG
+Tableau Marketing Software: ORG
+Additional Information
+Participation: ORG
+the Municipal Institute of Culture: ORG
+Winner: PERSON
+FundaciÃ³n Colosio AC: ORG
+Nuevo Laredo: PERSON
+Washington: GPE
+Birthday Celebration Association: ORG
+WBCA: ORG
+Logistics Support: PERSON
+the Anheuser Bush Parade: ORG
+Washington: GPE
+Birthday Celebration Association: ORG
+WBCA: ORG
+International: PERSON
+LULAC Council: ORG
+12: MONEY
+the Regional Municipality: LOC
+Gerardo Lozano: PERSON
+the Regional Municipality: LOC

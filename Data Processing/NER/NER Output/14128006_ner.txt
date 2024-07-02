@@ -1,0 +1,78 @@
+SEM: ORG
+Education: ORG
+May 2015: DATE
+The University of Texas: ORG
+Austin: GPE
+The Stan Richards School of Advertising and Public Relations: ORG
+Completed Business Foundations Certificate: ORG
+La Femme New York: ORG
+May 2015: DATE
+6: CARDINAL
+just 7 months: DATE
+up to $15,000: MONEY
+over $60,000: MONEY
+8,000: CARDINAL
+5 months: DATE
+12/2015: CARDINAL
+Digital Marketing and Social: ORG
+weekly: DATE
+weekly: DATE
+each week: DATE
+monthly: DATE
+Google Analytics: ORG
+each month: DATE
+07/2015: CARDINAL
+10/2016: CARDINAL
+Fashion: ORG
+Hellessy: PERSON
+Tess Giberson: PERSON
+Milly: ORG
+Kaelen NYC: LOC
+Novis: PERSON
+Naeem Khan: PERSON
+Libertine
+Event: ORG
+Press: ORG
+Digital Marketing Intern Company Name: ORG
+Google Analytics: ORG
+Kissmetrics: LOC
+Strategized: PERSON
+annual: DATE
+Google: ORG
+annual: DATE
+Writing: PERSON
+weekly: DATE
+Beauty Public Relations Intern Company Name: ORG
+Inglot Cosmetics: ORG
+The Makeup Show, Hair Room Service
+Managed: WORK_OF_ART
+New York City's: GPE
+Glamour Magazine: ORG
+Teen Vogue/Vogue: PERSON
+Ebony Magazine, Essence Magazine: ORG
+Allure Magazine: ORG
+W Magazine: PERSON
+Obsessive Compulsive Cosmetics': ORG
+NYC: LOC
+The Makeup Show NYC: WORK_OF_ART
+FashionGPS: GPE
+Cision: ORG
+HootSuite: ORG
+KissMetrics: ORG
+Google Analytics
+Design: ORG
+InDesign, Illustrator: ORG
+Adobe: PERSON
+The Makeup Show: WORK_OF_ART
+2015: DATE
+Chaos Cocktails: ORG
+2014: DATE
+TX: ORG
+The PR Boutique: ORG
+2013: DATE
+Lifestyle PR Intern - Austin: PERSON
+TX: ORG
+Diane Terman Public Relations: PERSON
+2012: DATE
+Linda Gaunt Communications: PERSON
+2012: DATE

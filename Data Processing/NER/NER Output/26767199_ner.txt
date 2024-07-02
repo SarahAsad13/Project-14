@@ -1,0 +1,87 @@
+FINANCE: ORG
+Summary
+
+Flexible Financial: WORK_OF_ART
+Highlights: GPE
+Demonstrate: ORG
+SOX: ORG
+Payroll: ORG
+1099: DATE
+STAT: ORG
+GASB: ORG
+FAS60: ORG
+December 2007: DATE
+monthly: DATE
+quarterly: DATE
+PeopleSoft: ORG
+quarterly: DATE
+annual: DATE
+quarterly: DATE
+BOLI & COLI: ORG
+Bank Owned and Company Owned Life Insurance: ORG
+â€¢Draft: NORP
+MD&A: ORG
+Management Discussion & Analysis: ORG
+quarterly: DATE
+annual: DATE
+â€¢Assist: PRODUCT
+SOX: ORG
+CFO: ORG
+Valuations: GPE
+EBS: ORG
+two days: DATE
+Policy: PERSON
+the State of Connecticut: ORG
+FAS 97 journal: ORG
+a day: DATE
+February 2002 to December 2007: DATE
+monthly: DATE
+year end: DATE
+CFO: ORG
+monthly: DATE
+monthly: DATE
+monthly: DATE
+annual: DATE
+â€¢Negotiated: CARDINAL
+annual: DATE
+T&E: ORG
+weekly: DATE
+1099s: DATE
+Internal Revenue Service: ORG
+Insurance: ORG
+MAS90: GPE
+April 1995 to February 2002: DATE
+weekly: DATE
+300: CARDINAL
+â€¢ Prepared: PRODUCT
+weekly: DATE
+â€¢ Supervised: PRODUCT
+six: CARDINAL
+Billing, Payroll, Collections and Human Resources: ORG
+â€¢ Reconciled: WORK_OF_ART
+â€¢: PRODUCT
+Inter-company: ORG
+â€¢ Prepared: PRODUCT
+weekly: DATE
+â€¢ Maintained: PRODUCT
+â€¢ System: PRODUCT
+monthly: DATE
+â€¢ Coordinated: PRODUCT
+quarterly: DATE
+Rutgers University: ORG
+State: GPE
+United States: GPE
+May 2013: DATE
+State: ORG
+United States: GPE
+ADP: ORG
+Business Works: ORG
+Cognos Power Play: PERSON
+Jantek: PERSON
+Lotus: ORG
+Notes: PRODUCT
+Oracle: ORG
+Peachtree: GPE
+PeopleSoft: ORG
+Quick Books: ORG
+Microsoft: ORG

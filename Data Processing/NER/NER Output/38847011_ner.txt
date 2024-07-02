@@ -1,0 +1,83 @@
+8.1: CARDINAL
+6.1: CARDINAL
+ADP: ORG
+5.0: CARDINAL
+5.30: CARDINAL
+Ceridian: ORG
+4.10: CARDINAL
+Kronos: ORG
+Nextgen: PERSON
+Suite: PERSON
+Contracts: ORG
+Microsoft Office Suite: ORG
+year-end: DATE
+six months: DATE
+25%: PERCENT
+Name City: GPE
+Kronos: PERSON
+annual: DATE
+over 18 million dollars: MONEY
+Process: ORG
+W-4: ORG
+A-4: PERSON
+Board: ORG
+Nextgen: PERSON
+Update: ORG
+monthly: DATE
+monthly: DATE
+Name City: GPE
+Maintained: GPE
+Maintained: GPE
+month-end: DATE
+weekly: DATE
+Prepared: PERSON
+annual: DATE
+annual: DATE
+Sox Audit: ORG
+Name City: GPE
+approximately 300: CARDINAL
+the Southeast Region: LOC
+over $45 million: MONEY
+Acted as Point of Contact for ADP and eTime: ORG
+the Blood Services Division: ORG
+the Alabama Gulf Coast Region: LOC
+daily: DATE
+Provided a bi-weekly: QUANTITY
+Payroll: ORG
+Prepared: PERSON
+W-2: ORG
+year-end-close: DATE
+Accountant 06/1999: PERSON
+Name City: GPE
+Processed: GPE
+monthly: DATE
+180: CARDINAL
+the United States: GPE
+Processed: GPE
+Prepared: PRODUCT
+month-end: DATE
+06/1999: CARDINAL
+Name City: GPE
+nearly 400: CARDINAL
+the Retail Division: ORG
+ADP: ORG
+Name City: GPE
+State
+
+Review: ORG
+Contracts: ORG
+Coordinated: ORG
+Education: ORG
+MBA 2010 University of Phoenix City: ORG
+1992: DATE
+Alabama A&M University Business Adminstration
+Affiliations: ORG
+American Payroll Association: ORG
+5.30: CARDINAL
+ADP: ORG
+Ceridian, Contracts: ORG
+Edge, Equity: ORG
+Kronos: ORG
+Microsoft Office Suite: ORG
+Payroll: ORG
+SAP 6.20: ORG

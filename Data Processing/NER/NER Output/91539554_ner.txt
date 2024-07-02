@@ -1,0 +1,101 @@
+SmartMET: ORG
+6 years: DATE
+3 years: DATE
+Completed: ORG
+Severe Local Storms: ORG
+Cuban Meteorlogical Magazine: ORG
+United States: GPE
+China: GPE
+3: CARDINAL
+Radio: ORG
+each week: DATE
+4 straight years: DATE
+Interviewed on Television: ORG
+Weather Forecaster: PERSON
+March 2010 to November 2014: DATE
+Superior Specialist: ORG
+Meteorology: GPE
+September 2008 to November 2014: DATE
+daily: DATE
+weekly: DATE
+Severe Local Storms: ORG
+Maintained: GPE
+85 %: PERCENT
+daily: DATE
+September 2008 to November 2014: DATE
+Education: ORG
+2008: DATE
+Institute of Technology: ORG
+Applied Sciences: ORG
+City: GPE
+Cuba: GPE
+Ecological and Climatic Risks and Environmental Impactâ€​ University of Alicante: ORG
+Spain: GPE
+Cuba: GPE
+190h: LAW
+First: ORDINAL
+General Meteorology Commission: ORG
+the Students Scientific Forum: ORG
+Winner: PERSON
+â€œBenito: PERSON
+S. Jâ€​ Prize: PERSON
+the Cuban Meteorological Society: ORG
+2007: DATE
+2003: DATE
+2008: DATE
+6.13: CARDINAL
+GPA: ORG
+Meteorology Postgraduate: ORG
+Affiliations: ORG
+â€¢Cuban Meteorological Society: ORG
+2004: DATE
+2014: DATE
+28th of January, 1986: DATE
+G. Acosta: PERSON
+Pinar del RÃ​o: GPE
+Memories of the III Cuban Congress of Meteorology: ORG
+2005: DATE
+959-7160-31-5: CARDINAL
+G. Acosta: PERSON
+Memories of the IV Cuban
+: ORG
+Congress of Meteorology: ORG
+Electronic Edition: PERSON
+2007: DATE
+978: CARDINAL
+M. Carnesoltas: PERSON
+N. Quintana: PERSON
+M. Sierra: PERSON
+G. Aguilar: PERSON
+G. Acosta: PERSON
+Memories of the Tropic Convention 2008: ORG
+Electronic Edition: PERSON
+2008: DATE
+978: CARDINAL
+G. Aguilar: PERSON
+M. Carnesoltas: PERSON
+Memories of the V Cuban Congress: ORG
+Electronic Edition: PERSON
+2009: DATE
+978: CARDINAL
+Cuban Journal of Meteorology: ORG
+No.2, 2011: DATE
+0-864-151-1: CARDINAL
+G. Aguilar: PERSON
+M. Carnesoltas: PERSON
+0 0C: TIME
+Cuban Journal of Meteorology: ORG
+No.2, 2011: DATE
+0-864-151-1: CARDINAL
+Cold: NORP
+Memories of the VII: ORG
+Cuban: NORP
+Electronic Edition: PERSON
+2013: DATE
+Spanish: LANGUAGE
+English: LANGUAGE
+SmartMET: ORG
+Statistical Analysis Software: ORG
+Numerical: ORG
+Observational Data Analysis: ORG
+Radar: PRODUCT

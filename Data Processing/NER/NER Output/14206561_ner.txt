@@ -1,0 +1,40 @@
+Microsoft Office: ORG
+Outlook: PERSON
+Name City: GPE
+State Engineering Technician 01/2014: ORG
+Use MS Excel: ORG
+PowerPoint: ORG
+Generate: PERSON
+weekly: DATE
+Vendor: ORG
+OSSR: ORG
+Buyer: LOC
+Planner: PERSON
+weekly: DATE
+MRB: ORG
+weekly: DATE
+DMR: ORG
+SR: ORG
+Japan: GPE
+Name City: GPE
+State: ORG
+12/2012: CARDINAL
+Austin Free-Net: PERSON
+2012: DATE
+Name City: GPE
+State Engineering: ORG
+Assist Manufacturing Engineering: ORG
+Name City: GPE
+12/2010: CARDINAL
+Utilized Microsoft Office: ORG
+Business Administration 2019 University of Phoenix Texas Business Administration: ORG
+Professional Affiliations
+Information Systems Security Association: ORG
+Skills: ORG
+Dec: PERSON
+MS Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Operating Systems: ORG
+Oracle: ORG

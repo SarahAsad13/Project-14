@@ -1,0 +1,69 @@
+5+ years: DATE
+B.S. :: ORG
+Business Management: ORG
+04/2013: CARDINAL
+Southern Illinois University - City: ORG
+Business Management Strayer University - City 
+Core Compentencies: ORG
+Time Management
+Growth Oriented
+
+Work History: ORG
+734k: MONEY
+2017-2018: DATE
+61.16%: PERCENT
+Performed: ORG
+151.66%: PERCENT
+Utilized: ORG
+Successfully: ORG
+21%: PERCENT
+10%: PERCENT
+12/2014: CARDINAL
+14%: PERCENT
+Assigned: PERSON
+11/2013: CARDINAL
+10%: PERCENT
+Odyssey Logistics &
+Technology
+Researched: ORG
+11/2013: CARDINAL
+Chamber of
+
+Commerce: ORG
+over 200: CARDINAL
+25%: PERCENT
+two months: DATE
+07/2009: CARDINAL
+Skills: ORG
+Time Management
+Growth Oriented
+
+Work History: ORG
+734k: MONEY
+2017-2018: DATE
+61.16%: PERCENT
+Performed: ORG
+151.66%: PERCENT
+Utilized: ORG
+Successfully: ORG
+21%: PERCENT
+10%: PERCENT
+12/2014: CARDINAL
+14%: PERCENT
+Assigned: PERSON
+11/2013: CARDINAL
+10%: PERCENT
+Odyssey Logistics &
+Technology
+Researched: ORG
+11/2013: CARDINAL
+Chamber of
+
+Developed: ORG
+Chamber of
+Commerce: ORG
+over 200: CARDINAL
+25%: PERCENT
+two months: DATE
+07/2009: CARDINAL
+State: ORG

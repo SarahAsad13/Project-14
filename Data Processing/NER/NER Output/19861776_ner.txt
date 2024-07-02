@@ -1,0 +1,151 @@
+DIGITAL: ORG
+Transformation & Leadership-
+Skills
+Work History: ORG
+VP Digital Media Services: ORG
+P&L: ORG
+Sony
+Pictures Entertainment: ORG
+Paramount Pictures: ORG
+Warner Bros.: ORG
+Walt Disney Studios: ORG
+Completed 800 Terabyte Infrastructure: ORG
+Facilitated: ORG
+Apple Germany: ORG
+Apple France: ORG
+Xbox, Playstation Networks: ORG
+Amazon: ORG
+ATT Mobile: ORG
+Current
+Independent Contractor Company Name: ORG
+Commercial
+Grade" Internet Infrastructure, Platform: WORK_OF_ART
+Engineering Services: ORG
+85 million: CARDINAL
+Unique: NORP
+a month: DATE
+Fantasy Games: ORG
+Toontown MMRPG: PERSON
+Disney Broadband: ORG
+ESPN Motion: ORG
+Disney Stores: ORG
+Mobile
+MVNO service: ORG
+Ecommerce: PRODUCT
+ESPN.com: ORG
+Disney.com: ORG
+ABCNEWS.com: ORG
+ABC.com: ORG
+Disneyworld.com: ORG
+DisneyStores.com: ORG
+Strategic Planning/Execution- Delivered Playboy's: ORG
+Digital Content Factory: WORK_OF_ART
+Playboy.com: ORG
+Omni Channel: WORK_OF_ART
+Print: FAC
+Broadcast: LOC
+Mobile: GPE
+Location Based Entertainment: ORG
+Innovation- Launched ESPN Motion: ORG
+Capital One Financial Corporation: ORG
+700: CARDINAL
+22,000: CARDINAL
+3 million: CARDINAL
+30 million: CARDINAL
+over 30%: PERCENT
+99.99%: PERCENT
+FTE: ORG
+Team Building: ORG
+Collaboration- Established: ORG
+Japan: GPE
+UK: GPE
+US: GPE
+Maintained: GPE
+less than 6%: PERCENT
+Business, Operations: ORG
+60: CARDINAL
+20%: PERCENT
+Japanese: NORP
+CGI: ORG
+Japan External Trade Org: ORG
+US Digital: ORG
+Broadcast: LOC
+Mobile: GPE
+Publishing: GPE
+VOD: ORG
+2000: DATE
+Playboy.com: ORG
+2.0: CARDINAL
+8 months: DATE
+Playboy.com: ORG
+two: CARDINAL
+6 months: DATE
+30%: PERCENT
+Technical Operations Company: ORG
+Disney: ORG
+Disney/ESPN Mobile MVNO: ORG
+30+ billion: MONEY
+85+ million: MONEY
+a
+month: DATE
+ESPN.com: ORG
+ABCNEWS.com: ORG
+Disney.com: ORG
+20%: PERCENT
+80%: PERCENT
+first: ORDINAL
+5 year: DATE
+100%: PERCENT
+01/2000: CARDINAL
+CXO: ORG
+monthly: DATE
+100%: PERCENT
+80%: PERCENT
+first: ORDINAL
+Completed: ORG
+99.99%: PERCENT
+2 days: DATE
+6 hours: TIME
+01/2000: CARDINAL
+E-Business Infrastructure/ Network Operations Manager/ Telecom Manager Company: ORG
+ICR/VRU: ORG
+PBX/ACD: ORG
+$26 million: MONEY
+4%: PERCENT
+20,000: CARDINAL
+over 22 million: CARDINAL
+50%: PERCENT
+20%: PERCENT
+monthly: DATE
+23%: PERCENT
+Network Operations: ORG
+Established: ORG
+Sportsmind: ORG
+99.99%: PERCENT
+110 million: CARDINAL
+annually: DATE
+10 months: DATE
+25%: PERCENT
+MIS Company Name: ORG
+1998: DATE
+MBA: WORK_OF_ART
+Virginia Commonwealth University - City: ORG
+- Management Landmark Forum Franklin Pierce University Univ: ORG
+Virginia Darden School Change Mgt - City: ORG
+State: ORG
+GPA: ORG
+ABC: ORG
+Apple: ORG
+Broadband: GPE
+Broadcast: LOC
+CGI: ORG
+CRM: PRODUCT
+Financial: ORG
+Japanese: NORP
+Team Building: ORG
+2000: DATE
+Network: ORG
+Networks: ORG
+PBX: ORG
+Strategic Planning: ORG
+Unique: GPE

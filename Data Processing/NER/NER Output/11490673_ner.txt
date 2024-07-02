@@ -1,0 +1,58 @@
+FINANCE: ORG
+Builds: PERSON
+Skill Highlights
+
+Business development: ORG
+Customer: ORG
+Team Training and Development
+
+Highly Analytical: ORG
+September 2013: DATE
+EBTIA: ORG
+SOX: ORG
+month end: DATE
+October 2011 to September 2013: DATE
+Review G/L: PERSON
+P&L: ORG
+USA: GPE
+South East Asia: LOC
+SEA: ORG
+daily: DATE
+Evaluate: ORG
+COGS: PERSON
+Ensures: LOC
+Negotiate: ORG
+February 2007 to June 2011 Company Name: DATE
+daily: DATE
+Payroll: ORG
+G/L Analysis: ORG
+Inventory: GPE
+Monitored: ORG
+monthly: DATE
+four: CARDINAL
+SOX: ORG
+annual: DATE
+Prepared: PERSON
+weekly: DATE
+monthly: DATE
+annual: DATE
+Processed: GPE
+Accounting & Benefits: ORG
+June 2006 to February 2007: DATE
+three: CARDINAL
+six: CARDINAL
+FSA: ORG
+Exit Interview Process: FAC
+Bachelor of Science : Business Administration Human Resource Management Western International University: ORG
+Cum Laude: PERSON
+Cum Laude: PERSON
+George Mason University: ORG
+Skills
+
+Accounting: ORG
+Database: GPE
+FSA: ORG
+Human
+Resource Management: ORG
+Inventory: GPE
+Payroll: ORG

@@ -1,0 +1,27 @@
+Game Development using Unity: ORG
+T.A.: ORG
+Boeing Game Development: ORG
+Chronos Global Academy: ORG
+Modeler: PERSON
+4: CARDINAL
+VR: PRODUCT
+Steam: GPE
+Construction: PRODUCT
+John Ewing: PERSON
+01/2016
+Game Tester Company Name: PERSON
+Training: PERSON
+2014: DATE
+Advanced Modeling: ORG
+Advanced Animation: ORG
+Cannabis: PERSON
+Sativa: NORP
+Indica: PERSON
+Sanford Brown: PERSON
+City: GPE
+Skills: ORG
+Lighting: GPE
+Maya: PERSON
+Modeling: GPE
+Rendering, Sales: ORG
+Sound: GPE

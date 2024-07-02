@@ -1,0 +1,108 @@
+Highlights
+
+Problem: ORG
+Time: ORG
+MS Office: ORG
+Aware: ORG
+Interpersonal: ORG
+Attentive: NORP
+Detail: PERSON
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Customer Service: ORG
+Created: ORG
+daily: DATE
+Victim Advocate: PERSON
+State
+
+Created: ORG
+daily: DATE
+Maintained: GPE
+Conferred: ORG
+Created: ORG
+daily: DATE
+Created: ORG
+Excel: PRODUCT
+Maintained: GPE
+Created: ORG
+daily: DATE
+Name City: GPE
+Oversaw: GPE
+24-hour: TIME
+Assisted: ORG
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+Oversaw: GPE
+24-hour: TIME
+Facilitated: ORG
+Deli Clerk 05/2010: PERSON
+05/2012: CARDINAL
+Name City: GPE
+Deli Clerk: PERSON
+Cold Food: ORG
+Prepared: PRODUCT
+first: ORDINAL
+Cleaned: ORG
+Maintained: GPE
+Fountain: GPE
+Server: GPE
+Correctly: ORG
+Mastered Point of Sale (POS: ORG
+Communicated: ORG
+Complied: PERSON
+first: ORDINAL
+first: ORDINAL
+Name City: GPE
+each day: DATE
+Fed: ORG
+each day: DATE
+Fed: ORG
+daily: DATE
+03/2015: PERSON
+State: ORG
+State: GPE
+US Masters of Science: ORG
+Philadelphia: GPE
+PA 3.85GPA: ORG
+2012: DATE
+University City: GPE
+State: GPE
+US: GPE
+Bachelor of Arts: ORG
+Law: PERSON
+Rowan University: ORG
+Glassboro: ORG
+NJ 3.3GPA
+
+Technology: ORG
+Homeland Security: ORG
+Cumberland County College City: ORG
+State: GPE
+US: GPE
+Homeland Security: ORG
+2008-2010: DATE
+Cumberland County College: ORG
+Vineland: GPE
+NJ: GPE
+3.8: CARDINAL
+GPA: ORG
+Deans: NORP
+Summa Cum Laude: PERSON
+Affiliations: ORG
+Volunteer Facilitator
+: PRODUCT
+Skills
+Clerk, Heavy Machinery: ORG
+Forensic: GPE
+Community Outreach: PERSON
+Filing: GPE
+Multi: GPE
+Multi: GPE
+Phone: ORG
+Multi: GPE
+Phone System: ORG
+Phone System: ORG
+Cases, Dynamics, Engines: ORG
+Microsoft Dynamics: ORG

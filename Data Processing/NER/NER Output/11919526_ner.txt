@@ -1,0 +1,165 @@
+Career Overview
+Highly: ORG
+Strong: PERSON
+HTML: ORG
+Captivate: ORG
+Encoder: PERSON
+Reader
+Microsoft: PERSON
+Media Player: ORG
+Outlook, Paint: ORG
+PowerPoint: ORG
+SharePoint: ORG
+Skype: ORG
+Visio: PERSON
+Docs: PERSON
+Gmail: PERSON
+IBM: ORG
+SQL: PERSON
+Stored Procedures: ORG
+Kenexa: PERSON
+Apple iMovie: ORG
+Dayana Networks Voice: ORG
+Tech Smith Snag: PERSON
+VMWare: ORG
+YouTube: ORG
+Â HTML: PERSON
+July 2015: DATE
+501(r)Â: CARDINAL
+LMS: ORG
+SCORM: ORG
+SharePoint: ORG
+Researched: ORG
+SharePoint: ORG
+May 2009 to June 2015: DATE
+eLearning: ORG
+United States: GPE
+first: ORDINAL
+eLearning: ORG
+ILT: NORP
+eLearning: ORG
+eLearning: ORG
+TRAINER: ORG
+January 1991: DATE
+April 2009: DATE
+Training
+Master of Science : INSTRUCTIONAL DESIGN AND TECHNOLOGY: WORK_OF_ART
+2015: DATE
+WESTERN ILLINOIS UNIVERSITY: ORG
+ï¼​ City: GPE
+State: ORG
+United States: GPE
+1994: DATE
+DEPAUL UNIVERSITY: ORG
+1984: DATE
+PENNSYLVANIA STATE UNIVERSITY: ORG
+State: GPE
+United States: GPE
+IBM Database: FAC
+IBM Database: FAC
+IBM Application Development
+IBM Technology Expert: ORG
+NIH Protecting Human Research: ORG
+the Illinois Math and Science Academy: ORG
+Volunteer Instructional Designer: PRODUCT
+York High School
+Society: ORG
+the American Revolution: EVENT
+Volunteer: PERSON
+Coach: ORG
+American: NORP
+International DB2 User Group: ORG
+Spain: GPE
+1998: DATE
+2006: DATE
+United States: GPE
+2007Â: DATE
+Debra Eaton: PERSON
+David Majcher: PERSON
+Test Data Management: ORG
+eLearning: ORG
+IBM Corporation: ORG
+2009: DATE
+Debra Eaton: PERSON
+David Majcher: PERSON
+eLearning: ORG
+IBM Corporation: ORG
+2009: DATE
+Debra Eaton: PERSON
+Vitor Rodrigues: PERSON
+Michael Schenker: PERSON
+Kathryn Zeidenstein: PERSON
+Raul F. Chong: Getting: PERSON
+IBM Data: ORG
+eBook Tutorial: PERSON
+IBM Corporation: ORG
+2009: DATE
+Paolo Bruni: PERSON
+Sabine Kaschta: PERSON
+Marcel Kutsch: PERSON
+Glenn McGeoch: PERSON
+Marichu Scanlon: PERSON
+Jan Vandensande: PERSON
+9: DATE
+eBook Tutorial: PERSON
+IBM Corporation: ORG
+2008: DATE
+Debra Eaton: PERSON
+Marina Greenstein: PERSON
+9 Application Development Certification Exam: ORG
+733: CARDINAL
+IBM: ORG
+IBM: ORG
+2007: DATE
+Debra Eaton: PERSON
+Marina Greenstein: PERSON
+9 Application Development Certification Exam: ORG
+IBM Corporation: ORG
+2007: DATE
+Debra Eaton: PERSON
+IBM Data Studio: ORG
+1: CARDINAL
+IBM Data Studio: ORG
+IBM: ORG
+2006: DATE
+Debra Eaton: PERSON
+IBM Data Studio: ORG
+2: CARDINAL
+IBM Data Studio: ORG
+IBM: ORG
+Debra Eaton: PERSON
+3: CARDINAL
+XML: ORG
+IBM Corporation: ORG
+2006: DATE
+Dennis Bockus: PERSON
+Debra Eaton: PERSON
+Robert Newman: PERSON
+Grant Hutchison: PERSON
+Ming Wu: PERSON
+Windows: ORG
+Unix Version: ORG
+7.2: CARDINAL
+White Paper: ORG
+IBM Corporation: ORG
+2002: DATE
+Debra Eaton: PERSON
+Rome: GPE
+Magazine: ORG
+IBM Corporation: ORG
+2001: DATE
+Paolo Bruni: PERSON
+Debra Eaton: PERSON
+Gregory Green: PERSON
+Montini: PERSON
+Oracle AIX: ORG
+IBM International Technical Support Organization: ORG
+Patrick Dantressangle: PERSON
+Debra Eaton: PERSON
+Mark Leung: PERSON
+Ricardo D. Macedo: PERSON
+Red Book: ORG
+IBM International Technical Support Organization: ORG
+IBM Technical Certification Board: ORG
+IBM Customer Advisory BoardÂ 
+Instructional Design Central: ORG

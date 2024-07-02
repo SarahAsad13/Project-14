@@ -1,0 +1,144 @@
+VZW CUSTOMER TECH ADVOCATE
+Overview
+Flexible: ORG
+FOA/FSA Team: ORG
+18 years: DATE
+3 years: DATE
+RF Optimization: ORG
+8 years: DATE
+First Office Application: ORG
+1.5 years: DATE
+Network Level Testing: ORG
+3 years: DATE
+FSA: ORG
+2 years: DATE
+Customer Tech Advocate: PERSON
+Verizon Headquarter: PERSON
+NOKIA: ORG
+3 years: DATE
+FSA: ORG
+1.5 years: DATE
+LTE Network Level Testing: ORG
+3 years: DATE
+RF Optimization: ORG
+8 years: DATE
+Program Managers: ORG
+Customer Technical: ORG
+1xEVDO: CARDINAL
+Led Sprint: ORG
+4.0: CARDINAL
+5.0: CARDINAL
+VzW FSA: ORG
+Alcatel-Lucent: ORG
+SBEVM: ORG
+3G-1X: CARDINAL
+1.0 - 4.0: CARDINAL
+1XEV: CARDINAL
+Intelligent Antenna: PERSON
+8440: DATE
+4.0B: CARDINAL
+Macrocell: ORG
+3-Carrier DO: TIME
+CPRI: ORG
+AWS Microsoft Office Suites: ORG
+MapInfo: ORG
+UNIX: ORG
+SPO (System Performance
+Optimization Tool: ORG
+Transcend: PERSON
+Qualcomm Data: ORG
+CAIT: ORG
+Friendly Viewer: ORG
+QXDM: ORG
+QPST: ORG
+QCAT: ORG
+Watchmark/Prospect: ORG
+VzW Customer Tech Advocate: PRODUCT
+February 1964 to February 1964: DATE
+VzW: ORG
+VzW: PRODUCT
+Facilitate: ORG
+Verizon Wireless: ORG
+LTE: PERSON
+Pre Deployment, Deployment, Post Deployment: ORG
+FSA: ORG
+Advocate: ORG
+Alcatel-Lucent: ORG
+Alcatel-Lucent: ORG
+Cell First Office Application Engineer FOA Engineer 
+Company Name: ORG
+EVDO: ORG
+R16.11: ORG
+R17.12: ORG
+R19.0: ORG
+R21.0: PERSON
+R27.0: ORG
+R27.05: PRODUCT
+R28.04: ORG
+31.0: CARDINAL
+31.10: CARDINAL
+Alcatel-Lucent: ORG
+weekly: DATE
+Alcatel-Lucent: ORG
+Negotiate: ORG
+Construct: ORG
+daily: DATE
+OA&M: ORG
+HW/SW: ORG
+RF Optimization: ORG
+September 1997 to May 2000: DATE
+State: ORG
+CAT/TAC (Communications Authority of Thailand/ Total Access Communications: ORG
+Bangkok: GPE
+Phil Tel: PERSON
+Philippines: GPE
+TelCel: GPE
+Caracas: GPE
+Valencia & Maracay: ORG
+Seven: CARDINAL
+Nine: CARDINAL
+Second Carrier Project: ORG
+Venezuela: GPE
+five: CARDINAL
+RF: ORG
+Executed RF Optimization: ORG
+Qualcomm MDM: ORG
+FOA: ORG
+Received Shining Star Award: ORG
+Caracas: GPE
+Valencia: PERSON
+IFR/Easy Span Spectrum Analyzer: ORG
+CAT/TAC: ORG
+Diversity Day 1999: DATE
+Bachelor of Science : Electrical Engineering: ORG
+November 1997: DATE
+Milwaukee School of Engineering ï¼​ City: ORG
+State Electrical Engineering
+Professional Affiliations
+CDMA Systems: ORG
+3: CARDINAL
+1x: CARDINAL
+Rev-A: ORG
+UNIX: ORG
+WiMax: PERSON
+802.16: CARDINAL
+OA&M Hands-On: ORG
+LTE: PERSON
+Languages Fluent: PERSON
+Tagalog: LANGUAGE
+Filipino: LANGUAGE
+Bisaya: PERSON
+Filipino Dialect: WORK_OF_ART
+Skills: ORG
+3: CARDINAL
+BTS: ORG
+Central: ORG
+FSA: ORG
+MapInfo: ORG
+Access, Office: ORG
+Microsoft Office Suites: ORG
+Network: ORG
+Optimization: ORG
+Radio: ORG
+Spectrum Analyzer: PERSON
+UNIX: ORG

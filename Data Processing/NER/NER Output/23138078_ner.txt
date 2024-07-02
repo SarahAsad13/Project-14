@@ -1,0 +1,71 @@
+Healthcare Administrator: ORG
+Skill Highlights: ORG
+Critical Thinking: ORG
+Customer Needs Assessment: ORG
+Customer Service: ORG
+Data Collection: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Letters: NORP
+Memos: PERSON
+Microsoft Excel: ORG
+Microsoft Access: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Multi-Task Management: ORG
+Organizational Skills, Prioritization: ORG
+Spreadsheets: NORP
+Telephone Skills: ORG
+Time Management, Travel Arrangements: ORG
+Typing, Vendor Management: ORG
+Writing, Medical Terminology: ORG
+Office Equipment: ORG
+Payroll: ORG
+Administrative Support: PERSON
+Professional Experience
+Healthcare Administrator: ORG
+day: DATE
+Observe: LOC
+Coordinate: FAC
+monthly: DATE
+monthly: DATE
+Maintained: GPE
+Automated Electronic Guard Information System: ORG
+Justice Consolidated
+Office Network: ORG
+Census: PERSON
+1,000Â: CARDINAL
+Photographed: GPE
+08/2003: CARDINAL
+State: ORG
+Oversaw: GPE
+24Â: CARDINAL
+the end of every month: DATE
+5: CARDINAL
+Monitored department: ORG
+Training: PERSON
+Health Services Administration: ORG
+Strayer University City: ORG
+State: GPE
+USA: GPE
+College City: GPE
+State: GPE
+USA: GPE
+Dean: PERSON
+List
+Associate of Science : Business Management 06/2005: WORK_OF_ART
+State: GPE
+USA: GPE
+U.S. Department of State: Certificate of Appreciation for Exemplary Participation: ORG
+U.S. Department of State: Certificate of Recognition for Outstanding: ORG
+2009: DATE
+U.S. Department of State: Certificate of Appreciation for Outstanding Performance: ORG
+2010, 2011,: DATE
+2012: DATE
+2013: DATE
+2014: DATE
+2015: DATE

@@ -1,0 +1,85 @@
+12 years: DATE
+EDX: ORG
+DIB: ORG
+X-Ray Analysis: ORG
+Purity Liquid: PERSON
+Stress/Strain: ORG
+MicroPolisher: ORG
+MicroCleaver: ORG
+Goniometer: PERSON
+Automated Function Generators: ORG
+09/2008: ORG
+C++: GPE
+SQL: ORG
+Verilog: PRODUCT
+VHDL: ORG
+MatLab: ORG
+PSpice: ORG
+LTSpice: ORG
+PowerWorld: ORG
+LabView: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Intel: ORG
+Far Back End
+Lithography: WORK_OF_ART
+SQL: ORG
+13k: MONEY
+Capstone Project: ORG
+06/2008 Company Name: ORG
+Supervisory Control and Data Acquisition System: ORG
+09/1999 to 03/2000: MONEY
+05/1999: CARDINAL
+10/1999: CARDINAL
+daily: DATE
+B.S :: ORG
+June 2009: DATE
+Portland State University: ORG
+State Electrical Engineering
+B.S :: ORG
+June 2000: DATE
+Southern Oregon University: ORG
+ï¼​ City: GPE
+State: ORG
+Certifications: WORK_OF_ART
+Blood Borne Pathogen Certified: PERSON
+Automated Electric Defibrillator Certified: ORG
+CPR: ORG
+'08: DATE
+Note Applied
+Reliability: ORG
+I-II: PRODUCT
+Power Systems Design I-II: ORG
+Solid State Physics: ORG
+Vector Calculus: ORG
+Differential Equations: ORG
+Verilog: PERSON
+Technical Writing: ORG
+Digital Design: ORG
+General/Organic/ Bio-Chemistry: ORG
+Ecology , Mammalogy, Evolution, Genetics, Plant Physiology and Entomology: ORG
+'98: DATE
+Chartered American Cancer Society's: ORG
+'02: DATE
+Arc: PERSON
+the month: DATE
+CPR: ORG
+Data Acquisition: ORG
+Digital Design: ORG
+First Aid: ORG
+Intel: ORG
+LabView: ORG
+MatLab: ORG
+Excel: PRODUCT
+MS Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Oscilloscopes, Physics: ORG
+PSpice: ORG
+Supervisory Control and Data Acquisition: ORG
+SQL: ORG
+Technical Writing: PERSON
+Verilog: PERSON
+VHDL: ORG
+VI: PERSON

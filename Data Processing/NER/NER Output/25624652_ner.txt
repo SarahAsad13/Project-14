@@ -1,0 +1,62 @@
+7 years: DATE
+Campusvue: ORG
+PowerCampus: ORG
+PowerFAIDS: ORG
+Microsoft Office: ORG
+ImageNow: ORG
+CampusVue: ORG
+PowerCampus: ORG
+PowerFAIDS
+VA: FAC
+Problem: PRODUCT
+NASFAA: ORG
+September 2012: DATE
+Federal and Institutional Aid
+Award: ORG
+Counsel: ORG
+Award: PRODUCT
+Audit: PRODUCT
+University: ORG
+400: CARDINAL
+Counsel VA: FAC
+Ensures: LOC
+above 99%: PERCENT
+the Federal Work Study Program: ORG
+December 2010 to September 2012: DATE
+Counseled: ORG
+VA: ORG
+Financial Aid: ORG
+the Department of Veteran Affairs: ORG
+the Student Activities Board
+Campus Facilitator: ORG
+90/10: CARDINAL
+April 2008 to September 2010: DATE
+the Department of Veteran Affairs: ORG
+90/10: CARDINAL
+Financial Service: ORG
+March 2007 to April 2008: DATE
+Licensed Insurance: ORG
+SunTrust Investment Services: ORG
+Researched: ORG
+Teller Supervisor: WORK_OF_ART
+September 2006 to March 2007: DATE
+5: CARDINAL
+Vault Teller
+
+Financial Service: ORG
+Level 2: PERSON
+January 2005 to January 2006: DATE
+Teller: PERSON
+November 2004 to February 2006: DATE
+Cashed: NORP
+Masters of Business Administration :: ORG
+Human Resource Management: ORG
+2010: DATE
+Colorado Technical University: ORG
+GPA: ORG
+3.73: CARDINAL
+3.73: CARDINAL
+2008: DATE
+Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+One: CARDINAL

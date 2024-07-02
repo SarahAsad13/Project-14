@@ -1,0 +1,57 @@
+Time: ORG
+Fluency: GPE
+MS Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+World Wide: EVENT
+02/2011 Company Name: ORG
+2009: DATE
+American University: ORG
+Dubai: GPE
+City: GPE
+2005: DATE
+Al-Ma'arifa Private School (High School Level) Business, Biology: ORG
+Arabic: NORP
+English: LANGUAGE
+Food and Nutrition, Arts: ORG
+TOEFL Business: ORG
+Arabic: NORP
+English: LANGUAGE
+Food and Nutrition, Arts: ORG
+TOEFL: ORG
+2004: DATE
+City Subjects: ORG
+English: LANGUAGE
+Arabic: NORP
+Biology, Physics: ORG
+Chemistry, Business, Economics, Religion, Math, Arts
+Interests
+
+Painting: ORG
+English: LANGUAGE
+Arabic: LANGUAGE
+French: NORP
+Skills: ORG
+Advertising: PERSON
+Arabic: LANGUAGE
+Arts: ORG
+Art, Agency: ORG
+Good Communication: ORG
+Dec, Designing: ORG
+Economics: ORG
+English: LANGUAGE
+Filling: ORG
+French: NORP
+LANGUAGES: GPE
+Math: PERSON
+Excel: PRODUCT
+MS Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Physics: ORG
+Time: ORG
+World Wide Web
+Additional Information
+
+: WORK_OF_ART

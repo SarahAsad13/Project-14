@@ -1,0 +1,65 @@
+Graduate Teaching Licensure: ORG
+May 21, 2010: DATE
+The College of Saint Scholastica: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.58: CARDINAL
+Two: CARDINAL
+Bachelor of Arts , Marketing Communications: ORG
+1998: DATE
+Metropolitan State University: ORG
+State: ORG
+Strong: PERSON
+Microsoft Office Suite
+Information management: ORG
+EDI: ORG
+Oct 2010: DATE
+Various Elementary: PERSON
+Foster: PERSON
+Engage: ORG
+Organize: GPE
+Evaluate: ORG
+Summer: DATE
+2013: DATE
+Facilitate: ORG
+daily: DATE
+Youth Program: ORG
+Mar 2009: DATE
+2012: DATE
+CES: ORG
+Youth Programs Coordinator: ORG
+YPC: ORG
+YPC: ORG
+CES: ORG
+CES: ORG
+CES: ORG
+Crisis Management/Response: ORG
+First: ORDINAL
+CPR: ORG
+AED: ORG
+School Class Safety Procedures: ORG
+Mar 2001: DATE
+TL: ORG
+LTL: ORG
+third: ORDINAL
+daily: DATE
+third: ORDINAL
+U.S.: GPE
+EDI: ORG
+Communicated: ORG
+Customer Service Representative & Marketing: ORG
+Oct 2000: DATE
+Hydrogel: GPE
+Support and Technical Service: ORG
+Oct 1998 to: DATE
+the Hydrogel Marketing Communications Plan: ORG
+Initiated: ORG
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Infinite Campus
+
+: PERSON

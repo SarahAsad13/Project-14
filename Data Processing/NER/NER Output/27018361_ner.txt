@@ -1,0 +1,95 @@
+9 years: DATE
+BPO Finance: ORG
+Achievement Oriented with Excellent Communication
+People Management Skills
+Team Worker: WORK_OF_ART
+Windows
+Financial Accounting Packages : Tally Accounting Package: ORG
+A-Grade: ORG
+January 2009: DATE
+May 2016: DATE
+WBSE: ORG
+Monthly: DATE
+Finance / Business: ORG
+monthly: DATE
+Adhoc: GPE
+Authority for Expenditure): ORG
+Performing Statutory Report: WORK_OF_ART
+A202: FAC
+Capex Spent Report: ORG
+Capital & Assets: ORG
+PWC: ORG
+Connecting: NORP
+daily: DATE
+Exploration Balance Sheet Review: ORG
+Capex Reporting: PERSON
+the year: DATE
+June 2007: DATE
+January 2009: DATE
+Home Depot Responsibilities: ORG
+month end: DATE
+AP: ORG
+AP: ORG
+JE: ORG
+AP: ORG
+Invoice copies & Capitalization: ORG
+invoice copy & CER#: ORG
+one: CARDINAL
+AP: ORG
+STL: ORG
+last month: DATE
+100%: PERCENT
+100C: CARDINAL
+Home Depot Supply Got Star: ORG
+the month: DATE
+Raman Chennai BPO: ORG
+TCS: ORG
+this quarter: DATE
+April 2006: DATE
+May 2007: DATE
+Query Solving: ORG
+Different: ORG
+Completed the Lean Training: ORG
+Last Attributable
+Reference: WORK_OF_ART
+Siemens: ORG
+Performer: PERSON
+2006: DATE
+Madras University: ORG
+2005: DATE
+Madras University: ORG
+2002: DATE
+Secondary School St.: ORG
+Secondary School Secondary: ORG
+2000: CARDINAL
+Secondary School
+Personal Information
+Name: ORG
+T. Catherine Mercy Father's: PERSON
+70: CARDINAL
+Velan Nagar: PERSON
+Chennai - 600: PERSON
+28th: CARDINAL
+English: LANGUAGE
+Marital Status: ORG
+Married
+Skills: WORK_OF_ART
+Accounting: ORG
+AP: ORG
+Balance Sheet: PERSON
+Finance: ORG
+Financial Accounting: ORG
+People Management, Windows: ORG
+Negotiation: ORG
+Quality: ORG
+Siemens: ORG
+T. Catherine Mercy Father's: PERSON
+70: CARDINAL
+Velan Nagar: PERSON
+Valasaravakkam: ORG
+28th: CARDINAL
+Indian: NORP
+Languages Known: PERSON
+Tamil & English: ORG
+Yours Truly: ORG
+Catherine Mercy: PERSON

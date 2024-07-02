@@ -1,0 +1,58 @@
+Five years: DATE
+Communications & Social Media: ORG
+Familiar: PERSON
+MS Office: ORG
+6: CARDINAL
+6: CARDINAL
+Microsoft Office: ORG
+Windows: NORP
+Analytical/Research: ORG
+Computer/Technical: ORG
+Flexibility/Adaptability/Managing: ORG
+Leadership/Management: ORG
+Multicultural Sensitivity/Awareness, Problem-Solving: ORG
+Teamwork: ORG
+Facebook, Flickr: ORG
+Hootsuite, Instagram: ORG
+Twitter: PRODUCT
+more than %: PERCENT
+600: CARDINAL
+Filmed: PERSON
+01/2016: CARDINAL
+Multimedia Production Coordinator Company Name: ORG
+Mac: PERSON
+Windows: NORP
+Microsoft Office: ORG
+Microsoft Office for Mac: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+12/2015: CARDINAL
+Graphics & Photojournalism Company Name: ORG
+Adobe Creative Suite: PERSON
+6: CARDINAL
+Adobe Bridge: PERSON
+Dreamweaver, Illustrator: ORG
+InDesign: ORG
+Photoshop: PERSON
+Premiere
+Pro: PRODUCT
+Montreat College: ORG
+Digital Media Production & Film Production Company Name: ORG
+iMovie, Final Cut Pro: ORG
+04/2013: CARDINAL
+Whetstone (College Newspaper) Company Name: ORG
+4: CARDINAL
+2: CARDINAL
+3: CARDINAL
+Collaborated: ORG
+Student Government Association: ORG
+Setup: ORG
+WordPress: ORG
+Twitter: PERSON
+Instagram: GPE
+12/2014: CARDINAL
+Whetstone (College Newspaper) Company Name: ORG
+Whetstone: PERSON
+May 2016: DATE
+Bachelor of Science : Communication Journalism Montreat College: ORG
+State: ORG

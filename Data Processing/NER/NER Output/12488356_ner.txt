@@ -1,0 +1,101 @@
+SENIOR ENGINEERING PROGRAM: ORG
+Skills
+
+Program Management
+Portfolio Management
+Process Analysis
+Solution Design
+Enterprise: ORG
+Data Management: ORG
+People Development
+Leadership Development
+Coaching/Mentoring
+
+Professional Experience
+Company: ORG
+Name City: GPE
+State Senior Engineering Program: ORG
+Corporate Finance Organization: ORG
+the Oracle EBusiness Suite of Applications to Release 12: ORG
+70: CARDINAL
+100: CARDINAL
+3000: CARDINAL
+Finance: ORG
+Supply Chain: ORG
+over 60: CARDINAL
+Finance: ORG
+60: CARDINAL
+theÂ People Operations Organization: ORG
+Performance Management: ORG
+BI/Data Warehousing: ORG
+Total Rewards: NORP
+35: CARDINAL
+Company Name City: LOC
+State: ORG
+01/2011: CARDINAL
+Fortune 500: PRODUCT
+Google: ORG
+Cisco: GPE
+Arbonne International: ORG
+24: CARDINAL
+Critical Path: PERSON
+Fujitsu Computer Products of America: ORG
+Disney: ORG
+CRM: PRODUCT
+Oracle, Salesforce: ORG
+Business, Engineering: ORG
+Infrastructure: ORG
+Hardware: ORG
+70: CARDINAL
+a Customer Advocacy: PERSON
+QA: ORG
+25: CARDINAL
+Registering: PERSON
+Service Contract Management
+Managed: ORG
+ERP: ORG
+Contracts Processing: ORG
+Member Services: ORG
+over 300: CARDINAL
+Developed Oracle: ORG
+Finance: ORG
+Supply Chain: ORG
+Name City: GPE
+State: ORG
+Fortune 500: PRODUCT
+Disney, Glenayre Electronics: ORG
+Quantum Corporation: ORG
+Western Staff Services: ORG
+Developed: PRODUCT
+Led the Demand Management Center Of Excellence: ORG
+the Oracle Practice: ORG
+Â Claremont Graduate University: ORG
+Claremont: ORG
+Co-Facilitated: ORG
+The Art & Science of Computational Thinking for Industry: ORG
+PhD: WORK_OF_ART
+Fall 2014 - Fall 2016: DATE
+Los Angeles: GPE
+CA: WORK_OF_ART
+the Computer Science
+Department: ORG
+1987 - 1988: DATE
+Education: ORG
+Ph.D. : Computer informations Systems and Technology Claremont Graduate University: WORK_OF_ART
+Technology Claremont Graduate University: ORG
+City: GPE
+State: ORG
+Feb 2017: DATE
+Certified Professional Co-Active Coach: ORG
+2017 - Mar 2018: DATE
+An Examination of the Role of IT Governance, Interorganizational Collaborations: WORK_OF_ART
+Interorganizational
+Learning: ORG
+the ERP Post-Implementation Phase: ORG
+Oracle ERP
+Implementation
+
+Professional Affiliations
+
+Industry Advisory Board: ORG
+Drucker School of Management - 2015: ORG

@@ -1,0 +1,125 @@
+Career Overview
+
+Accomplished information technology professional: WORK_OF_ART
+18 years: DATE
+Core Competencies Project Management Systems: ORG
+Writing Systems & Process Consulting Document: ORG
+Computer Systems Analyst: ORG
+healthcare: ORG
+7, 8, 2012: DATE
+Apple Mac: ORG
+Unix/Linux: ORG
+Red Hat: ORG
+FreeBSD: PERSON
+SmoothWall Express: ORG
+MS Exchange: ORG
+MS SharePoint: ORG
+Apache: PRODUCT
+WordPress: ORG
+CloudFlare: ORG
+Documentum: ORG
+CoreDossier: ORG
+Oracle Workflow: PERSON
+DavMail HTML5: PERSON
+CSS: ORG
+PHP: ORG
+JavaScript: ORG
+Java: PERSON
+XML: ORG
+C++: GPE
+Microsoft Visual Basic
+
+Applications: Adobe CS6: ORG
+Photoshop: PERSON
+InDesign: ORG
+Flash: PERSON
+Effects, Fireworks: PRODUCT
+MS Office: ORG
+MS Project: ORG
+MS Access: ORG
+Oracle 11i: DATE
+HP: ORG
+IBM: ORG
+Cisco: GPE
+SonicWall: ORG
+NetGear: PERSON
+Optimizing: GPE
+Requirements Analysis Â 
+
+Completed: WORK_OF_ART
+two weeks: DATE
+25: CARDINAL
+Project Management Â 
+
+Managed: ORG
+BI/DW: ORG
+January 2003: DATE
+Current Company Name: ORG
+10 years: DATE
+30: CARDINAL
+Facilitate: ORG
+Google AdWords: ORG
+Created: ORG
+Implementation: PRODUCT
+Senior-: PRODUCT
+Operations: ORG
+Prepared: PERSON
+Systems & Document Administrator: ORG
+January 1998 to January 2003: DATE
+two months: DATE
+the first two years: DATE
+NDA: ORG
+FDA: ORG
+millions: CARDINAL
+Created: ORG
+FDA: ORG
+ERP: ORG
+Webmaster: PERSON
+Maintained Mac: ORG
+Training
+Bachelor of Science : Information Technology: PERSON
+July 2016: DATE
+University of Phoenix
+
+Information: ORG
+GPA: ORG
+Adobe: PERSON
+Acrobat: PERSON
+Apache: PRODUCT
+C++: GPE
+Cisco: GPE
+Hardware: GPE
+CSS: ORG
+Database: GPE
+Dell: ORG
+Documentum: ORG
+Dreamweaver: ORG
+ERP: ORG
+Fireworks: PRODUCT
+Flash: PERSON
+FreeBSD: PERSON
+HTML5: ORG
+IBM: ORG
+Illustrator: ORG
+InDesign: ORG
+Java: PERSON
+JavaScript,: ORG
+Languages: GPE
+Linux: GPE
+Mac: PERSON
+Apple Mac: ORG
+MS Access: ORG
+MS Exchange: ORG
+MS
+Office, Office: ORG
+MS Project: ORG
+Microsoft Windows: ORG
+Operating Systems: ORG
+Oracle: ORG
+PHP: ORG
+Express: ORG
+Red Hat: ORG
+Microsoft Visual Basic: ORG
+Webmaster: PERSON
+Workflow: PERSON
+XML: ORG

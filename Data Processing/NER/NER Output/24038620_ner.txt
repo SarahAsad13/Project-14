@@ -1,0 +1,51 @@
+Information Technology: ORG
+April 1999 to January 2015: DATE
+the past sixteen years: DATE
+Central Pennsylvania: LOC
+275: CARDINAL
+6: CARDINAL
+over 200: CARDINAL
+daily: DATE
+seven: CARDINAL
+annual: DATE
+multi-year: DATE
+the Word Perfect Application: ORG
+the Microsoft Office 2000 Suite: ORG
+Microsoft Office: ORG
+2000: DATE
+the Microsoft Office: ORG
+2007: DATE
+Outlook Messaging: PERSON
+Worldox: ORG
+Worldox GX3: ORG
+Assisted the Marketing department: ORG
+Client Relationship Management: ORG
+CRM: PRODUCT
+two: CARDINAL
+Dictate: ORG
+Dropbox: ORG
+Microsoft Office: ORG
+Mobile Suite: PERSON
+Linkedin: GPE
+Card Scanner: PERSON
+Twitter: PERSON
+Every year: DATE
+HIPPA (Health Insurance Portability: ORG
+Every other year: DATE
+Ethernet: PERSON
+COMMUNITY COLLEGE Computer Information Systems: ORG
+Business Administration Business Administration: ORG
+Air Force Veteran: PRODUCT
+Skills
+Air Force: ORG
+CRM: PRODUCT
+Client: GPE
+Ethernet: PERSON
+GroupWise, Insurance, Internet Protocols: ORG
+Microsoft Office: ORG
+Microsoft Office 2000: ORG
+Outlook: PERSON
+Relationship Management: ORG
+Scanner: GPE
+Technical Training: PERSON
+VOIP: ORG

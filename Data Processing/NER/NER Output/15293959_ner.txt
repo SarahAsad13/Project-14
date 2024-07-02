@@ -1,0 +1,62 @@
+Certified Master Personal Trainer: WORK_OF_ART
+Core Qualifications: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Adobe Strong: PERSON
+Photoshop Effective: ORG
+Certified Master Personal Trainer 06/2013: WORK_OF_ART
+Name City: GPE
+06/2013: CARDINAL
+Name City: GPE
+weekly: DATE
+80%: PERCENT
+06/2008 
+Company: ORG
+Name City: GPE
+Bachelor of Arts : Political Science 2006 California State University City: ORG
+State Political Science
+Professional Affiliations: ORG
+Certified Master Personal Trainer (MPT): National Exercise and Sports Trainers Association: WORK_OF_ART
+Agility: ORG
+Quickness National Exercise and Sports Trainers Association: ORG
+Conditioning Specialist: PERSON
+National Strength and Conditioning Association: ORG
+NSCA: ORG
+CPR: ORG
+AED: ORG
+First Aid American Red
+Cross: ORG
+7-18: CARDINAL
+Wellness Volunteer (: PERSON
+Santarus, Inc.: ORG
+VOLUNTEER
+: PERSON
+60 hours: TIME
+CORE Orthopaedic Medical Center: ORG
+42 hours: TIME
+La Paloma Healthcare Center: ORG
+65 hours: TIME
+Christmas: DATE
+San Marcos: GPE
+CSU San Marcos: PERSON
+Skills
+Adobe: ORG
+Photoshop: PERSON
+Instructing: GPE
+Excel: PRODUCT
+Microsoft: ORG
+Trainer: ORG
+7-18: CARDINAL
+Wellness Volunteer (: PERSON
+VOLUNTEER EXPERIENCE Rancho Physical Therapy: ORG
+60 hours: TIME
+CORE Orthopaedic
+Medical Center: ORG
+42 hours: TIME
+La Paloma Healthcare Center: ORG
+65 hours: TIME
+Christmas: DATE
+Going to College Tour - Gave: ORG
+San Marcos: GPE
+Ca: PRODUCT
+CSU San Marcos: PERSON

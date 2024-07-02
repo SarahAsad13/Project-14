@@ -1,0 +1,72 @@
+EQUIPMENT ENGINEERING TECHNICIAN
+Professional Summary
+
+: ORG
+Teamwork: ORG
+Integrity and Proffesionalism: ORG
+Skills: ORG
+20 years: DATE
+Material Management: ORG
+State: ORG
+Federal Government Â: ORG
+13
+years: DATE
+Law Enforcement: PERSON
+the United States: GPE
+Marine Corps: ORG
+Army National
+Guard: ORG
+MSÂ: ORG
+Customer
+Service: ORG
+Forklift: PRODUCT
+Achieve
+Company: ORG
+Provide Troubleshooting: PERSON
+Provide: NORP
+OJT: ORG
+weekend: DATE
+Identify: ORG
+Supervisor: PERSON
+06/2012: CARDINAL
+Operates: NORP
+Facility/Plant Machinery: ORG
+Test Equipment: ORG
+High Pressure Systems: ORG
+NASA: ORG
+Wind Tunnels: PERSON
+Installs: GPE
+Installs: GPE
+Generate: PERSON
+Logistics Coordinator / Sr: ORG
+11/2007: CARDINAL
+Section: ORG
+Supports: ORG
+Understands: GPE
+20: CARDINAL
+ISO 9001: ORG
+Control Analyst: ORG
+Material Reports: ORG
+NCMR: ORG
+Resolves: GPE
+WIP: ORG
+Promis: NORP
+Trains: ORG
+100: CARDINAL
+5: CARDINAL
+Material Reports: ORG
+NCMR: ORG
+Operations: ORG
+Monterey Peninsula College - City: ORG
+San Francisco: ORG
+DSN: ORG
+PO: FAC
+Microsoft Office: ORG
+WDS: ORG
+LSS: ORG
+CAVS II: PERSON
+ISO 9001: ORG
+Machinery: ORG
+Quality Control, Receiving: ORG
+Supervisor, Test Equipment: WORK_OF_ART
+Troubleshooting: GPE

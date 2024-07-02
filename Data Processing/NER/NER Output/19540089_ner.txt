@@ -1,0 +1,109 @@
+FINANCE: ORG
+Ten years: DATE
+$2.5 million: MONEY
+Highlights: GPE
+ten years: DATE
+US: GPE
+China: GPE
+eight years: DATE
+Reckitt Benckiser: PERSON
+160: MONEY
+Regal Beloit: ORG
+713: MONEY
+Profound: ORG
+Accepted Accounting Principles: ORG
+SOX Compliance: ORG
+Oracle / JDE /Global
+Shop
+Proficient: ORG
+Microsoft Office: ORG
+2.5: MONEY
+annual: DATE
+3.6%: PERCENT
+year-over-year: DATE
+Provided: ORG
+Inventory Control
+
+Lead: WORK_OF_ART
+annual: DATE
+over 50%: PERCENT
+Coordinate: FAC
+CFO: ORG
+3.6%: PERCENT
+year-over-year: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+4-6%: PERCENT
+year: DATE
+SG&A: ORG
+three year: DATE
+1-2 days: DATE
+7: CARDINAL
+5: CARDINAL
+monthly: DATE
+annual: DATE
+65: MONEY
+35M.: MONEY
+Established: ORG
+monthly: DATE
+annual: DATE
+Continuous: PERSON
+Springfield: GPE
+Selected Contributions: âˆ’ Â 
+
+Communicated: WORK_OF_ART
+7.8: MONEY
+3%: PERCENT
+annual: DATE
+one: CARDINAL
+$2.5M: MONEY
+annual: DATE
+over 50%: PERCENT
+US: GPE
+2.8: MONEY
+Analyst Jan 2007 to Jan 2011: DATE
+North America: LOC
+100: MONEY
+annual: DATE
+monthly: DATE
+quarterly: DATE
+monthly: DATE
+quarterly: DATE
+Selected Contributions: âˆ’ Closed: WORK_OF_ART
+monthly: DATE
+Oversaw: GPE
+monthly: DATE
+Jan 1998 to Jan 2000: DATE
+City: GPE
+Shanghai: GPE
+China: GPE
+1.3 million US dollars: MONEY
+year 1999: DATE
+Accountancy 2011 Missouri State University Certified Public Accountant Green Belt Trained: ORG
+Lean Six Sigma: ORG
+2011: DATE
+Accountancy - Missouri State University: ORG
+B.S.: GPE
+Accounting Missouri State University: ORG
+B.S.: GPE
+Accounting - Missouri State University
+International Finance and: ORG
+Business Amsterdam Business School International Finance: ORG
+Holland: GPE
+B.S.: GPE
+English: GPE
+Shanghai International Studies University: ORG
+B.S.: GPE
+English: GPE
+Shanghai International Studies University: ORG
+Shanghai: GPE
+China: GPE
+Financial Analysis: ORG
+Financial Reporting: ORG
+Cost Accounting: ORG
+Variance Analysis: PERSON
+Standard: ORG
+Actual Costing: PERSON
+Six Sigma: PERSON
+Mindset: GPE

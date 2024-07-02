@@ -1,0 +1,115 @@
+Conclude: PRODUCT
+first: ORDINAL
+Middle Paragraphs: PERSON
+one: CARDINAL
+one week's: DATE
+About.com: ORG
+Alison Doyle: PERSON
+Sample Targeted: PERSON
+State: ORG
+Zip Code Your Phone: PERSON
+State: ORG
+Zip Code Dear
+Mr./Ms: PERSON
+Coordinator: PERSON
+XYZ: PERSON
+Requirements: Responsible for evening: WORK_OF_ART
+Student Center: ORG
+Minnesota: LOC
+Minnesota: GPE
+NTSA: ORG
+Information Technology
+Professional: ORG
+Customer: ORG
+Dr./Mr./Ms: GPE
+Dear Hiring: WORK_OF_ART
+first: ORDINAL
+Middle Paragraph(s: GPE
+Last Paragraph: GPE
+Signature End: WORK_OF_ART
+a Basic Font Using: PRODUCT
+Arial: ORG
+Verdana: ORG
+Times New Roman: ORG
+10: CARDINAL
+12: CARDINAL
+one: CARDINAL
+Microsoft: ORG
+State: ORG
+first: ORDINAL
+three: CARDINAL
+Bottom of Form The: WORK_OF_ART
+Information Technology: ORG
+10/2002: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+daily: DATE
+Novell Netware 4.11 Network: ORG
+Performed: ORG
+one: CARDINAL
+Skills
+Accounting: ORG
+Basic Programming, Bookkeeping, Business Communication: ORG
+Finance: ORG
+IBM: ORG
+IBM Software: ORG
+Lotus: ORG
+2.1: CARDINAL
+Macros, Marketing: ORG
+Office: ORG
+MS-DOS: ORG
+Network: ORG
+Novell: ORG
+Netware: GPE
+Novell Netware: ORG
+4.11: CARDINAL
+Shorthand: PRODUCT
+Typing, Word Processing: WORK_OF_ART
+WordPerfect 5.1: PRODUCT
+one: CARDINAL
+Job Application Letter Format Contact Information Name Address City: ORG
+State: ORG
+Zip Code Phone: PERSON
+State: ORG
+First Paragraph: ORG
+first: ORDINAL
+Application Letter Template Contact Information: ORG
+first: ORDINAL
+LastName Street Address City: ORG
+State: ORG
+Zip Code Phone: PERSON
+KnowledgeSoft, Inc.: ORG
+Mechanicsburg: GPE
+PA: GPE
+3/1997: CARDINAL
+Intranetware 4.11 Administration: ORG
+4.1a Advanced Administration: ORG
+12 1993: DATE
+Shippensburg University of Pennsylvania City: ORG
+State: ORG
+Business Administration/Office Administration: ORG
+12 1993: DATE
+John L. Grove College: PERSON
+Business Business Administration/Office
+Administration
+Business Communication, Business Programming, Marketing, Finance: ORG
+IBM Software Applications: ORG
+5 1991: DATE
+Harrisburg Area Community College City: ORG
+GPA: ORG
+3.11: CARDINAL
+IBM Software Applications: ORG
+2.1: CARDINAL
+Advanced Lotus: ORG
+2.1: CARDINAL
+Macros: PRODUCT
+MS-DOS Commands: ORG
+IBM: ORG
+5.1: CARDINAL
+Novell Netware: ORG
+3.11: CARDINAL
+Academics/Business 1 1988: ORG
+State Academics/Business Typing: ORG
+Shorthand Recipient of Award: ORG

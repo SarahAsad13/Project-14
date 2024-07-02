@@ -1,0 +1,41 @@
+PREVENTATIVE HEALTHCARE: ORG
+Training
+Bachelor of Science : Health: PERSON
+2016 University of Alabama: ORG
+State: GPE
+USA: GPE
+National Society of Collegiate: ORG
+2012: DATE
+Nansemond River High School: ORG
+Medicare: ORG
+Medicaid: ORG
+Data Entry
+Excellence Leadership
+
+Strong: ORG
+Team: ORG
+CPR Certified
+Maintains: PRODUCT
+Preventative Healthcare Intern: ORG
+January 2016 to April 2016: DATE
+HealthSmart: ORG
+the next few months: DATE
+the "Train the Trainer: ORG
+Community Health Advisor: ORG
+Cooperated: ORG
+Established: ORG
+Undergraduate Researcher: ORG
+January 2015 to April 2015: DATE
+Waist: NORP
+Skinfolds Blood: FAC
+Carotid Heart Rate Physical exams/ Fitness Tests: ORG
+Healthcare Management Intern: ORG
+May 2014 to August 2014: DATE
+day: DATE
+Established: ORG
+Veterans: NORP
+Habitat for Humanity: ORG
+Birmingham: GPE
+Marine Biology: ORG
+American Red Cross Blood Bank Center
+Greater Birmingham Humane: ORG

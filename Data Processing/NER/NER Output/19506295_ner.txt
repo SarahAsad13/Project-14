@@ -1,0 +1,78 @@
+Mechanical  Engineer: ORG
+several  years: DATE
+FEA: GPE
+UG NX: ORG
+GD&T Lean Six Sigma: ORG
+UG NX: ORG
+SolidWorks: ORG
+Excel Â: PRODUCT
+GD&T: ORG
+Lean Six Sigma Certified: ORG
+Project Management: ORG
+September 2016: DATE
+GE: ORG
+Instrument Air: ORG
+GE Gas: ORG
+IBC: ORG
+FMEA: ORG
+Size: PERSON
+CFD: ORG
+June 2015 to September 2016: DATE
+ENGINEER - Military & Commercial Engine Fluid Systems: ORG
+Â Review: ORG
+Material Review Â Board: ORG
+Vendor Substantiation: ORG
+Reviews: ORG
+Fuel: PERSON
+Investigate: GPE
+February 2012 to January 2015: DATE
+Performed: ORG
+ITAR/Export: ORG
+Maintained: GPE
+Conducted: ORG
+weekly: DATE
+Collaborated: ORG
+GE: ORG
+Reviewed Engine Assembly Drawings: ORG
+Assigned: ORG
+Contractors for Controls PDE: ORG
+Headed Technical Document: ORG
+Mentored: ORG
+June 2007 to January 2012: DATE
+Performed: ORG
+Coordinated: PRODUCT
+September 2004 to June 2007: DATE
+Xerox: ORG
+monthly: DATE
+University of Dayton: ORG
+State: GPE
+USA: GPE
+Miami University 2012 Bachelor of Science : Mechanical Engineering City: ORG
+State: GPE
+USA: GPE
+Kwame Nkrumah University of Science and Technology 2002 Bachelor of Science : Agricultural Engineering City: ORG
+Ghana: GPE
+Accomplishments
+
+Designed FADEC Cooling: WORK_OF_ART
+GE LEAP 1A: ORG
+20: CARDINAL
+GE Passport: ORG
+20: CARDINAL
+Improved Technical Document Cycle: ORG
+IPV: ORG
+DPRV: ORG
+Digital Engine Visualization: ORG
+GD&T: ORG
+Lean Six Sigma
+Adobe Photoshop
+AUTOCAD
+
+: WORK_OF_ART
+Microsoft: ORG
+Microsoft Visio: ORG
+Microsoft Office: ORG
+Abacus: PRODUCT
+Matlab
+Data Acquisition: ORG
+Solid Works: ORG

@@ -1,0 +1,64 @@
+HEALTHCARE: ORG
+Highlights
+Microsoft Office Suite: ORG
+Excel PowerPoint: PERSON
+Outlook, Access: ORG
+Google Documents: ORG
+WinTeam: ORG
+Healthcare Recruiter: PERSON
+CareerBuilder: ORG
+Maintained: GPE
+Assisted District: LOC
+Researched: ORG
+Coordinated: ORG
+HR Department: ORG
+Virginia: GPE
+DC: GPE
+400: CARDINAL
+Oversaw: GPE
+Data Management, Job Application: ORG
+Payroll: ORG
+Win
+Team: ORG
+Performed: ORG
+SOMB: ORG
+DC: GPE
+over 150: CARDINAL
+Virginia: GPE
+D.C.: GPE
+Wal-Mart's: ORG
+Black Friday: EVENT
+Senior Management: ORG
+two-day: DATE
+U.S.: GPE
+Security Associates Training Academy: ORG
+Audio Visual: ORG
+AV: ORG
+Drafted PowerPoint: ORG
+the Communication Liaison: ORG
+Job Fairs: PERSON
+Utilized: ORG
+401: CARDINAL
+Designer: ORG
+monthly: DATE
+Guards: ORG
+December 2016: DATE
+DEVRY UNIVERSITY: ORG
+State Master Human Resource Management Human Resource Management: ORG
+May 2012: DATE
+NEW JERSEY CITY UNIVERSITY: ORG
+ï¼​ City: GPE
+Skills: ORG
+Audio: PERSON
+Data Management, DC: ORG
+Senior Management: ORG
+Human Resource: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+PowerPoint: ORG
+PowerPoint: ORG
+Win: PERSON
+Payroll: ORG
+Author: GPE

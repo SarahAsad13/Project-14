@@ -1,0 +1,51 @@
+ICD-9: ORG
+ASC: ORG
+years: DATE
+ICD-9: PRODUCT
+Skill Highlights: PERSON
+Medicare: ORG
+Medi-Cal
+Online Claim Submission & Electronic Medical Record: ORG
+August 2012 to December 2014: DATE
+the G/L: ORG
+Prepared P & L's: ORG
+Performed: ORG
+the G/L: ORG
+January 2010 to January 2012: DATE
+Medicare: ORG
+Compliane: PRODUCT
+State
+Successfully: ORG
+Â Â Â 
+: PRODUCT
+abilityÂ: ORG
+toÂ: CARDINAL
+third: ORDINAL
+HIPAA Privacy and Security Regulations: ORG
+CPT: ORG
+ICD-9: ORG
+January 2010 to January 2012: DATE
+HIPAA Privacy and Security Regulations: ORG
+CPT: ORG
+CPT: ORG
+Performed: ORG
+June 2006 to June 2016: DATE
+State Recorded: ORG
+EOBS/AR's: ORG
+BAR: ORG
+Education: ORG
+UNIVERSITY OF HARTFORD 2016 Accounting City: ORG
+State: ORG
+3.8: CARDINAL
+GPA: ORG
+Central Connecticut: LOC
+Bachelor of Arts : Accounting City: ORG
+State Graduated Summa Cum Laude: ORG
+Club Name]: WORK_OF_ART
+CPT: ORG
+ICD-9: ORG
+Access, Excel: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON

@@ -1,0 +1,57 @@
+Highlights: GPE
+4 years: DATE
+Query, Access, Excel: ORG
+Control D: ORG
+Lotus Notes: PERSON
+Oracle, Peoplesoft: ORG
+Critical: ORG
+99%: PERCENT
+that day: DATE
+On the Spot: WORK_OF_ART
+Premium Fund Account: ORG
+1 day: DATE
+16: CARDINAL
+1 day: DATE
+97%: PERCENT
+06/2016: CARDINAL
+two: CARDINAL
+State Farm: ORG
+Suspense: NORP
+Premium Fund Account Review: ORG
+2012-2014: DATE
+Processed: GPE
+Processed: GPE
+Worked Control: ORG
+Oracle: GPE
+State Farm: ORG
+monthly: DATE
+the end of every month: DATE
+lotus: ORG
+Premium Fund Account Review: ORG
+2014-2016: DATE
+Processed: GPE
+daily: DATE
+daily: DATE
+07/2011: CARDINAL
+Financial Shared Services for State Farm Company Name - City: ORG
+Suspense Team: ORG
+the united states: GPE
+05/2007 to 07/2011: CARDINAL
+Laborer/Book Keeper/Apprentice Company Name - City: ORG
+State: ORG
+Assist: NORP
+Clean &: ORG
+Finish: NORP
+08/2006
+Laborer/Yard Worker Company Name - City: ORG
+the Yard Supervisor: PERSON
+05/2004: CARDINAL
+2009: DATE
+State: ORG
+2010: DATE
+General Studies Heartland Community College - City: ORG
+State: ORG
+Fundamentals of Accounting Course: ORG
+State Farm: ORG
+Fast Learner: PERSON
+Fast Learner: PERSON

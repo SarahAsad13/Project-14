@@ -1,0 +1,110 @@
+Talent Acquisition and: ORG
+Talent Management: ORG
+Skill Highlights
+
+Event Coordination: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+SharePoint: ORG
+Taleo: PRODUCT
+Infovision II: LOC
+Retail Link: PERSON
+Spectra: ORG
+months: DATE
+US Staffing Representatives: ORG
+US: GPE
+Coordinated: ORG
+Taleo: PERSON
+weekly: DATE
+Taleo: PRODUCT
+the Research and Development, Regulatory: ORG
+Quality: ORG
+Legal: GPE
+Processed: GPE
+Background: FAC
+Facilitated New Hire Orientation with Talent Management and Business: ORG
+New Hires: ORG
+Baxalta: GPE
+Shire: PERSON
+Networking and Business Acumen: ORG
+Baxalta: GPE
+Shire: PERSON
+Workstream: NORP
+SharePoint: ORG
+North America: LOC
+04/2013: CARDINAL
+Staffing Coordinator Company Name: ORG
+US Medical Products: ORG
+BioScience Staffing Representatives: ORG
+US: GPE
+Coordinated: ORG
+Taleo: PERSON
+the Research and Development, Regulatory: ORG
+Quality: ORG
+Legal: GPE
+the Medical Products: LAW
+BioScience: ORG
+Baxter Healthcare: ORG
+last minute: TIME
+Staffing Representatives: ORG
+Processed: GPE
+Facilitated New Hire Orientation with Staffing and Business: ORG
+Baxter: PERSON
+Excel: PRODUCT
+Staffing Representatives and Business HR: ORG
+Medical Products: ORG
+BioScience: ORG
+Open Job Requisitions in BrassRing: WORK_OF_ART
+Taleo: PERSON
+BaxTalent: ORG
+Networking and Business Acumen: ORG
+06/2012: PRODUCT
+Baxter Healthcare Company Name: ORG
+US Medical Products: ORG
+BioScience: ORG
+US: GPE
+the Research and Development, Regulatory: ORG
+Quality: ORG
+the Medical Products: LAW
+BioScience: ORG
+Processed: GPE
+Excel: PRODUCT
+BioScience: ORG
+Supervisor of the Women's Accessories: WORK_OF_ART
+Home Department: ORG
+Window
+Department: ORG
+Shoes Department: ORG
+Children's Department: ORG
+Women's Department: ORG
+night: TIME
+Training: PERSON
+May 2007: DATE
+Bachelor of Arts : International Business: ORG
+John Brown University: ORG
+State International Business
+Community Service
+Junior Achievement Company Program: ORG
+November 2013-May 2014: DATE
+Round Lake High School: FAC
+Junior Achievement: ORG
+first: ORDINAL
+Baxter Employees: ORG
+JA: PERSON
+Junior
+Achievement: ORG
+Interests: NORP
+Spanish: NORP
+Beginner: ORG
+Japanese: NORP
+French: NORP
+Skills
+Administrative: ORG
+Data Entry, Event Coordination: ORG
+Founding Executive Board: ORG
+Baxalta's Business Resource Group: ORG
+the Recruitment and Retention
+Workstream: ORG
+Demographics of Milennial Population at Baxalta: ORG
+one hour: TIME

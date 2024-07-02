@@ -1,0 +1,68 @@
+Skills: ORG
+Complex: NORP
+Works: PERSON
+Team: ORG
+Injection: ORG
+Corel Draw: ORG
+Technical Illustrations
+Product Usage Line Art
+Company: ORG
+Microsoft Office: ORG
+Website Development
+Silk: ORG
+April 1984: DATE
+Created: ORG
+Coordinated: ORG
+Coordinated: ORG
+manufacturingÂ: GPE
+Created: ORG
+Created: ORG
+January 1983 to April 1984: DATE
+Layout: GPE
+Calculate: ORG
+Williamsport Area Community College: ORG
+Dean: PERSON
+3.2: CARDINAL
+Advanced Algebra 
+Geometry 
+Trigonometry 
+Statistics 
+Calculus: PERSON
+1977: DATE
+Cross Country: ORG
+the Month: DATE
+Affiliations: ORG
+Civic Avis Recreation Association: ORG
+Keystone Central Technical Advisory Committee Little League Baseball: ORG
+Coach: PERSON
+Head Coach: PERSON
+Board: ORG
+Parents Auxiliary Empfield
+Enterprises Graphic Design: ORG
+Penn: PERSON
+Microcomputer Fundamentals Designamics
+: ORG
+Five Grandchildren
+Church: ORG
+Administrative Council: ORG
+Avis Recreation Association: ORG
+Keystone Central Technical Advisory Committee: ORG
+Coach: ORG
+Coach: ORG
+Board: ORG
+Parents Auxiliary
+Empfield Enterprises   Graphic Design: ORG
+Penn: PERSON
+College of Technology: ORG
+Microcomputer Fundamentals: ORG
+Brochure: ORG
+Estimating: PERSON
+Drawing: GPE
+Layout: GPE
+Logos: PERSON
+Mechanical, Works: ORG
+Modeling: GPE
+Society Varsity Wrestling: ORG
+Cross Country: ORG
+Five Grandchildren Church: ORG
+Administrative Council: ORG

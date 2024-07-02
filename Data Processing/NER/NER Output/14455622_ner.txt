@@ -1,0 +1,139 @@
+Proposal Coordinator 03/2013 to 07/2014: ORG
+Name City: GPE
+State
+
+Prepare: ORG
+the Regional Sales Managers: ORG
+Bombardier Aircraft Services: ORG
+Coordinate: FAC
+Bombardier Aircraft Services: ORG
+Special Programs: ORG
+Montreal: GPE
+BAS: PERSON
+10/2007: CARDINAL
+Bombardier: PERSON
+Texas: GPE
+Assist: NORP
+AOG: ORG
+Airframe: ORG
+Interiors and Paint: ORG
+AD/Service Bulletin: ORG
+Maintain: PRODUCT
+Amazing Customer: ORG
+2012: DATE
+Customer Satisfaction: ORG
+MRO Sales: ORG
+10/2005: DATE
+Name City: GPE
+State: ORG
+structural & composite component repair: ORG
+Prepared: PERSON
+structural & composite component repair: ORG
+APU Product Line: ORG
+10/2005: DATE
+Name City: GPE
+State: ORG
+day: DATE
+the APU Product Line: ORG
+Accountable for Profit & Loss: ORG
+RFQ: ORG
+Customer: ORG
+Vendor: ORG
+Purchase: PERSON
+FAA: ORG
+EASA: ORG
+Customer: ORG
+Repair: ORG
+04/1999: ORG
+10/2005: CARDINAL
+Name City: GPE
+FAA: ORG
+EASA: ORG
+FAA: ORG
+EASA: ORG
+Airline: NORP
+General Aviation: ORG
+US: GPE
+14: CARDINAL
+Accountable for Profit & Loss: ORG
+05/1997: DATE
+Name City: GPE
+State: ORG
+Regional Aviation: ORG
+Prepared: PERSON
+Coordinated: ORG
+Northwest Airlines: ORG
+Sun Country Airlines: ORG
+Champion Air: ORG
+Mesaba Airlines: ORG
+Midwest Airlines: ORG
+Skyway Airlines: ORG
+Name City: GPE
+State: ORG
+Regional Aviation: ORG
+Prepared: PERSON
+Coordinated: ORG
+Polar Air Cargo: ORG
+Evergreen Airlines: ORG
+Sun Country Airlines: ORG
+United Airlines: ORG
+Hawaiian Airlines: ORG
+Mahalo
+Air: ORG
+Name City: GPE
+State: ORG
+Aerospace: ORG
+Coordinated: ORG
+Allied Signal Aerospace: ORG
+Allied Signal Engine Aerospace: ORG
+Beechcraft: ORG
+Boeing Helicopter: ORG
+Cessna: ORG
+GE
+Aerospace: ORG
+GE Engine: ORG
+Grumman Corporation: ORG
+Gulfstream Aerospace Corporation: ORG
+Honeywell: ORG
+Lockheed-Martin: ORG
+Magnavox
+Corporation: ORG
+McDonnell Douglas Helicopter Corporation: ORG
+Raytheon, Scientific Atlanta: ORG
+Sikorsky Corporation: GPE
+Sundstrand Corporation: ORG
+Woodward: PERSON
+Southwest: LOC
+$0 to $2.3 million: MONEY
+Automobile: ORG
+Name City: GPE
+100: CARDINAL
+10/1985: CARDINAL
+Name City: GPE
+FAA: ORG
+Fixed Based Operation: ORG
+110: CARDINAL
+Accountable for Profit & Loss: ORG
+4: CARDINAL
+25 Hour: TIME
+50 Hour: TIME
+100 Hour: TIME
+Annual: DATE
+RFQ: ORG
+Customer: ORG
+Vendor: ORG
+Purchase: PERSON
+Beechcraft: ORG
+Cessna: ORG
+Grumman, Piper and Pitts: ORG
+Bachelor of Science Lewis University Airframe & Powerplant License
+Aviation Maintenance and Management
+Skills: ORG
+Customer
+Satisfaction: ORG
+Invoicing: ORG
+Lockheed: ORG
+Paint: ORG
+Proposal: PERSON
+Scientific: ORG
+Sun: ORG

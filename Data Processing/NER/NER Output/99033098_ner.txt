@@ -1,0 +1,69 @@
+CUSTOMER: ORG
+Receptionist: NORP
+Summary
+Highly: ORG
+Receptionist: NORP
+Performed: ORG
+Took: PRODUCT
+Maintained: GPE
+Team: ORG
+Customer Service Associate/Cashier: ORG
+October 2008 to April 2009: DATE
+Processed: GPE
+Maintained: GPE
+Followed Company: ORG
+Utilized: ORG
+5: CARDINAL
+Followed Company: ORG
+Maintained: GPE
+Maintained: GPE
+Recovered: PERSON
+Processed: GPE
+Solicited Kohl's: PERSON
+Charge: PRODUCT
+Service Desk: PERSON
+Assisted: ORG
+Processed: GPE
+Strong: PERSON
+Organization: ORG
+Problem: PRODUCT
+Verbal: ORG
+October 2007 to September 2013: DATE
+Confirm: ORG
+Record medical histories: ORG
+HIPAA: ORG
+Assist Chiropractors: ORG
+Educate: ORG
+Managerial: PERSON
+Maintain: PERSON
+Keep: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+January 2005: DATE
+Current Company Name: ORG
+Tidy: PERSON
+Accomplishments: PRODUCT
+1987: DATE
+Marshfield High School ï¼​ City: ORG
+Skills
+Receptionist: ORG
+10: CARDINAL
+Account Management: ORG
+Customer Needs Assessment: ORG
+Data Collection: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Executive Management: ORG
+Â Spreadsheets: ORG
+Telephone Skills: ORG
+Time Management: ORG
+Vendor Management: ORG
+Letters: NORP
+Memos: PERSON
+Microsoft Excel: ORG
+Microsoft Office Suite: ORG
+Microsoft Outlook: ORG
+Microsoft: ORG
+Multi-Task Management: ORG
+Organizational Skills: PERSON
+Prioritization: PRODUCT

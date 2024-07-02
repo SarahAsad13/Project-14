@@ -1,0 +1,82 @@
+05/2015: PERSON
+Processed: GPE
+65%: PERCENT
+annual: DATE
+Microsoft AX/AX7: ORG
+60: CARDINAL
+Microsoft AX 365: ORG
+Marriott: GPE
+Hyatt: GPE
+Hilton: GPE
+Investigated: ORG
+Inputs: GPE
+25: CARDINAL
+60: CARDINAL
+Microsoft AX 365: ORG
+Marriott: GPE
+Hyatt: GPE
+Hilton: GPE
+Investigated: ORG
+05/2015: PERSON
+Processed: GPE
+65%: PERCENT
+annual: DATE
+Microsoft AX/AX7: ORG
+Inputs: GPE
+25: CARDINAL
+Bachelor of Arts : Communication: ORG
+05/2015: PERSON
+Oakland University: ORG
+years: DATE
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Microsoft Teams: ORG
+Oracle: ORG
+PeopleSoft: ORG
+Sales Force: PERSON
+SAP: GPE
+Jira: PERSON
+SharePoint: ORG
+Gantt Chart Scheduler: PERSON
+Streamline: GPE
+Verbal: ORG
+Automation: GPE
+Focus
+Inventory
+Leadership
+Managing
+Market: ORG
+Access
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+SharePoint: ORG
+Oracle
+PeopleSoft
+: ORG
+Processes
+Project: ORG
+Proposals: GPE
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Microsoft Teams: ORG
+Oracle: ORG
+PeopleSoft: ORG
+Sales Force: PERSON
+SAP: GPE
+Jira: PERSON
+SharePoint: ORG
+Gantt Chart Scheduler: PERSON
+Streamline: GPE
+Access, Excel: ORG
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+Oracle: ORG
+PeopleSoft: ORG
+SAP: ORG

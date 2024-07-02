@@ -1,0 +1,80 @@
+Operational Finance: ORG
+two: CARDINAL
+the day to day: DATE
+$1.3 million: MONEY
+Financial Analyst: ORG
+Corporate Finance: ORG
+Budget: ORG
+Sourcing Strategies Development
+Performance Optimization
+Process Management
+Effective Communication
+Relationship Management
+Document & Reporting
+Advanced: ORG
+Microsoft Products: ORG
+Work History: WORK_OF_ART
+04/2018: ORG
+Resolve: PERSON
+FAA: ORG
+135: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+Outlook
+Responsible: ORG
+12/2012: CARDINAL
+2: CARDINAL
+annual: DATE
+2: CARDINAL
+25,000: CARDINAL
+Create: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Create: ORG
+Finance: ORG
+Executive
+Management: ORG
+Report: ORG
+weekly: DATE
+Identify: ORG
+Maintained: GPE
+2: CARDINAL
+Airline: ORG
+Flight Department Perform: ORG
+Develop: ORG
+annual: DATE
+monthly: DATE
+Identify: ORG
+Negotiate: ORG
+annual: DATE
+Operational Changes: ORG
+two: CARDINAL
+Lear 35's: DATE
+Masters of Business Administration: ORG
+Franklin University - City: ORG
+12/2007: CARDINAL
+Franklin University - City: ORG
+12/2007: CARDINAL
+Science Business Administration: ORG
+Franklin University - City: ORG
+Science Business Administration: ORG
+Skills
+Ambulance: ORG
+Budget: ORG
+Bi: PERSON
+Corporate Finance: ORG
+Executive Management: ORG
+Finance: ORG
+Financial Analysis: ORG
+Financial Analyst: ORG
+Microsoft Products: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Microsoft: ORG
+month: DATE
+Optimization: PERSON
+Process Management, Procurement: ORG
+Relationship Management: ORG
+Sourcing Strategies: ORG
+annual: DATE

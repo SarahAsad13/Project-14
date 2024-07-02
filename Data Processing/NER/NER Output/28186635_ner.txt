@@ -1,0 +1,41 @@
+the United States Navy: ORG
+many years: DATE
+Highlights
+Logistics Training & Development Safety Compliance Quality Assurance Program Management Policy Development & Implementation Project
+Coordination Aviation Mechanic Performance Analysis: ORG
+Jan 2016: DATE
+Demonstrate: ORG
+Jan 2015 to Jan 2015: DATE
+Prepared: PRODUCT
+Jan 2005: DATE
+Jan 2013: DATE
+zero: CARDINAL
+100%: PERCENT
+multi-million dollar: MONEY
+Utilized: ORG
+Jan 1999 to Jan 2005: DATE
+Oversaw: GPE
+daily: DATE
+OSHA: ORG
+2004: DATE
+Naval Training Command: ORG
+IL: ORG
+1999: DATE
+OSHA: ORG
+30: CARDINAL
+EPA: ORG
+DOE Weatherization Tactics Basic Fire Fighting Basic First Aid Certification: ORG
+Edmondson High School: ORG
+Skills
+Air Force: ORG
+First Aid: ORG
+Logistics: ORG
+Mechanic: NORP
+Naval: GPE
+Policy Development: ORG
+Program Management: ORG
+5 Year: DATE
+AWARDS & HONORS DynCorp: ORG
+5 Year: DATE
+Battle: PERSON
+3: CARDINAL

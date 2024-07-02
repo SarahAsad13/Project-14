@@ -1,0 +1,58 @@
+8 years: DATE
+CAD: ORG
+ISO: ORG
+ASTM: ORG
+Process Engineering & QA Management: ORG
+Bluehill: PERSON
+Solidworks: ORG
+Matlab: ORG
+Microsoft Office: ORG
+ISO 9001/: ORG
+Design: PRODUCT
+ProE: NORP
+Ansys: PERSON
+June 2010: DATE
+State: ORG
+33 million: CARDINAL
+AccuSeal: PRODUCT
+ISO 9001: ORG
+AS9100: CARDINAL
+ASTM: ORG
+PTFE: ORG
+AccuSeal Oversaw: PRODUCT
+NORSOK: ORG
+API: ORG
+PTFE: ORG
+Accuseal: ORG
+HPHT: ORG
+AccuSeal: PRODUCT
+June 2007 to June 2010: DATE
+State: ORG
+200 million: CARDINAL
+Designed: NORP
+Preformed: ORG
+Created: ORG
+Energy Testing and Balance (: ORG
+Austin: PERSON
+TX: ORG
+Industrially: GPE
+August 2006 to May 2007: DATE
+Project Engineer: ORG
+Texas: GPE
+AMD: ORG
+weekly: DATE
+University of Texas: ORG
+State Mechanical Engineering
+FE-Texas: ORG
+4/2010: CARDINAL
+Skills: ORG
+Ansys: PERSON
+API: ORG
+Balance: PERSON
+ISO 9001: ORG
+LabView, Manufacturing Processes: ORG
+Matlab: ORG
+Microsoft Office: ORG
+Process Engineering: ORG
+QA: ORG
+Solidworks: ORG

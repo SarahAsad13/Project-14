@@ -1,0 +1,90 @@
+BUSINESS DEVELOPMENT REP: ORG
+10+ years': DATE
+five years: DATE
+Three years: DATE
+monthly: DATE
+September 2015 to July 2017: DATE
+daily: DATE
+90%: PERCENT
+each month: DATE
+200+: CARDINAL
+10-15: CARDINAL
+Logged: ORG
+CRM: PRODUCT
+Halo: GPE
+January 2015 to February 2017 City: DATE
+Drycon Carpets Nashville: ORG
+3 months: DATE
+the highest month: DATE
+June 2016: DATE
+July 2016: DATE
+22%: PERCENT
+PPC: ORG
+AdSense: ORG
+AdWords: ORG
+WordPress: ORG
+Wix: PERSON
+GoDaddy: ORG
+Jaxxy: GPE
+Created: ORG
+MailChimp, Hubspot: ORG
+Created: ORG
+Hootsuite: PERSON
+Co-Schedule: ORG
+Twitter Ads: PERSON
+March 2008: DATE
+May 2014: DATE
+4: CARDINAL
+2012: DATE
+over $2.25M: MONEY
+annual: DATE
+10: CARDINAL
+2013: DATE
+5.6: MONEY
+18%: PERCENT
+102%: PERCENT
+3: CARDINAL
+400,000: MONEY
+4%: PERCENT
+1.25%: PERCENT
+6: CARDINAL
+7 years: DATE
+97.5%: PERCENT
+1.2+M: MONEY
+first year: DATE
+today: DATE
+28: CARDINAL
+multi-million dollar: MONEY
+3 years: DATE
+56: MONEY
+annually: DATE
+Coordinated: ORG
+Briefed VP of Business Development: ORG
+thousands of dollars: MONEY
+each year: DATE
+January 2005 to January 2008: DATE
+5: CARDINAL
+Site: ORG
+each month: DATE
+Regions Bank: ORG
+Created: ORG
+Regions Bank: ORG
+Training
+Full Sail University Masters of Science : Internet Marketing Internet Marketing
+University of Phoenix Bachelors of Science : Marketing Business Marketing Business: WORK_OF_ART
+July 2016: DATE
+January 2010-January 2013: DATE
+Digital Marketing - Shaw Academy -
+: ORG
+August 2016: DATE
+Content Management - Shaw Academy -
+: ORG
+February 2017: DATE
+Skills: ORG
+Budget Planning: ORG
+Content Management: ORG
+CRM: PRODUCT
+Google Analytics: ORG
+Medical Sales: ORG
+97: DATE
+Project Management: ORG

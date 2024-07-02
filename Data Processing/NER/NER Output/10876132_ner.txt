@@ -1,0 +1,53 @@
+Database: GPE
+Analytical
+Team: ORG
+Critical: PRODUCT
+1 month: DATE
+the Special Investigations Unit: ORG
+Special Investigative Unit: ORG
+February 2013 to February 2015: DATE
+first: ORDINAL
+third: ORDINAL
+Pennsylvania: GPE
+New York: GPE
+Connecticut: GPE
+Illinois: GPE
+Texas: GPE
+South Carolina: GPE
+Georgia: GPE
+October 2010 to February 2013: DATE
+one month: DATE
+Claims Special Investigator: ORG
+Obtained: ORG
+August 2009 to January 2010: DATE
+Oversaw: GPE
+Operated Visual 2000: ORG
+UPS WorldShip: ORG
+Oversaw: GPE
+Oversaw: GPE
+Excel: PRODUCT
+Word: PERSON
+July 2006: DATE
+August 2009: DATE
+Created: ORG
+Oversaw: GPE
+two weeks: DATE
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+2012 Kaplan
+
+Continuing: ORG
+Infinity Insurance: ORG
+Bachelor: ORG
+Fine Arts: PERSON
+2005: DATE
+Pennsylvania Academy of Fine Arts: ORG
+2001: DATE
+Hussian School of Art ï¼​ City: ORG
+State: ORG
+Four year: DATE
+two years: DATE
+1999: DATE
+Israeli: NORP
+Maga: PERSON

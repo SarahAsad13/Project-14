@@ -1,0 +1,233 @@
+CLIENT SERVICES FILMS & OPERATIONS AND TECHNICAL SERVICES: ORG
+WEST COAST: NORP
+20 years: DATE
+Information Technology: ORG
+Healthcare: ORG
+Automotive: ORG
+Banking
+Industries: ORG
+ESPN: ORG
+ABC: ORG
+Family, Touchstone Television: ORG
+DreamWorks Animations: ORG
+a Master of Science in
+Computer Information Systems: WORK_OF_ART
+Core Competencies
+
+Highly: ORG
+Team: ORG
+Core Accomplishments: WORK_OF_ART
+IT Services (Operation CIO: ORG
+first: ORDINAL
+NFL Network IT: ORG
+2003.Â: CARDINAL
+Steve Bornstein: PERSON
+Built NFL Network: ORG
+Voice: ORG
+IP: ORG
+VoIP: LOC
+Video Conference: ORG
+NFL Network: ORG
+NFL Network's: ORG
+24/7: CARDINAL
+NFL Network's: ORG
+more than 2500 hours: TIME
+NFL Total Access: ORG
+GameDay Morning: PERSON
+GameDay Final: PERSON
+the League Live and Path: FAC
+Draft: ORG
+100 million dollars: MONEY
+NFL Network: ORG
+1 million dollars: MONEY
+the NFL Network: ORG
+1 billion dollar: MONEY
+annual: DATE
+$2 million: MONEY
+TV Pilot: ORG
+78,000: MONEY
+annually: DATE
+Â·Â Â Â Â Â Â: CARDINAL
+monthly: DATE
+quarterly: DATE
+annual: DATE
+CIO: ORG
+CFO: ORG
+NFL: ORG
+NBCUniversal: ORG
+ERP: ORG
+Vendor Management: ORG
+Coordinated: ORG
+Infrastructure and Operations: ORG
+12: CARDINAL
+Super Bowls: PERSON
+10/2015: CARDINAL
+11/2016: CARDINAL
+West Coast Operations & Technical Services: ORG
+Universal
+Pictures: ORG
+1: CARDINAL
+3: CARDINAL
+6: CARDINAL
+4: CARDINAL
+27: CARDINAL
+Canada: GPE
+DreamWorks: ORG
+3.8 billion dollar: MONEY
+Oversaw Broadcast: PERSON
+10/2015: CARDINAL
+NBC Entertainment and TV Production Company Name: ORG
+NBC Entertainments: ORG
+NBC Distribution: ORG
+Universal Cable
+Productions: ORG
+Universal TV Productions: ORG
+Communicated: ORG
+monthly: DATE
+department leaders & key business contacts: ORG
+Coordinated: ORG
+Coordinated: ORG
+Coordinated: ORG
+HW/SW: ORG
+Communicated: ORG
+SLA: ORG
+Oversaw: GPE
+CS: ORG
+PC/Mac: ORG
+Microsoft: ORG
+Windows 10: PRODUCT
+CS Analysts: ORG
+Director IT Services: ORG
+Disney: ORG
+first: ORDINAL
+NFL Network: ORG
+over 10 years: DATE
+NFL Network: ORG
+today: DATE
+Setup Post Production: ORG
+24/7: CARDINAL
+NFL Network: ORG
+NFL: ORG
+Digital Media: ORG
+32: CARDINAL
+NFL Fantasy: ORG
+Operations: ORG
+Culver City: GPE
+LAN/WAN: ORG
+Cisco VoIP Telephone: ORG
+Culver City: GPE
+first: ORDINAL
+VoIP: LOC
+NFL: ORG
+NFL.com: ORG
+Business Continuity and Resilience Services: ORG
+BCRS: ORG
+NFL: ORG
+09/2003: CARDINAL
+CIO: ORG
+Helpdesk Analyst: ORG
+Analyst: PERSON
+Supervisor: PERSON
+ABC: ORG
+Century City: GPE
+Burbank: ORG
+Disney/ABC: ORG
+Senior Technical Advisor: ORG
+ABC TV: ORG
+13: CARDINAL
+East: LOC
+West Coast: LOC
+Disney: ORG
+ABC Television: ORG
+ESPN: ORG
+24x7: CARDINAL
+Coordinate: FAC
+Disney/ABC: ORG
+Blackberries: ORG
+Disney: ORG
+Local Area Networks: ORG
+LAN: ORG
+CIO: ORG
+monthly: DATE
+East: LOC
+West Coast: LOC
+Disney: ORG
+two: CARDINAL
+Touchstone: NORP
+Century City: GPE
+Macintosh: ORG
+43: CARDINAL
+Mac: PERSON
+1,000: CARDINAL
+Mac: PERSON
+ABC: ORG
+Disney: ORG
+400: CARDINAL
+ABC: ORG
+New York: GPE
+Century City: GPE
+Burbank: ORG
+ESPN: ORG
+BVTV: ORG
+BVTV International: ORG
+1,000: CARDINAL
+Disney Consolidated: ORG
+160,000: CARDINAL
+hundreds: CARDINAL
+7: CARDINAL
+Active Directory: WORK_OF_ART
+ABC Family: ORG
+Disney: ORG
+ABC Family TV: ORG
+Saban: NORP
+Westwood: PERSON
+the ABC Building: ORG
+Burbank: GPE
+Education: ORG
+2005: DATE
+Master of Science : Computer Information Systems University of Phoenix ï¼​ City , State: WORK_OF_ART
+USA Computer Information Systems: ORG
+1989: DATE
+Bachelor of Science : Electrical and Electronics Engineer: ORG
+California State Polytechnic University: ORG
+ï¼​ City: GPE
+State: ORG
+USA Electrical and Electronics
+Engineer
+Information Technology Infrastructure Library: ORG
+1 8.0: CARDINAL
+Supporting Windows Exchange: ORG
+2000: DATE
+Apple: ORG
+Dell: ORG
+IBM: ORG
+HP: ORG
+Lenovo: ORG
+Microsoft: ORG
+AirWatch Network Management: ORG
+TCP/IP: ORG
+LAN/WAN: ORG
+DNS: ORG
+DAS: ORG
+Remote Network: ORG
+Multi-Site
+Infrastructure, Architecture: ORG
+IPSEC: ORG
+IPTV Active Directory: ORG
+Microsoft Exchange: ORG
+Unified Communications: ORG
+Group Policies Disaster Recovery (DR: ORG
+Business Continuity: ORG
+Data Centers Built and Operations 24x7 Helpdesk: ORG
+Desktop Support: ORG
+Operations: ORG
+Telecom Software Development Life Cycle: ORG
+SQL: ORG
+MS Access: ORG
+Intranet Strong: PERSON
+KPI: ORG
+Metrics: PERSON
+SLA Vendor Management: ORG
+Vendor Contracts: ORG
+Long Range Planning IT Compliance: ORG
+Cyber Security Recruitment: ORG

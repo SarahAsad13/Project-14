@@ -1,0 +1,164 @@
+Skill Highlights: PERSON
+Sexual Abuse: PERSON
+Depression, Anxiety, Bipolar: ORG
+Schizophrenia *Homelessness: ORG
+Community Inclusion: ORG
+Shelter System: ORG
+HRA: ORG
+SSI: ORG
+NYCHA: ORG
+Section 8: LAW
+Community Resources: ORG
+Truancy: PERSON
+Family
+Intervention: PERSON
+Training
+Bachelor of Science , Human Services Psychology and Sociology: PERSON
+Boricua College: ORG
+State: ORG
+Dean: PERSON
+2008: DATE
+the Student Body: ORG
+Research: ORG
+Latinas: PERSON
+Stand against Violence
+Human Services Psychology: ORG
+2008: DATE
+the Student Body: ORG
+Research: ORG
+Latina: PERSON
+Stand against Violence: ORG
+Women against Human Trafficking
+Bachelor's: ORG
+June 2008: DATE
+Master of Science , Da Masters Degree i Psychology an Clinical Social: WORK_OF_ART
+May 2012: DATE
+City College Columbia University: ORG
+ï¼​ City: GPE
+State: ORG
+Awarded: ORG
+three: CARDINAL
+3.8: CARDINAL
+GPA: ORG
+three: CARDINAL
+Neon Natal: ORG
+Premature Babies: ORG
+Sept. 2014: DATE
+2006: DATE
+2010: DATE
+Catholic Guardian: ORG
+Enid Cruz LCSW: PERSON
+ISP: ORG
+seven years 2008-Present: DATE
+ER: ORG
+Columbia: ORG
+Fordham /Boricua
+College: ORG
+25: CARDINAL
+Mark Cruz: PERSON
+Ruben Diaz Sr and Jr.: PERSON
+Bronx Borough: GPE
+Diaz Sr.: PERSON
+Hunts: ORG
+Bronx: GPE
+Bronx: GPE
+30: CARDINAL
+DV: ORG
+Homeless: PERSON
+Transgender: ORG
+MetroCard: PRODUCT
+HRA: ORG
+SSDI: ORG
+second: ORDINAL
+15-20: CARDINAL
+the East Harlem: LOC
+City Council: ORG
+Melissa Mark Vivirito: PERSON
+Advocate: ORG
+Bill Di Blasio: PERSON
+Jo Serrano: PERSON
+Jan 2011 to May 2015 
+City: DATE
+Explored: PERSON
+English: LANGUAGE
+Assisted: ORG
+HRA: ORG
+Legal: GPE
+BOE: ORG
+Section 8: LAW
+NYCHA: ORG
+HASA: ORG
+Latinas: PERSON
+Caucasian: NORP
+Asian: NORP
+Aug 2008 to Dec 2011: DATE
+English: LANGUAGE
+Spanish: NORP
+non-English: NORP
+ETC: ORG
+Bilingual Clinical Services: ORG
+Nov 2005: DATE
+2009: DATE
+Coordinated: ORG
+Facilitated: ORG
+the N/A: ORG
+G/A: ORG
+24 hour: TIME
+80%: PERCENT
+DOH: ORG
+Health: ORG
+SAMHSA: ORG
+HRA: ORG
+NYCHA: ORG
+Section 8: LAW
+one: CARDINAL
+congress: ORG
+Daily: DATE
+16-24: CARDINAL
+Bill Di Blasio: PERSON
+James Bronx: PERSON
+Epillat: PERSON
+Manhattan: GPE
+Jail: PERSON
+Mentaly: GPE
+Trafficker: ORG
+Criminal Lawyers: ORG
+Non for Profit Administration: ORG
+congress: ORG
+Ruben Diaz Sr: PERSON
+South: LOC
+Bronx: GPE
+the Mr
+Ruben Diaz Jr: ORG
+Bronx Borough: GPE
+Bronx: GPE
+Bronx: GPE
+Columbia University: ORG
+Bronxite: ORG
+congress: ORG
+the Bronx WORKFORCE 1: FAC
+availablle proarmas aha: PERSON
+Scholarships: PERSON
+the WORKFOCE 1 Program: ORG
+the Dept of labor: ORG
+Bronxites Â: ORG
+today: DATE
+NYC: LOC
+Bronxite: NORP
+Â Council: ORG
+Congress: ORG
+Bronx: GPE
+the Bcx Boroughs: FAC
+Bronx: GPE
+Institutionalized: ORG
+Housing, Medicaid: ORG
+NYCHA: ORG
+DOH: ORG
+DV, Documentation: ORG
+English: LANGUAGE
+Guardian: ORG
+ISP: ORG
+Legal: GPE
+Mark: PERSON
+Mental Health: ORG
+Spanish: NORP

@@ -1,0 +1,78 @@
+Accurate: ORG
+Basic Life Support (BLS: ORG
+Electrocardiography Certification: ORG
+EKG: ORG
+Energetic: LOC
+Alexander Dawson College Bound
+Quality Assurance
+
+Ensured quality: ORG
+only two weeks: DATE
+between four: CARDINAL
+Mac Shack
+Human Resources: ORG
+65%: PERCENT
+HR Recruiter/ Administration 11/2014: ORG
+Current Company Name City: ORG
+Generate: PERSON
+125: CARDINAL
+Assist: NORP
+Coordinated: ORG
+10: CARDINAL
+Coordinate: FAC
+11/2014: CARDINAL
+Name City: GPE
+Completed: ORG
+OpenTable: PRODUCT
+Dealt: PERSON
+Hostess/Cashier/Busser/Food Runner/ Expo: ORG
+Name City: GPE
+Hostess/Cashier/Busser/Food Runner/Expo: ORG
+Cooperated: ORG
+daily: DATE
+Reliable: WORK_OF_ART
+Dealt: PERSON
+Completed: ORG
+U-Night Community Fundraiser 02/2012 Company Name City: ORG
+Oversaw: GPE
+Oversaw 5: ORG
+Coordinated: ORG
+100: CARDINAL
+2,000: CARDINAL
+June 2014: DATE
+Technical Academy City: ORG
+State: ORG
+United States: GPE
+Four-year: DATE
+Hospitality: PERSON
+Based Learning
+Coursework: ORG
+Tourism Management
+Coursework in Marketing and Advertising
+Coursework in Business, Marketing and Communications
+Coursework in Marketing, Public Relations: ORG
+Organizational Development
+Coursework in Accounting, Financial Management and Event Planning
+Coursework in Travel: ORG
+Tourism
+Hotel Management: ORG
+Coursework in Hotel Operations Management: ORG
+Financial Accounting: ORG
+Four year: DATE
+DECA Club: ORG
+Four year: DATE
+Student Council: ORG
+Nursing College of Southern Nevada City: ORG
+State: GPE
+United States: GPE
+101,102,223: CARDINAL
+ALS College Success
+Psychology: ORG
+101: CARDINAL
+3.75: CARDINAL
+GPA: ORG
+Skills
+Professional: ORG
+Careful: PRODUCT
+Detail: PERSON
+Accurate: ORG

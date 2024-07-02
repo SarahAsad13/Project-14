@@ -1,0 +1,31 @@
+PowerPoint & Excel: ORG
+12/2015: CARDINAL
+Name City: GPE
+Maintained: GPE
+daily: DATE
+Assigned: ORG
+12/2015: CARDINAL
+Name City: GPE
+30: CARDINAL
+Escort: PRODUCT
+first: ORDINAL
+Teachers Aide 01/2015 to 03/2015 Company Name City: WORK_OF_ART
+one: CARDINAL
+one: CARDINAL
+daily: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+Associates of Science : Teachers Education: ORG
+December 2010: DATE
+Medgar Evers College City: ORG
+State Teachers Education: ORG
+Thomas Jefferson High School City: PERSON
+State: GPE
+USA: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Windows: ORG
+Microsoft: ORG
+Anywhere Authorized: ORG
+US: GPE

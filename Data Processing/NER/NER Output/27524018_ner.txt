@@ -1,0 +1,51 @@
+Career Focus: FAC
+summer: DATE
+MVR: ORG
+40: CARDINAL
+Training
+Ph.D. : Homeland Security Policy and Coordination Walden University: WORK_OF_ART
+State: ORG
+two: CARDINAL
+2011: DATE
+3.0: CARDINAL
+2009: DATE
+Bachelor of Science : Liberal Studies Iowa State University: ORG
+State: ORG
+the ISU Flying Cyclones: ORG
+18: CARDINAL
+daily: DATE
+Discipline: PERSON
+Identify: ORG
+Keep: ORG
+daily: DATE
+Observe: LOC
+07/2015: CARDINAL
+02/2016
+: PRODUCT
+Delivery Driver Company Name: ORG
+three tons: QUANTITY
+02/2016: CARDINAL
+CLUB: ORG
+Attend: ORG
+Attend: ORG
+Demonstrate: ORG
+Establish: NORP
+Identify: WORK_OF_ART
+08/2011: CARDINAL
+State: ORG
+Oversee: ORG
+18: CARDINAL
+over 100: CARDINAL
+the Emergency Operation Center: ORG
+10/2010: CARDINAL
+Arrange: NORP
+Assimilate: LOC
+Demonstrate: ORG
+Identify: ORG
+Maintain: PRODUCT
+Observe: LOC
+Organize: GPE
+Prepare: ORG
+Coach: ORG
+Customer: ORG
+Â Inspect: ORG

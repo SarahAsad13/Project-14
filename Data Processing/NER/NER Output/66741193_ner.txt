@@ -1,0 +1,145 @@
+Finance: ORG
+Builds: PERSON
+Skill Highlights
+
+: PERSON
+Budgeting / Forecasting: ORG
+Financial Planning and Analysis
+
+Expense Control: ORG
+FP&A Department
+Analyzed: ORG
+Name City: GPE
+State: ORG
+Oversee: ORG
+Productivity Tracking: ORG
+Analysis: PRODUCT
+P&L: ORG
+Balance Sheet: PERSON
+F/X.
+Implemented: PRODUCT
+2014: DATE
+2014: DATE
+Oversee Annual Budget: ORG
+Reorganized US: ORG
+Canada: GPE
+Name City: GPE
+State Financial Planning: ORG
+10/2011: CARDINAL
+02/2014: ORG
+Oversaw: GPE
+month-end and: DATE
+month-end: DATE
+month, quarter: DATE
+YTD: ORG
+prior year: DATE
+Budget: ORG
+up to: CARDINAL
+3: CARDINAL
+Quarterly Forecasts: PERSON
+US Sales Company: ORG
+US Operations: ORG
+KPI metrics: ORG
+annual: DATE
+Created a Profitability by Channel: ORG
+Name City: GPE
+State Accounting: ORG
+11/2010: CARDINAL
+Oversaw Month-end: DATE
+5: CARDINAL
+550: MONEY
+Annually: DATE
+Intercompany: GPE
+225: MONEY
+Annually: DATE
+2 day: DATE
+3 day: DATE
+Journal Entries / Reports: ORG
+Journal Entries: PRODUCT
+GL Accountant: PERSON
+Month-end: DATE
+Month-end: DATE
+Quarter End: PRODUCT
+monthly: DATE
+Hyperion Reporting System: ORG
+US Accruals for Aircare (Warranty) Program: ORG
+COGS: PERSON
+Operations: ORG
+Order Management: ORG
+Name City: GPE
+State: ORG
+10/2010: CARDINAL
+Coordinated Material Productivity: ORG
+Finance: ORG
+23: CARDINAL
+monthly: DATE
+Commodity Reviews: PERSON
+Actuals: GPE
+Forecasts: PERSON
+Cross Functional Reviews with Finance: ORG
+Cross-Functional Multi-Sector Team: ORG
+Windchill Migration: ORG
+Super Users: ORG
+$2 Billion: MONEY
+Pipeline Productivity Charts: ORG
+Commodity Spend: ORG
+Waterfalls and Restructure Savings: ORG
+2009: DATE
+2010: DATE
+2011: DATE
+PPV: ORG
+L&OH Productivity: ORG
+Name City: GPE
+Internal Control Reviews: ORG
+Oracle Implementation Reviews: ORG
+Physical Inventory Exemptions: ORG
+United States: GPE
+China: GPE
+Mexico: GPE
+Conducted Sarbanes-Oxley Management Testing and Test Rationalization: ORG
+SOX: ORG
+4: CARDINAL
+North Carolina: GPE
+License: PERSON
+Audit Rotation: LAW
+Name City: GPE
+State Financial Analyst: ORG
+Financial Analyst: ORG
+2007: DATE
+Annual Operating Plan for Enterprise Services: EVENT
+2007: DATE
+month-end: DATE
+Year: DATE
+Year: DATE
+Created: ORG
+monthly: DATE
+month-end: DATE
+year-end: DATE
+Name City: GPE
+the Annual Physical Inventory: ORG
+2: CARDINAL
+GL: ORG
+month-end: DATE
+Inventory Reconciliation: WORK_OF_ART
+WIP: ORG
+Finished: PRODUCT
+2006: DATE
+U.S.: GPE
+Europe: LOC
+Name City: GPE
+06/2003: CARDINAL
+2: CARDINAL
+2005: DATE
+UNC-Charlotte: GPE
+City: GPE
+State: GPE
+USA: GPE
+James Madison University: PERSON
+City: GPE
+State: GPE
+USA: GPE
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+SAP: ORG
+Khalix: ORG

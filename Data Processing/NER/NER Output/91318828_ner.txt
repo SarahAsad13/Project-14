@@ -1,0 +1,74 @@
+DIGITAL ADVERTISING OPERATIONS: ORG
+Skills: ORG
+Skills & Other Organization Involvement: ORG
+Photoshop: PERSON
+InDesign: ORG
+Microsoft: ORG
+Google Docs
+Proficient: ORG
+Twitter: PERSON
+Tumblr: GPE
+Instagram: GPE
+Studio Art
+Fluent: PERSON
+ASL: ORG
+State Digital Advertising Operations Intern: ORG
+08/2016: CARDINAL
+Assisted Digital Advertising Operations: ORG
+daily: DATE
+D Magazine: ORG
+Skills/Knowledge: ORG
+Google Analytics: ORG
+WordPress: ORG
+Live Intent: ORG
+Hubspot: ORG
+Name City: GPE
+Name City: GPE
+State: ORG
+12/2015: CARDINAL
+Skills: ORG
+Name City: GPE
+State: ORG
+10/2010: DATE
+two: CARDINAL
+the University of Texas: ORG
+Dallas: GPE
+third: ORDINAL
+Skills: ORG
+Training
+Bachelor of Science : Journalism: PERSON
+December 2015: DATE
+Texas State University Journalism: ORG
+Mass Communication Advertising Art and Design: ORG
+Advertising: PERSON
+Media Sales: ORG
+Media Planning: ORG
+Media Law and Ethics, Advertising Campaigns: ORG
+Advertising Media Sales: ORG
+Art History: PERSON
+Studio Art: PERSON
+Digital Studio: ORG
+2: CARDINAL
+One: CARDINAL
+May 2015: DATE
+Popeye's Chicken: ORG
+Texas State Ad Club: ORG
+Competitive Soccer: PERSON
+10 years: DATE
+Skills: ORG
+Adobe: PERSON
+Photoshop: PERSON
+Advertising: PERSON
+American Sign Language, Art: WORK_OF_ART
+Customer: ORG
+Google Analytics: ORG
+InDesign: ORG
+Layout 1: FAC
+Media Planning: ORG
+Microsoft: ORG
+One: CARDINAL
+May 2015: DATE
+Popeye: GPE
+Texas State Ad Club: ORG
+Competitive Soccer: PERSON
+10 years: DATE

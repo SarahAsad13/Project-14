@@ -1,0 +1,81 @@
+Finance: ORG
+Tax Accounting and Management: ORG
+10+ years: DATE
+Microsoft: ORG
+Time: ORG
+Name City: GPE
+annual: DATE
+US: GPE
+Receipt: PRODUCT
+Senior Management: ORG
+Property Tax Management System: ORG
+PTMS: ORG
+NOV: ORG
+PTMS Follow: ORG
+Assessor Property Record Cards: ORG
+PRC: GPE
+Monitor Appeals: ORG
+Hearing: GPE
+Financial Aid Accounting Administrator: ORG
+Name City: GPE
+daily: DATE
+the Financial Aid Accounting
+Department: ORG
+Execute: ORG
+Verify: PRODUCT
+Month-End: DATE
+Ledger: PERSON
+Solomon Reconcile: PERSON
+month-end: DATE
+weekly: DATE
+Prepare: ORG
+monthly: DATE
+Name City: GPE
+Processed: GPE
+Adhered: PRODUCT
+Computer Programmer: ORG
+05/2001: CARDINAL
+Name City: GPE
+Banner: ORG
+CIS: ORG
+the Oracle Forms
+Developer/Designer 2000: ORG
+Oracle: NORP
+Banner: ORG
+Client: PERSON
+System Integration Consulting: ORG
+Computer Programmer Analyst: ORG
+04/1998: GPE
+Name City: GPE
+SQL: ORG
+Windows Developing: PERSON
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+April 2004: DATE
+Kings College City: ORG
+State Accounting
+Bachelor of Science : Computer: ORG
+May 1995: DATE
+South Carolina: GPE
+State University Computer Science
+Affiliations: ORG
+Institute for Professionals in Taxation: ORG
+NC: GPE
+2000 - Present: DATE
+Skills
+Accounting: ORG
+Consulting: ORG
+Client: GPE
+Senior Management: ORG
+Financial, Forms, Full Life Cycle: ORG
+General Ledger: ORG
+Excel: PRODUCT
+Windows: ORG
+Microsoft: ORG
+month-end: DATE
+Oracle, Oracle: ORG
+2000: DATE
+Solomon: PERSON
+SQL: PERSON
+Tax: PERSON

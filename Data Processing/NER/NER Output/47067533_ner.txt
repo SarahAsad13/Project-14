@@ -1,0 +1,66 @@
+DIRECTOR: ORG
+BUSINESS DEVELOPMENT
+Summary
+Professional Business Development: ORG
+Highlights
+
+: ORG
+Microsoft: ORG
+Suite Microsoft: PERSON
+CRM Dynamics: PRODUCT
+LAMS: ORG
+January 2013: DATE
+Business Development 
+City: ORG
+Develop: ORG
+Build: GPE
+10: CARDINAL
+monthly: DATE
+January 2011 to January 2013: DATE
+Provide the Call Center Director: ORG
+the Call Center Director: ORG
+Call Center
+Representatives: ORG
+the Call Center Representatives: ORG
+the Call Center Representatives: ORG
+Coordinate: FAC
+the Call Center: ORG
+January 2009 to January 2011: DATE
+Generate: PERSON
+Global Orientations: ORG
+Build: GPE
+Identify: ORG
+Research: ORG
+Negotiate: ORG
+Coach: ORG
+seven: CARDINAL
+Recruited: PRODUCT
+60: CARDINAL
+January 2007 to January 2009: DATE
+CFO: ORG
+COO: ORG
+CTO: ORG
+Strong: PERSON
+Generate: PERSON
+Develop: ORG
+Submit: ORG
+weekly: DATE
+monthly: DATE
+VP of Sales: ORG
+VP of Marketing: ORG
+1 1: CARDINAL
+WGU City: GPE
+State
+University of Potomac College 1 2013 Bachelors of Sales : Sales Management State Sales Management
+University of Potomac College 1 2011 Bachelors of Science : Business Management State Business Management 35 Credits: ORG
+Belford High School 1 2002 Associates of Science : Business Management State: ORG
+GPA: ORG
+3.3: CARDINAL
+3.3: CARDINAL
+Skills: ORG
+Call Center: ORG
+Coach: ORG
+CRM: PRODUCT
+Microsoft Office Suite: ORG
+Research, Sales: ORG
+Strategic: PERSON

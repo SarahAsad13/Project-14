@@ -1,0 +1,58 @@
++ 9 years: DATE
+Spanish: NORP
+EIT License: ORG
+SAP: ORG
+ASME: ORG
+OSHA: ORG
+5: CARDINAL
+EPC: ORG
+Cardon: GPE
+third: ORDINAL
+Venezuela: GPE
+Cardon: GPE
+Parnaiba Brazil: PERSON
+SAP: GPE
+Isometrics: ORG
+the end of year: DATE
+Project Engineer: ORG
+P&ID: GPE
+one: CARDINAL
+State: ORG
+Oversaw: GPE
+Magnetic Flux Leakage: ORG
+PCB: ORG
+Altium Designer: ORG
+INS: ORG
+PCB: ORG
+Magnetic Flux: ORG
+Altium: ORG
+two: CARDINAL
+Troubleshoot: ORG
+Project Engineer: ORG
+Modify: ORG
+Cadence: ORG
+Project Engineer /Electrical Design Engineer Company Name: ORG
+BOM: ORG
+the Motor
+: ORG
+Motor: NORP
+FMEA: ORG
+UL: ORG
+01/2004: CARDINAL
+Assistant: PERSON
+Labview to Engineering Students: ORG
+Oscilloscope: ORG
+Signal: ORG
+LabView: ORG
+Nationals Instruments: ORG
+Education: ORG
+2005: DATE
+Master of Science : Electronics Engineering Instituto TecnolÃ³gico de Monterrey: WORK_OF_ART
+Monterrey: PERSON
+City: GPE
+State: ORG
+2003: DATE
+Bachelor of Science : Electronics Engineering: ORG
+Instrumentation: GPE
+State: GPE
+Mexico: GPE

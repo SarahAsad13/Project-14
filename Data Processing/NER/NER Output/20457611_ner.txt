@@ -1,0 +1,104 @@
+GROUP FITNESS INSTRUCTOR
+: ORG
+7+ years: DATE
+2+ years: DATE
+2+ years: DATE
+Knowledgeable: PRODUCT
+Devised: ORG
+Education: ORG
+2012: DATE
+Western New Mexico University City: ORG
+State Masters of Business Administration: ORG
+MBA: WORK_OF_ART
+2003: DATE
+Western Washington University City: ORG
+English: LANGUAGE
+English: LANGUAGE
+May 2016: DATE
+Additional Trainings: ORG
+Certifications, Research Work National Federation of Professional Trainers (NFPT): ORG
+Certification: PRODUCT
+February 2016: DATE
+Keiser M3 Indoor Cycling Instructor Program Indoor Cycling Certification: ORG
+December 2015: DATE
+CorePower Yoga 200 Hour Yoga: ORG
+May 2008: DATE
+Non Violent Communication Research: ORG
+January 2014: DATE
+Name City: GPE
+State Group Fitness Instructor
+
+Responsible: ORG
+Yoga, Cycle: ORG
+Maintain: PRODUCT
+Participate in Continuing Education Credits: ORG
+the year: DATE
+January 2013: DATE
+Name City: GPE
+State: ORG
+Property Management: ORG
+Quickbooks: ORG
+monthly: DATE
+quarterly: DATE
+January 2012: DATE
+January 2013: DATE
+Name City: GPE
+State Property: ORG
+Organize: GPE
+Update: ORG
+January 2012: DATE
+June 2012: DATE
+Name City: GPE
+State: ORG
+Taught: PERSON
+June 2010: DATE
+March 2012: DATE
+Name City: GPE
+State Office: ORG
+Coordinated: ORG
+March 2010: DATE
+July 2010: DATE
+Name City: GPE
+State Office: ORG
+the Career Resource Center: ORG
+GE Aviation: ORG
+Career Resource Center: ORG
+GE Aviation: ORG
+March 2009: DATE
+March 2010: DATE
+Company Name City: LOC
+State Independent Contractor
+
+Designed: ORG
+SWSI: ORG
+May 2008: DATE
+March 2009: DATE
+Name City: GPE
+State Office: ORG
+Director of Operations Responsible: ORG
+weekly: DATE
+Researched: ORG
+monthly: DATE
+over 1,000: CARDINAL
+Chicago: GPE
+Director of Operations: ORG
+Coordinated: ORG
+January 2007: DATE
+April 2008: DATE
+Name City: GPE
+Coordinated: ORG
+50: CARDINAL
+Determined: ORG
+Initiated: ORG
+Facilitated: ORG
+weekly: DATE
+February 2004: DATE
+February 2006: DATE
+Name City: GPE
+Created: ORG
+Researched: ORG
+CPR Certified: ORG
+Instructor: ORG
+Physical Therapy: PERSON
+Property Management: ORG
+Quickbooks, Rehabilitation, Research: ORG

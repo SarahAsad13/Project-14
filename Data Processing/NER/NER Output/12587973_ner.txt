@@ -1,0 +1,51 @@
+Summary
+Receiving: WORK_OF_ART
+8620: DATE
+San Diego: GPE
+CA 92123 Accomplishments Attentive Sales: ORG
+8 years: DATE
+Driven: PERSON
+Builds: PERSON
+Substitute Teacher: PERSON
+01/2016: ORG
+the day: DATE
+the day: DATE
+10/2011: CARDINAL
+Name City: GPE
+90%: PERCENT
+FTP: ORG
+10%: PERCENT
+Develop: ORG
+Arbitrate: ORG
+09/2008: PERSON
+10/2011: CARDINAL
+Name City: GPE
+15: CARDINAL
+35: CARDINAL
+Developed: ORG
+weekly: DATE
+quarterly: DATE
+annual: DATE
+Maintained: GPE
+TX 78852 Met: ORG
+each week: DATE
+Calculated: ORG
+weekly: DATE
+2009: DATE
+KAPLAN UNIVERSITY City: ORG
+Child Development 2017 Psychology Child Development
+Languages
+Fluent: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Critical: ORG
+Client Relations: ORG
+Customer Service: ORG
+English: LANGUAGE
+FTP: ORG
+Works: ORG
+Problem: PRODUCT
+Spanish: NORP
+Strategic: PERSON
+Time: ORG

@@ -1,0 +1,56 @@
+G
+HEALTHCARE RECRUITER: ORG
+Skills: ORG
+Coach: ORG
+Filing: GPE
+Financial: ORG
+Pricing, Psychology: ORG
+Research: ORG
+Phone: ORG
+Healthcare Recruiter 
+City: PERSON
+State Company Name / Jul 2016: ORG
+Mar 2017: DATE
+State Company Name: ORG
+Built: ORG
+Communicated: ORG
+I-9: ORG
+Coordinator/ Phone Representative: ORG
+State Company Name: ORG
+Jan 2010: DATE
+2013: DATE
+Processed: GPE
+One: CARDINAL
+four: CARDINAL
+Override Phone Team: ORG
+first: ORDINAL
+Chosen: GPE
+150-185: CARDINAL
+Maintained: GPE
+State Company Name /: ORG
+Nov 2008: DATE
+7: CARDINAL
+monthly: DATE
+Maintained: GPE
+Drafted: ORG
+Bank: ORG
+Training
+Bachelor of Science : Psychology VIRGINIA STATE UNIVERSITY: PERSON
+State Psychology
+
+General Psychology: ORG
+Sensation & Perception: ORG
+Psychological Research: ORG
+Experimental Psychology: ORG
+Completed
+Student Work Study Assignment at The Children's: ORG
+House: ORG
+VSU: ORG
+Pediatricians: NORP
+Graduation: ORG
+four years: DATE
+Summers: PERSON
+Certified Life Coach: ORG
+2017: DATE
+Career Coaching: FAC
+Relationship Coaching: ORG

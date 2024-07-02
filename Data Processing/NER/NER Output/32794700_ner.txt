@@ -1,0 +1,44 @@
+Lunix Systems: ORG
+ISO 9000: ORG
+Kaizen
+MS Office: ORG
+OSHA Certified
+
+Accomplishments
+Planned: ORG
+September 2015: DATE
+June 2016: DATE
+Name City: GPE
+State: ORG
+Replenishment Stocker: PERSON
+June 2007: DATE
+December 2008: DATE
+Name City: GPE
+State Communications: ORG
+FCC Proof: PERSON
+24: CARDINAL
+two: CARDINAL
+Performed: ORG
+the National Electric Code: ORG
+NEC: ORG
+October 2003: DATE
+May 2006: DATE
+Name City: GPE
+Houston: GPE
+Maintained: GPE
+May 1996: DATE
+Gulf Shores Academy City: ORG
+State High School Diploma: ORG
+2018: DATE
+Texas State Technical College City: ORG
+LAN: ORG
+WAN: ORG
+Professional Affiliations: ORG
+Fall 1999Â: DATE
+Abraham Grand: PERSON
+# 10: MONEY
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

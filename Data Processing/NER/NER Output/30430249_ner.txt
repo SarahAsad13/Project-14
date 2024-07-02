@@ -1,0 +1,71 @@
+UPS: ORG
+UPS: ORG
+Fed Ex: ORG
+Microsoft: ORG
+Exel: ORG
+MS Office: ORG
+Strong: PERSON
+Invoice: GPE
+Order: ORG
+Spreadsheet: PERSON
+Shipper-Vault Bullion: ORG
+Gold/Silver/Custom Coins: ORG
+USPS: ORG
+Fed EX: ORG
+Inventory: PERSON
+Manged Selected: ORG
+BSA: ORG
+National Park Medallions: FAC
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+10/2008: DATE
+Name City: GPE
+Pull Large: PERSON
+Retail Shipper 01/2000: PERSON
+Retail Shipping: PERSON
+CMT: ORG
+Microsoft Outlook: ORG
+Shipping: GPE
+Tommy Bahama: PERSON
+daily: DATE
+Retail-Excel: ORG
+64: CARDINAL
+Retail Stores: ORG
+Coordinated: ORG
+the end of every month: DATE
+Name City: GPE
+Monitored UPC: ORG
+100%: PERCENT
+Name City: GPE
+Quality Assurance Checker: ORG
+Kids Corner: WORK_OF_ART
+Personal Care": WORK_OF_ART
+Organization: ORG
+Corporate: ORG
+1989: DATE
+Phoenix Sr: PERSON
+State: ORG
+GPA: ORG
+Phoenix High School: ORG
+Jun Received Deans Award: PERSON
+GPA: ORG
+3.0: CARDINAL
+3.5: CARDINAL
+GPA: ORG
+the Edgewood Food Bank 2006-2008: ORG
+AS400: PRODUCT
+Basic Computer, Fax Machine: ORG
+Hand Trucks: PERSON
+Keeping Inventory: ORG
+Inventory Control: ORG
+Lotus: ORG
+Microsoft Outlook: ORG
+Numeric Filing: PERSON
+Packaging, Training New Employees: ORG
+Supervisor of 12 Employees, Phone Systems: WORK_OF_ART
+Printers: PERSON
+Quality Assurance,: ORG
+Routing: GPE
+UCC: ORG
+LTL: ORG

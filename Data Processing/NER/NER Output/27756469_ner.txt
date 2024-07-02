@@ -1,0 +1,59 @@
+over 5 years: DATE
+23
+year: DATE
+Highlights: GPE
+2013: DATE
+Familiar: PERSON
+Maryland: GPE
+August 2011: DATE
+Assisted Weatherford: FAC
+Aither Engineering, Inc.: ORG
+J.D. Edwards: PERSON
+ERP: ORG
+4: CARDINAL
+multi-year: DATE
+3: CARDINAL
+annual: DATE
+July 2006: DATE
+two: CARDINAL
+7: CARDINAL
+1: CARDINAL
+AP: ORG
+DCAA: ORG
+annual: DATE
+Incurred Cost Submissions: WORK_OF_ART
+Wide Area Work Flow: FAC
+Prepared: PERSON
+annual: DATE
+Maintained: GPE
+Treasury: ORG
+July 1995 to July 2006 Company Name: DATE
+Provided US Navy: ORG
+Small Businesses Innovative Research: ORG
+Project Engineer: ORG
+January 1992 to July 1995: DATE
+Defense: ORG
+a two year: DATE
+Defense Advanced Research Projects Agency: ORG
+DARPA: ORG
+acoustic: NORP
+6-degree: QUANTITY
+DOF: ORG
+Master of Science : Accounting and Finance: WORK_OF_ART
+2012 University of Maryland: ORG
+University College: ORG
+2001: DATE
+University of Maryland: ORG
+City: GPE
+City: GPE
+State: ORG
+American Institute of Certified Public Accountants: ORG
+AP: ORG
+AR: ORG
+Quickbooks: PERSON
+JDE: ORG
+Great Plains: PERSON
+LabView: PERSON
+Matlab: ORG
+Excel: PRODUCT
+Word: PERSON

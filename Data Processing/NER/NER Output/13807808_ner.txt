@@ -1,0 +1,37 @@
+State: ORG
+â€¢ 19: CARDINAL
+La Mamba Apparel: ORG
+Vendor: ORG
+Urban Outfitter and Dillards: ORG
+3 month: DATE
+120: CARDINAL
+Spr/Smr '20: ORG
+â€¢ 25: PRODUCT
+Anthropologie: NORP
+State: ORG
+Coordinate: WORK_OF_ART
+J.O.A: GPE
+DBA: ORG
+Chriselle Lim: PERSON
+the Chriselle Lim Collection: ORG
+Spring 2019: DATE
+Nordstrom: GPE
+Bloomingdales: ORG
+Shopbop: PERSON
+State: ORG
+Graphic Designer: PERSON
+State: ORG
+Skills
+
+Computer-Aided Design: ORG
+FIDM/Fashion Institute Of Design & Merchandising City: ORG
+J.O.A: GPE
+2019: DATE
+30-40%: PERCENT
+the Magic/Project Show: ORG
+Chriselle Lim's: PERSON
+2019: DATE
+J.O.A: GPE
+Nordstorm: ORG
+Shopbop: PERSON
+Bloomingdales: ORG

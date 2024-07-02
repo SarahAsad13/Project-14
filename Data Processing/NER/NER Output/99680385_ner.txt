@@ -1,0 +1,182 @@
+QA-QC Lead: ORG
+Subsea 7: DATE
+EPC Contractor) &: ORG
+Exxon / ADMA-OPCO: ORG
+Abu Dhabi: ORG
+National oil Company Group: ORG
+Various Automotive: ORG
+Valeo: PERSON
+Leoni: ORG
+Continental) &: ORG
+Renault: ORG
+Peugeot: ORG
+BMW: ORG
+Project Management: ORG
+QC Activities on Procurement: ORG
+Connectors: ORG
+Valves: GPE
+Flanges: ORG
+10 years: DATE
+Oil & Gas/: ORG
+Automotive Industries with Quality Management Background
+Highlights
+Windows: ORG
+MS Office: ORG
+MS Outlook: GPE
+MS: ORG
+Pascal: PERSON
+Liaison Engineer CONTINENTAL Automobile 10/2009 to: ORG
+AMDEC: ORG
+8D: CARDINAL
+Six Sigma: PERSON
+KANBAN: ORG
+5S: CARDINAL
+ASME: ORG
+API: ORG
+ASTM: ORG
+Mar.: GPE
+2014: DATE
+Bureau Veritas Abu Dhabi (UAE) Project: ORG
+Umm Lulu: ORG
+ADMA-OPCO: ORG
+Zakum
+Electrification: ORG
+ADMA-OPCO: ORG
+ADMA-OPCO: ORG
+Abu Dhabi National oil Company
+Group: ORG
+infield pipelines & super: ORG
+Decks: ORG
+Preparation Contract Execution Plan: ORG
+Identify: ORG
+CV: PERSON
+Package: WORK_OF_ART
+Communication: ORG
+Client: PERSON
+Brings: ORG
+more than 25: CARDINAL
+Directs: ORG
+BV: ORG
+Monitoring & Evaluation of Site Inspectors: ORG
+Sept.
+2010: DATE
+France: GPE
+QA-QC Engineer: ORG
+Erha North: PERSON
+EXXON: ORG
+QA-QC Engineer: ORG
+Clov: PERSON
+QA-QC Engineer: ORG
+15: CARDINAL
+EXXON: ORG
+Connectors: ORG
+Sub Vendors: ORG
+Subsea Valves: ORG
+Forged Flanges Flexible: PERSON
+Anodes: ORG
+Subsea Guiding Frame: ORG
+PPM: ORG
+Review: ORG
+Suppliers: ORG
+QC: ORG
+the HSEQ Department: ORG
+Project QC Inspectors: ORG
+Process NCR's: ORG
+Release: FAC
+MRB: ORG
+Participation: ORG
+Technical Data: ORG
+Liaison Person Rights) Preparation: ORG
+Maintain: PRODUCT
+Supplier Quality Control Engineer 01/2009: ORG
+09/2009 Company Name
+
+Management: ORG
+15: CARDINAL
+Panel Taking: ORG
+Leoni requirements Technical: ORG
+Leoni suppliers Quality: ORG
+Leoni: PERSON
+Feb.: DATE
+Dec.
+2008: DATE
+CONTINENTAL Automobile Ensuring: ORG
+China: GPE
+8D: CARDINAL
+continental: ORG
+China: GPE
+Oct.
+2007: DATE
+Jan.
+2008: DATE
+VALEO Engine: ORG
+Buyer of Machine: ORG
+Order: ORG
+March: DATE
+2007: DATE
+Trainee: ORG
+VALEO Connective Systems Management: ORG
+25: CARDINAL
+Panel: ORG
+66: CARDINAL
+Creation of a: ORG
+Valeo: GPE
+Valeo: ORG
+Jan 2005: DATE
+2006: DATE
+VISTEON Interiors Systems Taking: ORG
+Customer / Project: ORG
+Manufactory / Laboratory Logistics: ORG
+Tunisian: NORP
+Football, Music SIROT: ORG
+2: CARDINAL
+6: CARDINAL
+5: CARDINAL
+Consulting Engineer: ORG
+Ecole Nationale: ORG
+Paris: GPE
+France: GPE
+2006: DATE
+France: GPE
+2003: DATE
+Material Science General University: ORG
+Scientific High School
+Master's: ORG
+Diploma Paris XI University France: ORG
+Certifications: ORG
+2013: DATE
+CSWIP - Visual Welding Inspector: ORG
+Level 1: PERSON
+Rotherham: PERSON
+UK: GPE
+2012: DATE
+IRCA Certificate for Quality Management Auditor: ORG
+Paris: GPE
+France: GPE
+French: NORP
+August 17, 1982: DATE
+33 Years Old: DATE
+August 17, 1982: DATE
+33 Years Old: DATE
+Arabic: LANGUAGE
+Client: GPE
+Engineer: ORG
+English: LANGUAGE
+Frame: ORG
+French: NORP
+Inspection, Inspector: ORG
+Logistics: ORG
+Material Science, Meetings: ORG
+MS Office: ORG
+MS Outlook: GPE
+MS: ORG
+Oct: PERSON
+6: CARDINAL
+Pascal: PERSON
+Project Lead: PERSON
+Quality Management: ORG
+QA: ORG
+Six Sigma: PERSON
+Systems Management: ORG
+Validation: ORG
+Welding: CARDINAL

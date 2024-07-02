@@ -1,0 +1,90 @@
+Experienced: PERSON
+Highly Motivated: PERSON
+5 years: DATE
+Human Resource: ORG
+daily: DATE
+Processed: GPE
+Conducted: ORG
+Managed Employee Scheduling
+Coordinated: PRODUCT
+levelÂ 
+
+Teamwork: ORG
+Processed: GPE
+Processed: GPE
+suppliesÂ 
+Secured: ORG
+Prepared: PRODUCT
+annual: DATE
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â 
+Created: PRODUCT
+the day to day: DATE
+Recycle Program: ORG
+Norman G. McKoyâ€‹â€‹: PERSON
+reportsâ€‹Â Â: ORG
+Welcomed: LOC
+Maintained: GPE
+Name City: GPE
+State: ORG
+Processed: GPE
+Processed: GPE
+Wrote Standard Operations Procedures Manual: ORG
+Coordinated: ORG
+Processed: GPE
+Name City: GPE
+04/2010: CARDINAL
+hours: TIME
+daily: DATE
+Processed: GPE
+Prepared: PERSON
+Maintained: GPE
+Created a Recycle Program: ORG
+bin
+
+: PERSON
+Bachelor of Arts: ORG
+2007: DATE
+THE UNIVERSITY OF THAI CHAMBER OF COMMERCE: ORG
+, City: GPE
+Thailand: GPE
+Language And Culture, Transportation Management: WORK_OF_ART
+Article Writing: PERSON
+Advanced Technical: ORG
+Master of Science : Human Resource Management: WORK_OF_ART
+STRAYER UNIVERSITY: ORG
+City: GPE
+State: GPE
+3.64: CARDINAL
+HR Information Systems: ORG
+HRIS: ORG
+Strategic Management
+
+Registered for Professional in Human Resources: ORG
+Professional in Human Resources: ORG
+2017: DATE
+Professional Affiliations
+
+Enrolling: ORG
+OSHA: ORG
+Society for Human Resource Management: ORG
+Skills
+Human Resource Management Skills: ORG
+Performance Management
+Employee Relations and Mediation
+Benefits Administration Â  Â 
+Orientation & On-Boarding
+Organizational Development
+Staff Life cycleÂ 
+
+Computer Skills: ORG
+HRIS: PERSON
+PeopleSoft Enterprise Human Resources: ORG
+MS Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+Windows Outlook: PERSON
+Yahoo: ORG
+Networking sitesÂ: PRODUCT
+Bilingual Thai & English: ORG
+Honest & Polite Â: ORG

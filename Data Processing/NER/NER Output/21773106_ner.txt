@@ -1,0 +1,84 @@
+11] years: DATE
+Classroom Management: ORG
+Counseling - Age: PRODUCT
+Classroom Management - Classroom: ORG
+Core Discipline - Clear: PERSON
+Active: PRODUCT
+Motivating: PERSON
+CPR: ORG
+2 consecutive years in a row: DATE
+Centerville Elementary Union Rep: PERSON
+2 consecutive years: DATE
+Lincoln Challenge: ORG
+Beyond Award: PERSON
+8th: ORDINAL
+2 years: DATE
+9th: ORDINAL
+7 years: DATE
+7 years: DATE
+more than 300: CARDINAL
+Individual Education Program: ORG
+7th: ORDINAL
+Six: CARDINAL
+120: CARDINAL
+3 years: DATE
+45 percent: PERCENT
+Scott Main Exchange: ORG
+month 5: DATE
+July 2004 to June 2014: DATE
+Math, Science, Social Studies: ORG
+Spelling: GPE
+Safe School: ORG
+30: CARDINAL
+Coach: ORG
+August 2005 to February 2014: DATE
+Coach: ORG
+January 2009 to January 2011: DATE
+Lesson Planning: Introduced: ORG
+Building Leadership Committee: ORG
+Achievement Award: PERSON
+March 2002 to: DATE
+April 2005: DATE
+24 hour: TIME
+Supervisor: PERSON
+April 2001 to August 2002: DATE
+3: CARDINAL
+hours: TIME
+annual: DATE
+quarterly: DATE
+daily: DATE
+daily: DATE
+September 2000 to March 2002: DATE
+Court: ORG
+Supervisor for Outdoor Living Department: WORK_OF_ART
+February 1998 to August 2000: DATE
+7: CARDINAL
+Scott AFB Main Exchange: ORG
+Giving: GPE
+Inventory: GPE
+Master of Science : Counseling: WORK_OF_ART
+2012: DATE
+Lindenwood University: ORG
+State: GPE
+U.S.: GPE
+Dean: PERSON
+List 
+Bachelor of Science : Education: WORK_OF_ART
+McKendree College: ORG
+State: GPE
+U.S.: GPE
+Interests: NORP
+racquetball: PERSON
+Motivation, Management, Speaking, Listening, Counseling, Teaching, Computer Literacy, Training: ORG
+Affiliations Chi Sigma Iota - Honor: PERSON
+Society for Counseling: ORG
+Lincoln Challenge Academy Mentor: ORG
+McKendree University: ORG
+Professional Affiliations: ORG
+Chi Sigma Iota: ORG
+Lindenwood University: ORG
+2012: DATE
+MO - IL: GPE
+U.S.: GPE
+School Counseling M.A. School Counseling: ORG
+Chi Sigma Iota: ORG

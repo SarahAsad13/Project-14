@@ -1,0 +1,22 @@
+the Information Security/Information Assurance: ORG
+U.S. Army Medical
+Command and Defense Health Agency: ORG
+Time: ORG
+INFOSEC: ORG
+11/2015: CARDINAL
+Name City: GPE
+Army Cyber Command: ORG
+Regional Computer Emergency Response (Army Cyber: ORG
+RCERT: ORG
+Computer Networks Attacks: ORG
+Computer Network Defense (CND: ORG
+Name City: GPE
+Fort Sam Houston: FAC
+TX: ORG
+Â Prepared: PRODUCT
+Alternate: ORG
+Associate of Science : Business Administration: ORG
+Richard Bland: PERSON
+State Business Administration: ORG
+Fast Learner
+Ability: PERSON

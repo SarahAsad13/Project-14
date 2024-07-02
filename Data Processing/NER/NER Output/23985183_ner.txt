@@ -1,0 +1,81 @@
+Special Hiring Auth: ORG
+Veterans Pref: PERSON
+VEOA: ORG
+Budget: ORG
+Training / Development
+Schedule: ORG
+Critical: PRODUCT
+Team: ORG
+Process: PRODUCT
+Microsoft Office: ORG
+20+ years': DATE
+Selected Accomplishments
+
+: WORK_OF_ART
+$1.8M: MONEY
+8%: PERCENT
+annually: DATE
+1000: CARDINAL
+20%: PERCENT
+annually: DATE
+60%: PERCENT
+daily: DATE
+18: CARDINAL
+650: CARDINAL
+25%: PERCENT
+first: ORDINAL
+Army: ORG
+3000: CARDINAL
+100%: PERCENT
+Ensures: LOC
+08/2012: CARDINAL
+the Quality Control: ORG
+Aviation Automated Logistical Supply: ORG
+Production Control: ORG
+monthly: DATE
+Oversaw: GPE
+Defense Travel: ORG
+System,: ORG
+Resource System: ORG
+Microsoft: ORG
+Coordinated: ORG
+10/2012: CARDINAL
+un: ORG
+Coordinated: ORG
+Active Army: ORG
+Reserve: ORG
+Displaced Equipment: ORG
+New Equipment Training Teams: ORG
+Training Specialist: PERSON
+12/2011: CARDINAL
+the Structural Branch: FAC
+Structural: ORG
+Pneudralic Division: ORG
+Division: ORG
+the Initial Entry Level: ORG
+the Military Occupation Specialty: ORG
+National Guard,: ORG
+Active Duty Soldiers: PRODUCT
+Bachelor of Science : Business Administration: ORG
+Current 
+Trident University International - City: ORG
+2013]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  : CARDINAL
+2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â: CARDINAL
+2006]Â: CARDINAL
+2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â: CARDINAL
+2006]Â Â Â Â  : CARDINAL
+2012]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  : CARDINAL
+2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â: CARDINAL
+Adv LDR: PERSON
+2002]Â Â Â  : CARDINAL
+2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  : CARDINAL
+2002]Â Â Â Â Â Â Â Â Â Â: CARDINAL
+2010]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â: CARDINAL
+1999]Â Â Â Â Â  : CARDINAL
+Cadre Training: PERSON
+2010]Â Â Â Â Â: CARDINAL
+1999: DATE
+LDRÂ: ORG
+2007]Â Â Â Â Â  : CARDINAL
+1999: DATE
+2006]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â: CARDINAL

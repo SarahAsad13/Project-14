@@ -1,0 +1,103 @@
+Engineer: ORG
+6 years: DATE
+Skills
+
+: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Quality
+Research
+Six Sigma: ORG
+Critical: ORG
+Team: ORG
+Analyst: PERSON
+Visio
+Agency
+Consulting: ORG
+Critical: PRODUCT
+Designing
+Dialysis
+Direction
+
+Develop: WORK_OF_ART
+ISO
+Leadership
+Market: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Six Sigma
+: PERSON
+Solid Works
+Team: ORG
+Current 
+City: GPE
+Technical Files: PERSON
+MDR: ORG
+510k: CARDINAL
+Assess: ORG
+ISO/EN ISO/ASTM: ORG
+EU: ORG
+Infusion: ORG
+MDR: ORG
+510k: ORG
+Project Engineer II: ORG
+Clinical Analyst: ORG
+510k: CARDINAL
+under year: DATE
+DOE: ORG
+V&V Testing: ORG
+10 months: DATE
+Injection Molding Machine: ORG
+Create and Test Prototypes: ORG
+Found: PERSON
+Bachelor of Science : Mechanical Engineering: ORG
+Temple University - City: ORG
+Certifications Management Leadership Certification: ORG
+Six: CARDINAL
+Work History
+Engineering: WORK_OF_ART
+Current 
+City: GPE
+Technical Files: PERSON
+MDR: ORG
+510k: CARDINAL
+Assess: ORG
+ISO/EN ISO/ASTM: ORG
+EU: ORG
+Infusion: ORG
+MDR: ORG
+510k: ORG
+Project Engineer II: ORG
+Clinical Analyst: ORG
+510k: CARDINAL
+under year: DATE
+DOE: ORG
+V&V Testing: ORG
+10 months: DATE
+Injection Molding Machine: ORG
+Create and Test Prototypes: ORG
+Found: PERSON
+Skills
+
+: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Quality
+Research
+Six Sigma: ORG
+Critical: ORG
+Team: ORG
+Analyst: PERSON
+Critical: PRODUCT
+Dialysis: PERSON
+Develop: ORG
+ISO: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+Personnel: ORG
+Quality: ORG
+Research: ORG
+Six Sigma: PERSON
+Solid Works: ORG
+Team: ORG
+Visio: PERSON

@@ -1,0 +1,44 @@
+eleven years: DATE
+the Criminal Justice: ORG
+Mental Health: ORG
+Delayed Sentencing: WORK_OF_ART
+Oklahoma County: GPE
+six years: DATE
+Bail Bond and Recovery: ORG
+Skill Highlights
+
+Highly: ORG
+Innovative: NORP
+Advocate General: ORG
+August 2014: DATE
+the Department of Mental Health Developed: ORG
+Advocacy Conditional Release Monitoring Program: ORG
+almost 50%: PERCENT
+Advocate General Monitoring: ORG
+34%: PERCENT
+the Oklahoma
+Forensic Review Board: ORG
+Staying: PERSON
+the fiscal year 20%: DATE
+Advocate: ORG
+August 2013 to August 2014: DATE
+ODMHSAS: ORG
+BEST Award (Building Excellent Services Together: ORG
+two: CARDINAL
+January 2004 to January 2013: DATE
+Oklahoma County's: GPE
+Regimented Inmate Disciplinary: ORG
+Oklahoma Department: ORG
+Corrections Community Sentencing Division: ORG
+Collaborated with Oklahoma
+Department of Mental Health and Substance Abuse Services: ORG
+Oklahoma Department of Corrections: ORG
+Compile: PRODUCT
+Oklahoma: GPE
+Compile: PRODUCT
+Mentored: ORG
+Training
+Bachelor: PERSON
+Skills: ORG
+CPR: ORG
+Mental Health: ORG

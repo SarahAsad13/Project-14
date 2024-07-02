@@ -1,0 +1,162 @@
+Skill Highlights: PERSON
+SOX: ORG
+HIPAA: ORG
+Information Technology: ORG
+November 2012: DATE
+Current Company Name: ORG
+six: CARDINAL
+one: CARDINAL
+United Ways: ORG
+$38M Revenue: MONEY
+$1M: MONEY
+annual: DATE
+Salesforce CRM: PRODUCT
+64,000: CARDINAL
+zero: CARDINAL
+Oversaw: GPE
+CRM: PRODUCT
+2-1-1: DATE
+100,000: CARDINAL
+50%: PERCENT
+Colorado: GPE
+2: CARDINAL
+tens of thousands of dollars: MONEY
+first: ORDINAL
+175: CARDINAL
+35: CARDINAL
+Windows: ORG
+2008/2012: DATE
+Team: ORG
+99.9%: PERCENT
+March 2008 to November 2012: DATE
+800: CARDINAL
+Windows XP/Windows: EVENT
+160: CARDINAL
+28: CARDINAL
+five: CARDINAL
+two: CARDINAL
+eight: CARDINAL
+Network Engineer: ORG
+99.9%: PERCENT
+99.9%: PERCENT
+Citrix and Double-Take: WORK_OF_ART
+UPS: ORG
+first Business Continuity/Disaster Recovery: ORG
+first: ORDINAL
+APC: ORG
+HP: ORG
+SolarWinds: ORG
+$2M OpEx: MONEY
+BC/DR: ORG
+HIPAA: ORG
+SOX: ORG
+up to $100,000: MONEY
+VMWare: ORG
+Coordinate: FAC
+first: ORDINAL
+800: CARDINAL
+October 2006 to March 2008: DATE
+System Architects: ORG
+Windows: NORP
+625: CARDINAL
+80+ Windows 2003/2000: MONEY
+99.9%: PERCENT
+Windows: NORP
+Responsible for Windows IT: ORG
+Windows: NORP
+IT Management Team: ORG
+500: CARDINAL
+September 1999 to October 2006 Company Name: DATE
+eight: CARDINAL
+Network Administrators: ORG
+Network Engineers: ORG
+Telecommunications
+Administrators: ORG
+WAN: ORG
+LAN: ORG
+300: CARDINAL
+85: CARDINAL
+Windows: ORG
+99.9%: PERCENT
+$1.5: MONEY
+annual: DATE
+DR/BC: ORG
+Coordinate: ORG
+at least $50: MONEY
+each year: DATE
+2003-2006: DATE
+Sarbanes-Oxley: ORG
+Gramm-Leach-Bliley Act: LAW
+Disaster Recovery/Business Continuity Planning: ORG
+March 1996 to September 1999: DATE
+400: CARDINAL
+30: CARDINAL
+Windows NT 4.0: EVENT
+multi-million: CARDINAL
+3: CARDINAL
+Engineer: ORG
+WAN: ORG
+TCP/IP: ORG
+Ethernet: PERSON
+Motorola: ORG
+Adtran CSU/DSUs: PERSON
+Xyplex: ORG
+RAS: ORG
+Seagate Backup Exec: ORG
+Microsoft Exchange: ORG
+Microsoft: ORG
+Microsoft Office: ORG
+Microsoft Windows: ORG
+Windows NT: LOC
+Inside Sales Representative: ORG
+June 1994 to March 1996: DATE
+M.B.A: ORG
+Dec. 2007: DATE
+University of Massachusetts ï¼​ City: ORG
+May 1994: DATE
+Arizona State University: ORG
+Denver Peak Academy - Lean Process Improvement: ORG
+Harvard ManageMentor Leadership and Management: ORG
+12: CARDINAL
+Microsoft Certified Systems Engineer: ORG
+Microsoft Certified Systems Administrator: ORG
+Cisco Certified Network Associate: ORG
+Citrix Certified Administrator: WORK_OF_ART
+CCA: ORG
+Technical Skills
+
+Software: PERSON
+Active Directory: PERSON
+Microsoft Exchange: ORG
+HP Insight: ORG
+EMC Avamar, Symantec Ghost: ORG
+LanGuard Network Security: ORG
+Scanner: GPE
+Websense: ORG
+Quest Archive: PERSON
+MS Project: ORG
+Backup Exec: PERSON
+Microsoft: ORG
+SharePoint: ORG
+CA ArcServe: ORG
+Barracuda Spam Firewall: ORG
+Blackberry Enterprise Server: ORG
+Trend Micro Anti-Virus: ORG
+Bradford Networks
+Network Sentry: ORG
+VMWare: ORG
+Hyper-V: ORG
+Barracuda Backup: ORG
+Barracuda Web Filter: PERSON
+Cisco Call: PERSON
+Cisco UCCX: PERSON
+Hardware: FAC
+Cisco: GPE
+Cisco: GPE
+Cisco: GPE
+Checkpoint: ORG
+HP Procurve: ORG
+Meraki Wi-Fi: PERSON
+Cisco Wi-Fi: PERSON
+HP Proliant: ORG
+Dell PowerEdge: ORG

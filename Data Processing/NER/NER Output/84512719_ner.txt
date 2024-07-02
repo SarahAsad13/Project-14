@@ -1,0 +1,32 @@
+daily: DATE
+Microsoft Office
+Proficient: ORG
+Supervisor: PRODUCT
+02/2015: PERSON
+daily: DATE
+the Safety Committee
+
+Co-Owner: ORG
+03/2003: CARDINAL
+Sharp: ORG
+Fostering: GPE
+Agriculture Worker: PERSON
+State
+
+Manage &: ORG
+Training
+Electrical/Electronics Engineering Technology: ORG
+AAS Presently: ORG
+Owens Community College - City: ORG
+GPA: ORG
+3.93: CARDINAL
+2012: DATE
+5S: CARDINAL
+2010: DATE
+Owens Community College - Toledo OH -Photovoltaic Certification: ORG
+2007: DATE
+2006: DATE
+Mentors of America: ORG
+2004: DATE
+Best Buy Lean Team: ORG
+Riverdale High School: ORG

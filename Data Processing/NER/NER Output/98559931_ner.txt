@@ -1,0 +1,86 @@
+7+ years: DATE
+Administrative, Accounting, Payroll, Human Resources: ORG
+Highlights: GPE
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook
+QuickBooks
+SKILLS: PERSON
+QuickBooks: ORG
+PeopleSoft: ORG
+Tools: PERSON
+Microsoft: ORG
+CSC Point: ORG
+Pro Series
+Strong: EVENT
+2014: DATE
+Processed: GPE
+weekly: DATE
+â—​Â Â Â Â  : PRODUCT
+CFO: ORG
+Controller: PERSON
+month: DATE
+Payroll: ORG
+Finance: ORG
+PTO: ORG
+ADP: ORG
+hours: TIME
+PTO: ORG
+ADP: ORG
+quarterly: DATE
+monthly: DATE
+annual: DATE
+1095: DATE
+W-2: ORG
+Journal: ORG
+Overtime: GPE
+Inventory: PERSON
+CFO: ORG
+Controller: PERSON
+4: CARDINAL
+403b: PRODUCT
+Voya: PERSON
+ADP: ORG
+Nov 2013 to Apr 2014: DATE
+over 800: CARDINAL
+Notice of Cancellation: ORG
+100%: PERCENT
+1000: CARDINAL
+80%: PERCENT
+2013: DATE
+daily: DATE
+weekly: DATE
+G/L: ORG
+Main Accomplishments: WORK_OF_ART
+daily: DATE
+Accounting/Finance: ORG
+daily: DATE
+100: CARDINAL
+Matched: GPE
+Coded: ORG
+Main Accomplishments: WORK_OF_ART
+Mar 2008: DATE
+100: CARDINAL
+1000: CARDINAL
+100: CARDINAL
+over 200: CARDINAL
+Bachelor of Science , Accounting: ORG
+May 2014: DATE
+William Paterson University: ORG
+GPA: ORG
+3.3: CARDINAL
+3.3: CARDINAL
+Work History
+Company Name 
+Skills
+ACCOUNTING: WORK_OF_ART
+INTERPERSONAL: ORG
+Finance: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+PeopleSoft: ORG
+QuickBooks: ORG

@@ -1,0 +1,78 @@
+BUSINESS DEVELOPMENT & DIGITAL MEDIA MARKETING SPECIALIST: ORG
+nine years: DATE
+Portuguese: NORP
+English: LANGUAGE
+Therapeutic Nutritional Representative: ORG
+Brazil: GPE
+2010: DATE
+Home Care: ORG
+Abbott Nutrition: ORG
+Name City: GPE
+State Business Development & Digital Media Marketing Specialist: ORG
+Brazilian: NORP
+Brazil: GPE
+Supply Chain
+: ORG
+Digital: ORG
+100MM: MONEY
+200k: MONEY
+2015: DATE
+Name City Marketing & Social: ORG
+Developed a Retail Account Map: WORK_OF_ART
+Google Maps Engine Pro: LOC
+U.S.: GPE
+Hootsuite: PERSON
+Created: ORG
+the 2014 season: DATE
+12/2008: CARDINAL
+Minas Gerais: GPE
+Abbott Nutrition: ORG
+Abbott Nutrition: ORG
+the Top Performance: WORK_OF_ART
+Therapeutic Nutritional Representative: ORG
+2010: DATE
+Home Care: ORG
+Abbott Nutrition: ORG
+40%: PERCENT
+2 months: DATE
+Brazil: GPE
+2012: DATE
+five: CARDINAL
+Recruited: PRODUCT
+Master of Business Administration: ORG
+September 2017: DATE
+San Diego University for Integrative Students: ORG
+City: GPE
+State: ORG
+USA Marketing
+Professional Certificate in Business Management: ORG
+Strategic Management & Marketing: ORG
+2013: DATE
+City: GPE
+State: GPE
+USA Strategic
+Management & Marketing: ORG
+2010: DATE
+City: GPE
+State: ORG
+USA Business Administration: ORG
+Fundacao Getulio Vargas: PERSON
+Belo Horizonte: PERSON
+MG: ORG
+Brazil: GPE
+2008: DATE
+GANEP: ORG
+Belo Horizonte: PERSON
+MG: ORG
+Brazil: GPE
+2007: DATE
+Newton Paiva: PERSON
+Belo Horizonte: PERSON
+MG: ORG
+Brazil: GPE
+Skills: ORG
+Business Management: ORG
+Executive Management: ORG
+Home Care: ORG
+Research, Retail: ORG
+Supply Chain: ORG

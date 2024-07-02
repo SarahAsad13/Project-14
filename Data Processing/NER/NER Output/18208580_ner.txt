@@ -1,0 +1,73 @@
+6 years: DATE
+Microsoft Certified: ORG
+120+WPM: CARDINAL
+Hummingbird: GPE
+C-Net: ORG
+Microsoft Office: ORG
+Complex: NORP
+10%: PERCENT
+Loans: NORP
+Operations: ORG
+Detail: PERSON
+Excel: PRODUCT
+Possess: ORG
+Excel: PRODUCT
+Operations: ORG
+Automate: GPE
+Budget: ORG
+Cold Calling: ORG
+Microsoft Certified: ORG
+Microsoft Office Suite: ORG
+Name City: GPE
+State: ORG
+Current
+
+Financial: ORG
+Bank: ORG
+Complex: NORP
+Needs: ORG
+annual: DATE
+15%: PERCENT
+8%: PERCENT
+10: CARDINAL
+Interface Managed: PERSON
+Profile: ORG
+Develop: ORG
+Commercial: ORG
+Counsel: ORG
+Analysis: PRODUCT
+Prepare: ORG
+quarterly: DATE
+Highlights: PERSON
+Vehicle: ORG
+Commercial: ORG
+Small Business Cross: ORG
+Cold Calling On Site: WORK_OF_ART
+Manages All Staff: ORG
+Governance Managed: PERSON
+each quarter: DATE
+Name City: GPE
+Develop: ORG
+Counsel: ORG
+Vehicle: ORG
+Commercial: ORG
+Small Business Cross: ORG
+Cold Calling On Site: WORK_OF_ART
+Achieving: ORG
+each quarter: DATE
+Financial Service Rep 11/2003 to 07/2007
+
+Directed: ORG
+daily: DATE
+BBVA Compass: PERSON
+Senior Teller: PERSON
+Sr.: GPE
+Financial Rep: ORG
+2 years: DATE
+Capital One: ORG
+Banking: GPE
+HR Management University of Houston: ORG
+City: GPE
+Associates Houston Community College: ORG
+Red Cross: ORG
+March: DATE

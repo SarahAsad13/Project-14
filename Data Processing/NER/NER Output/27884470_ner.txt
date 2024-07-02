@@ -1,0 +1,47 @@
+DIRECTOR: ORG
+Payroll Administration: ORG
+Vendor Services: ORG
+Compliance: PRODUCT
+October 2015: DATE
+Facilitate: ORG
+Develop: ORG
+Coordinate: FAC
+Quarterly Business Reviews: ORG
+October 2008 to December 2010: DATE
+Screen: ORG
+Evaluate: ORG
+Negotiate: ORG
+Human Resource Specialist/Business: ORG
+November 2006 to October 2008: DATE
+Oversee: ORG
+Audit: ORG
+Relationship Banker: PERSON
+August 2004 to October 2006 Company Name - City: DATE
+Profile: ORG
+weekly: DATE
+monthly: DATE
+weekly: DATE
+Oversee: ORG
+daily: DATE
+monthly: DATE
+100%: PERCENT
+January 2011 to September 2015: DATE
+Facilitate: ORG
+Quarterly Business Reviews: ORG
+Human Resource Management: ORG
+January 2012: DATE
+George Mason University - City: ORG
+State Human Resource Management: ORG
+May 2006: DATE
+George Mason University - City: ORG
+State Organizational Communication: ORG
+May 2004: DATE
+Northern Virginia Community College - City: ORG
+Architect: ORG
+Change Management: ORG
+Strong Interpersonal Skills: PERSON
+Documentation: ORG
+Human Resource: ORG
+Management Skills: PERSON
+Payroll: ORG
+Verbal Communication: ORG

@@ -1,0 +1,82 @@
+Microsoft Office: ORG
+2010: DATE
+Microsoft: ORG
+2007: DATE
+Yardi Voyager: PERSON
+Microsoft Office: ORG
+2010: DATE
+Yardi Voyager
+Payroll: PERSON
+Sharp: ORG
+annual: DATE
+05/2012: CARDINAL
+State
+
+Created: ORG
+24 hour: TIME
+Processed: GPE
+Finance: ORG
+Payroll: WORK_OF_ART
+05/2010: CARDINAL
+approximately 250: CARDINAL
+40: CARDINAL
+Submit: ORG
+monthly: DATE
+Prepare: ORG
+monthly: DATE
+daily: DATE
+Senior Management: ORG
+weekly: DATE
+401: CARDINAL
+third: ORDINAL
+daily: DATE
+Prepared: PRODUCT
+Prepared: PERSON
+Coordinated: ORG
+99: CARDINAL
+100: CARDINAL
+Maintained: GPE
+Conducted: ORG
+annual: DATE
+10/2006: CARDINAL
+daily: DATE
+440: CARDINAL
+9: CARDINAL
+hours: TIME
+Maintained: GPE
+HUD: ORG
+IRS: ORG
+Yardi: PERSON
+10/2004: CARDINAL
+10/2006: CARDINAL
+Researched: ORG
+20: CARDINAL
+Structured: ORG
+Maintained: GPE
+01/2003: CARDINAL
+Created: ORG
+01/2000: CARDINAL
+$4.3 million: MONEY
+90%: PERCENT
+Section 42,8: LAW
+236: CARDINAL
+Completed: ORG
+first year: DATE
+176: CARDINAL
+section 42: LAW
+section 42: LAW
+14: CARDINAL
+hours: TIME
+Oversaw: GPE
+3: CARDINAL
+Monitored: ORG
+Skills
+
+Accounting, Accounting: ORG
+Administrative: ORG
+AIA: ORG
+Senior Management: ORG
+Microsoft Office: ORG
+Office: ORG
+Microsoft Project: ORG
+Structured: ORG

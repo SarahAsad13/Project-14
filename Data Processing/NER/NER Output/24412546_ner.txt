@@ -1,0 +1,179 @@
+Skill Highlights: PERSON
+January 2015: DATE
+Market Master: ORG
+Sales Force: PERSON
+60: CARDINAL
+the District Mangers: ORG
+the District Managers: ORG
+January 2000 to January 2015: DATE
+Accelerated Financial Center: ORG
+LLC: ORG
+M.R. Carter: PERSON
+LLC: ORG
+The Ramada Inn,: ORG
+FL: ORG
+The Tourist Information Center: ORG
+Martin County: GPE
+Stuart: GPE
+Florida: GPE
+MRC: ORG
+Carter: PERSON
+Accelerated Financial Center: ORG
+LLC: ORG
+million dollar: MONEY
+the Federal Credit Cart Act: LAW
+Guest Services: ORG
+Group Sales: ORG
+Conference Services: ORG
+Catering and Restaurant Management: ORG
+Annual: DATE
+4 million dollar: MONEY
+Ramada: ORG
+the Information Center: ORG
+I-95: GPE
+Florida: GPE
+FLAUSA: ORG
+Florida: GPE
+January 1999 to January 2000: DATE
+thirty: CARDINAL
+First year: DATE
+annual: DATE
+400,000: MONEY
+January 1997 to January 1999: DATE
+Property: ORG
+annual: DATE
+10 million: CARDINAL
+January 1990 to January 1997: DATE
+Indian River Plantation Resort & Yacht Harbor: ORG
+Duty, Group Sales: ORG
+Director of Travel Industry Sales: ORG
+Group Sales: ORG
+four years: DATE
+1995: DATE
+2 million: CARDINAL
+18 months: DATE
+January 1980 to January 1990: DATE
+Management Trainee: PERSON
+Conference Services & Catering: ORG
+Resort: ORG
+Duty: GPE
+Midwest: LOC
+Northeast: LOC
+Florida: GPE
+Annual: DATE
+60 million dollars: MONEY
+Leading Group: ORG
+5 years: DATE
+January 1975 to January 1980: DATE
+the Food & Beverage Division: ORG
+Management Xavier University - City: ORG
+State Management
+M.B.A : Marketing & Finance: ORG
+1978: DATE
+Xavier University - City: ORG
+State
+
+Marketing & Finance: ORG
+Martin County: GPE
+Molly: GPE
+House: ORG
+Hibiscus House for Children, Council for the Arts: ORG
+Martin County: GPE
+Economic Council: ORG
+Sunshine State Games of The Treasure Coast: ORG
+Stuart Main Street: ORG
+Martin
+County: PERSON
+Academy of Travel &: ORG
+Martin County: GPE
+The Treasure Coast Tourism Committee: ORG
+the Council of Chambers: ORG
+Hutchinson: ORG
+Martin County: GPE
+St. Lucie County: GPE
+Palm Beach: GPE
+The Jensen Beach Chamber of
+Commerce: ORG
+The Stuart\Martin County Chamber of Commerce: ORG
+The Hobe Sound Chamber of Commerce Chili Cookoff: ORG
+The Junior League: ORG
+Martin County Travel Auction: ORG
+The Palm Beach Hospitality Sales & Marketing Travel Auction: FAC
+The Jensen Beach Chamber of Commerce Travel
+Auction: ORG
+The Soroptomist International Travel Auction: ORG
+Kiwanis: NORP
+Finsterwald Golf: PERSON
+Jensen Beach Oak Tree Program: PERSON
+The Jensen Beach: ORG
+Chamber of Commerce: ORG
+The Martin County Cultural Arts Travel Auction: ORG
+Artsfest: PERSON
+The Academy of Travel & Tourism: ORG
+Professional Affiliations: ORG
+American Hotel Motel Association of Palm Beach: ORG
+Martin County: GPE
+Palm Beach: GPE
+Hutchinson Island Tourism Committee of: ORG
+The Jensen Beach Chamber of Commerce: ORG
+Skull International of Palm Beach: ORG
+The Chamber of Commerce of Palm Beach: ORG
+The International
+Game Fish Tournament Observers: ORG
+The International Game Fish Association: LAW
+Memberships FLAUSA Kiwanis International of Jensen Beach: ORG
+Historical Society: ORG
+Martin County: GPE
+Hotel Motel Association: ORG
+Martin County: GPE
+Palm Beach Hospitality: GPE
+Palm Beach: GPE
+Hutchinson Island Tourism Committee of: ORG
+Chamber of Commerce: ORG
+Skull International of Palm Beach: ORG
+The Chamber of Commerce of Palm Beach: ORG
+Martin County: GPE
+Molly: GPE
+House: ORG
+Hibiscus House for Children, Council for the Arts: ORG
+Martin County: GPE
+Economic Council: ORG
+Martin County: GPE
+Sunshine State Games of The Treasure Coast: ORG
+Stuart Main Street: ORG
+Jensen
+Beach: GPE
+Martin County: GPE
+Academy of Travel & Tourism: ORG
+Martin County: GPE
+The Treasure Coast Tourism Committee: ORG
+the Council of Chambers: ORG
+The Hutchinson Island Tourism Development Council Committee: ORG
+Martin County: GPE
+St. Lucie County: GPE
+Palm Beach: GPE
+The Jensen Beach Chamber of Commerce: ORG
+The Stuart\Martin County Chamber of Commerce: ORG
+The Hobe Sound
+Chamber of Commerce Chili Cookoff: ORG
+The Junior League: ORG
+Martin County Travel Auction: ORG
+The Palm Beach Hospitality Sales &
+Marketing Travel Auction: FAC
+The Jensen Beach Chamber of Commerce Travel Auction: ORG
+The Soroptomist International Travel Auction: ORG
+Kiwanis: NORP
+Finsterwald Golf: PERSON
+The Jensen Beach Oak Tree Program: FAC
+Chamber of Commerce: ORG
+The Martin County Cultural Arts Travel Auction: ORG
+The Academy of Travel & Tourism: ORG
+Credit: ORG
+Financial: ORG
+Market, Marketing and Management: ORG
+Excel: PRODUCT
+Outlook Express: ORG
+Power Point: ORG
+Word: PERSON
+Restaurant
+Management: ORG

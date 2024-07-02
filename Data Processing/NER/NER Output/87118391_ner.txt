@@ -1,0 +1,32 @@
+Accomplishments
+
+Responsible: WORK_OF_ART
+one hundred percent: PERCENT
+Maintained: PERSON
+September 2008: DATE
+April 2008 to September 2008: DATE
+State Successfully: ORG
+12Â: CARDINAL
+September 2017 to April 2008: DATE
+200: CARDINAL
+January 1995 to September 2007: DATE
+State: ORG
+Communicated: ORG
+daily: DATE
+Committed: ORG
+Dealt: PERSON
+Experienced: PERSON
+FAA: ORG
+winter: DATE
+State: ORG
+2002: DATE
+United States: ORG
+State Received Honorable Discharge: ORG
+George Washington High School: PERSON
+Assisted: ORG
+Skills
+Air Force 2: ORG
+Oral Communication: ORG
+Customer
+Relations: ORG
+Problem Solving: PERSON

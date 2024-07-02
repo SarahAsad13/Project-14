@@ -1,0 +1,64 @@
+Skill: PERSON
+1: CARDINAL
+Skill: PERSON
+2: CARDINAL
+Core Qualifications
+Excellent: ORG
+Motivated Recruiting: PERSON
+Conscientious Proficient: ORG
+Jobs Coordinator / Estimator: ORG
+August 2012 to October 2014 Company Name - City: DATE
+Payless: ORG
+PNL: ORG
+Competitive Analysis Performed: WORK_OF_ART
+over 130: CARDINAL
+3: CARDINAL
+Carolina: LOC
+Payless ShoeSource Regional VP: ORG
+Canadian: NORP
+Devised: ORG
+Payless: ORG
+Awarded: WORK_OF_ART
+Awarded: WORK_OF_ART
+Collaborated: ORG
+Trainee: PERSON
+July 2012 to July 2012: DATE
+October 2011 to March 2012: DATE
+Recruited: PRODUCT
+4: CARDINAL
+annual: DATE
+4: CARDINAL
+Durham: GPE
+NC: GPE
+March 1992 to: DATE
+August 2010: DATE
+Completed: ORG
+weekly: DATE
+UPS: ORG
+USPS: ORG
+Directed: ORG
+Reorganized: ORG
+130: CARDINAL
+monthly: DATE
+quarterly: DATE
+Created: ORG
+Assisted: ORG
+Researched: ORG
+Carolina: LOC
+Va: GPE
+Canada: GPE
+monthly: DATE
+quarterly: DATE
+Conducted: ORG
+2nd: ORDINAL
+1st: ORDINAL
+April 2015 to July 2015: DATE
+Associate of Arts : Business Administration: ORG
+1982: DATE
+Mount Olive College - City: ORG
+State Business Administration: ORG
+Small Business Association: ORG
+2008: DATE
+Competitive Analysis: ORG
+Hiring: GPE
+Store: PERSON

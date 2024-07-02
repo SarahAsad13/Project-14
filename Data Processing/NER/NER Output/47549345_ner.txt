@@ -1,0 +1,106 @@
+Seeking an Internship/Co-op: WORK_OF_ART
+Electrical/Instrumentation & Control Engineering: ORG
+Spring & Summer 2017: ORG
+Highlights: GPE
+Simulink: PERSON
+Siemens: ORG
+Power World: ORG
+ETAP: ORG
+Multisim: GPE
+RT-LAB: ORG
+C++: GPE
+MS: ORG
+Industrial Automation & Control: ORG
+Apollo Knowledge Institute: ORG
+July 2012 - Sept 2012: DATE
+Skills: ORG
+PLC: ORG
+Allen Bradley & Siemens PLC: ORG
+HMI: ORG
+SCADA: ORG
+Servo: PERSON
+Hydraulic & Pneumatic: ORG
+State Company Name: ORG
+Electrical & Electronic: ORG
+Instrumentation & Control Engineer 
+City Company Name / Oct 2012 to: ORG
+DCS: ORG
+C300: PRODUCT
+Control & motor: ORG
+Panel: ORG
+Field Instrument & Control Valve: ORG
+Shah Gas Development Project: ORG
+Abu Dhabi: GPE
+UAE: GPE
+Instrument: ORG
+Instrument & Control Valve Datasheets: ORG
+Cause: ORG
+MTO: ORG
+Material Requisition: ORG
+Vendor: ORG
+FAT: ORG
+IEEE: ORG
+API: ORG
+ISA: ORG
+IEC: GPE
+NEC: ORG
+Intern 
+City: LOC
+State Company Name: ORG
+SCADA: ORG
+HMI, PLC: ORG
+RESEARCH & PROJECT Research on "Dynamic Stability of Grid-Microgrid: ORG
+Fuzzy Logic Controller: PERSON
+Microgrid: ORG
+Matlab/Simulink-Simpower: ORG
+Opal-RT: ORG
+PLC: ORG
+PLC: ORG
+LG PLC: ORG
+Master of Science : Electrical Engineering University of Houston May 2017 City , State Electrical Engineering: WORK_OF_ART
+3.85: CARDINAL
+Digital Control System: ORG
+Linear Multivariable Control System: ORG
+Smart Grid Technology: ORG
+Industrial Power System Protection: ORG
+Bachelor of Technology: ORG
+Instrumentation & Control Engineering Nirma University: ORG
+May 2012 City: DATE
+India Instrumentation & Control Engineering: ORG
+3.5: CARDINAL
+Analog & Digital: ORG
+Control System Design: ORG
+Power Electronics: ORG
+Certifications
+Certificate: ORG
+Smart Brains Engineering Pvt: ORG
+April 2014 - May 2014: DATE
+SPI Intools: ORG
+Professional Affiliations: ORG
+April 2015 - Present: DATE
+Apollo: ORG
+C++: GPE
+Controller, Electronics: ORG
+FAT: ORG
+ISA: ORG
+MATLAB: ORG
+MS: ORG
+NEC: ORG
+PLC programming: ORG
+PLC: ORG
+RESEARCH: ORG
+SCADA: ORG
+Siemens: ORG
+Siemens PLC: ORG
+System Design, System Analysis: ORG
+12th: ORDINAL
+Fuzzy: PERSON
+VSC of Battery: PRODUCT
+Microgrid: ORG
+1-2': CARDINAL
+Robocon: ORG
+2010: DATE
+India: GPE
+Asia - Pacific Broadcasting Union: ORG
+Houston: GPE
+2015 - 2016: DATE

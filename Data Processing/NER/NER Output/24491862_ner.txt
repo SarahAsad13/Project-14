@@ -1,0 +1,81 @@
+August 2016: DATE
+Detail: PERSON
+Skill Highlights: PERSON
+Multi: GPE
+Google: ORG
+Hootsuite: PERSON
+Microsoft Office: ORG
+March 2016: DATE
+Name City: GPE
+Resolve: PERSON
+Communicated: ORG
+Performed: ORG
+December 2015: DATE
+January 2016: DATE
+Name City: GPE
+State Student Intern
+
+: ORG
+80 hours: TIME
+daily: DATE
+Assisted: ORG
+PTA: ORG
+May 2015: DATE
+September 2015: DATE
+Name City: GPE
+State Brand: ORG
+Computed: ORG
+Maintained: GPE
+February 2015: DATE
+June 2015: DATE
+Name City: GPE
+State Virtual Social Media Marketing Intern: ORG
+Curate: ORG
+Update: ORG
+Recruit: ORG
+Seasonal: DATE
+January 2015: DATE
+June 2015: DATE
+Name City: GPE
+State PR Intern
+
+Research: ORG
+Update: ORG
+Write: PERSON
+Bounce PR's: ORG
+Curate: ORG
+Hootsuite
+Kept: PERSON
+January 2014: DATE
+October 2014: DATE
+Name City: GPE
+Buckle
+Researched: PRODUCT
+Organized: ORG
+Clothed: PRODUCT
+Practiced: ORG
+November 2012: DATE
+June 2013: DATE
+Name City: GPE
+State Marketing and Advertising Sales Associate: ORG
+LF: ORG
+Communicated: ORG
+weekly: DATE
+October 2011: DATE
+May 2012: DATE
+Name City: GPE
+State Hostess
+
+Created: ORG
+that evening: TIME
+Kept: PERSON
+Training: PERSON
+2016: DATE
+Florida State University City: ORG
+State: GPE
+Skills
+
+Communication: ORG
+Microsoft Office: ORG
+Google: ORG
+Hootsuite: PERSON

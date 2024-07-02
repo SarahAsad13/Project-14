@@ -1,0 +1,121 @@
+Skills
+Excellent: ORG
+2007: DATE
+2010: DATE
+2013: DATE
+Power Point: ORG
+MS
+Outlook: ORG
+MS Word: PERSON
+Bolt: ORG
+MAC: ORG
+Millennium: DATE
+7.5: CARDINAL
+Sabre: GPE
+Lawson HRIS: PERSON
+CSG: ORG
+ProAlpha: ORG
+Quick Books: ORG
+Centricity: ORG
+AS400: PRODUCT
+Oracle R11: ORG
+Oracle R12: ORG
+MAS 90: FAC
+Kofax: GPE
+Excel: PRODUCT
+Financial Management: ORG
+SOX: ORG
+ISO900: PERSON
+CGE Expenditure Authorization
+Guidelines: ORG
+Ensures: LOC
+Communicate: ORG
+Compile: PRODUCT
+Create: ORG
+weekly: DATE
+Balance Sheet: ORG
+monthly: DATE
+monthly: DATE
+R11/ R12: ORG
+Research: ORG
+Accounts Payable: ORG
+Assist: NORP
+Finance: ORG
+Communicated: ORG
+Corporate: ORG
+Finance Business Partners: ORG
+SOX: ORG
+monthly: DATE
+Complete: PERSON
+month end: DATE
+Business Units: ORG
+Project Managers: ORG
+Partnered: PRODUCT
+Business Units: ORG
+fiscal year: DATE
+Visa: ORG
+monthly: DATE
+Financial Operations: ORG
+Jun 2011: PERSON
+2013: CARDINAL
+over 385,000: CARDINAL
+annually: DATE
+monthly: DATE
+month end: DATE
+SOX: ORG
+daily: DATE
+SOX: ORG
+Processed: GPE
+SOX: ORG
+Print: GPE
+monthly: DATE
+Business Units: ORG
+fiscal year: DATE
+Utilized: ORG
+AP: ORG
+1/16-10/16: CARDINAL
+Controller: ORG
+weekly: DATE
+Coordinate: FAC
+Uphold SOX: ORG
+monthly: DATE
+month: DATE
+Selects: PRODUCT
+Accounting/ Finance: ORG
+Trains: PERSON
+Motivates: ORG
+IExpense: NORP
+Purchasing Card: ORG
+Training
+M.B.A: ORG
+Austin Humane: PERSON
+Accounting: ORG
+AS400: PRODUCT
+Balance Sheet: PERSON
+Controller: PERSON
+Client: GPE
+Finance: ORG
+Financial Management: ORG
+Financial
+Statements: ORG
+GL: ORG
+Great Plains: PERSON
+HRIS: ORG
+ISO: ORG
+Lawson: PERSON
+MAC: ORG
+MAS 90: ORG
+Excel: PRODUCT
+MS Outlook: PERSON
+2000: DATE
+Windows 98: ORG
+MS Word: PERSON
+Millennium: DATE
+month end: DATE
+Office Management: ORG
+Oracle: ORG
+Quick Books: ORG
+Sabre: GPE
+7.5: CARDINAL
+SOX: ORG
+Team: ORG

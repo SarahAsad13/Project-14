@@ -1,0 +1,54 @@
+DIGITAL: ORG
+Highlights
+
+Pay Per Click: WORK_OF_ART
+PPC: ORG
+Google Adwords: ORG
+Google Analytics: ORG
+Content Marketing
+Social Media Marketing - Facebook: ORG
+LinkedIn: GPE
+Word: PERSON
+Powerpoint: PERSON
+Outlook
+PPC Bid Management
+Lead Generation: ORG
+Hootsuite: PERSON
+Marin Software
+Drupal
+WordPress: WORK_OF_ART
+Blogging: GPE
+Name City: GPE
+State Digital Media Buyer: ORG
+Current
+
+Oversees: ORG
+PPC: ORG
+three: CARDINAL
+Facebook, Instagram: ORG
+Twitter: PERSON
+Pinterest: ORG
+Organizes: PERSON
+monthly: DATE
+Instagram: ORG
+over 400%: PERCENT
+the first month: DATE
+Name City: GPE
+State Digital Media Buyer: ORG
+10: CARDINAL
+over $500,000: MONEY
+each month: DATE
+Communicated: ORG
+Name City: GPE
+Bachelor of Arts : Communication Business University: ORG
+City: GPE
+State Communication Business
+Skills: ORG
+Drupal: GPE
+Excel: PRODUCT
+MSOffice: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Page: PERSON
+Content Writing: PERSON

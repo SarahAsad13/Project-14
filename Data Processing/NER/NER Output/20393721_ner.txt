@@ -1,0 +1,78 @@
+Lacerte: GPE
+Intuit ProSeries: ORG
+Microsoft Suite: PERSON
+Excel: PRODUCT
+Vlookups: ORG
+Data Analysis & Management: ORG
+Access (Intermediate: WORK_OF_ART
+Outlook: PERSON
+Power Pivot: PERSON
+PowerPoint: ORG
+CalBench: ORG
+FASB & GAAP standards (Accounting Standards Codification: ORG
+Sarbanes-Oxley: ORG
+SOX Sections: ORG
+Accountant: ORG
+January 2016: DATE
+Current Company Name: ORG
+IRS: ORG
+IRS: ORG
+CT-3-S/CT-34-SH: ORG
+NYS: ORG
+SUTA: ORG
+Generate: PERSON
+quarterly: DATE
+IRS: ORG
+NYS-45: PERSON
+NYS-45-ATT: ORG
+NYS: ORG
+the calendar year: DATE
+February 2015 to January 2016: DATE
+State: ORG
+Oversaw A/R: WORK_OF_ART
+Recorded month end, quarterly: DATE
+year end: DATE
+1065: DATE
+941: CARDINAL
+Quarterly: DATE
+MTA-305: PERSON
+940: CARDINAL
+Coordinated: ORG
+Stock Clerk: PERSON
+May 2010 to August 2011 Company Name ï¼​ City: DATE
+three month: DATE
+approximately 10%: PERCENT
+September 1996 to March 2004: DATE
+Maintained: GPE
+up to 20%: PERCENT
+Maintained: GPE
+Training
+Master of Science : Taxation: WORK_OF_ART
+January 2018: DATE
+Tax Research
+Bachelor of Science : Accounting Hunter College: ORG
+State Accounting: ORG
+Financial Accounting: ORG
+Computer Information Systems: ORG
+Microsoft Office Suites: ORG
+QuickBooks: ORG
+Intermediate Accounting II: ORG
+Managerial Accounting: ORG
+Advanced Accounting I & II: ORG
+Corporate Finance: ORG
+Business Organization: ORG
+Economic Development, Federal Income Taxation: ORG
+Society of Hunter College Internal Revenue Service: ORG
+VITA/TCE Certificate: ORG
+2015: DATE
+Volunteer Tutor for Accounting
+Skills: WORK_OF_ART
+Corporate Finance: ORG
+Data Analysis &
+Management: ORG
+Financial Accounting: ORG
+Pivot: PERSON
+QuickBooks: ORG
+Sarbanes-Oxley: ORG
+SAS: ORG
+Tax Accounting: ORG

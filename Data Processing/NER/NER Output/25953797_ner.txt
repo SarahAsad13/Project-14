@@ -1,0 +1,25 @@
+Culinary: ORG
+4: CARDINAL
+Head Chef: PERSON
+September 2014 to January 2016: DATE
+monthly: DATE
+weekly: DATE
+Line Cook: PERSON
+May 2011 to September 2014: DATE
+Intern: ORG
+February 2011 to April 2011: DATE
+Associate of Applied Science Degree :: WORK_OF_ART
+Culinary Arts: ORG
+Robert Morris University &: ORG
+Illinois ï¼​ City: GPE
+State Culinary Arts
+Food Service Sanitation: ORG
+4: CARDINAL
+5: CARDINAL
+GPA: ORG
+3.87 Student: PERCENT
+Eyrie: PERSON
+GPA: ORG
+3.87: CARDINAL
+Skills
+Arts: ORG

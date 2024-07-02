@@ -1,0 +1,45 @@
+Highlights
+Exceptional: ORG
+Customer: ORG
+Teamwork: ORG
+Effective: NORP
+Organized, Highly: ORG
+Strong: PERSON
+Utica College Football: ORG
+2010 - Fall 2013: DATE
+Division III Football: ORG
+four years: DATE
+first: ORDINAL
+Leadership Council: ORG
+weekly: DATE
+Volunteer Work/Community Service
+America: ORG
+Greatest Heart Run & Walk Volunteer
+: ORG
+Salvation Army Volunteer
+: ORG
+Neighborhood: PERSON
+North Utica: GPE
+60+: DATE
+20: CARDINAL
+Prepare: ORG
+09/2010 to Current
+Property Maintenance Assistant Company Name: WORK_OF_ART
+Microsoft: ORG
+Answer: LOC
+Performed: ORG
+Bachelor of Science :: ORG
+State: GPE
+US: GPE
+Utica College Utica: ORG
+May 2014: DATE
+3.37/4.00: CARDINAL
+Volunteer Neighborhood: PERSON
+North Utica: LOC
+Professional Affiliations: ORG
+Utica College Football: ORG
+Audio Visual: GPE
+Customer Service: ORG
+Fast Learner: PERSON
+Receptionist: ORG
+Landscaping: PERSON

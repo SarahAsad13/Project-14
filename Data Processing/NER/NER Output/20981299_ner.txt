@@ -1,0 +1,85 @@
+more than three years: DATE
+Toyota: ORG
+Skills
+C: ORG
+Catia: ORG
+ANSYS: PERSON
+Microsoft: ORG
+Product Project Management: ORG
+GD&T: ORG
+Minitab: PERSON
+Kanban: PERSON
+Kaizen: PERSON
+FMEA: ORG
+Toyota: ORG
+APQP: ORG
+5: CARDINAL
+KPI: ORG
+Reliability SAE Standards: ORG
+Vehicle: ORG
+QCC: ORG
+Developed Delphi's: PERSON
+10%: PERCENT
+Performed PFMEA: PERSON
+5S: CARDINAL
+Kaizen: PERSON
+Single: NORP
+06/2013: CARDINAL
+Engineer Company Name: ORG
+zero: CARDINAL
+launc h.
+Studied: PERSON
+APQP: PERSON
+DFMEA: ORG
+$100 million: MONEY
+Toyota: ORG
+Performed: ORG
+BOM: ORG
+30%: PERCENT
+SQD (Safety, Quality & Delivery: ORG
+KPI: ORG
+Performed: ORG
+5Why: DATE
+FMEA: ORG
+IPQPR: ORG
+SQPR: ORG
+Japanese: NORP
+ECR: ORG
+PFMEA: ORG
+Major Projects: ORG
+University of Michigan Dearborn Product Development - Designed: ORG
+V5: CARDINAL
+DFMEA: ORG
+Occupant: PERSON
+Anthropometric: ORG
+SAEJ1100v005: PRODUCT
+SAEJ1516v002: ORG
+Vehicle: ORG
+three: CARDINAL
+ANOVA: ORG
+Quality: ORG
+QFD: ORG
+Vehicle: ORG
+BIW: ORG
+Gearbox FMEA - Conducted: PERSON
+6X4: CARDINAL
+DFMEA: ORG
+PFMEA: ORG
+DFA: ORG
+DFM: ORG
+138: CARDINAL
+240k: CARDINAL
+JPH: ORG
+labor hours: TIME
+Six Sigma - Implemented: PERSON
+six: CARDINAL
+DMAIC: ORG
+Training: PERSON
+04/2018: PERSON
+University of Michigan Dearborn: ORG
+State Manufacturing Systems Engineering: ORG
+06/2013: CARDINAL
+Skills: ORG
+CNC: ORG
+Minitab: PERSON
+Product Development: ORG

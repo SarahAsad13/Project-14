@@ -1,0 +1,137 @@
+Director - Engineering/Research & Development/Product Development/Design - Versatile: ORG
+10 years: DATE
+Possesses technical &: ORG
+zero to 20: CARDINAL
+approximately 5 weeks: DATE
+20 days: DATE
+15%: PERCENT
+Amer Industrial Technologies
+Efficiently: ORG
+30MM+: MONEY
+10: CARDINAL
+Amer Industrial
+Technologies: ORG
+three: CARDINAL
+two: CARDINAL
+over 30%: PERCENT
+Roberts Filter Group: ORG
+Project Engineering & Production Product Design & Product
+
+Development Testing
+
+: ORG
+Welding & Fabrication: ORG
+Material Handling &
+
+Processing Procedures: ORG
+Project Management & Direction: ORG
+Internal & External Quality Audits: ORG
+Instrumentation &
+
+Control: ORG
+Project Budgets Multitasking: ORG
+Highly Organized and Strong Analytical Abilities
+Articulate Oral and Written Communication
+Quick Problem Resolution & Decision Making
+Client Relationship Management
+Continuous Process Improvement and Innovation
+Team Building, Training and Development
+
+Experience
+: WORK_OF_ART
+January 2013: DATE
+Roberts Filter Group: ORG
+approximately 100: CARDINAL
+125 years: DATE
+three: CARDINAL
+two: CARDINAL
+over 30%: PERCENT
+two: CARDINAL
+Directed: ORG
+10-20: CARDINAL
+Efficiently: ORG
+over $35MM: MONEY
+Project Engineer/Engineering: ORG
+January 2009 to January 2013: DATE
+NASA: ORG
+about 30: CARDINAL
+GTAW: ORG
+GMAW: PERSON
+FCAW: GPE
+SAW: ORG
+daily: DATE
+zero to 20: CARDINAL
+about 5 weeks: DATE
+20 days: DATE
+15%: PERCENT
+over $15MM: MONEY
+10-20: CARDINAL
+Created: ORG
+Commercial Grade Dedication: ORG
+10CFR50 Appendix B: PERSON
+10: CARDINAL
+30MM: MONEY
+6-10: CARDINAL
+Contributions Developed: PERSON
+streamlining schedules & workflow
+documentation: ORG
+approximately 10%: PERCENT
+Directed: ORG
+30MM+: MONEY
+10: CARDINAL
+January 2008 to January 2009: DATE
+January 2007 to April 2008: DATE
+June 2005 to January 2007: DATE
+Fellow: GPE
+July 2006 to September 2006: DATE
+1: CARDINAL
+1: CARDINAL
+5: CARDINAL
+Americans: NORP
+World Nuclear University: ORG
+June 2002: DATE
+August 2002: DATE
+Mechanical Engineering: ORG
+2005: DATE
+Tulane University: ORG
+ï¼​ City: GPE
+2003: DATE
+Tulane University: ORG
+ï¼​ City: GPE
+City: GPE
+France: GPE
+Michelin: ORG
+Louisiana: GPE
+Pursuing Professional Engineering License: ORG
+ANSYS: PERSON
+Autocad: ORG
+C Programming: ORG
+CAD: ORG
+Macintosh: ORG
+Math: PERSON
+MATLAB: ORG
+Excel: PRODUCT
+MS Office: ORG
+PowerPoint: ORG
+2000: DATE
+Windows 95: ORG
+98: DATE
+Word: PERSON
+35MM: CARDINAL
+Pro-Engineer: ORG
+Quality: ORG
+SolidWorks: ORG
+Unigraphics: GPE
+Vista: ORG
+Memberships Student: ORG
+Tulane University Dean's: ORG
+Advisory Board Outstanding Teaching Assistant: ORG
+Department of
+Mechanical Engineering: ORG
+2003-2004: DATE
+Honor Society American Society of Mechanical Engineers-Treasurer of Tulane Chapter: ORG
+2000-2003: DATE
+2002: DATE
+Fluids: ORG
+2014: DATE
+Lake Placid Finisher: FAC

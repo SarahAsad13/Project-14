@@ -1,0 +1,34 @@
+Technician Advocate - Supervisor: PERSON
+June 2005: DATE
+Current Company Name: ORG
+the day to day: DATE
+NRX: ORG
+Assist Business Pharmacy: ORG
+340b: CARDINAL
+Answer: LOC
+Case Management: ORG
+Assist: NORP
+Medication Assistance Program: ORG
+Compute: ORG
+Superb: NORP
+Fill and Update Lists: ORG
+August 2002 to April 2005: DATE
+Coordinated: ORG
+day: DATE
+Created: ORG
+weekly: DATE
+monthly: DATE
+Clinic Clerk: PERSON
+December 2000 to August 2002: DATE
+Collect: ORG
+the following day: DATE
+Maintain: PRODUCT
+March 2015: DATE
+Bellevue University: ORG
+ï¼​ City: GPE
+2012: DATE
+Nebraska: GPE
+2012: DATE
+Metro Community College: ORG
+Case Management: ORG
+Assist: NORP

@@ -1,0 +1,106 @@
+R&D New Product Development Technician: ORG
+10/2015: CARDINAL
+10/2019: CARDINAL
+Document: PRODUCT
+Revising: GPE
+Kanban Experienced: PERSON
+Kitting Materials: ORG
+Lean Manufacturing Knowledge: WORK_OF_ART
+ISO: ORG
+GMP: ORG
+GLP: ORG
+ATS Machine: ORG
+Calvary Machine: PERSON
+Branson Heatstaking Machines: ORG
+Front Desk Clerk: PERSON
+11/2013: CARDINAL
+Assembler/Tester: ORG
+12/2014: CARDINAL
+Micro Word: PERSON
+Mix: PERSON
+ESD: ORG
+FOD Trained: ORG
+Laser: ORG
+10/2015: CARDINAL
+10/2019: CARDINAL
+Document: PRODUCT
+Revising: GPE
+Kanban Experienced: PERSON
+Kitting Materials: ORG
+Lean Manufacturing Knowledge: WORK_OF_ART
+ISO: ORG
+GMP: ORG
+GLP: ORG
+ATS Machine: ORG
+Calvary Machine: PERSON
+Branson Heatstaking Machines: ORG
+Front Desk Clerk: PERSON
+11/2013: CARDINAL
+Assembler/Tester: ORG
+12/2014: CARDINAL
+Micro Word: PERSON
+Mix: PERSON
+ESD: ORG
+FOD Trained: ORG
+Laser: ORG
+2012: CARDINAL
+Lowell High School - City: ORG
+Detail: PERSON
+Quality Control Analyst: ORG
+5 years': DATE
+Microsoft: ORG
+Excel: PRODUCT
+Blueprints
+Equipment: ORG
+GMP: ORG
+GLP: ORG
+ISO
+Lean Manufacturing
+Mechanical Assembly: ORG
+Strong: PERSON
+Operations: ORG
+Acknowledgment: GPE
+Analysis: PRODUCT
+Excel: PRODUCT
+Word: PERSON
+Laser: ORG
+Microsoft: ORG
+Troubleshooting
+Detail Oriented: PERSON
+Validation
+Equipment: ORG
+Lean Manufacturing: ORG
+GMP: ORG
+GLP: ORG
+Mechanical: ORG
+Read
+Inspecting, Clinical: WORK_OF_ART
+Recording
+
+Test: ORG
+Deliverables: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Blueprints
+Equipment: ORG
+GMP: ORG
+GLP: ORG
+ISO
+Lean Manufacturing
+Mechanical Assembly: ORG
+Strong: PERSON
+Deliverables: PERSON
+Operations: ORG
+Acknowledgment: GPE
+Analysis: PRODUCT
+Blueprints: ORG
+Detail Oriented: PERSON
+GMP: ORG
+GLP: ORG
+ISO: ORG
+Laser: ORG
+Lean Manufacturing: ORG
+Excel: PRODUCT
+Word: PERSON
+Microsoft: ORG
+SOP: ORG

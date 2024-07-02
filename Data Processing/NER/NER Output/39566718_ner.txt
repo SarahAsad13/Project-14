@@ -1,0 +1,85 @@
+Experienced Wireless Professional: ORG
+10 years: DATE
+Construction and Project: ORG
+NSB: ORG
+SOW: ORG
+BOM: ORG
+Site: ORG
+NTP: ORG
+Vendor: ORG
+GSM: ORG
+UMTS LTE technologies: ORG
+Owner/Project: ORG
+10/2015: CARDINAL
+Name City: GPE
+â€¢Making: NORP
+daily: DATE
+HSE: ORG
+07/2013: CARDINAL
+Name City: GPE
+State: ORG
+jobsite: NORP
+â€¢Reviewing: PRODUCT
+Federal, State: ORG
+Municipal: PERSON
+â€¢Reviewing: PRODUCT
+Name City: GPE
+Goins Services: ORG
+LLC: ORG
+Primary: PERSON
+Scope: LOC
+LLC: ORG
+Customer Agreement: ORG
+Schedule and Financial aspects: ORG
+Quality and Safety: ORG
+Resource Management: ORG
+weekly: DATE
+Cross Functional Project Management Tracker: ORG
+Assisted: ORG
+Oversaw: GPE
+Coordinated: ORG
+Quick: FAC
+09/2010: CARDINAL
+Name City: GPE
+1700: DATE
+San Francisco: GPE
+GSM: ORG
+UMTS: ORG
+DNB: ORG
+LTE: PERSON
+Site Acq: ORG
+daily: DATE
+AT&T: ORG
+12/2006: CARDINAL
+Name City: GPE
+Federal and Local: ORG
+Responsibilities Include: Assured: ORG
+Coordinated: PRODUCT
+Reject: ORG
+NTP: ORG
+11/2006: CARDINAL
+Name City: GPE
+day: DATE
+Forecast: ORG
+1992: DATE
+Palomar College City: ORG
+State: GPE
+US: GPE
+Bachelor Electronic: ORG
+EET: ORG
+2005: DATE
+DeVry Institute City: ORG
+State: GPE
+US: GPE
+Andrew Connector/Weatherproofing: PERSON
+EME/RF Radiation: ORG
+American Red Cross: ORG
+Aid/Adult CPR: ORG
+Hour Trilogy: ORG
+Connectors & CommScope: ORG
+Anritsu Certified: GPE
+MS Word: PERSON
+MS Excel: ORG
+Debug Phone: PERSON
+Skills: ORG
+Excel: PRODUCT

@@ -1,0 +1,70 @@
+13: CARDINAL
+Collegiality and Professionalism: ORG
+2013-2014: DATE
+the Florida Department of Education: ORG
+2014-15 / 2015-16: DATE
+4.0: CARDINAL
+2015-2016: DATE
+Awarded OCPS Foundation Grant: ORG
+2015-2016: DATE
+Unify - Summer 2016: ORG
+Chosen: GPE
+Mentor: LOC
+Deliberate Practice Elements: ORG
+three of four years: DATE
+Marzano's Model: ORG
+VIEWpath: PRODUCT
+OCPS: ORG
+Future of Educational Technology Tours: ORG
+Broad
+Foundation Scholarship: ORG
+2014)Â: CARDINAL
+Skills
+
+Proficient: ORG
+Moodle: GPE
+Google Classroom
+Implemented - Google: ORG
+50 hours: TIME
+Familiar: PERSON
+English Language Arts: WORK_OF_ART
+08/2009: CARDINAL
+State: ORG
+English Language Arts: WORK_OF_ART
+Name City: GPE
+Name City: GPE
+Familiar: PERSON
+Canvas: ORG
+Edmoto: ORG
+Blackboard
+Incorporated: PERSON
+Garageband
+MS Office: ORG
+Safari Montage Live
+Analyzed: WORK_OF_ART
+Professional Learning Community: ORG
+Common Core Standards
+
+Developed: WORK_OF_ART
+Autism Spectrum Disorders: ORG
+Provided professional development supervision: ORG
+Coordinated: ORG
+Psychologists: ORG
+Name City: GPE
+2003: DATE
+Seton Hill University City: ORG
+State: ORG
+B.S. Elementary Education: PERSON
+1997: DATE
+West Virginia University City: ORG
+State
+Development and Extra Duties: ORG
+Building Wellness Committee: ORG
+Chairperson - Corporate: ORG
+5: CARDINAL
+Attendee Professional Learning Communities Conference (PLC - 2013: ORG
+2015: DATE
+Member - Building Reading Committee: ORG
+Attendee - International Society for Technology in Education: ORG
+ISTE: ORG
+Tutor - Duke: PERSON

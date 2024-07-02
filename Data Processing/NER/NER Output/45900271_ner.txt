@@ -1,0 +1,32 @@
+EVENTS & PUBLIC RELATIONS: ORG
+first: ORDINAL
+Scheels: PRODUCT
+26: CARDINAL
+12/2015: CARDINAL
+Current
+Events & Public Relations: ORG
+annual: DATE
+Foster: PERSON
+Scheels: NORP
+Develop: ORG
+12/2014 to 11/2015: CARDINAL
+Scheels: NORP
+Coordinate event logistics & details: ORG
+Calculate: ORG
+10/2014: CARDINAL
+sports & recreations building: ORG
+Coordinated: ORG
+Created: ORG
+Project Managers: ORG
+multimillion dollar: MONEY
+12/2012: CARDINAL
+Created: ORG
+Facebook: PERSON
+Twitter: PERSON
+Instagram and Pinterest: ORG
+Marketing Intern Company Name: ORG
+Mankato Marathon: ORG
+Ribfest: ORG
+Vikings Training Camp: ORG
+Training: PERSON
+2013: DATE

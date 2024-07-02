@@ -1,0 +1,149 @@
+TAM BUI: ORG
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Imaginary: GPE
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+DBA: ORG
+Mainframe: PERSON
+AS400: PRODUCT
+AR: ORG
+AP: ORG
+GL: ORG
+month end: DATE
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+DBA: ORG
+Mainframe: PERSON
+AS400: PRODUCT
+AR: ORG
+AP: ORG
+GL: ORG
+month end: DATE
+Strong: PERSON
+Strong: PERSON
+Strong: PERSON
+Work History
+Staff: WORK_OF_ART
+Jan 2005: DATE
+Name City: GPE
+monthly: DATE
+AP: ORG
+1099: DATE
+annually: DATE
+daily: DATE
+Accounting: ORG
+monthly: DATE
+Prepares: PERSON
+weekly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Maintain: PRODUCT
+Jan 2005: DATE
+Name City: GPE
+monthly: DATE
+AP: ORG
+1099: DATE
+annually: DATE
+daily: DATE
+Accounting: ORG
+monthly: DATE
+Prepares: PERSON
+weekly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Maintain: PRODUCT
+2017 - Current: DATE
+Name City: GPE
+State: ORG
+Validate: ORG
+Warranty/Royalty: ORG
+Update: ORG
+Prepare: ORG
+month: DATE
+Â Contact: ORG
+month end: DATE
+Jan 2005: DATE
+Name City: GPE
+monthly: DATE
+AP: ORG
+1099: DATE
+annually: DATE
+daily: DATE
+Accounting: ORG
+monthly: DATE
+Prepares: PERSON
+weekly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Maintain: PRODUCT
+2017 - Current: DATE
+Name City: GPE
+State: ORG
+Validate: ORG
+Warranty/Royalty: ORG
+Update: ORG
+Prepare: ORG
+month: DATE
+Â Contact: ORG
+month end: DATE
+May 2005 - Jun 2017: DATE
+Name City: GPE
+monthly: DATE
+AP: ORG
+1099: DATE
+annually: DATE
+daily: DATE
+Accounting: ORG
+monthly: DATE
+Prepares: PERSON
+weekly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Maintain: PRODUCT
+Controller: PERSON
+Jan 1999 - Jan 2004: DATE
+Name City: GPE
+monthly: DATE
+Accounts Payable, Accounts Receivable: ORG
+monthly: DATE
+quarterly: DATE
+year end: DATE
+Controller: PERSON
+Jan 1999 - Jan 2004: DATE
+Name City: GPE
+monthly: DATE
+Accounts Payable, Accounts Receivable: ORG
+monthly: DATE
+quarterly: DATE
+year end: DATE
+2017 - Current: DATE
+Name City: GPE
+State: ORG
+Validate: ORG
+Warranty/Royalty: ORG
+Update: ORG
+Prepare: ORG
+month: DATE
+Â Contact: ORG
+month end: DATE
+Skills
+Accounts Payable: ORG
+Bank Reconciliation: ORG
+Bachelor of Business Administration: ORG
+1999: DATE
+Western Michigan University City: ORG
+State 
+Accounting Business Administrative
+Bachelor of Business Administration Degree :: ORG
+1999: DATE
+Western Michigan University 
+
+Accounting Business Administrative: ORG

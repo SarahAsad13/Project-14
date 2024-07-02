@@ -1,0 +1,41 @@
+DIGITAL: ORG
+Skills
+Strong: ORG
+Facebook: PERSON
+Twitter: PERSON
+Google+: GPE
+LinkedIn: GPE
+Organize: GPE
+up to $20,000: MONEY
+6: CARDINAL
+Daily: DATE
+400%: PERCENT
+Organize: GPE
+up to $20,000: MONEY
+05/2012: CARDINAL
+6: CARDINAL
+Daily: DATE
+400%: PERCENT
+Organize: GPE
+up to $20,000: MONEY
+6: CARDINAL
+Ranked #1: WORK_OF_ART
+45: CARDINAL
+Created: ORG
+52%: PERCENT
+$20 Billion: MONEY
+Aerospace: ORG
+Automotive: GPE
+Cosmetics: ORG
+Dial Soap, Loctite: ORG
+Purex: GPE
+Schwarzkopf: GPE
+Got2B.
+Responsible: ORG
+the Cosmetics Division: ORG
+Training: PERSON
+2014: DATE
+Business Management Oakland University Marketing and Business Management: ORG
+Automotive: ORG
+Marketing and Research: ORG
+Soap: ORG

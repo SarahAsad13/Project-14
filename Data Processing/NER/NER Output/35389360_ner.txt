@@ -1,0 +1,211 @@
+7 plus years: DATE
+Microsoft: ORG
+Windows OS: ORG
+Windows Server: PERSON
+Mac OS: PERSON
+QA: ORG
+Microsoft: ORG
+Mac: PERSON
+IOS: ORG
+Linux: GPE
+Microsoft: ORG
+Highlights: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Exchange: ORG
+InfoPath: PERSON
+Onenote: PERSON
+Outlook, Project, Publisher: ORG
+Sharepoint(s: GPE
+Visual Studios: ORG
+ETC: ORG
+Expert
+Network Security: PRODUCT
+Expert
+Networking: Expert
+PC: PERSON
+Expert
+Windows & Mac: ORG
+Cat5: NORP
+VoIP: LOC
+TCP/IP: ORG
+IPSec: ORG
+ATM: ORG
+SS7: ORG
+IPX: ORG
+DNS: ORG
+BIND: ORG
+DHCP: ORG
+HSRP: ORG
+LAN/WAN: ORG
+Engineering Systems Installer: ORG
+August 2006 to January 2013 City: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Exchange: ORG
+InfoPath: PERSON
+Onenote: PERSON
+Outlook, Project: ORG
+Publisher: GPE
+Sharepoint(s: GPE
+Visual Studios: ORG
+ETC: ORG
+Remote Access: ORG
+Server: PERSON
+2008: DATE
+2012: DATE
+2000: DATE
+XP: ORG
+Vista: ORG
+IOS: ORG
+Software: ORG
+App Development: PERSON
+Troubleshoot: ORG
+Cisco: GPE
+Juniper Net-: PRODUCT
+CheckPoint: ORG
+Enterasys Dragon IDS/IPS: PERSON
+Remote Access: ORG
+Installed Home: ORG
+Home: ORG
+Custom PC's: PERSON
+Oversaw: GPE
+Created Project Tickets: ORG
+Ethernet: PRODUCT
+Performed: ORG
+Performed: ORG
+Cisco: GPE
+WAN: ORG
+LAN: ORG
+Transferred: PRODUCT
+Conducted: ORG
+On-site & Off: ORG
+24/7: CARDINAL
+NSF: ORG
+ACH: ORG
+Sys Admins: PERSON
+Provided 1st: CARDINAL
+2ed: ORDINAL
+Tier 2 Helpdesk: PERSON
+3000: CARDINAL
+2+ years: DATE
+Human Resources: ORG
+August 2013 to September 2014: DATE
+Microsoft: ORG
+InfoPath: PERSON
+OneNote: ORG
+SharePoint(s: GPE
+mac: PERSON
+Diagnose Network: ORG
+Remote: ORG
+95, 2000: DATE
+XP: ORG
+vista: ORG
+7: DATE
+8: DATE
+8.1: CARDINAL
+Windows Server: PERSON
+Linux: PERSON
+Created &: ORG
+HTML5: PERSON
+CSS3: GPE
+Php: PERSON
+Java: PERSON
+Java Script: PERSON
+Communicated: ORG
+Installation/Service: ORG
+July 2014: DATE
+Current Company Name
+
+Installed: ORG
+cat5: ORG
+cat6: GPE
+Timecard: ORG
+Update: ORG
+NSF: ORG
+Customer/New: ORG
+Hobbies & Interests Freelancing: ORG
+Web & App Development: ORG
+Network Administration: ORG
+Education: ORG
+CompTia Certification: ORG
+A+: NORP
+Cloud+: GPE
+Network+: GPE
+Security+: GPE
+Linux+ ITT Tech Electronics: ORG
+Baton Rouge: PERSON
+Louisiana: GPE
+2018: DATE
+Microsoft: ORG
+Baton Rouge: PERSON
+May 2013: DATE
+Glen Oaks: GPE
+a Computer Hardware, Entry to Software Development: PRODUCT
+Microsoft Office Certification: ORG
+Computer Hardware and Software Development: ORG
+Microsoft Office Certification - Received
+: ORG
+Certifications: WORK_OF_ART
+Expert Time Card/Management:: PERSON
+Advanced PHP: PERSON
+HTML HTML5: PERSON
+Php Frameworks: PERSON
+Advanced Linux: PERSON
+A+: PRODUCT
+Accounting: ORG
+Application Development: ORG
+Microsoft Applications: ORG
+ATM: ORG
+BIND: ORG
+CAT 5: ORG
+Cat5: GPE
+Cisco: GPE
+Computer Hardware: ORG
+Customer: ORG
+Database: GPE
+DHCP: ORG
+DNS, Electronics, Ethernet: ORG
+HTML5, Human Resources: ORG
+PHP: ORG
+IDS: ORG
+Inventory: ORG
+IPX: ORG
+Java: PERSON
+Java Script: PERSON
+LAN: ORG
+Team Leadership: ORG
+Linux: GPE
+Mac OS: PERSON
+Microsoft: ORG
+Access, Excel, Exchange: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Windows Applications: PERSON
+Windows: GPE
+2000: DATE
+Windows 95: PRODUCT
+Word: PERSON
+Mysql: GPE
+NSF: ORG
+Network Administration: ORG
+Network Security: ORG
+Network: ORG
+Networking: ORG
+Programming, Progress: WORK_OF_ART
+Software Development: ORG
+Switches: ORG
+TCP/IP, Technical: ORG
+Tech Support: PERSON
+Software Support: PERSON
+Telephone: ORG
+Troubleshoot: ORG
+Verbal Communication: ORG
+Vista: ORG
+Voice Over IP: ORG
+VoIP: LOC
+WAN: ORG
+Windows Server: PERSON
+Wiring: ORG

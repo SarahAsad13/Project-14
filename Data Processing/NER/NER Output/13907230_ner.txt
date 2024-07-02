@@ -1,0 +1,30 @@
+Science Construction Management: ORG
+Eastern Washington University City: ORG
+Spanish: NORP
+Colegio Delibes City: PERSON
+State: ORG
+Spain: GPE
+2015: DATE
+June 2015: DATE
+August 2015: DATE
+Name City: GPE
+State General Construction Intern
+
+Gathered: ORG
+Cooperated: ORG
+February 2015: DATE
+July 2015: DATE
+Name City: GPE
+June 2013: DATE
+July 2015: DATE
+Name City: GPE
+Washington State Department of Early Learning: ORG
+Washington State Law: ORG
+Efficiently: ORG
+monthly: DATE
+Bilingual: GPE
+Spanish: NORP
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Quality control & safety: ORG

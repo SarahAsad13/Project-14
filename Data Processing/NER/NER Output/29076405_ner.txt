@@ -1,0 +1,55 @@
+Jan 2016: DATE
+daily: DATE
+Â·Â Â Â Â Â: CARDINAL
+daily: DATE
+Resident: PERSON
+Corporate
+Office: ORG
+Company Standards: PRODUCT
+Specialist Jan 2014 to Jan 2016: DATE
+Interviews: ORG
+Tours: ORG
+weekly: DATE
+Yardi: PERSON
+Compiles: PRODUCT
+Composes: ORG
+Craigslist: NORP
+Specialist Jan 2011 to Jan 2014: DATE
+Property: ORG
+Demonstrate: ORG
+Fair Housing: ORG
+Update: ORG
+Distribute: ORG
+Gather: ORG
+Associate/: ORG
+Cashier Jan 2010 to Jan 2011: DATE
+1: MONEY
+Understand: GPE
+Clients Satisfaction: ORG
+Demonstrate: ORG
+Build: GPE
+Jun 2016: PERSON
+State: ORG
+Â·Â: CARDINAL
+daily: DATE
+Â·Â Â Â Â Â: CARDINAL
+Â·Â Â Â Â Â  : CARDINAL
+Â·Â Â Â Â Â  Record: CARDINAL
+daily: DATE
+Â·Â Â Â Â Â  Assist: CARDINAL
+Â·Â Â Â Â Â  Assist: CARDINAL
+Resident: PERSON
+Corporate Office: ORG
+Â·Â Â Â Â Â  Handle: CARDINAL
+Â·Â Â Â Â Â  Project: CARDINAL
+Company Standards: PRODUCT
+Tourism, Convention: ORG
+City: GPE
+English: LANGUAGE
+Read, Write, Speak: WORK_OF_ART
+Spanish: NORP
+Computer Skills: PERSON
+Microsoft: ORG
+Microsoft Power Point
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â: ORG
+Microsoft: ORG

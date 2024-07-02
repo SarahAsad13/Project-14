@@ -1,0 +1,64 @@
+Commercial Underwriter II: NORP
+Special Finance Management: ORG
+LTV & DTI: ORG
+Structured Negotiations: ORG
+Audit Controls: ORG
+December 2011 to February 2014: DATE
+202: CARDINAL
+126: CARDINAL
+57%: PERCENT
+the first 3 months: DATE
+#1 Dealer: MONEY
+1: MONEY
+the North East Texas Region: LOC
+the mid 80's to 96%: DATE
+25,000: MONEY
+monthly: DATE
+July 2007 to December 2011: DATE
+DRM: ORG
+State: ORG
+July 2007 - December 2011: DATE
+Chrysler: ORG
+Dodge Jeep RAM: ORG
+Chrysler Financial Corporation: ORG
+Maintained: GPE
+month end: DATE
+Chrysler Financial: ORG
+Coordinated: ORG
+Funding and Credit: ORG
+Chrysler Financial Corporation: ORG
+June 2001: DATE
+May 2007: DATE
+$10 million: MONEY
+Researched: ORG
+the Large Business Market Billing: ORG
+Billing Team: ORG
+Texas: GPE
+Knowledgeable: FAC
+Texas: GPE
+Electronic Data
+Interchange: ORG
+EDI: ORG
+Public Utilities Commission: ORG
+ISO 9001: ORG
+November 1995: DATE
+May 2001: DATE
+multi-million dollar: MONEY
+NYMEX: ORG
+Houston Ship
+Channel: PERSON
+STEPHEN F AUSTIN: PERSON
+General Business, Business Administration City: ORG
+State: GPE
+US: GPE
+STATE UNIVERSITY Nacogdoches: ORG
+TX BBA General Business, Business Administratio Expected Graduation: ORG
+August 2015: DATE
+TRINITY VALLEY COMMUNITY: ORG
+State: GPE
+US: GPE
+Palestine: GPE
+May 2011: DATE
+GPA: ORG
+3.91: CARDINAL
+10%: PERCENT

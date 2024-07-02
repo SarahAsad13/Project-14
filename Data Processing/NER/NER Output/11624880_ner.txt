@@ -1,0 +1,126 @@
+InDesign: ORG
+Microsoft Office: ORG
+Constant Contact and Mailchimp
+Etapestry
+
+Accomplishments: WORK_OF_ART
+2015: DATE
+Finalist - Association / Non-Profit: ORG
+Participants' Association's magazineâ€”The: ORG
+one year: DATE
+more than 2,500: CARDINAL
+VPP Participants' Association: ORG
+over $9,000: MONEY
+Susquehanna Life Magazine: ORG
+Current Company Name City: ORG
+more than 2,000: CARDINAL
+Created: ORG
+Wrote Ran: PERSON
+Facebook: PRODUCT
+09/2014 Company Name City: ORG
+over $9,000: MONEY
+Name City: GPE
+Server: ORG
+08/2011: CARDINAL
+Name City: GPE
+more than 100: CARDINAL
+12/2012: CARDINAL
+Name City: GPE
+State
+
+Met: ORG
+12/2012: CARDINAL
+Name City: GPE
+State
+
+Met: ORG
+Elon University Health and Human Performance: ORG
+Created: ORG
+Elon: PRODUCT
+the
+department of: ORG
+Health/Human Performance: ORG
+Department of Health/Human Performance: ORG
+Bachelor of Arts : Strategic Communications: ORG
+May 2014: DATE
+GPA: ORG
+3.71: CARDINAL
+List
+Fall 2010: WORK_OF_ART
+Spring 2011: EVENT
+2012: DATE
+Spring 2013: DATE
+Fall 2013: DATE
+Spring 2014: DATE
+National Communications
+Association: ORG
+National Social Science Honor Society: ORG
+the International Sociology Honor
+Society: EVENT
+3.71: CARDINAL
+List Fall 2010: EVENT
+Spring 2011: EVENT
+2012: DATE
+Strategic Communications: ORG
+3.71: CARDINAL
+List Fall 2010: EVENT
+Spring 2011: EVENT
+2012: DATE
+Spring 2013: DATE
+Fall 2013: DATE
+Spring 2014: DATE
+National Communications Association: ORG
+National Social Science Honor Society: ORG
+the International Sociology Honor Society: EVENT
+Public Relations Student Society of America: ORG
+1000: CARDINAL
+1500: CARDINAL
+Fall 2013: DATE
+Sustainable Alamance: PERSON
+over $1,000: MONEY
+Elon University's Student Government Association: ORG
+Theta Psi Alpha: PERSON
+Spring 2013: DATE
+House: ORG
+Spring 2013: DATE
+Australia: GPE
+winter: DATE
+January 2014: DATE
+Sydney: GPE
+Brisbane: PERSON
+Cairns: PERSON
+Melbourne: GPE
+Tasmania: GPE
+Media Writing: ORG
+Strategic Campaigns: PERSON
+Health Communications: ORG
+Public Relations & Civic Responsibility: ORG
+Corporate Publishing: ORG
+Capstone in Communications, Advertising: ORG
+Society: GPE
+Intro: ORG
+Public Relations Student Society of America: ORG
+1000: CARDINAL
+Contributor Received: PERSON
+1500: CARDINAL
+Fall 2013: DATE
+Sustainable Alamance: PERSON
+over $1,000: MONEY
+Elon University's: ORG
+Student
+Government Association: ORG
+Theta Psi Alpha: PERSON
+Spring 2013: DATE
+House: ORG
+Fall-Spring 2013: DATE
+Australia: GPE
+winter: DATE
+January 2014: DATE
+Sydney: GPE
+Cairns: PERSON
+Melbourne: GPE
+Tasmania: GPE
+Microsoft Office: ORG
+Constant Contact, Mailchimp
+
+: WORK_OF_ART

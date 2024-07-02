@@ -1,0 +1,80 @@
+month: DATE
+year end: DATE
+Highlights
+MS Word: WORK_OF_ART
+PowerPoint: ORG
+Outlook, Access: ORG
+Excel: PRODUCT
+Creative Solutions: PERSON
+QuickBooks: ORG
+Fedielio (Hotels: ORG
+Tax Express: ORG
+18 years: DATE
+month: DATE
+year end: DATE
+June 2013: DATE
+45: CARDINAL
+Profit: PRODUCT
+Prepare: ORG
+Team: ORG
+month-end: DATE
+year-end: DATE
+Complete: PERSON
+February 2008 to March 2013: DATE
+monthly: DATE
+Prepare: ORG
+monthly: DATE
+Plans: NORP
+Complex: NORP
+month-end: DATE
+year-end: DATE
+Evaluates: NORP
+January 2000 to January 2007: DATE
+Prepaid Expenses: PERSON
+Deposits: PERSON
+Accrued Expenses, Investments: ORG
+Capital Leases: ORG
+Journal Entries: ORG
+breakeven: CARDINAL
+Accountant Finance: PERSON
+January 1996 to January 2000: DATE
+monthly: DATE
+quarterly: DATE
+year end: DATE
+GL: ORG
+Controller: PERSON
+daily: DATE
+Accountancy: GPE
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.48: CARDINAL
+GPA: ORG
+3.48: CARDINAL
+July 2010: DATE
+Stockholm University: ORG
+April 2011: DATE
+Accountancy Walsh College: ORG
+English: LANGUAGE
+Arabic: LANGUAGE
+Swedish: NORP
+Skills: ORG
+Arabic: NORP
+Strong: PERSON
+Controller: PERSON
+English: LANGUAGE
+Fixed Assets: ORG
+GL: ORG
+Investments: ORG
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+MS Word: PERSON
+Profit, Profit: ORG
+Public Accounting: ORG
+Express: ORG
+QuickBooks: ORG
+Swedish: NORP
+Tax: PERSON
+year-end: DATE

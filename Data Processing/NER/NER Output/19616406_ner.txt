@@ -1,0 +1,89 @@
+10 years: DATE
+Employee Relations: ORG
+401k
+Management, Payroll: ORG
+EEOC: ORG
+AAP: ORG
+DOT: ORG
+Workers Compensation &Â Safety: ORG
+Payroll: ORG
+May 2005: DATE
+Current Company Name: ORG
+Advertising, Staffing Agencies: WORK_OF_ART
+Applicant: PERSON
+Interviews: ORG
+Presented Job: LOC
+I-9 & E-Verify Administration: ORG
+New Hire Reporting: FAC
+HR &
+Safety Orientation
+Benefit Â Â Â  Administration: ORG
+Dental: ORG
+Vision, Life Insurance: ORG
+Employee Assistance Program: ORG
+Loan Agreements & Deductions, Uniforms, Audits: ORG
+notification & 5500: ORG
+401k Administrator â€“Tracked New Employee Eligibility, Established Quarterly Enrollment Meetings, Administered Employee &
+Employer Deferral Calculations & Submissions: WORK_OF_ART
+Mandatory Compliance Mailings & Plan
+Document Administration: ORG
+weekly: DATE
+Company Communication - Employee: ORG
+Intranet postings & e-mail: ORG
+Initial Qualification Requirements: ORG
+Time: ORG
+necessaryÂ: ORG
+Annual: DATE
+annual: DATE
+managers & provided: ORG
+Disciplinary Action & Terminations: ORG
+Â 
+: ORG
+WorkOne: PERSON
+Workers Compensation: ORG
+First: ORDINAL
+OSHA: ORG
+year-end: DATE
+files & advises: ORG
+Indiana Worker's Compensation: ORG
+FAA: ORG
+DER: ORG
+Federal DrugÂ Program: ORG
+quarterly: DATE
+annual: DATE
+annual: DATE
+MIS
+Reports: PERSON
+FAA: ORG
+every 2 years &: DATE
+EEOC: WORK_OF_ART
+Affirmative Action Plan: WORK_OF_ART
+EEOC: ORG
+annual: DATE
+Reviews: NORP
+annual: DATE
+EEO1 Report & Veterans
+Reports
+
+Education
+Psychology Indiana University: ORG
+ï¼​ City: GPE
+State: ORG
+1 Year: DATE
+Certificate : Human Resources Indiana University: WORK_OF_ART
+ï¼​ City: GPE
+Notary: GPE
+Skills: ORG
+Ads: PERSON
+Documentation: ORG
+Ledger: PERSON
+Hiring: GPE
+HRIS: ORG
+Human Resource: ORG
+Insurance: ORG
+Law: PERSON
+Meetings: GPE
+MIS: ORG
+Payroll: ORG
+Personnel: ORG
+Safety: ORG

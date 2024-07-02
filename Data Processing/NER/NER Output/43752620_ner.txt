@@ -1,0 +1,107 @@
+Automotive Engineer: ORG
+Systems Engineer: ORG
+Skills: ORG
+Ansys: PERSON
+Cero: GPE
+HyperMesh: PERSON
+DFMEA: ORG
+MS Office Suite: ORG
+Fortran: GPE
+MATLAB/Simulink: ORG
+CNC Programming: ORG
+Dec 2016: DATE
+Simulation and Analysis: ORG
+6: CARDINAL
+FWD: ORG
+University of Michigan-Dearborn: ORG
+March 2017: DATE
+1st: ORDINAL
+1: CARDINAL
+2nd: DATE
+1st: DATE
+1: CARDINAL
+15 mph: QUANTITY
+2nd: ORDINAL
+2 seconds: TIME
+MATLAB/Simulink: ORG
+Vehicle: ORG
+University of Michigan-Dearborn: ORG
+November 2016: DATE
+four: CARDINAL
+Computational Analysis of Hemispherical Radiating Fin: ORG
+Visvesvaraya Technological University: ORG
+April 2015: DATE
+two: CARDINAL
+Finite Difference Method: ORG
+Gauss-Seidel: PERSON
+95: CARDINAL
+Determined Heat: ORG
+3: CARDINAL
+Jan 2016: DATE
+Maruti Suzuki India Limited: ORG
+5S: CARDINAL
+Kaizen: PERSON
+Engines: ORG
+EGR: ORG
+VVT systems: ORG
+Gained: NORP
+Assisted: ORG
+SDT: ORG
+Suzuki Diagnostic Tool: ORG
+2014: DATE
+Witnessed: LOC
+Mid-Size: ORG
+University of Michigan-Dearborn: ORG
+September 2016: DATE
+Collected Customer: ORG
+Developed Pugh Diagrams: ORG
+QFD: ORG
+Instrument Panel: ORG
+University of Michigan-Dearborn: ORG
+October 2016: DATE
+the Quality Function Deployment: ORG
+Business Plan Development: ORG
+University of Michigan-Dearborn: ORG
+November 2016: DATE
+Developed Gantt: PERSON
+System Engineering 'V: WORK_OF_ART
+Training
+Master of Science , Automotive Systems: WORK_OF_ART
+May 2018: DATE
+City: GPE
+State Automotive Systems Engineering: ORG
+3.72: CARDINAL
+Bachelor of Engineering ,: ORG
+June 2015: DATE
+Visvesvaraya Technological University: ORG
+ï¼​ City: GPE
+India Mechanical Engineering: ORG
+75.35: CARDINAL
+Certifications: WORK_OF_ART
+Automotive Powertrains: PERSON
+Vehicle Thermal Management: ORG
+Strength of Materials, Design of Machine
+Elements: ORG
+Heat Transfer: PERSON
+Ansys: PERSON
+Automotive: ORG
+Benchmarking, Business Plan Development: ORG
+CNC: ORG
+FORTRAN: ORG
+Materials: PRODUCT
+MATLAB: ORG
+MS Office Suite: ORG
+Processes: PERSON
+INSERTABLE: ORG
+Visvesvaraya Technological University: ORG
+Non-Resident Graduate Scholarship Recipient: ORG
+Fall 2016: DATE
+Winter 2017: DATE
+University of
+: ORG
+Michigan-Dearborn: ORG
+10: CARDINAL
+140: CARDINAL
+PES Institute of Technology South Campus: ORG
+Visvesvaraya Technological
+University: ORG

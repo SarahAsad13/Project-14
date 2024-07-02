@@ -1,0 +1,125 @@
+Media Marketing & Advertising - Print: ORG
+Broadcast: LOC
+PR Management Vendor & Sponsor Negotiations
+Market Research & Competitive Analysis: ORG
+Multi Media Marketing & Advertising - Print: ORG
+Broadcast: LOC
+Image Development & Management: ORG
+Market Research & Competitive Analysis: ORG
+first year: DATE
+between $1.8 M - $15M: MONEY
+Collaborated: ORG
+over 100: CARDINAL
+P& L: ORG
+sports & music agents: ORG
+$10 M: MONEY
+Artist: PERSON
+first year: DATE
+January 2011: DATE
+Name City: GPE
+State: ORG
+January 2011: DATE
+Name City: GPE
+State: ORG
+P& L: ORG
+sports & music agents: ORG
+daily: DATE
+Collaborated: ORG
+8: CARDINAL
+5: CARDINAL
+3: CARDINAL
+Liaison: PERSON
+April 2009 to June 2011: DATE
+Name City: GPE
+State Executive Brand Consultant / Brand: ORG
+Kemistre 8 / Oved Apparel Group Provided: PERSON
+Oved Apparel: ORG
+Akademiks: ORG
+PRPS/PRPS Goods: ORG
+Parish Nation: ORG
+Born Fly Co Developed: PERSON
+Researched &: ORG
+January 2004 to August 2009: DATE
+Name City: GPE
+State: ORG
+$8M: MONEY
+15M.: MONEY
+five: CARDINAL
+Akoo: PERSON
+Cloths: WORK_OF_ART
+rap star: ORG
+T.I.: GPE
+10: CARDINAL
+first year: DATE
+Researched: ORG
+January 2001 to December 2004: DATE
+Name City: GPE
+State: ORG
+MIA: ORG
+Kid Sister, DJ Clue: ORG
+Keyshia Cole & Allen Iverson: ORG
+5: CARDINAL
+the Akademiks Clothing Company: ORG
+3rd: ORDINAL
+its first year: DATE
+Researched: ORG
+Akademiks: ORG
+JadaKiss: ORG
+first year: DATE
+$9 million dollars: MONEY
+The Mix Show Power Summit: WORK_OF_ART
+South Beach: GPE
+Miami: GPE
+February 1998 to July 2001: DATE
+Name City: GPE
+Radio Marketing & Promotions: ORG
+Interscope: PRODUCT
+JadaKiss: ORG
+Eminem Gwen Stefani: PERSON
+50 cent: MONEY
+Critical: ORG
+Ruff Ryder Ent: ORG
+Shady Records: PERSON
+Aftermath Records &: ORG
+TDE: ORG
+Kendrick Lamar: PERSON
+Interscope Records: ORG
+Dre: PERSON
+BEP: ORG
+Fergie: ORG
+Lifestyle Brands: ORG
+Arista: PERSON
+Conducted Sales: ORG
+Maintained: GPE
+quarterly: DATE
+20: CARDINAL
+A&R Consulting: ORG
+March 1994 to July 1998: DATE
+Name City: GPE
+State Sr National Director of Marketing
+
+Created: ORG
+100 Million: CARDINAL
+Bad Boy: PERSON
+LaFace: PERSON
+20: CARDINAL
+Arista: PERSON
+Whitney Houston: PERSON
+Tony Braxton: PERSON
+Arista: PERSON
+Conducted Soundscan: ORG
+Maintained: GPE
+quarterly: DATE
+20: CARDINAL
+one: CARDINAL
+Arista: PERSON
+years: DATE
+$ 365 Million: MONEY
+one year: DATE
+1996: DATE
+Binghamton University: ORG
+State: ORG
+Broome Marketing / Business Admin 
+Bachelor of Science
+Skills: ORG
+Design: PRODUCT

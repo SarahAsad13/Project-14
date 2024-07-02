@@ -1,0 +1,65 @@
+Client: GPE
+Quick: FAC
+Microsoft Office: ORG
+09/2016: PRODUCT
+Assist: NORP
+Assist: NORP
+06/2016: PRODUCT
+09/2016: CARDINAL
+Customer Service Representative Company Name: ORG
+toÂ: CARDINAL
+Sold Auto: ORG
+Marine: NORP
+Renters: NORP
+MVR: ORG
+Provided additionalÂ: LOC
+06/2016: CARDINAL
+Customer Service Representative Company Name: ORG
+Processed: GPE
+toÂ: CARDINAL
+Sold Auto: ORG
+Marine: NORP
+Renters: NORP
+MVR: ORG
+Provided additionalÂ: LOC
+05/2012: CARDINAL
+09/2014
+Administrative: ORG
+Commercial / Personal Lines CSR Company Name: ORG
+Created: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Processed: GPE
+12/2007 to 05/2012: DATE
+the insuranceÂ risksÂ: ORG
+daily: DATE
+CAD: ORG
+96%: PERCENT
+Personal Lines Customer Service: ORG
+Applied, Word,: ORG
+Excel: PRODUCT
+Applied, Word,: ORG
+Excel: PRODUCT
+twelve: CARDINAL
+monthly: DATE
+California: GPE
+Nevada: GPE
+Monitored: ORG
+09/1999: CARDINAL
+Customer Service Team Lead Company Name: ORG
+State: ORG
+Oversaw: GPE
+the Customer Service Associates: ORG
+toÂ: CARDINAL
+daily: DATE
+toÂ: CARDINAL
+California Property and Casualty Insurance: ORG
+Insurance Educational Association ï¼​ City: ORG
+Tourism Travel: ORG
+Tourism Institute ï¼​ City: ORG
+Skills
+
+Client Relations: ORG
+Computer Proficient: ORG
+Customer: ORG
+Clerical: ORG

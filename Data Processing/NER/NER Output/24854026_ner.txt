@@ -1,0 +1,53 @@
+10+ years: DATE
+financial planning & analysis: ORG
+treasury: ORG
+Highlights
+
+Financial: ORG
+February 2016: DATE
+monthly: DATE
+SQL: PERSON
+Oracle Business Intelligence Enterprise: ORG
+Access: PRODUCT
+Excel: PRODUCT
+VBA: ORG
+Supports M&A/divestitures: ORG
+April 2009 to February 2016: DATE
+282: CARDINAL
+5,744: CARDINAL
+iPhone: ORG
+annual: DATE
+3.9M+: MONEY
+ReconNET reconciliation & journalization: ORG
+Sarbanes Oxley: PERSON
+month: DATE
+Temporary: ORG
+Finance: ORG
+Softcard: ORG
+February 2007 to: DATE
+April 2009: DATE
+Retail Analyst: PERSON
+weekly: DATE
+monthly: DATE
+daily: DATE
+May 2005: DATE
+February 2007: DATE
+Treasury: ORG
+Processed: GPE
+month: DATE
+STEVENS INSTITUTE OF TECHNOLOGY: ORG
+State Management: ORG
+SETON HALL UNIVERSITY: ORG
+State Business Administration Finance: ORG
+Skills
+Ad: ORG
+Finance: ORG
+Marketing, Access,: ORG
+Excel: PRODUCT
+month end: DATE
+Enterprise: ORG
+Oracle: ORG
+Sarbanes Oxley: PERSON
+SQL: PERSON
+Teradata: ORG
+VBA: ORG

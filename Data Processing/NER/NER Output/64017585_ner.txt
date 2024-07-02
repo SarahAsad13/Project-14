@@ -1,0 +1,48 @@
+January 2017: DATE
+Current Company Name: ORG
+Conducted: ORG
+Partner: PERSON
+August 2015 to January 2017: DATE
+eCommerce: ORG
+six: CARDINAL
+15: CARDINAL
+Sales and Service: ORG
+DMV: ORG
+FreshDirect.com: ORG
+CTO: ORG
+May 2012 to August 2015: DATE
+New York: GPE
+Solutions: FAC
+Infrastructure/ Network: ORG
+Bronx Museum of Arts: ORG
+Leftfield Pictures: ORG
+August 2010: DATE
+May 2012: DATE
+ten: CARDINAL
+Ogilvy: ORG
+North American: NORP
+Key Accomplishment: LOC
+Lotus: ORG
+Notes: PRODUCT
+MS Exchange: ORG
+Cloud: PERSON
+Training: PERSON
+Graphic Design Computer Science: ORG
+1993: DATE
+University Print Production: ORG
+Graphic Design Computer Science
+Technical Skills: ORG
+Advertising: PERSON
+IBM AIX: ORG
+Apple: ORG
+Arts: ORG
+eCommerce: PRODUCT
+Final Cut Pro: ORG
+SGI Irix: ORG
+Linux: GPE
+Logic: ORG
+Lotus Notes: PRODUCT
+Microsoft Exchange: ORG
+MS Exchange: ORG
+Mail: GPE
+Prepress: PERSON

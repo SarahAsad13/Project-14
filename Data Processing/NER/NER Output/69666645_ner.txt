@@ -1,0 +1,62 @@
+Skills
+
+Patient: ORG
+Instrument: ORG
+Surgical: ORG
+Anesthetic: ORG
+Blood: PRODUCT
+Swine: ORG
+Swine: ORG
+Radiology
+Surgical: ORG
+Digital X-ray
+Film X-ray
+Ultrasound
+
+Vaccination: ORG
+Swine: ORG
+Ovine: NORP
+Animal CPCR
+Administer: PRODUCT
+Centrifuge: PERSON
+Spay: LOC
+Leukemia/FIV: ORG
+anesthesia: GPE
+IV: GPE
+Trainer/Waitress/Bartender/Shift: ORG
+Company Name: PERSON
+the United States: GPE
+one: CARDINAL
+02/2000: CARDINAL
+Receptionist Company Name: ORG
+Front: ORG
+Answer: LOC
+2017: DATE
+Associate of Applied Science :: WORK_OF_ART
+State: GPE
+USA: GPE
+American Veterinary Medical Association: ORG
+GPA: ORG
+3.64: CARDINAL
+1996: DATE
+Coweta High School ï¼​ City: ORG
+State: GPE
+USA: GPE
+Selected Training and Certifications
+
+Anatomy and Physiology: ORG
+Breeds: GPE
+Restraint: ORG
+First Aid
+Veterinary Terminology
+Radiology
+Pharmacology
+Clinics: ORG
+Advanced Clinics: ORG
+VTSE: ORG
+August 8, 2017: DATE
+VTNE: ORG
+August 14, 2017: DATE
+VTSA: ORG
+the International Honor Society-Phi Theta Kappa: ORG
+Shine: PERSON

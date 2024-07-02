@@ -1,0 +1,103 @@
+Health and Fitness Industry, Service Industry: ORG
+Medical Recruiting Industry: ORG
+Customer Service Industry: ORG
+Highlights: GPE
+Microsoft: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+MS Office: ORG
+Recruiter: PERSON
+May 2013 to July 2015: DATE
+4 months: DATE
+2: CARDINAL
+20-30: CARDINAL
+monthly: DATE
+quarterly: DATE
+Researched: ORG
+Maintained: GPE
+Communicated: ORG
+Current Allen: PERSON
+September 2009: DATE
+weekly: DATE
+Dallas: GPE
+TX Coursework in Exercise Science and Nutrition Science Sourcing Services International: ORG
+Devised: ORG
+Microsoft Excel: ORG
+Motion, Energy Fitness: ORG
+monthly: DATE
+Associate of Science : Nursing Collin County Community College Nursing
+Coursework in Human Anatomy and Physiology Certified Nutritionist Attended Sports Nutrition: WORK_OF_ART
+Certified Weight Management: ORG
+2004: DATE
+US: GPE
+Interests
+Big Brothers: ORG
+Dallas: GPE
+Texas: GPE
+2002-2004: DATE
+RaceFor: EVENT
+Dallas: GPE
+Texas: GPE
+2008: DATE
+Dallas: GPE
+McKinney: PERSON
+Texas: GPE
+2009: DATE
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Alumni-Action for Autism: ORG
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Dallas: GPE
+Arena Football League: ORG
+Dallas: GPE
+Texas: GPE
+2013: DATE
+Skills
+Anatomy: ORG
+Management Consultant: PERSON
+Microsoft Excel: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+MS Office: ORG
+Power Point: PRODUCT
+Microsoft: ORG
+Volunteer Experiences Big Brothers: PRODUCT
+Dallas: GPE
+Texas: GPE
+2002-2004: DATE
+Race For The Cure: WORK_OF_ART
+Dallas: GPE
+Texas: GPE
+2008: DATE
+Humanity: PERSON
+Dallas: GPE
+McKinney: PERSON
+Texas: GPE
+2009: DATE
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Alumni-Action for Autism: ORG
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Dallas: GPE
+Texas: GPE
+2012: DATE
+Dallas: GPE
+Arena Football League: ORG
+Dallas: GPE
+Texas: GPE
+2013: CARDINAL
+Interests Golf Rock Climbing Yoga Hiking Paddle Boarding Crossfit Group/Team Motivating Giving Back/Helping: ORG
+TX: PERSON
+2004: DATE
+US: GPE
+2013: DATE
+US: GPE

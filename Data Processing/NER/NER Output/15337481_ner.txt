@@ -1,0 +1,39 @@
+Customer Service Specialist: ORG
+Seasoned: PRODUCT
+Sharp: ORG
+Time: ORG
+Customer Service Advocate 09/2014: ORG
+03/2015 Company Name City: ORG
+Maintained: GPE
+10/2015: CARDINAL
+Name City: GPE
+the Accounts Receivable Department: ORG
+Customer: PERSON
+Complete: ORG
+Name City: GPE
+Customer: PERSON
+the Accounts Receivable Department: ORG
+10/2009: CARDINAL
+Name City: GPE
+Relates: ORG
+Name City: GPE
+06/2004: CARDINAL
+12/2006: CARDINAL
+Name City: GPE
+daily: DATE
+Associate of Science : Health Administration: ORG
+El Centro Community College City: ORG
+State: ORG
+Health Administration
+
+State
+: ORG
+Microsoft: ORG
+Suite: PERSON
+RightFax Ventura: PRODUCT
+Lotus Notes: PRODUCT
+10: CARDINAL
+Data Entry
+Dispatch
+Collections
+Customer Service: ORG

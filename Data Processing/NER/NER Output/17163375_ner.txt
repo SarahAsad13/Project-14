@@ -1,0 +1,43 @@
+ABA THERAPIST: PERSON
+Applied Behavior: ORG
+May 2015: DATE
+August 2017: DATE
+Name City: GPE
+State: ORG
+8:30 am to 4:30 pm: TIME
+Monday: DATE
+Friday: DATE
+one: CARDINAL
+morning: TIME
+afternoon: TIME
+Maintained: GPE
+Collaborated: ORG
+monthly: DATE
+Program: ORG
+March 2015: DATE
+Name City: GPE
+State Fitness Consultant
+
+: ORG
+Keep: PERSON
+Answer: LOC
+Training: PERSON
+2018: DATE
+Purdue University City: ORG
+Behavioral Sciences: ORG
+the Catholic Life Committee: ORG
+Riley Children's: ORG
+Hospital
+Created: ORG
+the Freshman Buddies Program: ORG
+Won the Saint Theresa of: WORK_OF_ART
+Kappa: PERSON
+a year: DATE
+the Purdue University Dance Marathon committeeÂ 
+Volunteered: ORG
+hours: TIME
+Skills
+
+Conversational: ORG
+Microsoft: ORG
+CPR/AED Certified: ORG

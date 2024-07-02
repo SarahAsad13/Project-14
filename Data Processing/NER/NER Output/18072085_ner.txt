@@ -1,0 +1,143 @@
+Alert: PERSON
+Articulate: ORG
+Dependable, Responsible: ORG
+Independent and Hardworking: ORG
+Honesty: GPE
+Family, Decisiveness: ORG
+the Year Year: EVENT
+MBS Accounting Services cc Awards :Emerald Award: ORG
+Dedication: NORP
+2010: DATE
+first quarter: DATE
+Anglo American: NORP
+GSS: ORG
+EMEA) Accounting Services Awards :Amber Award: ORG
+Dedication: NORP
+2010: DATE
+last quarter: DATE
+Anglo American: NORP
+GSS: ORG
+EMEA) Accounting Services Personal
+Strengths & Profile
+Professional Experience
+Finance: ORG
+January 2015 to December 2015: DATE
+Processing & Issuing: ORG
+Purchase: PERSON
+Submit Supplier Invoices: ORG
+Follow: PERSON
+Processing quotations & invoices on system: ORG
+Submit: ORG
+Daily: ORG
+Invoices, Submitting: ORG
+Maintaining Asset Register: ORG
+Reconciliations: PERSON
+Suppliers: ORG
+Send Proof: ORG
+Audit: ORG
+Monthly: DATE
+Request: ORG
+Commercial Venture: ORG
+Handover: GPE
+Monthly: DATE
+FNB Business: ORG
+Nedbank Business: ORG
+two: CARDINAL
+Nedbank Procurement & Credit Cards: ORG
+weekly: DATE
+Nedbank: ORG
+Allocate: ORG
+Compile: PRODUCT
+the 15th of each month: DATE
+Creating New Files: PERSON
+Filling: ORG
+Office
+Administration: ORG
+Monthly: DATE
+University of
+: ORG
+Johannesburg: GPE
+CaseWare: ORG
+35: CARDINAL
+Fixed Asset Management: ORG
+6 months: DATE
+August 2013 to January 2015: DATE
+General Ledger System Management: ORG
+Produce Monthly Budget Variance Report: ORG
+Perform Month-end: DATE
+Reconciliations: PERSON
+Prepare Monthly Management Reports: ORG
+Distribute to Management: ORG
+Participate in Budgeting and Forecasting: WORK_OF_ART
+3 Year: DATE
+Audit: ORG
+Prepare Annual Tax Returns: ORG
+Monthly: DATE
+Calculate: ORG
+monthly: DATE
+Allocate: ORG
+each month: DATE
+MTN: ORG
+Cell C: ORG
+Vodacom: NORP
+monthly: DATE
+Calculating: PERSON
+at least 1 year: DATE
+September 2009 to August 2013: DATE
+the Anglo American Group: ORG
+Global Shared Service: ORG
+Anglo American: NORP
+Depreciation: ORG
+Anglo Coal: GPE
+Trainee Accountant - SAICA Trainee: PERSON
+September 2007 to September 2009: DATE
+VAT: ORG
+Manual IRP5's: PERSON
+EMP501: TIME
+Bank Reconciliation: ORG
+Advising Clients: ORG
+Financial: ORG
+Debtors Reconciliation, Creditors Recon: ORG
+Fixed Asset Register: ORG
+Professional Training
+National Diploma : Internal Auditing: ORG
+Walter Sisulu University of Technology ï¼​ City: ORG
+State: GPE
+South Africa: GPE
+Secondary School ï¼​ City: ORG
+State: ORG
+South Africa: GPE
+Internal Auditing University of South Africa: ORG
+City: GPE
+State: GPE
+South Africa: GPE
+8 modules: QUANTITY
+3rd year: DATE
+English: LANGUAGE
+IsiXhosa: ORG
+IsiZulu: GPE
+8209030804081: CARDINAL
+South African: NORP
+Skills
+Accounting: ORG
+General Accounting: ORG
+Accountant, Articulate, Balance, Balance Sheet: ORG
+Bank Reconciliation: ORG
+Budget: ORG
+CaseWare: ORG
+Cash Management: ORG
+English: LANGUAGE
+Filling, Finance: ORG
+Financial Management: ORG
+Financial Statements: ORG
+Fixed Asset Register: ORG
+Forecasting: ORG
+General Ledger, Hyperion, Invoicing, Leadership, Managing,: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word, Office Administration: ORG
+Shared Service: ORG
+Tax: PERSON
+Tax Returns: PERSON
+VAT Returns: PERSON

@@ -1,0 +1,124 @@
+10 years: DATE
+Information Technology Support and Technical Operations: ORG
+the Federal Government: ORG
+Business Systems: ORG
+Network Operations: ORG
+System Analysis: WORK_OF_ART
+daily: DATE
+Microsoft: ORG
+2010: DATE
+February 2015: DATE
+May 2016: DATE
+Information Technology Specialist/System Analysis 
+City: ORG
+Microsoft: ORG
+2013: DATE
+the Department of The Army: ORG
+Joint Service Provider, Information Technology Agency: ORG
+DISA: ORG
+Teleconference Team: PERSON
+Army G-3-5-7staff: ORG
+Serve as Contract Office Representative: ORG
+Verizon: LOC
+Wide Area Work Flow: ORG
+Remedy: PERSON
+Coordinate: FAC
+Technical Assessment and Cost Estimate: ORG
+ISDN: GPE
+VOIP: ORG
+1500: CARDINAL
+Verizon: LOC
+G-3-5-7's: PRODUCT
+Army: ORG
+G-3-5-7: PRODUCT
+Evaluate: ORG
+Army: ORG
+October 2013 to December 2014: DATE
+Information Technology Specialist/Network Administrator 
+City: ORG
+HP Business Services: ORG
+HP Network Node: ORG
+UNIX: ORG
+Schedule: ORG
+Boeing: ORG
+AT&T: ORG
+Break/Fix: WORK_OF_ART
+LAN: ORG
+SPARK: ORG
+Same Time Lotus Notes: ORG
+Microsoft: ORG
+Network Data Viewer: ORG
+NDV: ORG
+Remedy: PERSON
+Riverbed: ORG
+Names and Address Management System: ORG
+NAMS: ORG
+Circuit Design & Configuration: ORG
+CDC: ORG
+Cisco: GPE
+April 2005 to July 2013: DATE
+ATT: ORG
+Polygram: NORP
+Microsoft: ORG
+Windows 7: PRODUCT
+Ghost: NORP
+Dame Ware: FAC
+Microsoft: ORG
+Active Directory: PERSON
+Resource Access Control Facility: ORG
+LAN: ORG
+over 100: CARDINAL
+Maintained: GPE
+Germany: GPE
+daily: DATE
+four: CARDINAL
+Installs: GPE
+Signal: NORP
+Installs: GPE
+Performs Signal: ORG
+Signal: ORG
+Operates: NORP
+Signal: NORP
+Signal: ORG
+Installs: GPE
+Alert: PERSON
+March 2004 to April 2006: DATE
+DOT: ORG
+Occulink: PERSON
+Microsoft: ORG
+Correspond: PERSON
+Organizes: PERSON
+weekly: DATE
+weekly: DATE
+Oversee: ORG
+Develop: ORG
+2017: DATE
+State: ORG
+SAINT LEO UNIVERSITY: ORG
+2015: CARDINAL
+Bachelor of Business Administration: ORG
+Management City: GPE
+State: ORG
+Liberal Arts City: PERSON
+Information Systems: ORG
+Operation Iraq Freedom Award: EVENT
+Golden Harvest: FAC
+Non-Commission: ORG
+the Month: DATE
+December 2012: DATE
+Battalion Non-Commission: ORG
+the year March 2012: DATE
+Skills
+
+Active Directory: ORG
+Microsoft: ORG
+2013: DATE
+Circuit Design: ORG
+UNIX: ORG
+Microsoft Windows: ORG
+Imaging: GPE
+WAN: ORG
+LAN: ORG
+Lotus Notes: ORG
+Life Cycle Replacement: ORG
+Cisco: GPE

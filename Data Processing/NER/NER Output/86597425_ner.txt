@@ -1,0 +1,67 @@
+Excel: PRODUCT
+PowerPoint: ORG
+Skills: ORG
+Articulate: ORG
+Customer: ORG
+Payroll: ORG
+Flexible
+Accurate: PERSON
+Prepared: PERSON
+Integrated: NORP
+Communicated: ORG
+Principal: NORP
+Karen Noble: PERSON
+Completed: ORG
+each year: DATE
+Created: ORG
+Second Grade: FAC
+08/2007: PERSON
+Completed: ORG
+each year: DATE
+Maintained: GPE
+DIBELS Next: ORG
+Leveled Reading Passages: ORG
+Created: ORG
+Cooperated: ORG
+Bachelor of Science : Interdisciplinary Studies(Business, Geology: ORG
+Elementary Education: ORG
+2003: DATE
+Lamar University: ORG
+Beaumont - City: GPE
+GPA: ORG
+3.7: CARDINAL
+Education: ORG
+Â History: PERSON
+Elementary Education: ORG
+3.7: CARDINAL
+Coursework in Business Administration: ORG
+Microsoft Office Applications (Excel: ORG
+PowerPoint: ORG
+Word: PERSON
+Lamar University: ORG
+Exxon Mobil Site Specific Industrial Safety
+Training Council Texas Property/Casualty and Life/Health Insurance Licenses: ORG
+Skills
+Accounting: ORG
+Basic, Billing: ORG
+Council: ORG
+Customer: ORG
+Data: ORG
+EDUCATOR: ORG
+Filing: GPE
+Excel: PRODUCT
+Microsoft Office Applications: ORG
+PowerPoint: PRODUCT
+Word: PERSON
+Payroll: ORG
+Researching, Research, Safety, Sales: ORG
+60: CARDINAL
+American College Students Elected: ORG
+the Honor Society of Phi: ORG
+American College Students Elected: ORG
+the Honor Society of Phi: ORG
+Kappa Phi Elected: PERSON
+the Honor Society of Phi Theta Kappa: ORG
+Samuel Evans: PERSON
+Roy A.: PERSON
+Robert Rauschenburg Scholarship: PERSON

@@ -1,0 +1,113 @@
+Skill Highlights: PERSON
+HR Department Startup: ORG
+Three: CARDINAL
+Worker's Compensation Administration
+Orientation & On-Boarding
+HRIS Technologies
+Training & Development
+Performance Management
+Organizational Development: ORG
+HRIS: PERSON
+Lawson: PERSON
+Paychex: GPE
+Kronos: ORG
+ADP: ORG
+MS Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access,: ORG
+Visio: PERSON
+Jan 2015: DATE
+Key Results: LOC
+Foster: PERSON
+Identify: ORG
+Develop: ORG
+Recruit: ORG
+Health, Dental: ORG
+Vision: ORG
+VSTD: ORG
+VLTD: ORG
+46% to 5%: PERCENT
+my first month: DATE
+Jan 2013 to Jan 2015: DATE
+Operations: ORG
+Corporate: ORG
+Key Results: LOC
+220: CARDINAL
+hourly: TIME
+27: CARDINAL
+day: DATE
+season: DATE
+Peak: PERSON
+1800: CARDINAL
+over 3 million: CARDINAL
+Black Friday to Christmas: EVENT
+Influence: ORG
+Corporate: ORG
+Operations: ORG
+Fanatics: NORP
+Coach: ORG
+State: ORG
+Improve: ORG
+Jan 2008 to Jan 2012: DATE
+2: CARDINAL
+approximately 184: CARDINAL
+Key Results: LOC
+five: CARDINAL
+one: CARDINAL
+Non-Profit: ORG
+Structured: ORG
+85%: PERCENT
+more than 100: CARDINAL
+Physicians: NORP
+COO: ORG
+CFO: ORG
+CMO: ORG
+Board of directors: ORG
+first: ORDINAL
+Jan 2001 to Jan 2007: DATE
+Generalist: PERSON
+Key Results: LOC
+one: CARDINAL
+1.2 million: CARDINAL
+the first year: DATE
+Overseen: PERSON
+annual: DATE
+878: CARDINAL
+hourly: TIME
+three: CARDINAL
+Bachelor of Business Administration: ORG
+VERNON NAZARENE UNIVERSITY: ORG
+City: GPE
+Professional Affiliations
+: ORG
+Society for Human Resource Management: ORG
+Muskingum Valley Human Resource Management Association: ORG
+ADA: ORG
+ADP: ORG
+Benefits Administration: ORG
+Coach: ORG
+Employee Relations: ORG
+Hiring: GPE
+HRIS: ORG
+Human
+Resource, Human Resources: ORG
+Kronos: PERSON
+Lawson: PERSON
+Law: PERSON
+Mediation: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Negotiations, Organizational Development: ORG
+Peak: PERSON
+Performance Management: ORG
+Policies: GPE
+Project Management: ORG
+Recruitment: PERSON
+Strategic: PERSON
+Structured: ORG
+Visio: PERSON
+Vision: ORG

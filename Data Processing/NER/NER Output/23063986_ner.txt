@@ -1,0 +1,148 @@
+Newman Shares Food Pantry: ORG
+Developed: ORG
+Career Fair Preparation and Communication: ORG
+Career Center Professionals Rauner: ORG
+Halloween: DATE
+80+ hours: TIME
+4 years: DATE
+20-25: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft Office: ORG
+Bachelor: ORG
+Recreation, Sport: GPE
+Tourism from University of Illinois: ORG
+Urbana-Champaign: ORG
+Dean: PERSON
+James Scholar: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+PowerPoint: PERSON
+Data: ORG
+Team: ORG
+Team: ORG
+Trainee/Recreation Management Intern
+Company Name
+
+City: ORG
+State: ORG
+January 2018: DATE
+Current
+
+Research: ORG
+FitGames: ORG
+Identify: ORG
+Update: ORG
+weekly: DATE
+State: ORG
+February 2017: DATE
+State: ORG
+May 2017: DATE
+monthly: DATE
+30: CARDINAL
+daily: DATE
+Keep: PERSON
+weekly: DATE
+State: ORG
+September 2017 to December 2017: DATE
+daily: DATE
+Ran: PERSON
+State: ORG
+February 2016: DATE
+May 2017: DATE
+50: CARDINAL
+credit daily: ORG
+State: ORG
+October 2016: DATE
+May 2017: DATE
+Facilitated: ORG
+four: CARDINAL
+annual: DATE
+Research Symposium: LOC
+State: ORG
+December 2014 to January 2016: DATE
+15: CARDINAL
+daily: DATE
+100: CARDINAL
+daily: DATE
+daily: DATE
+State: ORG
+September 2014 to December 2014: DATE
+30: CARDINAL
+30-35: CARDINAL
+between ages of 8-9: DATE
+Coordinated: ORG
+5: CARDINAL
+Urbana Early Childhood School: ORG
+20: CARDINAL
+5: CARDINAL
+Tourism Tourism
+University of Illinois at Champaign
+
+City: ORG
+State: ORG
+May 2018: DATE
+Tourism Tourism Dean's: ORG
+List (Top: WORK_OF_ART
+20%: PERCENT
+James Scholar: PERSON
+Administration of Leisure Services: ORG
+Strategies: ORG
+Contemporary Issues: ORG
+Cultural Tourism; Diversity in Recreation, Sports: ORG
+Economic Statistics: ORG
+Facility Management: ORG
+Human Resource
+Management Leadership in Recreation, Sport, & Tourism: ORG
+Tourism Planning: ORG
+Leisure Programming: ORG
+Leisure & Consumer Culture; Marketing in
+Recreation, Sport, &Tourism: ORG
+Principles GPA: PERSON
+3.61/4.00: CARDINAL
+Interests: NORP
+Conference on Travel & Tourism: ORG
+Erik Qualman: PERSON
+Don Wildman: PERSON
+Johnny "Cupcakes" Earle: PERSON
+the Convention and Visitor's Bureau (CVB: ORG
+Champaign: PRODUCT
+Urbana Early Childhood School
+Languages
+Spanish: ORG
+Basic/Polite: ORG
+Skills
+Basic: ORG
+Facility
+Management: ORG
+Human Resource Management: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Research: ORG
+Spanish: NORP
+Additional Information
+
+Awards: ORG
+May 2015: DATE
+Chicago: GPE
+IL Recipient of Non: ORG
+May 2015: DATE
+Chicago: GPE
+IL Recipient of Non: ORG
+over $100,000: MONEY
+Interests Illinois Governor's: LOC
+Conference on Travel & Tourism: ORG
+Erik Qualman: PERSON
+Don Wildman: PERSON
+Johnny: PERSON
+Cupcakes: WORK_OF_ART
+Earle: PERSON
+Convention: ORG
+Visitor's: ORG
+Urbana Early Childhood School Coordinated: ORG
+5: CARDINAL
+Urbana Early Childhood School Created: ORG
+20: CARDINAL
+5: CARDINAL

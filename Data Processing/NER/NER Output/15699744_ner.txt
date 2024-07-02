@@ -1,0 +1,77 @@
+Supervisory: PERSON
+Current Company Name City: ORG
+one: CARDINAL
+200,000).and: MONEY
+213%: PERCENT
+TIME WARNER CABLE: ORG
+Chatsworth: GPE
+California: GPE
+1998-2001: DATE
+zero: CARDINAL
+less than one year: DATE
+LOS ANGELES DAILY NEWS: ORG
+Los Angeles: GPE
+California: GPE
+1996-1998: DATE
+first year: DATE
+second: ORDINAL
+40: CARDINAL
+daily: DATE
+hourly: TIME
+Costa Mesa: GPE
+California: GPE
+1992-1995: DATE
+619%: PERCENT
+three months: DATE
+30: CARDINAL
+daily: DATE
+hourly: TIME
+Costa Mesa Chamber of Commerce: ORG
+Mission Viejo: PERSON
+California: GPE
+Account Executive: ORG
+1991-1992: DATE
+several months: DATE
+WICT: ORG
+Los Angeles: GPE
+California: GPE
+Southern California Chapter: ORG
+2003-2004: DATE
+20: CARDINAL
+Board of Directors: ORG
+Develop Women Leaders Who Transform Our Industry: WORK_OF_ART
+500: CARDINAL
+the National Association: ORG
+Southern California Chapter: ORG
+2003: DATE
+Disney: ORG
+ABC: ORG
+Time Warner: ORG
+Sponsorship Chair: ORG
+Southern California Chapter: ORG
+1999-2000: DATE
+1990: DATE
+Costa Mesa Chamber of Commerce Â 
+
+Advertising: ORG
+Manire Speak: PERSON
+Women in Cable Telecommunications: ORG
+WICT: ORG
+Multichannel News: ORG
+2004: DATE
+University Public Perceptions: ORG
+Vanguard University: ORG
+1990: DATE
+Computer Skills: PERSON
+Microsoft Office Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+iWork Numbers, Pages: ORG
+Keynote: ORG
+QuickBooks: ORG
+Tweet Adder: PERSON
+Adobe Readers: PERSON
+GoToMeeting: ORG
+Join: PERSON
+Preview: GPE
+Skype: ORG

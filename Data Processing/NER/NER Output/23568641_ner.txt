@@ -1,0 +1,28 @@
+BUSINESS DEVELOPMENT EXECUTIVE: ORG
+20 years: DATE
+Highlights: GPE
+Financial Analysis: ORG
+Detail: PERSON
+the Staples NAC Green Team: LAW
+14: CARDINAL
+$3.5 million: MONEY
+700,000: MONEY
+Current
+Business Development Executive Company Name: ORG
+multi-year: DATE
+400: CARDINAL
+RFP: ORG
+Generate: PERSON
+14: CARDINAL
+$250,000 dollars: MONEY
+GPO: ORG
+12/1991 to 12/1997: CARDINAL
+Account Executive Company Name: ORG
+seven: CARDINAL
+11/1987: DATE
+12/1991: CARDINAL
+Bachelor of Science : Journalism and Mass Communications Kansas State University: ORG
+State Public Relations and Marketing
+Skills: ORG
+CRM: PRODUCT
+Healthcare: ORG

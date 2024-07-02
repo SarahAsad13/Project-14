@@ -1,0 +1,131 @@
+Board of Directors: ORG
+15: MONEY
+Senior
+Management: ORG
+Capital Campaign: ORG
+Blackbaud Financial Edge: ORG
+Raiser: PERSON
+Skills
+Accounting: ORG
+Budget, Cancer: ORG
+Client: GPE
+Senior Management: ORG
+Finance: ORG
+Human
+Resource, Insurance: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Personnel: ORG
+Primary Care: PERSON
+QuickBooks: ORG
+Strategic Planning: ORG
+Core Qualifications
+Proficient: ORG
+Microsoft Office: ORG
+January 2012: DATE
+Current Company Name: ORG
+the Board of Directors, Finance Committee: ORG
+Liaison: PERSON
+Prepare: ORG
+990: CARDINAL
+Prepare: ORG
+the Investment Committee of the Board of Directors: ORG
+Prepare: ORG
+Federal, State: ORG
+Complete: PERSON
+Senior Management: ORG
+the Board of Directors: ORG
+Human Resource: ORG
+Society: ORG
+Federal and State
+Labor Department: ORG
+Supervise Finance Office: ORG
+Monitor Personnel and Finance Office: ORG
+January 2009 to January 2012: DATE
+monthly: DATE
+Senior Management: ORG
+the Finance Committee: ORG
+the Board of Directors: ORG
+Monitored: ORG
+Federal, State, Local agencies: ORG
+Created: ORG
+annual: DATE
+Federal, State, Local: ORG
+the Board of Directors: ORG
+Created State: ORG
+New Hampshire: GPE
+Breast and Cervical Cancer Program: ORG
+State: ORG
+A133: PRODUCT
+State of New Hampshire: ORG
+HUD: ORG
+Senior Management: ORG
+Created: ORG
+Federal ARRA: ORG
+Earmark: GPE
+the Federal Electronic Handbook: ORG
+Created: ORG
+Federal, State: ORG
+January 2007 to January 2009: DATE
+Federal, State: ORG
+the Finance Committee: ORG
+DHHS: ORG
+HUD: ORG
+State: ORG
+Prepared: PERSON
+Liaison: PERSON
+Preparation: ORG
+DHHS: ORG
+Supervised Business Office and Accounting: ORG
+Medicaid: ORG
+Medicare: ORG
+Client Fee Assessment: PERSON
+the Managed Care Insurance Team: ORG
+TREASURY: ORG
+January 2007: DATE
+monthly: DATE
+Investment Committee: ORG
+BNY Mellon Analytical Solutions: ORG
+Excel: PRODUCT
+Investment Committee: ORG
+BNY Mellon: PERSON
+990: CARDINAL
+5227: DATE
+1041A: DATE
+1099Rs: CARDINAL
+monthly: DATE
+Performed: ORG
+January 2000 to January 2007: DATE
+$72M: MONEY
+daily: DATE
+SunGard Charlotte: PERSON
+Prepared: PERSON
+monthly: DATE
+the
+Foundation: ORG
+the Executive Committee: ORG
+the Budget and Audit Committee: ORG
+the Investment Committee: ORG
+the Strategic Planning Task Force: ORG
+Board: ORG
+Foundation: ORG
+the Board of Directors: ORG
+monthly: DATE
+the Operations Team: ORG
+Facilitated: ORG
+weekly: DATE
+monthly: DATE
+14 days: DATE
+Coordinated: PRODUCT
+Foundation: ORG
+Established: ORG
+ACH: ORG
+Coordinated: ORG
+IRS Form 1099R: LAW
+Researched: ORG
+QuickBooks: ORG
+NEW HAMPSHIRE UNIVERSITY: ORG
+Business Administration
+B.S :: ORG
+GPA: ORG
+Honors Office Administration Accounting: ORG

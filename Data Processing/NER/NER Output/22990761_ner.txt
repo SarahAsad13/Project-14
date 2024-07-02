@@ -1,0 +1,64 @@
+Salutatorian: NORP
+Magna Cum Lauda: PERSON
+Chamberlain University: ORG
+first: ORDINAL
+Patient Care Technician
+
+Interviewed: WORK_OF_ART
+' EMR: DATE
+Assisted: ORG
+Foley: PERSON
+IV: GPE
+Notified: ORG
+12/2014: CARDINAL
+Server Company Name: ORG
+Transmitted: ORG
+Aviation Electronic Technician Company Name: ORG
+30%: PERCENT
+Patrol Squadron Sixteen: ORG
+Troubleshot: PERSON
+17: CARDINAL
+P-3C: PRODUCT
+10: CARDINAL
+07/2000: CARDINAL
+anesthesia: GPE
+Veterinarians: NORP
+Performed: ORG
+Monitored: ORG
+Training: PERSON
+June 25, 2017
+: DATE
+May 6, 2011
+: DATE
+Associates of Arts Florida State College: ORG
+Jacksonville: GPE
+Nurse- State: PRODUCT
+Florida: GPE
+July 18, 2017: DATE
+American Heart Association Basic Life Support (BLS) Certification Preceptorship: ORG
+IV: GPE
+Over 400: CARDINAL
+UF Health *Transitional Care Unit *Neurological Medical Surgical *Orthopedic Medical Surgical *Labor: ORG
+Pediatric Emergency Department: ORG
+Florida: GPE
+July 18, 2017: DATE
+American Heart Association Basic Life Support (BLS) Certification
+Preceptorship: ORG
+IV: GPE
+400 hours: TIME
+UF Health *Transitional Care Unit *Neurological Medical Surgical: ORG
+Salutatorian: NORP
+Magna Cum Laude: PERSON
+Chamberlain University: ORG
+P-3 Electrical Connector: ORG
+Wire Repair Organizational Maintenance Course: ORG
+Aug. 2006: DATE
+Warfare Specialist: PERSON
+Nov. 3, 2006: DATE
+Navy: ORG
+Good Conduct Award: PERSON
+Sept. 7, 2007: DATE
+Navy: ORG
+Marine Corps: ORG
+Achievement Medal: PERSON
+Sept. 6, 2009: DATE

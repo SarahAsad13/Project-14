@@ -1,0 +1,70 @@
+12 years: DATE
+06/2016: CARDINAL
+137 million: CARDINAL
+15: CARDINAL
+Miami Dade County Create: GPE
+monthly: DATE
+Oversees: ORG
+external & regulatory: ORG
+Direct the development & implementation: ORG
+annual: DATE
+monthly: DATE
+IRS: ORG
+US: GPE
+Liaison: PERSON
+Develop: ORG
+Senior Management: ORG
+North American: NORP
+Senior Management and Headquarters: ORG
+Hub: ORG
+US: GPE
+Canada: GPE
+Federal and Provincial: ORG
+Updates: EVENT
+Ensures: LOC
+Leading Accounting & Finance Team: ORG
+Provide: NORP
+Payroll Preparation and Administration Oversee: ORG
+Process: ORG
+Collaborates with Human Resources: ORG
+Ensures: LOC
+Affordable Care Act: LAW
+Maintaining Financial Goals:: ORG
+Develops &: ORG
+State
+
+Financial Management / Oversight: Responsible: ORG
+Participate: ORG
+Finance: ORG
+CFO: ORG
+daily: DATE
+monthly: DATE
+Compliance/Processes: ORG
+Finance: ORG
+Participate: WORK_OF_ART
+US: GPE
+Build: PERSON
+Complete: PERSON
+Performance Improvement Plans: WORK_OF_ART
+03/2003 to 12/2007: CARDINAL
+SR Tax Analyst Company Name: ORG
+Trust Returns: PERSON
+1041: DATE
+1065: DATE
+daily: DATE
+2004: DATE
+2007: DATE
+MST/Taxation University of Hartford
+: ORG
+Skills
+Accounting: ORG
+interpersonal & communication: ORG
+Senior
+Management: ORG
+Finance: ORG
+Financial: ORG
+Financial Management: ORG
+Hub, Human Resources: ORG
+Payroll: ORG
+Supervision, Tax: ORG
+treasury: ORG

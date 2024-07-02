@@ -1,0 +1,86 @@
+20 years: DATE
+Skills: ORG
+â€¢Vendor
+Management: ORG
+â€¢Policy/Program Development Â  â€¢LAN/WAN: ORG
+SAN: ORG
+Firewalls: NORP
+â€¢
+
+Experience
+Company Name City: WORK_OF_ART
+State: ORG
+Information Technology Infrastructure Operations 06/2008: ORG
+15%: PERCENT
+ISP: ORG
+Responsible for Infrastructure Operations: ORG
+Cloud: PERSON
+700: CARDINAL
+three: CARDINAL
+MS Exchange: ORG
+Name City: GPE
+State: ORG
+Network Operations 07/2006: ORG
+VoIP: LOC
+Build: GPE
+Setup: ORG
+90: CARDINAL
+Chicago: GPE
+IPsec: ORG
+Cisco ASA: ORG
+Responsible for Entrapass Security: ORG
+Setup: ORG
+CRM: PRODUCT
+ERP Systems: ORG
+QuickBooks: ORG
+500: CARDINAL
+Name City: GPE
+State Information Operations Specialist: ORG
+Microsoft: ORG
+2000/2003: CARDINAL
+50: CARDINAL
+VOIP: ORG
+Intrinsic Swimage: ORG
+third: ORDINAL
+Legato Networker: LOC
+Qualstar Jukebox: PERSON
+HIPAA: ORG
+Name City: GPE
+State: ORG
+09/2003: CARDINAL
+BakerMaks: ORG
+Client Matter Intake System: PERSON
+CMIS: ORG
+Administering a Linux: PERSON
+Knowledge Base Portal: PERSON
+daily: DATE
+Name City: GPE
+State System Administrator: ORG
+10/1998 to 12/2001: CARDINAL
+Sun Solaris: ORG
+Red Hat Linux: PERSON
+FreeBSD: PERSON
+Windows NT/2000: LOC
+UNIX: ORG
+daily: DATE
+15 week: DATE
+IBM: ORG
+UNIX: ORG
+Shell Scripting: ORG
+Oracle: ORG
+approximately 40,000: CARDINAL
+UNIX: ORG
+Name City: GPE
+State Healthcare Systems: ORG
+02/1993: CARDINAL
+Control purchasing department: ORG
+Maintain: PRODUCT
+Air Force Airman Leadership School: PRODUCT
+Training
+Bachelor of Science : Computer Science TROY STATE UNIVERSITY: PERSON
+City: GPE
+State: ORG
+Healthcare Systems Community College: ORG
+the Air Force: ORG
+City: GPE
+State: ORG

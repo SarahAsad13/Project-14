@@ -1,0 +1,87 @@
+P & L: ORG
+Liquor Certified: PERSON
+Caterer Liquor Licensee: ORG
+Florida State Gaming Commission: ORG
+Licensee: PERSON
+Executive Chef-Partner: PRODUCT
+July 2014: DATE
+State
+
+Daily: ORG
+Weekly: DATE
+FOH: ORG
+1.5: CARDINAL
+annual: DATE
+9%: PERCENT
+hourly: TIME
+March 2014 to July 2014: DATE
+Executive Chef: PRODUCT
+August 2013 to March 2014: DATE
+Gourmet: ORG
+December 2011 to August 2013: DATE
+65: CARDINAL
+30: CARDINAL
+3: CARDINAL
+P&L: ORG
+quarterly: DATE
+annual: DATE
+15 million: CARDINAL
+daily: DATE
+1700: CARDINAL
+Oversaw: GPE
+March 2004 to December 2011: DATE
+Owner &: ORG
+Exclusive: PRODUCT
+Miami: GPE
+Upscale: ORG
+Yachting: ORG
+2000: CARDINAL
+Girls Club: ORG
+Broward County: GPE
+Yacht Hop: PERSON
+Rybovitch Mega: PERSON
+Yaucht Marina Caterer: PERSON
+Provisioner: ORG
+Sous-Chef/Banquet Chef: ORG
+October 1997 to December 1998: DATE
+Opening: WORK_OF_ART
+David Burke: PERSON
+first: ORDINAL
+6: CARDINAL
+The New York Restaurant Group: ORG
+S & W'S: ORG
+Chef Burke's: PERSON
+Miami: GPE
+up to 200: CARDINAL
+Sous Chef 
+: PERSON
+January 1997 to November 2003: DATE
+Mark Militello: PERSON
+5: CARDINAL
+4 months: DATE
+James Beard Foundation: ORG
+the Beard House: FAC
+daily: DATE
+Sous-Chef: PERSON
+February 1993 to November 1996: DATE
+David Burke: PERSON
+one: CARDINAL
+N.Y.C: FAC
+mid-1990: DATE
+Sous-Chef: ORG
+Chef Burke: PERSON
+today: DATE
+first: ORDINAL
+"Cooking with David Burke: WORK_OF_ART
+Associate of Science : Culinary Arts: WORK_OF_ART
+1991: DATE
+The Culinary Institute Of America ï¼​ City: ORG
+State
+Business administration: ORG
+1987: DATE
+Kingsborough Community College: ORG
+Abraham Lincoln: PERSON
+Skills: ORG
+Microsoft: ORG
+Aloha: GPE
+Cateredge: GPE

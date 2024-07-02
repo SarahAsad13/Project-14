@@ -1,0 +1,61 @@
+Generalist: PERSON
+8: CARDINAL
+â€¢Employee Engagement: WORK_OF_ART
+Generalist: PERSON
+November 2006 to: DATE
+May 2015: DATE
+the day: DATE
+HR Engagement: ORG
+IBM: ORG
+BU: ORG
+GOM: ORG
+Mentoring &: ORG
+weekly: DATE
+MIS: ORG
+HR Fit & the Technical Fit: ORG
+years: DATE
+Requirements: ORG
+Coordinating &: ORG
+week-end: DATE
+Campus: PERSON
+Technical: GPE
+Monthly: DATE
+Managers &: ORG
+Recruitment, Hiring & Joining: ORG
+Policies of Recruitment: WORK_OF_ART
+Business Hiring Managers / Compensation Team: ORG
+Separations Team / WFM / HR Partners: ORG
+Rehire / Restricted /Foreign National Hires Coordinating: ORG
+100%: PERCENT
+Offer Rollout: PERSON
+each quarters: DATE
+Business Units: ORG
+Business Units: ORG
+E-Mail Communication: ORG
+January 2006 to October 2006 Company Name - City: DATE
+15-20: CARDINAL
+monthly: DATE
+Weekly: DATE
+M.B.A : Human Resources & Finance: ORG
+2005: DATE
+University - State: ORG
+India: GPE
+1st: ORDINAL
+Human Resources &
+Finance: ORG
+Bachelor of Science : Physics Honours: ORG
+2002: DATE
+India: GPE
+1st: ORDINAL
+Honours: ORG
+Distinction Physics Honours: ORG
+1st: DATE
+Honours: ORG
+English: LANGUAGE
+Hindi: GPE
+2nd October, 1981: DATE
+Marital Status: ORG
+Indian: NORP
+Dancing, & Dairy Writing: WORK_OF_ART
+Vender: ORG
+Microsoft Office: ORG

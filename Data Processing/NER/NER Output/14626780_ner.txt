@@ -1,0 +1,60 @@
+Skills
+
+Accounting: ORG
+December 2009 to July 2014: DATE
+Specialized: ORG
+Clinical Trails: ORG
+Research Contracts: ORG
+21: CARDINAL
+IRB: ORG
+OMB: ORG
+University: ORG
+Program: ORG
+Program: ORG
+January 2008 to June 2009: DATE
+the University of Pennsylvania: ORG
+the Government of Botswana: ORG
+Africa: LOC
+the Botswana Program: ORG
+the Division of Infectious Diseases: ORG
+the Division of Pulmonary Medicine: ORG
+Specialized: ORG
+IRB OMB: ORG
+University: ORG
+May 2004 to August 2006: DATE
+Credit Risk Analysis Responsible: ORG
+Investment Banking Division: ORG
+Appointed: ORG
+IPO: ORG
+39 million: CARDINAL
+Securities Exchange Board of India: ORG
+Reserve Bank of India: ORG
+RBI: ORG
+ING Vysya: ORG
+Bank Ltd: ORG
+IPO: ORG
+SOX: ORG
+PCDM: ORG
+Document Matrix: PERSON
+Organizational Dynamics Leadership Management: ORG
+2013: DATE
+USA Organizational
+Dynamics Leadership Management
+Certified Research Administrator: ORG
+CRA 2011 Research Administrators Certification Council: ORG
+New York: GPE
+2007: DATE
+2004: DATE
+2002: DATE
+Xavier Institute of Management and Entrepreneurship ï¼​ City: ORG
+India: GPE
+2000: DATE
+Mount Carmel College: ORG
+City: GPE
+India Computer Applications
+Masters : Business Administration Investment Banking Training Institute: ORG
+USA Intensive: ORG
+Business Administration
+Bureau of Data Processing Systems: ORG
+City: GPE
+India: GPE

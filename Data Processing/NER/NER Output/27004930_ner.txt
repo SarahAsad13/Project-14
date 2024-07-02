@@ -1,0 +1,66 @@
+BUSINESS DEVELOPMENT: ORG
+Professional Summary
+Experienced: ORG
+Sales Professional: ORG
+Skills
+Work History
+09/2013: ORG
+Aerospace & Defense, Engineering: ORG
+Health Care, Life Sciences: ORG
+Information Technology and Telecommunications: ORG
+Indianapolis: GPE
+Midwest: LOC
+Rapidly: ORG
+01/2013
+Network Solutions Consultant Company Name: ORG
+Information Technology: ORG
+Relocation Consultant Company Name: WORK_OF_ART
+National Account: ORG
+Commercial
+Relocations: ORG
+LTL: ORG
+TL: ORG
+three: CARDINAL
+National Accounts and Commercial: ORG
+400,000: MONEY
+01/2004: CARDINAL
+Relocation Consultant Company Name: WORK_OF_ART
+KY: GPE
+01/2004: CARDINAL
+COD Sales: ORG
+National Account Sales: ORG
+Indianapolis: GPE
+KY: GPE
+TN: ORG
+IL: ORG
+Mayflower: GPE
+the United States: GPE
+500,000: MONEY
+Customer Relationship Management: ORG
+Associate: ORG
+Early Education Ashford University - City: ORG
+State: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Client liaison: PERSON
+Government, Information Technology: ORG
+Project Management: ORG
+RFP: ORG
+Volunteer Coach: PERSON
+two: CARDINAL
+Indianapolis: GPE
+Volunteer: PERSON
+BizTown: ORG
+First: ORDINAL
+Volunteer: PRODUCT
+Advisory Council Board: ORG
+annual: DATE
+Christian Chamber of Commerce: ORG
+Yearly: DATE
+monthly: DATE
+Guest: PERSON
+Cardboard
+Box Ministries: PERSON
+Board of Directors
+
+: ORG

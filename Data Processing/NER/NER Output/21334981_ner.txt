@@ -1,0 +1,57 @@
+PASTRY CHEF: ORG
+Seasoned: PRODUCT
+Sharp: ORG
+Energetic: LOC
+Customer: ORG
+Adaptive: ORG
+Opening: WORK_OF_ART
+Live Support: LOC
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Pastry Chef /Server 
+: ORG
+May 2014 to September 2015: DATE
+Line Cook: PERSON
+March 2013 to March 2014: DATE
+April 2012 to November 2012: DATE
+Customer Service Rep: ORG
+September 2012 to December 2012: DATE
+January 2007 to January 2008: DATE
+March 2004 to November 2007: DATE
+State: ORG
+over $250,000: MONEY
+January 2001 to January 2003: DATE
+1 month: DATE
+20: CARDINAL
+daily: DATE
+Volunteer: PERSON
+Southwest Behavioral: LOC
+daily: DATE
+Homeless Outreach Program: ORG
+16 week: DATE
+COMMUNITY: ORG
+Developed: PRODUCT
+Completed Professional Cooking: ORG
+Assisted Chef Instructor: ORG
+Collaborated: ORG
+Southwest Behavioral: LOC
+daily: DATE
+Homeless Outreach Program: ORG
+Associate of Science Degree : Social Science Studies Administrative Justice Studies: WORK_OF_ART
+2012: DATE
+Mesa Community College - City: ORG
+State Social
+Science Studies Administrative Justice Studies: ORG
+St. Mary's Food Bank Alliance- Community: ORG
+Certifications
+National Restaurant Association: ORG
+Behavioral Health: ORG
+CPR: ORG
+Customer Service: ORG
+First: ORDINAL
+Team Development: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Safety: ORG
+Type: ORG

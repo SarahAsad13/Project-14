@@ -1,0 +1,41 @@
+Vitro Diagnostic: ORG
+Training: PERSON
+2007: DATE
+Metropolitan State University of Denver - Microbiology and Molecular Biology City: ORG
+State: ORG
+USA Microbiology: ORG
+Molecular Biology
+Experience
+Senior Field Application Specialist 06/2014 ï¼​ 06/2016 Company Name City: WORK_OF_ART
+first: ORDINAL
+Immunoassay: ORG
+Identification: ORG
+DNA/RNA: ORG
+Strictly: ORG
+Name City: GPE
+first: ORDINAL
+Immunoassay: ORG
+Identification: ORG
+DNA/RNA: ORG
+Strictly: ORG
+2013: DATE
+Field Application Specialist: ORG
+2008: DATE
+Field Application Specialist: ORG
+Spectrometer MALDI-TOF: PERSON
+USDA: ORG
+Diversilab: PERSON
+System: PRODUCT
+the Food Emergency Response Network: ORG
+12/2007: CARDINAL
+Name City: GPE
+Federal: ORG
+Utilized: ORG
+DNA Extraction and Amplification: ORG
+Chemistry GC: PERSON
+Name City: GPE
+Chemistry: ORG
+GC: ORG
+Network: ORG
+Research: ORG
+Trainer: ORG

@@ -1,0 +1,60 @@
+Career Overview
+
+Executive: ORG
+Skill Highlights: PERSON
+Time: ORG
+Microsoft Office: ORG
+Core Accomplishments
+
+: WORK_OF_ART
+Oversaw: GPE
+Data Organization Â 
+
+Improved: ORG
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+10: CARDINAL
+October 2014: DATE
+January 2014: DATE
+day: DATE
+minutes: TIME
+February 2011 to July 2013: DATE
+State: ORG
+Eastern: ORG
+North America Highly: LOC
+Prepared: PERSON
+Simultaneously: PERSON
+international &
+domestic: ORG
+5: CARDINAL
+50: CARDINAL
+McAfee's: ORG
+New York: GPE
+Jacob Javitz: PERSON
+New York City: GPE
+Las Vegas': GPE
+quarterly: DATE
+five: CARDINAL
+North America: LOC
+Human Resources: ORG
+New York City: GPE
+Assisted: ORG
+PowerPoint: ORG
+monthly: DATE
+Board of Directors: ORG
+Maintained: GPE
+day: DATE
+Collaborated: ORG
+Coordinated: ORG
+Created: ORG
+Initiated: ORG
+Supervisor 
+June 2006 to February 2011 Company Name: WORK_OF_ART
+State: ORG
+Oversaw: GPE
+2-10: CARDINAL
+RTD: ORG
+Utilized: ORG
+Bachelor: ORG
+Microsoft Office Suite, Calendaring, Critical Thinking: ORG

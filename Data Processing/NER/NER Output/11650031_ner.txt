@@ -1,0 +1,25 @@
+HYDROBLASTING: ORG
+1: CARDINAL
+Career Objective
+An enthusiastic: WORK_OF_ART
+Skills
+Carpentry
+Building Maintenance
+Environmental Coordination: ORG
+Customer Service Oriented: ORG
+Efficient Time Management
+Effective Problem Solving: ORG
+June 2014: DATE
+1: CARDINAL
+PPE: ORG
+November 2012 to June 2015: DATE
+Interior: ORG
+daily: DATE
+June 2012: DATE
+Current Building Maintenance 
+City: WORK_OF_ART
+Respond: PERSON
+Knowledge-First Empowerment Academy: ORG
+August 2016: DATE
+April 2012: DATE
+NCCER - June 2010: ORG

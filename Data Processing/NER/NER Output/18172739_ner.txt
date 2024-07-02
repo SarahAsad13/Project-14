@@ -1,0 +1,52 @@
+Excels: PERSON
+Advanced: PERSON
+Project Analyst: ORG
+January 2007: DATE
+Current Company Name: ORG
+quarterly: DATE
+Coordinate: ORG
+Coordinate Business Continuity: ORG
+Region: LOC
+12: CARDINAL
+Assist: NORP
+Organize: GPE
+Divisional
+Leadership Offsite: PRODUCT
+Portfolio Management Administrator II: ORG
+January 2001 to January 2007: DATE
+Capital Markets: ORG
+Syndicated Loans: ORG
+Treasury Management and Letters of Credit
+Products: ORG
+Portfolio Management: ORG
+Surfaces: PRODUCT
+Maintain Electronic Credit Files: ORG
+Commercial Custom Analyst: ORG
+January 2000 to January 2001: DATE
+1MM: MONEY
+million: CARDINAL
+Cash Management Information: ORG
+Master of Business Administration: ORG
+Project Management Keller School of Management Current Project Management
+Bachelor of Business Administration : Business Information System: ORG
+1: CARDINAL
+2006: DATE
+DeVry University Business Information System: ORG
+Capital Markets: ORG
+Credit: ORG
+Team Lead: PERSON
+Letters: ORG
+Lotus Notes: ORG
+Access, Excel: ORG
+Microsoft Exchange: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+PowerPoint: ORG
+Word: PERSON
+Organizational: ORG
+Problem Resolution: PERSON
+Project Management: ORG
+Scripts: PERSON
+Time Management: ORG
+Treasury: ORG
+Visio: PERSON

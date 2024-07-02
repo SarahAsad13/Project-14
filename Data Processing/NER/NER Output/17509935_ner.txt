@@ -1,0 +1,19 @@
+Team: ORG
+Team: ORG
+12/2016: CARDINAL
+State Key: ORG
+each month: DATE
+Indepentdant Contractor Company Name: ORG
+State: ORG
+10/2002: CARDINAL
+the six years: DATE
+150%: PERCENT
+30%: PERCENT
+Utah: GPE
+Education: ORG
+2000: DATE
+State: ORG
+2002: DATE
+Cosmotology Heiritage College of Beauty ï¼​ City: ORG
+15 years: DATE
+one: CARDINAL

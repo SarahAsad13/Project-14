@@ -1,0 +1,47 @@
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Keynote: GPE
+SenGrid: GPE
+Facebook Advertising
+Instagram: ORG
+Twitter: PERSON
+Facebook Analytics: ORG
+Google Suite: ORG
+Name City: GPE
+500 Startups Company: ORG
+Facilitate: ORG
+Name City: GPE
+State: ORG
+60: CARDINAL
+NBA: ORG
+2nd: ORDINAL
+US: GPE
+over 100: CARDINAL
+over $1.5M: MONEY
+Oversaw: GPE
+media & digital: ORG
+KPI: ORG
+Excel: PRODUCT
+Name City: GPE
+State: ORG
+11/2011: CARDINAL
+NBA: ORG
+Blake Griffin: PERSON
+Kevin Love: PERSON
+Paul Pierce: PERSON
+The Players Tribune: WORK_OF_ART
+Derek Jeter: ORG
+Excel Sports: PRODUCT
+Training
+BA : Economics: PERSON
+Sports Marketing & Management 2011: ORG
+2017: DATE
+2017: DATE
+Skills
+Advertising: ORG
+Google: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Microsoft: ORG

@@ -1,0 +1,69 @@
+MS Office: ORG
+Skills: ORG
+Microsoft: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+Microsoft Power Point: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Current
+Advocate Company Name: ORG
+State: ORG
+first: ORDINAL
+Intervene: PERSON
+Assist: NORP
+UnitedHealth Group: ORG
+Research: ORG
+first: ORDINAL
+10/2016: CARDINAL
+CSR II Company Name: ORG
+Award" Received: PERSON
+5 year: DATE
+the
+month: DATE
+Brookdale Senior: ORG
+Living Received: PERSON
+6 months in a row: DATE
+6: CARDINAL
+JP Morgan Chase: ORG
+2014: DATE
+10/2013: CARDINAL
+Business Banker Company Name: ORG
+Identify: ORG
+SLA: ORG
+Research: ORG
+treasury: ORG
+Demonstrate: ORG
+Life Enrichment Coordinator/Marketing Coordinator Company Name: ORG
+monthly: DATE
+Microsoft Excel: ORG
+Coordinate: FAC
+quarterly: DATE
+Coordinated: ORG
+Coordinated the Welcome Committee: ORG
+Lots of Data Entry: ORG
+Microsoft Excel: ORG
+Training: PERSON
+2018: DATE
+Business Administration Human Resources Argosy University Business Administration Human Resources: ORG
+2001: DATE
+Penn Foster University Paralegal Studies: ORG
+1997: DATE
+Cosmetology College National Beauty College: ORG
+1996: DATE
+Balance: PERSON
+Business Administration: ORG
+Coach: ORG
+Data Entry: ORG
+Human Resource: ORG
+Microsoft Excel: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+Microsoft Power Point: ORG
+Microsoft: ORG
+Policies: GPE
+Research, Sales: ORG
+SLA: ORG

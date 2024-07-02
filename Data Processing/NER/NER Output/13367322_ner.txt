@@ -1,0 +1,53 @@
+Fitness Specialist: ORG
+Offering Basics: PERSON
+HIIT: ORG
+Basic Fundamentals: ORG
+Zumba: NORP
+Fitness Trainer: PERSON
+BMI: ORG
+Communication: ORG
+Observation
+Answering: ORG
+HIPAA: ORG
+Client: GPE
+Organization
+Relationship development
+: ORG
+First Aid/CPR
+Team: ORG
+Problem: PRODUCT
+State: ORG
+Point of Sale: ORG
+two: CARDINAL
+Monitored: ORG
+State: ORG
+three: CARDINAL
+weekly: DATE
+Server/Bartender / Company Name - City: ORG
+State: ORG
+daily: DATE
+daily: DATE
+Minimized: PERSON
+each day: DATE
+Processed: GPE
+Applied: ORG
+Maintained: GPE
+Explained: PRODUCT
+Maintained: GPE
+Communicated: ORG
+Parker High School - City 05/2005: ORG
+Arizona Western College - City: ORG
+State Some College: ORG
+Native American Fitness Certification: ORG
+Zumba Certified: GPE
+Zumba Certified: GPE
+Zumba Personal Dance Instructor: ORG
+CPR & First Aid Certified
+
+Certifications
+
+NAFC: ORG
+Native American Fitness Certification: ORG
+Zumba Certified: GPE
+Zumba Certified: GPE
+Zumba Personal Dance Instructor: ORG

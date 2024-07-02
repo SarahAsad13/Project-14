@@ -1,0 +1,77 @@
+Specialist Nov 2014 to Jan 2015: DATE
+One: CARDINAL
+USD15 per hour Hours: TIME
+40 hours: TIME
+Balfour Beatty: PERSON
+monthly: DATE
+the Resident Specialist: ORG
+May 2008: DATE
+Leighton Asia: FAC
+the CIMIC Group - one: ORG
+monthly: DATE
+40-44 hours: TIME
+Financial Accountant: ORG
+Every end of the month: DATE
+the month: DATE
+Company: ORG
+15-month: DATE
+Financial Packages: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Finance: ORG
+monthly: DATE
+fiscal year: DATE
+Tax Returns: PERSON
+the Securities and Exchange Commission: ORG
+the Bureau of Internal Revenue: ORG
+Company: ORG
+Financial Statements: ORG
+SGV & Co.: ORG
+quarterly: DATE
+the Head Office: ORG
+Philippine Contractors Accreditation Board: ORG
+the
+Bureau of Internal Revenue: ORG
+the Accounting Department: ORG
+Hong Kong: GPE
+May 2008: DATE
+1946: DATE
+Ernst & Young Global Limited: ORG
+June 6, 2002: DATE
+SGV & Co.: ORG
+Philippines: GPE
+Ernst: PERSON
+Young: PERSON
+monthly: DATE
+USD390: GPE
+40-60 hours: TIME
+Philippine: NORP
+October 2006: DATE
+SGV & Co.: ORG
+one: CARDINAL
+Company: ORG
+one: CARDINAL
+year-end: DATE
+Financial Statements: ORG
+Sicangco: PERSON
+Menor, Villanueva & Co.: ORG
+One: CARDINAL
+Pampanga: GPE
+Philippines: GPE
+2005: DATE
+Daily: DATE
+40 hours: TIME
+my senior year: DATE
+Training
+Bachelor of Science: PERSON
+Cum Laude Philippines: PERSON
+Skills
+Accounting: ORG
+Finance: ORG
+Financial Accountant: ORG
+PHP: ORG
+Exchange: ORG
+Tax
+Returns: PERSON
+year-end: DATE

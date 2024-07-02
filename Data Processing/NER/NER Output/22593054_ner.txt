@@ -1,0 +1,54 @@
+Career Overview
+
+Energetic Customer Service: WORK_OF_ART
+PR Representative: ORG
+annual: DATE
+600: CARDINAL
+70 Â: CARDINAL
+Coordinated & emceed: ORG
+annual: DATE
+the past 4 years: DATE
+Â Exceptional: ORG
+tens Â of: CARDINAL
+thousands of dollars: MONEY
+13 Â: CARDINAL
+Core Strengths
+
+Strong: WORK_OF_ART
+Reliable: WORK_OF_ART
+Strong: PERSON
+Generate: PERSON
+Provide: NORP
+Troubleshoot: ORG
+Dec 2011 to May 2016: DATE
+weekly: DATE
+team & band: ORG
+creating & designing
+: ORG
+Keynote: ORG
+monthly: DATE
+Planned: ORG
+BBQ: ORG
+nights: TIME
+May 2011: DATE
+72: CARDINAL
+LA & Orange County: ORG
+annual: DATE
+600 pastors &: MONEY
+Accounts Receivable & Accounts Payable: ORG
+Jan 1992 to Nov 2009: DATE
+State: ORG
+5 years: DATE
+Accounts Receivable & Accounts Payable: ORG
+Construction Preliminary Notices & Lien Releases: ORG
+DMV: ORG
+15-20: CARDINAL
+Skills
+ Microsoft Word, Excel & PowerPoint    Leadership
+ Keynote         Â  Â Telephone: WORK_OF_ART
+10: CARDINAL
+Notary: PERSON
+20 years: DATE
+Spanish: NORP
+Strengths Finders: WORK_OF_ART
+Disciplined & Consistent: ORG

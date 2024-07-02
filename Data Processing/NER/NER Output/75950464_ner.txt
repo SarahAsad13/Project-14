@@ -1,0 +1,69 @@
+Summary
+
+Responsible Service: ORG
+Recruiter: PERSON
+6 years: DATE
+Innovative: NORP
+Behavioral: ORG
+APA: ORG
+WordPress: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Multitasking
+Independent: ORG
+Quick: FAC
+Goal Setting Â 
+
+Established: WORK_OF_ART
+August 2014 to June 2015: DATE
+Recruiter 
+City: PERSON
+Schedule: ORG
+monthly: DATE
+Review: ORG
+Order: ORG
+Learn: PRODUCT
+August 2011 to August 2014: DATE
+non-English: NORP
+Discuss: PERSON
+Observe: LOC
+Distribute: ORG
+Distribute: ORG
+Attend: ORG
+August 2006 to: DATE
+Recruiter 
+City: PERSON
+Schedule: ORG
+monthly: DATE
+Review: ORG
+Learn: PRODUCT
+December 2003 to July 2006: DATE
+daily: DATE
+Assist: NORP
+December 2001: DATE
+May 2003: DATE
+Childcare Worker 
+City: PERSON
+Observe: LOC
+daily: DATE
+Discipline: PERSON
+August 2000: DATE
+May 2001: DATE
+non-English: NORP
+Discuss: PERSON
+Observe: LOC
+Distribute: ORG
+Grade: PRODUCT
+Organize: GPE
+Distribute: ORG
+Attend: ORG
+Requisition: PRODUCT
+Assist: ORG
+August 2014 to December 2014: DATE
+Sul Ross State University: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+Excel: PRODUCT
+Microsoft: ORG
+Printshop: ORG

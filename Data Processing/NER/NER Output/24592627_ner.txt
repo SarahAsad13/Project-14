@@ -1,0 +1,90 @@
+Special Investigation Unit: ORG
+10 years: DATE
+30 years: DATE
+State: ORG
+DOI Fraud Bureau: ORG
+District Attorney's: ORG
+Database: GPE
+Workers: ORG
+Interviewing: PERSON
+Decisive
+Critical: ORG
+Certified Insurance Fraud Investigator: ORG
+CIFI: ORG
+the International Association of Special Investigation Units: ORG
+March 2004 to September 2014: DATE
+SIU: ORG
+the Specialty Group of Great American: ORG
+Liability Unit: ORG
+Property Claims: ORG
+Equine Claims: PERSON
+Tractor-Trailer: ORG
+Western SIU Office: ORG
+the 14 Western States: ORG
+Dept of Insurance: ORG
+January 2003 to March 2004: DATE
+Bodily Injury Accidents: ORG
+First Party Auto Theft: ORG
+Burglary: NORP
+CA: ORG
+January 2002 to January 2003: DATE
+Private Investigation Companies on Unitrin Insurance: ORG
+January 1994 to January 2001: DATE
+USAA: ORG
+the Orange County/: GPE
+SIU Investigator: ORG
+January 1987 to January 1993: DATE
+3: CARDINAL
+the Special Investigation Unit for: ORG
+Continental Insurance: ORG
+Costa Mesa: GPE
+CA: ORG
+Pleasanton: ORG
+CA: ORG
+Tucson: GPE
+AZ: ORG
+Honolulu: GPE
+4: CARDINAL
+January 1983 to January 1986: DATE
+Officer & Traffic: ORG
+January 1973 to January 1982: DATE
+Worked Patrol: FAC
+Traffic Division: ORG
+January 1972 to January 1973: DATE
+the Sheriff's Academy: ORG
+Biscailuz Center Jail: PERSON
+Main County Jail: GPE
+Associate Degree :: PERSON
+1972: DATE
+1977: DATE
+Redlands ï¼​ City: GPE
+State
+
+Management
+
+International Association of Credit Card Fraud Training: ORG
+International Association of Auto Theft Training: ORG
+1997, 2001: DATE
+California: GPE
+Arson Investigators Seminar: ORG
+73: CARDINAL
+Los Angeles Sheriff's Academy 93: ORG
+'94: DATE
+'95: DATE
+'05: DATE
+'08: DATE
+IASIU International: ORG
+Certified Insurance Fraud Investigator: ORG
+CIFI: PERSON
+International Assoc: PERSON
+SIU Senior Claims Law Associate Degree: ORG
+SCLA: ORG
+American Educational
+Institute Fraud Claims Law Specialist: ORG
+American Educational Institute California Peace Officer Standard: ORG
+Intermediate &
+Advanced: ORG
+Skills: ORG
+Basic: ORG
+CA: ORG
+Credit, Insurance, Law, Office, Police: ORG

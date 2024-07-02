@@ -1,0 +1,86 @@
+Project Management and Tracking
+Windows Server: ORG
+2003: DATE
+2008: DATE
+2012: DATE
+Windows XP: ORG
+Vista: ORG
+7: DATE
+8d: CARDINAL
+December 2013: DATE
+fiscal year: DATE
+Define: PRODUCT
+Negotiate: ORG
+Implemented Voice Over Internet Protocol Phone System: WORK_OF_ART
+October 2010 to December 2013: DATE
+over 30: CARDINAL
+Maintain & monitor: ORG
+Formulate: ORG
+monthly: DATE
+Information Technology: ORG
+January 2010 to October 2010: DATE
+Coordinate: FAC
+Communicate: ORG
+Information Technology: ORG
+June 2004 to December 2009: DATE
+Administer 68 Local Area Networks Investigate: ORG
+Oversee: ORG
+annual: DATE
+Research: ORG
+Communicate: ORG
+Information Technology: ORG
+Negotiate: ORG
+Microsoft Office: ORG
+40%: PERCENT
+45%: PERCENT
+June 2000 to December 2003: DATE
+PACS: ORG
+Radiology Information Systems and/or Hospital Information System: ORG
+Coordinate: FAC
+Aware: ORG
+HIPAA: ORG
+Investigate Radiology: ORG
+DICOM: GPE
+Communicate: ORG
+Develop: ORG
+Bachelor of Science :: ORG
+May 2015: DATE
+University of Maryland University College: ORG
+CyberSecurity
+
+Computer Information Systems: ORG
+August 1993: DATE
+Middle Tennessee State University: ORG
+State Computer Information Systems: ORG
+Antivirus: PRODUCT
+Backup Exec: PERSON
+Backup: PERSON
+Cisco Router: PERSON
+Cisco: GPE
+Citrix: GPE
+Database Management: ORG
+DELL: ORG
+Email: PERSON
+Ethernet: PERSON
+Firewall: PERSON
+Information Systems: ORG
+Information Technology, Local Area Networks: ORG
+Linux: PERSON
+Mac: PERSON
+Exchange: ORG
+Microsoft Office Suite: ORG
+Office: ORG
+Microsoft Office: ORG
+SharePoint: ORG
+9, 2000: DATE
+Network: ORG
+Networking: GPE
+PACS: ORG
+Phone System: ORG
+Property Management: ORG
+Research: ORG
+Switch, Symantec: ORG
+TCP/IP: ORG
+Toshiba, Trend: ORG
+Vista: ORG
+Windows Server: PERSON

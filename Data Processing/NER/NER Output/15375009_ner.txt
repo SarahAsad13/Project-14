@@ -1,0 +1,36 @@
+Skills: ORG
+ADP: ORG
+Payroll: ORG
+year-end: DATE
+06/2016: ORG
+first: ORDINAL
+50: CARDINAL
+a period of 9 months: DATE
+days: DATE
+Benefits Broker: PRODUCT
+Generalist: PERSON
+01/2015: DATE
+Established: ORG
+2500: CARDINAL
+55: CARDINAL
+Coordinated: ORG
+02/2013: CARDINAL
+monthly: DATE
+Coordinated: ORG
+Processed: GPE
+09/2008: PERSON
+Recruited: PRODUCT
+monthly: DATE
+Coordinated: ORG
+Assisted: ORG
+annual: DATE
+year-end: DATE
+Completed: ORG
+Bachelor of Science : Business Management: ORG
+2009: DATE
+University of Phoenix - San Jose Learning Center - City: ORG
+2010: DATE
+University of Phoenix - City: ORG
+State: ORG
+2018: DATE
+Notre Dame de Namur University - City: FAC

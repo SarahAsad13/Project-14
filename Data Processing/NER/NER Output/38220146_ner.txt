@@ -1,0 +1,39 @@
+more than 12 years: DATE
+Global Operations Management *: ORG
+Budgeting, Planning, Forecasting * Training & Staff: ORG
+Six: CARDINAL
+Bosch/Item Software: ORG
+New Product Development * Organization/Time Management: ORG
+Virtual Gibbs: PERSON
+January 2001 to January 2015: DATE
+Coordinated: ORG
+Created: ORG
+Integrated Airline's: ORG
+PLC: ORG
+Utilized: ORG
+2008/2010: DATE
+month: DATE
+Year: DATE
+Recognized: PERSON
+28%: PERCENT
+January 1997 to January 2001: DATE
+State: ORG
+Medical/Pharmaceutical: ORG
+120K.: CARDINAL
+3: CARDINAL
+CNC: ORG
+5: CARDINAL
+Bridgeport: GPE
+Precision Machinist: PERSON
+January 1993 to January 1997: DATE
+Fabricated: ORG
+Fabricated: ORG
+G-Code: ORG
+CNC: ORG
+AutoCad: ORG
+2001: DATE
+State: ORG
+1991: DATE
+Faith Christian Academy: ORG
+CNC: ORG
+PLC: ORG

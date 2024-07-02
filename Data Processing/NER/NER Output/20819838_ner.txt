@@ -1,0 +1,48 @@
+April 2013 to December 2014: DATE
+Escort: PRODUCT
+January 2013 to April 2013: DATE
+Assist: NORP
+Escort: PRODUCT
+November 2012 to January 2013: DATE
+Assist: NORP
+Escort: PRODUCT
+March 2011 to October 2012: DATE
+Assist: NORP
+Escort: PRODUCT
+November 2010 to March 2011: DATE
+State: ORG
+Assist: NORP
+Escort: PRODUCT
+June 2010 to October 2011 Company Name: DATE
+daily: DATE
+800: CARDINAL
+Screened: ORG
+Prepared: PERSON
+Prepared: PERSON
+January 2008 to January 2009: DATE
+daily: DATE
+250: CARDINAL
+Screened: ORG
+Prepared: PERSON
+Prepared: PERSON
+January 2005 to January 2008: DATE
+daily: DATE
+100: CARDINAL
+Maintained: GPE
+weekly: DATE
+Daily: DATE
+Oversaw: GPE
+Created: ORG
+Diploma : Graphics Design: ORG
+2003: DATE
+Lansdale School of Business ï¼​ City: ORG
+State: GPE
+US: GPE
+Office Operations Management: ORG
+2005: DATE
+Lansdale School of Business
+
+Office Operations Management: ORG
+2012: DATE
+Schlicker Kratz: PERSON
+Real Estate: ORG

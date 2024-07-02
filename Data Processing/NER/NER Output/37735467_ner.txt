@@ -1,0 +1,20 @@
+Skills
+
+Inventory: ORG
+Merchandising: PRODUCT
+Client: GPE
+City: GPE
+hours: TIME
+Surpassed: ORG
+daily: DATE
+Collaborated: ORG
+Conferred: ORG
+Recruited: PRODUCT
+Maintained: GPE
+each week: DATE
+City: GPE
+Created: ORG
+Maintained: GPE
+08/2010 - 09/2013 Security Officer: LAW
+City: GPE
+Automotive Mechanics MechTech Collage: ORG

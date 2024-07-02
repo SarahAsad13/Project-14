@@ -1,0 +1,62 @@
+the Medical Billing and Accounting: ORG
+Skills
+
+Accounting: ORG
+QuickBooks: ORG
+Certified Billing / Coding Specialist
+Strong: ORG
+Superior: LOC
+AR/AP: ORG
+Excel: PRODUCT
+Physician: PERSON
+CMS-1500: PRODUCT
+International Classification of Diseases: ORG
+Work History
+Accountant: WORK_OF_ART
+monthly: DATE
+each month: DATE
+Facilitated: ORG
+Researched: ORG
+monthly: DATE
+month end: DATE
+100: CARDINAL
+7: CARDINAL
+Accountant / Executive: ORG
+09/2010: PERSON
+12/2013: CARDINAL
+monthly: DATE
+each month: DATE
+Created: ORG
+daily: DATE
+weekly: DATE
+Accountant / Medical Billing & Collections Supervisor: ORG
+09/2010: CARDINAL
+15: CARDINAL
+Coded: ORG
+each day: DATE
+third: ORDINAL
+69%Â: CARDINAL
+the Medical Collection Dept: LAW
+12/2007: CARDINAL
+Bio Medical Research: ORG
+Bio Medical Research: ORG
+AP/AR: ORG
+Maintained: GPE
+Bachelor of Science : Accounting: ORG
+2013: DATE
+University of Phoenix - City: ORG
+State 
+Accounting
+Medical Claims Billing / Coding Specialist: ORG
+Home Professions: ORG
+Ft: GPE
+1997: DATE
+Jenks High School - City: ORG
+State: ORG
+Skills: ORG
+Accounting: ORG
+AP: ORG
+AR: ORG
+Payroll: ORG
+Coding: ORG
+Research: ORG

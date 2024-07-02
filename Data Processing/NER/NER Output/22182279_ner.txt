@@ -1,0 +1,59 @@
+Career Overview
+
+Committed: WORK_OF_ART
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+Spreadsheet: PERSON
+Resourceful
+Strong: PERSON
+Core Accomplishments
+
+Multitasking Â 
+
+Demonstrated: WORK_OF_ART
+2007: DATE
+Building Services: ORG
+Maintained: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+One: CARDINAL
+Aramark: GPE
+Staying: PERSON
+CACFP: ORG
+SNP Site Monitoring Reviews: ORG
+Maintained: GPE
+Created: ORG
+Excel: PRODUCT
+Standardized department: ORG
+Receptionist/Telephone Operator Aug: ORG
+2008: DATE
+2010: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+weekly: DATE
+daily: DATE
+Maintained: GPE
+Fed: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Created: ORG
+Excel: PRODUCT
+General Education: ORG
+2000: CARDINAL
+Valley High School ï¼​ City: ORG
+One: CARDINAL
+General Education Orange Coast College: ORG
+Associate of Arts: ORG
+Santa Ana College: ORG
+Filing: GPE
+Excel: PRODUCT
+Outlook: PERSON
+Microsoft: ORG
+Good Customer Service: ORG
+Multi-Task Management: ORG
+Spreadsheets: ORG
+10: CARDINAL

@@ -1,0 +1,114 @@
+Guadalajara: GPE
+Jalisco: GPE
+Mexico: GPE
+8 year: DATE
+Today: DATE
+Order: ORG
+Backlog Management: ORG
+Microsoft Office: ORG
+ERP: ORG
+SAP: GPE
+BAAN: GPE
+ORACLE: ORG
+99%: PERCENT
+ORACLE: ORG
+BAAN V: ORG
+20: CARDINAL
+Current
+Fulfillment Advocate Company Name: ORG
+State: ORG
+Liaison: PERSON
+Coordinate: FAC
+Order: ORG
+Billing Accuracy Business: PERSON
+Backlog Management: ORG
+Orde: PERSON
+06/2012: PRODUCT
+04/2014
+Business Operation Analyst Company Name: ORG
+State: ORG
+Liaison: PERSON
+second: ORDINAL
+Coordinate: ORG
+second: ORDINAL
+2nd: DATE
+80: CARDINAL
+2: CARDINAL
+01/2011 to 06/2012: CARDINAL
+Anticipates: GPE
+Ensures: ORG
+Contracts: ORG
+PS: ORG
+Utilizes: ORG
+Lifecycle Maintenance: PERSON
+EOL & NPI: ORG
+EOL: ORG
+Drive: ORG
+04/2010: CARDINAL
+INVENTORY CONTROL TEAM LEAD Company Name: ORG
+State
+
+Inventory Control: ORG
+Customer Service: ORG
+Hub: ORG
+Specialist 1: LAW
+month-end: DATE
+Hub: ORG
+month: DATE
+Develop: ORG
+US: GPE
+Coordinate: FAC
+Vendor Management Inventory: ORG
+04/2008: PERSON
+04/2010: CARDINAL
+Ledger
+Inventory: PERSON
+Customer: ORG
+P&L: ORG
+US: GPE
+EUROPE: ORG
+MEX Intercompany Financial Customer: ORG
+US: GPE
+SOX Audit VMI financial flows: WORK_OF_ART
+PPV: ORG
+Balance: PERSON
+Overall Inventory: ORG
+Finance: ORG
+Logistics: ORG
+04/2008
+Inventory Controller: WORK_OF_ART
+Purchase: PERSON
+Inventory: NORP
+Customer: ORG
+Overall Inventory control Distribution Centers: ORG
+Logistics: ORG
+EXW: ORG
+DDP & DDU: ORG
+Flextronics Supply Chain: ORG
+Purchase, Sales & Return: ORG
+RMA & RTV: ORG
+PPV: ORG
+Forecast: ORG
+Keep: PERSON
+Purchase: PERSON
+VMI Management: ORG
+Inventory: NORP
+Store Operations: ORG
+Confer: PERSON
+Waterfall: ORG
+Inventory Planning & Supply: ORG
+JIT: ORG
+3PL: DATE
+IPS: ORG
+Supply Chain Management: ORG
+2008: DATE
+State: GPE
+Mexico: GPE
+2004: DATE
+International Business University of Guadalajara ï¼​ City: ORG
+State: GPE
+90%: PERCENT
+60%: PERCENT
+Skills
+
+Customer Service: ORG

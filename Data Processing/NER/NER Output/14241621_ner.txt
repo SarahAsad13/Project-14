@@ -1,0 +1,67 @@
+BUSINESS DEVELOPMENT CENTER: ORG
+more than 7 years: DATE
+the Sales Management and Territorial Marketing Industries: ORG
+Excels: PERSON
+Business Development Center: ORG
+daily-weekly: DATE
+monthly: DATE
+75-100: CARDINAL
+40-60: CARDINAL
+Working: ORG
+daily: DATE
+94%: PERCENT
+15: CARDINAL
+3 minute: TIME
+Delivered 5 Units: FAC
+first week: DATE
+Enhance: ORG
+the Financial Services Department: ORG
+Maintained: GPE
+98 %: PERCENT
+12/2016: CARDINAL
+Directed: ORG
+54 Â: CARDINAL
+only 6Â months: DATE
+22: CARDINAL
+CT: ORG
+5000: CARDINAL
+3000: CARDINAL
+Collaborated: ORG
+Facilitated: ORG
+20: CARDINAL
+outstandingÂ: GPE
+Loss Prevention and Operations: ORG
+Ensures: LOC
+Loss Prevention: ORG
+Maintained: GPE
+90-95%: PERCENT
+82%: PERCENT
+my first month: DATE
+7.9%: PERCENT
+Belden Jewelers: PERSON
+weekly: DATE
+Maintained: GPE
+first: ORDINAL
+Leadership, Team Management, Communication and Planning and Organization of Administrative Duties: ORG
+2013: DATE
+2.35%: PERCENT
+5.76%: PERCENT
+first 8 months: DATE
+05/2010: CARDINAL
+92-98%: PERCENT
+88%: PERCENT
+three consecutive months: DATE
+10%: PERCENT
+09/2008: ORG
+CT: ORG
+105%: PERCENT
+Established: ORG
+Camp Counselor: FAC
+daily: DATE
+Associate of Science :: ORG
+Respiratory Therapy: PERSON
+2019: DATE
+Manchester Community College: ORG
+Diploma Bolton High School ï¼​ City: ORG
+Philanthropy, Music Education: ORG
+Special Needs: ORG

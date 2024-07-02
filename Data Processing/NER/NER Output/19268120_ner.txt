@@ -1,0 +1,63 @@
+six years: DATE
+BOH: ORG
+5+ years: DATE
+110%: PERCENT
+Inventory: GPE
+Bilingual: GPE
+English: LANGUAGE
+Fort Lauderdale Beach: GPE
+Reliable: WORK_OF_ART
+Neat: ORG
+American: NORP
+Culinary: ORG
+spanish: NORP
+Restaurant: ORG
+Interviewing: PERSON
+Plate: ORG
+Reliable: WORK_OF_ART
+Name City: GPE
+Cleaned: PRODUCT
+twenty three: CARDINAL
+Examined: NORP
+Oversaw: GPE
+17: CARDINAL
+Name City: GPE
+State: ORG
+Regularly inquired: ORG
+first: ORDINAL
+first: ORDINAL
+Oversaw: GPE
+Regularly inquired: ORG
+Name City: GPE
+State Executive: ORG
+Maintained: GPE
+Name City: GPE
+Communicated: ORG
+Cut: PERSON
+40: CARDINAL
+more than 500: CARDINAL
+GED: ORG
+Culinary: ORG
+1996: DATE
+Lyndon B Johnson: PERSON
+City: GPE
+State: GPE
+USA: GPE
+GED: ORG
+Associate of Applied Science : Culinary: WORK_OF_ART
+1999: DATE
+Lincoln: ORG
+City: GPE
+State: GPE
+5: CARDINAL
+Hospitality: GPE
+Restaurant: ORG
+Certifications
+
+Serve: WORK_OF_ART
+Four: CARDINAL
+Bilingual: GPE
+Spanish/English/ 1/3: DATE
+Fry: ORG
+Menu: PERSON
+daily: DATE

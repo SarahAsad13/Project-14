@@ -1,0 +1,90 @@
+EXECUTIVE: ORG
+Highlights
+Word: WORK_OF_ART
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Adobe: PERSON
+ProDoc, Quickbooks: ORG
+E2 System: PERSON
+Accomplishments
+Decreased: PRODUCT
+Current Company Name: ORG
+Schedule: PERSON
+Daily: PERSON
+CFO: ORG
+COO: ORG
+Research: PERSON
+Prepare: ORG
+Review,: ORG
+Input: ORG
+Schedule: ORG
+Oversee: ORG
+Louisiana Analyze company's: ORG
+Prepare Expense Reports: PERSON
+Travel: GPE
+Louisiana: GPE
+Schedule: PERSON
+Fitness Trainer: PERSON
+Current Company Name: ORG
+monthly: DATE
+Perform: ORG
+Improve: ORG
+Punctual: LOC
+Communicate: ORG
+Gained: NORP
+Coordinate: FAC
+Demo Representative: PERSON
+Expositions and Demonstrations: ORG
+2 consecutive years: DATE
+Houston: GPE
+Communicate: ORG
+Improve: ORG
+Manage: PRODUCT
+Produce: ORG
+Build: PERSON
+Manage: PRODUCT
+monthly: DATE
+01/2014 Company Name: ORG
+monthly: DATE
+Review: ORG
+monthly: DATE
+Research: ORG
+Oversee: ORG
+Coordinate: FAC
+Perform: PERSON
+Oversee: ORG
+May 2018: DATE
+English: LANGUAGE
+May 2014: DATE
+University of Houston Psychology & English: ORG
+Associate of Arts: WORK_OF_ART
+English Language: EVENT
+August 2012: DATE
+Lone Star College: ORG
+August 2012: DATE
+International Sports Science Association
+Certifications: EVENT
+CPR: ORG
+AED Training Certification: ORG
+Oxygen Usage & Safety Awareness Training Certification: ORG
+Bloodbourne Pathogen: PERSON
+29: CARDINAL
+CFR: ORG
+Excel Continuing Education: ORG
+Power Point Continuing Education: ORG
+Adobe: PERSON
+CPR: ORG
+Database: GPE
+Expense Reports: NORP
+Filing: GPE
+First Aid: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Power Point: ORG
+Word: PERSON
+Pathogen: PERSON
+Quickbooks, Research, Safety: ORG
+2: CARDINAL
+Trainer: ORG

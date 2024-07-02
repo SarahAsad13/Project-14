@@ -1,0 +1,68 @@
+Finance: ORG
+Finance: ORG
+May 2016: DATE
+Current Company Name: ORG
+the day to day: DATE
+monthly: DATE
+Develop: ORG
+Develop: ORG
+Forecast: ORG
+monthly: DATE
+yearly: DATE
+Prepare: ORG
+Executive Staff: ORG
+Analyst-Fund Accounting: ORG
+September 2015 to April 2016: DATE
+daily: DATE
+third: ORDINAL
+Evaluate: ORG
+Prepares Cash: PERSON
+Portfolio Reconciliations: PERSON
+daily: DATE
+monthly: DATE
+quarterly: DATE
+Communicates: ORG
+daily: DATE
+Ad Hoc: ORG
+General Accounting: ORG
+October 2013 to September 2015: DATE
+month-end: DATE
+quarter-end: DATE
+year-end: DATE
+DDA: ORG
+United States: ORG
+Sarbanes Oxley Act: LAW
+Reconciles: CARDINAL
+monthly: DATE
+SAP: ORG
+June 2011 to August 2011: DATE
+Passive Foreign Investment Company(PFIC: ORG
+Research/Financial Analyst: ORG
+June 2007 to September 2012: DATE
+Processed: GPE
+Researched: FAC
+Communicated: ORG
+Investor Services Specialist: ORG
+October 2001 to June 2007: DATE
+Performed: ORG
+Utilized: ORG
+MBA : Accounting: WORK_OF_ART
+2011: DATE
+Johnson & Wales University: ORG
+ï¼​ City: GPE
+2009: DATE
+Johnson & Wales University: ORG
+ï¼​ City: GPE
+State Accounting: ORG
+Bloomberg: PERSON
+DTCC: ORG
+PACE: ORG
+Asset Arena: ORG
+Essbase: GPE
+Hyperion: ORG
+ELedger/SAP: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Oracle: ORG
+QuickBooks: ORG

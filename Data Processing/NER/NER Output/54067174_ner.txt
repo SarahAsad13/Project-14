@@ -1,0 +1,33 @@
+Skills
+
+Customer: ORG
+Customer: ORG
+Deadline: NORP
+Bilingual
+Training: ORG
+Dentrix/Open Dental Training
+Credit: ORG
+May 2015: DATE
+2017: DATE
+daily: DATE
+monthly: DATE
+Insurance: ORG
+Inbound Calls Outbound Calls: ORG
+Dec 2014 to: DATE
+May 2015: DATE
+10: CARDINAL
+Processed: GPE
+5: CARDINAL
+250: CARDINAL
+each week: DATE
+Collect Daily: ORG
+up to 20: CARDINAL
+Aug 2013 to Mar 2014: DATE
+2013: DATE
+State: ORG
+CNA Certificate: ORG
+State: ORG
+CNA: ORG
+Credit: ORG
+Customer: ORG
+Problem Solver: PERSON

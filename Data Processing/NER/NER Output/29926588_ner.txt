@@ -1,0 +1,67 @@
+Psychology and Sociology: WORK_OF_ART
+Minor in HealthCare Administration: ORG
+Thirty years: DATE
+Clerical Administrative: ORG
+10 years: DATE
+Highlights
+
+Conducted: GPE
+Psychological and Social: ORG
+Social Responsibility: ORG
+HealthCare Ethics: ORG
+Qualified Data Entry: ORG
+Microsoft Word: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+Advanced MS Office: ORG
+Suite: PERSON
+Proofreading
+
+Report: WORK_OF_ART
+Microsoft Office: ORG
+Microsoft: ORG
+Time: ORG
+Advanced MS: ORG
+Suite: PERSON
+Understands: GPE
+Proofreading
+
+Report: WORK_OF_ART
+Contemporary Social Problems: ORG
+Workplace: ORG
+Social Research Methods: ORG
+the Behavioral and Social Sciences, Psychology, Cross-Cultural Perspectives: ORG
+Court: ORG
+Leadership: PERSON
+Child: PERSON
+Adolescent Development, Managing in Health and Human Services: ORG
+Cummunity and Public Health: ORG
+HealthCare Planning and Evaluation: ORG
+HealthCare: ORG
+Medical Law, Special Populations, Theories of Personality: ORG
+Professional Counseling: ORG
+Multi-Cultural Counseling: ORG
+Ethics: ORG
+Volunteer Advocate: PERSON
+Guardian Ad' Litem Program Make: ORG
+Franklin Baking Co.: ORG
+Name City: GPE
+Customer Service: ORG
+Loan Review Support Specialist: ORG
+Name City: GPE
+Assisted Audit: ORG
+University City: GPE
+State: GPE
+US: GPE
+One: CARDINAL
+University City: GPE
+State: GPE
+US: GPE
+Started Masters Program for Counseling, Concentration in Human Services: ORG
+May 2016: DATE
+Investigative: GPE
+Customer Service: ORG
+Data Entry: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Research: ORG

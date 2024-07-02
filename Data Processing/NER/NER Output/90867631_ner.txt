@@ -1,0 +1,245 @@
+Career Overview
+Permanent
+Certifications: ORG
+1458: DATE
+Network+: GPE
+1350: DATE
+70: CARDINAL
+1355: DATE
+2003: DATE
+1400: CARDINAL
+70: CARDINAL
+Certified IT Professional (MCITP: WORK_OF_ART
+Security+ Certified Professional: ORG
+Mar 2010: DATE
+Microsoft Certified Professional: ORG
+MCP: WORK_OF_ART
+Oct 2008: DATE
+Network+ Certified Professional: ORG
+May 2008: DATE
+A+ Certified Professional (Apr 2008: ORG
+Language Language
+Spoken Written Read Skills: WORK_OF_ART
+Spanish: NORP
+William 407th: PERSON
+Cook: PERSON
+John First: PERSON
+254: CARDINAL
+8: CARDINAL
+714: CARDINAL
+May 2012: DATE
+Current Information Technology Specialist: ORG
+October 2009: DATE
+May 2012: DATE
+65,150.00: CARDINAL
+Per Year Hours: EVENT
+40: CARDINAL
+IT Specialist: ORG
+First Army Division West Command: ORG
+300: CARDINAL
+100: CARDINAL
+ARNET: NORP
+Local Area Network: ORG
+WAN: ORG
+Maintained: GPE
+Performed: ORG
+First Army Division West: ORG
+Microsoft Shared Point: ORG
+XML: ORG
+HTML: ORG
+SQL: ORG
+C++: GPE
+Visio: PERSON
+Adobe CS5 Dreamweaver: ORG
+Microsoft Management Console: ORG
+Local Area Network: ORG
+LAN: ORG
+Maintained MS: ORG
+Microsoft: ORG
+Outlook: PERSON
+Windows XP: ORG
+Vista: ORG
+Win 7: LAW
+the Microsoft Management
+Console: ORG
+MMC: ORG
+Desktop Management: ORG
+4: CARDINAL
+USAJOBS - Resumes: ORG
+Army: ORG
+NEC: ORG
+Developed IA: ORG
+Managed Unit's: ORG
+600: CARDINAL
+Maintained Microsoft Exchange: ORG
+John Ciesiolka: PERSON
+254-553-5006: CARDINAL
+407th: GPE
+Vista International Operations: ORG
+January 2009 to September 2009: DATE
+Network System Administrator II: ORG
+State: ORG
+65,000.00: CARDINAL
+USD Per Year Hours: EVENT
+40: CARDINAL
+S-6 Brigade: ORG
+Network and Computer
+Systems Administrator: ORG
+LAN: ORG
+WAN: ORG
+5: CARDINAL
+USAJOBS - Resumes https://my.usajobs.gov/Applicant/Resume/ListResumes Created: ORG
+GPO: ORG
+Maintained: GPE
+SQL: ORG
+Established: ORG
+Troubleshot: PERSON
+Coordinated: ORG
+NEC: ORG
+Maintained: GPE
+6: CARDINAL
+SharePoint: ORG
+Supervisor: PERSON
+William Cook: PERSON
+254: CARDINAL
+October 2005 to: DATE
+August 2008: DATE
+First Sergeant 
+City: LAW
+55,000.00: CARDINAL
+Per Year Hours: EVENT
+70: CARDINAL
+5 years: DATE
+120: CARDINAL
+billions of dollars: MONEY
+Operation Enduring
+Freedom: EVENT
+Afghanistan: GPE
+Operation Iraqi Freedom: EVENT
+Battalion Level Information Systems/Communication Shop: ORG
+a Headquarters Company - Directly: ORG
+Company: ORG
+Training: PERSON
+Paul Mercator: PERSON
+254-288-0527: PRODUCT
+Training
+Texas A & M University: ORG
+Degree City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.80: CARDINAL
+GPA: ORG
+3.80: CARDINAL
+36: CARDINAL
+Masters of Sciences : Information Systems Information Systems: ORG
+Central Texas College: ORG
+United States Technical or: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+18
+Quarter hours: TIME
+Microsoft: ORG
+Relevant Coursework: PERSON
+2435: CARDINAL
+Harware: ORG
+Software: NORP
+1458: DATE
+7: CARDINAL
+9: CARDINAL
+1350: DATE
+70-270: CARDINAL
+Managing and Maintaining an MS Windows 2003 Environment: WORK_OF_ART
+1355: DATE
+2003: DATE
+1400: CARDINAL
+70: CARDINAL
+Saint Leo University: ORG
+Degree City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.25: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+3.25: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+Bachelor of Science : Computer Information Systems Computer Information Systems
+Successfully: ORG
+Saint Leo University: ORG
+Information Resource Management COM-499: ORG
+Central Texas College: ORG
+2435: CARDINAL
+Harware: ORG
+Software: NORP
+Interests: NORP
+May 2005: DATE
+Afghanistan: GPE
+Operation Enduring Freedom: EVENT
+9: CARDINAL
+AM
+Additional Information
+
+Additional Awarded the Achievement Medal: ORG
+First Division West Awarded: ORG
+the Legion of Merit: ORG
+22 years: DATE
+United States of America: GPE
+the Bronze Star Medal: ORG
+15: CARDINAL
+15
+month: DATE
+Iraq: GPE
+Operation Iraqi Freedom: EVENT
+the Bronze Star Medal: ORG
+1 Apr 2004: DATE
+May 2005: DATE
+Afghanistan: GPE
+Operation Enduring Freedom: EVENT
+9: CARDINAL
+7:58 AM: TIME
+A+: NORP
+Adobe: PERSON
+Dreamweaver: GPE
+Army: ORG
+Agency: ORG
+C++: PERSON
+COM: PERSON
+Email: PERSON
+XML: ORG
+Information Systems: ORG
+Information Systems: ORG
+Information Technology: ORG
+Local Area Network: ORG
+LAN: ORG
+Managing, Mercator: WORK_OF_ART
+Microsoft: ORG
+MCP: ORG
+Microsoft Certified: ORG
+Microsoft Exchange: ORG
+Outlook,: ORG
+SharePoint: ORG
+MS Windows: PERSON
+Windows XP: ORG
+NEC: ORG
+Network: ORG
+Novell: ORG
+ORACLE: ORG
+Spanish: NORP
+Spreadsheet: GPE
+SQL: ORG
+Supervisor, System
+Administrator: WORK_OF_ART
+Systems Analysis: ORG
+Phone: ORG
+Visio: PERSON
+Vista: ORG
+Wide Area Network: ORG
+WAN: ORG
+WAN: ORG

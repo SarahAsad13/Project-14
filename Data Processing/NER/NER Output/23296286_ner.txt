@@ -1,0 +1,25 @@
+Core Strengths
+
+Sales: WORK_OF_ART
+Multi: GPE
+Organizational: ORG
+Reliable: WORK_OF_ART
+Maintained: GPE
+hours: TIME
+daily: DATE
+Spanish: LANGUAGE
+English: NORP
+Processed: GPE
+Processed: GPE
+11/2014: CARDINAL
+03/2015: GPE
+Processed: GPE
+Educational Background: PRODUCT
+2015: DATE
+State: ORG
+Monroe: PERSON
+Interests: NORP
+Music/Concerts
+Skills
+Customer: WORK_OF_ART
+Customer Satisfaction: ORG

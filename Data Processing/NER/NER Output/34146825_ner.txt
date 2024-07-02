@@ -1,0 +1,44 @@
+two
+years: DATE
+Boost Mobile of Mobile Factory: ORG
+Highlights
+
+Inventory: ORG
+Accurate: ORG
+Team: ORG
+Cheerful and Energetic
+Organization: WORK_OF_ART
+Name City: GPE
+03/2015 to 11/2015: DATE
+40: CARDINAL
+each day: DATE
+the day: DATE
+Name City: GPE
+State: ORG
+Michael: PERSON
+the day: DATE
+Name City: GPE
+State Front: ORG
+Chicago: GPE
+the day: DATE
+the end of the day: DATE
+Boost Mobile: PERSON
+one day: DATE
+zero: CARDINAL
+one hundred: CARDINAL
+31: CARDINAL
+one day: DATE
+One: CARDINAL
+the best months: DATE
+145: CARDINAL
+over $: MONEY
+3,088: MONEY
+as many as ten: CARDINAL
+each day: DATE
+the couple of months: DATE
+Boost Mobile of Mobile Factory: ORG
+Northwood High School: ORG
+my four years: DATE
+one day: DATE
+English: LANGUAGE
+Spanish: NORP

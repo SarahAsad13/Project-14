@@ -1,0 +1,93 @@
+04/2018: ORG
+12/2018: CARDINAL
+Epson: PERSON
+over 200: CARDINAL
+dozens: CARDINAL
+CNN: ORG
+Fox News: ORG
+USA Today: ORG
+CNET: ORG
+Achieved Epson's: PERSON
+Google Glass: ORG
+less than 8,000: CARDINAL
+more than 80,000: CARDINAL
+10 years: DATE
+Conceived: PERSON
+The Wall Street Journal: ORG
+Fortune: WORK_OF_ART
+Forbes: PERSON
+Howard Schmidt: PERSON
+first: ORDINAL
+the White House Played: ORG
+Ericsson: GPE
+USA Today: ORG
+Yahoo: ORG
+Dana Point Initiated: PERSON
+AI: ORG
+Venturebeat Guided: ORG
+two: CARDINAL
+Epson: PERSON
+New Ventures: ORG
+AI pioneer Nuance Communications: ORG
+IoT: GPE
+5: CARDINAL
+Secured: ORG
+Cambridge: GPE
+The Financial Times: ORG
+Thomson Reuters: ORG
+two: CARDINAL
+Created: ORG
+Reveal Mobile: ORG
+the New York Post: ORG
+USA Today: ORG
+Yahoo!: ORG
+Motley Fool: ORG
+Oversaw: GPE
+IoT: ORG
+Telit Wireless: PERSON
+North America: LOC
+Account Management: ORG
+Maples Communications: ORG
+Mission Viejo Managed: PERSON
+Toshiba: ORG
+2.4: MONEY
+Developed: PRODUCT
+Retained (ISC)2: ORG
+400%: PERCENT
+Directed: ORG
+Networks In Motion: ORG
+first: ORDINAL
+GPS-: ORG
+four years later: DATE
+Bachelor of Arts: ORG
+Journalism California State University - City 
+Journalism
+Summary
+Technology: ORG
+Generates: PRODUCT
+Counsels: ORG
+Epson: PERSON
+Toshiba: ORG
+Ericsson: GPE
+Cisco: GPE
+Ingram Micro: ORG
+Skills
+Account Management: ORG
+AI: ORG
+Epson: PERSON
+Financial: ORG
+GPS: ORG
+Networks: ORG
+Reuters: ORG
+Toshiba: ORG
+Additional Information
+
+Awards Winner: ORG
+three: CARDINAL
+Silver Anvils: GPE
+the Public Relations Society of America
+
+Awards Winner: ORG
+three: CARDINAL
+Silver Anvils: GPE
+the Public Relations Society of America: ORG

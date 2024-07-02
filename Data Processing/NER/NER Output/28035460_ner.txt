@@ -1,0 +1,93 @@
+Information Technology Specialist: ORG
+Assisted: ORG
+Principal Chemical Engineer / Information Technology Specialist: ORG
+10/2005: DATE
+National Board for Technology Incubation: ORG
+Abuja Nigeria: ORG
+Federal Ministry of Science and Technology: ORG
+Monitored: ORG
+Collaborated: ORG
+10/2002: CARDINAL
+09/2003: CARDINAL
+over 50%: PERCENT
+40%: PERCENT
+Engineer Intern: PERSON
+weekly: DATE
+Monitored: ORG
+Assisted: ORG
+Principal Chemical Engineer / Information Technology Specialist: ORG
+10/2005: DATE
+National Board for Technology Incubation: ORG
+Abuja Nigeria: ORG
+Federal Ministry of Science and Technology: ORG
+Monitored: ORG
+Collaborated: ORG
+10/2002: CARDINAL
+09/2003: CARDINAL
+over 50%: PERCENT
+40%: PERCENT
+Engineer Intern: PERSON
+weekly: DATE
+Monitored: ORG
+11/2005: CARDINAL
+University of Lagos - City: ORG
+Chemical Engineering: ORG
+09/2001: CARDINAL
+Federal University of Technology - State 
+
+Data Communication Network: ORG
+5: CARDINAL
+5: CARDINAL
+University of the District of Columbia - State 
+Information Security: ORG
+Course University: ORG
+Chemical Engineer: ORG
+10+ years: DATE
+Chemical
+Engineer Development: ORG
+Chemical Engineering: ORG
+Affiliations
+Information Technology Specialist University of the District of Columbia: ORG
+Workforce: ORG
+2018: DATE
+Licensed Registered Engineer Council: ORG
+Abuja, Nigeria 2006 ": GPE
+Sustainable Monitoring Capacity 2014 Building Programme: WORK_OF_ART
+Richflood International Limited: ORG
+Abuja, Nigeria ": ORG
+Supreme Management Training: ORG
+2012: DATE
+Consultancy Services Limited Johannesburg: ORG
+South Africa: GPE
+Highlights: GPE
+Microsoft Products: ORG
+Research and Development: ORG
+Administrative
+Excellent Interpersonal Skills
+Excellent Communication
+Cost: ORG
+Information Security
+Market development
+Materials
+Meetings: ORG
+Microsoft Products: ORG
+Network: ORG
+Network
+Organizational: PRODUCT
+Problem Solving Skills
+Processes
+Quality
+Research
+Risk: WORK_OF_ART
+Software: NORP
+Troubleshoot
+View
+
+Skills
+
+Administrative, Excellent Interpersonal Skills: PRODUCT
+Information Security: ORG
+Microsoft Products: ORG
+Network: ORG
+Problem Solving Skills: WORK_OF_ART
+Research, Risk: ORG

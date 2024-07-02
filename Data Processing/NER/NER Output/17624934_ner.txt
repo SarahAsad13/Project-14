@@ -1,0 +1,77 @@
+SPECIALIST: ORG
+the last 18 years: DATE
+Mayo Clinic: ORG
+UMHS: ORG
+Deloitte Consulting: ORG
+Skill Highlights: PERSON
+Core Accomplishments
+
+Creating and Maintaining a Performance Bases Culture
+Growing and Developing High Performing Team
+Oncology/Transplant RN: WORK_OF_ART
+100M++: MONEY
+Board of Directors: ORG
+Facilitated: ORG
+Physician Adoption
+: PERSON
+Best Practices: ORG
+HealthCare: PERSON
+May 1999 to March 2017: DATE
+Deloitte: ORG
+Operations Practice: ORG
+Healthcare: ORG
+Provided Leadership and Project Management: ORG
+year: DATE
+Mayo Clinic: ORG
+Kaiser Permanente: ORG
+Cedars-Sinai: ORG
+Sutter Health: ORG
+University of Michigan Health System: ORG
+CHI: ORG
+Children's Hospital of Wisconsin
+Authored: WORK_OF_ART
+Home Care Services: ORG
+May 1996: DATE
+May 1999: DATE
+Homecare Services: ORG
+10: CARDINAL
+40%: PERCENT
+a 1 year: DATE
+Infusion Services: ORG
+Pediatrics: ORG
+Mental Health and Private Duty
+
+: ORG
+February 1993: DATE
+May 1996: DATE
+PT: GPE
+OT: GPE
+Center: GPE
+first: ORDINAL
+JCAHO: ORG
+Ohio Medicaid Waiver: ORG
+third: ORDINAL
+Nurse: PERSON
+RN: ORG
+January 1984 to January 1993: DATE
+Rainbow Babies and Children's Hospital: ORG
+one: CARDINAL
+five: CARDINAL
+35: CARDINAL
+Daily: DATE
+300: CARDINAL
+Bachelor of Science: ORG
+State
+Executive Healthcare Management Certification CWRU Weatherhead ï¼​ City: ORG
+State: ORG
+Healthcare Management Cleveland State University: ORG
+3 of 4 years: DATE
+Publications/Presentations
+
+Optimization after Implementation
+Value Based Billing
+: ORG
+Transforming Healthcare
+Clinical Management Redesign: ORG
+Seasoned HealthCare Advisor: ORG
+Change Driver: PERSON

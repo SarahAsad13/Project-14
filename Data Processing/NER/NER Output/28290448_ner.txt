@@ -1,0 +1,76 @@
+Superb: NORP
+Microsoft Office Suite
+
+: ORG
+Associated Press Stylebook: ORG
+Twitter: PERSON
+LinkedIn: GPE
+Ello: ORG
+Women.com: ORG
+Instagram: ORG
+MySpace: GPE
+Communicated: WORK_OF_ART
+Ran: PERSON
+hundreds: CARDINAL
+March 2012 to January 2014: DATE
+Health Plan: ORG
+Public Relations: ORG
+Social Media: ORG
+Coordinated: ORG
+January 2005: DATE
+August 2010: DATE
+Communicated: ORG
+Created: ORG
+Facebook: PRODUCT
+Twitter: PRODUCT
+Developed: ORG
+Created: ORG
+Communication Plan
+Managed crisis communications: LAW
+December 1998 to October 2004: DATE
+Public Relations: ORG
+CNN: ORG
+Associated Press
+Managed: ORG
+Coordinated: ORG
+Created: ORG
+Managed Marketing/Communication: ORG
+3: CARDINAL
+December 1992: DATE
+May 1998: DATE
+Associated Press: ORG
+daily: DATE
+Photographed: GPE
+Networked: PRODUCT
+Covered: ORG
+3: CARDINAL
+2015: DATE
+Gonzaga University: ORG
+State: GPE
+USA: GPE
+2015: DATE
+Certificate in International Media summer, 2015
+
+Built cross-cultural competence: WORK_OF_ART
+Problem: PRODUCT
+1992: DATE
+Oregon State University: ORG
+State: GPE
+first: ORDINAL
+the County Address: ORG
+300: CARDINAL
+three: CARDINAL
+Power Point: PRODUCT
+Chamber of Commerce: ORG
+Skills
+
+Public Relations: ORG
+Media Relations: ORG
+Advertising, Marketing, Budget, Direct Mail: ORG
+Community Relations: ORG
+Content Management Systems: ORG
+InDesign: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+Operations: ORG
+Photoshop: ORG

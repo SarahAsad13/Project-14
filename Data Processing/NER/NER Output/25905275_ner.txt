@@ -1,0 +1,114 @@
+Career Overview
+Temporary/Permanent Service: WORK_OF_ART
+10 years': DATE
+Communication: ORG
+Efficient: PERSON
+Customer Service Ability: ORG
+Qualifications
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+& Outlook: ORG
+Microsoft: ORG
+Remedy: PERSON
+IBM: ORG
+February 2013: DATE
+December 2013: DATE
+Technician 40+ hours: TIME
+Houston: GPE
+TX: ORG
+28,800: MONEY
+Supervisor: PERSON
+Laura Burke: PERSON
+Dallas: GPE
+CompuCom Systems: ORG
+Fortune: PRODUCT
+100: CARDINAL
+CompuCom: ORG
+a Windows 7 Customer Support: ORG
+Cigna Health Care Provided: ORG
+35,000: CARDINAL
+Cigna Health: ORG
+Windows 7 migration Handled: PERSON
+English: LANGUAGE
+Spanish: NORP
+October 2010: DATE
+August 2012: DATE
+Company Name Information Technology Specialist: ORG
+40+ hrs per week: DATE
+Heidelberg Germany: GPE
+40,000: MONEY
+Maurice William Information: PERSON
+Maintain: PRODUCT
+May 2007: DATE
+October 2010: DATE
+40+ hrs per week: DATE
+Heidelberg Germany: GPE
+40,000: MONEY
+Wendy McDermott: PERSON
+Supervise: PERSON
+Performed: ORG
+April 1998: DATE
+February 2003: DATE
+Infantryman: PERSON
+40+: DATE
+Schofield Barracks: ORG
+28,000: MONEY
+Supervisor: PERSON
+Tony Cata: PERSON
+Army: ORG
+Aid: PERSON
+Assist: NORP
+Training: PERSON
+October 2014: DATE
+DeVry University City: ORG
+State Bachelors of College of Business Management : Technical Management GPA: Graduation with Distinction: ORG
+GPA: ORG
+3.0: CARDINAL
+Technical Management Graduation: ORG
+GPA: ORG
+3.0: CARDINAL
+Management Project Management: ORG
+Interests: NORP
+U.S Veterans Preference: ORG
+10: CARDINAL
+05/2007 - 08/2012: CARDINAL
+Honorable Discharge Military: ORG
+04/1998 - 02/2003: CARDINAL
+VEOA: ORG
+VRA: ORG
+30%: PERCENT
+Schedule A Hiring Authority: ORG
+Skills
+Army: ORG
+Computer Knowledge: PERSON
+Customer
+Support: ORG
+English: LANGUAGE
+IBM: ORG
+Information: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Multi: GPE
+Operating System: ORG
+Project
+Management: ORG
+Spanish: NORP
+Supervisor: PERSON
+Technician: NORP
+Additional Information
+
+Citizenship: ORG
+U.S Veterans Preference: ORG
+10: CARDINAL
+05/2007 - 08/2012: CARDINAL
+Honorable Discharge Military: ORG
+Honorable Discharge Security Clearance: ORG
+VEOA: ORG
+VRA: ORG
+30%: PERCENT
+Connected Disabled Veteran & Schedule A Hiring Authority: ORG

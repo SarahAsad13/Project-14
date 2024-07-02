@@ -1,0 +1,103 @@
+DIGITAL MARKETING: ORG
+Core Qualifications
+
+Window XP: ORG
+Vista: ORG
+7: DATE
+SQL: ORG
+Macros: PERSON
+VBA: ORG
+Software Products/Tools: ORG
+Microsoft Word: PERSON
+Excel: PRODUCT
+Vlookup: PERSON
+Access: ORG
+PowerPoint: ORG
+Sharepoint, Salesforce: ORG
+Google Analytics: ORG
+IBM Coremetrics: ORG
+Microstrategy: PERSON
+Infoview: GPE
+Basecamp: GPE
+Youtube: GPE
+Facebook Analytics: ORG
+Behavioral Psychology: ORG
+Digital Marketing: ORG
+Name City: GPE
+Grew: PERSON
+SEM: ORG
+15%: PERCENT
+this past year: DATE
+$20 million: MONEY
+Affiliate: ORG
+Retargeting: ORG
+SEM Adwords: ORG
+Collaborated: ORG
+Maintained: GPE
+Excel: PRODUCT
+CPC: ORG
+CPM: ORG
+PowerPoint: ORG
+KPI: PERSON
+ROI: ORG
+Created A/B: ORG
+10%: PERCENT
+CTR: ORG
+Conversion Rate: ORG
+LTV: ORG
+IBM Coremetric: ORG
+Google Analytics: ORG
+Affiliate Marketing: ORG
+Name City: GPE
+daily: DATE
+10%: PERCENT
+CPC: ORG
+CPM: ORG
+SiteCatalyst: ORG
+daily: DATE
+weekly: DATE
+Researched: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Vlookup: PERSON
+Collaborated: ORG
+04/2009: ORDINAL
+18%: PERCENT
+10%: PERCENT
+past years: DATE
+SQL: ORG
+Salesforce: GPE
+Business Object - Infoview: ORG
+CTR: ORG
+Created: ORG
+Excel: PRODUCT
+Vlookup: PERSON
+KPI: ORG
+PowerPoint: ORG
+CTR: ORG
+Loan Processor/Analyst 07/2004: ORG
+Database: GPE
+Automated Underwriting System: ORG
+Calculated: ORG
+Coordinated: ORG
+May 2004: DATE
+University of California City Cognitive Science Computational Modeling: ORG
+Conversion: ORG
+Database: GPE
+Google Analytics: ORG
+HTML: ORG
+IBM: ORG
+Lisp, Macros: ORG
+Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Sharepoint: ORG
+Window: ORG
+Microsoft Word: PERSON
+Microstrategy: PERSON
+Pivot: PERSON
+SQL: ORG
+Vista: ORG
+VBA: ORG

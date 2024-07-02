@@ -1,0 +1,14 @@
+Summary
+Attentive Automobile Service: ORG
+Current
+Automobile Service: ORG
+Maintained: GPE
+Prepared: PRODUCT
+Coordinated: ORG
+Training: PERSON
+2011: DATE
+Automotive Technology University: ORG
+State Automotive Technology: ORG
+2014: DATE
+Business Management University of California ï¼​ City: ORG
+State Business Management Want: ORG

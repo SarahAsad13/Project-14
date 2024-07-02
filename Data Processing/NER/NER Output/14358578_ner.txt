@@ -1,0 +1,41 @@
+Camryn
+Hilliard
+Professional Summary
+
+Highly: PERSON
+Exceptional Customer Service: ORG
+Problem: PRODUCT
+Pandora Jewlery: PERSON
+Multi: GPE
+University of Scranton City: ORG
+State: ORG
+Maintained: GPE
+first: ORDINAL
+Maintained: GPE
+Processed: GPE
+Pandora: GPE
+Maintained: GPE
+up to $500: MONEY
+zero: CARDINAL
+State: ORG
+Champion: ORG
+Nike: ORG
+Untipro: ORG
+Maintained: GPE
+first: ORDINAL
+Pacsun: PERSON
+Maintained: GPE
+Technician 
+City: GPE
+State: ORG
+Maintained: GPE
+daily: DATE
+Drug Enforcement Administration: ORG
+Assisted: ORG
+Monitored: ORG
+Conducted: ORG
+Processed: GPE
+American Sign Language :
+Elementary
+American Sign Language :
+Elementary: WORK_OF_ART

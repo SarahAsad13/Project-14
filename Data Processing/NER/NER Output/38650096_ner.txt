@@ -1,0 +1,31 @@
+a Real Estate Professional: ORG
+Microsoft Office: ORG
+Name City: GPE
+State Fitness Instructor: ORG
+Name City: GPE
+State Office: ORG
+MAC: ORG
+Name City: GPE
+State Wellness Coordinator/Group Instructor: ORG
+Wellness Center: ORG
+Newsletters: PERSON
+VA: ORG
+Excel: PRODUCT
+Associate of Arts :: ORG
+Mesa Community College: ORG
+City: GPE
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+Certifications: WORK_OF_ART
+Pure Barre Certified: PERSON
+Certified Group Fitness Instructor: ORG
+Appointment Setter: PERSON
+Multi: GPE
+Microsoft: ORG
+Microsoft Excel: ORG
+Outlook: PERSON
+OneDrive: ORG
+Flexible, Productive: WORK_OF_ART
+Efficient: PERSON

@@ -1,0 +1,113 @@
+Clients
+Client
+Delivery
+Product: WORK_OF_ART
+Accounting: GPE
+VC
+Advertising: ORG
+Website
+Agency: ORG
+Billing
+Book
+Brand: WORK_OF_ART
+Oversee: ORG
+3rd: ORDINAL
+three: CARDINAL
+Prospect: ORG
+100: CARDINAL
+D2C: ORG
+Sheau: PERSON
+within first 3 months: DATE
+Sourced 30+: DATE
+VC: PERSON
+Sohuis: PERSON
+Account Executive: ORG
+500: MONEY
+10%: PERCENT
+60: CARDINAL
+Conducted: ORG
+QBR: ORG
+Account Executive: ORG
+04/2018: ORG
+224: MONEY
+first: ORDINAL
+Spearheaded: GPE
+east coast: LOC
+04/2018: ORG
+1MM: MONEY
+quarterly: DATE
+315%: PERCENT
+9 months: DATE
+quarterly: DATE
+123%: PERCENT
+Q4 2017: DATE
+3MM: MONEY
+quarterly: DATE
+12/2012: CARDINAL
+Media Planner: ORG
+10/2011: CARDINAL
+11/2012: CARDINAL
+multimillion-dollar: MONEY
+BA : Rhetoric and Communications: ORG
+05/2011 
+University of Richmond - City: ORG
+State: ORG
+Kappa Alpha Theta: PERSON
+Global Players Study Abroad for Student Athletes: ORG
+Prague: GPE
+Berlin World Cup Tournaments: ORG
+Central Europe: LOC
+Oversee: ORG
+3rd: ORDINAL
+three: CARDINAL
+Prospect: ORG
+100: CARDINAL
+D2C: ORG
+Sheau: PERSON
+within first 3 months: DATE
+Sourced 30+: DATE
+VC: PERSON
+Sohuis: PERSON
+Account Executive: ORG
+500: MONEY
+10%: PERCENT
+60: CARDINAL
+Conducted: ORG
+QBR: ORG
+Account Executive: ORG
+04/2018: ORG
+224: MONEY
+first: ORDINAL
+Spearheaded: GPE
+east coast: LOC
+04/2018: ORG
+1MM: MONEY
+quarterly: DATE
+315%: PERCENT
+9 months: DATE
+quarterly: DATE
+123%: PERCENT
+Q4 2017: DATE
+3MM: MONEY
+quarterly: DATE
+12/2012: CARDINAL
+Media Planner: ORG
+10/2011: CARDINAL
+11/2012: CARDINAL
+multimillion-dollar: MONEY
+INTERESTS: ORG
+Lover: PERSON
+the Kalalau Trail: FAC
+Kauai: GPE
+Wai Rata: PERSON
+New Zealand: GPE
+Avid
+audiobook listener: PERSON
+Skills: ORG
+NNetwork: NORP
+LLead: ORG
+IInterpersonal: ORG
+PProduct: ORG
+CContent: ORG
+Network: ORG
+VC: PERSON

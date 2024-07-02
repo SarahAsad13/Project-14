@@ -1,0 +1,94 @@
+Summary
+
+Highly: ORG
+Research Scientist: ORG
+Focused, Hardworking, Highly: ORG
+Innovative: NORP
+Pragmatic: NORP
+Proactive, Productive, Proficient: ORG
+Softmax Pro: PERSON
+MS-Office Suite: ORG
+Excel: PRODUCT
+PowerPoint & Word: ORG
+Windows & Mac OS: ORG
+2012: DATE
+Histone H3 & H4: ORG
+H3K14A: PERSON
+Western Blot: ORG
+Molecular Characterization of Root Nodule Associated Bacteria: WORK_OF_ART
+2011: DATE
+Mass Cultivation &
+Optimization of Biofuel Production: ORG
+2011: DATE
+1st: ORDINAL
+BITS-Pilani: FAC
+Dubai Annual Technical: ORG
+2nd: ORDINAL
+the Engineering Student Renewable Energy Competition-2011 Isolation & Characterization of Bacterial Strains: ORG
+Bioremediation of Soil Contaminated with Oil Spills: ORG
+2009: DATE
+1st: ORDINAL
+the BITS-Pilani: FAC
+Dubai Annual Technical Conference - 2009: ORG
+SKILLS Interpersonal: ORG
+Chimera Biotechnology Club - BITS Pilani Dubai Communication
+Key: ORG
+Saladax Biomedical,Inc.: ORG
+Saladax Biomedical, Inc.
+
+: ORG
+Jun 2013: PERSON
+ELISA: ORG
+GLP/GMP: ORG
+Jun 2012: DATE
+2012: DATE
+RT-PCR: ORG
+RT-PCR: ORG
+ELISA: ORG
+2010 to Jan 2011: DATE
+Isolation, Characterization & Cross Inoculation Studies: ORG
+Rhizobia: GPE
+Salinity Conditions': ORG
+40: CARDINAL
+Jun 2009: DATE
+2009: DATE
+the Biochemistry, Immunology & Hematology: ORG
+GPA: ORG
+3.83/4.0: CARDINAL
+GPA: ORG
+3.83/4.0: CARDINAL
+Bachelor of Engineering: ORG
+Biotechnology Birla Institute of Technology & Science ï¼​ City: ORG
+GPA: ORG
+9.62/10: CARDINAL
+9.62/10: CARDINAL
+Publications
+Isolation: ORG
+United Arab Emirates Emirates Journal of Food and Agriculture: GPE
+2013: DATE
+Vol 25: DATE
+2013: DATE
+February: DATE
+Science Development Network: ORG
+Interests
+Team: ORG
+Saladax Biomedical: ORG
+National Association of the Blind & National Cancer Rose Day: ORG
+Skills
+C: ORG
+C++: PERSON
+ELISA: ORG
+GLP: ORG
+GMP: ORG
+Mac OS: ORG
+Excel: PRODUCT
+MS-Office Suite: ORG
+PowerPoint: ORG
+Windows: NORP
+RT-PCR: ORG
+Validation
+Additional Information
+
+Team: ORG
+Saladax Biomedical: ORG
+National Association of the Blind & National Cancer Rose Day: ORG

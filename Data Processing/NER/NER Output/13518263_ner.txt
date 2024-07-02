@@ -1,0 +1,20 @@
+INTERIOR: ORG
+26 years: DATE
+Interior: ORG
+27 years: DATE
+Vettese: PRODUCT
+over 18 years: DATE
+9: CARDINAL
+US: GPE
+Mexico: GPE
+07/2013
+International Representative Company Name - City: PRODUCT
+third: ORDINAL
+1987: DATE
+Associate of Arts :: ORG
+State: GPE
+USA Arts: ORG
+1985: DATE
+Calvin Coolidge: PERSON
+State: GPE
+USA: GPE

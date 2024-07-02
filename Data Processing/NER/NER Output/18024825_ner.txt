@@ -1,0 +1,165 @@
+PHD: ORG
+several years: DATE
+Quantitative Research: ORG
+Finance: ORG
+Highlights
+Proficient: WORK_OF_ART
+SAS: ORG
+SQL: ORG
+C++: GPE
+Fortran: GPE
+VBA: ORG
+Project Management Experience
+
+: ORG
+PhD Candidate in Finance 08/2010: WORK_OF_ART
+Finance: ORG
+1: CARDINAL
+Reduce Agency: ORG
+Washington State: GPE
+Maximum Entropy Econometrics: ORG
+2: CARDINAL
+3: CARDINAL
+5: DATE
+A State Space Approach: WORK_OF_ART
+Name City: GPE
+Taught MBA: WORK_OF_ART
+Undergraduate Classes: ORG
+Investments, Financial Markets: ORG
+Institutions, Bank Financial Management: ORG
+Financial Management: ORG
+Asst: PERSON
+Finance: ORG
+06/2010 Company Name City: ORG
+Taught MBA: WORK_OF_ART
+Undergraduate Classes: ORG
+Financial Modeling: ORG
+Strategic Business Problem Solving: ORG
+Working Capital Management
+
+Research: ORG
+Name City: GPE
+State: ORG
+Principal Investigator: ORG
+DOE: ORG
+12/2000: CARDINAL
+Name City: GPE
+US Air Force: ORG
+Ph.D. : Materials Science and Engineering: WORK_OF_ART
+6 1999: DATE
+Georgia Institute of Technology: ORG
+State: GPE
+USA: GPE
+Metallurgical Engineering: ORG
+6 1992: DATE
+Bombay City: GPE
+India: GPE
+Ph.D. :: WORK_OF_ART
+2015: DATE
+University of Connecticut City: ORG
+State: GPE
+USA: GPE
+12: CARDINAL
+2007: DATE
+Gonzaga University City: ORG
+State: GPE
+USA: GPE
+M.S.: GPE
+12 1995: DATE
+Georgia Institute of Technology: ORG
+State: GPE
+USA: GPE
+Sample Publications: ORG
+1: CARDINAL
+Namjoshi Shantanu: PERSON
+Matthew Q: PERSON
+Friesner Dan: PERSON
+Reduce Agency Costs and Increase Hospital Efficiency: ORG
+Washington State: GPE
+Global Business and Finance Review: ORG
+17: CARDINAL
+2: DATE
+2012: DATE
+137: CARDINAL
+2: CARDINAL
+K. Hickman: PERSON
+The Impact of Morningstar Five-Star Ratings, Journal of the Academy of Finance: WORK_OF_ART
+Summer 2010: DATE
+3: CARDINAL
+Namjoshi Shantanu: PERSON
+Effects on Stock Returns: ORG
+Finance &
+Accounting: ORG
+August 9-10, 2013: DATE
+SDM Institute for Management Development, Mysore: ORG
+India: GPE
+4: CARDINAL
+Namjoshi Shantanu: PERSON
+Sentiment Measures: PERSON
+2014: DATE
+Chicago: GPE
+IL: GPE
+March 2014: DATE
+5: CARDINAL
+Namjoshi Shantanu: PERSON
+A State-Space Model for Investor Sentiment: ORG
+6: CARDINAL
+Namjoshi Shantanu: PERSON
+Herding: PERSON
+A State Space Approach: WORK_OF_ART
+7: DATE
+K.S. Raja: PERSON
+S. A. Namjoshi: PERSON
+M. Misra: PERSON
+Surface Nanocrystallization: ORG
+59: DATE
+570: CARDINAL
+8): CARDINAL
+S. Mall: PERSON
+S.A. Namjoshi: PERSON
+W.J. Porter: PERSON
+383: CARDINAL
+2004: DATE
+334â€“340: CARDINAL
+9: CARDINAL
+Namjoshi S. & Mall S.: PERSON
+The International Journal of
+Fatigue 23 (2001: ORG
+10: CARDINAL
+Namjoshi S.A.: ORG
+Thadhani N.N.: PERSON
+Modeling The Reaction Synthesis Of Shock-Densified Titanium-Silicon Powder Mixture Compacts: ORG
+Metallurgical and Materials Transactions B: ORG
+31B: CARDINAL
+2: CARDINAL
+pp.: GPE
+307: CARDINAL
+Apr. 2000: DATE
+11: CARDINAL
+Royal T.E.: ORG
+Namjoshi S.A.: ORG
+Thadhani N.N.: PERSON
+the Ti-Si: ORG
+Ti-Al: NORP
+Ti-B Systems: ORG
+Metallurgical and Materials Transactions A: ORG
+1761-1771: DATE
+July 1996: DATE
+1: CARDINAL
+2005: DATE
+1: CARDINAL
+M.S.: GPE
+2004: DATE
+J. C. Lacombe: PERSON
+S. A. Namjoshi: PERSON
+M. Misra: PERSON
+Fabrication of Porous Metal Templates: ORG
+US: GPE
+20050276743: DATE
+K. S. Raja: PERSON
+S. A. Namjoshi: PERSON
+M. Misra: PERSON
+Forming Nanoporous Surfaces: ORG
+Nanoporous Surfaces: WORK_OF_ART
+â€​: CARDINAL
+May 2004: DATE

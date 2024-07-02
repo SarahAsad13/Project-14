@@ -1,0 +1,83 @@
+FINANCE: ORG
+PeopleSoft: ORG
+Tableau: GPE
+Access
+Excel
+Hyperion: PRODUCT
+July 2014: DATE
+Professional Lab Services: ORG
+PLS: ORG
+Reviews: ORG
+Spearheads: PRODUCT
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+PLS: ORG
+Established: ORG
+annual: DATE
+quarterly: DATE
+Reviews: NORP
+PLS: ORG
+annual: DATE
+PLS: ORG
+June 2012 to July 2014: DATE
+Operational Leadership Team: ORG
+P&L: ORG
+FTE: ORG
+monthly: DATE
+$1.5 Billion: MONEY
+Centralized Accounting: ORG
+Built: ORG
+Salaries: PERSON
+5,000: CARDINAL
+monthly: DATE
+Operational Leadership Team: ORG
+monthly: DATE
+monthly: DATE
+Automobile: ORG
+Shuttle, Rent, Telecommunications,: ORG
+Utilities: ORG
+Depreciation: ORG
+daily: DATE
+Regional Fixed Asset: ORG
+Internal Audits: ORG
+SOX: ORG
+one: CARDINAL
+November 2010 to June 2012: DATE
+Auditor - Internal Audit 
+City: ORG
+2: CARDINAL
+Senior Auditors: ORG
+Headed Foreign Corrupt Practices Act: ORG
+Business Unit: ORG
+Worked with Legal Counsel: ORG
+FCPA: PRODUCT
+one: CARDINAL
+August 2008 to November 2010: DATE
+Auditor 
+
+City: PERSON
+SEC: ORG
+May 2008: DATE
+GPA: ORG
+3.95: CARDINAL
+3.95: CARDINAL
+Seton Hall University: ORG
+December 2009: DATE
+Professional Accounting City: ORG
+GPA: ORG
+3.94: CARDINAL
+Professional Accounting GPA: ORG
+3.94: CARDINAL
+Skills
+Accounting: ORG
+Essbase: GPE
+Finance: ORG
+Hyperion: ORG
+Internal Audits: ORG
+Legal: GPE
+Excel: PRODUCT
+PeopleSoft: ORG
+SOX: ORG
+Tableau: GPE
+Utilities: ORG

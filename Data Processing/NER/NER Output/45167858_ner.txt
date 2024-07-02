@@ -1,0 +1,45 @@
+BANKING RELATIONSHIP SPECIALIST: ORG
+7 years: DATE
+Dedicated Customer Service Representative: ORG
+Customer: ORG
+Adaptive: ORG
+Types: ORG
+45 wpm: TIME
+Call CenterÂ 
+Reliable: WORK_OF_ART
+100 %: PERCENT
+daily: DATE
+900,000: MONEY
+Sep 2011: EVENT
+Live Support: LOC
+Customer Service Customer Service Inbound Call Center Transfer: ORG
+Researched: ORG
+Computed Data Reports Provided: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Customer Interface Greeted: ORG
+Completed: ORG
+daily: DATE
+Dec 2004: DATE
+Processed: GPE
+daily: DATE
+Assisted Operations: ORG
+a Merchant Teller: PRODUCT
+Teller Jun 2004 to Dec 2004: DATE
+Cashed: GPE
+daily: DATE
+Processed: GPE
+Teller: PERSON
+Associate of Science: ORG
+Inter Social Behavioral Sciences: ORG
+2016: DATE
+Los Angeles Southwest College: ORG
+ï¼​ City: GPE
+State: GPE
+United States: GPE
+Fingerprinting: GPE
+Â Excellent: ORG
+Fax, Filing, Answering: WORK_OF_ART
+50: CARDINAL
+Microsoft: ORG

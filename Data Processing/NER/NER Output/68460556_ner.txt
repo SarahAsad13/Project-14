@@ -1,0 +1,46 @@
+the Entry Level Information Technology Management: ORG
+Power Point: ORG
+Excel: PRODUCT
+10/2014: CARDINAL
+State: ORG
+American Sign Language: WORK_OF_ART
+ASL: ORG
+ASL: ORG
+06/2012: CARDINAL
+08/2012: CARDINAL
+Information Technology Intern Company Name: ORG
+Excel: PRODUCT
+House of Representatives: ORG
+the Library of Congress: WORK_OF_ART
+08/2012: CARDINAL
+Media Student Assistant Company Name: ORG
+the Computer Aided Real-Time: ORG
+daily: DATE
+December 2016: DATE
+Information and Technology Management American Sign Language Bloomsburg University of Pennsylvania ï¼​ City: ORG
+State Information: ORG
+Technology Management American Sign Language 3.35: ORG
+American Sign Language: LOC
+English: LANGUAGE
+Skills
+American Sign Language: ORG
+English: LANGUAGE
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+Additional Information
+
+Awards/Certificates: ORG
+Dean: PERSON
+3.50: CARDINAL
+GPA: ORG
+Spring 2016: DATE
+Bloomsburg University: ORG
+Activities/Communities: ORG
+Chi Alpha Epsilon: PERSON
+2015 - 2016: DATE
+Society 2015 - 2016: DATE
+2015 - 2016: DATE
+Signify Club: ORG
+2015 - 2016: DATE
+2012: DATE

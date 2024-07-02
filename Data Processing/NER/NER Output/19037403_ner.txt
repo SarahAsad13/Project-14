@@ -1,0 +1,109 @@
+PROFESSIONAL FITNESS TRAINER: ORG
+GROUP INSTRUCTOR
+Professional Summary
+My professional: ORG
+Professional Fitness: ORG
+the National Exercise and Sports Training
+Association: ORG
+Kettlebell: PERSON
+daily: DATE
+Â Â  : PRODUCT
+Deep Tissue: GPE
+Sports: GPE
+Swedish Massage: GPE
+Memberships: PERSON
+Professional Fitness Trainer,: ORG
+Group Instructor: ORG
+February 2015: DATE
+Wellfit Malibu: ORG
+Wellfit Malibu: ORG
+HiiT (High Intensity Interval Training: ORG
+Strength Training: PERSON
+Kick boxing: PERSON
+Circuit Training: PERSON
+Plyometrics: PERSON
+Agility Training: ORG
+Aqua Fitness: ORG
+Restorative Stretch: PRODUCT
+Test In and Test Outs: WORK_OF_ART
+InBody: ORG
+Max and/or RMR: PERSON
+Wellfit Malibu: FAC
+October 1995: DATE
+Current Company Name: ORG
+Professional Fitness Trainer: ORG
+daily: DATE
+Acupuncturist: PERSON
+Skin Specialist: PERSON
+Fitness Training: PERSON
+Beach Plyo: WORK_OF_ART
+two: CARDINAL
+Balance/Gait: ORG
+Celebrity Personal Training Clients: ORG
+Patrick: PERSON
+Jillian Dempsey: PERSON
+Professional Actor & Make: ORG
+Artist: NORP
+Stars: ORG
+Cher: PERSON
+Actress: ORG
+Producer: PERSON
+Lori Stark: PERSON
+Owner: ORG
+Navi Rawat (Professional Actress: ORG
+David Ellis: PERSON
+Producer: PERSON
+Greer Grammer: PERSON
+(Professional Actress: ORG
+Golden Globe: PERSON
+2015: DATE
+Daughter of Kelsey Grammer: ORG
+Kenny G: PERSON
+Saxaphone Performer: PERSON
+January 1993 to September 1994: DATE
+the Total Woman Gym: ORG
+Ventura: GPE
+CA: ORG
+Professional Triathlete: ORG
+January 1989 to December 1995: DATE
+the United States: GPE
+Saucony: PERSON
+Oakley: ORG
+Danskin: PERSON
+Power Bar: ORG
+Hamilton Bikes: PERSON
+Easton: GPE
+Impex: ORG
+Japanese Nutrition: ORG
+September 1994 to October 1995: DATE
+Hostess: ORG
+September 1987 to October 1990: DATE
+daily: DATE
+1988: DATE
+Varsity Soccer: PERSON
+Varsity Cross Country/Track
+Associate of Arts VENTURA COMMUNITY: ORG
+City: GPE
+State: GPE
+United States: GPE
+UNITED STATES: GPE
+Cal Poly: PERSON
+Luis Obispo: PERSON
+City: GPE
+State: GPE
+United States: GPE
+SAN LUIS: GPE
+CA UNITED: PERSON
+Sports Medicine Program: ORG
+Sports Medicine: ORG
+Skills
+Professional Fitness Trainer: ORG
+Certified Trainer: PERSON
+Kettlebell Certified Trainer: PERSON
+Office Management, Accounting, Scheduling
+Appointments, Insurance Billing: ORG
+Certified Massage Therapist: ORG
+Los Angeles: GPE
+Computer Proficient: ORG
+Customer
+Service: ORG

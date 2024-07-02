@@ -1,0 +1,45 @@
+SUPERVISOR: ORG
+10+ years: DATE
+10 plus years: DATE
+1 year: DATE
+5 years: DATE
+5S: CARDINAL
+Aftermarket Radiator Company: ORG
+Core Qualifications: ORG
+Customer: ORG
+Excel: PRODUCT
+Strong: PERSON
+Strong: PERSON
+Opening: WORK_OF_ART
+Knowledgeable: PRODUCT
+Communicated: ORG
+Created: ORG
+weekly: DATE
+Excel: PRODUCT
+Processed: GPE
+daily: DATE
+100%: PERCENT
+Shipped: PERSON
+Maintained: GPE
+New Operators: ORG
+Packed: ORG
+Packed: ORG
+Cold: ORG
+Hero Automotive: ORG
+Ran: PERSON
+Inspected: ORG
+Monitored: ORG
+Oversaw: GPE
+jack: PERSON
+Completed: ORG
+Determine: PRODUCT
+1997: DATE
+Scribner -Snyder Scribner: PERSON
+Ne: ORG
+Dodge: ORG
+Skills
+Automotive: ORG
+Customer: ORG
+Excel: PRODUCT
+Strong Organizational Skills: PERSON
+Quality: ORG

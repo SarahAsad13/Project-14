@@ -1,0 +1,95 @@
+Career Focus
+
+Ambitious: ORG
+one year: DATE
+Human Resources: ORG
+the EBSCO Host: ORG
+Core Qualifications
+Mac: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+WordPress: ORG
+Hootsuite: PERSON
+Google Docs: PERSON
+Twitter: PERSON
+Facebook Management: ORG
+Google: ORG
+Trapit: ORG
+HRIS: ORG
+Research Databases:
+
+Human Resources Information System Databases: Ceridian and Kronos, Cision: WORK_OF_ART
+Ebsco Host: PERSON
+Westfield State University Honors Program: ORG
+Dan Doyle Memorial: PERSON
+October 2014 to September 2015: DATE
+Assist: NORP
+Track Employee Anniversaries Strong Customer
+Service: WORK_OF_ART
+Winn Event Planning Committee: ORG
+Learning Management System: ORG
+Facilitate WinnStart: ORG
+May 2014 to September 2015: DATE
+Maintained: GPE
+Upheld: PERSON
+Communicated: ORG
+May 2007 to September 2015: DATE
+4: CARDINAL
+4 years: DATE
+Mentored: ORG
+Communications Intern: PERSON
+January 2014: DATE
+May 2014: DATE
+Alumni Mentor Networking Night: PRODUCT
+University: GPE
+June 2013 to August 2013: DATE
+2: CARDINAL
+weekly: DATE
+3: CARDINAL
+Twitter: PRODUCT
+Virginia: GPE
+Google: ORG
+United Mine Workers of America
+Coordinated: ORG
+Experienced: PRODUCT
+Training
+Bachelor of Arts: PERSON
+May 2014: DATE
+Westfield State University: ORG
+GPA: ORG
+3.877/4.00 Communication Public Corporate Communication Political Science GPA: ORG
+The Washington Center: ORG
+Washington DC: GPE
+05/2012: CARDINAL
+National Politics Contributed: ORG
+Interests: NORP
+Westfield State Track: PERSON
+09/2010-05/2014: ORG
+Summer 2013: DATE
+Volunteer: PERSON
+Westfield: PERSON
+Girls Club: ORG
+Spring 2011-2012: DATE
+July 2013: DATE
+Campus Activities Board: Event Promotions: ORG
+10/2013: CARDINAL
+2: CARDINAL
+Communication Department: ORG
+April 2014: DATE
+092010-05/2014: PERSON
+Team Red White: ORG
+Blue: Veteran Services: ORG
+Summer 2013
+Volunteer: DATE
+Westfield: PERSON
+2011-2012: DATE
+July 2013: DATE
+Campus Activities Board 09/2013-05/2014: ORG
+Student Government Association: ORG
+2: CARDINAL
+Communication Department: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+HRIS: ORG

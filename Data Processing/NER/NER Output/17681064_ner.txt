@@ -1,0 +1,113 @@
+15+ Years: DATE
+Information Technology: ORG
+RFI: ORG
+RFP: ORG
+MSA: ORG
+Project Management: ORG
+Change Management Review Board
+Saved Millions of Dollars: ORG
+â€œPartnershipsâ€​: ORG
+Lead a Business Relationship Management Team: ORG
+MBA Degree
+Successfully: WORK_OF_ART
+Business, Technical and Operational: ORG
+Specialist: ORG
+Executive Level Technical Business Presentations: ORG
+Highlights
+
+Global: WORK_OF_ART
+Vendor: ORG
+Cloud Computing: PERSON
+MBA Degree
+
+Experience
+Information Technology Senior: WORK_OF_ART
+April 2013 to February 2015: DATE
+Leadership: NORP
+RFI: ORG
+Vendor: ORG
+Draft: ORG
+Performance Metrics, System Availability: ORG
+Vendors: ORG
+MindTree: NORP
+Presidio: ORG
+Oracle (OMCS: ORG
+Cisco: GPE
+Genpact: GPE
+TechDemocracy: ORG
+Tata: ORG
+Pegasystems: ORG
+Amdocs: ORG
+Annual: DATE
+$2.75 million dollars: MONEY
+Implemented Onsite: ORG
+Information Technology: ORG
+January 2000 to February 2013: DATE
+Major Entertainment Company: ORG
+Email: PERSON
+VoIP: LOC
+3.2 million: CARDINAL
+Information Technology: ORG
+Researched: ORG
+RFI: ORG
+RFP: ORG
+Drafted: ORG
+Extensive Business Systems: ORG
+Project Management and Business Relationship: ORG
+Information Systems: ORG
+Customer Service: ORG
+99.93%: PERCENT
+99.99%: PERCENT
+Maintained: GPE
+JD Powers: PERSON
+Directed a Business Relationship Management: ORG
+the Business Units: ORG
+Extensive
+Strategic Vendor Management: PERSON
+January 1999 to January 2000: DATE
+Senior Management: ORG
+Corporate
+Information Technology: ORG
+January 1998 to January 1999: DATE
+Fortune 500 Companies in Investments: WORK_OF_ART
+Merrill Lynch: ORG
+Guardian: ORG
+JP Morgan Chase: ORG
+CRM: PRODUCT
+World Bank: ORG
+Project Management: ORG
+Project Costing: PERSON
+Customer Executive Level: ORG
+Assisted the Sales: ORG
+3: CARDINAL
+Business Administration Adelphi University: ORG
+ï¼​ City: GPE
+State Business Administration
+B.S :: ORG
+Economics State University of New York: ORG
+State Management and Economics: ORG
+New Horizons Consulting ITIL v3 Foundation: ORG
+v3 Practitioner: PERSON
+Business Systems: ORG
+Cisco: GPE
+3: CARDINAL
+Consulting: ORG
+CRM: PRODUCT
+Client: GPE
+Customer Service: ORG
+Email: PERSON
+Senior Management, Finance: ORG
+Guardian: ORG
+Information Systems: ORG
+Information Technology: ORG
+Insurance, Investments: ORG
+Leadership: PERSON
+MSA: ORG
+Enterprise: ORG
+Oracle, Project Management: ORG
+Relationship Management: ORG
+RFI: ORG
+RFP: ORG
+Strategic: PERSON
+Vendor Management: ORG
+VoIP: LOC

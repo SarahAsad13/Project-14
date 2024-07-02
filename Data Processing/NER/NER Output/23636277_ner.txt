@@ -1,0 +1,143 @@
+Accountant: LOC
+Highlights
+
+MS Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Adobe Reader: PERSON
+QuickBooks: ORG
+Lacerte, Prosystems & Tax: ORG
+Accounts Payable Processes & Management
+Invoices/Expense Reports/Payment Transactions: ORG
+Corporate Accounting & Bookkeeping
+Finalization of Trial Balance & Balance Sheet/Income Statement: ORG
+Spreadsheets & Accounting Reports: ORG
+Handle Customer Relations: ORG
+Journal Entries & General Ledger
+Bank Reconciliation & General Ledger: ORG
+Teambuilding & Staff Supervision: ORG
+Current
+Accountant Company Name: ORG
+Quickbooks Accounting: ORG
+2013: DATE
+2016: DATE
+Working: ORG
+Prosystems: NORP
+Individuals & Corporate: ORG
+Lacerte: GPE
+W2: PERSON
+1099: DATE
+monthly: DATE
+yearly: DATE
+Perform MS Office Excel: ORG
+VLookup: PERSON
+Pivot: PERSON
+LeadForus: ORG
+Nonprofit Organization: ORG
+06/2013 to 11/2013: CARDINAL
+SAP Consultant Company Name: ORG
+G/L Masters: ORG
+House: ORG
+Chart of Accounts: ORG
+Keys: PERSON
+Customer/Vendor Accounts Groups: ORG
+Created Input /Output Tax & Withholding Tax: ORG
+COPA: ORG
+Costing Based Profitability Analysis: ORG
+Fiscal year: DATE
+Document: WORK_OF_ART
+Vendor Account & Vendor Master &: ORG
+monthly: DATE
+MIS: ORG
+Posted Incoming Invoice &: ORG
+Financial Analyst Company Name: ORG
+two: CARDINAL
+Conducted Audit: ORG
+Private Equity: ORG
+Companies & LLP's: ORG
+Prepared, Finalized &: ORG
+Prepared & Reconciled: ORG
+Maintained: GPE
+Overviewed day to day: DATE
+finance & secretarial department: ORG
+04/2009: ORDINAL
+12/2010: CARDINAL
+Accountant Company Name: ORG
+Reconciled: DATE
+annual: DATE
+Annual: DATE
+Stock Exchange: ORG
+Bankers, Solicitors &: ORG
+MIS Reports: ORG
+Pursuing Certified Public Accountant: ORG
+Boston: GPE
+MA CPA Candidate University of Mumbai: ORG
+State: GPE
+India: GPE
+Mar'11: GPE
+Labor Laws, Constitutional law, Contract Act, Environmental law, Interpretation of Statues, Public Intern: WORK_OF_ART
+Business Law: ORG
+Jun'07-Dec'10: PERSON
+Tax Laws, Cost & Management Accounting, Information
+Technology & Systems Audit: WORK_OF_ART
+Treasury & Forex Management: ORG
+Labor: ORG
+Secretarial
+Audit: ORG
+Institute of Company Secretaries of India: ORG
+ICSI: ORG
+State: ORG
+India: GPE
+'08: DATE
+Commerce University of Mumbai: ORG
+State: GPE
+India Commerce
+Financial Accounting & Auditing: ORG
+Business Management, Economics, Management Accounting: ORG
+Cost Accounting, Export, Business
+Communication, Business Development: ORG
+Tax Management & Business: ORG
+Skills
+Accounting: ORG
+Accounts Payable: ORG
+Adobe: PERSON
+Trial Balance: PERSON
+Balance
+Sheet: PERSON
+Bank Reconciliation, Bookkeeping, Business Communication, Business Development, Business Law: ORG
+Business
+Management: ORG
+Corporate Accounting: ORG
+Cost Accounting: ORG
+Customer Relations: ORG
+Dec: PERSON
+Due Diligence: PERSON
+Filing: GPE
+Financial, Financial
+Accounting: ORG
+Forex: ORG
+Ledger: PERSON
+Information Technology: ORG
+Interpretation: NORP
+Lacerte: GPE
+Law: PERSON
+MA: PERSON
+Excel: PRODUCT
+Excel: PRODUCT
+Exchange: ORG
+MS Office: ORG
+PowerPoint: ORG
+Word: PERSON
+MIS: ORG
+Pivot: PERSON
+Processes: ORG
+QuickBooks: ORG
+Quickbooks Accounting: ORG
+SAP R/3: ORG
+Secretarial, Spreadsheets, Staff Supervision: ORG
+Tax Laws: PERSON
+Tax: PERSON
+Treasury: ORG
+Valuation: GPE
+annual: DATE

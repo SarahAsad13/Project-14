@@ -1,0 +1,90 @@
+Producer: GPE
+DSLR: ORG
+Detail: PERSON
+Final Cut Pro 7/X: EVENT
+Adobe Software: PERSON
+Excels: PERSON
+The "Jill-of-all-Trades: WORK_OF_ART
+Produce, Edit, Direct, Write and Film: ORG
+Movies, Music Videos: ORG
+Updates Social: ORG
+YouTube: ORG
+Facebook, Instagram: ORG
+Twitter: PERSON
+Branding & Growing A Following: WORK_OF_ART
+Social Media: ORG
+Create: ORG
+13-35years: CARDINAL
+Photoshop or Illustrator Â: WORK_OF_ART
+D.R.E.A.M theWORKSHOOT Series Â: DATE
+D.R.E.A.M: PERSON
+clientÃ¨le: PERSON
+D.R.E.A.M.
+Train: PERSON
+AC & Crew: ORG
+Company Name - City: PERSON
+Music Video: ORG
+Location: ORG
+Contract-Hire: ORG
+A.D: NORP
+Producer: GPE
+NDA: ORG
+Multimedia Intern Company Name - City: ORG
+Commencements, Conferences, Open House, Convocations: ORG
+Scriptwriter: PERSON
+Script Reviser: PERSON
+MSU: ORG
+Media Journalist: ORG
+DMC: ORG
+MSU: ORG
+Bear TV: ORG
+Intern Company Name - City: PRODUCT
+Real Marylanders Reel Jobs: WORK_OF_ART
+Maryland: GPE
+Arrange: PERSON
+Production Office: ORG
+2,000: CARDINAL
+SpiceRack Productions Inc.: ORG
+SpiceRack: ORG
+Twitter: PERSON
+Facebook,: ORG
+Tumblr: GPE
+Instagram: GPE
+Accompany: PRODUCT
+Assist: NORP
+2014: DATE
+State: GPE
+USA: GPE
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+3.7: CARDINAL
+Magna Cum Laude Honors Graduate: ORG
+2008: DATE
+Spanish: LANGUAGE
+Chinese: NORP
+Mandarin: LANGUAGE
+EOS: ORG
+DSLR: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook and Publisher: ORG
+Adobe: PERSON
+Lightroom: ORG
+Final Cut Pro X.
+
+-Expert: ORG
+Social Media Outlets: ORG
+Facebook: PERSON
+Vimeo: GPE
+Instagram: GPE
+LinkedIn: GPE
+Pinterest: ORG
+WordPress: ORG
+Tumblr: GPE
+Blogger,: ORG
+Vine: PERSON
+IndieGogo: NORP
+KickStarted: ORG
+Marketing Skills: PERSON

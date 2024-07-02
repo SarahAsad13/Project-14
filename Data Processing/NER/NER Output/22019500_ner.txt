@@ -1,0 +1,103 @@
+OSP/Construction/Engineering: ORG
+33+ years: DATE
+30: CARDINAL
+40 union: PERCENT
+the OSP Construction: ORG
+Fiber and Copper: ORG
+200: CARDINAL
+the Automated Metering System: ORG
+3 year: DATE
+Core Qualifications
+
+Supervision: ORG
+Complex: NORP
+Team Leadership
+Copper/Fiber Splicing
+Cable Maintenance: ORG
+OSP Aerial: ORG
+Buried, Underground
+Safety, Quality & Production Management
+Cell Site Construction
+
+: ORG
+Alcatel/Lucent 8600 Training: ORG
+Project Management: ORG
+OSP Fault Locating: ORG
+AutoCad Training
+Customer Service: ORG
+Inventory Control
+Union Meeting Organization: ORG
+Oversee: ORG
+AT&T: ORG
+25: CARDINAL
+30: CARDINAL
+04/2014: CARDINAL
+Supervisor Company Name: WORK_OF_ART
+Evaluate: ORG
+Design: PRODUCT
+Assist: NORP
+Fiber: PERSON
+Coordinate: FAC
+Fiber: LOC
+Tucson: NORP
+Node: GPE
+Fiber: LOC
+Fiber: LOC
+Oversee: ORG
+Fiber: LOC
+daily: DATE
+Fiber: LOC
+BST/CPE: ORG
+Celebrate: PERSON
+Motivate: NORP
+Customer Service Coordinator Company Name: ORG
+Fiber: ORG
+Coordinate: FAC
+Fiber/Copper: ORG
+Provide: NORP
+Order: ORG
+Fiber and Copper cable Partner: ORG
+Participate: WORK_OF_ART
+Order: ORG
+Verify: PRODUCT
+Provide: PERSON
+Fiber: ORG
+daily: DATE
+Complete: PERSON
+Constructing: GPE
+200: CARDINAL
+the AMS Project: ORG
+2 year: DATE
+Develop: ORG
+Safety: ORG
+DOT: ORG
+Design: PRODUCT
+Design: PRODUCT
+Fiber: ORG
+Conduct "Project Meetings: PERSON
+ROW: ORG
+FTTP Local Manager Company: ORG
+Fiber: ORG
+Schedule: PERSON
+Job: NORP
+State: ORG
+State Codes: ORG
+Improve: ORG
+Modify: ORG
+2002: DATE
+Bell Labs Technical: ORG
+Telecommunications Houston TX Harris County: PERSON
+1976: DATE
+Schulenburg TX: PERSON
+Fayette County: GPE
+Affiliations
+Communications Workers of America: ORG
+CPR: ORG
+First Aid: ORG
+Inventory Control: ORG
+Meetings: GPE
+Operations: ORG
+Program Development: ORG
+Project Management: ORG
+Radio, Safety, Supervision: ORG
+Transmission: ORG

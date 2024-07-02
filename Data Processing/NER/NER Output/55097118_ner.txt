@@ -1,0 +1,95 @@
+Skills
+
+: ORG
+Microsoft Office: ORG
+Time: ORG
+Strong: PERSON
+March 2013: DATE
+Current Company Name: ORG
+Misdemeanor: PERSON
+PAS: ORG
+Subpoena Ducas Tacum: ORG
+CLETS: PERSON
+Rap Sheets: PERSON
+DMV: ORG
+FBI: ORG
+DMV: ORG
+the Department of Motor Vehicles: ORG
+the Case Management System: ORG
+Genesis: ORG
+Discovery: PRODUCT
+log outs: PERSON
+Accept Cash: PERSON
+Discovery: PRODUCT
+Microsoft Excel: ORG
+Word: PERSON
+Case Management System: ORG
+CMS: ORG
+Genesis: ORG
+Judicial
+Access: ORG
+Enter Complaint: ORG
+Prep: PERSON
+Answer Phone: ORG
+Reception Desk: FAC
+File Documents: ORG
+CMS: ORG
+July 2012 to March 2013: DATE
+State: ORG
+September 2007 to February 2013: DATE
+Food Service: ORG
+Attend: ORG
+Stocking: ORG
+Cashier, Cooking: ORG
+Working on Word: ORG
+Excel: PRODUCT
+Time: ORG
+Inventory: GPE
+Washing: ORG
+Lead: PERSON
+Maintain: PRODUCT
+Assist: NORP
+September 2006 to June 2008: DATE
+State: ORG
+Customer Service: ORG
+Merchandising: PERSON
+Inventory: GPE
+about five years: DATE
+Special Education Assistance Program: ORG
+four years: DATE
+Skills
+Academic, Air Force: ORG
+Case Management: ORG
+Cashier: ORG
+Clerical: ORG
+Cooking: PERSON
+Customer Service: ORG
+Financial: ORG
+Inventory, Marketing: ORG
+Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Word: PERSON
+Problem Solving: PERSON
+Retail Sales: ORG
+Phone: ORG
+Time: ORG
+Training
+Bachelor of Arts: PERSON
+2017: DATE
+California Baptist University: ORG
+ï¼​ City: GPE
+2012: DATE
+City College: ORG
+2012: DATE
+City College: ORG
+2008: DATE
+Martin Luther King High: PERSON
+Spark-Students Participating Academic
+Recognition for King: ORG
+K-12
+Additional Information: ORG
+about five years: DATE
+Special Education Assistance Program: ORG
+four years: DATE

@@ -1,0 +1,77 @@
+Information Technology: ORG
+Operations/Administration: ORG
+Skill Highlights: PERSON
+Information Technology: ORG
+05/2000: CARDINAL
+the City of Greensboro: GPE
+the Application Services: ORG
+GIS: ORG
+Network Services: ORG
+Establishes: ORG
+Key Achievements: LOC
+400: MONEY
+NCDOT: ORG
+GDOT: ORG
+1 million: CARDINAL
+the last five years: DATE
+95%: PERCENT
+98%: PERCENT
+SAN: ORG
+the Technology Advisory Committee: ORG
+Network Services: ORG
+the Desktop Services Division: ORG
+the Help Desk: LOC
+Maintained: GPE
+Key Achievements:: LOC
+Microsoft Exchange: ORG
+$2.8 million: MONEY
+Helpdesk Request: PERSON
+Data Communications Analyst: ORG
+the City of Greensboro: GPE
+DEC: ORG
+IBM: ORG
+IBM: ORG
+VAX: PRODUCT
+Key Achievements: LOC
+450: CARDINAL
+IBM: ORG
+IBM: ORG
+the Year finalist 1996: DATE
+09/1986: PERSON
+VAX: PRODUCT
+Key Achievements:: LOC
+Developed: ORG
+November 2005: DATE
+UNC-Chapel Hill: ORG
+Industrial Technology (Electronics: ORG
+1986: DATE
+North Carolina: GPE
+State University: ORG
+North Carolina Local Government Information Systems Association: ORG
+NCLGISA: ORG
+SouthEast Association: ORG
+SEATOA: ORG
+Public Technology Inc.: ORG
+PTI: ORG
+Previous Board: ORG
+Greensboro Municipal
+Credit Union: ORG
+Technology Committee: ORG
+Previous Board: ORG
+Welfare Reform: ORG
+Liaison Project: ORG
+National Forum for Black Public Administrators: ORG
+NFBPA: ORG
+Triad Chapter: ORG
+DEC: ORG
+GIS, Government: ORG
+IBM: ORG
+IBM: ORG
+Microsoft Exchange: ORG
+98: DATE
+Network: ORG
+Safety: ORG
+SAN: ORG
+VAX: PRODUCT
+VoIP: LOC
+VSE: ORG

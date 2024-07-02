@@ -1,0 +1,43 @@
+13 years: DATE
+Skills
+
+Business development
+Organized
+Fast learner
+Highly: ORG
+Enthusiastic: ORG
+Spanish: NORP
+State: ORG
+12/2012: CARDINAL
+10: CARDINAL
+10: CARDINAL
+Rio Grande Valley: LOC
+State: ORG
+04/2012 - 11/2013: CARDINAL
+30: CARDINAL
+60,000-$90,000: MONEY
+Â Created: ORG
+30%: PERCENT
+Bath & Floors - McAllen: ORG
+TX: ORG
+State: ORG
+Floor: PRODUCT
+Attended Surfaces: ORG
+KBIS: ORG
+Â Contacted: ORG
+Â Wrote: ORG
+Â Prioritized: PRODUCT
+Company Name - City: PERSON
+State: ORG
+Â Attended Surfaces: ORG
+Mohawk U: PERSON
+Â Contacted: ORG
+Â Wrote: ORG
+Assigned: PERSON
+James Pace High School -
+
+: PERSON
+English: LANGUAGE
+Sales Management: ORG
+Spanish: NORP
+Strategic: PERSON

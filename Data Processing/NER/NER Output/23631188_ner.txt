@@ -1,0 +1,89 @@
+Accurate: ORG
+Accomplishments
+
+Attention: WORK_OF_ART
+Resolve: PERSON
+Develop: ORG
+2.2 million: CARDINAL
+48 months to 30 days: DATE
+March 2013 to December 2015: DATE
+AP: ORG
+AP: ORG
+AP: ORG
+Update: ORG
+Excel &: ORG
+AP: ORG
+AP: ORG
+Schedule: PERSON
+Communicate: ORG
+Credit Card: ORG
+Lease Administrator: ORG
+November 2012 to February 2013: DATE
+Compile World Screening: WORK_OF_ART
+Renew Lease Agreement: ORG
+World Screening: ORG
+Utilities: ORG
+October 2009 to October 2012: DATE
+Manage City: GPE
+sub-meter: QUANTITY
+monthly: DATE
+Investigate &: ORG
+Accounts Payable Department: ORG
+weekly: DATE
+July 2009 to August 2009: DATE
+Accounts Payable AP - (Creditors: WORK_OF_ART
+January 2008 to June 2009: DATE
+AP: ORG
+AP: ORG
+Checking: PERSON
+Schedule: PERSON
+Schedule: PERSON
+POP: ORG
+Facilitate: ORG
+Verification of AP: ORG
+Management / Supervision Leading: ORG
+Establish: NORP
+Accounts Payable (Creditors: WORK_OF_ART
+Clerk: PERSON
+November 2003 to December 2007: DATE
+Generate: PERSON
+Match: LOC
+Follow: PERSON
+Update: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Prepare COD: ORG
+weekly: DATE
+Update: ORG
+March 2003 to November 2003: DATE
+Reconcile: PRODUCT
+Prepared: PRODUCT
+Process: ORG
+Wages &: ORG
+monthly: DATE
+Damelin Business School: ORG
+State: ORG
+South Africa: GPE
+Damelin Business School: ORG
+State: ORG
+South Africa: GPE
+Sectional Title Management :: ORG
+Sectional Title Management: ORG
+State: ORG
+South Africa: GPE
+MS Word: PERSON
+Excel: PRODUCT
+Brilliant Accounting: ORG
+Quick Books: ORG
+MDA: ORG
+Glendale: ORG
+CO Authorized: ORG
+US: GPE
+Glendale: ORG
+CO Authorized: ORG
+US: GPE
+Skills: ORG
+â€¢Audit: CARDINAL
+â€¢Develop: CARDINAL
+AP: ORG
+Credit Card: ORG

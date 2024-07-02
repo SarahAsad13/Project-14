@@ -1,0 +1,58 @@
+Adobe Photoshop and Illustrator
+Creative: ORG
+Microsoft Office: ORG
+Suite: PERSON
+SCALA: ORG
+Teamsite: GPE
+Teammate: ORG
+Word Press
+Proficient: ORG
+AP: ORG
+Twitter: PERSON
+Facebook: NORP
+Superb: NORP
+SharePoint: ORG
+March 2013 to June 2015: DATE
+Audit & Executive: ORG
+Facilitate: ORG
+monthly: DATE
+annual: DATE
+Prepare: ORG
+20: CARDINAL
+Created: ORG
+Excel: PRODUCT
+January 2012 to February 2013: DATE
+quarterly: DATE
+annual: DATE
+Assisted: ORG
+Maintained Summit: ORG
+WordPress: ORG
+Created: ORG
+SPECIALIST: ORG
+April 2004 to November 2010: DATE
+quarterly: DATE
+Researched: ORG
+Bank: ORG
+quarterly: DATE
+Federal Reserve: ORG
+Facilitated Fifth District Federal Reserve Bank's: ORG
+February 1995 to April 2004: DATE
+national business magazine
+Authored - analytical: ORG
+Federal Reserve System: ORG
+Reserve Bank's: ORG
+Crisis Communications Survey: ORG
+Crisis Management Process
+Created: ORG
+Fifth District Federal Reserve Bank's: ORG
+Media Relations Database: ORG
+Fifth District Federal Reserve Bank: ORG
+Fifth District Federal Reserve Bank's: ORG
+FAQ: ORG
+Fifth District Federal Reserve Bank's: ORG
+Bachelor of Arts Bennett College - City: ORG
+State: ORG
+AP: ORG
+Crisis Communications: ORG
+Database: GPE
+Microsoft Office Suite: ORG

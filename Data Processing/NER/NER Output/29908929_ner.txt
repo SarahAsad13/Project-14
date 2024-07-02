@@ -1,0 +1,64 @@
+BUSINESS DEVELOPMENT & MARKETING
+Summary
+
+Business Administrative: ORG
+5 years: DATE
+Highlights: GPE
+Florida: GPE
+guidelines & patient: ORG
+Medicaid: ORG
+Microsoft Office: ORG
+Business Development & Marketing: ORG
+November 2013 to September 2015: DATE
+Maintain: PERSON
+CAI: ORG
+Management of Social Media: ORG
+Liaison: ORG
+CAI: ORG
+Created PowerPoint: ORG
+Cooperated: ORG
+Medicare: ORG
+Medicaid: ORG
+August 2011 to October 2013 Company Name - City: DATE
+Dissolutions: PERSON
+Corporations: ORG
+LLC: ORG
+SharePoint: ORG
+Dynamo: GPE
+Coordinated: ORG
+PTO: ORG
+USA: GPE
+New Hire: GPE
+I-9: ORG
+Assisted: ORG
+Maintained: GPE
+Admissions: ORG
+October 2007 to July 2011 Company Name - City: DATE
+Working: ORG
+Verification of benefits & patient: ORG
+weekday, weekend: DATE
+Coordinate: WORK_OF_ART
+LPN: ORG
+RN: ORG
+PT: ORG
+Schedules: PRODUCT
+hours: TIME
+Verifies: GPE
+kin: ORG
+Coordinated: ORG
+Build: GPE
+Maintained: GPE
+Office Coordinator: ORG
+October 2005 to September 2007: DATE
+daily: DATE
+Admissions Coordinator: ORG
+August 2002 to October 2005: DATE
+Liaison: PERSON
+Bachelor of Sciences: ORG
+One: CARDINAL
+English: LANGUAGE
+Spanish: NORP
+Human Resources: ORG
+Management Skills: PERSON
+SharePoint: ORG
+Internet Research: ORG

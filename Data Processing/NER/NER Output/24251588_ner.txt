@@ -1,0 +1,45 @@
+10 years: DATE
+Core Qualifications Extensive: ORG
+ISSA Personal Trainer Certification: ORG
+CPR: ORG
+AED Certified: ORG
+North Carolinas: GPE
+XRKade Interactive Fitness Zone: ORG
+the first 60 days: DATE
+1,500: CARDINAL
+2,700: CARDINAL
+80 %: PERCENT
+3 consecutive months: DATE
+ASU HEPELS Department: ORG
+$1M: MONEY
+10: CARDINAL
+Certified Fitness Trainer: ORG
+July 2013 to October 2015: DATE
+November 2014 to September 2015: DATE
+Built clientÃ¨le: PERSON
+TI's: ORG
+September 2011 to June 2013 Company Name - City: DATE
+State: ORG
+Oversaw: GPE
+day: DATE
+first 60 days: DATE
+one: CARDINAL
+the Personal Training Program: ORG
+January 2011 to September 2011 Company Name - City: DATE
+State: ORG
+24-hour: TIME
+6,000: CARDINAL
+night: TIME
+Health and Wellness: ORG
+May 2007 to March 2010: DATE
+1300: DATE
+800,000: MONEY
+Cardiac Rehab: ORG
+one: CARDINAL
+Established Membership Retention and Recruitment: ORG
+Best Practices: WORK_OF_ART
+ASU: ORG
+Total Health Program: ORG
+State Recreation Management Marketing
+Skills: ORG
+Physical Therapy: PERSON

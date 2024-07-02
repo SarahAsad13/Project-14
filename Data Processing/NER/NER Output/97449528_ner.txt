@@ -1,0 +1,94 @@
+more than 12 years: DATE
+Time: ORG
+Strong: PERSON
+Resourceful
+Mail: ORG
+Schedule: ORG
+10: CARDINAL
+15: CARDINAL
+Employee Management Â 
+
+Liaised: ORG
+September 2013: DATE
+January 2015: DATE
+Name City: GPE
+State Office Support Coordinator
+
+: ORG
+Case Management: ORG
+the Case Management: ORG
+Coordinated: ORG
+Prepared Check Requests following: WORK_OF_ART
+Finance Department: ORG
+April 2013: DATE
+August 2013: DATE
+Name City: GPE
+State Financial Foundation Associate / Seasonal
+
+Interviewed: ORG
+Processed: GPE
+August 2011: DATE
+April 2013: DATE
+Name City: GPE
+State Human Resource: ORG
+PeopleSoft: ORG
+BackOffice: ORG
+January 2013: DATE
+March 2013: DATE
+Name City: GPE
+State: ORG
+Applied Behavioral Analysis: ORG
+May 2010: DATE
+August 2010: DATE
+Company Name City: LOC
+State Data Entry Clerk: ORG
+November 2006: DATE
+March 2010: DATE
+Company Name City: LOC
+State Office Management Specialist / Office Administrator
+
+: ORG
+Performed: ORG
+Coordinated: ORG
+10: CARDINAL
+Maintained: GPE
+daily: DATE
+Created: ORG
+98 %: PERCENT
+2012: DATE
+University of Colorado: ORG
+Springs City: GPE
+State: GPE
+El Paso Bachelor: GPE
+3.87: CARDINAL
+GPA: ORG
+2006: DATE
+State Vocational School III Bamberg / Germany City: ORG
+State: GPE
+Germany: GPE
+Bamberg: GPE
+Vocational Field Economics + Administration: ORG
+2003-
+2006: DATE
+Graf-Stauffenberg-Business School Bamberg Business Certificate: PERSON
+Business Administration: ORG
+Health and Employment Law
+
+Coursework includes Economics
+
+Coursework includes Organizational Behavior
+
+Coursework: ORG
+English: LANGUAGE
+English: LANGUAGE
+German: NORP
+Interests: NORP
+a Court Appointed Special Advocate: ORG
+St. Francis / Penrose: FAC
+Neonatal Intensive
+Care Unit: ORG
+Skills
+
+Case Management
+
+Excellent Customer Service: ORG

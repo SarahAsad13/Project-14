@@ -1,0 +1,154 @@
+Â Technology / OPERATIONS: ORG
+10+ years: DATE
+Access: PRODUCT
+Active Directory: ORG
+Microsoft: ORG
+MAC: ORG
+Android: ORG
+iPhones: ORG
+Apple Training: ORG
+Microsoft Office: ORG
+Expert Support: PERSON
+DR: GPE
+Utilizing MS Active Directory: ORG
+MDM: ORG
+Management Led: PERSON
+22: CARDINAL
+Microsoft Exchange: ORG
+6-month: DATE
+weekly: DATE
+94%: PERCENT
+6+ years: DATE
+Mobility: PERSON
+Data Center: ORG
+KPI: ORG
+monthly: DATE
+quarterly: DATE
+Customer: ORG
+KPI: ORG
+Microsoft Dynamics CRM: ORG
+CRM/Salesforce: PRODUCT
+Complex: NORP
+Organized
+Operations: ORG
+Deadline: NORP
+Verbal: ORG
+12/2017: CARDINAL
+8 a.m.: TIME
+5: CARDINAL
+P.M.: ORG
+24: CARDINAL
+7: CARDINAL
+Customer First: PRODUCT
+2017: DATE
+2016: DATE
+103%: PERCENT
+Microsoft Dynamics CRM: ORG
+Cisco Business Value Analyst: ORG
+MCSE: ORG
+VMWare Solutions Professional Won: ORG
+Professional Services: ORG
+Northeast: LOC
+the Northeast Sales Team at Diversity Events: ORG
+8 a.m.: TIME
+5: CARDINAL
+P.M.: ORG
+24: CARDINAL
+7: CARDINAL
+annual: DATE
+Quota: FAC
+21M+-: MONEY
+105%: PERCENT
+145%: PERCENT
+127%: PERCENT
+136%: PERCENT
+Awarded Sales Warrior: WORK_OF_ART
+Saleforce.com: ORG
+daily: DATE
+weekly: DATE
+06/2005: DATE
+8 a.m.: TIME
+5 p.m.
+: TIME
+Northeast: LOC
+4B: MONEY
+annually: DATE
+Compile: PRODUCT
+weekly: DATE
+Sales Management: ORG
+U.S.: GPE
+Request for Pricing: WORK_OF_ART
+Response for Quotes (RFQ: ORG
+U.S.: GPE
+Implementing: GPE
+Liaison: PERSON
+Product Management: ORG
+GBU: ORG
+weekly: DATE
+Strategic: PERSON
+Operations - Excellence: ORG
+October 2002 - june 2005: DATE
+8 a.m.: TIME
+5 p.m.
+: TIME
+Inside Sales Executive: ORG
+4 months: DATE
+$500M: MONEY
+137%: PERCENT
+6-month: DATE
+second: ORDINAL
+Inside Sales: ORG
+monthly: DATE
+Utilize CRM: PRODUCT
+weekly: DATE
+2001 - october 2002: DATE
+8 a.m.: TIME
+5 p.m.: TIME
+24: CARDINAL
+7: CARDINAL
+the VP of Operations: EVENT
+daily: DATE
+22: CARDINAL
+Lotus Notes: ORG
+Microsoft Exchange: ORG
+June 1995 -: DATE
+8 a.m.: TIME
+5 p.m.: TIME
+24: CARDINAL
+Multivendor Systems Engineering: ORG
+Utilized Microsoft System Center Management Tools: ORG
+Ghost: PERSON
+the MSE Team: ORG
+Microsoft Certified Systems Engineer: ORG
+8 a.m.: TIME
+5 p.m.
+Managed: TIME
+Access: PRODUCT
+Weekly: DATE
+U.S.: GPE
+Analyst: PERSON
+Cisco: GPE
+Compaq: ORG
+CRM: PRODUCT
+Ghost: PERSON
+8: CARDINAL
+Inside Sales: ORG
+Lotus Notes: ORG
+Access, Access: ORG
+Microsoft Certified Systems Engineer: ORG
+MCSE: ORG
+Microsoft Dynamics: ORG
+Exchange Server: ORG
+Microsoft Exchange: ORG
+Product Management: ORG
+Strategic, Systems Engineering: ORG
+Education: ORG
+Coursera: PERSON
+May 2018: DATE
+AS : Computer Information Systems: ORG
+Mount Wachusett Community College: ORG
+Computer Information Systems: ORG
+Business Management Lesley University: ORG
+Business Management
+AS : Business Administration Mount Wachusett Community College: ORG
+Business Administration: ORG

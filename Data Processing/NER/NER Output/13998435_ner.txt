@@ -1,0 +1,80 @@
+Interior: ORG
+Color: ORG
+AGENCY: ORG
+Color: ORG
+Council: ORG
+Graphic: PERSON
+Instructor: ORG
+Interior Design: ORG
+Design Process: ORG
+David A Mintz Inc.: PERSON
+May Company: ORG
+Robinson: PERSON
+Foley: PERSON
+Scottsdale Fashion Square Mall: ORG
+Hecht: ORG
+Kaufmann: PERSON
+Strawbridge: ORG
+Taylor: PERSON
+08/2011: CARDINAL
+10/2005: DATE
+New York City: GPE
+Electrical (Power & Lighting: ORG
+Sprinklers: ORG
+HVAC: ORG
+Senior Engineers, Architects: ORG
+10/1995 to 04/1997: DATE
+May Company Stores: ORG
+2015: DATE
+Miami International University of Art and Design ï¼​ City: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+9: CARDINAL
+Magna Cum Laude: PERSON
+Sublime Design, Historical Preservation/Adaptive Reuse: ORG
+Miami International University of Art and Design: ORG
+Spring 2013: DATE
+Miami International University of Art and Design: ORG
+Spring 2014: DATE
+Workshop Instructor:: WORK_OF_ART
+Miami International University of Art and Design: ORG
+Summer 2014: DATE
+1994: DATE
+Fort Lauderdale: GPE
+State: GPE
+USA: GPE
+1993: DATE
+Associate of Applied Science : Interior Design Art Institute of Colorado ï¼​ City , State , USA
+
+Awarded the Art Institute International Merit Scholarship: WORK_OF_ART
+1993: DATE
+Professional Affiliations
+
+Active: ORG
+Interior Design Educators Council: ORG
+Attendee: ORG
+2013,2013 and 2014: DATE
+Attendee: ORG
+2013: DATE
+2014: DATE
+2015: DATE
+Task Force: PRODUCT
+Graduate Student Presentation Option: ORG
+2015: DATE
+JID: GPE
+Crafting a Collaborative Design Process & 344617-Assessment of Millennial Interior Design Students' Perception Concerning Game-Based
+Learning: ORG
+SE-10276-106: DATE
+Context & 344690-Hybrid Spaces of Worship: ORG
+Muslims: NORP
+Atlanta: GPE
+SE-102765-114: CARDINAL
+343575-Visual Environmental Attributes Contributing: ORG
+Unfamiliar Environments &: ORG
+3446585-Design for Sight: Typologies: ORG
+343738-Environmental Satisfaction: ORG
+Comfort: PRODUCT
+130: CARDINAL
+Creating Meaningful
+Learning: PERSON

@@ -1,0 +1,57 @@
+Chemist: PERSON
+Detail: PERSON
+Chemist: ORG
+Highlights: GPE
+HPLC: GPE
+GC: ORG
+GMP: ORG
+01/2011: CARDINAL
+Labware LIMS: GPE
+CAPA: ORG
+Eisai: GPE
+Trackwise: GPE
+Plateau Learning Management System: ORG
+Labware LIMS: ORG
+QA: ORG
+Plateau Learning Management System
+Deviation: ORG
+CAPA: ORG
+Developed: PRODUCT
+Master Batch Records: ORG
+Lot Packaging Records: ORG
+QA: ORG
+01/2011: CARDINAL
+Generated: ORG
+Performed: PERSON
+monthly: DATE
+monthly: DATE
+Scale: GPE
+the Chemistry, Manufacturing & Control(CMC: ORG
+IND: ORG
+ANDA: PERSON
+NDA: ORG
+Quality Control Chemist Company Name: ORG
+USP-NF Compendial: ORG
+CAPA: ORG
+Quality Control / Analytical Chemist Company Name: ORG
+Quality Control
+Developed: ORG
+ICH: ORG
+FDA: ORG
+Chemist / Supervisor Company Name: ORG
+ICP: ORG
+Chemist Company Name: ORG
+GC/MS: ORG
+2014: DATE
+North Carolina: GPE
+City: GPE
+State: GPE
+US: GPE
+1996: DATE
+State: GPE
+US: GPE
+quarterly: DATE
+monthly: DATE
+HPLC: GPE
+GC: GPE
+Physical Chemistry: ORG

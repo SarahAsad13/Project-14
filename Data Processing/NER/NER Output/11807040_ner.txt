@@ -1,0 +1,84 @@
+Safe NG: ORG
+Foley: PERSON
+Insulin: NORP
+Work History
+Forms Designer: WORK_OF_ART
+Conducted: ORG
+annually: DATE
+Oversaw: GPE
+LPN: ORG
+annually: DATE
+annual: DATE
+Examined: NORP
+29: CARDINAL
+Processed: GPE
+monthly: DATE
+Initiated: ORG
+Monitored: ORG
+JCAHO: ORG
+Provided DHS (Department of Health Services: ORG
+Coordinated Quality Improvement Activities: ORG
+QIA: PERSON
+Quality Assurance Program: ORG
+Performed: ORG
+44: CARDINAL
+all times of day: DATE
+daily: DATE
+Monitored fluid: PRODUCT
+CPR: ORG
+monthly: DATE
+Specialized: ORG
+Forms Designer: PERSON
+Adobe: PERSON
+Creative Suite: PERSON
+ExpeData: PRODUCT
+Digital Pen and Paper: ORG
+Graphic Designer: PERSON
+01/2004: CARDINAL
+Creative Suite: PERSON
+Key Achievements Managed: LOC
+ABN AMRO: ORG
+Standard Federal: ORG
+LaSalle Bank: ORG
+30,000: MONEY
+ABN AMRO's: ORG
+Core Teller Project: ORG
+25,000: MONEY
+Comerica Bank: ORG
+Detroit Medical Group: ORG
+01/2000: CARDINAL
+Created: ORG
+Key Achievements Trained: LOC
+20: CARDINAL
+national publishing client's: ORG
+10%: PERCENT
+Coordinated: ORG
+10%: PERCENT
+Forms Designer: PERSON
+01/2004: CARDINAL
+09/2001: CARDINAL
+Bachelor of Science: ORG
+12 2014: DATE
+Northern Illinois University - City: ORG
+1 1996: DATE
+Northern Illinois University - City: ORG
+Studio Art: PERSON
+1 1992: DATE
+Loras College - City: ORG
+State: ORG
+Studio Art: ORG
+Health & Human Sciences: ORG
+1: CARDINAL
+2012: DATE
+GPA: ORG
+Affiliations: ORG
+American Nurses Association: ORG
+License: ORG
+Advanced Cardiac Life Support: ORG
+Assembly: ORG
+Mental Health: ORG
+Nursing: GPE
+PDF: ORG
+PostScript: ORG
+Research: ORG
+Sigma: ORG

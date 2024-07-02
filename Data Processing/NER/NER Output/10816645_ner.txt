@@ -1,0 +1,35 @@
+GROUP FITNESS COORDINATOR
+Professional Summary
+Highly: ORG
+Innovative: NORP
+Professional Experience
+Group Fitness Coordinator: ORG
+05/2012: CARDINAL
+10/2015: CARDINAL
+the Group Fitness Program: ORG
+30: CARDINAL
+the Group Fitness Program: ORG
+annual: DATE
+10,000: MONEY
+Devised: ORG
+Created: ORG
+monthly: DATE
+Marketed: ORG
+Childcare Provider: PERSON
+Current City: GPE
+daily: DATE
+weekly: DATE
+week: DATE
+Kept: PERSON
+Training
+Bachelor's: PERSON
+December 2011: DATE
+University of Tampa Psychology/ Government: ORG
+Healthy Lifestyle Principles: PERSON
+First Aid: ORG
+Bodypump Guardian: PERSON
+Litem: PERSON
+Skills: ORG
+CPR: ORG
+First Aid: ORG
+Guardian: ORG

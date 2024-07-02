@@ -1,0 +1,56 @@
+Accountant Aug: PERSON
+2015: DATE
+six: CARDINAL
+Maintained: GPE
+Processed: GPE
+Processed: GPE
+food & beverage: ORG
+the G/L
+Assisted: ORG
+CFO: ORG
+monthly: DATE
+monthly: DATE
+annual: DATE
+invoicesÂ: PERSON
+weekly: DATE
+50: CARDINAL
+Processed: GPE
+Researched: ORG
+Researched: ORG
+2015: DATE
+daily: DATE
+weekly: DATE
+Researched: ORG
+Processed: GPE
+70+: DATE
+W2: PRODUCT
+1099: DATE
+Maintained: GPE
+Processed: GPE
+monthly: DATE
+Maintained: GPE
+Maintained: GPE
+Operations & TrainingConsultant: ORG
+Franchisee & General: ORG
+Feb 2004: DATE
+State
+
+Training & Operations: ORG
+July 2015 - Current: DATE
+six: CARDINAL
+Monthly: DATE
+June 2007 - February 2011: DATE
+Labor: ORG
+Inventory: ORG
+Community: ORG
+Established: ORG
+Maintained: GPE
+February 2004 - April 2007: DATE
+up to 20: CARDINAL
+Improve: ORG
+Jun 2012 to: PERSON
+Provide Preliminary: ORG
+Mentor: ORG
+Develop: ORG
+Bachelor of Science , Accounting Strayer University: ORG
+State: ORG

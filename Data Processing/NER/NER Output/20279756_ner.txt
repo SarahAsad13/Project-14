@@ -1,0 +1,68 @@
+Personal Trainer: PERSON
+20 years: DATE
+one: CARDINAL
+Core Qualifications
+
+Fitness: ORG
+Customer: ORG
+BMI
+Fitness: ORG
+Weight: ORG
+CPR: ORG
+First Aid: ORG
+Operations: ORG
+Policy: PERSON
+Advocare Distributor: PERSON
+June 2012: DATE
+Current Company Name: ORG
+Asst: PERSON
+July 2009: DATE
+May 2012: DATE
+75%: PERCENT
+monthly: DATE
+seven: CARDINAL
+Asst: PERSON
+January 2006 to January 2009: DATE
+12: CARDINAL
+four consecutive quarters: DATE
+monthly: DATE
+weekly: DATE
+January 2004 to January 2006: DATE
+5 consecutive months: DATE
+each month: DATE
+Monitored 30,000.00: PERSON
+each month: DATE
+Mentored: ORG
+8: CARDINAL
+4: CARDINAL
+weekly: DATE
+Bachelor of Science : Criminal Justice: ORG
+1999: DATE
+South Carolina: GPE
+State University: ORG
+Criminal Law and Public Administration: ORG
+Coursework in Sociology and Psychology: ORG
+Deviance: PERSON
+Men's: ORG
+Aerobics and Fitness Association: ORG
+American Aerobic Association: ORG
+International Sports Medicine: EVENT
+Assisted Stretching Certificate: WORK_OF_ART
+CPR & First Aid Certificate
+
+Skills
+
+Organizational Skills
+Communication Skills
+Business Development
+Problem Resolution
+Project Management
+Sales
+Customer Relations
+Departmental Operations Management
+Staff Development
+Team Building
+Team Leadership
+Team Player
+Training and Development
+Administrative Skills: ORG

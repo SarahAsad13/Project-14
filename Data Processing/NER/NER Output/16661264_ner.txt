@@ -1,0 +1,161 @@
+NATURAL RESOURCE SPECIALIST GS-12/5
+Position Applying
+
+Realty Specialist: ORG
+Bureau of Indian Affairs: ORG
+Rocky Mountain Region: LOC
+Division of Real Estate Services: ORG
+twenty years: DATE
+Natural Resources: ORG
+Bureau of Indian Affairs: ORG
+BIA Agriculture and Range Management: ORG
+the Crow Land Use Bill: ORG
+Wind River Reservations Grazing Resolution: ORG
+25 Code: QUANTITY
+Federal Regulations: ORG
+162: CARDINAL
+166: CARDINAL
+the Indian Trust Land Owners: ORG
+Tribes: PERSON
+the Federal Agencies: ORG
+Education: ORG
+2004: DATE
+Montana State University-Bozeman 
+City: ORG
+2001: DATE
+State Natural Resources: ORG
+Associate of Science: WORK_OF_ART
+1992: DATE
+Hardin High School 
+City: ORG
+January 2013: DATE
+Name City: GPE
+State Natural Resource Specialist: ORG
+GS-12/5: PERSON
+approximately 98: CARDINAL
+Months: DATE
+the Tribal Natural
+Resource: ORG
+the Natural Resource Committee: ORG
+Mandan: GPE
+Hiidaatsa: PERSON
+Arikara Tribal Council: PERSON
+the Three Affiliated Tribes: ORG
+Grazing/Natural Resource Resolutions: ORG
+Non-Trust: ORG
+Tribe: ORG
+93-638: CARDINAL
+Animal Unit Months: ORG
+over 18,000: CARDINAL
+Grant Grazing Prividges: PERSON
+Indian: NORP
+5 year: DATE
+180-day: DATE
+700: CARDINAL
+Fort Berthold: GPE
+approximately 400: CARDINAL
+180 day: DATE
+ArcGIS 10.5.1: WORK_OF_ART
+Solicitor: ORG
+the Agency Freedom of Information
+Act: ORG
+FOIA: ORG
+Individual Interest Holders: ORG
+Agency: ORG
+Superintendent: PERSON
+Superintendent: PERSON
+Kayla Danks: PERSON
+701: CARDINAL
+627-4707: CARDINAL
+October 2008 to January 2013: DATE
+Name City: GPE
+the Crow Reservation: ORG
+Crow Tribe: PERSON
+Indian Trust Land: ORG
+Lessee: PERSON
+Debbie Scott: PERSON
+Superintendent: PERSON
+406: CARDINAL
+638: CARDINAL
+June 2006 to October 2008: DATE
+Name City: GPE
+State Rangeland Management Specialist: ORG
+the Natural Resource Conservation Services: ORG
+100: CARDINAL
+Animal Unit Months: ORG
+ArcGIS: GPE
+IRMS: ORG
+the Range Units: ORG
+approximatley 43: ORG
+ArcGIS 10: WORK_OF_ART
+Supervisor: Ramon Nation: WORK_OF_ART
+Superintendent(307: ORG
+332: CARDINAL
+August 2005 to June 2006: DATE
+Name City: GPE
+the Northern Cheyenne Reservation: ORG
+Range Units: ORG
+the Tongue River Pipeline
+Project: ORG
+Natural Resource Conservation Service: ORG
+Supervisor: Gabe Morgan
+
+: WORK_OF_ART
+406: CARDINAL
+477: CARDINAL
+June 2005 to: DATE
+August 2005: DATE
+Name City: GPE
+Approximately 50-60: CARDINAL
+Big Horn County: LOC
+1 100 ft.: QUANTITY
+AUM: ORG
+406: CARDINAL
+665-3442: CARDINAL
+May 1999 to: DATE
+September 2003: DATE
+Name City: GPE
+State Natural Resource Specialist: ORG
+Bureau of Land Management: ORG
+Natural Resources Specialist: ORG
+BLM: ORG
+Range Improvement Projects: WORK_OF_ART
+Federal Grazing: ORG
+AUM: ORG
+Rangeland Health Assessments: ORG
+Federal Grazing: ORG
+BLM: ORG
+Fire Duties: ORG
+Sandra Brooks: PERSON
+406: CARDINAL
+896: CARDINAL
+Trimble Unit: ORG
+Garmin: ORG
+ATV: ORG
+Personal Computer - Microsoft Excel: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Write and Read
+Legal Descriptions: WORK_OF_ART
+Read and: WORK_OF_ART
+Identify: ORG
+U.S.: GPE
+Veteran: PRODUCT
+Federal Civilian: ORG
+12: CARDINAL
+4: CARDINAL
+January 2013: DATE
+PresentAre: ORG
+Federal Status: ORG
+Â Yesâ€‹
+Referances: ORG
+Austin Gillette: PERSON
+Fiduciary Trust Officer - Office of Special Trustee: ORG
+701: CARDINAL
+627: CARDINAL
+Edward Lone Fight: PERSON
+701: CARDINAL
+421: CARDINAL
+Thomas Wells: PERSON
+701: CARDINAL
+441-1165: DATE

@@ -1,0 +1,59 @@
+Summary
+
+Management Experience: ORG
+Team: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Strong: PERSON
+Customer: ORG
+4 months in a row: DATE
+07/2013 to Current
+Merchant Services Advocate Company Name: PRODUCT
+LivingSocial: ORG
+Builds: PERSON
+Keeps: ORG
+Communicates: ORG
+11/2013: CARDINAL
+07/2013
+Operations Supervisor: PRODUCT
+Maintained: GPE
+Oversaw: GPE
+KPI: ORG
+Coach: ORG
+Quality Assured: ORG
+08/2011: CARDINAL
+EOD: ORG
+Operations: ORG
+hourly: TIME
+that day: DATE
+QA: ORG
+Forecast Percentage: FAC
+Abandon Rate: PERSON
+Communicated: ORG
+Operation Management Centers: ORG
+the day: DATE
+Operations: ORG
+Webex: ORG
+daily: DATE
+Quality Assurance: ORG
+07/2011: CARDINAL
+Maintained: GPE
+Speak: LOC
+Assigned: ORG
+2015: DATE
+Certificate : Systems Administration/: ORG
+Networks Pima Community College: ORG
+State: GPE
+Pima Community College Certificate, Systems Administration/Networks: ORG
+2015: DATE
+GPA: ORG
+3.8: CARDINAL
+English: LANGUAGE
+Native: NORP
+Spanish: NORP
+Native: NORP
+Skills
+
+Operations Management
+Team Leadership
+Customer: ORG

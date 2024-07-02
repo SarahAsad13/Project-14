@@ -1,0 +1,42 @@
+Complex: NORP
+Strong: PERSON
+Map: NORP
+Topographic: PERSON
+Inland Empire: FAC
+Name City: GPE
+CAD: ORG
+01/2003: CARDINAL
+Name City: GPE
+Name City: GPE
+Name City: GPE
+06/2008 Company Name City: ORG
+REP: PERSON
+Name City: GPE
+each week: DATE
+04/2009: ORDINAL
+each week: DATE
+Name City: GPE
+State
+
+Promoted: ORG
+Name City: GPE
+each week: DATE
+Name City: GPE
+UPS: ORG
+USPS: ORG
+weekly: DATE
+daily: DATE
+Name City: GPE
+1995: DATE
+CANYON SPRINGS HIGH SCHOOL City: ORG
+State: GPE
+Art Mt San Jacinto Community College City: WORK_OF_ART
+State: GPE
+USA: GPE
+Skills
+
+Civil 3D: ORG
+Civil Engineering Drafting: ORG
+Customer Service,: ORG
+Self-Starter: ORG
+Sorting: GPE

@@ -1,0 +1,87 @@
+MEDIATOR: DATE
+25 years: DATE
+Northern Ohio: ORG
+Skill Highlights: PERSON
+Estate planning & taxes
+: ORG
+Legal research & writing: ORG
+Core Accomplishments: WORK_OF_ART
+100,000: MONEY
+Gund: GPE
+Cleveland Foundations: ORG
+Cuyahoga County Juvenile Court's: ORG
+Custody Mediation Program: ORG
+Owner: ORG
+Mediator 
+: DATE
+January 2001: DATE
+Current Company Name - City: ORG
+State: ORG
+interview clients &: ORG
+Arrange: PERSON
+administrative & judicial: ORG
+Evaluate: ORG
+Gather: ORG
+Prepare legal briefs & opinions: ORG
+Investigate: ORG
+Appraise: GPE
+Draft: ORG
+Negotiate: ORG
+Advise: ORG
+DIRECTOR 
+: DATE
+March 1995 to June 1996: DATE
+Cleveland: GPE
+Gund Foundations: GPE
+Recruited: PRODUCT
+Conferred: ORG
+Prepared Mediation Agreements: WORK_OF_ART
+LAW: ORG
+March 1986 to August 1988: DATE
+SERVICES & UTILITIES: ORG
+RECEIVED PROCLAMATION: FAC
+JUNE 10, 1988: DATE
+WENDY WILLS DAY: ORG
+CLEVELAND: GPE
+state & federal courts: ORG
+6-76: DATE
+CLEVELAND: GPE
+Trainee: PERSON
+four: CARDINAL
+4: CARDINAL
+Northeast Ohio: LOC
+Recruited: PRODUCT
+August 1976 to August 1980: DATE
+11th: ORDINAL
+1983: DATE
+Cleveland-Marshall College of Law: ORG
+Cleve: PERSON
+11th%: CARDINAL
+Cleve: ORG
+1971: DATE
+Normandy High School: ORG
+3rd - City: GPE
+State: ORG
+English: GPE
+Cleveland: GPE
+Cleve: PERSON
+American Mediation Association: ORG
+Annual: DATE
+12 hours: TIME
+Continuing Legal Education: ORG
+1984: DATE
+Mediation: An Idea Whose Time has Come: WORK_OF_ART
+Kirtland Business Rev.: WORK_OF_ART
+Lakeland Community College: ORG
+Kirtland: GPE
+OH: GPE
+The Ethical Utilization of Paralegals: ORG
+Ohio: GPE
+Cleveland State Univ: WORK_OF_ART
+45: CARDINAL
+711, 1997: DATE
+English: LANGUAGE
+Research &: ORG
+LITIGATION: ORG
+Mediation: ORG
+UTILITIES: ORG

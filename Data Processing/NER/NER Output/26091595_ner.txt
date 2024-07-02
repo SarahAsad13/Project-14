@@ -1,0 +1,134 @@
+OSP Specialist: ORG
+twenty years: DATE
+Outside Plant Telecommunications
+Engineering and Construction, Wireless Backhaul Engineering: ORG
+Low Latency Optimization: ORG
+estimation & budgeting: ORG
+MS Office: ORG
+Reliable: WORK_OF_ART
+Detail: PERSON
+NEC: ORG
+OSHA: ORG
+Microsoft Office Programs: ORG
+AutoCad
+Microstation: ORG
+ArcMap
+: PRODUCT
+Visio: PERSON
+OSP Insight: ORG
+Name City: GPE
+â€¢Maintain: CARDINAL
+SMB: ORG
+weekly: DATE
+10/2014: CARDINAL
+Name City: GPE
+Optimization Solutions: ORG
+OSP Engineer 05/2012: ORG
+02/2014 Company Name City: ORG
+State: ORG
+OSP Field Survey: ORG
+Route Design
+Design and Engineering: FAC
+AutoCad
+Planning: ORG
+Prepare: ORG
+OSP Engineer: ORG
+Name City: GPE
+State: ORG
+OSP Fiber Optic and Wireless Backhaul Design: ORG
+Project Estimation: ORG
+ROW: ORG
+Name City: GPE
+â€¢Wireless Backhaul Optimization, Design and Engineering
+
+: ORG
+OSP Engineering: ORG
+11/2008: CARDINAL
+11/2011: CARDINAL
+Name City: GPE
+Dim: PERSON
+third: ORDINAL
+Backhaul: PERSON
+10/2002: CARDINAL
+10/2010: CARDINAL
+Name City: GPE
+Project and Construction Management Consulting Services: ORG
+ROW: ORG
+24 Hour: TIME
+OSP Engineer 02/2005: ORG
+Name City: GPE
+Quality Control
+
+OSP Engineer: ORG
+Name City: GPE
+Crew Supervision, Scheduling: ORG
+OSP Specialist: ORG
+07/2004: CARDINAL
+Name City: GPE
+OSP / Broadband
+Engineering: ORG
+OSP / Broadband Engineer: ORG
+Name City: GPE
+OSP Insight: ORG
+04/2002: GPE
+Name City: GPE
+State: ORG
+Project Manage: ORG
+230 mile: QUANTITY
+Northeast Pennsylvania: LOC
+Project Estimation: ORG
+Pole Line: FAC
+Underground: GPE
+Tracking and Reporting: WORK_OF_ART
+Utility Companies, Government
+Agencies: ORG
+Right Of Way Authorities: ORG
+OSP / Deployment Engineer: ORG
+04/2002 Company Name City: EVENT
+Engineer: ORG
+Project Manage: ORG
+Pole Line: PERSON
+Underground: GPE
+PaDot Utility Relocation: ORG
+ROW Acquisitions: ORG
+Project Estimation: ORG
+Facility Inspection: ORG
+NJ: ORG
+DE One Call Screening: ORG
+100%: PERCENT
+Off - hours: TIME
+One: CARDINAL
+Pennsylvania: GPE
+New Jersey: GPE
+Delaware: GPE
+100%: PERCENT
+1986: DATE
+State
+Electrical Engineering Pennsylvania State University City: ORG
+State: ORG
+Skills
+
+Construction Management
+
+Multitasking
+
+Project: ORG
+Network Design and Drafting
+
+MS Office
+
+Optimization
+
+Permitting
+
+Quality Control
+
+Reporting
+
+Scheduling
+
+Supervision
+
+Troubleshooting
+
+: WORK_OF_ART

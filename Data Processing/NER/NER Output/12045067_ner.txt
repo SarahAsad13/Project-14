@@ -1,0 +1,179 @@
+Information Technology: ORG
+January 2012: DATE
+Project Engineer: PERSON
+December 2009: DATE
+Current City: GPE
+State: ORG
+U.S.: GPE
+Army Information Systems Engineering Command: ORG
+USAISEC: ORG
+the Fort Huachuca Engineering Directorate of USAISEC: ORG
+Lead Engineer: PERSON
+five: CARDINAL
+Integrated Product Team: ORG
+$25 million: MONEY
+Command: ORG
+Control, Communications and Computers: ORG
+C4: PRODUCT
+Special Operations Command: ORG
+Ft Bragg: GPE
+NC: GPE
+daily: DATE
+35,000: CARDINAL
+the US Army Corps of Engineers: ORG
+USACE: ORG
+ISEC: ORG
+USACE: LOC
+IMS: ORG
+the Army Base Realignment and Closure: ORG
+$19 million: MONEY
+Army Central Command: ORG
+ARCENT: ORG
+the Integrated Product Team: ORG
+Obtained: ORG
+the Acquisition Requirements Package: ORG
+Source Selection
+Evaluation Board: ORG
+SSEB: ORG
+monthly: DATE
+weekly: DATE
+ISEC: ORG
+Judiciously: GPE
+List of Materials: WORK_OF_ART
+Item List: PERSON
+Integrated: NORP
+the System Acceptance Testing: ORG
+SAT: ORG
+SAT: ORG
+July 2009 to December 2009: DATE
+Supervisor: PERSON
+Randy Devine: PERSON
+520: CARDINAL
+459: CARDINAL
+Information Technology: ORG
+the US Army
+Information Systems Engineering Command: ORG
+USAISEC: ORG
+Developed the Facility Design Criteria: ORG
+FDC: ORG
+List of Materials: WORK_OF_ART
+Worked with Government: ORG
+U.S.: GPE
+Army Forces Command: ORG
+FORSCOM: ORG
+U.S.: GPE
+Army Reserve Command: ORG
+USARC: ORG
+Ultra High Frequency: PERSON
+Radio Systems: ORG
+Command: ORG
+Control, Communications: ORG
+Intelligence / Information
+Technology: ORG
+Requirements Package: WORK_OF_ART
+April 2001 to September 2009: DATE
+Vista: PERSON
+Arizona: GPE
+Robert Kessler - (: PERSON
+520: CARDINAL
+417: CARDINAL
+U.S.: GPE
+Army Information Systems Engineering Command: ORG
+USAISEC: ORG
+Engineer: ORG
+Furnish: NORP
+Command: ORG
+QA / QC: ORG
+C2: PRODUCT
+the US Southern Command: ORG
+SOUTHCOM: ORG
+FDC: ORG
+USACE: LOC
+SDP: ORG
+LOM: ORG
+the Defense Threat Reduction Agency: ORG
+the United States Army South: ORG
+the Installation Management Agency: ORG
+IMA: ORG
+Fort Sam Houston: FAC
+Texas: GPE
+Briefing: GPE
+Display Facilities: ORG
+BDF: ORG
+Conference Rooms, Command Center: ORG
+Open Office Areas: ORG
+QA / QC: ORG
+Global Command: ORG
+Control System: ORG
+Unclassified Local Area Network: ORG
+NIPRNET: ORG
+Secret Local Area Network: ORG
+Sensitive Compartmented Local Area Network: ORG
+SCI LAN: ORG
+Administrative Telephone System: ORG
+Visual Information Systems: ORG
+Assisted USAISEC Force Projection Engineering Directorate: ORG
+1st Signal Brigade: ORG
+C2: PRODUCT
+19th: ORDINAL
+Theatre Support Command: ORG
+South Korea: GPE
+SDP: ORG
+EIP: ORG
+the Global Command: ORG
+Control System: ORG
+C2: PRODUCT
+U.S.: GPE
+Army Central Command: ORG
+Doha: GPE
+Qatar: GPE
+Operation Iraqi
+Freedom: EVENT
+Command Center: FAC
+Cat5: NORP
+Bachelor of Science (BS: ORG
+Information Technology: ORG
+2005: DATE
+University of Phoenix GPA: ORG
+GPA: ORG
+3.67: CARDINAL
+3.67: CARDINAL
+Associates of Applied Science: ORG
+Electronic Technology: ORG
+2003: DATE
+Cochise College: ORG
+GPA: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+Theta Kappa: PERSON
+2001: CARDINAL
+GPA: ORG
+GPA: ORG
+4.0: CARDINAL
+4.0: CARDINAL
+Theta Kappa: PERSON
+Skills
+Administrative: ORG
+Analyst,: ORG
+Army: ORG
+Agency: ORG
+Cat5: ORG
+Engineer: ORG
+Functional, Government: ORG
+Information Systems: ORG
+Information Technology: ORG
+Local Area Network: ORG
+LAN: ORG
+Materials: PRODUCT
+Network: ORG
+QA: ORG
+Radio: ORG
+SAT: ORG
+Supervisor: PERSON
+Switch, System Design, Systems Integration: ORG
+Telephone, Theatre: ORG
+UHF: ORG
+Ultra High Frequency: PERSON
+Vista: ORG

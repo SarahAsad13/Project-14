@@ -1,0 +1,33 @@
+more than half: CARDINAL
+the last 20 years: DATE
+Skills
+
+Team: ORG
+Strong: PERSON
+Ordering: GPE
+CPR: ORG
+Committed: ORG
+Work History
+Dining Services Coordinator
+
+Process implementation
+Institutional: WORK_OF_ART
+ServSafe Certification
+Outgoing: PRODUCT
+CurrentBrookdale: GPE
+Systematically: ORG
+CurrentBrookdale: GPE
+Systematically: ORG
+Healthcare: ORG
+10/2011: CARDINAL
+AlabamaEstablished: ORG
+Collaborated: ORG
+10/2011: CARDINAL
+Skills
+
+Communication: ORG
+Records: ORG
+Bachelor of Science : Human Resources Management: ORG
+1998: DATE
+UniversityMontgomery - State Human Resources Management Activities: ORG
+Serve Safe Management: ORG

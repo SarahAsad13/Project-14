@@ -1,0 +1,86 @@
+CASHIER: ORG
+Career Focus: FAC
+Core Qualifications
+
+Nutrition: ORG
+CPR: ORG
+First Aid: ORG
+AED: ORG
+Detail: PERSON
+Dedicated
+
+Education: ORG
+Training
+Fitness Nutrition Certification: ORG
+2013: DATE
+National Academy Of Sports Medicine City: ORG
+State
+
+Coursework in Health and Physical Education: ORG
+Personal Trainer Certificate: PERSON
+Weight Loss Management: ORG
+Atlanta University City: ORG
+State
+
+Coursework in Nutrition Science: ORG
+Biological Science Club: ORG
+3.12: CARDINAL
+GPA: ORG
+63: CARDINAL
+the first 2 months: DATE
+Cashier Current Company Name City: ORG
+State: ORG
+daily: DATE
+Name City: GPE
+60: CARDINAL
+first two weeks: DATE
+150: CARDINAL
+40%: PERCENT
+Mediated: ORG
+09/2014 Company Name City: ORG
+22%: PERCENT
+Marketing Intern: PERSON
+Name City: GPE
+40%: PERCENT
+2013 summer: DATE
+60: CARDINAL
+Customer Interface Greeted: ORG
+100%: PERCENT
+Personal Trainer 03/2008: PERSON
+09/2010 Company Name City: EVENT
+Intern: ORG
+2,000 square feet: QUANTITY
+weekly: DATE
+weekly: DATE
+Spelman College: ORG
+Clark Atlanta University: ORG
+3 days per week: DATE
+weekly: DATE
+Professional Affiliations
+
+: ORG
+NAACP: ORG
+Pre Professional Honors Society: ORG
+WISE Program: ORG
+FBLA: ORG
+Poetry Club: ORG
+HOSA: ORG
+Sports Broadcasting Correspondent: ORG
+Spanish Club
+
+Skills: ORG
+100 pounds: QUANTITY
+Careful: PRODUCT
+Lee Elementary: PERSON
+Project Reading Program: ORG
+ages 59 years of age: DATE
+Westlake High School Contributed: ORG
+HOSA: ORG
+Assisted: ORG
+89 year old: DATE
+South Fulton County: GPE
+St. Jude Contributor: ORG
+Week: DATE
+Clark Atlanta University: ORG
+the St. Jude Hospital Breast Cancer Awareness Walk
+Participant: ORG

@@ -1,0 +1,146 @@
+UX/UI Designer: ORG
+Agile: NORP
+Waterfall: ORG
+Skill Highlights: PERSON
+Fireworks
+Illustrator
+Small: PRODUCT
+Style-Guide Creation
+
+Professional Experience
+Lead UX/UI: ORG
+Sep 2014 to Jun 2016: DATE
+two: CARDINAL
+Diligent: ORG
+The Client Application Portal: ORG
+Agile: ORG
+two week: DATE
+Target Process: ORG
+Daily Collaboration with Designers: WORK_OF_ART
+Scrum Master: PERSON
+BA: ORG
+DEV: ORG
+QA: ORG
+PO: ORG
+two: CARDINAL
+IOS: ORG
+weekly: DATE
+Axure: GPE
+Photoshop: PERSON
+UX/UI: ORG
+May 2014: DATE
+LPL: GPE
+UX/UI: ORG
+2012: DATE
+May 2014: DATE
+General Motors Protection Plan: ORG
+GMPP: ORG
+GMPP: ORG
+approximately 1.6 million: CARDINAL
+the United States: GPE
+UX/UI Designer: ORG
+Ally: PERSON
+QPS: ORG
+BCD, Reinsurance: ORG
+OSS: ORG
+Claims: NORP
+Ally: PERSON
+BDG: ORG
+Information Architect: ORG
+Style Guide: ORG
+Internal: ORG
+Auto Home Page Usability: ORG
+Design Ally's: PERSON
+first Auto Dealer Tablet Application: ORG
+F&I: ORG
+Vehicle Service Contract: ORG
+VSC: ORG
+Mobile: ORG
+Truncate: ORG
+250: CARDINAL
+BRD: ORG
+Sketch: PERSON
+BRD: ORG
+Owner/Excecutive: ORG
+Jul 1999: PERSON
+2012: DATE
+UX/UI Consulting: ORG
+Logo/Brand Design: ORG
+Interactive: ORG
+Banner Creation: ORG
+2.0: CARDINAL
+Created: ORG
+1999: DATE
+IBM: ORG
+Tables: NORP
+Adobe Fireworks: PERSON
+4: CARDINAL
+Jan 1996: DATE
+1998: DATE
+Flyinthesoup: ORG
+Created: ORG
+Sauce: ORG
+Jan 1993 to Jan 1996: DATE
+Sidestreet Greetings: ORG
+30 Christmas: DATE
+Featured in Inc.
+Magazine: ORG
+Entrepreneur Magazine: ORG
+Biz Magazine: PERSON
+Commissioned: ORG
+Hallmark Cards Inc.: ORG
+Valentine's Day: DATE
+over 80: CARDINAL
+Sidestreet Greetings: ORG
+Created a Property: ORG
+SisterSista: ORG
+Sunrise Greeting: PERSON
+InterArt: ORG
+30: CARDINAL
+InterArt: ORG
+Hallmark Cards: ORG
+SisterSista: ORG
+InterArt: ORG
+InterArt: ORG
+Hallmark Cards: ORG
+Licensed: PERSON
+Milar Balloon Company: ORG
+Holiday: DATE
+Focus Group: ORG
+Creative Direction: PERSON
+Product Management: ORG
+3: CARDINAL
+May 1983 to Jan 1993: DATE
+Blockbuster, Sprint: ORG
+McDonald's: ORG
+Einstein Brothers: ORG
+Missouri Lottery: ORG
+State Travel Government: ORG
+Core Accomplishments
+Board: ORG
+the Board of Directors of AIGA ": ORG
+Punch The Monkey: WORK_OF_ART
+first: ORDINAL
+HostPaks: ORG
+Associates Degree Colorado Institute of Art ï¼​ City: ORG
+Progress , Advertising Design Communication Media Denver University: ORG
+ï¼​ City: GPE
+State Advertising Design Communication: ORG
+English: LANGUAGE
+Advertising Kansas University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Skills
+Adobe: ORG
+Concept, Consulting: ORG
+Creative Direction: PERSON
+Entrepreneur: PERSON
+Fireworks: PRODUCT
+Graphic: PERSON
+UX: ORG
+HTML: ORG
+Logo: PERSON
+Page: PERSON
+Product
+Management: ORG

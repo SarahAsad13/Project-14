@@ -1,0 +1,49 @@
+Art: PERSON
+the [Student Club Name] Club: ORG
+Florida: GPE
+Art K-12: PERSON
+Current
+Arts Educator Company Name: ORG
+Communicated: ORG
+daily: DATE
+weekly: DATE
+the day: DATE
+one: CARDINAL
+Assess: ORG
+Exemplary: PERSON
+yearly: DATE
+the National Junior Art Honor Society: ORG
+"Evening of Art: WORK_OF_ART
+annual: DATE
+State: ORG
+Visual Arts Instructor Company Name: ORG
+07/2005: PRODUCT
+Owner/Artist Company Name: ORG
+U.S.: GPE
+Caribbean: LOC
+Training
+Master of Science : Education NovaSoutheastern University: WORK_OF_ART
+State: GPE
+United States: GPE
+B.F.A Florida Atlantic University: ORG
+ï¼​ City: GPE
+Omaha: GPE
+City: GPE
+State: GPE
+United States: GPE
+Goodrich Scholarship: ORG
+Studio: PERSON
+the Corning Museum of Glass ï¼​ City: ORG
+Activities and Honors
+Featured: WORK_OF_ART
+PBS: ORG
+New Florida Glass Fusion Artist: ORG
+Scholastic Art: LOC
+Carnaggie Hall: FAC
+NYC: LOC
+first: ORDINAL
+Gallery Hard Rock Casino: ORG
+Hollywood: GPE
+Florida: GPE
+NAEA: PERSON
+Hadar: PERSON

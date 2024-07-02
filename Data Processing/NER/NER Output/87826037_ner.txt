@@ -1,0 +1,82 @@
+Profile
+Highly: ORG
+Northrop Grumman: ORG
+Unmanned Aerial Vehicles, Aeronautical Development and Design: ORG
+Skills: ORG
+MATLAB: ORG
+AVL: ORG
+C Programming: ORG
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+October 2013: DATE
+Northrop: ORG
+UAVs: ORG
+UAVs: ORG
+AVL: ORG
+Created: ORG
+FlightGear: PRODUCT
+UAVS: ORG
+October 2013: DATE
+Sawed: PERSON
+Aeronautics F-22 Project: ORG
+Winter 2014: DATE
+four: CARDINAL
+Lockheed Martin's: ORG
+F-22 Raptor Implemented: ORG
+Calculated: ORG
+Reynold: PERSON
+F-22: PRODUCT
+May 2013: DATE
+Current Aviation Camp: ORG
+Organize: GPE
+August 2012 to January 2013: DATE
+The Tech Museum: ORG
+San Jose: GPE
+The Tech Museum's: ORG
+Group: ORG
+Training: GPE
+California State Polytechnic University: ORG
+June 2016: DATE
+GPA: ORG
+3.1: CARDINAL
+3.1: CARDINAL
+Feedback Control Systems: ORG
+Fluid Dynamics: ORG
+Gas Dynamics: ORG
+Orbital Mechanics: ORG
+Vector Dynamics: ORG
+Thermodynamics: GPE
+Experimental Aerodynamics: ORG
+Experimental Aerothermodynamics,: ORG
+Supersonic/Hypersonic Aerodynamics: ORG
+Controls of Aerospace Vehicles: ORG
+Aerospace Structural Analysis I & II: ORG
+Electric Circuit Theory, Electronics: ORG
+Aerospace Engineering Analysis: ORG
+American Institute of Aeronautics and Astronautics: ORG
+Society of Women Engineers: ORG
+2014: DATE
+national level SAE International
+Fall 2014 - Present Active: ORG
+Spanish: NORP
+Skills
+C Programming: ORG
+Lockheed Martin: PERSON
+MATLAB: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+PowerPoint: ORG
+Microsoft: ORG
+San: GPE
+Spanish: LANGUAGE
+Technical Writing
+Additional Information
+
+Involvement American Institute of Aeronautics and Astronautics: ORG
+Attend: ORG
+Society of Women Engineers: ORG
+2014: DATE
+national
+level SAE International Fall 2014 - Present Active: ORG

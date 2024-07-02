@@ -1,0 +1,75 @@
+futureâ€”and: ORG
+10 years: DATE
+Experienced Operations Analyst: ORG
+first: ORDINAL
+five years: DATE
+Resourceful Technical Support Engineer: ORG
+Schematic: ORG
+Critical: ORG
+Data: ORG
+Network Administration: ORG
+Supervision
+Hardware: ORG
+Troubleshooting and Maintenance
+Equipment repair
+Power: WORK_OF_ART
+Troubleshooting: EVENT
+Component: ORG
+LAN: ORG
+WAN: ORG
+Server and System Administration: ORG
+Software: ORG
+Server: ORG
+Data: ORG
+Network: ORG
+Time: ORG
+Active Directory: WORK_OF_ART
+Cybersecurity: ORG
+System Administration: ORG
+Microsoft Office: ORG
+Apple: ORG
+Application: ORG
+Information Systems Security Professional
+Advanced: ORG
+Windows: NORP
+Google Chrome OS
+Soldering
+Database: ORG
+Information Technology Specialist(Discountpcfix: ORG
+11/2011 - Current Company Name - City: ORG
+each evening: TIME
+imac: GPE
+Windows OS: ORG
+Explained: PERSON
+hours: TIME
+Tier 1: PERSON
+Quality Control Inspector Contractor: ORG
+04/2019 - Current Company Name - City: ORG
+Network Analyst: ORG
+06/2016 - 05/2018 Company Name - City: ORG
+Linux: GPE
+Windows: GPE
+VMWare: ORG
+Maintained: GPE
+07/2013 - 08/2015 Company Name - City: PRODUCT
+Training
+The Federal Polytechnic: WORK_OF_ART
+Ado-Ekiti - City: ORG
+State: ORG
+Associate of Science Science Technology: ORG
+2003: DATE
+Phoenix East Aviation - City: FAC
+State: ORG
+F.A.A Aircraft Dispatcher License Aviation: ORG
+2014: DATE
+University Of Colorado: ORG
+Boulder - City: GPE
+Certificate Cybersecurity Policy For Aviation And Internet: ORG
+07/2020: GPE
+GOOGLE I.T: ORG
+The Bits and Bytes of Computer Networking
+
+System Administration: WORK_OF_ART
+IT Infrastructure Service
+
+Technical Support Fundamentals: ORG

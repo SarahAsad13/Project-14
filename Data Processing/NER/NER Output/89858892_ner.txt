@@ -1,0 +1,35 @@
+Spanish: NORP
+Stockroom: PRODUCT
+Logistics: ORG
+Schedule: ORG
+Problem: PRODUCT
+First Aid/CPR: ORG
+Reliable: WORK_OF_ART
+State Receiving: ORG
+04/2019: CARDINAL
+daily: DATE
+weekly: DATE
+monthly: DATE
+Oversaw: GPE
+25+: DATE
+Maintained: GPE
+daily: DATE
+Maintained: GPE
+OSHA: ORG
+State: ORG
+04/2017 - 04/2018
+
+: ORG
+Oversaw: GPE
+monthly: DATE
+CRM: PRODUCT
+Created: ORG
+Maintained: GPE
+State Operations: ORG
+Replenished: PERSON
+quarterly: DATE
+Oversaw: GPE
+Sealth International High School: ORG
+State High School Diploma 06/2014: ORG
+Spanish: LANGUAGE
+English: LANGUAGE

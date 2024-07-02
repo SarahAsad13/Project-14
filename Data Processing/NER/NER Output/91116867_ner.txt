@@ -1,0 +1,35 @@
+Summary
+Adaptable: WORK_OF_ART
+5+ years: DATE
+November 2016: DATE
+Name City: GPE
+Sephora: PERSON
+daily: DATE
+Working: ORG
+weekly: DATE
+June 2012: DATE
+September 2016: DATE
+Name City: GPE
+State Office: ORG
+McHugh CPA Group: ORG
+Atlanta: GPE
+GA: ORG
+Microsoft: ORG
+POA: ORG
+Oversaw: GPE
+Performed: ORG
+Screened: ORG
+March 2011: DATE
+July 2012: DATE
+Name City: GPE
+MAX: ORG
+Coordinated: ORG
+May 2010: DATE
+Norwich Free Academy City: ORG
+Skills
+
+Excellent: ORG
+Articulate: ORG
+Accurate: ORG
+Microsoft Office: ORG
+Invoice: GPE

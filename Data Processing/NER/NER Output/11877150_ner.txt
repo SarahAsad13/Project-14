@@ -1,0 +1,51 @@
+Customer: ORG
+English: LANGUAGE
+Indonesian Languange
+Proficient: ORG
+Work History
+Finance: WORK_OF_ART
+07/2013: CARDINAL
+Forecasted: ORG
+annual: DATE
+monthly: DATE
+monthly: DATE
+Junior Auditor: PERSON
+06/2012: CARDINAL
+S.E : Accounting: ORG
+2013: DATE
+Kwik Kian Gie School of Business - City: ORG
+Don Bosco: PERSON
+Wall Street Institute Posisi: ORG
+SPO: ORG
+2: CARDINAL
+2012: DATE
+Instansi / Perusahaan : KAP: ORG
+Rahman Posisi: PERSON
+Magang: PERSON
+Penghasilan Terakhir: PERSON
+dan memeriksa laporan: PERSON
+keuangan klien: PERSON
+3: CARDINAL
+2013: CARDINAL
+Mitra Manunggal Mahardika: PERSON
+Posisi: PERSON
+Penghasilan Terakhir: PERSON
+4.500.000: CARDINAL
+Skills: ORG
+English: LANGUAGE
+Finance: ORG
+Access, Excel: ORG
+Word, Promotion: ORG
+Jenis Kelamin / Gender : Perempuan Tanggal: PERSON
+Birth: GPE
+Jakarta: GPE
+24: CARDINAL
+Desember 1989: DATE
+Status Marital: PERSON
+Marital Status: ORG
+Belum Menikah Warga: PERSON
+dan Berat Badan/: PERSON
+161cm/56kg: QUANTITY
+diminati: GPE
+Riwayat Pendidikan: PERSON
+Jenjang Pendidikan: PERSON

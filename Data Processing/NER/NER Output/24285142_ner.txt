@@ -1,0 +1,141 @@
+FREELANCE: GPE
+Accomplished Graphic Designer: PERSON
+15 years: DATE
+Effective: NORP
+4: CARDINAL
+Research: ORG
+Spanish: NORP
+Highlights
+
+Mac & Windows: ORG
+InDesign: ORG
+Flash: PERSON
+Acrobat Pro 9.5: PERSON
+Corel Draw X6: ORG
+MS Office: ORG
+Visio Professional: ORG
+Adobe Flash: PERSON
+35 mm: QUANTITY
+Canon Rebel Xti: PERSON
+Sony: ORG
+F828
+Typing: PRODUCT
+80: CARDINAL
+Freelance Graphic: PERSON
+09/2008: PERSON
+Current City: GPE
+Fine Artist City: PERSON
+State
+
+Commission: ORG
+9: CARDINAL
+10/2004: CARDINAL
+annual: DATE
+Conceived: PERSON
+weekly: DATE
+quarterly: DATE
+monthly: DATE
+Katia I.: PERSON
+Miller Page 2 Key Accomplishments: ORG
+the Air Force: ORG
+Marines: NORP
+Okinawa: PERSON
+the Pacific Region: LOC
+33.33%: PERCENT
+2007: DATE
+2006: DATE
+04/2000: CARDINAL
+19: CARDINAL
+Prepared: PERSON
+weekly: DATE
+319 Force Support's: FAC
+Northern Highlights: WORK_OF_ART
+4: CARDINAL
+monthly: DATE
+2: CARDINAL
+8: CARDINAL
+The Guide: WORK_OF_ART
+Assigned: PERSON
+319th Services: ORG
+annual: DATE
+summer: DATE
+Las Vegas: GPE
+NV: ORG
+Adobe CS5 Certification 07/2013: ORG
+PITA Professional Institute of Technology: ORG
+Visual Arts 05/2000 University: ORG
+College City: GPE
+GPA: ORG
+3.80: CARDINAL
+3.80: CARDINAL
+Graphic Arts Technology: ORG
+GPA: ORG
+GPA: ORG
+3.55: CARDINAL
+3.55: CARDINAL
+Spanish: NORP
+Black & White/Color: ORG
+Interests: NORP
+October 2015: DATE
+Graphic Designer: PERSON
+The Center: WORK_OF_ART
+May 2015: DATE
+Habitat for Humanity: ORG
+Jan 2015: DATE
+Okinawa Special Olympics: PERSON
+Jan 2005: DATE
+Red River Valley: LOC
+Gymnastics: GPE
+1999-2004: DATE
+American Red Cross: ORG
+Grand Forks Flood: FAC
+April 1997: DATE
+Coin: ORG
+Okinawa Exchange: ORG
+Okinawa: PERSON
+Japan: GPE
+Okinawa Exchange: ORG
+Okinawa: PERSON
+Japan: GPE
+08/2008: PERSON
+Okinawa Exchange: ORG
+Okinawa: PERSON
+Japan: GPE
+12/2006: DATE
+319th Services Squadron: ORG
+Grand Forks AFB: ORG
+ND: GPE
+01/2001: PERSON
+VOLUNTEER Project 150,: PRODUCT
+October 2015: DATE
+Graphic Designer: PERSON
+The Center: WORK_OF_ART
+May
+2015: DATE
+Habitat for Humanity: ORG
+Jan 2015: DATE
+Okinawa Special Olympics: PERSON
+Jan 2005: DATE
+Red River Valley Gymnastics: LOC
+1999-2004: DATE
+American Red Cross: ORG
+Grand Forks: FAC
+Flood: GPE
+April 1997: DATE
+Acrobat: PERSON
+Adobe: PERSON
+Dreamweaver: ORG
+Air Force: ORG
+Color: PERSON
+Hardware: ORG
+Corel Draw: ORG
+Flash: PERSON
+Illustrator, InDesign: ORG
+Logo, Mac: ORG
+MS Office: ORG
+Windows: ORG
+Operating Systems: ORG
+35 mm: QUANTITY
+Cameras: NORP
+Spanish: NORP
+Typing, Visio Professional: ORG

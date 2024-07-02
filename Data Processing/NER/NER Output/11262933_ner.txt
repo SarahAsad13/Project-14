@@ -1,0 +1,72 @@
+Customer: ORG
+88%: PERCENT
+18: CARDINAL
+Core Qualifications: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Lotus: ORG
+Outlook: PERSON
+10: CARDINAL
+January 2014 to January 2014: DATE
+Processed: GPE
+Maintained: GPE
+Provide: NORP
+daily: DATE
+over $1,000: MONEY
+Communicated: ORG
+Treasury: ORG
+Advisor: PRODUCT
+January 2013 to January 2014: DATE
+treasury: ORG
+Global Large: ORG
+Reconcilement: PERSON
+Electronic File Transmission: ORG
+Automated Clearing House: ORG
+Wire Services: ORG
+over $56MM: MONEY
+Awarded Bank of America Silver: ORG
+ACH: ORG
+ARP: ORG
+January 2007 to January 2013: DATE
+Workflow: ORG
+Bank: ORG
+Established: ORG
+Established: ORG
+Prepared: PERSON
+Maintained: GPE
+January 2010 to January 2012: DATE
+Customer Service Representative: ORG
+January 2008 to January 2010: DATE
+January 1997 to January 2007: DATE
+21: CARDINAL
+Sorter
+Operations: WORK_OF_ART
+40%: PERCENT
+Bank of America: ORG
+Bank of America: ORG
+100%: PERCENT
+Established: ORG
+2009: DATE
+DeKalb Technical Institute: ORG
+M&K: ORG
+Education City: GPE
+State Education
+Certification: ORG
+First Aid Training MLS Real Estate: ORG
+Skills: ORG
+10: CARDINAL
+ATM: ORG
+CPR: ORG
+Data: ORG
+First Aid: ORG
+Image: ORG
+Lotus: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Level Agreements: PERSON
+Transmission: ORG
+Workflow: GPE

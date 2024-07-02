@@ -1,0 +1,127 @@
+Career Overview: WORK_OF_ART
+12 years: DATE
+Software Quality Assurance: ORG
+Client Server: PERSON
+Familiar: PERSON
+Waterfall: ORG
+7 years: DATE
+5 years: DATE
+Advanced Windows OS: ORG
+Qualifications
+Microsoft Excel: ORG
+DOS: ORG
+Mac: PERSON
+SharePoint: ORG
+Windows: NORP
+Acuity Electronic Health Record System: ORG
+Ontime.com: ORG
+SQL DB: ORG
+WinAutomation: ORG
+TestComplete: ORG
+Cloud Share: PERSON
+Excel: PRODUCT
+Word: PERSON
+the Electronic Health Record: ORG
+Patient, Company: ORG
+Provider, Referrals, Collaborators, Utilization: ORG
+Notes: PRODUCT
+Implementation: ORG
+one: CARDINAL
+Ontime.com: ORG
+FTP: ORG
+Cloud Share: PERSON
+Macintosh: ORG
+ZenDesk: PERSON
+Troubleshoot: ORG
+Airbnb.com: ORG
+Jan 2006 to Jan 2010: DATE
+Windows: NORP
+Quality Center: ORG
+Excel: PRODUCT
+Word: PERSON
+SharePoint: ORG
+PowerPoint: ORG
+the System Integration Test: ORG
+the CA Banking Center New Accounts and Teller Platforms: ORG
+Provided: ORG
+Test Analysts Work: ORG
+Identify: ORG
+Provide: NORP
+CA Banking Centers: ORG
+CA: ORG
+Created: ORG
+Software: NORP
+Analyst Jan 2000 to Jan 2006: DATE
+Windows: NORP
+Quality Center: ORG
+Excel: PRODUCT
+Word: PERSON
+Visio: PERSON
+Quality Center: ORG
+Maintained: GPE
+Created: ORG
+Internal Operations: ORG
+Analyst Jan 1999: DATE
+Jan 2000: DATE
+Windows: NORP
+Research: ORG
+Identify: ORG
+Jan 1998 to Jan 1999: DATE
+Windows: NORP
+Controller: PERSON
+Bank of America: ORG
+billions of dollars: MONEY
+Windows 98: ORG
+Liaison Jan 1997 to Jan 1998: DATE
+Windows: NORP
+Customer Service: ORG
+Jan 1995 to Jan 1997: DATE
+Retail Banking Center: ORG
+Windows: NORP
+Processed: GPE
+daily: DATE
+Training
+BS , Computer Information Systems: ORG
+2004: DATE
+Golden Gate University: ORG
+State Computer Information Systems: ORG
+AAS ,: ORG
+Computer Technology 2002: ORG
+Heald College: ORG
+ï¼​ City: GPE
+State Computer Technology: ORG
+AAS , Electronics Technology 2001: ORG
+Heald College: ORG
+ï¼​ City: GPE
+State Electronics Technology
+Certificate Health Care Information Technology 2013 Cosumnes River College: ORG
+Skills: ORG
+Agile: ORG
+Call Center: ORG
+CA: ORG
+Controller: PERSON
+Database: GPE
+DOS: ORG
+Frontpage: GPE
+FTP: ORG
+Information Technology: ORG
+Notes: NORP
+Mac: PERSON
+Macintosh: ORG
+Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Windows: ORG
+2k: DATE
+Word: PERSON
+DB: GPE
+Quality: ORG
+Research, Retail: ORG
+SQL, System Integration: ORG
+SQL: ORG
+Troubleshoot: ORG
+Visio: PERSON

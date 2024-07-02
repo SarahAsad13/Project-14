@@ -1,0 +1,101 @@
+Microsoft: ORG
+Mindset: GPE
+One: CARDINAL
+Microsoft: ORG
+Microsoft: ORG
+Microsoft: ORG
+Skype: ORG
+O365: PRODUCT
+02/2016: PRODUCT
+Microsoft: ORG
+ECGP: ORG
+Get
+Healthy: WORK_OF_ART
+the end of July: DATE
+3M: PRODUCT
+Alcoa: ORG
+Aon: PERSON
+Lubrizol: PERSON
+AllState: ORG
+Get Healthy: WORK_OF_ART
+Assisted: ORG
+AirLift: ORG
+06/2013: CARDINAL
+02/2016: CARDINAL
+Engineer City: GPE
+State: ORG
+DSE: ORG
+at least 1600 hours: TIME
+Office 365 Network Performance: ORG
+Delta Airlines: ORG
+two: CARDINAL
+KHI: ORG
+SCOM: GPE
+StatsMan: ORG
+Call Quality Dashboard: ORG
+40 million dollar: MONEY
+O365: CARDINAL
+AIG: ORG
+two years: DATE
+DSE: ORG
+another two
+years: DATE
+O365: PRODUCT
+DSE: ORG
+IM & P: ORG
+AT&T: ORG
+two: CARDINAL
+Citrix: PRODUCT
+Carnival Cruise Lines: ORG
+Florida Hospital: ORG
+Kelloggs Company: ORG
+Amazon: ORG
+Visa: ORG
+Mastercard: GPE
+Humana: ORG
+Deloitte: ORG
+King County: GPE
+State: GPE
+Washington: GPE
+the Botswana Innovation Hub: ORG
+Skype for Business deployment: ORG
+06/2013: CARDINAL
+Completed: ORG
+OCS 2007: LAW
+R2 300: CARDINAL
+2010: DATE
+25: CARDINAL
+IM: ORG
+PIC: ORG
+Cisco: GPE
+Tandberg: PERSON
+Morgan Keegan's: ORG
+2010: DATE
+2013: DATE
+Polycom: ORG
+RMX: ORG
+DMA: ORG
+Blackberry, Good: ORG
+ActiveSync: ORG
+MobileIron: PRODUCT
+Training: PERSON
+1998: DATE
+Associate degree University of Stellenbosch: ORG
+Nelson Mandela Metropolitan University: ORG
+1996: DATE
+07 / 2018: DATE
+Communication Communication: ORG
+F372-7058: PERSON
+Microsoft: ORG
+10013480: CARDINAL
+Skills: ORG
+Architect: ORG
+Cisco: GPE
+Citrix: GPE
+Engineer: ORG
+Hub, Innovation, Office: ORG
+Enterprise: ORG
+Network, Quality: ORG
+Risk Assessment: PERSON
+2010 - 05 / 2013: DATE
+10013480: DATE

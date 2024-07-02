@@ -1,0 +1,136 @@
+STRATEGY
+Executive Profile: PERSON
+one: CARDINAL
+Digital Marketing: ORG
+Ambitious Strategy and Innovation: ORG
+Builds: PERSON
+Project Management, Change Management: ORG
+Process Development & Redesign: ORG
+New Initiatives: GPE
+Digital Media Operations
+Project Management
+Negotiations Management
+Business Development
+Team Leadership
+Product Development
+
+Budget Management Â 
+Strategic: ORG
+Professional Communications
+Business Intelligence
+Benchmarks: ORG
+Core Accomplishments
+
+As: WORK_OF_ART
+Philadelphia: GPE
+New Jersey: GPE
+Florida: GPE
+Alabama: GPE
+Western Pennsylvania: LOC
+Online Operations: ORG
+June 2012: DATE
+Digital Innovation and Strategy 
+City: ORG
+Draft: ORG
+Assess: ORG
+Mitigated: ORG
+Established: ORG
+Establish: NORP
+March 2010 to March 2011: DATE
+Ad and Online Operations 
+City: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+monthly: DATE
+quarterly: DATE
+Editorial: PERSON
+Omniture: ORG
+Â 
+Configured: ORG
+Google: ORG
+Bust Backplane: PERSON
+Six Apart
+
+Implemented: PERSON
+September 2006 to June 2012: DATE
+Online Operations 
+City: ORG
+State: ORG
+Project Managed: PERSON
+Content Management System: ORG
+Philadelphia: GPE
+New Jersey: GPE
+WesternPennsylvania: ORG
+third: ORDINAL
+Project Managed Omniture Site Catalyst: ORG
+Google Analytics: ORG
+Provided Analytical Analysis and Recommendations: ORG
+Worked with Executive Management: ORG
+Google: ORG
+Platform, Guided newspaper: ORG
+annual: DATE
+500,000: MONEY
+Online Operation Team: ORG
+Five Marketing Assistants: WORK_OF_ART
+Webmaster
+Performed: PERSON
+10: CARDINAL
+Optimizing Operations: ORG
+May 2005: DATE
+Conducted: ORG
+Assisted: ORG
+daily: DATE
+April 2005 to September 2005: DATE
+DMA: ORG
+Â: PRODUCT
+May 2002 to June 2004: DATE
+Analyst 
+City: DATE
+Senior Management
+Worked with System Engineers: ORG
+Used Novell NetWare Administrator: WORK_OF_ART
+Domains: ORG
+January 2001 to August 2001: DATE
+Microsoft: ORG
+Troubleshooted: ORG
+Software Programs: ORG
+Long Island University College of Management: ORG
+Marketing City: GPE
+State Marketing
+Hofstra University: ORG
+Frank G. Zarb School of Business: PERSON
+December 2001: DATE
+Business Administration : Management Information Systems: ORG
+State Management Information Systems: ORG
+English: LANGUAGE
+Spanish: NORP
+Hindi
+Skills: PERSON
+Microsoft Access: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Visio: PERSON
+NET: ORG
+FoxPro: ORG
+Microsoft Windows: ORG
+Apple OSX: ORG
+Dream Weaver: ORG
+Photoshop: PERSON
+Microsoft Access: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Visio: PERSON
+NET: ORG
+FoxPro: ORG
+Microsoft Windows: ORG
+Apple OSX: ORG
+Dream Weaver: ORG
+Photoshop: PERSON
+Lotus Notes: ORG
+Corel,Omniture Site Catalyst: ORG
+Google AnalyticsGoogle DFP: ORG
+DrupalNetworking: ORG
+Web-Site Administration: ORG

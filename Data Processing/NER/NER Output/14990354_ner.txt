@@ -1,0 +1,83 @@
+Global Business Development: ORG
+C-Level: ORG
+Builds: PERSON
+Skill Highlights: PERSON
+Fortune 500: PRODUCT
+National: ORG
+Exceeds: NORP
+02/2014: ORG
+Staples: PERSON
+National: NORP
+Avendra, Group Purchasing Organizations: ORG
+50%: PERCENT
+one year: DATE
+Staples
+Implement National furniture standards program: WORK_OF_ART
+50%: PERCENT
+20 million dollar: MONEY
+annual: DATE
+35,000,000: MONEY
+annually: DATE
+Extensive P/L: ORG
+A&D: ORG
+2 Million dollar: MONEY
+Fontainebleau
+Hotel Miami: ORG
+Florida: GPE
+375%: PERCENT
+42: CARDINAL
+14: CARDINAL
+daily: DATE
+Design, Project Management: ORG
+3: CARDINAL
+Billable: GPE
+hours: TIME
+04/1996: CARDINAL
+San Diego: GPE
+Hawaii: GPE
+10.3 million dollars: MONEY
+GSA: ORG
+2005: DATE
+annual: DATE
+53.7%: PERCENT
+2005: DATE
+505%: PERCENT
+2004: DATE
+2002 1st quarter: DATE
+254%: PERCENT
+269%: PERCENT
+2002 2nd quarter: DATE
+249%: PERCENT
+2002: DATE
+annual: DATE
+Terrace: ORG
+2001: DATE
+2001: DATE
+145.75%: PERCENT
+2001: DATE
+2,697,666.00: MONEY
+previous year: DATE
+Account Executive: ORG
+1.2 million dollars: MONEY
+annually: DATE
+Steelcase: ORG
+July 1997: DATE
+400%: PERCENT
+1997: DATE
+North Island Federal Credit Union's: ORG
+Quality: ORG
+50%: PERCENT
+1996: DATE
+Southern California: LOC
+1995: DATE
+Neocon: GPE
+two: CARDINAL
+over $: MONEY
+100,000.00: MONEY
+University of California - City: ORG
+Interior Design & Industrial Technology: ORG
+1988: DATE
+Central Michigan University - City: ORG
+National Association of Female Executives
+International Interior Design Association: ORG
+International Facilities Management Association: ORG

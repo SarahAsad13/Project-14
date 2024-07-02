@@ -1,0 +1,40 @@
+Highlights
+Data: ORG
+May 2012: DATE
+Accounting: ORG
+Quickbooks: PERSON
+ADP: ORG
+daily: DATE
+Microsoft Excel: ORG
+monthly: DATE
+Review Financial Statements: ORG
+Quickbooks: PERSON
+July 2011: DATE
+May 2012: DATE
+Medicaid: ORG
+Enrollment: GPE
+Medical Program Daily: ORG
+daily: DATE
+Assist Financial: ORG
+daily: DATE
+Medicaid: ORG
+daily: DATE
+Developed: ORG
+Patient Satisfaction: PERSON
+the Employee Census: ORG
+June 2008 to March 2010: DATE
+Accountant 
+City: PERSON
+Used Accounting and Auditing Sox: ORG
+Applied: ORG
+daily: DATE
+Reviewed Journal Entries: ORG
+monthly: DATE
+Landowner Statements: PERSON
+YOUNGSTOWN STATE UNIVERSITY: ORG
+State: GPE
+US: GPE
+Skills: ORG
+Excel: PRODUCT
+3 years: DATE
+3 years: DATE

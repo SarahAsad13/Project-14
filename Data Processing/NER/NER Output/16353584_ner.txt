@@ -1,0 +1,88 @@
+8 years: DATE
+multi-million dollar: MONEY
+up to 10: CARDINAL
+daily: DATE
+Foreman 
+: DATE
+March 2009: DATE
+Current Company Name: ORG
+daily: DATE
+Coordinate: ORG
+Monitory: PERSON
+daily: DATE
+Track: PERSON
+Choose: PRODUCT
+Facilitated: ORG
+three years: DATE
+Foreman 
+March 2009: DATE
+Current Company Name: ORG
+daily: DATE
+Coordinate: ORG
+Monitory: PERSON
+daily: DATE
+Track: PERSON
+Choose: PRODUCT
+Facilitated: ORG
+three years: DATE
+February 2005 to March 2009: DATE
+Laid: PERSON
+one: CARDINAL
+February 2005 to March 2009: DATE
+Laid: PERSON
+one: CARDINAL
+2002: DATE
+COMMUNITY SCHOOL: ORG
+Electrical Engineering KCM Industrial Training Centre: WORK_OF_ART
+Koonamavu: GPE
+1982: DATE
+S.S.L.C.: GPE
+G.H.S.: ORG
+Kadungapuram 1980 Professional Summary:: ORG
+Libya: GPE
+June 2015: DATE
+Electrical Foreman: PERSON
+1988: DATE
+21 Years: DATE
+DB Termination: ORG
+Panel: ORG
+HT & LT: ORG
+Testing &: ORG
+20.04.1964: CARDINAL
+Good Overall Professional: ORG
+26 years: DATE
+Passport Details
+Passport No: PERSON
+16.07.2014: CARDINAL
+Expiry: PERSON
+15.07.2024: CARDINAL
+158117: DATE
+Permanent Address Panikkassery House Alangad: ORG
+Kerala: GPE
+India: GPE
+PIN: ORG
+683525: CARDINAL
+Interests: NORP
+Indian: NORP
+Jose P.V: PERSON
+Arabic: LANGUAGE
+English: LANGUAGE
+Hindi: GPE
+Tamil: GPE
+Urdu: GPE
+Malayalam: ORG
+Arabic: LANGUAGE
+English: LANGUAGE
+Hindi: GPE
+Regulatory Compliance: ORG
+Jose P.V Age & Date: ORG
+20.04.1964: CARDINAL
+Good
+Overall Professional: ORG
+26 years: DATE
+Passport Details Passport No: WORK_OF_ART
+16.07.2014: CARDINAL
+Expiry: PERSON
+15.07.2024: DATE
+Cochin Dubai Driving License No: ORG
+158117: DATE

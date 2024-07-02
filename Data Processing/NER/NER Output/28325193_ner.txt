@@ -1,0 +1,123 @@
+THEATER ARTS TEACHER & PROGRAM: ORG
+Theater Arts: PERSON
+Theater Arts: ORG
+over six years: DATE
+Texas: GPE
+Dallas Theater Center & Project Discovery Partner & Grant Recipient
+Local School Council Committee: ORG
+High School U.I.L.: ORG
+Middle School U.I.L.: ORG
+U.I.L. Theatrical Design Sponsor: ORG
+Coach: ORG
+U.I.L. Prose: ORG
+Poetry: ORG
+Texas Educational Theatre Association: ORG
+the Month: DATE
+Student Council: ORG
+Emergency Relocation Team: ORG
+Drama Club Sponsor
+Musical Theater Productions: ORG
+Booster Club: ORG
+Theater Arts Teacher & Program: ORG
+August 2008: DATE
+State: ORG
+Theater Arts 1-4: PERSON
+Technical Theater: ORG
+Theater Arts Production: PERSON
+9-12: DATE
+U.I.L.One Act: QUANTITY
+U.I.L. Film Festival Contest Sponsor & Judge
+: EVENT
+Drama Club Sponsor: ORG
+Account Management: ORG
+Theater Arts Co-Sponsor
+Continue Professional Developmental Courses: ORG
+Administrate Eustace High School Facebook: ORG
+Theater Arts: PERSON
+Draft: ORG
+Eustace ISD: WORK_OF_ART
+The Yard: WORK_OF_ART
+Theater Arts: WORK_OF_ART
+English III & TAAS Language Arts: EVENT
+July 2000: DATE
+August 2002: DATE
+Secondary English & Literature: ORG
+TAAS Language Arts: WORK_OF_ART
+Texas: GPE
+Integrated: NORP
+Secondary English III & Theater Arts: ORG
+June 1998 to July 2000: DATE
+Beginning Theater Arts: ORG
+9-12: CARDINAL
+CO-Sponsored Thespians
+Children's Show Production: ORG
+English Department: ORG
+Secondary Student: ORG
+January 1998 to April 1998: DATE
+Secondary Student: ORG
+Theater Arts: WORK_OF_ART
+English: LANGUAGE
+Assisted: ORG
+UIL: ORG
+October 1997 to January 1998: DATE
+June 1997 to August 1997: DATE
+Children's Courtyard Daycare Centers: ORG
+Secondary Teaching Residency: ORG
+January 1997 to May 1997: DATE
+English: LANGUAGE
+General Grading Rubrics and Assessment
+
+Secondary Teaching Internship: ORG
+January 1997 to May 1997: DATE
+One: CARDINAL
+one: CARDINAL
+Bachelor of Arts: ORG
+Theater Arts: PERSON
+1998: DATE
+University of Texas: ORG
+Arlington: GPE
+State: GPE
+US: GPE
+GPA: ORG
+3.74: CARDINAL
+Theater Arts GPA: PERSON
+3.74: CARDINAL
+Liberal Arts: ORG
+1995: DATE
+Tarrant County Community College: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.83: CARDINAL
+Theta Kappa: PERSON
+P HI TAU Chapter: ORG
+Liberal Arts Mabank High School ï¼​ City: ORG
+State: GPE
+US: GPE
+15: CARDINAL
+Student Council Officer: ORG
+Drill Team Dance Team
+
+Key Club: ORG
+Business Office Professionals
+
+French Club: ORG
+Latin Club
+
+Orvil Pirtle Memorial Scholarship: ORG
+Athens: GPE
+Texas: GPE
+TVCC Social Sciences Scholarship
+
+Work Study Program: Social Sciences Division Department: ORG
+Skills
+
+Team Building
+
+Program Development
+
+Management
+
+Goal Setting and Implementation
+
+: ORG

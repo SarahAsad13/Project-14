@@ -1,0 +1,61 @@
+May 13th, 1999: DATE
+Present Resident: WORK_OF_ART
+Triangle VA: FAC
+2017: DATE
+Forest Park High School ï¼​ City: ORG
+State: GPE
+United States: GPE
+AP Classes: ORG
+Advanced Placement Classes: ORG
+3.5: CARDINAL
+GPA: ORG
+Phat Le: PERSON
+Danny: PERSON
+Forest Park: GPE
+trilingual: DATE
+English: LANGUAGE
+Spanish: NORP
+Vietnamese: NORP
+Reliable and Punctual: WORK_OF_ART
+Providing Well-Thought: WORK_OF_ART
+Accepting of Responsibility
+Engaging Personality
+Creativity
+
+Skills
+
+Meets: WORK_OF_ART
+Planning and Arranging: WORK_OF_ART
+Conversant: ORG
+English: LANGUAGE
+Spanish: NORP
+Vietnamese: NORP
+Desktop Publishing Software: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+my 3rd year: DATE
+Spanish: NORP
+Spanish: NORP
+Vietnamese: NORP
+Vietnamese: NORP
+Graphic Design: ORG
+every week: DATE
+Graphic Design: ORG
+April 2015: DATE
+a Walk
+Event: ORG
+the Walk for Suicide: ORG
+the Walk for Suicide: ORG
+2 days: DATE
+Cashier/Waiter/Greeter 
+March 2013 Company Name: ORG
+2013: DATE
+first: ORDINAL
+the fair days: DATE
+June 2014: DATE
+Current City: GPE
+State: ORG
+Family Babysitter: PERSON
+May 2013 to: DATE
+May 2015 City: DATE
+State: ORG

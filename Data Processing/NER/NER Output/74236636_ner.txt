@@ -1,0 +1,73 @@
+Training
+Bachelor of Science :: PERSON
+2017: DATE
+San Diego State University: ORG
+City: GPE
+BootCamp 2008: DATE
+PMP Institute , City: ORG
+State: ORG
+525: CARDINAL
+University/Purdue University ATC: ORG
+City: GPE
+Name City: GPE
+State Engineering Intern 09/2015: ORG
+the construction and/or improvement of storm drains: ORG
+the State of Subdivision: ORG
+Council: ORG
+Name City: GPE
+7: CARDINAL
+Directed: ORG
+Established: ORG
+Maintained: GPE
+OSHA: ORG
+WISHA: ORG
+Name City: GPE
+The City Center Project: ORG
+American: NORP
+9.2 billion dollars: MONEY
+16,797,000: CARDINAL
+76 acres: QUANTITY
+The Mandarin Tower: FAC
+5: CARDINAL
+56: CARDINAL
+392: CARDINAL
+first: ORDINAL
+The Aria Resort: FAC
+Casino: ORG
+4,004: CARDINAL
+600: CARDINAL
+The Veer Towers: WORK_OF_ART
+37: CARDINAL
+480-foot: QUANTITY
+337: CARDINAL
+5 degrees: QUANTITY
+Name City: GPE
+The Blue Green Club: ORG
+36: CARDINAL
+Time Share: ORG
+Las Vegas Strip: GPE
+7: CARDINAL
+14.9 million: CARDINAL
+Las
+Vegas area: GPE
+Las Vegas Schools: GPE
+Nevada: GPE
+Licensure for Plumbing/Pipefitting: ORG
+Name City: GPE
+State Helper Plumber 01/2002: ORG
+2nd: ORDINAL
+Cast Iron: PERSON
+PVC: ORG
+Stainless Steel: ORG
+Galvanized Pipe: PERSON
+Skills
+Proficient: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Spreadsheet: PERSON
+50+ WPM: DATE
+AutoCad 2015: FAC
+Micro: ORG
+Â Med-Gas Certified: ORG
+OSHA: ORG
+30: CARDINAL

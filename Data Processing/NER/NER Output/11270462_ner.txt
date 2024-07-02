@@ -1,0 +1,65 @@
+the Marketing or Public Relations: ORG
+Microsoft: ORG
+daily: DATE
+Social Media Manager: ORG
+weekly: DATE
+daily: DATE
+Social Media: ORG
+Twitter: PERSON
+Instagram: ORG
+Social Media: ORG
+Comeaux: PERSON
+Candidate: ORG
+Comeaux: PERSON
+Baton Rouge: GPE
+Social Media: ORG
+Twitter: PERSON
+Instagram: ORG
+weekly: DATE
+daily: DATE
+Constant Contact: FAC
+daily: DATE
+Center: ORG
+Sports Intern: PERSON
+09/2013: CARDINAL
+Nanny/Caregiver: ORG
+02/2014 Company Name: ORG
+three: CARDINAL
+4-6 hours: TIME
+10: DATE
+13: CARDINAL
+12/2012: CARDINAL
+weekly: DATE
+the summer: DATE
+monthly: DATE
+Bachelor: ORG
+Business University of Louisiana: ORG
+Lafayette ï¼​ City: GPE
+State: GPE
+US University of Louisiana: ORG
+Lafayette, Lafayette LA
+Public Relations/Liberal Arts: ORG
+May 2014: DATE
+Public Relations: ORG
+one: CARDINAL
+The University of Louisiana: ORG
+Lafayette: ORG
+490: CARDINAL
+5: CARDINAL
+5: CARDINAL
+the ULL Communication Department: ORG
+20%: PERCENT
+the next year: DATE
+Editor: PERSON
+the Department of Communication: ORG
+Professional Affiliations: ORG
+Lafayette: ORG
+LA: GPE
+Skills
+Associate, Basis, Greeting, Inventory: ORG
+Monthly: DATE
+Sales Associate: PERSON
+Clients, Filing, Increase: WORK_OF_ART
+Liaison, Problem Solver: ORG
+Proofreading, Recruitment: ORG
+Promotional: ORG

@@ -1,0 +1,73 @@
+CUSTOMER: ORG
+Professional Summary
+
+Office: ORG
+more than twelve years: DATE
+Customer Service: ORG
+Office Administrative
+Support: ORG
+kspm: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Data Entry/Customer Liaison/Support
+Agency Management System: ORG
+AMS: ORG
+360: CARDINAL
+Sagitata: ORG
+Agency: ORG
+TAM: ORG
+Applied System: ORG
+CRM Software Systems: WORK_OF_ART
+Work History
+Customer Service: WORK_OF_ART
+Identify: ORG
+Document: FAC
+day: DATE
+Develop: ORG
+Commercial/Personal Lines: ORG
+March 214 - Jan.: DATE
+Â Processed Certificates of Insurance: ORG
+Verified: ORG
+Commercial Insurnace: ORG
+Processed: GPE
+10/2013: CARDINAL
+State 
+
+Office: ORG
+Oct.
+2013: DATE
+Processed: GPE
+DMV: ORG
+monthly: DATE
+11/2009: CARDINAL
+Commercial and Personal Lines: ORG
+Ocean Marine: ORG
+Workers' Compensation: ORG
+06/2008: ORG
+Processed: GPE
+Conducted: ORG
+Processed: GPE
+June 206 - Oct.
+2007: DATE
+7-Employees: ORG
+Researched: ORG
+1995: DATE
+State: ORG
+High School - City: ORG
+State: ORG
+Skills: ORG
+Agency: ORG
+CA: ORG
+CRM: PRODUCT
+Customer Liaison: PERSON
+Data Entry, Insurance, Market: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+Word: PERSON
+Oct: PERSON
+Securities: ORG
+55: CARDINAL
+80+: DATE
+Customer Service: ORG

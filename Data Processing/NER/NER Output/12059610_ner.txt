@@ -1,0 +1,42 @@
+SHOE: ORG
+OH: GPE
+2012: DATE
+Mix: PERSON
+Notify: ORG
+2140: DATE
+10071: MONEY
+California: GPE
+91510 8183362640 LOV3AT1STSIT3@YAHOO.COM: DATE
+KELLERMEYER BERGENSONS SERVICES: ORG
+OH: GPE
+Crew Member: PERSON
+Jan 2008: DATE
+Mix: PERSON
+Notify: ORG
+Requisition: ORG
+11/2013 to 12/2015: CARDINAL
+Shoe: ORG
+Observe: LOC
+Keep: ORG
+hours: TIME
+Confer: PERSON
+Recommend: ORG
+Recommend: ORG
+Calculate: ORG
+Cashier/Crew: ORG
+Assist: NORP
+Answer: ORG
+Maintain: PRODUCT
+Calculate: ORG
+Recommend: ORG
+Compute: ORG
+2140: DATE
+10071: MONEY
+California: GPE
+91510 8183362640 LOV3AT1STSIT3@YAHOO.COM Clean: DATE
+Jun 2007: PERSON
+COM: ORG
+Cooking: PERSON
+Customer: ORG
+Inspect, Inventory: ORG
+Exchange: ORG

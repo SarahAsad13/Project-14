@@ -1,0 +1,88 @@
+ORGANIZATIONAL DEVELOPMENT: PERSON
+Skills
+Work History
+01/2014: WORK_OF_ART
+Current
+Government Relations, Communications and Organizational Development: ORG
+WSDOT: ORG
+Oversees: ORG
+Lean: GPE
+Represents: ORG
+WSDOT Toll Division: ORG
+2: CARDINAL
+8: CARDINAL
+Budget and Program Development Washington State Ferries Leadership:: ORG
+Cultivated Lean: ORG
+Director of Program Management Company Name: ORG
+Greco: PERSON
+the Program Management for the AWV program: ORG
+$3.125 billion: MONEY
+Greco: PERSON
+third: ORDINAL
+Greco: PERSON
+Bored Tunnel: ORG
+AWV: ORG
+5: CARDINAL
+33: CARDINAL
+04/2006: CARDINAL
+08/2008: PRODUCT
+I-90 Corridor: PERSON
+I-90: PRODUCT
+Sound Transit: GPE
+Oversaw: GPE
+WSDOT: ORG
+Sound Transit: ORG
+Greco: PERSON
+three: CARDINAL
+Alaskan: NORP
+520: CARDINAL
+I-405: GPE
+07/1995: DATE
+03/2003: CARDINAL
+Aviation Services and Planning Company Name: ORG
+State: ORG
+Oversaw: GPE
+the WSDOT Pilot: ORG
+the WSDOT Aviation Division: ORG
+Created the WSDOT Airport Land Use Compatibility Program: ORG
+129: CARDINAL
+Washington: GPE
+2002: DATE
+Joint Legislative Audit Review Committee Aviation Division: ORG
+1998: DATE
+State Aviation Policy: ORG
+Pan Am: ORG
+103: CARDINAL
+60 Minutes: TIME
+48 Hours: TIME
+Budget and Program Development Company Name: ORG
+Budget and Program Development for WSDOT Ferries Division: ORG
+$760 million: MONEY
+over 22
+million: CARDINAL
+each year: DATE
+Greco: PERSON
+Greco: PERSON
+Bachelor of Science : Flight Technology Flight Technology
+Central Washington University Executive Management Program: ORG
+Evans School: ORG
+University of Washington: ORG
+Budget: ORG
+Executive Management: ORG
+Hyperion: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft Project: ORG
+3.1: CARDINAL
+Negotiations: GPE
+Oracle: ORG
+Program Development, Program Management: ORG
+Sound: GPE
+Visio: PERSON
+Non-Profit: ORG
+Math: PERSON
+Lynnwood: GPE
+John Resha: PERSON
+Lake Forest Park City Council: FAC
+46th: ORDINAL
+2: CARDINAL

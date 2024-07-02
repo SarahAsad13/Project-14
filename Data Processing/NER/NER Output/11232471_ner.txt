@@ -1,0 +1,22 @@
+Visual Merchandising: ORG
+Visual Merchandise: ORG
+March 2011: DATE
+Footwear: PERSON
+Apparel: NORP
+Footwear Departments: PERSON
+Store Human Resource: WORK_OF_ART
+December 2006 to March 2011 Company Name ï¼​ City: DATE
+Dick's Sporting Goods: ORG
+Nike Brand Coordinator: ORG
+October 2005 to December 2006 Company Name: DATE
+Nike: ORG
+Nike: ORG
+4%: PERCENT
+yearly: DATE
+2000: DATE
+State: GPE
+USA: GPE
+August 2008, July 2009: DATE
+December 2010: DATE
+February 2011: DATE
+April 2014: DATE

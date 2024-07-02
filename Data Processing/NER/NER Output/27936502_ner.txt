@@ -1,0 +1,108 @@
+Operations, Purchasing, Inventory Control, Logistics: ORG
+Inside Sales Management: ORG
+Chain/Procurement/Planning Distribution/Logistics/Shipping Purchasing/SAP/Rigid Packaging Inventory Control/Warehouse Research: ORG
+Development/Marketing Ceridian/iEmployee/Paychex Deja/: ORG
+Updates: GPE
+weekly: DATE
+Order Reports: PERSON
+ETA: ORG
+SAP: GPE
+Requests: NORP
+Master Vendor
+Agreements and Insurance: WORK_OF_ART
+weekly: DATE
+the ZBAR Report: ORG
+weekly: DATE
+Schedules: ORG
+SAP: GPE
+Packaging Lead: PERSON
+Research and Development Team: ORG
+AR/AP: ORG
+Accounting Dept: ORG
+Sustains: ORG
+ISO: ORG
+Upholds: ORG
+FSI: ORG
+Farouk Wings Plastics: ORG
+FSI: ORG
+Sister Companies: WORK_OF_ART
+Beauty Elite Group: ORG
+Blow Pro: PERSON
+Marketing and FSI: ORG
+Liaison and/or Consultant between Marketing, Customer Service: ORG
+QA: ORG
+SOP: ORG
+01/2013: CARDINAL
+Maintained: GPE
+Maintained: GPE
+Collaborated: ORG
+Operations/Purchasing Manager Company Name: ORG
+daily: DATE
+Facilitated: ORG
+weekly: DATE
+Monitored daily: ORG
+monthly: DATE
+annual: DATE
+Conducted: ORG
+annual: DATE
+multi-million dollar: MONEY
+Conducted: ORG
+3: CARDINAL
+AP: ORG
+AP: ORG
+Assisted Upper Management: ORG
+annual: DATE
+Houston: GPE
+PO: ORG
+daily: DATE
+Processed: GPE
+daily: DATE
+DSO: ORG
+BOL: ORG
+POD: ORG
+annual: DATE
+the Year 2013-Michael R.: EVENT
+Null Middle School TricorBraun-Nominated: ORG
+4 years in a row: DATE
+TricorBraun-Promoted: ORG
+Houston Branch Operations: ORG
+first 3 years: DATE
+TricorBraun: ORG
+Houston: GPE
+60%: PERCENT
+the first year: DATE
+TricorBraun-Recognized: ORG
+Education: ORG
+2002: DATE
+Bachelor of Arts: ORG
+English: LANGUAGE
+Sam Houston: PERSON
+State: ORG
+English: LANGUAGE
+2009-2013: DATE
+4: CARDINAL
+English: LANGUAGE
+Generalist: PERSON
+K-12 ESL: PERSON
+Accounting: ORG
+AP/AR: ORG
+AP: ORG
+AR: ORG
+Ceridian: NORP
+Customer Service: ORG
+English: LANGUAGE
+Human Resources: ORG
+Insurance: ORG
+Inventory Control: ORG
+ISO: ORG
+Team Building: ORG
+Logistics: ORG
+Works: PERSON
+Packaging: PERSON
+Problem Solving: PERSON
+Purchasing, Quality: ORG
+QA: ORG
+Research: ORG
+SAP: ORG
+SOP: ORG
+Supply Chain: ORG

@@ -1,0 +1,90 @@
+Performing Arts: WORK_OF_ART
+Qualifications
+
+Productivity: ORG
+Detail: PERSON
+Superb: NORP
+Process: PRODUCT
+Natural: ORG
+Unsurpassed: ORG
+the Cox Performing Arts
+Center: ORG
+the Tanner Amphitheater: PRODUCT
+Trailblazer: PERSON
+both 2015 and 2016: DATE
+30%: PERCENT
+season: DATE
+only one year: DATE
+alsoÂ: PRODUCT
+College of the Arts: ORG
+twelve: CARDINAL
+2016: DATE
+the Cox Center's: ORG
+Tanner Amphitheater: PRODUCT
+University: ORG
+Programming Arts Company Name: ORG
+Dixie State University: ORG
+The Cox Performing Arts Center: ORG
+1200: CARDINAL
+the Celebrity Concert Series: ORG
+1958: DATE
+the CCSÂ Board of Directors: ORG
+CCS: ORG
+toÂ: CARDINAL
+Manhattan Transfer: GPE
+6: DATE
+the Utah Symphony: ORG
+Drifters: NORP
+GENTRI: ORG
+Canadian: NORP
+the summer months: DATE
+the Tanner
+Amphitheater: PRODUCT
+1600: DATE
+Springdale: GPE
+Utah: GPE
+Zion National Park: ORG
+weekend: DATE
+two: CARDINAL
+first: ORDINAL
+Springdale: GPE
+second: ORDINAL
+Sanctuary: The Story of Zion: WORK_OF_ART
+Zion National Park: ORG
+Zion Park: LOC
+Current
+Board: ORG
+Southern Utah: LOC
+the year: DATE
+each year: DATE
+St George: GPE
+Utah: GPE
+03/2015: ORG
+Spiral Studios: ORG
+Discovery: PRODUCT
+Disney: ORG
+A&E: ORG
+Spiral Studios: ORG
+Spiral Studios: ORG
+day: DATE
+State: ORG
+25 year: DATE
+Education: ORG
+1994: DATE
+Bachelor of Science : Psychology Brigham Young University: ORG
+State: GPE
+United States: GPE
+Marketing: GPE
+Affiliations: ORG
+Southern Utah Songwriters Association: ORG
+Warner Chappell - Staff: ORG
+Amphibious Zoo - Songwriter
+Skills
+
+Sales Software: PERSON
+Audio/Video Software: ORG
+Pro Tools: PERSON
+Qlab: PERSON
+Adobe Premiere: PERSON
+Indesign, Wordpress
+Microsoft Office: ORG

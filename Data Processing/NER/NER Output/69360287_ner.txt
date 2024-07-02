@@ -1,0 +1,130 @@
+CUSTOMER: ORG
+2002: DATE
+NYS Division of Budget: ORG
+NYS: ORG
+Mgmt: PERSON
+NYS Grants
+Gateway: ORG
+Microsoft Office Suites: ORG
+Outlook: PERSON
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Adobe: PERSON
+Acrobat: PERSON
+SiteFinity: ORG
+4.7: CARDINAL
+WordPerfect: ORG
+DOS: ORG
+SFS Financial
+Management System/Oracle: ORG
+Lotus Notes: ORG
+Heavy Dictaphone: ORG
+Dual Monitor: ORG
+Computer Applications
+Citrix Applications: WORK_OF_ART
+daily: DATE
+2 Master's: WORK_OF_ART
+three and a half years: DATE
+Summa Cum Laude: PERSON
+Customer Service: ORG
+2016: DATE
+the Health Marketplace: ORG
+Assisted: ORG
+Marketplace Informed: ORG
+Marketplace: ORG
+Mgmt: PERSON
+Specialist & MWBE: ORG
+Liaison Sep: PERSON
+2015 to Feb 2016: DATE
+Division of Budget: ORG
+Grants Received: PERSON
+State Contractors Maintained: ORG
+MWBE Rules and Regulations Utilized the Contract Management System: ORG
+Met: ORG
+Project Managers: ORG
+Heads: ORG
+MWBE goals: LAW
+Prepared: PERSON
+quarterly: DATE
+Executive Chambers: ORG
+City Clerk: PERSON
+Jan 2014 to Aug 2015: DATE
+Maintained: GPE
+daily: DATE
+BAS System: ORG
+Created: ORG
+Copied: ORG
+city council: ORG
+minutes: TIME
+Sitefinity 4.7: LAW
+Accepted Legal: ORG
+the City of Troy for Notices of Claim: GPE
+the Troy Police Dept: ORG
+daily: DATE
+daily: DATE
+Excel: PRODUCT
+monthly: DATE
+daily: DATE
+Grant: ORG
+Vend
+Rep: PRODUCT
+Corresponded: ORG
+Contract Management and Auditing: ORG
+SFS: ORG
+Vend Rep System: ORG
+SFS: ORG
+Monitored: ORG
+Access: ORG
+AG: ORG
+Coordinated: ORG
+Keyboard Specialist: PERSON
+2007: DATE
+2010: DATE
+Maintained Inmate Appeals: ORG
+the NYS Division of Parole: ORG
+Information: ORG
+FPMS: ORG
+PARMIS: ORG
+Access and Excel: PRODUCT
+DCJS/AG's: ORG
+the
+Board Members: ORG
+Information Technical: ORG
+Jan 2007 to Aug 2007: DATE
+IUA: ORG
+Lotus Notes: PRODUCT
+Bluezone and Console: ORG
+Fileshare: ORG
+Citrix Applications: WORK_OF_ART
+MS Word/Excel: ORG
+Masters of Public Administration: ORG
+Government & Policy: ORG
+August 2012: DATE
+Grand Canyon University Government & Policy
+Masters of Science: ORG
+June 2010: DATE
+University of Phoenix Criminal Justice - Administration: ORG
+Justice & Security: ORG
+May 2005: DATE
+The Kings College Business Organizational Management
+Associates Degree: ORG
+May 2003: DATE
+Olean Business Institute Administrative Occupational Studies: ORG
+Acrobat: PERSON
+Adobe: PERSON
+Citrix: GPE
+Dictaphone: ORG
+DOS: ORG
+Â Financial Management: ORG
+Grants Gateway: PERSON
+Loss Prevention: ORG
+Lotus Notes: PRODUCT
+Â Access: ORG
+Excel: PRODUCT
+Microsoft Office Suites: ORG
+Outlook: PERSON
+PowerPoint: ORG
+MS Word: PERSON
+Notary Public: PERSON
+Oracle: ORG

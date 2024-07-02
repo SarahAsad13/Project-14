@@ -1,0 +1,25 @@
+Time: ORG
+Detail: PERSON
+Reliable: WORK_OF_ART
+12/2014: CARDINAL
+11/2016 Company Name City: LOC
+Keep: ORG
+Resolve: PERSON
+Complete: ORG
+09/2013 ï¼​ 05/2014 Company Name City: ORG
+Keep: ORG
+Resolve: PERSON
+Order: ORG
+Name City: GPE
+Assist: NORP
+Answer: ORG
+Calculate: ORG
+State: ORG
+2018: DATE
+Associate of Arts: WORK_OF_ART
+Chabot College - Political Science City: ORG
+State: ORG
+Lan gu: PERSON
+Skills: ORG
+English: LANGUAGE
+Listening: PERSON

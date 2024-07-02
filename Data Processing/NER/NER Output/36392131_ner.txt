@@ -1,0 +1,104 @@
+Cycle Advocate: PERSON
+20+ years: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+Strong: PERSON
+Advanced MS Office: ORG
+Suite: PERSON
+Resourceful
+
+Strong: PERSON
+Workers: ORG
+10: CARDINAL
+10: CARDINAL
+10: CARDINAL
+2: CARDINAL
+10: CARDINAL
+Epic, Signature: ORG
+Excel: PRODUCT
+Emdeon: ORG
+Work Queue: ORG
+Duplicate Guarantor Acct: WORK_OF_ART
+Medicaid: ORG
+Physician Reach Out & Financial Assistance: PERSON
+Weekly Status: ORG
+WQ: ORG
+Work Contested: ORG
+Epic Financial Assistance: ORG
+America: GPE
+06/2011: CARDINAL
+State
+
+Research: ORG
+Epic System: ORG
+Created PDF: ORG
+Epic Electronic: ORG
+Epic System: ORG
+Epic Resolve: ORG
+Independent Clinics: ORG
+Insurance Companies: ORG
+Denied Claims and Self Pay after Created: WORK_OF_ART
+Excel: PRODUCT
+daily: DATE
+Isurance Balances Work ATB: ORG
+Guarantor: ORG
+Report for Guarantor: ORG
+Appeals for Medical Necessity: ORG
+10/2002: CARDINAL
+Medical Insurance Specialist III Company Name: ORG
+01/2000: CARDINAL
+Medical Billing /Recovery: ORG
+Denied Claims and Self Pay after Insurance Balances Credit: WORK_OF_ART
+Refunds Verify: PERSON
+Verification List from SSI for Billing Errors Set: WORK_OF_ART
+Medical Terminology Insurance verification: ORG
+CPT: ORG
+ICD-9: ORG
+09/1990 to 09/1997: DATE
+Health Unit Coordinator Company Name: ORG
+Medicare: ORG
+Medicaid: ORG
+daily: DATE
+Excel: PRODUCT
+Communicate: ORG
+6 1990: DATE
+UNITED States: GPE
+ï¼​ City: GPE
+State: GPE
+US: GPE
+10%: PERCENT
+Emphasis: ORG
+BusinessOffice Administration: ORG
+Administrative Technology: ORG
+Coursework in Human
+Resource Management and Business Administration: ORG
+2002: DATE
+Medical Billing & Coding: ORG
+Georgia Medical: ORG
+ATLANTA: GPE
+United States: GPE
+State: GPE
+US: GPE
+10%: PERCENT
+Emphasis: ORG
+Medical Billing: FAC
+Coding: ORG
+Coursework in Human Resource Management and Business
+Administration: ORG
+State: GPE
+US: GPE
+10%: PERCENT
+Emphasis: ORG
+Coursework in Administrative Technology: ORG
+Coursework in Human Resource
+Management and Business Administration: ORG
+Epic System: ORG
+Epicare, Emdeon, Training: ORG
+Epic WQ's: ORG
+Creating Workers Comp: ORG
+IDX: ORG
+MS Word: PERSON
+Excel: PRODUCT
+NC Tracks: PERSON
+Customer Service: ORG

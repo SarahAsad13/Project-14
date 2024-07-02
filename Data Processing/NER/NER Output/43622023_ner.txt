@@ -1,0 +1,72 @@
+4: CARDINAL
+CUSTOMER: ORG
+Profile: ORG
+Core Strengths
+
+: ORG
+Strong: PERSON
+Visual: ORG
+Bilingual: NORP
+Time: ORG
+Acting Grade: PRODUCT
+4: CARDINAL
+Oct 2015 to Jan 2016: DATE
+4: CARDINAL
+Grade 4: PRODUCT
+daily: DATE
+Grade 4: PRODUCT
+Gapcards: ORG
+Media: NORP
+weekly: DATE
+4: CARDINAL
+daily: DATE
+one: CARDINAL
+American: NORP
+Nights: PERSON
+Weekend: PERSON
+Feb 2014: DATE
+daily: DATE
+each month: DATE
+June 2012: DATE
+Leuzinger High School ï¼​ City: ORG
+GPA: ORG
+3.8: CARDINAL
+National Honors Society: ORG
+2009: DATE
+12: CARDINAL
+Advancement Via Individual Determination: ORG
+2011-12: DATE
+Rank: PERSON
+12: CARDINAL
+118: CARDINAL
+3.8: CARDINAL
+National Honors Society: ORG
+2009: DATE
+12: CARDINAL
+Advancement Via Individual Determination: ORG
+2010-12: DATE
+Key Club: PERSON
+2010-12: DATE
+Communication: ORG
+2016: DATE
+California State university: ORG
+Channel Island: LOC
+Society
+Mentor and Tutor: ORG
+first year: DATE
+Community Service
+
+: ORG
+Spark - Los Angeles: ORG
+CA: TIME
+2015: DATE
+Gap Rolling: ORG
+CA 2006-Present: FAC
+CA - 2011: ORG
+2012: DATE
+Directed Task: WORK_OF_ART
+Assisted: ORG
+Lawndale Library: PERSON
+2009 - 2011: DATE
+Twice: ORG
+Tuesday: DATE

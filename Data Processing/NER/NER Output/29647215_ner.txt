@@ -1,0 +1,137 @@
+Career Overview: WORK_OF_ART
+Ten years: DATE
+1-2 month: DATE
+Powerchart/PowerChart Office/Enhanced View: ORG
+Inbox/Message Center: ORG
+Schedule Viewer: PERSON
+Powerplans: NORP
+Zynx Auto: ORG
+Caresets, Charges, Task Lists: ORG
+MAR: ORG
+Bedrock, Data Collection Worksheet: ORG
+Change Control: ORG
+Workflow: ORG
+ePrescribe: ORG
+PowerChart: PERSON
+PowerChart Office: ORG
+CareNet, Clinical Documentation: ORG
+Surginet Documentation: ORG
+SCD Editor Tool: ORG
+PowerPlans: ORG
+PowerOrders: ORG
+CVNET Tool: ORG
+Order Management
+Tools: ORG
+CMT Nomenclature Tool: ORG
+Charge Viewer: PERSON
+CS Pricing Tool: ORG
+Explore Menu: PERSON
+ePrescribe: ORG
+Data Collection Spreadsheets: ORG
+Ops
+View Scheduler: ORG
+Launch Tool: ORG
+Microsoft Office Applications: ORG
+Novell: ORG
+SQL: ORG
+TCP: ORG
+IP Protocols: ORG
+UNIX: ORG
+AIX: ORG
+November 2006: DATE
+Powerchart, Powerchart Office: ORG
+Enhanced View: FAC
+48: CARDINAL
+Physician: PERSON
+PowerPlans: NORP
+Ordersets, Zynex Autospace: ORG
+Message Center: FAC
+ePrescribe: ORG
+Powerchart Office: ORG
+Enhanced View: FAC
+Powerchart: ORG
+Powerchart
+Office: ORG
+Enhanced View: FAC
+PowerChart: ORG
+Powerchart, Powerchart Office: ORG
+Enhanced View: FAC
+Powerchart, Powerchart Office: ORG
+Enhanced View: FAC
+Completed Change Control: ORG
+Quickbase: PERSON
+Assisted: ORG
+Cerner
+Covered on-call for client
+Conducted: ORG
+November 2004 to November 2006: DATE
+PowerChart: ORG
+PowerChart Office: ORG
+Cerner
+Performed: ORG
+PowerChart: ORG
+PowerChart Office: ORG
+Conducted: ORG
+October 2002 to November 2004: DATE
+the Cerner Millennium PowerChart Office: ORG
+CIM (Cerner Implementation
+
+Methodology: ORG
+PowerChart Office: ORG
+PowerChart: ORG
+the Proof of Concept: ORG
+10%: PERCENT
+the Electronic Health: ORG
+Cerner Command: ORG
+SQL: ORG
+CSV: ORG
+XML: ORG
+Troubleshooting PowerChart Office/PowerChart Orders: ORG
+System: PRODUCT
+Venena Hutcherson's: PERSON
+Resume
+
+Financial/Data Analyst: ORG
+September 2000 to October 2002: DATE
+monthly: DATE
+monthly: DATE
+QA: ORG
+the Health Plan: LAW
+Assisted: ORG
+monthly: DATE
+Performed QA: PERSON
+monthly: DATE
+Monitored Health Plan: ORG
+month-end: DATE
+Trainer: ORG
+Health Plan: ORG
+Training: PERSON
+Business Point Park University: ORG
+State: GPE
+US: GPE
+Business Point Park University: ORG
+State: GPE
+US: GPE
+Test Scripts: PERSON
+Outpatient, Training Documentation: ORG
+Writing Test: ORG
+Cim, Database,: GPE
+Millennium: DATE
+Operations: ORG
+Sql, Systems: ORG
+Workflow: GPE
+Closing: PERSON
+Data Analyst: ORG
+Data Warehouse: ORG
+Financial Analysis: ORG
+Financial Reporting: ORG
+New Hires: ORG
+Qa: ORG
+Aix: NORP
+Collection, Data Collection: ORG
+Groupwise: PERSON
+Healthcare: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+Novell: ORG
+Order Management: ORG

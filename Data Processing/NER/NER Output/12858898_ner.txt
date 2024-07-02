@@ -1,0 +1,74 @@
+FINANCE: ORG
+Significant Budget: ORG
+Experienced Essbase User
+Strong Excel Skills: ORG
+Partnered with Human Resources and Business Leaders: WORK_OF_ART
+Finance: ORG
+Current Company Name City: ORG
+Structured Product Services Group of Corporate Trust: ORG
+Identify: ORG
+6-7 Consultants: PERCENT
+Name City: GPE
+weekly: DATE
+90 day: DATE
+90 day: DATE
+Completed: ORG
+Treasury: ORG
+Senior Management
+Coordinated: ORG
+12/2005: CARDINAL
+Name City: GPE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+$45 billion: MONEY
+Created and/or: ORG
+Communicated: ORG
+Finance: ORG
+Business Management
+Led: ORG
+Essbase: PRODUCT
+04/2003 Company Name City: ORG
+Corporate: ORG
+Name City: GPE
+month-end: DATE
+Developedand: ORG
+the Employee Benefits Support Group: LAW
+Institutional Trust: ORG
+Name City: GPE
+22: CARDINAL
+Trust Operations: ORG
+Norwest/Wells Fargo Trust Operations Groups: ORG
+un: ORG
+daily: DATE
+B.S.: GPE
+Bemidji State University: ORG
+Bemidji State University: ORG
+May 1992: DATE
+3.9: CARDINAL
+MBA :: WORK_OF_ART
+Finance & Strategic Management Carlson School of Management, University of Minnesota Carlson School of Management, University of
+: ORG
+Minnesota: GPE
+July 2001: DATE
+MBA - Finance & Strategic Management GPA: ORG
+3.9: CARDINAL
+Certifications: WORK_OF_ART
+Skills
+Finance: ORG
+Loans, Mortgage, Pricing: ORG
+Compensation, Life Insurance, Metrics: ORG
+Outlook: PERSON
+Process Improvements: ORG
+General Ledger, Integration, Integrator, Operations: ORG
+Trust Operations: ORG
+Accounting, Business Management, Essbase: ORG
+Forecasts: PERSON
+Process Controls: ORG
+Residential Mortgage, Securitization: ORG
+Maintenance: PERSON
+Variance Analysis: PERSON
+Basis: ORG
+Excel: PRODUCT
+Process
+Improvement, Strategic Planning: ORG

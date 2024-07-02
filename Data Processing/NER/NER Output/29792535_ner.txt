@@ -1,0 +1,67 @@
+May 2012: DATE
+Master of Science : Recreation Administration - Concentration: Facilities Management WESTERN KENTUCKY UNIVERSITY: WORK_OF_ART
+State: ORG
+May 2010: DATE
+Bachelor of Science : Exercise Science WESTERN KENTUCKY UNIVERSITY: ORG
+State
+Employment & Experience: ORG
+Current
+Fitness Coordinator Company Name: ORG
+State: ORG
+Facility Coordinator Intern/Membership Specialist Company Name: ORG
+Facility: ORG
+Pro Shop Coordinator: ORG
+Head Membership Specialist: ORG
+12/2010: CARDINAL
+Group Exercise Instructor Company Name: ORG
+Fitness Center: ORG
+25: CARDINAL
+Facilitate: ORG
+Coordinate: FAC
+daily: DATE
+the 14,000 square feet: QUANTITY
+125,000 square feet: QUANTITY
+Assist: NORP
+the WellU Student Wellness Program: ORG
+the Intramural-Recreational Sports Department: ORG
+Health & Fitness Lab and Fitness Center: ORG
+Contribute: ORG
+daily: DATE
+The Health and Fitness Lab: ORG
+Health and Fitness Lab: ORG
+Fitness Center: ORG
+Assist: NORP
+08/2009: CARDINAL
+Adobe CS3: PERSON
+Healthy Days: EVENT
+Received Rookie: PERSON
+the Year Award: EVENT
+Exercise Post Oxygen Consumption: ORG
+Callahan Study: PERSON
+maximal VO2: ORG
+Research: ORG
+annual: DATE
+American College of Sports Medicine: ORG
+Assist: NORP
+Memberships & Affiliations: ORG
+American College of Sports Medicine: ORG
+National Intramural Recreational Sports Association: ORG
+Aerobic & Fitness Association of America: ORG
+USA Weightlifting: ORG
+Skills & Competencies
+
+Proficient: ORG
+Microsoft Office: ORG
+W: ORG
+Excel: PRODUCT
+Power Point: ORG
+Adobe CS3 & CS5: ORG
+Illustrator & Photoshop: ORG
+Campus Management System: ORG
+CSI Asset Management System: ORG
+AFAA Certified Personal Fitness Trainer
+USA Weightlifting: ORG
+CPR: ORG
+Automated External Defibrillator: ORG
+First Aid: ORG
+Blood Borne Pathogens: PERSON

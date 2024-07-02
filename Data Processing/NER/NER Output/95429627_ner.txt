@@ -1,0 +1,171 @@
+SiteCatalyst CORE COMPETENCIES Problem: ORG
+Management Startups & Transitional Environments * Systems Integration: ORG
+163%: PERCENT
+hours: TIME
+5/5: CARDINAL
+Name City: GPE
+Current Publicly: PERSON
+annual: DATE
+$4.4 billion: MONEY
+Fortune 500: PRODUCT
+Home Depot: ORG
+Disney: ORG
+REI: ORG
+US: GPE
+EMEA: ORG
+SiteCatalyst: ORG
+SearchCenter: ORG
+163%: PERCENT
+hours: TIME
+5/5: CARDINAL
+an average 60%: PERCENT
+15%: PERCENT
+Home Depot: ORG
+Disney: ORG
+REI: ORG
+EMEA: ORG
+General Motors: ORG
+Daimler: ORG
+TicketMaster: ORG
+Name City: GPE
+State: ORG
+annual: DATE
+$12 million: MONEY
+Access Intelligence: ORG
+2009: DATE
+Oversee: GPE
+monthly: DATE
+daily: DATE
+VC: PERSON
+six: CARDINAL
+two: CARDINAL
+15-day month end: DATE
+3 days: DATE
+month end: DATE
+G&A: ORG
+40%: PERCENT
+annually: DATE
+first: ORDINAL
+daily: DATE
+CRM: PRODUCT
+QuickBooks: ORG
+801-910-6500: CARDINAL
+Name City: GPE
+State: ORG
+Controller: PERSON
+annual: DATE
+$12 million: MONEY
+month-end: DATE
+daily: DATE
+Salesforce.com: ORG
+Oracle: ORG
+SQL: ORG
+VBA: ORG
+Excel: PRODUCT
+daily: DATE
+daily: DATE
+SAAS: ORG
+54%: PERCENT
+Salesforce.com: ORG
+Company Name City: LOC
+State Internal Auditor 01/2006: ORG
+ANET: ORG
+annual: DATE
+$40 million: MONEY
+Visa: ORG
+2010: DATE
+COSO: ORG
+SOX: ORG
+COBIT: ORG
+ODBC: ORG
+VBA: ORG
+XML: ORG
+Excel: PRODUCT
+more than 100: CARDINAL
+15%: PERCENT
+80: MONEY
+Name City: GPE
+01/2006 Broker: PRODUCT
+1031: DATE
+annual: DATE
+$120 million: MONEY
+weekly: DATE
+AP: ORG
+AR: ORG
+SQL: ORG
+VBA: ORG
+XML: ORG
+Excel: PRODUCT
+daily: DATE
+4 days: DATE
+minutes: TIME
+SQL: ORG
+Name City: GPE
+State Regional: ORG
+third: ORDINAL
+Iasis: NORP
+Utah: GPE
+four: CARDINAL
+SQL: ORG
+Excel: PRODUCT
+daily: DATE
+Cardon: GPE
+third: ORDINAL
+45%: PERCENT
+eight months: DATE
+Medicaid: ORG
+Cobra: PERSON
+off-hours: TIME
+Name City: GPE
+State Co-Founder: ORG
+Studio Enizio: ORG
+annual: DATE
+500: MONEY
+daily: DATE
+State: GPE
+US Masters: ORG
+Gore: PERSON
+School of Business Westminster College: ORG
+Salt Lake City: GPE
+State: GPE
+US Bachelors: PERSON
+Accounting David Eccles School of Business University: ORG
+Utah: GPE
+Salt Lake City: GPE
+Certifications: WORK_OF_ART
+Filings: ORG
+Payroll: ORG
+Training, Advertising: ORG
+Award, Campaign Management, Clients: ORG
+Satisfaction, Simultaneous, Technical Problem Solving: ORG
+Million: CARDINAL
+Excel: PRODUCT
+Audit,: ORG
+Customer Relationship Management: ORG
+Accounting: GPE
+Coding, Crm: ORG
+Data Migration: ORG
+Financial Management, Fulfillment, Medical Coding: ORG
+Operations: ORG
+Quickbooks, System Integration, Systems Management: ORG
+Credit Card: ORG
+Cobra: PERSON
+Data Reporting: PERSON
+Hospital Billing, Insurance Claims: FAC
+Medicaid, Territory, Budgeting, Budgeting: ORG
+Cash Management: ORG
+Customer Support: PERSON
+Metrics: GPE
+Oracle, Relationship Management: ORG
+Saas: PERSON
+Salesforce.com: ORG
+Software As A Service: ORG
+Cobit: GPE
+Html, Odbc: ORG
+Processor: PERSON
+Sarbanes Oxley: PERSON
+Sox, Testing, Accountant, Ap, Ar, Broker Dealer, Invoicing, Ms Access: ORG
+Customer Relations: ORG
+Javascript: PERSON
+Model View Controller: PERSON
+Mvc, Php, Python, Systems Integration: ORG

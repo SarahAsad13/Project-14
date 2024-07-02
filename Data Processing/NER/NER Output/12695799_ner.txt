@@ -1,0 +1,85 @@
+OPERATIONS: ORG
+Lisa Phinney: PERSON
+Licensed Notary: PERSON
+10 years: DATE
+MS Office: ORG
+Excel: PRODUCT
+Spreadsheet: PERSON
+Word - Memos: PERSON
+minutes: TIME
+Power Point: ORG
+Outlook
+Asana: ORG
+Basecamp Project Management: ORG
+Social Media: ORG
+Photoshop and Elements
+Video: LAW
+Google G-Suite: ORG
+Kronos: PERSON
+Work History
+Operations Associate: WORK_OF_ART
+HeartSpace: ORG
+Park City: GPE
+Plenty Consulting: ORG
+Word: PERSON
+PPT: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Coding: ORG
+Budget: ORG
+8: CARDINAL
+Zoom and GoToMeeting: FAC
+Plenty Consulting: ORG
+08/2015: PERSON
+the Historic Park City: LOC
+the Historic Park City: LOC
+Coordinate: FAC
+Main Street: FAC
+Historic Park City: GPE
+quarterly: DATE
+HPCA: ORG
+Historic Park City: GPE
+the Business Improvement District: ORG
+BID: ORG
+Update: ORG
+Main Street: FAC
+Write minutes: WORK_OF_ART
+HPCA: ORG
+Committee Meetings: ORG
+Historic Main Street: FAC
+HPCA: ORG
+Meisha Lawson Marketing: PERSON
+HPCA: ORG
+HPCA: ORG
+Lange Group: ORG
+TMI: ORG
+Daughter: PERSON
+Assist: NORP
+Autumn: DATE
+Halloween: DATE
+Main: GPE
+The Electric Parade: ORG
+10/2014: CARDINAL
+Provided The Fieldhouse: WORK_OF_ART
+first: ORDINAL
+Fieldhouse: NORP
+Fieldhouse: ORG
+annually: DATE
+The Kids Carnival: ORG
+Christmas: DATE
+Photoshop: PERSON
+Budget: ORG
+Color: ORG
+Kronos: PERSON
+Excel: PRODUCT
+MS Office: ORG
+Outlook, Power Point: ORG
+Word: PERSON
+Coding: ORG
+Project Management: ORG
+Spreadsheet: PERSON
+Education: ORG
+08.1991: CARDINAL
+05.1994: CARDINAL
+University of Massachusetts - City 
+Multidisciplinary Studies/Environmental Science Cum Laude: ORG

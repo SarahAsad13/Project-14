@@ -1,0 +1,89 @@
+EXECUTIVE CHEF
+Professional Summary: ORG
+New York City: GPE
+Gastro Arte: ORG
+Oxford Kitchen: PERSON
+Hoboken: GPE
+Oaxaca Mexico: GPE
+two: CARDINAL
+New Jersey: GPE
+Highlawn: PERSON
+the Chef D' Cuisine: ORG
+Sixty Park: GPE
+the PAC Center: ORG
+the Tap House Grill: ORG
+Halcyon: ORG
+Bistro: ORG
+Seven Three: PRODUCT
+Bernardsville: GPE
+Work History
+Executive Chef , 01/2013 to Current 
+Company Name: WORK_OF_ART
+15: CARDINAL
+10 days: DATE
+Auto Chlor: ORG
+25%: PERCENT
+Maintained: GPE
+Created: ORG
+Maintained: GPE
+daily: DATE
+daily: DATE
+Staffing/: ORG
+the holiday season: DATE
+40- 100: CARDINAL
+180- 250: CARDINAL
+Sat-Sun: ORG
+100-250: CARDINAL
+Taphouse Grille: ORG
+Wayne: PERSON
+NJ: ORG
+62: CARDINAL
+Raised: GPE
+25: CARDINAL
+180-250: CARDINAL
+16%: PERCENT
+annual: DATE
+800,000: MONEY
+01/2010: DATE
+one year: DATE
+2-3million: CARDINAL
+2: CARDINAL
+NY: ORG
+3: CARDINAL
+12-15: CARDINAL
+Banquet: ORG
+weekly: DATE
+nightly: DATE
+BANQUET CHEF/SPECIAL EVENTS LEADER: ORG
+Chef's: ORG
+the James Beard Awards: ORG
+over 1,000: CARDINAL
+Annual: DATE
+800,000: CARDINAL
+5 days: DATE
+Upscale: NORP
+MASTER SAUCIER 48k Responsible: ORG
+24-25%: PERCENT
+Annual: DATE
+5: CARDINAL
+6 million: CARDINAL
+10-15: CARDINAL
+daily: DATE
+Mastered: ORG
+Maintained: GPE
+250- 300: CARDINAL
+daily: DATE
+400: CARDINAL
+a la carte holidays: DATE
+4: CARDINAL
+LEDGER Proudly: ORG
+James Beard
+Award Dinner: PERSON
+Jocelyn: PERSON
+Maplewood NJ: ORG
+Passaic Valley High School - City: ORG
+State: ORG
+DOH: ORG
+Ledger: PERSON
+Sat: ORG
+Sun: ORG

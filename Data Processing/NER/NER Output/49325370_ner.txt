@@ -1,0 +1,76 @@
+HEALTHCARE EFFECTIVENESS DATA: ORG
+HEDIS: PERSON
+Career Focus
+
+Committed: ORG
+daily: DATE
+Effective Organization and Communication Skills / Master New Concepts Quickly / Initiate Document Control and Processing Information / High
+Level Customer Service: ORG
+Detail Oriented / Report Composing and Document Presentation / Thorough Investigation and Monitoring / Patrol: ORG
+Control Access
+
+: ORG
+Suite: PERSON
+Schedule: ORG
+Healthcare Effectiveness Data and Information Set Coordinator: ORG
+State: ORG
+Healthcare Effectiveness Data and Information Set Coordinator: ORG
+HEDIS: PERSON
+Health Plan HEDIS: ORG
+HEDIS: PERSON
+Microsoft Office: ORG
+Review: ORG
+Health Plan: ORG
+Georgia: GPE
+Medical Management Information System: ORG
+MMIS: ORG
+Health Plan: ORG
+Case Management and Disease Management: ORG
+Health Insurance
+Portability: ORG
+HIPAA: ORG
+daily: DATE
+Loss Prevention/Security: ORG
+Name City: GPE
+weekly: DATE
+Represented Macy's: ORG
+10/2011: CARDINAL
+Name City: GPE
+Monitored: ORG
+Account Receivables/Administrative: ORG
+10/2008: CARDINAL
+Name City: GPE
+12-: CARDINAL
+State Farm: ORG
+USAA: ORG
+Allstate: ORG
+Geico: GPE
+Name City: GPE
+Tower Controls: ORG
+Processed: GPE
+the Bonding Department: ORG
+Probation Case Specialist 07/2000 to 12/2001 Company Name City: WORK_OF_ART
+Maintained: GPE
+three: CARDINAL
+Certified Medical Office: ORG
+Medical Administration: ORG
+2009: DATE
+Kennesaw State Continuing Education City: ORG
+State: GPE
+Patient Scheduling: ORG
+Medical Records/Documents: ORG
+CMS: ORG
+1500: CARDINAL
+Medical Billing, Medical
+Terminology/: ORG
+Specialized Billing/Reimbursement: ORG
+80 hour: TIME
+WellStar Medical Center: ORG
+CPR w/AED
+
+: ORG
+Basic Billing: ORG
+CMS: ORG
+CPR: ORG
+Medical Billing: ORG
+Microsoft Office Suite, Management Information System: ORG

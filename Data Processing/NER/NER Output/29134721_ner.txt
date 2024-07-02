@@ -1,0 +1,165 @@
+Career Overview
+
+During: WORK_OF_ART
+I.T.: GPE
+the "Paperless Office: ORG
+33: CARDINAL
+Virginia: GPE
+the day to day: DATE
+Stakeholder: ORG
+Training Results-driven: PERSON
+Windows XP: ORG
+Windows Vista: GPE
+Linux: GPE
+Macintosh: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Visio: PERSON
+Camtasia: GPE
+2000: DATE
+XP: ORG
+Vista: ORG
+8: DATE
+8.1: CARDINAL
+Apple I Works
+SharePoint
+
+Proficient: ORG
+AVG: GPE
+Printers: PERSON
+MS Office: ORG
+Technical Skills
+
+Skills
+
+Communication Skills: WORK_OF_ART
+Computer/Technical Literacy
+
+Experience
+
+: ORG
+Years: DATE
+40: CARDINAL
+40: DATE
+today: DATE
+today: DATE
+Analytical/Research Skills: ORG
+Interpersonal Abilities: ORG
+Leadership/Management Skills: ORG
+Multicultural
+Sensitivity/Awareness: ORG
+Innovative: NORP
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+40: CARDINAL
+today: DATE
+today: DATE
+today: DATE
+today: DATE
+today: DATE
+today: DATE
+today: DATE
+today: DATE
+the "Paperless Office: ORG
+33: CARDINAL
+Virginia: GPE
+VDSS: ORG
+DSS: ORG
+an estimated $1
+million: MONEY
+State: ORG
+June 2011: DATE
+Name City: GPE
+March 2013: DATE
+August 2013: DATE
+Name City: GPE
+Developed DW: PERSON
+DW: ORG
+VDSS DW's: ORG
+Communicated: ORG
+Used Microsoft Business Office Suite: ORG
+Data Warehouse: ORG
+January 2008: DATE
+June 2008: DATE
+Name City: GPE
+E-
+Pharmacy, Crisis, Case Management and Reporting: ORG
+Liaison: PERSON
+January 2006: DATE
+January 2008: DATE
+Name City: GPE
+ChildWins: PRODUCT
+13: CARDINAL
+3000: CARDINAL
+approximately 85%: PERCENT
+Trained Data Warehouse: ORG
+approximately 80%: PERCENT
+$1 million: MONEY
+State: ORG
+2: CARDINAL
+1: CARDINAL
+VDSS: ORG
+Developed &: ORG
+DW: ORG
+Represented State: ORG
+Suggested: ORG
+Microsoft Business Office Suite: ORG
+Camtasia: GPE
+UAT: ORG
+Data Warehouse: ORG
+VDSS Help Desk: PERSON
+VDSS: ORG
+Train the Trainer: WORK_OF_ART
+Super User: WORK_OF_ART
+"Train the Trainer: WORK_OF_ART
+Super Users: WORK_OF_ART
+DSS: ORG
+January 2006: DATE
+January 2008: DATE
+Name City: GPE
+200: CARDINAL
+Facilitated: ORG
+15: CARDINAL
+Collaborated: ORG
+January 2001: DATE
+January 2006: DATE
+Name City: GPE
+State: ORG
+8: CARDINAL
+33: CARDINAL
+DSS: ORG
+8: CARDINAL
+EZ-Filer: ORG
+User: ORG
+EZ-Filer: ORG
+Road Warrior: WORK_OF_ART
+100%: PERCENT
+Conceived: PERSON
+EZ-Filer: ORG
+Case Summary: PERSON
+Assisted: ORG
+Trained Voice Recognition: ORG
+Dragon Naturally Speaking 7.0: PERSON
+Local: PERSON
+State: ORG
+Workflow: ORG
+Medicaid: ORG
+Maintained: GPE
+Ez-Filer: ORG
+12: CARDINAL
+Buckingham County High School City: ORG
+State: ORG
+USA High School Diploma : Business
+Skills
+
+Business intelligence: ORG
+Project Success
+
+Curriculum: ORG
+Data Warehouse: ORG

@@ -1,0 +1,80 @@
+SGT/E-5: ORG
+over $100 million: MONEY
+zero: CARDINAL
+Monthly: DATE
+daily: DATE
+more than 5,000: CARDINAL
+100%: PERCENT
+Constant: PERSON
+the Non-Commissioned Officer: ORG
+4th: ORDINAL
+Combat Aviation Brigade Mail Room: ORG
+100%: PERCENT
+September: DATE
+5 2012 - April: DATE
+17 2015: DATE
+the Official
+Mail and Distribution Center: ORG
+the Fort Carson Post Office: ORG
+4: CARDINAL
+Army: ORG
+Division Postal
+Inspections: ORG
+the 4th Infantry Division: ORG
+G1: PRODUCT
+Best Mail Room on the Installation: WORK_OF_ART
+Fort Carson: PERSON
+the first quarter of FY 13: DATE
+the Basic Leaders Course: LAW
+Rank: ORG
+SGT/E-5: ORG
+Charge Brigade Mail Room 
+: ORG
+June 2012: DATE
+May 2015: DATE
+State
+
+Management: Â: ORG
+5,000: CARDINAL
+USPS: ORG
+over 300,000: CARDINAL
+10,000: CARDINAL
+Certified and Registered: ORG
+zero: CARDINAL
+6: CARDINAL
+daily: DATE
+June 2011 to June 2012: DATE
+Promotable - Ammunition Specialist: ORG
+November 2009 to June 2011 Company Name - City: DATE
+100%: PERCENT
+over 14 million: CARDINAL
+over 30 million dollars: MONEY
+Accounting Specialist: ORG
+May 2007 to November 2009: DATE
+State
+
+Stock Control: Â· Inventoried: ORG
+over $100 million: MONEY
+zero: CARDINAL
+over $100 million: MONEY
+zero: CARDINAL
+5: CARDINAL
+the Standard Army Ammunition System-Modular: ORG
+SAAS-MOD: ORG
+Republic of Korea: GPE
+100: CARDINAL
+the United States: GPE
+Residential/ Commercial Painter: ORG
+June 2000: DATE
+May 2007: DATE
+Maintained: GPE
+Associate of Science : Pre-Engineering Pikes Peak Community College: WORK_OF_ART
+2016-2018 - City: DATE
+Fall 2016 Semester: DATE
+Colorado School of Mines: ORG
+Engineering: GPE
+Skills
+
+Dedication: ORG
+100%: PERCENT
+Accepts: PRODUCT

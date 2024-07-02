@@ -1,0 +1,37 @@
+NC AIR GUARD HEALTH SERVICES: ORG
+Career Overview
+
+A Highly Skilled and Attentive: ORG
+Skill Highlights: PERSON
+4 years Medical: DATE
+Background Technology Background: ORG
+March 2013: DATE
+Current NC Air Guard Health Services: ORG
+38,264.88: MONEY
+Transcribes: GPE
+daily: DATE
+Transcribes: PERSON
+Compiles: GPE
+Compiles: GPE
+Coordinates Third Party Collection: ORG
+Screens medical: ORG
+February 2013 to August 2013: DATE
+NC Air Guard Computer: ORG
+38,264.88: CARDINAL
+Removes: ORG
+Installs: GPE
+Removes: ORG
+Personal Wireless Communication Systems: ORG
+Controlled Cryptographic Items: ORG
+PWCS: ORG
+Removes: ORG
+June 2009: DATE
+May 2012: DATE
+32,000: CARDINAL
+Operates: PRODUCT
+Validates: GPE
+Ensures: ORG
+Ensures: LOC
+University of Mount Olive: ORG
+2014: DATE
+Health Care Management: ORG

@@ -1,0 +1,107 @@
+BRANCH: ORG
+Team Player: ORG
+Excel: PRODUCT
+06/2016: ORG
+Current Company Name City: ORG
+the Personal Bankers and Teller: ORG
+Conducts: ORG
+weekly: DATE
+Supports Operations: ORG
+monthly: DATE
+Head Teller: PERSON
+the Risk Management Review: ORG
+Maintains: PERSON
+quarterly: DATE
+path & performance: ORG
+Directs: ORG
+Contacts: PRODUCT
+Directs: ORG
+Compiles: PRODUCT
+Compiles: PERSON
+Collects: ORG
+Ensures Branch Opening and Closing: PRODUCT
+monthly: DATE
+Attends Branch: PRODUCT
+Area: ORG
+Division: ORG
+Handles: PERSON
+Establishes: PRODUCT
+1,000: MONEY
+1,000,000: MONEY
+1: CARDINAL
+Responsibilities: PRODUCT
+Financial Service: ORG
+Banker 11/2014: ORG
+Name City: GPE
+State: ORG
+Builds: PERSON
+Promotes: ORG
+Assist: NORP
+evening: TIME
+the Night Depository: WORK_OF_ART
+Teller: PERSON
+Teller: PERSON
+2,500: MONEY
+Home Equity Lines of Credit
+Ensures: ORG
+Assist: NORP
+Risk Management Review: ORG
+Assist: NORP
+May: DATE
+Tellers: ORG
+Images: NORP
+Senior Management Incumbent: ORG
+the Bank
+Secrecy Act: ORG
+Sells Annuities: ORG
+Hancock Bank Investments
+
+Branch Operations: ORG
+10/2013: CARDINAL
+Name City: GPE
+the Customer Service: ORG
+the Customer Service: ORG
+morning: TIME
+weekly: DATE
+Models: LOC
+weekly: DATE
+Completes Staffing & Scheduling: ORG
+Teller: PERSON
+Assist: NORP
+evening: TIME
+the Night Depository: WORK_OF_ART
+Teller: PERSON
+Teller: PERSON
+Oversees: ORG
+Risk Management Review: ORG
+Utilizes Cash Forecasting: ORG
+Promotes: ORG
+ATM: ORG
+Recycler
+Machines: PERSON
+Counter s: PERSON
+Coin Sorters: ORG
+Observes, Coaches: ORG
+Models: LOC
+Teller: PERSON
+daily: DATE
+Promotes: ORG
+Compiles: PRODUCT
+Business Continuity: ORG
+Senior Management
+Incumbent: ORG
+the Bank Secrecy Act: ORG
+the Teller Line: ORG
+Responsibilities: PRODUCT
+2007: DATE
+Mississippi Gulf Coast Community College City: EVENT
+State Education: ORG
+the Coast Young Professionals: ORG
+the Gulfport Chamber Of Commerce Active: ORG
+the Gulfport Kiwanis Club
+Technical Skills: ORG
+ATM: ORG
+Mobile: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+Problem: PRODUCT

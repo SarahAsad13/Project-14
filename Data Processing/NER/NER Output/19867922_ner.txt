@@ -1,0 +1,60 @@
+minutes: TIME
+Generate: PERSON
+HRIS: ORG
+Establish: NORP
+Facilitate: ORG
+Maintain: PERSON
+Respond: PERSON
+Participate: WORK_OF_ART
+State: ORG
+HR Staffing Coordinator Company Name: ORG
+Processed: GPE
+Schedule: ORG
+Managers: ORG
+Meet: PERSON
+Run Bi-weekly: PERSON
+the VP of Human Resources Ensure: ORG
+99: CARDINAL
+ADP: ORG
+Payforce: PERSON
+Siebel Conduct: PERSON
+weekly: DATE
+Manage WOTC Program: ORG
+Generalist: PERSON
+Answer: LOC
+Recruiters: PERSON
+Schedule: PERSON
+Sexual Harassment and EEO Basic: WORK_OF_ART
+Assist: NORP
+Assist: NORP
+Process: PRODUCT
+Executive Technical Associate Company Name: ORG
+Maintain: PERSON
+weekly: DATE
+monthly: DATE
+Maintain: PERSON
+weekly: DATE
+over 100: CARDINAL
+Assign: ORG
+monthly: DATE
+Schedule: PERSON
+IEX/Totalview: ORG
+IEX: ORG
+Generate: PERSON
+weekly: DATE
+Totalview: GPE
+Webstation Facilitate: PERSON
+Perform: ORG
+Strengths Familiarity: WORK_OF_ART
+HRIS Systems Proficient: ORG
+Microsoft Office Suite Attention: ORG
+MBA : Business Administration Benedictine University Business Administration
+Bachelor of Arts : Business Administration Benedictine University Business Administration: WORK_OF_ART
+ADP: ORG
+Basic: PRODUCT
+Bi: PERSON
+HRIS: ORG
+Human Resources: ORG
+Microsoft Office Suite: ORG
+Multi: GPE
+Supervisor: PERSON

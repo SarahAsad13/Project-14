@@ -1,0 +1,48 @@
+Career Overview
+
+Dedicated Customer Service Representative: WORK_OF_ART
+Core Strengths
+
+Strong: PERSON
+Seasoned: PRODUCT
+Energetic: LOC
+Customer: ORG
+Adaptive: ORG
+Visual: ORG
+Fashion: WORK_OF_ART
+Opening: WORK_OF_ART
+30%: PERCENT
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Consumer Services Advocate: ORG
+June 2014 to January 2015: DATE
+Excel: PRODUCT
+100%: PERCENT
+Prepared: PRODUCT
+January 2014 to June 2014: DATE
+the month: DATE
+30,000: MONEY
+Customer Service Representative: ORG
+April 2013 to December 2013: DATE
+August 2012 to April 2013: DATE
+Hostess: NORP
+Server: PERSON
+June 2011 to August 2012: DATE
+Recruit: ORG
+May 2010 to June 2011 Company Name ï¼​ City: DATE
+Seaman Recruit: ORG
+US Navy: ORG
+Guidon: PERSON
+Computer Science
+
+High School: ORG
+Dance Alabama State University: ORG
+Dance and Computer Science
+Student: ORG
+2008: DATE
+Alabama School of Fine Arts: ORG
+3.7: CARDINAL
+GPA: ORG
+Careful: PRODUCT
+Multi: GPE

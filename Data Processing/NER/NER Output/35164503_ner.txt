@@ -1,0 +1,66 @@
+Skills
+Work History
+Management Consultant/Sales Executive: WORK_OF_ART
+Holistic: ORG
+Established: ORG
+Over $7 million dollars: MONEY
+36 months: DATE
+Over $140,000: MONEY
+Year 1: DATE
+180,000: MONEY
+NC: GPE
+Year 2: DATE
+200,000: MONEY
+Year 3: DATE
+eighth: ORDINAL
+170: CARDINAL
+â€¢ Conduct: PRODUCT
+demonstrate p
+Facilitated: ORG
+37%: PERCENT
+24 months: DATE
+$10 Million: MONEY
+AMEX: ORG
+AMEX: ORG
+â€¢ Helped: PRODUCT
+Lines of Credit
+Utilized: ORG
+American Express: ORG
+Counseled: ORG
+Operations: ORG
+01/2011: CARDINAL
+annual: DATE
+Managed 112: PRODUCT
+14: CARDINAL
+approximate 22%: PERCENT
+annual: DATE
+11 years: DATE
+Devised: ORG
+32%: PERCENT
+Startup Founder: PERSON
+11/2004: CARDINAL
+Founded Brooklyn: PERSON
+Spoke: ORG
+Established: ORG
+Financial Services: ORG
+07/1999: CARDINAL
+02/2004: CARDINAL
+Heavy: ORG
+Small Cap: PERSON
+SPDRS: ORG
+European: NORP
+92 %: PERCENT
+B.S :: ORG
+2019: DATE
+Northern Arizona University - City 
+Certifications
+
+Life: ORG
+Excel Spread Sheets
+Sales Force: WORK_OF_ART
+SPSS: ORG
+Google Analytics: ORG
+Mind Body: PERSON
+MS Suite: PERSON
+Word: PERSON
+Various Marketing Platforms: ORG

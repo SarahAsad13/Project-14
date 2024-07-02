@@ -1,0 +1,128 @@
+SPECIALIST: ORG
+2000-2016: DATE
+O365: PRODUCT
+GroupWise: ORG
+HEAT Call Logging: PERSON
+Crystal Reports: PRODUCT
+T3: PRODUCT
+VoiceMail: PRODUCT
+NetMotion: ORG
+Novell: ORG
+2000: DATE
+UNIX: ORG
+DOS: ORG
+Current
+Lead Information Technology Support Specialist Company Name: ORG
+daily: DATE
+Coordinate: FAC
+Information Technology Support Specialist Company Name: ORG
+Identify: ORG
+Determine: PRODUCT
+SQL: ORG
+Access, Excel: ORG
+Heatweb: PERSON
+Key Achievements:: LOC
+half: CARDINAL
+Inventory Worksheet: WORK_OF_ART
+the HEAT Call Logging: ORG
+over 20,800: CARDINAL
+Coordinate planning: FAC
+Generate: PERSON
+HEAT: ORG
+one: CARDINAL
+one: CARDINAL
+34: CARDINAL
+the last year-and-a-half: DATE
+98%: PERCENT
+approximately 2,800: CARDINAL
+05/2004: CARDINAL
+Instructional Support Specialist Company Name: ORG
+the Business Computer Information Systems Department: ORG
+Department Chair: ORG
+the Business Education Department: ORG
+the Main Campus: PRODUCT
+Chico Center: FAC
+Orland: GPE
+Paradise: LOC
+Glenn County: GPE
+the Business Education: ORG
+8 years: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Computer Applications: ORG
+Medical Front Office: ORG
+Legal Office: ORG
+Desktop Publishing: ORG
+Medical Transcription for Certification: ORG
+Collaborated: ORG
+Maintained: GPE
+Butte College: ORG
+Business Education: ORG
+Assist Enterprise Networks: ORG
+4: CARDINAL
+125: CARDINAL
+80: CARDINAL
+02/2002 to 05/2002: DATE
+Corporate Information Technology: ORG
+ERD: ORG
+Microsoft Access: ORG
+two: CARDINAL
+HTML: ORG
+Lead Documentation Team: ORG
+the Center for Economic
+Development: ORG
+seven: CARDINAL
+six: CARDINAL
+the User Guide and Online Help: ORG
+05/1997: CARDINAL
+Computer Systems: ORG
+Desktop Publisher Managed: ORG
+6000: CARDINAL
+weekly: DATE
+the Lantern Newsletter: ORG
+Training: PERSON
+May, 2002
+: DATE
+B.S :: ORG
+Management Information Systems: ORG
+California State University: ORG
+City Business Administration: ORG
+Management
+Information Systems Cum Laude: ORG
+December, 2008: DATE
+Microsoft: ORG
+Microsoft Office Specialist Program: ORG
+2003: DATE
+Crystal Certification: LOC
+9.0 April, 2005: DATE
+October: DATE
+2007: DATE
+Novell Certificate: ORG
+Implementing Novell Open Enterprise: WORK_OF_ART
+2: CARDINAL
+Linux: GPE
+August: DATE
+2009: DATE
+2010: DATE
+December: DATE
+November, 2013: DATE
+FrontRange HEAT Administration II: ORG
+February: DATE
+2014: DATE
+Driven Information Technology Professional: ORG
+Skills
+ASP .NET: ORG
+Client/Server: PERSON
+Crystal Reports: LOC
+Desktop Publishing: ORG
+Desktop Publisher: ORG
+Front Office: ORG
+Design: GPE
+Linux: PERSON
+Logging: PERSON
+Newsletter: ORG
+SQL: ORG
+UNIX: ORG
+Visual Studio: ORG

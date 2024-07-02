@@ -1,0 +1,51 @@
+10: CARDINAL
+Kaiser Permanente's: ORG
+10,000: CARDINAL
+Institute for Healthcare Improvement National Forum: ORG
+5,500: CARDINAL
+Kaiser Permanente's: ORG
+National Quality Conference: ORG
+1,000: CARDINAL
+Authored: PRODUCT
+Kaiser Permanente's: ORG
+Electronic Health Record: ORG
+Clinical
+Libraries: ORG
+monthly: DATE
+8: CARDINAL
+Permanente Medical Groups: ORG
+more than 200,000: CARDINAL
+Kaiser Permanente: ORG
+Name City: GPE
+first: ORDINAL
+kp.org: ORG
+125%: PERCENT
+22: CARDINAL
+Supported Legal: ORG
+annual: DATE
+Internal Communications Specialist: ORG
+Name City: GPE
+weekly: DATE
+4,600: CARDINAL
+daily: DATE
+$300 million: MONEY
+the Regional Hospital Administrator: ORG
+04/2013: CARDINAL
+Name City: GPE
+University of Southern California City: ORG
+State: GPE
+USA: GPE
+Bachelor of Arts: ORG
+State: GPE
+USA: GPE
+State: GPE
+USA
+Board & Leadership: ORG
+Name City: GPE
+genKP: ORG
+Hawaii: GPE
+Kaiser Permanente's: ORG
+Hawaii: GPE
+California: GPE
+12/2015: CARDINAL
+Name City: GPE

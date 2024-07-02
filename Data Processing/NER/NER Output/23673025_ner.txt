@@ -1,0 +1,75 @@
+Strong: PERSON
+Diversity: ORG
+Public Relations
+Information gathering
+
+Work History
+Public Relations Specialist: ORG
+09/2019: PERSON
+Entertainment, Medical, Fitness: ORG
+Tech Industry
+Communicated: ORG
+weekly: DATE
+Coordinated: ORG
+Contributing Writer: WORK_OF_ART
+08/2011: CARDINAL
+Entertainment: ORG
+Networked: PRODUCT
+Captured: PRODUCT
+Researched: ORG
+Completed: ORG
+Utilized: ORG
+Applied: ORG
+Operations: ORG
+08/2003: CARDINAL
+over 200: CARDINAL
+Developed: PRODUCT
+Limited: ORG
+Assisted: ORG
+Directed: ORG
+FDA: ORG
+OSHA: ORG
+Grew: PERSON
+Collaborated: ORG
+Boosted: ORG
+Bachelor of Arts : Communications Fayetteville State University - City: ORG
+3.8: CARDINAL
+GPA: ORG
+Alpha Kappa Alpha Sorority: ORG
+Alpha: NORP
+Theater
+Minored: PERSON
+Strong: PERSON
+Diversity: ORG
+Public Relations
+Information gathering
+
+Work History
+Public Relations Specialist: ORG
+09/2019: PERSON
+Entertainment, Medical, Fitness: ORG
+Tech Industry
+Communicated: ORG
+weekly: DATE
+Coordinated: ORG
+Contributing Writer: WORK_OF_ART
+08/2011: CARDINAL
+Entertainment: ORG
+Networked: PRODUCT
+Captured: PRODUCT
+Researched: ORG
+Completed: ORG
+Utilized: ORG
+Applied: ORG
+Operations: ORG
+08/2003: CARDINAL
+over 200: CARDINAL
+Developed: PRODUCT
+Limited: ORG
+Assisted: ORG
+Directed: ORG
+FDA: ORG
+OSHA: ORG
+Grew: PERSON
+Collaborated: ORG
+Boosted: ORG

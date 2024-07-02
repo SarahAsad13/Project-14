@@ -1,0 +1,81 @@
+Healthcare Administrator: ORG
+Education: ORG
+Healthcare Administration: ORG
+Pennsylvania College of Health Sciences: ORG
+Health Care
+
+High School Diploma Northeastern High School: ORG
+the Literary & Art Magazine: ORG
+Diversity Club: ORG
+Cure Finders Club: ORG
+Medical Terminology
+Event: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Knowledgeof Medicare: PERSON
+Medicaid: ORG
+EEOC: ORG
+HIPPA: ORG
+FMLA & ADAÂ 
+Management & Marketing: ORG
+sensitivityÂ: ORG
+grammar knowledge
+: PERSON
+Healthcare Marketing Specialist 
+City: ORG
+State Company Name: ORG
+2017: DATE
+5%: PERCENT
+Admin Intern: PERSON
+State Company Name: ORG
+2017: DATE
+2017: DATE
+Directed: ORG
+Oversaw: GPE
+5%: PERCENT
+Customer Service Representative: ORG
+State Company Name / Jul 2016: ORG
+Maintained: GPE
+4: CARDINAL
+Facilitated: ORG
+State Company Name / Jul 2015: ORG
+Maintained: GPE
+State Company Name / Jul 2014 to Feb 2016: ORG
+Recommend: ORG
+Bag: GPE
+State Company Name: ORG
+Answer: LOC
+Drafted: ORG
+Retail Customer Service Associate 
+City: ORG
+State Company Name: ORG
+Assist: NORP
+Technical Skills
+
+Electronic Medical Database: ORG
+Microsoft: ORG
+PowerPoint: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft: ORG
+Adobe Dream Weaver: PERSON
+Microsoft: ORG
+Outlook
+Windows
+Adobe Premiere: PERSON
+Adobe Acrobat: PERSON
+Adobe Reader
+
+Community Service: ORG
+Food Drive: FAC
+Salvation Church: ORG
+2012: DATE
+Volunteer: PRODUCT
+2014: DATE
+Socktober Drive: GPE
+Salvation Church: ORG
+2015: DATE
+2016: CARDINAL
+Volunteer: PRODUCT
+2016 - 2017: DATE

@@ -1,0 +1,37 @@
+CUSTOMER REFERENCE PROGRAM: ORG
+Stakeholder: ORG
+Problem: PRODUCT
+Detail: PERSON
+Customer Reference Program: ORG
+Nov 2010: DATE
+Healthcare: ORG
+approximately 400: CARDINAL
+each year: DATE
+Recruit: ORG
+approximately $55M: MONEY
+annually: DATE
+Mar 2007: DATE
+May 2009: DATE
+Sep 2005: DATE
+Mar: PERSON
+2007: DATE
+75k: MONEY
+the first nine months: DATE
+Jan 2004 to Jan 2005: DATE
+Established: ORG
+Corporate Communications: ORG
+Jan 1999: DATE
+Jan 2004: DATE
+150%: PERCENT
+$1M: MONEY
+Coordinated: ORG
+Bachelor of Science , Hotel Administration Whittemore School of Business, University of New Hampshire: ORG
+Marshwood Education Foundation: ORG
+2009-2014: DATE
+Public Relations Committee: ORG
+2011-2014: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint
+Database Management: ORG
+TechValidate: ORG

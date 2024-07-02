@@ -1,0 +1,109 @@
+GMP: ORG
+21: CARDINAL
+GFR: ORG
+111: CARDINAL
+Specimen Processing Trainer: WORK_OF_ART
+the Idea Team at McKay-Dee Hospital: ORG
+Name City: GPE
+State: ORG
+Batch Record Coordinator: PERSON
+Produce a Batch Record: ORG
+the Master Manufacturing Record: WORK_OF_ART
+FDA - GMP: ORG
+21: CARDINAL
+CFR: ORG
+111: CARDINAL
+TGA: ORG
+Therapeutic Goods Administration: ORG
+Australia: GPE
+Batch Records: PERSON
+the Master Manufacturing Record: ORG
+Batch Records: ORG
+Formula: PERSON
+Finished Product Testing Specifications: ORG
+Name City: GPE
+State Quality Assurance Specialist: ORG
+Quality Assurance: ORG
+Albion: GPE
+Executive: ORG
+ISO 8573: ORG
+ISO 17025: ORG
+Formal NSF / GMP: ORG
+GMP: ORG
+ISO: ORG
+the Material Review Board: ORG
+Board: ORG
+daily: DATE
+Formal: ORG
+MMR: ORG
+the Quality HACCP Plan: ORG
+GMP: ORG
+21: CARDINAL
+CFR: ORG
+111: CARDINAL
+ISO: ORG
+801-725-7348: CARDINAL
+Name City: GPE
+Recognize: ORG
+Identify: ORG
+the Specimen Processing School atIHC: ORG
+the Home Health Nurses: ORG
+Techs: PERSON
+Hospitals: ORG
+Physician Offices: ORG
+McKay-Dee: LOC
+the Idea Team: ORG
+Name City: GPE
+Name City: GPE
+Maintained: GPE
+Name City: GPE
+State: ORG
+Customer Service: ORG
+one: CARDINAL
+Name City: GPE
+06/1997: CARDINAL
+Name City: GPE
+State Customer Service Representative & Claims Processor 04/1996 to 03/1997: ORG
+Mountain State: GPE
+ICD-9: NORP
+CPT: ORG
+HCPC: ORG
+Name City: GPE
+State: ORG
+10/1992: CARDINAL
+Generated: ORG
+Researched: ORG
+Name City: GPE
+Maintained: GPE
+TLC: ORG
+HPLC: GPE
+ELISA: ORG
+Maintained: GPE
+Accounting 2018 Champlain College: ORG
+City: GPE
+State: ORG
+Virginia: GPE
+City: GPE
+State B.A. Chemistry: ORG
+Quality Assurance Specialist - NSF: ORG
+21: CARDINAL
+111: CARDINAL
+Quality Assurance Specialist - AirCheck Academy: ORG
+Trace Analytics Corporation - Course: ORG
+ISO 8573: ORG
+Specimen Processing School: ORG
+Intermounatin Health Care: ORG
+June 2010 through July 2011: DATE
+Skills
+Regulatory Compliance 
+Document Control
+Quality Assurance
+Auditor: ORG
+GMP: ORG
+NSF: ORG
+Databases & Microsoft Office & Sharepoint: ORG
+Product Testing
+Project planning
+Research
+
+: WORK_OF_ART

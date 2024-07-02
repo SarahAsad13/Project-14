@@ -1,0 +1,103 @@
+16 years: DATE
+Southeast Texas: LOC
+the Environmental Compliance: ORG
+USAID: ORG
+the U. S. Marine Corps: ORG
+Highlights
+
+MS Office: ORG
+Organized: ORG
+Superb: NORP
+30 Hour: TIME
+First Aid/CPR/AED Trainer
+NCCER Certification
+
+Accomplishments: ORG
+Over 400,000: CARDINAL
+hours: TIME
+Awarded a Safety Recognition: ORG
+Jacksonville: GPE
+FL District
+: LOC
+Afghanistan: GPE
+Awarded an Army Commendation Medal: ORG
+Iraq: GPE
+September 2015: DATE
+one: CARDINAL
+4: CARDINAL
+13 miles: QUANTITY
+October 2013 to August 2015: DATE
+State: ORG
+Omaha: GPE
+Smalley Piper Project: ORG
+September 2012 to October 2013 Company Name ï¼​ City: DATE
+Environmental Management and Mitigation Plan: ORG
+EMMP: ORG
+four: CARDINAL
+4: CARDINAL
+Develop: ORG
+EMMP: ORG
+Develop: ORG
+Oversee: ORG
+PCB: ORG
+March 2007 to September 2012: DATE
+4: CARDINAL
+the Site Safety Officer: ORG
+Provide the Daily Quality Control Reports: ORG
+daily: DATE
+the Daily Site Logbook: ORG
+EPA: ORG
+the Construction Completion Report: ORG
+the Remedial Design: ORG
+Community Relations: ORG
+Gunnery Sergeant/E-7: PRODUCT
+February 1989 to March 2010: DATE
+Gunnery Sergeant: PRODUCT
+E-7: PERSON
+Marines: NORP
+the Avionics Division: ORG
+62: CARDINAL
+Work Center: FAC
+37: CARDINAL
+Shift Supervisor: PERSON
+12: CARDINAL
+Awarded the Navy Achievement Medal: ORG
+Afghanistan: GPE
+3,500: CARDINAL
+over $15,000: MONEY
+6 month: DATE
+Marines: NORP
+the
+
+Marine Corps Birthday: ORG
+2005: DATE
+Awarded the Army Commendation Medal: ORG
+Kuwait: GPE
+2006-2007: DATE
+Completed Non- Resident: ORG
+the U. S. Marine Corps: ORG
+Sergeant: PERSON
+Desert Shield: PERSON
+Operation Enduring
+Freedom (Bagram: ORG
+Afghanistan: GPE
+Operation Iraqi Freedom: EVENT
+Baghdad: GPE
+Iraq: GPE
+Occupational Safety and Health: ORG
+2016: DATE
+Columbia Southern University: ORG
+State: GPE
+USA: GPE
+June, 2016: DATE
+Skills
+
+Community Relations
+
+Construction management
+
+Environmental Management
+
+Leadership
+
+Safety Management: ORG

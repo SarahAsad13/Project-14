@@ -1,0 +1,39 @@
+GROUP FITNESS INSTRUCTOR
+: ORG
+Instructor: ORG
+Wellness Coach: ORG
+Multi: GPE
+MS Office
+Proficient Understanding: ORG
+Certified ACE Personal Trainer Exceptional: ORG
+AFAA Certified
+Group Fitness Instructor Organized: ORG
+Tabata Boot Camp: ORG
+Goal: PERSON
+Master of Science : Communications - Media Management: WORK_OF_ART
+1995: DATE
+Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+State: ORG
+USA Communications: ORG
+Media Management Concentration: ORG
+Bachelor of Arts: ORG
+1985: DATE
+Radford University: ORG
+State: ORG
+USA Journalism: ORG
+Certified Personal Trainer and Group Fitness Instructor: ORG
+March 2013: DATE
+April 2011 to November 2012: DATE
+Developed: ORG
+Created: ORG
+Collaborated: ORG
+Coordinated: PRODUCT
+Oversaw: GPE
+May 2006 to April 2011 Company Name ï¼​ City: DATE
+Created: ORG
+Administrative Coordinator: ORG
+September 2002: DATE
+Coordinated: ORG
+Affiliations: ORG
+Member - Indoor Cycling Association: ORG

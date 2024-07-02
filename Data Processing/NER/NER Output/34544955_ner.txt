@@ -1,0 +1,109 @@
+INTERNATIONAL CODE COUNCIL: ORG
+Skills
+
+Proficient: ORG
+Microsoft Windows: ORG
+Word: PERSON
+Excel: PRODUCT
+14 years: DATE
+Constant: PERSON
+International Code Council: ORG
+Name City: GPE
+State: ORG
+Reinforced Concrete Rebar: PERSON
+Concrete, Soils: ORG
+Asphalt Field Testing Technician: WORK_OF_ART
+CMT Technician 11/2014 to: ORG
+03/2015: WORK_OF_ART
+Name City: GPE
+State: ORG
+Reinforced Concrete Rebar: PERSON
+Soils Field Testing Technician: ORG
+ICC Special Inspector: ORG
+CMT Technician 05/2014: ORG
+11/2014: CARDINAL
+Name City: GPE
+State: ORG
+Reinforced Concrete Rebar: PERSON
+Concrete, Soils: ORG
+Asphalt Field Testing Technician.: WORK_OF_ART
+11/2013: CARDINAL
+Name City: GPE
+Concrete, Soils: ORG
+Asphalt Field Testing: WORK_OF_ART
+Masonry: GPE
+Quality Control Inspector Level II: ORG
+Name City: GPE
+State: ORG
+URS-Washington Division - Eunice: ORG
+NM-National Enrichment Facility: ORG
+II: CARDINAL
+II: CARDINAL
+II: CARDINAL
+II: CARDINAL
+Verify: LOC
+10: CARDINAL
+CFR: ORG
+50: CARDINAL
+ASME: ORG
+Perform QC: PERSON
+CMT Technician II: NORP
+Company Name City: LOC
+State: ORG
+Hanford Nuclear Reservation-Vitrification Plant RPP-WTP: ORG
+Concrete, Soils: ORG
+Lab Materials Testing Technician Level II: WORK_OF_ART
+10: CARDINAL
+CFR: ORG
+50: CARDINAL
+Kelly: PERSON
+CLSM: ORG
+Non-Permanent Transportation: ORG
+12/2006: CARDINAL
+Name City: GPE
+State: ORG
+Asphalt Field: FAC
+RPM: ORG
+11/2005: CARDINAL
+Name City: GPE
+State: ORG
+Hanford Nuclear Reservation-Vitrification Plant RPP-WTP: ORG
+ASTM: ORG
+10: CARDINAL
+CFR: ORG
+50: CARDINAL
+Concrete, Soils: ORG
+Lab Materials Testing Technician Level II: WORK_OF_ART
+School City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.6/4.0: DATE
+Academic Athlete Award: ORG
+Captain of Football Team: ORG
+Industrial Technology 2002: ORG
+Washington University City: ORG
+State: GPE
+USA: GPE
+98: CARDINAL
+Associate of Arts : Pre-Business 2015: WORK_OF_ART
+State: GPE
+USA: GPE
+GPA: ORG
+3.7/4.0: CARDINAL
+spring 2015: DATE
+2017: DATE
+Central Washington University City: ORG
+State: GPE
+USA: GPE
+CWU Junior: ORG
+GPA: ORG
+3.0/4.0: CARDINAL
+156: CARDINAL
+Managerial Accounting: ORG
+Cost Accounting: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Administrative Management: ORG
+Business Communications: ORG
+American Concrete Institute: ORG

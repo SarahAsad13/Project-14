@@ -1,0 +1,43 @@
+five plus years: DATE
+OSHA: ORG
+Expertise: GPE
+OSHA: ORG
+Committed: ORG
+2010: DATE
+monthly: DATE
+Nov 2008: DATE
+Conduct: PERSON
+monthly: DATE
+Carry: PERSON
+Conceived: PERSON
+weekly: DATE
+10%: PERCENT
+25: CARDINAL
+OSHA: ORG
+monthly: DATE
+OH&S: ORG
+State: ORG
+the environmental laboratory department: ORG
+2005: DATE
+Sep 2010: LAW
+weekly: DATE
+2005: DATE
+weekly: DATE
+quarterly: DATE
+Risk Management 2008 Barrington College: ORG
+State Risk Management
+Associate's Degree , Construction Administration: ORG
+1998: DATE
+Ullman Community College: ORG
+State Construction Administration: ORG
+National Safety Council: ORG
+NSC: ORG
+Baton Rouge: GPE
+LA: GPE
+Safety/Health Standards in Construction Industry: ORG
+Louisiana Building & Construction Trades Council Safety
+Council CourseFirefighting: ORG
+Skills: ORG
+CPR: ORG
+Forklift: ORG
+Risk Analysis: ORG

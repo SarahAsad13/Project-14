@@ -1,0 +1,106 @@
+ELECTRICIAN: ORG
+20 years: DATE
+the United States Navy: ORG
+Project Management
+
+Quality Assurance
+
+Team Leadership and Training
+
+Electrical Components
+
+: ORG
+Collateral Duty Inspector: ORG
+Electrician: NORP
+February 2017: DATE
+Current Company Name: ORG
+FRA: ORG
+Amtrak: ORG
+February 2016 to February 2017: DATE
+State
+
+Repair: ORG
+Uninteruptable Power Supply: ORG
+Troubleshoot: ORG
+Electrical Work Center Supervisor/1st: WORK_OF_ART
+July 2014 to February 2016: DATE
+13: CARDINAL
+17: CARDINAL
+F/A-18C/D/E/F: ORG
+3: CARDINAL
+9: CARDINAL
+daily: DATE
+Avionics Division: ORG
+July 2011 to July 2014: DATE
+59: CARDINAL
+H-60: PRODUCT
+H-53: PRODUCT
+AV-: CARDINAL
+8,Â: CARDINAL
+AH-1: ORG
+Sailors: ORG
+Â Â Â 
+
+Avionics Work Center Supervisor: PRODUCT
+July 2008 to July 2011 Company Name ï¼​ City: DATE
+34: CARDINAL
+P-3: PRODUCT
+H-: GPE
+60: CARDINAL
+Electrician: NORP
+Supervisor/Avionics Technician: ORG
+July 2001 to July 2008: DATE
+3: CARDINAL
+7: CARDINAL
+Electrical/Instrument and Automatic: ORG
+10: CARDINAL
+P-3: PRODUCT
+H-60: PRODUCT
+July 1996 to July 2001: DATE
+7: CARDINAL
+P-3: PRODUCT
+S-3: DATE
+H-60: PRODUCT
+59: CARDINAL
+Marines: NORP
+247: CARDINAL
+92%: PERCENT
+On Track: WORK_OF_ART
+seven: CARDINAL
+Trained 150: CARDINAL
+nine: CARDINAL
+75: CARDINAL
+15: CARDINAL
+4: CARDINAL
+2: CARDINAL
+165: CARDINAL
+25 percent: PERCENT
+93: CARDINAL
+V-22 Osprey: PRODUCT
+8M.: MONEY
+27: CARDINAL
+four: CARDINAL
+20: CARDINAL
+35: CARDINAL
+22: CARDINAL
+13: CARDINAL
+13: CARDINAL
+Applied: ORG
+two: CARDINAL
+25%: PERCENT
+Received 5 Navy: ORG
+Marine Corps Achievement: ORG
+6: CARDINAL
+the Year in 2006: DATE
+daily: DATE
+F/A-18: PRODUCT
+P-3: PRODUCT
+E-2: GPE
+SH-60: PRODUCT
+C-2s: PRODUCT
+Utilized: ORG
+Maintained: GPE
+FOD: ORG
+Bachelor of Science : Professional Aeronautics: ORG
+2007: DATE
+Embry-Riddle Aeronautical University: ORG

@@ -1,0 +1,82 @@
+15 years +: DATE
+Forecasting & Cash: ORG
+Superior: LOC
+Management & Supervision
+Proficient: ORG
+Prophix: GPE
+Certified Public Finance Officer: ORG
+Prophix: PERSON
+Financial Statements: ORG
+Governmental: LOC
+monthly: DATE
+Dec 2007: DATE
+annual: DATE
+monthly: DATE
+monthly: DATE
+treasury: ORG
+Manage: ORG
+EMMA: ORG
+Maintain Prophix: PERSON
+$15 million dollars: MONEY
+annually: DATE
+Manages: LOC
+the Passenger Facility Charge Program
+Preparation of Single Audit - Schedule: ORG
+Federal Awards: ORG
+annual: DATE
+Prepare: ORG
+annual: DATE
+DEA: ORG
+Department of Justice
+: ORG
+Maintained: GPE
+Capital Projects: ORG
+monthly: DATE
+Prepared: PRODUCT
+May 1999: DATE
+Dec 2007: DATE
+quarterly: DATE
+the Federal Aviation Administration: ORG
+Monitored: ORG
+Passenger Facility Charges: ORG
+monthly: DATE
+quarterly: DATE
+Senior Management
+Reviewed: ORG
+Oversaw: GPE
+PFC: ORG
+monthly: DATE
+Completed DEA: ORG
+Task Force: PRODUCT
+Authority: ORG
+CORE: ORG
+2006: DATE
+Oct 1997 to: DATE
+Mar 1999: DATE
+annual: DATE
+monthly: DATE
+Acted: ORG
+Fund Group: ORG
+Obtained: ORG
+Prepared: PERSON
+quarterly: DATE
+Fund's: ORG
+Board of Directors
+Created: ORG
+the Fund Group: ORG
+Chargeback Analyst: ORG
+Jun 1995: PERSON
+Oct 1997: DATE
+Maintained: GPE
+weekly: DATE
+1.2: MONEY
+Reduced Cardinal: ORG
+120: CARDINAL
+60 days: DATE
+Acted: ORG
+Communicated: ORG
+Researched: ORG
+Bachelor of Science , Business Administration Accounting: ORG
+The Ohio State University: ORG
+State Business Administration
+Accounting and Finance: ORG

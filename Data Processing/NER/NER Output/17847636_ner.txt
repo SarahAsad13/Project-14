@@ -1,0 +1,99 @@
+CUSTOMER: ORG
+One: CARDINAL
+Skill Highlights: PERSON
+10: CARDINAL
+11000kpm: CARDINAL
+CPT: ORG
+NexGen: ORG
+Dispatching
+Documentation: ORG
+Goldmine
+Scanning &: ORG
+Lawson: PERSON
+Medisoft: GPE
+Microsoft: ORG
+Excel: PRODUCT
+45wpm: DATE
+Workflow Onbase
+Heat
+Fast Track
+Allegra
+Artiva
+
+Medical: ORG
+ICD-9 (International Classification of Disease
+Adept: ORG
+Records: ORG
+Familiar: PERSON
+Resourceful: PERSON
+Customer Service: ORG
+February 2015: DATE
+EOB: ORG
+Allegra: PRODUCT
+Update: ORG
+Schedule: PERSON
+Print: GPE
+Itemized: NORP
+Statements, & Receipts: ORG
+July 2014 to February 2015: DATE
+Employee Files Accurately: WORK_OF_ART
+Working a: ORG
+daily: DATE
+Onbase Workflow: ORG
+Manual: PERSON
+Heat Application Prepping and Sorting Education: ORG
+Upload & Index: ORG
+Medical Records: ORG
+DME Billing Specialist: ORG
+April 2013 to March 2014: DATE
+Durable Medical Equipment: ORG
+Obtaining: ORG
+locating &: ORG
+Locating ABN: PERSON
+Medicare Billing: ORG
+Researched CPT: FAC
+ICD-9: NORP
+Maintained: GPE
+May 2006 to March 2013: DATE
+Durable Medical Equipment: ORG
+Advocate Hospital Emergency Rooms: ORG
+Alcatel Overhead: PERSON
+Created Letters and Certificates of Medical Necessity for Durable Medical: ORG
+Contacted Physician's Offices: ORG
+ABN: ORG
+Volunteer: PRODUCT
+WLQ: ORG
+3 years: DATE
+Respect Initiative Committee: ORG
+2: CARDINAL
+Researched CPT: FAC
+ICD-9: NORP
+Training
+AAS :: PERSON
+Medical Billing & Coding Reimbursement: ORG
+2016: DATE
+Bryant & Stratton College: ORG
+Health Service Administration Continuing: ORG
+Medical Coding & Reimbursement Medical Administrative: ORG
+1/2005: CARDINAL
+Admin Assistance: PERSON
+2004: DATE
+Everest College: ORG
+City: GPE
+10: CARDINAL
+CPR: ORG
+CPT: ORG
+Goldmine: ORG
+ICD-9: ORG
+Lawson: PERSON
+Medical Coding: ORG
+Medical
+Terminology: ORG
+Medisoft: GPE
+Microsoft Excel: ORG
+Coding: ORG
+Scanning, Sorting: WORK_OF_ART
+45wpm: DATE
+Workflow: ORG
+Allegra: ORG
+Artiva: ORG

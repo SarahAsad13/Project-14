@@ -1,0 +1,86 @@
+FREELANCE: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Adobe Photoshop & Illustrator CS: ORG
+Pro Engineer: ORG
+Rhino, Alias: ORG
+Wacom Drawing Tablet: ORG
+Digital Cameras: ORG
+Sanders: ORG
+Dick: PERSON
+Sporting Good: ORG
+Walmart: ORG
+Khol: PERSON
+Cabela: ORG
+Magellan: PRODUCT
+Kryptek: PERSON
+CCA: ORG
+Created: ORG
+winter: DATE
+Creating Tech Packs:: WORK_OF_ART
+Created: ORG
+Created: ORG
+Created: ORG
+four: CARDINAL
+State: ORG
+two: CARDINAL
+first: ORDINAL
+second: ORDINAL
+11/2013: CARDINAL
+Apparel Designer/Developer Company Name: ORG
+State: ORG
+Emphasis: PERSON
+Timeline: ORG
+Fit: PRODUCT
+Wear: PERSON
+Rocky Brands: ORG
+daily: DATE
+Voice of Customer: ORG
+State: ORG
+Created: ORG
+Dow Corning Design Center: ORG
+State Researched: ORG
+State Completed: ORG
+Binney & Smith: ORG
+Crayola: PRODUCT
+Fisher Price: PERSON
+Icuiti: GPE
+Education: ORG
+Industrial Design College of Creative Studies: ORG
+State: GPE
+US College of Creative Studies: ORG
+Detroit: GPE
+3.36: CARDINAL
+Monroe Community College: ORG
+State: GPE
+US Monroe Community College: ORG
+NY Summer Courses: ORG
+3.6: CARDINAL
+University of Northumbria: ORG
+London: GPE
+England: GPE
+Greece: GPE
+Interact Club: ORG
+Certifications: ORG
+CCA: ORG
+Professional Affiliations: ORG
+Skills: ORG
+Prototypes, Clients: ORG
+New Products, Business Development, Cases: ORG
+Interior Design, Collections: ORG
+Pacs: ORG
+Product Development: ORG
+Voice: ORG
+Cca: PERSON
+Magellan: PRODUCT
+Promotional: ORG
+Adobe Photoshop: PERSON
+Engineer: ORG
+Excel: PRODUCT
+Illustration, Illustrator, Ms Office: ORG
+Photoshop: ORG
+Powerpoint: PRODUCT
+Pro Engineer: ORG
+Industrial Design
+
+: ORG

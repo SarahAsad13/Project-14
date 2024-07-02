@@ -1,0 +1,153 @@
+PROJECT CONSTRUCTION: ORG
+years: DATE
+Skills
+
+Excellent: ORG
+Subcontractor: PERSON
+Knowledgeable: PRODUCT
+arabic: LANGUAGE
+Work History
+Project Construction Manager 01/2002 to Current 
+Company Name: WORK_OF_ART
+Coordinated: ORG
+weekly: DATE
+weekly: DATE
+Prepared: PERSON
+third: ORDINAL
+Construction Management: ORG
+NPCC Projects (Onshore & Offshore: ORG
+Storage Tanks: ORG
+Steel Structures: PERSON
+Bridges: PERSON
+CCIC Onshore Construction Projects: ORG
+UAE Company Name: ORG
+Abu Dhabi Marine Operating Company: ORG
+ADMA-OPCO: ORG
+Abu Dhabi Company for Oil Operations: ORG
+ADCO: ORG
+Abu Dhabi Gas Industries Limited: ORG
+Abu Dhabi Oil Refining Company: ORG
+Zakum Development Company: ORG
+Abu Dhabi Gas Liquefaction Company Limited: ORG
+ADGAS: ORG
+Saudi Aramco: NORP
+Qatar: GPE
+Shell: ORG
+Maersk: NORP
+OXY-Qatar: ORG
+Oil & Natural Gas Corporation Ltd - India: ORG
+the Project Management: ORG
+the Yards Management on Technical, Quality: ORG
+HSE: ORG
+Oversee: ORG
+NPCC: ORG
+Clients HSE: PERSON
+E&I: ORG
+QA/QC: ORG
+Enforce: ORG
+HSE: ORG
+Site: ORG
+Projects: ORG
+Approved Procedures: ORG
+Client: GPE
+Lessons Learnt: PERSON
+Prepare Construction Methods and Procedures: ORG
+EPC Works: ORG
+Zirku Island: GPE
+12: CARDINAL
+Zirku Island: GPE
+42: CARDINAL
+Zirku Island: GPE
+Bachelor of Arts : Petroleum Engineering 1993 University: ORG
+4: CARDINAL
+GPA
+Building Construction Trades Certificate
+Industrial Design Coursework
+
+Accomplishments: ORG
+India: GPE
+OGD-III Upstream Project: GPE
+ADCO: ORG
+Al Shaheen Field Development
+Project: PERSON
+Qatar: GPE
+Miscellaneous Works: PERSON
+Jebel Dhanna Terminal: ORG
+ADCO: ORG
+North East Bab: LOC
+ADCO: ORG
+COS Tank: ORG
+21: CARDINAL
+Das Island: LOC
+ADMA-OPCO: ORG
+Overhaul: PERSON
+COS Tanks: ORG
+Das Island: LOC
+ADMA-OPCO: ORG
+DAS ISLAND: LOC
+ADMA-OPCO: ORG
+Marjan Topsides Platforms: ORG
+Living
+Quarters: ORG
+4: CARDINAL
+ISDN: GPE
+OXY-: CARDINAL
+Qatar: GPE
+Zakum Crestal Gas Injection Project: PERSON
+ADMA-OPCO: ORG
+Al Khalij Northern Area: PERSON
+Pipelines: PERSON
+QP: ORG
+ADMA-OPCO: ORG
+Soroosh &: ORG
+Nowrooz Integrated Development Project: ORG
+Khuff Gas Development Project: ORG
+ADMA-OPCO: ORG
+Damaged Boat: WORK_OF_ART
+ADMA-OPCO: ORG
+New Additional Manifolds: ORG
+ASAB & BUHASA: ORG
+ADCO: ORG
+Abu Dhabi Company for Oil
+Operations: ORG
+ADCO: ORG
+Abu Dhabi Gas Industries Limited: ORG
+Abu Dhabi Oil Refining Company: ORG
+Abu Dhabi Gas
+Company: ORG
+Atheer: PERSON
+Qatar Petroleum: ORG
+Enforce: ORG
+HSE: ORG
+Projects: ORG
+Coordinating with Client: ORG
+Onshore Gas Development Project Phase II: ORG
+RasLaffan Onshore: ORG
+LNG Project: ORG
+Qatar: GPE
+Qatar: GPE
+LNG Project: ORG
+Qatar: GPE
+Professional Project Management Program-PMP: ORG
+25 October: DATE
+16: CARDINAL
+Cambridge Educational Institute -Abu Dhabi: ORG
+Affiliations: ORG
+the Jordanian Engineering Association: ORG
+1995: DATE
+Skills
+Bridges: ORG
+Client: GPE
+Engineer, Works, Natural Gas: ORG
+Project Management: ORG
+Quality: ORG
+QA: ORG
+Risk Assessment: PERSON
+Shell: ORG
+Additional Information
+
+Personal Information Nationality: ORG
+Jordan Date of Birth: PERSON
+06 June: DATE
+1968: DATE
+3: CARDINAL

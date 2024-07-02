@@ -1,0 +1,67 @@
+EXECUTIVE: ORG
+daily: DATE
+Newark CEDC: ORG
+Office Management Calendar Management Policies & Procedures Manuals Report & Document Preparation
+Spreadsheet & Database Creation Bookkeeping & Payroll Records Management Meeting & Event Planning Facility Management
+Highlights
+Word: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+SAP: ORG
+Lotus Notes: ORG
+Oracle
+Experience
+Executive: ORG
+HR 01/2014: ORG
+Mange bi-weekly: PERSON
+100: CARDINAL
+Coordinate: FAC
+12/1999: CARDINAL
+Name City: GPE
+Processed: GPE
+10/1997: CARDINAL
+Name City: GPE
+Engineering: GPE
+VP of Construction: ORG
+HS&E: ORG
+Human Resource Business Partner: ORG
+monthly: DATE
+Coordinated: ORG
+SOP: ORG
+Monitored: ORG
+PPE: ORG
+10: CARDINAL
+PPE: ORG
+Assisted: ORG
+Six: CARDINAL
+Construction Liaison: PERSON
+Liaison: PERSON
+VP of Construction: ORG
+Maintained: GPE
+VP of Construction: ORG
+Project Engineer and Construction Management: ORG
+33M: CARDINAL
+30: CARDINAL
+Assisted Drafting: ORG
+PID: ORG
+Created: ORG
+Setup: ORG
+Maintained: GPE
+Conducted: ORG
+Underwriter 03/1994: ORG
+Name City: GPE
+Maintained: GPE
+Developed: ORG
+Master of Business Administration 2011: ORG
+Engineer: ORG
+Human Resource: ORG
+Human Resources: ORG
+Lotus Notes: ORG
+Access, Excel: ORG
+PowerPoint: ORG
+Word: PERSON
+Oracle: ORG
+Safety: ORG
+SAP: ORG
+Six Sigma: PERSON

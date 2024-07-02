@@ -1,0 +1,102 @@
+Summary
+
+Technical Support Professional: ORG
+Windows XP/7/8: PERSON
+Server: PERSON
+2003/2008: DATE
+Active Directory: ORG
+2007/2010: DATE
+SCCM: ORG
+RDC: ORG
+Printers: PERSON
+Laptops: PERSON
+Routers: PRODUCT
+Switches: ORG
+VOIP: ORG
+Wifi: PERSON
+Avaya PBX: ORG
+Remedy
+
+Accomplishments
+
+: PRODUCT
+monthly: DATE
+more than 50: CARDINAL
+40%: PERCENT
+only 15: CARDINAL
+07/2013 to Current
+Project: PRODUCT
+Key Performance: LOC
+40: CARDINAL
+daily: DATE
+Tolerant: ORG
+Information Technology Specialist Company Name: ORG
+Researched: ORG
+9 years: DATE
+Key Performance:: LOC
+TCP/IP: ORG
+Active Directory: ORG
+SCCM: ORG
+VOIP: ORG
+Avaya PBX: ORG
+SMS: ORG
+VNC: ORG
+RDC: ORG
+Cloud: PERSON
+CSO (Remote Enterprise: ORG
+Maintenance & Upgrades: ORG
+weekly: DATE
+SMS: ORG
+IP: ORG
+Xerox: ORG
+Established: ORG
+6/2012: CARDINAL
+Project Management Colorado Technical University: ORG
+GPA: ORG
+GPA: ORG
+3.35: CARDINAL
+Coursework in Business, Management and Communications
+
+Management: ORG
+Project Management GPA: ORG
+3.35: CARDINAL
+10/2009: CARDINAL
+GPA: ORG
+3.53: CARDINAL
+Networks and Databases
+
+Information Technology GPA: ORG
+3.53: CARDINAL
+Network + Certified: ORG
+2006: DATE
+Hardware/Software Certified: ORG
+2006: DATE
+Microsoft Corporation: ORG
+Certified Professional Certified: ORG
+2006: DATE
+Pasadena: GPE
+CA Certified: FAC
+2000: DATE
+Skills: ORG
+Active Directory: ORG
+Avaya: ORG
+CA: ORG
+Hardware: ORG
+decision-: ORG
+IP: ORG
+Laptops: ORG
+Microsoft Certified Professional: ORG
+MS
+Outlook: PERSON
+2000: DATE
+Enterprise: ORG
+Network: ORG
+PBX: ORG
+Hardware: ORG
+Routers: PRODUCT
+SMS: ORG
+Switches: ORG
+TCP/IP: ORG
+Upgrades: GPE
+VOIP: ORG
+Xerox: ORG

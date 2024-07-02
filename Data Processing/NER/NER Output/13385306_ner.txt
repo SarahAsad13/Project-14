@@ -1,0 +1,89 @@
+SUMMAR: ORG
+Core Qualifications
+
+C: ORG
+Oracle SQL Oracle: ORG
+Information Management SQL Server SQL*Plus: ORG
+TFS SharePoint SharePoint Designer
+Database Design Database Administration Data Management: ORG
+PL/SQL ADO.NET Tactical Planning
+Application Development Web Applications IT Strategy: ORG
+Microsoft: ORG
+Information Technology SQL Software Project Management
+Project Management Analysis Business Intelligence
+Leadership
+
+Professional Experience
+: ORG
+Information Technology: ORG
+MSBA: GPE
+MSBA: GPE
+SQL Server: ORG
+VB.NET: ORG
+Santander Banking Services: ORG
+Tableau: GPE
+DSCI: GPE
+11/2012: CARDINAL
+Cardiovascular Program: ORG
+three: CARDINAL
+CAS: ORG
+EMERIS: ORG
+#: CARDINAL
+second: ORDINAL
+third: ORDINAL
+Oracle DBA: ORG
+The Department of
+Mental Retardation: ORG
+the Department of Developmental Services: ORG
+5: CARDINAL
+Massachusetts: GPE
+30: CARDINAL
+5: CARDINAL
+5.0: CARDINAL
+Novell: ORG
+ITD: ORG
+vb.net: ORG
+Applications Development: ORG
+the Department of Youth Services: ORG
+the Year 2000: DATE
+ASP: ORG
+YSIS: EVENT
+as a.
+banyan: PERSON
+Network Administrator: ORG
+Master of Business Administration: ORG
+MBA: WORK_OF_ART
+Management Information Systems: ORG
+Delta Mu: PERSON
+University - Sawyer School of
+Management City Management Information Systems: ORG
+Delta Mu Delta: PERSON
+Omicron Delta Epsilon Economics: ORG
+VB.NET: ORG
+Adabas: PERSON
+ADO: ORG
+Agile, Application Development: ORG
+ASP: ORG
+Banking: GPE
+Business
+Intelligence: ORG
+Data Management, Database Administration: ORG
+Database Design: ORG
+XML: ORG
+Information Technology: ORG
+#: CARDINAL
+SharePoint: ORG
+Natural: ORG
+Network Administrator: ORG
+Novell: ORG
+Oracle,: ORG
+Oracle DBA: ORG
+PL/SQL: ORG
+Oracle SQL: ORG
+Project Management: ORG
+Software Development: ORG
+Microsoft: ORG
+SQL Server: ORG
+SQL: ORG
+Tableau: GPE
+Year 2000: DATE

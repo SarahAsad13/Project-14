@@ -1,0 +1,144 @@
+7 years: DATE
+6 years: DATE
+Computer Applications: WORK_OF_ART
+MCA: ORG
+12 years: DATE
+Oracle for a period of: ORG
+11 years: DATE
+Project Management
+Oracle Enterprise: ORG
+Implementation Specialist: ORG
+WebLogic Server Administration
+Incident Management
+Database: ORG
+Oracle Cloud: PERSON
+People Management
+ITIL Service Management
+Operations Management
+Change Management: ORG
+24X7: CARDINAL
+Technical Skills
+
+Skills
+Operating System :: WORK_OF_ART
+Linux: GPE
+Solaris: GPE
+July 2016: DATE
+Total Years: EVENT
+12: CARDINAL
+2016: DATE
+12c: CARDINAL
+Apply BP: PRODUCT
+Plugins: PERSON
+Oracle Database: GPE
+Oracle WebLogic: ORG
+December 2014: DATE
+June 2016: DATE
+Name City: GPE
+Oracle Public Cloud: ORG
+Oracle: NORP
+Cloudem: NORP
+EM: ORG
+Cloudem: NORP
+Recruit: ORG
+February 2005: DATE
+November 2014: DATE
+Principal: ORG
+Oracle Public Cloud's: ORG
+Monitoring Solution: ORG
+Operation: ORG
+20000: CARDINAL
+Fusion Middleware: ORG
+Oracle Public Cloud: ORG
+EM: ORG
+Oracle: ORG
+EM: ORG
+Operations: ORG
+OMS & agents: ORG
+EM: ORG
+SSL: ORG
+SSO: ORG
+TAS: ORG
+SAAS: PERSON
+Oracle: ORG
+10: CARDINAL
+11: CARDINAL
+12c: CARDINAL
+one: CARDINAL
+UNIX: ORG
+RAC: ORG
+20: CARDINAL
+Oracle Cloud Data Centers: ORG
+OMS: ORG
+Upgrade OMS: ORG
+Applying BP: ORG
+OMS: ORG
+Oracle: ORG
+Operations: ORG
+Oracle WebLogic: ORG
+April 2004: DATE
+February 2005: DATE
+Linux: GPE
+OFA: ORG
+the application Administration of
+Oracle 10g Application Server: ORG
+Explain Plan: PERSON
+SQL Trace: ORG
+TKPROF: ORG
+RDA: ORG
+STATSPACK: ORG
+Changes Monitoring Backup Schedules: ORG
+Provided 24x7: CARDINAL
+Database Reorganizations: ORG
+MCA: ORG
+Madurai Kamaraj University University of Madras - RKM: ORG
+Vivekananda College: PERSON
+TRAININGS: ORG
+Six Sigma: PERSON
+Green Belt: PERSON
+ITIL V3 Foundation: ORG
+Oracle DBA 10g/11: ORG
+OCP: ORG
+Oracle WebLogic Server/Application: ORG
+11: CARDINAL
+10g/11: CARDINAL
+Database Machine Administration: ORG
+PMP - Project
+Management Professional Training Pursuing AWS: ORG
+Math
+Skills
+Architect: PERSON
+Change Management: ORG
+Computer Applications, Clients: ORG
+Database
+Administration: ORG
+DBA: ORG
+Database: GPE
+ITIL: ORG
+Linux: GPE
+People Management: ORG
+Excel: PRODUCT
+MS
+Project, Windows: ORG
+Middleware: GPE
+Enterprise: ORG
+Operating System: ORG
+Operations Management: ORG
+Oracle Applications: ORG
+Oracle Application: ORG
+Oracle
+Enterprise: ORG
+Oracle,: ORG
+Oracle DBA: ORG
+Oracle Database: GPE
+Primavera: ORG
+Project Management: ORG
+Quick: ORG
+Six Sigma: PERSON
+Solaris: GPE
+SQL: ORG
+SSL: ORG
+UNIX: ORG
+Upgrade: ORG
+Visio: PERSON
+WebLogic: ORG

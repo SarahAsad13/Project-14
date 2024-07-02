@@ -1,0 +1,40 @@
+Career Overview
+
+Engineering Team Lead: ORG
+years: DATE
+Agile: NORP
+Detail: PERSON
+Team: ORG
+UI: GPE
+Relational: ORG
+ASP: ORG
+#: CARDINAL
+VB.NET: ORG
+SOAP: ORG
+REST: ORG
+CSS: ORG
+DTS: ORG
+SSIS: ORG
+SSRS: ORG
+5: CARDINAL
+6: CARDINAL
+Kanban
+Objective: PRODUCT
+PHP: ORG
+5%: PERCENT
+100%: PERCENT
+third: ORDINAL
+Coach: ORG
+Nov 2008: DATE
+2008: DATE
+Dec 2005: DATE
+2: CARDINAL
+2015: DATE
+Milwaukee Area Technical College: ORG
+State: GPE
+US: GPE
+MSOE: ORG
+2011: CARDINAL
+City: GPE
+State: GPE
+US: GPE

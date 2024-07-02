@@ -1,0 +1,138 @@
+Reliable
+
+Highlights
+
+Fiscal: WORK_OF_ART
+Analytical
+Effective: WORK_OF_ART
+Financial Statements: ORG
+Governmental: LOC
+8: CARDINAL
+Trident Refit Facility: PRODUCT
+8: CARDINAL
+over 20 million dollars: MONEY
+annually: DATE
+daily: DATE
+monthly: DATE
+BOR: ORG
+Budget Operating Report: ORG
+weekly: DATE
+8: CARDINAL
+normal working hours: TIME
+monthly: DATE
+Navy: ORG
+Standard Account Systems: ORG
+Submarine and Logistics Data Base: ORG
+SLDB: NORP
+One: CARDINAL
+ERP: ORG
+Name City: GPE
+Level 1/Sub-Safe Material: PERSON
+Strategic Weapons Systems: ORG
+Trident: PRODUCT
+Equipment Replacement: ORG
+MHE: ORG
+Material Handling Equipment: ORG
+First: ORDINAL
+Submarine
+Logistic Database: PERSON
+SLDB: NORP
+Inventory Control Point: ORG
+Defense Logistics Agencies: ORG
+General Service Administration: ORG
+Fleet Industrial Supply Centers: ORG
+2: CARDINAL
+Job: PERSON
+Order: ORG
+Federal, Department of Defense: ORG
+Naval Supply System: ORG
+Database Administrator: ORG
+03/2003: CARDINAL
+Name City: GPE
+the Naval Aviation Logistic Command Information System: ORG
+the USS Kearsarge: PRODUCT
+3: CARDINAL
+3 years: DATE
+Assigned: PERSON
+the Aviation Supply Division(S-6: ORG
+Aviation Intermediate Maintenance Department: ORG
+AIMD: ORG
+the Marine Group Aviation: ORG
+Fed Log: PERSON
+ICP: ORG
+Intermediate Material Repair List: ORG
+Performed: ORG
+12: CARDINAL
+USS Kearsarge: PRODUCT
+AIMD: ORG
+Maintained Aviation Depot Level: ORG
+$18.2 million dollars: MONEY
+OPN: ORG
+ADP: ORG
+Send Depot Level Repairable: ORG
+DRMO: ORG
+ATAC: ORG
+Inventory Control Points: ORG
+ICP: ORG
+Second Class 12/1995: DATE
+Name City: GPE
+Provided Logistic Support: WORK_OF_ART
+8: CARDINAL
+one: CARDINAL
+Squadron: ORG
+Coordinate: FAC
+Identify: ORG
+System/Program: ORG
+Branch Supervisor: LOC
+Operates Material Handling Equipment and Government Vehicles: ORG
+one ton: QUANTITY
+the Supply Department: ORG
+Package: FAC
+Lading: GPE
+Name City: GPE
+Processed: GPE
+300: CARDINAL
+10: CARDINAL
+Performed: ORG
+Facilitated: ORG
+month-end: DATE
+Created: ORG
+monthly: DATE
+Coordinated: ORG
+2015: DATE
+Valdosta State University City: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.68: CARDINAL
+Graduated Cum Laude
+
+: ORG
+ACED Adult Work Force Education: ORG
+3.6: CARDINAL
+GPA: ORG
+Cum Laude
+
+Affiliations: ORG
+Evergreen Missionary Church: ORG
+Mens Mentoring Group: ORG
+Skills
+
+Accounting: ORG
+ADP: ORG
+Basic, Budget, Business Management: ORG
+Data Base: PERSON
+Database: GPE
+ERP: ORG
+Financial Management: ORG
+Government, Innovation: ORG
+Inventory Control: ORG
+Team Building, Leadership Development: ORG
+Logistics: ORG
+2000: DATE
+Navy: ORG
+Naval: GPE
+NEC: ORG
+Personnel: ORG
+Strategic: PERSON

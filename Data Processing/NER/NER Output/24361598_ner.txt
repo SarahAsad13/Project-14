@@ -1,0 +1,74 @@
+Client: GPE
+Team: ORG
+Blueprints: ORG
+Knowledgeable: PRODUCT
+Excel: PRODUCT
+Word: PERSON
+CMiC: GPE
+ProCore, Bluebeam: ORG
+P6: NORP
+Revit, Autocad: ORG
+Navisworks: PERSON
+Schedule: ORG
+Work History: WORK_OF_ART
+Review: ORG
+20: CARDINAL
+PE: ORG
+monthly: DATE
+two: CARDINAL
+Project Engineer: PERSON
+11/2015: CARDINAL
+Oversaw: GPE
+Ownership: NORP
+A&E: ORG
+Owner: ORG
+GMP: ORG
+Ownership: NORP
+Ownership: ORG
+A&E: ORG
+Project Engineer: PERSON
+02/2014: ORG
+11/2015: CARDINAL
+Performed: ORG
+CMiC & Bluebeam: ORG
+GMP: ORG
+Assisted: ORG
+Associate of Science : Construction Management: ORG
+10/2013: CARDINAL
+California Polytechnic State University-San Luis Obispo - City: ORG
+30 Certified: PERCENT
+Client: GPE
+Team: ORG
+Blueprints: ORG
+Knowledgeable: PRODUCT
+Excel: PRODUCT
+Word: PERSON
+CMiC: GPE
+ProCore, Bluebeam: ORG
+P6: NORP
+Revit, Autocad: ORG
+Navisworks: PERSON
+Schedule: ORG
+Work History: WORK_OF_ART
+Review: ORG
+20: CARDINAL
+PE: ORG
+monthly: DATE
+two: CARDINAL
+Project Engineer: PERSON
+11/2015: CARDINAL
+Oversaw: GPE
+Ownership: NORP
+A&E: ORG
+Owner: ORG
+GMP: ORG
+Ownership: NORP
+Ownership: ORG
+A&E: ORG
+Project Engineer: PERSON
+02/2014: ORG
+11/2015: CARDINAL
+Performed: ORG
+CMiC & Bluebeam: ORG
+GMP: ORG
+Assisted: ORG

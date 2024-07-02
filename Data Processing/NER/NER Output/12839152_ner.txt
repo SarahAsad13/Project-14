@@ -1,0 +1,58 @@
+multi-million dollar: MONEY
+Skills
+
+OSHA Certified: ORG
+Subcontractor: PERSON
+Knowledgeable: PRODUCT
+Interior: ORG
+FPP: ORG
+State Certified Erosion: ORG
+Held State Certifications: ORG
+Concrete Field: GPE
+Asphalt Field: GPE
+Soils: ORG
+Aggregate: ORG
+State: ORG
+Erosion and Sedimentation Control Inspector: ORG
+Field Concrete Testing: ORG
+Soils: ORG
+Aggregate
+Compaction: ORG
+Â Nuclear Gauge Safety: ORG
+Hot Mix Asphalt: PERSON
+Custom Homes: PERSON
+Subject Matter Expert: PERSON
+Perform construction Management and/or construction Inspection duties involving the: ORG
+the Contracting/Engineering: ORG
+Manage Observe: WORK_OF_ART
+Complete: PERSON
+Performance Evaluation: ORG
+Reviews: ORG
+Schedule: PERSON
+Reviews: PRODUCT
+Coordinated: ORG
+Obtained: FAC
+weekly: DATE
+weekly: DATE
+Prepared: PERSON
+Oversaw: GPE
+third: ORDINAL
+06/2011: CARDINAL
+Coordinated: ORG
+weekly: DATE
+weekly: DATE
+Prepared: PERSON
+Oversaw: GPE
+third: ORDINAL
+Conduct: PERSON
+Construction Inspectors: ORG
+Transportation Construction Management Institute: ORG
+Virginia Tech - City: PERSON
+Project Management, Construction Management: ORG
+Accounting
+Continuing Education: ORG
+Construction Management: ORG
+the Project Scheduling and Budget: ORG
+1500: CARDINAL
+more than $14 million dollar: MONEY
+Transportation: ORG

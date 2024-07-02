@@ -1,0 +1,61 @@
+OPERATIONS: ORG
+Career Overview
+Experienced: ORG
+Areas of Expertise
+Operations: ORG
+Complex: NORP
+Inventory: PERSON
+September 2014: DATE
+Created: ORG
+8: CARDINAL
+Operations Coordinator: ORG
+September 2010 to September 2014: DATE
+18: CARDINAL
+monthly: DATE
+four consecutive quarters: DATE
+20%: PERCENT
+previous year: DATE
+13/14 fiscal: DATE
+Ran: PERSON
+New York: GPE
+NY: ORG
+September, 2014: DATE
+February 2008 to September 2010: DATE
+Created: ORG
+Monitored: ORG
+daily: DATE
+weekly: DATE
+Greenwich: GPE
+September, 2010: DATE
+February 2003 to February 2008: DATE
+Marketing & Public Relations: ORG
+Coordinated: ORG
+Initiated: ORG
+Monitored: ORG
+Human Resources: ORG
+August 2001 to February 2013: DATE
+Maintained: GPE
+February 2003: DATE
+The College of Staten Island 2002 Bachelor of Science : Communications City: ORG
+State: GPE
+2002: DATE
+The
+College of Staten Island - New York Additional Information
+Accomplishments
+Additional Information Honors and Awards: Dean's: ORG
+1997-2002: DATE
+Skills
+Customer Service: ORG
+Receptionist: NORP
+Maintenance, Operations, Training, Marketing, Sales, Database, Public Relations: ORG
+Direct Mail: ORG
+Business Operations: ORG
+Mentoring: GPE
+Monthly: DATE
+Ordering, Payroll: WORK_OF_ART
+Answering: GPE
+Liaison: PERSON
+Order Entry: ORG
+Inventory: GPE
+Operations Management: ORG
+Problem Solving: WORK_OF_ART

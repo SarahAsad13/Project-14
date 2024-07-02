@@ -1,0 +1,58 @@
+Customer Service Representative: ORG
+Core Qualifications
+SAP
+Active: ORG
+Quick Learner: PERSON
+Shared: ORG
+Maintained: GPE
+Completed: ORG
+03/2015: WORK_OF_ART
+10/2016: CARDINAL
+State: ORG
+Amazon: ORG
+Stower - Put: PERSON
+Picker - Pick: ORG
+IOL - Inventory: ORG
+Destroy- Trained: PERSON
+10/2014: CARDINAL
+03/2015: GPE
+Amazon: ORG
+LLC: ORG
+3 month: DATE
+season: DATE
+Thanksgiving: DATE
+Christmas: DATE
+09/2014
+Customer Service Company Name: ORG
+Bank Of America Provided: ORG
+Courier Company Name ï¼​ City: WORK_OF_ART
+two years old: DATE
+Cashier Company Name: ORG
+04/2008: PERSON
+06/2008
+Cycle Counter Company Name: ORG
+SAP: ORG
+daily: DATE
+SAP: ORG
+04/2011: CARDINAL
+AQHA: ORG
+Florida: GPE
+Georgia: GPE
+North and South Carolina: GPE
+AQHA: ORG
+SAP: ORG
+SAP: ORG
+10/2000: CARDINAL
+Kennel Worker Company Name: ORG
+Restrained: ORG
+two years: DATE
+1998: DATE
+Forklift
+Operator, Inventory, Inventory: ORG
+Listening: PERSON
+Pick, Procurement: ORG
+Quick Learner: PERSON
+Receiving: ORG
+SAP: ORG
+Shipping: GPE
+Strategic: PERSON

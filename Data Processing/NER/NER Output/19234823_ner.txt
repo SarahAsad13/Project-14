@@ -1,0 +1,64 @@
+QuickBooks: ORG
+Complex: NORP
+Superior: LOC
+Advanced: ORG
+Mac: PERSON
+11/2012: CARDINAL
+Current
+Finance: ORG
+Effective: NORP
+Customer: ORG
+Budget: ORG
+Collate: ORG
+annual: DATE
+Forecasted: ORG
+Drafted: ORG
+Performed: ORG
+annual: DATE
+monthly: DATE
+11/2012: CARDINAL
+Office Administration Department: ORG
+State: ORG
+Accounts Receivable Coordinator Company Name: ORG
+Accounts Receivable: ORG
+Coordinated: ORG
+Project Leaders and Financial Analyst: ORG
+Microsoft: ORG
+Excel: PRODUCT
+02/1997: CARDINAL
+Processed: GPE
+Accounts Payable: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Operations / Graphics Coordinator Company: ORG
+seven: CARDINAL
+20: CARDINAL
+25: CARDINAL
+45,000.00: MONEY
+200: CARDINAL
+over 10,000: CARDINAL
+500,000.00: MONEY
+11/2012: CARDINAL
+Office Administrator Department: ORG
+Overseen: PERSON
+Researched: ORG
+Deltek Advantage/Vision: ORG
+Maintained: GPE
+Provided year-end: DATE
+Overseen: PERSON
+Accounts Payable Departments: WORK_OF_ART
+Project Managers/Team Leaders: ORG
+monthly: DATE
+monthly: DATE
+hourly: TIME
+Newforma Software: ORG
+5 1991: DATE
+Bachelor of Business Administration: ORG
+North Carolina Central University - City: ORG
+Accounts Payable: ORG
+Financial Analyst: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Quickbooks Pro: PERSON
+Vision: ORG
+year-end: DATE

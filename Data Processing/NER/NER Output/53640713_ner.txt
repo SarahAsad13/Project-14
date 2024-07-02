@@ -1,0 +1,138 @@
+Long Term/Permanent/Contract Opportunity Financial Statement Management Reporting Cost Accounting Asset
+Management Budgeting & forecasting Cash Flow Management Payroll Functions Audit Preparation Inventory Control: ORG
+8 years: DATE
+5 years: DATE
+Qatar: GPE
+Trading: GPE
+Contracting and Service: ORG
+Manual and Computer Accounting Packages: ORG
+Shreeshankaracharya: GPE
+kerala: GPE
+India: GPE
+ERP Peachtree & Daceasy: ORG
+Delta Software: FAC
+Qatar: GPE
+Microsoft Â​ Office: ORG
+Accountant: ORG
+05/2012: CARDINAL
+Positive Trading and Contracting is MEP: WORK_OF_ART
+Cheif Accountant of the Company: PERSON
+Accounts Payable and Accounts Receivable: ORG
+monthly: DATE
+daily: DATE
+Job Costing and Reporting: PERSON
+Accounting Processes: ORG
+Reconciling of Accounts Payable: ORG
+Accounts Payable: ORG
+Voucher Verification: ORG
+Banking - Calculating Project: ORG
+Preparation of Bank: ORG
+Petty Cash: PERSON
+LPO: ORG
+Monitor: ORG
+Payroll - Coordinated: ORG
+monthly: DATE
+200: CARDINAL
+Calculate: ORG
+Interface with External Auditors: ORG
+November: DATE
+first: ORDINAL
+kerala: GPE
+Administration: ORG
+Job Responsibilities: ORG
+Promotional: ORG
+daily: DATE
+weekly: DATE
+Coordinated: ORG
+monthly: DATE
+Reconcile: ORG
+Page 2: FAC
+3: CARDINAL
+Auditing& Tax Consulting Firm: ORG
+Accountant Trainee: PERSON
+2005: DATE
+May to 2006: DATE
+April: DATE
+Financial consulting: ORG
+Job Responsibilities: LOC
+Two: CARDINAL
+Maintained: ORG
+Master of Business Administration: ORG
+MBA: WORK_OF_ART
+2008: DATE
+ICFAI University India Finance: ORG
+Marketing
+Bachelors: PERSON
+2005: DATE
+University - State: ORG
+India: GPE
+Interests: NORP
+W.L.L DOHA QATAR Job Role/Department: PERSON
+2012 June: DATE
+W.L.L: GPE
+Qatar: GPE
+Holding Company State Holding: ORG
+CFO: ORG
+State: ORG
+Job Responsibilities Prepare: ORG
+Checking: PERSON
+Payroll: ORG
+month: DATE
+Group of Company: ORG
+Forecast
+Fund Requirement: ORG
+Leave Salary: PERSON
+T.T: NORP
+Petty: PERSON
+Contractual Obligations & Supervision: ORG
+29: CARDINAL
+03: CARDINAL
+Male Team: ORG
+Indian Honest: ORG
+India Photography Languages: ORG
+Visa: ORG
+NOC: ORG
+English: LANGUAGE
+Valid Qatar: PERSON
+Hindi & Arabic- Read: ORG
+Malayalam-Native Reference: ORG
+W.L.L: GPE
+2012 June: DATE
+W.L.L: GPE
+Qatar: GPE
+Holding Company State Holding: ORG
+CFO: ORG
+Job Responsibilities Prepare: ORG
+Summarizes: NORP
+Checking: PERSON
+Payroll: ORG
+month: DATE
+Group of Company: ORG
+Forecast Fund Requirement: ORG
+Leave Salary: PERSON
+T.T: NORP
+Petty: PERSON
+Contractual Obligations &
+Supervision: ORG
+29: CARDINAL
+03: CARDINAL
+Indian Honest: ORG
+India Photography Languages: ORG
+Visa: ORG
+NOC: ORG
+English: LANGUAGE
+Valid Qatar: PERSON
+Hindi & Arabic- Read: ORG
+Malayalam-Native Reference : Available: ORG
+Skills
+Reconcile: ORG
+Accountant: PERSON
+Accounts Payable: ORG
+Receivable, Accounts Payable and Receivable, Accounts Payable, Accounts Receivable: WORK_OF_ART
+Bank: ORG
+Finance: ORG
+Focus: ORG
+Job Costing: PERSON
+Payroll: ORG
+Processes: PERSON
+TAX: ORG

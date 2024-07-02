@@ -1,0 +1,58 @@
+Accounting Professional: ORG
+fourteen years: DATE
+Accounts Payable: ORG
+Receivable and Payroll: WORK_OF_ART
+Windows XP: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+QuickBooks Enterprise: ORG
+17.0: CARDINAL
+Timberline, File Maker: ORG
+Current
+Accountant Company Name: ORG
+Month: DATE
+month: DATE
+year: DATE
+monthly: DATE
+Control: ORG
+daily: DATE
+Accountant Company Name: ORG
+four: CARDINAL
+Oversaw: GPE
+Month: DATE
+month: DATE
+year: DATE
+monthly: DATE
+Control: ORG
+01/2004: CARDINAL
+Bank: ORG
+Month: DATE
+Accounting Phoenix University: ORG
+US: GPE
+Florida: GPE
+2003: DATE
+Sheridan Technical Center/: ORG
+US: GPE
+Florida: GPE
+CUC University: ORG
+1998: DATE
+Bachelor Arts Degree : Business Administration Business Administration
+Reference
+: ORG
+Laurel Harris: PERSON
+646: CARDINAL
+382-8408: CARDINAL
+David Walton: PERSON
+Operation at Dogmatic: ORG
+917: CARDINAL
+671: CARDINAL
+Spanish: NORP
+Skills
+General Accounting: ORG
+Microsoft: ORG
+Outlook, Windows XP: ORG
+Word: PERSON
+Excel: PRODUCT
+Quickbooks Enterprise: ORG
+17.0: CARDINAL

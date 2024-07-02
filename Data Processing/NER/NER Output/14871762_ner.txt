@@ -1,0 +1,80 @@
+BUSINESS DEVELOPMENT EXECUTIVE: ORG
+Summary
+Process: ORG
+Delivery Lead: PERSON
+5+ years: DATE
+Business Intelligence: ORG
+10%: PERCENT
+25%: PERCENT
+Clients: PRODUCT
+Leadership: NORP
+Team
+Player: ORG
+Information Systems: ORG
+Big Data Analytics: ORG
+Data
+Analytics: ORG
+SQL: ORG
+Java: PERSON
+Excel: PRODUCT
+Tableau: GPE
+Java Associate: PERSON
+Business Development Executive Nov 2011: ORG
+Analyzed BI: ORG
+22%: PERCENT
+Created: ORG
+5+: DATE
+98%: PERCENT
+first: ORDINAL
+11 %: PERCENT
+France: GPE
+Jan 2009 to Feb 2011: DATE
+2008: DATE
+Training: PERSON
+GEORGIA STATE UNIVERSITY: ORG
+July 2018: DATE
+J. Mack Robinson College of Business Information Systems: PERSON
+TECHNOLOGICAL UNIVERSITY: ORG
+City: GPE
+India: GPE
+Bachelor of Engineering ,: ORG
+June 2008: DATE
+Vidyavardhaka College of Engineering Information Science
+Interests
+Worked: ORG
+Mysore: GPE
+India: GPE
+1998-2000: DATE
+ILLUMINATI: ORG
+Go Green: LOC
+Kaynes Technology: ORG
+Tree Planting: PERSON
+Municipal Corporations: ORG
+Skills
+Business Development: ORG
+BI: GPE
+Client: GPE
+Documentation: PRODUCT
+ERP: ORG
+Inventory: PERSON
+Java, Team Development: ORG
+Excel: PRODUCT
+98: DATE
+Process Control: ORG
+SQL: ORG
+Statistical Analysis: ORG
+Sun: ORG
+Tableau: GPE
+Vendor Management
+Additional Information
+
+EXTRA CURRICULAR Worked: ORG
+Mysore: GPE
+India: GPE
+1998-2000: DATE
+ILLUMINATI: ORG
+Go Green: LOC
+Kaynes Technology: ORG
+Tree Planting: PERSON
+Municipal
+Corporations: ORG

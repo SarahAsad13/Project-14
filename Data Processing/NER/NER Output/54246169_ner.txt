@@ -1,0 +1,105 @@
+4-years: DATE
+Agriculture: GPE
+Nangarhar Agriculture Faculty: ORG
+2002: DATE
+English: LANGUAGE
+15 months: DATE
+Oxford: ORG
+English: LANGUAGE
+Computer Center Jalalabad City: ORG
+Reconstruction Team: ORG
+U.S.A: GPE
+Afghanistan/ Agriculture: ORG
+U.S.A: GPE
+Afghanistan: GPE
+PRT/ADT: ORG
+Assembly: ORG
+Provincial Development Council: ORG
+Technical working Group: ORG
+Collection of Agriculture: ORG
+Monitoring of Agriculture Projects: ORG
+Agriculture
+Coordinator: ORG
+Social, Political: ORG
+Cultural: ORG
+3 months: DATE
+Agriculture New: ORG
+U.S: GPE
+Nangarhar Agriculture University Students: ORG
+Business
+Development, Marketing, Field: ORG
+Communication: ORG
+Food: ORG
+Occasions: PERSON
+Community Development: ORG
+Agriculture: ORG
+Position: ORG
+Core Qualifications: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Pashto/Dari: ORG
+Jan 2016 to Jan 2016: DATE
+IPCB-S: ORG
+Kabul: GPE
+Afghanistan: GPE
+English: LANGUAGE
+Pashto/Dari: ORG
+minutes: TIME
+Jan 2016 to Jan 2016: DATE
+PRT: ORG
+Afghanistan: GPE
+DAIL Office: ORG
+Assist DAIL (Department: ORG
+Agriculture: ORG
+annual: DATE
+Attend: ORG
+PRT/ADT: ORG
+Module: PERSON
+Materials for Nangarhar university Agriculture: WORK_OF_ART
+Assist: ORG
+the DAIL research department: ORG
+Cooperate: ORG
+DIAL (Department: ORG
+Agriculture: ORG
+Train Nangarhar university Agriculture: ORG
+Translate Agriculture: ORG
+Jan 2013 to Jan 2016: DATE
+BRAC Education Program: ORG
+annual: DATE
+Build: GPE
+Jan 2002 to Jan 2004: DATE
+Education: ORG
+Agriculture 2002 Nangarhar University Agriculture: ORG
+1997: DATE
+Nangarhar High School: ORG
+Afghanistan: GPE
+Agriculture New technology: ORG
+U.S.A: GPE
+Kansas: GPE
+two: CARDINAL
+Oxford: GPE
+English: LANGUAGE
+Jalalabad: GPE
+Oxford: ORG
+English: LANGUAGE
+Jalalabad: GPE
+Oxford: GPE
+English: LANGUAGE
+Jalalabad Travels: PERSON
+Kansas: GPE
+America: GPE
+Agriculture: ORG
+Afghanistan Agriculture: ORG
+October 2010: DATE
+Recommendations: PRODUCT
+C.V: ORG
+Consideration: PRODUCT
+Pashto: GPE
+English: LANGUAGE
+Skills: ORG
+English: LANGUAGE
+Excel: PRODUCT
+Word: PERSON
+C.V: ORG
+Consideration: PRODUCT
+Fayaz Ahmad Sardar: PERSON

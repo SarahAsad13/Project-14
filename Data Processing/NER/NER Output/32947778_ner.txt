@@ -1,0 +1,66 @@
+Summary
+
+Human Resources Professional: ORG
+Recruiting
+Compensation: WORK_OF_ART
+Personnel: ORG
+Workers: ORG
+HRIS: ORG
+Name City: GPE
+State: ORG
+Key Results: LOC
+Represented Company: ORG
+Worker Compensation: ORG
+Monitored: ORG
+Workers Compensation: ORG
+WC: ORG
+Name City: GPE
+State HR Coordinator: ORG
+11/2012: CARDINAL
+the National Director and General: ORG
+31: CARDINAL
+Human Resource: ORG
+Key Results: LOC
+Processed: GPE
+Players Clubs and PGA TOUR Brand Teams: WORK_OF_ART
+Coordinated: ORG
+weekly: DATE
+GM: ORG
+Maintained: GPE
+Name City: GPE
+State: ORG
+Key Results: LOC
+annually: DATE
+Coordinated: ORG
+weekly: DATE
+first: ORDINAL
+Name City: GPE
+12/2008: CARDINAL
+Key Results: LOC
+one: CARDINAL
+Oversaw: GPE
+monthly: DATE
+Name City: GPE
+State SR: ORG
+02/2002: LAW
+12/2006: CARDINAL
+Key Results: Prepared: LOC
+Facilitated: ORG
+Coordinated: ORG
+Name City: GPE
+State Human Resource Regional: ORG
+Monitored Workers' Compensation: ORG
+Key Results: LOC
+People Soft: ORG
+Assisted: ORG
+Prepared: PERSON
+HIPPA: ORG
+OSHA: ORG
+Workers Compensation: ORG
+Notary: GPE
+Human Resource Management 2016 UNIVERSITY OF PHEONIX
+: ORG
+Skills: ORG
+Human
+Resource: ORG
+People Soft: PERSON

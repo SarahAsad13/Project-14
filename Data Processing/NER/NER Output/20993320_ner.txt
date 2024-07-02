@@ -1,0 +1,44 @@
+first: ORDINAL
+Generalist: PERSON
+Highlights: GPE
+Payroll: ORG
+Microsoft Office: ORG
+two-year: DATE
+20+ years: DATE
+the year: DATE
+Business Processes: ORG
+Name City: GPE
+Florida: GPE
+Human Resources: ORG
+1000+: DATE
+1000: CARDINAL
+each year: DATE
+Draft: ORG
+PTO: ORG
+Guid: ORG
+Name City: GPE
+State HUMAN RESOURCES/OFFICE: ORG
+Developed: ORG
+Created: ORG
+each month: DATE
+PTO: ORG
+Master of Arts : Organizational Leadership 2011 Regent University: WORK_OF_ART
+City: GPE
+Organizational Development Consulting: ORG
+1991: DATE
+Colorado State University: ORG
+City: GPE
+10-week: DATE
+2013),Â: CARDINAL
+Girl Scout University Leadership
+Series: ORG
+2014: DATE
+Society for Human Resource Management: ORG
+2009 - 2013: DATE
+Sarasota Human Resource Association: ORG
+SHRA: ORG
+2010: DATE
+Zeta Tau Alpha Sorority: ORG
+Colorado State University: ORG
+MS Office: ORG
+ADP: ORG

@@ -1,0 +1,104 @@
+Accounts Receivables: ORG
+Highlights
+Extensive: WORK_OF_ART
+Microsoft Windows: ORG
+Mac: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+QuickBooks Enterprise Solutions: ORG
+9.0: DATE
+Peachtree: GPE
+Microsoft: ORG
+January 2010 to November 2013: DATE
+10 million: CARDINAL
+Researched: ORG
+EOB: PERSON
+40% to 90%: PERCENT
+2 years: DATE
+Ran: PERSON
+monthly: DATE
+HCFA: GPE
+CMS: ORG
+1500)/ICD-9: CARDINAL
+UB-04: PRODUCT
+48 hours: TIME
+RealWorld: ORG
+Prepare A/P: ORG
+month-end: DATE
+year-end: DATE
+GL: ORG
+HIPAA: ORG
+HHA Exchange: ORG
+Santrax: ORG
+monthly: DATE
+March 2006 to November 2008: DATE
+AX, VI & MC: ORG
+Debit Memos: PERSON
+EL AL Israel Airlines: ORG
+Inquiries & Chargeback's: ORG
+Created an Excel: ORG
+month end and year end: DATE
+Airline Tickets: PERSON
+Petty Cash Accounts: PERSON
+hourly: TIME
+ADP: ORG
+January 2003 to August 2005: DATE
+Bookkeeper 
+City: GPE
+November 2013: DATE
+Current Accountant 
+City: PERSON
+monthly: DATE
+quarterly: DATE
+monthly, quarterly: DATE
+annual: DATE
+11: CARDINAL
+the G/L.
+
+Prepared: ORG
+monthly: DATE
+annual: DATE
+MAS200: NORP
+Assisted: ORG
+month-end: DATE
+September 1999 to November 2002: DATE
+Bookkeeper 
+City: GPE
+Complete: PERSON
+daily: DATE
+City University of New York: ORG
+Brooklyn College: ORG
+State Accountancy
+: ORG
+Kingsborough Community College: ORG
+6 2001: DATE
+Liberal Arts City: EVENT
+Dean: PERSON
+List for Excellence in Academic Achievement at Brooklyn
+College: WORK_OF_ART
+Liberal Arts Dean's: PERSON
+List for Excellence in Academic Achievement at Brooklyn College: WORK_OF_ART
+English: LANGUAGE
+ADP: ORG
+CMS: ORG
+CPT: ORG
+Customer: ORG
+Debit, Fluent: WORK_OF_ART
+English: LANGUAGE
+GL: ORG
+Medical Billing: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Exchange: ORG
+Microsoft Office: ORG
+Power Point: ORG
+Microsoft Windows: ORG
+Payroll: ORG
+Peachtree: NORP
+Coding: ORG
+QuickBooks: ORG
+Russian: NORP
+Staff Training: PERSON
+VI: ORG
+year-end: DATE

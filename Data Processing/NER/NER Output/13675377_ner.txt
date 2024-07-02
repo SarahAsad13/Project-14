@@ -1,0 +1,56 @@
+Skill Highlights
+
+: PERSON
+Understands: GPE
+EMR: PERSON
+Venipuncture
+Laboratory procedures-: ORG
+August 2014: DATE
+Current Medical Scribe 
+City: ORG
+January 2013: DATE
+January 2011 to January 2014: DATE
+Interviews: ORG
+Ensures: LOC
+Removes: ORG
+Requires: PERSON
+Key Achievements: LOC
+100-140: CARDINAL
+DME: ORG
+six: CARDINAL
+110-150: CARDINAL
+Plasma Rich Platelet: ORG
+January 2010 to January 2011: DATE
+State: ORG
+Key Achievements: LOC
+82: CARDINAL
+5000.00: MONEY
+each month: DATE
+Functional Movement Screening: ORG
+max: PERSON
+January 2009 to January 2010: DATE
+Obtained: FAC
+Key Achievements: LOC
+Initiated: ORG
+Performed: ORG
+January 2007 to January 2009: DATE
+3: CARDINAL
+Personal Trainers: ORG
+Key Achievements: LOC
+monthly: DATE
+30,000.00: MONEY
+four: CARDINAL
+month over month: DATE
+120: CARDINAL
+5000.00: MONEY
+Training
+University of Colorado B.A: ORG
+Integrative Physiology Continuing Education - Metropolitan State University of Denver Skills: Proficient: ORG
+Blood: PRODUCT
+Electronic Health Records Professional Development: EMT-B License: ORG
+IV&: ORG
+Front Range
+Community College: ORG
+Functional: GPE
+max: PERSON
+Trainer: ORG

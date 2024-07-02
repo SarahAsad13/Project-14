@@ -1,0 +1,46 @@
+my many years: DATE
+Skills
+
+Client: ORG
+Microsoft Office: ORG
+Multi: GPE
+Customer Needs Assessment: ORG
+Data Collection: ORG
+Email: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Microsoft: ORG
+November 2016: DATE
+Name City: GPE
+State Patient Health Advocate: ORG
+Create: ORG
+Assist: NORP
+September 2010 to November 2016: DATE
+Name City: GPE
+State: ORG
+EDI: ORG
+Demonstrate: ORG
+Resolve: PERSON
+Complies: ORG
+June 2010 to September 2010: DATE
+Name City: GPE
+State Customer Service: ORG
+Operates: NORP
+November 2008: DATE
+May 2010: DATE
+Company Name City: LOC
+State Customer Service: ORG
+daily: DATE
+daily: DATE
+ACSES: ORG
+daily: DATE
+April 2006 to November 2008: DATE
+Name City: GPE
+daily: DATE
+Training: PERSON
+1985: DATE
+Alameda High School 
+City: ORG
+State: GPE
+United States: GPE

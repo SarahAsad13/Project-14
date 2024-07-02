@@ -1,0 +1,72 @@
+Business Management, Finance & M.S: ORG
+7+ years: DATE
+Google Maps: ORG
+Wipro: ORG
+Hewlett Packard: ORG
+4
+years: DATE
+KPI: ORG
+5 years: DATE
+APTECH: CARDINAL
+India: GPE
+SQL: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Visio & Project: ORG
+Seeking for PMP Certification: WORK_OF_ART
+08/2012: CARDINAL
+Strategic: PERSON
+Project Initiation: ORG
+Possess: ORG
+Operations / Project Lead for Multiple Projects Cognizant & Global Logic 2012: ORG
+January 2016 April: DATE
+Responsibilities Daily: ORG
+KPI: ORG
+daily: DATE
+weekly: DATE
+Analyze metrics: PRODUCT
+Mentoring / Training: ORG
+200: CARDINAL
+MS Share: ORG
+Visio: PERSON
+PowerPoint: ORG
+SQL: ORG
+Escalations Ticket: ORG
+SQL: ORG
+KPI: ORG
+Associate Analyst: PERSON
+01/2011: CARDINAL
+Highlighting: ORG
+SQL: ORG
+Associate Analyst: PERSON
+11/2009: CARDINAL
+H.P: ORG
+Data Entry Specialist / Analyst: ORG
+06/2008: ORG
+Kelly: ORG
+Google: ORG
+Transforming: ORG
+SQL: ORG
+Bachelor of Commerce: ORG
+Osmania University: ORG
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+Wilmington University: ORG
+Information Technology GPA: ORG
+3.31: CARDINAL
+Skills: ORG
+Computer Applications: ORG
+Documentation, Driving: ORG
+Java: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+MS: ORG
+PowerPoint: ORG
+Project Lead: PERSON
+SQL: ORG
+Strategic: PERSON
+Troubleshooting: GPE
+Visio: PERSON

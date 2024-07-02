@@ -1,0 +1,93 @@
+25+ years: DATE
+Customer Service - Project Management - Team Leadership Â​ Technology Development - New Business Development Â​ International Business
+System Integration: ORG
+Digital Media: ORG
+Process Improvement - New Educational Technology Development: PERSON
+State
+
+Highly: ORG
+Achieve: LOC
+New Business Development Â​ Project
+Management Â​ System Integration Â​ Technology Deployment Â​ Process: ORG
+Coordinator Technology Support-School of Fine Arts Company Name: ORG
+Filemaker Solutions: ORG
+Filemaker: PERSON
+Fine Arts: ORG
+the School of Education: ORG
+the
+School of Fine Arts: ORG
+Fine Arts: PERSON
+Miami University: ORG
+Arts: ORG
+Provide: NORP
+Digital Media: ORG
+Oversaw: GPE
+IT Services: ORG
+the Print Center Invoicing and Billing System: ORG
+Filemaker Solution: PERSON
+Media Services: ORG
+Coordinated: ORG
+IT Services: ORG
+Fine Arts: ORG
+the Learning Technologies Centers: ORG
+MVS: ORG
+VS: PRODUCT
+Novell Network: ORG
+90: CARDINAL
+8: CARDINAL
+19 hours: TIME
+24 hours: TIME
+the two weeks: DATE
+the end of the semester: DATE
+4: CARDINAL
+Quik' Time Training': WORK_OF_ART
+Relevant
+Leadership Positions: PRODUCT
+Miami: GPE
+Principal Viola - Sorg Opera Company - Business: ORG
+Violist Montage String Quartet Â​National Sales Manager: ORG
+Winton Associates: ORG
+International Musicians Union Local: ORG
+Viola: ORG
+Rome Festival Orchestra: EVENT
+Italy: GPE
+M.M PHD Educational Leadership: PERSON
+Miami University: ORG
+Miami University: ORG
+ï¼​ City: GPE
+GPA: ORG
+3.89: CARDINAL
+GPA: ORG
+3.89: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+Bachelor of Music Washburn University: ORG
+GPA: ORG
+3.25: CARDINAL
+GPA: ORG
+3.25: CARDINAL
+Interests: NORP
+Ohio Learning Network Conference Topic: ORG
+The Arts: WORK_OF_ART
+Miami University Center for Learning and Teaching Conference :Topic: ': ORG
+MU Student e-Portfolios: ORG
+Filemaker Developers
+Conferences: GPE
+Arts: ORG
+Billing, Billing System: ORG
+Consulting: ORG
+Customer Service: ORG
+E - Commerce: ORG
+Filemaker: PERSON
+MVS: ORG
+Network: ORG
+New Business Development: ORG
+Project Management: ORG
+Quality Assurance: ORG
+System Integration: ORG
+Ohio Learning Network Conference Topic: ORG
+The Arts: WORK_OF_ART
+MU Student e-Portfolios: ORG
+Filemaker Developers Conferences: ORG

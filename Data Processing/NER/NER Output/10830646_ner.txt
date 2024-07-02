@@ -1,0 +1,167 @@
+15+ years': DATE
+CPR: ORG
+Skill Highlights: PERSON
+Crisis: ORG
+Patient
+
+Core Accomplishments
+Helped: WORK_OF_ART
+5th: ORDINAL
+6th: ORDINAL
+6: CARDINAL
+12: CARDINAL
+up to 45: DATE
+weekly: DATE
+Tutoring Consultant: WORK_OF_ART
+August 2014: DATE
+Current Company Name: ORG
+English: NORP
+September 2013: DATE
+daily: DATE
+6th: ORDINAL
+English: LANGUAGE
+Conducted: ORG
+one: CARDINAL
+Developed: ORG
+Communicated: ORG
+the day: DATE
+one: CARDINAL
+Communicated: ORG
+the school year: DATE
+June 2007 to June 2013 Company Name: DATE
+10th: ORDINAL
+World History: EVENT
+Advanced Placement: ORG
+daily: DATE
+10th: ORDINAL
+Global History: PERSON
+Provided Regents: ORG
+Saturdays Created: ORG
+Conducted: ORG
+one: CARDINAL
+the Danielson Framework: ORG
+Cornell Notes: ORG
+AVID Training: PERSON
+Established: ORG
+34: CARDINAL
+English Language Arts: WORK_OF_ART
+June 2002 to June 2007: DATE
+Maintained: GPE
+Maintained: GPE
+daily: DATE
+6th: ORDINAL
+7th: ORDINAL
+English: LANGUAGE
+Conducted: ORG
+one: CARDINAL
+Writers Workshop: PERSON
+Coordinated: ORG
+Established: ORG
+34: CARDINAL
+the day: DATE
+June 2000 to June 2002: DATE
+Performed: ORG
+Alumni Peer Helper: LOC
+January 1997 to June 2000: DATE
+Assisted the Prevention and Intervention Specialists: ORG
+Master of Science : School and District Administration: WORK_OF_ART
+2010: DATE
+Touro College: ORG
+State: GPE
+United States School and District Administration: ORG
+2005: DATE
+Touro College: ORG
+State: GPE
+United States: GPE
+Bachelor of Arts : Political Science: ORG
+2000: DATE
+St. Francis College: ORG
+City: GPE
+State: GPE
+United States: GPE
+Phi Alpha Theta: PERSON
+Pi Sigma: PERSON
+St. Thomas Moore Pre-Law Society: PERSON
+National Educators Association: ORG
+the American Psychological Association: ORG
+the American Irish Teachers Association: ORG
+the Emerald Society NYC Department of Education: ORG
+the Irish History and Cultural Studies Committee: ORG
+the Committee for Social and Economic Justice: ORG
+F.I.T. Team (Data Inquiry Team: ORG
+Brinkley Middle School: ORG
+2014-2016: DATE
+Positive Behavior Intervention Support Team Coordinator: LAW
+Brinkley
+Middle School: ORG
+2014-2016: DATE
+School Leadership Team: ORG
+Brinkley Middle School: ORG
+2014-2016: DATE
+Ask For More Arts Team: WORK_OF_ART
+Brinkley Middle School: ORG
+2013-2016: DATE
+Voyager Language Interventionist: ORG
+Brinkley Middle School: ORG
+2013-2015: DATE
+Volunteer: PRODUCT
+the Salvation Army: ORG
+1993-2013: DATE
+the School Based Support Team: ORG
+1997-2002: DATE
+the Comprehensive Education Plan Committee: ORG
+Intermediate School 141: ORG
+2002-2007: DATE
+Intermediate School 141: ORG
+2003-2007: DATE
+the Data Analysis Committee: ORG
+Intermediate School 141: ORG
+2006-2007: DATE
+the Academic Intervention Services Committee: ORG
+Intermediate School 141: ORG
+2006-2007: DATE
+School Leadership Team: ORG
+Academy of Finance: ORG
+2007-2013: DATE
+Data Analysis Committee: ORG
+Academy of Finance: ORG
+2007-: CARDINAL
+2013: DATE
+Data Coach: ORG
+the Social Studies Department: ORG
+Academy of Finance: ORG
+2007-2013: DATE
+Academy of Finance: ORG
+2009-2013: DATE
+the Social Studies Department: ORG
+Academy of
+Finance: ORG
+2007-2009: DATE
+Department Chair: ORG
+the Social Studies Department: ORG
+Academy of Finance: ORG
+2010-2012: DATE
+Building Response Team: WORK_OF_ART
+Academy of Finance: ORG
+2011-2013: DATE
+Queens Campus High Schools: PERSON
+2011-2012: DATE
+Academy of Finance: ORG
+2007-2013: DATE
+Principals Cabinet, Academy of Finance: WORK_OF_ART
+2011-2012: DATE
+Academy of Finance: ORG
+2009-2012: DATE
+Coordinator of School Activities: ORG
+Academy of Finance: ORG
+2009-2012: DATE
+Academy of Finance: ORG
+2007-2013: DATE
+Team Player: ORG
+Permanent License for Social Studies: ORG
+7-12: CARDINAL
+N.Y.S. Professional License for Literacy Specialist k-12: ORG
+Mississippi License: PERSON
+7-12: CARDINAL
+Mississippi License: PERSON
+Literacy: GPE

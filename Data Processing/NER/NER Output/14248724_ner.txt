@@ -1,0 +1,34 @@
+Dental Hygienist: PERSON
+sixteen years: DATE
+Licenses
+State: PERSON
+Florida: GPE
+Skill Highlights
+
+Nutritional Counseling
+
+: ORG
+Digital Radiographs
+
+Professional Experience: ORG
+September 2015: DATE
+February 2008 to August 2014: DATE
+State
+
+Assess: ORG
+June 2006 to: DATE
+December 2010: DATE
+February 2003 to June 2005: DATE
+State: ORG
+Maintained: GPE
+Training
+Master of Science : Health Sciences: WORK_OF_ART
+2015: DATE
+Nova Southeastern University - City: ORG
+2011: DATE
+2005: DATE
+Florida State College - City: ORG
+1999: DATE
+Tidewater Technical Institute - City: ORG
+State
+Community Service: ORG

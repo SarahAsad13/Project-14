@@ -1,0 +1,113 @@
+Social Media & Influencer Strategy
+Project: ORG
+Brand Partnership: ORG
+CRM: PRODUCT
+New Hotel Launch & Re-Launch/Brand Development
+
+Core Accomplishments
+Initiated: ORG
+The Benjamin Hotel: ORG
+Manhattan: GPE
+Cornell Professor & Co-Author of: ORG
+Success Â: ORG
+Rebecca Robbins: PERSON
+more than 1.4 billion: MONEY
+2015: DATE
+Conceptualized: PRODUCT
+Surrey: PERSON
+first: ORDINAL
+ArtMuse: ORG
+Tatler Hong Kong: PERSON
+World's Best Art Hotels: WORK_OF_ART
+Town & Country: ORG
+Grew CRM: PRODUCT
+78: CARDINAL
+102: CARDINAL
+one month: DATE
+Pure Wow , The New
+York City Ballet: WORK_OF_ART
+Rebecca Taylor: PERSON
+Public Relations & Partnerships 03/2015 to Current Company Name City: ORG
+Affinia Hotel Collection: ORG
+Surrey: PERSON
+Oversee: ORG
+New York Times: ORG
+Yahoo: ORG
+USA Today: ORG
+Â  British Airways: ORG
+Air France Magazin: ORG
+CNBC: ORG
+the Super Rich: ORG
+Name City: GPE
+Benjamin: PERSON
+three-year: DATE
+$10 million: MONEY
+BarkBox: ORG
+SIN Workouts: ORG
+Â  Robbins: PERSON
+Sleep for Success: ORG
+CRM: PRODUCT
+19%: PERCENT
+year-over-year: DATE
+23%: PERCENT
+Benjamin: PERSON
+the first year: DATE
+Directed: ORG
+Name City: GPE
+The National Bar & Dining Rooms: ORG
+Zakarian: NORP
+50: CARDINAL
+New York: GPE
+The New York Times: ORG
+Food Network: ORG
+Saveur Magazine: PERSON
+Manhattan Magazine: ORG
+Sleep Program: ORG
+Winks Kidzzz Club: ORG
+Handel Group Management Coaching: ORG
+New York: GPE
+Departures.com: ORG
+theÂ: ORG
+Affinia.com: ORG
+Annual: DATE
+NYU International Hospitality Industry Investment Conference: ORG
+09/2008: PERSON
+Name City: GPE
+Montage Beverly Hills: GPE
+FIG Restaurant: ORG
+Surrey: PERSON
+W Magazine: ORG
+Departures: PERSON
+Vogue.com: ORG
+Vanity Fair.com: ORG
+The New York Times: ORG
+three: CARDINAL
+65%: PERCENT
+Name City: GPE
+State
+
+Created: ORG
+annual: DATE
+three: CARDINAL
+Hospitality Sales & Marketing Association
+International Adrian Awards: ORG
+2007: DATE
+August 2004: DATE
+University of North Texas PR/Integrated
+Communications Science and Library Technology
+Bachelor of Arts: ORG
+August 2002: DATE
+University of North Texas & Baylor University: ORG
+English: NORP
+Professional Affiliations
+Business Chicks USA: ORG
+Denihan Talent Development Program: ORG
+Luxury Society: ORG
+Marie Forleo B-School: PERSON
+Technical Skills: ORG
+Gorkana: PERSON
+Meltwater
+Desktop Publishing Software: ORG
+Photoshop: PERSON
+Squarespace: ORG
+Mailchimp: PERSON

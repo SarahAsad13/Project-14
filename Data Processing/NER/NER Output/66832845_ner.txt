@@ -1,0 +1,104 @@
+Help Desk,: LOC
+MS Exchange: ORG
+Sharepoint: ORG
+Active Directory: ORG
+MS Exchange: ORG
+2010: DATE
+Windows
+Server: PERSON
+SCOM & SCCM: ORG
+Powershell: ORG
+Active Directory: WORK_OF_ART
+MS Exchange: ORG
+2010: DATE
+Windows Server: PERSON
+SCOM & SCCM: ORG
+Powershell: ORG
+Current
+Computer Network Specialist Company Name: ORG
+the Lan Administrator: ORG
+over 100: CARDINAL
+Hyper V: ORG
+9: CARDINAL
+2010: DATE
+2013: DATE
+Active Directory 2012: WORK_OF_ART
+Microsoft System Center and Operations: ORG
+2012: DATE
+Proofpoint: GPE
+iBoss: PERSON
+Active Directory: WORK_OF_ART
+Active Directory: ORG
+3: CARDINAL
+Dell Equallogic: ORG
+StorSimple: ORG
+Alertus: ORG
+Powershell: ORG
+VBscript: PERSON
+Vsphere: ORG
+07/2008
+Technology Specialist III Company: ORG
+TCP: ORG
+Blackberry Enterprise: ORG
+MS Exchange: ORG
+Fedora Core Linux: PERSON
+Traffic Grapher: PERSON
+2: CARDINAL
+2003: DATE
+Renaissance Learning: ORG
+180: CARDINAL
+Xiotech SAN: ORG
+TNT: ORG
+5000: CARDINAL
+Office, Fortress: ORG
+Rosetta Stone: PERSON
+Escape: PERSON
+LAN: ORG
+Hyper V: PERSON
+3: CARDINAL
+Administer Exchange: ORG
+2010: DATE
+Proofpoint Spam: ORG
+iBoss: PERSON
+System Center Operations: ORG
+Operation: ORG
+Networker: PERSON
+Active Directory: PERSON
+Software/Operating Systems: ORG
+Windows Server: PERSON
+2016: DATE
+2012: DATE
+2003: DATE
+2000: DATE
+Windows xp: PERSON
+7: DATE
+10: DATE
+Microsoft Office: ORG
+2007: DATE
+2010: DATE
+2013: DATE
+2016: DATE
+Skype for Business: ORG
+Escape Financial System: ORG
+Alertus Desktop: PERSON
+Laserfiche: ORG
+2013: DATE
+2013: DATE
+Proofpoint Spam: ORG
+2010: DATE
+DAG: ORG
+Access Array: PERSON
+Informacast Speaker System: ORG
+Microsoft System Center: ORG
+Operations: ORG
+Networker: PERSON
+ArcGIS: PERSON
+Azure Hardware: Install components: WORK_OF_ART
+Raid: PERSON
+2013: DATE
+Computer Science: ORG
+Visual Basic Programming: ORG
+week: DATE
+Networker: PERSON
+week: DATE
+Windows 2012 - Powershell: PERSON

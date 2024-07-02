@@ -1,0 +1,75 @@
+14 + years: DATE
+HVAC: ORG
+Cold: NORP
+CRM: PRODUCT
+Strong: PERSON
+2005: DATE
+Georgia Society for Health Care Engineers: EVENT
+2007: DATE
+Georgia Society for Hospital Engineers: Service: EVENT
+2008: DATE
+Georgia Society for Hospital Engineers: PJ Wise Award Recipient/Vendor: EVENT
+2009: DATE
+Georgia Society for Health Care Engineers: EVENT
+Award for Outstanding Service: ORG
+Dedication: ORG
+2010: DATE
+Georgia Society for Hospital Engineers: Certificate of Appreciation for Devotion and Commitment: EVENT
+2014: DATE
+Georgia Society for Hospital Engineers: EVENT
+50th Year Board: ORG
+Recognition: ORG
+2012 to Nov 2015: DATE
+Specializing in HVAC consultation: WORK_OF_ART
+Concentrated: ORG
+four: CARDINAL
+Jun 2011: PERSON
+2012: DATE
+Building Technologies Division: ORG
+Siemens Industry, Inc.
+Solutions: ORG
+Quoting Building Automation Systems: ORG
+Collaborated: ORG
+Marketed: ORG
+CRM
+Delivered: PRODUCT
+quarterly: DATE
+2009: DATE
+2011: CARDINAL
+Division of Carrier: ORG
+United Technologies Company: ORG
+Performed: ORG
+Collaborated: ORG
+Marketed: ORG
+two: CARDINAL
+Health Care Facility: ORG
+Specialist Jan 2001: DATE
+May 2009: DATE
+Carrier: ORG
+Maintained: GPE
+Carrier: PERSON
+100%: PERCENT
+a half a million dollar: QUANTITY
+the first year: DATE
+100%: PERCENT
+Master of Science , Counseling Psychology Georgia School of Professional Psychology - City: WORK_OF_ART
+House: ORG
+Atlanta Union Mission
+Volunteer: ORG
+Atlanta Regional Psychiatric Hospital: ORG
+State: GPE
+USA: GPE
+St. Albans Psychiatric Hospital
+Coursework in Marketing
+
+Skills: ORG
+Account Management
+Business Development
+Computer Proficient: ORG
+Mac: PERSON
+CRM Systems: PRODUCT
+Customer Satisfaction
+Marketing
+Territory Sales Experience
+
+: ORG

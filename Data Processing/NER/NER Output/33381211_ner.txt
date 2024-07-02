@@ -1,0 +1,111 @@
+20+ years: DATE
+Transformation and Change Advocate: ORG
+IT Application Development and Corporate Systems: ORG
+100: CARDINAL
+20: MONEY
+Fit: PRODUCT
+AWS: ORG
+Safelite: ORG
+~20%: PERCENT
+Â Leading: ORG
+RPA: ORG
+Safelite: ORG
+5: CARDINAL
+600: CARDINAL
+6000: CARDINAL
+90: CARDINAL
+2: CARDINAL
+Safelite: ORG
+Safelite: ORG
+OMNI: ORG
+Safelite: ORG
+2: CARDINAL
+IVR: ORG
+Launched "Road to Innovation: WORK_OF_ART
+first: ORDINAL
+5: CARDINAL
+BI: ORG
+Oversaw: GPE
+Mulesoft: PERSON
+Of Technology: ORG
+04/2013: CARDINAL
+15%: PERCENT
+3-4 years: DATE
+IVR: ORG
+API: ORG
+Oversaw: GPE
+Oracle EBS: ORG
+Information Technology: ORG
+04/2013: CARDINAL
+Transformed Safelite's: PERSON
+Safelite Solutions: ORG
+Safelite AutoGlass: ORG
+Safelite: PERSON
+200: CARDINAL
+#: CARDINAL
+SQL: ORG
+06/2003: CARDINAL
+Mini MBA Boston University: ORG
+Affiliations: ORG
+2018: DATE
+App: PERSON
+2017: DATE
+Safelite Solutions Innovation Award - New: LAW
+2016: DATE
+Belron Exceptional Customer Service: ORG
+2015: DATE
+Safelite Group: ORG
+2013: DATE
+Belron Exceptional Service: ORG
+2013: DATE
+Belron Exceptional Service: ORG
+2013: DATE
+2008: DATE
+Safelite Group Wall: WORK_OF_ART
+Transformation and Change Advocate: ORG
+IT Application Development and Corporate Systems: ORG
+100: CARDINAL
+20: MONEY
+Fit: PRODUCT
+AWS: ORG
+Safelite: ORG
+~20%: PERCENT
+Â Leading: ORG
+RPA: ORG
+Safelite: ORG
+5: CARDINAL
+600: CARDINAL
+6000: CARDINAL
+90: CARDINAL
+2: CARDINAL
+Safelite: ORG
+Safelite: ORG
+OMNI: ORG
+Safelite: ORG
+2: CARDINAL
+IVR: ORG
+Launched "Road to Innovation: WORK_OF_ART
+first: ORDINAL
+5: CARDINAL
+BI: ORG
+Oversaw: GPE
+Mulesoft: PERSON
+Of Technology: ORG
+04/2013: CARDINAL
+15%: PERCENT
+3-4 years: DATE
+IVR: ORG
+API: ORG
+Oversaw: GPE
+Oracle EBS: ORG
+Information Technology: ORG
+04/2013: CARDINAL
+Transformed Safelite's: PERSON
+Safelite Solutions: ORG
+Safelite AutoGlass: ORG
+Safelite: PERSON
+200: CARDINAL
+#: CARDINAL
+SQL: ORG
+06/2003: CARDINAL
+State: ORG

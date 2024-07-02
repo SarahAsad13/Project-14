@@ -1,0 +1,47 @@
+2] years: DATE
+Maintenance Worker: PRODUCT
+weekend: DATE
+evening: TIME
+Dedicated Customer Service: ORG
+Customer Service Representative: ORG
+Customer: ORG
+Repair Work Planning
+Groundskeeping: ORG
+Handheld Computers
+Pressure Washing
+
+Safety Monitoring and Compliance
+Mechanical Repair
+Critical Thinking
+Facilities Painting and Repair
+Heavy Object Lifting
+Troubleshooting and Diagnostics
+
+Work History
+Engineering Technician: ORG
+12/2020: CARDINAL
+City: GPE
+Applied: ORG
+Performed: ORG
+Tracked hours: TIME
+11/2019: CARDINAL
+City: GPE
+first: ORDINAL
+first: ORDINAL
+Simplified: PERSON
+Processed: GPE
+daily: DATE
+Cleaned: ORG
+OSHA: ORG
+Performed: ORG
+Readied: PERSON
+each day: DATE
+RF: PRODUCT
+Maintained: GPE
+Customer Service Associate 06/2014: ORG
+City: GPE
+Maintained: GPE
+Maintained: GPE
+Schenck Civilian Conservation Center: ORG
+State: ORG
+GED: PRODUCT

@@ -1,0 +1,41 @@
+5th: ORDINAL
+2nd: DATE
+3rd: ORDINAL
+the last fifteen years: DATE
+Superb: NORP
+Critical: PRODUCT
+State Established: ORG
+the Year: DATE
+2015: DATE
+02/2002: CARDINAL
+twenty students ages five to eight years old: DATE
+Summer: DATE
+ages five: DATE
+weekly: DATE
+first: ORDINAL
+02/2001: CARDINAL
+State
+
+Resource: ORG
+eight: CARDINAL
+Customer Service / Administrator Company Name: ORG
+Customer Service Training: ORG
+Training: PERSON
+1998: DATE
+State: ORG
+2002: DATE
+Psychology Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+State: ORG
+Cum Laude: PERSON
+2002: DATE
+Teaching Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+Promethean Board
+Computer: ORG
+Activities and Honors
+Team: ORG
+second: ORDINAL
+five years: DATE
+the year: DATE
+2015-2016: DATE

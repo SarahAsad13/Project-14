@@ -1,0 +1,55 @@
+INTERN: ORG
+Financial Data Analyst: ORG
+Skills
+
+Programming Language: C/C++: ORG
+MATLAB: ORG
+SQL: ORG
+LUA: ORG
+VBA: ORG
+Machine Learning:: WORK_OF_ART
+Supervised Learning: PERSON
+Unsupervised Learning: FAC
+Deep Neural Networks
+Finance: ORG
+Financial Forecasting: ORG
+Financial Analysis: ORG
+English: LANGUAGE
+Chinese: NORP
+Intern: ORG
+May 2015 to August 2015: DATE
+Researched: GPE
+U.S: GPE
+SQL: ORG
+Updatable Documentation Notification System: ORG
+VBA: ORG
+Intern: ORG
+June 2012 to: DATE
+August 2012: DATE
+VBA: ORG
+Bond Team: ORG
+20%: PERCENT
+Undergraduate Researcher 
+March 2011: ORG
+30%: PERCENT
+Intern: ORG
+June 2010 to July 2010: DATE
+Researched China: ORG
+annual: DATE
+Ministry of Industry and Information Technology: ORG
+China: GPE
+JP Morgan: ORG
+Bloomberg: PERSON
+Benshan Media: GPE
+Master of Science : Computer Engineering: WORK_OF_ART
+2016 University: ORG
+City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.46/4.0: CARDINAL
+2013: DATE
+City: GPE
+State: GPE
+Mathematics: NORP
+Chinese Business Student Association: ORG

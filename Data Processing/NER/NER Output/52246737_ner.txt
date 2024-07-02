@@ -1,0 +1,94 @@
+Career Overview
+Process: WORK_OF_ART
+Information Security: ORG
+5 years: DATE
+Governance: PERSON
+daily: DATE
+Control Establishment Immediate Value Offered Technical Acumen Maximize: ORG
+STRATEGIC PLANNING & ENABLEMENT: ORG
+multi-million dollar: MONEY
+DNS: ORG
+TCP/IP: ORG
+Microsoft Exchange: ORG
+Firewall: GPE
+IDS/IPS: ORG
+Web Filter/Proxy, Mail
+Accomplishments
+
+Influential: ORG
+FINANCIAL POLICIES & FORECASTING PROJECT Deployment &
+REPORTING PROJECT SCOPE: ORG
+Information Security: ORG
+SOX: ORG
+SOX: ORG
+Possess: ORG
+RESOURCES UTILIZATION TRAINING &
+DEVELOPMENT Ensure: ORG
+11/2013: CARDINAL
+2: CARDINAL
+Linux: PERSON
+Mac: PERSON
+RSA: ORG
+Active Directory: ORG
+SSO: ORG
+Information Technology Provisioning Technician: ORG
+State: ORG
+GPO: ORG
+over 7000: CARDINAL
+2: CARDINAL
+3: CARDINAL
+Utilized: ORG
+Numara Footprints: PERSON
+Kayako Provisioned: PERSON
+MiFi: PERSON
+100: CARDINAL
+12/2011: CARDINAL
+Utilization of N-Central: ORG
+Architected: ORG
+Exchange: ORG
+Active Directory: ORG
+Information
+Security & Compliance Manager SolarCity: ORG
+SAN MATEO: GPE
+CA: TIME
+November 2013: DATE
+Security Technologies: ORG
+Utilized: ORG
+Creation: PRODUCT
+Outstanding: PERSON
+Vulnerability Assessment Concept-to: ORG
+Interdepartmental: ORG
+Author: GPE
+Technology: ORG
+Information Security: ORG
+PGP: ORG
+Training
+Associates of Arts and Sciences: ORG
+Business Administration Software Technology Business Administration Software Technology
+Associates of Arts: ORG
+Information Technology Heald College Information Technology: ORG
+Applied Sciences: ORG
+AAS: ORG
+Network Security Heald College Network Security: ORG
+Anti-Virus: ORG
+CA: ORG
+Disaster Recovery: PERSON
+DNS: ORG
+Firewall: PERSON
+Gateway: GPE
+Information Security: ORG
+Legal: GPE
+Linux: GPE
+Mac: PERSON
+McAfee: ORG
+Exchange: ORG
+Microsoft Exchange: ORG
+Mail, Windows: ORG
+Networking: ORG
+Proxy: PERSON
+Risk Management: ORG
+SAN: ORG
+Symantec: ORG
+TCP/IP: ORG
+Technical Trainer: PERSON
+Author: GPE

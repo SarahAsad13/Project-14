@@ -1,0 +1,133 @@
+HEALTHCARE: ORG
+Cynthia: PERSON
+the Cap Gemini Ernst & Young Global Regulatory Compliance Boot Camp: ORG
+Good Manufacturing Practices: ORG
+Good
+Laboratory Practices: ORG
+Cynthia: PERSON
+Cynthia: PERSON
+Pain Management: ORG
+Legal: GPE
+Nurse Consulting and Life Care Planning: ORG
+the U. S.: GPE
+Health Care and Life Sciences: ORG
+G Major Consulting: ORG
+Cap Gemini Ernst & Young: ORG
+Ness Technologies: ORG
+Cynthia: PERSON
+Cynthia: PERSON
+the
+University of Florida Rehabilitation Training Institute: ORG
+Life Care Planning: ORG
+Global Regulatory Compliance/Life Sciences: ORG
+Glidewell: ORG
+Validation Systems: ORG
+India: GPE
+the Catastrophically Injured Aging: ORG
+the University of Florida
+Rehabilitation Training Institute: ORG
+RN: ORG
+Abbott Laboratories: ORG
+Forensic Medicine: WORK_OF_ART
+Cynthia: PERSON
+HELP Pain Medical Network: ORG
+Cynthia: PERSON
+Remote Care Services Program: ORG
+the HELP Interdisciplinary Pain Rehabilitation Program: ORG
+the Remote Care Services: ORG
+Cynthia: PERSON
+HELP: ORG
+Workers Compensation: ORG
+Cynthia: PERSON
+California Workers Compensation: ORG
+Healthcare: ORG
+May 2001: DATE
+the Medicare Modernization Act: ORG
+Medicaid: ORG
+Medicare: ORG
+JCAHO: ORG
+GCP: ORG
+GLP: ORG
+GMP: ORG
+Researched: ORG
+Medicaid/Medicare HMO: ORG
+SME: ORG
+Patient Care Coordination and Reporting
+System: ORG
+Medicaid/Medicare HMO: ORG
+Created: ORG
+Evaluate: ORG
+Provide: NORP
+ADA: ORG
+Life Sciences Planning, Design: ORG
+Validation Project: ORG
+63: CARDINAL
+23: CARDINAL
+FDA: ORG
+EMEA: ORG
+ICH: ORG
+the Global Regulatory Compliance Team: ORG
+Cap Gemini Ernst & Young: ORG
+the CGE&Y Regulatory Compliance
+Team: ORG
+Good Manufacturing Practices: ORG
+Good Laboratory Practices: ORG
+Bachelor of Science : Nursing Western Governors University: ORG
+Dean: PERSON
+List Dean's: PERSON
+List
+Certificate: WORK_OF_ART
+Nursing University of Arkansas: ORG
+City: GPE
+State Nursing
+Publications: ORG
+Eastern European Lecture Series: ORG
+University of Arkansas: ORG
+Fort Smith: GPE
+Fort Smith: GPE
+AR: GPE
+Fall 1998 One: DATE
+Our Own: PRODUCT
+The Work Place, Advinet, Inc.: WORK_OF_ART
+Fort Smith: GPE
+AR: GPE
+Spring 1993: DATE
+the Volunteer Work Force: FAC
+Girls Clubs of America Regional Conference: ORG
+November, 1992: DATE
+Little Rock: GPE
+Our Own: ORG
+the Work Place Fort Smith: FAC
+Public School System: ORG
+Fort Smith: GPE
+Arkansas: GPE
+Spring 1991 One: DATE
+Our Own: ORG
+the Work Place Alma Public School System: FAC
+Alma: PERSON
+Arkansas: GPE
+Spring 1991: DATE
+American Cancer Society: ORG
+1991: DATE
+Fort Smith: GPE
+AR: GPE
+Fall 1990 Stress: ORG
+the Work Place: FAC
+Fort Smith Board of Realtors: ORG
+Fort Smith: PERSON
+AR: GPE
+December, 1989: DATE
+Skills: ORG
+ADA: ORG
+GCP: ORG
+GLP: ORG
+GMP: ORG
+Instructor: ORG
+Next: ORG
+Research: ORG
+Strategic: PERSON
+Certified Disability Analyst: ORG
+Fellow (ABDA #3718-97: ORG
+American Board of Disability: ORG
+Fellow American Board of Forensic Examiners: ORG
+American Board of Forensic Nurses: ORG

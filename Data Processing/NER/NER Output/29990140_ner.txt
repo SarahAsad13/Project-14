@@ -1,0 +1,102 @@
+Highlights
+Microsoft Office: ORG
+Articulate: WORK_OF_ART
+Excel: PRODUCT
+50+: DATE
+April 2007: DATE
+January 2016: DATE
+Name City: GPE
+State Project: ORG
+Photographer: ORG
+7.7 years: DATE
+15+ years: DATE
+100%: PERCENT
+November 2012: DATE
+January 2014: DATE
+Name City: GPE
+Maintained: GPE
+October 2008: DATE
+April 2010: DATE
+Company Name City: LOC
+100%: PERCENT
+July 1988: DATE
+July 2008: DATE
+20 years: DATE
+9/11: CARDINAL
+Haitian: NORP
+Malaysian: NORP
+Italy: GPE
+two: CARDINAL
+the Independent Duty Intelligence Officer: ORG
+Leading Petty Officer: PERSON
+30: CARDINAL
+the USS John C.Stennis: PRODUCT
+September 1, 2000 -
+: DATE
+October 31, 2003: DATE
+Intelligence Collection: ORG
+SNOOPY: ORG
+20: CARDINAL
+the USS Mustin: PRODUCT
+2002-2005: DATE
+2013: DATE
+UNIVERSITY City: GPE
+State: GPE
+US Bachelors: PERSON
+French: NORP
+Secondary Education: ORG
+Pi Delta: LOC
+Phi Spring 2013(Collegiate: DATE
+French: NORP
+2013: DATE
+Emerging Leaders Award: EVENT
+Gamma Sigma Sigma National Service Sorority: ORG
+Eta: ORG
+French Club, Community Service Officer: ORG
+Baptist Campus Ministries
+
+Languages
+Able: ORG
+French: NORP
+the Junior League of Hampton Roads Touch a Truck Committee: ORG
+June 2015: DATE
+20: CARDINAL
+Touch a Truck: WORK_OF_ART
+the Junior League of Hampton Roads: ORG
+2016: DATE
+the Junior League of Hampton Roads Touch a Truck Committee: ORG
+January 2015-May 2015: DATE
+20: CARDINAL
+the Junior League: ORG
+2200: DATE
+over $: MONEY
+20,000: MONEY
+Gamma Sigma Sigma National Service Sorority: ORG
+201: CARDINAL
+Fall 2011-Fall 2012: DATE
+Spring 2010: DATE
+-Alumni: PERSON
+2013: DATE
+2012-2013: DATE
+SCI Clearance: ORG
+DONCAF: ORG
+2008: DATE
+Volunteer: PRODUCT
+Virginia: GPE
+October 2006: DATE
+October 2014: DATE
+U13: ORG
+U8: ORG
+U6: CARDINAL
+Volunteer TOPSoccer: PERSON
+2011: DATE
+Volunteer TOPSoccer: PRODUCT
+2011: DATE
+1000+: DATE
+hours: TIME
+2010: DATE
+Skills
+
+Customer Service: ORG
+Internet Research: ORG
+Time Management: ORG

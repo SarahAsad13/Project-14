@@ -1,0 +1,34 @@
+Community AdvocateÂ: ORG
+Certifications: ORG
+CPR: ORG
+First Aid
+Highlights
+
+Active: ORG
+Time: ORG
+Courteous demeanorÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+: WORK_OF_ART
+Detail: PERSON
+Energetic: LOC
+Â  Â Â 
+Telecommunication: PERSON
+Adaptive: ORG
+Nov 2015: DATE
+daily: DATE
+May 2012 to Jan 2015: DATE
+2008: DATE
+2009: DATE
+Maintained: GPE
+Communicated Fairplex: PERSON
+Training
+Dietetics CALPOLY: ORG
+State: GPE
+USA Minor: ORG
+State: GPE
+USA Minor: ORG
+State: GPE
+USA: GPE
+Skills
+Filing: ORG
+Careful: PRODUCT
+Multi: GPE

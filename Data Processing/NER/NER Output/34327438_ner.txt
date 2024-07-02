@@ -1,0 +1,131 @@
+Accomplishments
+
+Worked with Teach for India in conducting regular classes for under-privileged children: WORK_OF_ART
+CSR: ORG
+OSC Services: ORG
+Student Co-ordinator: ORG
+the ILS Free Legal Aid Society: ORG
+2010-2012: DATE
+Consultant 04/2013 Company Name
+
+Asset Finance - Drafting: ORG
+the Asia Pacific: LOC
+Cape Town: LOC
+6: CARDINAL
+India: GPE
+16 May -14: DATE
+June 2011: DATE
+Mumbai Legal: ORG
+Finance Act viz: LAW
+Importation of Services and Taxation of various Services: ORG
+Operating Lease: ORG
+Cenvat Credit: ORG
+first: ORDINAL
+the Appellate Tribunal: ORG
+18 April - 14: DATE
+May 2011: DATE
+KHAITAN: PERSON
+Kolkata A: PERSON
+three: CARDINAL
+India: GPE
+Board of India and: ORG
+Reserve Bank: ORG
+Guidelines: PRODUCT
+India: GPE
+Senior Associates and Partners: ORG
+10 May - 28: DATE
+May 2010: DATE
+VAISH ASSOCIATES: ORG
+Gurgaon: PERSON
+Research on Company Law: ORG
+Joint Venture: ORG
+Mergers and Acquisitions: WORK_OF_ART
+Securities and Exchange Board of India Regulations: ORG
+05/2008: CARDINAL
+Delhi: GPE
+Singh: GPE
+the committee of consultants on: ORG
+Indirect Tax Reforms: ORG
+Goods and Service: ORG
+Raghvendra Phadnis National Essay Writing
+Competition: ORG
+ILS Law College: ORG
+2009: DATE
+1st Rank: ORG
+Raghvendra Phadnis National Essay Writing
+Competition: ORG
+ILS Law College: ORG
+2009: DATE
+1st Rank: ORG
+1st: ORDINAL
+LexTech: NORP
+Asian: NORP
+Gujarat National Law University: ORG
+Law Awarded Certificate of Appreciation: WORK_OF_ART
+1st: ORDINAL
+LexTech: NORP
+Asian Law and Technology Essay Writing Competition: ORG
+Gujarat National Law University: ORG
+63.16: CARDINAL
+Qualifications Board/University Institute Marks BSL LLB: ORG
+Pune University I.L.S. Law College Class XII: ORG
+ITL
+Public School New-Delhi: ORG
+89.2%: PERCENT
+ITL Public School: ORG
+88.8%: PERCENT
+Interests: NORP
+Zonal Level: FAC
+New-Delhi: GPE
+West zone-2006: DATE
+Volleyball: GPE
+Second: ORDINAL
+Zonal Level: FAC
+New-Delhi: GPE
+West Zone-2005: LOC
+First: ORDINAL
+Zonal Level, Singing Competition: ORG
+New-Delhi: GPE
+Microfinance Institutions: A Cost Benefit Analysis: WORK_OF_ART
+LEXWITNESS: ORG
+February 2012: DATE
+37: CARDINAL
+Trading Activity and CENVAT Credit Rules: WORK_OF_ART
+LEXWITNESS: ORG
+August 2011: DATE
+41: CARDINAL
+Child Soldiers victim of Armed Conflicts and War crimes: an issue related to: WORK_OF_ART
+International Humanitarian Law: EVENT
+Custodial Interrogation And Human Rights: WORK_OF_ART
+Abhivyakti: GPE
+2010: DATE
+Online
+Transactions and Consumer Protection: WORK_OF_ART
+ILS Law College: ORG
+18 February 2010: DATE
+Additional Information
+
+Awards and Achievements *College Researcher: ORG
+the Lex Novitas National Moot Court Competition: ORG
+You(th: GPE
+South Asian: NORP
+Symbiosis Institute of Media and Communication: ORG
+2009-2010: DATE
+Zonal Level: FAC
+New-Delhi: GPE
+West zone-2006: DATE
+Volleyball: GPE
+Second: ORDINAL
+Zonal Level: FAC
+New-Delhi: GPE
+West Zone-2005: LOC
+First: ORDINAL
+Zonal Level: ORG
+New-Delhi: GPE
+West Zone-2004: DATE
+Credit: ORG
+Drafting, Finance: ORG
+Law: PERSON
+Research: ORG
+Mergers and Acquisitions, Exchange: ORG
+Securities, Tax: ORG

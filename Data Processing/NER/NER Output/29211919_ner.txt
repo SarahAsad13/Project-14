@@ -1,0 +1,33 @@
+Highlights: GPE
+65WPM: CARDINAL
+80-90%: PERCENT
+10: CARDINAL
+Key Calculator: LOC
+Smart Phone: PERSON
+Microsoft: ORG
+Vista: ORG
+MAC: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Browsers: PERSON
+Fire-Fox: ORG
+Google: ORG
+Superior: LOC
+Name City: GPE
+Maintained: GPE
+Assisted: ORG
+Name City: GPE
+State Personal Health Care: ORG
+02/2015
+
+Daily: ORG
+Name City: GPE
+daily: DATE
+Communicate: ORG
+Name City: GPE
+State Explorer 06/2008: ORG
+Computed: PERSON
+Maintained: GPE
+GED: ORG
+2011: CARDINAL
+Time: ORG

@@ -1,0 +1,55 @@
+CASHIER: ORG
+two years: DATE
+Cashier: PERSON
+Core Qualifications
+Cash: PERSON
+Time: ORG
+Detail: PERSON
+Cashier: ORG
+October 2014: DATE
+Assist: NORP
+Answer: ORG
+Maintain: PRODUCT
+Calculate: ORG
+Sort: ORG
+Compute: ORG
+Compile: PRODUCT
+June 2014 to September 2014: DATE
+Cashier: PERSON
+February 2014 to June 2014: DATE
+Assist: NORP
+Answer: ORG
+Maintain: PRODUCT
+Calculate: ORG
+Sort: ORG
+Compute: ORG
+Compile: PRODUCT
+Apparel Associate: PERSON
+January 2014 to February 2014: DATE
+Recommend: ORG
+Compute: ORG
+Apparel Associate: PERSON
+October 2013 to December 2013: DATE
+Recommend: ORG
+Compute: ORG
+Cashier: PERSON
+August 2012 to August 2013: DATE
+Assist: NORP
+Answer: ORG
+Maintain: PRODUCT
+Calculate: ORG
+Sort: ORG
+Compute: ORG
+Compile: PRODUCT
+5 2013: DATE
+Henry County High School: ORG
+State: GPE
+United States: GPE
+FFA: ORG
+FCA: ORG
+Pep Club: ORG
+Skills
+
+Calculators
+Cash: ORG
+Credit: ORG

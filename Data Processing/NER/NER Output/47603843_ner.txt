@@ -1,0 +1,37 @@
+B.A.: GPE
+Android: ORG
+Android Studio: PERSON
+Java: PERSON
+XML: ORG
+Android: ORG
+SDK: PRODUCT
+Google: ORG
+Jsoup: ORG
+Firebase: ORG
+Material Design: ORG
+developingÂ: GPE
+Google Playstore: ORG
+Amazon: ORG
+02/2013: CARDINAL
+HTML: ORG
+CSS: ORG
+Javascript: PERSON
+Bootstrap: ORG
+Paint.net: ORG
+03/2015: GPE
+Ground Support Equipment: PERSON
+Associate of Science : Finance Midlands Technical College: ORG
+State: ORG
+Columbia Finance: ORG
+Associate of Science : Mathematical Economics: ORG
+City: GPE
+State: ORG
+2017: DATE
+Associate of Science : Computer Science University of North Georgia: WORK_OF_ART
+City: GPE
+Skills
+
+Accounting: ORG
+entreesÂ: GPE
+Iran: GPE
+the United States: GPE

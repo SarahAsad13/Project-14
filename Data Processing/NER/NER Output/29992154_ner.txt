@@ -1,0 +1,32 @@
+CASHIER: ORG
+3 years: DATE
+3 years: DATE
+Quick: FAC
+Strong: PERSON
+Team: ORG
+Valid OH: PERSON
+Late-night: TIME
+Credit: ORG
+CPR: ORG
+the Month: DATE
+Taco Bell: ORG
+Processed: GPE
+Certified Home Healthcare: ORG
+Feb 2014: DATE
+State: ORG
+daily: DATE
+Deli/Bakery Clerk Mar 2013 to Jan 2014: ORG
+Crew Trainer Sep 2012: PERSON
+Mar 2013: DATE
+2-3 minute: TIME
+Mar 2012: PERSON
+2012: DATE
+Strictly: ORG
+Maintained: GPE
+State: ORG
+Athens: GPE
+Associate of Science , Health and Wellness Washington State Community College: ORG
+State: ORG
+Washington: GPE
+CPR: ORG
+First Aide: ORG

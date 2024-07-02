@@ -1,0 +1,102 @@
+Current Accountant: PERSON
+the City of: GPE
+Alexandria: GPE
+15 years: DATE
+Skills: ORG
+15+ years: DATE
+Accounting & Bookkeeping
+Services
+Financial: ORG
+Bank: ORG
+Work History
+Accountant Aug: WORK_OF_ART
+2013: DATE
+Name City: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Banner Finance: ORG
+Xtender: ORG
+Responsible for Accounts Payable & Fixed Assets: ORG
+the City of Alexandria: GPE
+1099s: DATE
+Record Journal Entries: ORG
+month-end: DATE
+quarterly: DATE
+year-end: DATE
+year end: DATE
+GOHSEP: ORG
+Hurricanes Katrina: EVENT
+Rita, Gustav & Isaac: ORG
+2009 - Feb 2013: DATE
+Name City: GPE
+Investigate: ORG
+Compile: PRODUCT
+nearly 100%: PERCENT
+monthly: DATE
+Jan 2006 - Apr 2008: DATE
+Name City: GPE
+State 
+
+Prepare & File: ORG
+Prepare LLC & Corporate: ORG
+monthly: DATE
+Generate: PERSON
+each month: DATE
+Jan 2003 - Aug 2004: DATE
+Name City: GPE
+Uphold: ORG
+2002: DATE
+Northwestern State University of Louisiana City: ORG
+Kappa Phi: PERSON
+Dean: PERSON
+List for the entirety of College: WORK_OF_ART
+George H Rothschild Scholar: PERSON
+Alpha Lambda Delta: ORG
+Bank: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Keeper Pro Software: PERSON
+QuickBooks Software: ORG
+Creative Solutions Bookkeeping Software: WORK_OF_ART
+HOST: ORG
+ProSystem: ORG
+UltraTax: ORG
+Lacerte Tax Preparation Software: ORG
+2013: DATE
+Name City: GPE
+Accounts Payable: ORG
+1099s: DATE
+Reconcile Asset: ORG
+Organize: GPE
+month-end: DATE
+quarterly: DATE
+year-end: DATE
+Provide: NORP
+year end: DATE
+Generate: PERSON
+yearly: DATE
+Review &: ORG
+2009 - Feb 2013: DATE
+Name City: GPE
+Responsible for Budget and Forecasts: ORG
+Investigate: ORG
+nearly 100%: PERCENT
+monthly: DATE
+Jan 2006 - Apr 2008: DATE
+Name City: GPE
+State 
+
+Prepared & Filed: ORG
+Responsible for Budget and Forecasts: ORG
+Prepared & Managed: ORG
+LLC & Corporate: ORG
+monthly: DATE
+Utilized: ORG
+each month: DATE
+Jan 2003 - Aug 2004: DATE
+Name City: GPE
+Utilized: ORG

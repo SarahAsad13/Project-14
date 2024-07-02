@@ -1,0 +1,51 @@
+QUALITY ANALYST/SENIOR RECORD KEEPING SPECIALIST
+Summary
+Administrative: ORG
+20 years: DATE
+Recruit: ORG
+60: CARDINAL
+Reviews: NORP
+May 2010: DATE
+Company Name City: LOC
+State Quality Analyst/Senior: ORG
+Productivity: ORG
+Excel: PRODUCT
+QC: ORG
+weekly: DATE
+Facilitate: ORG
+QC: PERSON
+daily: DATE
+weekly: DATE
+four: CARDINAL
+TIAA: ORG
+January 2007: DATE
+May 2010: DATE
+Company Name City: LOC
+State Customer Service: ORG
+NIGO: ORG
+NIGO: ORG
+NIGO: ORG
+January 2001: DATE
+January 2007: DATE
+Name City: GPE
+State Customer Service: ORG
+15: CARDINAL
+Processed: GPE
+January 1990: DATE
+January 2001: DATE
+Name City: GPE
+State Receptionist/Administrative/Telephone Service Counselor
+
+Professionally: ORG
+March 2004: DATE
+Name City: GPE
+Motivates: ORG
+Recruit: ORG
+60: CARDINAL
+Reviews: PRODUCT
+University of Phoenix City: ORG
+State Pursuant of Bachelors Degree :: ORG
+Business Management Project Management Business Management Project
+Management
+Berkeley College City: ORG
+State Associates Degree : Business/Office Administration Business/Office Administration: ORG

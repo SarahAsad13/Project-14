@@ -1,0 +1,54 @@
+GENERAL BUSINESS MANAGEMENT
+Summary: ORG
+Kristy Bishop
+
+: PERSON
+Highlights: GPE
+Account: ORG
+Client: GPE
+70%: PERCENT
+Customer: ORG
+SQL: PERSON
+Diversity Training: PERSON
+Mentoring Training: PERSON
+"Top Performer: WORK_OF_ART
+Relationship Banker II: EVENT
+one: CARDINAL
+5: CARDINAL
+12 months: DATE
+Merchant Service: ORG
+about 14 months: DATE
+Initialized: ORG
+May 2007 to Dec 2014: DATE
+first: ORDINAL
+SQL: GPE
+NW Florida Regional Commercial Sales: ORG
+Mar 2007 to Jan 2009: DATE
+NE: GPE
+South Georgia: GPE
+Deland Fl: FAC
+Caribbean: LOC
+SQL: ORG
+every day: DATE
+Jul 2006 to Nov 2008: DATE
+Jan 2006 to Jan 2007: DATE
+Qualifying: ORG
+Client: GPE
+Relationship Banker II Jan 2004: EVENT
+70%: PERCENT
+HR Sales & Marketing Training: ORG
+SQL: PERSON
+Diversity Training: PERSON
+Mentoring Training: PERSON
+"Top Performer: WORK_OF_ART
+Relationship Banker II: EVENT
+one: CARDINAL
+5: CARDINAL
+12 months: DATE
+Merchant Service Representative: ORG
+about 14 months: DATE
+Initialized: ORG
+General Studies / Psychology & Business St. Johns River State College: ORG
+State: GPE
+USA: GPE
+SQL: ORG

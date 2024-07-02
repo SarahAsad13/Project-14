@@ -1,0 +1,69 @@
+FOUNDER: ORG
+seven years: DATE
+Client Services Management: ORG
+Portfolio Management: ORG
+Project Management: ORG
+General Accounting and Taxation: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Deutsche Bank: ORG
+Financial Analyst: ORG
+American International Group: ORG
+more than 500: CARDINAL
+American International Group: ORG
+Founder: ORG
+October 2012 to June 2015: DATE
+Vietnam: GPE
+Researched Vietnamese: NORP
+February 2007 to October 2012: DATE
+third: ORDINAL
+daily: DATE
+daily: DATE
+1.7B: MONEY
+Bloomberg: PERSON
+monthly: DATE
+quarterly: DATE
+10B: MONEY
+daily: DATE
+Trustee: ORG
+daily: DATE
+Commercial Paper: ORG
+Treasury: ORG
+Mutual Fund: ORG
+100%: PERCENT
+5 consecutive years: DATE
+Legal Agreements
+Diligently: WORK_OF_ART
+Legal Agreements: ORG
+Dodd-Frank Act: ORG
+SEC: ORG
+Applied: ORG
+February 2004 to January 2006: DATE
+more than 100: CARDINAL
+15B: MONEY
+daily: DATE
+Morgan Stanley: ORG
+Exxon Mobil Corporation: ORG
+Harvard: ORG
+700: CARDINAL
+Coordinated: ORG
+30: CARDINAL
+10: CARDINAL
+2004 Rutgers University: ORG
+Rutgers Business School - State: ORG
+American Bankers Association: ORG
+New York: GPE
+2011: DATE
+Princeton: GPE
+Asia: LOC
+Vietnam: GPE
+2007: DATE
+English: LANGUAGE
+2015: DATE
+Vietnam Entrepreneurs of Today and Tomorrow Network: WORK_OF_ART
+2014: DATE
+Related Strengths: WORK_OF_ART
+â€¢ Work well in a high paced and high pressure environment
+
+â€¢ Strong: WORK_OF_ART
+â€¢ Technically: PRODUCT

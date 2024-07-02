@@ -1,0 +1,82 @@
+LEAN SIX SIGMA BLACK BELT
+Summary
+Highly: ORG
+a decade: DATE
+Administrative: GPE
+Counseling: PERSON
+Adobe Reader: PERSON
+Microsoft: ORG
+Lean Six Sigma Green Belt Certified
+: WORK_OF_ART
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Power Point
+Effective: ORG
+Supply: ORG
+Received Afghanistan Campaign Medal: ORG
+Received 2 Good Conduct Medals: ORG
+13 year: DATE
+Military Career: PERSON
+6 month: DATE
+Afghanistan: GPE
+Received Certificate of Commendation: ORG
+the Supply High Priority Expediter: ORG
+Received Certificate of Commendation: ORG
+the Supply Accounting Division: ORG
+the Supply Accounting Division: ORG
+Name City: GPE
+State Lean Six Sigma Black Belt: ORG
+Black Belts: WORK_OF_ART
+DMAIC: ORG
+Six Sigma: PERSON
+Lean: GPE
+Name City: GPE
+State Aviation Supply Specialist: ORG
+Federal Acquisition Regulations: ORG
+Name City: GPE
+State Nuclear Security Officer: ORG
+Access: PRODUCT
+Alan W.: PERSON
+Nuclear Regulatory Commission: ORG
+NRC: ORG
+the Security Control Center: ORG
+SSES: ORG
+ambulances & fire: ORG
+LLEA: ORG
+first: ORDINAL
+Respond: PERSON
+first: ORDINAL
+Name City: GPE
+State Aviation Maintenance Administrative Specialist 06/2001: ORG
+Naval Aviation Logistics Command Management Information System: ORG
+man-hour: TIME
+Basic Intructor 2012 Department: ORG
+Navy: ORG
+City: GPE
+State: GPE
+United States: GPE
+2012: DATE
+Navy: ORG
+City: GPE
+State: GPE
+United States: GPE
+Lean Six Sigma Black Belt: ORG
+2012: DATE
+Villanova University: ORG
+City: GPE
+State: GPE
+United States: GPE
+Navy: ORG
+City: GPE
+State: GPE
+United States: GPE
+Adobe
+Charts: PRODUCT
+Inventory: ORG
+Team: ORG
+Logistics
+Management Information System
+Naval: ORG
+Personnel Development
+Purchasing: ORG

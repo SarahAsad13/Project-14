@@ -1,0 +1,122 @@
+COMMNICATIONS: ORG
+Microsoft Office: ORG
+Self -Motivated Team Player
+Effective Communication: ORG
+Office Organization
+Wardrobe Organization
+Front Desk / Greeter / Customer Service: ORG
+Scanner: PERSON
+Multi: GPE
+Line
+Proficient: ORG
+Microsoft: ORG
+Suite: PERSON
+Adobe Photoshop
+Research: ORG
+Licensed: PERSON
+Makeup Artist: PERSON
+Westlaw: PERSON
+Westlaw: PERSON
+LexisNexis
+Office: ORG
+Problem: ORG
+Copywriting: WORK_OF_ART
+Decisive: NORP
+Organized: ORG
+Time: ORG
+Understands: PERSON
+Multi: GPE
+Legal Administration Tasks Â 
+
+: ORG
+15: CARDINAL
+Market Research: ORG
+Organizational Development: ORG
+9 months: DATE
+Initiated: ORG
+more than 250: CARDINAL
+weekly: DATE
+January 2001: DATE
+Current Company Name: ORG
+Marketing Intern 
+Company Name: PERSON
+August 2010 to July 2014: DATE
+Conduct: ORG
+Order: ORG
+Arrange: NORP
+cor
+Gather information on: ORG
+Assist: NORP
+Assist: NORP
+Keep: PERSON
+Coordinate: FAC
+Prepare: ORG
+Legal: GPE
+Royalties Intern: ORG
+Urban Music: ORG
+June 2013 to September 2013: DATE
+Created PowerPoint: ORG
+March 2013 to September 2013: DATE
+Researched: ORG
+School Board - Substitute: ORG
+September 2006: DATE
+May 2010: DATE
+29: CARDINAL
+17%: PERCENT
+six-month: DATE
+Communicated: ORG
+English: LANGUAGE
+10: CARDINAL
+9th: ORDINAL
+World History: WORK_OF_ART
+20: CARDINAL
+18: CARDINAL
+May 2003 to: DATE
+May 2005: DATE
+daily: DATE
+Ran: PERSON
+weekly: DATE
+January 2003 to January 2005: DATE
+Jam Bailey's: PERSON
+Billiards: PRODUCT
+Coca-Cola Company Red Zone Entertainment Fli Musik Group: ORG
+Fashion Show Carnivo Liquor Red Bull: WORK_OF_ART
+March 2002 to March 2003: DATE
+January 1998 to September 2001: DATE
+Marketing Department: ORG
+annual: DATE
+the week: DATE
+Employment Employment Agencies: EVENT
+Adecco - Administrative &
+Marketing Temp Southern University: ORG
+Barrister: PERSON
+Ball Sports and Entertainment Legal Association: ORG
+2014: DATE
+2013: DATE
+May 1999 to September 1999: DATE
+LexisNexis: ORG
+Westlaw: PERSON
+Juris Doctorate :: PERSON
+Law: PERSON
+Southern University Law Center: ORG
+State: GPE
+USA: GPE
+2001: DATE
+Tennessee State University: ORG
+State: GPE
+USA: GPE
+Mass Communications & Sociology: ORG
+1 2008: DATE
+Tennessee Technical Center: ORG
+Adobe Photoshop: PERSON
+Creative Problem Solving: ORG
+Clients, Customer Service: ORG
+Law: PERSON
+Legal: GPE
+Microsoft Office Suite: ORG
+Office, Works: ORG
+Press: ORG
+Research: ORG
+Scanner: GPE
+Self -Motivated: ORG
+Team Player: ORG

@@ -1,0 +1,185 @@
+January 2009: DATE
+Current
+
+Media Enterprise Alliance: ORG
+Head-Royce School Instructor: ORG
+January 1974 to January 2010: DATE
+January 2005 to January 2010: DATE
+Fine Arts Dept: WORK_OF_ART
+Head-Royce School: ORG
+11: CARDINAL
+Visual: GPE
+Summer: PERSON
+January 2003 to January 2009: DATE
+HRS: ORG
+the Oakland Unified School District: ORG
+six-week: DATE
+monthly: DATE
+the year: DATE
+B.A : Communications and: ORG
+1969: DATE
+University of California Berkeley Communications: ORG
+1970: DATE
+University of California Berkeley-Fine Arts: ORG
+M.F.A: GPE
+1972: DATE
+San Francisco Art Institute: ORG
+UC Berkeley-Secondary Teaching Credential: FAC
+1973: CARDINAL
+Interests: NORP
+2006-2008: DATE
+EOBA/Smart Moves: ORG
+Sobrante: GPE
+East Oakland: GPE
+daily: DATE
+2006-2008: DATE
+East Bay Community Fund: ORG
+Rebuilding Together Oakland: PERSON
+Temple Sinai: GPE
+Pulte Construction: ORG
+Head-Royce School: ORG
+2005-2007: DATE
+Destiny Arts: PERSON
+the Head-Royce Art and Technology Institute Summer: ORG
+2005-2007: DATE
+2005-2007: DATE
+Malawi Youth
+: PERSON
+Malawi: GPE
+Africa: LOC
+the Amai A Chifundo
+Orphanage: FAC
+Blantyre: GPE
+Malawi: PERSON
+Malawi: PERSON
+1990-: CARDINAL
+April: DATE
+Oakland: GPE
+House: ORG
+Conference/Panel Facilitator: ORG
+2005: DATE
+Arts: ORG
+Groups: ORG
+Destiny Arts: ORG
+East Bay: LOC
+Asian: NORP
+Center-Streetside Productions: ORG
+YouthSounds/Bay Area Video Coalition: ORG
+the Oakland Museum: ORG
+Oakland Fund: ORG
+East Bay Arts: LOC
+Pro-Bono Films: PERSON
+Non-Profit: ORG
+2007-08: DATE
+The East Oakland Boxing Association/Smart Moves: ORG
+Sobrante: GPE
+East Oakland: GPE
+daily: DATE
+Oakland: GPE
+The George Mark Center: ORG
+San Leandro: GPE
+Ca: GPE
+2005: DATE
+Destiny Arts: ORG
+Oakland: GPE
+2004: DATE
+The East Bay College Fund: ORG
+the East Bay: LOC
+Oakland: GPE
+Ca: ORG
+2003: DATE
+The International Rescue Committee: ORG
+the United States: GPE
+Oakland: GPE
+San Francisco: GPE
+Ca: GPE
+2002: DATE
+Oakland: GPE
+2006-2008: DATE
+Three year: DATE
+the Head-Royce: FAC
+Australia: GPE
+New Zealand: GPE
+The Council for Basic Education: ORG
+The National Endowment for the Arts: ORG
+the Getty Center for Art Education: ORG
+2006-2008: DATE
+EOBA/Smart Moves: ORG
+Sobrante: GPE
+East Oakland: GPE
+daily: DATE
+2006-: CARDINAL
+2008: DATE
+East Bay Community Fund: ORG
+Rebuilding Together Oakland: PERSON
+Temple Sinai: GPE
+Pulte
+Construction: ORG
+Head-Royce School: ORG
+2005-2007: DATE
+Destiny Arts: ORG
+the Head-Royce Art: ORG
+Technology Institute Summer: ORG
+2005-2007: DATE
+2005-2007: DATE
+Malawi Youth Project: ORG
+Malawi: GPE
+Africa: LOC
+the Amai A Chifundo Orphanage: FAC
+Blantyre: GPE
+Malawi: PERSON
+Malawi: PERSON
+1990-: CARDINAL
+April: DATE
+Oakland: GPE
+House: ORG
+Conference/Panel Facilitator: ORG
+2005: DATE
+Arts: ORG
+Groups: ORG
+Destiny Arts: ORG
+East Bay: LOC
+Asian: NORP
+Center-Streetside Productions: ORG
+YouthSounds/Bay
+Area Video Coalition: ORG
+the Oakland Museum: ORG
+Oakland Fund: ORG
+East Bay Arts: LOC
+Pro-Bono Films: PERSON
+Non-Profit: ORG
+2007-08: DATE
+The East Oakland Boxing
+Association/Smart Moves: ORG
+Sobrante: GPE
+East Oakland: GPE
+daily: DATE
+Oakland: GPE
+The George Mark Center: ORG
+San
+Leandro: GPE
+2005: DATE
+Destiny Arts: ORG
+Oakland: GPE
+2004: DATE
+The East Bay College Fund: ORG
+the East Bay: LOC
+Oakland: GPE
+2003: DATE
+International Rescue Committee: ORG
+the United States: GPE
+Oakland: GPE
+San Francisco: GPE
+Ca: GPE
+2002: DATE
+Hepatitis-C Clinic: ORG
+Oakland: GPE
+2006-2008: DATE
+Three year: DATE
+the Head-Royce: FAC
+Australia: GPE
+New Zealand: GPE
+The Council for Basic Education: ORG
+The National Endowment for the Arts: ORG
+the Getty Center for Art Education: ORG
+Arts: ORG

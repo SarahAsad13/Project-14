@@ -1,0 +1,225 @@
+GRADUATE RESEARCH: ORG
+Graduate Research: ORG
+M1: PRODUCT
+fed: ORG
+B1: CARDINAL
+Lecturer 08/2010: ORG
+Name City: GPE
+156: CARDINAL
+Ph.D.: WORK_OF_ART
+State: GPE
+PhD: WORK_OF_ART
+University of Florida International Center
+
+Master of Science : Monogastric Nutrition 2011 University of Agriculture City: ORG
+State: GPE
+the University
+
+-Dufil Prima Schloarship: ORG
+Nutrition
+
+Bachelor of Agriculture : Animal Nutrition 2009 University of Agriculture: FAC
+Abeokuta City: GPE
+State: GPE
+First: ORDINAL
+4.59: CARDINAL
+5.00: CARDINAL
+Nigerian: NORP
+M. Huisden: PERSON
+N. J. Szabo: PERSON
+I.M. Ogunade: PERSON
+A. T. Adesogan: PERSON
+2014: DATE
+1: CARDINAL
+Animal Feed Science and Technology: PERSON
+Eruvbetine: PERSON
+D.: NORP
+Oyekunle: ORG
+Fafiolu: ORG
+Olorunsola: GPE
+R.A.: GPE
+Oso,: GPE
+A.O.: GPE
+Sobayo: GPE
+R.A.: GPE
+Falola: GPE
+A.C.: GPE
+S.O.: NORP
+O.M: NORP
+Sogunle: ORG
+2012: DATE
+Nigeria Poultry Science Journal: ORG
+9: CARDINAL
+166-171: CARDINAL
+Eruvbetine D: PERSON
+Oyekunle M.A: ORG
+Jegede A.V: PERSON
+2012: DATE
+Journal of Biology: ORG
+Healthcare: ORG
+2: CARDINAL
+Allison: PERSON
+Ekunseitan: GPE
+S.O: GPE
+O.M.O Idowu: ORG
+S.O Osho: PERSON
+2013: DATE
+Paskitan Journal of Biological Sciences: ORG
+1022-1027: DATE
+Sobayo: GPE
+A. O. Oso: PERSON
+O.A. Adeyemi: GPE
+O.G. Sodipe: ORG
+A.O. Fafiolu: ORG
+Odetola: ORG
+O.M: NORP
+2013: DATE
+fed: ORG
+Garcinia: GPE
+Applied Agricultural Research: ORG
+91-99: CARDINAL
+Official Publication of Agricultural Research Institute: ORG
+Nigeria: GPE
+K.O. Olowonefa: PERSON
+A.O. Aluko: PERSON
+I.M. Ogunade: ORG
+S.O. Osho: ORG
+A.M. Bamgbose: PERSON
+2013: DATE
+fed: ORG
+Livestock Science: PERSON
+157: CARDINAL
+184: CARDINAL
+G.A. Williams: PERSON
+A.V. Jegede: PERSON
+R.A. Sobayo: GPE
+A.O. Fafiolu: ORG
+O.M.O. Idowu: ORG
+M. O. Sogunle: PERSON
+O.S. Akinola: ORG
+O.O. Adeleye: ORG
+A.R.
+Olorunsola: ORG
+I.M. Ogunade: PERSON
+S.O. Osho: ORG
+2014: DATE
+Numidia: GPE
+159: CARDINAL
+46-52: DATE
+S.O.: ORG
+A.O.: GPE
+Akpan: GPE
+I.E.: ORG
+Ayanniyi: GPE
+T.A.: GPE
+Ogunade: GPE
+I.M.: ORG
+Durosaro: ORG
+S.O. and Idowu: ORG
+2013: DATE
+fed: ORG
+Journal of Biology: ORG
+Healthcare: ORG
+79-86: DATE
+International Institute for Science, Technology and Education: ORG
+UNITED STATES OF AMERICA: GPE
+Fadare: ORG
+A.O.: GPE
+Olowofeso: NORP
+O.: GPE
+Ilori: GPE
+B.M.: GPE
+I.M.: ORG
+Ozoje: ORG
+M.O.: PERSON
+2013: DATE
+the Humid Tropics: ORG
+Journal of Biology: ORG
+Agriculture and Healthcare: ORG
+31-37: DATE
+International Institute for Science, Technology and Education: ORG
+UNITED STATES: GPE
+-Ekunseitan: GPE
+D.A.: GPE
+Balogun: GPE
+O.O.: GPE
+Eruvbetine: PERSON
+Daisy: PERSON
+Abiola: GPE
+S.S.: GPE
+Sogunle: GPE
+O.M.: GPE
+Ogunade: GPE
+I.M.: ORG
+Egbeyale: GPE
+L.T.: GPE
+Ayoola: GPE
+A.A.: GPE
+Akinola: GPE
+O.F.: ORG
+Allison,: ORG
+I.B.: GPE
+2012: DATE
+three: CARDINAL
+Short Communication Nigerian Journal of Animal
+Production: ORG
+Kathy G. Arriola: PERSON
+Rafael M. Martins: PERSON
+Bibiana Y. Coy: PERSON
+Chelsea L. Curry: PERSON
+Deborah K. Terkoski: PERSON
+Marcos
+G. Zenobi: PERSON
+Zhengxin Ma: PERSON
+Charles R. Staples: PERSON
+Adegbola T. Adesogan: PERSON
+2014: DATE
+M1: PRODUCT
+fed: ORG
+B1: CARDINAL
+ADSA-ASAS-CSAS Joint Annual Meeting: ORG
+Missouri: GPE
+USA: GPE
+O. Erinle: PERSON
+A.V. Jegede: PERSON
+A.O. Fafiolu: ORG
+R.A. Sobayo: GPE
+R. Olorunsola: PERSON
+A.M. Bamgbose: PERSON
+I.M. Ogunade: PERSON
+S.O. Osho: ORG
+W.A. Olayemi: GPE
+F.O.
+Oke: ORG
+2013: DATE
+Cockerel Chicks: ORG
+WPSA: PERSON
+UK: GPE
+16th-17th April 2013: DATE
+The Jubilee Campus: PERSON
+Nottingham University: ORG
+UNITED KINGDOM
+
+-Ogunade: PERSON
+I.M.: GPE
+Eruvbetine D: PERSON
+Fafiolu: ORG
+Oyekunle: ORG
+Sobayo: GPE
+R.A: ORG
+Osho S.O: ORG
+Ekunseitan D.A. 2012: ORG
+Salmonella: ORG
+South-Western Nigeria: GPE
+World: ORG
+Poultry Science Association: ORG
+Annual: DATE
+24-25th April: DATE
+35: CARDINAL
+Jubilee Campus: PERSON
+Nottingham University: ORG
+British Poultry Abstracts: ORG
+8: CARDINAL
+1):44-45: DATE
+UNITED KINGDOM: PERSON
+Numerical: ORG

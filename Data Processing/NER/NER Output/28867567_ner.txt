@@ -1,0 +1,28 @@
+Sales and Management Professional: ORG
+10+ years: DATE
+Territory: ORG
+Team: ORG
+Brand: ORG
+Working: ORG
+City: GPE
+State: ORG
+Created: ORG
+Created: ORG
+Monitored: ORG
+Prepared: PERSON
+01/2011 - 04/2015: DATE
+10: CARDINAL
+approximately 30: CARDINAL
+Oversaw: GPE
+State: ORG
+Communicated: ORG
+City: GPE
+State: ORG
+01/2010 - 11/2010: DATE
+Training
+Morgan State University: ORG
+Earl G. Graves School of Business | City BS: PERSON
+Hospitality & Business Management 05/2011: ORG
+Finance: ORG
+Accounting and Marketing: ORG
+Softball Team: ORG

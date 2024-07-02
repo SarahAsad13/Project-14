@@ -1,0 +1,92 @@
+15yrs: CARDINAL
+Experienced: PRODUCT
+120: CARDINAL
+Over 20yrs: CARDINAL
+Experienced with Metrics/Market Analysis/Forecasting/Salesforce/SaaS
+
+: ORG
+Highlights
+
+Prospecting: WORK_OF_ART
+Strategic: PERSON
+Bilingual: NORP
+Spanish: NORP
+July 2014: DATE
+1.8: CARDINAL
+Over 3M: CARDINAL
+the past 6months: DATE
+Verizon Top Producer: ORG
+Los Angeles Territory: ORG
+2005: DATE
+Verizon: LOC
+West Area: LOC
+100: CARDINAL
+2004: DATE
+Verizon National West Area: EVENT
+Sprint: ORG
+Chicago: GPE
+2000: DATE
+Sprint: ORG
+Illinois/Wisconsin Excellence Sales Award: ORG
+2000: DATE
+Presidents Club for Sprint: ORG
+Chicago: GPE
+Los Angeles Markets: ORG
+1999: DATE
+November 2014: DATE
+More than 20years: CARDINAL
+thousands: CARDINAL
+500: CARDINAL
+year: DATE
+year: DATE
+almost 3: CARDINAL
+2014: DATE
+July 2013 to October 2014: DATE
+July 2014: DATE
+1.8: CARDINAL
+Certified International Property Specialist: ORG
+40: CARDINAL
+US: GPE
+the United States: GPE
+March 2011 to July 2013: DATE
+first: ORDINAL
+November 2006 to March 2011: DATE
+Over 2 million: CARDINAL
+first year: DATE
+Generate: PERSON
+Provide: NORP
+first: ORDINAL
+Territory Field Representative: WORK_OF_ART
+August 2009 to February 2010: DATE
+up to: CARDINAL
+120: CARDINAL
+monthly: DATE
+November 2002 to October 2006 Company Name: DATE
+Indirect Account Management Training: ORG
+Irvine: GPE
+CA Campus
+
+Corporate Indirect Operations Training: PERSON
+Indirect Account Management Training: ORG
+Irvine: GPE
+CA Campus
+Business: PERSON
+Verizon: NORP
+December 1999 to December 2002: DATE
+2006: DATE
+Austin Institute of Real Estate ï¼​ City: ORG
+General Education/ Communications Purdue University: ORG
+Customer Service: ORG
+Bilingual
+
+Professional Affiliations
+
+Board of Directors: ORG
+Foster Care Austin/San Antonio TX: ORG
+Ranch: NORP
+Board of Champions for Children: ORG
+Young Hispanic Professionals Association: ORG
+Austin Young Real Estate Professionals: PERSON
+Texas Association of Realtors National Association of Realtors Austin Board of Realtors: ORG
+Young Execs: WORK_OF_ART
+Austin Charity Bash/Young Professionals: ORG

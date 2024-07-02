@@ -1,0 +1,110 @@
+Education Administrator: ORG
+Blackboard: PERSON
+Supervisor: PERSON
+Subject Matter Expert: PERSON
+Skill Highlights: PERSON
+Reconciliation: NORP
+Logistics: ORG
+Certified
+Instructional: PERSON
+the Aviation Warrant Officer Advanced Course: ORG
+Army: ORG
+Aircrew Training Program: PERSON
+half: CARDINAL
+Army Aviation: ORG
+40 days: DATE
+6o flight hours: TIME
+Afghanistan: GPE
+250: CARDINAL
+Air Assault: ORG
+3100: DATE
+101st Aviation
+Sustainment Brigade: ORG
+Joseph Hodgson: PERSON
+Programs of Instruction, Course Administrative
+Data: ORG
+lesson plans: PERSON
+Performed: ORG
+Name City: GPE
+Daniel O'Donnell: PERSON
+Enforced: ORG
+annual: DATE
+Name City: GPE
+Kevin Ryan: PERSON
+kevin.e.ryan8.mil@mail.mil: PERSON
+the United States Army Aviation Center of Excellence: ORG
+USAACE: ORG
+Integrated: NORP
+Army Aviation: ORG
+Name City: GPE
+Scott Halter: PERSON
+Arranged: PERSON
+Name City: GPE
+Christopher Klick: PERSON
+Aircrew Training Plan: PRODUCT
+90: CARDINAL
+Arranged: PERSON
+Maintained: GPE
+1/3: CARDINAL
+an estimated $100K.: MONEY
+Instructor Pilot: ORG
+Paul Flanagan: PERSON
+Paul Flanagan: PERSON
+40: CARDINAL
+Maintain: PERSON
+Aircrew Training Folders: PERSON
+250: CARDINAL
+State: ORG
+20: CARDINAL
+$156 million: MONEY
+4,750: MONEY
+Maintained: GPE
+09/1999: CARDINAL
+10/2002: CARDINAL
+Name City: GPE
+Luis Labrador: PERSON
+Aeromedical Evacuation: WORK_OF_ART
+Aeromedical Evacuation Technicians: WORK_OF_ART
+Established: ORG
+OJT: ORG
+Name City: GPE
+Kevin Higley: PERSON
+Performed: ORG
+Bachelor of Science : Aeronautics 07/2015 Liberty University City: ORG
+State: ORG
+United States: GPE
+4.0: CARDINAL
+GPA: ORG
+Professional Affiliations
+Life: ORG
+American: NORP
+Veterans: NORP
+Member - Army Aviation Association of America
+Life: ORG
+CH-47F Instructor Pilot: PRODUCT
+National Registry Emergency Medical Technician - Basic
+Advanced Cardiac Life Support Provider
+Prehospital Trauma Life Support Technician
+
+Department of Transportation National Highway Traffic safety Administration: ORG
+Vehicle Operator
+Army Basic Instructor
+Small Group Instructor: ORG
+Facility Training & Development Specialist: ORG
+Published Works:
+
+Aviation Digest: WORK_OF_ART
+4/Issue 1, March 2016: DATE
+Honing Army Aviation's: ORG
+Army Aviation Association of America Magazine: ORG
+March 2016: DATE
+Flight Hours: WORK_OF_ART
+115.6: CARDINAL
+Total Pilot Hood, Simulator & Weather Time - 432.8
+Total Combat Mission Time - 1892.9
+
+: WORK_OF_ART
+Air Medal - 6: ORG
+Army Training Requirements & Resources System: ORG
+Falcon View: FAC
+HTML/HTML5: ORG

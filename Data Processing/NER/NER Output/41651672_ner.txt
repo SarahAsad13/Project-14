@@ -1,0 +1,38 @@
+March 2012: DATE
+Current Inside Sales Representative: ORG
+OpenTable: PRODUCT
+Chicago: GPE
+Minneapolis: GPE
+Milwaukee: GPE
+OpenTable: PRODUCT
+OpenTable Electronic Reservation Book: LAW
+Met: ORG
+monthly: DATE
+quarterly: DATE
+year 2012(125%: PERCENT
+2013(108%: PERCENT
+2015(100%: PERCENT
+CRM: PRODUCT
+first 6 months: DATE
+August 2009 to February 2012: DATE
+50: MONEY
+700: CARDINAL
+Weekly: DATE
+6: CARDINAL
+February 2008: DATE
+May 2009: DATE
+State
+
+Represented: ORG
+The University of Canterbury: ORG
+New Zealand: GPE
+Directed: ORG
+100: CARDINAL
+August 2005 to February 2008: DATE
+Business Banking Specialist: ORG
+SBA: ORG
+Colorado State University: ORG
+May 2014: DATE
+Business Administration Management City: ORG
+State Business Administration Management: ORG
+CRM: PRODUCT

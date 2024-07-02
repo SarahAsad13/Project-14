@@ -1,0 +1,97 @@
+Core Qualifications
+Public Relations, Marketing, Event Planning and: ORG
+Twitter: PERSON
+Instagram: GPE
+LinkedIn: GPE
+Pinterest & Google+: ORG
+Microsoft
+Office: ORG
+Word: PERSON
+Power Point: ORG
+Raiser: PERSON
+Edge: ORG
+POD: ORG
+July 2013: DATE
+daily: DATE
+Coordinate: FAC
+Renfrew: PERSON
+Renfrew: PRODUCT
+Renfrew: PRODUCT
+Twitter: PERSON
+Instagram: GPE
+LinkedIn: GPE
+4,900: CARDINAL
+1,980: CARDINAL
+Twitter: PRODUCT
+1,320: CARDINAL
+Instagram: ORG
+2,150: CARDINAL
+LinkedIn: GPE
+Prepare: ORG
+Industry News': ORG
+more than 300: CARDINAL
+Perspectives: ORG
+annual: DATE
+Barefaced & Beautiful: ORG
+National Eating Disorder Awareness
+Week:: ORG
+June: DATE
+more than 300: CARDINAL
+minutes: TIME
+Renfrew: PERSON
+annual: DATE
+November: DATE
+more than 500: CARDINAL
+Renfrew: PERSON
+the Northeast Region of Professional Relations Representatives: LOC
+January 2013 to July 2013: DATE
+Assisted the Public Relations: WORK_OF_ART
+Twitter: PRODUCT
+Instagram: ORG
+3,000: CARDINAL
+Twitter: PRODUCT
+160: CARDINAL
+Instagram: ORG
+Barefaced & Beautiful: ORG
+National
+Eating Disorder Awareness Week: ORG
+Reunions: PERSON
+minutes: TIME
+Renfrew: PERSON
+Utilized Raisers Edge: WORK_OF_ART
+Alumni Database Entry System: ORG
+annual: DATE
+November: DATE
+more than 500: CARDINAL
+12: CARDINAL
+Professional Relations Representatives: ORG
+13: CARDINAL
+September 2011 to January 2013: DATE
+minutes: TIME
+annual: DATE
+Twitter: PRODUCT
+2,000: CARDINAL
+400: CARDINAL
+Twitter: PRODUCT
+Utilized POD: ORG
+Professional Database System: ORG
+Raisers Edge: PERSON
+Alumni Database System: ORG
+10: CARDINAL
+Professional Relations Representatives: ORG
+11: CARDINAL
+Social Media Marketing: ORG
+Rutgers University Social Media Marketing
+Bachelor of Arts Degree: ORG
+Penn State University: ORG
+2007: DATE
+Skills: ORG
+Database: GPE
+Editor, Event Planning: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG
+Word: PERSON
+Public
+Relations: ORG
+Raiser: PERSON

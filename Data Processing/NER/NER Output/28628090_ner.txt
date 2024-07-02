@@ -1,0 +1,106 @@
+Professional Summary
+Electrical Engineer: ORG
+20+ years: DATE
+DUV: ORG
+DOW chemical's: ORG
+300k: MONEY
+$ 20 million: MONEY
+3 years: DATE
+Dedicated Operations: ORG
+Excels: PERSON
+Excels: PERSON
+Skills
+
+Exceptional: ORG
+Effective: NORP
+Budget: ORG
+Work History
+Engineering: WORK_OF_ART
+01/2000: CARDINAL
+Encourage: NORP
+Plan: PRODUCT
+QSM: ORG
+Engineers: ORG
+Quality Management: ORG
+Evaluate: ORG
+ISO: ORG
+Quality System: ORG
+Communicates: ORG
+Consolidates: PRODUCT
+Group: ORG
+Collate: ORG
+Develop: ORG
+Engineers: ORG
+Develop: ORG
+Engineers: ORG
+90%: PERCENT
+OEE: ORG
+monthly: DATE
+Intel Virtual Factories: ORG
+Oregon: GPE
+Arizona: GPE
+Intel Virtual Facilities: ORG
+Oregon: GPE
+Arizona: GPE
+JMP: ORG
+SPC: ORG
+Chemical: ORG
+Application and Marketing Engineer: ORG
+Coordinated: PRODUCT
+Supervise Pilot: PERSON
+Drafted: ORG
+Assisted Quality Assurance: ORG
+Purchasing and Manufacturing: ORG
+Evaluate: ORG
+Lead Engineer: PERSON
+the Engineering Production Team: ORG
+Created: ORG
+Bill of Materials: LAW
+Quality Management: ORG
+Material Masters: ORG
+Assisted: ORG
+JMP: ORG
+Assisted R&D Managements: ORG
+Performance Materials Strategy Team: LAW
+Researched: ORG
+LIP: ORG
+Electroless Nickel: ORG
+Created Sales: ORG
+Prepared Sales Plans for Each Customer Coordinate: WORK_OF_ART
+the Business
+Development Team: ORG
+the Product Management: ORG
+US: GPE
+B.S :: ORG
+1991: DATE
+WORCESTER STATE University: ORG
+GPA: ORG
+GPA: ORG
+3.1: CARDINAL
+GPA: ORG
+3.1: CARDINAL
+B.S :: ORG
+5 1987: DATE
+CENTRAL NEW ENGLAND COLLEGE - State: ORG
+GPA: ORG
+GPA: ORG
+2.89: CARDINAL
+GPA: ORG
+2.89: CARDINAL
+1995: DATE
+Skills: ORG
+BASIC: GPE
+FORTRAN: ORG
+PASCAL: ORG
+Prolith: PERSON
+Modeling: GPE
+Power Point: ORG
+Word: PERSON
+Excel: PRODUCT
+Lotus Notes: ORG
+JMP: ORG
+DOE: ORG
+PCS: ORG
+SPC++: PRODUCT
+six: CARDINAL
+Crystal: LOC

@@ -1,0 +1,86 @@
+DIRECTOR FACILITIES PLANNING: ORG
+Skill Highlights
+
+Health: ORG
+Team: ORG
+Core Accomplishments
+
+Boundary: WORK_OF_ART
+Integrated: NORP
+UW Health: WORK_OF_ART
+the American Center - Fifty: ORG
+500,000 square
+feet: QUANTITY
+August 2015: DATE
+American Family Children's Hospital - Eighty: ORG
+NICU: ORG
+PICU: ORG
+280,000 square feet: QUANTITY
+2007: DATE
+54,000 square
+feet: QUANTITY
+September 2015: DATE
+Integrated: NORP
+$1 billion: MONEY
+June 2012: DATE
+Name City: GPE
+State: ORG
+Directed: ORG
+July 1996: DATE
+May 2012: DATE
+Name City: GPE
+State: ORG
+$800+ million: MONEY
+$100 million: MONEY
+80: CARDINAL
+Incorporated Lean: ORG
+five - year: DATE
+Strata Cap: PERSON
+Strata
+Track: PERSON
+all fiscal year: DATE
+one: CARDINAL
+Primary: PERSON
+UW Madison School of Medicine: ORG
+January 1986: DATE
+January 1996: DATE
+Name City: GPE
+State Planning Coordinator: ORG
+Coordinated: ORG
+Wisconsin: GPE
+500,000: MONEY
+annually: DATE
+Hospital: FAC
+1994: DATE
+UNIVERSITY OF WISCONSIN - Milwaukee City: ORG
+State: GPE
+US Masters : Business Administration: ORG
+GPA: ORG
+3.75: CARDINAL
+3.75: CARDINAL
+COLLEGE City: GPE
+State: GPE
+One 27 year old: DATE
+Budget: ORG
+Interior: ORG
+International Board of Amigos de las Americas: ORG
+Houston: GPE
+TX: ORG
+Executive Committee: ORG
+Strategic Planning Committee: ORG
+Finance Committee: ORG
+the International Board: ORG
+$4.5 million: MONEY
+Wisconsin Chapter of Amigos de las Americas: ORG
+Latin America: LOC
+International Board: ORG
+Board: ORG
+Working Capital for Community Needs: ORG
+Madison WI: PERSON
+million: CARDINAL
+Latin America: LOC
+Aloha Days: PERSON
+Madison: PERSON
+Professional Affiliations: ORG
+the Greater Madison Area Health Management System Society: ORG
+American Society of Health Care Executives: ORG

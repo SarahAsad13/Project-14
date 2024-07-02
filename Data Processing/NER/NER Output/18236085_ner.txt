@@ -1,0 +1,85 @@
+6 years: DATE
+DME: ORG
+five consecutive years: DATE
+daily: DATE
+weekly: DATE
+monthly: DATE
+Business Development 02/2015: ORG
+Homecare: GPE
+Hospice Implement: ORG
+the Plains
+Region: ORG
+Client Relations Executives: ORG
+Care Transition Nurses: ORG
+Medicare: ORG
+Homecare: ORG
+Hospice: ORG
+Name City: GPE
+Hospice and Home Health: ORG
+Dallas: GPE
+Texas: GPE
+Western Iowa: LOC
+Communicate: ORG
+Maintain: PRODUCT
+Nursing Facilities, Medical Clinics and Hospitals: ORG
+Communicate: ORG
+Dallas: GPE
+Texas: GPE
+Iowa: GPE
+02/2003 to: CARDINAL
+Name City: GPE
+eight: CARDINAL
+130: CARDINAL
+five: CARDINAL
+Provider
+Relations Managers: ORG
+2005: DATE
+20011: DATE
+Region 6: EVENT
+Nebraska: GPE
+Iowa: GPE
+South Dakota: GPE
+past five years: DATE
+Eastern: ORG
+Central: ORG
+Nebraska: GPE
+18: CARDINAL
+Nebraska: GPE
+Build: GPE
+approximately 65: CARDINAL
+Develop: ORG
+CEU: ORG
+Iowa Western University: ORG
+about 10: CARDINAL
+annual: DATE
+monthly: DATE
+weekly: DATE
+daily: DATE
+daily: DATE
+weekly: DATE
+daily: DATE
+weekly: DATE
+Account Executive: ORG
+Name City: GPE
+1: MONEY
+Salesperson: ORG
+Southern California Region: LOC
+five months: DATE
+3 years: DATE
+California: GPE
+Bachelor of Science : Political Science California State University of Bakersfield State Political Science
+Professional Affiliations: ORG
+Nebraska Alzheimer's: ORG
+Association Creighton University Medical Center American Quarter Horse
+Association American Cancer Association End of Life Community: ORG
+Nebraska: GPE
+Nebraska: GPE
+Palliative Care Association American: ORG
+Red Cross: ORG
+Nebraska American Heart Association American Horse Show Association
+
+Skills: ORG
+Client Relations: ORG
+Home Health: ORG
+Homecare: ORG
+Hospice: ORG

@@ -1,0 +1,92 @@
+AGENCY: ORG
+Skills: ORG
+2011 - 2012 2014: DATE
+Bath: PERSON
+TX - 2009 to: ORG
+2011: CARDINAL
+Maintain: PRODUCT
+Perform: ORG
+Assist: NORP
+Assist R.N.: ORG
+L.V.N: GPE
+daily: DATE
+Conduct: PERSON
+4 years: DATE
+one: CARDINAL
+2 years: DATE
+2 years: DATE
+1 year: DATE
+Excel: PRODUCT
+8 years: DATE
+Analytics: PERSON
+1 year: DATE
+Problem Resolution: PERSON
+1 year: DATE
+February 2014 to February 2017: DATE
+OC Certification: ORG
+Baton Employment: PERSON
+Range Subject Control: ORG
+Agency Sales Resources: ORG
+Jan 2017: DATE
+State
+
+Agency Sales Resources - Provide: ORG
+State Farm: ORG
+State Farm: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Jan 2017: DATE
+daily: DATE
+Jun 2016: PERSON
+IVR: ORG
+Hearing Impaired: PERSON
+Customer Service Representative: ORG
+Technical and Oral: ORG
+Waitress/Cashier/Hostess: ORG
+May 2016: DATE
+Observe: LOC
+Training
+BA: PERSON
+ABA: PERSON
+2018: DATE
+Kaplan University Psychology: ORG
+ABA: ORG
+A.A.S , Business Administration: ORG
+2017: DATE
+Navarro College Business Administration: ORG
+Pre
+JST: PERSON
+Mechanical Machinist Mechanical Engineering: ORG
+2014: CARDINAL
+State Mechanical Machinist Mechanical
+Engineering: ORG
+November 2012: DATE
+Cedar Valley Community College: ORG
+U.S NavyRank: GPE
+Agency: ORG
+Call Center, Caregiver, Case Management: ORG
+CA: ORG
+CPR: ORG
+Customer Service: ORG
+IVR: ORG
+Machinist: ORG
+MS Excel: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Microsoft Word: ORG
+Navy: ORG
+Naval: GPE
+Assist: NORP
+Problem Resolution: PERSON
+San: GPE
+Troubleshooting: GPE
+Verbal Communication Skills: ORG
+Anywhere Authorized: ORG
+US: GPE
+U.S Navy Rank: ORG
+November 2011 to September 2014: DATE
+AWARDS
+Community of Heros: ORG
+2016: DATE
+CERTIFICATIONS: ORG

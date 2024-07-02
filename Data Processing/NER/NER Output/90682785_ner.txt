@@ -1,0 +1,24 @@
+Name City: GPE
+Produce Clerk 01/2013: ORG
+Name City: GPE
+12/2013: CARDINAL
+Name City: GPE
+2 years: DATE
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+Arvin High School Bakersfield College: ORG
+Skills
+Great Communication Skills: ORG
+Customer Service: ORG
+English: LANGUAGE
+Inventory: GPE
+Pallet Jack: PERSON
+Presentation Skills: PERSON
+Spanish: NORP
+Phones
+Additional Information
+
+: ORG
+Anywhere Authorized: ORG
+US: GPE

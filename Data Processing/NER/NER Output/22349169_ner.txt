@@ -1,0 +1,43 @@
+LINE CHEF/EXPEDITER: ORG
+12 years: DATE
+Inventory: GPE
+Bilingual: PERSON
+Line Chef/Expediter 04/2013: ORG
+Maintained: GPE
+Line Chef 07/2010: PERSON
+Name City: GPE
+Maintained: GPE
+Line Chef 07/2007: PERSON
+Name City: GPE
+2% percent: PERCENT
+Maintained: GPE
+Maintained: GPE
+Line Chef 04/2008: PERSON
+12/2008: CARDINAL
+Name City: GPE
+10% percent: PERCENT
+Maintained: GPE
+Line Chef 03/2005: PERSON
+12/2007: CARDINAL
+Name City: GPE
+Maintained: GPE
+Line Chef/Dishwasher: ORG
+Name City: GPE
+State: ORG
+Verona: GPE
+1821: DATE
+Harahan: GPE
+la.: GPE
+State: ORG
+United States: GPE
+Associate of Arts : Coursework: ORG
+Culinary: ORG
+Restaurant Management 2006 Houston University City: ORG
+State: ORG
+United States: GPE
+Associate of Arts :: ORG
+State: GPE
+United States: GPE
+Culinary Arts Certificate
+
+Skills: WORK_OF_ART

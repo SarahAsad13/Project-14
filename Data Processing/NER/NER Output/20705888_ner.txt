@@ -1,0 +1,83 @@
+Skills: ORG
+â€¢ Excellent: PRODUCT
+â€¢ Fluent: PRODUCT
+Spanish: NORP
+â€¢ Excellent: PRODUCT
+Â 
+Work History: PRODUCT
+11/2014: CARDINAL
+Current
+Finance: ORG
+â€¢ Excellent: PRODUCT
+Microsoft: ORG
+Word: PERSON
+Excel: PRODUCT
+Grant Answers: ORG
+Turbo Cash: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Current
+Teller Company Name: ORG
+State: ORG
+weekly: DATE
+10/2012: CARDINAL
+11/2013: CARDINAL
+State: ORG
+04/2012: CARDINAL
+10/2012: CARDINAL
+11/2013: CARDINAL
+Microsoft: ORG
+Microsoft: ORG
+minutes: TIME
+senate: ORG
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+07/2011: CARDINAL
+Processed: GPE
+10/2008: DATE
+Santa Claus: ORG
+the
+holiday season: DATE
+May 2014: DATE
+Bachelor of Arts : Economics Political Science: ORG
+Spanish: NORP
+Lehman College - City: ORG
+Spanish: NORP
+Labor Economics: ORG
+Econometrics: ORG
+Managerial Economics: ORG
+International Economics: ORG
+Principles of Management, Calculus: ORG
+2 2012: DATE
+40 hour: TIME
+Flight Attendant: WORK_OF_ART
+FAA: ORG
+CRM: PRODUCT
+Aerodynamics, Meteorology, Regulations, Aircraft Systems: ORG
+Five: CARDINAL
+Flight: PRODUCT
+State: ORG
+40 hour: TIME
+Flight Attendant: WORK_OF_ART
+FAA: ORG
+CRM: PRODUCT
+Aerodynamics, Meteorology, Regulations, Aircraft Systems: ORG
+Five: CARDINAL
+Flight: PRODUCT
+Skills: ORG
+CRM: PRODUCT
+Economics: ORG
+First Aid: ORG
+Managerial: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+PowerPoint: ORG
+Word: PERSON
+Microsoft Word: PERSON
+Spanish: LANGUAGE
+Statistics
+Additional Information
+
+: ORG

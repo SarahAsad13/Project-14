@@ -1,0 +1,181 @@
+BUSINESS ANALYST SR.: ORG
+C++: PERSON
+java
+: PERSON
+Oracle 9i: ORG
+10: CARDINAL
+11gRII: DATE
+MS SQL Server-2005,IBM: ORG
+Computer Tech: ORG
+XML: ORG
+Windows 9X/XP/2000/2003 Server: PERSON
+Linux Red: PERSON
+5: DATE
+11: CARDINAL
+MS Visio: PERSON
+MS Project: GPE
+Oracle SQL Developer: ORG
+Crystal Reports: PERSON
+Java Workflow Editor: PERSON
+Eclipse
+Application: PRODUCT
+5.0.1.GA: CARDINAL
+IBM: ORG
+7: CARDINAL
+Oracle 9i: ORG
+10: CARDINAL
+2008: DATE
+Oracle Enterprise: ORG
+SQL Developer: ORG
+9.0: CARDINAL
+Bankind Application: ORG
+Alliance for Youth Empowerment: ORG
+Completed Yes+: ORG
+4: CARDINAL
+Technical Business Analyst Company Name: ORG
+BRS: ORG
+Vender: ORG
+Product Management Highlights: Initiated: ORG
+Key: NORP
+Standard Product Enhancement and Documentation: ORG
+Interacting with Marketing Team: ORG
+Cloud SFA: WORK_OF_ART
+30 Days: DATE
+WSFA: ORG
+Software Development Life: ORG
+SDLC: GPE
+Banking, Pharmaceuticals: ORG
+Healthcare: ORG
+UAT: ORG
+Working: ORG
+Online Banking India: ORG
+Finacle Ebanking Application: ORG
+India: GPE
+6.2.3: CARDINAL
+PDF Statements: ORG
+NRI Customers Online Banking International: ORG
+UK: GPE
+CA: GPE
+HK: GPE
+SG: ORG
+Click to Call Service Generate Password: ORG
+ICICI Bank UK Responsibilities: Handling RIB: ORG
+UK: GPE
+Germany: GPE
+Canada: GPE
+BRS: ORG
+Acceptance: ORG
+Development: NORP
+Preparation of System: ORG
+Sign-Off Co-: ORG
+Release Doc: PERSON
+UBPS: ORG
+CDCI: ORG
+Handling Level 3(Application: ORG
+Business for Requirement: ORG
+Projects Implemented: FAC
+Base Information Management Pvt: ORG
+Dec 2008: DATE
+Dec 2008: DATE
+2011: CARDINAL
+day: DATE
+Indian: NORP
+2: CARDINAL
+Customer Relationship Management: ORG
+SMS: ORG
+3: CARDINAL
+Capital Expenditure: ORG
+SAP: ORG
+Data: ORG
+SAP: ORG
+URS: ORG
+SRS: GPE
+QC: PERSON
+Gap Analysis: ORG
+Pilot Run and User Acceptance: WORK_OF_ART
+Go Live: ORG
+Technical Responsibilities: WORK_OF_ART
+client(Hardware/Software: ORG
+Production Server Setup: ORG
+RedHat Linux: PERSON
+2.5: CARDINAL
+Oracle 10g: LAW
+R2: PRODUCT
+IBM: ORG
+SQL: ORG
+2005: DATE
+Standard: ORG
+5.1.0.GA & Tomcat6: MONEY
+Maintaining Versions: WORK_OF_ART
+Bachelor of Engineering , Information Technology: ORG
+6 2008: DATE
+University of Mumbai Integrated Trading and: ORG
+ITM: ORG
+ERP: ORG
+Base
+Information: ORG
+BI Base (Business Intelligence: ORG
+Base Information) Information Technology
+Personal Information
+Comprehensive: ORG
+Interests
+Passport: ORG
+Visa Details: PERSON
+L2: CARDINAL
+EAD Extracurricular: ORG
+Industrial Visits: ORG
+English: LANGUAGE
+Marathi: PERSON
+Hindi: PERSON
+Skills
+Go Live: ORG
+Approach: PERSON
+BI, Business Intelligence, C: ORG
+CA: ORG
+Hardware: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Crystal Reports: ORG
+Client: GPE
+Designing, Documentation: ORG
+Eclipse: PRODUCT
+Editor: ORG
+English: LANGUAGE
+ERP: ORG
+Hindi: GPE
+HTML: ORG
+IBM: ORG
+IBM Websphere, Information Security: ORG
+Java: PERSON
+Jboss: GPE
+Languages, Linux: GPE
+Windows: GPE
+2000: DATE
+Operating Systems: ORG
+Oracle 9: ORG
+Oracle, Developer, Oracle Enterprise: ORG
+Oracle SQL: ORG
+PDF: ORG
+Power Builder 9.0: PRODUCT
+Product Management, Rational Rose: ORG
+5: DATE
+RedHat: ORG
+Linux 2.5: PERSON
+Requirement, Retail, Sales: ORG
+SAP: GPE
+SDLC: GPE
+Software Development: ORG
+MS SQL: GPE
+SQL: ORG
+Tax: PERSON
+Troubleshooting: GPE
+UML: ORG
+Visio: PERSON
+XML: ORG
+Aaditya: GPE
+Vijay Hirurkar Date: PERSON
+Indian: NORP
+Visa Details: PERSON
+L2: CARDINAL
+EAD Extracurricular: ORG
+Industrial Visits: ORG

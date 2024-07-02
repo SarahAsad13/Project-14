@@ -1,0 +1,39 @@
+DIGITAL: ORG
+Best Buy's: FAC
+Digital Weekly Ad: ORG
+weekly: DATE
+weekly: DATE
+Best Buy's: ORG
+weekly: DATE
+QC: ORG
+Collaborated: ORG
+HTML: ORG
+CSS: ORG
+07/2011: CARDINAL
+Mac Operator/Prepress/Plating Specialist Company Name: WORK_OF_ART
+11/2011: CARDINAL
+weekly: DATE
+monthly: DATE
+Buyer: PERSON
+Freelance Production Artist Company Name: ORG
+FTP: ORG
+Created: ORG
+03/2009: DATE
+12/2009: CARDINAL
+Collaborated with Art Directors: WORK_OF_ART
+Project Managers: ORG
+03/2009: GPE
+Digital Prepress Operator Company Name: ORG
+Best Buy: LOC
+CC: ORG
+Microsoft Office Suite: ORG
+QuarkXpress: ORG
+OmniGraffle Professional, Extensis Suitcase: ORG
+SharePoint: ORG
+LinoType Font Explorer: WORK_OF_ART
+2001: DATE
+CSS: ORG
+FTP: ORG
+Microsoft Office Suite: ORG
+SharePoint: ORG
+QuarkXpress: ORG

@@ -1,0 +1,106 @@
+SUMMER: ORG
+Areas of Expertise: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word Fluent: PRODUCT
+four: CARDINAL
+Indian: NORP
+Kannada Tennis Won: PERSON
+10: CARDINAL
+India: GPE
+Soho Properties: ORG
+State: GPE
+Manhattan: GPE
+Development: ORG
+$300M Times: MONEY
+EB-5: ORG
+Massey Knakal: PERSON
+Capital Services Intern: ORG
+Brooklyn: GPE
+New York: GPE
+NYC: LOC
+1: MONEY
+Capital Services: ORG
+33: MONEY
+7: CARDINAL
+Performed: ORG
+Created: ORG
+second: ORDINAL
+Chennai: ORG
+IRR: ORG
+ROE: ORG
+East Coast Road: LOC
+Collaborated: ORG
+Australian: NORP
+Mii-Homes: PERSON
+Appointed: ORG
+Korean Trade center Hired: ORG
+22: MONEY
+Chennai: ORG
+India Core Real Estate Portfolio: ORG
+70: MONEY
+quarterly: DATE
+Successfully: LOC
+the German Consulate: GPE
+Investments INTERESTS New York University: ORG
+ï¼​ City: GPE
+GPA: ORG
+3.75: CARDINAL
+3.75: CARDINAL
+ï¼​ City: GPE
+GPA: ORG
+3.40: CARDINAL
+GPA: ORG
+3.86: CARDINAL
+3.40: CARDINAL
+GPA: ORG
+3.86: CARDINAL
+Deans: NORP
+GPA: ORG
+3.60: CARDINAL
+GPA: ORG
+3.60: CARDINAL
+New York University: ORG
+State Private Equity Finance: ORG
+100%: PERCENT
+Nick Bollettieri Tennis Academy Recruited: ORG
+#5: MONEY
+Hawaii Pacific University: ORG
+Dec: PERSON
+May ': DATE
+May: DATE
+Jun: PERSON
+14 Jan ': DATE
+14 - Jun ': DATE
+Jul '12: PRODUCT
+'13: DATE
+'11: DATE
+'13: DATE
+Interests: NORP
+Graduate Finance Association: ORG
+Stern Private Equity Club: ORG
+Stern Investment
+Management and Research Society Community Service Participated: ORG
+Martina Navratilova: PERSON
+Zimbabwe: GPE
+Volunteer: PERSON
+SMILE: ORG
+healthcare: ORG
+Skills: ORG
+Finance: ORG
+German: NORP
+Hindi: GPE
+Korean: NORP
+Microsoft Excel: ORG
+Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Real Estate: ORG
+Graduate Finance Association: ORG
+Stern Private Equity Club: ORG
+Stern Investment Management and Research Society Community Service Participated: ORG
+Martina Navratilova: PERSON
+Zimbabwe Volunteer: GPE
+SMILE: ORG
+healthcare: ORG

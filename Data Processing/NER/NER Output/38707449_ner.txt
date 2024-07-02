@@ -1,0 +1,75 @@
+SR: ORG
+10 years: DATE
+Project Management
+Social Media Recruiting: ORG
+Behavioral Interviews
+EEO: FAC
+Profitability Analysis
+Skype: ORG
+Facilitate University Information Session
+
+Metrics Reporting: ORG
+CRM Proficient: PRODUCT
+80%: PERCENT
+Campus Recruiter: PERSON
+August 2009 to April 2016: DATE
+annual: DATE
+$300,000 to $335,000: MONEY
+NC: GPE
+SC: GPE
+VA: GPE
+WV: GPE
+FL: ORG
+TN: ORG
+Lead Recruiter: PERSON
+Seasonal: DATE
+March 2015 to August 2015: DATE
+Instructional Coaches: ORG
+Charlotte Mecklenburg: PERSON
+Read to Achieve: WORK_OF_ART
+summer: DATE
+3: CARDINAL
+1: CARDINAL
+Recruiter: PERSON
+October 2007 to March 2009: DATE
+3rd: ORDINAL
+monthly: DATE
+200: CARDINAL
+20-day: DATE
+TTF: ORG
+Sprint: ORG
+Sealy: GPE
+Aetna: ORG
+AT&T BU's: ORG
+Created: ORG
+TTF: ORG
+Maintained: GPE
+7,000: MONEY
+Employment Specialists 
+September 2004 to October 2007 Company Name: WORK_OF_ART
+100-150: CARDINAL
+30>60>90: CARDINAL
+TTF: ORG
+Prepared: PRODUCT
+weekly: DATE
+Performed: ORG
+PeopleSoft: ORG
+Education: ORG
+2004: DATE
+Webster University: WORK_OF_ART
+State
+
+Human Resources: ORG
+1997: DATE
+South Carolina: GPE
+State University: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PP: ORG
+Excel: PRODUCT
+Vurv: ORG
+Taleo: ORG
+Banner: PERSON
+PeopleSoft: ORG
+HireExpress: ORG
+SAP & HRIS Policy: ORG

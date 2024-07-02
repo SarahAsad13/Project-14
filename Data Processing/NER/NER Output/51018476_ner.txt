@@ -1,0 +1,77 @@
+UNIGRAPHICS: ORG
+Resourceful
+Organized
+
+Excellent: WORK_OF_ART
+Associate of Applied Science , Computer Networking Technology - Microsoft Option 2012 Baker College of: WORK_OF_ART
+Owosso: NORP
+GPA: ORG
+3.55: CARDINAL
+Dean: PERSON
+GPA: ORG
+3.55: CARDINAL
+Dean: PERSON
+Baker College: ORG
+Owosso: NORP
+GPA: ORG
+3.56: CARDINAL
+Dean: PERSON
+GPA: ORG
+3.56: CARDINAL
+Cum Laude: PERSON
+Dean: PERSON
+Mar 2013 to Aug 2014: DATE
+Chrysler: ORG
+GM: ORG
+7.5: CARDINAL
+8.0: CARDINAL
+NX 8.5: FAC
+2012: DATE
+Mar 2013: DATE
+Cashier/Bakery Aug: ORG
+2010: DATE
+2012: DATE
+cashier lanes: PERSON
+Unigraphics: NORP
+Jun: PERSON
+GM: ORG
+UG NX: ORG
+UG NX2: ORG
+Cashier Feb 2004 to Jun 2004: DATE
+Aug 1999 to Feb 2003: DATE
+Maintained: GPE
+Front End Sheet Metal: ORG
+Rear End Closure: ORG
+Iman and Unigraphics: ORG
+Unigraphics: EVENT
+15: CARDINAL
+16: DATE
+18: CARDINAL
+Oct 1997: DATE
+1999: DATE
+UG: ORG
+CGS: ORG
+EdsNet: ORG
+CGS: ORG
+CGS: ORG
+UG: GPE
+CGS: ORG
+1996: DATE
+CAD: ORG
+CGS: ORG
+1995: DATE
+Maintained: GPE
+CGS: ORG
+TeamCenter: ORG
+Unigraphics NX: ORG
+7.5: CARDINAL
+8.0: DATE
+8.5: CARDINAL
+MS Excel: ORG
+MS Word: PERSON
+MS Access: ORG
+MS Powerpoint: PERSON
+MS Windows 7
+
+Additional Information: ORG
+AYSO: ORG

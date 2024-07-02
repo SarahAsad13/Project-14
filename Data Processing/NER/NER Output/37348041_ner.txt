@@ -1,0 +1,66 @@
+Human Resource: ORG
+Conflict Resolution Team Building Mentoring and Coaching New-Hire
+Orientation Disc Personality Assessments Training and Development Leadership Development Performance Appraisals Technical Skills: ORG
+Advocate: ORG
+State: ORG
+SG Healthcare: ORG
+Homeless Veterans Program: ORG
+Coach: ORG
+100: CARDINAL
+Develop: ORG
+Develop: ORG
+Evaluate: ORG
+25: CARDINAL
+Name City: GPE
+State: ORG
+100: CARDINAL
+Name City: GPE
+40: CARDINAL
+dozens: CARDINAL
+Name City: GPE
+360-degree: QUANTITY
+OJT: ORG
+100: CARDINAL
+15: CARDINAL
+50: CARDINAL
+Bachelor of Science : Human Resource Management 1 2013 University of Phoenix City: ORG
+GPA: ORG
+3.3: CARDINAL
+GPA: ORG
+3.3: CARDINAL
+Lean Six Sigma Certificate: ORG
+2013: DATE
+North Florida/South Georgia Veterans Health Administration Workshops: EVENT
+Gainesville: GPE
+FL Writing Advantage
+Certificate: ORG
+2013: DATE
+2013: DATE
+Franklin Covey: PERSON
+Seven: CARDINAL
+2012: DATE
+Motivational Interviewing Certificate: EVENT
+2012: DATE
+1 2012: DATE
+Villanova University City: ORG
+State: ORG
+Skills: ORG
+Coach: ORG
+Six Sigma: PERSON
+Workshops
+Additional Information
+
+AWARDS AND RECOGNITION: ORG
+10 years: DATE
+2013: DATE
+Veterans Affairs Award: ORG
+Friend of Social Work Award: ORG
+2013: DATE
+Professional Affiliations
+National Society for Human Resources Management: ORG
+Jacksonville: GPE
+FL Society for Human Resource Management: ORG
+American
+
+Federation of Government Employees: ORG
+Union: ORG

@@ -1,0 +1,21 @@
+Court: ORG
+04/2011: LAW
+Recruit: ORG
+the Head Start/Early Head Start: LOC
+forty to fifty-five: CARDINAL
+daily: DATE
+Parent Meetings: PERSON
+Policy Council: ORG
+the Head Start/Early
+Head Start: LOC
+ChildPlus: PRODUCT
+ten: CARDINAL
+Florida: GPE
+five: CARDINAL
+Performed: ORG
+monthly: DATE
+09/2002 to 05/2004: CARDINAL
+2004: DATE
+Social Work Western Connecticut State University: ORG
+Council: ORG
+Meetings: GPE

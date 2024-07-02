@@ -1,0 +1,44 @@
+Adventis Nov ': PERSON
+three: CARDINAL
+90 minutes - Developed: TIME
+Miami University Investment Banking Club Feb ': ORG
+17-Present: TIME
+Learn: PRODUCT
+Miami University Asset Management Club: ORG
+Oct.: DATE
+16-Present: TIME
+Contribute: ORG
+60,000: MONEY
+15-Nov '15: DATE
+first: ORDINAL
+thirty-four: CARDINAL
+five: CARDINAL
+Dayton: ORG
+The University of Dayton: ORG
+50%: PERCENT
+50%: PERCENT
+Earned: ORG
+14%: PERCENT
+100,000: MONEY
+six-week: DATE
+Landscaper 05/2017 to Current Company Name City: ORG
+State: ORG
+200: CARDINAL
+Delivery Driver 05/2016: PERSON
+Name City: GPE
+daily: DATE
+Intern 05/2015: PRODUCT
+Name City: GPE
+Dayton: ORG
+Name City: GPE
+State: ORG
+3.55: CARDINAL
+June 2016: DATE
+Julienne Catholic High School City: ORG
+State National Honor Society: ORG
+Four Years: DATE
+4.0: CARDINAL
+Interests: NORP
+four-year: DATE
+Skills: ORG
+four-year: DATE

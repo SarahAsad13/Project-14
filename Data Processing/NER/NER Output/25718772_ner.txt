@@ -1,0 +1,53 @@
+TSO/FLOATER
+Career Overview: ORG
+Honor: PERSON
+¦: PERSON
+Personal Computer Support Technician: ORG
+7 years: DATE
+Cook: PERSON
+Line Cook: PERSON
+more then 10 years: DATE
+Java Developer: PERSON
+CISCO Certified Network Associate: ORG
+GUI: ORG
+UNIX: ORG
+TCP: ORG
+Document: FAC
+Optimizing: GPE
+Technical Skills: PERSON
+Excel: PRODUCT
+12: CARDINAL
+2008: DATE
+25: CARDINAL
+LAN: ORG
+LAN: ORG
+WAN: ORG
+12/2009: CARDINAL
+TSO/Floater Company Name: ORG
+Observing & Reporting: ORG
+Contractors: ORG
+I.: ORG
+03/2009: GPE
+Customer Service Representative Company Name: ORG
+Service Center: FAC
+N/A Aviation Mechanic/Military Police Officer Company Name: ORG
+Training: PERSON
+2004: DATE
+Technician Lincoln Technical Institute: ORG
+State: GPE
+united states: GPE
+3.2: CARDINAL
+GPA: ORG
+2003: DATE
+Technician Job Corps: ORG
+State: GPE
+United States: GPE
+Industrial Manufacturing: ORG
+Safety Engineering: ORG
+Tooling Technology Manufacturing: ORG
+Process TechnologyCoursework: ORG
+Electrical: GPE
+Industrial Engineering: ORG
+1998: DATE
+State: GPE
+United States: GPE

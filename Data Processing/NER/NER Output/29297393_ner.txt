@@ -1,0 +1,112 @@
+Career Focus
+
+Business Professional: ORG
+seven years: DATE
+MS Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+HRMS: ORG
+National Human Resources Association: ORG
+Human Resources Information Systems: ORG
+HRIS: ORG
+over 1,000: CARDINAL
+City Counsel: ORG
+fifteen months: DATE
+May 2011: DATE
+Recruited: PRODUCT
+30: CARDINAL
+30 days: DATE
+Dental, Life, Accident, Short and Long-Term Disability: ORG
+Explained: PERSON
+Recruited: PRODUCT
+Query: ORG
+25: CARDINAL
+Loan Consultant / Developer Feb 2009: ORG
+Oct 2014: DATE
+daily: DATE
+Researched: ORG
+weekly: DATE
+2.4 million: CARDINAL
+Assisted Builders: ORG
+TXDOT: ORG
+May 2013 to Jun 2014: DATE
+monthly: DATE
+Understands: GPE
+20%: PERCENT
+three months in a row: DATE
+International Human Resource: ORG
+2009: DATE
+Upsold: PERSON
+250,000: CARDINAL
+quarter-end and: DATE
+year-end: DATE
+W-2s: PRODUCT
+quarter end and year end: DATE
+401: CARDINAL
+401k: PRODUCT
+500: CARDINAL
+4800: CARDINAL
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Coordinated: ORG
+Coordinated: PRODUCT
+ERISA: ORG
+Adviser: ORG
+quarter: CARDINAL
+annual: DATE
+HRIS: ORG
+need(SAP, Ultipro, Ceridian, Pay: GPE
+Processed: GPE
+32 million: CARDINAL
+annual: DATE
+2009: DATE
+Established: ORG
+Prepared: PERSON
+annual: DATE
+Drafted: ORG
+4: CARDINAL
+Policies and Procedures: WORK_OF_ART
+RCA: ORG
+Monitored: ORG
+RFI: ORG
+Facilitated: ORG
+RFI: ORG
+42,000: CARDINAL
+up to: QUANTITY
+8.5 million: CARDINAL
+one: CARDINAL
+Collaborated: ORG
+HUD: ORG
+Loan: NORP
+2009: DATE
+â€¢: PRODUCT
+Processed: GPE
+60-80: CARDINAL
+weekly: DATE
+2.4 million: CARDINAL
+an average month: DATE
+â€¢: PRODUCT
+â€¢ Prepared: PRODUCT
+â€¢: PRODUCT
+â€¢ Prepared: PRODUCT
+Bank Secrecy Act: ORG
+USA Patriot Act: ORG
+Community Reinvestment Act: ORG
+more than 40: CARDINAL
+each week: DATE
+Home: ORG
+FHA: ORG
+VA: ORG
+Calyx: ORG
+weekly: DATE
+Rice University/ Susan B Glasscock: PERSON
+State: GPE
+Professional in Human Resources: ORG
+State: GPE
+USA: GPE
+1999: DATE
+State: GPE
+USA: GPE
+Professional Affiliations: ORG

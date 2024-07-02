@@ -1,0 +1,208 @@
+Summary
+College: ORG
+SQL Server: ORG
+2005: DATE
+SQL Server: ORG
+2008: DATE
+SQL Server: ORG
+VM-Ware: ORG
+ODBC: ORG
+SQL: ORG
+PL/SQL: ORG
+Access, MS Office Suite: ORG
+MS: GPE
+Visio: PERSON
+Oracle 10: ORG
+Oracle 11: LAW
+SAP Business Objects: ORG
+BI Suite: PERSON
+PeopleSoft: ORG
+ADP: ORG
+cView SAP Business: ORG
+Objects Suite: PERSON
+MS: ORG
+Reporting Suite: PERSON
+MicroStrategy: ORG
+MS Office Suite: ORG
+Tableau: GPE
+SQL Server Studio: PERSON
+EmpCenter: ORG
+CQCS: ORG
+IMC: ORG
+eSoms: ORG
+cView: ORG
+Netscape Navigator: ORG
+Chrome: PERSON
+Firefox: PERSON
+JAVA: PERSON
+HTML
+Operating Systems: ORG
+MS Windows Professional/Enterprise/XP/7/8: ORG
+Novell NetWare: ORG
+SQL 2008: DATE
+SQL: ORG
+SQL 2012: ORG
+Oracle 11: LAW
+Oracle 11g2: ORG
+RPG Metadata: ORG
+SAS: ORG
+PeopleSoft: ORG
+ADP: ORG
+Ceridian Encore: ORG
+SSRS: ORG
+SSAS: ORG
+SSIS: ORG
+ETL: ORG
+Access, Excel: ORG
+Teradata: ORG
+Crystal Reports: LOC
+ServiceNow: ORG
+SharePoint: ORG
+Cyberquery: ORG
+4: CARDINAL
+Financial Institution: ORG
+daily: DATE
+Utilize Excel: PRODUCT
+Analyze Core Finance: ORG
+GBAM Americas: ORG
+Document: FAC
+EDM Generated: ORG
+Excel: PRODUCT
+SharePoint: ORG
+SQL Server: PERSON
+Metadata: PERSON
+Teradata: ORG
+Adaptive: ORG
+Name City: GPE
+State: ORG
+Waterfall: ORG
+Teradata: ORG
+Oracle 11: LAW
+Oracle Discoverer: ORG
+Metadata: PERSON
+BMC Remedy: PERSON
+02/2015 to: PERSON
+Name City: GPE
+Business Objects Provided: ORG
+SQL: ORG
+Conducted: ORG
+Change Management: ORG
+Quality Assurance: ORG
+Conducted: ORG
+SSAS Collaborate with Business: ORG
+Agile: ORG
+Quality: ORG
+Software Development Life Cycle: ORG
+Oracle 11: ORG
+Business Objects WebI: ORG
+Tableau: PERSON
+ServiceNow: ORG
+Name City: GPE
+Business Object/Crystal Reports/Report Builder/MSRS Reviewed: ORG
+SQL: ORG
+Conducted: ORG
+MSRS: ORG
+SQL Server: ORG
+2008: DATE
+R2: WORK_OF_ART
+2012: DATE
+Change Management: ORG
+ETL: ORG
+SSIS: ORG
+Created Logical and Physical Data Models: ORG
+Metadata: ORG
+Created: ORG
+ALM QC Conducted Unit: ORG
+SSAS Collaborated with Business: ORG
+Agile: ORG
+SQL Server: ORG
+SQL Server 2012: ORG
+SQL: ORG
+SSAS: ORG
+SSIS: ORG
+SSRS: ORG
+SAP: ORG
+BO: CARDINAL
+Crystal Reports: PRODUCT
+MS Visual SourceSafe: PERSON
+MS Visio: PERSON
+TOAD: ORG
+State
+
+Collaborated: ORG
+SAP Business Objects: ORG
+SQL: ORG
+PL/SQL: ORG
+Oracle Integrated: ORG
+SQL: ORG
+Oracle: ORG
+ERP: ORG
+Business Objects: ORG
+Created: ORG
+SQL Conducted Unit: ORG
+ETL: ORG
+SSIS: ORG
+Visual Basic: ORG
+SQL Server: PERSON
+2005: DATE
+SQL Server: ORG
+SQL Server 2012: ORG
+VM-Ware: ORG
+ODBC: ORG
+SQL: ORG
+PL/SQL: ORG
+SSAS: ORG
+SSIS: ORG
+SSRS: ORG
+MS Office Suite: ORG
+Oracle 10: ORG
+Oracle 11: LAW
+Oracle 11g2: ORG
+JavaScript: ORG
+PeopleSoft: ORG
+ADP: ORG
+Kronos: ORG
+ETL: ORG
+Analyst 09/1999: DATE
+12/2011: CARDINAL
+Fifth Third Manipulated: LAW
+SME: ORG
+Acted: ORG
+Created Logical and Physical
+Data Models: ORG
+SAP Business Objects: ORG
+PL/SQL: ORG
+SQL: ORG
+Oracle Generated: ORG
+Integrated: NORP
+SQL: ORG
+Oracle: ORG
+ERP: ORG
+Training: PERSON
+B.S. Degree: PERSON
+Information Management Systems: ORG
+University City: GPE
+State Information Management Systems: ORG
+A.S.: GPE
+Wayne County Community: PERSON
+State Accounting: ORG
+Skills: ORG
+Business Objects: ORG
+Crystal Reports: PRODUCT
+JAVA: PERSON
+JavaScript: ORG
+SharePoint: ORG
+MicroStrategy 9.3.1: ORG
+MicroStrategy: ORG
+Oracle Discoverer: ORG
+PL/SQL: ORG
+PeopleSoft: ORG
+SAP: ORG
+SAS: ORG
+Software Development: ORG
+SQL: ORG
+SQL Server: ORG
+Tableau: GPE
+9.0.1: CARDINAL
+Tableau: GPE
+Teradata: ORG

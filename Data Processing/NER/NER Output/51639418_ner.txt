@@ -1,0 +1,124 @@
+more than fifteen years: DATE
+Data Center: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+IBM: ORG
+System & x Servers: ORG
+VMWare: ORG
+Cloud Computing: PERSON
+Microsoft Windows: ORG
+AIX: ORG
+SUSE Linux: PERSON
+SQL: ORG
+ORACLE: ORG
+ADABAS: ORG
+Project: GPE
+Visio: PERSON
+SharePoint, Exchange: ORG
+MSCCM: ORG
+SolarWinds Orion: ORG
+Tivoli: GPE
+Communication & Security: ORG
+FCIP: PERSON
+Enterasys: PERSON
+Fortinet: PERSON
+January 2010: DATE
+Current Information Technology Bureau: ORG
+Oversee: ORG
+the Infrastructure & Operations IT Service: ORG
+24x7: CARDINAL
+four: CARDINAL
+1) Programming & Applications: MONEY
+2) Networking & Communications: ORG
+3) Desktop Services
+& Support: ORG
+4: CARDINAL
+140: CARDINAL
+9,300: CARDINAL
+250: CARDINAL
+Evaluates: NORP
+53: CARDINAL
+October 2009 to January 2010: DATE
+Managed Data Center: ORG
+Vocational Rehabilitation Administration: ORG
+the Department of Labor: ORG
+July 2004 to August 2009: DATE
+multimillion dollar: MONEY
+Monitoring and Controlling System: ORG
+185: CARDINAL
+1,540: CARDINAL
+the PR Island: LOC
+SCADA - Supervisory Control: ORG
+Department of Health: ORG
+Career Notes: WORK_OF_ART
+January 2003 to June 2004: DATE
+State Assist: ORG
+11: CARDINAL
+Medical Center: ORG
+January 2003 to August 2004: DATE
+Information Technology Business Consultant 
+City: ORG
+11: CARDINAL
+Medical Center: ORG
+January 2003 to June 2003: DATE
+1: CARDINAL
+2) System Analysis and Design: ORG
+September 1999: DATE
+August 2003: DATE
+1: CARDINAL
+2: CARDINAL
+3: CARDINAL
+Capella University Ph.D. : Organization and Management City: ORG
+State: GPE
+US: GPE
+Inter American University: ORG
+State: GPE
+US: GPE
+University of Puerto Rico: ORG
+Puerto Rico Finance & Computers: GPE
+English: LANGUAGE
+Spanish: LANGUAGE
+Additional Information
+
+Awards & Honors Computerworld Honors: ORG
+Award Laureate Medal: PERSON
+California: GPE
+April 2001: DATE
+Chamber of Representatives of Puerto Rico-
+Achievement Award: ORG
+June 2000: DATE
+AITP Distinguished Information Science Award: ORG
+Association of
+Information Technology Professionals: ORG
+Puerto Rico Chapter: GPE
+October 2000: DATE
+AIX: ORG
+Application Development: ORG
+CISCO: ORG
+Database, Department of
+Health: ORG
+English: LANGUAGE
+Forecasting: ORG
+Frame Relay: ORG
+IBM: ORG
+Linux: PERSON
+Notes: PRODUCT
+Mentoring, Exchange: ORG
+Office: ORG
+SharePoint: ORG
+Microsoft Windows: ORG
+Networking, Networks: ORG
+Operating Systems: ORG
+ORACLE: ORG
+PhD: WORK_OF_ART
+Process Improvement: ORG
+Project Management, Rehabilitation: ORG
+SCADA: ORG
+Supervisory Control: ORG
+Data Acquisition: ORG
+Spanish: NORP
+SQL: ORG
+Staff Supervision: ORG
+System Analysis and Design, Technical Management, Telecommunications: ORG
+Tivoli: GPE
+Visio: PERSON

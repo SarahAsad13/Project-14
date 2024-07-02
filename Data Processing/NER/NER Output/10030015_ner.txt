@@ -1,0 +1,38 @@
+Career Focus: FAC
+Triumph Actuation Systems Inc.: ORG
+2012: DATE
+LabView Course 1: ORG
+LabView VI: PERSON
+Design Engineers and Lab Management: ORG
+Completed Lean Six: PRODUCT
+Assembly/ Test: LOC
+2007: DATE
+Mar 2012: DATE
+three: CARDINAL
+Boeing: ORG
+787: PRODUCT
+FAA: ORG
+Engineering Group: ORG
+Quality Assurance: ORG
+Journeyman Mar: PERSON
+2003: DATE
+Mar: PERSON
+2007: DATE
+3: CARDINAL
+Operation Enduring Freedom: EVENT
+Operation Enduring Freedom: EVENT
+Line Delivery: ORG
+Skills: ORG
+DasyLab: ORG
+Labview, Mechanical, Electrical: ORG
+Training
+Associates: ORG
+Applied Science Electronics Engineering: ORG
+Forsyth Technical Community College: ORG
+State Applied Science Electronics
+Engineering
+Associates: ORG
+Applied Science, Munitions Systems Technology: ORG
+Community College: ORG
+the Air Force: ORG
+Munitions Systems Technology: ORG

@@ -1,0 +1,82 @@
+HEALTHCARE: ORG
+200: CARDINAL
+Family Medicine Residency: ORG
+Cooper Clinic: ORG
+Dallas: GPE
+$800,000 Kellogg Foundation: MONEY
+Public Health and Preventive Medicine: ORG
+Skill Highlights
+
+Business Development Strategy: ORG
+Expert
+Lifestyle Change Methodology: PERSON
+Healthcare: ORG
+March 2013: DATE
+U.S.: GPE
+Founder: ORG
+January 1990: DATE
+Current Company Name: ORG
+January 1984 to January 1990: DATE
+Cooper Clinic: ORG
+multimillion dollars: MONEY
+thousands: CARDINAL
+1990: DATE
+July 1980 to December 1983: DATE
+Preventive Care: ORG
+60,000: MONEY
+The Preventive Care Learning Center: ORG
+Family Medicine: ORG
+Patient Care Magazine's: ORG
+Loma Linda
+University: PERSON
+$800,000: MONEY
+Kellogg Foundation: ORG
+the Florida Hospital Family Medicine
+Residency: ORG
+1984: DATE
+August 1980: DATE
+Loma Linda University: ORG
+Six-month: DATE
+Kaiser
+Permanente Preventive Medicine Dept: ORG
+Riverside: GPE
+CA: ORG
+August 1980: DATE
+Loma Linda University: ORG
+State Specialized: ORG
+Bachelor of Arts : Business Administration: ORG
+June 1977: DATE
+Andrews University: ORG
+English: LANGUAGE
+Andrews University
+Honored Alumnus of Achievement Award: ORG
+2013: DATE
+Business Administration Courses: ORG
+Economics: ORG
+Principles of Management, Business
+Law: ORG
+Business Ethics: ORG
+English: LANGUAGE
+Andrews University Honored Alumnus of Achievement
+
+Award: ORG
+2013: DATE
+Bachelor of Science : Health: ORG
+June 1977: DATE
+Andrews University: ORG
+State Health Courses: ORG
+Organic Chemistry: ORG
+Biology, Microbiology: ORG
+Home Economics: ORG
+Inorganic Chemistry: ORG
+Non-Drug Therapeutics: ORG
+Skills
+Academic, Accounting: ORG
+Biology, Business Development, Business Law: ORG
+Chemistry: PERSON
+CA: ORG
+Economics: ORG
+Family Medicine: ORG
+Patient Care: ORG
+Product Marketing, Program Development: ORG
+Public Health: ORG

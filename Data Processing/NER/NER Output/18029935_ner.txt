@@ -1,0 +1,57 @@
+twenty-five years: DATE
+Budget: ORG
+Oct 2008: PERSON
+over one million dollars: MONEY
+Created: ORG
+thirty-five: CARDINAL
+Mar: PERSON
+1998: DATE
+Sep 2006 
+Company Name - City: EVENT
+daily: DATE
+Culinary Arts: ORG
+Hospitality Management Division Sep: ORG
+1984: DATE
+Sep 2008: DATE
+750,000: MONEY
+Coordinated: ORG
+McIntyre Hall Performing Arts Center
+Served: ORG
+NW Career: LOC
+Technical Skills Center: ORG
+Advanced Culinary: PERSON
+Restaurant Management: ORG
+Nutrition: PRODUCT
+Swinomish: PRODUCT
+Developed: PRODUCT
+DSHS: ORG
+first: ORDINAL
+Washington State University Hotel and Restaurant Administration: ORG
+Bachelor of Arts: ORG
+Hotel and Restaurant Administration: ORG
+Washington State University - City: ORG
+Hotel and Restaurant Administration: ORG
+FMP Food Service Management Professional National Restaurant Association: ORG
+Beverage Executive American: ORG
+Hotel and Lodging Association: ORG
+Advance Food Safety: ORG
+Restaurant Management: ORG
+National Restaurant
+Association: ORG
+NCSF National Council on Strength: ORG
+American Culinary Federation: ORG
+the American Culinary Federation: ORG
+the American Culinary Federation Accreditation Commission: ORG
+the Washington Association of Occupational Educators
+Represented: ORG
+The Council for Hotel, Restaurant and Institutional Education: ORG
+Soviet Union: GPE
+Czechoslovakia
+Successfully: ORG
+annual: DATE
+1 million: CARDINAL
+7%: PERCENT
+the Council for Hotel, Restaurant: ORG
+Institutional Education: ORG
+the People's Republic of China: GPE
+Skagit Community Foundation Board: ORG

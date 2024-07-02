@@ -1,0 +1,80 @@
+BUSINESS DEVELOPMENT
+Executive Summary: ORG
+15 years: DATE
+Core Qualifications
+
+Business Development
+Project Management: ORG
+Continuous Improvement Expert
+Staff: PERSON
+Customer Service Management
+Process Management
+Operations: ORG
+Business Development: ORG
+February 1753: DATE
+Drivie Profits: ORG
+ï​† Target: ORG
+Order Management: ORG
+Generate: PERSON
+February 1753: DATE
+265: CARDINAL
+May: DATE
+over 600: CARDINAL
+August: DATE
+February 1753: DATE
+Grew: PERSON
+13%: PERCENT
+two: CARDINAL
+US: GPE
+year over year: DATE
+the Volvo Brand: ORG
+PMR: ORG
+Vehicle Modular Teams: ORG
+Parts: PERSON
+Represented the Volvo Brand: ORG
+National Truck Shows: ORG
+Trained 56 Dealerships: ORG
+the United States: GPE
+Canada: GPE
+1999: DATE
+Database Administrator: ORG
+2000: DATE
+Business Analyst: ORG
+2001: DATE
+2002: DATE
+toÂ: CARDINAL
+2004: DATE
+17: CARDINAL
+24/7: CARDINAL
+Cisco: GPE
+CRM: PRODUCT
+ISO: ORG
+Lead Auditor: PERSON
+ISO Certification: ORG
+Developed, Measured, Analyzed: ORG
+Maintained: GPE
+KPI: ORG
+COPC: ORG
+Six Sigma: PERSON
+Supply Chain Management University of North Carolina: ORG
+City: GPE
+State Post-Baccalaureate: ORG
+Supply Chain Management: ORG
+Sport Management Guilford College: ORG
+City: GPE
+Billing, Business Analyst: ORG
+Business Development, Business Modeling, Business Operations: ORG
+Business Systems: ORG
+Call Center: ORG
+Customer Relations: ORG
+Estimating, Innovation, Inventory Control: ORG
+ISO: ORG
+Logistics: PERSON
+2000: DATE
+Outside Sales: ORG
+Quality: ORG
+Six Sigma: PERSON
+Supervisor: PERSON
+Supply Chain Management: ORG
+Salesforce.com: ORG
+Desktop Publishing Software: ORG

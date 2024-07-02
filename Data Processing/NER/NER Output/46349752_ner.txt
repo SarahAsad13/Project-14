@@ -1,0 +1,48 @@
+American Heart Association
+Registered Nurse: ORG
+the State of Pennsylvania: GPE
+Orthopedic Nurse: PERSON
+IV: GPE
+Specimen: PERSON
+February 2013: DATE
+Utilized: ORG
+Demonstrating: GPE
+Demonstrating: GPE
+hours: TIME
+Responsible for Hemovac Autotransfusion System: WORK_OF_ART
+PCA: ORG
+July 2010 to September 2011: DATE
+Completed: ORG
+Assisted: ORG
+Performed: ORG
+Facilitated: ORG
+Positioned: ORG
+Assisted: ORG
+Assisted: ORG
+ADL: ORG
+Maintained: GPE
+June 2008 to October 2009: DATE
+RN: ORG
+daily: DATE
+Stocking: PERSON
+RN: ORG
+RN Emptying: ORG
+I&O: ORG
+CT: ORG
+Assisting RN: PERSON
+February 2007 to July 2010: DATE
+Cardiopulmonary: NORP
+Bandaging: GPE
+Notifying: GPE
+Cleaning: ORG
+Training: PERSON
+UPMC Shadyside School of Nursing: ORG
+2012: DATE
+State
+
+Community College: ORG
+Allegheny County: GPE
+2008: DATE
+2007-January 2008: DATE
+Basic Life Support City: WORK_OF_ART
+daily: DATE

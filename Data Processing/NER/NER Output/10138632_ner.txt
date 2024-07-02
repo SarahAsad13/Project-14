@@ -1,0 +1,22 @@
+Meeting Goals: ORG
+Interests
+Music Production: ORG
+Graphic Art and Design and Fitness Training: ORG
+Confer: PERSON
+Emergency Road Service Technician Company Name: ORG
+Identify: PRODUCT
+Remount: ORG
+Unbolt: ORG
+Glue: ORG
+Assist: NORP
+Inflate: ORG
+Wholesale Food Supplier Company Name: ORG
+State: ORG
+three tons: QUANTITY
+Prepare: ORG
+daily: DATE
+2012: DATE
+Volunteer
+ActivitiesÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+: PRODUCT
+2013: DATE

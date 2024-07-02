@@ -1,0 +1,87 @@
+Social Studies: ORG
+Social Studies: ORG
+Criminology, Political Science: ORG
+Secondary Social
+Science Education: ORG
+Highlights
+
+Valid: GPE
+California: GPE
+Florida: GPE
+Urban: ORG
+One: CARDINAL
+Title 1: LAW
+Hollywood: GPE
+Florida: GPE
+Cross Country: ORG
+Critical: PRODUCT
+Farsi: GPE
+English: NORP
+SMART Board: ORG
+August 2014: DATE
+Current Company Name: ORG
+Collaborated in Professional Learning Communities: ORG
+Social Studies: ORG
+Departments: ORG
+Cross Curriculum Collaboration: PERSON
+Social Studies: ORG
+Individual Education: ORG
+Communicated: ORG
+Maintained: GPE
+Tutored: PRODUCT
+Civics: ORG
+Coached Track: PRODUCT
+January 2014: DATE
+May 2014: DATE
+daily: DATE
+bell: ORG
+AP: ORG
+Monthly: DATE
+February 2010 to June 2015: DATE
+Camps: ORG
+Trips: PERSON
+Schools: PERSON
+Deerfield Beach: GPE
+Boca Raton: GPE
+10: CARDINAL
+Screened: ORG
+Taught more than 1000: CARDINAL
+day: DATE
+daily: DATE
+weekly: DATE
+daily: DATE
+daily: DATE
+daily: DATE
+Specialized: ORG
+Autistic: NORP
+Buyer/Special Events Coordinator: ORG
+November 2009: DATE
+Current Company Name
+
+: ORG
+day: DATE
+yearly: DATE
+Bachelor of Arts: ORG
+Spring 2008: DATE
+Florida Atlantic University - City: ORG
+150: CARDINAL
+hours: TIME
+150: CARDINAL
+Florida Atlantic University: ORG
+Broward county: GPE
+Bachelor of Arts: ORG
+Secondary Social Studies Education: ORG
+2014: DATE
+Florida Atlantic University - City: ORG
+Secondary Social Studies Education: ORG
+Bachelor of Arts : Political Science: ORG
+2008: DATE
+Florida Atlantic University - City: ORG
+Specialized: ORG
+Middle Eastern: LOC
+Iran: GPE
+2004: DATE
+State: ORG
+Farsi: PRODUCT
+English: LANGUAGE
+ESOL: ORG

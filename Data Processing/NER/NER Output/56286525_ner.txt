@@ -1,0 +1,100 @@
+OPERATIONS: ORG
+12 years: DATE
+Terminal Operations: ORG
+the Port of Los Angeles: FAC
+Terminal
+Operations: ORG
+Operations: ORG
+Customer Service, Rail: ORG
+Vessel: GPE
+Terminal: ORG
+Vessel: GPE
+Rails,: ORG
+Yard and Terminal
+Operations: ORG
+Dynamic Leadership-Team Building and Staff: ORG
+Cross Departmental Communications
+
+Service Quality Improvement
+Customers Relations
+Budgeting Analysis: ORG
+Yard and Terminal Operations Center
+SuperIndendent of RailRoad Department: ORG
+Vessel Operations: ORG
+Union: ORG
+23%: PERCENT
+52: MONEY
+U.S. Customs: ORG
+Coast Guard: ORG
+100%: PERCENT
+24: CARDINAL
+30.15 minutes to 28.33 minutes: TIME
+Vessel Operations: ORG
+6 to 10: CARDINAL
+70: CARDINAL
+01/2000: CARDINAL
+Name City: GPE
+State
+Fleet Service Clerk 01/1998: ORG
+Name City: GPE
+Name City: GPE
+M.B.A: ORG
+1 2008: DATE
+MBA: WORK_OF_ART
+B.A : Business Administration: ORG
+1 1999: DATE
+College City: GPE
+State
+
+Business Administration: ORG
+Peter D. Veazey
+Accomplishments: PERSON
+2050: DATE
+John S.
+Gibson San Pedro: PERSON
+CA: ORG
+2013: DATE
+Hazardous Chemicals: ORG
+Driving Change: ORG
+2013: DATE
+70%: PERCENT
+three: CARDINAL
+Conflict Resolution: ORG
+The Works Consulting: ORG
+Ports America So: ORG
+Cal Regional Office: ORG
+2013: DATE
+Communication Dynamics Emotional Intelligence: ORG
+Houston Partners International: ORG
+Cal Regional Office: ORG
+2012: DATE
+Communication for Leadership Success: ORG
+Cal Regional Office: ORG
+2013: DATE
+These Interaction Essentials: ORG
+daily: DATE
+Performance Management: ORG
+The Works Consulting: ORG
+Ports America So: ORG
+Cal Regional Office: ORG
+2011: DATE
+Prince
+Consulting: ORG
+San Pedro CA: PERSON
+2009: DATE
+Volunteer Orange County Makos: PERSON
+Defensive Coordinator: ORG
+Fullerton: GPE
+CA: ORG
+the Defensive Coordinator: ORG
+2001: DATE
+95%: PERCENT
+the year: DATE
+CFL Champions: ORG
+AYSO: ORG
+Coach: ORG
+Long Beach: GPE
+CA Coaching: ORG
+Athletes: GPE
+Customer Service: ORG
+MBA: WORK_OF_ART

@@ -1,0 +1,101 @@
+Training
+Master of Health Administration 2015 University of Missouri ï¼​ City: WORK_OF_ART
+City: GPE
+State Health Informatics and Bioinformatics
+Bachelor of Science , Business Administration - Marketing 2011: ORG
+City: GPE
+State Business Administration - Marketing
+Skills
+
+Healthcare Analytics: ORG
+4 years: DATE
+Physician Engagement: PERSON
+2 years: DATE
+Project Management: ORG
+4 years: DATE
+Consulting: ORG
+2 years: DATE
+5 years: DATE
+4 years: DATE
+Tableau: PERSON
+2 years: DATE
+Excel: PRODUCT
+5 years: DATE
+Excel: PRODUCT
+5 years: DATE
+5 years: DATE
+Machine Learning: PERSON
+2 years: DATE
+Financial Analysis: ORG
+5 years: DATE
+1 year: DATE
+SQL: ORG
+1 year: DATE
+Business Development: ORG
+3 years: DATE
+Business Intelligence: ORG
+2 years: DATE
+User Experience Design: ORG
+2
+years: DATE
+Jun 2015: PERSON
+15: CARDINAL
+US: GPE
+Excel: PRODUCT
+Tableau: GPE
+Weka: PERSON
+Android: ORG
+Author: GPE
+Health Plan Financial: ORG
+May 2014 to May 2015: DATE
+year: DATE
+Teradata: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Collaborated: ORG
+2013: DATE
+May 2014: DATE
+Established: ORG
+ArcGIS: GPE
+MHC: ORG
+Office: ORG
+SharePoint: ORG
+Health Literacy: ORG
+Missouri: GPE
+Monitored: ORG
+InterSystems' HealthShare: ORG
+2013: DATE
+35%: PERCENT
+first: ORDINAL
+2012: DATE
+HIMSS: ORG
+2013: DATE
+HIMSS: ORG
+HIMSS: ORG
+American College of Healthcare Executives: ORG
+ACHE: ORG
+2014: DATE
+Present American College of Healthcare Executives: ORG
+more than 40,000: CARDINAL
+Skills: ORG
+Business Development, Business Intelligence: ORG
+Consulting: ORG
+Financial Analysis: ORG
+ma, Machine Learning: ORG
+Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+SharePoint: ORG
+Project
+Management: ORG
+SQL: ORG
+Tableau: GPE
+Teradata: ORG
+Troubleshoot: ORG
+Anywhere Authorized: ORG
+US: GPE
+Upsilon: ORG
+Society for Health
+Administration: ORG
+October 2014: DATE
+Upsilon: ORG

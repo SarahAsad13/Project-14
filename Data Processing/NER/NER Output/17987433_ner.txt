@@ -1,0 +1,104 @@
+EPIC: ORG
+Bio-Pharma: LOC
+Skills
+
+Microbial: ORG
+LAL Test: ORG
+Nano: PERSON
+Size: PERSON
+Charge: PRODUCT
+Malveren Nano ZS: PERSON
+HPLC: GPE
+PCR: ORG
+EPIC: ORG
+Method: NORP
+Method Validation: ORG
+Method: NORP
+Efficient Internet Browsing: PERSON
+SAS: ORG
+EPIC: ORG
+06/2017: CARDINAL
+EPIC Information Technology Specialist Company Name: ORG
+EPIC Care: ORG
+11/2016: CARDINAL
+Research Associate Company Name: ORG
+Tera: ORG
+Maintenance and Calibration of Analytical Instruments: ORG
+HPLC: GPE
+UPLC: ORG
+Nanotechnology: ORG
+Performed the Biotechnology: ORG
+PCR: ORG
+Created Standard Operating Procedures: ORG
+FDA: ORG
+ISO: ORG
+Maintained: GPE
+11/2013 to 12/2015: CARDINAL
+micro-: GPE
+GC: ORG
+Created Standard Operating Procedures: ORG
+FDA: ORG
+ISO: ORG
+Maintenance and Calibration of Analytical Instruments: ORG
+HPLC: GPE
+UPLC: ORG
+12/2010: CARDINAL
+Bioprocessing: PERSON
+Taxonomical: ORG
+CYP: ORG
+P-450: GPE
+Bioprocessing: PERSON
+Biological: ORG
+Antimicrobial: ORG
+Genotoxic: PERSON
+Research: ORG
+RNA: ORG
+JSS College of Pharmacy: ORG
+M.
+Pharm Dissertation: ORG
+TAMILNADU PHARMACEUTICAL WELFARE TRUST: ORG
+2013: DATE
+Seminars/Workshops: ORG
+Dec.8: DATE
+2010: DATE
+JSS College of Pharmacy: ORG
+Nilgiri Biosphere: ORG
+December 8-10th: DATE
+2011: DATE
+JSS College: ORG
+Indian Pharmaceutical Student: ORG
+Bangalore: GPE
+Indian: NORP
+Bangalore: GPE
+Basic Biotechnological: ORG
+Mammalian Cell Culture: EVENT
+Micro: ORG
+RNA: ORG
+HPLC: GPE
+GC: GPE
+LC/MS: ORG
+UPLC: ORG
+TLC: ORG
+FTIR: ORG
+KF: PERSON
+Training: PERSON
+August 2012: DATE
+Bio Technology JSS College of Pharmacy ï¼​ City India Bio Technology 3.80/4.0: ORG
+May 2010: DATE
+Bachelor of Pharmacy Kakatiya University: ORG
+Skills
+Epic go-live: ORG
+Basic, Biotechnology, Calibration, Cell Culture: ORG
+Dec: PERSON
+ELISA: ORG
+FTIR: ORG
+GC: ORG
+HPLC: GPE
+ISO: ORG
+MS: ORG
+PAGE: ORG
+PCR: ORG
+Research: ORG
+SAS: ORG
+Seminars: ORG
+Validation: ORG

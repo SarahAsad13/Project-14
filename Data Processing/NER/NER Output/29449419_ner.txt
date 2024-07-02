@@ -1,0 +1,67 @@
+Professional Summary
+
+Food Production Management: ORG
+K12 Chef Management: ORG
+National School Lunch Program: ORG
+Proven Team: WORK_OF_ART
+Creative Recipe: WORK_OF_ART
+Management- Inventory: ORG
+Procurement Analysis: WORK_OF_ART
+Food
+Cost & Labor Management: WORK_OF_ART
+Strong Catering: WORK_OF_ART
+Restaurant Management: ORG
+Team Player: WORK_OF_ART
+Budgeting & Invoice: WORK_OF_ART
+Food Allergy: WORK_OF_ART
+Newton: PERSON
+Cater Trax: PERSON
+Menu Software Proficient: WORK_OF_ART
+La: GPE
+Recruiting and Hiring
+Cooking: WORK_OF_ART
+Budgeting
+Food: ORG
+Recipes: PERSON
+Workflow Optimization
+Food: ORG
+Adaptability
+Cultural: PRODUCT
+weekly: DATE
+Pitched: GPE
+Maintained: GPE
+Collaborated with Lusher Elementary: LAW
+03/2020: CARDINAL
+weekly: DATE
+Recruited: PRODUCT
+$1.5 million: MONEY
+annual: DATE
+New Orleans: GPE
+weekly: DATE
+Cooler: PERSON
+Averaged: ORG
+two thousand: DATE
+83%: PERCENT
+USDA: ORG
+Experienced: GPE
+Operations: ORG
+7.5%: PERCENT
+Recruited: PRODUCT
+11/2016: CARDINAL
+16%: PERCENT
+450,000: MONEY
+annually: DATE
+King Cake: PERSON
+2015: DATE
+NOLA.com: NORP
+2016: DATE
+Youth Leadership Council: ORG
+Associate of Arts : Pastry Arts 05/2009 University of New Orleans - City
+Bachelor of Science :: ORG
+Northwestern State University of Louisiana - City: ORG
+3.1: CARDINAL
+GPA: ORG
+17%: PERCENT
+the American Institute of Culinary Professionals: ORG
+2019: DATE
+Culinary Innovation of America Jr Board: ORG

@@ -1,0 +1,75 @@
+twenty years: DATE
+digital: ORG
+Skills
+
+Team: ORG
+Strong: PERSON
+Data and Marketing Technology Company: ORG
+Data Division: ORG
+data & data: ORG
+Agile: ORG
+Digital Media Company: ORG
+35: CARDINAL
+$5 million: MONEY
+100: CARDINAL
+80: CARDINAL
+P&L: ORG
+$25+ million: MONEY
+10x: CARDINAL
+five-year: DATE
+4x: CARDINAL
+CMS: ORG
+100: CARDINAL
+CMS: ORG
+Product Management Company Name: ORG
+Grew: PERSON
+60%: PERCENT
+50%: PERCENT
+the first full year: DATE
+50%: PERCENT
+annual: DATE
+two years: DATE
+10x: DATE
+eight years: DATE
+Global Process Expert: ORG
+CRM: PRODUCT
+500: CARDINAL
+North America: LOC
+1,100: CARDINAL
+Owned: ORG
+Hilti: PERSON
+03/2002: DATE
+12/2004: CARDINAL
+State: ORG
+07/2001: CARDINAL
+15: CARDINAL
+2004: DATE
+50 million: CARDINAL
+CHF: ORG
+300%: PERCENT
+annually: DATE
+three straight years: DATE
+25%: PERCENT
+40%: PERCENT
+30%: PERCENT
+100%: PERCENT
+first &: ORG
+second: ORDINAL
+ten: CARDINAL
+Awarded Hilti North America's: ORG
+12/1998: CARDINAL
+ten: CARDINAL
+Club: ORG
+2 consecutive years: DATE
+12/1996: CARDINAL
+Inside Sales Representative Company: ORG
+Skills
+Agile: ORG
+CMS: ORG
+CRM: PRODUCT
+Education: ORG
+May 2001: DATE
+OKLAHOMA STATE UNIVERSITY - City: ORG
+December 1997: DATE
+Bachelor of Business Administration: ORG
+NORTHEASTERN STATE UNIVERSITY - City: ORG

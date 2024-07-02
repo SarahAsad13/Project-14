@@ -1,0 +1,30 @@
+Broadcast Management: ORG
+Media Sales: ORG
+Radio Station Programming: ORG
+Skill Highlights: PERSON
+Local Brand: ORG
+On-Air Personality
+
+Social Media Integrator
+Digital Content Developer: ORG
+April 2013: DATE
+Working: ORG
+November 2009 to February 2014: DATE
+24 hour: TIME
+Operations: ORG
+On-Air Personality: ORG
+January 2001 to November 2009: DATE
+daily: DATE
+18-34: CARDINAL
+24-54: DATE
+Associate of Arts: ORG
+Mass Communications Lincoln College: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Skills
+
+Media Consulting: ORG
+Digital Content Analysis: ORG
+Podcasting Brand Management Development: ORG
+Social Media Integration: ORG

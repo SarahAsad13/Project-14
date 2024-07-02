@@ -1,0 +1,53 @@
+INTERIOR: ORG
+Design Professional: ORG
+Jan 1999 - Current 
+Company Name City: DATE
+Receipt: PRODUCT
+Customer Service: ORG
+Colorist: NORP
+State: ORG
+Skills
+Photoshop: ORG
+Budget Preparation: ORG
+Customer Service: ORG
+Layout: GPE
+Suite: PERSON
+Procurement, Rendering, Sales: ORG
+Marina Del Rey: PERSON
+Bryson Square Apartment Community: ORG
+Atlanta: GPE
+Ga Turpin Ranch: ORG
+Jackson Hole: GPE
+Wy
+Boulders Apartment Community: ORG
+Las Vegas: GPE
+NV Nordstrom Summer Home, Union: ORG
+WA Nordstrom Home: ORG
+Bellevue: GPE
+Wa Blumer
+Residence: PERSON
+Wa Baruffi Residence: ORG
+Wa Waechter House Boat: PERSON
+Seattle: GPE
+Seattle: GPE
+Wa Wood Residence: ORG
+Sun Valley: LOC
+Seattle: GPE
+Osteria: GPE
+Los Angeles: GPE
+Pho Restaurant: PERSON
+Los Angeles: GPE
+Spice Catering: PERSON
+Los Angeles: GPE
+Borracho Cantina: PERSON
+Los Angeles: GPE
+Ca Caffe Primo: PERSON
+Los Angeles: GPE
+Ca Caffe Primo: PERSON
+Glendale: PERSON
+Ca Caffe
+Primo: PERSON
+Hollywood: GPE
+Ca Lofts: PERSON
+Theater Square Apartment Community: ORG
+Petaluma: GPE

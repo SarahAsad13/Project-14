@@ -1,0 +1,90 @@
+BILINGUAL LANGUAGE ARTS SIXTH GRADE TEACHER
+Summary
+Dedicated: ORG
+four years': DATE
+School: ORG
+Participate: ORG
+MVP: ORG
+Oversee: ORG
+180: CARDINAL
+Implementation of newer educational technology programs: ORG
+Prezi: PERSON
+Thinglink: ORG
+Participate: WORK_OF_ART
+Community: ORG
+Bilingual Substitute Teacher Company Name: PERSON
+Spanish Immersion: ORG
+Bilingual: PERSON
+Spanish: NORP
+Special Education: ORG
+07/2013: CARDINAL
+Independent Education Plans (Special Education: ORG
+Gifted: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+Cooperate: ORG
+Establish: NORP
+Participate: WORK_OF_ART
+Talented: ORG
+Love: WORK_OF_ART
+Created: ORG
+STAAR: ORG
+Collaborated: ORG
+summer: DATE
+Spanish: NORP
+one: CARDINAL
+Spanish: NORP
+Hispanic: NORP
+Latin American: NORP
+State: ORG
+Oversaw: GPE
+Managed: PRODUCT
+200,000: MONEY
+Gear: PERSON
+Utilized: ORG
+NACRC: ORG
+Received: ORG
+AmeriCorps VISTA: ORG
+Math Teacher Company Name: PERSON
+English: NORP
+World History: WORK_OF_ART
+Tutored Algebra: PERSON
+Spanish: LANGUAGE
+Training: PERSON
+May 2011: DATE
+Tarrant County College: ORG
+the Month: DATE
+Educational Support Services: ORG
+February 2010: DATE
+December: DATE
+2009: DATE
+Northern Arizona University: ORG
+2009: DATE
+Bachelor of Arts : International Studies Elon University: ORG
+State International Studies
+Presidential Scholar: ORG
+Resident: PERSON
+RA: PERSON
+the Month: DATE
+2007: DATE
+October 2006: DATE
+Global Experience Program: ORG
+Costa Rica: GPE
+2008: DATE
+Winter Term: PERSON
+Paris: GPE
+2007: DATE
+London: GPE
+2006: DATE
+Elon Volunteers: ORG
+Affiliations
+Association of Texas Professional Educators: ORG
+ATPE: ORG
+LANGUAGES English: PERSON
+Spanish: NORP
+Skills: ORG
+English: LANGUAGE
+Latin: NORP
+Spanish: LANGUAGE
+Spanish: LANGUAGE
+VISTA: ORG

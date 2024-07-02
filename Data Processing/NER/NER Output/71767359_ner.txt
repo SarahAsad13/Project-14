@@ -1,0 +1,116 @@
+Innovate: ORG
+Excel: PRODUCT
+Collaborative 
+Innovative 
+Driven 
+Efficient 
+Powerpoint
+MS Office
+
+Work History
+Apparel Developer Specialized: WORK_OF_ART
+Jan 2014 - Current 
+Company Name City: DATE
+JR: ORG
+Nordstrom: ORG
+Nordstrom: PERSON
+weekly: DATE
+Step: PERSON
+denim: GPE
+United States: GPE
+China: GPE
+India: GPE
+Nicaragua: GPE
+Columbia: GPE
+Name City: GPE
+Apparel Development Technical: ORG
+denim: PERSON
+Build: GPE
+daily: DATE
+first: ORDINAL
+10%: PERCENT
+Update: ORG
+the factoryÂ 
+Visit: ORG
+Innovate: ORG
+Coordinate: FAC
+Olympics: EVENT
+Jeremy ScottÂ 
+Conduct: PERSON
+weekly: DATE
+Mentor: LOC
+Thailand: GPE
+China: GPE
+Indonesia: GPE
+Turkey: GPE
+US: GPE
+India: GPE
+Bangladesh: GPE
+Nicaragua: GPE
+Jan 2003 - Jan 2005: DATE
+Name City: GPE
+Update: ORG
+OTB: ORG
+first: ORDINAL
+Screen: ORG
+Maui: LOC
+Sku: PERSON
+700: CARDINAL
+25 million: CARDINAL
+annually: DATE
+Jan 2003: DATE
+Name City: GPE
+Roxy: GPE
+OTB: ORG
+Men's Surf Buyer: ORG
+Jan 1999 - Jan 2003: DATE
+Name City: GPE
+Buyer: PERSON
+7: CARDINAL
+each month: DATE
+each week: DATE
+Buy: LOC
+each month: DATE
+Quiksilver: GPE
+Billabong: GPE
+Hurley: GPE
+Volcom: ORG
+Ripcurl: ORG
+Split: PERSON
+monthly: DATE
+monthly: DATE
+Plan OTB: PRODUCT
+seasonally: DATE
+Attend: ORG
+Sku: PERSON
+700: CARDINAL
+1.5 million: CARDINAL
+annually: DATE
+Jan 1997 - Jan 1999: DATE
+Name City: GPE
+Home: ORG
+cor department: ORG
+Christmas: DATE
+11: CARDINAL
+weekly: DATE
+weekly: DATE
+Attend: ORG
+Sku: PERSON
+1000: CARDINAL
+5 million: CARDINAL
+annually: DATE
+Buyer: PERSON
+Jan 1996 - Jan 1997: DATE
+Name City: GPE
+Update: ORG
+Sku: PERSON
+1600: DATE
+7 million: CARDINAL
+annually: DATE
+Bachelor of Arts: ORG
+1996: DATE
+University of Oregon City: ORG
+Clerical: ORG
+Mentor: GPE
+PLM: ORG
+RMS: ORG

@@ -1,0 +1,53 @@
+BUDGET: ORG
+01/2016: ORG
+Budget and Administration: ORG
+Information Technology: ORG
+new year: DATE
+mid-year: DATE
+the financial year: DATE
+Information Technology: ORG
+Human Resources: ORG
+monthly: DATE
+Liaison: PERSON
+the Information Technology: ORG
+01/2016
+: PERSON
+Administrative Aide II Company Name: ORG
+Global Communications: ORG
+Collaborated: ORG
+the 40 Acres and a Mule Anniversary Gala: QUANTITY
+Kept: PERSON
+Dean for Administration: ORG
+Tisch: PERSON
+100 - 125: CARDINAL
+Graduate Students: ORG
+the Summer High School Programs: ORG
+Dean: PERSON
+Drafted: ORG
+Dean: PERSON
+NYU: ORG
+Established: ORG
+Human Resources: ORG
+the Prospect List: ORG
+Created: ORG
+the Sundance Reception for Tisch School of the Arts: ORG
+Wasserman Award Reception: ORG
+year: DATE
+Maintained: GPE
+the Dean's Council: ORG
+Coordinated: ORG
+Associate Dean: PERSON
+External Affairs: ORG
+Created: ORG
+Dean's Council Members: ORG
+Human Resources: ORG
+Training: PERSON
+2015: DATE
+Human Resources Management WALDEN UNIVERSITY: ORG
+State Human Resources Management: ORG
+2001: DATE
+State Comparative Humanities: ORG
+Skills: ORG
+Arts: ORG
+Council: ORG
+Human Resources, Information Technology: ORG

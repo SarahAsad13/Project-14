@@ -1,0 +1,78 @@
+15 years: DATE
+Employee Management and Leadership, Public Relations, Event Coordination and Management: ORG
+Account Management, Business Relations, Office Management: ORG
+Database Management: ORG
+Customer Service: ORG
+Skill Highlights: PERSON
+Motivation: ORG
+Critical: ORG
+Name City: GPE
+Miami-Dade Fire: GPE
+Miami-Dade Court: GPE
+House: ORG
+South Dade Government Center: ORG
+Miami-Dade Police Department: GPE
+Miami-Dade: GPE
+Miami-Dade Public Schools: GPE
+Palmetto Bay City Hall: FAC
+Homestead City Hall: FAC
+Florida City Mayor's: GPE
+Office, Perdue Medical Center: ORG
+Jackson South Hospital: ORG
+Miami-Dade Blackpoint Water & Sewer: GPE
+Turkey Point Power Plant: ORG
+Arrange: NORP
+GP: ORG
+Build: GPE
+Improve: ORG
+Millennium: PERSON
+Gather: ORG
+Quality: ORG
+Coordinate: FAC
+Estimate: LOC
+09/2014 Company Name City: ORG
+Palmetto Bay: LOC
+Cutler Bay: PERSON
+Goulds: PERSON
+1B: CARDINAL
+monthly: DATE
+three months: DATE
+Foster: PERSON
+Oneblood: PERSON
+Attend: ORG
+Miami-Dade Fire: GPE
+Miami-Dade Court: GPE
+House: ORG
+South Dade Government Center: ORG
+Miami-Dade Police Department: GPE
+Miami-Dade: GPE
+Miami-Dade Public Schools: GPE
+Palmetto Bay City Hall: FAC
+Homestead City Hall: FAC
+Florida City Mayor's: GPE
+Office, Perdue Medical Center: ORG
+Jackson South Hospital: ORG
+Miami-Dade Blackpoint Water & Sewer: GPE
+Turkey Point Power Plant: ORG
+Human Resources: ORG
+01/2003: CARDINAL
+Name City: GPE
+Avisena's Human Resource: ORG
+300: CARDINAL
+hour: TIME
+2007: DATE
+Miami City: GPE
+State: ORG
+United States: GPE
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+MS Word: PERSON
+Excel: PRODUCT
+Powerpoint
+Human Resources: EZ Labor Time: ORG
+Attendance Software: PERSON
+ADP Payroll System: ORG

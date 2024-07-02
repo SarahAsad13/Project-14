@@ -1,0 +1,107 @@
+Controller: PERSON
+12 years: DATE
+Highlights
+
+Financial: ORG
+Budget: ORG
+Complex: NORP
+Accomplishments
+
+Successfully: WORK_OF_ART
+month: DATE
+monthly: DATE
+P&L: ORG
+monthly: DATE
+CFO: ORG
+Controller: PERSON
+July 2014: DATE
+500k: MONEY
+Division Controller: PERSON
+November 2008 to July 2014: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Global Teams &: ORG
+P&L: ORG
+Controller: PERSON
+February 2002: DATE
+May 2008: DATE
+$45 million: MONEY
+U.S.: GPE
+Malaysia: GPE
+Europe: LOC
+ERP: ORG
+monthly: DATE
+15 days to: DATE
+9: CARDINAL
+DSO: ORG
+96 days to 42 days: DATE
+Letters of Credit: ORG
+EDI: ORG
+five: CARDINAL
+August 2001 to January 2002: DATE
+State
+
+Post: ORG
+CTQ: ORG
+Oracle: ORG
+Corporate: ORG
+Switzerland: GPE
+FAS 52: ORG
+October 2000 to August 2001: DATE
+P&L Analyzed: ORG
+14: MONEY
+AP: ORG
+Purchasing and Inventory: ORG
+supervising month end: DATE
+Oversaw: GPE
+5000: CARDINAL
+Oracle: NORP
+Oracle: NORP
+Education: ORG
+Client Support Services: ORG
+October 1996 to August 2000: DATE
+CFO: ORG
+Platinum SQL: ORG
+PeopleSoft: ORG
+SAP: ORG
+Platinum: ORG
+SQL: ORG
+Design: PRODUCT
+GAAP: ORG
+Platinum: ORG
+Oracle: ORG
+PeopleSoft: ORG
+SAP Consistently: ORG
+500,000: MONEY
+annually: DATE
+daily: DATE
+AR: ORG
+GL: ORG
+AP: ORG
+Researched ISO: ORG
+Financial Analyst: ORG
+Platinum Software: ORG
+GL, Payables: ORG
+SEC: ORG
+ERP: ORG
+GL: ORG
+AP: ORG
+AR: GPE
+PO: GPE
+INV: ORG
+MBA : Accounting: WORK_OF_ART
+May 1994: DATE
+Hawaii Pacific University - City: ORG
+State: ORG
+USA Accounting: ORG
+May 1993: DATE
+Hawaii Pacific University - City: ORG
+Cum Laude: PERSON
+ERP Implemenations
+Peoplesoft: ORG
+Epicor
+Assurenet & Blackline Â 
+Intercompany Accounting
+Balance Sheet Consolidations: ORG
+Purchase Accounting: ORG

@@ -1,0 +1,150 @@
+Highlights
+
+Linux: GPE
+DOS: ORG
+MS- Windows: PERSON
+Socs: PERSON
+Broadcom: ORG
+Intel: ORG
+STMicro: ORG
+Sigma: ORG
+MIPS: ORG
+8088: DATE
+8087: DATE
+8031: DATE
+8051: CARDINAL
+Digital: ORG
+VOD: ORG
+HLS: ORG
+MP4 
+HTML5 MSE: PERSON
+EME: ORG
+java security: PERSON
+C++: GPE
+Visual Basic, Assembly: ORG
+Java
+: PERSON
+J2ME: PERSON
+CDC: ORG
+JVM: PERSON
+ODBC: ORG
+DAVID
+JSON RPC: PERSON
+REST: ORG
+SOAP: ORG
+NASC: ORG
+Linux: PERSON
+Neural: ORG
+Tensorflow: PRODUCT
+DL4J: PERSON
+CUDA: ORG
+Matlab: ORG
+Complete Life: ORG
+Middleware: GPE
+Hardware: ORG
+Interface: ORG
+Agile Development: ORG
+first: ORDINAL
+Nucleus: PERSON
+Seachange: ORG
+Pioneer: ORG
+CE: ORG
+OCAP: ORG
+November 2010: DATE
+May 2016: DATE
+Evangelized: LOC
+JSON: GPE
+HTML5 UI: PERSON
+QT: PERSON
+DVR: ORG
+DRM: ORG
+2nd: CARDINAL
+iPads: FAC
+Liberty Global: PERSON
+Poland: GPE
+Czech: NORP
+EOS: ORG
+Europe: LOC
+Intel: ORG
+JSON: GPE
+Comcast: ORG
+ST Micro: ORG
+RDK: ORG
+RNG150: CARDINAL
+Comcast: ORG
+January 2004 to November 2010: DATE
+Players: PRODUCT
+JMF: PERSON
+Java: PERSON
+AWT: PERSON
+BDJ: ORG
+JAVA: PERSON
+third: ORDINAL
+OCAP: ORG
+OCAP - DSM-CC: ORG
+Development of Advanced Media Player: ORG
+Restful JSON: PERSON
+Software Engineer: PERSON
+April 2000 to January 2004: DATE
+DTV4.0: PERSON
+Comcast: ORG
+Daytona Box: PERSON
+GI: ORG
+DIPI: GPE
+DTV Navigator: ORG
+Inband IP: ORG
+IPGateway: ORG
+IP: ORG
+viz Force
+Tuning: PRODUCT
+IPGateway: ORG
+DSM-CC: ORG
+Scientific: ORG
+Atlanta: GPE
+Digital  Network: ORG
+Control  System: ORG
+Power TV: ORG
+Micro: ORG
+2.0: CARDINAL
+Java: PERSON
+VOD: ORG
+TVTicker: ORG
+Tuner: PERSON
+Java: PERSON
+VOD: ORG
+Liberate: ORG
+JAVA: PERSON
+Multicast File System: ORG
+Control Systems: ORG
+1988: DATE
+Indian Institute of Technology ï¼​ City: ORG
+India Control Systems
+: ORG
+87: CARDINAL
+Devi Ahilya University: ORG
+ï¼​ City: GPE
+India Electrical Engineering: ORG
+2016: DATE
+Coursera - Stanford USA: ORG
+Skills
+Lead Development: ORG
+C++: PERSON
+JAVA: GPE
+JVM: PERSON
+Embedded Linux: GPE
+LXC: ORG
+VXWorks: ORG
+H.264: PERSON
+HLS: ORG
+MP4
+JSON: PERSON
+REST: ORG
+SOAP: ORG
+XML: ORG
+TR069
+Microcontrollers: PRODUCT
+Matlab: PERSON
+Octave
+Mathematical: PERSON
+Agile Methodologies: ORG
+SDLC: GPE

@@ -1,0 +1,112 @@
+10 years: DATE
+Microsoft: ORG
+System Center Suite: WORK_OF_ART
+SCOM: GPE
+SCCM: ORG
+Hyper V: PERSON
+Windows 2003/ 2008 Active: ORG
+DNS: ORG
+DHCP: ORG
+Windows
+Clusters: PERSON
+PowerShell: ORG
+VBScript: ORG
+Accenture Technologies: ORG
+USA: GPE
+March 2012: DATE
+USA: GPE
+System Center System Center Operations: ORG
+2012: DATE
+SCOM: GPE
+SCOM: GPE
+3 years: DATE
+SME: ORG
+SCOM: ORG
+VSAE: ORG
+VMPD: ORG
+July 2008: DATE
+January 2015: DATE
+Avanade IO: GPE
+Microsoft: ORG
+Accenture: ORG
+Microsoft: ORG
+Project 1:: FAC
+Stanford Hospital: ORG
+March 2012: DATE
+Microsoft System Center Operations: ORG
+SCOM: GPE
+SCOM: GPE
+Expand: ORG
+VSAE: ORG
+VMPD: ORG
+SCOM: GPE
+2012: DATE
+Release 2: ORG
+Application monitoring/ Synthetic: ORG
+DNS: ORG
+DHCP: ORG
+Windows 2003: PERSON
+DNS: ORG
+Project 2: FAC
+SCCM: NORP
+OSD: ORG
+US: GPE
+Microsoft: ORG
+FMCG: ORG
+P2V migrations: PERSON
+SME: ORG
+US: GPE
+24x5: CARDINAL
+Microsoft: ORG
+6: CARDINAL
+the first 2 years: DATE
+Contribution
+Significantly above Peer Group: WORK_OF_ART
+April 2007: DATE
+July 2008: DATE
+January 2006: DATE
+March 2007: DATE
+Windows: NORP
+1st: ORDINAL
+SCOM: GPE
+Monthly: DATE
+Software Updates Management: ORG
+January 2004: DATE
+January 2006: DATE
+1: CARDINAL
+Linksys: ORG
+my initial days: DATE
+National Institute of Technology(NIT): ORG
+System Center Orchestrator: WORK_OF_ART
+System Center Configuration: WORK_OF_ART
+2007: DATE
+4 years': DATE
+SCCM: ORG
+the Avanade Capability: ORG
+India: GPE
+Virtualization Hyper V: PERSON
+Datacenter: PERSON
+Windows 2008: PERSON
+Hyper V: ORG
+Core Wintel Services Active Directory: ORG
+DNS: ORG
+DHCP: ORG
+DNS: ORG
+DHCP: ORG
+File and Print Services: ORG
+2003: DATE
+Windows Powershell: PERSON
+VBScript: ORG
+SCCM: ORG
+AD: DATE
+Accenture: PERSON
+50: CARDINAL
+one: CARDINAL
+Skills: ORG
+AD: DATE
+DHCP: ORG
+DNS: ORG
+Microsoft: ORG
+Windows: ORG
+Migration: PERSON
+SLA: ORG

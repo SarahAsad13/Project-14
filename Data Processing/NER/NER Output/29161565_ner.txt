@@ -1,0 +1,53 @@
+3 years: DATE
+Refueling: PERSON
+Hour Current OSHA 29: WORK_OF_ART
+CFR 1910.120 Hazardous
+Waste
+Quick: ORG
+3: CARDINAL
+U.S. Navy: ORG
+Article 108: LAW
+Radiological Control: ORG
+Qualification: ORG
+Self-: ORG
+Team Player: ORG
+Respirator Qualified: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Name City: GPE
+State Radiological Control: ORG
+Perform daily: ORG
+DOE L ClearenceÂ 
+
+Company Name City: ORG
+State Radiological Control: ORG
+Article 701 of NAVSEA: LAW
+Maintained: GPE
+Obtained: ORG
+Name City: GPE
+State Aviation Ordnancemen
+
+: ORG
+Specialized: ORG
+Navy: ORG
+Obtained: ORG
+Thomas Edison: PERSON
+City: GPE
+State: GPE
+USA: GPE
+Nuclear Energy Engineering Technology
+
+Nuclear Energy Engineering Technology
+NUCLEAR ENERGY ENGINEERING TECHNOLOGY: ORG
+2017: DATE
+Thomas Edison State: PERSON
+City: GPE
+State: GPE
+USA: GPE
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+CERTIFICATIONS: ORG
+108: CARDINAL
+DOE Core Card
+Aviation Ordnancemen Certification: ORG

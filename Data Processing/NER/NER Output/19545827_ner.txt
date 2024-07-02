@@ -1,0 +1,151 @@
+Team Building: ORG
+Project Management: ORG
+Staff Supervision and Management: ORG
+Activities -Board: PERSON
+the Food Bank of
+Corpus Christi: ORG
+November 2010 to April 2013: DATE
+Life Insurance License -Basketball Official: ORG
+Accomplishments
+Accomplishments: PRODUCT
+Accountant: ORG
+August 2014 to May 2015: DATE
+State Perform: ORG
+daily: DATE
+two: CARDINAL
+five: CARDINAL
+Manage: PRODUCT
+Payroll: ORG
+Income Statement: ORG
+Audit: ORG
+monthly: DATE
+Tax: GPE
+Inventory Reconciliations: PERSON
+Budgeting: GPE
+District Administrative: ORG
+February 2014 to June 2014: DATE
+the Accounts Receivable, Accounts Payable: ORG
+daily: DATE
+daily: DATE
+Purchase Orders: PERSON
+Bill of Lading: PERSON
+On-Base: FAC
+AX: NORP
+Avantis: GPE
+Microsoft Office: ORG
+January 2005: DATE
+February 2014: DATE
+$1.2 million dollar: MONEY
+over $: MONEY
+500: MONEY
+over $500K.: MONEY
+USDA Food Aid: ORG
+up to $1.5 million: MONEY
+annually: DATE
+500: MONEY
+Performed month end: DATE
+Payroll: ORG
+AP: ORG
+Oversaw: GPE
+up to 20: CARDINAL
+Communicated: ORG
+USDA: ORG
+Created: ORG
+Food Safety and Quality Assurance Programs: ORG
+fifty: CARDINAL
+Food Safety
+Guide: ORG
+2383: DATE
+Suwanee Pointe Drive: PERSON
+Lawrenceville: GPE
+30043: CARDINAL
+January 2003 to January 2004: DATE
+State: ORG
+first: ORDINAL
+January 2002 to January 2002: DATE
+State Assisted Controller: ORG
+Windows NT/: LOC
+two: CARDINAL
+CSI: ORG
+MS Excel: ORG
+Corporate-: PERSON
+General Merchandise Department: ORG
+January 2000 to January 2002: DATE
+weekly: DATE
+every 6 months: DATE
+January 1998 to January 2000: DATE
+DacEasy: NORP
+Software: NORP
+Accountant: ORG
+January 1999 to January 2000: DATE
+State Full Charge Bookkeeper/Accountant: ORG
+daily: DATE
+GL: ORG
+Controller: PERSON
+five: CARDINAL
+daily: DATE
+Accounting: ORG
+Education: ORG
+Master of Arts: WORK_OF_ART
+Christian: NORP
+Dallas: GPE
+State: GPE
+US: GPE
+Christian Education: ORG
+Dallas: GPE
+TX: ORG
+Economics Marshall University: ORG
+State: GPE
+US Bachelor of Arts: ORG
+Economics - Marshall University: ORG
+Huntington: GPE
+WV
+Associates of Applied Science : Accounting Hocking Technical College: ORG
+State: GPE
+US Associates of Applied Science in Accounting: ORG
+Hocking Technical College: ORG
+Nelsonville: GPE
+OH Maintained: ORG
+4.0: CARDINAL
+GPA: ORG
+12 hours: TIME
+Affiliations
+Board of Directors: ORG
+the Food Bank of Corpus Christi: ORG
+April 2013: DATE
+Certifications: WORK_OF_ART
+Skills
+Accounting: ORG
+Inventory, Payroll: ORG
+The Accounting: ORG
+Reconciliations: GPE
+Bookkeeper: GPE
+Operations: ORG
+Closings: PERSON
+Contracts: ORG
+Customer Service: ORG
+Direct Sales: ORG
+Fixed Assets: ORG
+Food Safety, Government Contracts: ORG
+Logistics: ORG
+Receptionist: ORG
+Shipping: PERSON
+Clerk: PERSON
+Merchandising, Ordering: WORK_OF_ART
+Automated
+Payroll: ORG
+Training: PERSON
+Csi: PERSON
+Excel: PRODUCT
+Ms Excel: PERSON
+Basis, Cash Management, Forecasting: ORG
+Gl, Telephone, Adjustments, Audit, Balance Sheet: ORG
+Budgeting: GPE
+Monthly: DATE
+Cpa, Life Insurance: ORG
+Project Management, Public Relations: ORG
+Team Building: ORG
+Hr: PERSON
+Microsoft Office: ORG
+Ms Office: ORG
+Purchase Orders: PERSON

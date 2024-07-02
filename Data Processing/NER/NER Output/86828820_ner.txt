@@ -1,0 +1,73 @@
+Mechanical Engineer: ORG
+QA: ORG
+Skills
+Microsoft Office: ORG
+Pro/ENGINEER: ORG
+Pro/Mechanical: ORG
+Solid Edge: PERSON
+Microsoft Navision: ORG
+Microsoft Project: ORG
+Moldflow: PERSON
+two: CARDINAL
+china: GPE
+October 2013: DATE
+Name City: GPE
+State Engineering: ORG
+US: GPE
+BOM: ORG
+UL Inspector: ORG
+Underwriters Laboratory Standards: ORG
+ETL Intertek: ORG
+August 2005 to October 2013: DATE
+Name City: GPE
+State: ORG
+Lighting Solutions: WORK_OF_ART
+Condition Prepared: PERSON
+Lighting Specifications: ORG
+Designed Lighting: ORG
+Bills: GPE
+Supported Product Management: ORG
+Specification Sheets Supported: ORG
+UL
+Inspector: ORG
+Underwriters Laboratory Standards: ORG
+September 2004 to August 2005: DATE
+Name City: GPE
+State: ORG
+ASME: ORG
+Fire Safety Codes: ORG
+ASME: ORG
+ADA & Local Fire Codes: ORG
+Prepared Bill of Material: WORK_OF_ART
+December 2000 to September 2004: DATE
+Name City: GPE
+State Design Engineer: ORG
+CAD: ORG
+Architects: ORG
+the Manufacturing Department: ORG
+Collaborated: ORG
+Training: PERSON
+New Jersey Institute of Technology 
+City: ORG
+State Mechanical Engineering Master of: ORG
+Science Mechanical Engineering
+University of Guyana 
+City: ORG
+Guyana Mechanical Engineering Bachelor of Science Mechanical Engineering
+Work History
+Company Name
+Company Name: ORG
+Skills: ORG
+ADA: ORG
+Architect: ORG
+CAD: ORG
+Edge: ORG
+ENGINEER: ORG
+ETL: ORG
+Graphics, Inspector: ORG
+Lighting, Marketing: WORK_OF_ART
+Mechanical: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+Product Management: ORG
+Safety Codes: ORG

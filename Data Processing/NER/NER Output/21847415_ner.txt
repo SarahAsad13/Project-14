@@ -1,0 +1,85 @@
+Complex: NORP
+Microsoft Excel: ORG
+Visio: PERSON
+independentlyÂ: NORP
+Document: FAC
+MS Office: ORG
+Google Documents: ORG
+5S: CARDINAL
+Safety memberÂ 
+Validation: PRODUCT
+2013 - Nominations: LAW
+US: GPE
+2015Â: DATE
+Global Engineering: ORG
+Support Sun Business: ORG
+Global Water Savings: ORG
+the Hard Coating Machines: ORG
+Current Company Name City: ORG
+RX Labs: ORG
+Water Savings: ORG
+Nidek: PRODUCT
+Maintained: GPE
+Applied: ORG
+Hard Coating: ORG
+Â Â Â Â 
+Carefully: PRODUCT
+Maintained: GPE
+Global Engineering: ORG
+US: GPE
+HMC HC Laboratory: ORG
+Name City: GPE
+State: ORG
+the HC Machines: ORG
+Lamination Machines: ORG
+Working Independently: ORG
+Hard Coating Technician: WORK_OF_ART
+daily: DATE
+daily: DATE
+Name City: GPE
+the Surfacing Department: ORG
+Optical
+Laboratory: ORG
+Final Inspection: ORG
+01/2003 Company Name City: EVENT
+State
+
+Setup: ORG
+2010: DATE
+Saint Petersburg College City: ORG
+State: GPE
+USA: GPE
+2009-2010: DATE
+ESOL Program: ORG
+4.00: CARDINAL
+GPA: ORG
+2020: DATE
+Arizona State University City: ORG
+State: GPE
+USA: GPE
+BSE Engineering Management: ORG
+GPA: ORG
+3.45: CARDINAL
+spring of 2020: DATE
+Associate of Science : ï‚§Chemical Technician: WORK_OF_ART
+1993 1989-1993: DATE
+Chemical and Textile School Sanski Most: ORG
+YU City: GPE
+State: GPE
+Yugoslavia: GPE
+3.1: CARDINAL
+GPA: ORG
+RCRA: ORG
+Internal Auditor: ORG
+Laboratory University Course
+Efficient Communication Training
+Global Engineering Customer Orientation TrainingÂ 
+Project Management Training 14h: ORG
+Capture Customer Requirements & Develop Project Scope: ORG
+Skills
+Calibration, Chemical Engineering: ORG
+Engineering Management: ORG
+Â Maintain: PRODUCT
+SOP: ORG
+Supervision: ORG
+Technician: NORP

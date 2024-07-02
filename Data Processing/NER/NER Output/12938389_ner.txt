@@ -1,0 +1,64 @@
+aÂ: PERSON
+trainingÂ 
+Process: PERSON
+Bank: ORG
+Office Management
+Conflict: ORG
+Complex: NORP
+Records Management: ORG
+Interpersonal Customer Service: ORG
+Microsoft: ORG
+Suite: PERSON
+workday: DATE
+Regloginc: ORG
+Arrow: PRODUCT
+Fidelity: ORG
+Cut: ORG
+45 %: PERCENT
+year over year: DATE
+Five years: DATE
+50: CARDINAL
+State Company Name / Sep 2013: ORG
+45 %: PERCENT
+Conducted: ORG
+Technicians: NORP
+monthly: DATE
+US: GPE
+Computed: PERSON
+Established: ORG
+Communicated: ORG
+Performed: ORG
+daily: DATE
+Enforcing: ORG
+wells Fargo: ORG
+Examination: ORG
+Supervisor of the hospitality and operations department Overseeing: WORK_OF_ART
+PTO: ORG
+Kronos: ORG
+Coordinate: FAC
+Coordinated: ORG
+Burnsville High School
+Biochemistry and Entrepreneurship University St. Thomas: ORG
+St. Paul Minnesota
+: GPE
+John Maxwell Leadership Training: PERSON
+Bussiness: GPE
+Entreprenuership: PRODUCT
+Leadership Team Development: ORG
+four: CARDINAL
+annually: DATE
+Strength: ORG
+monthly: DATE
+21: CARDINAL
+Kiswahili Â language: PERSON
+Kenya: GPE
+Tanzania: GPE
+Somalia: GPE
+Ethiopia: GPE
+Malawi: PERSON
+Hmong: NORP
+wells Fargo: ORG
+Kern: PERSON
+alsoÂ: PRODUCT
+Somali: NORP
+Ethiopian: NORP

@@ -1,0 +1,64 @@
+TEACHER
+Professional Summary
+
+Savvy: PERSON
+Problem Solving: PRODUCT
+Microsoft Office: ORG
+Microsoft Office: ORG
+Advanced Problem Solving: ORG
+Client: GPE
+58: CARDINAL
+Seo
+Analytics
+Quick: WORK_OF_ART
+Accurate: ORG
+Current Company Name City: ORG
+daily: DATE
+weekly: DATE
+Assisted: ORG
+four to six: CARDINAL
+one: CARDINAL
+12/2014: CARDINAL
+Name City: GPE
+daily: DATE
+Assisted: ORG
+six: CARDINAL
+one: CARDINAL
+Substitute Teacher: PERSON
+Name City: GPE
+the day: DATE
+Communicated: ORG
+Customer Solution Specialist: ORG
+Name City: GPE
+State: ORG
+Collaborated: ORG
+Maintained: GPE
+Name City: GPE
+daily: DATE
+weekly: DATE
+07/2011: CARDINAL
+Name City: GPE
+State: ORG
+Cleaned: ORG
+05/2008 to 08/2011 Company Name City: ORG
+State: ORG
+Collaborated: ORG
+Maintained: GPE
+07/2011: CARDINAL
+Name City: GPE
+State: ORG
+Collaborated: ORG
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+Barista: PERSON
+Name City: GPE
+State: ORG
+Bachelor of Arts : History & Social Studies: ORG
+May 2012: DATE
+Longwood University City: ORG
+State: GPE
+United States: GPE
+History & Social Studies Secondary Education: ORG
+Virginia: GPE
+Florida Professional Teaching License: ORG

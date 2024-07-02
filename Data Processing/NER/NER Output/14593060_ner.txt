@@ -1,0 +1,168 @@
+Network Engineer: ORG
+Highlights: GPE
+15 year: DATE
+Design: GPE
+Microsoft Windows Servers: ORG
+Exchange: ORG
+SQL Database: GPE
+Novell: ORG
+Linux: PERSON
+VMWARE: ORG
+Hyper-V.
+
+Academic: ORG
+Bachelor: ORG
+Electrical
+Engineering and Master of
+Information Systems: WORK_OF_ART
+Cisco: GPE
+Meraki: PERSON
+Sonicwall: PERSON
+Dell: ORG
+Juniper
+Design: ORG
+LAN: ORG
+WAN: ORG
+Switched Network: ORG
+Terminal: ORG
+Microsoft Servers: ORG
+Windows NT Server: PERSON
+Windows 2003 Server: ORG
+Windows 2008 Server: PERSON
+Windows 2012 Server: ORG
+Active Directory: PERSON
+WEB Server, Exchange: ORG
+2003: DATE
+2007: DATE
+2010: DATE
+2013: DATE
+Office: ORG
+2005: DATE
+2008: DATE
+2012: DATE
+2014: DATE
+Novell Network: ORG
+Netware 3.0 to 6.5: PRODUCT
+GroupWise: PRODUCT
+BackupExec: ORG
+Veeam: GPE
+Acronis: PRODUCT
+Datto: ORG
+Barracuda
+Extensive: ORG
+Spreadsheets: NORP
+GroupWise: ORG
+Medical Programs: ORG
+Practice Management: ORG
+EHR/EMR: ORG
+Medical Billing: ORG
+MS-Office: ORG
+2003,: DATE
+2007: DATE
+2010: DATE
+2013: DATE
+Visio: PERSON
+Anti-Virus/Anti-Malware: ORG
+HIM Operations: ORG
+November 2011: DATE
+Defines: ORG
+November 2009 to October 2011 Company Name: DATE
+Local Area Network, Servers: ORG
+Remote: ORG
+Perform daily administration: ORG
+VMWare: ORG
+Microsoft: ORG
+Hyper-V: PERSON
+Server: ORG
+Modify: ORG
+SQL: PERSON
+Organize: GPE
+HIMS: ORG
+annual: DATE
+Responsible for HIM: ORG
+Ensures: LOC
+day: DATE
+HIMS: ORG
+HIPAA: ORG
+annual: DATE
+December 1994 to September 2009: DATE
+GNC Operations Center: ORG
+Los Angeles: GPE
+GNC: ORG
+Y2K: PRODUCT
+Verizon Wireless: ORG
+by17%: PERCENT
+Designs: NORP
+Microsoft: ORG
+Novell Networks: ORG
+Setup: ORG
+Microsoft: ORG
+Novell: ORG
+Linux: GPE
+Terminal: ORG
+WEB: ORG
+Blackberry Servers
+Setup: ORG
+CISCO: ORG
+Sonicwall: PERSON
+Firewalls: ORG
+WAN: ORG
+LAN: ORG
+Managed Healthcare: ORG
+January 1991 to November 1994: DATE
+Designs: NORP
+Local Area Network Systems: ORG
+Setup: ORG
+Troubleshoots: ORG
+LAN: ORG
+WAN Handles: ORG
+Technical Support: PERSON
+Setup: ORG
+Backup: PERSON
+Evaluates: NORP
+Master of Science : Master of Information Systems Master of Information Systems
+Bachelor of Science : Electrical Engineering Electrical Engineering: WORK_OF_ART
+Microsoft: ORG
+MCP: ORG
+6 Certified: PERCENT
+CPC: ORG
+Certified Professional Coder-Hospital: ORG
+CPC: ORG
+Technical Skills
+Accounting: ORG
+Backup: PERSON
+CCNA: PERSON
+CNE: ORG
+Citrix: GPE
+Database: GPE
+Dell: ORG
+Firewalls: ORG
+GroupWise: PRODUCT
+Local Area Network: ORG
+LAN: ORG
+Linux: GPE
+Medical Billing: ORG
+Microsoft: ORG
+MCP, Exchange,: ORG
+Office: ORG
+MS-Office: ORG
+2000: DATE
+Microsoft: ORG
+2000: DATE
+Windows NT Server: PERSON
+6: CARDINAL
+Network: ORG
+Novell: ORG
+Netware 3.0: PRODUCT
+Novell Networks: ORG
+Novell Network: ORG
+Novell: ORG
+Coding: ORG
+Research: ORG
+Spreadsheets: ORG
+SQL: ORG
+Technical Support: PERSON
+Visio: PERSON
+WEB Server: ORG
+WAN: ORG
+Y2: CARDINAL

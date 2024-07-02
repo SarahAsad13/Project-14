@@ -1,0 +1,89 @@
+SR: ORG
+Vanderbilt University: ORG
+twenty years: DATE
+2013: DATE
+ten to: CARDINAL
+17: CARDINAL
+Vanderbilt: PERSON
+Microsoft: ORG
+Acrobat: PERSON
+four: CARDINAL
+Accomplishments
+Awards: Second Place for Great Performances at Vanderbilt 2006-07 brochure from Association of College Unions International 
+First Place for Best Calendar 2006-07 from Association of College Unions International -Region 5 
+First Place for Great Performances at Vanderbilt 2001-02 brochure from Association of College Unions International 
+Second Place for Homecoming Ad 2001-02 from Association of College Unions International: WORK_OF_ART
+the Dean of Students: ORG
+et.al: PERSON
+Active Citizenship & Service: ORG
+Arts & Campus Events: ORG
+Assessment: PERSON
+Black Cultural Center: ORG
+Chaplain & Religious Life;: ORG
+Office of University Central
+Administration: ORG
+Conferences Office: ORG
+Greek Life: ORG
+Inclusion Initiatives and Cultural Competence: ORG
+International Student & Scholar Services: ORG
+LGBTQI Life: ORG
+Project Safe Center: ORG
+Reservations & Events: ORG
+Student Accountability,: ORG
+Community
+Standards: ORG
+Student Centers: ORG
+Student Leadership Development: ORG
+Transition Programs: ORG
+Margaret Cuninggim Women's Center: ORG
+DOS: ORG
+the Dean of Students: ORG
+ACE student: ORG
+Compile: PRODUCT
+Attend: ORG
+Dean of Students: ORG
+Marketing/PR Specialist Company Name: ORG
+the Office of the Dean of Students: ORG
+et.al: PERSON
+Vanderbilt: ORG
+Greek Life: ORG
+Vanderbilt Dance Group: ORG
+Vanderbilt: ORG
+Vanderbilt Homecoming: PERSON
+International Lens: PERSON
+two: CARDINAL
+Compile: PRODUCT
+Coordinate: FAC
+Attend: ORG
+Sarratt: GPE
+III Company: PERSON
+Update: ORG
+the Student Center: ORG
+Coordinate: FAC
+Sarratt: ORG
+Answer: ORG
+Oversee: ORG
+Oversee: ORG
+01/1977: LAW
+01/1988: ORG
+III Company: PERSON
+Management Information Systems & User Support Services: ORG
+monthly: DATE
+Maintain: PERSON
+English Indiana University of Pennsylvania: ORG
+English: LANGUAGE
+Interests: NORP
+Skills
+Academic: ORG
+Acrobat: PERSON
+Photoshop: PERSON
+Arts: ORG
+DOS: ORG
+Graphic: PERSON
+Greek: NORP
+Illustration, Illustrator: ORG
+Lotus 1-2-3: PRODUCT
+Office: ORG
+Microsoft: ORG
+Management Information Systems: ORG
+QuarkExpress: ORG

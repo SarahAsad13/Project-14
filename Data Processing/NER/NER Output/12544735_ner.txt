@@ -1,0 +1,26 @@
+Patient Advocate: PERSON
+7 years: DATE
+01/2016: ORG
+Established: ORG
+12/2015: CARDINAL
+Certified Data Entry Pharmacy Technician Company Name: ORG
+Home Carefully: ORG
+EPost: ORG
+Researched CPT: FAC
+ICD-9: NORP
+Maintained: GPE
+State: ORG
+Lead Certified Pharmacy Technician Company Name: ORG
+HIPAA: ORG
+State: ORG
+Created: ORG
+709: CARDINAL
+Training
+Master of Public Administration: WORK_OF_ART
+Health Care Management Grand Canyon University: ORG
+State Health Care Management: ORG
+2011: DATE
+Development Arizona State University: ORG
+State Family and Human Development: ORG
+CPT: ORG
+ICD-9: NORP

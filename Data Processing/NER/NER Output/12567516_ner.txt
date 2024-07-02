@@ -1,0 +1,36 @@
+Professional Summary
+Highly: ORG
+Copywriting: WORK_OF_ART
+Microsoft: ORG
+Excel: PRODUCT
+10/2015: CARDINAL
+Number] months: DATE
+Created: ORG
+monthly: DATE
+monthly: DATE
+Conferred: ORG
+Revised: PERSON
+Communicated: ORG
+Maintained: GPE
+08/2011: CARDINAL
+Current
+Office of State: ORG
+Director City: GPE
+8-12: CARDINAL
+each year: DATE
+28: CARDINAL
+more than $150,000: MONEY
+Collaborated: ORG
+Created: ORG
+Excel: PRODUCT
+01/2012 to 05/2012: CARDINAL
+Intern Company Name: ORG
+Austin Public Relations: ORG
+Broadcast University of Texas: ORG
+City Broadcast
+: LOC
+Skills
+Excellent: ORG
+Copywriting: PERSON
+Excel: PRODUCT
+Microsoft: ORG

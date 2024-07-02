@@ -1,0 +1,95 @@
+Highlights
+MS Excel: ORG
+Word: PERSON
+60: CARDINAL
+Outlook,: GPE
+Intacct: GPE
+Professional Accounting System: ORG
+BOA CashPro: ORG
+ADP: ORG
+BenefitMall Payroll: ORG
+Fidelity: ORG
+May 2015: DATE
+daily: DATE
+Oversee: ORG
+daily: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Prepare standard & custom internal financial: ORG
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+Prepare functional & managerial: ORG
+annual: DATE
+Renew: ORG
+annually: DATE
+annually: DATE
+Pawnbroker: ORG
+annually: DATE
+Policy: PERSON
+annually: DATE
+1) Primary &: ORG
+1)Excess - annually: DATE
+annually: DATE
+Commercial Crime Policy - annually: ORG
+3: CARDINAL
+Prepare: ORG
+Prepare: ORG
+Prepare: ORG
+990: CARDINAL
+annual: DATE
+annually: DATE
+Fidelity: ORG
+Fidelity: ORG
+Provident Loan Society: ORG
+annually: DATE
+Labor: ORG
+quarterly: DATE
+quarterly: DATE
+annually: DATE
+annually: DATE
+daily: DATE
+monthly: DATE
+Finance: ORG
+monthly: DATE
+Review 12: FAC
+monthly: DATE
+quarterly: DATE
+941: CARDINAL
+fed: ORG
+MTA-305: ORG
+NYS Dept: ORG
+Labor Report Wage: ORG
+Update: ORG
+monthly: DATE
+Maintaining & Updating: ORG
+1099: DATE
+monthly: DATE
+401k, Life & Dental Insurance: ORG
+FSA: ORG
+TransitChek: ORG
+GTLI: ORG
+Prepare: ORG
+American Express: ORG
+August 2011 to May 2015: DATE
+AP: ORG
+monthly: DATE
+Software: PERSON
+Identify: ORG
+monthly: DATE
+ADP: ORG
+Maintained: GPE
+October 2010 to June 2011 Company Name: DATE
+75: CARDINAL
+SOX Procedures: ORG
+Exemplary: PERSON
+Bachelor of Arts :: ORG
+Economics City College: ORG
+New York: GPE
+GPA: ORG
+3.2: CARDINAL
+Cum Laude Economics: PERSON
+3.2: CARDINAL
+Cum Laude: PERSON
+Spanish: NORP

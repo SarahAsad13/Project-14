@@ -1,0 +1,153 @@
+DIGITAL: ORG
+CLIENT: GPE
+ExxonMobil Responsibility: ORG
+ExxonMobil: ORG
+UX,: ORG
+Search, Analytics, Technology: ORG
+Client: GPE
+EM: ORG
+Deliver Agency: ORG
+Client: GPE
+Champion US PVL/: ORG
+CVL: ORG
+Manage EM's: WORK_OF_ART
+User Database Marketing: ORG
+year-end: DATE
+ExxonMobil: ORG
+US: GPE
+Russia: GPE
+China: GPE
+User Database Marketing: ORG
+Analytics, Site Content
+Management: ORG
+Digital: ORG
+Contributed: ORG
+2015: DATE
+$3 million: MONEY
+CRM: PRODUCT
+PR Consulted the Restasis: ORG
+Agency: ORG
+Website Development and Optimization (Desktop, Tablet: ORG
+Mobile: GPE
+iPad App: ORG
+Omniture Reporting: ORG
+Google Analytics: ORG
+Webmaster Tool: PERSON
+Paid Search: PERSON
+06/2012: PRODUCT
+Digital Account Supervisor Company Name: ORG
+Land Rover: ORG
+Acted: ORG
+CMS: ORG
+Responsible for Client: ORG
+US: GPE
+UK: GPE
+daily: DATE
+fiscal year: DATE
+Race The Sun: WORK_OF_ART
+Integrated Digital Campaign:: ORG
+Vehicle Configuration: ORG
+Interior: ORG
+Immersive Interactive Film
+Mobile Apps:: ORG
+Land Rover Owner's App: ORG
+Media Partnerships: ORG
+Rich Desktop/Mobile Banners Websites Development and Maintenance: Global Desktop Site: ORG
+Tier 1 Mobile Sites: PERSON
+Tier 2: PERSON
+Micro-Sites: ORG
+Vehicle Configurators: ORG
+Site Tagging: WORK_OF_ART
+Inventory Search Tools: PERSON
+Database Management: ORG
+CMS - SDL Tridion: ORG
+Integrated: NORP
+Kohl: PERSON
+Nasdaq: ORG
+US: GPE
+Global: ORG
+Verizon: ORG
+Novartis - Reclast Responsibility: Strategically: ORG
+multi-million dollar: MONEY
+Client: GPE
+Maintained Client: ORG
+Developed: PRODUCT
+quarterly: DATE
+Projects: Social Media (Facebook: ORG
+Apps: PERSON
+Sweepstakes Campaign: ORG
+Radio: ORG
+Print: GPE
+Rich Media Banners: PERSON
+12/2007 to 01/2010: DATE
+Digital Account Executive Company Name: ORG
+State: ORG
+CPG: ORG
+Neutrogena: GPE
+Aveeno: GPE
+J&J: NORP
+Rx - Remicade: PERSON
+ExxonMobil Novartis: PERSON
+Benefiber: DATE
+Prevacid: GPE
+CibaVision: ORG
+US: GPE
+Medicis - Restylane Responsibilities: PERSON
+Client: GPE
+Client: GPE
+Agency: ORG
+Developed: PRODUCT
+Mobile App: PERSON
+Augmented Reality: ORG
+Touchscreen
+
+eDetail: ORG
+Interactive HCP VisAid): ORG
+Social Media (Facebook: ORG
+Apps, Promotions: ORG
+Contests: NORP
+Videos Other
+Digital Projects: ORG
+US: GPE
+Print: GPE
+CRM: PRODUCT
+10/2006: CARDINAL
+12/2007: CARDINAL
+Integrated Account Executive Company Name: ORG
+CRM: PRODUCT
+daily: DATE
+CRM: PRODUCT
+Emails, Direct Mail: ORG
+Print Ads: PERSON
+FSI: ORG
+DRTV: ORG
+September 2006: DATE
+GPA: ORG
+3.54/4.0: CARDINAL
+3.54/4.0: CARDINAL
+Skills
+Ads, Agency: ORG
+Banners: PRODUCT
+CMS: ORG
+Content Management: ORG
+CRM: PRODUCT
+Client: GPE
+Clients: GPE
+Database
+Management: ORG
+Database Marketing: ORG
+Direct Mail: ORG
+Film: PERSON
+Google Analytics: ORG
+UX: ORG
+Inventory: PERSON
+Next: ORG
+Posters: ORG
+Radio: ORG
+Reality: PRODUCT
+RFP: ORG
+Sun: ORG
+View: ORG
+Website Development: ORG
+Webmaster: PERSON
+year-end: DATE

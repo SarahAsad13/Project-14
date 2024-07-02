@@ -1,0 +1,64 @@
+Project Management and Finance: ORG
+Certified Professional in Human Resources: ORG
+US Armed Forces: ORG
+9 year: DATE
+Qualifications
+Staff Recruitment & Retention Employee Relations Alternative Dispute Resolution: ORG
+ADR: ORG
+HRIS: PERSON
+UltiPro: ORG
+PeopleSoft Enterprise Human Resources: ORG
+ADP) MS Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+80Â  %: PERCENT
+80%: PERCENT
+Generalist: PERSON
+12/2004: CARDINAL
+Name City: GPE
+2004: DATE
+Recruited: PERSON
+Â Germany: GPE
+Key Results: LOC
+US Â Army: ORG
+Structured: ORG
+89%: PERCENT
+approximately 50: CARDINAL
+dozens: CARDINAL
+annually: DATE
+15%: PERCENT
+annually: DATE
+first: ORDINAL
+50: CARDINAL
+4,500: CARDINAL
+annual: DATE
+Key Results: LOC
+thousands of dollars: MONEY
+hours: TIME
+200: CARDINAL
+less than 15: CARDINAL
+Associate of Applied Science : Business Administration 2016: WORK_OF_ART
+State: GPE
+United States Worked: GPE
+ABC Video Store: ORG
+Affiliations: ORG
+Skills: ORG
+ABC: ORG
+ADP: ORG
+ADR: ORG
+Benefits Administration: ORG
+US Army: ORG
+Employee Relations: ORG
+HRIS: ORG
+Human Resources: ORG
+Access, Excel: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Organizational Development: ORG
+PeopleSoft: ORG
+Performance Management: ORG
+Project Management, Recruitment: ORG
+Structured: ORG

@@ -1,0 +1,88 @@
+INTERNATIONAL CERTIFICATION PROGRAM MANAGEMENT
+Profile: ORG
+14 years: DATE
+aviation & aerospace with expertise: ORG
+800 hours: TIME
+Microsoft Windows: ORG
+MS Office: ORG
+Unigraphics: NORP
+LAN: ORG
+WLAN: ORG
+Domestic & international: ORG
+Aircraft Import/export experience: ORG
+Strong: PERSON
+Accident: PRODUCT
+Root Cause Analysis
+
+Accomplishments: ORG
+Brazil: GPE
+China: GPE
+Malaysia: GPE
+Indonesia: GPE
+South Africa: GPE
+New Zealand: GPE
+Argentina: GPE
+Obtained Type Design: ORG
+EASA: ORG
+Canada: GPE
+Maldives: GPE
+Brazil: GPE
+India: GPE
+Russia: GPE
+Developed &: ORG
+50%: PERCENT
+Pilot: ORG
+POH/AFM: ORG
+Unigraphics: ORG
+International Certification Program Management: ORG
+FAA: ORG
+FAA: ORG
+FAA & foreign civil aviation authority: ORG
+Compliance Reports: PERSON
+Drawings: ORG
+FAA: ORG
+Experienced: GPE
+US: GPE
+14CFR 61: DATE
+91: DATE
+23: DATE
+135: CARDINAL
+Knowledgeable: PRODUCT
+European: NORP
+First: ORDINAL
+Europe: LOC
+Mexico: GPE
+New Zealand: GPE
+Qatar: GPE
+Malaysia: GPE
+Colombia: GPE
+Brazil: GPE
+China: GPE
+Russia: GPE
+Argentina: GPE
+Maintenance & Avionics Coordinator 05/2000: ORG
+Name City: GPE
+FAA: ORG
+145: CARDINAL
+Training
+Bachelor of Science : Professional Aeronautics: PERSON
+2009: DATE
+Embry-Riddle Aeronautical University: ORG
+2004: DATE
+Johnson Country Community College City: ORG
+1999: DATE
+Aircraft Owners and Pilots Association: ORG
+Embry-Riddle Aeronautical University Alumni: ORG
+Cherokee
+Flyers: ORG
+Certifications
+
+FAA Certificated Commercial/Instrument Pilot - Single-Engine Airplane: ORG
+PADI Certified Dive Master: ORG
+Skills: ORG
+Autocad: ORG
+LAN: ORG
+Microsoft: ORG
+MS Office: ORG
+Windows: NORP
+Program Management: ORG

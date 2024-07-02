@@ -1,0 +1,148 @@
+Detail: PERSON
+PowerShell: ORG
+VBScript: ORG
+Microsoft Exchange: ORG
+VMWare: ORG
+2007: DATE
+Microsoft Office: ORG
+Active Directory Federation Services: ORG
+Microsoft Windows Azure: ORG
+Microsoft Windows Azure: ORG
+StorSimple: ORG
+Twinstrata: ORG
+Office: ORG
+MVC 4: ORG
+Visual Studio: ORG
+HTML5: ORG
+CSS3: PRODUCT
+Linux: PERSON
+Cacti: PERSON
+LAN: ORG
+Reviewing: GPE
+Hyperion Phase 1: ORG
+MiamiBiz Phase 2: ORG
+Hyperion Phase 1: ORG
+MiamiBiz Phase 2: ORG
+Hyperion: ORG
+MiamiBiz: ORG
+Team Foundation Server: ORG
+Hyperion: ORG
+MiamiBiz: ORG
+Hyperion: ORG
+MiamiBiz: ORG
+Hyperion: ORG
+MiamiBiz: ORG
+Solar Winds: PRODUCT
+Communicating: ORG
+third: ORDINAL
+Reviewing: GPE
+Reviewing: ORG
+SCCM (System Center Configuration: ORG
+Distributed File System: ORG
+the Symantec Veritas Netbackup: ORG
+Symantec Backup
+Exec System Recovery/Livestate: PERSON
+DataDomain: ORG
+Microsoft: ORG
+Windows Server: PERSON
+2003, 2008: DATE
+2012: DATE
+Microsoft Windows 7, Windows 8: ORG
+Microsoft Office: ORG
+2007: DATE
+2010: DATE
+2013: DATE
+McAfee: PERSON
+Migrating Exchange: ORG
+2003: DATE
+Exchange: ORG
+2007: DATE
+Exchange: ORG
+2007: DATE
+2010: DATE
+Veeam: GPE
+Virtual Desktop Infrastructure: ORG
+VDI: ORG
+System Center Configuration: ORG
+Group Policy Objects: ORG
+Microsoft Active Directory: ORG
+Microsoft Exchange Active Sync: ORG
+Apple: ORG
+Android: ORG
+Blackberry: ORG
+the Blackberry Enterprise Server: ORG
+Exchange: ORG
+Visual Basic Script: ORG
+PowerShell: ORG
+Information Services Liaison: ORG
+2007: DATE
+McAfee: PERSON
+BBars: ORG
+Microsoft: ORG
+Internet Information Services: ORG
+Supporting Systems Management Server: ORG
+SMS: ORG
+LAN: ORG
+WAN: ORG
+TCP/IP: ORG
+Domain Name Service: ORG
+DNS: ORG
+Dynamic Host Configuration Protocol: ORG
+DHCP: ORG
+ISA: ORG
+Microsoft Active Directory: ORG
+Windows Enterprise: ORG
+Microsoft: ORG
+Windows Server: PERSON
+2000: DATE
+2003: DATE
+Microsoft Windows XP: ORG
+Windows Vista: PERSON
+Microsoft Office XP: ORG
+2003: DATE
+2007: DATE
+Bachelor of Science , Information Technology: ORG
+Florida: GPE
+International Univeristy: GPE
+State: GPE
+United States: GPE
+Network Administration: ORG
+Database Administration: ORG
+Linux
+Programming Languages: WORK_OF_ART
+Java: PERSON
+JSP: ORG
+HTML: ORG
+CSS: ORG
+Bash: PERSON
+Network+ - 2014: DATE
+Skills
+
+Active Directory: ORG
+Backup Exec: PERSON
+Bash: GPE
+Cacti: PERSON
+Cisco ASA: ORG
+DHCP: ORG
+DNS: ORG
+DataDomain: ORG
+EMC: ORG
+GPO: ORG
+ISA: ORG
+LDAP: GPE
+Linux: GPE
+McAfee, Exchange: ORG
+Microsoft Office: ORG
+Microsoft Windows: ORG
+PowerShell: ORG
+SolarWinds: ORG
+SQL: ORG
+StorSimple: ORG
+TMG: ORG
+Ubuntu, Visual Basic Script: ORG
+Veritas Netbackup: PERSON
+Veeam: GPE
+VMWare: ORG
+VDI: ORG
+NMap: ORG
+ZenMap: LOC

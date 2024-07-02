@@ -1,0 +1,73 @@
+Human Resource Management and Supervision
+
+American Culinary Federation: ORG
+the Culinary Academy of South Dakota: ORG
+Name City: GPE
+State: ORG
+06/2013 to Current
+
+Responsible: ORG
+Client: GPE
+Meeting: PERSON
+State Regulations: ORG
+Assist: NORP
+Name City: GPE
+State Executive Chef 09/2012: ORG
+several hundreds: CARDINAL
+32: CARDINAL
+Name City: GPE
+State: ORG
+Sous Chef 05/2010: PERSON
+the Executive Chef: ORG
+20: CARDINAL
+Joint Commission: ORG
+Name City: GPE
+State: ORG
+Sous Chef: PERSON
+Joint Commission: ORG
+Name City: GPE
+State Line Chef 01/2006
+
+Preparation: ORG
+the Cascade Mountains: LOC
+weekly: DATE
+weekly: DATE
+Name City: GPE
+State Line Chef 01/2005
+
+Opened: ORG
+daily: DATE
+late night: TIME
+Name City: GPE
+State Line Chef 01/2004
+
+Assisted: ORG
+Name City: GPE
+State: ORG
+Sous Chef 01/2003: PERSON
+Line Chef: ORG
+Sous Chef: PERSON
+three months: DATE
+Executive Chef: ORG
+daily: DATE
+daily: DATE
+Oversee: ORG
+HACCP: ORG
+weekly: DATE
+Name City: GPE
+State Line Chef 01/2002: ORG
+Name City: GPE
+State Line Chef 07/2002: ORG
+late night: TIME
+Name City: GPE
+State Line Chef: ORG
+four months: DATE
+Complete: PERSON
+Client: PERSON
+Human Resources Management: ORG
+SOP: ORG
+Supervision
+Education: ORG
+2003: DATE
+Culinary Academy of South Dakota: ORG
+State Culinary Arts: ORG

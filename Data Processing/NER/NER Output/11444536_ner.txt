@@ -1,0 +1,45 @@
+CO-OWNER/EXECUTIVE CHEF: ORG
+Career Focus: FAC
+Fourteen years': DATE
+Skills
+Operations Streamlining
+
+Â  Customer Service
+
+Strategic planning
+Forecasting
+Process developmentÂ: ORG
+Budget: ORG
+Vendor Negotiations: ORG
+2016: DATE
+Professional Experience
+Co-owner/Executive Chef: ORG
+Name City: GPE
+Receiving Clerk/Purchasing Coordinator: ORG
+Name City: GPE
+Build: GPE
+Food-Trak: ORG
+LCB-Dallas: ORG
+BirchStreet: PRODUCT
+weekly: DATE
+Avendra: GPE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+month to month: DATE
+monthly: DATE
+Build: GPE
+Vendor: ORG
+Identify: ORG
+Develop: ORG
+Catastrophe Insurance Claims Adjuster 01/2004: ORG
+approximately 100-200: CARDINAL
+Bachelor of Arts: ORG
+Culinary Management: ORG
+2012: DATE
+BLEU: GPE
+State Culinary
+Management
+Skills
+
+Food-TrakÂ: ORG

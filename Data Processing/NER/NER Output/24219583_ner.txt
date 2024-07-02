@@ -1,0 +1,52 @@
+Training: PERSON
+December 23, 2011
+Bachelor of Science: DATE
+Baltimore School of Nursing - City: ORG
+December 23, 2009: DATE
+Associate of Science : Nursing Transfer Studies Anne Arundel Community College - City: WORK_OF_ART
+August 2003: DATE
+State: ORG
+June 9, 2007: DATE
+State: ORG
+53: CARDINAL
+Oversee: ORG
+5: CARDINAL
+LVN: ORG
+4: CARDINAL
+4: CARDINAL
+CNA: ORG
+53: CARDINAL
+Advocate: ORG
+daily: DATE
+05/2012: CARDINAL
+daily: DATE
+05/2012: CARDINAL
+the Emergency Department: ORG
+Fitness Center Monitor Company Name - City: ORG
+Arlington Echo Outdoor Education Center: ORG
+Maryland: GPE
+Cecil Memorial United Methodist Church: FAC
+848911: DATE
+BLS: ORG
+ACLS: ORG
+09/2016: CARDINAL
+Hospital Fire and Life Safety Card: FAC
+1/2020: CARDINAL
+Therapy Certified: PERSON
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Point Click
+Care: PRODUCT
+Skills: ORG
+CNA: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Therapy, Ventilation: ORG

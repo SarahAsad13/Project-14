@@ -1,0 +1,27 @@
+Career Focus: FAC
+five years: DATE
+Detail: PERSON
+CPR: ORG
+First Aid: ORG
+Great Communication Skills
+Fast Learner
+
+Education: WORK_OF_ART
+2010: DATE
+Esperanza High School ï¼​ City: ORG
+2011 UEI College: ORG
+ï¼​ City: GPE
+2016: DATE
+City: GPE
+March 2016: DATE
+Current Company Name: ORG
+Maintained: GPE
+Clerk: PERSON
+October 2014 to March 2016: DATE
+Communicated: ORG
+September 2011 to September 2014: DATE
+four: CARDINAL
+Completed: ORG
+Dentrix: GPE
+Maintained: GPE
+First Aid: ORG

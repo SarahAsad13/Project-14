@@ -1,0 +1,66 @@
+Software Engineer: ORG
+more than 7 years: DATE
+Highlights
+
+Certified: GPE
+Designer
+Project Management
+Land Desk, Civil 3D andGPS
+Proficient: ORG
+Microsoft Office Suite
+
+Professional Value Offered: ORG
+ESRI: ORG
+SAP: ORG
+County: GPE
+State: ORG
+United Way Loaned Executive: ORG
+CAD Designer: ORG
+08/2008: PERSON
+Site: ORG
+Draw/Design: ORG
+AutoCAD & MicroStation: ORG
+drawings & create Production Document Release: ORG
+QA/QC
+: ORG
+ARC GIS: PERSON
+SAP: ORG
+Drew Blue Prints: ORG
+City, County: GPE
+State: ORG
+CAD: ORG
+GIS: ORG
+ESRI: ORG
+GIS Data: ORG
+GIS: ORG
+GIS: ORG
+Machine Operator: PERSON
+10/2006: CARDINAL
+Established: ORG
+Performed: PERSON
+Performed: ORG
+Associate of Science : Computer Science Business Administration: ORG
+2008: DATE
+Virginia College - City: ORG
+State Computer Science Business
+Administration
+Troy University - City: ORG
+3: CARDINAL
+Professional Affiliations
+
+Very: ORG
+County: GPE
+State: ORG
+United Way Loaned Executive: ORG
+Adobe Photoshop: PERSON
+CAD: ORG
+ESRI: ORG
+GIS: ORG
+GPS: ORG
+Illustrator: ORG
+InDesign: ORG
+Microsoft Office Suite, Microstation, Project: ORG
+QA: ORG
+SAP: ORG
+Technician: NORP
+Troubleshooting: GPE

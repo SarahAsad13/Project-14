@@ -1,0 +1,70 @@
+Relationship Â Management and Human Resource
+Management: ORG
+Highlights
+
+Operations: ORG
+Excel: PRODUCT
+Human Resource Management
+Relationship: ORG
+Microsoft Office: ORG
+the Year: DATE
+PLP Composite Technologies Inc.: ORG
+monthly: DATE
+Pampered Chef: ORG
+third: ORDINAL
+Substitute Para Professional Current Company Name City: ORG
+Pre-School - Grade: ORG
+Â Guide: ORG
+computerÂ: GPE
+one: CARDINAL
+Accompany: PRODUCT
+Unified Arts: ORG
+school year and season: DATE
+02/2014 Company Name City: ORG
+SEC: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+weekly: DATE
+Project Review: ORG
+Performed Human Resource: ORG
+2009 - June: DATE
+one: CARDINAL
+one: CARDINAL
+Manufacturer: ORG
+10/2011: CARDINAL
+Name City: GPE
+Interface: ORG
+Perform Accounts Receivable and Payable: ORG
+Name City: GPE
+US Business Development: ORG
+12/2004: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+US: GPE
+Formenta: ORG
+PLP: ORG
+first: ORDINAL
+US: GPE
+Bryant University City: ORG
+State: ORG
+Dartmouth City: GPE
+State
+Marketing and Management and Human Resource Courses: ORG
+Bristol Community College City: ORG
+State Fisher Junior College: ORG
+Mass Communications Emerson College City: ORG
+State: ORG
+Skills
+Relationship Management, Human Resources Management: ORG
+Â Advertising: ORG
+Proposal Preparation: ORG
+Customer
+Service: ORG
+Policies: GPE
+Product Development, Process Development: ORG
+Project Plans: ORG
+Â  Account Management: ORG
+Accounts Payable/Receivable, Business Development, Client Relations: ORG
+Â Computer Proficient: ORG

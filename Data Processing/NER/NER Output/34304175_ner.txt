@@ -1,0 +1,46 @@
+Warehouse Management: ORG
+Extensive: PRODUCT
+Maintained: GPE
+Personnel: ORG
+Self-Starter Personable: ORG
+Exceptional Analytical Skills Process Redesign and Improvement Safety: WORK_OF_ART
+Talent: PERSON
+Detail: PERSON
+Skill Highlights
+
+Mac: ORG
+PowerPoint: ORG
+Outlook, Access: ORG
+Specialized Training / Seminars: ORG
+Lift Truck Certify: WORK_OF_ART
+Safety Awareness: ORG
+Customer Service Training: ORG
+OSHA Certification: ORG
+HAZMAT Training: ORG
+Advertising Seminars and Training
+
+Shipping: WORK_OF_ART
+Vendor: ORG
+annually: DATE
+April 2011: DATE
+June 2008 to April 2011: DATE
+Warehouse / Support Service 
+City: ORG
+October 2006 to June 2008: DATE
+MARKETING & EVENT: ORG
+September 2002 to October 2006: DATE
+WAREHOUSE & LOGISTICS: ORG
+Community College: ORG
+State: ORG
+One quarter: DATE
+Associate of Applied Arts and Science: ORG
+Skills
+
+ACT!: ORG
+Advertising, Arts, Computer Experience: ORG
+Customer Service Training: ORG
+Mac: PERSON
+PowerPoint: ORG
+Word, Research: ORG
+Seminars: ORG
+TQM: ORG

@@ -1,0 +1,21 @@
+OSHA Certified Construction Workers Union Local: ORG
+265: CARDINAL
+Sandbagging Traffic Control Laying: ORG
+6: CARDINAL
+a year: DATE
+March 2012 to October 2014: DATE
+Cincinnati: GPE
+March 2008 to March 2012: DATE
+August 2005 to: DATE
+February 2008: DATE
+the year: DATE
+June 2005: DATE
+Current Company Name: ORG
+Skills
+Painting
+Education: ORG
+1: CARDINAL
+West Fulton High School: ORG
+State: GPE
+United States: GPE
+Drexel J. Thrash Training Center: ORG

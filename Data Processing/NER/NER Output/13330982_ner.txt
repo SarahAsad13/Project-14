@@ -1,0 +1,65 @@
+Microsoft Office: ORG
+Smart Board
+Geographic Information System: ORG
+Skedula: PERSON
+Developed: PRODUCT
+the Fairness Committee: ORG
+weekly: DATE
+Student Council: ORG
+Ramapo for Children: ORG
+Oversaw: GPE
+COSA: ORG
+the Coney Island Generation Gap: ORG
+Diploma Plus High School: ORG
+Coney Island Generation: LOC
+High School and Greening the Community: ORG
+Student Talent Showcase: ORG
+San Fillipo Syndrome: EVENT
+Coordinated: ORG
+two: CARDINAL
+second: ORDINAL
+Friday: DATE
+Earth Day: DATE
+Keiser Park Beach: FAC
+Coney Island: LOC
+over 1,000 pounds: QUANTITY
+Coney Island: LOC
+Affiliations: ORG
+Alliance for Climate Education: ORG
+Coney Island: LOC
+Friends of Kaiser Park: ORG
+13: CARDINAL
+Coney Island Generation Gap: LOC
+Urban Neighborhood Services: ORG
+Current Company Name: ORG
+Earth Science: LOC
+Facilitated: ORG
+six: CARDINAL
+Health: Physical: ORG
+Spiritual: ORG
+Coach: ORG
+Current Company Name: ORG
+Created: ORG
+Monitored: ORG
+10/1998: CARDINAL
+Flanagan: PERSON
+Detention Facility: ORG
+Youth Care Worker/Recreation Director: ORG
+Boy's: ORG
+Behavior Modification: ORG
+Master of Education: WORK_OF_ART
+2015: DATE
+Concordia University: ORG
+City: GPE
+State: GPE
+United States: GPE
+Bachelor of Arts : Earth Science: ORG
+2009: DATE
+Brooklyn: GPE
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Global Learning and Observations to Benefit the Environment: ORG
+National Science Teachers Association: ORG
+New York Academy of Sciences: ORG
+United Federation of Teachers: ORG

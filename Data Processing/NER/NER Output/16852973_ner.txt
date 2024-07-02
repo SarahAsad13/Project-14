@@ -1,0 +1,47 @@
+Dedicated Customer Service: ORG
+15+ years: DATE
+Hospitality: GPE
+Customer Service Management: ORG
+Team: ORG
+Missouri: GPE
+IHG: ORG
+Customer Loyalty and Marketing by Segment
+Hilton Worldwide: ORG
+Accomplished Trainer: PERSON
+Hilton OnQ: ORG
+Micros Opera PMS: ORG
+Fidelio OPERA Reservation
+System: ORG
+2013: DATE
+Keeps: ORG
+2 months: DATE
+Created: ORG
+Advanced Medical Claims: ORG
+Mar 2012: PERSON
+Dec 2013: DATE
+Jun 2010: PERSON
+Dec 2010: DATE
+Established: ORG
+daily: DATE
+Chamber of Commerce: ORG
+Jun 2010: PERSON
+State: ORG
+Human Resources: ORG
+second: ORDINAL
+Reservation & Front Office: ORG
+Jun 2004: DATE
+State: ORG
+Dec 2001 to May 2004: DATE
+1999: DATE
+N/A , Business Administration: ORG
+Jefferson College: ORG
+State
+
+Business Administration
+Marketing / Advertising
+
+High School Diploma: ORG
+Sainte Genevieve Senior: PERSON
+Jefferson College: ORG
+Customer Service: ORG
+Human Resources: ORG

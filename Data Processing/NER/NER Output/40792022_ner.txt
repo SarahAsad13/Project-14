@@ -1,0 +1,35 @@
+BUSINESS DEVELOPMENT: ORG
+Customer Retention & Satisfaction
+Evaluating Customer Needs
+
+: ORG
+Business Development Representative: ORG
+March 2010: DATE
+Current Company Name - City: ORG
+monthly: DATE
+Healthcare: ORG
+December 2008 to March 2010: DATE
+Cigna: GPE
+Maintained: GPE
+Utilized: ORG
+March 2005 to: DATE
+December 2008: DATE
+North Miami: GPE
+daily: DATE
+Trainee: PERSON
+May 2004 to March 2005: DATE
+day: DATE
+MBA : Business Administration: WORK_OF_ART
+2009: DATE
+State Business Administration: ORG
+2002: DATE
+Florida State University - City: ORG
+Business Development: ORG
+Team Building: ORG
+Microsoft Office Suite: ORG
+Microsoft Project: ORG
+Quick Books: ORG
+Safety: ORG
+Strategic
+Planning: ORG
+Supply Chain Management: ORG

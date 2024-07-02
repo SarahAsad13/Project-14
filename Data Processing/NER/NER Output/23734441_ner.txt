@@ -1,0 +1,102 @@
+06/2012: PRODUCT
+Current
+Accountant Company Name: ORG
+monthly: DATE
+daily: DATE
+daily: DATE
+monthly: DATE
+Great
+Plains: FAC
+monthly: DATE
+Maintain: ORG
+Accounts Payable: ORG
+Provide: NORP
+Track: PERSON
+daily: DATE
+Accountant Company Name: ORG
+Supervisor: PERSON
+Kelley Van Horn: PERSON
+703)878-2222: DATE
+Hrs: PERSON
+40: CARDINAL
+Processed: GPE
+monthly: DATE
+Processed: GPE
+month: DATE
+Assisted: ORG
+Provided: ORG
+weekly: DATE
+Prepared Time and Management: ORG
+ACH: ORG
+QuickBooks Intuit: ORG
+Prepared: PRODUCT
+Eva Haynes: PERSON
+703: CARDINAL
+341: CARDINAL
+Hrs: PERSON
+40: CARDINAL
+Great Plains: PERSON
+monthly: DATE
+Assisted: ORG
+month-end: DATE
+Created: ORG
+third: ORDINAL
+Participate: ORG
+year-end: DATE
+monthly: DATE
+twenty: CARDINAL
+20: CARDINAL
+GPA: ORG
+4.0: CARDINAL
+4.0: CARDINAL
+Walden University: ORG
+15: CARDINAL
+30: CARDINAL
+1 2005: DATE
+BS : Business Administration 
+University of Maryland University College: ORG
+GPA: ORG
+GPA: ORG
+3.2: CARDINAL
+3.2: CARDINAL
+1 2004: DATE
+AA : Accounting 
+University of Maryland University College - 
+: WORK_OF_ART
+GPA: ORG
+GPA: ORG
+3.3: CARDINAL
+3.3 24 hours: TIME
+Accounting: GPE
+60: CARDINAL
+60: CARDINAL
+12 2013: CARDINAL
+24 hours: TIME
+Accounting: GPE
+Accounting I & II: ORG
+Intermediate Accounting I & II: ORG
+Accounting Information Systems: ORG
+Cost
+Accounting: ORG
+Ethical: NORP
+Accounting: GPE
+Skills
+Accounting I, Accounting, Accountant: ORG
+AR: ORG
+Cost Accounting: ORG
+Credit: ORG
+EDI: ORG
+GL: ORG
+Great Plains: PERSON
+Great Plains: PERSON
+Information Systems: ORG
+Legal: GPE
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG
+Supervisor: PERSON
+Typing, Work Flow: WORK_OF_ART
+year-end: DATE

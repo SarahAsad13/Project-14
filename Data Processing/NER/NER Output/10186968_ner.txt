@@ -1,0 +1,40 @@
+AR/AP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Quick
+Books: PERSON
+Sensitive
+Family: WORK_OF_ART
+Detail: PERSON
+Team: ORG
+Child Family Advocate: WORK_OF_ART
+August 2013: DATE
+Collaborated: ORG
+Maintained: GPE
+daily: DATE
+Created: ORG
+Customer Services Team Lead: ORG
+October 2010 to March 2013: DATE
+four consecutive quarters: DATE
+Customer Service/Banking: ORG
+November 2007 to March 2009: DATE
+inter-department call center operations: ORG
+Examined: NORP
+August 2007 to November 2007: DATE
+Created: ORG
+Excel: PRODUCT
+Call Center/Phone Representative/Collector: ORG
+August 2005 to November 2007: DATE
+daily: DATE
+Education: ORG
+Recruitment l Continuing: ORG
+Human Services Greenville
+College l Desktop: ORG
+ï¼​ City: GPE
+Skills: ORG
+400: CARDINAL
+Labor Relations
+Leadership
+Sales
+
+: ORG

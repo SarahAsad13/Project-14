@@ -1,0 +1,50 @@
+Career Focus
+Exceptionally: ORG
+13 years: DATE
+AS400: PRODUCT
+Anosos/Cerner: ORG
+Microsoft Office: ORG
+Professional Experience
+01/2013: ORG
+weekly: DATE
+semi-monthly: DATE
+Monitored: ORG
+daily: DATE
+Maintained: GPE
+annual: DATE
+monthly: DATE
+Obtained: ORG
+Consolidated: ORG
+Maintained: GPE
+100%: PERCENT
+Conceptualized: PRODUCT
+Created: ORG
+annual: DATE
+day: DATE
+01/2004: CARDINAL
+Order: ORG
+Prepare: ORG
+third: ORDINAL
+AS400: PRODUCT
+01/2004: CARDINAL
+Lifeguard/Swim Instructor/Aquatic Fitness Trainer Company Name: ORG
+first: ORDINAL
+CPR: ORG
+911: CARDINAL
+01/2003: CARDINAL
+Bank Teller Company Name: ORG
+Processed: GPE
+daily: DATE
+Utilized: ORG
+2007: DATE
+Associate of Applied Science : Business Administration/Accounting Raritan Valley Community College: WORK_OF_ART
+The American Health Information Management: ORG
+AHIMA: ORG
+Skills: ORG
+10: CARDINAL
+AS400: PRODUCT
+CPR: ORG
+first: ORDINAL
+Kronos: ORG
+Microsoft Office: ORG
+QuickBooks Pro: ORG

@@ -1,0 +1,60 @@
+Highlights: GPE
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Adobe Photoshop: PERSON
+Adobe Illustrator: ORG
+MailChimp: PRODUCT
+Basecamp: GPE
+Grand: PERSON
+California: GPE
+one: CARDINAL
+monthly: DATE
+Team Giselle: ORG
+10/2010: DATE
+Team Giselle: ORG
+Giselle Ayala's: FAC
+annual: DATE
+Resident Advisor: ORG
+Nitevibe: ORG
+SF Gate: ORG
+GoFundMe.com: ORG
+weekly: DATE
+monthly: DATE
+Team Giselle: ORG
+Current
+Public Relations & Marketing: ORG
+Bay Area: LOC
+7 years': DATE
+BlackArrow: ORG
+annual: DATE
+Specifically: ORG
+two: CARDINAL
+12k+: CARDINAL
+Curate: ORG
+daily: DATE
+Brother Grand: ORG
+2012: DATE
+De Anza College: ORG
+2005: DATE
+Light Reading: PERSON
+November 2012: DATE
+OnMedia: ORG
+100: CARDINAL
+AlwaysOn Media: PERSON
+February 2013: DATE
+Interactive Media Council: ORG
+August 2013: DATE
+100: CARDINAL
+Streaming Media: GPE
+October 2014: DATE
+INTERESTS Running: ORG
+Adobe Illustrator: ORG
+Adobe Photoshop: PERSON
+Marketing Management: ORG
+Microsoft Excel: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Research: ORG

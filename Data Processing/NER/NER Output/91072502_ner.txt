@@ -1,0 +1,52 @@
+PREMIUM CLUB CHEF
+Executive Profile: ORG
+Twenty three years: DATE
+Skill Highlights
+
+Food: ORG
+Core Accomplishments
+
+Consistently: WORK_OF_ART
+monthly: DATE
+monthly: DATE
+23%: PERCENT
+Oversaw: GPE
+Premium Club Chef 01/2014: ORG
+Oversee: ORG
+300: CARDINAL
+daily: DATE
+Chef's Table: ORG
+240: CARDINAL
+daily: DATE
+Chef's Table: ORG
+140: CARDINAL
+daily: DATE
+day: DATE
+Oversaw 40: PRODUCT
+2: CARDINAL
+Pastry Chef 03/2013 to 01/2014 Company Name City: PRODUCT
+9: CARDINAL
+Pastry Chef 06/2012: PRODUCT
+daily: DATE
+Name City: GPE
+seasonal: DATE
+monthly: DATE
+Name City: GPE
+Oversaw 30: PRODUCT
+2: CARDINAL
+weekly: DATE
+daily: DATE
+19: CARDINAL
+Pastry Chef 04/1991: PRODUCT
+05/1995 Company Name City: ORG
+four: CARDINAL
+Pier: PERSON
+39: DATE
+Oversaw: GPE
+Associate of Occupational Studies: ORG
+1991: DATE
+The Culinary Institute of America City: ORG
+State: ORG
+Culinary Arts
+
+Skills: WORK_OF_ART

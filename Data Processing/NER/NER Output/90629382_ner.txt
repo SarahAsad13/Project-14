@@ -1,0 +1,56 @@
+BUSINESS DEVELOPMENT MARKETING: ORG
+Highlights
+Skilled in MS Office: WORK_OF_ART
+AS400: PRODUCT
+Excel: PRODUCT
+Quickens: PERSON
+Cubs-Picklan
+
+Fluent: ORG
+Spanish: NORP
+monthly: DATE
+Business Development Marketing Representative: ORG
+January 2000: DATE
+Current Company Name: ORG
+Consumers Maintain: PRODUCT
+Dealers and Management: ORG
+Train Dealers: ORG
+Field Representatives Market In: ORG
+Direct Mail: ORG
+Review: ORG
+Chapter 13: LAW
+Junior Accounting Clerk / Case Analyst / Skip Tracer: ORG
+January 1991 to January 2000: DATE
+over 1,300: CARDINAL
+2,000: CARDINAL
+daily: DATE
+Loan Processor: ORG
+January 1989 to December 1990: DATE
+daily: DATE
+daily: DATE
+Accounting Business Certificate : Accounting: ORG
+1995: DATE
+Cypress Community College: ORG
+State: GPE
+US: GPE
+Coursework in Accounting, Finance and Business Administration
+
+Certificate : Management: ORG
+State: GPE
+US: GPE
+Legal Marketing and Management: ORG
+Bilingual: GPE
+Spanish/English
+
+: EVENT
+Affiliations: ORG
+Chapter 13: LAW
+Credit Decisions: ORG
+Credit Evaluation: ORG
+Advertising, Business Development, Buyer: ORG
+Sales Calls: PERSON
+Filing: GPE
+Incoming Calls: PERSON
+Clerk, Invoices, Payments,: ORG
+Account Management: Business Development, Team Building: ORG
+Territory Management: ORG

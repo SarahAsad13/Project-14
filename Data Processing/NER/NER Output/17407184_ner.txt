@@ -1,0 +1,80 @@
+Core Qualifications: ORG
+January 1995: DATE
+Current Company Name: ORG
+Project Management, Training Facilitation: ORG
+Instructional Design and Development Managed: ORG
+1Â½
+day: DATE
+Operational Effectiveness Phases I - IV for Select Service: ORG
+General Managers and Operations
+Managers: ORG
+iT: ORG
+Interviewer Certification: ORG
+PeopleSoft: ORG
+the Helm Front Office Leadership: FAC
+the Full
+Service Rooms Operations Department: ORG
+Project Oceans: ORG
+Project
+Eclipse: PERSON
+the Change Management: ORG
+Client Relations and Program Management Learning: ORG
+Finance: ORG
+Coordinated: ORG
+Vovici: PERSON
+Accounting Prepared: PERSON
+three: CARDINAL
+JANET A.
+STRUDWICK: PERSON
+2: CARDINAL
+the International Fee Revenue Database: ORG
+PeopleSoft: ORG
+eight months: DATE
+two days: DATE
+two weeks: DATE
+January 2003 to January 2004: DATE
+January 1993 to January 1995: DATE
+Training
+Master of Science : Education: WORK_OF_ART
+2003: DATE
+CALIFORNIA STATE UNIVERISTY: ORG
+HAYWARD: LOC
+City: GPE
+GPA: ORG
+4.0: CARDINAL
+Online Teaching and Learning Creating Effective Collaborative Learning Experiences: ORG
+GPA: ORG
+4.0: CARDINAL
+Bachelor of Science :: ORG
+1993: DATE
+State Accounting
+Bachelor of Science : Business Administration: ORG
+1983: DATE
+SCIENCE: ORG
+City: GPE
+Jamaica Business
+Administration
+Publications: ORG
+California Virtual Campus: ORG
+April 2003: DATE
+March: DATE
+2003: DATE
+Focus Newsletter Collaborative Learning: ORG
+Challenges: ORG
+March 2003: DATE
+Skills
+Accounting: ORG
+Change Management: ORG
+Database: GPE
+Eclipse: PRODUCT
+Finance: ORG
+Front Office: ORG
+Instructional Design: ORG
+Microsoft Office Suite: ORG
+PeopleSoft HRMS: PERSON
+PeopleSoft: ORG
+Program Management: ORG
+Project Management: ORG
+Affiliations: ORG
+Project Management Institute: ORG
+the Association for Talent Development: ORG

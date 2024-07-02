@@ -1,0 +1,71 @@
+Supervisor: PERSON
+26 years: DATE
+US: GPE
+Core Qualifications
+
+Supervision: ORG
+Budget Allocation
+Calm: WORK_OF_ART
+Team Player
+Training and Development
+Administrative Skills: WORK_OF_ART
+01/2016
+: PERSON
+Accountant Company Name: PERSON
+Determine: ORG
+6 month: DATE
+Federal Accountant Company Name
+
+: ORG
+U.S.: GPE
+Treasury: ORG
+daily: DATE
+daily: DATE
+01/2011: CARDINAL
+over $200,000,000.00: MONEY
+U.S.: GPE
+Marine Corps Accounting: ORG
+USMC: ORG
+24 years: DATE
+MFP 2: LAW
+Marine Corps: ORG
+SABRS: ORG
+HQMC: GPE
+USSOCOM: GPE
+MARSOC: ORG
+Coordinated: ORG
+MARSOC: ORG
+the Defense Travel System: ORG
+Liaison: PERSON
+USMC: ORG
+USSOCOM: GPE
+Briefed Commanders: ORG
+U.S.: GPE
+Marine Corps Forces: ORG
+Special Operations Command: ORG
+MARSOC: ORG
+Marine Corps: ORG
+01/1987: CARDINAL
+Financial Management Resource Analyst Company Name: ORG
+Department of Defense: ORG
+Coded: ORG
+Education: ORG
+2008: DATE
+State Management
+Personal Information
+Service Country: ORG
+3: CARDINAL
+Interests: NORP
+September 1987 to December 2011: DATE
+MARSOC-Camp Lejuene: ORG
+DTS: ORG
+Treasury: ORG
+September 1987 to: DATE
+MARSOC-Camp Lejuene Commendations: ORG
+4th: ORDINAL
+AWARDS Navy & Marine Corps Commendation: ORG
+Medal Marine Corps Good Conduct Medal Joint Service Medal Navy: ORG
+Marine Corps Achievement Medal Sea Service: ORG
+Medal Joint Service Achievement: ORG
+National Defense Service Medal Global War on Terror Medal Selected Marine Corps Reserve: ORG
+Medal Meritorious Service Medal: ORG

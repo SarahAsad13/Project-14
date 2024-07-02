@@ -1,0 +1,42 @@
+SPECIALIST: ORG
+Driven: PERSON
+Dynamic: PERSON
+20 years: DATE
+Microsoft: ORG
+Word: PERSON
+Excel: PRODUCT
+Access, Outlook: ORG
+PowerPoint: ORG
+Inbound: GPE
+May 2007 to: DATE
+2008: DATE
+Accenture Peopleline: PERSON
+Maintained: GPE
+Customer Service: ORG
+Mar: PERSON
+2007 to Feb 2008: DATE
+Maintained: GPE
+Short Term Disability: ORG
+Facilitated: ORG
+the Absence Management Team: ORG
+Communicated: ORG
+Call Centre Shift: ORG
+2003: DATE
+Mar: PERSON
+2007: DATE
+Medical and Professional: ORG
+San Antonio: GPE
+hours: TIME
+Training
+Certificate of Completion *Business Administration: ORG
+1997: DATE
+Texas A&M Extension Services: ORG
+City: GPE
+Skills: ORG
+10: CARDINAL
+Access: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG

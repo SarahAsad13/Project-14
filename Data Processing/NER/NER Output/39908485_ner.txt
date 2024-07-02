@@ -1,0 +1,366 @@
+PROJECT MANGER/: PERSON
+21 years: DATE
+General Construction Project: ORG
+multi-million dollar Construction: MONEY
+complex data & profit: ORG
+Project Management: ORG
+per-Construction stage & beyond: ORG
+Commercial & Internal Relations Development: Articulate: ORG
+third: ORDINAL
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Quality Control / Inspection
+
+Team Building / Leadership
+Project Coordination / Development
+OSHA Regulation / Project Safety
+Cost / Profit Analysis
+Civil Engineering
+Project Planning and Development
+Project: ORG
+Work History
+Project Manger/Lead Super: WORK_OF_ART
+$65 Million: MONEY
+five: CARDINAL
+153,670: CARDINAL
+SF: GPE
+Urban: ORG
+Newark: GPE
+Rutgers University: ORG
+391: CARDINAL
+two: CARDINAL
+25,000: CARDINAL
+5: CARDINAL
+74,000: CARDINAL
+SF: GPE
+330: CARDINAL
+two weeks: DATE
+Municipality: PERSON
+Winter of 2018: DATE
+Exterior Island Building: FAC
+Transformers: ORG
+Exterior Brick: PERSON
+Exterior Aluminum: PERSON
+Dobbs Ferry Cinemas: WORK_OF_ART
+12 Million: CARDINAL
+Restaurant: ORG
+May 2016 and June 2017: DATE
+Learning Experience: ORG
+3 Million dollars: MONEY
+5 Million dollar: MONEY
+LA Fitness Center: ORG
+NJ: ORG
+October of 2017: DATE
+20 Million dollar: MONEY
+Meridian Housing Complex: PERSON
+106: CARDINAL
+4: CARDINAL
+2: CARDINAL
+Parking Garage
+
+Coordination of Demolition: ORG
+Parking Garage
+Obtained: WORK_OF_ART
+Hackensack: GPE
+P S: ORG
+Kept: PERSON
+two: CARDINAL
+Englewood Fire House: FAC
+Englewood: GPE
+NJ: ORG
+Edgeboro Maintenance Building: PERSON
+East Brunswick: GPE
+NJ: ORG
+$15 Million: MONEY
+Englewood Fire: FAC
+House: ORG
+Edgeboro Maintenance Building: PERSON
+Directed: ORG
+Bid: PERSON
+5 million dollars: MONEY
+10/2013: DATE
+Jersey: GPE
+Hanover: WORK_OF_ART
+NYC Park: GPE
+Roger Morris Park: PERSON
+Jersey City Pedestrians Stair Project: ORG
+Utilized: ORG
+Faber Skate Park: ORG
+Utilized: ORG
+Roger Morris Park
+
+Construction Manager/ Filed Super: FAC
+10/2013: CARDINAL
+Brooklyn: GPE
+NY: GPE
+50: CARDINAL
+150: CARDINAL
+2: CARDINAL
+Facilitate: ORG
+4) month: DATE
+1) month ahead: DATE
+500: CARDINAL
+12/2012: CARDINAL
+National Construction Company: ORG
+Rutgers: ORG
+40M-12: MONEY
+Student Housing: WORK_OF_ART
+165,000: CARDINAL
+SF: GPE
+Camden: GPE
+NJ: ORG
+350: CARDINAL
+102: CARDINAL
+Completed Dow Jones$ $4M Press Plant: ORG
+Maryland: GPE
+Georgia: GPE
+100: MONEY
+Astoria: ORG
+Prepared: PRODUCT
+several months: DATE
+Championed: PRODUCT
+Efficiently: ORG
+2: CARDINAL
+daily: DATE
+Directed: ORG
+3: CARDINAL
+3: CARDINAL
+6: CARDINAL
+12/2004: CARDINAL
+Troubleshot: PERSON
+Generated: ORG
+Spearheaded: ORG
+65: MONEY
+13: CARDINAL
+UMDNJ: ORG
+Newark: GPE
+New Jersey: GPE
+Directed: ORG
+UMDNJ: ORG
+5: CARDINAL
+Coordinated: PRODUCT
+9: CARDINAL
+140: MONEY
+East Orange: GPE
+New Jersey: GPE
+Collaborated: ORG
+02/2001: ORG
+12/2004: CARDINAL
+60M+: MONEY
+1 year: DATE
+1st: ORDINAL
+15: MONEY
+Gabreski Airport: FAC
+Long Island: GPE
+New York: GPE
+$1M: MONEY
+Coordinated: ORG
+02/1999: ORG
+02/2001: CARDINAL
+Keyspan: PERSON
+2000: DATE
+Oversaw: GPE
+Directed 2: ORG
+State University Construction Fund: ORG
+4: CARDINAL
+state university: ORG
+Associate of Science : Civil Engineering Technology: ORG
+1985: DATE
+New York City Technical College - City: ORG
+08/1990: CARDINAL
+NJ IT Institute of Technology - City: ORG
+08/1980 
+Faculty of Engineering Alexandria University - City: ORG
+Racanelli Construction: ORG
+$(: MONEY
+1: CARDINAL
+one million dollar: MONEY
+Increased Racanelli: PERSON
+over $: MONEY
+60) Million dollar: MONEY
+1) one year: DATE
+15) fifteen: CARDINAL
+Racanelli: PERSON
+6: CARDINAL
+$(: MONEY
+Patracca: LOC
+Took -on Failing $: ORG
+12) Million Dollar: MONEY
+over $: MONEY
+1: CARDINAL
+10: CARDINAL
+over $: MONEY
+3Month: CARDINAL
+Dobtol
+Construction: ORG
+Took -on Failing: ORG
+50: CARDINAL
+150: CARDINAL
+Hour Site Safety: ORG
+Chapter 33: LAW
+Certificate â€¢8 Hour - NYC DOB SST:: WORK_OF_ART
+Refresher Training: PERSON
+Elective Certified Soil Inspector: ORG
+NYCDOB: ORG
+Skills
+
+Construction Estimating / Management
+Procore Project Management: ORG
+Microsoft: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Quality Control / Inspection
+
+Team Building / Leadership
+Project Coordination / Development
+OSHA Regulation / Project Safety
+Cost / Profit Analysis
+Civil Engineering
+Project Planning and Development
+Project: ORG
+Work History
+Project Manger/Lead Super: WORK_OF_ART
+$65 Million: MONEY
+five: CARDINAL
+153,670: CARDINAL
+SF: GPE
+Urban: ORG
+Newark: GPE
+Rutgers University: ORG
+391: CARDINAL
+two: CARDINAL
+25,000: CARDINAL
+5: CARDINAL
+74,000: CARDINAL
+SF: GPE
+330: CARDINAL
+two weeks: DATE
+Municipality: PERSON
+Winter of 2018: DATE
+Exterior Island Building: FAC
+Transformers: ORG
+Exterior Brick: PERSON
+Exterior Aluminum: PERSON
+Dobbs Ferry Cinemas: WORK_OF_ART
+12 Million: CARDINAL
+Restaurant: ORG
+May 2016 and June 2017: DATE
+Learning Experience: ORG
+3 Million dollars: MONEY
+5 Million dollar: MONEY
+LA Fitness Center: ORG
+NJ: ORG
+October of 2017: DATE
+20 Million dollar: MONEY
+Meridian Housing Complex: PERSON
+106: CARDINAL
+4: CARDINAL
+2: CARDINAL
+Parking Garage
+Coordination of Demolition: WORK_OF_ART
+Parking Garage
+Obtained: WORK_OF_ART
+Hackensack: GPE
+P S: ORG
+Kept: PERSON
+two: CARDINAL
+Englewood Fire House: FAC
+Englewood: GPE
+NJ: ORG
+Edgeboro Maintenance Building: PERSON
+East Brunswick: GPE
+NJ: ORG
+$15 Million: MONEY
+Englewood Fire: FAC
+House: ORG
+Edgeboro Maintenance Building: PERSON
+Directed: ORG
+Bid: PERSON
+5 million dollars: MONEY
+10/2013: DATE
+Jersey: GPE
+Hanover: WORK_OF_ART
+NYC Park: GPE
+Roger Morris Park: PERSON
+Jersey City Pedestrians Stair Project: ORG
+Utilized: ORG
+Faber Skate Park: ORG
+Utilized: ORG
+Roger Morris Park
+
+Construction Manager/ Filed Super: FAC
+10/2013: CARDINAL
+Brooklyn: GPE
+NY: GPE
+50: CARDINAL
+150: CARDINAL
+2: CARDINAL
+Facilitate: ORG
+4) month: DATE
+1) month ahead: DATE
+500: CARDINAL
+12/2012: CARDINAL
+National Construction Company: ORG
+Rutgers: ORG
+40M-12: MONEY
+Student Housing: WORK_OF_ART
+165,000: CARDINAL
+SF: GPE
+Camden: GPE
+NJ: ORG
+350: CARDINAL
+102: CARDINAL
+Completed Dow Jones$ $4M Press Plant: ORG
+Maryland: GPE
+Georgia: GPE
+100: MONEY
+Astoria: ORG
+Prepared: PRODUCT
+several months: DATE
+Championed: PRODUCT
+Efficiently: ORG
+2: CARDINAL
+daily: DATE
+Directed: ORG
+3: CARDINAL
+3: CARDINAL
+6: CARDINAL
+12/2004: CARDINAL
+Troubleshot: PERSON
+Generated: ORG
+Spearheaded: ORG
+65: MONEY
+13: CARDINAL
+UMDNJ: ORG
+Newark: GPE
+New Jersey: GPE
+Directed: ORG
+UMDNJ: ORG
+5: CARDINAL
+Coordinated: PRODUCT
+9: CARDINAL
+140: MONEY
+East Orange: GPE
+New Jersey: GPE
+Collaborated: ORG
+02/2001: ORG
+12/2004: CARDINAL
+60M+: MONEY
+1 year: DATE
+1st: ORDINAL
+15: MONEY
+Gabreski Airport: FAC
+Long Island: GPE
+New York: GPE
+$1M: MONEY
+Coordinated: ORG
+02/1999: ORG
+02/2001: CARDINAL
+Keyspan: PERSON
+2000: DATE
+Oversaw: GPE
+Directed 2: ORG
+State University Construction Fund: ORG
+4: CARDINAL
+state university: ORG

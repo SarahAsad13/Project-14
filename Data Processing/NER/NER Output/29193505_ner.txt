@@ -1,0 +1,95 @@
+II: CARDINAL
+Baseline: PERSON
+MS Office: ORG
+Superb: NORP
+96%: PERCENT
+146: CARDINAL
+over 23: CARDINAL
+02/2015 Company Name City: ORG
+PCOR: NORP
+Performed: ORG
+Tools: PERSON
+Ericsson: PERSON
+Excel: PRODUCT
+Name City: GPE
+State: ORG
+AT&T: ORG
+PMW Sprint: ORG
+iDen: GPE
+Colorado: GPE
+Wyoming: GPE
+Montana: GPE
+BOM: ORG
+BOM: ORG
+GC: ORG
+Maintaining Milestone: ORG
+daily: DATE
+PCOR: NORP
+Tools: PERSON
+Siterra: ORG
+State
+
+Sprint Project: ORG
+Supervisor: PERSON
+Daily: PERSON
+CPR: ORG
+first: ORDINAL
+JHA: ORG
+86: CARDINAL
+2: CARDINAL
+Building BOM: ORG
+GC: ORG
+P.O: GPE
+Deny: PERSON
+11/2012: CARDINAL
+Name City: GPE
+fighter / EMT: ORG
+Certified Diver: FAC
+Hammond: GPE
+Fort Collins: GPE
+Owner - Property: ORG
+11/2012: CARDINAL
+Name City: GPE
+Colorado: GPE
+Oklahoma: GPE
+Processed: GPE
+Spreadsheets: NORP
+Name City: GPE
+Antenna: PERSON
+TMA: ORG
+Microwave: PERSON
+Anritsu: PERSON
+Foreman: PERSON
+04/2006: CARDINAL
+Name City: GPE
+State: ORG
+9: CARDINAL
+antennas: GPE
+Backhoe, Hydro: ORG
+Crane: ORG
+Anritsu: ORG
+CDL: ORG
+U.S: GPE
+U.S: GPE
+Name City: GPE
+Texas: GPE
+Oklahoma: GPE
+Training
+Lubbock Christian University City: ORG
+State: ORG
+20 semester hours: TIME
+Bachelors: PRODUCT
+University of Maryland City: ORG
+Germany: GPE
+10 semester hours: TIME
+Bachelors: PRODUCT
+1989: DATE
+U.S. Department of Defense Heidelberg High School City: ORG
+Germany: GPE
+Skills
+
+Heavy: ORG
+EMT: ORG
+OSHA: ORG
+10: CARDINAL
+Anritsu: PERSON

@@ -1,0 +1,54 @@
+Claims: NORP
+Enterprise: ORG
+MRM: ORG
+Human Resources: ORG
+Microsoft: ORG
+Suite Strong: PERSON
+Succeed: PRODUCT
+Expert: PRODUCT
+DMV: ORG
+Automotive: ORG
+CA: ORG
+TX: ORG
+NM: ORG
+Claims Reporting Proficient: ORG
+Portal Insurance: ORG
+HUON: ORG
+Claims Portal: PERSON
+Skills
+Â: ORG
+Claims Portal: PERSON
+Work History
+Policy Service Specialist III: WORK_OF_ART
+November 2006 to June 2010: DATE
+Microsoft: ORG
+Provide World Class: WORK_OF_ART
+Membership: GPE
+California: GPE
+Texas: GPE
+New Mexico: GPE
+three: CARDINAL
+Assist: NORP
+August 2005 to September 2006: DATE
+seven: CARDINAL
+beauticians: NORP
+Supervisor of the Call Center: WORK_OF_ART
+the Travel Production: ORG
+May 2012 to December 2013: DATE
+Foster: PERSON
+Communicate: ORG
+Empower: PRODUCT
+twenty-one: CARDINAL
+the Travel Production Center: ORG
+TPC: ORG
+MSC: ORG
+January 2005 to January 2006: DATE
+Communicate: ORG
+lien: PERSON
+Los Angeles Harbor College: ORG
+1 2004 City: DATE
+Skills: ORG
+Call Center: ORG
+CA: ORG
+Focus: ORG
+MSC: ORG

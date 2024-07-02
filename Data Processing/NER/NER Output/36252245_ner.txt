@@ -1,0 +1,73 @@
+Owen B Headman Highly: PERSON
+United States Army
+Sergeant: ORG
+20 years: DATE
+Highlights: GPE
+MICAP: ORG
+Federal Acquisition: ORG
+United States Government: ORG
+Procured: NORP
+Oversaw: GPE
+Conducted Supply Point: ORG
+Processed: GPE
+MICAP Enterprise Supply
+Solution (ESS: ORG
+Processes Aircraft Document Review: ORG
+ADR: ORG
+Supply Point: ORG
+Hazardous Material and Handling Company Name: ORG
+Strong: PERSON
+Sound: ORG
+Assist: NORP
+the Natural Resources
+Environmental Affairs Office: ORG
+Identify: PERSON
+National Stocks Number: ORG
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+approximately five million dollars: MONEY
+Conducted: ORG
+Developed: PRODUCT
+the United States: GPE
+Army: ORG
+Army: ORG
+Maintained: GPE
+100 %: PERCENT
+$286 million dollars: MONEY
+Joint Task Force: ORG
+the United States: GPE
+Honduran: NORP
+Maintained: PERSON
+100%: PERCENT
+the Ammunition
+Stock Control: ORG
+1992: DATE
+Hudson High School City: ORG
+State: GPE
+US: GPE
+Park University City: ORG
+State: ORG
+University of Maryland University College City: ORG
+Team: ORG
+Microsoft Office: ORG
+Skills
+
+Accounting: ORG
+ADR: ORG
+Army: ORG
+Budgeting, Oral Communication: ORG
+Documentation, Financial, Government,: ORG
+Organizational, Processes, Purchasing Research, Safety, Sound, Stock Control: ORG
+Unique: GPE
+SalesSoftware: ORG
+Salesforce.com: ORG
+TapScan: ORG
+Public Relations Software: ORG
+Bacon: ORG
+Mediasource,: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG
+Photoshop: PERSON
+Team: ORG
+Microsoft Office: ORG

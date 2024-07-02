@@ -1,0 +1,60 @@
+more than 10 years: DATE
+Houston: GPE
+Detail: PERSON
+Quick: ORG
+Strong: PERSON
+Technical Skills
+Accounting Software: ORG
+PeopleSoft: ORG
+XP Windows Professional / Windows 7/ Windows 8: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+/MS Access / PowerPoint / Outlook: ORG
+PDF: ORG
+Adobe Reader / Adobe Acrobat X: PERSON
+04/2012: CARDINAL
+Accountant Company Name: ORG
+State
+
+Prepare: ORG
+MCT Sheet Metal, Inc.: ORG
+10/2011: CARDINAL
+Prepared: PERSON
+08/2011: CARDINAL
+40%: PERCENT
+50%: PERCENT
+QuickBooks: ORG
+Processed: GPE
+weekly: DATE
+monthly: DATE
+12/2005: CARDINAL
+12/2006: CARDINAL
+Prepared: PRODUCT
+quarterly: DATE
+annually: DATE
+940s & 941s: ORG
+monthly: DATE
+Education: ORG
+2005: DATE
+Bachelor: ORG
+University of Houston ï¼​ City: ORG
+State: ORG
+Cum Laude - Graduating With Honors
+: PERSON
+Skills: ORG
+Accounting Software: ORG
+Adobe Acrobat: PERSON
+Adobe: PERSON
+Detail: PERSON
+MS Access: ORG
+MCT: ORG
+MS Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows 7, Windows 8,: ORG
+Word: PERSON
+PDF: ORG
+PeopleSoft: ORG
+Quick: ORG
+QuickBooks: ORG

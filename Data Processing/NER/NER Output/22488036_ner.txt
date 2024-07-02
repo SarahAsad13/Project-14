@@ -1,0 +1,134 @@
+2 years: DATE
+Modelling: GPE
+1 year: DATE
+FEA: GPE
+Stress Analysis: ORG
+Researched: ORG
+CFD: ORG
+Maintenance Engineer: ORG
+Modelling: GPE
+Frames: PERSON
+Heat Transfer: PERSON
+API: ORG
+DNV: PERSON
+ASME: ORG
+Software Skills: PERSON
+AutoDesk Inventor: PRODUCT
+Pro Engineer: ORG
+Creo,: ORG
+MicroStation: ORG
+SolidWorks: ORG
+V5: CARDINAL
+Matlab: NORP
+Ansys: PERSON
+Microsoft Office - Excel: ORG
+Access, Outlook: ORG
+PowerPoint: ORG
+Visio: PERSON
+Microsoft: ORG
+OLGA: ORG
+PTC Windchill Quality Solutions: ORG
+PLM: ORG
+Simulink: PERSON
+PLC Programming: ORG
+PeopleSoft: ORG
+SAP: ORG
+SQL: ORG
+Windows XP: PERSON
+Android: ORG
+Heat Exchanger: PERSON
+Project Scope - Designed: ORG
+Fabricated a Shell & Tube Heat Exchanger - ProEngineer Pipeline Simulation, Design and Optimization: ORG
+Flow Assurance: GPE
+WG Kenny Project: ORG
+CFD Analysis: ORG
+CFD Analysis: ORG
+Optimization of a Computer Heat Sink: ORG
+ProEngineer: ORG
+Ansys Mechanical Chassis: ORG
+National Go Kart Championship: ORG
+2013: DATE
+India: GPE
+Ansys Key Competencies: ORG
+ProE: NORP
+SolidWorks: ORG
+Finite Element Analysis -: ORG
+September 2014: DATE
+August 2015: DATE
+Name City: GPE
+State Mechanical Design Engineer Intern: ORG
+DNV OS F101 Drilling Riser Design: ORG
+Recoil: ORG
+Drift: ORG
+Steady State Multiphase Flow Simulation: ORG
+Subsea Systems: ORG
+SolidWorks: ORG
+Structural: ORG
+Fatigue Delivered: PERSON
+3 days: DATE
+1-2 weeks: DATE
+Standardized MS Excel: EVENT
+few hours: TIME
+days: DATE
+Gained: NORP
+Modelling: GPE
+Project Management: ORG
+Project
+Engineering: ORG
+Tension: ORG
+Gained: NORP
+the Flow Assurance Strategies: ORG
+API RP 2A: ORG
+API RP 1111: ORG
+API-RP-2RD: ORG
+API-RP-16Q.: ORG
+January 2014: DATE
+June 2014: DATE
+June 2011: DATE
+August 2011: DATE
+Heat Exchangers and: WORK_OF_ART
+Refrigerators Monitored: ORG
+Initiated: ORG
+Studied P&ID's: ORG
+Wiring Diagrams and Manuals: ORG
+10: MONEY
+27%: PERCENT
+21%: PERCENT
+22%: PERCENT
+18k: MONEY
+Submitted: ORG
+Dec 2014: DATE
+CGPA Master of Science : Mechanical Engineering GPA:: WORK_OF_ART
+GPA: ORG
+3.274/4: CARDINAL
+3.274/4: CARDINAL
+May 2013: DATE
+University of Houston Main Campus - Texas CGPA Bachelor of Engineering : Mechanical Engineering Mechanical Engineering: ORG
+Anna University: ORG
+India: GPE
+Skills: ORG
+Ansys: PERSON
+API: ORG
+Catia: ORG
+Design of Experiments: ORG
+Matlab: ORG
+Access: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft Project: ORG
+Windows XP: ORG
+MicroStation: ORG
+PeopleSoft: ORG
+PLC Programming: ORG
+PLM: ORG
+Pro Engineer: ORG
+Product Design: ORG
+Project
+Management: ORG
+SAP, Simulation, SolidWorks: ORG
+SQL: ORG
+Statistical Analysis: ORG
+Visio: PERSON

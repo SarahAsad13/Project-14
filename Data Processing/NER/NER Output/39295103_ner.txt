@@ -1,0 +1,46 @@
+Accounting Specialist: ORG
+11/2005: CARDINAL
+year-end: DATE
+Innoprise: ORG
+Processed: GPE
+Buyer: LOC
+Created: ORG
+weekly: DATE
+monthly: DATE
+daily: DATE
+11/1979: CARDINAL
+Board of Directors: ORG
+Maintained: GPE
+day: DATE
+Collaborated: ORG
+minutes: TIME
+Software Tester: PERSON
+06/1985 to 11/1989: CARDINAL
+Troubleshooter: PRODUCT
+100%: PERCENT
+third: ORDINAL
+10/1979: CARDINAL
+Associate of Science : Accounting Business Lake Michigan College - City: ORG
+25: CARDINAL
+State 
+Computer Science Accounting GPA: ORG
+75: CARDINAL
+Material Management Houston Community College - City: ORG
+Material Management GPA: ORG
+00: CARDINAL
+Summary
+Diligent Office Administrative: ORG
+25 years: DATE
+Microsoft Office Time: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Excel: PRODUCT
+Skills: ORG
+AP: ORG
+AR, Billing: ORG
+Customer: ORG
+Excel: PRODUCT
+Microsoft Excel: ORG
+Microsoft Office: ORG
+Microsoft Word: PERSON
+Time: ORG

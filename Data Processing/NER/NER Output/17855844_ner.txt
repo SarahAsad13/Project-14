@@ -1,0 +1,120 @@
+Human Resources: ORG
+Skill Highlights: PERSON
+BELL: ORG
+PHR HUMAN RESOURCES PROFESSIONAL
+Organizational Development *: ORG
+Change Management
+Employee Relations: ORG
+ER: ORG
+Training & Development: ORG
+HRIS: ORG
+Organization Development (OD)
+Change Management
+Employee Relations: ORG
+ER: ORG
+Training & Development: ORG
+HRIS: ORG
+Organization Development (OD: ORG
+MS Word: PERSON
+PowerPoint: ORG
+Excel: PRODUCT
+Access and Publisher: ORG
+Adobe Illustrator: ORG
+SAP: GPE
+Oracle: NORP
+Ceridian: NORP
+nine: CARDINAL
+U.S.: GPE
+DFW: ORG
+Dallas: GPE
+TX: ORG
+877: CARDINAL
+daily: DATE
+North America: LOC
+Caribbean: LOC
+Europe: LOC
+Asia: LOC
+Human Resources and Employee Relations for Customer Ops: ORG
+DCA: ORG
+LGA: ORG
+US Airways: ORG
+ADA: ORG
+American
+Airlines: ORG
+Line Maintenance: ORG
+ADA: ORG
+25: CARDINAL
+zero: CARDINAL
+three months: DATE
+Base: PERSON
+Northeast: LOC
+Southeast: NORP
+AFW/Taesl: ORG
+50%: PERCENT
+Investigate: ORG
+Human Resources Consultant Company Name: ORG
+more than 33,500: CARDINAL
+119: CARDINAL
+100: CARDINAL
+Conceived: PERSON
+McDonald's: ORG
+Wow" Crew Orientation: WORK_OF_ART
+Facilitated: ORG
+21: CARDINAL
+three years: DATE
+10%: PERCENT
+6%: PERCENT
+more than 30,000: CARDINAL
+60%: PERCENT
+31%: PERCENT
+75%: PERCENT
+21%: PERCENT
+annually: DATE
+five-year: DATE
+four: CARDINAL
+20: CARDINAL
+annual: DATE
+Grew St.
+Luke's: PERSON
+House: ORG
+50: CARDINAL
+annually: DATE
+5/2013: CARDINAL
+B.S :: ORG
+University of Phoenix Communications: ORG
+12/2003: CARDINAL
+Shady Grove - HR Certificate/PHR Certification University: PERSON
+Interests: NORP
+Society of Human Resource Management: ORG
+2001: DATE
+Grace: WORK_OF_ART
+Magazine: ORG
+Christian: NORP
+Skills: ORG
+ADA: ORG
+Adobe Illustrator: ORG
+Ceridian, Change Management: ORG
+Employee Relations: ORG
+HRIS: PERSON
+Human Resources: ORG
+Information Systems: ORG
+KRONOS: ORG
+Access, Excel: ORG
+PowerPoint: ORG
+MS Word: PERSON
+Oracle, Organizational Development, Organization Development: ORG
+Performance Management: ORG
+SAP: ORG
+Strategic Planning: ORG
+BWR HR Team: ORG
+2006: DATE
+2011: DATE
+2009: DATE
+2010: DATE
+US: GPE
+2007: DATE
+Mile Award - 2007: PERSON
+Society of Human Resource Management: ORG
+2001: DATE
+Grace" Magazine: WORK_OF_ART
+Christian: NORP

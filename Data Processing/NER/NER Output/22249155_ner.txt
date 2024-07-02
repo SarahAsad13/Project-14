@@ -1,0 +1,44 @@
+Skills
+
+Customer Service: ORG
+Cashier
+Pharmacy
+Sales Associate
+
+Embroidery: ORG
+Telephone/: ORG
+Skills
+Customer Service: ORG
+Medisav Pharmacy: ORG
+Wal-Mart: ORG
+The Pharmacy ofÂ  Pocola: ORG
+JC Penney: ORG
+Medisav Pharmacy: ORG
+Wal-Mart: ORG
+The Pharmacy of Pocola: ORG
+Filing: GPE
+Copier, Customer Service: ORG
+Completed: ORG
+2001: DATE
+1-28-2014: DATE
+02/2001: ORG
+Office Administrator/Pharmacy Technician: ORG
+09/1999: CARDINAL
+Completed: ORG
+State
+Met: ORG
+Completed: ORG
+03/1995: PRODUCT
+08/1995: NORP
+State: ORG
+Completed: ORG
+10/1992: CARDINAL
+Assembly Line Worker Company Name: ORG
+State: ORG
+10/1992: CARDINAL
+State: ORG
+08/1995: NORP
+State
+Met: ORG
+Training: PERSON
+1988: DATE

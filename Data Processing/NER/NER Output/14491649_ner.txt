@@ -1,0 +1,107 @@
+ten year: DATE
+Excel: PRODUCT
+Microsoft PowerPoint: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Microsoft Outlook: ORG
+JD
+Edwards: PERSON
+400: CARDINAL
+Microsoft Accounting Office: ORG
+Image Freeway: FAC
+QuickBooks: ORG
+SAP: ORG
+LX: PERSON
+Accountant: ORG
+10/2014: CARDINAL
+monthly: DATE
+monthly: DATE
+month: DATE
+Prepare: ORG
+P&L: ORG
+monthly: DATE
+Plant Controllers: ORG
+Operations
+Management: ORG
+Corporate Finance: ORG
+interim & annual: ORG
+month-end: DATE
+P&L: ORG
+Review &: ORG
+monthly: DATE
+monthly: DATE
+Manage Construction in Process Accounts: WORK_OF_ART
+Compose Quarterly Consolidated Financial Statements: ORG
+Generate Intercompany Foreign Currency Financial Statements: ORG
+Observe: LOC
+Calculate: ORG
+year-end: DATE
+Compile: PRODUCT
+Assist: NORP
+interim & annual: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Accountant: PERSON
+12/2012: CARDINAL
+State
+
+Prepare: ORG
+ERP: ORG
+monthly: DATE
+annual: DATE
+Ledger Specialist: PERSON
+05/2001: CARDINAL
+State
+
+Post: ORG
+daily: DATE
+daily: DATE
+Prepared: PERSON
+FR2900 Regulation D Federal Reserve
+Requirement Report: ORG
+the month-end close: DATE
+year-end: DATE
+Assist: NORP
+annual: DATE
+2008: DATE
+Keller Graduate School of Management ï¼​ City: ORG
+State Master of Business Administration Accounting GPA: ORG
+GPA: ORG
+3.67: CARDINAL
+3.67: CARDINAL
+2006: DATE
+DeVry University: ORG
+Science Technical Management Accounting GPA: ORG
+GPA: ORG
+3.66: CARDINAL
+Cum Laude: PERSON
+Dean: PERSON
+List
+Technical Management Accounting GPA: ORG
+3.66: CARDINAL
+Cum Laude: PERSON
+Dean: PERSON
+List
+Skills: WORK_OF_ART
+Accounting: ORG
+400: CARDINAL
+Corporate Finance: ORG
+ERP: ORG
+Finance: ORG
+Financial Statements: ORG
+Image: ORG
+JD Edwards: PERSON
+Microsoft Access: ORG
+Microsoft Excel: ORG
+Office: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+month: DATE
+Operations Management: ORG
+Progress: ORG
+QuickBooks: ORG
+FAS: ORG
+SAP: ORG
+year-end: DATE

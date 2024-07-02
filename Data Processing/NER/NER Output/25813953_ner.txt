@@ -1,0 +1,30 @@
+BUSINESS DEVELOPMENT: ORG
+Customer Service Representative: ORG
+Core Qualifications
+Operations: ORG
+Complex: NORP
+Costumer: PERSON
+Advertising Computer: PERSON
+Microsoft: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft PowerPoint Microsoft: ORG
+Microsoft: ORG
+75: CARDINAL
+03/2015: WORK_OF_ART
+Collaborated: ORG
+daily: DATE
+weekly: DATE
+quarterly: DATE
+12-18: CARDINAL
+Monitored the: ORG
+daily: DATE
+2: CARDINAL
+Costumer: PERSON
+Call Center Company Name: ORG
+Training: PERSON
+2012: DATE
+State: GPE
+United States: ORG
+4.0: CARDINAL
+Skills: ORG

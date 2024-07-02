@@ -1,0 +1,12 @@
+Ethical: PERSON
+May 2014: DATE
+May 2014: DATE
+May 2013 to August 2013: DATE
+Assembly Line Painter 
+City: ORG
+April 2012 to August 2012: DATE
+Stetson University 2016 Bachelor of Science : International Business City: ORG
+State: GPE
+US: GPE
+Skills
+Assembly: ORG

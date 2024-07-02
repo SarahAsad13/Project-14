@@ -1,0 +1,68 @@
+daily: DATE
+100%: PERCENT
+Created daily: ORG
+Coordinated: ORG
+Chef /Banquet Chef: ORG
+150: CARDINAL
+75 - 275: CARDINAL
+five: CARDINAL
+Club: ORG
+nights: TIME
+8-12: CARDINAL
+Monitored: ORG
+every week: DATE
+Twenty Water Street - Executive: WORK_OF_ART
+Sous Chef: PERSON
+daily: DATE
+200: CARDINAL
+40: CARDINAL
+10-15: CARDINAL
+Oversaw: GPE
+Executive Chef: ORG
+daily: DATE
+100%: PERCENT
+Created daily: ORG
+Coordinated: ORG
+Chef /Banquet Chef: ORG
+150: CARDINAL
+75 - 275: CARDINAL
+five: CARDINAL
+Club: ORG
+nights: TIME
+8-12: CARDINAL
+Monitored: ORG
+every week: DATE
+Twenty Water Street - Executive: WORK_OF_ART
+Sous Chef: PERSON
+daily: DATE
+200: CARDINAL
+40: CARDINAL
+10-15: CARDINAL
+Oversaw: GPE
+Executive Chef: ORG
+Associate of Science : Culinary Arts Johnson & Wales University - City: WORK_OF_ART
+Executive Chef/Chef: ORG
+Certified Food Safety Manager National Registry of Food Safety Professionals
+Highlights
+
+Hands: ORG
+Food & Labor Cost Control: ORG
+Banquet: ORG
+Gluten Free: PERSON
+Certified Food Safety: ORG
+Knowledge of P & L: ORG
+Food & Labor Cost Control
+
+Computer: ORG
+Food Safety
+Forth
+Hiring
+Inventory: ORG
+Inventory
+Inventory: ORG
+Gluten Free: PERSON
+Certified Food Safety: ORG
+Knowledge of P & L: ORG
+Customer: ORG
+Food
+Safety: ORG

@@ -1,0 +1,61 @@
+more than 13 years': DATE
+multimillion: CARDINAL
+US: GPE
+English: LANGUAGE
+Italian: NORP
+Spanish: LANGUAGE
+French: NORP
+Connecticut: GPE
+QuickBooks: ORG
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook, Access: ORG
+10/2002: CARDINAL
+Oversee: ORG
+several multimillion-dollar: MONEY
+New York City: GPE
+London: GPE
+10: CARDINAL
+Coordinate: FAC
+Organize: ORG
+weekly: DATE
+Investigate: ORG
+cor: ORG
+Education Program Coordinator: ORG
+Solomon R.
+: PERSON
+Guggenheim Museum: ORG
+Cranmer Art Conservation, Inc.: ORG
+Assistant Program: ORG
+Trinity College: ORG
+Training
+Bachelor of Arts : Museum Studies: PERSON
+Art History Art History: PERSON
+The City College: ORG
+New York City: GPE
+State Museum Studies: ORG
+Art
+History Art History Italian: PERSON
+The University of Vermont City: ORG
+State Dean's: ORG
+List
+Certifications
+Design and Construction Budget Development and Management Project Management Requests for: ORG
+Proposal and Estimation Contract: ORG
+Negotiations and Administration Sourcing and Procurement
+Skills: ORG
+Art: PERSON
+Budget Development and Management: ORG
+Contract Negotiations: PRODUCT
+Design and Construction: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: ORG
+Project Management: ORG
+Proposal: PERSON
+QuickBooks, Research: ORG
+Solomon: PERSON

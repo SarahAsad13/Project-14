@@ -1,0 +1,104 @@
+INFORMATION TECHNOLOGY PROJECT MANAGEMENT OFFICE
+Professional Summary
+
+Highly: ORG
+the Project Management Office: ORG
+PMO: ORG
+PMO: ORG
+17 years: DATE
+three: CARDINAL
+Certification
+B.A : Foreign Languages and Literatures: PRODUCT
+1997: DATE
+VPI & SU: ORG
+Virginia Tech) City: PERSON
+Spanish: NORP
+Concentration in Management Science -Decision Support Systems
+
+Note: ORG
+Business Information Technology: ORG
+Project Management Certification 2004: ORG
+Guilford Technical Comm College City: ORG
+State: ORG
+Project Management Advanced Certificate: ORG
+Project Management Professional 2012 Project Management Institute City: ORG
+2015: DATE
+PMO: ORG
+IT Infrastructure Project Management: ORG
+Project Management: ORG
+PMO: ORG
+Advocate for Project Management: ORG
+Information Technology Project Management Office 06/2008: ORG
+Current Company Name City: ORG
+PMO: ORG
+Corporate Services: ORG
+Corporate Services Project: ORG
+Lawson: PERSON
+PeopleSoft: ORG
+API: ORG
+Centralized Warehouse: PERSON
+Lawson: PERSON
+two: CARDINAL
+Monthly: DATE
+quarterly: DATE
+Monthly: DATE
+Information Technology Management: ORG
+EPIC Project Management Office: ORG
+06/2008 Company Name City: ORG
+500k: MONEY
+CIO: ORG
+Application Analyst: WORK_OF_ART
+Project Management: ORG
+High Point Regional
+Responsible: FAC
+API Software: ORG
+HR/Payroll: ORG
+60: CARDINAL
+Radiology Information System: ORG
+Halogen: ORG
+HRIS: ORG
+API: ORG
+PeopleSoft: ORG
+05/2001: CARDINAL
+06/2004: CARDINAL
+Name City: GPE
+Peoplesoft: PERSON
+Vantive: PRODUCT
+3: CARDINAL
+three: CARDINAL
+Performed 2 full: PERSON
+Maintained: GPE
+Vantive: ORG
+04/2000: CARDINAL
+Name City: GPE
+State: ORG
+Patient Accounting: ORG
+UNIX: ORG
+IDX Hospital Software: ORG
+Oversee: ORG
+Finance: ORG
+Patient Accounting: ORG
+MedStat: ORG
+Contract Management: ORG
+IDX: ORG
+Name City: GPE
+McKesson HBOC Star Financials: ORG
+McKesson HBOC Clinical: ORG
+GUI: ORG
+Project Management: ORG
+Healthcare: ORG
+today: DATE
+IMNET Electronic Medical Record: ORG
+MS SQL 7.0: ORG
+Programmer 05/1998: ORG
+Name City: GPE
+SQL: GPE
+HBOC Clinical and Financial: ORG
+Financial: ORG
+IMNET Electronic Medical Records: ORG
+Medical Records: ORG
+Information Technology Systems Budget
+Manage: ORG
+VP Application Support: ORG
+annual: DATE
+Information Technology: ORG

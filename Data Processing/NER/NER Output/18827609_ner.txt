@@ -1,0 +1,105 @@
+3+ years: DATE
+San Francisco Bay Area: LOC
+Human Resources or Talent Acquisition: ORG
+Social Media Marketing
+ADP: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Branding
+Budget
+Oral: ORG
+HRIS: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Project Management
+Public Speaking
+Recruiting
+Recruitment: ORG
+Associate: PERSON
+07/2018: PERSON
+12/2019: CARDINAL
+HRIS: ORG
+Workday: PERSON
+Taleo: PERSON
+20: CARDINAL
+Gained: NORP
+Intern: ORG
+09/2016: PRODUCT
+12/2017: CARDINAL
+Raleigh: ORG
+annual: DATE
+hackathon: GPE
+500: CARDINAL
+Learning & Development: ORG
+Zenger Folkman 360: PERSON
+Workforce Planning: ORG
+Excel: PRODUCT
+2.0: CARDINAL
+06/2016: ORG
+08/2016: CARDINAL
+first: ORDINAL
+250: CARDINAL
+NC State University Facilitated: ORG
+first years: DATE
+12/2019: CARDINAL
+LexisNexis North America: ORG
+first: ORDINAL
+FTE: ORG
+less than 10 to 50: CARDINAL
+Communicate: ORG
+Develop: ORG
+D&I: ORG
+Attend: ORG
+Bachelor of Science : Business Administration: ORG
+05/2018: GPE
+North Carolina: GPE
+GPA: ORG
+3.9: CARDINAL
+12/2019: CARDINAL
+LexisNexis North America: ORG
+first: ORDINAL
+FTE: ORG
+less than 10 to 50: CARDINAL
+Communicate: ORG
+Develop: ORG
+D&I: ORG
+Attend: ORG
+Measure: WORK_OF_ART
+Associate: PERSON
+07/2018: PERSON
+12/2019: CARDINAL
+HRIS: ORG
+Workday: PERSON
+Taleo: PERSON
+20: CARDINAL
+Gained: NORP
+Intern: ORG
+09/2016: PRODUCT
+12/2017: CARDINAL
+Raleigh: ORG
+annual: DATE
+hackathon: GPE
+500: CARDINAL
+Learning & Development: ORG
+Zenger Folkman 360: PERSON
+Workforce Planning: ORG
+Excel: PRODUCT
+2.0: CARDINAL
+06/2016: ORG
+08/2016: CARDINAL
+first: ORDINAL
+250: CARDINAL
+NC State University Facilitated: ORG
+first years: DATE
+daily: DATE
+Affiliations: ORG
+Social Media Marketing
+ADP: ORG
+Microsoft Office Suite: ORG
+ADP: ORG
+Employee Relations, Event Planning: ORG
+HRIS: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Project Management: ORG
+Teamwork: ORG

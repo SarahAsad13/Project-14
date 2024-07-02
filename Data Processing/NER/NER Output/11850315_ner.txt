@@ -1,0 +1,64 @@
+BRAND: ORG
+ANN Inc.: ORG
+The Children's Place: ORG
+Highlights
+MS Office Suite: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Project Pro: ORG
+Google Analytics: ORG
+Lexis Nexis: PERSON
+July 2014 to November 2015: DATE
+Career Highlights: Responsible for pitching and securing positive press coverage: WORK_OF_ART
+Print: GPE
+Digital Social Media: ORG
+Blogs: GPE
+Social Media Management: ORG
+Educate: ORG
+Public Relations and Social Media: ORG
+November 2012 to June 2014: DATE
+Career Highlight: Responsible for the execution & management of all public relation strategies: WORK_OF_ART
+monthly: DATE
+VMU: PRODUCT
+Public Relations & Social Media: ORG
+January 2009 to June 2012 Company Name: DATE
+North America: LOC
+fiscal 2009 to 2012: DATE
+Oversaw PR: ORG
+seven: CARDINAL
+$1.5: MONEY
+annually: DATE
+Implemented Social Media: ORG
+1.1: CARDINAL
+2009: DATE
+2012: DATE
+quarterly: DATE
+US: GPE
+Canada: GPE
+Maintained: GPE
+The Children's Place: WORK_OF_ART
+Communicated: ORG
+January 2006 to January 2009: DATE
+Created: ORG
+15,000: CARDINAL
+Scripted: ORG
+Responsibilities Assisted SVP: ORG
+SVP: ORG
+June 2005: DATE
+Berkeley College Marketing
+Languages
+Native: ORG
+Spanish: NORP
+Lorena Pino: PERSON
+Lorena Pino: PERSON
+Google Analytics: ORG
+GPS: ORG
+Lexis Nexis: PERSON
+Access: PRODUCT
+Excel: PRODUCT
+MS Office Suite: ORG
+PowerPoint: ORG
+Word: PERSON
+Public Relations: ORG
+Spanish: NORP

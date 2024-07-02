@@ -1,0 +1,56 @@
+Career Overview
+
+Highly: ORG
+19 years: DATE
+Core Strengths
+
+Job Objective: WORK_OF_ART
+14 years: DATE
+one: CARDINAL
+MS: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Bilingual - Korean: NORP
+English: LANGUAGE
+Sharp: PRODUCT
+July 2006 to September 2013: DATE
+the day to day: DATE
+Customer Service: ORG
+May 2009 to April 2013: DATE
+Korean: NORP
+English: LANGUAGE
+Hartsfield Jackson International
+Airport: ORG
+monthly: DATE
+Atlanta International Airport: FAC
+Customs and Border Protection: ORG
+Korean Airlines: ORG
+January 2006 to September 2008: DATE
+Multiple Listing System: ORG
+100-200: CARDINAL
+December 2005 to July 2006 Company Name ï¼​ City: DATE
+July 2000 to November 2005: DATE
+Helped: PERSON
+Korean: NORP
+Inventory: ORG
+3x: CARDINAL
+First: ORG
+8 years: DATE
+5000: MONEY
+6 months in a row: DATE
+Bell Plaza Sports Club: ORG
+one
+week: DATE
+the day to day: DATE
+24: CARDINAL
+2000: DATE
+Binghamton University: ORG
+ï¼​ City: GPE
+1995: DATE
+Flushing High School: ORG
+English: LANGUAGE
+Inventory: GPE
+Korean: NORP
+Microsoft: ORG
+Excel: PRODUCT
+MS Word: PERSON

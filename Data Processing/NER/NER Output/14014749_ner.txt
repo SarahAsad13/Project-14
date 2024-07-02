@@ -1,0 +1,77 @@
+Microsoft: ORG
+Adobe Photoshop/Â  InDesign/ Â  Illustrator
+MAC/Windows OS
+CorelDraw Software: WORK_OF_ART
+Photobench Software: ORG
+Nikon: ORG
+Quick: ORG
+Time: ORG
+10/2015: CARDINAL
+01/2016
+: PERSON
+Photobench Software: ORG
+Photoshop: PERSON
+one thousand: CARDINAL
+Fulfill: ORG
+CorelDraw: ORG
+10/2015: CARDINAL
+Bartender Company Name - City: ORG
+cabana spaces: ORG
+Athlete - Retail Associate Company Name - City: ORG
+Nike: ORG
+Restaurant Hostess Company Name - City: ORG
+Forbes Five Star: ORG
+07/2013 to 07/2015: CARDINAL
+State
+
+Guided: ORG
+iPad: ORG
+State: ORG
+poolÂ: ORG
+each day: DATE
+05/2012: CARDINAL
+Lifeguard & Water Safety Instructor Company Name - City: ORG
+Aquatics Programs: ORG
+mid-day: DATE
+08/2011: CARDINAL
+First Aid: ORG
+CPR: ORG
+Lifeguarding/Water Safety Instructor: ORG
+11/2007: CARDINAL
+Lifeguard & Water Safety Instructor Company Name - City: ORG
+Programs: PERSON
+Chevrolet Model/Representative Company Name - City: ORG
+Chevrolet: ORG
+Training: PERSON
+2015: DATE
+Bachelor of Arts: ORG
+Graphic Design University of Nevada: ORG
+Las Vegas - City: GPE
+State: GPE
+USA: GPE
+Dean: PERSON
+Alliance of Professionals of: ORG
+African: NORP
+GraduAsian: NORP
+Asian & Pacific Islanders Award: ORG
+2015: DATE
+Bartending National Bartenders School - City: ORG
+State: GPE
+USA: GPE
+Customer Service: ORG
+Â  Comping and Gaming Jackpot Payouts: ORG
+2014: DATE
+State: GPE
+USA: GPE
+Open Casting Calls
+Create business card: WORK_OF_ART
+2009: DATE
+State: GPE
+USA: GPE
+4.6: CARDINAL
+GPA: ORG
+Volunteer
+Convoy: PERSON
+Las Vegas: GPE
+2014: DATE
+2015: DATE

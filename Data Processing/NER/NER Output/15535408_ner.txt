@@ -1,0 +1,31 @@
+4+ years: DATE
+Inventory: NORP
+Loss: PERSON
+Detail: PERSON
+Apparel Zone Supervisor: PERSON
+December 2016: DATE
+Current Company Name: ORG
+Collaborated: ORG
+Key: LOC
+2nd: DATE
+3rd: ORDINAL
+100%: PERCENT
+Consumer Electronics Sales Lead: ORG
+Merchandising Supervisor: PERSON
+December 2014 to December 2016: DATE
+100%: PERCENT
+January 2014 to December 2014: DATE
+11 months: DATE
+Maintained: GPE
+Mentored: ORG
+December 2013 to January 2014: DATE
+100%: PERCENT
+Cleaned: ORG
+2009: DATE
+Penn Foster: PERSON
+State Graduated: GPE
+3.6: CARDINAL
+GPA: ORG
+100%: PERCENT
+Credit: ORG
+Merchandising: PERSON

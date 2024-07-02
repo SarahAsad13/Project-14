@@ -1,0 +1,50 @@
+seven years: DATE
+Superior: ORG
+Project management Proficient: ORG
+Microsoft Office: ORG
+Outlook Ability: ORG
+20: CARDINAL
+40: CARDINAL
+10: CARDINAL
+five: CARDINAL
+three: CARDINAL
+two: CARDINAL
+four: CARDINAL
+Setup: ORG
+CSI: ORG
+Group Personal Training: ORG
+Managed Group Personal Training: ORG
+Pilates: NORP
+annual: DATE
+Wellness Fair: ORG
+Fitness Specialist/Member Service Specialist: ORG
+12/2007: CARDINAL
+Name City: GPE
+Created: ORG
+Vivecorp Inc.: ORG
+Created: ORG
+four: CARDINAL
+Name City: GPE
+day: DATE
+Master's of Business Administration: WORK_OF_ART
+MBA: WORK_OF_ART
+General Management 2012 UNIVERSITY OF PHOENIX City: ORG
+State General Management
+Bachelor of Science Degree: ORG
+2008: DATE
+SEATTLE PACIFIC UNIVERSITY City: ORG
+Northwest Association for Blind Athletes: ORG
+4-year: DATE
+Seattle Pacific University Women's Soccer Team: ORG
+3-year: DATE
+Student Athletic Advisory Committee: ORG
+Seattle Pacific University: ORG
+Northwest Association for Blind Athletes: ORG
+4-year: DATE
+Seattle Pacific University Women's Soccer
+Team: ORG
+3-year: DATE
+Student Athletic Advisory Committee: ORG
+Seattle Pacific University: ORG
+Microsoft Office: ORG
+Outlook: PERSON

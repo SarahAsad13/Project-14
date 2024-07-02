@@ -1,0 +1,48 @@
+Controller: PERSON
+Fiscal Administration Team
+Leadership Financial Statements Project Management Strategic Planning Development and Training Fiscal Report Generation Regulatory: ORG
+200: CARDINAL
+Ledger *: PERSON
+July 2014: DATE
+monthly: DATE
+quarterly: DATE
+CFO: ORG
+quarterly: DATE
+Controller: PERSON
+August 2001 to May 2014: DATE
+monthly: DATE
+weekly: DATE
+10: CARDINAL
+Develop: ORG
+annual: DATE
+monthly: DATE
+Carlo De Pinto: PERSON
+Controller: PERSON
+June 2000 to August 2001: DATE
+10: CARDINAL
+Collaborated: ORG
+401: CARDINAL
+monthly: DATE
+26: CARDINAL
+Controller: PERSON
+March 1999: DATE
+May 2000: DATE
+6: CARDINAL
+monthly: DATE
+quarterly: DATE
+monthly: DATE
+year-end: DATE
+monthly: DATE
+May 1992 to March 1999: DATE
+Bachelor of Arts : Economics Accounting Montclair State College: ORG
+State Economics Accounting: ORG
+General Ledger: ORG
+MS Office: ORG
+Suite,: ORG
+Windows, Navision: ORG
+Oracle: ORG
+Peachtree Accounting: ORG
+Platinum: ORG
+QuickBooks Pro: ORG
+Turbo Tax: ORG
+year-end: DATE

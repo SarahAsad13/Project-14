@@ -1,0 +1,36 @@
+Lean Manufacturing Practices
+Site Safety
+Operational: ORG
+Name City: GPE
+State Plant Fulfillment: ORG
+Translate: ORG
+Interface: ORG
+Develop: ORG
+GE: ORG
+Name City: GPE
+State Production Specialist: ORG
+Large Combustors & Rotating Parts: ORG
+Coordinated: ORG
+daily: DATE
+Name City: GPE
+State Payer Relations Coordinator: ORG
+10/2008: CARDINAL
+BWPO: ORG
+quarterly: DATE
+International Accounts: ORG
+the BWH International Office: ORG
+BWPO: ORG
+BWPO: ORG
+BWPO: ORG
+Bachelor of Arts : Business Management 2008 Curry College: ORG
+City: GPE
+State Business Management: ORG
+APS: ORG
+CAS: ORG
+CSF: ORG
+Aviation Supply Chain: ORG
+Lean Manufacturing: ORG
+Â Microsoft Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+Word: PERSON

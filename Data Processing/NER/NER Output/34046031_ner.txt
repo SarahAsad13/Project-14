@@ -1,0 +1,99 @@
+Career Focus: ORG
+Human Resources: ORG
+Human Resources: ORG
+Networking: GPE
+Presentation, Sales & Marketing: ORG
+Project Coordination: ORG
+Skills
+Microsoft Office Programs: ORG
+SharePoint: ORG
+PeopleSoft: ORG
+ADP Payroll: ORG
+Research: ORG
+Accomplishments
+Human Resources
+Â Â: ORG
+10%: PERCENT
+one year: DATE
+25%: PERCENT
+less than 3 months: DATE
+120: CARDINAL
+Building Inspector: WORK_OF_ART
+Plans Examiner: PERSON
+The City of Houston's Permitting Center: GPE
+a period of six months: DATE
+Business Development
+Â: ORG
+Workforce Solutions: ORG
+the first
+quarter of the year: DATE
+second: ORDINAL
+Business Management
+Â: ORG
+Workforce Solutions Center: ORG
+2nd: ORDINAL
+Workforce Solutions: ORG
+Employment
+Counselor and Staffing Specialist: PRODUCT
+Name City: GPE
+State Business Development Consultant 01/2015: ORG
+Maintain: PRODUCT
+Understand: GPE
+Develop: ORG
+Name City: GPE
+State Recruiting Specialist 01/2014: ORG
+Name City: GPE
+State: ORG
+Direct Sales and Business to Business Sales: ORG
+25%: PERCENT
+less than 3 months: DATE
+Name City: GPE
+State Language Arts: ORG
+Spanish: NORP
+Coats: PERSON
+Club Clean-up: PRODUCT
+88%: PERCENT
+one school year: DATE
+the Voyager Instructional Model: ORG
+Reading: GPE
+English: NORP
+Grammar: PERSON
+Writing: PERSON
+Florida: GPE
+FCAT: ORG
+Name City: GPE
+State Human Resources: ORG
+08/2003: CARDINAL
+quarterly: DATE
+Prepared: PERSON
+Business Administration Management University of Houston , City: ORG
+English Literature/Spanish University of Texas: EVENT
+City: GPE
+Endorsement City: GPE
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills
+Administrative: ORG
+Arts: ORG
+Direct Sales: ORG
+English: LANGUAGE
+Human Resources: ORG
+Market: ORG
+Microsoft Office Programs: ORG
+SharePoint: ORG
+Network: ORG
+PeopleSoft: ORG
+Research: ORG
+Spanish: NORP
+Professional Affiliations: ORG
+Texas Veterans Commission: ORG
+Houston East End: ORG
+January 2015: DATE
+Camara de Empresarios Latinos: ORG
+de Houston: PERSON
+August 2015: DATE
+Small Business Forum - Committee: ORG
+Member - September 2015: DATE
+Houston Hispanic Chamber of Commerce: ORG
+Volunteer â€“: LAW
+October 2015: DATE

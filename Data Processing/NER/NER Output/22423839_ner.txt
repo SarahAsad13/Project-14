@@ -1,0 +1,55 @@
+INTERNATIONAL BUSINESS DEVELOPMENT: ORG
+10% to 50%: PERCENT
+10 year: DATE
+Highlights
+
+Business Development
+Inventory Management
+Sales Analysis & Forecasting: ORG
+Spanish: NORP
+Current
+International Business Development: ORG
+Product Development: ORG
+Produce: PERSON
+quarterly: DATE
+KPI: ORG
+Develop: ORG
+37: CARDINAL
+76: CARDINAL
+Victorinox Swiss Army: ORG
+$2M: MONEY
+2014: DATE
+$8M to: MONEY
+10-year: DATE
+Grew Latin Market: PERSON
+3 consecutive years: DATE
+01/2004: CARDINAL
+International Sales Operations: ORG
+Coordinated: ORG
+third: ORDINAL
+Created: ORG
+quarterly: DATE
+monthly: DATE
+01/2000: CARDINAL
+01/2004: CARDINAL
+State: ORG
+Oversaw: GPE
+daily: DATE
+Maintained: GPE
+5: CARDINAL
+weekly: DATE
+01/1999: CARDINAL
+01/2000: CARDINAL
+Ocean Export Coordinator Company Name: ORG
+Completed International: ORG
+Sight Drafts: PRODUCT
+Letter of Credits: ORG
+1999: DATE
+Business Administration: ORG
+International Business Southern Illinois University of Edwardsville Business Administration: ORG
+Costa Rica: GPE
+Skills
+Army: ORG
+Latin: LANGUAGE
+Product Development: ORG
+Sales Analysis & Forecasting: ORG

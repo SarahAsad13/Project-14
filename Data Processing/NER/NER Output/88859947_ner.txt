@@ -1,0 +1,102 @@
+Proactive Project: PERSON
+Highlights
+
+MS Office: ORG
+Organized: ORG
+Superb: NORP
+Baseline: PERSON
+11/2010: CARDINAL
+MS Office: ORG
+MS Word: PERSON
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Outlook: GPE
+Microsoft Project: ORG
+Anritsu Software: ORG
+Adobe Pro: PERSON
+Siterra: PERSON
+Remedy: PERSON
+Visio: PERSON
+Quick Base: PERSON
+MS Windows / Mac OSX Methodologies: Operations
+Management: ORG
+Homeowners/Property Management: ORG
+Project Management, Business Analysis: ORG
+Inventory Management Processes: ORG
+daily: DATE
+New Jersey: GPE
+Island: GPE
+San
+Diego Markets Completed: GPE
+1000: CARDINAL
+NSB: ORG
+Committed: ORG
+NSB: ORG
+LTE: ORG
+one: CARDINAL
+OCI: ORG
+LTE: ORG
+AT&T: ORG
+QA: ORG
+over 600: CARDINAL
+AT&T: ORG
+ND-51: LOC
+Black & Veatch: ORG
+AT&T Wireless: ORG
+the National Quality: ORG
+11/2010: CARDINAL
+Owner / General Contractor Company Name: ORG
+over 300: CARDINAL
+New York: GPE
+New Jersey: GPE
+Pennsylvania: GPE
+up to 20: CARDINAL
+Engineers: ORG
+weekly: DATE
+Homeowners and Property
+Management: ORG
+Assigned: ORG
+Profitability: ORG
+Supervising Store Associates: ORG
+Microsoft Client: ORG
+Server: ORG
+Operations Management: ORG
+01/2006
+System Administrator Company Name: ORG
+State: ORG
+Microsoft Client: ORG
+Server: ORG
+2006: DATE
+PMP Certification: ORG
+2016: DATE
+Netcom Information Technologies: ORG
+Microsoft: ORG
+Andrew Connector & Weatherproofing Certificate: PERSON
+10-hour: TIME
+Adobe: PERSON
+Business Analysis: ORG
+Cisco: GPE
+Client: GPE
+Server: ORG
+CPR: ORG
+Documentum: ORG
+First Aid: ORG
+Inventory Management: ORG
+Mac: PERSON
+Microsoft Certified Professional: ORG
+MS Excel: ORG
+MS Office: ORG
+MS Outlook: GPE
+MS PowerPoint: PERSON
+Microsoft Project: ORG
+MS
+Windows: ORG
+MS Word: PERSON
+Operating Systems: ORG
+Operations Management: ORG
+Processes, Project Management, Property Management, Quality: ORG
+QA: ORG
+Quick: ORG
+San: LOC
+Supervising: PERSON
+Visio: PERSON

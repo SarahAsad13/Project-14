@@ -1,0 +1,82 @@
+Seventeen years: DATE
+Seven years: DATE
+twelve years: DATE
+Curriculum Data Analysis Other Â: ORG
+Â: PRODUCT
+Â: PRODUCT
+Highlights
+Media Design Productivity Other Â: FAC
+Microsoft Â: ORG
+Novell: ORG
+Microsoft Networking Â: ORG
+Powerpoint Â: PRODUCT
+Flash Â: PERSON
+Dreamweaver Â·: PRODUCT
+Outlook Â: PERSON
+Fireworks Â: PRODUCT
+Installation & Repair Â: ORG
+VMware, Desktop & Fusion Â: ORG
+PHP / Database: ORG
+Information Technology Instructor: ORG
+Jan 2012: DATE
+Create Curriculum: PERSON
+two: CARDINAL
+three: CARDINAL
+twenty-two: CARDINAL
+COE: ORG
+Counsel: ORG
+Jan 2010: DATE
+Jan 2012: DATE
+four: CARDINAL
+first: ORDINAL
+the Utah Dept: ORG
+Health: ORG
+fourteen: CARDINAL
+Health: ORG
+Health & Natural Resources: ORG
+thirty: CARDINAL
+the State of Utah: ORG
+Jan 2009: DATE
+Jan 2010: DATE
+eighteen: CARDINAL
+Health: ORG
+one hundred: CARDINAL
+fifty: CARDINAL
+the Utah Department of Health's: ORG
+Jan 2002: DATE
+Jan 2009: DATE
+State: ORG
+Created Technology: ORG
+Learning & Technology 2012 Doctorate: ORG
+Higher Education: ORG
+Concordia University: ORG
+Western Governor's: LOC
+University Learning & Technology: ORG
+Information Technology Management Information Technology Management: ORG
+B.S.: GPE
+2010: DATE
+Multimedia Technologies Multimedia Technologies: ORG
+A.A.S: GPE
+2003: DATE
+Utah Valley University: ORG
+Cable: PERSON
+Hardware: ORG
+Customer: ORG
+Database, Department of
+Health: ORG
+Dreamweaver, Fireworks: ORG
+Flash: PERSON
+HTML Coding: ORG
+InDesign: ORG
+Inventory: GPE
+Mac OS: PERSON
+Excel: PRODUCT
+Microsoft Networking, Outlook, Powerpoint: ORG
+Word: PERSON
+Natural: ORG
+Network
+Management: ORG
+Novell: ORG
+PHP: ORG
+QuarkXpress: ORG
+Wiring: ORG

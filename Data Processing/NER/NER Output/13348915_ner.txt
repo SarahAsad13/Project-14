@@ -1,0 +1,41 @@
+Reliable: WORK_OF_ART
+Detail: PERSON
+Mathematical: ORG
+Time: ORG
+Superb: PERSON
+September 2013: DATE
+November 2015: DATE
+Name City: GPE
+each quarter: DATE
+Welcomed: ORG
+Shared: ORG
+Mentored: ORG
+Communicated: ORG
+March 2013: DATE
+September 2013: DATE
+Name City: GPE
+100%: PERCENT
+each quarter: DATE
+Welcomed: ORG
+Mentored: ORG
+June 2013: DATE
+July 2013: DATE
+Name City: GPE
+State Package Handler: ORG
+Loaded and Scanned: WORK_OF_ART
+400: CARDINAL
+November 2015: DATE
+January 2016: DATE
+Name City: GPE
+State: ORG
+Pick Pack: PERSON
+ERP: ORG
+Oversaw: GPE
+Manchester Community College City: ORG
+State Associate of Science : General Studies General Studies: ORG
+2012: DATE
+Windsor High School City: ORG
+State High School Diploma :: ORG
+Credit: ORG
+English: LANGUAGE
+Merchandising, Natural: WORK_OF_ART

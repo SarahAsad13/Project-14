@@ -1,0 +1,50 @@
+Cashier: ORG
+2 years: DATE
+Sharp: ORG
+Energetic: LOC
+Time: ORG
+Strong: PERSON
+Live Support: LOC
+Quality Communication
+Interacted: ORG
+50: CARDINAL
+US: GPE
+Puerto Rico: GPE
+Computed Data Reports: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Customer Service: ORG
+Researched: ORG
+30%: PERCENT
+Market Research
+Interviewed: ORG
+Customer Interface: ORG
+two: CARDINAL
+Database Maintenance
+Assisted: ORG
+monthly: DATE
+Collaborated: ORG
+year-end: DATE
+Processed: GPE
+04/2013: CARDINAL
+11/2013: CARDINAL
+Coordinated: ORG
+monthly: DATE
+quarterly: DATE
+aitel: ORG
+01/2013: CARDINAL
+weekly: DATE
+Processed: GPE
+08/2011: CARDINAL
+Maintained: GPE
+Created: ORG
+weekly: DATE
+monthly: DATE
+2013: DATE
+Associate of Arts: WORK_OF_ART
+UNIVERSITY BUSINESS SCHOOL - City: ORG
+State: ORG
+uganda: GPE
+Careful: PRODUCT
+Time: ORG

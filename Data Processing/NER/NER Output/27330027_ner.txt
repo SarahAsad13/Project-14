@@ -1,0 +1,73 @@
+Buy &: ORG
+SAP: GPE
+Advanced Excel: ORG
+Impairment: ORG
+Sell: ORG
+the Confidential Information
+Memorandum: ORG
+Financial Model: ORG
+$2.3 Billion: MONEY
+IMG: ORG
+WME: ORG
+Silver Lake Partners: ORG
+May 2014: DATE
+the European Union: ORG
+Turkey: GPE
+United States: ORG
+Anti-Trust: ORG
+IMG: ORG
+WME: ORG
+Implemented Statutory Ledgers: WORK_OF_ART
+26: CARDINAL
+SAP: ORG
+12: CARDINAL
+SAP Budget and Planning: ORG
+7.5: CARDINAL
+Finance Projects: PERSON
+January 2015: DATE
+the Finance Division: ORG
+the Finance Division: ORG
+Business Analytics: ORG
+January 2012 to January 2015: DATE
+$1.2 Billion: MONEY
+Consolidated: ORG
+Quarterly: DATE
+three year: DATE
+Financial Forecast: ORG
+250: CARDINAL
+Worldwide: ORG
+Business Unit: ORG
+Financial Forecasting: ORG
+Analysis Developed: ORG
+Financial Forecasting: ORG
+Finance: ORG
+May 2008 to January 2012: DATE
+monthly: DATE
+80: CARDINAL
+SVP Financial Planning & Analysis: ORG
+January 2003: DATE
+May 2008: DATE
+Econometric Modeling and Risk Simulations Developed: WORK_OF_ART
+Responsible for
+
+due diligence Responsible: WORK_OF_ART
+Bachelor of Arts : Economics/Geography University Of Cincinnati - City: ORG
+State: ORG
+Business Warehouse, Business Planning and Consolidation, Business Objects: ORG
+SAS: ORG
+Crystal Reporting: ORG
+Business Objects: ORG
+Business Planning: ORG
+Controller: PERSON
+Crystal: LOC
+Due
+Diligence, Economics: PERSON
+Financial: ORG
+Financial Forecasting: ORG
+Financial
+Planning and Analysis: ORG
+Modeling: GPE
+month end: DATE
+SAP: ORG
+SAS: ORG
+Tax: PERSON

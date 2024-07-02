@@ -1,0 +1,183 @@
+NON COMMISSIONED SECURITY OFFICER: ORG
+Apple/Mac/Windows: ORG
+Non Commissioned Security Officer: ORG
+â—​ Report: FAC
+â—​ Monitor: ORG
+â—​ Monitor: ORG
+Maintained: GPE
+â—​ Train: FAC
+1: CARDINAL
+FDA: ORG
+daily: DATE
+3rd: ORDINAL
+Test: PERSON
+â—​ Load: FAC
+â—​ Load: FAC
+9mm: QUANTITY
+M-16: PRODUCT
+12: CARDINAL
+50.Cal: CARDINAL
+M60: PRODUCT
+OC: PERSON
+Oleoresin Capsicum: PERSON
+Navy: ORG
+2010-08: DATE
+Austin Community College: ORG
+Austin
+Community College: ORG
+Northridge/Eastview/Cedar Park Campus: ORG
+Practices â—​ Introduction to Sociology â—​ United States History I&II: WORK_OF_ART
+NAS North Island: ORG
+2003-03-22: DATE
+Air Launch Weapons School Certification: ORG
+Air Launch Weapons School: ORG
+NAS North Island: ORG
+03/01/03: CARDINAL
+2004-02-16 Certification: DATE
+NAS North Island: ORG
+02/03/04-02/16/04 Fundamentals: MONEY
+2004-04-30 Certification: DATE
+NAS North Island: ORG
+04/15/04-04/30/04: CARDINAL
+Response: ORG
+first: ORDINAL
+2000-05-28: DATE
+State: GPE
+US High School: ORG
+U.S. Navy Reserve: ORG
+Austin: PERSON
+TX: ORG
+02/16/2010: DATE
+â—​ Train: FAC
+Phase 1: PRODUCT
+Austin: PERSON
+TX: ORG
+FDA: ORG
+Sears: ORG
+Home: ORG
+San Marcos: PERSON
+TX: ORG
+daily: DATE
+U.S. Navy: ORG
+3rd: ORDINAL
+Coronado: GPE
+CA: GPE
+11/26/2001-11/28/2005: DATE
+Test: PERSON
+â—​ Load: FAC
+â—​ Load: FAC
+9mm: QUANTITY
+M-16: PRODUCT
+12: CARDINAL
+50.Cal: CARDINAL
+M60: PRODUCT
+OC: PERSON
+Oleoresin Capsicum: PERSON
+â—​ Global War on Terrorism
+Expeditionary Medal â—​ Navy: LAW
+Navy: ORG
+Certifications
+Certification: ORG
+Air Launch Weapons School: ORG
+NAS North Island: ORG
+03/01/03: CARDINAL
+NAS North Island: ORG
+02/03/04-02/16/04 Certification: MONEY
+NAS North Island: ORG
+04/15/04: CARDINAL
+Electronic Calendaring: PERSON
+Email: PERSON
+Internet Research, Mail Room: ORG
+Messenger: PERSON
+1: CARDINAL
+6: CARDINAL
+11: CARDINAL
+1: CARDINAL
+21: CARDINAL
+50: CARDINAL
+Forms, Invoices: ORG
+Policies: GPE
+Purchase Orders: PERSON
+Spreadsheets: ORG
+ActiveVoice: ORG
+Certifications: ORG
+Mil-Std: PERSON
+Mil Spec: PERSON
+Quality Control: ORG
+Mixed Technology Soldering: ORG
+Multilayer
+Soldering: ORG
+Hand Tools: PERSON
+Power Tools: ORG
+Inquiries, Service, Technical Support: ORG
+Data
+Analysis: ORG
+Mac Hardware: PERSON
+Email: PERSON
+Macintosh: ORG
+Photocopy Machine: PERSON
+Cashier, Dishwasher, Certified, Electric, Gas, Sit Down: ORG
+Driver - Company Vehicle: ORG
+Forms, Gardening/Landscaping: ORG
+Laborer, Inventory, Invoices: ORG
+Material Handler: PERSON
+Pricer/Tagger, Production Worker: ORG
+Purchase Orders: PERSON
+Warehouse Worker: PERSON
+Federal Express: ORG
+UPS: ORG
+Brush: PERSON
+Paint Roller: PERSON
+Spray Painter: ORG
+Chippers/Grinders: ORG
+Deck Tile Installer: ORG
+Fire Watch: PERSON
+Shipboard Cleaner: PERSON
+Rigger/Material Handler: ORG
+Sheet Metal Welder: PERSON
+Retail: PERSON
+Inventory Management: ORG
+Technical Writer: ORG
+QA/QC Inspector: ORG
+Technician, Technical Trainer: ORG
+Analog: ORG
+AT&T: ORG
+Cellular: ORG
+Digital: ORG
+Modems: PERSON
+Radio, Routers,: ORG
+Splicing, Comm: ORG
+Skills
+Security: ORG
+Comprehensive Large Array Data Stewardship System: ORG
+Apqp: PERSON
+Operations: ORG
+Wiring: ORG
+Fda: ORG
+Hand Tools: PERSON
+Inventory: GPE
+Janitorial Duties: ORG
+Analog: ORG
+Blueprints: GPE
+Cashier: PERSON
+Cdl: PERSON
+Customer
+Service: ORG
+Data Analysis: ORG
+Data Warehouses: ORG
+Mac: PERSON
+Material Handler: PERSON
+Mil Spec: PERSON
+Mil: PERSON
+Org Development, Organizational Development, Painter: ORG
+Purchase Orders: PERSON
+Qa: ORG
+Quality
+Control: ORG
+Receptionist: NORP
+Retail, Retail Marketing: ORG
+San, Schematics: GPE
+Sheet Metal: ORG
+Disability: ORG
+Splicing: GPE
+Testing, Typing, Ups, Wireless,: ORG

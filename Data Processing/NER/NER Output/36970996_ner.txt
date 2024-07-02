@@ -1,0 +1,75 @@
+Customer Follow: PERSON
+6 years: DATE
+6 year: DATE
+more than 6 years: DATE
+Career Overview
+I am a Dedicated Customer Service Representative: WORK_OF_ART
+4+ year's: DATE
+The Best Parts Of The Jobs I Have Worked Is The Amazing Feeling Of Closing A Big Sale And Making The
+Customer Feel Comfortable And Confident: WORK_OF_ART
+Core Strengths
+Inventory: ORG
+Credit: ORG
+Credit: ORG
+Stocking
+Shipment: ORG
+Merchandising: PRODUCT
+Multi: GPE
+Customer: ORG
+Merchandising: PRODUCT
+Zimmer Brothers: ORG
+GIA: ORG
+about 6: CARDINAL
+Diamond: GPE
+Diamond Grading: PERSON
+Diamond Lab Class: PERSON
+Gem Essentials: PERSON
+this past December: DATE
+9 days: DATE
+25,000$.: CARDINAL
+100,000$: MONEY
+that month: DATE
+Rolex Watches: PERSON
+Lazare Kaplan: PERSON
+Excel: PRODUCT
+100%: PERCENT
+Value: ORG
+December 2011: DATE
+the holiday season: DATE
+Floral Helper Company Name: ORG
+Sabellicos Greenhouses: PERSON
+Garden Roses: PERSON
+Rio: ORG
+Aster: PERSON
+Chrysanthemum: PERSON
+Kale Hydranges: PERSON
+Lily: PERSON
+white oriental & orchids: ORG
+Simon G: PERSON
+Alawand Vahan: PERSON
+Cheri Dori: PRODUCT
+Dia Dori: PERSON
+Charles Garneir: PERSON
+Charles Krypell: PERSON
+80: CARDINAL
+less than a year: DATE
+Charles Krypell: PERSON
+Current
+Sales Associate Company Name: ORG
+Mentored: ORG
+Communicated: ORG
+Maintained: GPE
+8 Â months: DATE
+2004: DATE
+John Jay - 
+: PERSON
+Skills: ORG
+Closing: PERSON
+Credit: ORG
+Customer Services: ORG
+Customer Service: ORG
+Database: GPE
+Inventory: NORP
+Excel: PRODUCT
+Strategic: PERSON
+GIA: ORG

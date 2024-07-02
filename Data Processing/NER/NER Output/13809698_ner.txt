@@ -1,0 +1,39 @@
+Reliable: WORK_OF_ART
+Data: ORG
+Blood: LOC
+Sharp: PRODUCT
+Work History
+Phlebotomist: WORK_OF_ART
+04/2013: PERSON
+HCG: ORG
+RSV: ORG
+Prepared: PERSON
+Quickly: PERSON
+01/2011: CARDINAL
+morning: TIME
+Ensures: ORG
+Quickly: PERSON
+Performed: ORG
+the Clinical Laboratory Scientist: ORG
+Prepared: PERSON
+Performed: ORG
+Specialist: PERSON
+09/2005: GPE
+Processed: GPE
+Processed: GPE
+Donor Collection: ORG
+05/2001: CARDINAL
+MCS+ Automated Blood Collection Tech: PERSON
+Prepared: PERSON
+Healthcare Administration Management Healthcare Administration: ORG
+Current 
+American InterContinental University - City: ORG
+State 
+Healthcare Administration Management Healthcare Administration: ORG
+Skills: ORG
+AS400: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Windows Applications: PERSON
+Microsoft Word: PERSON

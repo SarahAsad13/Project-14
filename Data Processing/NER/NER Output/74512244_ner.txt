@@ -1,0 +1,51 @@
+Detail: PERSON
+Ms./MBA: PERSON
+the past years: DATE
+Skills
+
+Communication: ORG
+Spreadsheet development & management: ORG
+Microsoft Office: ORG
+Analytical &: ORG
+Organizational: ORG
+Multi: GPE
+Invoice: GPE
+Collaborated: ORG
+30: CARDINAL
+Excel: PRODUCT
+Employee Payroll: WORK_OF_ART
+Coordinated: ORG
+Processed: GPE
+Oracle EBS: ORG
+Account Payables: GPE
+Maintained: GPE
+12/2020: CARDINAL
+DEAN'S ASSIOCIATE Company Name: ORG
+Operates: NORP
+20%: PERCENT
+University: ORG
+Obtained: ORG
+50: CARDINAL
+07/2015: CARDINAL
+10/2015: CARDINAL
+the end of each month: DATE
+daily: DATE
+monthly: DATE
+Performed: ORG
+12/2020: CARDINAL
+Master of Science : Finance 
+: WORK_OF_ART
+Webster University - City: ORG
+State: ORG
+12/2020: CARDINAL
+MBA: WORK_OF_ART
+Webster University - City: WORK_OF_ART
+State: ORG
+Bachelor of Science Accounting :: ORG
+â€“ African Students Association Webster University: ORG
+October 2018: DATE
+West Africa: GPE
+July 2015-: DATE
+April 2017: DATE
+ICAN-Institute of Chartered Accountants of Nigeria: ORG
+2018: DATE

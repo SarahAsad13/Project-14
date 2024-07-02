@@ -1,0 +1,101 @@
+Microsoft Office: ORG
+Microsoft: ORG
+Office Management: ORG
+Microsoft Access
+Organizing Meetings/Materials Preparation
+LotusNotes &: ORG
+Microsoft: ORG
+Outlook Email: PERSON
+PeopleSoft: ORG
+Employee Benefits Counseling
+Registrar
+Arranging Domestic/International Travel
+Oral and Written Communication
+SAP Site Security
+Skilled Proofreader
+
+Training and Instruction
+
+Excel: WORK_OF_ART
+Strong: PERSON
+Resourceful
+Business: WORK_OF_ART
+Schedule: ORG
+Technical Services: ORG
+Information Technology: ORG
+January 2012 to January 2015: DATE
+State: ORG
+Human Resources: ORG
+SAP: ORG
+Established: ORG
+Established: ORG
+SAP Site Security Administrator/SAP Training Records Coordinator: ORG
+January 2004 to January 2009: DATE
+PeopleSoft: ORG
+site Safety Report: ORG
+Excellence Recognition Awards: ORG
+GSK Service Awards Program: ORG
+Registrar: ORG
+SAP: ORG
+Access Training Database: FAC
+150: CARDINAL
+150: CARDINAL
+Created: ORG
+75+ end: DATE
+Created: ORG
+SAP User Master Records: ORG
+over 150: CARDINAL
+SAP: ORG
+Raised: GPE
+Remedy: PERSON
+Created: ORG
+Processed: GPE
+Ergonomics Team: ORG
+six years: DATE
+Senior Management: ORG
+SAP: ORG
+SAP Site Security Administrator/SAP Training Records Coordinator: ORG
+January 1998 to January 2009: DATE
+January 1996 to January 2001: DATE
+State: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Computers: NORP
+Microsoft: ORG
+January 1996 to January 1997: DATE
+January 1989 to January 1995: DATE
+1,750: CARDINAL
+transcription: CARDINAL
+BRMC: ORG
+Established: ORG
+Maintained: GPE
+Processed: GPE
+Management Orientation Program: ORG
+Established: ORG
+January 1988 to January 1989: DATE
+Organization: ORG
+1,700: CARDINAL
+January 1979 to January 1988: DATE
+Established: ORG
+Administered Group's Service Recognition: ORG
+the Service Awards Banquet: LAW
+Diploma Virginia High School: ORG
+Skills: ORG
+Database: GPE
+Email: GPE
+Senior Management: ORG
+Human Resources: ORG
+KRONOS: ORG
+LotusNotes: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+PowerPoint: ORG
+Microsoft Windows: ORG
+Microsoft: ORG
+Office Management: ORG
+PeopleSoft: ORG
+Proofreader, Radio: ORG
+Safety: ORG
+SAP: ORG
+Written Communication: ORG

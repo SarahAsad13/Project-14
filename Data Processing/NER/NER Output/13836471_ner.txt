@@ -1,0 +1,138 @@
+April 2007: DATE
+Current Company Name: ORG
+Annual: DATE
+daily: DATE
+80: CARDINAL
+VLAN: ORG
+Windows Server: PERSON
+2008: DATE
+R2: PRODUCT
+Microsoft Active Directory: ORG
+100: CARDINAL
+Windows 7: EVENT
+Windows XP: ORG
+Microsoft DFS: ORG
+DHCP: ORG
+DNS: ORG
+WSUS Services: ORG
+FTP: ORG
+Microsoft Exchange: ORG
+daily: DATE
+Symantec BackupExec 2012: ORG
+daily: DATE
+11.0: CARDINAL
+Administration of Mac: ORG
+10.8: CARDINAL
+SAN: ORG
+Apple XSAN: ORG
+30: CARDINAL
+Promise: PRODUCT
+VTrak: ORG
+Series: EVENT
+Final Cut: ORG
+Adobe Products: ORG
+Hardware: ORG
+Aja: PERSON
+Kona: PERSON
+Black Magic: LOC
+iNews (News Room Management System: ORG
+Wide Orbit: ORG
+Omneon: PERSON
+Streambox: PERSON
+Miranda: LAW
+Repair: ORG
+Software: ORG
+Hardware: ORG
+Mac Computers: PERSON
+Information Technology: ORG
+July 2001 to March 2007: DATE
+25: CARDINAL
+two: CARDINAL
+2004: DATE
+300: CARDINAL
+Network Administration: ORG
+LAN: ORG
+30: CARDINAL
+5: CARDINAL
+DHCP: ORG
+DNS Server: ORG
+Implementation of FTP Server: ORG
+Implementation of Distributed File System: ORG
+Microsoft Exchange: ORG
+daily: DATE
+Installation: PRODUCT
+Certification Authority: ORG
+2003: DATE
+daily: DATE
+9.0: CARDINAL
+Power Builder 6.5: PRODUCT
+Power Builder 9.0: PRODUCT
+300: CARDINAL
+Software: ORG
+Hardware: ORG
+January 2001 to July 2001: DATE
+10: CARDINAL
+100: CARDINAL
+Implemented Terminal Service: ORG
+five: CARDINAL
+Colombia: GPE
+Sybase SQL Anywhere: ORG
+7.0 Database: PERCENT
+Microsoft: ORG
+2000: DATE
+Network Administration: ORG
+FTP: ORG
+100: CARDINAL
+Windows 2000 Server Administration: ORG
+Active Directory Service: ORG
+Microsoft: ORG
+2000: DATE
+Technical Support: ORG
+Installation: PRODUCT
+Software: ORG
+Hardware: ORG
+January 29 2000: DATE
+Fundacion Universidad Autonoma de Colombia: ORG
+City: GPE
+Colombia Computer System: ORG
+April 26 1997: DATE
+Certification: PRODUCT
+LAN Network Administration: ORG
+January 1997: DATE
+Centro Colombiano de Estudios: PERSON
+Profesionales Pontificia: PERSON
+Javeriana: PERSON
+City: GPE
+Colombia: GPE
+Active Directory: WORK_OF_ART
+Adobe Products: ORG
+Apple, Automation: ORG
+Broadcast: ORG
+Computer Technician,: ORG
+Hardware: ORG
+Database: GPE
+DHCP: ORG
+DNS: ORG
+Final Cut: ORG
+FTP: ORG
+LAN: ORG
+Mac: PERSON
+Magic: ORG
+Microsoft Exchange Server: ORG
+Windows: GPE
+2000: DATE
+Windows XP: ORG
+Network Administration: ORG
+Power
+Builder 6.5: PRODUCT
+Power Builder 9.0: PRODUCT
+QuickBooks Pro: ORG
+SAN, Servers, Software: ORG
+Microsoft: ORG
+SQL Server: PERSON
+Streaming Video: ORG
+7.0: CARDINAL
+9.0: CARDINAL
+Symantec, Technical: ORG
+Windows Server: PERSON
+Windows 2000 Server: PERSON

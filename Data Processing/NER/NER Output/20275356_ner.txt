@@ -1,0 +1,83 @@
+Professional Overview
+Skilled: ORG
+Skill Highlights: PERSON
+Hyperion
+Oracle: ORG
+month: DATE
+General Managers: ORG
+annual: DATE
+10: CARDINAL
+month: DATE
+monthly: DATE
+quarterly: DATE
+Select Hotel Hyperion: ORG
+Select: ORG
+HSS: ORG
+the General Managers: ORG
+Build: GPE
+the General Managers: ORG
+Created: ORG
+Finance: ORG
+monthly: DATE
+Health and Welfare: ORG
+50: CARDINAL
+Phase: GPE
+General Managers: ORG
+09/2010: PERSON
+Planning and Analysis Manager Company Name: WORK_OF_ART
+Daily: GPE
+the Select Managed and Franchised: WORK_OF_ART
+Created: ORG
+weekly: DATE
+monthly: DATE
+Smith Travel: ORG
+all North America Full Service and Select Service: ORG
+month end to: DATE
+Hyperion: ORG
+month end: DATE
+the Full Service and Select Service Franchise: ORG
+the Select Service Managed: ORG
+22: CARDINAL
+Select Operations: ORG
+F&B: ORG
+Rooms, Revenue Management: ORG
+Select Operations: ORG
+monthly: DATE
+quarterly: DATE
+06/2008: ORG
+09/2010: CARDINAL
+the Corporate Management Review: ORG
+Balance Sheet: PERSON
+P&L: ORG
+the Lodging Segment for the Consolidations: ORG
+the Business Unit: ORG
+annual: DATE
+Reviewed Management Agreements: ORG
+Corporate Accounting: ORG
+monthly: DATE
+EAME: ORG
+ASPAC: ORG
+Latin America: LOC
+Coordinate: FAC
+over twenty: CARDINAL
+Hyperion: ORG
+quarterly: DATE
+year-end: DATE
+05/2003: CARDINAL
+Ledger Accountant Company: PERSON
+monthly: DATE
+monthly: DATE
+North America: LOC
+the Corporate Office: ORG
+the Human
+Resources, Financial Systems Support: ORG
+Accumulate: ORG
+Education: ORG
+Jun. 2002: DATE
+Bachelor of Science : Accounting DePaul University: ORG
+ï¼​ City: GPE
+Budgeting, Forecasting, Hyperion: ORG
+Excel: PRODUCT
+PowerPoint: PRODUCT
+Word: PERSON
+Oracle: NORP

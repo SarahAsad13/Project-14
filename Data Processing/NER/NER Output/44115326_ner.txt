@@ -1,0 +1,516 @@
+2: CARDINAL
+Career Overview
+Over: WORK_OF_ART
+7+ years: DATE
+WINDOWS Administration: ORG
+AIX 5: ORG
+6.1: DATE
+Linux: PERSON
+RedHat: ORG
+SUSE: ORG
+Network
+Administration & Troubleshooting: ORG
+AIX: ORG
+IBM AIX: ORG
+Installation: LOC
+IBM System: ORG
+RS-
+6000 Servers: PERSON
+1.5: CARDINAL
+2.1: CARDINAL
+AIX Migration Installation: ORG
+Preservation Installation: WORK_OF_ART
+Complete Overwrite: PERSON
+NIM Server: ORG
+Logical Volume Management: WORK_OF_ART
+Disk Management Configured HACMP: ORG
+Infrastructure & Support: ORG
+Linux/Cloud/ Administrator: ORG
+Cloud Computing: PERSON
+Familiar: PERSON
+Hybrid Cloud: PERSON
+AIX: ORG
+Implementation and Administration of DHCP: ORG
+NFS: ORG
+NIS: ORG
+AIX: ORG
+AIX: ORG
+Familiar: PERSON
+Tivoli Storage: GPE
+TSM: ORG
+TCP: ORG
+AIX: ORG
+Maintaining AIX: ORG
+SMIT: GPE
+LVM: ORG
+Mirroring: GPE
+Paging Space: WORK_OF_ART
+Diagnostics: ORG
+24X7: CARDINAL
+Skill Highlights: PERSON
+IBM: ORG
+v6.1: GPE
+Redhat Linux: PERSON
+v6.2,7.2,Enterprise Linux: PERSON
+Oracle-Solaris: ORG
+IBM: ORG
+Blade: ORG
+HMC: ORG
+HP ILO: ORG
+DELL IDRAC: ORG
+Vsphere 5.0 Application Server: ORG
+Apache: GPE
+DNS: ORG
+NIS: ORG
+NFS: ORG
+Websphere Application Server 6.x/5.x: ORG
+Websphere Portal: ORG
+Windows 2000/2003 Active Directory: ORG
+Microsoft: ORG
+SSL: ORG
+Distribution Server: ORG
+Tivoli: GPE
+HUBEQ: ORG
+ITSM: ORG
+Peregrine: GPE
+SSO: ORG
+EURC: ORG
+MQ: ORG
+EMS Tibco, Sharepoint: ORG
+1800: CARDINAL
+UNIX: ORG
+HPUX: ORG
+AIX: ORG
+LINUX: ORG
+SOLARIS: ORG
+FAX: ORG
+monthly: DATE
+HPSA: ORG
+Amazon: ORG
+Identity Management: ORG
+Access Control: ORG
+VPC & VPN: ORG
+Amazon: ORG
+AWS: ORG
+Amazon S3: ORG
+Amazon SQS: ORG
+Amazon: ORG
+Amazon: ORG
+Familiar: PERSON
+Hybrid Cloud: PERSON
+Cloud: PERSON
+50: CARDINAL
+Procured S3: PRODUCT
+Middleware: GPE
+IBM: ORG
+Websphere MQ: PRODUCT
+Weblogic: GPE
+Tibco EMS: ORG
+Resource for Windows: ORG
+P1s: GPE
+P2s: ORG
+HP: ORG
+IBM: ORG
+Microsoft: ORG
+Symantec: ORG
+Oracle: NORP
+RedHat: ORG
+DNS: ORG
+Domain Controllers: ORG
+WAN: ORG
+SQL Server: ORG
+SQL: ORG
+Oracle Databases: ORG
+Windows/Unix/Linux: ORG
+Tomcat, Oracle Databases: ORG
+Veritas Cluster Server: PERSON
+Application: ORG
+Middleware: GPE
+ITSM: ORG
+02/2013: CARDINAL
+Terradata Multi System: ORG
+Columbus: GPE
+Ohio: GPE
+Chicago: GPE
+IL Feb: ORG
+2013 - Jan 2014: DATE
+2: CARDINAL
+AIX: ORG
+Oracle Database: ORG
+Websphere: ORG
+Apache: PRODUCT
+Tomcat: ORG
+Netcool: ORG
+TMSM Client: ORG
+Terradata Multi System: ORG
+SSH: ORG
+SSL: ORG
+TCP Wrappers: ORG
+ITSM Change: ORG
+Prod Servers: PERSON
+GPFS: ORG
+SRDF: ORG
+Linux: GPE
+Solaris: GPE
+AIX: ORG
+VCS: ORG
+Veritas Cluster Server: PERSON
+AIX HACMP: ORG
+HP ILO: ORG
+Dell Idrac: ORG
+IBM: ORG
+VMware: ORG
+Vsphere: ORG
+5.0: CARDINAL
+10: CARDINAL
+Jumpstart: PRODUCT
+Linux: PERSON
+Kickstart: PERSON
+User Administration: ORG
+Linux: GPE
+Solaris: GPE
+Sudo , Batch Job Administrations: GPE
+Creating File: ORG
+Veritas: PERSON
+Solaris: GPE
+LVM Involved: ORG
+10: CARDINAL
+LiveUprade: ORG
+4.5: CARDINAL
+4.0: CARDINAL
+Zones/Containers: ORG
+Solaris: GPE
+10: CARDINAL
+Solaris: GPE
+Linux: GPE
+Filesystem: PERSON
+Veritas Volume: PERSON
+Solaris: GPE
+CFS: ORG
+Ldoms in Sun T series: WORK_OF_ART
+InstalledPatches: PRODUCT
+LVM: ORG
+Solaris: GPE
+10: CARDINAL
+LiveUprade: ORG
+3.5: CARDINAL
+NetBackup: ORG
+Zones/Containers: ORG
+Solaris: GPE
+10: CARDINAL
+NFS: ORG
+NetApp: ORG
+NetBackup: ORG
+AIX: ORG
+HP-UX Administrator Company Name: ORG
+State
+
+Practical: ORG
+IBM: ORG
+AIX: ORG
+5.2: CARDINAL
+5.3: CARDINAL
+6.1: DATE
+7.1: DATE
+HP-UX: PRODUCT
+11.3: CARDINAL
+Responsible for Administration: ORG
+AIX: ORG
+HP-UX: ORG
+NIM: ORG
+NIM: ORG
+SAN: ORG
+HP-UX: ORG
+AIX: ORG
+Oracle: ORG
+EMC: ORG
+EMC VMAX: ORG
+LPARs: PRODUCT
+IBM: ORG
+Oracle: ORG
+VIO Server: ORG
+AIX: ORG
+5.3: CARDINAL
+6.1: CARDINAL
+LPAR: ORG
+550: CARDINAL
+570: CARDINAL
+NPIV: ORG
+IBM: ORG
+TSM: ORG
+Backups: PERSON
+hour: TIME
+4: CARDINAL
+ORACLE RAC: ORG
+34: CARDINAL
+EMC SAN: ORG
+PV: ORG
+LV: GPE
+jfs2 File: ORG
+UNIX: ORG
+CPU: ORG
+HMC: ORG
+UNIX: ORG
+Coordinated: ORG
+hours: TIME
+Sunday: DATE
+Performed Firmware: ORG
+AIX: ORG
+01/2011: CARDINAL
+AIX/Linux Administrator Company Name: ORG
+100: CARDINAL
+IBM: ORG
+AIX: ORG
+5.3/6.1: PRODUCT
+2/3: CARDINAL
+AIX: ORG
+Performed IBM: ORG
+5.3/6.1 System: PRODUCT
+LVM: ORG
+NIM: ORG
+New & Complete Overwrite/Migration Installation: ORG
+Performed AIX Migration: ORG
+5.2: CARDINAL
+5.3: CARDINAL
+6.1: CARDINAL
+p5 p550/520/505s Servers &: ORG
+Migration: PERSON
+Virtualized: NORP
+SCSI: PRODUCT
+Created Shared Ethernet: ORG
+SEA: ORG
+Control Channel: ORG
+SAN: LOC
+VIO: ORG
+VIO: ORG
+1.3/1.5: CARDINAL
+1.5/2.1: CARDINAL
+2.1: CARDINAL
+2.2: CARDINAL
+Planned & Executed Migration of HACMP: ORG
+Node: GPE
+HACMP: ORG
+Installp: ORG
+Microcodes: PERSON
+Filesets: NORP
+ODM: ORG
+LVM: ORG
+Disk Management: ORG
+Quarterly: DATE
+Performed the daily system administration: ORG
+IBM: ORG
+Multipath: GPE
+Hitachi: ORG
+IBM: ORG
+IBM Tivoli Network Storage: ORG
+TSM: ORG
+& Server: PERSON
+DNS: ORG
+NFS: ORG
+DHCP: ORG
+FTP: ORG
+Samba Servers: ORG
+SSL: ORG
+SSH: ORG
+HTTPS: ORG
+24X7: CARDINAL
+Production: PRODUCT
+IBM AIX: ORG
+11/2010: CARDINAL
+AIX/Linux Administrator Company Name: ORG
+100: CARDINAL
+IBM: ORG
+IBM: ORG
+595: CARDINAL
+AIX 4.3.3: ORG
+5.1: CARDINAL
+5.2: DATE
+5.3: CARDINAL
+TCP/IP: ORG
+LINUX: ORG
+AIX: ORG
+IBM: ORG
+AIX: ORG
+DLPAR: ORG
+Installation: PRODUCT
+NFS: ORG
+NIS: ORG
+DNS Server: ORG
+Fixes: ORG
+AIX: ORG
+Working: ORG
+AIX 4.3.3: ORG
+5.1: CARDINAL
+5.2: CARDINAL
+5.3: CARDINAL
+Tivoli Storage: GPE
+Setup cron: LAW
+Veritas Nebackup: ORG
+4.5: CARDINAL
+Websphere Application Server: ORG
+Installation/Administration: ORG
+NIS/NIS+: ORG
+NFS: ORG
+DNS: ORG
+NTP: ORG
+Auto: ORG
+Print: GPE
+Logical Volume Management: WORK_OF_ART
+IBM: ORG
+SNORT: PERSON
+NMAP: ORG
+Developing Korn: PERSON
+Bash: PERSON
+Linux: GPE
+11/2008: CARDINAL
+UNIX: ORG
+AIX Linux System Engineer Company Name: ORG
+AIX: ORG
+4/5: CARDINAL
+Java: PERSON
+Oracle: ORG
+UNIX: ORG
+Troubleshooting: GPE
+AIX: ORG
+6.x,/7.x: CARDINAL
+IBM: ORG
+Apache TOMCAT: PRODUCT
+JBOSS: GPE
+ORACLEAPP: ORG
+logic & JAVA
+Responsible: ORG
+VIO: ORG
+VMWARE: ORG
+Redhat Linux: PERSON
+ORACLE: ORG
+WEBSPHERE: ORG
+JAVA: GPE
+JBOSS: ORG
+Apache Tomcat: PERSON
+XML: ORG
+TSM: ORG
+Cisco: GPE
+AIX: ORG
+5.3: CARDINAL
+6.1: CARDINAL
+Testing: GPE
+Linux RedHat: PERSON
+Developed KSH: PERSON
+AWK: ORG
+SED & PERL: ORG
+Design, Implement: ORG
+570,595: CARDINAL
+HMC: ORG
+VMware ESX: ORG
+Virtual Center Server & VM: ORG
+SAN: ORG
+EMC Clariion: ORG
+IBM: ORG
+Configuring: GPE
+Administrating NIM: ORG
+NFS: ORG
+NIS &LDAP: ORG
+AIX: ORG
+Redhat Linux: PERSON
+SSH: ORG
+IPsec: ORG
+2600: CARDINAL
+EMC: ORG
+Disaster Recover: PERSON
+Policies: GPE
+third: ORDINAL
+LINUX: ORG
+NFS: ORG
+NIM: ORG
+7: CARDINAL
+24: CARDINAL
+100: CARDINAL
+Certifications: ORG
+CFS: ORG
+Skills: ORG
+Linux: GPE
+Veritas: GPE
+Websphere, Maintenance,: ORG
+Nfs: ORG
+Oracle: NORP
+Unix, Systems Administration: ORG
+Dns: ORG
+Veritas: PERSON
+File, File Systems: ORG
+Tivoli: GPE
+Apache: GPE
+Engineer: ORG
+Tomcat, System Administration: ORG
+Disaster Recovery: PERSON
+Storage Area Network: ORG
+Tsm, Access, Nis: ORG
+Backups: PERSON
+Lpars: PERSON
+Tivoli Storage: GPE
+Tcp: PERSON
+Tibco: GPE
+Cluster
+Server: PERSON
+Operations: ORG
+Red Hat: ORG
+Solaris: GPE
+Veritas Cluster Server: PERSON
+Change Management: ORG
+Vmware: ORG
+Pseries, Clients,: ORG
+Ssl: ORG
+Bash: GPE
+Bourne Shell: PERSON
+Dns Server: PERSON
+Firewall: GPE
+Korn: PERSON
+Nmap: GPE
+Shell Scripts: PERSON
+Snort: GPE
+Access
+Control: ORG
+Amazon: ORG
+Amazon Elastic Compute Cloud: ORG
+Amazon S3: ORG
+Amazon Simple Queue Service: ORG
+Amazon Simple Storage Service: ORG
+Amazon: ORG
+Identity Management: ORG
+Lan: PERSON
+Middleware: GPE
+Ms Sql Server: PERSON
+Sql: PERSON
+Sql Server: PERSON
+Vpn: PERSON
+Weblogic: ORG
+Awk: ORG
+Cisco: GPE
+Ipsec: ORG
+Java: PERSON
+Legato: GPE
+Net Backup: FAC
+Team Lead: PERSON
+Terminal Server: PERSON
+Veritas Net Backup: ORG
+Virtual Machine: ORG
+Virtualization, Vm,: ORG
+Business Requirements: ORG
+Firmware: ORG
+Resource Utilization: ORG
+Storage Management: ORG
+Clustering, Database, Emc Srdf: GPE
+Netapp: ORG
+Netbackup: GPE
+Netcool, Peregrine,: ORG
+Srdf: ORG
+Customer Support: PERSON
+Msvc: PERSON
+Network Storage: ORG
+Sftp, Solutions, System Installation: ORG
+Logging: PERSON
+Microsoft Sharepoint: ORG
+Microsoft Windows, Msm, Nagios: ORG
+Network Administration: ORG
+Networking, Scheduling,: ORG
+Team Player: ORG
+Writing Technical: ORG

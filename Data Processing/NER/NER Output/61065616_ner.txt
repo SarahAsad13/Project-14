@@ -1,0 +1,39 @@
+twelve years': DATE
+the Construction Materials Inspection and Testing: ORG
+1: CARDINAL
+Florida Department of Transportation: ORG
+May 2005: DATE
+Florida
+Department of Transportation: ORG
+September 2005: DATE
+Level1B: ORG
+Texas Department of Transportation: ORG
+October
+2008: DATE
+Texas Department of Transportation: ORG
+October 2007: DATE
+Current
+Construction Materials Field Representative Company Name: ORG
+Tensioned Slabs Performs: ORG
+Field Equipment: ORG
+Reviews: NORP
+Performs Fire Stop Systems: ORG
+Fire Proofing Systems: ORG
+Fire Rating Inspections Reviews: ORG
+University of Texas System: ORG
+Austin: GPE
+Leander ISD: PERSON
+Austin-Bergstrom Airport Aviation Authority: ORG
+Texas Facilities Commission: ORG
+Travis County Government: ORG
+Marshall Unit: ORG
+Performed Laboratory: ORG
+Marshall: PERSON
+Performed: ORG
+Coordinated: PRODUCT
+Performed
+Reinforcing Steel Inspections: ORG
+Training: PERSON
+July 2008: DATE
+July 1984: DATE
+Ordinary Level University of London: ORG

@@ -1,0 +1,81 @@
+Highlights
+
+Sociable: ORG
+Excels: PERSON
+Works: PERSON
+Excels: PERSON
+Beauty Advisor: PERSON
+Makeup Artist: PERSON
+2nd: ORDINAL
+Canada: GPE
+1st: ORDINAL
+Vancouver: GPE
+Networked: PRODUCT
+Gained Charlotte Tilbury's: PERSON
+Makeup Artist: PERSON
+Created: ORG
+B-Authentique: PRODUCT
+Makeup and Hair Artist: WORK_OF_ART
+03/2015: WORK_OF_ART
+Created: ORG
+Makeup Artist: PERSON
+Surreal Beauty Magazine
+Assisted: ORG
+Beauty Advisor: WORK_OF_ART
+10/2014: CARDINAL
+NARS: ORG
+Makeup Artist: PERSON
+10/2014: CARDINAL
+Gained: NORP
+Collaborated: ORG
+Makeup Artist: PERSON
+09/2014: ORG
+12/2015: CARDINAL
+Choreographer: PERSON
+MJ Lee: PERSON
+Cocoa Tanning Salon - Nightclub Event: ORG
+Kerri Leigh: PERSON
+Valentines: NORP
+Trade for Print - Langara Photography Student Photographer: ORG
+Teni Kim: PERSON
+Blushing Boutique Fashion Show Makeup Key:: ORG
+Gina Kang: PERSON
+Key: ORG
+Holt Renfrew Spring/Summer 2016: FAC
+Sarah McInnes: PERSON
+08/2012: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+Mediated: ORG
+Screened: ORG
+09/2014 Company Name: ORG
+Maintained: GPE
+Twitter: PERSON
+Website: PERSON
+Key: LOC
+Sales Associate: PERSON
+12/2011: CARDINAL
+the month: DATE
+3 months in a row
+Learned: DATE
+every week: DATE
+2015: DATE
+Blanche MacDonald Centre: ORG
+ï¼​ City: GPE
+State: GPE
+Makeup
+Makeup for Fashion: PERSON
+Art and Tech
+Special: WORK_OF_ART
+Makeup for Prosthetics: ORG
+Digital: ORG
+2014: CARDINAL
+Fraser University: ORG
+State: GPE
+2014: DATE
+Retail Sales: ORG
+Contracts, Invoices, Managerial, Networking, Training,: ORG
+Excel: PRODUCT
+Voice: ORG
+Associate, Closing, Inventory: ORG
+Sales Associate: PERSON

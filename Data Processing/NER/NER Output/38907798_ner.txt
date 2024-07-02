@@ -1,0 +1,84 @@
+Summary
+Highly: ORG
+8 years: DATE
+month-end: DATE
+quarter-end: DATE
+year-end: DATE
+Highlights: GPE
+Budget: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft PowerPoint: ORG
+SAP: ORG
+JD Edwards: PERSON
+January 2015 to January 2016: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Balance Sheet: PERSON
+P&L: ORG
+monthly: DATE
+weekly: DATE
+CFO: ORG
+Dir: ORG
+Treasury: ORG
+monthly: DATE
+Coordinate: FAC
+Company: ORG
+Ogilvy Public Relations- Client Finance: ORG
+January 2015 to January 2015: DATE
+Prepare: ORG
+weekly: DATE
+monthly: DATE
+Assist: NORP
+weekly: DATE
+January 2012 to January 2015: DATE
+Prepared: PERSON
+weekly: DATE
+Prepared: PERSON
+monthly: DATE
+month-end: DATE
+quarterly: DATE
+yearly: DATE
+January 2008 to January 2012: DATE
+monthly: DATE
+Finance: ORG
+CFO: ORG
+prior year: DATE
+monthly: DATE
+Prepared: PRODUCT
+monthly: DATE
+Processed: GPE
+Processed: GPE
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+Masters of Business Administration: ORG
+Auditing & Fraud Examination: ORG
+December 2011: DATE
+Argosy University: ORG
+State Auditing & Fraud
+Examination
+Fraud Examination: Theories and Methods: ORG
+Financial Analysis: ORG
+Internal Auditing: ORG
+Control Management: ORG
+Legal Aspects: ORG
+Expert Testimony
+Bachelor of Science : Corporate Finance & Advertising: PERSON
+Corporate Finance & Advertising and Promotion Strategy
+Skills: ORG
+Budget: ORG
+Business Objects: ORG
+Finance: ORG
+Financial Analysis: ORG
+Internal Auditing: ORG
+JD Edwards: PERSON
+Legal: GPE
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+SAP R3: ORG
+Treasury: ORG

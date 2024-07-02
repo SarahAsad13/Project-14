@@ -1,0 +1,37 @@
+CUSTOMER: ORG
+ADOT Highway: ORG
+ADOT Pen Computer System Training ATTI Field Asphalt: ORG
+Soil/Agg: ORG
+14135F: DATE
+Building Performance Institute: ORG
+Build[nc Analyst Professional Troxler Nuclear Gauge Safety Training: ORG
+8
+hour: TIME
+Refresher: PERSON
+OSHA: ORG
+Cert: PERSON
+40 hour: TIME
+Cert: PERSON
+Life and Health Insurance: ORG
+State Customer Service: ORG
+Awarded: FAC
+State Construction Materials Technician
+
+Highway: ORG
+Communicated: ORG
+State Construction Quality Assurance Inspector
+
+Served: ORG
+Special Ministry: ORG
+Identify: ORG
+State: ORG
+Prepared: PERSON
+State: ORG
+QA: ORG
+II: CARDINAL
+first: ORDINAL
+State: ORG
+Morehead State University City: ORG
+Grade 1: PRODUCT
+Skills: ORG
+QA: ORG

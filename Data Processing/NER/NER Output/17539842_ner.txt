@@ -1,0 +1,43 @@
+Observe: LOC
+Assist: NORP
+Oct 2015 to Jan 2016: DATE
+Coordinated: ORG
+Prepared: PRODUCT
+Faxed: ORG
+Monitored: ORG
+Aug 2013: DATE
+non-English: NORP
+Tutored: PRODUCT
+Discuss: PERSON
+Substitute Teacher: PERSON
+Aug 2011 to Jun 2014: DATE
+Elementary: PERSON
+Maintained: GPE
+2010: DATE
+2011: CARDINAL
+Tutored: PRODUCT
+Discuss: PERSON
+Feb 2010: DATE
+Apr: PERSON
+2010: DATE
+Healthcare: ORG
+May 2007: DATE
+fed: ORG
+Restrained: ORG
+Aug 2005: DATE
+Jan 2006: DATE
+2005: DATE
+May 2005: DATE
+Bathed: GPE
+daily: DATE
+Training
+Certificate: ORG
+2016: DATE
+Wake Tech Community College: ORG
+2001: DATE
+Continental Academy High School ï¼​ City: ORG
+North Carolina Interventions
+: GPE
+Microsoft Typing Skills Ability: ORG
+Focus
+Efficiency Self-Motivation Ethical: ORG

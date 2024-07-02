@@ -1,0 +1,54 @@
+HR & SAFETY: ORG
+Summary
+Human Resources: ORG
+Certified Professional in Human Resources: ORG
+Skills HR Strategic Planning Training & Development Performance
+Management Organizational Development Mediation & Advocacy Staff Recruitment & Retention Employee Relations Alternative Dispute
+Resolution: ORG
+Administration Project Management Orientation & On-Boarding HR Policies & Procedures Employment Law: ORG
+HR & Safety: ORG
+January 2013 to January 2014: DATE
+Key Results: LOC
+two: CARDINAL
+75%: PERCENT
+Ohio Bureau of Worker's Compensation: ORG
+BWC: ORG
+Generalist: PERSON
+January 2011 to January 2013: DATE
+second: ORDINAL
+Key Results: LOC
+Collaborated: ORG
+70%: PERCENT
+50%: PERCENT
+year-to-year: DATE
+Most Improved Account: WORK_OF_ART
+Bill Pay: PERSON
+January 2008 to January 2011: DATE
+January 1997 to January 2006: DATE
+1,000: CARDINAL
+Key Results: LOC
+1,000: CARDINAL
+Joint Commission: ORG
+Accreditation of Healthcare Organization: ORG
+100%: PERCENT
+2-year: DATE
+30-40%: PERCENT
+U.S.: GPE
+Army: ORG
+3 Commendation Medals: ORG
+1: CARDINAL
+Awarded Noncommissioned Officer of the Quarter: WORK_OF_ART
+Third Quarter 2003: DATE
+Master of Science (MS: WORK_OF_ART
+Human Resource Management: ORG
+2016: DATE
+Keller Graduate: PERSON
+school of Management: ORG
+Devry University: ORG
+State Human
+Resource Management
+Bachelor of Science (BS: ORG
+Human Resource Management Franklin University: ORG
+ï¼​ City: GPE
+State Human Resource Management Worked: ORG
+Bill Pay Support Associate: PERSON

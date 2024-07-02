@@ -1,0 +1,70 @@
+Google Analytics: ORG
+Heavy: ORG
+Media Group: ORG
+Current Company Name: ORG
+Pa Media Group's: ORG
+SMO: ORG
+Pinterest: ORG
+monthly: DATE
+Google Analytics: ORG
+Google Analytics: ORG
+daily: DATE
+Google Analytics: ORG
+Google Analytics: ORG
+Google Analytics: ORG
+Google Analytics: ORG
+monthly: DATE
+Google Analytics: ORG
+Healthcare Account Executive 03/2014: ORG
+Audience Targeting: PERSON
+SMO: ORG
+Email Blasts: PERSON
+Pinterest: ORG
+Rich Media: PERSON
+Content Marketing: ORG
+Google Analytics: ORG
+Google Analytics: ORG
+Google Analytics: ORG
+Healthcare: ORG
+Repair: ORG
+Audience: PERSON
+SMO: ORG
+Email Blasts: PERSON
+Youtube: PERSON
+York Tab,: PERSON
+Homes Tab: PERSON
+the Marketing Committees for York Builders Associations: ORG
+York Economic Alliance: ORG
+monthly: DATE
+The Conference Center at Shippensburg University: FAC
+the spring semester of 2011: DATE
+Shippensburg Brochure: ORG
+the Shippensburg Area of Commerce: LOC
+600: CARDINAL
+York Tab,: PERSON
+Readers Choice Tab: PERSON
+The Parade of Homes Tab: WORK_OF_ART
+Show Tab: PERSON
+Pier 1 Imports: PERSON
+Bachelor of Science : Marketing and General Management 2012 Shippensburg University: ORG
+John L Grove College of Business City: PERSON
+GPA: ORG
+3.5: CARDINAL
+List Fall Semester: WORK_OF_ART
+2011: DATE
+Spring Semester: WORK_OF_ART
+2012: DATE
+Dale Carnigie: PERSON
+2013: DATE
+3.5: CARDINAL
+List
+Fall Semester of 2011: WORK_OF_ART
+2012: DATE
+Dale Carnigie: PERSON
+2013: DATE
+Skills: ORG
+Brochure: ORG
+Email: PERSON
+Google Analytics: ORG
+LEADERSHIP: ORG
+Real Estate: ORG

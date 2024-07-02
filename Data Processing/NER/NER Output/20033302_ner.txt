@@ -1,0 +1,87 @@
+18: CARDINAL
+Achievements Analyzed: PERSON
+146000: MONEY
+annual: DATE
+22%: PERCENT
+11%: PERCENT
+24%: PERCENT
+81%: PERCENT
+10 straight years: DATE
+100: CARDINAL
+the Fort Worth Consumer
+Health Division Improved: FAC
+100 %: PERCENT
+GMO: ORG
+06/2008 
+Company Name: ORG
+#1: MONEY
+Texas: GPE
+$3.53 million: MONEY
+annually: DATE
+daily: DATE
+9%: PERCENT
+12%: PERCENT
+73%: PERCENT
+Committed: ORG
+first: ORDINAL
+39: CARDINAL
+2003 to: DATE
+the Year Award: EVENT
+five consecutive years: DATE
+Tax Specialist: PERSON
+01/2015: DATE
+500: CARDINAL
+Collaborated: ORG
+first year: DATE
+Achievements Earned: PERSON
+H&R Block Academy's: ORG
+100: CARDINAL
+98: CARDINAL
+40%: PERCENT
+first: ORDINAL
+98%: PERCENT
+96%: PERCENT
+Completed: ORG
+1000+ hours: TIME
+IRS: ORG
+third: ORDINAL
+H&R Block Awarded: ORG
+Reginal: ORG
+District Managers: ORG
+two years: DATE
+Henry W.: PERSON
+Bloch Excellence: PERSON
+Client: GPE
+Bachelor of Science : Business Management Saint Joseph University 
+Business Management Magna Cum Laude: ORG
+15 years: DATE
+English: LANGUAGE
+Arabic: LANGUAGE
+French: LANGUAGE
+Highlights: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+Google Data
+Analytics: ORG
+Web Metrics Social: ORG
+Hootsuite, Hashtagify: ORG
+TweetDeck Cloud
+Management and Security Salesforce Customer Relationship Management QuickBooks: PERSON
+14: CARDINAL
+Mastering QuickBooks: PERSON
+Skills: ORG
+Arabic: LANGUAGE
+Customer Relationship Management: ORG
+Client: GPE
+English: LANGUAGE
+French: LANGUAGE
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+98: DATE
+Microsoft: ORG
+QuickBooks: ORG
+Search Engine
+
+Optimization: ORG

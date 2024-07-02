@@ -1,0 +1,28 @@
+BUSINESS DEVELOPMENT: ORG
+Career Focus
+
+Self: ORG
+8 year: DATE
+Veteran of The United States Armed Services: WORK_OF_ART
+Microsoft Office: ORG
+Social Ecology: ORG
+June 2015: DATE
+daily: DATE
+Identify: ORG
+US: GPE
+daily: DATE
+June 2014 to June 2015: DATE
+Identify: ORG
+February 2012 to January 2014: DATE
+Preserving: PERSON
+Social Ecology, Environmental Analysis & Design: ORG
+2004: DATE
+2003 Food & Drug Administration - City: ORG
+State: GPE
+USA: GPE
+August 2002 to January 2005: DATE
+May 1994 to September 1997: DATE
+State: ORG
+Skills
+
+Agency: ORG

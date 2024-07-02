@@ -1,0 +1,71 @@
+14 years: DATE
+food & labour: ORG
+13 years: DATE
+Institutional: ORG
+Mediterranean: LOC
+Hospitality: PERSON
+Catering
+Inventory: ORG
+Hotel: ORG
+Hospitality: PERSON
+Five: CARDINAL
+Banquette: ORG
+18 percent: PERCENT
+Maintained: GPE
+daily: DATE
+Maintained: GPE
+Executive Chef: ORG
+the Executive Chef: ORG
+600: CARDINAL
+15 percent: PERCENT
+Maintained: GPE
+daily: DATE
+Maintained: GPE
+Created: ORG
+Chef 01/2006: ORG
+the Executive Chef: ORG
+27 %: PERCENT
+43: CARDINAL
+Diploma: NORP
+2009: DATE
+academia international - City: ORG
+State: ORG
+Culinary Arts Certificate
+Coursework: WORK_OF_ART
+Culinary: ORG
+Restaurant Management
+Coursework in Hospitality Management
+Food Services Technology: ORG
+Baker: PERSON
+First Cook
+Coursework in Professional Cooking and Baking
+Coursework in Hotel Management and Restaurant Food Service
+Coursework in Hotel Administration
+Coursework in Business Administration and Management
+Culinary Arts: ORG
+Hotel and Restaurant Administration: ORG
+Marketing Management
+Food Systems Management: ORG
+Certified Nutrition Consultant
+
+Personal Training: WORK_OF_ART
+Advanced: PERSON
+Food Systems Management: ORG
+Pediatric Feeding and Nutrition
+
+Hospitality Management: ORG
+Academia International Melbourne: ORG
+Australia: GPE
+4 & 5: MONEY
+OH&S: ORG
+Australia: GPE
+RSA: ORG
+1 2004: DATE
+Skills
+Fluent: ORG
+English: LANGUAGE
+Hebrew: LANGUAGE
+Schedule Create: PERSON
+Select: GPE
+Oversee: ORG
+Music &: ORG

@@ -1,0 +1,73 @@
+Highlights
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+11/2008: CARDINAL
+approximately 30 percent: PERCENT
+Prepared: PERSON
+USCIS: ORG
+Maintained: GPE
+USCIS: ORG
+USCIS: ORG
+monthly: DATE
+Created: ORG
+Maintained: GPE
+11/2008: CARDINAL
+Coordinator Company Name: ORG
+USCIS: ORG
+Maintained: GPE
+Identified as Designated School Official: ORG
+Alternate Responsible Officer: ORG
+the J-1 Exchange: ORG
+Visitor Program: ORG
+J-1: ORG
+H-1B: PRODUCT
+U.S.: GPE
+Coordinated: ORG
+05/2000: CARDINAL
+11/2008: CARDINAL
+Coordinator/International Student Advisor: ORG
+Created PowerPoint: ORG
+daily: DATE
+8/2013: CARDINAL
+ABA Approved Paralegal Program Certification: ORG
+8/2013: CARDINAL
+Montclair State University: ORG
+06/2002: CARDINAL
+6/2013: CARDINAL
+the Department of State: ORG
+United States: GPE
+Citizenship and Immigration Services: ORG
+Designated School Official: ORG
+National Association of Foreign Student Advisors: ORG
+NAFSA: ORG
+2012: DATE
+International Students: ORG
+2000: DATE
+one: CARDINAL
+2008: DATE
+Performance Evaluation: ORG
+NJIT -: ORG
+Lisa: PERSON
+contractual hours: TIME
+2008: DATE
+Merit: ORG
+2006: DATE
+2004: DATE
+NJIT -: ORG
+Skills: ORG
+Human Resource Management: ORG
+Human Resources
+Management: ORG
+Excel: PRODUCT
+Exchange: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Paralegal, Performance Management: ORG
+Publications, Recruitment, Strategic Planning: ORG
+Supervisor: PERSON
+Visio: PERSON
+Website: GPE
+annual: DATE

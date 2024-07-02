@@ -1,0 +1,25 @@
+Confer: PERSON
+Prepare: ORG
+Evaluate: ORG
+LEED: ORG
+LEED: PERSON
+OSHA Certified
+Forklift: ORG
+Baseline: PERSON
+Superb: NORP
+MS Office: ORG
+Organized: ORG
+96.5%: PERCENT
+$32 million dollar: MONEY
+57: CARDINAL
+115: CARDINAL
+Mar 1994: DATE
+2013: DATE
+Obtained: FAC
+Proposed Change Order Requests (PCOR: WORK_OF_ART
+Incident: ORG
+IIT: ORG
+Bachelor of Science , Construction Management Technology 1993: ORG
+Ohio State University: ORG
+State: ORG
+United Staes: ORG

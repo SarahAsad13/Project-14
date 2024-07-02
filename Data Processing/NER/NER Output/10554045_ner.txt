@@ -1,0 +1,64 @@
+ADMISSIONS: ORG
+DISPOSITIONS CLERK 3RD: ORG
+MS Excel: ORG
+MS Powerpoint
+SOX (Sarbanes-Oxley Compliance: ORG
+Ward Clerk: PERSON
+Admissions: ORG
+Dispositions Clerk: PERSON
+3rd Party Liability Clerk: ORG
+700,00: MONEY
+over 40,000: CARDINAL
+Maintained: GPE
+1,000: CARDINAL
+January 2012: DATE
+Process Out of Cycle: WORK_OF_ART
+Compute: ORG
+Process: ORG
+weekly: DATE
+the Collective Bargaining Agreement: ORG
+Respond: PERSON
+Monthly: DATE
+Respond: PERSON
+Pull: PERSON
+monthly: DATE
+SOX: ORG
+Check: ORG
+Update: ORG
+Respond: PERSON
+Month-end: DATE
+P&L Statement: ORG
+October 1993 to January 2012: DATE
+Prepared: PERSON
+Complied: PERSON
+Maintained: GPE
+Maintained: GPE
+January 1983 to June 1992: DATE
+Clerk/Hospital Outpatient Records Clerk: ORG
+six: CARDINAL
+Coded: ORG
+Aerovac Medical Record: ORG
+thousands of dollars: MONEY
+3,000: CARDINAL
+annually: DATE
+60: CARDINAL
+Obtained: ORG
+more than 1,800: CARDINAL
+JCAHO: ORG
+Inpatient Records: ORG
+three years: DATE
+Regulation Program: ORG
+Drafted: ORG
+Mail & Distribution Office: ORG
+80: CARDINAL
+the Medical Service: ORG
+University of North Carolina: ORG
+1982: DATE
+Skills: ORG
+CPR: ORG
+MS Excel,: ORG
+Mail, Office: ORG
+MS Powerpoint: PERSON
+MS Word: PERSON
+Month-end: DATE
+Sarbanes-Oxley: PERSON

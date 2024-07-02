@@ -1,0 +1,63 @@
+Accuracy: PERSON
+Strong: PERSON
+Possess: ORG
+Microsoft Word: PERSON
+Microsoft Excel: ORG
+Microsoft: ORG
+Microsoft PowerPoint: ORG
+Microsoft Publisher: ORG
+Microsoft Outlook: ORG
+Microsoft Visio: ORG
+Lotus: ORG
+Notes: PRODUCT
+Name City: GPE
+State: ORG
+Guides: PERSON
+Designs: NORP
+Name City: GPE
+State Office Operations: ORG
+04/2013: CARDINAL
+first: ORDINAL
+Monthly: DATE
+Communicate: ORG
+Assist: NORP
+day: DATE
+Name City: GPE
+ten: CARDINAL
+Project Lead: PERSON
+Name City: GPE
+08/2011: CARDINAL
+Name City: GPE
+State: ORG
+Retail Support: PERSON
+Home Shopping Network Supervision / Training and Instructions / Team Lead Train: ORG
+Retail Support: PERSON
+Home Shopping Network Supervision / Training and Instructions / Team Lead Train: ORG
+Peer: PERSON
+Name City: GPE
+State Administration / Customer Services / Mentor: ORG
+Keep: PERSON
+Name City: GPE
+State: ORG
+Purser: PERSON
+Keep: PERSON
+400: CARDINAL
+BAS: PERSON
+Management & Organizational Leadership 2012 St. Petersburg College Management & Organizational Leadership
+Associate of Arts 2010 St. Petersburg College
+Associate of Arts 1996: ORG
+Arthur Community College: ORG
+Spanish: NORP
+French: NORP
+Skills
+Management: ORG
+Administrative Support: PERSON
+Â Excellent: ORG
+Customer: ORG
+Â French: PERSON
+Â Mentor: ORG
+Â Effective: ORG
+Project Management: ORG
+Project Lead: PERSON
+Â Researching: PERSON
+Spanish: NORP

@@ -1,0 +1,64 @@
+Research & Development: ORG
+Microsoft Excel & Word
+
+Assembly: ORG
+Mastered: ORG
+Labview: PERSON
+ERP: ORG
+Microsoft AX Dynamics
+Trained: ORG
+90 %: PERCENT
+8 years: DATE
+April 2015: DATE
+Mechanically: PERSON
+System Testing verification & analysis: WORK_OF_ART
+Software: NORP
+Applied: ORG
+Ran: PERSON
+February 2015 to April 2015: DATE
+PCB: ORG
+Maintained: GPE
+February 2004 to June 2014: DATE
+2nd: ORDINAL
+Supervisor: PERSON
+AMR: ORG
+Axsun Mechanical Robot: WORK_OF_ART
+Production Equipment: ORG
+Management and Engineering: ORG
+Motivate: PRODUCT
+Posses: ORG
+Build: GPE
+L: GPE
+C+L Band: PERSON
+Familiar: PERSON
+ERP: ORG
+AX Dynamics: ORG
+5: CARDINAL
+Wafer Fab Technician: PERSON
+September 1999 to January 2004: DATE
+Team Lead: PERSON
+wip
+Knowledge: PERSON
+Laser Scribe Machinery: ORG
+Keithly Instruments: ORG
+Karl Suss: PERSON
+weekly: DATE
+Assembler/Operator: ORG
+April 2003 to September 2003: DATE
+Press: ORG
+Punch: PRODUCT
+March 2001 to January 2002: DATE
+Engineers: ORG
+Assisted: ORG
+Diploma :: DATE
+1999: DATE
+East Boston High School: ORG
+Skills
+
+Data: ORG
+ERP: ORG
+Microsoft AX Dynamics: ORG
+Mechanical: ORG
+Supervisory
+System: ORG
+Team: ORG

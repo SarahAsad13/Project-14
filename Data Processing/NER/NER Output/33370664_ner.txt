@@ -1,0 +1,43 @@
+Detail: PERSON
+Skill Highlights
+
+Case Management
+Family: ORG
+Child: ORG
+Parent: GPE
+Alternative Discipline Techniques
+Mental: PERSON
+Exemplary: PERSON
+Analytical: PRODUCT
+Compassionate: ORG
+First Aid: ORG
+Training
+Bachelors of Arts: PERSON
+Cultural Diversity and Ethnic Studies: EVENT
+12/2013: CARDINAL
+Provides: PERSON
+Conducts: ORG
+third: ORDINAL
+third: ORDINAL
+Medicaid: ORG
+Medicare: ORG
+Social Security: ORG
+10/2011: CARDINAL
+Provide: NORP
+Provide: NORP
+Provide: NORP
+Profile: ORG
+Completes: PRODUCT
+Name City: GPE
+State: ORG
+Automated Teller
+Machines: ORG
+ATM Daily: ORG
+Profile: ORG
+Employ BB&T: PERSON
+Skills: ORG
+ATM: ORG
+Client: GPE
+Healthcare: ORG
+MEDISOFT: GPE
+STD: ORG

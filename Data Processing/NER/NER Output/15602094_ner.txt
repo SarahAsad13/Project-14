@@ -1,0 +1,87 @@
+Windows: PRODUCT
+Linux: GPE
+PHP
+Excellent: ORG
+Adobe Photoshop
+Adobe Illustrator
+MailChimp: WORK_OF_ART
+PowerPoint: ORG
+CSS: ORG
+Adobe InDesign: PERSON
+AP: ORG
+MLA: ORG
+Chicago Manuals of Style
+Natural: ORG
+Patient
+
+Work History: WORK_OF_ART
+Sage Software: ORG
+Intuit: ORG
+IBM: ORG
+Continental Airlines: ORG
+American Airlines: ORG
+Exxon Provided: ORG
+Developed: ORG
+Performed: ORG
+third: ORDINAL
+Coordinated: ORG
+INSTRUCTOR: ORG
+Top-Ten: PRODUCT
+the Dallas Business Journal Business: ORG
+Microsoft Office: ORG
+AT&T Alliance Developed: ORG
+CTO: ORG
+Developed: ORG
+AT&T: ORG
+PHOTOGRAPHER: ORG
+under three
+years: DATE
+ENGINEER Analyzed: ORG
+Time: ORG
+Illustrated: ORG
+MANAGEMENT CONSULTANTInstructor: ORG
+Consultant: ORG
+Fortune 500 Corporations: WORK_OF_ART
+weekly: DATE
+Bachelor of Science : Information Technology: ORG
+Current 
+South University Online - City: ORG
+State 
+
+Information Technology
+Outstanding Achievement Award
+
+Affiliations: ORG
+National Society of Collegiate: ORG
+Scholars: PERSON
+Dallas: GPE
+Society of Visual Communication American Society of Magazine Photographers: ORG
+International Webmaster's: ORG
+Global WebSphere Community: ORG
+Adobe: PERSON
+Acrobat: PERSON
+Photoshop: PERSON
+Apache: PRODUCT
+Apple: ORG
+ASP: ORG
+Crystal Reports: PRODUCT
+CSS: ORG
+ENGINEER: ORG
+IBM: ORG
+IBM WebSphere: ORG
+InDesign: ORG
+Javascript, Languages: PERSON
+Linux: GPE
+#: CARDINAL
+Microsoft Office User Specialist: ORG
+Microsoft Office XP: ORG
+MS Project: GPE
+Windows: NORP
+PHOTOGRAPHER: ORG
+PhP: ORG
+QuickBooks: ORG
+MS SQL Server: ORG
+VBA: ORG
+VBScript: ORG
+Visio: PERSON
+MS Visual Studio: ORG

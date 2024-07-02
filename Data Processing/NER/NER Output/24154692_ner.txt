@@ -1,0 +1,67 @@
+QUALITY: ORG
+Professional Summary
+
+Outgoing Quality Assurance: ORG
+8 years: DATE
+Aerospace: GPE
+EVO & Microsoft: ORG
+NADCAP: ORG
+Initiated: ORG
+CMMC Compliance: PRODUCT
+Created: ORG
+FOD Program: ORG
+Identify/Analyze/Resolve Problems
+Supplier Quality
+Staff: WORK_OF_ART
+07/2011: CARDINAL
+4: CARDINAL
+AS9000: GPE
+NADCAP: ORG
+7%: PERCENT
+NCR: ORG
+1.41%: PERCENT
+0.03%: PERCENT
+Developed: PRODUCT
+KPI: ORG
+NADCAP: ORG
+7 months: DATE
+CMMC: PRODUCT
+over 50%: PERCENT
+60,000: MONEY
+4: CARDINAL
+20: CARDINAL
+Upgrade: ORG
+Build: GPE
+MAS: ORG
+Chief Instructor: PERSON
+Communicate: ORG
+Oversaw: GPE
+200: CARDINAL
+Purchasing Coordinator 01/2008: ORG
+Collaborated: ORG
+Maintained: GPE
+Computed: ORG
+E3: DATE
+Maintained: GPE
+Liberty Eylau High School - City: ORG
+Graduated Top: PERSON
+3: CARDINAL
+Certified Six Sigma Green Belt: WORK_OF_ART
+Aveta Business Institute - 2020: ORG
+ISO 9001:2015 Internal Auditor Training: ORG
+Purdue University - 2019: ORG
+NADCAP Audit Criteria: ORG
+Purdue University - 2019: ORG
+OSHA: ORG
+10: CARDINAL
+OSHA Training Institute - 2019: ORG
+Quality Management, Tools & Techniques: ORG
+Blueprint Reading, GD&T: WORK_OF_ART
+VSM w/ Implementation: ORG
+VSM: PERSON
+Microsoft: ORG
+Best Practices for Managing Inventories: WORK_OF_ART
+2015: DATE
+Lean Operational Excellence Training - 2013
+Blueprint Reading Fundamentals: ORG
+2013: DATE

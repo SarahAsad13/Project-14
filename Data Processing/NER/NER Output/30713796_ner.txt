@@ -1,0 +1,56 @@
+Client: GPE
+Excel: PRODUCT
+Quick learner
+
+: ORG
+3 
+March 2011 to August 2014: DATE
+daily: DATE
+Processed: GPE
+Examined: NORP
+Researched: ORG
+Processed: GPE
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+25]%: CARDINAL
+May 1998: DATE
+State: ORG
+September 2010: DATE
+daily: DATE
+Processed: GPE
+Examined: NORP
+Researched: ORG
+ANNAPOLIS BANKING & TRUST: ORG
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+25]%: CARDINAL
+July 1995 1ST: DATE
+NATIONAL BANK OF MD: ORG
+Glen Burnie: PERSON
+MD: GPE
+October 1997: DATE
+Processed: GPE
+25]%: CARDINAL
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+1ST: WORK_OF_ART
+NATIONAL BANK: ORG
+Researched: ORG
+Examined: NORP
+June 1994: DATE
+at least eight: CARDINAL
+100%: PERCENT
+Conducted: ORG
+daily: DATE
+weekly: DATE
+daily: DATE
+Assigned: PERSON
+daily: DATE
+Communicated: WORK_OF_ART
+a year: DATE
+November 1991: DATE
+Education: ORG
+Skills: ORG

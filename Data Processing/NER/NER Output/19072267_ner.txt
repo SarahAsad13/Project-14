@@ -1,0 +1,423 @@
+Skill Highlights: PERSON
+Core Accomplishments
+
+Marketing
+Public: WORK_OF_ART
+Print: GPE
+the Morningside College Interdepartmental Honors Program: ORG
+2002: DATE
+Morningside College Press: ORG
+Quota International of Sioux City Annual Eighth Grade Honors Luncheon: ORG
+March 2006 and March 2007: DATE
+May 2013: DATE
+2014: DATE
+Ensures: LOC
+COMMUNITY: ORG
+RELATIONS
+Oversees: ORG
+¦: PERSON
+the Board of Directors: ORG
+two: CARDINAL
+two: CARDINAL
+the Board of Directors: ORG
+FISCAL & FACILITY MANAGEMENT â: ORG
+¦: PERSON
+PERSONNEL MANAGEMENT â—¦: LAW
+PROGRAM OVERSIGHT & SUPPORT
+PROGRAM SUPERVISION Supports: ORG
+Board: ORG
+the National Children's Alliance: ORG
+Board: ORG
+71%: PERCENT
+FY: GPE
+2015: DATE
+2014: DATE
+September 2008 to April 2013: DATE
+MARKETING & PUBLICATIONS: ORG
+Oversaw: GPE
+quarterly: DATE
+ADVOCACY: ORG
+Oversaw: GPE
+NPA: ORG
+the National Institutes of Health: ORG
+NIH: ORG
+the National Science
+Foundation: ORG
+NSF: ORG
+the White House Office of Science and Technology Policy: ORG
+NPA: ORG
+the Washington Post: ORG
+the New York Times: ORG
+the
+International Consortium of Research Staff Associations: ORG
+NPA: ORG
+the United Kingdom: GPE
+Ireland: GPE
+South: LOC
+Africa: LOC
+the Board of Directors: ORG
+501(c)3: CARDINAL
+two: CARDINAL
+one: CARDINAL
+the Board of Directors: ORG
+five-year: DATE
+2013-2017: DATE
+Annual Meeting: ORG
+Board Retreat: ORG
+MANAGEMENT Oversaw: ORG
+Generally Accepted Accounting Principles: ORG
+annual: DATE
+Writer: PERSON
+January 1999 to: DATE
+August 2008: DATE
+EDITOR: ORG
+PHOTOGRAPHER: ORG
+Oversaw: GPE
+The Morningsider: WORK_OF_ART
+¦: PERSON
+Oversaw: GPE
+Oversaw Office of Foundation: ORG
+Grant Development: ORG
+¦: PERSON
+the National Science
+Foundation's: ORG
+600,000: MONEY
+February 2009: DATE
+Supervised Office of Public Relations: ORG
+five: CARDINAL
+Established Foundation: ORG
+Grant Development: ORG
+Oversaw: GPE
+Oversaw: GPE
+¦: PERSON
+57 percent: PERCENT
+2001 to 2006: DATE
+¦: PERSON
+2002-2008: DATE
+October 2004: DATE
+$20 million: MONEY
+2002: DATE
+$42 million: MONEY
+¦: PERSON
+2003: DATE
+20: CARDINAL
+four to eight: CARDINAL
+January 1974 to January 1999: DATE
+B.A.: GPE
+Spanish , 1999: DATE
+Morningside College: ORG
+State: GPE
+US B.A.: GPE
+English: LANGUAGE
+Spanish: NORP
+Morningside College: ORG
+Sioux City: GPE
+Iowa: GPE
+1999: DATE
+Bellevue University: ORG
+Omaha: GPE
+Neb.: GPE
+January 2008: DATE
+Spanish: NORP
+Professional Affiliations: ORG
+Board: ORG
+the National Children's Alliance
+Publications: ORG
+To Hear a Child Be a Hero for Kids and Words Hurt: WORK_OF_ART
+National
+Postdoctoral Association: ORG
+NIH Biomedical Working Group: ORG
+Johnson Phillips: PERSON
+Fonseca-Kelly: ORG
+Z.: PERSON
+Fowler: PERSON
+G.: PERSON
+Gelhaus: PERSON
+S.: ORG
+Taylor: PERSON
+D.: NORP
+The Future of Science: WORK_OF_ART
+the United States: GPE
+Johnson Phillips: PERSON
+C.: PERSON
+2008: DATE
+The Advantages and Challenges of at Small, Private Colleges (Master's: WORK_OF_ART
+Omaha: GPE
+Bellevue University: ORG
+Johnson Phillips: PERSON
+C.: NORP
+S.: ORG
+Ho: GPE
+J.: ORG
+Pohlhaus: GPE
+J.: ORG
+Foothills Child Advocacy Center: Helping Child Victims: ORG
+First Presbyterian Church: ORG
+Spring Gathering Luncheon: WORK_OF_ART
+Charlottesville: GPE
+VA: GPE
+March 21: DATE
+2015: DATE
+Foothills Child Advocacy Center: ORG
+Leadership Charlottesville: PERSON
+Charlottesville: GPE
+VA: GPE
+November 20, 2013: DATE
+Postdoc: ORG
+City University of New York: ORG
+New York: GPE
+NY: GPE
+February 1: DATE
+2013: DATE
+Panelist: GPE
+Society and Association Effort: ORG
+Foster Research Integrity: ORG
+National Academies Committee on Responsible Science: Ensuring: ORG
+Integrity of the Research Process: ORG
+Washington, DC: GPE
+August 14, 2012: DATE
+Panel Moderator: ORG
+Launch of International Consortium of Research Staff
+Associations: ORG
+the European Open Science Forum: ORG
+Dublin: GPE
+Ireland: GPE
+July 13, 2012: DATE
+Association of Institutional Research: ORG
+National Research Data
+Institute: ORG
+Washington, DC: GPE
+July 12, 2012: DATE
+Postdoctoral Training: ORG
+National Science Foundation: ORG
+NSF) Directorate for Education: ORG
+Human Resource's: ORG
+Division of Human Resource Development Joint Annual Meeting: ORG
+Alexandria: GPE
+VA: GPE
+June: DATE
+14, 2012: DATE
+Postdoc: ORG
+Howard University 2012 Preparing Future Faculty: ORG
+Summer Institute: ORG
+Washington, DC: GPE
+June 8, 2012: DATE
+Expanding Cross-Disciplinary Dialogue: ORG
+the Postdoctoral Community Workshop: ORG
+National Science Foundation: ORG
+Arlington: GPE
+VA: GPE
+April 23-24, 2012: DATE
+Practical Tips for Effective Mentoring: Hand: ORG
+Environmental Protection Agency: ORG
+Raleigh: GPE
+NC: GPE
+January 3, 2012: DATE
+The National Academies: ORG
+NAS) Committee to Review: ORG
+Scientists: NORP
+Engineers: ORG
+Washington, DC: GPE
+December 13, 2011: DATE
+Discovery Workshop: PRODUCT
+National
+Science Foundation: ORG
+Arlington: GPE
+VA: GPE
+September 19, 2011: DATE
+Postdoctoral Trends: ORG
+Graduate
+Career Consortium: WORK_OF_ART
+Stanford University: ORG
+Stanford: ORG
+CA: GPE
+June 23, 2011: DATE
+National Institutes of
+Health: ORG
+Biomedical Research Workforce Working Group: ORG
+NIH: ORG
+Zoe: PERSON
+Kelly: PERSON
+NPA Board: ORG
+NIH: ORG
+Bethesda: GPE
+MD: GPE
+June 21, 2011: DATE
+Career Pipeline: WORK_OF_ART
+Oregon State University: ORG
+Corvalis: NORP
+May 27, 2011: DATE
+Postdocs, Federal Initiatives: ORG
+Bethesda: GPE
+MD: GPE
+March 26, 2011: DATE
+Postdocs & Title IX: ORG
+2010: DATE
+NSF: ORG
+ADVANCE Workshop: PERSON
+Alexandria: GPE
+VA: GPE
+November 8, 2010: DATE
+Postdoc Women: ORG
+National Academies Committee on Women in Science, Engineering: ORG
+Washington, DC: GPE
+November 4, 2010: DATE
+Economic Sciences Postdoctoral: ORG
+National Science Foundation: ORG
+Arlington: GPE
+VA: GPE
+October 29, 2010: DATE
+The NPA Core Competencies & IDPs: ORG
+Arkansas Science & Technology Authority: ORG
+Little Rock: GPE
+AR: GPE
+October 4: DATE
+2010: DATE
+National Academies Committee on Research Universities Reception: ORG
+Washington, DC: GPE
+September 21, 2010: DATE
+The Postdoctoral Experience: ORG
+University of Florida: ORG
+Gainesville: GPE
+FL: ORG
+September 13, 2010: DATE
+Society for the Study of Reproduction Annual Meeting: WORK_OF_ART
+Philip Clifford: PERSON
+Ph.D. Milwaukee: GPE
+Wis.: GPE
+July 31: DATE
+2010: DATE
+the National Science Foundation
+Division of Science Resources Statistics: ORG
+July 13, 2010: DATE
+The University of South Dakota: ORG
+Vermillion: PERSON
+April 12, 2010: DATE
+Incorporating Core Competencies: ORG
+Brown University
+Providence: WORK_OF_ART
+R.I.: GPE
+February 25, 2010: DATE
+Postdoctoral Program: ORG
+Cedars-Sinai Medical Center: ORG
+Biomedical Science and Translational Medicine: ORG
+Los Angeles: GPE
+Calif.: GPE
+February 9, 2010: DATE
+The NPA Core Competencies: ORG
+University of Virginia
+Lunchtime Postdoc Seminar: ORG
+Charlottesville: GPE
+Va.: GPE
+November 2009: DATE
+the National Institute on Drug
+Abuse: ORG
+the 21st Century: DATE
+Bethesda: GPE
+Md.: GPE
+November 2009: DATE
+NPA: ORG
+Perspective on Core Competencies: ORG
+Group on Graduate Research: ORG
+Training: PERSON
+Postdoctorate Learning and Development: ORG
+St. Louis: GPE
+Mo.: GPE
+October 2009: DATE
+Conflict Management: WORK_OF_ART
+NPA Committee Leadership Institute: ORG
+Bethesda: GPE
+Md.: GPE
+October 2009: DATE
+Postdoctoral Researcher: ORG
+Today: DATE
+the Cancer Biology Training Consortium: WORK_OF_ART
+Cancer Biology Chair: PERSON
+Directors Retreat: PERSON
+Clearwater Beach: GPE
+Fla.: GPE
+October 2009: DATE
+Howard University/University of Texas: ORG
+El Paso: GPE
+Annual Institute of Postdoctoral Preparation: ORG
+El Paso: GPE
+Texas: GPE
+September 2009: DATE
+Postdoctoral Associates: ORG
+the
+National Science Foundation: ORG
+NSF: ORG
+Division of Human Resource Development: ORG
+HRD: ORG
+2009: DATE
+Washington: GPE
+D.C.: GPE
+June 2009: DATE
+Principal Investigator Should Know: The National Postdoctoral Association Core
+Competencies: ORG
+the University of Nebraska-Lincoln Research Fair: ORG
+Lincoln: ORG
+Neb.: GPE
+April 2009: DATE
+NPA: ORG
+Postdoctoral: ORG
+American Society for Nutrition: ORG
+ASN: ORG
+Experimental
+Biology 2009: FAC
+New Orleans: GPE
+La.: GPE
+April 2009: DATE
+the National Science Foundation: ORG
+the Division of Graduate Education: ORG
+The Office of International Science and Engineering: ORG
+The Division of Biological Infrastructure: ORG
+Arlington: GPE
+Va.: GPE
+January 28, 2009: DATE
+Seminar Leader: PERSON
+Morningside College Leadership Academy: ORG
+March 2008: DATE
+Surveys: LAW
+Washington: GPE
+D.C.: GPE
+April 2007: DATE
+Quota International of Sioux City Annual Eighth Grade Honors Luncheon: ORG
+March 2006 and March 2007: DATE
+Skills
+Marketing: ORG
+Accountant, Customer Service: ORG
+Receptionist: NORP
+Teaching, Advertising, Internal Communications: ORG
+Marketing Research: ORG
+Print Advertising: ORG
+Print Campaign, Public Relations: ORG
+Gaap: PERSON
+Budgets: GPE
+Community Outreach: PERSON
+Financial Statements: ORG
+Media Relations: ORG
+Payroll, Program Management: ORG
+Project Management, Collection, Community Relations: ORG
+Liaison, Personnel Management: ORG
+Procurement, Recruitment: ORG
+Acrobat: PERSON
+Adobe Indesign: PERSON
+Conflict Management: ORG
+Content Management: ORG
+Content
+Management Systems: ORG
+Database: GPE
+Database Management: ORG
+Excel: PRODUCT
+Human Resources: ORG
+Indesign: ORG
+Jam, Leadership Development, Learning And
+Development, Mac: ORG
+Microsoft Word: PERSON
+Nas: PERSON
+Networking: GPE
+Pipeline: ORG
+Powerpoint: PRODUCT
+Quota, Site Design, Statistics: ORG
+Time Management: ORG

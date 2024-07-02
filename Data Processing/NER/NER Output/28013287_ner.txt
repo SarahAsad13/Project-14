@@ -1,0 +1,81 @@
+EC: ORG
+4th: ORDINAL
+The SALT Group - Kerrville: ORG
+TX - August 2012 to August 2014
+Responsibilities
+Accounts Receivable: ORG
+weekly: DATE
+each week: DATE
+Microsoft: ORG
+Microsoft Works: ORG
+Excel: PRODUCT
+Internet Research: ORG
+Powerpoint: PRODUCT
+08/2015 - Current Company Name City: ORG
+High School and Junior High: ORG
+Coach: ORG
+Lesson: PERSON
+Reading, Social Studies: ORG
+1st: ORDINAL
+next year: DATE
+Daycare: ORG
+Lead Teacher: PERSON
+06/2010 - Current Company Name City: ORG
+2,3,4 year old: DATE
+Math: PERSON
+the 4 year old: DATE
+2 and 3 year old: DATE
+one: CARDINAL
+one: CARDINAL
+the school years: DATE
+Name City: GPE
+Data: ORG
+daily: DATE
+daily: DATE
+weekly: DATE
+monthly: DATE
+2010: DATE
+Bachelor of Arts: ORG
+Schreiner University - Education City: ORG
+the day: DATE
+Skills Used: ORG
+Microsoft: ORG
+Works: ORG
+EXcel: PRODUCT
+3 and 4 year old: DATE
+summer day: DATE
+Child's Learning Place - Kerrville: WORK_OF_ART
+TX - 2011 to 2012 Responsibilities 3 and: ORG
+4 year old: DATE
+summer day: DATE
+2nd: CARDINAL
+Elementary - March 2010: DATE
+May 2010: DATE
+The Kerrville Home Depot, Special Services - Kerrville: ORG
+TX - March: ORG
+Semester - Schreiner University Reading Academy - Kerrville: ORG
+TX - March 2008: ORG
+May 2008: DATE
+2nd: CARDINAL
+21: CARDINAL
+daily: DATE
+Jacks Preschool Program: ORG
+Lead Teacher: PERSON
+Math: PERSON
+3: CARDINAL
+4: DATE
+5 year old: DATE
+TX - June 2006 to March 2007: ORG
+Policy Board: ORG
+Kerrville Head Start - 2006: PERSON
+2006: DATE
+Kerrville Head Start Policy Board: PERSON
+4th: ORDINAL
+Texas: GPE
+Anywhere Authorized: ORG
+US: GPE
+Lesson: PERSON
+Math: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft Works: ORG

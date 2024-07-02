@@ -1,0 +1,207 @@
+Professional Profile: ORG
+25 years: DATE
+Programmatic Environment, Safety: ORG
+Occupational Health (ESOH) Evaluation: ORG
+PESHE: ORG
+DoD: GPE
+DoD Components: ORG
+the U.S. Navy: ORG
+Background: FAC
+Complex: NORP
+Technologist: NORP
+January 2000: DATE
+Current Company Name: ORG
+multi-million: CARDINAL
+GTM: ORG
+quarterly: DATE
+RFP: ORG
+Requirements Management Plans: ORG
+ASD: ORG
+SAF: ORG
+AQRE: ORG
+DoD: GPE
+Working Group: ORG
+WG: ORG
+National Aerospace Standard: ORG
+NAS: ORG
+411-1: CARDINAL
+Hazardous Materials
+Target List: ORG
+DoD: GPE
+DoD Program: ORG
+Support Reviews: PERSON
+ODASD: ORG
+SME: ORG
+the Guide for Environment, Safety: ORG
+Occupational Health (ESOH: ORG
+SEP: ORG
+Programmatic ESOH Evaluation: ORG
+National Environmental Policy Act: ORG
+EO: ORG
+12114: CARDINAL
+HSI: ORG
+ESOH Handbook: PERSON
+AoA Activities: PRODUCT
+ASD: ORG
+Provided Environment, Safety: ORG
+Occupational Health (ESOH: ORG
+the Common Analytical Laboratory
+System: ORG
+1: CARDINAL
+SEP: ORG
+SSHAR: ORG
+Standard
+Practice for System Safety: ORG
+Consolidated: ORG
+hundreds: CARDINAL
+DoD: GPE
+DoD Components: ORG
+Standard: ORG
+May 2012: DATE
+LPD 17: LAW
+Weapon System Safety review Board: ORG
+17: CARDINAL
+MK: PERSON
+46: CARDINAL
+MOD: ORG
+2: CARDINAL
+TDP: ORG
+Airborne Expendable Countermeasures: ORG
+Assembly/Ready/Service Magazine: ORG
+Navy: ORG
+the Navy Principal for Safety for the Mine Resistant Ambush Protected Vehicle: ORG
+MRAP: ORG
+Coordinated: ORG
+the Joint Program Office: ORG
+Safety of Use: ORG
+Engineering Change Proposals: ORG
+the MRAP Rollover Risk Reduction IPT: ORG
+Navy: ORG
+ASN: ORG
+Gate Reviews: PERSON
+ESOH: ORG
+Safety Working Group: ORG
+Navy Systems Commands: ORG
+Navy: ORG
+SETR: ORG
+fidelity: ORG
+Navy: ORG
+Hazard Tracking Database: PERSON
+400: CARDINAL
+30-40: CARDINAL
+DoD: GPE
+ESOH: ORG
+the ESOH Community: ORG
+DAU: ORG
+ESOH: PERSON
+DoD: GPE
+ESOH: ORG
+DAU Continuous Learning Modules "ESOH in Systems Engineering: ORG
+DAU: ORG
+ESOH: ORG
+Navy Independent Logistics Assessments: ORG
+Navy: ORG
+the PESHE Document Authoring Tool: LAW
+Naval Air
+Systems Command: ORG
+PESHE: ORG
+ESOH Coordinators and Principals for Safety: ORG
+January 1996 to January 2000: DATE
+the Department of the
+Navy: ORG
+Naval Operations Environmental Readiness Division: ORG
+CNO: ORG
+N45: PRODUCT
+Performed P2: PERSON
+P2: PERSON
+Navy: ORG
+Navy: ORG
+January 1978 to January 1996: DATE
+E-7: PERSON
+RET: ORG
+Managed Environmental and Safety Programs for Navy Management Systems Support Office Detachment Pacific: ORG
+USS Forrestal: PRODUCT
+Navy: ORG
+Hazardous Materials: ORG
+the Naval Aviation Logistics Command Management
+Information System: ORG
+Implementation Team Leader: ORG
+NALCOMIS: ORG
+Navy: ORG
+Marine
+Corps: ORG
+1996: DATE
+National University Environmental Management: ORG
+History/Government: ORG
+1991: DATE
+Columbia College History/Government: ORG
+Affiliations
+International Council on Systems Engineering: ORG
+National Defense Industry Association: ORG
+NDIA: ORG
+Working Group's: ORG
+NAS: ORG
+Hazardous Materials Target List Update: ORG
+NDIA Systems Engineering Conference: ORG
+October 2015: DATE
+Eight: CARDINAL
+NDIA Systems
+Engineering Conference: ORG
+October 2012: DATE
+Scenarios: ORG
+K. Gill: PERSON
+NDIA Systems Engineering
+Conference: ORG
+October 2012: DATE
+Systems Engineering: ORG
+R. Mirick: PERSON
+K. Gill: PERSON
+NDIA Systems Engineering Conference: ORG
+October 2011: DATE
+NDIA Environment, Energy Security & Sustainability Symposium: ORG
+May 2012: DATE
+Naval Systems Engineering Technical Reviews: ORG
+SETR: ORG
+K. Thompson: PERSON
+NDIA Systems Engineering Conference: ORG
+October 2010: DATE
+NDIA Environment, Energy Security & Sustainability Symposium: ORG
+May 2011: DATE
+Manage Hazardous Materials: ORG
+NDIA Systems Engineering Conference: ORG
+October 2009: DATE
+Occupational Health (ESOH: ORG
+5000.2: CARDINAL
+NDIA Systems Engineering Division, System Safety Committee: ORG
+April 24, 2008: DATE
+System Safety in Systems Engineering: ORG
+A. Stokes: PERSON
+S. Forbes: PERSON
+NDIA Joint Services Environmental Management Conference: ORG
+May 17, 2007: DATE
+Safety - Systems
+Engineering Methodology for Managing ESOH Risks, K. Gill: ORG
+UK Ministry of Defense: ORG
+November 15: DATE
+2007: DATE
+UK: GPE
+U.S. Approaches to ESOH Management in Defence Acquisition Projects: ORG
+S. Rintoul: PERSON
+UK Ministry of Defense: ORG
+November 15, 2007: DATE
+Skills: ORG
+Controller: PERSON
+Database: GPE
+Logistics: PERSON
+Mark: PERSON
+2: CARDINAL
+Management Information System: ORG
+Navy: ORG
+Naval: GPE
+NAS: ORG
+Network: ORG
+Occupational Health: ORG
+Proposals: GPE
+Safety: ORG
+Strategic: PERSON
+Systems Engineering: ORG

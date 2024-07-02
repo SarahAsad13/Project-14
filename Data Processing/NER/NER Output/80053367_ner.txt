@@ -1,0 +1,76 @@
+Career Focus: FAC
+ten years: DATE
+five years: DATE
+Basic Life Support (BLS) Certification: WORK_OF_ART
+2013-Present: DATE
+BLS: ORG
+Committed: ORG
+72: DATE
+PowerPoint/Outlook: ORG
+RIS: ORG
+Health Connect, Symposium: ORG
+Mainframe: PERSON
+Abraxas: PERSON
+SAP
+
+Professional Experience
+: ORG
+Accountant: PERSON
+April 2010 to April 2011 Company Name ï¼​ City: DATE
+Dun: ORG
+Bradstreet: ORG
+Medical Biller/Collector: ORG
+December 2009 to: DATE
+April 2010: DATE
+Maintained: GPE
+M.D.: GPE
+August 2000 to December 2009: DATE
+Maintained: GPE
+weekly: DATE
+HIPAA: ORG
+JCAHO: ORG
+Training
+Bachelor of Science: PERSON
+2016: DATE
+California State University: ORG
+State: GPE
+3.56: CARDINAL
+GPA: ORG
+Associate of Science : Nursing: WORK_OF_ART
+2015: DATE
+State: GPE
+USA: GPE
+GPA: ORG
+3.77: CARDINAL
+July: DATE
+2008: DATE
+GPA: ORG
+3.68: CARDINAL
+Completed 320 hours: PRODUCT
+COPD: ORG
+Monitored: ORG
+daily: DATE
+Advocacy
+Explained: PERSON
+Skills
+
+Healthcare: Â 
+
+Sound: ORG
+Mental Health: ORG
+Glucose: PRODUCT
+Advanced: PERSON
+Balance, Bookkeeping: PERSON
+Customer Service: ORG
+Dun: ORG
+Imaging: GPE
+Mainframe: PERSON
+Medical Billing: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+2000: DATE
+MS Word: PERSON
+RIS: ORG
+SAP: ORG
+Phones: ORG

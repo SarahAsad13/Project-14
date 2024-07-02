@@ -1,0 +1,69 @@
+Operations: ORG
+Quick: ORG
+Microsoft Office: ORG
+May 2016 to June 2016: DATE
+Portsmouth Gaseous Diffusion Plant: ORG
+Safety Coordinator/Specialist: ORG
+December 2012 to January 2016: DATE
+Safety, Exposure and: ORG
+Hazards Creating: PERSON
+the Safety Program: ORG
+Procedures Performing: ORG
+Risk Assessments: PRODUCT
+JSA: ORG
+Safety Work Practices Managing Field Safety: WORK_OF_ART
+daily: DATE
+OSHA: ORG
+Root Cause Analysis: ORG
+Accident Case Management and Tracking: ORG
+Windows Operating Systems: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+OSHA: ORG
+10 and 30 hour: TIME
+OSHA: ORG
+510: CARDINAL
+CPR/First Aid/AED: LAW
+January, 2015: DATE
+September 2010 to April 2011 Company Name ï¼​ City: DATE
+Lead Person: PERSON
+June 2010 to September 2010: DATE
+Requisitioned: PERSON
+Directed: ORG
+Construction & Safety Coordinator: ORG
+May 2003: DATE
+May 2010: DATE
+Supervisor: PERSON
+Coordinated: ORG
+Coordinated: ORG
+Safety Coordinator: ORG
+OSHA: ORG
+Construction Coordinator: ORG
+August 1995 to March 2003: DATE
+Perform: ORG
+Master Construction Contracts: ORG
+1995 - 1996: DATE
+1996 - 1997: DATE
+Construction Management Administrator: ORG
+April 1980 to September 1993: DATE
+Confer: PERSON
+Prepare: ORG
+Process: ORG
+Generate: PERSON
+CLTS: ORG
+the Board of Directors: ORG
+1980 - 1984: DATE
+Issuing Institution Location Qualification Course of Study University of Nebraska: ORG
+Case Management: ORG
+Contracts: ORG
+CPR: ORG
+First Aid: ORG
+Excel: PRODUCT
+Windows Operating Systems: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Paralegal: PERSON
+Safety: ORG
+Supervisor: PERSON

@@ -1,0 +1,43 @@
+BUSINESS DEVELOPMENT: ORG
+more than 6 years: DATE
+Mexico: GPE
+USA Successful: ORG
+Core Qualifications Excellent Customer Service Skills Excellent: ORG
+Customer Retention
+Negotiation Skills Tactfulness: ORG
+Name City: GPE
+hydraulic & pneumatic: ORG
+Mexico: GPE
+USA: GPE
+the Energy, Chemical & Mining: ORG
+annually: DATE
+US: GPE
+Mexico Scheduling: FAC
+US: GPE
+quarterly: DATE
+MET-MEX PeÃ±oles: ORG
+Booking: ORG
+50: CARDINAL
+monthly: DATE
+07/2009: CARDINAL
+04/2010: CARDINAL
+Name City: GPE
+Obtained: ORG
+50: CARDINAL
+Maintained: GPE
+Marketing Intern 01/2009: PERSON
+Name City: GPE
+annual: DATE
+Translated: ORG
+English: LANGUAGE
+Spanish: NORP
+Bachelor of Business Administration: ORG
+State International Business Affiliations Delta: ORG
+Sigma Pi: PERSON
+St. Edward's: GPE
+Univ: PERSON
+Skills: ORG
+English: LANGUAGE
+2: CARDINAL
+Sigma: GPE
+Spanish: NORP

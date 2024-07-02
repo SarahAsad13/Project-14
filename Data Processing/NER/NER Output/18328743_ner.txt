@@ -1,0 +1,36 @@
+Perishable Meats: WORK_OF_ART
+Skills: ORG
+MS Excel: ORG
+Microsoft: ORG
+AS400: PRODUCT
+May 2004 to August 2007: DATE
+April 1997 to May 2004: DATE
+Lines: ORG
+Sunnyland Foods: ORG
+Lykes: GPE
+Ball: PERSON
+Tennessee: GPE
+Gwaltney: PERSON
+February 1972 to March 1996: DATE
+Sunnyland: ORG
+Georgia: GPE
+South Carolina: GPE
+Florida: GPE
+1974,1978,1983,1985,and 1988: DATE
+Training
+Management Training Programs: ORG
+Florida State - Dudley M. Hughes: ORG
+Macon: GPE
+Georgia: GPE
+1968: DATE
+2 years: DATE
+Bookkeeping,1967,1968 Management Training Programs: ORG
+Florida State University: ORG
+Methods of Persuasive Communications: ORG
+Effective Human Relations: ORG
+Skills: ORG
+AS400: PRODUCT
+Human Relations, Management Training: ORG
+MS: ORG
+Excel: PRODUCT
+Microsoft: ORG

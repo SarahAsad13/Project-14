@@ -1,0 +1,120 @@
+Human Resources Generalist: ORG
+ADA/EEO/WC: ORG
+Policies & Procedures: ORG
+Program/Project Management Â·Â Orientation & On-Boarding Â·Â: ORG
+Fidelity: ORG
+1095 and 1094: DATE
+Affordable Care Act: LAW
+ACA: ORG
+ACA: ORG
+Family Medical Leave: ORG
+Disability: ORG
+ADA: ORG
+Worker's Compensation: ORG
+Worker: ORG
+Comp: NORP
+OSHA: ORG
+year: DATE
+401: CARDINAL
+weekly: DATE
+Performed: PERSON
+Flexible Spending Account: WORK_OF_ART
+FSA: ORG
+Kelly: PERSON
+Learning Management System: ORG
+BizLibrary: ORG
+BizLibrary: ORG
+annual: DATE
+approximately 500: CARDINAL
+weekly: DATE
+annual: DATE
+Halogen: ORG
+Halogen: ORG
+HRIS: ORG
+Del-Tek: ORG
+12/2015: CARDINAL
+Name City: GPE
+Maintain: PRODUCT
+weekly: DATE
+ADP: ORG
+three: CARDINAL
+Applicant One: ORG
+ADP: ORG
+Reynolds Update: ORG
+Process: ORG
+Answer: ORG
+Human Resources Communications Executive: ORG
+Name City: GPE
+monthly: DATE
+New Executives Orientation (Onboarding) Program
+Interviewed: ORG
+90%: PERCENT
+Resort Living: ORG
+monthly: DATE
+monthly: DATE
+Assisted: ORG
+annual: DATE
+13,000: CARDINAL
+04/2012: CARDINAL
+Name City: GPE
+Human Resources: ORG
+Created: ORG
+Legal: ORG
+Prepared minutes: WORK_OF_ART
+monthly: DATE
+Assisted: ORG
+Assisted: ORG
+HRIS: PERSON
+Software Skills: PERSON
+Halogen: ORG
+Fidelity: ORG
+401k: PRODUCT
+Kelly: PERSON
+Discovery: PRODUCT
+PCR: ORG
+Applicant One: ORG
+ADP: ORG
+Del-Tek: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Words: ORG
+Beginner: ORG
+Microsoft: ORG
+Beginner: GPE
+Content
+Management System: ORG
+CMS: ORG
+Created: ORG
+60-day: DATE
+Education: ORG
+Bachelor of Science : Management George Mason University City: ORG
+State Management 3.84 Excellence: ORG
+Magna Cum Laude Related: PERSON
+Intro: ORG
+Seminar: PERSON
+Associates of Arts and Science Degree : Business Administration Lord Fairfax Community College City: ORG
+State Business Administration: ORG
+Magna Cum Laude: PERSON
+English: LANGUAGE
+Chinese: NORP
+Mandarin: LANGUAGE
+Cantonese: LANGUAGE
+Trainings: ORG
+Certificates: PRODUCT
+Society for Human Resources Management: ORG
+Current
+Essentials: ORG
+Seminar: PERSON
+Form I-9: PERSON
+SHRM: ORG
+02/2016
+: PRODUCT
+the Major of Management 05/2015: ORG
+Malaysia: GPE
+Corporate Grooming and Business: WORK_OF_ART
+Etiquette Training: PERSON
+Malaysia: GPE
+Malaysia Leadership Conference: ORG
+Washington D.C.: GPE
+12/2011: CARDINAL

@@ -1,0 +1,148 @@
+Masters of Science in Finance Management: ORG
+2017: DATE
+4+ years: DATE
+month end: DATE
+Review of G'\L: ORG
+Balance Sheet and Statement of Revenue: ORG
+Financial Risk: ORG
+Core Qualifications: ORG
+Working Capital: ORG
+Account Payables/Receivables: ORG
+Analysis
+Excel: PRODUCT
+Outlook
+Knowledgeable: PERSON
+Microsoft Dynamics
+Proficient: ORG
+QuickBooks: ORG
+02/2015: ORG
+06/2016: ORG
+Accountant Company Name: PERSON
+Report: ORG
+CFO: ORG
+Controller: PERSON
+Board
+Financial Meeting preparation Financial Statement: ORG
+Cash Flows: PRODUCT
+Operation Budget and Expenses Analysis Maintaining: ORG
+AR: ORG
+AP: ORG
+Deferred Revenue: ORG
+2014: DATE
+Balance Sheet: ORG
+State: ORG
+Monthly: DATE
+all year end: DATE
+Assisted: ORG
+Grant: ORG
+monthly: DATE
+CFO: ORG
+Calculated FTE: ORG
+21: CARDINAL
+State: ORG
+Foundations: PERSON
+monthly: DATE
+21: CARDINAL
+monthly: DATE
+Prepared: PERSON
+State: ORG
+DHMH: ORG
+quarterly: DATE
+monthly: DATE
+monthly: DATE
+State: ORG
+DHMH: ORG
+DLLR: PERSON
+Reconciled: DATE
+the G/L.
+Recorded: ORG
+Analyzed: PERSON
+Prepared month-end: DATE
+year-end: DATE
+1099: DATE
+Maintained: GPE
+Balance Sheet: PERSON
+GL Assisted: ORG
+ABC: ORG
+monthly: DATE
+GAAP: ORG
+month: DATE
+Created all Account Receivables: ORG
+Maintained: PERSON
+Chart: ORG
+10/2013: CARDINAL
+02/2015
+Finance: PERSON
+State: ORG
+Bookkeeping End of the month and end of
+the year: WORK_OF_ART
+W2s: PERSON
+1099: DATE
+G/L: ORG
+the year: DATE
+financial Statement: ORG
+Maintained Chart Accounts: WORK_OF_ART
+06/2012: CARDINAL
+Analyzed Income: PERSON
+Offset: ORG
+monthly: DATE
+Financial Statement Analysis: ORG
+the G/L: ORG
+Performed: ORG
+Financial Coordinator: ORG
+Center of Advanced Study of Languages (CASL: ORG
+Institute of Biotechnology and Bioscience Research: ORG
+monthly: DATE
+monthly: DATE
+the G/L: ORG
+Maintained: GPE
+A21: PERSON
+122: CARDINAL
+Conducted: ORG
+monthly: DATE
+Summer 2017: DATE
+Master of Science : Finance Management: WORK_OF_ART
+IT Progress University of Maryland University College - City: ORG
+State Finance Management: ORG
+2011: DATE
+GPA: ORG
+3.33: CARDINAL
+3.33: CARDINAL
+Certified Public Accountant: ORG
+Winter 2017: DATE
+133: CARDINAL
+122: CARDINAL
+21: DATE
+110: CARDINAL
+Board Members': ORG
+Financial and Accounting: ORG
+Internal: ORG
+the G/L: ORG
+100%: PERCENT
+100%: PERCENT
+Internal Controls: ORG
+A21: PERSON
+22: DATE
+110: CARDINAL
+133: CARDINAL
+ABC: ORG
+Streamline: ORG
+ADP: ORG
+Payroll: ORG
+AP: ORG
+AR, Balance Sheet: ORG
+Budget Analysis: ORG
+Budget: ORG
+Closing: PERSON
+Controller: PERSON
+Certified Public Accountant: ORG
+Financial Modeling, Development: ORG
+Financial Reporting: ORG
+Financial Statement Analysis: ORG
+GL: ORG
+Microsoft Dynamics: ORG
+Excel: PRODUCT
+Outlook: PERSON
+QuickBooks: ORG
+Research: ORG
+year-end: DATE

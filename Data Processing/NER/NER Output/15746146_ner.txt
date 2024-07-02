@@ -1,0 +1,54 @@
+FREELANCE: GPE
+20+ years: DATE
+Â Proficient: ORG
+Superb: NORP
+Vendor: ORG
+Asia: LOC
+Europe: LOC
+Eddie Bauer: PERSON
+March 2016 to February 2012: DATE
+June 2015: DATE
+July 2012 to October 2014: DATE
+Mills: ORG
+TACT: ORG
+Requesting: GPE
+Eddie Bauer: PERSON
+Fabric/Trim: ORG
+IMU: ORG
+PLM: ORG
+March 2010 to December 2011: DATE
+July 2005 to November 2009: DATE
+Men's Sportswear Designer: ORG
+September 2004 to June 2005: DATE
+Men's Bottoms & Outerwear Designer 
+City: ORG
+the TB Men's Collection Pants: ORG
+Shorts: PERSON
+Outerwear: LOC
+each season: DATE
+Daily: DATE
+Hong Kong: GPE
+Hong Kong: GPE
+March 2001 to September 2004: DATE
+II: CARDINAL
+Boy's Sport Athletic Groups: ORG
+Classic: PRODUCT
+Retro: ORG
+ILE: ORG
+Training: PERSON
+Headwear/Accessories: EVENT
+Men's Street Casual Line: ORG
+Sweaters: NORP
+Woven: PERSON
+Denim: GPE
+Merchandising: GPE
+Art Institute of Seattle Associate Degree : Fashion Design City: ORG
+5%: PERCENT
+Honors Fashion Design
+Graduated: ORG
+5%: PERCENT
+Honors
+University of Washington Bachelor of Fine Arts :: ORG
+Fiber & Textiles City: ORG
+State Fiber & Textiles: ORG
+Merchandising: PERSON

@@ -1,0 +1,77 @@
+Highlights: GPE
+Accounts Payable/Receivable Complex: ORG
+Bank: ORG
+Complex: NORP
+Multi-Task Management: ORG
+Strong: PERSON
+Periodic: NORP
+Intuit: ORG
+North America: LOC
+Colgate: ORG
+08/2016: CARDINAL
+Accountant Company Name: ORG
+the day to day: DATE
+monthly: DATE
+Co-Owner Company Name: ORG
+Historic downtown Rogers: GPE
+The Rabbit's Lair: WORK_OF_ART
+one: CARDINAL
+10: CARDINAL
+America: GPE
+all day: DATE
+11/2001: CARDINAL
+Owner Company Name: ORG
+BKP: ORG
+7: CARDINAL
+120: CARDINAL
+BKP: ORG
+BKP: ORG
+Beall-Barclay: ORG
+2005: DATE
+the Business Development: ORG
+09/1999 to 06/2001
+Accounting Manager: PERCENT
+State: ORG
+Hanna: PERSON
+09/1997 to 09/1999: CARDINAL
+SAP: ORG
+Starbuck: PERSON
+Seattle: GPE
+06/1989 to 09/1999: CARDINAL
+Irish: NORP
+the Kansas City: GPE
+Ksplant: GPE
+SAP: ORG
+Colgate: ORG
+New York: GPE
+monthly: DATE
+annual: DATE
+Cost Accounting: ORG
+NY: ORG
+each week: DATE
+Thursday: DATE
+Colgate: ORG
+Hill: ORG
+Pet Nutrition: FAC
+Topeka: GPE
+KS: GPE
+the Cost Accounting: ORG
+SAP: ORG
+01/1989: CARDINAL
+State: ORG
+Speaco Foods: ORG
+Accounts Payable: ORG
+Speaco Foods: ORG
+1985: DATE
+Bachelor of Science : Business Administration University: ORG
+Ozarks: LOC
+State: ORG
+USA Business Administration: ORG
+Art: PERSON
+Bank: ORG
+Budget analysis & preparation: ORG
+Business Development: ORG
+Strong: PERSON
+Cost Accounting: ORG
+QuickBooks: ORG
+SAP: ORG

@@ -1,0 +1,53 @@
+nalyticalÂ: ORG
+Skills
+
+Excellent: ORG
+Strong: PERSON
+Microsoft: ORG
+PowerPoint: ORG
+Microsoft: ORG
+English: LANGUAGE
+Â Twi: ORG
+Energetic: LOC
+80 %: PERCENT
+Jan 2016: DATE
+2015 to Jan 2016: DATE
+Front Desk Receptionist: PERSON
+2015: DATE
+Cook: PERSON
+2014: DATE
+Training
+Bachelor of Arts: PERSON
+African American Studies: ORG
+2017: DATE
+The Ohio State University: ORG
+State: GPE
+Needs: ORG
+Motor: ORG
+Coursework in Business: ORG
+Interests: NORP
+Apostolic Church Choir: ORG
+Columbus: GPE
+Sunday: DATE
+Apostolic Church: ORG
+Columbus: GPE
+Apostolic Church: ORG
+Columbus: GPE
+Gina's DÃ©cor
+: ORG
+Skills
+
+Sales Software: ORG
+Salesforce.com, Service: ORG
+Desktop Publishing Software: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Answer: ORG
+Apostolic Church Choir: ORG
+Columbus: GPE
+Sunday: DATE
+Apostolic Church: ORG
+Columbus: GPE
+Apostolic Church: ORG
+Columbus: GPE
+Gina's DÃ©cor: ORG

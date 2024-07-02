@@ -1,0 +1,70 @@
+2+ years: DATE
+Microsoft Words: ORG
+Outlook: PERSON
+PowerPoint: PRODUCT
+ADDIE: ORG
+Microsoft Office: ORG
+Adobe Photoshop
+Audacity Sound Booth
+: WORK_OF_ART
+Moodle: GPE
+Captivate: ORG
+Flash
+Blackboard 9.1
+: PERSON
+PeopleSoft: ORG
+January 2013 to January 2016: DATE
+third: ORDINAL
+Maintained: GPE
+Monitored: ORG
+January 2009 to January 2013: DATE
+State: ORG
+Digital: ORG
+ADDIE Model: PRODUCT
+January 2007 to January 2009: DATE
+Employment, Training & Development: ORG
+Circuit City Stores: ORG
+350: CARDINAL
+January 2000 to January 2007: DATE
+90%: PERCENT
+20%: PERCENT
+January 2003 to January 2005: DATE
+January 2000 to January 2003: DATE
+State: ORG
+Lesson: PERSON
+January 1998 to January 2000: DATE
+Fourth Grade: WORK_OF_ART
+State: ORG
+Lesson: PERSON
+administration& colleagues: ORG
+January 1991 to September 2000: DATE
+20: CARDINAL
+100+: DATE
+daily: DATE
+Arbitrate: LOC
+Education: ORG
+Walden University Diploma Instructional Design City: ORG
+State Instructional Design: ORG
+Texas A&M University: ORG
+Education City: GPE
+State Education: ORG
+Texas A&M University Master's: ORG
+State Training & Development
+Excelsior College Bachelor of Science : Liberal Arts City: ORG
+State Liberal Arts
+University of the Virgin Islands Bachelor of Science : Business Management City: ORG
+Professional Affiliations: ORG
+National Academic Advising Association National Education Association: ORG
+NEA: ORG
+Skills
+Adobe Photoshop: ORG
+Adobe Premier: PERSON
+Curriculum Development: PERSON
+Flash: PERSON
+Lesson: PERSON
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft Words: ORG
+PeopleSoft: ORG
+Sound: GPE

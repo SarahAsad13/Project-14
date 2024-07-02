@@ -1,0 +1,47 @@
+Business Management Professional Motivated: ORG
+general business administration: ORG
+CRM: PRODUCT
+December 2013 to April 2014: DATE
+Agenda: PERSON
+Communicated: ORG
+weekly: DATE
+monthly: DATE
+Notably: ORG
+April 2008 to December 2011 Company Name ï¼​ City: DATE
+as day to day: DATE
+10: CARDINAL
+Kept: PERSON
+Key Accomplishments Operations: ORG
+Viajes Marsans: PERSON
+S.A. (Travel: ORG
+October 2004 to April 2008 City: DATE
+Global Amadeus: ORG
+Spanish: NORP
+European: NORP
+Spain: GPE
+Digital Marketing: ORG
+2.0 Communications - ENyD Business School & Universidad: MONEY
+Miguel de Cervantes: PERSON
+October 2013: DATE
+school of business administration: ORG
+May 2012: DATE
+Tourism Business Management: ORG
+June 2002: DATE
+National University of Distance Education: ORG
+State: ORG
+Spain Tourism Business
+Management
+
+Masters of Business Administration: ORG
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Italian: NORP
+Budget: ORG
+English: LANGUAGE
+Conversational French: NORP
+Italian: NORP
+Legal: GPE
+Logistics Management: ORG
+Producing: GPE
+Spanish: NORP

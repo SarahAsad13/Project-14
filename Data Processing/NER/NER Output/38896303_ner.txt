@@ -1,0 +1,74 @@
+Career Overview: WORK_OF_ART
+Macintosh: ORG
+20 years: DATE
+Apple Certified Support Professional
+Apple Certified Associate Mac Integration: ORG
+Apple: ORG
+Certified Alvarion System Specialist
+
+Technical: ORG
+VOIP/Telecom Installation and Support
+Remote: ORG
+Network: ORG
+Apple Workstations: ORG
+Apple Servers: ORG
+iPad: ORG
+Mobile Device Management: ORG
+Apple Remote Desktop: ORG
+TCP/IP: ORG
+DHCP: ORG
+DNS: ORG
+VOIP: ORG
+AFP: ORG
+SMB: ORG
+FTP: ORG
+NFS: ORG
+SAN: ORG
+HTML: ORG
+PHP: ORG
+Alvarion: ORG
+Ubiquiti: GPE
+Filemaker Pro: PERSON
+Filemaker Server: PERSON
+MS Office Suite: ORG
+Adobe Suite: PERSON
+Final Cut Pro: ORG
+Maya: PERSON
+January 2004 to October 2014: DATE
+Filemaker: PERSON
+Filemaker Server: PERSON
+Macintosh: ORG
+Windows: ORG
+DHCP: ORG
+DNS: ORG
+VPN: ORG
+FTP: ORG
+August 2009 to August 2012: DATE
+Organic: ORG
+Macintosh: ORG
+Windows: ORG
+Macintosh: ORG
+daily: DATE
+Macintosh: NORP
+May 2000: DATE
+May 2004: DATE
+Maintained: GPE
+100: CARDINAL
+Windows: ORG
+Digital Asset Management: ORG
+Apple: ORG
+Audio/Video/3D: ORG
+Audio/Video: ORG
+KVM: ORG
+Digital Asset Management: ORG
+September 1999: DATE
+May 2000: DATE
+January 1999 to December 1999: DATE
+May 1997 to December 1998: DATE
+Point Of Sale: PRODUCT
+Personnel: ORG
+January 1996 to April 1997: DATE
+Training
+Bachelor of Science : Psychology: PERSON
+1993: DATE
+Nyack College: ORG

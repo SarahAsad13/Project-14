@@ -1,0 +1,53 @@
+Highlights
+MS Office: ORG
+Microsoft: ORG
+Lotus Notes
+Accomplishments
+
+Team: PRODUCT
+12: CARDINAL
+20%: PERCENT
+each month: DATE
+12: CARDINAL
+monthly: DATE
+FTE: ORG
+50%: PERCENT
+the year: DATE
+two: CARDINAL
+MAP: ORG
+May 2011: DATE
+10: CARDINAL
+50: CARDINAL
+Develop: ORG
+Sales Consultants: ORG
+Respond: PERSON
+Recruited: PRODUCT
+Mar 2006: DATE
+May 2011: DATE
+Coach: ORG
+Demonstrate: ORG
+Demonstrate: ORG
+Demonstrate: ORG
+Oversee: ORG
+Establish: NORP
+Achieve: LOC
+Mar 2004: DATE
+60%: PERCENT
+45%: PERCENT
+Life, Accident & Health: ORG
+Home and Auto: ORG
+Bachelor of Business Administration: ORG
+Computer Information Systems General: ORG
+4 2001: DATE
+Western Michigan University: ORG
+ï¼​ City: GPE
+Magna: PERSON
+Computer Information Systems General Business with: ORG
+Magna: PERSON
+Coach: ORG
+Lotus Notes: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+PowerPoint: ORG
+Word: PERSON

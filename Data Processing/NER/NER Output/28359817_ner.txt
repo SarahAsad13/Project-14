@@ -1,0 +1,102 @@
+Suite: PERSON
+Accountant Company Name: ORG
+JDE Entering: ORG
+JDE: ORG
+CAMS: ORG
+CIP: ORG
+2: CARDINAL
+monthly: DATE
+one: CARDINAL
+3: CARDINAL
+Purchasing Cards Conducted: ORG
+monthly: DATE
+VISAÂ® purchasing: ORG
+4: CARDINAL
+monthly: DATE
+LLC: ORG
+Cargill Inc.: ORG
+GP: ORG
+06/2012: CARDINAL
+12/2012: CARDINAL
+Campus Accountant Company Name: ORG
+State: ORG
+1: CARDINAL
+Managing Student Accounts: WORK_OF_ART
+Working: ORG
+Charging: ORG
+2: CARDINAL
+Inventory Control Ordering: ORG
+Requesting: GPE
+3: CARDINAL
+Accounts Payable: WORK_OF_ART
+4: CARDINAL
+Various Other Accounting Duties Scheduling: ORG
+Performing end of month: DATE
+12/2010 to 05/2012: CARDINAL
+Accountant Company Name: PERSON
+KS: GPE
+MO: GPE
+OK Developed: ORG
+monthly: DATE
+Maintained: GPE
+Monitored: ORG
+month/year: DATE
+2: CARDINAL
+Fixed Assets Maintained: ORG
+10/2008 to 11/2010: CARDINAL
+Worked month: DATE
+Assisted: ORG
+2: CARDINAL
+Warranties: ORG
+3: CARDINAL
+Assisted: ORG
+AP: ORG
+Played: PERSON
+ACH: ORG
+Provided: PRODUCT
+09/2008: GPE
+Accountant Company Name: PERSON
+State: ORG
+1: CARDINAL
+Oversaw: GPE
+21: CARDINAL
+Beauty First: PERSON
+Monitored: ORG
+Worked: FAC
+Monitored: ORG
+the end of each month: DATE
+end of month/year: DATE
+2: CARDINAL
+Bank Reconciliations Monitored: ORG
+Assisted: ORG
+month/year end: DATE
+3: CARDINAL
+Monitored: ORG
+the end of the month/year: DATE
+1 2009: DATE
+BBA: ORG
+Accounting Friends University: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.5: CARDINAL
+3.5: CARDINAL
+Business Administration Baker University: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.63 Business Administration: ORG
+3.63: CARDINAL
+Skills
+Accounting, Accounts Payable: ORG
+AP: ORG
+AS400: PRODUCT
+Bank Reconciliations: ORG
+Finance: ORG
+Fixed Assets: ORG
+Inventory Control: ORG
+Microsoft Office Suite: ORG
+Coding: ORG
+SAP: ORG
+Tax: PERSON
+year end: DATE

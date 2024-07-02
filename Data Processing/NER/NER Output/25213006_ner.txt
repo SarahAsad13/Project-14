@@ -1,0 +1,44 @@
+10 years: DATE
+Customer Service: ORG
+CRM: PRODUCT
+Skill Highlights: PERSON
+Windows 7 Expertise
+
+Proficient in MS Office
+
+Inventory control: WORK_OF_ART
+Strong: PERSON
+CRM Expertise: PRODUCT
+Superb: PERSON
+Time: ORG
+June 2015 to September 2015: DATE
+Complete: PERSON
+the month: DATE
+February 2015 to June 2015: DATE
+Maintained: GPE
+Assist: NORP
+Advise: PRODUCT
+February 2012 to January 2015: DATE
+monthly: DATE
+month end: DATE
+Created: ORG
+daily: DATE
+weekly: DATE
+March 2011 to September 2011 Company Name - City: DATE
+85%: PERCENT
+20%: PERCENT
+Assisted Customers: ORG
+Customer Service Rep: ORG
+April 2010 to February 2011 Company Name - City: DATE
+Customer Service Rep 
+: ORG
+March 2008: DATE
+May 2009: DATE
+Team Specialist: ORG
+April 2007 to March 2008: DATE
+August 2005 to April 2007: DATE
+Assigned: ORG
+Examined: NORP
+2005: DATE
+State: GPE
+USA: GPE

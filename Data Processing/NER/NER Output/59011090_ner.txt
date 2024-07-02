@@ -1,0 +1,45 @@
+Highlights: GPE
+Client: GPE
+Google: ORG
+Social Media Coordinator Company Name: ORG
+State: ORG
+weekly: DATE
+Canva, Sendible: ORG
+Google+: GPE
+monthly: DATE
+MailChimp: ORG
+Assist: NORP
+daily: DATE
+Maintained: GPE
+Twitter: PRODUCT
+Facebook & Instagram: ORG
+summer: DATE
+summer: DATE
+Contacting: ORG
+Tracking In: WORK_OF_ART
+2016: DATE
+Bachelor of Arts : Communications (Advertising: ORG
+Rhode Island College: ORG
+State: GPE
+United States: GPE
+Communication Club: ORG
+Honor Society of the National Communication Association: ORG
+Dean List
+Languages
+Bilingual Â: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+Skills
+
+Excellent: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+MS Publisher: ORG
+Final Cut Pro
+Advance Knowledge: ORG
+Facebook, Instagram: ORG
+Twitter: PERSON
+Pinterest: ORG
+YouTube: ORG
+Strong Organization: ORG

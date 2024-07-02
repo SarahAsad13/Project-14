@@ -1,0 +1,105 @@
+Controller: PERSON
+25 years: DATE
+SOD: ORG
+General Ledger, BS: ORG
+treasury: ORG
+Skill Highlights: PERSON
+Inventory Reconciliation
+
+Customer: WORK_OF_ART
+Payroll Management â—​
+
+Staff Training & Management: LAW
+â—​Accounts Payable & Receivable
+
+Fixed Asset Management â—​: ORG
+Discovery Payroll
+Excel 2013
+ADP-Etime
+: WORK_OF_ART
+Kronos: PERSON
+PeopleSoft: ORG
+2013: CARDINAL
+annual: DATE
+SOD: ORG
+annual: DATE
+month end: DATE
+5th: ORDINAL
+Vendors: ORG
+100K+: CARDINAL
+Purchase: PERSON
+the 30 day: DATE
+December 2014: DATE
+Name City: GPE
+State: ORG
+monthly: DATE
+CFO: ORG
+daily: DATE
+June 2004 to December 2014: DATE
+Name City: GPE
+State: ORG
+Controller/Accounting: ORG
+each month end: DATE
+treasury: ORG
+Sarbanes-Oxley: ORG
+annual: DATE
+quarterly: DATE
+annual: DATE
+13: CARDINAL
+January 1992 to January 2004: DATE
+Name City: GPE
+monthly: DATE
+each month end: DATE
+annual: DATE
+AccPac Plus: PRODUCT
+monthly: DATE
+monthly: DATE
+five: CARDINAL
+Payroll: ORG
+80: CARDINAL
+quarterly: DATE
+annually: DATE
+Prepared W-2's: PERSON
+1099: DATE
+2000: DATE
+Colorado State University: ORG
+State: GPE
+US: GPE
+Bachelor of Arts: ORG
+2002: DATE
+Colorado State University: ORG
+Fort Collins: PERSON
+CO, USA
+
+Bachelor of Arts: ORG
+1995: DATE
+Front Range Community College: ORG
+Fort Collins: GPE
+CO
+
+Associates in Accounting
+
+Skills
+
+Corporate Accounting, Accounting Operations: ORG
+Financial Statements: ORG
+Ledger Reconciliations: PERSON
+Payroll: ORG
+Reconciliations, Accounts Payable: ORG
+Asset Mgmt: PERSON
+Fixed Assets: ORG
+Inventory Reconcilations: ORG
+Financial Reporting: ORG
+Adp Payroll System: WORK_OF_ART
+Asset Management: ORG
+Excel: PRODUCT
+Finance: ORG
+Financial Analysis: ORG
+Financial Operations: ORG
+Kronos: ORG
+Oracle, Oracle Financials: ORG
+Peoplesoft: ORG
+Process Improvement: ORG
+Quickbooks, Regulatory Compliance: ORG
+Testing, Training,: WORK_OF_ART
+Treasury Management: ORG

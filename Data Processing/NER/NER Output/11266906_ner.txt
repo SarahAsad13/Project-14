@@ -1,0 +1,102 @@
+SR: ORG
+20 years: DATE
+May 2015: DATE
+the Wells Fargo Advisors: ORG
+the Financial Advisors: ORG
+â€¢Relationship: CARDINAL
+Wells Fargo Advisors: ORG
+Financial Advisors: ORG
+WFHM: ORG
+WF: ORG
+Financial Advisors: ORG
+Quality Assurance: FAC
+the Financial Advisor: ORG
+March 2013: DATE
+May 2015: DATE
+third: ORDINAL
+Wells Fargo Corporate Relocation
+Consulting Â: ORG
+WFC: NORP
+FHA: ORG
+VA: GPE
+FNMA: ORG
+FMLMC: ORG
+April 2010: DATE
+May 2012: DATE
+Â: PRODUCT
+August 2008 to February 2010: DATE
+II: CARDINAL
+1MM: MONEY
+Prepare: ORG
+Wells Fargo: ORG
+Private Bankers: ORG
+Financial Consultants: ORG
+Wells Fargo: ORG
+Wells Fargo Wealth Advisor/: ORG
+The Private Bank Foundation: ORG
+April 2007 to August 2008: DATE
+annual: DATE
+up to $25MM: MONEY
+Wells Fargo Bank: ORG
+Wells Fargo Business Banking College of Commercial Credit: ORG
+FTS: ORG
+1,000,000: MONEY
+50,000: MONEY
+100,000: MONEY
+$50,000Â§ Concurrence: MONEY
+1,000,000: MONEY
+250,000: CARDINAL
+100,000: MONEY
+$100,000 ACH Authority: MONEY
+100,000: MONEY
+November 1996 to April 2007: DATE
+National Home Mortgage Consultant 
+City: ORG
+Fortune 500: PRODUCT
+FHA: ORG
+VA: GPE
+FNMA: ORG
+FMLMC: ORG
+Develop: ORG
+Leaders Club: ORG
+2006 1st: DATE
+156 $: MONEY
+30,520,799: MONEY
+Avg Ln: PERSON
+195,646: MONEY
+43: CARDINAL
+1,873,377: MONEY
+Avg Ln: PERSON
+43,566: MONEY
+2006: DATE
+$590,110.47 Revenue: MONEY
+193.35: CARDINAL
+NOI: ORG
+235,967.47: MONEY
+Centralized Retail
+Referrals & Cross: PERSON
+Top Alliance Bank Referrals: ORG
+382: CARDINAL
+Â§ 2005: DATE
+Mtg Funded Units: PERSON
+161 $: MONEY
+34,183,691: MONEY
+Avg Ln: PERSON
+212,321: MONEY
+54 $2,491,738: MONEY
+Avg Ln: PERSON
+46,143: MONEY
+1: MONEY
+Home Equity: ORG
+2002: DATE
+2003: DATE
+Corporate Wells Fargo Â§ Recognized as #1: ORG
+Lender Paid Mortgage Insurance: ORG
+Minnesota State University: ORG
+State 
+Additional Information
+
+S.A.F.E. MORTGAGE NMLS: ORG
+533306: MONEY
+66: DATE
+63: CARDINAL

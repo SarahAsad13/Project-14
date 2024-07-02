@@ -1,0 +1,102 @@
+22 years: DATE
+Highlights
+
+Financial: ORG
+Insurance Fraud
+Court: ORG
+Firearms/Driving Instructor: ORG
+over $50,000: MONEY
+one year: DATE
+500%.Â: CARDINAL
+GIS: ORG
+100%: PERCENT
+State Took: ORG
+two: CARDINAL
+10/2013: CARDINAL
+Name City: GPE
+Developed: PRODUCT
+Access: PRODUCT
+Fraud Detective 08/2005: ORG
+Name City: GPE
+State: ORG
+50,000: MONEY
+Forensic Detective: ORG
+100%: PERCENT
+Liquor Law Enforcement: PERSON
+Name City: GPE
+300+: QUANTITY
+Basic Law Enforcement Academy: ORG
+500%: PERCENT
+Firearms and Defensive Tactics Instructor
+
+Program: ORG
+Technician 08/2003 to 12/2004: ORG
+Name City: GPE
+GIS: ORG
+WA Dept: PERSON
+Name City: GPE
+SWAT: ORG
+Fraud Investigator: ORG
+Regional: ORG
+Washington State Tactical Officers' Association Instructor: ORG
+SWAT: ORG
+SWAT: ORG
+Nethercutt: ORG
+Sheriff 06/1989 to 11/1994 Company Name City: MONEY
+State: ORG
+Team Trainer: PERSON
+Name City: GPE
+State: ORG
+143: CARDINAL
+Commanded: ORG
+USMC: ORG
+US Central Command: ORG
+the Middle East: LOC
+today: DATE
+Washington: GPE
+USMC: ORG
+Institute City: GPE
+Digital Evidence for Court: ORG
+One: CARDINAL
+2011: CARDINAL
+Washington State: ORG
+SWAT
+Drug Investigator
+Firearms Instructor
+Emergency Vehicle Driving Instructor
+Field Training Officer: ORG
+Instructor Development
+Investigation of Intellectual Property Crimes: ORG
+Financial Crimes: ORG
+Social Networking: Investigative Tools and Techniques
+
+Certification : Techniques of Financial Investigation: ORG
+2010: DATE
+St. Petersburg College / DEA City: ORG
+John E. REID & Associates: PERSON
+Basic Geographic Information Systems Programming 2006 Environmental Research Systems Inc.: ORG
+ESRI: ORG
+1993: DATE
+Press City: GPE
+One: CARDINAL
+Field: GPE
+Corps City: GPE
+Officer Basic School: ORG
+5%: PERCENT
+Honor Graduate: PERSON
+Combat Marksmanship Coach's: ORG
+Desert Warfare Courses: PERSON
+Amphibious Scout Swimmers': ORG
+Washington City: GPE
+Coursework in Criminal Justice: ORG
+Navy: ORG
+Distinguished Graduate: PERSON
+Marine Corps Association's: ORG
+GIS: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Access, Outlook, Publisher: ORG
+ESRI: ORG
+Arcview GIS: PERSON
+VBA: ORG

@@ -1,0 +1,92 @@
+RESEARCHER: ORG
+RECRUITER: ORG
+15+ years: DATE
+Highlights: GPE
+6 years: DATE
+LLUH: ORG
+Multi: GPE
+2,000-20,000: CARDINAL
+daily: DATE
+National: ORG
+100: CARDINAL
+500: CARDINAL
+Adept: ORG
+Recipe: ORG
+Zero: CARDINAL
+500: CARDINAL
+12 million: CARDINAL
+monthly: DATE
+CBS Studios: ORG
+Marriott: NORP
+Bob: PERSON
+Alley's Restaurants: ORG
+Burger King: ORG
+Driven: PERSON
+Grew: PERSON
+CBS Studios: ORG
+Compliance Committed: WORK_OF_ART
+CHOC Hospital: ORG
+Casa Colina Hospital: PERSON
+Recipe Modification Specialist: ORG
+Kaiser Hospital: ORG
+Farmer Focused: PERSON
+Cal Poly: PERSON
+Rialto: GPE
+Adams Acres: PERSON
+Rialto Unified School
+District
+Dedicated Professional: Regularly: ORG
+Childhood Obesity Conference: ORG
+Nutrition Conference & Expo: ORG
+Experimental Biology: ORG
+The Academy of Nutrition and Dietetics: ORG
+California Dietetics Association: ORG
+District Dietetic
+Association: ORG
+School Nutrition Services Dietetic Practice Group: ORG
+School Nutrition Association
+
+Professional Experience
+01/2013: ORG
+Recruiter Company Name: ORG
+Integrated Affordable Health Care Act: ORG
+LLUH: ORG
+20-500: CARDINAL
+Created: ORG
+09/2010: PERSON
+6-12: CARDINAL
+Rialto: GPE
+K-12: PRODUCT
+3 year: DATE
+Integrated: NORP
+five: CARDINAL
+the City of Rialto: GPE
+Healthy Rialto: GPE
+RUSD: ORG
+GIS: ORG
+Fontana: PERSON
+nearly 100%: PERCENT
+San Bernardino City: GPE
+SACHS Clinic: ORG
+Victoria Elementary: PERSON
+Coordinated: ORG
+evening: TIME
+Created: ORG
+Chef Instructor/Nutritionist Company Name: ORG
+ages 4-16: DATE
+300+ Performance Night: DATE
+2011: DATE
+ï¼​ City: GPE
+State: ORG
+92354: CARDINAL
+2009: DATE
+Bachelor of Science : Human Nutrition California State Polytechnic University: ORG
+ï¼​ City: GPE
+2006: DATE
+Associate of Science : Culinary Arts Le: WORK_OF_ART
+Cordon Bleu: PERSON
+Carol Liu: PERSON
+2014: DATE
+Paul Cooper: PERSON
+Community Hero: WORK_OF_ART
+LA County Fair: WORK_OF_ART

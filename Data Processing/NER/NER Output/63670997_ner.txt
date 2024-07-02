@@ -1,0 +1,60 @@
+Highlights
+
+Brand Management
+Budget Accountability
+Event Management
+Social Media
+Advertising: ORG
+Digital: ORG
+Name City: GPE
+State Communications Consultant 01/2008: ORG
+Textiles, Housewares, Licensing: ORG
+2.5MM: MONEY
+DuPont Stone: ORG
+Lowes: ORG
+14%: PERCENT
+26 Floor & DÃ: MONEY
+cor: ORG
+43: CARDINAL
+Facilitated: ORG
+5: CARDINAL
+Developed: PRODUCT
+Teflon.com: ORG
+two: CARDINAL
+DuPont Marketing & Sales: ORG
+My Life History: WORK_OF_ART
+Name City: GPE
+State NA Communications: ORG
+01/2004: CARDINAL
+the Apparel Business, Active Outdoor Market Segment: ORG
+Monitored: ORG
+5MM NA: ORG
+10MM: MONEY
+Executed NA: ORG
+Trademark Usage: GPE
+hundreds: CARDINAL
+DuPont: ORG
+Earned: PERSON
+Name City: GPE
+State Marketing Communications Specialist Marketing Communications Coordinator: ORG
+01/2004: CARDINAL
+the Printing & Publishing Technical Marketing
+Organization: ORG
+Networked: PRODUCT
+City: GPE
+City: GPE
+Professional Affiliations: ORG
+American Marketing Association: ORG
+Outdoor Industry Association: ORG
+AATCC: ORG
+National Association of Uniform Manufacturers and Distributors (NAUMD) Marble Institute of America: ORG
+MIA: ORG
+National Tile Contractor
+Association: ORG
+NTCA: ORG
+Skills: ORG
+Brand Management, Budget: ORG
+Event Management: ORG
+Market, Marketing Communications: ORG
+Marketing & Sales: ORG
+Strategic: PERSON

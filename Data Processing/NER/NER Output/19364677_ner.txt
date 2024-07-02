@@ -1,0 +1,62 @@
+over $20 million: MONEY
+Project Management Professional: ORG
+Scripps Health: ORG
+Highlights
+Facilities Management and Development Project Management /
+Leadership
+
+Project Initiating through Closing
+Develop: ORG
+Control Project Budget Develop: ORG
+Schedules
+Local Entitlement and Permitting Processes: ORG
+Project Reporting / Status
+
+Healthcare Construction, Design and Build: ORG
+OSHPD / Agency: ORG
+Accomplishments
+
+Successfully: WORK_OF_ART
+45,420: CARDINAL
+35.7: MONEY
+$21.2M: MONEY
+$11.8M: MONEY
+29,000: CARDINAL
+Oversaw: GPE
+7.8: MONEY
+7.1: MONEY
+SCIM Phase III: LOC
+08/2005: PRODUCT
+45,420: CARDINAL
+35.7: MONEY
+$21.2M: MONEY
+$11.8M: MONEY
+29,000: CARDINAL
+5.7M.: MONEY
+40,000: CARDINAL
+7.8: MONEY
+4.5M.: MONEY
+7.1: MONEY
+SCIM Phase II: EVENT
+4.5M.: MONEY
+Understand: GPE
+Evaluate: ORG
+standards.ï‚§ Negotiate: ORG
+Scripps: PERSON
+Scripps Health: ORG
+11/2003: CARDINAL
+Sharp Coronado Emergency department remodel: WORK_OF_ART
+Sharp Chula Vista Catheterization Lab: ORG
+Psychiatric: ORG
+over $15 M: MONEY
+Communicated: ORG
+Education: ORG
+MBA University of Phoeniz ï¼​ City: ORG
+Project Management Professional: ORG
+PMI: ORG
+2013: DATE
+Project Management Certificate: ORG
+UC SAN DIEGO EXTENSION: WORK_OF_ART
+2012: DATE
+Skills
+Accomplished: ORG

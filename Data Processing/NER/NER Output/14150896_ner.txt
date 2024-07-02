@@ -1,0 +1,45 @@
+Oct 2015 to Jan 2016: DATE
+Organize: ORG
+Assist: NORP
+Jul 2015 to Dec 2015: DATE
+Data
+Research: ORG
+Media Literacy Week: ORG
+Social Media Community: ORG
+Press Release: PERSON
+CSUN: ORG
+Software: PERSON
+Outlook: PERSON
+Hardware: ORG
+Laptop: ORG
+Martial Arts Instructor: ORG
+K-12: PRODUCT
+Answer: LOC
+Provide: NORP
+Attend: ORG
+weekly: DATE
+Attend: ORG
+Microsoft Office: ORG
+Twitter: PERSON
+Hootsuite: PERSON
+Medium.com: ORG
+Publicity, Marketing , Customer: ORG
+Audio Production: ORG
+Tech: ORG
+Interests: NORP
+Improvisation: PRODUCT
+Second City: GPE
+Plot: ORG
+Books: GPE
+Movies, Video: ORG
+Music Theory
+
+: ORG
+Bachelor of Arts: ORG
+Cinema and Television Arts: ORG
+2016: DATE
+California State University Northridge: ORG
+State: GPE
+United States: GPE
+Coursework in Network Program Development
+Coursework in Creative Script Writing: ORG

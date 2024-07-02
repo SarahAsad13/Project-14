@@ -1,0 +1,82 @@
+FINANCE: ORG
+Highlights
+
+Team: ORG
+Approachable: PRODUCT
+Name City: GPE
+State: ORG
+Lasco Ford: PERSON
+Federal Law: ORG
+100%: PERCENT
+100%: PERCENT
+Buyers and Organizational Representatives: ORG
+Menu Selling: LOC
+Gerry Gould: PERSON
+Finance: ORG
+Al Serra Buick/GMC: ORG
+100%: PERCENT
+4.0: CARDINAL
+Buick: FAC
+Cadillac: ORG
+Chevrolet: ORG
+GMC: ORG
+4.0: CARDINAL
+CSI: ORG
+General Motors: ORG
+GM: ORG
+2012-2013: DATE
+Line-Up: ORG
+General Motors: ORG
+2nd: DATE
+F& I: ORG
+1050: MONEY
+Name City: GPE
+LaFontaine Auto Group: ORG
+the New/Used Car: EVENT
+daily: DATE
+Lead Management: ORG
+Commercial Vehicle: ORG
+Leaf Vehicle: ORG
+RV: PERSON
+Recreational Vehicle: ORG
+10: CARDINAL
+01/2000: CARDINAL
+Name City: GPE
+State: ORG
+Bill Fox Chevrolet: PERSON
+daily: DATE
+the Used Car Department: ORG
+General Motors: ORG
+CSI: PERSON
+Name City: GPE
+daily: DATE
+800: MONEY
+more than $2000: MONEY
+the Ford Motor Company's: ORG
+Name City: GPE
+approximately 200: CARDINAL
+daily: DATE
+second: ORDINAL
+Albert Chevrolet: PERSON
+daily: DATE
+the Used Car Department: ORG
+The Legion of Leaders: WORK_OF_ART
+General Motors: ORG
+01/1988 Company Name City: ORG
+State
+
+Munition Systems Specialist: ORG
+Medical Engineering / Business Management 2: ORG
+Baker College Professional Meetings: ORG
+Nissan Certified: GPE
+United States Air Force: ORG
+the United States: GPE
+Nissan Certified: GPE
+United States Air Force: ORG
+theUnited States Air Force: ORG
+Business Management 2: ORG
+Finance: ORG
+GMC: ORG
+Law: PERSON
+Meetings: GPE
+2000: DATE

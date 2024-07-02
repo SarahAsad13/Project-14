@@ -1,0 +1,48 @@
+Bilingual Human Resources Professional: ORG
+Labor: ORG
+Knowledgeable: PRODUCT
+Name City: GPE
+State: ORG
+Current
+
+Develops Human Resources: ORG
+Human Resources: ORG
+HRIS: ORG
+15 %: PERCENT
+Name City: GPE
+State: ORG
+Educateed: PERSON
+100%: PERCENT
+Processed: GPE
+Name City: GPE
+State Human Resource: ORG
+10/2008: CARDINAL
+Directed: ORG
+EEOC: ORG
+Processed: GPE
+Name City: GPE
+10/2004: CARDINAL
+09/2008: GPE
+Explained: PRODUCT
+Coordinated: ORG
+hours: TIME
+Completed: ORG
+BBA: ORG
+Sam Houston State University: PERSON
+City: GPE
+State: GPE
+USA: GPE
+International Business Coursework: ORG
+Human Resource Management Coursework in Business Administration: ORG
+North Harris Community College: ORG
+City: GPE
+State: GPE
+3.8: CARDINAL
+GPA Liberal Arts: ORG
+Skills: ORG
+ADA: ORG
+ADP: ORG
+Human Resources: ORG
+MS Office: ORG
+SharePoint: ORG
+Organizational: ORG

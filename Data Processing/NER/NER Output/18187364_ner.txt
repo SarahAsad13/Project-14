@@ -1,0 +1,118 @@
+Oracle Certified Professional: ORG
+OCP: ORG
+8.0: CARDINAL
+8i: CARDINAL
+9i: DATE
+10: CARDINAL
+11: CARDINAL
+Certified Information Systems Security Professional: ORG
+Patch: NORP
+Information Technology Specialist Information Security Officer: ORG
+October 2010 to July 2015: DATE
+Oracle: NORP
+Creating Risk Assessment: WORK_OF_ART
+24X7: CARDINAL
+Develop: ORG
+Corporate Security: ORG
+Database Administrators: ORG
+Oracle Enterprise: ORG
+Develop: ORG
+Managed IBM: ORG
+Guardium: ORG
+Identify: ORG
+PL/SQL: ORG
+COGNOS: PRODUCT
+April 2002 to September 2010: DATE
+PeopleSoft: ORG
+Anti-Money Laundering: ORG
+Oracle: NORP
+ASM: ORG
+TKPROF: ORG
+OEM: ORG
+STATSPACK: ORG
+DBArtisan: ORG
+Tivoli: GPE
+SQL: ORG
+PL/SQL: ORG
+UNIX: ORG
+24X7: CARDINAL
+Oracle systems: ORG
+341: CARDINAL
+65: CARDINAL
+5: CARDINAL
+Oracle: ORG
+5: CARDINAL
+60%: PERCENT
+80%: PERCENT
+80%: PERCENT
+Coordinated: ORG
+SQL: ORG
+SQL: ORG
+Oracle: ORG
+Oracle Corporation: ORG
+February 2000: DATE
+April 2002: DATE
+PL/SQL: ORG
+SQLLoader: NORP
+Monitored: ORG
+January 1999: DATE
+February 2000: DATE
+Windows NT: LOC
+UNIX: ORG
+Created DBA: ORG
+Developed a Capability Maturity Model: ORG
+CMM: ORG
+Provided 24X7support: CARDINAL
+December 1997 to January 1999: DATE
+SQL: ORG
+June 1997 to December 1997: DATE
+Sybase: ORG
+Oracle: ORG
+Oracle: NORP
+Monitored: ORG
+Oracle: NORP
+SQL: ORG
+Database Administrator: ORG
+September 1996 to June 1997: DATE
+Oracle: NORP
+UNIX: ORG
+SQL: ORG
+PL/SQL: ORG
+Oracle: ORG
+Associate Computer Programmer/Analyst: ORG
+June 1991 to September 1996: DATE
+State
+
+Technical: ORG
+Pavement and Bridge Management Systems: ORG
+Oracle: ORG
+Prepared EDP: ORG
+Pavement and Bridge Maintenance Systems: ORG
+Rensselaer Polytechnic Institute: ORG
+the Thruway
+Authority: ORG
+Master of Science : Management College of Saint Rose ï¼​ City: WORK_OF_ART
+State Management
+Bachelor of Arts : Music History City: ORG
+ASM: ORG
+Capability Maturity Model: ORG
+COGNOS: ORG
+DBA: ORG
+Database: GPE
+IBM: ORG
+Information Security: ORG
+Information Systems: ORG
+Money: GPE
+Enterprise: ORG
+Oracle Enterprise: ORG
+Oracle, Oracle: ORG
+PL/SQL: ORG
+PeopleSoft: ORG
+Oracle RDBMS: ORG
+Risk Assessment: PERSON
+SQL: ORG
+SQLLoader: ORG
+Sybase, Systems development: ORG
+Tivoli: GPE
+UNIX: ORG
+UNIX: ORG

@@ -1,0 +1,42 @@
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+Creative Writing
+Strategy: WORK_OF_ART
+Fact: ORG
+Strategic Planning
+Social: ORG
+Work History
+Property Management: WORK_OF_ART
+Communicated: ORG
+Communicated: ORG
+Conducted: ORG
+Public Relations Coordinator: ORG
+monthly: DATE
+Faculty Liaison/Textbook Supervisor: PERSON
+06/2017: CARDINAL
+Oversaw: GPE
+Stockroom Supervisor: PRODUCT
+Maintained: GPE
+Criminal Justice Bronx Community College - City: ORG
+Intermediate Python Coder/Data Analyst: WORK_OF_ART
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+Creative Writing
+Strategy: WORK_OF_ART
+Fact: ORG
+Strategic Planning
+Social: ORG
+Work History
+Property Management: WORK_OF_ART
+Communicated: ORG
+Communicated: ORG
+Conducted: ORG
+Public Relations Coordinator: ORG
+monthly: DATE
+Faculty Liaison/Textbook Supervisor: PERSON
+06/2017: CARDINAL
+Oversaw: GPE
+Stockroom Supervisor: PRODUCT
+Maintained: GPE

@@ -1,0 +1,114 @@
+SOUS CHEF
+Summary: ORG
+Sous Chef: PERSON
+the Hilton Barbados: FAC
+1: CARDINAL
+Demi Chef de Partie: ORG
+Senior Chef de Partie: ORG
+Sous Chef: PERSON
+the Culinary Arts: ORG
+Sous Chef: PERSON
+Culinary: ORG
+Highlights
+
+Strong Management Skills: ORG
+Supervisor of the year: WORK_OF_ART
+the year 2012: DATE
+Team: ORG
+65: CARDINAL
+Menu Writing: PERSON
+Skills: ORG
+the Blue Energy Committee: ORG
+monthly: DATE
+Teaches sushi: PERSON
+Mentor: LOC
+1800: CARDINAL
+the month: DATE
+2: CARDINAL
+Hilton Barbados: PERSON
+Sous Chef 10/2013: PERSON
+350: CARDINAL
+3: CARDINAL
+511covers: CARDINAL
+two: CARDINAL
+113: CARDINAL
+the Ala Carte: ORG
+250: CARDINAL
+385: CARDINAL
+Buffets - Specialty: GPE
+Pasta Night: PERSON
+Seafood Night: PERSON
+Beach Barbeque: PERSON
+up to: CARDINAL
+80: CARDINAL
+Hilton: GPE
+morning: TIME
+evening: TIME
+Hilton Standard: PERSON
+Quality & Assurance: ORG
+daily: DATE
+approximately 65: CARDINAL
+1800persons: CARDINAL
+the month: DATE
+the Kitchen Department: ORG
+09/2003: CARDINAL
+Fairmont Royal Pavilion - General: ORG
+month - 2003-2005: DATE
+La
+Carte Service: ORG
+09/2003: CARDINAL
+Cook: PERSON
+Buffets: NORP
+the Barbados Hospitality Institute
+
+Certificate : Counseling Skills: ORG
+2010: DATE
+Particia Healy: PERSON
+2010: DATE
+Culinary Institute of America City: ORG
+State: GPE
+United States of America: GPE
+Asian: NORP
+United States of America: GPE
+2008: DATE
+United States of America: GPE
+the Gardemanger 2007 Culinary Institute of America State: ORG
+United States of America: GPE
+Hilton Barbados: PERSON
+Sushi - Chef: PERSON
+John Amayo - Venezuela: PERSON
+Supervisory: NORP
+2005: DATE
+Caribbean Training Institute: ORG
+Diploma -Supervisory Management: ORG
+2002: DATE
+Barbados Hospitality Institute Barbados
+
+: ORG
+Associate Degree: PERSON
+Applied Science- Culinary Arts
+
+High School Diploma 2000: ORG
+Barbados Hospitality Institute - Barbados: ORG
+Caribbean: LOC
+1: CARDINAL
+Food & Nutrition - Grade 1: ORG
+Business - Grade 2
+
+: ORG
+English: LANGUAGE
+Literature - Grade 2
+
+Personal Information
+
+Marital Status: ORG
+15th September, 1983: DATE
+2007: DATE
+Caribbean Hotel & Tourism Association Education Foundation-2008 Scholarship: ORG
+2009: DATE
+Sous Chef: PERSON
+the months of October - November 2009: DATE
+2010: DATE
+Advanced Sushi: PERSON
+Very Organized
+Creating Team Engagement: PERSON

@@ -1,0 +1,39 @@
+March 2014-Present: DATE
+Angie: PERSON
+2017: DATE
+~$14M: ORG
+57%: PERCENT
+Coordinator Company Name: ORG
+seven: CARDINAL
+Coordinated: ORG
+50M.: MONEY
+quarterly: DATE
+monthly: DATE
+11: CARDINAL
+SharePoint: ORG
+Procure: ORG
+Angie: PERSON
+20%: PERCENT
+2015: DATE
+06/2013 to 04/2015: DATE
+Care Trainer Company Name: PERSON
+CRM: PRODUCT
+Member Care department: ORG
+approximately 300: CARDINAL
+the Member Care department: ORG
+six: CARDINAL
+approximately 300: CARDINAL
+Angie: PERSON
+10%: PERCENT
+2014: DATE
+20%: PERCENT
+2013: CARDINAL
+06/2012: CARDINAL
+06/2013: CARDINAL
+State: ORG
+May 2012: DATE
+Bachelor of Science : Management Marketing Communications Purdue University: ORG
+State Management Marketing Communications: ORG
+CRM: PRODUCT
+SharePoint: ORG
+RFP: ORG

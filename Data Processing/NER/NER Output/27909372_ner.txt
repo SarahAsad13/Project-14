@@ -1,0 +1,81 @@
+Core Qualifications
+MS Word: ORG
+MS Excel: ORG
+PowerPoint: ORG
+Mac: PERSON
+Training: PERSON
+May 2017: DATE
+Massachusetts: GPE
+State Hospitality: FAC
+Tourism Management: ORG
+3.99: CARDINAL
+4.0: CARDINAL
+Dean's: ORG
+List: All Semesters
+Work Experience
+09/2016: WORK_OF_ART
+Assist: NORP
+up to 75: CARDINAL
+Arrange: NORP
+10-15: CARDINAL
+Cape Cod: PERSON
+Bourne: GPE
+MA: GPE
+Bourne Braves: PERSON
+September: DATE
+14' and: DATE
+15: CARDINAL
+Twitter: PRODUCT
+the Bourne Braves - Created: ORG
+Player Spotlights: WORK_OF_ART
+Coordinated: PRODUCT
+approximately 10,000: CARDINAL
+weekly: DATE
+407: CARDINAL
+Display: PERSON
+daily: DATE
+first: ORDINAL
+Puppy Pow Wow: WORK_OF_ART
+52: CARDINAL
+Roche Brothers: ORG
+600: CARDINAL
+05/2012: CARDINAL
+01/2016
+: PERSON
+Wrentham: PERSON
+first: ORDINAL
+Interests: NORP
+March 2015-Present Â: DATE
+March of Dimes ": DATE
+Wounded Warrior Project: ORG
+PopTab Fundraising: ORG
+Ronald McDonald
+House: PERSON
+HTM Career Day Board: ORG
+October 2015-Present Â: DATE
+the day: DATE
+Career Day: DATE
+weekly: DATE
+Eta: ORG
+2015-Present Â: DATE
+International Hospitality Management: ORG
+Skills: ORG
+Inspect: GPE
+MA: GPE
+Mac OS: PERSON
+MS Excel: ORG
+PowerPoint: ORG
+MS Word: PERSON
+March 2015-Present Â: DATE
+March of Dimes ": DATE
+Wounded Warrior Project: ORG
+PopTab Fundraising: ORG
+Ronald McDonald: PERSON
+HTM Career Day Board: ORG
+October 2015-: DATE
+the day: DATE
+Career Day: DATE
+weekly: DATE
+Eta: ORG
+2015-Present Â: DATE
+Chapter of Distinction: LAW

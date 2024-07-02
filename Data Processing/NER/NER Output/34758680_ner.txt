@@ -1,0 +1,51 @@
+Current
+Financial Consultant Company Name: ORG
+seven: CARDINAL
+Corporate Banking: ORG
+P&L: ORG
+MMCOF: ORG
+Plan/Budget: ORG
+LOB: ORG
+VBA: ORG
+Macros: GPE
+SQL: ORG
+MMCOF: ORG
+Canadian: NORP
+Private Banking: ORG
+$43 billion: MONEY
+$34 billion: MONEY
+Wachovia: PERSON
+Hyperion
+Essbase: ORG
+Excel: PRODUCT
+VBA: ORG
+& MS Access) Communication: ORG
+daily: DATE
+monthly: DATE
+nine: CARDINAL
+quarterly: DATE
+$13 billion: MONEY
+Primary: PERSON
+Modeling: GPE
+Wells Fargo India
+Solutions: ORG
+01/2004: CARDINAL
+Financial Planning Analyst Company Name: ORG
+Research: ORG
+01/2000: CARDINAL
+Intern Company Name: ORG
+2012: DATE
+College of California Business Administration: ORG
+2004: DATE
+General Biology University: ORG
+Automation: ORG
+Budget: ORG
+Financial: ORG
+Hyperion: ORG
+Macros: ORG
+Access, MS Access: ORG
+Excel: PRODUCT
+Modeling: GPE
+Research: ORG
+SQL: ORG
+VBA: ORG

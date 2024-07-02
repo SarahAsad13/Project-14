@@ -1,0 +1,76 @@
+SOUS CHEF
+Executive Profile: ORG
+evening: TIME
+up to 60%: PERCENT
+30%: PERCENT
+May 2015: DATE
+February 2016: DATE
+Name City: GPE
+State: ORG
+Sous Chef
+
+: PERSON
+â€¢ Mentoring: PRODUCT
+â€¢ Prepared: PRODUCT
+Head Chef: PERSON
+â€¢ Created: PRODUCT
+â€¢ Created: PRODUCT
+â€¢ Supervised: PRODUCT
+â€¢ Supervised: PRODUCT
+daily: DATE
+â€¢ Negotiating: WORK_OF_ART
+â€¢: PRODUCT
+Hotline: ORG
+â€¢ Created: PRODUCT
+daily: DATE
+October 2006: DATE
+February 2016: DATE
+Name City: GPE
+State: ORG
+Sous Chef/First Cook: PERSON
+Maintained: GPE
+Created: ORG
+Created: ORG
+Maintained: GPE
+Created: ORG
+July 2003: DATE
+November 2006: DATE
+Name City: GPE
+Cook: PERSON
+2: CARDINAL
+Executive Chef: ORG
+Order Synchronization: ORG
+Customer Service: ORG
+Hospitality: PERSON
+daily: DATE
+June 1999: DATE
+February 2002: DATE
+Name City: GPE
+State Line Cook: ORG
+Executive Chef: ORG
+daily: DATE
+1999: DATE
+NEW YORK: GPE
+State: ORG
+USA Associate: ORG
+GPA: ORG
+8: CARDINAL
+3.8: CARDINAL
+GPA: ORG
+Associates: ORG
+Culinary Arts: ORG
+New Jersey: GPE
+Newark: GPE
+N.J.: GPE
+Culinary: ORG
+â€¢ Strong: PERSON
+â€¢ Mentoring: PRODUCT
+â€¢ Physically: PRODUCT
+â€¢ Able: WORK_OF_ART
+â€¢ Enforcing: PRODUCT
+â€¢: PRODUCT
+â€¢ Creating: PRODUCT
+â€¢ Management: ORG
+OSHA: ORG
+â€¢ Negotiating: PRODUCT
+â€¢ Maintaining the correct level: WORK_OF_ART

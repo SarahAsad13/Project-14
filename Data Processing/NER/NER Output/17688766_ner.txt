@@ -1,0 +1,106 @@
+8.1: DATE
+10: DATE
+Windows Server: PERSON
+2008: DATE
+R2 & 2012: ORG
+Exchange Server: ORG
+2007: DATE
+2010: DATE
+Mac OSX & iOS - BB10 OS: ORG
+Android: ORG
+LAN: ORG
+VPN: ORG
+WAN: ORG
+Citrix: PRODUCT
+Team Viewer: ORG
+Skype: ORG
+SQL: ORG
+Hyper-V
+: ORG
+Active Directory Services: ORG
+Group Policy: ORG
+DNS: ORG
+DHCP: ORG
+SSL: ORG
+WSUS: ORG
+FTP: ORG
+San/Nas Storage: ORG
+Cisco Routers: GPE
+HP Switches: ORG
+Sonicwall Firewalls
+Symantec Backup/AntiVirus: PERSON
+Trend-Micro: ORG
+Arcserve: ORG
+Acronis: NORP
+January 1996 to January 2016: DATE
+Name City: GPE
+State: ORG
+15: CARDINAL
+U.S.: GPE
+Forecasted: ORG
+SOX: ORG
+PCI: ORG
+Established: ORG
+Created: ORG
+5-year: DATE
+Inspected 3rd party: ORG
+BGP: ORG
+Maintained: GPE
+Audio/Video: ORG
+2002: DATE
+January 1995 to January 1996: DATE
+Name City: GPE
+State: ORG
+Information Technologies: ORG
+Maintained Lotus Notes: ORG
+Domino Mail Server: PERSON
+January 1992 to January 1995: DATE
+Company Name City: LOC
+Information Services: ORG
+Chicago: GPE
+Began: PERSON
+LINC: ORG
+the Accounting Operations: ORG
+Network: ORG
+Maintained: GPE
+Novell: ORG
+January 1991 to January 1992: DATE
+Name City: GPE
+State Customer Service: ORG
+Wellesley: ORG
+MA: GPE
+Baruch College 
+City: ORG
+State Accounting BS Accounting: ORG
+Skills
+Accounting: ORG
+AntiVirus: PRODUCT
+Apple: ORG
+Audio, Backup: ORG
+BGP: ORG
+Cisco Routers: ORG
+Citrix: GPE
+DHCP: ORG
+DNS: ORG
+Firewalls: ORG
+FTP: ORG
+IP: ORG
+LAN: ORG
+Domino: PERSON
+Lotus Notes: PERSON
+MA: GPE
+Mac: PERSON
+Exchange Server, Mail: ORG
+Nas: ORG
+Novell: ORG
+Operating Systems: ORG
+PCI: ORG
+San: LOC
+SQL: ORG
+SSL: ORG
+Switches: ORG
+Symantec: ORG
+Trend: ORG
+UNIX: ORG
+WAN: ORG
+Windows Server: PERSON

@@ -1,0 +1,80 @@
+REGIONAL: ORG
+Professional Summary
+
+Exceptional: ORG
+English: LANGUAGE
+Conversational: NORP
+Chinese: NORP
+Strong: PERSON
+Work History: WORK_OF_ART
+10mn: MONEY
+New York: GPE
+the after-hours: TIME
+12p.m.EDT: TIME
+first: ORDINAL
+second: ORDINAL
+third: ORDINAL
+14: CARDINAL
+500: CARDINAL
+500: CARDINAL
+KPI: ORG
+Identify: PRODUCT
+Draft: ORG
+the Director of Information Technology: ORG
+Purchase: PERSON
+New York: GPE
+AV/: NORP
+Develop: ORG
+Develop: ORG
+Determine: GPE
+Lotus: ORG
+Outlook and Windows 7 to Windows 8: ORG
+first: ORDINAL
+85% to 98%: PERCENT
+Maintained: GPE
+Macs: PERSON
+Nuance PDFCreate: ORG
+AV: ORG
+300: CARDINAL
+Desktop Support Technician Company Name: ORG
+Domestic: GPE
+C-Level: ORG
+Mac: PERSON
+Macbook: GPE
+Install Mac: ORG
+Citrix: PRODUCT
+10/2004: CARDINAL
+Software Licensing Coordinator Company Name: ORG
+monthly: DATE
+Software: NORP
+Oversee: ORG
+Escalate: PERSON
+Master of Science : Information Management W.P. Carey School of Business of Arizona State University - City: WORK_OF_ART
+State 
+Information Management
+Bachelor of Arts : Psychology, Sociology Chinese Studies Emory University - City: ORG
+Chinese: NORP
+Skills
+
+Budget: ORG
+SLA: ORG
+System Center Configuration: ORG
+SCCM: ORG
+MS Server 08/03/00: ORG
+Windows 7/XP/2000: ORG
+MS Office Suite: ORG
+10/07/03: CARDINAL
+Lotus: ORG
+4.6/5.0: CARDINAL
+2010: DATE
+Microsoft: ORG
+ESX/Netapp: ORG
+Mimecast: ORG
+Citrix Xen: PERSON
+Active Directory: WORK_OF_ART
+FileSite w/Outlook Integration: ORG
+Suite: PERSON
+Carpe Diem: PERSON
+TOA: ORG
+pilot installs & rollouts: ORG
+Completed Microsoft Certified Information Technology Professional: ORG

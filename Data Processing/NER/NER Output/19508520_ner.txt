@@ -1,0 +1,68 @@
+CCISD: ORG
+Student Personnel Services Department: ORG
+Skills
+
+Project: ORG
+Strong: PERSON
+Work History
+Company Name Coordinator of Student Personnel Services: WORK_OF_ART
+State: ORG
+July 2015: DATE
+Student Personnel Services: ORG
+Suzanne Thomas: PERSON
+281: CARDINAL
+284: CARDINAL
+the Clear Falls High School: ORG
+CCISD: ORG
+SAT: ORG
+annual: DATE
+State: ORG
+March 2010 to June 2015: DATE
+State: ORG
+August 2006 to March 2010: DATE
+Grades: PERSON
+9 - 12: DATE
+Friendswood High School: ORG
+State: ORG
+August 2002 to June 2006: DATE
+Webster: PERSON
+Principal: ORG
+Bill Daws/Principal: PERSON
+Marlene Skiba: PERSON
+7th: ORDINAL
+State: ORG
+January 2002 to June 2002: DATE
+Grades: PERSON
+9 - 12: DATE
+Ed White Memorial High School: PERSON
+TAAS: ORG
+February: DATE
+State: ORG
+July 2001 to November 2001: DATE
+Clements Certified Consultants: ORG
+four: CARDINAL
+approximately 45: CARDINAL
+monthly: DATE
+State: ORG
+August 2000 to June 2001: DATE
+Educator: PRODUCT
+English: LANGUAGE
+Personnel: ORG
+SAT: ORG
+Master of Science - Counseling University of Houston Clear // City ,: WORK_OF_ART
+State: ORG
+2006: DATE
+EC-12: PRODUCT
+the Texas State Board for Educator Certification -
+Bachelor of Arts - English: ORG
+History Texas Tech University: ORG
+State: ORG
+2000: DATE
+English: LANGUAGE
+History Graduated Summa Cum Laude: ORG
+English: LANGUAGE
+History: PERSON
+6-12: CARDINAL
+the Texas State Board for Educator Certification -
+
+: ORG

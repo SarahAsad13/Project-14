@@ -1,0 +1,86 @@
+SR: ORG
+HRIS: PERSON
+Kronos: PERSON
+Lawson: PERSON
+PeopleSoft: ORG
+QuickBooks: ORG
+HBI: ORG
+ADP
+& Oracle: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+EMR: PERSON
+Certified Mouth: PERSON
+annual: DATE
+Improve: ORG
+Generalist: PERSON
+Coordinate: ORG
+5: CARDINAL
+South: LOC
+Central Florida: LOC
+2000: DATE
+Human Resources: ORG
+Resorts General: ORG
+Resort: ORG
+Resort: ORG
+the Resort Executive Team: ORG
+annual: DATE
+Reduce: PERSON
+Improve: ORG
+01/2010: DATE
+60: CARDINAL
+Maintain HRIS: PERSON
+200: CARDINAL
+Administer Personal Time Off: ORG
+Sick Time: PERSON
+HRIS: ORG
+over 4000: CARDINAL
+4: CARDINAL
+Ran: PERSON
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Maintained: GPE
+OSHA: ORG
+Conducted: ORG
+PTO: ORG
+Sick Time Plans: PERSON
+HRIS: ORG
+200,000: MONEY
+Specialist: ORG
+01/2010 Company Name City: EVENT
+State
+
+Promoted: ORG
+Job Fairs: PERSON
+annual: DATE
+Foster: PERSON
+89%: PERCENT
+15%: PERCENT
+annually: DATE
+Master of Science : Industrial/Organization Psych 2012 University of Phoenix City: WORK_OF_ART
+Industrial/Organization Psych
+
+BA : Business Administration Human Resources Management 2009 Interamerican University of Puerto Rico City: ORG
+State
+
+Business Administration Human Resources Management
+
+Languages
+
+Bilingual: ORG
+English: LANGUAGE
+HRIS: ORG
+Kronos: PERSON
+Lawson: PERSON
+Access, Excel: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+2000: DATE
+Word: PERSON
+Oracle: ORG
+PeopleSoft: ORG
+Progress: ORG
+QuickBooks: ORG

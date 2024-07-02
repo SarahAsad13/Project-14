@@ -1,0 +1,141 @@
+Highlights: GPE
+Established: ORG
+Larry Pepper: PERSON
+Professional Instrument Society of America: ORG
+Activities Mastering Business Development Workshop-Bill Scheessele: ORG
+Global Sourcing Quality Engineer Training-GE Power Systems: ORG
+Six: CARDINAL
+Exceptional Management Skills-Baker Communication Inc.: ORG
+U.S.: GPE
+NC: GPE
+SC: ORG
+GA: ORG
+FL: ORG
+AL: GPE
+VA: GPE
+MS: GPE
+AL, WV: ORG
+VA: GPE
+KY: GPE
+TN: ORG
+Lewis-Goetz: PERSON
+Rawson: ORG
+ICD: ORG
+Own Brand: ORG
+ECON: ORG
+Diamond Gear: PERSON
+C&C: ORG
+Force: GPE
+Smith: GPE
+Technical Outside: ORG
+May 2013 to Jun 2014: DATE
+Outside Sales Representative's: ORG
+Southeast: LOC
+Mustang: GPE
+CH2M Hill: PERSON
+D&Z: ORG
+Hargrove: GPE
+General Electric: ORG
+Siemens: ORG
+Alstom: LOC
+Mitsubishi: ORG
+2012: DATE
+2013: CARDINAL
+Mustang: GPE
+CH2M Hill: PERSON
+D&Z: ORG
+Hargrove: GPE
+General Electric: ORG
+Siemens: ORG
+Alstom: LOC
+Mitsubishi: ORG
+2012: DATE
+Process Control Equipment Business: ORG
+Manufacturers for Gexpro Services: ORG
+Gexpro Services: ORG
+the GE Energy Capacity Audit Team: ORG
+Production Services: ORG
+GE Energy: ORG
+GE Business: ORG
+GE Power Systems: ORG
+Annually: DATE
+Developed Gexpro Services MSD: ORG
+GE Energy: ORG
+Developed LMS 100: PRODUCT
+VBV: ORG
+2005: DATE
+2010: DATE
+50MM: DATE
+CE Compliance Team-Supported: ORG
+GE Energy CE Compliance Team: ORG
+Completed Global Sourcing Quality Engineer Training-GE Power Systems: ORG
+Six: CARDINAL
+2001: DATE
+Chemical: ORG
+Pulp & Paper: ORG
+Masoneilan & Yokogawa: ORG
+Dec 1998: DATE
+EI DuPont: ORG
+first year: DATE
+26MM: CARDINAL
+three: CARDINAL
+the Application Engineering Department: ORG
+Sep 1995 to: DATE
+Dec 1998: DATE
+Liaison: PERSON
+Flowserve-Valtek & Kammer: ORG
+DuPont: PERSON
+26MM: CARDINAL
+five: CARDINAL
+four: CARDINAL
+South & North Carolina: LOC
+South & North Carolina: ORG
+Aug 1990: DATE
+Sep 1995: DATE
+A&E Firms: ORG
+DuPont: ORG
+Hoechst Celanese: NORP
+Fluor Daniels: ORG
+Chemtex International: ORG
+Bechtel Engineering: ORG
+PET: ORG
+40%: PERCENT
+Develop Special Valve: ORG
+35%: PERCENT
+45%: PERCENT
+Supply Chain: WORK_OF_ART
+four years: DATE
+Technical Sales: ORG
+May 1988: DATE
+1990: DATE
+A&E Firms: ORG
+DuPont: ORG
+Hoechst Celanese: NORP
+Fluor Daniels: ORG
+Chemtex International: ORG
+Bechtel Engineering: ORG
+45%: PERCENT
+Cape Fear Community College: ORG
+Instrumentation & Controls: ORG
+Bachelor of Science , Economics Marketing 05.05.88 Clemson University: ORG
+Labor Economics: ORG
+Mathematics, Business Management: ORG
+Gamma Nu-Pledge: PERSON
+Christian Athletes: GPE
+1985: DATE
+Gamma Nu-Pledge: PERSON
+Christian Athletes: GPE
+1985: DATE
+Business Management: ORG
+SC, Economics,: ORG
+Finance: ORG
+Business Management: ORG
+SC, Economics,: ORG
+Finance: ORG
+Mathematics: NORP
+Quality, Sales: ORG
+Siemens: ORG
+Six Sigma: PERSON
+SOP: ORG
+Strategic: PERSON
+Supply Chain: ORG

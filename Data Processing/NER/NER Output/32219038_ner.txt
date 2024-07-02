@@ -1,0 +1,72 @@
+BA in Business Administration: ORG
+four years: DATE
+Time Management
+SAP: ORG
+SRM: ORG
+Check Request: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Data Entry
+Filing: ORG
+Calendar Maintains
+
+Accomplishments
+Received: WORK_OF_ART
+04/2016: PRODUCT
+Current
+Enumerator Company Name - City: ORG
+U.S.: GPE
+Census Bureau: ORG
+U.S.: GPE
+miles: PERSON
+Assist: NORP
+10/2015: CARDINAL
+Healthcare Advocate Company Name - City: ORG
+first: ORDINAL
+Intervene: PERSON
+Assist: NORP
+UnitedHealth Group: ORG
+Owned: ORG
+Research: ORG
+first: ORDINAL
+10/2015: CARDINAL
+the Critical Care Department: ORG
+Greets: NORP
+SAP: GPE
+Overseen: PERSON
+Excel: PRODUCT
+Maintained: GPE
+Endnotes: PERSON
+11/2012: CARDINAL
+01/2013
+
+Front: ORG
+Registering: PERSON
+05/2016
+Bachelor of Business Administration: PRODUCT
+Healthcare Management American InterContinental University - City: ORG
+State Healthcare Management: ORG
+Medical Billing: WORK_OF_ART
+HIPAA Privacy & Security Certification: ORG
+Sanford Brown College - City: PERSON
+State: ORG
+Certified Nursing: WORK_OF_ART
+Healthcare Pasadena: PERSON
+Spanish: NORP
+Skills: ORG
+Critical Care: PERSON
+Customer Service: ORG
+Data Entry: ORG
+Filing: GPE
+Medical Billing: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Coding: ORG
+Research: ORG
+Spanish: LANGUAGE
+Time Management: ORG

@@ -1,0 +1,121 @@
+Career Overview
+For: WORK_OF_ART
+twenty years: DATE
+a decade: DATE
+Customer Needs and Requirements Management
+Shipping: ORG
+2013: DATE
+QA: ORG
+first: ORDINAL
+Digital Media Solutions: ORG
+2012: DATE
+Brightcove: PERSON
+Media Solutions: ORG
+Brightcove: GPE
+CTO: ORG
+Collaborated: ORG
+Authored: PRODUCT
+annual: DATE
+Jan 2009: DATE
+2012: DATE
+Brightcove: PERSON
+Brightcove: GPE
+200: CARDINAL
+more than a dozen: CARDINAL
+Brightcove: GPE
+more than 60: CARDINAL
+eight: CARDINAL
+Brightcove: GPE
+2008: DATE
+Brightcove: PERSON
+Brightcove: GPE
+Conducted: ORG
+more than a dozen: CARDINAL
+IAB: ORG
+Digital Video Overview: ORG
+Digital Video: ORG
+Built: ORG
+several hundred: CARDINAL
+dozens: CARDINAL
+more than 300%: PERCENT
+2003: DATE
+Apr 2006 
+Company Name: ORG
+DG Fast Channel: ORG
+2008: DATE
+Viewpoint: ORG
+first: ORDINAL
+more than 20: CARDINAL
+QA: ORG
+Unicast: ORG
+months: DATE
+third: ORDINAL
+one: CARDINAL
+every nine months: DATE
+Scrum: PRODUCT
+three: CARDINAL
+the first five months: DATE
+Maintained: GPE
+AOL: ORG
+Adobe: PERSON
+DoubleClick: PRODUCT
+Jan 2000 to Feb 2003: DATE
+Legal: GPE
+Finance: ORG
+Executive: NORP
+seven: CARDINAL
+approximately $5 million: MONEY
+Developed Viewpoint's: ORG
+first: ORDINAL
+first: ORDINAL
+Viewpoint: ORG
+Viewpoint: ORG
+AOL: ORG
+AOL: ORG
+AOL: ORG
+Coca Cola: ORG
+American Express: ORG
+NBC: ORG
+Kellogg's: ORG
+Norelco: GPE
+Digitas: GPE
+BBDO: ORG
+Tribal DDB: ORG
+Microsoft: ORG
+1994: DATE
+Avid: PERSON
+1998: DATE
+third: ORDINAL
+Coordinated: ORG
+two: CARDINAL
+3D Products: ORG
+Jan 1991: DATE
+1997: DATE
+Specular: ORG
+one: CARDINAL
+first: ORDINAL
+Mac: PERSON
+Windows: ORG
+Specular: ORG
+about 40: CARDINAL
+$12 million: MONEY
+annual: DATE
+seventh: ORDINAL
+Training
+International Affairs New School University: ORG
+International Affairs: ORG
+Bachelor of Arts: ORG
+Behavioral Sciences: ORG
+2003: DATE
+Concordia College: ORG
+Summa Cum Laude GPA: PERSON
+4.0: CARDINAL
+Behavioral Sciences: ORG
+Summa
+Cum Laude: PERSON
+GPA: ORG
+4.0: CARDINAL
+Computer Science and Computer Graphics and: ORG
+ï¼​ City: GPE
+Digital Video: ORG
+Online Advertising: ORG

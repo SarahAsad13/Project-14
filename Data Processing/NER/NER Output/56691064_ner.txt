@@ -1,0 +1,135 @@
+CAD: ORG
+ArcGIS 9.3.1: PERSON
+10.0: CARDINAL
+# (Basic) Telvent ArcFM: MONEY
+2008 - 2013: DATE
+Arc Toolbox: PERSON
+Map: PERSON
+2008: DATE
+4.7.1: CARDINAL
+Studio Max: PERSON
+2009: DATE
+9.3: CARDINAL
+Revit 2009 Microsoft Office: ORG
+GeoExplorer: ORG
+Magellan Mobile: ORG
+6: CARDINAL
+Oregon: GPE
+550: CARDINAL
+InDesign: ORG
+Google Earth Google SketchUp: ORG
+Clinometer MicroStation: ORG
+40 pounds: QUANTITY
+Armenian: NORP
+Crystal Reports
+Creating Tree: PRODUCT
+about 38,000: CARDINAL
+Analyzing DB: PERSON
+Fiber Optics: ORG
+Creating: PERSON
+GIS: ORG
+CAD: ORG
+Cover: ORG
+Updated GWP
+Electric and Water: ORG
+5 Year: DATE
+CIP Plan Cross: ORG
+Electrical Planners - New: ORG
+Created: ORG
+GIS: ORG
+Linked: NORP
+Maintained the ArcFM: WORK_OF_ART
+Electric: ORG
+five: CARDINAL
+GPS: ORG
+Versioned GIS: PERSON
+Duplicated: WORK_OF_ART
+Substructure,: ORG
+Wiring: ORG
+Conversion: ORG
+Researched: ORG
+City Fiber: ORG
+GIS Reviewed: ORG
+two: CARDINAL
+Helped Engineering: ORG
+GIS: ORG
+the Utility Operation Center: ORG
+Howard Substation Updated: ORG
+4kV/12kV: CARDINAL
+the next three years: DATE
+ISD-IT: ORG
+12/2007: CARDINAL
+Approved Electrical: ORG
+Updates: GPE
+GIS: ORG
+GIS / ArcFM Created: ORG
+GPS: ORG
+the Street Lights Prepared: LAW
+Fiber
+Optics Reviewed Plan Checks for GWP Fiber Optics Plotted: ORG
+CAD: ORG
+GIS Installation of ArcGIS: ORG
+ArcFM Created: ORG
+Assisted: ORG
+5
+Year: DATE
+GIS: ORG
+EV: ORG
+Service Drops: ORG
+Tropos: ORG
+Pull Boxes: PERSON
+Basemap: GPE
+Poles: NORP
+Updated Glendale's Municipal Code Book: WORK_OF_ART
+Bachelor of Science : Geography Social Sciences June: ORG
+2012: DATE
+California Polytechnic State University: ORG
+Pomona GIS: PERSON
+June: DATE
+2009: DATE
+December: DATE
+2012: DATE
+Rio Hondo Community College Civil Design Technology: ORG
+GCC Certificate: ORG
+GPA: ORG
+the American Society of
+Engineers and Architects Club: ORG
+Dean: PERSON
+the American Society of Engineers and Architects Club: ORG
+Dean: PERSON
+Professional Affiliations: ORG
+San Diego: GPE
+CA: ORG
+Basic Data Collection: ORG
+TerraSync: ORG
+Cartographic Design Using ArcGIS: ORG
+9: CARDINAL
+2: CARDINAL
+Studio Max: PERSON
+Adobe: PERSON
+Photoshop: PERSON
+CAD: ORG
+Conversion: ORG
+Crystal Reports: ORG
+Customer Service: ORG
+Fiber Optics: ORG
+GIS: ORG
+GPS: ORG
+HPS: ORG
+Illustrator: ORG
+InDesign: ORG
+Java, Lighting, Mapper 6: ORG
+MS Access: ORG
+#: CARDINAL
+Microsoft Office: ORG
+Office: ORG
+MS Project: ORG
+3.1: CARDINAL
+Windows XP: ORG
+MicroStation: ORG
+4.7.1: CARDINAL
+Operating Systems: ORG
+DB: GPE
+Revit: GPE
+Vista: ORG
+Wiring: ORG

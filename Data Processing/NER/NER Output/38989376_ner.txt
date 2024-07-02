@@ -1,0 +1,94 @@
+AFSCME UNION: ORG
+Policy: PERSON
+Complex: NORP
+Operations: ORG
+Inventory: NORP
+Excel: PRODUCT
+Time: ORG
+Strong: PERSON
+Labor: ORG
+Schedule: ORG
+minutes: TIME
+AFSCME District Council: ORG
+90: CARDINAL
+10 to 100: CARDINAL
+first: ORDINAL
+AFSCME Union: ORG
+11/2004: CARDINAL
+Current Company Name City: ORG
+Local 2534's: DATE
+LUTI: ORG
+Locals: ORG
+12: CARDINAL
+3: CARDINAL
+Leadership Union Training Instructor: ORG
+LUTI: ORG
+the Master Agreement compliances/ Management Directives: WORK_OF_ART
+Policies: WORK_OF_ART
+AFSCME: GPE
+Penndot Secretaries: ORG
+AFSCME
+Locals: ORG
+Dauphin County: GPE
+Licensing Coordinator 06/2003: ORG
+11/2004: CARDINAL
+Name City: GPE
+State: ORG
+Insures: ORG
+Excel: PRODUCT
+Access: PRODUCT
+Airspace: PERSON
+Coordinate: FAC
+06/2003 Company Name City: ORG
+Prepared: PRODUCT
+the State Block Grant Program Created: ORG
+the Federal State Block Program Maneuvered: ORG
+FMIS)Financial Management Information System: ORG
+AIMS)Automated Information Management System: ORG
+Project Management System: ORG
+Clerk: PERSON
+12/1999: CARDINAL
+Name City: GPE
+the day to day: DATE
+Pennsylvania: GPE
+07/1999: CARDINAL
+12/1999: CARDINAL
+Name City: GPE
+Temporary Plates: FAC
+Distribute: ORG
+Pennsylvania: GPE
+Clerk 2: PERSON
+Name City: GPE
+Department of Transportation's Riverside Office Center: ORG
+ROC: GPE
+First: ORDINAL
+50: CARDINAL
+daily: DATE
+Maintain: PERSON
+2005: DATE
+Penn State Leadership Institute State: ORG
+USA: GPE
+2001: DATE
+Thompson Institute Computer City: ORG
+State: GPE
+USA: GPE
+1974: DATE
+Harrisburg High School City: ORG
+LUTI: ORG
+2013: CARDINAL
+AIMS: ORG
+Arbitration: ORG
+Council: ORG
+Financial
+Management: ORG
+Instructor: ORG
+Leadership: PERSON
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+Powerpoint: PRODUCT
+Word: PERSON
+Policies: GPE
+Project Management: ORG
+Secretarial: GPE
+Transportation: ORG

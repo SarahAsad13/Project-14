@@ -1,0 +1,42 @@
+Skills: ORG
+Microsoft Word: ORG
+Excel: PRODUCT
+Power Point: ORG
+Communicate: ORG
+Replenish: PERSON
+the day: DATE
+12/2016: CARDINAL
+Health Information Specialist Company Name: ORG
+HIPAA Guidelines: ORG
+Scan: NORP
+Verify: LOC
+Health Information Management: ORG
+Communicate: ORG
+Yoga Instructor Company Name: ORG
+Observe: LOC
+Provide health & wellness: ORG
+Front Desk and Office: ORG
+Advise: PRODUCT
+Maintain: PRODUCT
+Collect: ORG
+Training: PERSON
+July 2016: DATE
+Bachelor of Arts : Psychology The University of New Mexico: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+3.65: CARDINAL
+July 2015: DATE
+City: GPE
+State: GPE
+Netherlands: GPE
+GPA: ORG
+3.5: CARDINAL
+June 2014: DATE
+UNIVERSITY OF CALIFORNIA SANTA ï¼​ City: ORG
+GPA: ORG
+3.26: CARDINAL
+Participant: PERSON
+the National Student Exchange Program: ORG
+Skills
+Organize: ORG

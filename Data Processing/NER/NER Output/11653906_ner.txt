@@ -1,0 +1,95 @@
+Operations Executive: ORG
+Skill Highlights
+
+: PERSON
+Multi-million dollar: MONEY
+P&L Management
+Operations Management
+
+Budgeting: ORG
+Professional Services Management
+Total: ORG
+Name City: GPE
+State: ORG
+Business Operations - Healthcare 09/2011: ORG
+Nuance Healthcare: ORG
+1B: MONEY
+Nuance: GPE
+Oversee: ORG
+Healthcare: ORG
+5%: PERCENT
+quarterly: DATE
+Continuous: PERSON
+Lines of Business: ORG
+quarterly: DATE
+multi-year: DATE
+p&l: LAW
+Chairmans: NORP
+2012 & 2014: DATE
+Name City: GPE
+State: ORG
+Professional Services 06/2006: ORG
+eight: CARDINAL
+two hundred plus: CARDINAL
+Global
+Services: ORG
+Pune: GPE
+one hundred and fifty plus: CARDINAL
+Meaningful Use
+
+Engaged: PERSON
+Name City: GPE
+State: ORG
+Professional Services Operations: ORG
+Allscripts: ORG
+750k: PRODUCT
+P&L: ORG
+200: MONEY
+the Professional Services Organization: ORG
+$7M: MONEY
+ten percent: PERCENT
+annual: DATE
+5%: PERCENT
+Oversaw: GPE
+P&L: ORG
+Professional Services: ORG
+Eclipsys: PERSON
+400: MONEY
+CFO: ORG
+three year: DATE
+Name City: GPE
+State: ORG
+General Motors: ORG
+Wyeth: PERSON
+monthly: DATE
+quarterly: DATE
+monthly: DATE
+quarterly: DATE
+six: CARDINAL
+2006: DATE
+General Motors: ORG
+Name City: GPE
+Comverse: LOC
+Americas: LOC
+North & South: ORG
+$250 million: MONEY
+Oversaw day to day: DATE
+$7 million dollar: MONEY
+Latin America: LOC
+10: MONEY
+Latin America: LOC
+Achiever: GPE
+Comverse: ORG
+Comverse Sales All Star: ORG
+2002 - 2004: DATE
+Business Administration University of Massachusetts: ORG
+Lowell -Manning School of Business: ORG
+State: GPE
+USA: GPE
+Lowell , City: GPE
+State: GPE
+USA: GPE
+Salesforce.com: ORG
+Oracle, Clarity PPM Tool: ORG
+MicroSoft Office: ORG
+Strategic Management - Harvard Extension: ORG

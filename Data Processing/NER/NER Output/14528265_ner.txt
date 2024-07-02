@@ -1,0 +1,47 @@
+Oversee: ORG
+Coordinate: FAC
+Draft: ORG
+Sketchup Pro: PERSON
+Answer: NORP
+Welder/Fabricator Company Name: ORG
+Fabrication: ORG
+05/2012: CARDINAL
+Strip: LOC
+Strip: LOC
+Address Pro: PERSON
+10/2014: CARDINAL
+Miscellaneous: PERSON
+2014: DATE
+Grandview High School ï¼​ City: ORG
+State: ORG
+May 2015: DATE
+Pickens Technical College: ORG
+FCAW: GPE
+Aluminum GTAW: PERSON
+2014: DATE
+2015: DATE
+SKILLS USA: ORG
+Semi-Automatic Welding Certificate: ORG
+Semi-Automatic Welding Certificate
+Interests
+Mechanical Engineering and Design: ORG
+Skills: ORG
+Basic, Blueprint: ORG
+Layout: GPE
+Multi: GPE
+Safety, Shipping: ORG
+Welder, Welding
+Additional Information
+
+Achievements *: ORG
+3rd: ORDINAL
+2014: DATE
+2015: DATE
+SKILLS USA State Welding Competition *: ORG
+3.6: CARDINAL
+GPA: ORG
+Grandview High School: ORG
+AP: ORG
+Classes Volunteer: PRODUCT
+Food Bank of the Rockies Interests / Activities *Mechanical Engineering and Design: ORG
+Printing: ORG

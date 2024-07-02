@@ -1,0 +1,87 @@
+SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST
+Summary: ORG
+Logistics: ORG
+Aviation Maintenance Management: ORG
+Analytical: PRODUCT
+Budget: ORG
+Decisive
+Results: PERSON
+Flexible
+
+Accomplishments
+
+Leadership
+
+Supervised 10 Marines and 20 civilians: WORK_OF_ART
+the Department of Defense: ORG
+NATO: ORG
+2,920: CARDINAL
+Ground Support
+Equipment: PERSON
+Aviation Weapon Support Equipment ( AWSE: ORG
+Research
+
+Conducted: ORG
+21: CARDINAL
+$12,000.00 dollars: MONEY
+Financial Management: ORG
+a fiscal year: DATE
+$ 228,170.00 dollars: MONEY
+Maintained: GPE
+100%: PERCENT
+over $16 million dollars: MONEY
+Steered: ORG
+daily: DATE
+$ 16 million: MONEY
+October 2009: DATE
+Name City: GPE
+State Supervisory Logistics Management Specialist: ORG
+30: CARDINAL
+all Environmental Health & Safety: ORG
+August 2005: DATE
+August 2008: DATE
+Name City: GPE
+COMNAVAIRFORINST 4790.2: ORG
+Maintenance Instruction Manuals: ORG
+the QUlaity Assurance Department: ORG
+November 2002: DATE
+July 2005: DATE
+Name City: GPE
+14: CARDINAL
+â€¢ Monitored: PRODUCT
+â€¢ Calculated: PRODUCT
+January 1997: DATE
+July 2002: DATE
+Name City: GPE
+State Aviation Maintenance Management Instructor
+
+Aviation Maintenance Administration Management Training Instructor
+-Course Coordinator: ORG
+NALCOMIS IMA Power Plants Documentation Procedures: ORG
+NALCOMIS IMA Work Center Management
+Documentation Procedures: ORG
+Navy: ORG
+2013: DATE
+University of Phoenix MBA : Business: ORG
+3.72: CARDINAL
+GPA: ORG
+Delta Mu Delta International Honor Society in Business
+
+Coursework in Business and Management
+
+Coursework in Business, Management and Communications: ORG
+Managerial Statistics and Management Communication: ORG
+Quality Management: ORG
+Advanced: PERSON
+Business Administration: ORG
+2011: DATE
+University of Phoenix Bachelor of Science : Business
+
+: ORG
+3.4: CARDINAL
+GPA: ORG
+Coursework in Business Communications and Management Information Systems
+
+Operations and Quality Management: ORG
+Managerial Statistics and Management Communication: ORG
+Proven influencer & negotiator: ORG

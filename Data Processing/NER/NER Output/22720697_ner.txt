@@ -1,0 +1,97 @@
+Financial Specialist: ORG
+20+ years: DATE
+Quickbooks and Excel: ORG
+Creative Solutions Accounting: ORG
+Microsoft Outlook: ORG
+Microsoft: ORG
+Excel: PRODUCT
+DacEasy Accounting Software: ORG
+Paragon: PERSON
+Evolv CS Electronic Record Keeping System: ORG
+Reliable: WORK_OF_ART
+SPECIALIST: ORG
+11/2010: CARDINAL
+INITIALLY: GPE
+SPECIALIST: ORG
+PROMOTED: PERSON
+NOVEMBER  2012: DATE
+ESSENTIAL: GPE
+FUNCTIONS: ORG
+INCLUDE: ORG
+TIMELY: ORG
+FUNCTIONS: PERSON
+CONJUNCTION: GPE
+POST: ORG
+MONTHLY: DATE
+JOURNAL: ORG
+ENTRIES: ORG
+GL: ORG
+QUARTERLY STATE: ORG
+ASSURE: PERSON
+INVENTORY: NORP
+CONTROL: ORG
+AGENCY: ORG
+MONTHLY: DATE
+PREPARE: ORG
+SPREADSHEETS: NORP
+BACKUP: ORG
+SPECIALIST: ORG
+PRIMARY: ORG
+10/2008: DATE
+Name City: GPE
+CHARGE: ORG
+I.E.: ORG
+DEPOSITS: GPE
+ETC: ORG
+BOOKKEEPER: ORG
+10/2008: CARDINAL
+Name City: GPE
+I.E. ACCOUNTS PAYABLE: ORG
+IRS: ORG
+PHONES: ORG
+ETC: ORG
+AGENT: GPE
+State: ORG
+a Listing/Title Commitment: ORG
+HUD1: ORG
+Name City: GPE
+LLC: ORG
+IRS: ORG
+RESPA: ORG
+MLS: ORG
+East Slope Properties: ORG
+Renew: PERSON
+1990: DATE
+BARNES BUSINESS COLLEGE City: ORG
+State: GPE
+US: GPE
+BARNES BUSINESS COLLEGE YEARS ATTENDED: ORG
+1988-1990: DATE
+Accounting Denver: PERSON
+Colorado: GPE
+1987: DATE
+PARKS JUNIOR COLLEGE City: ORG
+State: GPE
+US: GPE
+1985-
+
+1987: DATE
+Denver: GPE
+Colorado: GPE
+1985: DATE
+BUFFALO HIGH SCHOOL City: ORG
+State: GPE
+US: GPE
+1981-1985: DATE
+High School Diploma Buffalo: ORG
+Wyoming: GPE
+Skills
+
+Preparation: ORG
+monthly: DATE
+Financial Statement Preparation: ORG
+Accounts Receivable: ORG
+Payroll: ORG
+Trial Balance Account Reconciliations: ORG
+Data Entry: ORG
+Escrow: PERSON

@@ -1,0 +1,64 @@
+Six: CARDINAL
+Food Service: ORG
+100%: PERCENT
+Drives: ORG
+Ensures: LOC
+Ability: ORG
+Financial: ORG
+FEMA: ORG
+Contractor 11/2014: PERSON
+Current Company Name City: ORG
+the ACE Field Software: ORG
+Inspection Services: ORG
+the ACE Field
+Software: FAC
+Inspection Services: ORG
+Reviews: ORG
+Name City: GPE
+OSHA: ORG
+Function: ORG
+Manage Payroll: PRODUCT
+Reviews: PERSON
+Corrective: NORP
+Specialty Service: ORG
+Name City: GPE
+Product Development, Hotel and Air Operations: ORG
+Communicate: GPE
+Revenue Management: ORG
+Reservations: ORG
+Travel Agents: ORG
+Owner/: ORG
+10/2013: CARDINAL
+Name City: GPE
+daily: DATE
+Name City: GPE
+annual: DATE
+32: CARDINAL
+monthly: DATE
+weekly: DATE
+Call Center Team: ORG
+08/2003 to 12/2006 Company Name City: ORG
+15: CARDINAL
+Monitored: ORG
+Customer Service Rep 03/2002: ORG
+Name City: GPE
+State: ORG
+Hollywood: GPE
+01/2000: CARDINAL
+Skills: ORG
+BUSINESS MANAGEMENT: ORG
+Call Center: ORG
+Competitive: ORG
+Customer Satisfaction: ORG
+Delivery, Documentation, Electronic: ORG
+Financial, Food: ORG
+ISIS: ORG
+Excel: PRODUCT
+Microsoft Outlook: ORG
+Microsoft: ORG
+Payroll: ORG
+Quality: ORG
+Recruitment, Safety: ORG
+Six: CARDINAL
+Six: CARDINAL
+Strategic Planning: ORG

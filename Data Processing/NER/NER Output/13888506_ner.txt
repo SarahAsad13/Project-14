@@ -1,0 +1,67 @@
+BUSINESS DEVELOPMENT: ORG
+Entrepreneur: PERSON
+the Prince George's Chamber of Commerce: ORG
+Name City: GPE
+State Business Development: ORG
+annual: DATE
+15%: PERCENT
+each quarter: DATE
+C-Suite Executives: ORG
+Federal and State Procurement Directors: ORG
+Developed Â: PRODUCT
+Name City: GPE
+State Client Services: ORG
+BMW: ORG
+Finance: ORG
+Relentless: ORG
+CRM: PRODUCT
+Name City: GPE
+State: ORG
+Franchise Operator: PERSON
+ten year: DATE
+Training
+Bachelor of Arts :: PERSON
+Business Management University District of Columbia - School of Business and Public Administration: ORG
+City: GPE
+State: GPE
+USA: GPE
+Information Management: ORG
+May 2020: DATE
+Department of Economics: ORG
+State: GPE
+United States: GPE
+Principals of Leadership, Organization: ORG
+The Heart Church Ministries: ORG
+State: ORG
+USA Course: ORG
+Skills
+
+Sales Software: ORG
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Word: PERSON
+Quick Books: ORG
+Occupational Safety - OSHAÂ: ORG
+Federal Energy Management Professional: ORG
+Web - Design HTTMLÂ 
+
+Activities and Honors: ORG
+2010 - 2015: DATE
+Prince George's: ORG
+Chamber of Commerce: ORG
+2012 - 2015 - Chair - Green Technology: DATE
+Sustainability: ORG
+2012: DATE
+Chamber - Green Business: ORG
+2015 - 2017: DATE
+2014 - 2016: DATE
+Donna Edwards - Business: PERSON
+2014-2016: DATE
+Suppliers Development Board: ORG

@@ -1,0 +1,77 @@
+13 years: DATE
+Human Resources: ORG
+27 years: DATE
+Skills
+Proficient: ORG
+Microsoft: ORG
+HRIS: ORG
+Banner: ORG
+PeopleAdmin: ORG
+Personnel Management Information: ORG
+VRS Navigator: ORG
+VNAV: ORG
+December 2016: DATE
+Name City: GPE
+Assist Retirement/Benefits: ORG
+the Highlander Wellness Watch: ORG
+Develop: ORG
+Content: ORG
+Workers Compensation: ORG
+Coordinate: FAC
+WC: ORG
+OSHA: ORG
+OSHA 301: LAW
+300A: CARDINAL
+Process: ORG
+Calculate: ORG
+Banner: PERSON
+HRIS: ORG
+FLSA: ORG
+November 2008: DATE
+November 2016: DATE
+Name City: GPE
+State: ORG
+Develop: ORG
+Workers Compensation: ORG
+Coordinate: FAC
+WC: ORG
+OSHA: ORG
+OSHA 301: LAW
+300A: CARDINAL
+Process: ORG
+Calculate: ORG
+Banner: PERSON
+HRIS: ORG
+FLSA: ORG
+CommonHealth: ORG
+June 2004: DATE
+November 2008: DATE
+Name City: GPE
+State Personnel Transaction Specialist/Human Resource: ORG
+Banner: ORG
+Process: ORG
+Coordinate: FAC
+August 2002: DATE
+June 2004: DATE
+Name City: GPE
+State Communications Operator
+
+: ORG
+Assist: NORP
+seven: CARDINAL
+Update: ORG
+Training
+Bluefield College City: ORG
+New River Community College Associate: ORG
+Society for Human Resources Management: ORG
+Universities Professional Association for Human Resources: ORG
+CUPA-HR: ORG
+Skills
+Benefits: ORG
+Content: ORG
+HRIS: ORG
+Microsoft: ORG
+Navigator: ORG
+Page: PERSON
+Assist: NORP
+Personnel Management: ORG

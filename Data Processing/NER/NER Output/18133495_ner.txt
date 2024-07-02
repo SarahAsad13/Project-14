@@ -1,0 +1,160 @@
+DIRECTOR: ORG
+IT Management: ORG
+Project Management: ORG
+Windows: NORP
+Server: NORP
+MS Office: ORG
+MS SQL Server: ORG
+2000-2008: DATE
+UNIX: ORG
+Linux: PERSON
+Adobe Photoshop: PERSON
+Dreamweaver: ORG
+Flash: PERSON
+PowerPoint: ORG
+Photo Finish: PERSON
+PageMaker: ORG
+WordPerfect: ORG
+IMAP4: ORG
+ClientWare: ORG
+EMR: PERSON
+Non-CPSI - McKesson PACS: ORG
+E-Film: ORG
+Sectra: ORG
+GE Centricity - Current GE,: ORG
+Philips: ORG
+Toshiba: ORG
+Siemens: ORG
+Konica: GPE
+Kodak: ORG
+Fuji: LOC
+US: GPE
+CT: ORG
+CR: ORG
+MR: ORG
+AS400: PRODUCT
+HMS: ORG
+MModal DocQRoute: ORG
+Kronos: ORG
+6: CARDINAL
+Community Health Systems: ORG
+Nursing, Financial, Administration: ORG
+Physicians: NORP
+6: CARDINAL
+two years: DATE
+first: ORDINAL
+three: CARDINAL
+Electronic Medical Record: ORG
+over 800: CARDINAL
+CHS: ORG
+250: CARDINAL
+Information Systems PACS Administrator/IS Systems Analyst: ORG
+State Company Name /: ORG
+2012: DATE
+2014: DATE
+6: CARDINAL
+Community Health Systems: ORG
+Nursing, Financial, Administration: ORG
+Physicians: NORP
+CHS: ORG
+6: CARDINAL
+two years: DATE
+first: ORDINAL
+three: CARDINAL
+Electronic Medical Record: ORG
+over 800: CARDINAL
+CHS: ORG
+250: CARDINAL
+third: ORDINAL
+South Baldwin Regional Medical Center: LOC
+first: ORDINAL
+PACS Administrator: ORG
+PACS: ORG
+PACS: ORG
+24/7: CARDINAL
+State Company Name: ORG
+CPSI: ORG
+the ITS Special Projects: ORG
+only 3 months: DATE
+three week: DATE
+ImageLink: ORG
+DICOM: GPE
+CPSI: ORG
+Radiologist: ORG
+Success: ORG
+McKesson: PERSON
+GE Centricity: GPE
+E-Film: ORG
+Spectra PACS: NORP
+ImageLink: ORG
+PACS: ORG
+Mobile: GPE
+September 2006: DATE
+ImageLink: ORG
+27: CARDINAL
+CPSI: ORG
+950: CARDINAL
+101: CARDINAL
+ImageLink: ORG
+58: DATE
+IT Services/Public Relations Project: ORG
+State Company Name: ORG
+Apr 2006: ORG
+Tucson: GPE
+Arizona Department: ORG
+Transportation: ORG
+Pima County: GPE
+Nevada Department of Transportation: ORG
+the Federal Highway Administration: ORG
+ICS: ORG
+Technician 
+City: GPE
+State Company Name: ORG
+May 2002: DATE
+2003: DATE
+60%: PERCENT
+first: ORDINAL
+one: CARDINAL
+first: ORDINAL
+the ICS Department: ORG
+the ICS Department: ORG
+100,000: MONEY
+the ICS
+Department: ORG
+this year: DATE
+first: ORDINAL
+ICS: ORG
+Island High School: ORG
+PACS: ORG
+RADIOLOGY: ORG
+DICOM: GPE
+INTEGRATOR: ORG
+NETWORKING: ORG
+SECURITY: ORG
+DIRECT MAIL: ORG
+DOCUMENTATION: ORG
+BACKBONE: ORG
+DATA CENTER: ORG
+COST: ORG
+CONTROL: ORG
+PROJECT MANAGEMENT: ORG
+AS400: PRODUCT
+DREAMWEAVER: ORG
+KRONOS: ORG
+LINUX: ORG
+MS OFFICE: ORG
+MS: ORG
+SQL SERVER: ORG
+MS SQL SERVER 2000: ORG
+PAGEMAKER: ORG
+POWERPOINT: ORG
+PROBLEM: ORG
+SIEMENS: ORG
+SQL: ORG
+SQL SERVER: ORG
+SQL SERVER 2000: ORG
+TECHNOLOGY MANAGEMENT: ORG
+UNIX: ORG
+WORDPERFECT
+
+: PERSON

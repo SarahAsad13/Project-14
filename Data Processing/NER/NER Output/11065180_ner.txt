@@ -1,0 +1,65 @@
+OPERATIONS: ORG
+Highlights
+
+KYC: GPE
+Anti Money Laundering: WORK_OF_ART
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+SEC: ORG
+6 and 63: DATE
+Adobe: PERSON
+Lightroom: ORG
+Spanish: NORP
+four: CARDINAL
+day: DATE
+Directed: ORG
+daily: DATE
+Performed Quality Assurance: ORG
+Collaborated: ORG
+Coordinated with Front Office: ORG
+Credit, Compliance: ORG
+AML: ORG
+three months: DATE
+20%: PERCENT
+99%: PERCENT
+eight: CARDINAL
+Commercial Real Estate: ORG
+Mortgage Servicers: ORG
+Regulated Cash: FAC
+300: CARDINAL
+80 billion: MONEY
+decision-: ORG
+monthly: DATE
+02/2002: DATE
+seven: CARDINAL
+AML/KYC: ORG
+KYC: ORG
+Bankers: ORG
+MIS: ORG
+Gregorio Luna: PERSON
+2: CARDINAL
+2003: DATE
+Bachelor of Professional Studies : Computer Information Systems: ORG
+DeVry Institute of Technology: ORG
+State Computer Information Systems: ORG
+1989: DATE
+Associate : Applied Science - Business Management: WORK_OF_ART
+Kingsborough Community College: ORG
+Business Management: ORG
+Skills: ORG
+Photoshop: PERSON
+Credit: ORG
+Front Office: ORG
+Excel: PRODUCT
+Money,: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+MIS: ORG
+2: CARDINAL
+Quality Assurance: ORG
+Spanish: NORP

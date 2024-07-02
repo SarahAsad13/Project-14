@@ -1,0 +1,213 @@
+HEALTHCARE: ORG
+2: CARDINAL
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Smarttech SMART Board: ORG
+Instructor/Writer - Combat Medic Advanced Individual Training: ORG
+1st Detachment: ORG
+108th Training Command - Augusta: ORG
+November 2014 to October 2015: DATE
+Train: GPE
+30,000: CARDINAL
+annually: DATE
+monthly: DATE
+monthly: DATE
+NREMT: PERSON
+EMT: ORG
+Evaluate NREMT: ORG
+EMT: ORG
+Teach CPR/BLS: ORG
+a Healthcare Specialist: ORG
+the US Army: ORG
+Instructor/Writer - Infantry Battlefield: ORG
+2nd Infantry Battallion: ORG
+Infantry Regiment - Fort Benning: ORG
+November 2012: DATE
+November 2014: DATE
+First Aid: ORG
+Infantryman: NORP
+Emergency Care Sergeant: ORG
+Echo Company: ORG
+2nd Infantry Battallion: ORG
+Infantry Regiment - Fort Benning: ORG
+April 2011: DATE
+November 2012: DATE
+Pre-Hospital: ORG
+Geriatric Population: ORG
+VA Home/Clinic: ORG
+Phlebotomy/Lab: ORG
+Immunization Clinic: ORG
+PACU: ORG
+ICU: ORG
+Pediatric Emergency Department, Telemetry: ORG
+2: CARDINAL
+10: CARDINAL
+5: CARDINAL
+over $100,000.00: MONEY
+HAZMAT: ORG
+Information Technology: ORG
+Emergency Care Specialist
+Headquarters and Headquarters Company/Bravo Company: ORG
+1: CARDINAL
+3rd Brigade: ORG
+Division - Fort Bliss: ORG
+TX - June 2009 to June 2011
+Responsibilities
+Clinical: ORG
+Live Fire: LOC
+SOP: ORG
+Microsoft Office: ORG
+2013: DATE
+Excel: PRODUCT
+Powerpoint: PRODUCT
+Adobe Acrobat Professional: PERSON
+Adobe Photoshop: PERSON
+Solidworks, Emergency Management Systems: ORG
+Network Administration: ORG
+DSLR Photography: ORG
+Supply Chain
+Management: ORG
+10+ years: DATE
+Core Accomplishments
+
+Designed: WORK_OF_ART
+600: CARDINAL
+SOP: ORG
+3000: CARDINAL
+Coordinated: ORG
+first: ORDINAL
+Skills Used Aluminum: WORK_OF_ART
+Emergency Care Specialist Charlie Company: ORG
+302nd Brigade Support Battalion: ORG
+1st Heavy Brigade Combat Team - Camp Casey: ORG
+South
+Korea - June: GPE
+2009: DATE
+Republic of Korea Army: ORG
+ROKA: ORG
+U.S.: GPE
+ROKA Combat Engineers: ORG
+Medical Communications for Combat Casualty Care: ORG
+170: CARDINAL
+Countless: ORG
+1: CARDINAL
+Noncombatant Evacuation
+Operations: ORG
+27: CARDINAL
+US: GPE
+South Korea: GPE
+Japan: GPE
+Operation
+Courageous Channel: ORG
+Emergency Care Specialist Training Support Company: ORG
+32nd Medical Brigade - Fort Sam Houston: ORG
+TX: ORG
+May 2005 to June 2007: DATE
+Responsibilities Coached: ORG
+50,000: CARDINAL
+annually: DATE
+27,990 acres: QUANTITY
+Awarded: WORK_OF_ART
+DoD: GPE
+2006: DATE
+Intensive Care Unit: ORG
+San Antonio: GPE
+TX: ORG
+Hurricane Katrina: EVENT
+2007: DATE
+Healthcare: ORG
+10/2016: CARDINAL
+Name City: GPE
+EEG: ORG
+Brainmaster Discovery 24E: PERSON
+Pocket Neurobics U-Wiz: ORG
+Bioera PNwiz: PERSON
+Coach: ORG
+Healthcare: ORG
+05/2016: NORP
+Name City: GPE
+3: CARDINAL
+up to 6: CARDINAL
+2 hour: TIME
+6: CARDINAL
+China: GPE
+1: CARDINAL
+only 2: CARDINAL
+Medical Investment Management: ORG
+Healthcare: ORG
+60,000: CARDINAL
+over $300,000: MONEY
+daily: DATE
+$25 million: MONEY
+USD: PRODUCT
+4 months: DATE
+5 million: CARDINAL
+2 weeks: DATE
+four: CARDINAL
+the Science Advisor: ORG
+5: CARDINAL
+Chinese: NORP
+MAI: ORG
+English: LANGUAGE
+10/2015: CARDINAL
+Best Learning English: LOC
+age 2+: DATE
+English: LANGUAGE
+US: GPE
+Pre-K1: PERSON
+McGraw Hill: ORG
+Pre-K1: PERSON
+McGraw Hill: ORG
+Improve: ORG
+English: LANGUAGE
+Voluntary: ORG
+American: NORP
+2004: DATE
+Previous quarter year: DATE
+$25 million: MONEY
+over $5 million: MONEY
+monthly: DATE
+Advanced: PERSON
+Skills: ORG
+Acute Care: ORG
+Adobe Acrobat: PERSON
+Adobe Photoshop: PERSON
+Alpha: GPE
+Army: ORG
+Behavioral Health: ORG
+Chinese: NORP
+Coach: ORG
+CPR: ORG
+Document Management: ORG
+Emergency Care: PERSON
+English: LANGUAGE
+First Aid: ORG
+Immunization, Information Technology, Inspection, Instructor, Instruction, Investment Management: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Powerpoint: PRODUCT
+Word: PERSON
+Monitors, Network Administration: ORG
+PACU: ORG
+Public Relations: ORG
+Solidworks: ORG
+SOP: ORG
+Supply Chain Management: ORG
+Troubleshoot, Writer
+Additional Information
+
+Active DoD: ORG
+Highly: PERSON
+Previous quarter year: DATE
+25: MONEY
+monthly: DATE
+Advanced: PERSON
+Anywhere Authorized: ORG
+US: GPE
+United States Branch: ORG
+Sergeant 2004 to October 2015: DATE
+Good Conduct: PERSON
+Volunteer Medal: PERSON
+Army Service Ribbon, Overseas Service Ribbon: ORG
+Korean Defense
+Service Ribbon: ORG

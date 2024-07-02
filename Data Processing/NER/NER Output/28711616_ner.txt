@@ -1,0 +1,79 @@
+a Master of Arts in Arts Management: WORK_OF_ART
+Highlights: GPE
+WordPress: ORG
+Photoshop
+PR: PRODUCT
+Microsoft Office: ORG
+Banner: ORG
+Patriot Web: PERSON
+25Live: DATE
+Administrative Coordinator 08/2013: ORG
+State: ORG
+Acuity Scheduling: ORG
+PR/Marketing: ORG
+CVPA Academic Affairs: ORG
+Admissions Offices: ORG
+School of Art Portfolio Review Day: ORG
+House: ORG
+Schedules: ORG
+School of Art Advisory Council: ORG
+Admissions and School of Art: ORG
+Administers: PRODUCT
+Coordinate: ORG
+all School of Arts: ORG
+Departmental: ORG
+SoA: ORG
+Admissions: ORG
+Production Coordinator 06/2011: ORG
+Name City: GPE
+State: ORG
+Center for the Arts: ORG
+Provide: NORP
+R-25: PRODUCT
+labor hours: TIME
+Coordinate: FAC
+Assist: NORP
+GMU: ORG
+PR & Marketing: ORG
+09/2010: DATE
+State: ORG
+Artistic: NORP
+summer: DATE
+Developed: ORG
+Artistic: NORP
+summer: DATE
+Fundraising & Development Intern 03/2009: ORG
+Name City: GPE
+State: ORG
+Friends of the Hylton: ORG
+annual: DATE
+Shooting for the Stars: WORK_OF_ART
+Friends of the Hylton Center: ORG
+Prepare: ORG
+Attend Friends of Hylton Center: WORK_OF_ART
+Assemble: PRODUCT
+Master of Arts : Arts Management: WORK_OF_ART
+2009: DATE
+George Mason University: ORG
+College of Visual: ORG
+State: GPE
+US: GPE
+George Mason University: ORG
+College of Visual: ORG
+VA M.A., Arts Management: ORG
+2009: DATE
+Bachelor of Arts : Dance & Recreation: ORG
+New Mexico State University: ORG
+State: GPE
+US: GPE
+New Mexico State University: ORG
+NM B.A.: ORG
+Dance: ORG
+2004: DATE
+WordPress: ORG
+Photoshop
+PR: PRODUCT
+Microsoft Office: ORG
+Banner: ORG
+Patriot Web: PERSON
+25Live: DATE

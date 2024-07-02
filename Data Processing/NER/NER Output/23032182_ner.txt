@@ -1,0 +1,60 @@
+ABIGAIL: PERSON
+over 20: CARDINAL
+Â Team: ORG
+over 20: CARDINAL
+4 years: DATE
+more than 10: CARDINAL
+4 years: DATE
+more than 10: CARDINAL
+Resolution: ORG
+Reliable: WORK_OF_ART
+Strong: PERSON
+Quick: ORG
+Client: GPE
+Team: ORG
+Quick: ORG
+Client: GPE
+12/2016: CARDINAL
+each week: DATE
+12/2016: CARDINAL
+Prepared: PERSON
+each week: DATE
+03/2015: WORK_OF_ART
+one: CARDINAL
+one: CARDINAL
+03/2015: WORK_OF_ART
+Swim Lesson: ORG
+age 2: DATE
+08/2016
+Waiter Company Name: PERSON
+first: ORDINAL
+Maintained: GPE
+Shared: ORG
+Organized: ORG
+first: ORDINAL
+Maintained: GPE
+20: CARDINAL
+month: DATE
+Monitored: ORG
+20: CARDINAL
+month: DATE
+Monitored: ORG
+20: CARDINAL
+month: DATE
+Monitored: ORG
+GED: ORG
+San Francisco State - City: GPE
+BUSINESS MARKETING Business, Communications and Organizational Psychology San Francisco State - City: ORG
+State: ORG
+2018: DATE
+American River College - City: ORG
+2017: DATE
+2018: DATE
+2018: DATE
+American River College - City: ORG
+2017: DATE
+2018: DATE
+Outside Activities
+
+Proficient: WORK_OF_ART
+american: NORP

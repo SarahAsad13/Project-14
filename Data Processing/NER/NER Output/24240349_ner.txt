@@ -1,0 +1,70 @@
+16+ years: DATE
+Microsoft Office: ORG
+Accurate Transcription Abilities
+Public Speaking and Leadership Skills: ORG
+Requires: PERSON
+Team: ORG
+Social Media Sites: ORG
+12/2016: CARDINAL
+Substitute Teacher Company Name: PERSON
+State Travel: ORG
+Middle Schools: PERSON
+02/2015: ORG
+Media Specialist / Quality Assurance Specialist Company Name: ORG
+State Researched: ORG
+Quality Assurance Specialist: ORG
+Administrative Coordinator Company Name: ORG
+Executive: ORG
+Business Development and Marketing: ORG
+10: CARDINAL
+Microsoft: ORG
+annual: DATE
+B.A.S.S.: GPE
+Bass Angler's: PERSON
+Sportsman's Society: WORK_OF_ART
+Bassmaster: GPE
+Tackle Retailer: PERSON
+Bass Times: ORG
+Junior Bassmaster: PERSON
+Bass ProGuide: PERSON
+3: CARDINAL
+ICANN Complaints: ORG
+Assisted: ORG
+Powerpoint: ORG
+Paralegal/Legal: ORG
+Ripley: GPE
+over 300: CARDINAL
+180: CARDINAL
+Ripley: GPE
+Ripley: GPE
+28: CARDINAL
+Ripley: GPE
+U.S: GPE
+Ripley: GPE
+Museums: PERSON
+Mini-Golf Courses: ORG
+1990: DATE
+State Lawyer's: ORG
+the National Center for Paralegal Training: ORG
+Atlanta: GPE
+Paralegal: PERSON
+1982: DATE
+William R. Boone High School: PERSON
+Skills
+Administrative: ORG
+Microsoft Office: ORG
+Ads: PERSON
+Maintaining Department Budget
+Business Development
+Conference and Meeting Scheduling
+Drafting Contracits
+: ORG
+Powerpoint Presentations
+: PRODUCT
+Online Research
+Preparing Proposals
+File Maintenance
+Record Keeing
+Public Relations
+Scheduling Travel: ORG
+Excel Spreadsheet Preparation: WORK_OF_ART

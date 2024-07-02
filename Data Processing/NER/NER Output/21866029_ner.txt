@@ -1,0 +1,77 @@
+ANALYTICS - HEALTHCARE: PERSON
+9 years: DATE
+Retail, Analytics: GPE
+Data Visualization: ORG
+Data Analysis: ORG
+Retail Reporting: PERSON
+Retail
+Inventory Management: ORG
+Retail Product Management: ORG
+Highlights
+
+Collaborative: ORG
+Critical: PRODUCT
+Mentor: LOC
+Analyst - Business Intelligence and Analytics - Healthcare 05/2013: ORG
+over 40%: PERCENT
+22%: PERCENT
+Healthcare: ORG
+Interns: ORG
+SAS: ORG
+Cube Studio: PERSON
+SAS: ORG
+Map Studio: PERSON
+SAS: ORG
+Excel: PRODUCT
+SQL: ORG
+Tableau: GPE
+Analyst - Business Intelligence and Analytics - Strategic Pricing 02/2012: ORG
+Name City: GPE
+SAS: ORG
+third: ORDINAL
+Target: ORG
+Prioritized: PERSON
+Name City: GPE
+Partnered: PRODUCT
+Coordinated: ORG
+Oversaw Executive: ORG
+Merchant: ORG
+MicroStrategy: ORG
+GUI: ORG
+SQL: ORG
+Utilized Access/SQL: ORG
+Access: PRODUCT
+Merchant: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Developed: PRODUCT
+VBA: ORG
+Executive: ORG
+Merchant: ORG
+Utilized Excel Macros: PRODUCT
+VBA: ORG
+Allocated: ORG
+11%: PERCENT
+6%: PERCENT
+Efficiently: ORG
+Name City: GPE
+Allocated: ORG
+11%: PERCENT
+6%: PERCENT
+Efficiently: ORG
+Buyer II 06/2006: PERSON
+Buyer: LOC
+$14+ million: MONEY
+Developed: ORG
+season: DATE
+1%: PERCENT
+over $30,000: MONEY
+2007 fiscal year: DATE
+University of Minnesota
+Bachelor of Science : Marketing and Advertising 2006 Carlson School of Management/School of Journalism and Mass Communication: ORG
+University of Minnesota
+: ORG
+Skills
+
+Program: ORG

@@ -1,0 +1,32 @@
+Fashion Business Management: ORG
+Highlights
+Proficient: ORG
+Mac: GPE
+Microsoft Office: ORG
+Albanian: NORP
+05/2012: CARDINAL
+Christopher Bailey's: PERSON
+Burberry: PERSON
+Liaison: PERSON
+monthly: DATE
+Technical Design Intern Company Name: ORG
+daily: DATE
+Ronlynn Apparel Software: PERSON
+RLM: ORG
+Excel: PRODUCT
+season: DATE
+includingÂ: ORG
+Attended Fit Meetings: ORG
+04/2010: CARDINAL
+overnight: TIME
+May 2016: DATE
+Bachelor of Science :: ORG
+State University of New York Fashion Merchandising
+Management
+Skills: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Adobe Creative Suite: PERSON
+Ronlynn Apparel Software: PERSON
+Mac: PERSON
+Pinterest: LOC

@@ -1,0 +1,102 @@
+Inventory: ORG
+Laser: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Point: ORG
+Spreadsheet: PERSON
+Laptop: ORG
+Microsoft: ORG
+Organizing, Planning: ORG
+Prioritizing Work Judging the Qualities of Things, Services: WORK_OF_ART
+People Documenting/Recording Information Developing and Building Teams: WORK_OF_ART
+Adobe Acrobat: PERSON
+Adobe Systems: ORG
+Adobe Acrobat: PERSON
+Adobe Systems: ORG
+Adobe Flash: PERSON
+weekly: DATE
+Fast Food Restaurant: ORG
+March 2013 to May 2016: DATE
+Investigate: PERSON
+Schedule: PERSON
+Keep: ORG
+Review: ORG
+Order: ORG
+Estimate: LOC
+Assess: ORG
+Arrange: NORP
+Making Decisions: ORG
+Working Directly: ORG
+the Public Guiding, Directing: ORG
+Motivating Subordinates Developing: PERSON
+Peers: ORG
+Subordinates Resolving Conflicts: ORG
+April 2010 to July 2012: DATE
+Identify: PERSON
+Develop: ORG
+Draft: ORG
+Evaluate: ORG
+Communicating with Persons Outside Organization Establishing: ORG
+Peers: NORP
+Subordinates Thinking Creatively Organizing, Planning: ORG
+Prioritizing Work Making Decisions and Solving Problems Performing: WORK_OF_ART
+Working Directly: ORG
+the Public Interacting With
+Computers Developing Objectives: ORG
+Strategies: ORG
+Microsoft Office: ORG
+Microsoft PowerPoint: ORG
+Microsoft Project: ORG
+Microsoft: ORG
+May 2001 to June 2010 City: DATE
+State: ORG
+first: ORDINAL
+CPR: ORG
+Model: ORG
+Observe: LOC
+Teach: ORG
+Remove: PERSON
+Regulate: ORG
+Supervise: PERSON
+Keep: ORG
+June 2016: DATE
+State: ORG
+February 2014 City: DATE
+Draw: PERSON
+Collect: ORG
+Getting Information Updating: ORG
+Blood: PRODUCT
+Sputum: PERSON
+Sterile: PERSON
+Associate's Degree : Business Administration and Management: WORK_OF_ART
+November 2011: DATE
+DeVry University: ORG
+State Business Administration: ORG
+Management
+Additional Information
+
+Coaching and: ORG
+Developing Others Coordinating the Work and Activities of Others Updating and Using Relevant Knowledge Staffing
+Organizational Units Scheduling Work and Activities Communicating with Persons Outside Organization Performing Administrative
+Activities Inspecting Equipment, Structures: WORK_OF_ART
+Adobe Acrobat: PERSON
+Adobe: PERSON
+Draw: PERSON
+CPR: ORG
+Email: PERSON
+first: ORDINAL
+Flash: PERSON
+Inventory: ORG
+Laptop: ORG
+Laser: ORG
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft Project: ORG
+Microsoft: ORG
+Microsoft Word: PERSON
+Microsoft Word: PERSON
+Negotiating: GPE
+Spreadsheet: PERSON

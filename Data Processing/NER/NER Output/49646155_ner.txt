@@ -1,0 +1,65 @@
+ENTREPRENEUR: ORG
+17 years': DATE
+Airport Operations: FAC
+139: CARDINAL
+Analytical: PRODUCT
+Mediation
+Project: ORG
+thousands of dollars: MONEY
+0: CARDINAL
+Miami International: FAC
+Miami International Airport: FAC
+11/2011: CARDINAL
+11/2013: CARDINAL
+daily: DATE
+Oversaw: GPE
+monthly: DATE
+Conducted: ORG
+Maintained: GPE
+Enforced: ORG
+more than 30: CARDINAL
+Oversaw: GPE
+Monitored: ORG
+monthly: DATE
+monthly: DATE
+USAID: ORG
+Haiti: GPE
+Conducted: ORG
+Haiti: GPE
+Coordinated: ORG
+daily: DATE
+Prepared: PERSON
+Monitored: ORG
+20%: PERCENT
+24.months: CARDINAL
+annual: DATE
+Oversaw: GPE
+Haiti Towing: ORG
+Recruited: PRODUCT
+30: CARDINAL
+the transportation department: ORG
+Built: ORG
+100,000.00: MONEY
+the first year: DATE
+Mentored: ORG
+5: CARDINAL
+01/2011
+Safety & Training Coordinator Company Name: ORG
+more than 15,000: CARDINAL
+Maintained: GPE
+FAA: ORG
+Caribbean: LOC
+Airside Division: ORG
+FAA Rules and Regulations: ORG
+Assigned: ORG
+Federal Aviation Administration: ORG
+FAA: ORG
+Miami-Dade Aviation: GPE
+the Air Operations Area: LAW
+Education: ORG
+December 2007: DATE
+Bachelor : Public Administration Barry University: ORG
+ï¼​ City: GPE
+State Public Administration: ORG
+June 2004: DATE
+Miami Dade College: ORG

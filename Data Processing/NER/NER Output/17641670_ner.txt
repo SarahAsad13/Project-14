@@ -1,0 +1,215 @@
+Networking and Security: ORG
+Core Qualifications
+Platforms: ORG
+Windows XP: PERSON
+2003: DATE
+Server: PERSON
+2008: DATE
+Dell Servers: ORG
+Sun Servers: ORG
+Printers: PRODUCT
+Symantec, Active Directory: ORG
+VMware vSphere: ORG
+BSM: ORG
+HP Business Service Management: ORG
+Netview: GPE
+HPNA: ORG
+Information Technology Specialist: ORG
+December 2014 to July 2015: DATE
+VPSI: ORG
+12: CARDINAL
+20: CARDINAL
+daily: DATE
+ARC: ORG
+monthly: DATE
+WSUS: ORG
+LAN: ORG
+WAN: ORG
+Corrects: ORG
+Attend: ORG
+Network Management System Engineer: ORG
+May 2008 to December 2014: DATE
+NMS: ORG
+HP Network Automation: ORG
+Upgraded Cisco Secure Access Control Server: ORG
+CSACS: GPE
+1121: DATE
+5.4: CARDINAL
+NMCI: ORG
+USMC: ORG
+NMCI: ORG
+Service Level Agreement: ORG
+Department of Navy: ORG
+DoN: WORK_OF_ART
+Marine Network: ORG
+Designs: NORP
+Test Strategies: ORG
+Requirements Traceability Matrix: ORG
+Incentive Projects: ORG
+the Proving Center Lab: ORG
+NMCI: ORG
+HPES: ORG
+Understand: GPE
+Supports: GPE
+3: CARDINAL
+Certification: PRODUCT
+Engineers: ORG
+Project Managers: ORG
+Installation: PRODUCT
+Juniper Netscreen Firewalls/VPN: ORG
+F5 Load
+Balancers: WORK_OF_ART
+Route-Reflector: FAC
+Riverbed WANX: ORG
+the Symantec Endpoint Protection: ORG
+Netscreen Security: ORG
+Retina: PERSON
+SEPM: ORG
+TALON: ORG
+SecNet: ORG
+Familiar: PERSON
+VoIP: LOC
+Cisco: GPE
+Video Tele-Conferencing: PERSON
+VTC: ORG
+Deployed: PRODUCT
+System Center Configuration: ORG
+GPO: ORG
+Patch: ORG
+Information Technology Deployment: ORG
+Specialist: ORG
+May 2007 to: DATE
+May 2008: DATE
+Configures: PRODUCT
+first: ORDINAL
+LAN: ORG
+Upgrades: GPE
+Install Software: ORG
+Desktops: ORG
+Laptops: PERSON
+Build: GPE
+Keeps: ORG
+Hardware - Knowledgeable: ORG
+CPU: ORG
+USB: ORG
+Software - Troubleshooting: ORG
+Adobe Acrobat: PERSON
+Microsoft Office: ORG
+2000/2003: DATE
+Remote Desktop: ORG
+VNC: ORG
+NetMeeting: ORG
+HTML EDS/ NMCI: ORG
+July 2006 to: DATE
+May 2007: DATE
+Remedy: PRODUCT
+LAN/WAN: ORG
+Printer: ORG
+RAS: ORG
+Blackberry, Citrix: ORG
+MS
+Outlook: PERSON
+TCP/IP: ORG
+Unlock: PERSON
+Reset: PRODUCT
+first: ORDINAL
+second: ORDINAL
+Administration: ORG
+Utilizing: GPE
+Tivoli: GPE
+Navy: ORG
+Windows: NORP
+Utilizing Even Viewer: WORK_OF_ART
+January 1999 to July 2006 Company Name
+
+: DATE
+the Arbin Instrument: ORG
+Sigmar System: ORG
+Excel: PRODUCT
+Prepared: PRODUCT
+Arbin: GPE
+Researched: ORG
+Brocade Brocade Certified Network Engineer: ORG
+4: CARDINAL
+2010: DATE
+2009: DATE
+Juniper: ORG
+Juniper Networks: ORG
+Microsoft Certified System Engineer: ORG
+2003: DATE
+2003: DATE
+University of San Diego: ORG
+CA 92121 Network+: ORG
+A+: NORP
+CCNA 2001: ORG
+San Diego Education: ORG
+Technology Electronics Technology: ORG
+900 hours: TIME
+Lecture and Lab: WORK_OF_ART
+Microsoft Certified Professional: ORG
+MCP: ORG
+Microsoft Certified Systems
+Administrator: ORG
+Microsoft Certified Systems: ORG
+2003: DATE
+Microsoft: ORG
+2002: DATE
+Brocade Certified Network Professional: ORG
+2011: CARDINAL
+Skills: ORG
+Adobe Acrobat: PERSON
+CCNA: PERSON
+Cisco Certified: GPE
+Cisco: GPE
+Citrix: GPE
+CA: ORG
+Hardware: ORG
+CPU: ORG
+Delivery, Dell Servers: ORG
+Desktops: ORG
+Engineer: ORG
+Firewalls, Firewall: ORG
+HTML: ORG
+LAN: ORG
+Laptops: PERSON
+Access: PRODUCT
+Microsoft Certified Professional: ORG
+MCP: ORG
+Microsoft Certified: ORG
+2003: DATE
+Microsoft Certified Systems: ORG
+2003: DATE
+Excel: PRODUCT
+NetMeeting: ORG
+Microsoft Office: ORG
+MS Office: ORG
+Office: ORG
+MS Outlook: GPE
+Windows 7: ORG
+Windows: NORP
+Windows XP: ORG
+Navy: ORG
+Netview: GPE
+Network Engineer: ORG
+Network: PERSON
+Networks: ORG
+NMS: ORG
+Printers: PERSON
+ProLiant: ORG
+Proxy: GPE
+RAS: ORG
+San: GPE
+Service Level Agreement: ORG
+SLA: ORG
+Troubleshooting: GPE
+SSL: ORG
+Sun Servers: ORG
+Symantec: ORG
+TCP/IP: ORG
+Technician: NORP
+Tivoli: GPE
+Troubleshooting: GPE
+Upgrades: GPE
+USB: ORG
+VoIP: LOC
+WAN: ORG

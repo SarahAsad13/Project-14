@@ -1,0 +1,33 @@
+Graphic Designer: PERSON
+more than 14 years: DATE
+Strong: PERSON
+Time: ORG
+Social Media Marketing
+
+Experience
+01/2014: ORG
+09/2015: CARDINAL
+Print Press: ORG
+01/2011: CARDINAL
+Owner - Graphic Artist Company Name - City: ORG
+Create 2D: ORG
+Develop: ORG
+Organize: GPE
+Coordinate: FAC
+United States: GPE
+01/2011: CARDINAL
+Federated: ORG
+2001: DATE
+State: ORG
+Adobe Acrobat: PERSON
+Adobe Illustrator
+Adobe Photoshop
+Adobe InDesign
+Corel Applications
+Publisher
+Word
+Excel: WORK_OF_ART
+PowerPoint: ORG
+Flash
+
+: PERSON

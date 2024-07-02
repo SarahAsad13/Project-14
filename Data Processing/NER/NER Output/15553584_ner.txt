@@ -1,0 +1,72 @@
+Skills
+
+Managerial Accounting, Legal Environment of Business, Financial Management: ORG
+Operations Management: ORG
+Managerial Economics: ORG
+Financial Statement Analysis: ORG
+Professional Paper: ORG
+Managerial Accounting: ORG
+Financial Management: ORG
+Operations Management, Business Information Systems: ORG
+Managerial Economics: ORG
+Management Processes: ORG
+Financial Statement Analysis: ORG
+Professional Paper: ORG
+Microsoft: ORG
+Microsoft: ORG
+ExcelMicrosoft: ORG
+PowerPointMicrosoft: ORG
+ProjectMicrosoft: ORG
+AccessMicrosoft: ORG
+Outlook Express: ORG
+New Mexico State University: ORG
+NM: ORG
+Kevin Boberg: PERSON
+Associate Dean: PERSON
+01/2003: CARDINAL
+Industrial and Commercial Bank of Vietnam: ORG
+English: LANGUAGE
+Vietnamese: NORP
+Russian: NORP
+Returnee: PERSON
+Vietnam: GPE
+the German Reconstruction Bank: ORG
+02/1999: ORG
+02/2001: LAW
+02/1999: CARDINAL
+the Ministry of Trade: ORG
+Vietnam: GPE
+the National Students' Scientific
+Research Competition: ORG
+the Ministry of Education: ORG
+Training: PERSON
+Innovative Medal for the Youth: WORK_OF_ART
+2 Page of: DATE
+2: CARDINAL
+Training: PERSON
+2005: DATE
+Business Administration New Mexico State University: ORG
+May 20, 2005: DATE
+NM: ORG
+4.00: CARDINAL
+2002: DATE
+Bachelor of Economics Foreign Trade University: ORG
+2004-2005: DATE
+Glen Yoquelet Scholarship: PERSON
+College of Business
+Administration and Economics: ORG
+New Mexico State University: ORG
+NM: ORG
+Graduate Assistantship, College of Business Administration and Economics: ORG
+New Mexico State University: ORG
+NM: ORG
+the Ministry of Trade: ORG
+Vietnam: GPE
+the National Students' Scientific
+Research Competition: ORG
+the Ministry of Education: ORG
+Training: PERSON
+Youth: ORG
+Additional Information
+
+Awards: ORG

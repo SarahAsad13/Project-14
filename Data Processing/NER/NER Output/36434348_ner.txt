@@ -1,0 +1,82 @@
+Adobe Acrobat: PERSON
+Adobe Dreamweaver
+Software Development Life Cycle Windows Server: PERSON
+2008: DATE
+Windows Server: PERSON
+2012: DATE
+Project Management Active Directory
+System: ORG
+SQL
+Help: PERSON
+Microsoft Office: ORG
+Database Design SAP Business Objects/Web Intelligence: ORG
+Microsoft SharePoint: ORG
+C++: GPE
+HTML: ORG
+Microsoft: ORG
+Microsoft: ORG
+SQL Server: PERSON
+Oracle: NORP
+PL/SQL: ORG
+SQL: ORG
+Information Technology: ORG
+April 2005: DATE
+Current Company Name - City: ORG
+over 150: CARDINAL
+Overseen: PERSON
+Windows: NORP
+Faculty: PRODUCT
+June 2003 to April 2005: DATE
+Generate SQL: PERSON
+PL/SQL: ORG
+Crystal Reports: LOC
+Maintain: PRODUCT
+every-day: DATE
+SQL: ORG
+80+ Housing Specialists: DATE
+January 2002: DATE
+May 2003: DATE
+Co-Founder: ORG
+December 2001: DATE
+Current Company Name - City: ORG
+Applications Developer: PERSON
+October 2000 to July 2001: DATE
+Programmer Analyst: ORG
+June 1995 to September 2000: DATE
+Created Oracle: ORG
+PL/SQL: ORG
+SQL: ORG
+Master of Science : Management Information Systems: WORK_OF_ART
+May 2003: DATE
+University of Illinois - City: ORG
+State Management Information Systems: ORG
+Decision Sciences: ORG
+May 1995: DATE
+University of Illinois - City: ORG
+State Information: ORG
+Decision Sciences: ORG
+Adobe Acrobat: PERSON
+Adobe Dreamweaver: PERSON
+Adobe Photoshop: PERSON
+Business Objects: ORG
+C++: GPE
+Strong: PERSON
+Crystal Reports 9: LOC
+Database Design: ORG
+Microsoft Access: ORG
+Microsoft Office: ORG
+Microsoft SharePoint: ORG
+Windows: ORG
+Oracle: NORP
+PL/SQL: ORG
+Project Management: ORG
+SAP: GPE
+SDLC: GPE
+Software Development: ORG
+Microsoft: ORG
+SQL Server: PERSON
+SQL: ORG
+Visual Basic: PERSON
+Windows Server: PERSON
+Affiliations: ORG
+10 years: DATE

@@ -1,0 +1,147 @@
+25 years: DATE
+C-Suite: ORG
+Consistent Achievers: PERSON
+25: CARDINAL
+25 years: DATE
+2003-2004: DATE
+the Tactical Action Unit: ORG
+2005: DATE
+the Region of the Year: ORG
+4: CARDINAL
+Award Winner: PERSON
+2012-: PRODUCT
+Finished: PRODUCT
+3: CARDINAL
+January 2011 to April 2015: DATE
+40: CARDINAL
+Developed Physician: PERSON
+KOL: ORG
+Pediatric Urologists: ORG
+Assigned: ORG
+northeast: LOC
+C-Suite: ORG
+January 2005 to January 2011: DATE
+Zyvox: GPE
+Vfend: PERSON
+Tygacil: ORG
+Relistor: ORG
+Hartford Hospital: ORG
+St. Francis: GPE
+Connecticut: GPE
+Mid State: GPE
+Manchester
+Responsible: ORG
+Pfizer Groton: ORG
+Specialty Care BU
+Hand: ORG
+Specialty Care BU: ORG
+Groton/Hartford Hospital C-Suite: ORG
+Demonstrate: ORG
+Developed: ORG
+Developed: PRODUCT
+Conducted: ORG
+Maximized Pfizer: ORG
+KOL: ORG
+Pfizer: ORG
+Regulatory Affairs: ORG
+Major Awards: ORG
+14: CARDINAL
+14 years: DATE
+2003-2004: DATE
+the Tactical Action Unit: ORG
+the Year Award: EVENT
+2004: DATE
+1: MONEY
+Viagra: PRODUCT
+2005: DATE
+the Region of the Year: ORG
+4: CARDINAL
+Award Winner: PERSON
+2004: DATE
+1: MONEY
+Region: LOC
+2005: DATE
+1: MONEY
+Region: LOC
+January 2003 to January 2005: DATE
+Health Care Consultant 
+
+Developed: EVENT
+$100 million: MONEY
+P & L. Customer: ORG
+10: CARDINAL
+Academic Medical Centers: ORG
+Integrated Delivery Systems: ORG
+Large Medical Groups: ORG
+Veterans Administrations: PERSON
+every year: DATE
+Medical Societies: ORG
+Hartford County Medical Society: ORG
+American Association of Black Physicians: ORG
+Academic Hospitals: ORG
+Pfizer: ORG
+the CT Medicaid Preferred Drug List: ORG
+January 1991 to January 2003: DATE
+Healthcare: ORG
+Yale Medical Center: ORG
+Hartford Hospital: ORG
+St. Francis Hospital: FAC
+University of Connecticut Medical Center: ORG
+Baystate Medical Center: ORG
+Newington: GPE
+West Haven: NORP
+Veterans Administrations: PERSON
+Pfizer
+Collaborated: ORG
+Pfizer: ORG
+Gained: NORP
+Cardiology Departments: ORG
+Yale New Haven Medical Center: ORG
+Hartford
+Hospital: ORG
+St. Francis Medical Center: ORG
+Baystate Medical Center: ORG
+1997: DATE
+Winner: PERSON
+the Lipitor Convention Contest: ORG
+1998: DATE
+Winner Norvasc Product Contest: PERSON
+1998: DATE
+Runner: PERSON
+National Hospital Representative: ORG
+the first quarter: DATE
+1999: DATE
+$5 million: MONEY
+the Winners Choice Award: ORG
+Attainment Report: WORK_OF_ART
+the full year: DATE
+Procardia XL: ORG
+Glucotrol XL: PERSON
+Zyrtec: NORP
+Cardura: PERSON
+Viagra: PRODUCT
+Tikosyn: PERSON
+Northeastern University: ORG
+State: GPE
+US Northeastern University: ORG
+BABM: ORG
+Boston: GPE
+MA: GPE
+Certified Medical: ORG
+2005: DATE
+Pharmaceuticals City: GPE
+RI: PERSON
+Pharmacy Association RI: ORG
+MA: PERSON
+CT: ORG
+Certifications: ORG
+Certified Medical Representative: ORG
+Skills
+Account Management, Key Account Selling: ORG
+Training, Budget, Business Plans: ORG
+Medicaid: ORG
+Â Business Development: ORG
+Ms Powerpoint: PERSON
+Ms Word: PERSON
+New Business
+Development: ORG

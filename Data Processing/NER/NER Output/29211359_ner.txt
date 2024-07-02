@@ -1,0 +1,56 @@
+Highlights: GPE
+Contemporary: ORG
+Inventory: GPE
+Problem: PRODUCT
+Microsoft Office: ORG
+Team: ORG
+Data: ORG
+The Culinary Institute of America: ORG
+May 2014 to September 2015: DATE
+daily: DATE
+20: CARDINAL
+10%: PERCENT
+monthly: DATE
+Line Cook: PERSON
+July 2012: DATE
+May 2014: DATE
+daily: DATE
+monthly: DATE
+monthly: DATE
+July 2011 to July 2012: DATE
+monthly: DATE
+daily: DATE
+daily: DATE
+the Court of Master Sommeliers: ORG
+20%: PERCENT
+Patisserie Attendant /: PERSON
+January 2010 to July 2011 Company Name ï¼​ City: DATE
+Patisserie - Responsible: ORG
+daily: DATE
+MoZen: PERSON
+Pierre Gagnaire's: PERSON
+Cafe Barista: PERSON
+November 2008 to November 2009: DATE
+daily: DATE
+daily: DATE
+Commis / Extern: ORG
+September 2007 to January 2008: DATE
+daily: DATE
+Professional Achievements Court of Master Sommeliers - Introductory Sommelier Certificate: ORG
+2013: DATE
+Acadiana Culinary: ORG
+Classic: PRODUCT
+Chef Jeremy Conner: ORG
+one: CARDINAL
+three: CARDINAL
+2014: DATE
+Soiree Royale: WORK_OF_ART
+Associate of Science : Culinary Arts: WORK_OF_ART
+2008: DATE
+The Culinary Institute of America ï¼​ City: ORG
+State: GPE
+US: GPE
+Coursework in Hospitality: GPE
+Tourism ManagementHotel: ORG
+Restaurant Administration: ORG
+Voted Group: ORG

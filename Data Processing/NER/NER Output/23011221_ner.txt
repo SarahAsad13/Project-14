@@ -1,0 +1,127 @@
+Skills
+
+Equal: ORG
+Payroll: ORG
+Workforce: ORG
+Human Resources
+Certification: ORG
+MS Office: ORG
+Society for Human
+Resource Management
+Team buildingÂ: ORG
+HR Systems
+Professionals in Human
+Resources Association: ORG
+SharePoint Intranet: ORG
+Microsoft: ORG
+Microsoft Access
+
+Oracle,Â 
+
+Profit Line: ORG
+CPR: ORG
+Bilingual: NORP
+English: LANGUAGE
+Spanish: NORP
+Outlook: PERSON
+PaychexFlex: LAW
+Conflict
+Management and Problem Solving: ORG
+Personnel Management: ORG
+Interpersonal Skills: ORG
+Organized: ORG
+Efficient: PERSON
+Diplomatic, Conflict Resolution, Business Knowledge, Pivot: ORG
+Work History
+Human Resources: WORK_OF_ART
+â€¢ Sourced for Contract, Temp, and Direct to Hire Employees: WORK_OF_ART
+â€¢ Order VID: PRODUCT
+PID: ORG
+Tech: ORG
+â€¢ Onboard: PRODUCT
+â€¢ Advised: PRODUCT
+â€¢ Coach: PRODUCT
+â€¢ Counseled: PRODUCT
+â€¢: PRODUCT
+â€¢ Co-authored: PRODUCT
+â€¢ Reconstructed the companies Hiring Process 
+â€¢ Send Documents to New Hires: WORK_OF_ART
+â€¢: PRODUCT
+Vehicles: GPE
+Accident Reports: PRODUCT
+â€¢ Run MVR'S: WORK_OF_ART
+IIX: ORG
+â€¢ Created: ORG
+Policies: GPE
+â€¢ Performance Evaluations: ORG
+the Performance Metrics
+
+Shadowed: EVENT
+HRMS: ORG
+Conducted: ORG
+Established: ORG
+Facilitated: ORG
+200: CARDINAL
+Gold's Gym: ORG
+Gold's Gym: ORG
+Gold's Gym: ORG
+Explained: ORG
+12%: PERCENT
+200: CARDINAL
+Gold's Gym: ORG
+Gold's Gym: ORG
+Gold's Gym: ORG
+Explained: ORG
+â€¢: PRODUCT
+Profit Line: ORG
+â€¢ Performed: PRODUCT
+7: CARDINAL
+â€¢ Promoted: PRODUCT
+â€¢ Hired: PRODUCT
+Kids Club Attendants: ORG
+â€¢ Outsourced: PRODUCT
+â€¢ Checked: PRODUCT
+â€¢ Payroll for the kid's club department through: WORK_OF_ART
+ADP: ORG
+â€¢: PRODUCT
+Profit Line: ORG
+â€¢ Performed: PRODUCT
+7: CARDINAL
+â€¢ Promoted: PRODUCT
+â€¢ Hired: PRODUCT
+Kids Club Attendants: ORG
+â€¢ Outsourced: PRODUCT
+â€¢ Checked: PRODUCT
+â€¢ Payroll for the kid's club department through: WORK_OF_ART
+ADP: ORG
+â€¢ Checked: PRODUCT
+â€¢: PRODUCT
+â€¢ Assisted: PRODUCT
+BBA: ORG
+2017: DATE
+Houston - City: GPE
+3.465: CARDINAL
+GPA: ORG
+SHRMÂ: ORG
+Dean: PERSON
+List Fall 2015Â: EVENT
+ADP: ORG
+Coach: ORG
+Interpersonal Skills: ORG
+Conflict Management: ORG
+CPR: ORG
+Bilingual: GPE
+English: LANGUAGE
+Hiring: GPE
+Microsoft Access: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Oracle: ORG
+Payroll: ORG
+Personnel Management: ORG
+Policies: GPE
+Spanish: NORP
+Spring 2014 - Summer 2015: DATE
+Dean: PERSON
+List Fall 2015: EVENT

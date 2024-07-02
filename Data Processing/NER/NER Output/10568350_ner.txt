@@ -1,0 +1,19 @@
+Customer Service Representative: ORG
+Strong: PERSON
+Seasoned: PRODUCT
+Energetic: LOC
+Adaptive: ORG
+January 2014: DATE
+Explained: PERSON
+weekly: DATE
+July 2013 to October 2013: DATE
+Upsold: ORG
+February 2013 to July 2013: DATE
+daily: DATE
+Monitored: ORG
+January 2013 to July 2013: DATE
+May 2012 to December 2012: DATE
+Maintained: GPE
+Maintained: GPE
+2011: CARDINAL
+Eagan High School: ORG

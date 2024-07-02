@@ -1,0 +1,60 @@
+CUSTOMER: ORG
+Detail: PERSON
+Time: ORG
+Strong: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Proofreading
+Strong: WORK_OF_ART
+2010: DATE
+Remodel: PERSON
+May 1986 - June 2005: DATE
+3: CARDINAL
+2001: DATE
+Tri County Regional: FAC
+Skills: ORG
+Data: ORG
+Grammar
+Proofreading: PERSON
+Multi-Task Management
+Reading Comprehension: ORG
+10: CARDINAL
+Build: GPE
+Update Insurance: ORG
+Request: ORG
+fourteen: CARDINAL
+Current
+Co Owner Company Name: ORG
+Refinish: NORP
+Coordinate: FAC
+Cover: ORG
+Determine: ORG
+Surfacer Sanding - Paint/ Line 2 Company Name: WORK_OF_ART
+State
+
+Assess: ORG
+Cashier/Customer Service Company Name: ORG
+Maintained: GPE
+Collaborated: ORG
+Communicated: ORG
+Processed: GPE
+Processed: GPE
+11/1984: DATE
+05/1986: CARDINAL
+Processed: GPE
+Processed: GPE
+W-2 year end: DATE
+weekly: DATE
+Processed: GPE
+Maintained: GPE
+weekly: DATE
+Maintained: GPE
+Processed: GPE
+2015: DATE
+Associate of Arts : Sociology Sociology, Psychology and Communications Sinclair Community College: WORK_OF_ART
+City: GPE
+Dean: PERSON
+List
+Academic Achievement Award The National Society of Leadership and Success Sociology Sociology, Psychology and Communications Dean's: WORK_OF_ART
+List Academic Achievement Award The National Society of Leadership and: WORK_OF_ART

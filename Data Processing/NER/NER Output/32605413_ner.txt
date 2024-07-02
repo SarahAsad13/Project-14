@@ -1,0 +1,97 @@
+OPERATIONAL CHEF
+Professional Summary: ORG
+Executive: NORP
+Operations: ORG
+Client: GPE
+Excel: PRODUCT
+Quick: FAC
+Place of Birth: Sheffield: WORK_OF_ART
+UK: GPE
+Date of Birth: ORG
+3rd of September, 1970: DATE
+Present Resident: FAC
+Berlin: GPE
+Germany: GPE
+1: CARDINAL
+age 4: DATE
+Hiking, Tennis
+
+: ORG
+Operational Chef: ORG
+January 1999 to January 2015: DATE
+$121.8M: MONEY
+Oracle: ORG
+89: MONEY
+fiscal year: DATE
+115: CARDINAL
+2012: DATE
+2013: DATE
+2014: DATE
+27.2M.: MONEY
+quarterly: DATE
+99.89%: PERCENT
+$1.4M: MONEY
+the Defense Reutilization Management: ORG
+the Authorizing Official for the Government Commercial Purchase Card: EVENT
+GCPC: PERSON
+1.3M.
+: PERSON
+Supply Distribution Warehouses: WORK_OF_ART
+10: CARDINAL
+OCONUS: ORG
+7: CARDINAL
+5: CARDINAL
+254: CARDINAL
+Coordinated: ORG
+over 20,000: CARDINAL
+42: MONEY
+GPN: ORG
+the Equal Opportunity Representative: ORG
+12: CARDINAL
+three: CARDINAL
+over 8.2 million: CARDINAL
+SMU: ORG
+506: CARDINAL
+erroneous fiscal year: DATE
+800: CARDINAL
+over $375: MONEY
+weekly: DATE
+400 classroom hours: QUANTITY
+Mentored: ORG
+700: CARDINAL
+United States: GPE
+the BN SACO: ORG
+4: CARDINAL
+Command Directed: ORG
+10: CARDINAL
+2nd/3rd: CARDINAL
+Qtr Budget: PERSON
+194: CARDINAL
+10,obligating: DATE
+99.2%: PERCENT
+Coordinated: ORG
+35: CARDINAL
+Marine Corps Recruiting: WORK_OF_ART
+OSHA: ORG
+Army Corps of Engineers: ORG
+Coordinated: ORG
+Statewide: ORG
+over 500: CARDINAL
+78: CARDINAL
+RS: ORG
+152: CARDINAL
+Maintained: GPE
+147: CARDINAL
+Back Save & Next: ORG
+2016: DATE
+LiveCareer: ORG
+Skills
+Army: ORG
+Budget: ORG
+Next: ORG
+Oracle: ORG
+4: CARDINAL
+Professional Affiliations: ORG
+Small Business Association: ORG
+2008: DATE
+Alumni Association: ORG

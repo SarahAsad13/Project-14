@@ -1,0 +1,30 @@
+Highlights
+Microsoft Office: ORG
+Suite: PERSON
+$8.4 million: MONEY
+Recruit: ORG
+15: CARDINAL
+Communicate: ORG
+weekly: DATE
+Fulfill: ORG
+daily: DATE
+04/2012: CARDINAL
+Associate- Designer & Salon: ORG
+Maintained: GPE
+Internship- Designer & Salon: ORG
+Sales Associate & Key: ORG
+Manage: PRODUCT
+12/2010: CARDINAL
+05/2008: CARDINAL
+Collaborated: ORG
+2009: DATE
+Fashion Institute of Design: ORG
+State: ORG
+2011: DATE
+English: NORP
+Spanish: NORP
+Skills: ORG
+Competitive: PERSON
+English: LANGUAGE
+Microsoft Office Suite: ORG
+Spanish: NORP

@@ -1,0 +1,167 @@
+BUSINESS DEVELOPMENT: ORG
+11 years: DATE
+Skills
+
+Determined: ORG
+Team Building: ORG
+Time: ORG
+PowerPoint: ORG
+Word: PERSON
+Excel: PRODUCT
+MS Access: ORG
+Oracle: ORG
+MS DOS: PERSON
+Linux: GPE
+Mac: PERSON
+SAP PP: ORG
+SAP MM: ORG
+Outlook, Outlook Express: ORG
+QuickBooks: ORG
+Corel Draw: ORG
+General Productivity:: ORG
+MS Office
+Project Management Tools: ORG
+Microsoft Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+February 2015: DATE
+2017: DATE
+$200 million: MONEY
+Reliance Industries: ORG
+India: GPE
+Partnership with Precision
+Industries Inc.: WORK_OF_ART
+LA: GPE
+USA: GPE
+Oversaw: GPE
+Rajkot: GPE
+India: GPE
+$20 million: MONEY
+Reliance Industries: ORG
+18: CARDINAL
+Direct and Indirect People: ORG
+15%: PERCENT
+$7.5 million: MONEY
+Genie: PERSON
+Terex Co.: ORG
+Aerial Work Platforms: ORG
+India: GPE
+Oversaw: GPE
+$10 million: MONEY
+a year: DATE
+5%: PERCENT
+next year: DATE
+SNAPON: ORG
+ABCD: ORG
+weekly: DATE
+Championed: PRODUCT
+FAQ: ORG
+Parts List: PERSON
+20: CARDINAL
+Terex: NORP
+the month: DATE
+2015: DATE
+Genie: PERSON
+India: GPE
+monthly: DATE
+3: CARDINAL
+Grew: PERSON
+Ansul USA: ORG
+Snap: PERSON
+Indian: NORP
+Automobiles, Petrochemicals, Defense, Aviation,: ORG
+Machine Tools: PERSON
+Established 5: PRODUCT
+SKU: ORG
+one: CARDINAL
+$2.5 million: MONEY
+15%: PERCENT
+previous year: DATE
+Maintained: GPE
+July 2009 to November 2015: DATE
+Oversee: ORG
+2.5HP: CARDINAL
+Asian: NORP
+Gulf: LOC
+12: CARDINAL
+5% to 15%: PERCENT
+20%: PERCENT
+Product Development Coordinator: ORG
+2011: DATE
+7: CARDINAL
+2.5: CARDINAL
+Acted: ORG
+January 2008 to March 2009: DATE
+1st: ORDINAL
+India: GPE
+Oversee: ORG
+60%: PERCENT
+50: CARDINAL
+the end of first year: DATE
+quarterly: DATE
+$2 million: MONEY
+the first month: DATE
+5%: PERCENT
+MIS: ORG
+Collaborated: ORG
+Daily: DATE
+Marketing Research Analyst: ORG
+February 2005 to March 2006: DATE
+Amul Products: ORG
+Food Company: ORG
+India: GPE
+Identify: ORG
+30%: PERCENT
+Utilized: ORG
+PowerPoint: ORG
+Training
+Master of Business Administration: WORK_OF_ART
+May 2009: DATE
+University of Pune India Marketing
+Bachelor of Business Administration: ORG
+B.B.A: ORG
+May 2007: DATE
+University of Gujarat India: ORG
+CERTIFICATIONS: ORG
+SAP Materials Management: ORG
+Udemy: GPE
+Adobe Photoshop: PERSON
+Automobiles,: ORG
+Basic, Brochures: ORG
+Corel
+Draw: ORG
+Customer: ORG
+ERP: ORG
+Senior Management: ORG
+Team Building: ORG
+Linux: GPE
+Machine Tools: PERSON
+Mac OS: PERSON
+MS Access: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook, Outlook Express: ORG
+PowerPoint: ORG
+PP: ORG
+2000: DATE
+Windows 95: ORG
+98: DATE
+Word: PERSON
+Microsoft Word: PERSON
+MIS: ORG
+MS DOS: PERSON
+Multi: GPE
+Negotiating: GPE
+Operating Systems: ORG
+Oracle: ORG
+Problem-Solving: ORG
+Product Development: ORG
+Programming, Project Management: ORG
+QuickBooks, Research: ORG
+SAP Materials Management: ORG
+SAP MM: ORG
+SAP: ORG
+SAP PP: ORG
+Strategic: PERSON
+Time: ORG
+Vista: ORG

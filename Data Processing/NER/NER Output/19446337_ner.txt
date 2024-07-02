@@ -1,0 +1,83 @@
+Accounting Professional: ORG
+3 years: DATE
+Year 2016: DATE
+ERP: ORG
+Complex: NORP
+Strong: PERSON
+10%: PERCENT
+annually: DATE
+Conducted: ORG
+Maintained: GPE
+ERP: ORG
+Work History
+Company Name: WORK_OF_ART
+August 2013: DATE
+May 2012 to July 2013 Corp.: DATE
+August 2011 to May 2012: DATE
+Economic Department: ORG
+August 2013: DATE
+day: DATE
+Regulate: FAC
+year-end: DATE
+treasury: ORG
+Human Resources: ORG
+Operations: ORG
+Manage: PRODUCT
+May 2012 to July 2013 Corp.: DATE
+month-end: DATE
+Prepared: PERSON
+monthly: DATE
+quarterly: DATE
+Coordinated: ORG
+Established: ORG
+monthly: DATE
+Collaborated: ORG
+year-end: DATE
+August 2011 to May 2012: DATE
+Economic Department: ORG
+Conducted: ORG
+January 2010 to April 2010: DATE
+Internal Revenue Service: ORG
+Department of the Treasury
+Prepared Form 8843: ORG
+Form W-2: PERSON
+Ball State University: ORG
+2012: DATE
+State: GPE
+United States: GPE
+Financial Accounting
+
+Accounting Capstone: ORG
+International Accounting Issues
+
+: ORG
+Seminar in Management Accounting
+
+Seminar in Professional Issues: ORG
+3.5: CARDINAL
+4.0: CARDINAL
+GPA: ORG
+Alpha Beta Psi
+
+Ball State University: ORG
+State: GPE
+United States: GPE
+Intermediate Accounting 1: PRODUCT
+Intermediate Accounting 2
+
+: ORG
+Elementary Microeconomics: PERSON
+125: CARDINAL
+3.2: CARDINAL
+4.0: CARDINAL
+GPA: ORG
+English: LANGUAGE
+Mandarin: LANGUAGE
+Cantonese: NORP
+NetSuite: ORG
+Epicor: ORG
+Quickbooks, Office Master System: ORG
+ChasePaymentech: ORG
+Word: PERSON
+Excel: PRODUCT
+Outlook: PERSON

@@ -1,0 +1,60 @@
+CHAIN: ORG
+Summary
+Operations: ORG
+FIU College of Business MBA Programs: ORG
+November 2013 to July 2014: DATE
+Created: ORG
+Supply Chain Operational Excellence: WORK_OF_ART
+4: CARDINAL
+7: CARDINAL
+Rotable and exchange pool: WORK_OF_ART
+6.8 million dollars: MONEY
+KPI: ORG
+weekly: DATE
+annual: DATE
+Maintained: GPE
+monthly: DATE
+Inventory: GPE
+Operations: ORG
+SIOP: ORG
+Created: ORG
+Quality: ORG
+Established VMI: PERSON
+Kanban: ORG
+Consignment: PRODUCT
+KPI: ORG
+Performed: ORG
+November 2010 to October 2013: DATE
+$1.5 million: MONEY
+12: CARDINAL
+annually: DATE
+annual: DATE
+$2 million: MONEY
+Oversaw: GPE
+Directed: ORG
+Quantum: ORG
+Component Control Software: ORG
+over one hundred: CARDINAL
+November 2006 to November 2010: DATE
+Value
+Added Services Programs: ORG
+$1.5 Billion: MONEY
+151: MONEY
+Initiated: ORG
+September 1996 to December 2001 City: DATE
+Maintained: GPE
+quarterly: DATE
+Maintained: GPE
+University of Phoenix Graduate School of Business 2010 State
+University of Maryland 2006 B.S :: ORG
+Business Administration Business Administration: ORG
+2012: DATE
+Lean Six Sigma Certification: EVENT
+Spanish: NORP
+Skills: ORG
+Business Process Improvement: ORG
+Inventory: GPE
+Quality: ORG
+Six Sigma: PERSON
+Spanish: LANGUAGE
+Supply Chain: ORG

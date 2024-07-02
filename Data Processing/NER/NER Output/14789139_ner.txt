@@ -1,0 +1,136 @@
+Project Management Position Senior Project: ORG
+25 years: DATE
+hundreds: CARDINAL
+Information Technology: ORG
+10/2013: CARDINAL
+the Health Care Executive: ORG
+two: CARDINAL
+40: CARDINAL
+Public Health: ORG
+Behavioral
+Health: ORG
+the County's: GPE
+Health Insurance: ORG
+Implemented Service Now: ORG
+ITIL Active Directory and Office: ORG
+Informatics: ORG
+Oversaw: GPE
+two: CARDINAL
+Cerner: ORG
+Project Leadership Academy: ORG
+Academy: ORG
+PMI: ORG
+Architect/Business Analyst: ORG
+Health Care Agency - Electronic Health Record System Managed: ORG
+$50 million: MONEY
+two: CARDINAL
+40: CARDINAL
+Public Health: ORG
+14 months: DATE
+56: CARDINAL
+PACS: ORG
+Land Management Providing Project Management Office: ORG
+$4.5
+million: MONEY
+Land Management and Permitting System: ORG
+2: CARDINAL
+Fire Department Enterprise Architecture Initialization: ORG
+$6 million: MONEY
+the Fire Department's: ORG
+Request For Proposal: WORK_OF_ART
+five: CARDINAL
+approximately 400: CARDINAL
+thousands: CARDINAL
+Law Enforcement / Public Safety: ORG
+Inmate Management System: ORG
+Records Management System: ORG
+RMS: ORG
+Mobile Field Reporting System: ORG
+Mobile Computer: ORG
+Aided Dispatch: ORG
+Wants/Warrants System: ORG
+Investigative Case Management System: ORG
+the Sheriff's Department: ORG
+between $500: MONEY
+1million: MONEY
+between 5 and 15: CARDINAL
+Cisco: GPE
+VoIP: LOC
+County: GPE
+$4 million: MONEY
+4000: CARDINAL
+180: CARDINAL
+Countywide Microwave: ORG
+$12 million: MONEY
+Harris: PERSON
+18: CARDINAL
+Five: CARDINAL
+Mentored: ORG
+Principal Consultant/Senior Project: ORG
+Principal: PERSON
+CRM: PRODUCT
+Project Management: ORG
+RR Donnelley's Book Division: ORG
+Publishing Services: ORG
+BroadVision One: ORG
+Advest - Managed: ORG
+Advest: ORG
+ADP: ORG
+Franciscan Winery - Developed a CRM: ORG
+Epiphany: GPE
+Mattel - Designed: ORG
+Epiphany: GPE
+Annuncio: PERSON
+Royal Alliance Associates - Developed: ORG
+Royal: ORG
+03/1992 to 03/1997: CARDINAL
+Altris: PERSON
+Implemented Customer Support Desk: ORG
+Project
+Management: ORG
+Arco: ORG
+Alaska: GPE
+Bell Helicopter - Managed: ORG
+Bell: ORG
+MCA/Universal - Managed: ORG
+MCA: ORG
+Altris: PERSON
+Caterpillar - Managed: ORG
+Created: ORG
+Test: ORG
+Installation: ORG
+Customer: ORG
+over 100: CARDINAL
+the last 15 years: DATE
+Ventura County Sheriff's Department: ORG
+2009: DATE
+MBA Pepperdine University: ORG
+Project Management: ORG
+Skills
+Academic, Active Directory: ORG
+ADP: ORG
+Architect, Agency: ORG
+B2B, Behavioral Health: ORG
+Book: PERSON
+BroadVision: ORG
+CAD: ORG
+Case Management: ORG
+Cisco: GPE
+Ventura: GPE
+CRM: PRODUCT
+Customer Support: PERSON
+Decision Support: PERSON
+ITIL: ORG
+Law Enforcement: PERSON
+Office: ORG
+Microwave: PERSON
+PACS: ORG
+PeopleSoft: ORG
+Project
+Management: ORG
+Proposal, Public Health, Public Safety: ORG
+RMS: ORG
+SAP: ORG
+SQL: ORG
+Tax, Telecommunications: ORG
+VoIP: LOC

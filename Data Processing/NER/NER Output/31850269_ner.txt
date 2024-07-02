@@ -1,0 +1,61 @@
+SHOP FOREMAN/: ORG
+SQUAD: ORG
+Maurice Madison: PERSON
+United States Army: ORG
+Technical and Mechanical Engineering Support: ORG
+Communications -Windows: ORG
+Facilities Mgmt: PRODUCT
+Writing -Microsoft Excel: PERSON
+HAZMAT: ORG
+CPR: ORG
+Expertise: GPE
+Valid Michigan: PERSON
+Troubleshooting: GPE
+6: CARDINAL
+United States Army Basic Training: ORG
+United States Army Ordinance School Advanced Individual Training Graduate: ORG
+United States Army Airborne School Graduate: ORG
+Army Hazardous Waste Management Certified: ORG
+Awarded the Army Achievement Medal: ORG
+over $65 million: MONEY
+Maintained: GPE
+100%: PERCENT
+over $65 million: MONEY
+Iraq: GPE
+Afghanistan: GPE
+August 2001 to March 2015: DATE
+Oversaw: GPE
+First Line: ORG
+40: CARDINAL
+over 2,000: CARDINAL
+four: CARDINAL
+1,500: CARDINAL
+65: MONEY
+Cashier: PERSON
+October 1999: DATE
+May 2001: DATE
+2001: DATE
+Miami: GPE
+Accommodations: ORG
+Meritorious Service Medal: ORG
+Army Achievement Medal: ORG
+National
+Defense Service Medal, Armed Forces Expeditionary Medal: ORG
+Case Management: ORG
+Computer Knowledge, Conflict Resolution: ORG
+Data Entry: ORG
+Detail: PERSON
+First Aid: ORG
+Leadership Skills: PERSON
+Logistics: ORG
+Mac: PERSON
+Mgmt: PERSON
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+Windows: ORG
+Microsoft: ORG
+Personnel: ORG
+Problem Solving, Public Relations, Quality Control, Research: WORK_OF_ART
+Supervisor, Teaching, Team-Work: WORK_OF_ART
+Time
+Management: ORG

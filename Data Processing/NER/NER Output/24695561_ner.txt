@@ -1,0 +1,140 @@
+College of Healthcare Information Management Executives: ORG
+October 2008: DATE
+EDGE: ORG
+The Executive Development and Growth Experience Program: ORG
+Baylor Health Care System
+Talent Planning: ORG
+Southern Methodist University Cox Executive Education: ORG
+May 2010: DATE
+March 2003 to July 2014: DATE
+Name City: GPE
+State: ORG
+United Way Mental Health and Counseling Grant Panel: ORG
+2009: DATE
+2010: DATE
+2011: DATE
+2012: DATE
+Biomedical
+Instrumentation & Technology: ORG
+November/December 1999: DATE
+Larry Hertzler: PERSON
+Aramark Healthcare
+Technologies: ORG
+Biomedical Instrumentation: ORG
+Technology: GPE
+March/April 2003: DATE
+Biomedical Instrumentation & Technology: ORG
+January/February
+2004: DATE
+Larry Hertzler: PERSON
+Aramark Healthcare Technologies: ORG
+November/December 2003: DATE
+Clinical Equipment Service: ORG
+Contracts: ORG
+Health Facilities Management: ORG
+November 2004: DATE
+March/April 2006: DATE
+Biomedical Instrumentation & Technology: ORG
+July/August 2006: DATE
+April 2007: DATE
+Biomedical Instrumentation & Technology: ORG
+July/August 2007: DATE
+Larry Hertzler: PERSON
+Aramark Healthcare Technologies: ORG
+Nurse Leader Magazine: ORG
+February
+2008: DATE
+Biomedical Instrumentation & Technology: ORG
+January/February 2010: DATE
+Practical Guide for Successful Performance Improvement: Biomedical Instrumentation & Technology: ORG
+May/June 2010: DATE
+July/August 2011: DATE
+Five: CARDINAL
+Effective Relationship: Biomedical Instrumentation & Technology: EVENT
+January/February 2012: DATE
+August/September 2012: DATE
+October/November 2012: DATE
+May 2008 to July 2008: DATE
+six: CARDINAL
+Information Services Leadership Council: ORG
+Information Services Communications Council Co-chair: ORG
+Baylor Clinical
+Technology Assessment Council Active: ORG
+Medisend: ORG
+BMET: ORG
+Baylor Health Care System: ORG
+Technology Operations: ORG
+Field Support and Desktop Engineering: ORG
+Biomedical Technology Services: ORG
+January 1998 to January 2003: DATE
+Name City: GPE
+State Operations: ORG
+Clinical Engineering: ORG
+$1.6 million: MONEY
+approximately $7.5 million: MONEY
+its first three years: DATE
+Advocate Health Care: ORG
+Y2K: PRODUCT
+approximately 35,000: CARDINAL
+2000: DATE
+more than $25,000: MONEY
+January 1987 to January 1998: DATE
+Name City: GPE
+State Team: ORG
+Regional: ORG
+Education: ORG
+Missouri Institute of Technology 
+City: ORG
+State Electronic Engineering Technology Bachelor of Science
+
+Electronic Engineering Technology: ORG
+July: DATE
+Advisory Board: ORG
+June 2009: DATE
+MD Expo: ORG
+Austin: GPE
+TX: ORG
+October 2010: DATE
+The Future of Clinical
+Engineering: WORK_OF_ART
+North Texas Biomedical Association: ORG
+October 2010: DATE
+Getting the Most Out of Your Clinical
+Engineering Department: WORK_OF_ART
+David Muntz: PERSON
+Baylor Health Care System: ORG
+CHIME CIO Fall Forum: ORG
+October 2011: DATE
+January 2012: DATE
+Maximizing the Value of your Healthcare Technology Management Program: WORK_OF_ART
+Phoenix: GPE
+AZ: ORG
+January, 2013: DATE
+Connecting with the C-Suite: WORK_OF_ART
+2013: DATE
+A Pragmatic Approach: WORK_OF_ART
+2014: DATE
+Skills
+Balance, Benchmarking, BTS: ORG
+Contracts, Council, Counseling: ORG
+Facilities
+Management: ORG
+2000: DATE
+Strategic: PERSON
+Supervisor: PERSON
+VOIP: ORG
+Y2: CARDINAL
+2008: DATE
+Association for the Advancement of Medical Instrumentation) Clinical/Biomedical Engineering: ORG
+Professional Affiliations: ORG
+the Board of Directors: ORG
+AAMI: ORG
+the United States: GPE
+the International Certification Commission: ORG
+AAMI Technology Management Council: ORG
+Biomedical Instrumentation & Technology Magazine Editorial Review Board: ORG
+CHIME (College of Healthcare Information
+Management Executives: ORG
+HIMSS: ORG
+Medical Advisory Board: ORG
+Medisend International: ORG

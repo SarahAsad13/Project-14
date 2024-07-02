@@ -1,0 +1,108 @@
+Software Executive: ORG
+last 15 years +: DATE
+Board: ORG
+over 17 years: DATE
+13 years: DATE
+QA: ORG
+Project Management, Technical Support: ORG
+IP: ORG
+15: CARDINAL
+P&L: ORG
+between $2M - $6M.: MONEY
+US: GPE
+Germany: GPE
+Hungary: GPE
+Russia: GPE
+China: GPE
+Argentina: GPE
+Skill Highlights
+Technology Â: PERSON
+Java Â: PERSON
+Amazon AWS Â·: ORG
+Elastic: NORP
+C++ Â·: PERSON
+Aurora Â: PERSON
+PL/SQL Â: ORG
+Bootstrap Â: PERSON
+Oracle Â: ORG
+My/SQL Â: ORG
+GitHub Â: PRODUCT
+JavaScript Â: PERSON
+Jira Â: PERSON
+REST: ORG
+Â: PRODUCT
+January 2014: DATE
+20: CARDINAL
+4 months: DATE
+over 90%: PERCENT
+Awarded Culture Champion Award: ORG
+Software Development: ORG
+January 2012 to January 2014: DATE
+multiyear: DATE
+Agile: ORG
+50%: PERCENT
+PCI: ORG
+January 2010 to January 2012: DATE
+Fire: ORG
+EMS Departments: ORG
+Fire: ORG
+EMS: ORG
+4 days: DATE
+4 hours: TIME
+1 day: DATE
+2 hours: TIME
+January 2001 to January 2010: DATE
+Grew: PERSON
+0: MONEY
+greater than 30%: PERCENT
+6 consecutive years: DATE
+6: CARDINAL
+$8M: MONEY
+VC: GPE
+2008: DATE
+22: CARDINAL
+110: CARDINAL
+Product Development: ORG
+Software Development: ORG
+January 2000 to January 2001: DATE
+30: CARDINAL
+180 degree: QUANTITY
+Software Engineer: PERSON
+January 1996 to January 2000: DATE
+60: CARDINAL
+Software Engineer: PERSON
+January 1993 to January 1996: DATE
+January 1989 to January 1993: DATE
+Cognitive and Neural Systems: ORG
+1991: DATE
+Boston University: ORG
+ï¼​ City: GPE
+1989: DATE
+Union College: ORG
+State Computer Science Masters Project: ORG
+August 16, 1989: DATE
+International Conference on Expert Systems: ORG
+Neural Networks - Theory & Applications: ORG
+1988: DATE
+Union College: ORG
+State Computer Science
+Skills: ORG
+Agile: ORG
+AJAX: ORG
+C++: PERSON
+CSS: ORG
+Expert Systems: ORG
+PHP: ORG
+Java: PERSON
+JavaScript: PERSON
+Network: ORG
+Networks, Neural: ORG
+Oracle: ORG
+PL/SQL: ORG
+PCI: ORG
+Perl: PERSON
+3: CARDINAL
+6: CARDINAL
+SOAP: ORG
+SQL: ORG
+VC: PERSON

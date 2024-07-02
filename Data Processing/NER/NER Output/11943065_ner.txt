@@ -1,0 +1,67 @@
+the State of South Carolina: GPE
+Microsoft: ORG
+Conflict Resolution Training: WORK_OF_ART
+Organization/Planning: ORG
+Lesson: PERSON
+Punctual
+Inquiry: WORK_OF_ART
+Work History
+: WORK_OF_ART
+Classroom Teacher: PERSON
+06/2017: CARDINAL
+Collaborated: ORG
+Classroom Teacher: PERSON
+School Affiliation Board: ORG
+Maintained: GPE
+one: CARDINAL
+South Carolina: GPE
+4: CARDINAL
+Volunteer: PERSON
+Girls Club of Rock HillÂ 
+
+Detention Hall TeacherÂ 
+
+: ORG
+Progressive Planning CommitteeÂ 
+
+Emergency Action Team: ORG
+May 2018: DATE
+Winthrop University - City: ORG
+3.8: CARDINAL
+June 1998: DATE
+Coker College - City: ORG
+GPA: ORG
+3.0: CARDINAL
+April 2018: DATE
+Rock Hill High School - 
+: ORG
+Northwestern High School - City: ORG
+State: ORG
+Skills
+Book: ORG
+CPR: ORG
+First Aid: ORG
+Microsoft: ORG
+Supervising: PERSON
+8th: ORDINAL
+9th: ORDINAL
+11th: ORDINAL
+First Responder Team: ORG
+Emergency Action Team Bishopville Primary School: ORG
+August 1989 - June 1998: DATE
+603: CARDINAL
+North Dennis Avenue: PERSON
+Bishopville: GPE
+South Carolina: ORG
+4: CARDINAL
+Sponsor Volunteer: PERSON
+Girls Club of Rock
+Hill Detention Hall: ORG
+First Responder Team: ORG
+Targeted Development 
+Met: ORG
+Student Mentor 
+Volunteered: ORG
+the Board of Education: ORG
+First: ORDINAL
+CPR: ORG

@@ -1,0 +1,142 @@
+Skill Highlights: PERSON
+Labor: ORG
+Budget: ORG
+July 2013: DATE
+the Montana Army National Guard: ORG
+Army: ORG
+Management: ORG
+the Labor Relations Board: ORG
+US Army Officer: ORG
+June 1985 to January 1993: DATE
+State: ORG
+US Army Aviation Officer Duties: ORG
+Rucker: PRODUCT
+AL: PERSON
+Honduras: GPE
+US Army: ORG
+Supervisory Aircraft Flight Instructor: PERSON
+May 1993 to: DATE
+August 2010: DATE
+August 2010: DATE
+Current Company Name: ORG
+2013: DATE
+US Army War College: EVENT
+State: GPE
+US: GPE
+US Army War College Carlisle: ORG
+PA United States Master's: GPE
+Aeronautical Sciences: ORG
+2011: DATE
+Embry-Riddle Aeronautical University: ORG
+Daytona Beach: PERSON
+City: GPE
+State: GPE
+US: GPE
+Embry-Riddle Aeronautical University: ORG
+Daytona Beach: PERSON
+FL United States Master's: ORG
+GPA: ORG
+4: CARDINAL
+4: CARDINAL
+39
+Quarter hours: TIME
+Aeronautical Sciences: ORG
+Management and Safety Systems
+
+: ORG
+Business Administration: ORG
+1985: DATE
+University of Montana: ORG
+City: GPE
+State: GPE
+US: GPE
+University of Montana Missoula: ORG
+MT United States: GPE
+12/1985: DATE
+GPA: ORG
+3.1: CARDINAL
+4: CARDINAL
+178 Semester hours: TIME
+Major: Business Administration
+
+Military Experience: ORG
+COL: ORG
+April 1993 to January 2013: DATE
+Montana Army National Guard: ORG
+Fort Harrison: PERSON
+MT: GPE
+59636: CARDINAL
+United States: GPE
+Army National Guard: ORG
+Army: ORG
+the National Guard: ORG
+State: ORG
+Aviation Brigade: ORG
+Operation Iraqi Freedom: EVENT
+State: ORG
+the Federal Aviation Administration: ORG
+the National Guard
+Bureau: ORG
+the US Army War College: ORG
+2013: DATE
+COL Jeff Ireland: PERSON
+4063243003: DATE
+MT: GPE
+59636: CARDINAL
+United States: GPE
+Army Aviation Support Facility: ORG
+63: CARDINAL
+the Montana Army National Guard: ORG
+22: CARDINAL
+140: CARDINAL
+all Office of Safety and Health Administration: ORG
+OSHA: ORG
+Federal Aviation Regulations: ORG
+Equal Employment Opportunity: ORG
+Management: ORG
+Labor Relations Board: ORG
+the US Army Combat Readiness Center: ORG
+CRC: ORG
+Montana: GPE
+COL Jeff Ireland: PERSON
+4063243003: DATE
+Montana Helena: ORG
+MT United States: GPE
+Related Skills: PRODUCT
+1: CARDINAL
+the Army Aviation Support Facility: ORG
+22: CARDINAL
+approximately 140: CARDINAL
+2: CARDINAL
+12: CARDINAL
+Facility: ORG
+3.: CARDINAL
+Blackhawk: PRODUCT
+4: CARDINAL
+weekly: DATE
+5: CARDINAL
+US Army: ORG
+6.: CARDINAL
+7: CARDINAL
+COL Scott Smith: PERSON
+4063243033: DATE
+US Army: ORG
+Rucker: PRODUCT
+AL United States: GPE
+06/1985 - 01/1993 US Army Aviation Officer Duties: ORG
+Related Skills: ORG
+Rucker: PRODUCT
+AL: PERSON
+Honduras: GPE
+US Army: ORG
+Professional Affiliations
+National Guard Association: ORG
+the United States - Army Aviation Association of America: GPE
+General Aviation: ORG
+Instructor, Training, Operations: ORG
+Budget, Safety Management: ORG
+Workplace Safety: ORG
+Aircrew: PERSON
+Petroleum, Quality Assurance: ORG
+Sheet Metal: ORG
+Personnel Management: ORG

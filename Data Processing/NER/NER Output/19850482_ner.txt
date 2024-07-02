@@ -1,0 +1,118 @@
+daily: DATE
+Skill Highlights: PERSON
+Efficiency, &
+Performance
+Improvements
+IT Security
+Project
+Management
+Vendor
+Relations
+Data Center
+Operations
+
+Operating Systems:: ORG
+XP: ORG
+2013: DATE
+2008: DATE
+2003: DATE
+Microsoft Active Directory: ORG
+SharePoint: ORG
+Server: ORG
+2003, 2007,: DATE
+2013: DATE
+VM Ware: ORG
+Trend Micro: ORG
+Cisco Infrastructure Routers: ORG
+Switches: ORG
+Palo Alto: GPE
+EMC: ORG
+Data Center Management Market Data & Trading Systems: ORG
+Bloomberg: PERSON
+Server API: PERSON
+FactSet: ORG
+Fidessa, Tethys, Lava, LEK: ORG
+Tradeware: ORG
+Reuters Eikon: PERSON
+Thomson One: ORG
+Reuters Station: ORG
+Instinet: ORG
+NASDAQ Trader: ORG
+VP - Information Technology 08/2014: ORG
+Name City: GPE
+the Financial Services Industry: ORG
+U.S.: GPE
+Coordinated: ORG
+NYC: LOC
+U.S: GPE
+6: CARDINAL
+Toronto: GPE
+MPLS: ORG
+NYC: LOC
+NJ: ORG
+U.S.: GPE
+1.5: MONEY
+VoIP: LOC
+Coordinated: ORG
+3: CARDINAL
+Houston: GPE
+TX: ORG
+Stamford: GPE
+CT: ORG
+New
+Orleans: GPE
+LA Implemented: GPE
+Stamford: GPE
+CT: ORG
+DR: GPE
+NYC: LOC
+Managed Bloomberg: PERSON
+TOMS: ORG
+GMP: ORG
+Name City: GPE
+Fixed Income and Equities: ORG
+8: CARDINAL
+U.S Established: ORG
+Facilitated: ORG
+weekly: DATE
+OMS: ORG
+3 hours: TIME
+Cisco ASA: ORG
+IronPort: ORG
+06/2006 Company Name City: ORG
+Coordinated: ORG
+Microsoft Exchange: ORG
+daily: DATE
+FIX: ORG
+Participate: ORG
+FINRA: ORG
+Montclair State University Computer Science
+Skills
+Active Directory: ORG
+API: ORG
+Bloomberg: PERSON
+Business Planning: ORG
+Cisco: GPE
+Conflict
+Resolution: PRODUCT
+Equities: ORG
+Fidessa: PERSON
+Financial, Fixed Income: ORG
+GMP: ORG
+Leadership, Team-Building: ORG
+Exchange Server: ORG
+Microsoft Exchange: ORG
+SharePoint: ORG
+Windows 7: ORG
+Operating Systems: ORG
+Optimization: ORG
+PBX: ORG
+Project Management: ORG
+Reuters: ORG
+Routers: ORG
+Switches: ORG
+Trading Systems: ORG
+Vendor
+Relations: ORG
+VPN: ORG
+VoIP: LOC

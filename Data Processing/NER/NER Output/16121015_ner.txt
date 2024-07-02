@@ -1,0 +1,39 @@
+Career Focus: FAC
+daily: DATE
+English Language
+Judgement and Decision Making
+Social Perceptiveness
+Persuasion
+Clerical
+Coordination
+Monitoring
+Time Management
+Negotiation
+Mathematics
+Service Oriented
+Food Production
+Active Learning
+Learning Strategies
+Instructing
+Production and Processing
+
+Education: WORK_OF_ART
+Training: PERSON
+June 2011: DATE
+State: ORG
+11/2015: CARDINAL
+Recommend: ORG
+Server: NORP
+daily: DATE
+Assist: NORP
+Escort: PRODUCT
+01/2011 ï¼​ 05/2014 Company Name: ORG
+Assist: NORP
+Answer: ORG
+Calculate: ORG
+Maintain: PRODUCT
+Sort: ORG
+Request: ORG
+Compute: ORG
+Compile: PRODUCT
+Answer: ORG

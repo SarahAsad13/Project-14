@@ -1,0 +1,42 @@
+Detail: PERSON
+seven years: DATE
+three years: DATE
+Outlook: PERSON
+Thunderbird: GPE
+Peripheral Devices (Scanners, Printers: ORG
+Calc: PERSON
+Excel: PRODUCT
+Virus, File Compression: ORG
+Word Processing Software (Word: WORK_OF_ART
+WordPerfect: ORG
+Patient Advocate: PERSON
+September 2009 to December 2014: DATE
+Compile: PRODUCT
+Keep: ORG
+Tax Preparer/Office: ORG
+December 2005 to September 2009: DATE
+Compute: ORG
+Prepare: ORG
+Furnish: NORP
+Calculate: ORG
+Tax Preparer/Office: ORG
+January 2002 to December 2004: DATE
+Compute: ORG
+Prepare: ORG
+Furnish: NORP
+Calculate: ORG
+Associate of Science : Dental Technician , 2000: WORK_OF_ART
+90: CARDINAL
+State: GPE
+Colombia: GPE
+CPR - IV Medication Administration: ORG
+2000: DATE
+Cruz Roja Colombiana: PERSON
+City: GPE
+State: GPE
+Colombia: GPE
+1996: DATE
+State: GPE
+Colombia: GPE
+Spreadsheet: PERSON
+Customer Service: ORG

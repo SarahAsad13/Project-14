@@ -1,0 +1,56 @@
+Furnish: NORP
+MS Excel: ORG
+Power BI: ORG
+Power Query: ORG
+Minitab: GPE
+Tableau: GPE
+Google Analytics: ORG
+TSQL: GPE
+SQL: ORG
+HTML: ORG
+PHP: ORG
+JavaScript: ORG
+MS Access: ORG
+MS Visio: PERSON
+MS Project: ORG
+Digital Marketing Analyst Company Name: ORG
+30%: PERCENT
+ETL: ORG
+SQL: ORG
+20%: PERCENT
+Web Developer Company Name: ORG
+PHP: ORG
+HTML: ORG
+JavaScript: ORG
+MySQL and MS Access: ORG
+22%: PERCENT
+over 400K.: CARDINAL
+Masters of Business Administration: ORG
+2013: DATE
+MBA University of Redlands: WORK_OF_ART
+2011: DATE
+Bachelor of Sciences University: ORG
+Hamburg: GPE
+2007: DATE
+English: LANGUAGE
+German: NORP
+Hindi, Punjabi
+Skills: ORG
+BI: ORG
+English: LANGUAGE
+ETL: ORG
+German: NORP
+Google Analytics: ORG
+Hindi: GPE
+HTML: ORG
+PHP: ORG
+JavaScript: ORG
+MS Access: ORG
+MS Access: ORG
+MS Excel: ORG
+MS Project: ORG
+Minitab: GPE
+SQL: GPE
+Tableau: GPE
+TSQL: GPE
+Visio: PERSON

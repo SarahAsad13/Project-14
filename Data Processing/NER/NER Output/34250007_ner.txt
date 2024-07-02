@@ -1,0 +1,118 @@
+Abbott Nutrition: ORG
+Adult Institutional: ORG
+annual: DATE
+LRP: ORG
+monthly: DATE
+LBE: ORG
+Adult: ORG
+Pull: PERSON
+Tableau: GPE
+Budget: ORG
+Institutional AP&G: ORG
+Complete: PERSON
+monthly: DATE
+E&O: ORG
+Adult Institutional: ORG
+the Finance Professional Development Program: ORG
+Adult Institutional: ORG
+annual: DATE
+LRP: ORG
+monthly: DATE
+LBE: ORG
+TN: ORG
+Budget: ORG
+Institutional AP&G: ORG
+Complete: PERSON
+monthly: DATE
+E&O: ORG
+Adult Institutional: ORG
+Consolidator for Therapeutic Nutrition Business Unit
+Develop: ORG
+annual: DATE
+monthly: DATE
+LRP's: ORG
+LBE: ORG
+Develop: ORG
+monthly: DATE
+Prepare: ORG
+annual: DATE
+LRP's: ORG
+LBE: ORG
+AP&G: ORG
+monthly: DATE
+Consolidate: GPE
+month: DATE
+Coordinate: FAC
+2009: DATE
+Financial Reporting: ORG
+month-end: DATE
+Prepare Investment Package: ORG
+monthly: DATE
+Corporate
+Reconcile: ORG
+daily: DATE
+month-end: DATE
+Prepare: ORG
+Compile: PRODUCT
+Federal and State Tax Packages
+Participate in Sox Testing: WORK_OF_ART
+11/2005: CARDINAL
+Name City: GPE
+October 2005: DATE
+Prepare: ORG
+Prepare: ORG
+Prepare: ORG
+Assist: NORP
+Participate: WORK_OF_ART
+BISYS: ORG
+daily: DATE
+Distribute: ORG
+Calculate: ORG
+daily: DATE
+Complete: PERSON
+month-end: DATE
+Accounting/Finance Internship: ORG
+03/2003: CARDINAL
+Name City: GPE
+Accounting Department: ORG
+Westfield Bank: ORG
+Microsoft Office/Outlook: ORG
+Lotus Notes: PERSON
+SAP: ORG
+HOST Analytics: ORG
+SAP: ORG
+HOST Analytics: ORG
+Abbott Finance: ORG
+Bachelor of Arts : Business Administration: ORG
+Alliance: GPE
+OH Mount Union College Bachelor of Arts in Business Administration: ORG
+Finance
+
+Concentration: ORG
+Mount Union College: ORG
+Alliance: GPE
+Professional Affiliations
+Bachelor of Arts in Business Administration: ORG
+Mount Union College: ORG
+Alliance: GPE
+Skills
+Financial Analyst: ORG
+Budget: ORG
+Forecasts: PERSON
+Sarbanes Oxley: PERSON
+Sox, Testing, Marketing, Budgets, Finance: ORG
+Financial Reporting: ORG
+Balance Sheet: PERSON
+General Ledger, Inventory: ORG
+State: ORG
+Filings: ORG
+Financial Statements: ORG
+Commercial Loan: ORG
+Daily Accounting: ORG
+Lotus: ORG
+Notes: PRODUCT
+Microsoft Office: ORG
+Ms Office: ORG
+Outlook, Reconcilements, Sap,: ORG
+Tableau Software: ORG
+Team Player: ORG

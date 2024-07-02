@@ -1,0 +1,102 @@
+SALES & SERVICE: ORG
+YDriven: ORG
+Investment Banker: PRODUCT
+Success: ORG
+Detail: PERSON
+Transactional: ORG
+ACH: ORG
+Possess: ORG
+Trustworthy: PRODUCT
+Microsoft: ORG
+MAS 90: FAC
+200: CARDINAL
+Peachtree Accounting: ORG
+2014: DATE
+five: CARDINAL
+monthly: DATE
+December 2014: DATE
+the yearâ€​ Award: ORG
+Current Company Name City: ORG
+State: ORG
+IRA: ORG
+stocks &: ORG
+ATM: ORG
+Perform: PERSON
+ATM: ORG
+Prepare Federal Reserve: ORG
+Accurate: ORG
+Prepared: PERSON
+daily: DATE
+Researched: ORG
+01/2011 to 02/2012: MONEY
+Name City: GPE
+State
+
+Collaborated: ORG
+MaintainedResearched: ORG
+80%: PERCENT
+-AP/AR Specialist: ORG
+12/2010: CARDINAL
+Performed both Accounts Receivable and Accounts Payable: ORG
+Utilized: ORG
+90: CARDINAL
+200: CARDINAL
+MS
+
+Office: ORG
+Provide: PERSON
+weekly: DATE
+monthly: DATE
+Accounts Receivable: ORG
+daily: DATE
+Performed: ORG
+monthly: DATE
+Responsible: PERSON
+Monthly: DATE
+Quarterly: DATE
+Yearly: DATE
+Extensive verbal & written: ORG
+Medicaid & Medicare Functions: ORG
+Card Accounting: ORG
+E-Commerce: ORG
+11/2001: CARDINAL
+Prepared Bank: ORG
+every morning: TIME
+Bankof America: LOC
+the United States Responsible: GPE
+Bank of America: ORG
+U.S.: GPE
+third: ORDINAL
+ATM: ORG
+Prepared: PRODUCT
+Maintained: GPE
+Vendor: ORG
+May 2001: DATE
+DeKalb College City: ORG
+Dean: PERSON
+Finance Dean's: PERSON
+Finance and Business Administration: ORG
+Computerized Accounting Specialist: ORG
+2016: DATE
+University of Maryland University College City: ORG
+Associate of Applied Science : Finance: WORK_OF_ART
+2001: DATE
+Georgia Piedmont Technical College City: ORG
+State: ORG
+Dekalb GPA: GPE
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+Skills
+
+Accounting: ORG
+E-Commerce: ORG
+Insurance: ORG
+90: CARDINAL
+Medical Billing: ORG
+MS
+Office: ORG
+Coding: ORG
+Accounts Receivable: ORG
+ATM: ORG

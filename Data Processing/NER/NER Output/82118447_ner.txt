@@ -1,0 +1,97 @@
+BUSINESS DEVELOPMENT: ORG
+Skill Highlights: PERSON
+Professional Experience
+Business Development: ORG
+February 2014: DATE
+First Interstate Bank: ORG
+Bank of theFuture: ORG
+over 300%: PERCENT
+Nationally: ORG
+ADP: ORG
+P.C.
+Payroll: WORK_OF_ART
+AT&T: ORG
+GBS
+Division: ORG
+million dollars: MONEY
+30-plus: CARDINAL
+5 million: CARDINAL
+annual: DATE
+September 2011 to January 2015: DATE
+State: ORG
+November 2008 to August 2011: DATE
+State: ORG
+August 2006 to November 2008: DATE
+State: ORG
+September 1993 to August 2006: DATE
+State: ORG
+January 1990 to: DATE
+May 1993: DATE
+Telecommunications Corporation: ORG
+quarterly: DATE
+38: CARDINAL
+U.S. Telecom: ORG
+38: CARDINAL
+monthly: DATE
+70%: PERCENT
+Coordinated: ORG
+April 1988 to January 1990: DATE
+Spearheaded Agent Program: ORG
+300%: PERCENT
+quarterly: DATE
+300%: PERCENT
+year: DATE
+year: DATE
+monthly: DATE
+annual: DATE
+May 1986 to March 1988: DATE
+State: ORG
+Credit/Marketing: ORG
+March 1984: DATE
+April 1986: DATE
+2003: DATE
+California Coast University - City: ORG
+GPA: ORG
+9: CARDINAL
+9: CARDINAL
+Planning and: ORG
+Control, Management of Business and PublicOrganizations, Human Resource Management: ORG
+Organizations, Management Theory: ORG
+PracticeCritical Thinking/Problem Solving: ORG
+Summa Cum Laude: PERSON
+2002: DATE
+California Coast University - City: ORG
+GPA: ORG
+0: CARDINAL
+Managerial Decision Making: ORG
+The Research Process: ORG
+Summa Cum Laude: PERSON
+Marketing,Economics and Communications: ORG
+2000: DATE
+California Coast University - City: ORG
+GPA: ORG
+0: CARDINAL
+1980: DATE
+Palo Verde Junior College - City: ORG
+EMT-II: ORG
+Technician, Crisis Intervention Certified Substance: ORG
+United States Navy: ORG
+Interests: NORP
+Pegasis Riding Academy: ORG
+CGA: ORG
+Pegasis Riding Academy: ORG
+CGA: ORG
+ADP: ORG
+Counselor, Crisis Intervention: ORG
+Decision
+Making, Dimensions, Direct: ORG
+Documentation: ORG
+E-Business, Financial, Human Resource Management: ORG
+International Marketing: ORG
+Managerial: ORG
+Market, Marketing Management: ORG
+Organizational, Payroll: ORG
+P.C.: GPE
+Psychology, Research: ORG
+Strategic: PERSON
+Technician: NORP

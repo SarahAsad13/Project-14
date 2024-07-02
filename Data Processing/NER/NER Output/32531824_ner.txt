@@ -1,0 +1,27 @@
+Identify: ORG
+Tableau: GPE
+12/2015: CARDINAL
+Name City: GPE
+the Corporate Operational Risk: ORG
+Spreadsheet
+Policy: PRODUCT
+over 1,000: CARDINAL
+GBAM Finance: ORG
+six-month: DATE
+over 2,000: CARDINAL
+4: CARDINAL
+Prepared: PERSON
+monthly: DATE
+BBA: ORG
+May 2009: DATE
+James Madison University City: PERSON
+State: ORG
+Skills
+
+: ORG
+Microsoft Office: ORG
+Visio: PERSON
+SharePoint: ORG
+Zendesk
+
+: PERSON

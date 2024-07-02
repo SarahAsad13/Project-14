@@ -1,0 +1,111 @@
+HEALTHCARE: ORG
+Healthcare Instructional: ORG
+10/2018: DATE
+Straight Catheterization: ORG
+Special Needs: ORG
+General Education Elementary School: ORG
+K-12 Classroom: PRODUCT
+Follow IEP: PERSON
+Instructional Assistants: ORG
+ABA Interventionists: ORG
+Teachers and Psychologist: ORG
+09/2016: PRODUCT
+09/2018: CARDINAL
+Special: ORG
+Students K-12: PERSON
+Teachers: ORG
+Instructional: ORG
+IEP/Goals: ORG
+1:1: DATE
+Assist: NORP
+10/2015: CARDINAL
+Worked n a Clinic Registering: ORG
+Update: ORG
+10/2018: DATE
+Straight Catheterization: ORG
+Special Needs: ORG
+General Education Elementary School: ORG
+K-12 Classroom: PRODUCT
+Follow IEP: PERSON
+Instructional Assistants: ORG
+ABA Interventionists: ORG
+Teachers and Psychologist: ORG
+09/2016: PRODUCT
+09/2018: CARDINAL
+Special: ORG
+Students K-12: PERSON
+Teachers: ORG
+Instructional: ORG
+IEP/Goals: ORG
+1:1: DATE
+Assist: NORP
+10/2015: CARDINAL
+Worked n a Clinic Registering: ORG
+Update: ORG
+Master's : Health Education: WORK_OF_ART
+04/2019: CARDINAL
+Touro University Worldwide - City: ORG
+Bachelor: ORG
+Healthcare Administraton: PERSON
+Touro University Worldwide - City: ORG
+Social & Behavioral Sciences: ORG
+12/2015: CARDINAL
+Los Angeles Southwest College - City: ORG
+State: ORG
+Touro University: ORG
+Develop: ORG
+Health Education: ORG
+CPR: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Organizational Skills: PERSON
+Filing: GPE
+English: LANGUAGE
+Customer Service: ORG
+Excel: PRODUCT
+Developmental Disabilities Experience: ORG
+Microsoft: ORG
+Critical Thinking: ORG
+Developmental Disabilities
+Diagnosis
+English: PRODUCT
+Health Education: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft: ORG
+Organizational Skills
+Organization: ORG
+Verbal: ORG
+CPR: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Organizational Skills: PERSON
+Filing: GPE
+English: LANGUAGE
+Customer Service: ORG
+Excel: PRODUCT
+Developmental Disabilities Experience: ORG
+Microsoft: ORG
+Catheterization, Child: ORG
+CPR: ORG
+Critical Thinking: ORG
+Customer Service: ORG
+Developmental Disabilities: ORG
+English: LANGUAGE
+Filing: GPE
+Health Education: ORG
+K: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft: ORG
+Organizational Skills: ORG
+US: GPE
+More than 5 years: DATE
+Familiar: PERSON
+Document Management Systems: ORG

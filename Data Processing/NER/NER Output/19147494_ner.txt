@@ -1,0 +1,51 @@
+Retail Associate: PERSON
+21 years: DATE
+4
+years: DATE
+over 50: CARDINAL
+Parts Service: ORG
+Customer Service: ORG
+Ag / Lawn: ORG
+Familiar: PERSON
+John Deere Ag: PERSON
+Massey Ferguson Ag: PERSON
+Kubota Ag: PERSON
+Kioti Ag: PERSON
+Cub Cadet: PERSON
+zero: CARDINAL
+Vermeer Hay: PERSON
+Sitrex: ORG
+Bush Hog: PERSON
+Servis Rhino: PERSON
+Bad Boy: PERSON
+MTD Products: ORG
+Hustler: ORG
+Zero Turns: PERSON
+Stihl: PERSON
+Parts / Service: ORG
+OEM: ORG
+A&I Products: ORG
+Becknell Wholesale: PERSON
+Team: ORG
+Hunter: PERSON
+Reliable: WORK_OF_ART
+Equipment: GPE
+Ag: ORG
+hours: TIME
+up to $20,000: MONEY
+zero: CARDINAL
+100: CARDINAL
+each week: DATE
+45%: PERCENT
+Processed: GPE
+State Equipment Rental: ORG
+11/2013: CARDINAL
+Collaborated: ORG
+State Parts/Customer Service Sales: ORG
+01/2010 - 11/2013: CARDINAL
+more than 15: CARDINAL
+02/2002 - 08/2010: DATE
+Researched: ORG
+Conroe High School: ORG
+State High School Diploma 05/1987
+Customer Service: ORG

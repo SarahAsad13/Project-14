@@ -1,0 +1,65 @@
+Pioneer Packaging: ORG
+Peoria: GPE
+several years: DATE
+10 years: DATE
+Inventory
+Control and Fleet: ORG
+Skills
+Work History: ORG
+STOREKEEPER II |: LAW
+January 2002 - January 2013: DATE
+PeopleSoft: ORG
+CSR: ORG
+Provide Customer Service: ORG
+Fleet Purchase
+Requisitions: WORK_OF_ART
+Infrared Scanning System: ORG
+Four: CARDINAL
+USPS: ORG
+UPS: ORG
+FedEx: GPE
+January 1996 - January 2001: DATE
+daily: DATE
+Routine: ORG
+the City of Peoria: GPE
+annual: DATE
+1500.00: MONEY
+annually: DATE
+monthly: DATE
+Man hours: TIME
+City: GPE
+Peoria: GPE
+City: GPE
+Naval Aircraft Squadron VS-38: ORG
+NJROTC: ORG
+Navy: ORG
+Bachelor: ORG
+Degree Business Management Administration Grand Canyon University City: ORG
+State Business Management Administration: ORG
+Associate Degree National Education Center City: ORG
+State: ORG
+Graduate Naval Aviation A School City: ORG
+Certificate: ORG
+Electro: GPE
+Mechanical Systems Repair City: ORG
+State Training: ORG
+Signode: GPE
+Synergy: ORG
+Minipac: GPE
+Skills: ORG
+Customer Service: ORG
+Data Entry: ORG
+Forklift, Forklift Operator: ORG
+Mechanical: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Windows: NORP
+Navy: ORG
+Naval: GPE
+PeopleSoft: ORG
+PeopleSoft: ORG
+9.0: CARDINAL
+Personnel: ORG
+Safety, Scanning, Shipping: ORG
+Trainer: PERSON

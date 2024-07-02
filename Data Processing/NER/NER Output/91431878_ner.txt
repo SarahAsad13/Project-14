@@ -1,0 +1,83 @@
+May 2010 to July 2014: DATE
+May 2010: DATE
+Aviation Maintenance School: ORG
+Completed: ORG
+20 weeks: DATE
+dropmaster: PERSON
+United States: ORG
+Honor Guardsman: PERSON
+November 2007: DATE
+May 2010: DATE
+7th January 2008: DATE
+Drill Instructors: ORG
+two years: DATE
+the Coast Guard Honor Guard: ORG
+Washington D.C.: GPE
+the Coast Guard: ORG
+Setup Department Mechanic: ORG
+January 2005 to November 2007: DATE
+Reno Nevada: GPE
+July 2005: DATE
+three: CARDINAL
+May 2006: DATE
+Michaels Reno Powersports: ORG
+0: CARDINAL
+0: CARDINAL
+Coast Guard: ORG
+1st June 2008: DATE
+Bearer: ORG
+6: CARDINAL
+more than 61: CARDINAL
+Arlington National Cemetery: ORG
+8th August 2008: DATE
+the Silent Drill Team: ORG
+25: CARDINAL
+Coast Guard Aviation Â 
+
+Supported: ORG
+2,500: CARDINAL
+Completed Fueling: ORG
+232.8 hours: TIME
+MH-60 Jayhawk: PRODUCT
+68: CARDINAL
+Intel: ORG
+CIA: ORG
+14: CARDINAL
+the United States: GPE
+Logged 237 Maintenance: PERSON
+over 300: CARDINAL
+Training
+Bachelor of Science : Mechanical Engineering: PERSON
+2018: DATE
+University of Nevada Reno: ORG
+State: GPE
+University of Nevada Reno for Mechanical Engineering: ORG
+UAV Technology: ORG
+the second year: DATE
+Completed Engineering I & II: ORG
+Core Humanities: ORG
+Micro: ORG
+20 weeks: DATE
+State: GPE
+USA: GPE
+Adult Development and Life Assessment, Personal Dimensions of Education: ORG
+State: GPE
+USA: GPE
+Private Pilot Ground School, Fundamentals: ORG
+Aeronautical Engineering Embry Riddle University: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.74 1st: CARDINAL
+the University of Nevada Reno for Mechanical Engineering: ORG
+UAV Technology: ORG
+the second year: DATE
+Core Humanities: ORG
+Micro: ORG
+Computer Software Applications: ORG
+Troubleshooting and Repairing: Â 
+
+Aircraft: WORK_OF_ART
+Propellers & rotor systems
+Power: ORG
+Wings: ORG

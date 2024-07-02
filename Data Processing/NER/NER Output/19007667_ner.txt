@@ -1,0 +1,19 @@
+Highlights
+Experience: WORK_OF_ART
+Current
+Chef Company Name: ORG
+daily: DATE
+Assist: NORP
+Systematically: ORG
+Develop: ORG
+Catering Chef Company Name: ORG
+daily: DATE
+Assisted: ORG
+Line Cook Company Name: ORG
+daily: DATE
+Conducted: ORG
+daily: DATE
+Detail: PERSON
+English: LANGUAGE
+Inventory Management: ORG
+Spanish: NORP

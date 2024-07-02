@@ -1,0 +1,90 @@
+Reliable: WORK_OF_ART
+Customer Relations
+Communication Skills: ORG
+Team Leadership
+
+Professional Experience
+: ORG
+04/2016: PRODUCT
+Branch Logistics: ORG
+hours: TIME
+daily: DATE
+daily: DATE
+Completed: ORG
+daily: DATE
+Troubleshot: PERSON
+Monitored and/or: ORG
+Assisted Logistics: ORG
+Maintained: GPE
+daily: DATE
+Maintained: GPE
+Ensures: LOC
+Conducted: ORG
+02/2015: ORG
+monthly: DATE
+60%: PERCENT
+Headed daily: ORG
+Recruit: ORG
+1: CARDINAL
+Delegate: NORP
+daily: DATE
+60%: PERCENT
+daily: DATE
+Communicated: ORG
+Assisted Operations: ORG
+weekly: DATE
+monthly: DATE
+Established Corporate: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+State: ORG
+01/2003: ORG
+SUSPENSE SPECIALIST Company Name: ORG
+the Suspense Database: LOC
+Quality Feedback: ORG
+Researched: ORG
+AWD: ORG
+Monitored: ORG
+Ledger: PERSON
+the 30 day: DATE
+New Account Unit: ORG
+Researched: ORG
+AIG Financial Advisors: ORG
+New Business Center: ORG
+Researched: ORG
+the SAP Check Disbursement System: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+01/2000: CARDINAL
+01/2003
+CONTRIBUTION SPECIALIST Company Name: ORG
+TSO: ORG
+13: CARDINAL
+Excel: PRODUCT
+Transmitted: ORG
+Recreated: ORG
+Resolved Out of Balance: WORK_OF_ART
+1996: DATE
+State: GPE
+US: GPE
+Computer Animation Art Institute: ORG
+State: GPE
+US: GPE
+2D: CARDINAL
+3D Animation: ORG
+Max: PERSON
+Adobe Illustrator
+Languages
+Bilingual Spanish/English: WORK_OF_ART
+Skills
+
+Interpersonal Skills
+Organizational Skills
+Communication Skills
+Team Building
+Staff Development
+Excel: ORG
+Microsoft: ORG
+Bilingual: GPE

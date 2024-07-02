@@ -1,0 +1,77 @@
+PROJECT REGIONAL: PERSON
+Summary
+
+Financial Planning /Analysis / Management Budgeting (Capital & Operations: ORG
+P & L Administration Accounting Reporting / Disbursements Equity
+& Debt Financing New Business / Market Development Business Service Contract Negotiation Vendor / Sub Contractor Partnerships Customer
+Government Relations Human Resources Management Office: ORG
+Technology Capital Equipment Acquisition Purchasing / Materials
+Management DadeStar Group: ORG
+Ft: GPE
+Washington: GPE
+Maryland: GPE
+Proactive Project: PERSON
+Proactive Project: PERSON
+more than 25 years: DATE
+the Construction Industry: ORG
+Areas Of Expertise And Strength Encompass: ORG
+Business Operations Management
+Contract Administration
+Review: ORG
+Superb: NORP
+MS Office: ORG
+Million: CARDINAL
+160: CARDINAL
+over 300: CARDINAL
+Site Safety Coordinator: ORG
+Polukai: ORG
+FEMA Roofing Project: ORG
+Louisiana: GPE
+Mississippi: GPE
+Florida: GPE
+Hurricane Katrina: EVENT
+three years: DATE
+12.5 Million: CARDINAL
+one year: DATE
+2.5 Million: CARDINAL
+Eglin AFB Waste Management Plant Renovation: ORG
+1.2 Million: CARDINAL
+2.8 Million Hawaii Immigration Building Renovation Project: MONEY
+1.8 Million: CARDINAL
+Schofield Barracks Roofing & Building Renovation 3.5 Million: ORG
+Arlington National Cemetery Roofing & Building Renovation: ORG
+5.8 Million: CARDINAL
+RFI: ORG
+Number] months: DATE
+Incident: ORG
+IIT: ORG
+01/2003: ORG
+RFI: ORG
+Proposed Change Order Requests (: WORK_OF_ART
+Quality Assurance: LOC
+QA/QC: ORG
+Certified Nuclear Component Inspector: ORG
+Non-Destructive: ORG
+Westinghouse: ORG
+Nondestructive Testing: WORK_OF_ART
+NDT: ORG
+NDT Inspectors: ORG
+Nondestructive Testing: WORK_OF_ART
+Initiated: ORG
+Associate of Arts : Mechanical Engineering: ORG
+1982: DATE
+Pensacola Junior College: ORG
+State: ORG
+Industrial EngineeringCoursework: ORG
+BUSINESS DEVELOPMENT: ORG
+Business Operations: ORG
+Competitive: ORG
+Regulatory Compliance: PERSON
+Problem Resolution: PRODUCT
+Project
+Management, Proofing: ORG
+QA: ORG
+Quality Control: ORG
+Supervision: ORG
+Troubleshooting: GPE
+Workflow: GPE

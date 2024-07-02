@@ -1,0 +1,91 @@
+CONTROL / SR: ORG
+Skills
+
+MS Excel: ORG
+Hlook: NORP
+Vlookup: PERSON
+Access: ORG
+MS Word: PERSON
+MS PowerPoint: PERSON
+MS Outlook: GPE
+SNLS: ORG
+DNLS: ORG
+F-O-A: PRODUCT
+5: CARDINAL
+3: CARDINAL
+PPC: ORG
+MV: ORG
+Canada-India Institute Industry Linkage Project: ORG
+Ahmedabad: GPE
+LAA Teqnix: WORK_OF_ART
+2006: DATE
+L.D.C.E.
+Ahmedabad: FAC
+LAA Teqnix" Tex Icon-Smarter 2005: WORK_OF_ART
+L.D.C.E.
+Ahmedabad: FAC
+Production Control / Sr: ORG
+2009: DATE
+Manufacturer &: ORG
+SAP: ORG
+Coordinated: ORG
+Coordinated: ORG
+Evaluate: ORG
+SAP: ORG
+Communicate: ORG
+Europe Buyer: LOC
+Metro Poland: GPE
+Real Poland: GPE
+Czech Republic: GPE
+Hungary: GPE
+Slovak: GPE
+CNC: ORG
+Artex Apparels: PERSON
+Gujarat: GPE
+Manufacturer &: ORG
+Dec 2006: DATE
+2009: DATE
+the "Time & Action Plan: ORG
+weekly: DATE
+Translate: ORG
+Buyer: PERSON
+International customer"-European company: WORK_OF_ART
+ZANNIER: GPE
+27: CARDINAL
+RNA landmark: ORG
+customer"- LIFESTYLE: PERSON
+PANTALOON & RELIANCE: ORG
+Trainee: PERSON
+Jun 2006: PERSON
+Role and Responsibilities: WORK_OF_ART
+3 month: DATE
+PPC: ORG
+Quality Control: ORG
+May 2015-: DATE
+Cont Role: ORG
+Evaluate: ORG
+Secures: PERSON
+Communicate: ORG
+monthly: DATE
+weekly: DATE
+SAP: GPE
+Expedite: PRODUCT
+Map: NORP
+Select: ORG
+third: ORDINAL
+Training
+Masters , Engineering Management: ORG
+May 2016 City: DATE
+State Engineering Management
+Bachelor of Engineering , Textile Technology June: ORG
+LDCE-Gujarat University India Textile Technology: ORG
+CNC: ORG
+Czech: NORP
+Access: ORG
+Excel: PRODUCT
+MS Outlook: GPE
+MS PowerPoint: PERSON
+MS Word: PERSON
+Pivot: PERSON
+Quality Control: ORG
+SAP: ORG

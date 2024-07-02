@@ -1,0 +1,44 @@
+years: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+QuickBooks: ORG
+Schedule: ORG
+Suite: PERSON
+Resourceful
+Self-starter
+Articulate: WORK_OF_ART
+Flexible
+
+Introduced: ORG
+Material Development
+
+Created: ORG
+Team Building and Leadership
+
+Created: ORG
+Goal Setting Â 
+
+Established: WORK_OF_ART
+Lesson Planning Â 
+
+: ORG
+WWII: EVENT
+Taught Language Arts: ORG
+43 5th: CARDINAL
+5th: ORDINAL
+22: CARDINAL
+Communicated: ORG
+Created: ORG
+weekly: DATE
+monthly: DATE
+daily: DATE
+Created: ORG
+Excel: PRODUCT
+Name City: GPE
+each [month: DATE
+06/2008 Company Name City: ORG
+Bachelor of Arts : Education/: ORG
+University of Maine: ORG
+Fort Kent City: FAC
+State: ORG
+Time: ORG

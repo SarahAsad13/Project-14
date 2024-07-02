@@ -1,0 +1,37 @@
+Collections: LOC
+Energetic: PRODUCT
+Steward: ORG
+FHA: ORG
+Conventional: ORG
+USDA: ORG
+Reliable: WORK_OF_ART
+East Tennessee: GPE
+several years: DATE
+September 2002: DATE
+Loan Processing: ORG
+VA: ORG
+FHA: ORG
+USDA: ORG
+Continuing: GPE
+every year: DATE
+February 2002 to September 2002: DATE
+August 1998 to June 1999: DATE
+Processed: GPE
+Maintained: GPE
+Maintained: GPE
+Coordinated: ORG
+May 1997 to August 1998: DATE
+100: CARDINAL
+Capstone Institute: ORG
+2008 - City: DATE
+State: GPE
+USA: GPE
+several years: DATE
+every year: DATE
+Tennessee National Association of Mortgage Professionals: ORG
+2009: DATE
+14 years: DATE
+Calyx Point: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Client Bookkeeping Software: PERSON

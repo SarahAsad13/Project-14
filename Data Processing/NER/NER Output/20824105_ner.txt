@@ -1,0 +1,215 @@
+Information Technology: ORG
+Admin Intern: PERSON
+04/2019: CARDINAL
+AWS: ORG
+30%: PERCENT
+10: CARDINAL
+weekly: DATE
+SSH: ORG
+TCP: ORG
+Network Engineer Intern: WORK_OF_ART
+10/2015: CARDINAL
+LAN: ORG
+WAN: ORG
+HTTP: ORG
+DHCP: ORG
+DNS: ORG
+OSPF: ORG
+VLAN: ORG
+10/2018: CARDINAL
+2019: DATE
+Cisco Certified Network Associate - CCNA: EVENT
+200-125: CARDINAL
+04/2019: CARDINAL
+Amazon: ORG
+IP: ORG
+NAT: ORG
+Windows AMI: PERSON
+WAN: ORG
+Fall 2018: DATE
+IP: ORG
+DHCP: ORG
+OSPF: ORG
+HSRP: ORG
+RSTP: ORG
+ACL: ORG
+Linux Based: PERSON
+Linux: PERSON
+Fall 2018: DATE
+WebServer: ORG
+Admin Intern: PERSON
+04/2019: CARDINAL
+AWS: ORG
+30%: PERCENT
+10: CARDINAL
+weekly: DATE
+SSH: ORG
+TCP: ORG
+Network Engineer Intern: WORK_OF_ART
+10/2015: CARDINAL
+LAN: ORG
+WAN: ORG
+HTTP: ORG
+DHCP: ORG
+DNS: ORG
+OSPF: ORG
+VLAN: ORG
+10/2018: CARDINAL
+2019: DATE
+Cisco Certified Network Associate - CCNA: EVENT
+200-125: CARDINAL
+04/2019: CARDINAL
+Amazon: ORG
+IP: ORG
+NAT: ORG
+Windows AMI: PERSON
+WAN: ORG
+Fall 2018: DATE
+IP: ORG
+DHCP: ORG
+OSPF: ORG
+HSRP: ORG
+RSTP: ORG
+ACL: ORG
+Linux Based: PERSON
+Linux: PERSON
+Fall 2018: DATE
+WebServer: ORG
+DHCP Server: ORG
+Backup: PERSON
+NFS: ORG
+IPsec: ORG
+Spring 2018: EVENT
+Python: GPE
+AES: ORG
+256: CARDINAL
+Client: GPE
+Socket
+Programming: PERSON
+TCP: ORG
+2017: DATE
+Linux: GPE
+TCP: ORG
+Load Balancer: PERSON
+Fall 2017: DATE
+HTTP: ORG
+POX: NORP
+Openflow Switch Client: ORG
+Python Fall 2017: EVENT
+TCP: ORG
+RSA: ORG
+Master of Science : Telecommunication and Networks: WORK_OF_ART
+12/2019: CARDINAL
+Northeastern University: ORG
+Solapur University - City: ORG
+06/2016: PRODUCT
+December 2019: DATE
+Highlights: GPE
+TCP/IP: ORG
+UDP: ORG
+HTTP/S: ORG
+DHCP: ORG
+DNS: ORG
+STP: ORG
+HSRP: GPE
+ISIS: ORG
+RIP: ORG
+OSPF: ORG
+MPLS: ORG
+FTP: ORG
+SMTP: ORG
+IPSec: ORG
+VLAN: ORG
+VPN
+Network Tools: PERSON
+Wireshark: ORG
+VMware: ORG
+VirtualBox: ORG
+Oracle,Windows
+Server: ORG
+AWS: ORG
+Active Directory
+Operating Systems :: WORK_OF_ART
+Windows,Linux: GPE
+Bash Scripting: ORG
+Internet Protocols & Architecture: ORG
+Network
+Security: ORG
+Computer Communication Networks: ORG
+Multimedia Communication: ORG
+SMTP: ORG
+Cisco Certified: GPE
+Switches: ORG
+Cisco: GPE
+TCP/IP
+Client: ORG
+VPN
+DHCP: PERSON
+WAN: ORG
+DNS: ORG
+Windows Server: PERSON
+IP: ORG
+ISIS: ORG
+LAN: ORG
+Linux
+Windows
+Multimedia: PERSON
+Network Security: ORG
+Oracle: NORP
+TCP/IP: ORG
+UDP: ORG
+HTTP/S: ORG
+DHCP: ORG
+DNS: ORG
+STP: ORG
+HSRP: GPE
+ISIS: ORG
+RIP: ORG
+OSPF: ORG
+MPLS: ORG
+FTP: ORG
+SMTP: ORG
+IPSec: ORG
+VLAN: ORG
+VPN
+Network Tools: PERSON
+Wireshark: ORG
+VMware: ORG
+VirtualBox: ORG
+Oracle,Windows Server: ORG
+AWS: ORG
+Active Directory
+Operating Systems :: WORK_OF_ART
+Windows,Linux: GPE
+Bash Scripting: ORG
+Internet Protocols & Architecture: ORG
+Network Security: ORG
+CComputer Communication Networks: ORG
+Multimedia Communication: ORG
+Apache2: GPE
+Bash: GPE
+CCNA: PERSON
+Cisco: GPE
+DHCP: ORG
+DNS: ORG
+FTP: ORG
+HTTP: ORG
+Protocols: PERSON
+IP: ORG
+ISIS: ORG
+LAN: ORG
+Linux: GPE
+Windows: GPE
+Multimedia: GPE
+Network Security: ORG
+Network: PERSON
+Networks: ORG
+Operating Systems: ORG
+Oracle: ORG
+OSPF: ORG
+RIP: PERSON
+SSH: ORG
+SMTP: ORG
+TCP/IP: ORG
+WAN: ORG
+Windows Server: PERSON

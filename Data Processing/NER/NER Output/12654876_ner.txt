@@ -1,0 +1,86 @@
+Thirty years: DATE
+Project and Construction Management: ORG
+twenty: CARDINAL
+two: CARDINAL
+Higher Education: ORG
+Facilities: GPE
+Ops & Systems: ORG
+M&O: ORG
+Capital Budgets: ORG
+Staffing and Bargaining
+Agreements: WORK_OF_ART
+600 acres: QUANTITY
+150: CARDINAL
+60 Union: PERCENT
+OSHA: ORG
+Professional Development and Skills *Facilities Management Professional: ORG
+Certified Project: ORG
+Facilities and Technology Management *Electrical Engineering Technology *Construction Management: ORG
+Electrician: PERSON
+Fiber Optics: ORG
+Fire Suppression Systems: ORG
+Life Safety
+Systems: ORG
+HVAC Mechanical Systems: ORG
+Boilers: ORG
+Infrastructure Management: ORG
+Sustainability and Energy Management: ORG
+GIS ArcView: PERSON
+MS Office & Project: ORG
+Fire, Electrical: ORG
+Plumbing, Energy, Life Safety: ORG
+NFPA: ORG
+State: GPE
+Roosevelt Island: GPE
+Manhattan: GPE
+NY: ORG
+15,000: CARDINAL
+147 acres: QUANTITY
+Cornell University: ORG
+Buildings Company Name: ORG
+Directed: ORG
+60: CARDINAL
+150: CARDINAL
+2 + million: CARDINAL
+600 acres: QUANTITY
+Buildings Company Name: ORG
+Natural Gas: ORG
+Electricity Commodity & Delivery: ORG
+Annual: DATE
+Annual: DATE
+$10 million: MONEY
+Senior Administrative Teams: ORG
+Union Bargaining Units Negotiations, Drug Task Force: ORG
+Emergency Management: ORG
+Mass
+Casualty Incident Management: ORG
+25,000: MONEY
+2,000,000: MONEY
+BMS: ORG
+Buildings and Grounds Company: ORG
+Life Safety: ORG
+13,200: CARDINAL
+Carbon Plant, Waste Water Treatment Center for the City of New
+York: ORG
+Lead Electrician & Business Manager Company: ORG
+State: ORG
+Apprentice: ORG
+Journeyman Electrician Company Name: ORG
+Air-Base Ground Defense Company Name: ORG
+Training: PERSON
+2015: DATE
+Facilities and Technology Management : Electrical Engineering Technology Empire State College Dutchess Community College Electrical
+Engineering Technology: ORG
+2013: DATE
+FMP - Facilities Management Professional - International Facilities Management Association: ORG
+Boston University: ORG
+1982: DATE
+Electricity-Electrical Construction and Maintenance - Mohawk Valley Community College: ORG
+Skills: ORG
+Facilities Management: ORG
+Natural Gas: ORG
+Plan Development: ORG
+Safety: ORG
+Telephone, Water Treatment
+
+: ORG

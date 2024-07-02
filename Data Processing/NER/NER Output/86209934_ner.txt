@@ -1,0 +1,103 @@
+Printing: ORG
+MS Office: ORG
+Die Design: ORG
+IPRIME: ORG
+Coatings: PERSON
+Microstructures: PERSON
+CNC: ORG
+Polymer Processing, Servo Controls: ORG
+Calibrations: ORG
+ASQ: ORG
+Advance Regressions: ORG
+AutoCad Inventor: ORG
+DSC: ORG
+Melt Indexing: PERSON
+Instron: ORG
+Corona Treating: PERSON
+Bedford Ind. Technical: ORG
+Theta Kappa: PERSON
+Deans: NORP
+Magna Cum Lauda Management Skill: ORG
+QA: ORG
+SPC: ORG
+Communication: ORG
+Mechanical: ORG
+QA: ORG
+SPC: ORG
+SPC: ORG
+QC: ORG
+FDA: ORG
+EU: ORG
+REACH: ORG
+Jan 2003 to Jan 2005: DATE
+the Nuclear Regulatory Commission: ORG
+HELB: ORG
+Design of Experiments: ORG
+45 ton: QUANTITY
+SPC: ORG
+St Cloud State: PERSON
+Paraprofessional - Independent School: ORG
+287 - 2001 to 2002: DATE
+daily: DATE
+Bartender - Sharx Night Club: ORG
+daily: DATE
+Supervisor Jan 1991: DATE
+Jan 1997: DATE
+Renaissance Fairs: ORG
+Bachelor of Science 2005 St. Cloud State University: ORG
+State: ORG
+3.7: CARDINAL
+3.8: CARDINAL
+Arts North Hennepin Community College: ORG
+State Arts 4.0 Skills & Abilities Statistical Process Control Design of Experiment: ORG
+Inventor: GPE
+Office/Access Machine Design Plastic Injection/Extrusion EIT (FE) Exam: ORG
+Minitab Web: PERSON
+Printing: ORG
+MS Office: ORG
+Die Design: ORG
+IPRIME: ORG
+Coatings: PERSON
+Microstructures: PERSON
+CNC: ORG
+Polymer
+Processing, Servo Controls: ORG
+Calibrations: ORG
+ASQ: ORG
+Advance Regressions: ORG
+AutoCad Inventor: ORG
+DSC: ORG
+Melt Indexing: PERSON
+Instron: ORG
+Corona Treating: PERSON
+Bedford Ind. Technical: ORG
+Nuclear Management Company Awarded: ORG
+three: CARDINAL
+Safety and Maintenance: ORG
+North American: NORP
+Virginia: GPE
+Wisconsin: GPE
+Crisis Prevention and Intervention: ORG
+ISD: ORG
+287: CARDINAL
+Certified CPR & First Aid: ORG
+American Red Cross: ORG
+CNC: ORG
+CPR: ORG
+Design of Experiments: ORG
+Design of Experiment: ORG
+DSC: ORG
+EIT: ORG
+Engineer: ORG
+First Aid: ORG
+Ind, Indexing: ORG
+Mechanical: ORG
+Access, MS Office: ORG
+Minitab: GPE
+Peachtree: GPE
+Quality: ORG
+QA: ORG
+Safety: ORG
+Sigma: NORP
+SPC: ORG
+Statistical Process Control: ORG

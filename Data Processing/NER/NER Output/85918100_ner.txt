@@ -1,0 +1,68 @@
+Core Qualifications
+
+Compliance Policies and Procedures: ORG
+CSC: ORG
+People Soft Query: ORG
+DynCorp: ORG
+Deltek Costpoint: ORG
+PeopleSoft: ORG
+Oracle: ORG
+SAP: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+Notes: PRODUCT
+NCMA: ORG
+September 2016: DATE
+Current Company Name: ORG
+Accompany: PRODUCT
+Evaluate: ORG
+Principal Subcontracts Administrator: PERSON
+July 2012: DATE
+May 2016: DATE
+Program: ORG
+Subcontracts
+Administrators: ORG
+August 2009 to July 2012: DATE
+Closeout: GPE
+45: CARDINAL
+Task Orders: PRODUCT
+1 Billion dollars: MONEY
+90: CARDINAL
+up to fifteen: CARDINAL
+15: CARDINAL
+Prepared: PERSON
+June 2008 to June 2009: DATE
+over 20 million dollars: MONEY
+Requests: NORP
+Proposal: PERSON
+October 2006 to: DATE
+May 2007: DATE
+over 20 million dollars: MONEY
+Buyer: LOC
+August 2004 to October 2006 Company Name ï¼​ City: DATE
+CPSR: ORG
+Costpoint: ORG
+over $20,000: MONEY
+Teaming Agreements: ORG
+Task Orders: PRODUCT
+Associate Buyer: PERSON
+November 2000 to August 2004: DATE
+PO: ORG
+B.S :: ORG
+1997: DATE
+University of Maryland: ORG
+State Management/Psychology Subcontract Management: ORG
+Time Management & Organizational Skills: ORG
+Skills: ORG
+Business Writing: ORG
+Email: PERSON
+Government, Government regulations: ORG
+Lotus Notes: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+Oracle, Organizational Skills: ORG
+PeopleSoft: ORG
+Policies: GPE
+Proposal: PERSON
+SAP: ORG
+Time Management: ORG

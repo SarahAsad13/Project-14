@@ -1,0 +1,82 @@
+TX: ORG
+NC: GPE
+HRIS: ORG
+PTO: ORG
+16%: PERCENT
+25: CARDINAL
+three: CARDINAL
+Conducted: ORG
+Congratulatory Letters: ORG
+10/2013: CARDINAL
+Owner / Chef Company Name: ORG
+Oversee: ORG
+daily: DATE
+Mexican: NORP
+Italian: NORP
+up to 100: CARDINAL
+Interface: ORG
+Coordinate: FAC
+Sole: NORP
+Applied: ORG
+28%: PERCENT
+first year: DATE
+Established: ORG
+digital: ORG
+State: ORG
+Oversaw: GPE
+daily: DATE
+10: CARDINAL
+daily: DATE
+daily: DATE
+2017: DATE
+HR Management ASHFORD UNIVERSITY: ORG
+State: ORG
+2,500: CARDINAL
+HR Management
+Managerial Finance: ORG
+Managerial Accounting, Economics: ORG
+Managerial Marketing, Organizational Behavior: ORG
+Operations Management: ORG
+Strategies for HR Management Project: Reviewed: ORG
+more than 30 years: DATE
+two: CARDINAL
+GPA: ORG
+3.9: CARDINAL
+Golden Key International: ORG
+Recipient of Ashford University: ORG
+2008: DATE
+State Business: ORG
+April 2018: DATE
+Sigma Six Yellow Belt Certification: EVENT
+2018: DATE
+3 years: DATE
+10 years: DATE
+Generalist: PERSON
+Human Resources: ORG
+Generalist: PERSON
+ADA/EEO Employee Relations HR Policies and Benefits & Administration Procedures Payroll
+Administration Staff Recruitment & Retention HRIS: ORG
+Paychex: GPE
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Skills: ORG
+ADA: ORG
+Benefits & Administration: ORG
+Business Law: ORG
+Economics: ORG
+Finance: ORG
+Financial: ORG
+HRIS: ORG
+Human Resources: ORG
+Italian: NORP
+Law: PERSON
+Managerial, Managerial Accounting: ORG
+Excel: PRODUCT
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word, Operations Management: ORG
+Payroll: ORG
+Recruitment: ORG
+Sigma: GPE

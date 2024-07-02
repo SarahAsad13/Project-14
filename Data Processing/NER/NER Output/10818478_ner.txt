@@ -1,0 +1,25 @@
+Summary
+Responsible: WORK_OF_ART
+Store: PERSON
+Named: WORK_OF_ART
+the Month: DATE
+monthly: DATE
+numerous months: DATE
+three: CARDINAL
+September 2015: DATE
+January 2015 to September 2015: DATE
+20%: PERCENT
+monthly: DATE
+Initiated: ORG
+daily: DATE
+Maintained: GPE
+Radio Shack: ORG
+November 2013 to January 2015: DATE
+Described: PERSON
+Facilitated: ORG
+monthly: DATE
+quarterly: DATE
+Maintained: GPE
+Business/: GPE
+Detail: PERSON
+70: CARDINAL

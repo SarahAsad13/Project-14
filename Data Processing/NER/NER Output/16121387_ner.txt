@@ -1,0 +1,69 @@
+B.A: ORG
+Health Information Management/.: ORG
+American College: ORG
+Healthcare Executives Builds Instant Rapport and Relationships with Patients/Healthcare Professionals Negotiates Mutually Beneficial Solutions
+Diplomatic Communicator Exceeds Healthcare/Business Objectives Sources Cost-Effective Solutions Process Improvement Compliant: ORG
+HIPAA/Organizational Guidelines Ambitious: ORG
+Dedicated Project and Program Management]: ORG
+Electronic Medical Records(EMR: ORG
+Maintained Confidentiality, Sensitivity: ORG
+Accuracy: PERSON
+the Overall Patient: ORG
+Physicians: NORP
+Prioritized Patient Care Services: ORG
+Appointments: ORG
+Administrative/Office/Accounting Support: ORG
+Allocated: ORG
+Forecasted Inventory Levels: ORG
+Meet both Individual and Team Goals: ORG
+Skills
+Work History
+Medical: ORG
+10/2014: CARDINAL
+State 
+
+Healthcare Information Management Processes: ORG
+Distributes: ORG
+Maintain
+Regulatory: PERSON
+Health Information Ensures: ORG
+HEALTHCARE: ORG
+1: CARDINAL
+Voluenteer FLoor Host: ORG
+01/2010: DATE
+Maintained Accurate Documentation/Records: ORG
+Upheld the Philosophies/Objectives of Patient Care: ORG
+Healthcare: ORG
+06/2012: PRODUCT
+Oversaw: GPE
+weekly: DATE
+Continually: ORG
+Facilitated: ORG
+Cooperated: ORG
+Maintained: GPE
+Created: ORG
+2014: DATE
+The University of Phoenix - City: ORG
+State: ORG
+HEALTHCARE: ORG
+1 2008: DATE
+Dallas Baptist University - 
+BUSINESS ADMINISTRATION: ORG
+Certifications: ORG
+Six: CARDINAL
+Effective
+Communication: ORG
+Interpersonal Skills: ORG
+Spreadsheet: GPE
+Maintain: PERSON
+Interpersonal Skills: ORG
+CPR Certified: ORG
+Documentation: ORG
+First Aid: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Six Sigma: PERSON
+Spreadsheet: PERSON

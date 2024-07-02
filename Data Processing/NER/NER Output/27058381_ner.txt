@@ -1,0 +1,182 @@
+21674: DATE
+SKSIT Security: ORG
+the Wireless Environment: ORG
+18640: DATE
+SKSIT Securing: ORG
+10/30/12 27481: DATE
+Securing VoIP Networks: LOC
+03/20/12 36542: DATE
+Malware: ORG
+30688: CARDINAL
+14766: DATE
+34601: DATE
+KISAM Service: ORG
+09/26/11 31856: PERSON
+28902: DATE
+01/31/11 28801: DATE
+14763: DATE
+SKSIT Intrusion Detection: ORG
+Response: ORG
+Networked Environments: PRODUCT
+03/22/10 21797: DATE
+SKSIT Introducing Voice: ORG
+IP: ORG
+the Wireless
+Environment: ORG
+17090: DATE
+SKSIT Wireless Communication Basics 04/10/09: EVENT
+21597: CARDINAL
+The Fundamentals of Networking: ORG
+18287: DATE
+KARTA Introduction to the Certification & Accreditation: ORG
+18064: DATE
+13085: DATE
+14115: DATE
+14025: DATE
+FIREWALLS: ORG
+14780: DATE
+15248: DATE
+2003: DATE
+17633: DATE
+03/24/06 18035: DATE
+KARTA Technical Controls: ORG
+18041: DATE
+KARTA Risk Management: ORG
+03/22/06 18034: DATE
+03/17/06 18004: DATE
+03/17/06 18033: DATE
+KARTA Management
+Controls: ORG
+18076: DATE
+03/14/06 18064: DATE
+KARTA Information Security Awareness - Beginner: ORG
+03/14/06 18060: DATE
+15225: DATE
+40 + Ogden: PERCENT
+12: CARDINAL
+Information Technology Computer: ORG
+Peter C Morgan: PERSON
+304: CARDINAL
+12: CARDINAL
+Computer Systems Administrator: ORG
+EOps: ORG
+WSSB-BSS-CIS: ORG
+CIS: ORG
+4: CARDINAL
+CIS: ORG
+7: CARDINAL
+SA: ORG
+500: CARDINAL
+IRS: ORG
+Objectives: ORG
+IRS: ORG
+IRS: ORG
+I.R.S.: GPE
+UWR: ORG
+KISAM: ORG
+Server Compliance: ORG
+Windows Operating System: ORG
+TOS: ORG
+RTS: ORG
+Microsoft: ORG
+Altiris: NORP
+Windows Policy Checker: PERSON
+IRS: ORG
+Cyber Security Compliance: ORG
+Word: GPE
+TPF Operations Server: ORG
+TOS: ORG
+BAG: ORG
+IMM: ORG
+un: ORG
+Analyze and Diagnosing: WORK_OF_ART
+01/1989: CARDINAL
+40 + Ogden: PERCENT
+Information Technology Computer System Administrator: ORG
+Sandy Spiers: PERSON
+801-620-4555: CARDINAL
+IRS: ORG
+IRS: ORG
+Tax Examiners: PERSON
+nine: CARDINAL
+I.R.S: ORG
+Job Related Training: FAC
+Item Item Description Completion Date: ORG
+Information Technology Specialist: ORG
+my first 7 years: DATE
+3: CARDINAL
+BAG: ORG
+IMM: ORG
+un: ORG
+1983: DATE
+Cultural Competence and Effective Communication: WORK_OF_ART
+27931: DATE
+SKSIT Monitoring, Backups: WORK_OF_ART
+2008: DATE
+31818: DATE
+Microsoft: ORG
+Windows Server: PERSON
+2008: DATE
+02/17/16: CARDINAL
+SKSIT Patch Management and Securing: ORG
+2008: DATE
+12/18/15 36545: DATE
+SKSBS IT Project Management
+Essentials: Monitoring and Controlling IT Projects: ORG
+12/11/15 36544: DATE
+SKSBS IT Project Management Essentials:: ORG
+12/11/15: CARDINAL
+36543: DATE
+SKSBS IT Project Management Essentials:: ORG
+12/11/15 36546: DATE
+SKSBS IT Project Management
+Essentials: Managing Risks: ORG
+SKSBS IT Project Management Essentials: Introduction to IT Project Management: ORG
+12/10/15 27225: DATE
+SKSBS Troubleshooting and Closing the Project: ORG
+60476: DATE
+SKS-LLPKG PM Lite - A: ORG
+12/10/15: CARDINAL
+27236: DATE
+SKSBS Managing a Project 12/09/15 27234: ORG
+Project Management Role: ORG
+27233: DATE
+SKSBS Project
+Management Fundamentals: ORG
+11/13/15 27235: DATE
+SKSBS Initiating and Planning a Project: ORG
+Windows Server: PERSON
+2008: DATE
+Securing Windows 7: ORG
+57785: CARDINAL
+43943: DATE
+CBT: ORG
+Change Management Process Overview: ORG
+31813: DATE
+Windows Server: PERSON
+2008: DATE
+2.0: CARDINAL
+VPN Technologies and Public Key Infrastructure: ORG
+12/06/13: DATE
+SKSIT Intrusion Detection and Response: LAW
+12/05/13 23464: DATE
+3: CARDINAL
+G Communication Systems: ORG
+11/23/12: CARDINAL
+Skills
+Computers: ORG
+Microsoft Access Microsoft: ORG
+Microsoft: ORG
+PowerPoint: PRODUCT
+Microsoft Event: ORG
+Adobe
+Additional Information
+
+Awards: ORG
+August 2013: DATE
+August 2012: DATE
+August 2011: DATE
+August 2010: DATE
+August 2009: DATE
+August 2008: DATE
+April 2008: DATE

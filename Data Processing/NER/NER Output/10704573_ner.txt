@@ -1,0 +1,115 @@
+BUSINESS DEVELOPMENT
+Executive Profile: ORG
+10+ years: DATE
+Skill Highlights
+
+Strategic: PERSON
+Analytical: PRODUCT
+Core Accomplishments
+
+Created: WORK_OF_ART
+67%: PERCENT
+annual: DATE
+25%: PERCENT
+19: CARDINAL
+10,500,000: MONEY
+annual: DATE
+32,000,000: MONEY
+more than $150,000,000: MONEY
+12 months: DATE
+Name City: GPE
+State: ORG
+Software: ORG
+Infrastructure as a Service: ORG
+Managed Service: ORG
+7: CARDINAL
+theÂ: GPE
+18,000,000: MONEY
+Name City: GPE
+State: ORG
+State: ORG
+Election, Corporation: ORG
+Professional Licensing, Securities: ORG
+Enforcement: NORP
+4 weeks to 2 days: DATE
+Strengthened State: ORG
+Statewide Voter Registration: ORG
+Name City: GPE
+State Territory: ORG
+monthly: DATE
+$100,000 to $800,000: MONEY
+Name City: GPE
+monthly: DATE
+120%: PERCENT
+Name City: GPE
+State Territory: ORG
+second: ORDINAL
+South Carolina: GPE
+Created: ORG
+up to 20%: PERCENT
+monthly: DATE
+second: ORDINAL
+250,000: MONEY
+1,000,000: MONEY
+Name City: GPE
+State Financial: ORG
+250,000: MONEY
+250,000: MONEY
+Name City: GPE
+State Territory: ORG
+10/2002: CARDINAL
+01/2004: CARDINAL
+Software: ORG
+35: CARDINAL
+2,000,000: MONEY
+over $200,000: MONEY
+Name City: GPE
+10/1996: CARDINAL
+20%: PERCENT
+85,000,000: MONEY
+25%: PERCENT
+annual: DATE
+120 %: PERCENT
+1,000,000Â: MONEY
+the first 90 days: DATE
+State: ORG
+Legislative: ORG
+Legislative: ORG
+35%: PERCENT
+first: ORDINAL
+Georgia: GPE
+zero: CARDINAL
+7: CARDINAL
+annual: DATE
+State Election Division: ORG
+the Georgia Athletic and Entertainment Commission: ORG
+Georgia: GPE
+Maintained: GPE
+11: CARDINAL
+Standardized: ORG
+129%: PERCENT
+215,000: MONEY
+$5 million: MONEY
+annual: DATE
+Competitive Local Exchange: ORG
+Independent Local
+Exchange Carrier: ORG
+180%: PERCENT
+1999: DATE
+160%: PERCENT
+2000: DATE
+150%: PERCENT
+2001: DATE
+10,000,000: MONEY
+Bachelor of Business Administration: ORG
+BBA: ORG
+1996: DATE
+Augusta State University: ORG
+Hull College of Business , City: ORG
+Skills
+
+Business Development: ORG
+Software: PERSON
+Technical Analysis: ORG
+Financial Analysis: ORG
+Sales Reporting: PERSON

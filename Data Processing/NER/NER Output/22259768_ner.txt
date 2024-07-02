@@ -1,0 +1,160 @@
+Profile: PRODUCT
+Around 5 years: DATE
+SAP: GPE
+Operations & Maintenance: ORG
+SAP EAM: ORG
+Design: PRODUCT
+GAS: ORG
+Material Management Module Knowledgeable: ORG
+Distribution: ORG
+SAP ECC: ORG
+Intellectual
+Ability: PERSON
+Software
+Development Life Cycles: ORG
+Deans Excellence Scholarship: ORG
+Distinguish: NORP
+Dallas: GPE
+5
+years: DATE
+Information Technology: ORG
+Gathering Business Requirements and Quality Assurance and Testing: ORG
+Functional Locations, Equipment: ORG
+Installation/Dismantling at Functional Locations, Equipment Hierarchy: ORG
+Material, Serial Numbers and Serial Number Profile: ORG
+Maintenance Plans: PERSON
+Measuring Points: ORG
+Counters: ORG
+Document Link: PERSON
+Object Information: ORG
+Catalogs: PERSON
+Catalog Profiles: ORG
+Integration of Notification: ORG
+BOM: ORG
+Costing Sheets: ORG
+Testing and Change Management: ORG
+HPQC: ORG
+QTP: ORG
+SMC: ORG
+Development of Test: ORG
+ERP: ORG
+GUI Testing: ORG
+Interface Testing and Regression Testing: ORG
+Function Specifications: ORG
+Mastered: ORG
+the "Deans Excellence Scholarship: ORG
+Distinguish Scholar Awardâ€​: WORK_OF_ART
+Dallas: GPE
+Name City: GPE
+Leak Repair: ORG
+Perform Mapping: PERSON
+GIS: ORG
+SAP: ORG
+Dashboard for Reporting and Asset Management Perform Interface Testing: WORK_OF_ART
+SOAPGUI: LAW
+Functional Testing and UAT: WORK_OF_ART
+Equipment, Function Locations: ORG
+GIS: ORG
+SAP Data: ORG
+SME: ORG
+GIS: ORG
+SAP: ORG
+Working on Conversion: ORG
+Asset Strategists: ORG
+GIS Engineers: ORG
+LSMW: ORG
+IBIP: ORG
+Functional Locations: ORG
+End Users: ORG
+PAR: ORG
+Quality Center: ORG
+Requirements Document and Testing for Enhancements for GAS: WORK_OF_ART
+Analyst 05/2012: DATE
+Name City: GPE
+Southern California Gas Involved: ORG
+JAD: ORG
+Gap Analysis: ORG
+Gas Storage: WORK_OF_ART
+Riser Inspection: ORG
+MM: ORG
+Generated Maintenance Plans: PERSON
+Design Bundling Program: ORG
+Region, District, Street: GPE
+House: ORG
+Design Exception Report: WORK_OF_ART
+GIS: ORG
+SAP: ORG
+SAP: ORG
+Creation of Data: ORG
+Click Mobile Preparing Functional Specification Involved: ORG
+Test Plan: PRODUCT
+Notifications: PERSON
+Functional
+Locations: ORG
+Customer Master: PERSON
+Purchase: PERSON
+Created: ORG
+GUI: ORG
+Functionality: ORG
+Maintain Requirements: ORG
+HPQC Managed HP Quality Center: ORG
+HPQC: ORG
+Analyzer Define: PERSON
+Compliance with Compliance: ORG
+Key Performance: LOC
+M&I: ORG
+San Diego Gas Electric Projects: Construction , Planning and Design Facilitated JAD: ORG
+Electric Field Memo and Riser Inspection: ORG
+DIMP: ORG
+Electric Field Memo: WORK_OF_ART
+Electric Gas: ORG
+Compatibility Search for Electric: ORG
+Memo Data Extraction: ORG
+SAP for Riser Inspection Designed
+Process Flow: ORG
+FunctionalSpec Co-ordinated with: ORG
+Mobile
+Application for Riser Inspection Performed End to End Testing of SAP to: ORG
+Mobile Application: ORG
+Design: PRODUCT
+PMLite: ORG
+Costing Sheet for Costing: ORG
+PMLite: ORG
+Name City: GPE
+SAP Financial Supply Change Management: ORG
+Brain Storming: PRODUCT
+Collections Management Business: ORG
+Defined Test Scenarios: ORG
+Collection
+Groups: ORG
+Collection Strategies Data Creation for Testing Preparing Job Aids for End User Training: ORG
+Name City: GPE
+ETL: ORG
+the Change Management Process: ORG
+HP Quality Center from Excel Tested Enhancements, Reports,: ORG
+Functionality: ORG
+Conversions Performed: PERSON
+Shakedown: GPE
+UAT Performed: ORG
+Smoke: ORG
+Quality Center: ORG
+Name City: GPE
+Training
+Master of Science : Information Technology Management 2011 University of Texas City: WORK_OF_ART
+State: ORG
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.78/4.0: CARDINAL
+GPA: ORG
+3.78/4.0: CARDINAL
+Skills
+
+Asset Management: ORG
+Capacity Planning, Change Management: ORG
+ETL: ORG
+Forms, Functional: ORG
+GIS: ORG
+GUI: ORG
+HP, Excel,: ORG
+Scripts, Specification: ORG

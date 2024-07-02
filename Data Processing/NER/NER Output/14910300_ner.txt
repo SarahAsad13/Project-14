@@ -1,0 +1,83 @@
+Media Event Planning
+Speeches Editing
+: ORG
+Social Media Marketing Media Strategy
+Business Planning Strong: ORG
+Market Analysis Marketing Communications: ORG
+Leadership Customer: PERSON
+Advertising Writing: PERSON
+Power Point Project Management: ORG
+Microsoft: ORG
+Widows: GPE
+2000: DATE
+XP: ORG
+Vista: ORG
+Operating System Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Mac IOS: PERSON
+Numbers: ORG
+Twitter: PERSON
+Instagram: ORG
+English: LANGUAGE
+Articulate: ORG
+Stakeholder: ORG
+Tax Collector Officer Company Name: ORG
+Maintained: PERSON
+the Renace Homeless Shelter: ORG
+2012ï¿½ 2013: DATE
+Organization: ORG
+Prevent Individuals and: ORG
+Family: ORG
+80%: PERCENT
+60%: PERCENT
+the Coalition of Homeless People of Puerto Rico Launched: ORG
+1: CARDINAL
+Coordinated: ORG
+monthly: DATE
+quarterly: DATE
+twelve: CARDINAL
+Maintained: GPE
+Wrote: PERSON
+District Office of Puerto Rico: ORG
+Congress of United States: ORG
+Media Monitoring: ORG
+08/2003: CARDINAL
+Prepare: ORG
+daily: DATE
+Coordinate: FAC
+daily: DATE
+one year 2: DATE
+just twelve Â months: DATE
+Catholic News TV: ORG
+2016: CARDINAL
+Business Administration (Marketing) Pontifical Catholic University: ORG
+ï¼​ City: GPE
+State: GPE
+Puerto Rico Business Administration: ORG
+2008: DATE
+Radio Communication Pontifical Catholic University: ORG
+ï¼​ City: GPE
+State: GPE
+Puerto Rico Radio Communication: ORG
+Business Development, Business Planning: ORG
+Corporate Communications: ORG
+Customer Service: ORG
+Event Planning: ORG
+Leadership, Mac: ORG
+Market Analysis: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Power Point: ORG
+Windows 8, 2000: PERSON
+Word: PERSON
+Microsoft: ORG
+Organizing, Persuasive: ORG
+Press: ORG
+Project Management, Publicity: ORG
+Vista: ORG
+2006-2008: DATE
+Coordinated Academic Conferences: ORG
+Social Responsibility: ORG

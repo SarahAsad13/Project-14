@@ -1,0 +1,26 @@
+BRAND: ORG
+Highlights: GPE
+Collaborates: PERSON
+Secures: PERSON
+11/2013: CARDINAL
+Associate Omni Buyer: ORG
+Men's Nautica Sportswear Company Name - City: ORG
+Strategized: PERSON
+10/2013: CARDINAL
+Buyer: PERSON
+Men's Dress & Casual Pants Company Name - City: ORG
+monthly: DATE
+Communicated: ORG
+weekly: DATE
+10/2010: DATE
+06/2012: CARDINAL
+500: CARDINAL
+2010: DATE
+Bachelor of Arts :: ORG
+State: ORG
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+PowerPoint: PRODUCT
+Microsoft: ORG

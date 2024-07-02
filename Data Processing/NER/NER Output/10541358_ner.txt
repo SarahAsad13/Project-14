@@ -1,0 +1,69 @@
+Summary
+Responsible: ORG
+Skills
+
+Problem Solving: ORG
+Time Management
+POS and Inventory Training: ORG
+QuickBooks POS: ORG
+Pacific Amber: ORG
+Lightspeed POS
+Proficient: ORG
+QuickBooks: ORG
+Microsoft Office: ORG
+Windows 10: PRODUCT
+January 2013: DATE
+Name City: GPE
+State Business Development Regional: ORG
+5%: PERCENT
+Utilizing Excel: ORG
+each quarter: DATE
+PowerPoint: ORG
+Human Resources: ORG
+Spear: LOC
+Transaction: ORG
+Inventory: PERSON
+PowerPoint: ORG
+Assisted Customers: ORG
+Communicated: ORG
+University Recruiting: ORG
+Notify Human Resources: ORG
+20: CARDINAL
+January 2012 to January 2013: DATE
+Name City: GPE
+State Social Media: ORG
+Researched: ORG
+Fortune 500: PRODUCT
+January 2011 to January 2013: DATE
+Name City: GPE
+State: ORG
+Cheerleading, Ballet: GPE
+Jazz: NORP
+Cheerleading, Ballet: GPE
+Jazz: NORP
+Maintained: GPE
+month: DATE
+Training: PERSON
+May 2012: DATE
+Arabia Mountain High School 
+City: ORG
+15%: PERCENT
+3.7: CARDINAL
+2017: DATE
+Darton State College 
+City: ORG
+State Business Administration: ORG
+Business Development: ORG
+Human Resources: ORG
+Inventory: GPE
+Managment: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Windows 8: PERSON
+Windows: GPE
+Windows XP: ORG
+Problem
+Solving: WORK_OF_ART
+QuickBooks: ORG
+Recruiting, Recruitment: ORG

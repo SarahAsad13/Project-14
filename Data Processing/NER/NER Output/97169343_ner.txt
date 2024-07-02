@@ -1,0 +1,75 @@
+Resources Recruiter: PERSON
+Skills: ORG
+Time: ORG
+Work History
+06/2014: WORK_OF_ART
+hours: TIME
+first quarter: DATE
+Recruited: PRODUCT
+Recruiting: PERSON
+Placement Source: PERSON
+Maintain: PERSON
+Resolve: PERSON
+Candidate Recruitment and Retention: ORG
+Business Development Develop: ORG
+Build: PERSON
+Participate: WORK_OF_ART
+Current
+Healthcare Recruiter Company Name: ORG
+Webinars and Conferences: ORG
+Employee Referral Programs: ORG
+Recruiting Worked: PERSON
+50/50: CARDINAL
+Created: ORG
+12/2011: CARDINAL
+Maintained: GPE
+Established: ORG
+the first 6 months of start date: DATE
+Created: ORG
+weekly: DATE
+Facility: ORG
+Created: ORG
+Created: ORG
+01/2011: CARDINAL
+Patient Care Services: ORG
+Converted: ORG
+Facilitated: ORG
+Networked: PRODUCT
+Patient Care Services Representative Company: ORG
+Conducted: ORG
+Coordinated: ORG
+Surgery Coder Company Name: ORG
+Coordinated: ORG
+Facilitated: ORG
+01/2004: CARDINAL
+Facilitated: ORG
+Converted: ORG
+Researched: ORG
+Specifically: ORG
+01/2004: CARDINAL
+Medical Insurance SpecialistPain Control Associate Company Name: ORG
+Coordinated: ORG
+01/1999: CARDINAL
+01/2003
+Medical Insurance Account Representative Company: ORG
+Specifically: ORG
+Created: ORG
+1 1998: CARDINAL
+Diploma: NORP
+Sharyland High School - City: ORG
+English: LANGUAGE
+1 2000: DATE
+State: ORG
+1 2002: DATE
+South Texas College: ORG
+Texas: GPE
+2002-2004: DATE
+Edinburg: GPE
+Texas: GPE
+41: CARDINAL
+CNA School: ORG
+McAllen: GPE
+Texas CNA-Texas Certified: ORG
+Business Development: ORG
+CNA: ORG
+Recruiting, Recruitment: ORG

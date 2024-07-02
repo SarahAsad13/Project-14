@@ -1,0 +1,63 @@
+HEALTHCARE: ORG
+HEDIS: PERSON
+Potential: ORG
+Microsoft Office: ORG
+Healthcare Effectiveness Data and Information Set: ORG
+Georgia: GPE
+Medical Management Information System: ORG
+Georgia Registry of Immunization Transactions and Services: ORG
+Consumer Cellular: ORG
+Healthcare Effectiveness: ORG
+Information Set Coordinator: ORG
+Current Company Name City: ORG
+Educate: ORG
+Conduct HEDIS: PERSON
+HEDIS: PERSON
+Microsoft Office: ORG
+Review: ORG
+Georgia: GPE
+Medical Management Information System: ORG
+Review: ORG
+the Health Plan Proprietary Information: LAW
+Georgia Registry: ORG
+Immunization Transactions and Services: ORG
+Identify: ORG
+Disease Management: ORG
+Health Insurance Portability: ORG
+Data Entry/File: ORG
+Name City: GPE
+Organized Resident Lease's: ORG
+Numeric: GPE
+08/2013 Company Name City: EVENT
+State: ORG
+Assisted: ORG
+Passport II Specialist 02/2012: ORG
+Name City: GPE
+a U.S. Passport: ORG
+Educate: ORG
+Passport: WORK_OF_ART
+12/2011: CARDINAL
+State: ORG
+Consumer Cellular: ORG
+AARP: ORG
+Took: ORG
+12/2009: CARDINAL
+Name City: GPE
+State: ORG
+Sprint/Nextel: ORG
+Sprint/Nextel: ORG
+Peek: PERSON
+Debt Collector 02/2008 to 05/2008 Company Name City: ORG
+Owens Community College: ORG
+hours: TIME
+Backup Receptionist: PERSON
+Name City: GPE
+the Claims Department: ORG
+12/2006: CARDINAL
+Name City: GPE
+H.S.: GPE
+2007: DATE
+Humanities and Science Institute: ORG
+State: ORG
+Filing, Insurance: ORG
+Microsoft Office Suite, Management Information System: ORG

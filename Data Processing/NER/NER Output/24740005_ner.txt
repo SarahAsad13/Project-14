@@ -1,0 +1,110 @@
+10+ years: DATE
+Project Management: ORG
+Commercial, Civil: ORG
+Contract Management: ORG
+Coordination, Procurement, Business development: ORG
+multi-million dollar: MONEY
+Skills
+
+Project Management
+Budget & Finances
+Personnel Acquisition & Training
+Team Management
+Customer Relations
+Site Management
+
+New Business Development
+Value Engineering
+Procurement
+Oral: ORG
+Work History
+Construction Management-: WORK_OF_ART
+20,000,000: MONEY
+Assisted: ORG
+Obtained: FAC
+Monitored: ORG
+23%: PERCENT
+30%: PERCENT
+Request for Information: ORG
+30,000,000: MONEY
+13,000,000: MONEY
+Autocad and Bluebeam: ORG
+Coordinated: ORG
+Organized: ORG
+QuickBooks: ORG
+monthly: DATE
+New Construction Business Developer: ORG
+50: CARDINAL
+quarterly: DATE
+obtain 300: CARDINAL
+Rewrote: ORG
+70%: PERCENT
+250,000-$10,000,000: MONEY
+Bachelor of Arts : Business Administration And Management College of Southern Nevada - City 
+Certificate : Construction Management: ORG
+2019: DATE
+Turner Construction Management Program - City 
+Certificate: ORG
+LEED Certification: ORG
+2019: DATE
+Kirksey Acrchitecture - City 
+
+Certificate : Real Estate: WORK_OF_ART
+2018: DATE
+Champions - City: GPE
+Project Management Coursework: ORG
+Expected: ORG
+2020: DATE
+Houston Community College - City: ORG
+State: ORG
+30 , 2019: DATE
+Associate General Contractors - City 
+Construction Management Technology: ORG
+Expected: ORG
+2020: DATE
+Houston Community College - City: ORG
+State: ORG
+Chamber of Commerce: ORG
+ABC: ORG
+Associated Builders & Contractors: ORG
+Associated General Contractors of America: ORG
+Software Skills: PERSON
+Appfolio: GPE
+Yardi: PERSON
+Quickbooks: ORG
+Microsoft Office: ORG
+ADP: ORG
+Powerpoint: ORG
+Excel: PRODUCT
+Personnel Acquisition & Training
+Team Management
+Customer Relations
+Site Management
+
+New Business Development
+Value Engineering
+Procurement
+Oral: ORG
+Work History
+Construction Management-: WORK_OF_ART
+20,000,000: MONEY
+Assisted: ORG
+Obtained: FAC
+Monitored: ORG
+23%: PERCENT
+30%: PERCENT
+Request for Information: ORG
+30,000,000: MONEY
+13,000,000: MONEY
+Autocad and Bluebeam: ORG
+Coordinated: ORG
+Organized: ORG
+QuickBooks: ORG
+monthly: DATE
+New Construction Business Developer: ORG
+50: CARDINAL
+quarterly: DATE
+obtain 300: CARDINAL
+Rewrote: ORG
+70%: PERCENT
+250,000-$10,000,000: MONEY

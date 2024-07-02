@@ -1,0 +1,58 @@
+Analysis
+Accounts Payable/Payroll
+Microsoft Office
+Written and Verbal Communications: WORK_OF_ART
+Multi Tasking
+Organization/Prioritizing
+Data Entry
+
+Highlights
+
+Strategic: ORG
+Strength: ORG
+PowerPoint: ORG
+Access
+Excel: PRODUCT
+Microsoft Office: ORG
+Bloomington: GPE
+January 2015: DATE
+Current Court Appointed Special Advocate: ORG
+Monitored: ORG
+May 2014 to August 2014: DATE
+Computed: PERSON
+January 2010: DATE
+May 2012: DATE
+annually: DATE
+Created: ORG
+Assigned: ORG
+August 2008 to October 2009: DATE
+Assigned: ORG
+Communicated: ORG
+weekly: DATE
+Education: ORG
+Indiana University: ORG
+Bloomington: GPE
+May 2016 Bachelor of Science :: DATE
+Mathematics City: GPE
+State: GPE
+U.S GPA: GPE
+GPA: ORG
+International Business and Economics: ORG
+January 2015: DATE
+Current Court Appointed Special Advocate: ORG
+May 2014 to August 2014: DATE
+January 2010: DATE
+May 2012: DATE
+August 2008 to October 2009: DATE
+Experienced Decorator: WORK_OF_ART
+8 years: DATE
+English: LANGUAGE
+Chinese: NORP
+Chinese, Conferences, Clients: ORG
+English: LANGUAGE
+Meetings, Access,: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word, Business Presentations: ORG
+Progress, Quality: ORG

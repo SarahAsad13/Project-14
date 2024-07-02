@@ -1,0 +1,42 @@
+DIGITAL: ORG
+six years: DATE
+Finance: ORG
+Digital Marketing and Social Media: ORG
+Digital Merchandising Analyst 09/2014: ORG
+Name City: GPE
+Digital Merchandising Coordinator 08/2013: ORG
+Name City: GPE
+Coordinated: ORG
+season: DATE
+05/2012: CARDINAL
+Name City: GPE
+Assisted: ORG
+Trained 200: PRODUCT
+5: CARDINAL
+Training: PERSON
+March 2017: DATE
+Indiana Tech City: GPE
+3.8: CARDINAL
+May 2010: DATE
+Huntington University City: ORG
+3.35: CARDINAL
+Skills
+
+Vendor Relations: Invodo: ORG
+BloomReach: ORG
+LoopCommerce: ORG
+UGC: ORG
+Certona: ORG
+Suggested Selling Tool: ORG
+Amazon: ORG
+Amazon: ORG
+OCP: ORG
+ATG: ORG
+Endeca: PERSON
+Merchandising: PERSON
+Retail Marketing: PERSON
+Social Media Marketing, Management: ORG
+Digital
+Marketing, Styling: ORG
+Excel: PRODUCT
+Project Management, Campaign Management: ORG

@@ -1,0 +1,31 @@
+General Associates: ORG
+Business Admin: ORG
+3.0: CARDINAL
+Grades: PERSON
+3rd: ORDINAL
+as many as 350: CARDINAL
+each day: DATE
+Store: PERSON
+daily: DATE
+3000: MONEY
+each day: DATE
+13 years: DATE
+13: CARDINAL
+one: CARDINAL
+February 2015: DATE
+daily: DATE
+Loss: PERSON
+January 2013 to February 2015: DATE
+Communicated: ORG
+January 2011 to January 2013: DATE
+Communicated: ORG
+January 2008 to January 2011: DATE
+H.S Students: ORG
+Recruited: PRODUCT
+Siena Height University: ORG
+State Communications: ORG
+General Associates: ORG
+General Lansing Community College: ORG
+Skills
+Banking, Closing: ORG
+Loss: PERSON

@@ -1,0 +1,51 @@
+6 years: DATE
+Line Cook: PERSON
+15 years: DATE
+Highlights: GPE
+Contemporary: ORG
+Inventory: GPE
+2015: DATE
+BEST CUSTOMER SERVICE AWARD: WORK_OF_ART
+Owner/Chef 08/2012: ORG
+Name City: GPE
+Maintained: GPE
+Oversaw: GPE
+daily: DATE
+Anticipating: ORG
+06/2012: CARDINAL
+Name City: GPE
+10: CARDINAL
+Accepts: PRODUCT
+Name City: GPE
+8: CARDINAL
+Trains: PERSON
+Participates: GPE
+First-Cook 08/2008: ORG
+Name City: GPE
+Cook &: ORG
+daily: DATE
+Cook: PERSON
+700: CARDINAL
+Sous Chef 03/2008: PERSON
+Name City: GPE
+Elegant: PERSON
+thirty Years: DATE
+Supervises: ORG
+Communication: PRODUCT
+Manage: ORG
+Train: GPE
+Cook: PERSON
+03/2008: CARDINAL
+Name City: GPE
+Mediterranean: LOC
+Italy: GPE
+Todd English: PERSON
+stocks & soups: ORG
+Associate of Occupational Science 6/2008: ORG
+Allergen Computer: PERSON
+Skill Microsoft: PERSON
+Power Point: ORG
+Excel: PRODUCT
+Skills
+
+Enforcing: ORG

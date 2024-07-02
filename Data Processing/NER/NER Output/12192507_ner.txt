@@ -1,0 +1,43 @@
+Graduated Bridgewater State University: ORG
+May 2015: DATE
+Bachelor: ORG
+Aviation Management: ORG
+Embry-riddle: ORG
+Aeronautical University: ORG
+Worldwide: NORP
+International Business: ORG
+American: NORP
+Brazilian: NORP
+english: NORP
+Problem: ORG
+Decisive
+Critical: WORK_OF_ART
+FAA: ORG
+Portuguese: LANGUAGE
+English: LANGUAGE
+10/2015: CARDINAL
+Name City: GPE
+Airline Operations: ORG
+Name City: GPE
+State
+
+Aircraft: ORG
+Cargo Operations: ORG
+Ramp: PERSON
+12/2013: CARDINAL
+Name City: GPE
+Bachelor of Science : Aviation Management: ORG
+May 2015: DATE
+Bridgewater State University City: ORG
+State: GPE
+United States Aviation Management: ORG
+MBA: WORK_OF_ART
+Aeronautical University City: ORG
+State: GPE
+United States Aviation International Business: ORG
+Skills
+
+Aviation Management
+Flight of Aircraft: ORG
+English: LANGUAGE
+Managerial Strategic Planning: ORG

@@ -1,0 +1,139 @@
+CONTINUOUS IMPROVEMENT
+: PERSON
+Skills
+Fiber Optics Repair Technical: ORG
+24: CARDINAL
+Piper Cherokee: ORG
+AeroCommander 520: PRODUCT
+Cessna: PERSON
+Rain, Instruments: ORG
+Hydraulic/Pneumatic: ORG
+Electrical: GPE
+Interiors: ORG
+Continuous Improvement: PERSON
+November 2014: DATE
+40hrs: CARDINAL
+Six Sigma: PERSON
+Continuous Improvement: PERSON
+Continuous Improvement: PERSON
+Continuous Improvement: PERSON
+5S: CARDINAL
+Kaizen Events: PERSON
+Value Stream Mapping: ORG
+Cause: ORG
+Effect Analysis: ORG
+Process Controls: ORG
+Visual Controls: ORG
+Skills Used Project
+Management: ORG
+Managerial: PERSON
+Time: ORG
+Organizational Skills: PERSON
+MS Office: ORG
+A&P Mechanic / Aircraft: ORG
+April 2014 to October 2014: DATE
+60hrs: CARDINAL
+Mechanics: NORP
+FAA: ORG
+Hours: TIME
+60hrs: CARDINAL
+September 2010 to September 2013: DATE
+40hrs: CARDINAL
+Launch: NORP
+Perform: ORG
+Perform Fuel and Defuel: ORG
+September 2008 to: DATE
+August 2010: DATE
+State Create: ORG
+iPods: PRODUCT
+Operate: ORG
+Provide: PERSON
+Training
+BS : Aviation Business Administration: ORG
+2018: DATE
+Embry-Riddle Aeronautical University: ORG
+ï¼​ City: GPE
+State: GPE
+US BS: ORG
+Aviation Business
+Administration: ORG
+Safety Embry-Riddle Aeronautical University: ORG
+FL: ORG
+2015 to 2018: DATE
+2014: DATE
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Six Sigma Villanova University - Villanova: ORG
+PA 2014: DATE
+2014: DATE
+2010: DATE
+National Aviation Academy: ORG
+State: GPE
+US AS: ORG
+Aviation Maintenance National Aviation Academy: ORG
+Clearwater: PRODUCT
+2008 to: DATE
+2010: DATE
+Fiber Optic Repair
+Military: ORG
+E5-SGT: ORG
+August 2001 to January 2009: DATE
+Marine Corp Rank: ORG
+E5-SGT: ORG
+August 2001 to January 2009: DATE
+E3: CARDINAL
+Marine Security Guard: ORG
+three: CARDINAL
+Embassies: LOC
+Embassy: ORG
+over 300: CARDINAL
+Six Sigma Villanova University - Villanova: ORG
+PA 2014 Present: EVENT
+Lean Six Sigma Black Belt Villanova University - Villanova: EVENT
+PA May 2015: DATE
+Powerplant Mechanics: PERSON
+FAA: ORG
+December 2010: DATE
+3: DATE
+March 2011: DATE
+Radiotelephone Operator: PERSON
+FCC Commercial Operators License: ORG
+Write/: PERSON
+Conversational: ORG
+Chinese: NORP
+Mandarin: LANGUAGE
+Security: ORG
+Microsoft Windows: ORG
+Microsoft Windows 95,: ORG
+Engines: ORG
+Fuel, Security
+Guard: ORG
+Sales Associate: PERSON
+Games: PERSON
+General Aviation: ORG
+FAA: ORG
+Training: PERSON
+Continuous Improvement: PERSON
+Kaizen: PERSON
+Managerial, Mapping, Ms Office: ORG
+Organizational Skills: ORG
+Process Controls: ORG
+Project Management: ORG
+Six Sigma: PERSON
+Six: CARDINAL
+Time Management: ORG
+FCC: ORG
+Airfoils: ORG
+APU, Aviation Electronics: ORG
+Black Belt: LOC
+E3: DATE
+Exhaust, Fiber Optics, Fire Protection: ORG
+Induction, Inspection, Inspections: ORG
+Operators License, Optics, Ordering Points: ORG
+The Clustering Structure, Painting,: WORK_OF_ART
+Sheet Metal: ORG
+Storage Area Network: ORG
+Technical
+Publications: ORG
+Turbine: ORG

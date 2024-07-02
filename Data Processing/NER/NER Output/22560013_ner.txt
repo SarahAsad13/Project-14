@@ -1,0 +1,75 @@
+Adobe Creative Suite: PERSON
+InDesign: ORG
+Flash: PERSON
+Acrobat: PERSON
+Quark Xpress: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Wordpress: ORG
+Blackbaud NetCommunity: ORG
+Constant Contact: PERSON
+Flash Web Demos: PERSON
+Interactive Demos: PERSON
+the Home Appliance and Wireless: ORG
+Flash: PERSON
+Sanyo: PERSON
+Hello Kitty Toaster: ORG
+Coffee Maker: PERSON
+Waffle Maker: ORG
+Eneloop: PERSON
+Blister: PERSON
+Eneloop Wii: PERSON
+Costco: ORG
+Air WasherTM - air: ORG
+Bed, Bath & Beyond: ORG
+Air WasherTM: ORG
+monthly: DATE
+quarterly: DATE
+Countrywide Print Collateral: Design: ORG
+Countywide Home Loans,: ORG
+Countrywide Capital Markets: ORG
+Countrywide Security Corporation: ORG
+Countrywide: PERSON
+Oversaw: GPE
+Western Bagel Baking Corporation Print Collateral: Design: ORG
+Layout: GPE
+Coordinated: ORG
+January 2011: DATE
+the Advancement Department: ORG
+summer: DATE
+three: CARDINAL
+annual: DATE
+Facebook: PRODUCT
+Twitter: PRODUCT
+January 1995 to January 2011: DATE
+eight: CARDINAL
+Coordinated: ORG
+Print: GPE
+Los Angeles County Sheriff's: GPE
+one: CARDINAL
+21-35: DATE
+Media Buys: Responsible: ORG
+Directed: ORG
+1 1995: DATE
+California State University: ORG
+Spanish: NORP
+Skills: ORG
+Acrobat: PERSON
+Photoshop: PERSON
+Advertisements: PERSON
+Asset Management: ORG
+Capital Markets: ORG
+Flash: PERSON
+Graphic: PERSON
+InDesign: ORG
+Layout: GPE
+Marketing Collateral: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+PowerPoint: ORG
+Word: PERSON
+Packaging: PERSON
+Packaging: PERSON
+Quark Xpress: PERSON
+Spanish: NORP

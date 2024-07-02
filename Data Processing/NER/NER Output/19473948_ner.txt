@@ -1,0 +1,46 @@
+Summary
+OFFICE & CUSTOMER: ORG
+Qualifications Dedicated: PERSON
+Microsoft Office: ORG
+Accurate: ORG
+Excel: PRODUCT
+Highlights
+
+Database
+Facsimile: GPE
+Photocopiers
+Pricing: WORK_OF_ART
+Telephones: LOC
+Mar 2015: DATE
+Maintained: GPE
+3: CARDINAL
+Exchanged: ORG
+Processed: GPE
+14: CARDINAL
+Jan 2014: DATE
+daily: DATE
+Communicated: ORG
+each month: DATE
+Team: ORG
+Jan 2013 to Jan 2014: DATE
+State: ORG
+the day: DATE
+daily: DATE
+Sanitize: ORG
+Sweep: PRODUCT
+Clerk Jan 2012 to Jan 2013: DATE
+Compile: PRODUCT
+Compute: ORG
+Maintain: PRODUCT
+Devised: ORG
+Microsoft Excel: ORG
+Spanish: NORP
+Faxes
+Facsimile
+Filing, Inventory: PERSON
+Materials: PRODUCT
+Microsoft Excel,: ORG
+Mail: GPE
+Scanners, Fluent: ORG
+Spanish: LANGUAGE
+Telephones: ORG

@@ -1,0 +1,50 @@
+Detail: PERSON
+Residential: ORG
+more than 30: CARDINAL
+multi-million dollar: MONEY
+the Las Vegas: LOC
+Chicago: GPE
+Construction Planning & Scheduling *Organization & Time Management: ORG
+Vendor & Materials Management: ORG
+Skid: LOC
+Meg: PERSON
+Drywall: PERSON
+Software
+MS Office Proficient
+
+Concrete: ORG
+Superb: NORP
+License Contractor: ORG
+January 2011 to February 2016: DATE
+HVAC: ORG
+20: CARDINAL
+RFI: ORG
+20: CARDINAL
+over 5 years: DATE
+Obtained: FAC
+PCOR: NORP
+FFE: ORG
+Foreman: PERSON
+January 2008 to January 2011: DATE
+25: CARDINAL
+M&P: ORG
+Incident: ORG
+IIT: ORG
+Foreman 
+
+January 2004 to January 2008: DATE
+35: CARDINAL
+Prepare: ORG
+35: CARDINAL
+Assigned: ORG
+Carpenter Foreman: PERSON
+January 1987 to January 2004: DATE
+35: CARDINAL
+Engineer Chicago State University: ORG
+State: GPE
+USA: GPE
+H.S.: GPE
+City: GPE
+Skills: ORG
+30 years: DATE
+OSHA: ORG

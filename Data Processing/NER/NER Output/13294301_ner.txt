@@ -1,0 +1,42 @@
+Skills
+
+Microsoft Office: ORG
+Interpersonal: ORG
+Polish: NORP
+Data Entry
+Superior: ORG
+Work History
+Accountant: WORK_OF_ART
+04/2020: CARDINAL
+Branch Service Specialist: ORG
+11/2017 to 04/2020: CARDINAL
+daily: DATE
+ATM: ORG
+Cashier: PERSON
+06/2017: CARDINAL
+10,000: MONEY
+Bachelor of Science : Accounting and Finance: ORG
+03/2020: CARDINAL
+Oakland University - City: ORG
+January 2020: DATE
+11/2016: CARDINAL
+Macomb Community College - City: ORG
+Skills
+
+: ORG
+Microsoft Office: ORG
+Interpersonal: ORG
+Polish: NORP
+Data Entry
+Superior: ORG
+Work History
+
+Accountant: WORK_OF_ART
+04/2020: CARDINAL
+Branch Service Specialist: ORG
+11/2017 to 04/2020: CARDINAL
+daily: DATE
+ATM: ORG
+Cashier: PERSON
+06/2017: CARDINAL
+10,000: MONEY

@@ -1,0 +1,160 @@
+Highlights: GPE
+Microsoft Outlook: ORG
+SurveyMonkey: ORG
+3: CARDINAL
+Health Portal Client Configuration Center: ORG
+Social Media Platforms: ORG
+Piktochart: GPE
+Prezi: PERSON
+Adobe Acrobat Pro
+: PERSON
+PeopleSoft: ORG
+WordPress: ORG
+Weebly: ORG
+Marissa A. Kalkman: PERSON
+CrossFit: ORG
+AED: ORG
+First Aid: ORG
+American Heart Association: ORG
+Core Coach Training: PERSON
+Wellcoach School of Coaching: ORG
+July 2016: DATE
+Â® Community Involvement & Leadership: ORG
+Colorado: GPE
+Society for Public H: ORG
+Education: ORG
+Board of
+Directors Continuing Education Chair: ORG
+2015: DATE
+the Rockies Conference Planning Committee: ORG
+Sponsorships: PERSON
+Exhibitors Sub-Committee Continuing Education: ORG
+Evaluation Sub-Committee: ORG
+11/2015: CARDINAL
+Current
+Program: ORG
+600,000: MONEY
+three: CARDINAL
+Denver: GPE
+three: CARDINAL
+one: CARDINAL
+one: CARDINAL
+Develop: ORG
+Create: ORG
+Current
+Fitness Coach Company Name: ORG
+State: ORG
+Coach: ORG
+six: CARDINAL
+CrossFit: ORG
+Boot Camp: ORG
+Fundamentals, Strength: ORG
+Telecommute Position: ORG
+Denver: GPE
+Colorado: GPE
+August 2014: DATE
+November 2015: DATE
+Health Promotion Program: ORG
+Strategic: PERSON
+seven: CARDINAL
+Design: PRODUCT
+Manage: PRODUCT
+Health Promotion: ORG
+Train: GPE
+Provide: NORP
+the State of Kansas: ORG
+11/2012: CARDINAL
+the State of Kansas: ORG
+72,000: CARDINAL
+Interpreted: ORG
+weekly: DATE
+monthly: DATE
+annual: DATE
+Developed: PRODUCT
+11/2012: CARDINAL
+Health Risk Solutions Consultant Company Name: ORG
+Benefits/Human Resources: ORG
+Developed: ORG
+Supervisor: PERSON
+the Health Risk Solutions: ORG
+08/2009: CARDINAL
+01/2011: CARDINAL
+Health Education Specialist Company Name: ORG
+One: CARDINAL
+six: CARDINAL
+the Blueprint for Wellness Map: LAW
+Built: ORG
+Researched: ORG
+Personnel and Programming Management Hired: ORG
+70: CARDINAL
+Established: ORG
+Celebrate EveryBODY: PERSON
+National Eating Disorder Awareness Week: ORG
+8 year: DATE
+2016: DATE
+Conditioning Council: ORG
+the Body Image Awareness
+Student Committee Created: ORG
+CircuitStrength: ORG
+May 2009: DATE
+Master of Science : Applied Health Science, Health Promotion Indiana University: WORK_OF_ART
+ï¼​ City: GPE
+State Applied Health Science, Health Promotion: ORG
+2008: DATE
+Graduate Assistantship - Fitness and: ORG
+IU Campus Recreational Sports: ORG
+2007 Â​ 2009: DATE
+Health Promotion Internship: ORG
+Lutheran General Hospital: ORG
+Park Ridge: GPE
+Illinois: GPE
+May 2007: DATE
+Bachelor of Arts : Psychology Public Health Education Indiana University: ORG
+ï¼​ City: GPE
+State Psychology Public Health Education: ORG
+Education Specialist: PERSON
+National Commission for Health Education Credentialing: ORG
+American College of Sports Medicine: ORG
+Professional Affiliations
+: ORG
+Society for Public H: ORG
+Education: ORG
+Alliance Professional: ORG
+Current) International Association for W: ORG
+Shawnee County: GPE
+Worksite
+Wellness Coalition of Employers: ORG
+Topeka: GPE
+Kansas: GPE
+2012 Â​ 2014: DATE
+Nutrition Educator: PRODUCT
+Functional
+Movement Seminar Leader: ORG
+2011 Â​ 2013: DATE
+Kansas City: GPE
+Volunteer: PERSON
+2010 Â​ 2012: DATE
+Treasurer: PERSON
+2008 Â​ 2009: DATE
+Scholarship Chair: ORG
+2007 Â​ 2008: DATE
+Pi W: LOC
+2005 Â​ 2006: DATE
+Marissa A. Kalkman 2: PERSON
+Skills: ORG
+Adobe Acrobat: PERSON
+Coach: ORG
+Council: ORG
+Data Collection: ORG
+Electronic: ORG
+Health Education: ORG
+Health Promotion: ORG
+Human Resources: ORG
+Office Suite: PERSON
+Microsoft Outlook: ORG
+PeopleSoft: ORG
+Personnel: ORG
+Physiologist: NORP
+Social Media Platforms: ORG
+Strategic: PERSON
+Supervisor: PERSON

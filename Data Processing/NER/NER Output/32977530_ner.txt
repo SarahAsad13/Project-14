@@ -1,0 +1,59 @@
+AP/AR, Human Resource Administration: ORG
+Auditing, Documentation: ORG
+Property Management: ORG
+96: CARDINAL
+Highlights
+Accounts: WORK_OF_ART
+Strong: PERSON
+Energetic: LOC
+Computed Data Reports Â: PERSON
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Research
+
+Conducted: ORG
+Clerk: PERSON
+Name City: GPE
+Name City: GPE
+invoice Prepare: ORG
+weekly: DATE
+Daily: PERSON
+Auditing Department: ORG
+02/2014 Company Name City: ORG
+several months: DATE
+Sprint: ORG
+Excel Spreadsheets: ORG
+Completed: ORG
+the Auditing of Sprint Bills: ORG
+AP: ORG
+Name City: GPE
+third: ORDINAL
+monthly: DATE
+Name City: GPE
+Researched: ORG
+Coded: ORG
+50: CARDINAL
+each day: DATE
+Setup a Credit Card Process: ORG
+Assisted: ORG
+New Vendor Setup Recipient: ORG
+Credit Memo's Successfully: ORG
+12/2000: CARDINAL
+Name City: GPE
+State: ORG
+Tipton: PERSON
+Maintained: GPE
+96%: PERCENT
+Budget: ORG
+Move: PERSON
+Got Painting: ORG
+Serve Evictions: PERSON
+BSBA :: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.95: CARDINAL
+Human Resource Management: ORG
+3.95: CARDINAL
+Microsoft Suite: PERSON

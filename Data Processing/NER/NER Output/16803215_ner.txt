@@ -1,0 +1,75 @@
+Career Focus: ORG
+Kailie Marie: PERSON
+Mahea'lani Graciidis: PERSON
+20 year old: DATE
+Bellevue College: ORG
+the ocean one day: DATE
+Balanced
+Computer: ORG
+Flexible
+Friendly
+
+Hardworking
+Honest: WORK_OF_ART
+Kind
+Outgoing
+Quick: WORK_OF_ART
+Reliable
+Strong verbal communication
+Time management
+Very organized & energetic
+Computer: WORK_OF_ART
+06/2012: PRODUCT
+06/2013: CARDINAL
+Stanbury Electrical Engineering: ORG
+Every two weeks: DATE
+Stanbury Electrical Engineering: ORG
+Stickers: ORG
+11/2013: CARDINAL
+Receptionist Company Name: ORG
+10/2014: CARDINAL
+Receptionist Company Name: ORG
+Cleaned - Floors: ORG
+BigFoot Java: PERSON
+24 hours: TIME
+Barista: PERSON
+4am-10am: CARDINAL
+10am-: CARDINAL
+4pm: TIME
+4pm-10pm: CARDINAL
+Graveyard Barista: PERSON
+10pm-4am: CARDINAL
+24 hour: TIME
+Bigfoot: PERSON
+Neatly: ORG
+Took Costco: ORG
+that day: DATE
+Baristas: ORG
+daytime: TIME
+7am or 10am: TIME
+a date night: TIME
+two: CARDINAL
+Ryan: PERSON
+age 2: DATE
+Nathan: PERSON
+age 5: DATE
+Kelly: PERSON
+Nathan: ORG
+Ryan: PERSON
+11:30: TIME
+Bellevue: NORP
+Nathan: ORG
+Seattle: GPE
+North Bend: GPE
+Bellevue: NORP
+Issaquah: PERSON
+night: TIME
+house & fed: ORG
+Coursework: ORG
+2014: DATE
+State
+Bellevue College - Eastgate Bellevue: ORG
+Dependable, Electrical Engineering: ORG
+Java: PERSON
+Quick: ORG
+Time: ORG

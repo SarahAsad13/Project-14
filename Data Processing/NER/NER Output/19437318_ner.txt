@@ -1,0 +1,30 @@
+Summary
+Bank Teller: ORG
+Safe: ORG
+July 2010 to June 2014: DATE
+25000: MONEY
+Routed Proof Deposit: ORG
+nightly: DATE
+Daily: DATE
+ATM: ORG
+Processed: GPE
+Completed Control Online: ORG
+August 2006 to July 2010: DATE
+75000: MONEY
+Routed Proof Deposit: ORG
+nightly: DATE
+Completed Control Online Tasks: ORG
+Daily: DATE
+ATM: ORG
+Processed: GPE
+Assisted: ORG
+weekly: DATE
+February 2003 to March 2006: DATE
+15000: MONEY
+Nightly: GPE
+ATM: ORG
+Rockville High School 06/1999 High School Diploma City: ORG
+15 years: DATE
+daily: DATE
+Skills: ORG
+ATM: ORG

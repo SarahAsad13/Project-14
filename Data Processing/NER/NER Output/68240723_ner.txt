@@ -1,0 +1,62 @@
+Designer: ORG
+Time Management & Communication - Managing one's: ORG
+Drop Dead Dates
+Adaptability - Being: PERSON
+Social Perceptiveness - Working: ORG
+Detail - Thorough: PERSON
+Innovation - Demonstrated: ORG
+10/2013: CARDINAL
+Name City: GPE
+International and Domestic
+Completion of OZ: ORG
+Style pkg.: PERSON
+L/D & S/O: ORG
+Pattern: GPE
+Outlet: ORG
+TKMAXX: GPE
+Spencer: PERSON
+Banana Republic: GPE
+10/2013: CARDINAL
+Name City: GPE
+Keep: PERSON
+season: DATE
+Assist: NORP
+Attend: ORG
+Directed: ORG
+U.K.: GPE
+04/2010: CARDINAL
+Name City: GPE
+Fittings: GPE
+Style pkg.: WORK_OF_ART
+L/D & S/O: ORG
+BOM: ORG
+PLM: ORG
+season: DATE
+Florida Pattern: ORG
+Florida: GPE
+Associate of Arts : Fashion Design: ORG
+2009: DATE
+The Fashion Institute of Design: ORG
+State: GPE
+Business Management EXP: ORG
+2017: DATE
+Awards & Honors: ORG
+2014: DATE
+Les Miller Outstanding Leadership/Scholarship: PERSON
+Pacific Life Foundation Outstanding Leadership/Scholarship 2006
+
+: ORG
+Spec: PERSON
+Merchandising
+
+Creating Line: WORK_OF_ART
+Demographic: PERSON
+Adobe: PERSON
+Illustrator & PS
+
+PLM: ORG
+WebPDM, & Gallery
+
+: ORG
+MAC: ORG
+Asia: LOC

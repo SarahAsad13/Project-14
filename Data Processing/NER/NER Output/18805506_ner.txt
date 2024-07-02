@@ -1,0 +1,84 @@
+Seasoned Financial Markets: ORG
+12 years: DATE
+Global Financial Markets Sales & Trading: ORG
+Corporate: ORG
+India: GPE
+Skill Highlights: PERSON
+150 %: PERCENT
+Global Markets: ORG
+Global Markets: ORG
+200 %: PERCENT
+$ 0.5M: MONEY
+1.5: MONEY
+20: CARDINAL
+the past year: DATE
+10BÂ: MONEY
+Associate 12/2012: CARDINAL
+Advisory & Execution: ORG
+Corporate & Institutional: ORG
+Foreign Exchange: ORG
+Interest
+Rates & Commodities: ORG
+Credit & Risk: ORG
+financial & risk management: ORG
+Communicated: ORG
+Interpreted: ORG
+Involvement: GPE
+meet internal & regulatory: ORG
+Followed Global Service Delivery: ORG
+Â 
+: PERSON
+Assisted: ORG
+ALM: PERSON
+FX Dealer 05/2009: ORG
+12/2012: CARDINAL
+Name City: GPE
+USD/INR: ORG
+INR: ORG
+NOP: ORG
+Aggregate Gap Limit: ORG
+AGL: ORG
+Indian: NORP
+daily: DATE
+Name City: GPE
+Foreign Exchange & Interest Rate: ORG
+two: CARDINAL
+Technical & Fundamental: ORG
+Generate &: ORG
+Fx: ORG
+Institutional Client: ORG
+single & multiple barrier options & exotic: ORG
+EUR 4.0 Million: ORG
+2008: DATE
+8.0 Million: CARDINAL
+2007: DATE
+Fx: ORG
+Business Administration :: ORG
+May 2004: DATE
+College of Management Studies City: ORG
+State: GPE
+India: GPE
+Business Administration: ORG
+Finance & Marketing
+Bachelor of Commerce : Accounting and Finance: ORG
+March 2001: DATE
+Mumbai University City: ORG
+State: GPE
+India Bachelors: ORG
+Accounting, Finance &
+Economics
+Post: ORG
+Import Management: ORG
+December 2001: DATE
+Indian Merchant Chambers City: EVENT
+State: GPE
+India Post: ORG
+Import Management
+Interests
+Traveling and Photography
+
+Skills
+Proficient: ORG
+Bloomberg & Reuters: ORG
+MS Office: ORG
+the Certified Public Accountant: ORG

@@ -1,0 +1,70 @@
+Profile
+
+Innovative Electrical Engineer: ORG
+Electrical Engineer: ORG
+four years: DATE
+2 years: DATE
+Structural: ORG
+Research and Development Â 
+
+Managed voice communications R&D department: ORG
+three: CARDINAL
+$2M: MONEY
+100%: PERCENT
+Project Coordination Â: ORG
+two: CARDINAL
+Auxiliary Power Unit: ORG
+C-130 Hercules: PRODUCT
+PT6A: ORG
+T56: GPE
+501: CARDINAL
+V5: CARDINAL
+Accessory: PRODUCT
+Machine Shop: ORG
+Operation: ORG
+John McIntosh: PERSON
+three: CARDINAL
+501: CARDINAL
+Leonardo Marcano: PERSON
+Name City Aerospace Engineer 01/2014: ORG
+AIAA: ORG
+STARCCM: ORG
+CAD: ORG
+40: CARDINAL
+today: DATE
+Training
+Bachelors of: PERSON
+2015: DATE
+EMBRY-RIDDLE AERONAUTICAL UNIVERSITY: ORG
+City: GPE
+USA Aerospace Engineering: ORG
+Applied Mathematics 2014 EMBRY-RIDDLE AERONAUTICAL UNIVERSITY: ORG
+City: GPE
+USA Applied Mathematics: ORG
+2010: DATE
+UNIDAD EDUCATIVA SAN NICOLA: EVENT
+City: GPE
+Venezuela: GPE
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Beginner: ORG
+Interests: NORP
+US History: ORG
+Latin American: NORP
+Universal History: ORG
+Knowledge Transfer: PERSON
+Speech: ORG
+US History: PERSON
+Latin American: NORP
+Universal History: ORG
+Knowledge Transfer: PERSON
+Speech: ORG
+CAD: ORG
+CRM: PRODUCT
+English: LANGUAGE
+French: NORP
+Maple: ORG
+MATLAB: ORG
+Nastran: GPE
+Spanish: NORP

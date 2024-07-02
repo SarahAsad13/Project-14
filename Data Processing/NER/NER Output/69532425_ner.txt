@@ -1,0 +1,47 @@
+Training
+Bachelor of Science: PERSON
+May 2017: DATE
+North Carolina State University: ORG
+State: ORG
+Associate of Arts: WORK_OF_ART
+May 2014: DATE
+Caldwell Community College and Technical Institute: ORG
+Name City: GPE
+State Pre-Service: ORG
+7th: ORDINAL
+7th: ORDINAL
+8th: ORDINAL
+Biology
+Implemented: FAC
+ESL: ORG
+Name City: GPE
+State Pre-Service: ORG
+7th: ORDINAL
+7th: ORDINAL
+Name City: GPE
+Gave First Aid: PERSON
+CPR: ORG
+Name City: GPE
+State Clothing Specialist: ORG
+Maintained: GPE
+Stocked: FAC
+Skills
+
+Time Management
+Creativity
+Effective Communication: ORG
+Organizational/Planning
+Critical Thinking
+Teaching
+
+Accomplishments: ORG
+Supervisor of the Bi-Week: WORK_OF_ART
+National Honors Society
+NCSU Club Volleyball
+
+Certifications
+
+: ORG
+CPR & First Aid
+
+: ORG

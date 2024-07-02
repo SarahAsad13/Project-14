@@ -1,0 +1,58 @@
+17: CARDINAL
+English: LANGUAGE
+US: GPE
+IB: ORG
+Spanish: NORP
+High School: ORG
+the Alweus Bullying Prevention Program: ORG
+LPAC Committees: ORG
+Counseling Certification: PRODUCT
+Spanish: NORP
+Bilingual: GPE
+January 1999 to July 2014: DATE
+Name City: GPE
+State: ORG
+6th: ORDINAL
+Spanish: NORP
+the Olweus Bullying Prevention Program: ORG
+5th: ORDINAL
+5th: ORDINAL
+US: GPE
+English: LANGUAGE
+the LPAC Committee: ORG
+District: GPE
+US: GPE
+LEP: ORG
+January 1999 to July 2014: DATE
+Name City: GPE
+State: ORG
+6th: ORDINAL
+Spanish: NORP
+the Olweus Bullying Prevention Program: ORG
+5th: ORDINAL
+5th: ORDINAL
+US: GPE
+English: LANGUAGE
+LEP: ORG
+August 1997 to August 1999: DATE
+Name City: GPE
+State: ORG
+Valley View ISD: FAC
+LEP: ORG
+Training: PERSON
+2002: DATE
+University of Texas: ORG
+American: NORP
+1996: DATE
+University of Texas: ORG
+American: NORP
+Certifications: ORG
+2002: DATE
+Texas School Counselor: ORG
+2004: DATE
+Spanish: NORP
+6-12: CARDINAL
+1998: DATE
+Bilingual: PERSON
+Spanish: NORP
+Spanish: NORP

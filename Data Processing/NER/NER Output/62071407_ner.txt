@@ -1,0 +1,70 @@
+Mechanical Engineer Professional: ORG
+25 years: DATE
+LRV Trains: PERSON
+Highlights Proficient: ORG
+SolidWorks Facility: ORG
+Time: ORG
+Project management Cross: ORG
+Familiar: PERSON
+Highlights
+Auto-Cad: WORK_OF_ART
+Solid Works: PERSON
+Microsoft Office: ORG
+Navy: ORG
+Intralox: ORG
+400: CARDINAL
+750: CARDINAL
+Electrical/Mechanical: ORG
+Data Acquisition: ORG
+32: CARDINAL
+Honeywell: ORG
+Thermal Oxidizing: WORK_OF_ART
+un: ORG
+Watlow: ORG
+Coordinated: ORG
+multi-million dollar: MONEY
+LRV: ORG
+LRV: ORG
+LRV: ORG
+PTU: ORG
+Bombardier: ORG
+Knorr: PERSON
+Name City: GPE
+Electronics/Electrical: ORG
+85 and 65 foot: TIME
+Installed 300kw: ORG
+250: CARDINAL
+Detroit: GPE
+5: CARDINAL
+4: CARDINAL
+4: CARDINAL
+09/2002 Company Name
+
+Responsible: ORG
+Finished Royal Roads Treatment: ORG
+Initiated: ORG
+Coordinated: ORG
+BC: ORG
+Electrical/Electronic: ORG
+PLC: ORG
+3.5: CARDINAL
+watts: LOC
+750: CARDINAL
+Mentored: ORG
+Reverse Osmosis: ORG
+Electro Catalytic: ORG
+IPC/PLC: ORG
+Bachelor of Science : Mechanical Engineering: ORG
+2015: DATE
+Louisiana Tech University City: ORG
+State: ORG
+USA Mechanical Engineering: ORG
+Skills
+Auto-Cad: ORG
+BC: ORG
+Citrix: GPE
+Data Acquisition: ORG
+Microsoft Office: ORG
+Navy: ORG
+PLC: ORG
+Solid Works: PERSON

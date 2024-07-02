@@ -1,0 +1,64 @@
+Highlights: GPE
+Server: NORP
+Network: ORG
+Data: ORG
+Project Management: ORG
+LAN Knowledge: ORG
+Network Hardware Configuration: ORG
+Microsoft: ORG
+Microsoft Certified Solutions Associate: ORG
+Firewall: PERSON
+MS Office: ORG
+Microsoft Certified Solutions Associate: ORG
+Microsoft: ORG
+Microsoft Certified Technology Specialist: ORG
+Microsoft: ORG
+Windows: NORP
+AVG: ORG
+Printers: PERSON
+monthly: DATE
+more than 80: CARDINAL
+Maximizes: PERSON
+Utilizes Active Directory: ORG
+Administering a Microsoft Windows Server: ORG
+Novell NetWare: ORG
+Microsoft Active Directory Successfully: ORG
+Windows Server: PERSON
+2003: DATE
+Server 2008 Successfully: ORG
+Windows Server: PERSON
+2008: DATE
+Server 2012 Successfully: ORG
+2950: DATE
+66: CARDINAL
+Federal Contract Towers: ORG
+Computers: PRODUCT
+Troubleshot: PERSON
+Education
+Computer Information System /Network Engineering: ORG
+Project Management Professional Florida Atlantic University: ORG
+Six: CARDINAL
+Florida Atlantic University: ORG
+Microsoft Certified Systems: ORG
+Certified Technology Specialist ITIL Foundation: ORG
+V3: CARDINAL
+Certified Comptia A+ Certification: ORG
+Cisco: GPE
+ITIL: ORG
+LAN: ORG
+Microsoft: ORG
+Microsoft Certified Systems Engineer: ORG
+Windows 7: ORG
+Microsoft Windows: ORG
+XP: ORG
+Network Administrator: ORG
+Network: ORG
+Network Hardware: ORG
+Network Design and Implementation: ORG
+Network Troubleshooting: ORG
+Networking: GPE
+Novell: ORG
+NetWare: ORG
+Project Management: ORG
+Six Sigma: PERSON
+Windows Server: PERSON

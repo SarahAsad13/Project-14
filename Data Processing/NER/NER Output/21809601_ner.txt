@@ -1,0 +1,32 @@
+CUSTOMER: ORG
+SPECIALIST: ORG
+Career Overview
+Highly: ORG
+6 years: DATE
+Retail Sales Associate: ORG
+Dedicated Customer Service Representative: ORG
+Constantly: ORG
+Current
+Customer Service Specialist Company Name: ORG
+Experienced: PRODUCT
+Trained 2: ORG
+quarterly: DATE
+Maintained: GPE
+09/2014
+Framing Expert Company Name: ORG
+Established: ORG
+08/2012: CARDINAL
+Summer Intern Company Name: ORG
+3: CARDINAL
+5: CARDINAL
+firsthand: GPE
+Carnegie Library Summer Activities: ORG
+Always: ORG
+United: GPE
+Georgia: GPE
+English: LANGUAGE
+Communication: ORG
+Creative Writing: PERSON
+2.78: CARDINAL
+GPA: ORG
+Creative Writing: PERSON

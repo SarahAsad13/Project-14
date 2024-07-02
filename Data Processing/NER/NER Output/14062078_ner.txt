@@ -1,0 +1,120 @@
+Licenses
+Completed: PERSON
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook
+Professional Experience
+: ORG
+06/2016: PRODUCT
+8 years: DATE
+Trainer: FAC
+more than one: CARDINAL
+the last minute: TIME
+Medical Surgical, Pediatric: ORG
+Psychiatric: ORG
+11/2010: CARDINAL
+Medical Technician/ Healthcare Specialist Company Name: ORG
+SSG Stover: ORG
+Kenneth: PERSON
+Weekly Hrs: PERSON
+60: CARDINAL
+Composite Health Care System: ORG
+CHCS: ORG
+Armed Forces health Longitudinal Technology Application: ORG
+Department of Defense: ORG
+weekly: DATE
+Microsoft PowerPoint: ORG
+weekly: DATE
+Medical Surgeon: ORG
+Communicated: ORG
+the Medical Officer: ORG
+2: CARDINAL
+Technicians: NORP
+DOD health information systems: ORG
+the Medical Technicians: ORG
+quarterly: DATE
+weekly: DATE
+monthly: DATE
+weekly: DATE
+Mentored other Medics: ORG
+monthly: DATE
+Medical Technicians: ORG
+CEU)s: GPE
+first: ORDINAL
+11/2010: CARDINAL
+State: ORG
+SSG Ellis: ORG
+Courtney: ORG
+Weekly Hrs: PERSON
+60: CARDINAL
+the Composite Health Care System: ORG
+CHCS: ORG
+Obtained: ORG
+Maintained: GPE
+Privacy Act: LAW
+1974: DATE
+Health Insurance Portability: ORG
+HIPAA: ORG
+Occupational Safety and Health Administration: ORG
+OSHA: ORG
+PPE: ORG
+State: ORG
+Supervisor: PERSON
+SFC Goines.: PERSON
+Weekly Hrs: PERSON
+60: CARDINAL
+08/2013-12/2015: DATE
+Student: ORG
+ASN: ORG
+Nursing: GPE
+Columbus Technical College: ORG
+Columbus: GPE
+GA: ORG
+GPA: ORG
+3.20: CARDINAL
+Obtained: ORG
+Microsoft: ORG
+Word: PRODUCT
+Power Point: ORG
+Excel: PRODUCT
+EBSCO Host: ORG
+LexisNexis: ORG
+ERIC: PERSON
+Collaborated: ORG
+May 2004: DATE
+Bainbridge High School ï¼​ City: ORG
+BSN: ORG
+South University: ORG
+ï¼​ City: GPE
+Anatomy, Armed Forces: ORG
+English: LANGUAGE
+IMMUNIZATIONS: ORG
+Insurance, Medical Terminology: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+Microsoft: ORG
+PowerPoint: ORG
+PowerPoint: ORG
+Power Point: ORG
+Word: PERSON
+Microsoft Word: PERSON
+Nursing: GPE
+Occupational Safety: ORG
+Resuscitation: ORG
+STATISTICS: ORG
+Supervisor, Surgeon: ORG
+Trainer: ORG
+VALOR: ORG
+ARMY: ORG
+ARMY: ORG
+2ND: CARDINAL
+NATIONAL DEFENSE SERVICE MEDAL: ORG
+GLOBAL WAR ON TERRORISM SERVICE MEDAL: EVENT
+IRAQI: NORP
+NONCOMMISSIONED OFFICER PROFESSIONAL DEVELOPMENT RIBBON: ORG
+ARMY: ORG
+COMBAT MEDICAL: ORG

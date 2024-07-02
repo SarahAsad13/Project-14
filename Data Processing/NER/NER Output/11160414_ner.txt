@@ -1,0 +1,82 @@
+VP MARKETING & COMMUNICATIONS: ORG
+Highlights: GPE
+Multi: GPE
+CRM: PRODUCT
+Copywriting
+Direct: WORK_OF_ART
+up to 80%: PERCENT
+year over year: DATE
+118: CARDINAL
+7%: PERCENT
+0.66%: PERCENT
+11.6%: PERCENT
+0.70%: PERCENT
+3.4%: PERCENT
+Insurance Marketing Communications Association: ORG
+Department of Transportation: ORG
+U.S. Coast Guard: ORG
+Trademarks: PRODUCT
+the United States: GPE
+Trademark Office: ORG
+VP Marketing & Communications: ORG
+November 2015: DATE
+Research Advocate: PERSON
+March 2012: DATE
+State
+
+Review: ORG
+Peer Review: ORG
+Washington, DC: GPE
+Account Executive: ORG
+June 2013 to November 2015: DATE
+Social Media Marketing Management - Researched: ORG
+80%: PERCENT
+year over
+year: DATE
+118: CARDINAL
+Project Management: ORG
+dozens: CARDINAL
+hundreds: CARDINAL
+Internship Program: ORG
+Recruit: ORG
+October 1988 to: DATE
+February 2012: DATE
+Company Magazine Creator: ORG
+â€​: CARDINAL
+Three: CARDINAL
+twelve: CARDINAL
+more than
+
+700,000: CARDINAL
+0.66%: PERCENT
+11.6%: PERCENT
+quarterly: DATE
+Teen Driver Safety Program: ORG
+Thousands: CARDINAL
+3.4%: PERCENT
+0.70%: PERCENT
+New Product Development Management: ORG
+GrandProtect: ORG
+Safety Program: ORG
+the National
+Safety Council: ORG
+Insurance Policy Package Redesign Team: ORG
+â€“ Led: PERSON
+MetLife Auto & Home: ORG
+Incentive Program: ORG
+MetLife
+Sales Distribution: ORG
+7%: PERCENT
+Recognition: ORG
+Collaborated with cross-functional teams: WORK_OF_ART
+Market Research: ORG
+January 1988 to January 2000: DATE
+monthly: DATE
+five years: DATE
+BA : Communication University of Pittsburgh ï¼​ City: ORG
+State: ORG
+Business University of Pittsburgh ï¼​ City: ORG
+AIS: ORG
+Associate of Personal Insurance (API)
+
+: ORG

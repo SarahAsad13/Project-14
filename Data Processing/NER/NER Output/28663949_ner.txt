@@ -1,0 +1,26 @@
+INTERIOR: ORG
+CAD: ORG
+Interior Architecture and Design: ORG
+Highlights: GPE
+Cabinet Vision: ORG
+Studio Max: PERSON
+FFE: ORG
+Swedish: NORP
+State: ORG
+CAD: ORG
+08/2012: CARDINAL
+State: ORG
+01/2010 - 07/2011: DATE
+FFE: ORG
+Expat: NORP
+Shanghai: GPE
+2014: DATE
+Academy of Art City: ORG
+3D Rendering: ORG
+FFE: ORG
+Project Finance: ORG
+Project Management: ORG
+NCIDQ: ORG
+Golf: GPE
+Skier: PERSON
+Professional Affiliations: ORG

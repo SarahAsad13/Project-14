@@ -1,0 +1,72 @@
+SR: ORG
+twenty-five years: DATE
+Product Integrity/Quality: ORG
+Business Office
+Management: ORG
+10/2008: DATE
+Vendor Management: ORG
+Product Integrity/Quality Responsibilities: ORG
+Quality Assurance Team: ORG
+Buyers, Technical Design and Logistics: ORG
+200: CARDINAL
+FTC: ORG
+CPSC: NORP
+QA: ORG
+Chargeback Policy: PERSON
+Non-Compliance: ORG
+400k: MONEY
+annually: DATE
+10/2008: CARDINAL
+the Technical Design Department: ORG
+two: CARDINAL
+six: CARDINAL
+Maintained: GPE
+annual: DATE
+daily: DATE
+weekly: DATE
+120,000: MONEY
+annually: DATE
+Created: ORG
+Knowing Your Customer: WORK_OF_ART
+09/2000: CARDINAL
+Customer Sales/Support Company Name: ORG
+Oversee: ORG
+9 Supervisors: ORG
+300: CARDINAL
+11%: PERCENT
+six-month: DATE
+annual: DATE
+$2.7 million: MONEY
+325%: PERCENT
+$1.2 million: MONEY
+annually: DATE
+360,000: MONEY
+annually: DATE
+09/1988: CARDINAL
+09/1998: CARDINAL
+35: CARDINAL
+Monitored: ORG
+Provide: NORP
+daily: DATE
+Created: ORG
+Assisted Sr.: PERSON
+monthly: DATE
+B.S :: ORG
+City: GPE
+State Business Administration: ORG
+Burdett Business School: ORG
+Boston: GPE
+MA - Certified Legal: ORG
+Skills: ORG
+Law: PERSON
+Legal: GPE
+Logistics: GPE
+MA: PERSON
+Quality: ORG
+QA: ORG
+Quality Assurance: GPE
+Vendor Management: ORG
+Professional Affiliations
+Vendor Management Group Retail Industry Professionals Group Taunton Area School to Careers, Inc. ICSA (International Customer Service
+Association: ORG
+National Association of Female Executives: ORG

@@ -1,0 +1,103 @@
+15 years: DATE
+Apple: ORG
+Linux: GPE
+Cisco: GPE
+CISCO: ORG
+over 22,000: CARDINAL
+Level 1: PERSON
+over 50,000: CARDINAL
+$3.4 million: MONEY
+misc: PERSON
+year end: DATE
+less than 1.10%: PERCENT
+IT & Media Administrator: ORG
+Jan 2006: DATE
+Created: ORG
+Remained up-to: PERSON
+Local Technology Coordinator: ORG
+Jan 2012 to Jan 2014: DATE
+Windows: NORP
+Windows XP: ORG
+2003: DATE
+Server: PERSON
+2008: DATE
+Active Directory: WORK_OF_ART
+Medisoft V16: GPE
+Dentrix, Dexis: ORG
+Troubleshot: PERSON
+Recommended: ORG
+Provided: NORP
+Jan 2012 to Jan 2012: DATE
+2003: DATE
+2010: DATE
+Utilized: ORG
+Windows XP: ORG
+Altiris Remote Control, Footprints: ORG
+Citirx: ORG
+LMS: ORG
+Join: PERSON
+Kaseya: GPE
+Local Technology Coordinator: ORG
+Jan 2009 to Jan 2011: DATE
+Windows: NORP
+Windows: NORP
+Windows XP: ORG
+2003: DATE
+Server: PERSON
+2008: DATE
+Active Directory: WORK_OF_ART
+Medisoft V16: GPE
+Dentrix, Dexis: ORG
+Troubleshot: PERSON
+Recommended: ORG
+Provided: NORP
+Computer Networking & Administration: ORG
+Jan 2009: DATE
+daily: DATE
+Maintained: GPE
+Jan 2008 to Jan 2008: DATE
+Windows: NORP
+Developed: ORG
+Troubleshot: PERSON
+Recommended: ORG
+Provided: NORP
+Jan 2007 to Jan 2007: DATE
+Windows: NORP
+over 22,000: CARDINAL
+Remedy: PERSON
+50,000: CARDINAL
+Analyst Jan 2005: DATE
+Jan 2007: DATE
+1500: CARDINAL
+600: CARDINAL
+HEAT: PERSON
+1: CARDINAL
+over 20,000: CARDINAL
+Troubleshot: PERSON
+Remote Desktop: ORG
+Terminal Server: ORG
+Query
+Analyzer: ORG
+Network Systems Admin Professional Program: ORG
+New Horizons ï¼​ City: ORG
+Network System Professional: ORG
+New Horizons Computer Learning Center: ORG
+Microsoft: ORG
+Cisco CCNP & CCNA certifications: ORG
+Magna Cum Laude: PERSON
+3.8: CARDINAL
+3.8: CARDINAL
+Skills
+Active Directory: ORG
+Apple: ORG
+Cisco IOS: PERSON
+Network Systems: ORG
+Graphic: PERSON
+Linux: PERSON
+Medisoft: GPE
+Office: ORG
+Windows: NORP
+Windows XP: ORG
+Network: ORG
+SCO: ORG
+Terminal Server: ORG

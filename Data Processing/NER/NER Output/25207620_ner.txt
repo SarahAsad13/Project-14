@@ -1,0 +1,108 @@
+Nineteen years: DATE
+Information Technology: ORG
+Information Technology: ORG
+Desktop, Laptop: ORG
+MFP: ORG
+Project Coordination & Design: ORG
+Technical Support: PERSON
+Microsoft: ORG
+Citrix: PRODUCT
+Roz Arasmo - Estee Lauder Companies, Inc.: ORG
+Human Resources
+Administrator: ORG
+10) years: DATE
+Bill: PERSON
+Estee Lauder: ORG
+Lorilee Dickson - Director: PERSON
+Change Management and Communications: ORG
+Estee Lauder Bill: ORG
+Skills: ORG
+years: DATE
+12 years': DATE
+Customer Service: ORG
+Expert: PRODUCT
+20+ years': DATE
+10 years': DATE
+Explorer Symantec Antivirus: PERSON
+9 years': DATE
+2 years': DATE
+Beginner: ORG
+20+ years': DATE
+6 years': DATE
+20+ years': DATE
+Windows 8.1: PERSON
+3
+years ': DATE
+IP Mac OS: ORG
+Beginner: ORG
+2 years': DATE
+2 years': DATE
+iPad: ORG
+2 years': DATE
+Interface Writing: PERSON
+12 years': DATE
+20+ years': DATE
+8 years': DATE
+Jose Miguel Morales - VP: PERSON
+January 24, 2003: DATE
+William Hale: PERSON
+one: CARDINAL
+William: PERSON
+William: PERSON
+William: PERSON
+VP Security Engineering http://www.semperfiglobal.com: ORG
+Manhattan: GPE
+500: CARDINAL
+2006-2010: DATE
+Training: PERSON
+2017: DATE
+Computer Career College: ORG
+CNA: ORG
+A+,CNA, Information Technology : City University of New York - CIS - Computer: ORG
+Information Systems Security / Information Assurance Computer and Information Systems Security / Information Assurance: ORG
+1987: DATE
+Rollins College - Finance Finance: ORG
+1962: DATE
+MCP: ORG
+CNA: ORG
+Comptia: ORG
+A+ Security: ORG
+Comptia: GPE
+Novell: ORG
+SEC: ORG
+7,63,24 : Hofstra College - Business Administration Business Administration
+Certifications
+
+Technical Support (Advanced: WORK_OF_ART
+20+ years': DATE
+15 years': DATE
+Microsoft Office: ORG
+Advanced: ORG
+11 years': DATE
+Hardware Support: PERSON
+20+ years': DATE
+Hardware Diagnostics: ORG
+20+ years': DATE
+20+ years': DATE
+Advanced: ORG
+10 years': DATE
+12: CARDINAL
+Skills: ORG
+A+: NORP
+Antivirus: GPE
+CNA: ORG
+DOS: ORG
+Hardware Support: PERSON
+Information Technology: ORG
+IP: ORG
+Mac OS: PERSON
+MCP: ORG
+Microsoft Office: ORG
+Enterprise: ORG
+Network: ORG
+Networking: GPE
+Novell: ORG
+SAP: ORG
+Software Documentation: ORG
+Technical Support: PERSON
+Technician: GPE

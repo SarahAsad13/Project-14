@@ -1,0 +1,36 @@
+Core Qualifications
+
+Analytical Thinking - Applies: ORG
+Interpersonal Relations - Exhibits: ORG
+Interpersonal Awareness: ORG
+Results Oriented - Achieves: ORG
+April 2015: DATE
+Name City: GPE
+Established: ORG
+Maintained: GPE
+August 2012: DATE
+August 2015: DATE
+Name City: GPE
+one: CARDINAL
+one: CARDINAL
+Maintained: GPE
+CRU: ORG
+planning &: ORG
+CRU: ORG
+Developed Bible: ORG
+September 2010: DATE
+August 2012: DATE
+Name City: GPE
+State Mechanic: ORG
+June 2007: DATE
+September 2010: DATE
+Name City: GPE
+State Baggage Handler: ORG
+Dallas: GPE
+Seminary-Houston Campus Master: PERSON
+Christian: NORP
+2013: DATE
+Christian Leadership/Biblical Studies: ORG
+Skills: ORG
+Â·Â Â Â Â Â Â Â Â  : CARDINAL
+Texas: GPE

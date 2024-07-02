@@ -1,0 +1,86 @@
+DIVISION OPERATIONS & RISK OVERSIGHT: ORG
+Visionary Operations Executive: ORG
+Professional Experience
+Division Operations & Risk Oversight: ORG
+Name City: GPE
+third: ORDINAL
+monthly: DATE
+Regularly: PERSON
+5: CARDINAL
+COS: ORG
+VP: GPE
+Operations & Risk Oversight: ORG
+Name City: GPE
+Foreclosure Prevention & Outreach: ORG
+FP&O: ORG
+monthly: DATE
+Departmental SPOC: ORG
+Developed: ORG
+2: CARDINAL
+VP: PERSON
+Vendor & Compliance: ORG
+Name City: GPE
+Developed FPO's: ORG
+Post Modification Counseling: ORG
+Developed: PRODUCT
+FPO: ORG
+Post Modification Counseling: ORG
+FP&O: ORG
+monthly: DATE
+FPO: ORG
+Post Modification
+Counseling non-profit: ORG
+2: CARDINAL
+12/2008: CARDINAL
+09/2011 Company Name City: EVENT
+Executive Director &: ORG
+Performed Vendor: PERSON
+QA: ORG
+Communicated: ORG
+Vendor SOW's: ORG
+first: ORDINAL
+4: CARDINAL
+04/2008: PERSON
+Name City: GPE
+Met: PERSON
+FiOS: PRODUCT
+first: ORDINAL
+second: ORDINAL
+/Union: GPE
+04/2008 Company Name City: EVENT
+State
+
+Met/Exceeded: ORG
+FiOS: PRODUCT
+FiOS: NORP
+Regularly: PERSON
+Network Operations Specialist 09/2005: ORG
+Provided FiOS: LOC
+Directors Performed: PERSON
+FiOS: NORP
+Collaborated: ORG
+FiOS: PRODUCT
+Facilitated: ORG
+FiOS: PRODUCT
+Regularly: PERSON
+2011: CARDINAL
+Villanova University Certificate: ORG
+2004: DATE
+Applied Science: ORG
+University of North Texas - Applied Technology: ORG
+Improvement City: GPE
+State: ORG
+Cum Laude Cum Laude Applied Technology: PERSON
+2002: DATE
+Computer Network Technology Associate: ORG
+Southern University City: ORG
+State: ORG
+2001: DATE
+Associate of Science : Southern University - Computer Science City: WORK_OF_ART
+State Computer Science
+
+Associate of General Studies :: ORG
+Mod: PERSON
+Network: ORG
+Project Management: ORG
+QA: ORG

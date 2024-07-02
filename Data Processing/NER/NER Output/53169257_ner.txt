@@ -1,0 +1,93 @@
+Dedicated Public Health Administrator: ORG
+Training
+East Stroudsburg University: ORG
+Health Studies: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+Dean: PERSON
+List and Honor Roll Academic Achievement Award Beneficiary: WORK_OF_ART
+107: CARDINAL
+13: CARDINAL
+GPA: ORG
+3.72 Public Health Health Services Administration Dean's: ORG
+List and Honor Roll Academic Achievement Award Beneficiary: WORK_OF_ART
+107: CARDINAL
+13: CARDINAL
+GPA: ORG
+3.72 Public Health: ORG
+Health Studies: ORG
+Community College of Philadelphia 2015 Associate of Science : Social/Behavioral Science Health Services City: ORG
+State: ORG
+United States: GPE
+GPA: ORG
+Four: CARDINAL
+Dean's: ORG
+List, Academic Achievement Award: WORK_OF_ART
+Honor Roll: PERSON
+GPA: ORG
+3.73 Social/Behavioral Science International Honor Society: MONEY
+Four: CARDINAL
+Dean's: ORG
+List, Academic Achievement Award: WORK_OF_ART
+Honor
+Roll: PERSON
+GPA: ORG
+3.73: CARDINAL
+Health Services
+Accomplishments: ORG
+08/2006-: CARDINAL
+Philadelphia: GPE
+the Think First National Injury Prevention Program: ORG
+Featured on Community College: ORG
+Philadelphia: GPE
+T.V.
+Program: ORG
+Tapestry of Life: Resilience and Health: WORK_OF_ART
+Participant: PERSON
+Magee Rehab: PERSON
+Spasticity Training for Health Professionals: WORK_OF_ART
+Adam Taliaferro Benefit: ORG
+Physical Therapist Doctorate Program: ORG
+Peer Group: ORG
+Jerry Segal Charity: PERSON
+Classic: PRODUCT
+24 hour: TIME
+SCI.
+: ORG
+Restorative Therapies Inc.: ORG
+Health Professional Peer Mentor: ORG
+Thomas Jefferson University: ORG
+Partnered with Temple University's Center for Asian Health: ORG
+CAH: ORG
+Philly.com: ORG
+Archives of Physical Medicine and Rehabilitation Official Journal: ORG
+Cycling with Functional Electrical
+Stimulation: WORK_OF_ART
+3: CARDINAL
+one: CARDINAL
+one: CARDINAL
+Pharmacist: PERSON
+Participant: ORG
+Magee Rehab's: ORG
+Outpatient Program: ORG
+September 2005: DATE
+Disability Advocate: PERSON
+Interviews: ORG
+Counsels: ORG
+Advocates: FAC
+Conducts Community Health Needs Assessment: ORG
+C.E.O: ORG
+June 1986 to: DATE
+May 2004: DATE
+Supervisor: PERSON
+Lead Trainer: PERSON
+Shift Controller 
+City: PERSON
+200: CARDINAL
+Maintained: GPE
+Facilitated: ORG
+daily: DATE
+Communicated: ORG
+C, Community Health: ORG
+Works, Needs Assessment: ORG

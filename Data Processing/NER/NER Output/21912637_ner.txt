@@ -1,0 +1,102 @@
+CONTRACTS: ORG
+Exceptional Payroll Administrator: WORK_OF_ART
+Detail: PERSON
+European Development Fund: ORG
+Project Management: ORG
+Project Cycle Management
+Accounting Procedures: ORG
+Time: ORG
+Microsoft: ORG
+Programme Management
+
+Programme Estimates/Grant
+
+: ORG
+EDF: ORG
+Certificate in Filing, Archiving & Documentation
+
+Project Cycle Management Â 
+
+Relevant Experience
+
+: WORK_OF_ART
+Simplified: PERSON
+20 %: PERCENT
+Contracts: ORG
+12/2008: CARDINAL
+EDF Projects: ORG
+the European Commission Delegation: ORG
+EDF: ORG
+EDF: ORG
+Update: ORG
+Verify: LOC
+EDF: ORG
+EDF: ORG
+Project Draw: PERSON
+Maintain Assets Register Assist: ORG
+EDF: ORG
+Update
+
+Accounting: ORG
+TOMON: ORG
+National Authorising Office - Freetown: ORG
+Sierra Leone: ORG
+30: CARDINAL
+weekly: DATE
+semi-monthly: DATE
+Intern/Trainee - Finance: ORG
+12/2008: CARDINAL
+EDF Contractual, Procurement and Financial Management: ORG
+EDF: ORG
+Intern: FAC
+Responsible for Inventory and Stock: ORG
+Prepared: PERSON
+Data: ORG
+Master of Business Administration: ORG
+MBA: WORK_OF_ART
+Marketing, Operations Management , Economics and Business Law: ORG
+May 2014 University: DATE
+State: GPE
+United States of America: GPE
+Financial Services: ORG
+July 2005: DATE
+Institute of Public Administration & Management: ORG
+University of Sierra Leone City: ORG
+State: ORG
+Sierra: ORG
+Financial Services: ORG
+Affiliations: ORG
+the Springs of Joy Advisory Committee Executive: GPE
+Welfare: ORG
+Humanitarian Ministry: ORG
+New
+Life Ministries International: ORG
+the Greeters Department: ORG
+New Life Ministries International: ORG
+the Women's Department: ORG
+New
+Life Ministries International: ORG
+Commoners Club: ORG
+Institute of Public Administration: ORG
+Management- University of Sierra
+Leone: ORG
+Saint Joseph's: PERSON
+Secondary School Band - Drum Major
+
+: ORG
+Skills
+
+Accounting, Accounting: ORG
+Budget, Contractual Procedures: ORG
+Data Entry,: ORG
+Database, Documentation: ORG
+Financial Accounting: ORG
+Financial Reporting, Financial Management: ORG
+Grants, Inventory Control: ORG
+Excel: PRODUCT
+Office: ORG
+Power Point: ORG
+Microsoft Word: PERSON
+Organizing, Procurement, Quality Control Stock: ORG
+Control, Preparation of Tender Documents: ORG
+Trainings: ORG

@@ -1,0 +1,104 @@
+Telecom
+Strength: ORG
+Skill Highlights
+
+Contract Negotiation: ORG
+Cloud Technology: ORG
+Digital PBX: ORG
+Smart Devices: ORG
+VoIP Technology: ORG
+Threats: PRODUCT
+SQL Repositories
+Enterprise Backup, Recovery and Storage Methodologies
+Enterprise Compliance and Regulatory Solutions: ORG
+LAN: ORG
+WAN: ORG
+Client/Servers & Specialty: ORG
+Citrix: GPE
+Virtual: GPE
+WiFi: ORG
+Mobile App: ORG
+Point of Sales & Bar-Coding: ORG
+Business Analysis and Process Modeling: ORG
+Zero Based: PERSON
+EBIDTA: ORG
+Policies & Procedures: ORG
+Project, Network,: ORG
+Information Technology /Chief: ORG
+January 2007 to January 2015: DATE
+Identify: ORG
+Law Firm: PERSON
+Car Washes: PERSON
+USA Direct Funding: ORG
+Key Achievements: Moved: LOC
+Recruit: ORG
+Establish: NORP
+Pacific Northwest: GPE
+CRM: PRODUCT
+LOS (Loan Origination Software: ORG
+VoIP: LOC
+4: CARDINAL
+Companywide: NORP
+NEC VoIP: LOC
+Lean Office: ORG
+Business Continuity Plan Implementation: ORG
+Implementation Evaluate: ORG
+SQL: ORG
+Deployed: PRODUCT
+January 2000 to January 2006: DATE
+Recruit: ORG
+Develop: ORG
+Strategic Planning: ORG
+ESOP: ORG
+Key Achievements: LOC
+Implemented Nortel PBX System: ORG
+ERP: ORG
+ISO: ORG
+Implemented Supply Chain Security Management Systems: ORG
+7x24: CARDINAL
+EDI: ORG
+Lean Manufacturing: ORG
+Lean Office: ORG
+5 GHz: PERCENT
+Point: ORG
+100TX: CARDINAL
+ECM: ORG
+Corp: ORG
+Retail Stores Division: ORG
+Oregon University Information Technology
+Technology Belford University Technology
+Limited Energy Journeyman *: ORG
+Oregon Portland Community College: ORG
+Skills
+Accounting: ORG
+Application Development: ORG
+Backup: GPE
+Budget, Business Analysis: ORG
+Process, Citrix, Consulting: ORG
+CRM: PRODUCT
+Client: GPE
+Data Integration: ORG
+Data Warehouses: ORG
+Disaster Recovery: PERSON
+EDI: ORG
+ERP: ORG
+ISO: ORG
+ITIL: ORG
+LAN: ORG
+Lean Manufacturing: ORG
+Law: PERSON
+Office, Migration, Modeling,: ORG
+NEC: ORG
+Enterprise: ORG
+Network: ORG
+Nortel: ORG
+PBX: ORG
+Policies: GPE
+Coding: ORG
+Retail: PERSON
+Security Analysis: ORG
+SQL: ORG
+Strategic Planning: ORG
+Supply Chain: ORG
+VoIP: LOC
+WAN: ORG

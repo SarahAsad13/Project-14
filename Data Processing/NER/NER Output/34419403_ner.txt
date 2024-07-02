@@ -1,0 +1,25 @@
+CONCIERGE: ORG
+international &: ORG
+Windows/DOS: ORG
+MS Office: ORG
+Data Entry: ORG
+Skills
+
+Friendly & Informative: ORG
+Quick: ORG
+11/2014: CARDINAL
+Respond: PERSON
+Activate: ORG
+12/2007 to 11/2013: CARDINAL
+Navy: ORG
+Stow: ORG
+Assemble: PRODUCT
+11/2007: CARDINAL
+Sort: ORG
+Sep 1999: DATE
+Jacqueline Kennedy: PERSON
+State International Business
+Skills: ORG
+Customer Service: ORG
+Navy: ORG
+Quick: ORG

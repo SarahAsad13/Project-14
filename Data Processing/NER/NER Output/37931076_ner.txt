@@ -1,0 +1,33 @@
+6 years: DATE
+English: LANGUAGE
+09/2016: PRODUCT
+Name City: GPE
+CSR: ORG
+Name City: GPE
+State Responsible: ORG
+daily: DATE
+Clerk: PERSON
+10/2015: CARDINAL
+Name City: GPE
+State: ORG
+Cashier/Receptionist 07/2014: ORG
+Name City: GPE
+State: ORG
+Cashier/CSR 11/2010: ORG
+04/2014 Company Name City: ORG
+Assisted Managers: ORG
+Corporate Sales: ORG
+Skills
+Accounting: ORG
+ADP: ORG
+Closing: PERSON
+Logging: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+NSF: ORG
+year-end: DATE
+Associate of Arts: ORG
+English Spring 2014 South Suburban College: EVENT

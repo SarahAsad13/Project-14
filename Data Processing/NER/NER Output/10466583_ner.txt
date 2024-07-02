@@ -1,0 +1,20 @@
+Customer: ORG
+June 2013: DATE
+March 2016: DATE
+Name City: GPE
+State Floral: ORG
+January 2011: DATE
+December 2012: DATE
+Name City: GPE
+State Floral: ORG
+April 2008: DATE
+August 2009: DATE
+Name City: GPE
+State: ORG
+October 2002: DATE
+April 2008: DATE
+Name City: GPE
+State: ORG
+Northwestern College City: ORG
+State: ORG
+Dupage Medical: ORG

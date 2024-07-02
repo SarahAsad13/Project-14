@@ -1,0 +1,140 @@
+RN / ASST: ORG
+Case Management: ORG
+Hospice: ORG
+Infection: ORG
+Nurse: PERSON
+Oncology: ORG
+Trauma: PERSON
+09/2010: DATE
+12/2011: CARDINAL
+ADON: ORG
+85 to 90: CARDINAL
+Mentally: GPE
+Physically: PERSON
+2
+years: DATE
+20: CARDINAL
+monthly: DATE
+MD: GPE
+3: CARDINAL
+MOD: ORG
+the day: DATE
+Secured a Home Health: ORG
+ResCare: ORG
+Oak Park Illinois: GPE
+2015: DATE
+one: CARDINAL
+RN: ORG
+July 2016: DATE
+Best Home Health: ORG
+the fall of 2016: DATE
+Maxim Home Health: ORG
+Infusion: ORG
+40 miles: QUANTITY
+more than 30 minute: TIME
+Case Management: WORK_OF_ART
+OCN: ORG
+Was Med / Surg: ORG
+North Shore Youth Baseball League: ORG
+4 years: DATE
+Totonchi MD: PERSON
+Advocate Illinois Masonic Med: ORG
+Michael Friedman: PERSON
+MD: GPE
+Advocate Illinois Masonic Med: ORG
+Nurse: PERSON
+Illinois Masonic Med: ORG
+Nurse Practioner: PERSON
+Advocate Illinois Masonic Med: ORG
+Tennessee: GPE
+Uma Kelkar: PERSON
+Rehab Manor Care: ORG
+MDS: GPE
+Manor Care: PERSON
+Northbrook Elma: PERSON
+Northbrook Contact: ORG
+DCD: ORG
+40: CARDINAL
+Locked Dementia Unit: ORG
+60: CARDINAL
+the Long Term Care Unit: ORG
+Corporate Standards: ORG
+Clinical Management: ORG
+QA: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Medicare: ORG
+Monthly: DATE
+July 2010: DATE
+01/1977: DATE
+RN / Asst: ORG
+24: CARDINAL
+RN: ORG
+NCT: ORG
+Unit Clerks: ORG
+daily: DATE
+RN: ORG
+daily: DATE
+yearly: DATE
+01/1977: DATE
+RN: ORG
+Med / Surg Unit: ORG
+2 years: DATE
+MD: GPE
+1st Oncology inpatient Unit: ORG
+Head Nurse: PERSON
+next 20 years: DATE
+Earned OCN: ORG
+Laminar Flow Hood: ORG
+Beside: ORG
+many days: DATE
+the week: DATE
+1999: DATE
+Surgical / 23hr Observation Unit: ORG
+Illinois Masonic Med Center: ORG
+approximately 4 years: DATE
+Asst: PERSON
+Computers: NORP
+Units: ORG
+Computer Classes: ORG
+daily: DATE
+2 day: DATE
+one: CARDINAL
+Became Nationally: ORG
+Med / Surg Nursing: ORG
+Types of Surgical: ORG
+Gyne: PERSON
+Surgical: PERSON
+General ENT: ORG
+Fetal Demises: ORG
+less than 20 weeks: DATE
+Isolation: ORG
+Negative Air Flow: FAC
+2-3 days: DATE
+Medicals: ORG
+Isolation: ORG
+4-5 days: DATE
+Many days up to half: DATE
+1-2: CARDINAL
+daily: DATE
+daily: DATE
+daily: DATE
+daily: DATE
+last minute: TIME
+two: CARDINAL
+Training: PERSON
+1976: DATE
+RN Diploma Illinois Masonic School of Nursing ï¼​ City: ORG
+State: ORG
+1974: DATE
+Northeastern Illinois University: ORG
+State: ORG
+1973: DATE
+Western Illinois University: ORG
+1999: DATE
+the years: DATE
+Masonic: GPE
+the PICC Line Program: ORG
+Interventional Radiology All: ORG
+Advocate Illinois Masonic Medical Center: ORG

@@ -1,0 +1,62 @@
+Summary
+Human Resources Professional: ORG
+8 years: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Access, Outlook: ORG
+August 2013: DATE
+September 2013: DATE
+over 1,000: CARDINAL
+Key Results: LOC
+Prepares Personnel Action Notices: ORG
+PeopleSoft: ORG
+Designs: NORP
+HR & Safety: ORG
+August 2010 to August 2013: DATE
+MarJac: ORG
+US: GPE
+Key Results: LOC
+Waynesboro: GPE
+Structured: ORG
+Managed Workers: ORG
+four: CARDINAL
+Utilized: ORG
+I9: NORP
+Department Of Transportation: ORG
+OSHA: ORG
+Department of Environmental Quality: ORG
+hourly: TIME
+Supervisor: PERSON
+August 2008 to August 2010: DATE
+1,000: CARDINAL
+Key Results: LOC
+one: CARDINAL
+daily: DATE
+hourly: TIME
+Bachelor of Science (BS: ORG
+Business Administration: ORG
+2008: DATE
+State Business
+Administration Activities: ORG
+40+ hours: TIME
+Howard Transportation: ORG
+Professional Affiliations
+Complete: ORG
+Skills: ORG
+ADA: ORG
+Benefits Administration: ORG
+Employee Relations: ORG
+Law: PERSON
+Access, Excel: ORG
+MS Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Organizational Development: ORG
+PeopleSoft: ORG
+Personnel: ORG
+Policies: GPE
+Quality, Recruitment: ORG
+Safety: ORG
+Structured: ORG
+Transportation: ORG

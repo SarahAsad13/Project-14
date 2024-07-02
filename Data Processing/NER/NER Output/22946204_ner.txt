@@ -1,0 +1,141 @@
+5+ yrs: DATE
+3+ yrs: DATE
+Java: PERSON
+3+ yrs: DATE
+MATLAB: ORG
+5+ yrs: DATE
+2: CARDINAL
+2yrs: CARDINAL
+Pages/Numbers/Keynote: ORG
+LATEX
+Mechanical Design: ORG
+Solidworks: PERSON
+5+ yrs: DATE
+Mechanical Skills: ORG
+MakerBot: ORG
+Laser: ORG
+Mill: PERSON
+Drill: PERSON
+Lathe Machine: PERSON
+STATA: PERSON
+SPSS: ORG
+SQL Server: PERSON
+4: CARDINAL
+Navicat: PERSON
+2: CARDINAL
+Windows 7/10: ORG
+June 2016: DATE
+Current R&D Product Development Engineer 
+City
+
+Design: ORG
+May 2015 to February 2016: DATE
+City
+
+Research: ORG
+Wharton School: ORG
+Europe Emission Trading: LOC
+Java: PERSON
+Navicat SQLite: PERSON
+STATA: PERSON
+August 2013 to September 2013: DATE
+Mechatronics & Robotics: ORG
+Mechatronic: ORG
+Robots: ORG
+Familiar: PERSON
+Arduino: ORG
+Robotics: GPE
+Kinematics: GPE
+260: CARDINAL
+Haptic Rendering and Motion
+Control: ORG
+the Phantom Robot: ORG
+Mechanical Engineering Experienced: ORG
+CAD: ORG
+Mechanical Design of a Flexible-Assembly-System(FAS: WORK_OF_ART
+Solidworks: ORG
+UAV & Quadrotor: ORG
+Dynamic Modeling: ORG
+Control and Simulation: ORG
+Path Planning: ORG
+Dijkstra: ORG
+Trajectory Generation: ORG
+KMel: PERSON
+Kalman Filter: PERSON
+Kalman Filter: PERSON
+RANSAC: ORG
+Random Sample Consensus: ORG
+Kalman Filter: PERSON
+Control System Study on: ORG
+Feedback Control: ORG
+Laplace: ORG
+PID: ORG
+Bode Plot: PERSON
+Root Locus: PERSON
+Frequency Response: PERSON
+PIXY: ORG
+Machine Learning Experienced: ORG
+Supervised Learning (Regression: ORG
+Neural Networks: ORG
+KNN: ORG
+SVM: ORG
+Bayes
+Classifiers: ORG
+Unsupervised Learning: ORG
+Logistic Regression: ORG
+LASSO: ORG
+Linear SVM: PERSON
+SVM: ORG
+Adaboost: PERSON
+Java: PERSON
+GUI: ORG
+TDD: ORG
+5+ years: DATE
+Matlab: ORG
+University of Pennsylvania, School of Eng: ORG
+Applied Science Aug: PERSON
+2014: DATE
+State: ORG
+Mech: PERSON
+Harbin Institute of Technology: ORG
+2010: DATE
+Aug City: GPE
+China Mechanical Design: ORG
+English: LANGUAGE
+Chinese: NORP
+30%: PERCENT
+MCM: ORG
+The Mathematical Contest: ORG
+Modeling: GPE
+Modeling: GPE
+2012: DATE
+4th Place: ORG
+Robockey: GPE
+Hockey: GPE
+Upenn: GPE
+2015: DATE
+CAD: ORG
+Chinese: NORP
+Database: GPE
+English: LANGUAGE
+Experiments: ORG
+GUI: ORG
+Java, Laser: ORG
+Lathe, Machine Learning: ORG
+MATLAB: ORG
+Mechanical Design: ORG
+Mechanical Design: ORG
+Mechanical Engineering: ORG
+Excel: PRODUCT
+Mill: PERSON
+Modeling: GPE
+Networks: ORG
+Neural: ORG
+Operating Systems: ORG
+PLC: ORG
+Programming, Python, Rendering, Research, Robotics, Simulation: WORK_OF_ART
+Solidworks: ORG
+SPSS: ORG
+SQL: ORG
+SQL Server: ORG
+Trading System: ORG

@@ -1,0 +1,110 @@
+more than 10 years': DATE
+Skills
+
+Apparel Design
+Adobe Photoshop
+Originality
+Adobe Illustrator
+Garment: ORG
+Superb: NORP
+Teamwork: ORG
+Pattern: ORG
+Illustration
+Sketchbook Pro
+
+Work History
+Design Director / Senior Designer: PRODUCT
+Tiger Schulmann's: PERSON
+TSK Pro Shop: ORG
+Communicated: ORG
+Facilitated: ORG
+Head Designer: PERSON
+10/2016: CARDINAL
+Head Designer: PERSON
+02/2014: ORG
+11/2015: CARDINAL
+3: CARDINAL
+Head Designer: PERSON
+08/2008: PERSON
+07/2014: CARDINAL
+06/2004: CARDINAL
+12/2003 to 06/2004: CARDINAL
+2004: DATE
+Sean Combs: ORG
+09/2002 to 12/2003: CARDINAL
+Head Designer: PERSON
+03/2000: CARDINAL
+Mens Apparel: PERSON
+Directed: ORG
+Ecko Unltd: ORG
+Marc Ecko: PERSON
+5: CARDINAL
+04/2000: CARDINAL
+Sketch Up: PERSON
+Illustrator: ORG
+Prepared: PRODUCT
+Fabricated: ORG
+Associate of Science : Apparel Design Fashion Institute of Technology - City: WORK_OF_ART
+Sean John: PERSON
+MTV: ORG
+Sean John: PERSON
+Show 2004: DATE
+CFDA: ORG
+Show 2002 Outerwear: EVENT
+Tommy Hilfiger Olympic Ski: PERSON
+WWD: ORG
+daily: DATE
+DNR news: ORG
+Complex: ORG
+Detail: PERSON
+Flaunt, Stuff: ORG
+Trace: ORG
+Teen
+People: PERSON
+Honey: ORG
+YM: ORG
+Skills
+
+Apparel Design
+Adobe Photoshop
+Originality
+Adobe Illustrator
+Garment: ORG
+Superb: NORP
+Teamwork: ORG
+Pattern: ORG
+Illustration
+Sketchbook Pro
+
+Work History
+Design Director / Senior Designer: PRODUCT
+Tiger Schulmann's: PERSON
+TSK Pro Shop: ORG
+Communicated: ORG
+Facilitated: ORG
+Head Designer: PERSON
+10/2016: CARDINAL
+Head Designer: PERSON
+02/2014: ORG
+11/2015: CARDINAL
+3: CARDINAL
+Head Designer: PERSON
+08/2008: PERSON
+07/2014: CARDINAL
+06/2004: CARDINAL
+12/2003 to 06/2004: CARDINAL
+2004: DATE
+Sean Combs: ORG
+09/2002 to 12/2003: CARDINAL
+Head Designer: PERSON
+03/2000: CARDINAL
+Mens Apparel: PERSON
+Directed: ORG
+Ecko Unltd: ORG
+Marc Ecko: PERSON
+5: CARDINAL
+04/2000: CARDINAL
+Sketch Up: PERSON
+Illustrator: ORG
+Prepared: PRODUCT
+Fabricated: ORG

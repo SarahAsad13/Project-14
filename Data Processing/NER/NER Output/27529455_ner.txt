@@ -1,0 +1,119 @@
+Instructor/Trainer, Technical Writer: ORG
+Adobe Acrobat Prof.: PERSON
+Adobe Captivate 5: ORG
+5.5: DATE
+7: DATE
+8: DATE
+Adobe Dreamweaver: PERSON
+Adobe InDesign: PERSON
+Adobe PhotoShop: ORG
+Articulate Studio: ORG
+9/Storyline: ORG
+Fireworks Â​ Basics: PRODUCT
+Flash Â​ Basics: ORG
+Blackboard: PERSON
+SumTotal: ORG
+Moodle Microsoft: ORG
+'03: DATE
+'07: DATE
+Microsoft: ORG
+Excel: PRODUCT
+'03: DATE
+'07: DATE
+'10: DATE
+Microsoft: ORG
+'03: DATE
+'07: DATE
+Microsoft: ORG
+PowerPoint: PRODUCT
+'03: DATE
+'07: DATE
+'10: DATE
+Microsoft: ORG
+'03: DATE
+'07: DATE
+Microsoft: ORG
+'03: DATE
+'07: DATE
+'10: DATE
+University of Memphis: ORG
+1st Generation PhD Fellowship Academic Achievement Award Instruction: EVENT
+Generation PhD Fellowship Academic Achievement Award
+University of Phoenix 2005: EVENT
+Distance Learning City: FAC
+GPA: ORG
+3.91: CARDINAL
+Adult Education: ORG
+Distance
+Learning: ORG
+GPA: ORG
+3.91: CARDINAL
+University of Memphis 2003 Bachelor of Science : Business Administration Management City: ORG
+May 2015 to September 2015: DATE
+January 2015 to March 2015: DATE
+Nike: ORG
+Memphis: GPE
+Tennessee: GPE
+December 2014: DATE
+Current Tutor 
+City: WORK_OF_ART
+Club Z Tutoring Cordova: WORK_OF_ART
+Tennessee: GPE
+K-12: PRODUCT
+Math: PERSON
+Prepare: ORG
+Assess: ORG
+September 2013 to April 2014: DATE
+6: CARDINAL
+the Introduction to Distance Education: ORG
+TAACCCT: ORG
+International Paper Memphis: ORG
+Tennessee: GPE
+June 2013 to November 2014: DATE
+2: CARDINAL
+5: CARDINAL
+one: CARDINAL
+Facilitated: ORG
+Job Aids: PERSON
+Kaizen: PERSON
+August 2012 to October 2012: DATE
+the Ferndale School District: ORG
+the Moodle
+
+LMS: ORG
+October 2011 to April 2012: DATE
+Remote Instructional Designer and Technical Writer: EVENT
+at least 34: CARDINAL
+eLearning: ORG
+eLearning: ORG
+Paragon: ORG
+Job Aids: PERSON
+August 2011 to December 2011: DATE
+Remote Instructional Designer: ORG
+UTHSC: ORG
+April 2009 to June 2013: DATE
+Facilitated: ORG
+Maintained: GPE
+Alerts: WORK_OF_ART
+Researched: ORG
+Job Aids: PERSON
+August 2006 to December 2010: DATE
+General Education: ORG
+State: ORG
+Monitored: ORG
+daily: DATE
+Maintained: GPE
+Adobe: PERSON
+Crystal Reports: PRODUCT
+Curriculum Development: PERSON
+Customer Service: ORG
+Customer Service: ORG
+Information Mapping: ORG
+lesson plans: PERSON
+Math: PERSON
+MS Word: PERSON
+Order Entry: ORG
+Project Management: ORG
+Supply Chain: ORG
+Technical Writing: PERSON
+Training Manuals: ORG

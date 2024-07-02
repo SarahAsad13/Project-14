@@ -1,0 +1,60 @@
+Physical Education: ORG
+Â Sport TrainingÂ: PERSON
+10 years: DATE
+one: CARDINAL
+Highlights
+
+Fitness: ORG
+BMI: ORG
+BMI
+Fitness: ORG
+Weight: ORG
+CPR: ORG
+First Aid: ORG
+Gymnast: ORG
+AED: ORG
+30: CARDINAL
+Team Building and Leadership
+Education Strategies: ORG
+2015: DATE
+10%: PERCENT
+seven: CARDINAL
+75%: PERCENT
+Jan 2014 to Jan 2016: DATE
+80%: PERCENT
+Health and Wellness: ORG
+the A&M Nutrition Program for Schools: ORG
+House: ORG
+Swimming: NORP
+Jan 2010 to Jan 2013: DATE
+Coordinated: ORG
+Maintained: GPE
+each season: DATE
+Communicated: ORG
+Boosters: PRODUCT
+Strength: PERSON
+Conditioning Trainer: PERSON
+Swimming Jan 2005: DATE
+Jan 2011: DATE
+State: ORG
+seven: CARDINAL
+the American University: ORG
+Ed: PERSON
+Sport Training 2012 University of Turabo - City: ORG
+State: ORG
+United Stated
+
+Sport
+
+Bachelor in Arts of Education: ORG
+Physical Education: ORG
+2008: DATE
+American University of Puerto Rico - City: ORG
+State: ORG
+Unated Stated: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+Mind Body)Â: PERSON
+Educator: PERSON
+Bilingual: GPE

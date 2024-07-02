@@ -1,0 +1,138 @@
+PH INPATIENT/FINANCIAL: ORG
+Training
+University of Phoenix 2013: ORG
+Buisniess City: GPE
+State: GPE
+US: GPE
+GPA: ORG
+GPA: ORG
+University of Phoenix 2011 Bachelor of Science : Human Service Management City: ORG
+State: GPE
+US: GPE
+GPA: ORG
+University of Phoenix 2009 Associate of Arts : Health Administration City: ORG
+State: GPE
+US: GPE
+GPA: ORG
+3.97/4.0: CARDINAL
+GPA: ORG
+3.97/4.0: CARDINAL
+September 2015: DATE
+Supervisor
+Meet: PERSON
+weekly: DATE
+Financial Advocate: ORG
+Downtown PH
+Work on Rapid Improvement: FAC
+CDS: ORG
+2016: DATE
+Financial Application Policy for PHS: ORG
+2016 501R: CARDINAL
+Financial Assistance Policy: ORG
+Financial Advocates: LOC
+NICU: ORG
+Social Security: ORG
+Financial Advocates: LOC
+November 2015 to September 2015: DATE
+PH Patient Service: ORG
+Supervisor 
+City: PERSON
+PSR: ORG
+monthly: DATE
+PSR: ORG
+Orchestrate: ORG
+Attend: ORG
+weekly: DATE
+Establish: NORP
+monthly: DATE
+Attendance: PERSON
+CDS Patient Access Department: ORG
+Build: GPE
+Patient Access: ORG
+January 2014 to November 2015: DATE
+RMC: PERSON
+Patient Access: ORG
+Rio Rancho: ORG
+First: ORDINAL
+Southern: NORP
+High Resort
+Establish: FAC
+Rio Rancho: ORG
+CDS: ORG
+Improve: ORG
+Patient Access: ORG
+Rio Rancho: ORG
+Patient Access: ORG
+Rio Rancho: GPE
+RMC: PERSON
+Rio Rancho: ORG
+EPIC: ORG
+ADT: ORG
+Implement EMPI/Bed Management: ORG
+CDS: ORG
+ER: ORG
+Volunteer: PRODUCT
+Rio Rancho
+
+Company: ORG
+June 2012 to January 2014: DATE
+RMC: PERSON
+State: ORG
+24/7: CARDINAL
+Partake: GPE
+RMC: ORG
+Greatly: ORG
+ER: GPE
+ER: ORG
+Patient Access: ORG
+week: DATE
+CDS: ORG
+2013: DATE
+EPIC: NORP
+November 2008 to June 2012: DATE
+Outpatient: ORG
+ER: GPE
+Day Surgery: PERSON
+Physical Therapy: PERSON
+Infusion: ORG
+Patient Service Representative: ORG
+Participate: ORG
+ER: ORG
+Manage ER: FAC
+CPT: ORG
+ER: ORG
+October 2005 to November 2008: DATE
+Registrar 
+City: DATE
+Outpatient: ORG
+ER: GPE
+Day Surgery: PERSON
+GI Lab: ORG
+MPAC: ORG
+third: ORDINAL
+May 1997 to October 2005: DATE
+one: CARDINAL
+Cort: GPE
+El Paso: GPE
+Denver: GPE
+Salt Lake
+City: GPE
+San Diego: GPE
+Phoenix
+Successfully: ORG
+June 1992 to: DATE
+Coordinate: FAC
+Cashiering: WORK_OF_ART
+CPT: ORG
+Customer: ORG
+Front-office: ORG
+Marketing & sales: ORG
+Access: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+2000: DATE
+Word: PERSON
+Microsoft Word: PERSON
+San, Scheduling, Seminars: GPE
+Phone: ORG
+Author: GPE

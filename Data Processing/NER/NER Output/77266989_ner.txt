@@ -1,0 +1,71 @@
+Metropolitan Development Council: ORG
+University: ORG
+Customer Service: ORG
+more than 14 years: DATE
+Detox and Rehabilitation: ORG
+Corporate Administration: ORG
+daily: DATE
+16: CARDINAL
+12: CARDINAL
+Career: FAC
+the US Army: ORG
+Squad: ORG
+Leadership: NORP
+Licenses
+Licensed: PERSON
+Skill Highlights
+
+Management
+
+Committed: ORG
+Drug and Alcohol: ORG
+Avartar: ORG
+June 2013: DATE
+Current Program: ORG
+16: CARDINAL
+12: CARDINAL
+the day to day: DATE
+Maintain: PERSON
+Provide: NORP
+24/7: CARDINAL
+June 2000 to June 2013: DATE
+Rehabilitation/Detox Lead Nurse: EVENT
+Attend: ORG
+Physical: ORG
+Coordinate: FAC
+Hospital: ORG
+Coordinate: FAC
+Constant: PERSON
+September 1997 to April 2005: DATE
+SSG: ORG
+Physical Fitness Instructor 
+
+Critical: ORG
+Cardiac: ORG
+Patient Care,: ORG
+Charting: PERSON
+Training
+City University of Seattle 2012 Bachelor of Arts : Management City: ORG
+GPA: ORG
+3.3: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+Holiday
+Chef/Tacoma Detoxification Center Provided: ORG
+Skills Registered: ORG
+2010(expired: CARDINAL
+Certificate Non-profit Management 2013 University: ORG
+Tae: PERSON
+Affiliations National
+federation of license: ORG
+Practical Nurses World Tae: ORG
+Federation American Cancer Society: ORG
+WGU: ORG
+Tonia Hess: PERSON
+Skills
+
+Counseling, Critical: ORG
+Patient Care: ORG
+Rehabilitation: ORG
+WGU: ORG
+Tonia Hess: PERSON

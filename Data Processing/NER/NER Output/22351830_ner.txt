@@ -1,0 +1,200 @@
+7 years: DATE
+Java: PERSON
+JEE: PERSON
+TDD: ORG
+BDD: ORG
+Continuous Integration: ORG
+Relational: GPE
+NoSQL: GPE
+Agile: ORG
+Deutsch: PERSON
+Deutsch: PERSON
+more than five years: DATE
+Berlin: GPE
+Germany: GPE
+two years: DATE
+A1: PRODUCT
+A2: LOC
+JEE: PERSON
+JSP: ORG
+Servlet: ORG
+Struts: PERSON
+JDBC: PERSON
+JMS: ORG
+MDB: ORG
+JMX: GPE
+Spring Ioc: GPE
+REST: ORG
+Spring Security: ORG
+Spring: DATE
+Remoting: GPE
+Hibernate: PERSON
+MyBatis: GPE
+Maven: GPE
+Mockito: GPE
+WireMock: PRODUCT
+JMeter: PERSON
+JUnit: ORG
+IBM MqSeries: ORG
+Business Process Execution Language: ORG
+SoapUI: PERSON
+XML: ORG
+XSD: ORG
+XSLT: GPE
+XPATH: NORP
+Xquery: ORG
+SOAP: ORG
+MVC: ORG
+JSON: GPE
+XML: ORG
+STS: ORG
+Maven Jetty Plugin: ORG
+Oracle Weblogic: ORG
+11: CARDINAL
+Oracle Weblogic11g - Oracle Service Bus: ORG
+OEPE: ORG
+Websphere Application Server: ORG
+7.0: CARDINAL
+6.0: CARDINAL
+Rational Application Developer RAD 6.0(IBM: ORG
+Oracle 11: LAW
+MySql
+Scripting: PRODUCT
+JavaScript: PRODUCT
+HTML
+Version: ORG
+Git-Stash: PERSON
+SVN: ORG
+UML - Enterprise Architect: ORG
+MQExplorer: ORG
+Atlassian: NORP
+Linux
+Quality Assurance and Robustness
+Sonar: ORG
+JProfiler: PERSON
+VisualVM: ORG
+ELK: ORG
+Java: PERSON
+API: ORG
+January 2013 to March 2015: DATE
+ADP Dealer: ORG
+Automotive: ORG
+Authentication, Authorization: ORG
+Single Sign On (SSO: ORG
+Federation Services: ORG
+OAuth: ORG
+Designed &: ORG
+Spring: DATE
+Oauth2.0 and Basic Authentication: ORG
+API Integration: ORG
+GemFire: PERSON
+Authorization: NORP
+Implemented MyBatis: ORG
+Oracle: NORP
+Liquibase: PERSON
+90+ %: PERCENT
+Gatling: PERSON
+WireMock: PRODUCT
+200%: PERCENT
+ELK: ORG
+kibana: PERSON
+Java Utilities: PERSON
+October 2010 to December 2012: DATE
+Deutsch Telekom: PERSON
+Sofia: GPE
+Novatec: NORP
+Cisco Voice Gateway: ORG
+Oracle SOA: ORG
+Schema: PERSON
+Jdeveloper: PERSON
+Used Oracle Service Bus: ORG
+OSB: ORG
+IP: ORG
+XML: ORG
+OSB: ORG
+Spring: DATE
+MVC: ORG
+Sofia UI: ORG
+Created Database: GPE
+OSB: ORG
+Sofia: GPE
+OSB: ORG
+Project - Business logic: ORG
+Technique: PERSON
+October 2007 to October 2010: DATE
+T-Home: ORG
+Europe: LOC
+NorthBound: ORG
+SouthBound: ORG
+S1: PRODUCT
+S2: GPE
+S3: PRODUCT
+S4: PRODUCT
+NorthBound: ORG
+PreOrder: ORG
+PreOrder: ORG
+E2E.: ORG
+JMS: PERSON
+MDB: ORG
+XML: ORG
+IBM: ORG
+XBEAN: ORG
+Admin: PERSON
+HTML: ORG
+JSP: ORG
+JavaScript: ORG
+Struts Framework: PERSON
+Education: ORG
+RGPV University: ORG
+India: GPE
+Vikram University: FAC
+June 2001: DATE
+English: LANGUAGE
+Hindi: GPE
+Basic German(A1: PERSON
+ADP: ORG
+API: ORG
+7.5: CARDINAL
+Automotive: ORG
+Basic, Business Process: ORG
+Cisco: GPE
+CA: ORG
+Version: ORG
+Database: GPE
+Eclipse, Fluent: WORK_OF_ART
+English: LANGUAGE
+XML: ORG
+Gateway: PERSON
+German: NORP
+Hindi: GPE
+HTML: ORG
+IBM: ORG
+IBM: ORG
+IBM MqSeries: ORG
+IP: ORG
+Java: PERSON
+JMS: PERSON
+JSP: ORG
+JavaScript: ORG
+JDBC: PERSON
+LDAP: GPE
+Linux: GPE
+Mac OS: PERSON
+MVC: ORG
+MySql, Enterprise: ORG
+Operating Systems: ORG
+Oracle: ORG
+QA: ORG
+Quality Assurance: GPE
+RAD: ORG
+6.0: CARDINAL
+Oracle RDBMS: ORG
+Servlet: PERSON
+SOAP: ORG
+Struts: PERSON
+Tomcat: ORG
+UML: ORG
+Utilities: ORG
+Weblogic: PERSON
+Websphere: GPE
+XSLT: GPE

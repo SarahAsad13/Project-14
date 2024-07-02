@@ -1,0 +1,51 @@
+RECRUITER: ORG
+Career Overview
+
+Mature: ORG
+8 years: DATE
+Core Strengths
+
+: WORK_OF_ART
+Microsoft Office: ORG
+Customer: ORG
+30%: PERCENT
+two: CARDINAL
+Name City: GPE
+State: ORG
+Communicated: WORK_OF_ART
+Maintained: GPE
+Name City: GPE
+State: ORG
+10/2014: CARDINAL
+Customer Service Researched: ORG
+Maintained: GPE
+thousands: CARDINAL
+Requires: PERSON
+Name City: GPE
+State Catering: ORG
+10/2012: CARDINAL
+04/2013: CARDINAL
+every morning: TIME
+Name City: GPE
+State Automobile Salesperson 01/2008: ORG
+Name City: GPE
+State Personal Banker 04/2006: ORG
+60: CARDINAL
+Name City: GPE
+State Administrative: ORG
+English: LANGUAGE
+1987: DATE
+Pilgrim High School: ORG
+State: GPE
+USA English: NORP
+General Studies University: ORG
+State: GPE
+USA: GPE
+Mathematics: NORP
+English: NORP
+Collin County Community College: ORG
+City: GPE
+State: GPE
+Mathematics: NORP
+English: LANGUAGE
+Microsoft: ORG

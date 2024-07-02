@@ -1,0 +1,88 @@
+FREELANCE: GPE
+Graphic: PERSON
+Client: GPE
+Marketing &: ORG
+Budget: ORG
+Highlights
+
+Excellent: WORK_OF_ART
+Quick: ORG
+Resourceful
+Conceptual thinker: PERSON
+Customer: ORG
+Spanish: NORP
+Conceptual & schematic design: ORG
+Strategic thinker: PRODUCT
+Photoshop
+Familiar: PERSON
+Studio Designer: PERSON
+InDesign: ORG
+SketchUp: ORG
+Revit: GPE
+Winner: PERSON
+2012: DATE
+Rising Star: WORK_OF_ART
+NAWBO - National Association of Women Business Owners: ORG
+two: CARDINAL
+Eco Chateau Wellness Spas: ORG
+Eco Chateau: PERSON
+French: NORP
+25: CARDINAL
+LA: GPE
+Sound City Recording: GPE
+over 300: CARDINAL
+Huffington Post Japan: ORG
+Juxtapoz: PERSON
+LA Weekly: ORG
+Directed: ORG
+99th percent: GPE
+Johnson O Conner Research Foundation Aptitudes: ORG
+200: CARDINAL
+Germany: GPE
+$50M: MONEY
+04/2012 - Current
+Company Name: LAW
+Marie Fox: PERSON
+100%: PERCENT
+approximately 10%: PERCENT
+100%: PERCENT
+Sash Bag Â 
+
+Launched: PERSON
+two: CARDINAL
+Eco Chateau: ORG
+2012 & 2014: DATE
+10: CARDINAL
+LLC: ORG
+Hosted: ORG
+50: CARDINAL
+China: GPE
+two: CARDINAL
+KUSI Channel 5 TV: ORG
+102.1: CARDINAL
+Formes de Luxe French: ORG
+World Packaging News: ORG
+Trendhunter: PERSON
+Trendera: PERSON
+State Marketing Manager &: ORG
+200+: DATE
+$50 Million dollar: MONEY
+Collaborated: ORG
+Initiated Thor's: ORG
+first: ORDINAL
+1,800: CARDINAL
+200: CARDINAL
+Competitive Landscape: PERSON
+weekly: DATE
+14: CARDINAL
+Directed: ORG
+Chad Reed: PERSON
+Coordinated: ORG
+Created: ORG
+Analyzed: ORG
+Thor: PERSON
+2005: DATE
+University of Wisconsin: ORG
+Madison BBA :: PERSON
+International Business / Marketing: ORG
+Spanish: NORP

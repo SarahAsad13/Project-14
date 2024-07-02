@@ -1,0 +1,60 @@
+Kimberly Fisheli
+: PERSON
+Substitute Teacher: PERSON
+06/2017 - Current Company Name - City: ORG
+Maintained: GPE
+Oversaw: GPE
+Applied: ORG
+school day: DATE
+Long-Term Special Education Substitute: ORG
+02/2021 - 06/2021 Company Name - City: MONEY
+Facilitated: ORG
+Established: ORG
+Collaborated: ORG
+Maintained: GPE
+Mentored: ORG
+Oversaw: GPE
+Assigned: ORG
+daily: DATE
+Used Google Classroom: ORG
+Studied Science and World History: ORG
+Google Classroom and Aries: ORG
+Substitute Teacher: PERSON
+09/2010 - 05/2018 Company Name - City: ORG
+Maintained: GPE
+Used Blackboard & Powerschool: ORG
+school day: DATE
+Mentored: ORG
+Powerschool: GPE
+SEIS: ORG
+Assigned: ORG
+daily: DATE
+Applied: ORG
+Oversaw: GPE
+week: DATE
+Established: ORG
+Collaborated: ORG
+Liberal Arts: ORG
+Fullerton College - City: ORG
+California State University - Fullerton - City: ORG
+State: ORG
+3.11: CARDINAL
+GPA: ORG
+California State University - Fullerton - City: ORG
+PTA Honorary Service Award: ORG
+Benton Middle School: ORG
+2018-2020: DATE
+2017-18: DATE
+FUHS Theatre Booster Club: ORG
+2017-21: DATE
+PTSA: ORG
+Member - 2017-2021: DATE
+Google Classroom & Aries: ORG
+Compliance
+Technology: ORG
+Quizzes: ORG
+Tutoring: WORK_OF_ART
+Interdisciplinary: PERSON
+CPR/First-aid: ORG
+Behavioral: ORG
+Mediation: ORG

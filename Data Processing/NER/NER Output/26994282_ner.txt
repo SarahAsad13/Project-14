@@ -1,0 +1,36 @@
+Professional Summary
+Talented Construction: ORG
+more than twenty years: DATE
+Independent Contractor: ORG
+multi-million dollar: MONEY
+01/2016: ORG
+State: ORG
+Broadcast Engineer / Construction Project: ORG
+Coordinated: ORG
+Obtained: FAC
+weekly: DATE
+weekly: DATE
+Knowledge Base: WORK_OF_ART
+Prepared: PERSON
+Oversaw: GPE
+third: ORDINAL
+Plumber Company Name: ORG
+Developed: ORG
+Research: ORG
+Built: ORG
+Sacramento: GPE
+THE Plumbing Company: ORG
+weekly: DATE
+Developed: PRODUCT
+Specialized: ORG
+1972: DATE
+State: ORG
+1976: DATE
+State: ORG
+1978: DATE
+Bachelor of Arts: ORG
+State Broadcast Communication: ORG
+interpersonal & communication: ORG
+Hiring: GPE
+Layout: GPE
+Research, Safety, FM: ORG

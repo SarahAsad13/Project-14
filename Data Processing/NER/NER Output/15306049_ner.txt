@@ -1,0 +1,29 @@
+ARTS: ORG
+the Performing Arts Project: ORG
+5-week: DATE
+Education: ORG
+2018: DATE
+California State University: ORG
+State: GPE
+USA: GPE
+3.99: CARDINAL
+GPA
+Coursework in Music Theory: ORG
+Anthony Cantrell: PERSON
+Arts Education: ORG
+Box Office Intern: ORG
+LA County Arts Commission Intern Program: ORG
+2016: DATE
+19-28: CARDINAL
+40 minute: TIME
+Piano: PERSON
+Oct 2014: DATE
+Coordinated: ORG
+Freelance Musician-Singer: PERSON
+Jan 2014: DATE
+Panorama Presbyterian Church: ORG
+Kirk O': PERSON
+Mary Bayramian Arts Scholarship   
+
+Recipient: ORG
+Piano: PERSON

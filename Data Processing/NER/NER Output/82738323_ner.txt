@@ -1,0 +1,33 @@
+AVIATION: GPE
+Skills: ORG
+FAA: ORG
+Powerplant: PERSON
+A&P: NORP
+Five years: DATE
+Trusted: ORG
+Navigation of FAA: ORG
+Knowledgeable: PRODUCT
+Phase Coordinator: PERSON
+2015-2016: DATE
+Drivetrain Power: ORG
+Vibration: PERSON
+Maintains: PRODUCT
+4859.3: CARDINAL
+1890.1: CARDINAL
+Memberships and Professional Affiliations: ORG
+Airframe & Powerplant Mechanic: ORG
+6: CARDINAL
+Yellow Belt: PERSON
+Name City: GPE
+State Aviation Mechanic 06/2011: ORG
+the Chief Mechanic: ORG
+FAA: ORG
+Researching: PRODUCT
+State: GPE
+USA: GPE
+H-1 Powertrain 2011 Center Naval Aviation Technical Training: ORG
+State: GPE
+USA: GPE
+A&P License 2016 Bakers School of Aeronautics , City: ORG
+State: GPE
+USA: GPE

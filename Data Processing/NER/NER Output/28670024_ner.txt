@@ -1,0 +1,106 @@
+HEALTHCARE: ORG
+the University of Arizona Global Campus: ORG
+a Master's Degree in Health Informatics and Analytics: WORK_OF_ART
+five
+years: DATE
+Healthcare: ORG
+five: CARDINAL
+Skills
+
+Flexible & Adaptable
+: ORG
+Verbal: ORG
+Adaptability
+Customer: PRODUCT
+Technical Support
+Social: WORK_OF_ART
+Strategic Planning
+Compassion: ORG
+Work History
+Healthcare Provider: WORK_OF_ART
+Coordinated: ORG
+daily: DATE
+Maintained: GPE
+daily: DATE
+Facilitated: ORG
+daily: DATE
+09/2018: GPE
+Collaborated: ORG
+one: CARDINAL
+Collaborated: ORG
+Integrated: NORP
+Radiologic Technology Student Intern: ORG
+11/2016: CARDINAL
+Maintained: GPE
+Kept: PERSON
+more than 10: CARDINAL
+MS Office: ORG
+Oversaw: GPE
+Radiologic Technology Student Intern: ORG
+11/2010: CARDINAL
+Maintained: GPE
+Kept: PERSON
+Radiologic Technology Student Intern: ORG
+04/2010: PRODUCT
+Maintained: GPE
+Kept: PERSON
+10/2004: CARDINAL
+Maintained: GPE
+Processed: GPE
+MBA: WORK_OF_ART
+Health Informatics and Analytics: ORG
+02/2022: GPE
+University of Arizona Global Campus - City 
+Certificate of Completion in Radiologic Technology: ORG
+Loma Linda University - City 
+Bachelor of Science : Radiologic Technology: ORG
+04/2011 
+University of Perpetual Help-System: ORG
+Radiation Technology
+
+Certificate: ORG
+TEFL: ORG
+TESOL: ORG
+120 hours: TIME
+Skills
+
+Flexible & Adaptable
+: ORG
+Verbal: ORG
+Adaptability
+Customer: PRODUCT
+Technical Support
+Social: WORK_OF_ART
+Strategic Planning
+Compassion: ORG
+Work History
+Healthcare Provider: WORK_OF_ART
+Coordinated: ORG
+daily: DATE
+Maintained: GPE
+daily: DATE
+Facilitated: ORG
+daily: DATE
+09/2018: GPE
+Collaborated: ORG
+one: CARDINAL
+Collaborated: ORG
+Integrated: NORP
+Radiologic Technology Student Intern: ORG
+11/2016: CARDINAL
+Maintained: GPE
+Kept: PERSON
+more than 10: CARDINAL
+MS Office: ORG
+Oversaw: GPE
+Radiologic Technology Student Intern: ORG
+11/2010: CARDINAL
+Maintained: GPE
+Kept: PERSON
+Radiologic Technology Student Intern: ORG
+04/2010: PRODUCT
+Maintained: GPE
+Kept: PERSON
+10/2004: CARDINAL
+Maintained: GPE
+Processed: GPE

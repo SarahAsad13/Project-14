@@ -1,0 +1,70 @@
+25 years: DATE
+Switch: ORG
+ICGS / IDDS, Word, Excel: ORG
+RequestNet: ORG
+AARDWOLF: PERSON
+ADTRAN: ORG
+Microsoft: ORG
+CCP: ORG
+WSAM Image: ORG
+Lotus Sametime: PERSON
+Fiber Brains: PERSON
+Ringbuilder: ORG
+WSAM-DC Fiber, Traffic Control: ORG
+State Highway: FAC
+ASSIST: ORG
+Workforce Management: ORG
+CAD: ORG
+12/2014: CARDINAL
+Utilized: ORG
+Verizon: NORP
+Climbed: ORG
+Performed: ORG
+daily: DATE
+Facilities Administrator: ORG
+09/2000: CARDINAL
+OSP: ORG
+Computer Assisted Drafting Design: ORG
+Microstation: ORG
+Performed: ORG
+NTAS: ORG
+911: CARDINAL
+Defective Pairs: PERSON
+CDP: ORG
+Prepared vouchers Prepared Cost Work Orders: WORK_OF_ART
+Assisted Planners: ORG
+Ran: PERSON
+Maintenance Administrator: ORG
+08/1992: CARDINAL
+Clerk: PERSON
+11/1989: DATE
+Training
+Food Handler Certificate : Food Services: ORG
+1981: DATE
+Keystone Job Corps: ORG
+â€¢Completed Foodservice Trade: ORG
+College Prep: ORG
+West Virginia Institute of Technology: ORG
+1980: DATE
+Chopticon: PERSON
+Data Entry Clerk: ORG
+Patuxent Naval Air Base: FAC
+Health Education & Language Arts West Virginia Institute of Technology ï¼​ City: ORG
+2 years: DATE
+Language Arts: ORG
+1983: DATE
+CCIR: ORG
+the Navy DIP: ORG
+Deserter Information Point: ORG
+Navy: ORG
+Annex: PRODUCT
+Arllington: GPE
+O.J.C.S.: GPE
+Pentagon: FAC
+Awards, Certificates and Recognition: ORG
+Food Handler - 1981
+
+: ORG
+Red Cross Blood Drives: ORG
+3901: DATE
+Beltsville: GPE

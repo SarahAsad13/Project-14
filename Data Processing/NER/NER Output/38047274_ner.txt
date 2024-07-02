@@ -1,0 +1,40 @@
+Green: NORP
+Lean Sigma
+Accomplishments: ORG
+Microsoft Office: ORG
+the year: DATE
+NAS Oceana: ORG
+Virginia Beach: GPE
+Va: GPE
+1999: DATE
+Field: GPE
+Chevron Coalinga: ORG
+Maintenance Planner: PERSON
+under 1 year: DATE
+Planner/Scheduler Nov 2011 to Jan 2015: ORG
+Compile: PRODUCT
+Develop: ORG
+Requisition: PRODUCT
+Compute: ORG
+Maintenance Head: PERSON
+Oct 2010 to Nov 2011: DATE
+Repair: ORG
+Compile: PRODUCT
+Develop: ORG
+Examine: PERSON
+Requisition: PRODUCT
+Dec 1990 to: DATE
+Examine: PERSON
+Measure: WORK_OF_ART
+Communicate: ORG
+Keep: ORG
+hours: TIME
+Requisition: PRODUCT
+Confer: PERSON
+1989: DATE
+Westhills College - City: ORG
+State: GPE
+Complete BSN: PERSON
+Fresno State: GPE
+Green Belt: PERSON
+CPR: ORG

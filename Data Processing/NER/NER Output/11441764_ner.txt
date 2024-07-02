@@ -1,0 +1,85 @@
+FINANCE: ORG
+Ascertains: ORG
+AS400: PRODUCT
+SBT: ORG
+IFRS: ORG
+JD Edwards: PERSON
+MAS90: GPE
+Great Plains: PERSON
+Quickbooks: PERSON
+SAS: ORG
+SQL: ORG
+MS Office: ORG
+Excel 2010,: DATE
+2007: DATE
+2003: DATE
+UltiPro: ORG
+ADP: ORG
+Report Smith: PERSON
+E-Time Heavy: ORG
+TimeSaver: ORG
+EZLabor: ORG
+EasyPay: ORG
+Preparation/Administration: ORG
+Finance: ORG
+12/2011: CARDINAL
+three: CARDINAL
+annual: DATE
+SOX: ORG
+Supply Chain Developed: WORK_OF_ART
+Introduced Lean Manufacturing: ORG
+Manage: PRODUCT
+12/2008: CARDINAL
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Maintained: GPE
+quarterly: DATE
+year-end: DATE
+up to 4: CARDINAL
+monthly: DATE
+Controller: PERSON
+12/2008: CARDINAL
+6: CARDINAL
+20 year old: DATE
+D&B: ORG
+three: CARDINAL
+80 million: CARDINAL
+annually: DATE
+SAP: ORG
+quarterly: DATE
+month-end: DATE
+daily: DATE
+monthly: DATE
+Sarbanes Oxley: PERSON
+monthly: DATE
+Supply Specialist: PERSON
+Maintained: GPE
+180: CARDINAL
+over $500,000: MONEY
+Bachelor of Science : Accounting: ORG
+2010: DATE
+City: GPE
+Wright State University: ORG
+Sinclair Community College: ORG
+Columbus State: LOC
+BA: ORG
+Skills: ORG
+ADP: ORG
+AS400: PRODUCT
+BA: ORG
+Great Plains: PERSON
+JD Edwards: PERSON
+MAS90: GPE
+Access, Excel: ORG
+MS Office: ORG
+Quickbooks: ORG
+SAP: ORG
+Sarbanes Oxley: PERSON
+SAS: ORG
+SBT: ORG
+SQL: ORG
+Supply Chain: ORG
+annual: DATE
+year-end: DATE

@@ -1,0 +1,166 @@
+SR: ORG
+NETWORK: ORG
+Engineer: ORG
+Network  Design: ORG
+Implementation  &
+Optimization of Wired & Wireless Network: ORG
+Detail: PERSON
+CCNP: ORG
+CCNA: PERSON
+Cisco 17XX, 18XX,: GPE
+26XX: DATE
+28XX: DATE
+37XX: DATE
+38XX: DATE
+39XX &72XXÂ series: ORG
+K &: ORG
+3750: DATE
+45XX: CARDINAL
+65XX: CARDINAL
+Nexus: ORG
+5: CARDINAL
+2: CARDINAL
+7: CARDINAL
+9: CARDINAL
+Cisco CSS: ORG
+Cisco WAAS: PERSON
+OSPF: ORG
+EIGRP: ORG
+BGP: ORG
+RIP-2: ORG
+PBR: ORG
+Route Filtering: FAC
+Static Routing: LOC
+VLAN: ORG
+VTP: ORG
+STP: ORG
+Inter VLAN: ORG
+Multicast: NORP
+Layer 3 Switches: ORG
+Transparent BridgingÂ 
+: PERSON
+FDDI: ORG
+CDDI: ORG
+ATM: ORG
+LAN: ORG
+WAN: ORG
+64k - 155Mb: DATE
+Fiber Optic Circuits: ORG
+Frame Relay: ORG
+ISDN: ORG
+Load
+Balancing: PRODUCT
+Various Features & Services: ORG
+Features: GPE
+GLBP: ORG
+IRDP: GPE
+NAT: ORG
+SNMP: ORG
+SYSLOG: ORG
+DHCP: ORG
+CDP: ORG
+DNS: ORG
+TFTP: ORG
+FTP
+Management: ORG
+IP Telephony: ORG
+IP Telephony: ORG
+Cisco: GPE
+FXO/FXS/E&M/T1/ISDN/Â PRI: ORG
+publisher & subscriber)Â: ORG
+AAA: ORG
+RADIUS: ORG
+Cisco: GPE
+IPSEC & SSL: ORG
+IPS/IDS: ORG
+DMZÂ Setup: ORG
+CBAC: ORG
+Cisco NAC: ORG
+ACL: ORG
+IOS Firewall: ORG
+IOS Setup & Security: ORG
+Remote VPN & Site to Site VPN: ORG
+AirMagnet & Ekahua: ORG
+Palo Alto Firewalls: GPE
+Sep 2014: DATE
+2017: DATE
+InterVLAN: NORP
+Implementation of HSRP: ORG
+VRRP: ORG
+GLBP: ORG
+BGP: ORG
+EIGRP: ORG
+Layer 3: ORG
+Installation: PRODUCT
+MPLS WAN: ORG
+Cisco: GPE
+Unity Connection: LOC
+7.1: CARDINAL
+8.6: CARDINAL
+Cisco: GPE
+Change Management: ORG
+System Center Service: ORG
+Monitor Active Directory: ORG
+Cisco: GPE
+System Center Operations: ORG
+Implementation: ORG
+Cisco Prime Network Control System: ORG
+Implementation: ORG
+Cisco Mobility Service Engine: ORG
+2014: DATE
+5000: CARDINAL
+1: CARDINAL
+2: CARDINAL
+Vlan: ORG
+Cisco: GPE
+Brocade: PERSON
+Mab: PERSON
+Cisco: GPE
+Brocade: PERSON
+Spanning Tree: PERSON
+Cisco: GPE
+Brocade: PERSON
+VTC: ORG
+daily: DATE
+802.1x: CARDINAL
+MAB: ORG
+VTP: ORG
+RSA Key: ORG
+Windows Server 2000: PERSON
+Windows Server: PERSON
+2003: DATE
+Communicated: ORG
+1: CARDINAL
+2: CARDINAL
+Vlan: ORG
+Cisco: GPE
+Brocade: PERSON
+Mab: PERSON
+Cisco: GPE
+Network Engineer Feb 2003: ORG
+2009: DATE
+Ether Channel
+Responsible: ORG
+HSRP: ORG
+VTP: ORG
+NAT: ORG
+Simple Network Management Protocol: ORG
+Network Security: ORG
+Troubleshoot: ORG
+MBA: WORK_OF_ART
+2011: DATE
+London School of Accountancy & Management: ORG
+United Kingdom: GPE
+London School of Accountancy & Management: ORG
+City: GPE
+UK: GPE
+Associate of Science , Science 2001 Rizvi College of Arts, Science & Commerce: ORG
+State: GPE
+India: GPE
+US: GPE
+Place of Birth: Hyderabad: WORK_OF_ART
+India: GPE
+1st of November, 1982: DATE
+Present Resident: WORK_OF_ART
+Birmingham: GPE
+Driving, Cooking, Movies, Music, Dinning Out: ORG

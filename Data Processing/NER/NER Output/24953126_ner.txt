@@ -1,0 +1,112 @@
+Senior Transportation Construction Inspector: ORG
+more than 20 years: DATE
+Organized: ORG
+Strong: PERSON
+MS Office: ORG
+Superb: PERSON
+Building Construction Trades Certificate
+
+Accomplishments
+
+Operational: ORG
+Erosion: ORG
+Accurate: ORG
+Structural: ORG
+Baseline: PERSON
+38: MONEY
+$945 million dollars: MONEY
+the
+mile: LAW
+March 2014 to June 2014: DATE
+the Mount Airy Airport: FAC
+June 2013 to February 2014: DATE
+I-77: PRODUCT
+Statesville: GPE
+NC: GPE
+September 2010 to March 2013: DATE
+four: CARDINAL
+6: CARDINAL
+2: CARDINAL
+$945 million dollars: MONEY
+July 2005: DATE
+February 2010: DATE
+the$750 million dollar: MONEY
+Charlotte: GPE
+Oversaw: GPE
+five: CARDINAL
+two: CARDINAL
+three: CARDINAL
+two: CARDINAL
+one: CARDINAL
+nineteen: CARDINAL
+Oversaw: GPE
+Oversaw: GPE
+night: TIME
+the Louisiana Timed Managers Program: ORG
+Mansfield: GPE
+LA: GPE
+Structure Inspector: WORK_OF_ART
+$45 million dollar: MONEY
+SR: ORG
+171: CARDINAL
+one: CARDINAL
+5: CARDINAL
+three: CARDINAL
+3: CARDINAL
+4: CARDINAL
+2: CARDINAL
+Transportation Construction Inspector 
+: ORG
+March 2004 to December 2004: DATE
+$45 million dollar: MONEY
+SR 0028-28A Etna: ORG
+PA: GPE
+Penn Dot: PERSON
+11: CARDINAL
+three: CARDINAL
+Transportation Construction Inspector: ORG
+June 2000 to November 2003: DATE
+$38 million: MONEY
+the Port Authority of Allegheny County: ORG
+Pennsylvania: GPE
+two: CARDINAL
+Overbrook: GPE
+PA: GPE
+Oversaw: GPE
+three: CARDINAL
+one: CARDINAL
+six: CARDINAL
+one: CARDINAL
+three: CARDINAL
+monthly: DATE
+June 1991: DATE
+February 2000: DATE
+State: ORG
+1994-1999: DATE
+I-79 Meadowlands: ORG
+Southern Expressway: LOC
+$15 to $22 million dollars: MONEY
+1991-1993: DATE
+Penn Dot: ORG
+Bavington Pa.: GPE
+Oversaw: GPE
+2: CARDINAL
+weekly: DATE
+Penn Dot: PERSON
+0039 - B18: PRODUCT
+Oversaw: GPE
+MSE: ORG
+Abutments: ORG
+2: CARDINAL
+Bidwell: ORG
+Residential Construction Certificate Community College: ORG
+Allegheny County: GPE
+City: GPE
+Project Management Colorado Technical College Online: ORG
+E-Builder Software: ORG
+Professional Affiliations: ORG
+the American Concrete Institute: ORG
+National Institute for Certification in Engineering Technologies: ORG
+OSHA: ORG
+NC DOT Certified: PERSON
+Concrete and Erosion Control: ORG

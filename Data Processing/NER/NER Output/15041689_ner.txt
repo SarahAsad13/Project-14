@@ -1,0 +1,100 @@
+15 years: DATE
+HRIS: PERSON
+November 2007 to October 2014: DATE
+Name City: GPE
+State: ORG
+New Kent: ORG
+8: CARDINAL
+Commonwealth: ORG
+approximately 650: CARDINAL
+250: CARDINAL
+400: CARDINAL
+Created: ORG
+FLSA: ORG
+Coordinate: FAC
+Family Medical Leave: ORG
+Short/Long Term Disability: ORG
+STD/LTD: ORG
+Evaluate: ORG
+Worker's Compensation: ORG
+annual: DATE
+WC: ORG
+OSHA: ORG
+EEOC: ORG
+125: CARDINAL
+monthly: DATE
+Maintain HRIS: PERSON
+Company: ORG
+the New Kent Food Pantry: ORG
+October 2004 to March 2008: DATE
+Name City: GPE
+State: ORG
+Generalist: PERSON
+30: CARDINAL
+1: CARDINAL
+Southeast: NORP
+approximately 2,000: CARDINAL
+STD: ORG
+LTD: ORG
+Worker's Comp: ORG
+Maintain: PERSON
+annual: DATE
+Design: PRODUCT
+monthly: DATE
+Corporate: ORG
+Provide: PERSON
+Community Outreach: PERSON
+annual: DATE
+January 2004 to October 2004: DATE
+27: CARDINAL
+approximately 3,500: CARDINAL
+Process: NORP
+daily: DATE
+PeopleSoft: ORG
+8.0: CARDINAL
+annual: DATE
+Open Enrollment Ensure: WORK_OF_ART
+HIPAA: ORG
+February 2001 to January 2004: DATE
+Name City: GPE
+State HR Coordinator: ORG
+4: CARDINAL
+daily: DATE
+2: CARDINAL
+weekly: DATE
+approximately 400: CARDINAL
+Simplex/Winstar: ORG
+Recruit: ORG
+Organize: GPE
+annual: DATE
+Design: PRODUCT
+weekly: DATE
+monthly: DATE
+Maintain PeopleSoft: PRODUCT
+Reply: ORG
+annual: DATE
+STD: ORG
+LTD: ORG
+WC: ORG
+OSHA: ORG
+Newberry College 
+City: ORG
+State Mathematics Computer Science Mathematics Computer Science
+: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.5: CARDINAL
+GPA: ORG
+3.5: CARDINAL
+HRIS: ORG
+PeopleSoft: ORG
+8.0: CARDINAL
+HRMS: PERSON
+Recruitment: PERSON
+Professional Affiliations
+Professional Human Resources (PHR) - Human Resources Institute: ORG
+2006: DATE
+Society of Human Resources Management: ORG
+Richmond Society of Human Resources Management: ORG
+Reid Institute: ORG

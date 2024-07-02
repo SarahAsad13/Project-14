@@ -1,0 +1,52 @@
+May 2014: DATE
+William Woods University City: ORG
+GPA: ORG
+3.4: CARDINAL
+3.4: CARDINAL
+Analytical Helpdesk: PERSON
+Technician 12/2014: DATE
+Current Company Name City: ORG
+Respond: PERSON
+IOS: ORG
+Maintain: PERSON
+daily: DATE
+15-20: CARDINAL
+daily: DATE
+Intern 01/2014: ORG
+Name City: GPE
+Assisted University: ORG
+daily: DATE
+VDI: ORG
+Intern 08/2013: ORG
+Name City: GPE
+489: CARDINAL
+daily: DATE
+weekly: DATE
+MIS Capstone: ORG
+WordPress: ORG
+Expressions Web: PERSON
+Converted: ORG
+Developed: PRODUCT
+Cisco Telephony: ORG
+Bomgar
+Visio
+Que Monitoring
+
+: PERSON
+Activites: NORP
+Active Directory
+Mobileiron: WORK_OF_ART
+HPSM: ORG
+IOS: ORG
+4-years: DATE
+S.W.A.T.: EVENT
+Student Website Advancement Team: ORG
+the IT Student Academic Advisory Council: ORG
+100 hours: TIME
+5: CARDINAL
+summer: DATE
+Salvation Army: ORG
+Good Will/: PERSON
+1: CARDINAL
+2: CARDINAL
+over 500: CARDINAL

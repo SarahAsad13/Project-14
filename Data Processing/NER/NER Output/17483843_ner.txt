@@ -1,0 +1,90 @@
+UNMANNED AVIATION TECHNICIAN SUPERVISOR: ORG
+U.S.: GPE
+9 year: DATE
+the Marine Cops: ORG
+6 years: DATE
+3 years: DATE
+Unmanned Aviation Systems: ORG
+Maintenance Controller: PERSON
+Highlights
+Microsoft Office Suit: ORG
+Microsoft: ORG
+Outlook: PERSON
+Excel: PRODUCT
+Unmanned Aviation Technician Supervisor 02/2011 ï¼​ Current Company Name City: ORG
+State: ORG
+William Russ: PERSON
+Tel: PERSON
+Salary: PERSON
+55,000: MONEY
+Hrs Worked: PERSON
+40: CARDINAL
+Volunteer 05/2007: PRODUCT
+05/2010 City: GPE
+Operation Enduring Freedom and Operation Iraqi Freedom: EVENT
+Develop: ORG
+Name City: GPE
+Robert Jones: PERSON
+Tel: 910.467.4439: GPE
+55,000: MONEY
+Hrs Worked: PERSON
+40: CARDINAL
+Name City: GPE
+Douglas Pippen: PERSON
+Tel: PERSON
+619.405.6480,Salary: CARDINAL
+55,000: MONEY
+Hrs Worked: PERSON
+40: CARDINAL
+15: CARDINAL
+Evaluate: ORG
+Mentor: LOC
+EQUIPMENT: GPE
+Keep: ORG
+Assemble: PRODUCT
+Coordinated: ORG
+Battalions: GPE
+Hazmat: ORG
+Hazmat Manual: ORG
+600: CARDINAL
+Marines: NORP
+DoD: GPE
+50: CARDINAL
+the Global Air Transportation Execution System: ORG
+DoD: GPE
+6 2004: DATE
+AAS: ORG
+National University: ORG
+Thomas Jefferson High School City: PERSON
+State: ORG
+1 2006: DATE
+Twenty-Nine: CARDINAL
+Ca: ORG
+2014: DATE
+Unmanned Aviation System: ORG
+AZ: ORG
+2012: DATE
+Yellow Belt: PERSON
+2013: DATE
+Gun Trainer: PERSON
+Camp Lejeune: GPE
+NC: GPE
+2011: DATE
+Lackland AFB: PERSON
+TX: ORG
+2010: DATE
+Standard Transportation and Movements Procedures Ft: ORG
+Distribution Management Specialist: ORG
+Spanish: NORP
+Skills: ORG
+Mentor, Excel: ORG
+Microsoft
+Office: ORG
+Outlook, Publisher: ORG
+Microsoft Word: PERSON
+Six Sigma: PERSON
+Spanish: NORP
+Supervisor: PERSON
+Technician: NORP
+Trainer: ORG
+Transportation: ORG

@@ -1,0 +1,144 @@
+Business Development: ORG
+twenty years: DATE
+Solid: PRODUCT
+Solid: PRODUCT
+jargon-free language: ORG
+Armchair Media: PERSON
+Atlanta: GPE
+Ga.: GPE
+Business Development: ORG
+July 2009 Â​
+: DATE
+March 2012: DATE
+Armchair: PERSON
+Media: GPE
+Fortune 500: PRODUCT
+Attend: ORG
+TAG: ORG
+WIT: ORG
+Careers In Action Advisor: WORK_OF_ART
+AIMA: ORG
+Board: ORG
+AMA: ORG
+Vistage International (Key Executive: ORG
+Strategist: ORG
+Armchair: PERSON
+2.5 Million: CARDINAL
+the first calendar year: DATE
+Develop: ORG
+Focus: ORG
+500: CARDINAL
+Develop: ORG
+Armchair Media: PERSON
+Armchair: PERSON
+CNN: ORG
+Turner: ORG
+Cartoon Network: ORG
+Coca-Cola: ORG
+Phillip-Van Heusen: PERSON
+Disney: ORG
+The College Board: ORG
+The Weather Channel
+Key Skills: ORG
+Relationship: DATE
+Communication: ORG
+Implementation
+Project: ORG
+Research and Report: ORG
+Problem: ORG
+Key Attributes: LOC
+Dynamic and Creative
+Definition 6: WORK_OF_ART
+Atlanta: GPE
+Ga.: GPE
+Business Development Executive: ORG
+March 2008 to July
+2009: DATE
+Interactive Marketing: ORG
+Websites, Usability: ORG
+Hosting and Managed Services: ORG
+Social Media: ORG
+Definition 6: LAW
+Mitsubishi Electric: ORG
+Cox Communications: ORG
+Humana Health Care: ORG
+Attend: ORG
+TAG: ORG
+WIT: ORG
+AIMA: ORG
+AMA: ORG
+Work with Client Services: ORG
+Atlanta: GPE
+Formerly Creative Digital Group: ORG
+Atlanta: GPE
+Ga.: GPE
+Client
+Development: ORG
+January 2005: DATE
+October 2008: DATE
+Interactive Strategy & Branding: ORG
+Emerging Technologies: ORG
+Rich Media: PERSON
+The Home Depot: ORG
+ING Financial Services: ORG
+Cox
+Communications: ORG
+Georgia Pacific: ORG
+Humana Health Care: ORG
+Work with Client Services: ORG
+more than 2 Million: MONEY
+the first calendar year: DATE
+3.5 million: CARDINAL
+Atlanta: GPE
+VTA: ORG
+Atlanta: GPE
+Ga.: GPE
+September 2003: DATE
+October 2005: DATE
+Coca-Cola: ORG
+Ciba
+Vision: ORG
+Home Depot: ORG
+CNN: ORG
+Zoo Atlanta: GPE
+Communicate: ORG
+daily: DATE
+Vertis Inc.: ORG
+Atlanta: GPE
+Ga.: GPE
+Account Executive: ORG
+August 1998 Â​ September 2003: DATE
+Prospect: ORG
+Communicate: ORG
+Coca-Cola: ORG
+Home Depot: ORG
+1995 Â​ 1999: DATE
+Account Executive / Conway Southern
+Territory: ORG
+Averitt Express: ORG
+Fulton: GPE
+Gwinnett: PERSON
+DeKalb: GPE
+South Florida: LOC
+Name City: GPE
+Assisted Managing: ORG
+LinkedIn Recruiter: PERSON
+Infiltrating: GPE
+SEI: ORG
+Associate of Arts : Health: ORG
+1999: DATE
+Palm Beach Community College City: ORG
+State Health Science
+Skills: ORG
+Branding: ORG
+Financial: GPE
+Focus: GPE
+Network: ORG
+Problem: ORG
+Express: ORG
+Recruiter: PERSON
+Research: ORG
+Scientific: ORG
+Strategist, Strategy: ORG
+Team: ORG
+Vision: ORG

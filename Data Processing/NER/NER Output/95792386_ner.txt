@@ -1,0 +1,118 @@
+California: GPE
+Complex: NORP
+SOX Compliance
+Business function consolidation
+: WORK_OF_ART
+Oracle: PERSON
+Oracle FSG: ORG
+Advance Excel: PRODUCT
+Access: PRODUCT
+Name City: GPE
+U.S.: GPE
+year end: DATE
+U.S.: GPE
+monthly: DATE
+Oracle Flexfields: ORG
+Financial Statement Generator: ORG
+Oracle 12: LAW
+monthly: DATE
+quarterly: DATE
+quarterly: DATE
+annual: DATE
+quarter end: DATE
+only a few days: DATE
+quarter end: DATE
+Inventory and Cost Accounting: WORK_OF_ART
+Name City: GPE
+State Consultant 01/2013 to 01/2014
+
+Responsible: ORG
+monthly: DATE
+monthly: DATE
+mid-month: DATE
+Utilizing my Accounting: ORG
+Name City: GPE
+Facilitated: ORG
+Coordinated: ORG
+Supervisor of Revenue Accounting and Analysis: WORK_OF_ART
+three: CARDINAL
+one: CARDINAL
+one: CARDINAL
+mid-year: DATE
+annual: DATE
+ARPU: ORG
+three weeks: DATE
+four business days: DATE
+Cooperated: ORG
+quarterly: DATE
+annual: DATE
+SOX: ORG
+monthly: DATE
+Name City: GPE
+monthly: DATE
+Oracle 11i: DATE
+Communicated: ORG
+monthly: DATE
+Calculated: ORG
+monthly: DATE
+Sarbanes-Oxley: ORG
+Name City: GPE
+State Marketing Business Analyst/Accounting: ORG
+01/2000: CARDINAL
+Cisco Acquisition: ORG
+Facilitated: ORG
+2: CARDINAL
+Renee Chen Obtained: PERSON
+quarterly: DATE
+the Vovida Networks, Inc.: ORG
+Accounting Department: ORG
+Cooperated: ORG
+Cisco: GPE
+a month: DATE
+Name City: GPE
+State: ORG
+monthly: DATE
+year-end: DATE
+monthly: DATE
+FASB: ORG
+Facilitated: ORG
+annual: DATE
+Platinum: ORG
+Name City: GPE
+State: ORG
+Prepared: PERSON
+quarterly: DATE
+annual: DATE
+Name City: GPE
+State: ORG
+Training
+Master of Science : Accounting/Taxation San Francisco State University Accounting/Taxation Extensive: WORK_OF_ART
+Bachelor of Science : Business Administration Accounting: ORG
+State University Business Administration Accounting
+Coursework: ORG
+Skills
+Accounting: ORG
+Accounts Payable: ORG
+Cisco: GPE
+Cost
+Accounting: ORG
+Financial: ORG
+General Ledger: ORG
+Inventory: GPE
+Networks: ORG
+Oracle: ORG
+Oracle Application: ORG
+Oracle Financials: ORG
+Oracle Financial: ORG
+Platinum: ORG
+Sarbanes-Oxley: ORG
+Supervisor: PERSON
+year-end: DATE
+Activities and Honors: WORK_OF_ART
+California: GPE
+UC: GPE
+Santa Cruz Certificate of: GPE
+Project and Program Management: ORG
+SQL: GPE
+Relational Database: GPE
+3: CARDINAL

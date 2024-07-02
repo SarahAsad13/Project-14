@@ -1,0 +1,25 @@
+DIGITAL: ORG
+Professional Overview: ORG
+Detail: PERSON
+Google Analytics: ORG
+Report & Tracking: ORG
+Ads Manager & Power Editor: ORG
+Â 
+: ORG
+11/2015: CARDINAL
+Google: ORG
+Facebook and Instagram: ORG
+monthly: DATE
+10/2015: CARDINAL
+Fetch Rewards: PERSON
+Puerto Rico: GPE
+first: ORDINAL
+Selectos Los Prados: ORG
+Account Executive & Digital Media Manager Company: ORG
+Search: ORG
+monthly: DATE
+english &: ORG
+spanish: NORP
+2012: DATE
+State: GPE
+USA: GPE

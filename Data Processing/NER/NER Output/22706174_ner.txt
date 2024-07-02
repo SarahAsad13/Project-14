@@ -1,0 +1,29 @@
+DIGITAL MARKETING: ORG
+11/2014: CARDINAL
+Digital Marketing Account: ORG
+Created: ORG
+annual: DATE
+Facilitate: ORG
+weekly: DATE
+Created: ORG
+annual: DATE
+07/2015
+Marketing & Website: ORG
+Strategized: PERSON
+Digital Marketing & Branding Consultant Company Name: ORG
+Develop: ORG
+daily: DATE
+Reinforce: PRODUCT
+one: CARDINAL
+Established: ORG
+12/2010: CARDINAL
+Elementary Education University: ORG
+Florida Community College: ORG
+Skills: ORG
+Automation: ORG
+Customer Relationship Management: ORG
+Marketing Planning: ORG
+Marketing Strategy: PERSON
+Project Management: ORG
+Activities and Honors
+Strategic: WORK_OF_ART

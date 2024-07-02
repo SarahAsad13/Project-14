@@ -1,0 +1,103 @@
+QuickBooks: ORG
+MAS: ORG
+ADP: ORG
+Adobe: PERSON
+Microsoft: ORG
+Microsoft: ORG
+ADP Drive: PERSON
+Microsoft: ORG
+Microsoft: ORG
+Bachelor of Science : Accounting: ORG
+May 2010: DATE
+University of North Carolina: ORG
+City: GPE
+State Accounting
+Bachelor of Science : Business Administration Finance: ORG
+May 2010: DATE
+Business Administration Finance: ORG
+Accountant: PERSON
+January 2014 to October 2014: DATE
+all month end: DATE
+the month: DATE
+NC: GPE
+month: DATE
+7: CARDINAL
+year-end: DATE
+Maintained: GPE
+weekly: DATE
+the year-end: DATE
+12: CARDINAL
+North Carolina: GPE
+Cary Keisler Inc.: ORG
+Accountant: PERSON
+March 2013 to January 2014: DATE
+daily: DATE
+SOs: PRODUCT
+PO: GPE
+PO: ORG
+weekly: DATE
+Complete: PERSON
+weekly: DATE
+monthly: DATE
+American Express: ORG
+60,000.00: MONEY
+September 2013 - December 2013: DATE
+VP of Finance: ORG
+Accountant: PERSON
+April 2012 to March 2013: DATE
+Balance Sheet: ORG
+General Ledger: ORG
+Research: ORG
+Run Project Cost Reconciliation: ORG
+month end: DATE
+General Ledger: ORG
+Design Excel Spreadsheet: ORG
+EOM: ORG
+American Express: ORG
+Battleware: PERSON
+10 Accounts) Responsible: ORG
+Interest Sweep: ORG
+Line of Credit: ORG
+Battleware: PERSON
+monthly: DATE
+Financial Management Partner: ORG
+July 2010 to August 2011 Company Name ï¼​ City: DATE
+monthly: DATE
+day: DATE
+QuickBooks: ORG
+Lien: PERSON
+Assist: NORP
+annual: DATE
+monthly: DATE
+Coordinate: FAC
+annual: DATE
+all adjusting month end: DATE
+G/L: ORG
+Interests: NORP
+January 2006-: DATE
+May 2010: DATE
+Social Chair: ORG
+Delegate Livestrong
+Foundation: GPE
+Skills: ORG
+Accounts Receivable: ORG
+ADP: ORG
+AR: ORG
+Credit: ORG
+Finance: ORG
+General Ledger: ORG
+Microsoft: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft: ORG
+Payables: ORG
+Express: ORG
+Quick
+Books: ORG
+QuickBooks, Research, Sage, Sales: ORG
+Spreadsheet: PERSON
+year-end: DATE
+January 2006-: DATE
+May 2010: DATE
+Social Chair: ORG

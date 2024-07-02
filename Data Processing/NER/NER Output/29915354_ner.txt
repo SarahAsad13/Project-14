@@ -1,0 +1,76 @@
+DIGITAL: ORG
+Digital Media Producer: ORG
+Sound Recording: GPE
+Teaching Students
+
+Experience Directing On-camera Talent
+Able to Work on Multiple Projects: ORG
+Team: ORG
+VFX
+Proficient: ORG
+Adobe Photoshop & Illustrator
+Excellent Communication & Writing Skills: ORG
+Digital Media Producer 05/2010: ORG
+Name City: GPE
+Philip Palombo: PERSON
+the Computer Lab Tech: ORG
+Education: ORG
+Master of Arts: WORK_OF_ART
+Digital Media Production/Communications: ORG
+2010: DATE
+Rhode Island College City: ORG
+State: ORG
+USA Completed Graduate Program: ORG
+Digital Media Production/Art: ORG
+Effects 2010 Independent Study: ORG
+Mentor City: GPE
+State: GPE
+USA Private: ORG
+Adobe After: PRODUCT
+Dennis Hlinsky: PERSON
+the Rhode Island School of Design: ORG
+Advanced Video Editing: ORG
+2009: DATE
+Apple - NYC City: ORG
+State: GPE
+Apple: ORG
+Video Production & Technology 2008: ORG
+State: ORG
+USA Regular: ORG
+monthly: DATE
+Rule Boston
+Camera Learning Labs: ORG
+2008: DATE
+DIT: ORG
+Visions For the Future: WORK_OF_ART
+Harvard University Law School: ORG
+Roberto Unger: PERSON
+the New York Times: ORG
+Sixth: ORDINAL
+The Autism Project: ORG
+over $200,000: MONEY
+4: CARDINAL
+Olivia Culpo: PERSON
+Rhode Island USA: ORG
+Universe: PERSON
+later that year: DATE
+Autism
+Awareness: WORK_OF_ART
+Video Production Program: ORG
+Scituate: GPE
+Rhode Island: GPE
+Additional Skills
+Drawing & Storyboarding: ORG
+Problem Solving & Troubleshooting
+Directing On-Camera Talent
+Sound Design, Recording, Remixing & Sweetening
+Musical Scoring
+Video Format Conversions: ORG
+Codecs
+Communicating with Others
+Writing: ORG
+Spelling: GPE
+Grammar, Punctuation
+Public Speaking
+Voice Overs: ORG
+Available for International Travel: ORG

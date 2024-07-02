@@ -1,0 +1,80 @@
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+60: CARDINAL
+ICD-9: NORP
+HCPCS II: NORP
+July 2014: DATE
+December 2015: DATE
+Name City: GPE
+State Medical Billing Specialist: ORG
+daily: DATE
+HCPCS II: NORP
+ICD-9: NORP
+CPT: ORG
+Medicare: ORG
+Submit: NORP
+RVU: ORG
+NCCI: GPE
+weekly: DATE
+Use PrimeSUITE: ORG
+Site: ORG
+roughly 25-30: CARDINAL
+Examined: NORP
+Coded: ORG
+160: CARDINAL
+120: CARDINAL
+Quickly: ORG
+CPT: ORG
+HIPAA Privacy and Security Regulations: ORG
+Communicated: ORG
+January 2012: DATE
+March 2013: DATE
+Name City: GPE
+State Imaging Specialist: ORG
+Sorted: ORG
+Scanned: PRODUCT
+Scanned: ORG
+Prepared: PRODUCT
+every afternoon: TIME
+Maintained: GPE
+monthly: DATE
+September 2011: DATE
+January 2012: DATE
+Name City: GPE
+State: ORG
+May 2010: DATE
+November 2010: DATE
+Name City: GPE
+State: ORG
+Directed: ORG
+Maintained: GPE
+April 2006: DATE
+August 2006: DATE
+Name City: GPE
+State: ORG
+Suggested: ORG
+Maintained: PERSON
+Maintained: GPE
+Training: PERSON
+May 2006: DATE
+Northgate High School City: ORG
+State High School Diploma: ORG
+Columbus State University City: ORG
+Georgia Technical Healthcare Information Technology Management (Associates: ORG
+Computer Networking (Associates: ORG
+Carrollton: GPE
+Georgia: GPE
+Skills
+AR, Ask: ORG
+Computer Networking: ORG
+9: CARDINAL
+Information Technology: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Windows 98: ORG
+Word: PERSON

@@ -1,0 +1,74 @@
+2 1/2 years: DATE
+Training: PERSON
+May 2016: DATE
+Associate of International Business : International Business/ Politics Monroe Community College: ORG
+State International Business/ Politics: ORG
+June 2013: DATE
+State International: ORG
+First-Line Supervisors of Retail Sales Workers Greet: ORG
+Recommend: ORG
+Compute: ORG
+Sell: PERSON
+Estimate: LOC
+Bag: GPE
+Bake: PERSON
+cashier: PERSON
+Examine: PRODUCT
+Oversee: ORG
+Examine: PERSON
+Examine: PRODUCT
+Choreographer: PERSON
+Advise: PERSON
+one: CARDINAL
+Train: GPE
+Assess: ORG
+Prepare: ORG
+Oversee: ORG
+Oversee: ORG
+12/2008: CARDINAL
+Organize: GPE
+Observe: LOC
+Assimilate: LOC
+Prepare: ORG
+Identify: ORG
+Adapt: FAC
+Arrange: NORP
+Maintain: PRODUCT
+Interests: NORP
+Volunteer: PRODUCT
+2010-2014: DATE
+March 2007: DATE
+Pee Wee Kickball: PERSON
+Coach: ORG
+2014-2015: DATE
+Skills: ORG
+Arts: ORG
+Critical Thinking: ORG
+English: LANGUAGE
+Human Resources: ORG
+Instructing: GPE
+Inventory: GPE
+Negotiation: ORG
+Personnel, Persuasion: ORG
+Problem Solving: PERSON
+Quality Control, Reading, Read, Maintain records: ORG
+Repairing, Retail Sales: ORG
+Teamwork: ORG
+Time Management
+Additional Information
+
+Community Service Volunteer: ORG
+2010-2014: DATE
+March 2007: DATE
+Pee Wee: PERSON
+Kickball: PERSON
+Coach: ORG
+2014-2015: DATE
+2008-2010: DATE
+the Month: DATE
+Brueggers Bagels Outstanding Achievement: ORG
+20133x: DATE
+Warner: ORG
+Monroe Community College for International Business/ Politics: ORG
+Daytime Chair: PERSON
+Campus Activities Board: ORG

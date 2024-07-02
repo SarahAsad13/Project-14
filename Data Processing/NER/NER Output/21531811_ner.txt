@@ -1,0 +1,22 @@
+August 2015: DATE
+Name City: GPE
+State Preschool Teacher
+
+: ORG
+September 2014: DATE
+August 2015: DATE
+Name City: GPE
+State Opening Coordinator: ORG
+daily: DATE
+February 2014: DATE
+November 2014: DATE
+Name City: GPE
+State Site Aide
+
+Responsible: ORG
+2013: DATE
+Middletown High School City: ORG
+State High School Diploma: ORG
+Brookdale Community College City: ORG
+State Associate of Arts: ORG
+Skills: ORG

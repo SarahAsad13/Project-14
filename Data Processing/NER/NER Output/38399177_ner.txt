@@ -1,0 +1,21 @@
+Summary
+Transitioning Military Professional: WORK_OF_ART
+Aflac: ORG
+Screened 104: ORG
+Tracked 28: PRODUCT
+Coordinated: ORG
+11: CARDINAL
+over 19: CARDINAL
+Conducted: ORG
+weekly: DATE
+23: CARDINAL
+20: CARDINAL
+Training: PERSON
+2018: DATE
+Bachelor of Science : Health Sciences Southern New Hampshire University: ORG
+ï¼​ City: GPE
+State Health Sciences: ORG
+Skills
+Business correspondence: ORG
+Customer: ORG
+Natural: ORG

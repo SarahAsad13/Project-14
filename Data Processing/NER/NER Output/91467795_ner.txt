@@ -1,0 +1,89 @@
+Skills
+
+Business Development
+Account Management
+Competitive Analysis
+Prospecting/Cold Calling: ORG
+Event Planning
+C-level Presentations: WORK_OF_ART
+RFP/RFI/Bid Preparation
+Public relations
+
+Experience
+Business Development: ORG
+Mar 2018: DATE
+State: ORG
+Pharma Marketing: PERSON
+Oversaw: GPE
+Maintained: GPE
+Oct 2017 to Feb 2018: DATE
+American Laboratory Trading: ORG
+NC: GPE
+Completed: ORG
+daily: DATE
+up to 50: CARDINAL
+monthly: DATE
+75%: PERCENT
+each month: DATE
+Kept: PERSON
+daily: DATE
+Salesforce.com: ORG
+2016: DATE
+2017: DATE
+State: ORG
+SGS Life Science Services: ORG
+Quality Control: ORG
+more than 45: CARDINAL
+1.5: CARDINAL
+108%: PERCENT
+2016: DATE
+monthly: DATE
+quarterly: DATE
+Business Development Feb 2013 to: ORG
+2016: CARDINAL
+State: ORG
+Eurofins: PERSON
+GMP: ORG
+two: CARDINAL
+47%: PERCENT
+35%: PERCENT
+Maintained: GPE
+Recipharm: PERSON
+Cirrus Pharmaceuticals: ORG
+Recipharm: PERSON
+8: CARDINAL
+2012: DATE
+4 months: DATE
+Cirrus: ORG
+Tarheel Media Solutions: ORG
+North Carolina: GPE
+Researched: ORG
+20%: PERCENT
+2010: DATE
+ALS: ORG
+MDA: ORG
+Training
+Bachelor of Science , Chemistry: PERSON
+Wilmington: GPE
+City: GPE
+State: GPE
+United States: GPE
+Spanish: NORP
+GPA 3.45: ORG
+Skills
+
+Proficient with Salesforce: ORG
+Oracle: ORG
+SharpSpring: PERSON
+Microsoft Office: ORG
+MailChimp: ORG
+Yammer: PERSON
+Google Chrome: ORG
+Skype Business: ORG
+GoTo
+Meeting: WORK_OF_ART
+LinkedIn: GPE
+Twitter: PERSON
+Lead Generation Software: PERSON
+CRM Systems: ORG
+Concepts & Applications of Chemistry: ORG

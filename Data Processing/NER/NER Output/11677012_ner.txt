@@ -1,0 +1,42 @@
+Critical: PRODUCT
+Detail: PERSON
+Decisive: NORP
+Interpersonal: ORG
+Name City: GPE
+State Social Media Marketing: ORG
+Current
+
+Identify: ORG
+30: CARDINAL
+Name City: GPE
+State Social Media Marketing Intern: ORG
+six: CARDINAL
+Name City: GPE
+State Intern 09/2014: ORG
+Â  Instagram: PERSON
+Spanish: LANGUAGE
+Bachelor of Arts : International Studies: ORG
+May 2016: DATE
+North Carolina State University: ORG
+City: GPE
+State: GPE
+European: NORP
+Italian: NORP
+Pi Beta Phi Fraternity for Women, Recruitment and Philanthropy Committees: ORG
+National Society of Leadership: ORG
+Success
+Literary Tutor: ORG
+Practice Strategies: ORG
+Sigma Rho Chi:: PERSON
+International Business Club: ORG
+December 2014: DATE
+the International Education of Students: ORG
+City: GPE
+State: GPE
+Italy: GPE
+Italian: NORP
+Elementary: PERSON
+Spanish: LANGUAGE
+Skills
+
+Excellent: ORG

@@ -1,0 +1,155 @@
+Career Overview
+Network: ORG
+ASP: ORG
+Qualifications
+Windows Server: ORG
+2000-2012: DATE
+Active Directory: ORG
+7 - 10: CARDINAL
+Exchange: ORG
+2010-2013: DATE
+Amazon Web Services: ORG
+S3: NORP
+CloudFront: ORG
+Glacier: ORG
+RDS: ORG
+Linux Centos: PERSON
+6: CARDINAL
+Apple IOS: ORG
+SonicWall: ORG
+MS Office: ORG
+Putty: PERSON
+Windows Active Directory Network: ORG
+Windows: NORP
+2000 - 2012: DATE
+Managed MS Exchange: ORG
+MS SQL: ORG
+Symantec Backup Exec: PERSON
+Kaspersky Virus Protection: ORG
+Sonic Firewalls: ORG
+Tadiran PBX: ORG
+AEONIX Contact Center: ORG
+CSI: PERSON
+Call Accounting: ORG
+Developed: ORG
+Windows: ORG
+IOS: ORG
+Network Design and Installation (Windows Networking, Active Directory) Hardware/Software Installation and Configuration Remote: ORG
+Wireless: ORG
+Database Development Services: ORG
+24x7: CARDINAL
+Â§: CARDINAL
+Network Analyst: ORG
+Operations City: GPE
+State: ORG
+the South Eastern United States: LOC
+daily: DATE
+Citrix Metaframe: PERSON
+1.8: CARDINAL
+Citrix Metaframe XP: ORG
+Citrix Nfuse: PERSON
+24 hour: TIME
+Researched: ORG
+Citrix: PRODUCT
+Techmatics: ORG
+Next Century Integration Develop: DATE
+WAN: ORG
+LAN: ORG
+Windows NT: LOC
+3.51: CARDINAL
+4.0: CARDINAL
+Windows 95: PRODUCT
+RAID: ORG
+December 1996: DATE
+Washington: GPE
+five: CARDINAL
+the System Administrator: ORG
+LAN: ORG
+150: CARDINAL
+SQL Server: PERSON
+PCDocs: ORG
+Coordinate: FAC
+Morrison & Foerster Networking Taskforce: ORG
+Morrison & Foerster: ORG
+NetWare: ORG
+Banyon Vines: ORG
+Pathworks: GPE
+Windows NT: LOC
+Assisted: ORG
+VAX/VMS: PRODUCT
+56: CARDINAL
+KB: PERSON
+Windows NT: LOC
+TCP/IP: ORG
+Frame Relay Network: ORG
+January, 2016: DATE
+BOOTCAMP City: GPE
+State: ORG
+February 2000: DATE
+Microsoft Certified Professional: ORG
+Microsoft Certified System Administrator: ORG
+November: DATE
+2003: DATE
+Interwoven Technologies, Inc.: ORG
+Chicago: GPE
+Illinois - iManage Certified System: ORG
+ï¼​ City: GPE
+State: ORG
+January 1988: DATE
+Diploma : Computer Operations Computer Operations: ORG
+State: ORG
+May 1985: DATE
+MCP: ORG
+Microsoft Certified System Administrator: ORG
+Citrix Certified Administrator: WORK_OF_ART
+CCA: ORG
+Certified iManage System Engineer: ORG
+Skills
+Accounting: ORG
+Apple: ORG
+Backup Exec: PERSON
+Citrix: GPE
+CCA: ORG
+Citrix Certified Administrator: WORK_OF_ART
+Citrix Metaframe: PERSON
+Citrix Metaframe: PERSON
+1.8: CARDINAL
+Hardware: ORG
+Database Development, Decnet, Disaster Recovery: ORG
+Email: PERSON
+Engineer: ORG
+Firewalls, Frame Relay: ORG
+LAN: ORG
+Linux: PERSON
+Access: ORG
+Microsoft Certified Professional: ORG
+MCP: ORG
+Microsoft Certified: ORG
+Exchange Server: PERSON
+MS Exchange: ORG
+Windows
+Networking: PERSON
+Office, Windows, Windows 2000: ORG
+2000: DATE
+Windows 95: ORG
+Windows NT: LOC
+Windows NT 4.0: LOC
+4.0: CARDINAL
+MySQL, Network
+Design and Installation: ORG
+Network: ORG
+Next: ORG
+NetWare: ORG
+Operating Systems: ORG
+Pathworks: GPE
+PBX: ORG
+Personnel: ORG
+RAID: ORG
+Software Installation: ORG
+SQL Server: ORG
+Supervisor, Symantec: PERSON
+TCP/IP: ORG
+VAX/VMS: PRODUCT
+WAN: ORG
+Windows NT 3.51: LOC
+Windows Server: PERSON

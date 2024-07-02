@@ -1,0 +1,88 @@
+Highlights: GPE
+Suite: PERSON
+Flumist: ORG
+15 to 94: CARDINAL
+3 years: DATE
+PowerPoint: PRODUCT
+Executive Leadership Team: ORG
+1Million: CARDINAL
+1 year: DATE
+Synagis: GPE
+Created: ORG
+SharePoint Service: ORG
+Effectiveness Team: ORG
+Box.com: ORG
+Astra Zeneca: PERSON
+Name City: GPE
+NYC CV: LOC
+Nephrology: ORG
+Business Planning: ORG
+Excel: PRODUCT
+Selected Accomplishments Awards of Excellence: WORK_OF_ART
+2007: DATE
+2008: DATE
+2009: DATE
+KOL: ORG
+NYPH Cornell: ORG
+2009: DATE
+Zetia: GPE
+the 20%: PERCENT
+Zetia Product Advisory Committee: ORG
+2008: DATE
+Marketing Department: ORG
+year: DATE
+NYC Teaching Hospitals: ORG
+NYC & NJ: ORG
+8: CARDINAL
+Formulary Placements: FAC
+3: CARDINAL
+Protocol Implementations to achieve: LAW
+115%: PERCENT
+140%: PERCENT
+YOY: ORG
+Zithromax Product Advisory: PERSON
+Name City: GPE
+Internal Medicine: ORG
+Pulmonologists Cardiologists: PERSON
+Nephrologists: GPE
+Allergists: NORP
+Dermatologists: NORP
+Geriatric Specialists: ORG
+Neurologists: NORP
+NYC Hospital Teaching Institutions: FAC
+National Trainer Appointments PROFESSIONAL HEALTHCARE: ORG
+Winner Rookie: PERSON
+the Year Award Regional Performance Fund Award: EVENT
+Hospital Territory: FAC
+Multiple: ORG
+Bachelor of Science : Business Certificate - Marketing International Marketing Biology: ORG
+GPA: ORG
+3.10: CARDINAL
+Marketing International Marketing Biology GPA: EVENT
+3.10: CARDINAL
+Dean: PERSON
+1998: DATE
+30 Hrs/week: DATE
+English: LANGUAGE
+Spanish: NORP
+Interests
+Hockey: ORG
+Triathlete, Music - Piano: ORG
+Guitar: GPE
+Woodworking and Carpentry
+Additional Information: ORG
+Triathlete, Music - Piano: ORG
+Guitar: GPE
+Woodworking and Carpentry: ORG
+Acrobat: PERSON
+Adobe: PERSON
+Business Planning: ORG
+Coach: ORG
+English: LANGUAGE
+Illustrator: ORG
+Internal Medicine: ORG
+Excel: PRODUCT
+MS Office Suite: ORG
+Windows 8: PERSON
+Windows: ORG
+Spanish: NORP

@@ -1,0 +1,69 @@
+CNA IN: ORG
+HEALTHCARE: ORG
+the pastÂ: DATE
+eleven years: DATE
+Skill Highlights: PERSON
+ADL: ORG
+Gait Belt: LOC
+Redstone Highlands: ORG
+Geriatric Course: PERSON
+CNA: ORG
+Associates Degree: PERSON
+Art Institute: ORG
+Computer Technology: ORG
+Computer Systems Electronics: ORG
+Westmoreland
+County Community College: ORG
+10/2014: CARDINAL
+State: ORG
+Obtained: ORG
+25: CARDINAL
+Maintained: GPE
+04/2013: CARDINAL
+COPD: ORG
+Maintained: GPE
+Obtained: ORG
+25: CARDINAL
+State: ORG
+Obtained: ORG
+25: CARDINAL
+Maintained: GPE
+01/2011 to 04/2012: CARDINAL
+COPD: ORG
+Quality Assurance Program: ORG
+09/2008: GPE
+10/2010: CARDINAL
+CNA: ORG
+Skilled: GPE
+Assisted: ORG
+State: ORG
+Obtained: ORG
+25: CARDINAL
+Maintained: GPE
+MI: ORG
+09/2008: GPE
+CNA: ORG
+State Skilled Facility Company Name: ORG
+COPD: ORG
+Quality Assurance Program: ORG
+Home Health Aide Company Name: ORG
+State: ORG
+Training: PERSON
+2014: DATE
+Computer Systems Electronics Technology Computer Technology Westmoreland County Community College: ORG
+State: GPE
+United States: GPE
+Computer Systems Electronics Technology: ORG
+Pre Nursing: PERSON
+Liberal Arts: ORG
+Web Design and Programming, Computer Technology: ORG
+06/90: CARDINAL
+State: GPE
+United States: GPE
+Pennsylvania: GPE
+SC: ORG
+Skills
+Arts: ORG
+Assisted Living: ORG
+Customer Service: ORG
+Financial, Home Health: ORG

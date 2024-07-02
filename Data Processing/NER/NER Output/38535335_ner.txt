@@ -1,0 +1,26 @@
+SAP Labor: ORG
+Destructive Technology Groups: ORG
+Purchase: PERSON
+Travel: PERSON
+Purchase Card: PERSON
+Meeting & Travel: ORG
+1995: DATE
+Maintained: GPE
+1992: DATE
+Vault: ORG
+Associate of Arts: ORG
+1990: DATE
+Oklahoma Jr. College: ORG
+City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+3.95: CARDINAL
+Excel    Travel Arranger
+Access Database  Purchase Reqs: WORK_OF_ART
+SAP: GPE
+OutLook     : ORG
+SAP: GPE
+Royalty Agreement Tracking
+
+: WORK_OF_ART

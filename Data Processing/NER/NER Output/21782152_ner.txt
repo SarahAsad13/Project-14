@@ -1,0 +1,85 @@
+Versatile Office: ORG
+10 years: DATE
+Meets Deadlines: PERSON
+Effective Team: ORG
+Efficient Team Player: ORG
+Exemplary Work Ethic: ORG
+Multi: GPE
+Plans: NORP
+70: DATE
+Dictaphone: ORG
+Speed Writing: PERSON
+CaseNet: ORG
+Microsoft: ORG
+95: CARDINAL
+2007: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Outlook, Access: ORG
+PowerPoint: ORG
+Timeslips: GPE
+Quikbooks: ORG
+Calendaring, Travel Arrangements: ORG
+Itineraries: ORG
+Filing: GPE
+Fax Machine: ORG
+Multi: GPE
+Telephone
+Systems: ORG
+Data Entry (Superior: ORG
+10+ years: DATE
+Administrative Law: PERSON
+IP: ORG
+Contractual Law: PERSON
+Debtor: PERSON
+Chapter 7: LAW
+13: CARDINAL
+Workers' Compensation Law: ORG
+Estate Planning: ORG
+Personal Injury, Medical Malpractice: ORG
+first: ORDINAL
+Project Coordinator: ORG
+September 2014 to May 2014: DATE
+January 2012 to September 2013: DATE
+Burglary Alarms: ORG
+Fire Alarms: ORG
+Medical Emergency Alarms and Signals: ORG
+Leasing Agents: ORG
+July 2011 to December 2011: DATE
+Various Leasing: PERSON
+Yardi: PERSON
+Model and Vacant Tours: ORG
+Accept Monies, Lease Apartments: ORG
+2: CARDINAL
+one business day: DATE
+Closing Skills: PERSON
+Desire: GPE
+100: CARDINAL
+Medium Communities: ORG
+Bonhomme Village: GPE
+200: CARDINAL
+400: CARDINAL
+Large
+Communities: ORG
+600: CARDINAL
+Knollwood Apartments: ORG
+Marlboro Trails: ORG
+Mills Property: ORG
+Gingco Property: ORG
+July 2007 to April 2011 Company Name ï¼​ City: DATE
+500,000: MONEY
+annual: DATE
+SEC: ORG
+Certificate of Good Standing: WORK_OF_ART
+Administrative Policies and Procedures, Company Rules and Regulations, Highly: ORG
+General Office Duties: A/R: ORG
+monthly: DATE
+QuickBooks: ORG
+Ordering Office Materials: ORG
+Ordering and Pickup/Delivery: WORK_OF_ART
+Associate of Applied Science : Business Administration: WORK_OF_ART
+St. Charles Community College: ORG
+1994: DATE
+Washburn University: ORG
+ï¼​ City: GPE
+State: ORG

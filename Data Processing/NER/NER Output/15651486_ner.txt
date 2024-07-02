@@ -1,0 +1,136 @@
+Career Overview
+Seeking: WORK_OF_ART
+I.T.: GPE
+UCS: ORG
+UCCX: ORG
+Cisco Call: GPE
+Cisco Unity: GPE
+Cisco Attendant Console: PERSON
+Cisco Jabber: GPE
+Cisco ASA: ORG
+Cisco: GPE
+Cisco ACS: PERSON
+Cisco Voip: GPE
+Cisco Routers: GPE
+Cisco Switches: PERSON
+Cisco Wireless Controllers: ORG
+Cisco Wireless Access Points: ORG
+Cisco: GPE
+Juniper Firewall: PERSON
+Operating Systems - Windows Server: ORG
+2003/2008/2012: CARDINAL
+SUSE Linux: PERSON
+Windows XP/Vista/7/10: ORG
+Cisco: GPE
+IBM Bladecenter: ORG
+Dell/HP/Lenovo PC & Laptops: ORG
+Cisco/Juniper/Fortinet: ORG
+Barracuda/Juniper Spam & Web firewall: ORG
+Label Printers: PERSON
+Barcode Scanners: PERSON
+VMware: ORG
+Groupwise, Exchange: ORG
+2007: DATE
+Aldon: GPE
+Remedy: PERSON
+VNC: ORG
+WireShark: ORG
+Snorby: ORG
+SolarWinds Orion: ORG
+SQL Database: GPE
+Epicor: PERSON
+ERP: ORG
+Security - Nexpose: ORG
+Snort: GPE
+Snorby, Symantec: GPE
+Information Technology Company Name: ORG
+I.T.: GPE
+60: CARDINAL
+150: CARDINAL
+over 45%: PERCENT
+MPLS: FAC
+Phone: ORG
+180k: CARDINAL
+Network Engineer: ORG
+15%: PERCENT
+Oversaw: GPE
+200: CARDINAL
+1500: CARDINAL
+VoIP: LOC
+over 300: CARDINAL
+3: CARDINAL
+1 corp: MONEY
+1: CARDINAL
+WAN: ORG
+LAN: ORG
+VoIP: LOC
+Troubleshoot: ORG
+Cisco UC: ORG
+third: ORDINAL
+Maintained: GPE
+Cisco: GPE
+01/2013
+Network Administrator/Help Desk Manager Company Name: ORG
+Troubleshoot: ORG
+VoIP: LOC
+over 300: CARDINAL
+3: CARDINAL
+1 corp: MONEY
+1: CARDINAL
+Administers: PERSON
+Cisco UC: ORG
+third: ORDINAL
+KPI: ORG
+weekly: DATE
+monthly: DATE
+Ensures: LOC
+State: ORG
+7,000: CARDINAL
+Taco Bell: ORG
+P.O.S.: GPE
+TACO: ORG
+Remedy(software: GPE
+Putty(software: ORG
+State: ORG
+first: ORDINAL
+300: CARDINAL
+15: CARDINAL
+Windows 2003/2008 Server: EVENT
+Linux: GPE
+Cisco: GPE
+Cisco Switches: ORG
+Training
+B.S :: ORG
+Computer Networking Systems ITT Technical Institute: ORG
+State Computer Networking Systems: ORG
+Skills: ORG
+Cisco: GPE
+Cisco: GPE
+Cisco: GPE
+Hardware: ORG
+Database: GPE
+Dell PowerEdge: ORG
+ERP: ORG
+Firewall: GPE
+Groupwise: PERSON
+IBM: ORG
+IDS: ORG
+LAN: ORG
+Laptops: PERSON
+Linux: GPE
+MAS90: GPE
+Access, Exchange: ORG
+Office, Windows, Windows XP: ORG
+Networking: ORG
+Operating Systems: ORG
+PCI: ORG
+Printers: PERSON
+Express: ORG
+SQL: ORG
+SSL: ORG
+Cisco Switches: PERSON
+Troubleshoot: ORG
+Vista: ORG
+VoIP: LOC
+WAN: ORG
+Windows Server: PERSON

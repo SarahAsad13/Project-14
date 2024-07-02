@@ -1,0 +1,23 @@
+HEALTHCARE: ORG
+Skills
+
+Telecommunications: ORG
+Strong: PERSON
+Customer: ORG
+Reatail and Corporate: FAC
+Microsoft Office: ORG
+Time: ORG
+Strong: PERSON
+HIPAA: ORG
+Healthcare Customer Service Representative: ORG
+one: CARDINAL
+Evaluate: ORG
+May 2010 to Dec 2011: DATE
+the next day: DATE
+Swept: ORG
+hours: TIME
+Customer Service: ORG
+May 2004: DATE
+Recruited: ORG
+20+: DATE
+daily: DATE

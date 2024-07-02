@@ -1,0 +1,45 @@
+4 + years: DATE
+25%: PERCENT
+east valley: LOC
+Raised: GPE
+50%: PERCENT
+20 %: PERCENT
+June 2015: DATE
+May 2016: DATE
+Name City: GPE
+State: ORG
+150%: PERCENT
+Recruit: ORG
+six: CARDINAL
+Internal Operations: ORG
+June 2014: DATE
+June 2015: DATE
+Name City: GPE
+State Physician Relations and Education/Marketing Liaison
+
+Create: ORG
+February 2013: DATE
+June 2014: DATE
+Name City: GPE
+more than 200%: PERCENT
+Restora Hospital: PERSON
+the west valley: LOC
+Mended: ORG
+150%: PERCENT
+month: DATE
+August 2009: DATE
+February 2013: DATE
+Name City: GPE
+Technician/Health Unit Coordinator
+
+: ORG
+daily: DATE
+Chart: ORG
+2016: DATE
+Grand Canyon University City: ORG
+State: GPE
+Business Administration: ORG
+2008: DATE
+Arizona State University City: ORG
+State: GPE
+Skills: ORG

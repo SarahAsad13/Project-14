@@ -1,0 +1,71 @@
+10 years: DATE
+1G/10: CARDINAL
+Framers: ORG
+Routers: PRODUCT
+Switches: ORG
+ATM: ORG
+PON: ORG
+SONET: ORG
+Digital Home: ORG
+Windows: NORP
+Linux OS: PERSON
+MS
+Office: ORG
+LabView: ORG
+DC: GPE
+USTC: ORG
+Thermonic: GPE
+PCB: ORG
+PADS: ORG
+Mentor Graphic: PERSON
+View Logic
+
+Experience
+: ORG
+August 2007 to October 2014: DATE
+Digital Home: ORG
+Access and Transport: ORG
+ISO 9000: ORG
+ESD: ORG
+0402: DATE
+0201: LAW
+January 2002 to June 2007: DATE
+Electrical Engineering Lab Technician 
+City: EVENT
+TCP Offload Engines: ORG
+ISO 9000: ORG
+ESD: ORG
+0402: DATE
+0201: LAW
+April 1995 to November 2001: DATE
+Electrical Engineering Technician: EVENT
+Ethernet: PERSON
+SONET: ORG
+ATM: ORG
+Processing Products: ORG
+ISO 9000: ORG
+ESD: ORG
+0402: DATE
+0201: LAW
+Solano College Associate Degree : Electronics Engineering Technology State Electronics Engineering Technology
+Certificate: ORG
+Quality Assurance Technology: ORG
+De Anza College: ORG
+CA: WORK_OF_ART
+The Copper Connection: WORK_OF_ART
+CA: ORG
+Skills: ORG
+ATM: ORG
+CA: ORG
+DC: GPE
+Ethernet: PERSON
+Graphic: ORG
+ISO 9000: ORG
+LabView: GPE
+Linux OS: PERSON
+Mentor, Access, MS Office: ORG
+Windows: GPE
+Quality Assurance: FAC
+SONET: ORG
+Switches: ORG
+T1: GPE

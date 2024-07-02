@@ -1,0 +1,24 @@
+Skills: ORG
+Detail: PERSON
+3dsMax: CARDINAL
+Microsoft Office: ORG
+Revit: GPE
+July 2015 to June 2017: DATE
+Multi: GPE
+daily: DATE
+Material Handler: PERSON
+July 2014 to December 2014: DATE
+Laborer: PERSON
+June 2013 to August 2013: DATE
+Janitorial/Construction Laborer: ORG
+June 2010 to August 2011 Company Name ï¼​: DATE
+Maintained: GPE
+Janitorial: PERSON
+Training: PERSON
+June 2015: DATE
+ITT Technical Institute: ORG
+State Drafting and Design Highest Academic Honors: ORG
+3.4: CARDINAL
+Perfect
+Attendance *Opportunity Scholarship Core: PERSON
+BIM: ORG

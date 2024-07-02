@@ -1,0 +1,65 @@
+Instructional Designer: ORG
+August 2012: DATE
+Current Instructional Designer 
+City: ORG
+one: CARDINAL
+Appraise: GPE
+Remain: PERSON
+Peer Reviewer: FAC
+Quality Matters: ORG
+Introduction to Online Learning and College Studies: ORG
+July 2011 to August 2012: DATE
+Blackboard: PERSON
+Smarthinking, Turnitin: ORG
+the Instructional Designer: ORG
+Blackboard: PERSON
+Distance Learning: ORG
+July 2008 to July 2011: DATE
+State: ORG
+Oversaw: GPE
+Coordinated: ORG
+Processed: GPE
+the Registration & Records: ORG
+December 2007 to June 2008: DATE
+Bookkeeper 
+City: GPE
+Processed: GPE
+monthly: DATE
+quarterly: DATE
+February 2006 to June 2007: DATE
+August 2004 to May 2005: DATE
+Technician 
+City: GPE
+third: ORDINAL
+daily: DATE
+July 1996: DATE
+May 2004: DATE
+Program Coordinator 
+City: EVENT
+three: CARDINAL
+monthly: DATE
+three: CARDINAL
+September 1995 to July 1996: DATE
+Coordinator 
+City: PERSON
+Residential: ORG
+Vocational: PRODUCT
+the Speech Therapist: ORG
+May 1991 to September 1994: DATE
+Accounting Clerk: PERSON
+Processed: GPE
+weekly: DATE
+University of Wyoming 2014 Master of Education: ORG
+Instructional Technology City: ORG
+State: ORG
+Franklin University 2011 Bachelor of Science : Public Safety Management City: ORG
+State: ORG
+Colorado Northwestern Community College: ORG
+State
+Technical Trades Institute 1992 Associate of Occupational Studies : Accounting City: ORG
+Volunteer Soccer: PERSON
+Board: ORG
+Volunteer Fire: PERSON
+Volunteer Soccer: PERSON
+Board: ORG
+Volunteer Fire: PERSON

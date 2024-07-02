@@ -1,0 +1,168 @@
+Client: GPE
+Team: ORG
+Donor Relations Company Name: ORG
+Montclair State University's: ORG
+Advancement: GPE
+University: ORG
+University: ORG
+three: CARDINAL
+$1.2 million dollar: MONEY
+100%: PERCENT
+Annual: DATE
+133%: PERCENT
+Annual Scholarship Dinner: ORG
+Division and University: ORG
+Roman Catholic: NORP
+Archdiocese: NORP
+Newark: GPE
+IHA: ORG
+$1.2 million dollar: MONEY
+annual: DATE
+IHA: ORG
+2: CARDINAL
+Reengineered annual fund program: ORG
+45%: PERCENT
+Konica Minolta: ORG
+100%: PERCENT
+annual: DATE
+Alumnae: PERSON
+Reunion Giving: ORG
+over 100%: PERCENT
+250: CARDINAL
+100%+: CARDINAL
+10/2013: CARDINAL
+Donor Relations: ORG
+Saint Peter's: PERSON
+University: ORG
+Advancement: GPE
+University's: ORG
+University: ORG
+250,000: MONEY
+Oversaw: GPE
+100: CARDINAL
+the Board of Regents: ORG
+Sponsorships: PERSON
+Scholarships, Mentorship: ORG
+Office of Admissions: ORG
+100: CARDINAL
+100%: PERCENT
+2014/2015: DATE
+University: ORG
+25: CARDINAL
+University: ORG
+Transformed Scholarship: PERSON
+Financial Aid: PERSON
+Admissions: ORG
+$60 million dollar: MONEY
+Student Center: ORG
+Bergen County: GPE
+University: ORG
+11/2010: CARDINAL
+Englewood Hospital and Medical Center Foundation: ORG
+the Medical Center's: ORG
+$2.5 million: MONEY
+45%: PERCENT
+100: CARDINAL
+100%: PERCENT
+2012: DATE
+13 year-old: DATE
+Breast Cancer Walk: PERSON
+75%: PERCENT
+one year: DATE
+Established Foundation's: ORG
+first Business Partner Program: ORG
+Physician Partners Program: ORG
+the Annual Fund: ORG
+Manage Annual Fund's: ORG
+1,000: MONEY
+Business Partner Program: ORG
+the Physician
+Partners: ORG
+Caduceus Society: ORG
+100%: PERCENT
+2012: DATE
+2013: DATE
+100%: PERCENT
+2012: DATE
+2013: DATE
+$3.2 million: MONEY
+25: CARDINAL
+EHMC Foundation: ORG
+Walk for Awareness Breast Cancer Walk Recipient: ORG
+2012: DATE
+Jersey Awards: PERSON
+Bariatric: GPE
+04/2010 to 11/2010: CARDINAL
+Special Events & Annual Fund Manager Marketing Communications Specialist Company Name: ORG
+100 years: DATE
+the American Cancer Society: ORG
+millions: CARDINAL
+04/2010: CARDINAL
+annual: DATE
+the North Jersey Region: GPE
+Golf Classic: FAC
+Breast Cancer Walk: ORG
+100%: PERCENT
+first: ORDINAL
+MSABC Walk: ORG
+6 years: DATE
+two: CARDINAL
+eleven: CARDINAL
+5: MONEY
+546,000: MONEY
+first: ORDINAL
+6 years: DATE
+two: CARDINAL
+Golf Committee: ORG
+Director of Fund Development Company: ORG
+$1.5 million: MONEY
+annual: DATE
+4 Star: PERCENT
+Modernized Oasis's: PERSON
+Fox News Channel: ORG
+New York: GPE
+1: CARDINAL
+The Star Ledger: ORG
+500: MONEY
+100%: PERCENT
+25%: PERCENT
+first: ORDINAL
+11/1997: CARDINAL
+10/2004: CARDINAL
+Senior Marketing Communications: ORG
+75%: PERCENT
+annually: DATE
+Awarded Customer Service Award: ORG
+2008: DATE
+2009: DATE
+Sony: ORG
+Sony Electronics: ORG
+Sony: ORG
+09/2002: CARDINAL
+Digital Media Specialist: ORG
+Senior Marketing Communications Specialist: ORG
+B2B & B2C: ORG
+first: ORDINAL
+CDR: ORG
+NAB: ORG
+Community Hospital: ORG
+Corporate Relations: ORG
+Liaison: PERSON
+35%: PERCENT
+first quarter of 2002: DATE
+22%: PERCENT
+Raised: GPE
+100%: PERCENT
+Women of the New Millennium: WORK_OF_ART
+Affiliations
+Board: ORG
+Julia's Butterfly Foundation: ORG
+Wyckoff: ORG
+NJ: ORG
+Raisers Edge: ORG
+Donor Perfect: ORG
+Microsoft Office: ORG
+Adobe Creative Suite: PERSON
+Adobe Writer: PERSON
+CorelPainter: ORG
+SAP: ORG

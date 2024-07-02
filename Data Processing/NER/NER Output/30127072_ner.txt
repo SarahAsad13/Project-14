@@ -1,0 +1,45 @@
+RELATIONSHIP: ORG
+01/1997: CARDINAL
+Corporate Institutional Bank Insurance: ORG
+10: CARDINAL
+5: CARDINAL
+day: DATE
+Coordinated: ORG
+Administrative Word Processing Specialist in Trust and Investment Services: ORG
+01/1997: CARDINAL
+01/1988: ORG
+01/2016
+: PERSON
+Commercial Relationship Support Manager Company Name: EVENT
+2002 Â​ 2016: DATE
+five: CARDINAL
+Patriot Act: LAW
+Bank Secrecy Act: ORG
+Community Reinvestment Act: ORG
+Released: PERSON
+Provenir: ORG
+Credit Workflow: PERSON
+Communicated: ORG
+annual: DATE
+01/1988: ORG
+01/1991: CARDINAL
+Education: ORG
+2004: DATE
+New York: GPE
+State Public Administration: ORG
+2004: DATE
+Church Management Nyack College: ORG
+State Business and Church Management: ORG
+1999: DATE
+Associate of Applied Science : Accounting Borough: WORK_OF_ART
+Manhattan Community College: ORG
+State Accounting
+Professional Affiliations
+Commercial Banking Support Relationship: ORG
+25 years': DATE
+Qualifications Commercial Lending Regulatory Compliance Portfolio Management Records Management Relationship Management
+Team Leadership Accomplishments Developed: ORG
+Skills
+Administrative: ORG
+Credit: ORG
+UCC: GPE

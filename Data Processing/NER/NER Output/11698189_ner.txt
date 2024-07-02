@@ -1,0 +1,42 @@
+Microsoft Office: ORG
+Suite: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+the United Negro College Fund: ORG
+over $2500: MONEY
+Created: ORG
+hourly: TIME
+Equifax: ORG
+02/2015
+Store Operations Associate Company Name: ORG
+Processed: GPE
+Common Suite System: PERSON
+the Directory Marketing
+Unit: ORG
+NetMeeting: ORG
+Bachelor of Science : Network Information & Technology Administration Eastern Michigan University: ORG
+ï¼​ City: GPE
+State Network Information &
+Technology Administration: ORG
+MBA: WORK_OF_ART
+Management Davenport University: ORG
+ï¼​ City: GPE
+Skills
+
+Critical Thinking
+Conflict Resolution
+Leadership
+Integrity
+Customer Service
+Human Resource Training: ORG
+Microsoft Office: ORG
+Volunteer Associations: PRODUCT
+66: MONEY
+Worthy Matron: PERSON
+Treasurer: PERSON
+AT&T Community Network - Michigan Chapter: ORG
+United Negro College: ORG
+over $2500: MONEY
+Annual: DATE
+Metro Detroit Visitors Bureau - Served: ORG

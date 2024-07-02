@@ -1,0 +1,41 @@
+7+ yrs of: DATE
+Quickbook Retail IQ: PERSON
+Snap: PERSON
+Fdt: PERSON
+Microsoft: ORG
+Powerpoint: ORG
+Outlook, Works: ORG
+Watson: PERSON
+30%: PERCENT
+Weekly: DATE
+Highlights: GPE
+7+ yrs of: DATE
+Quickbook Retail IQ: PERSON
+Snap: PERSON
+Fdt: PERSON
+Microsoft: ORG
+Powerpoint: ORG
+Outlook, Works: ORG
+Watson: PERSON
+10/2014: CARDINAL
+12/2014: CARDINAL
+Name City: GPE
+State
+
+Daily: ORG
+weekly: DATE
+monthly: DATE
+at least 5: CARDINAL
+nine consecutive quarters: DATE
+daily: DATE
+quarterly: DATE
+Name City: GPE
+Sprint: ORG
+Achieves: ORG
+Meets: NORP
+1994: DATE
+KINGSBOROUGH COLLEGE City: PERSON
+1990: DATE
+HS City: GPE
+State: ORG
+Skills: ORG

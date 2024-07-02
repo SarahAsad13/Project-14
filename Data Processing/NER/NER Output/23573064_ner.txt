@@ -1,0 +1,79 @@
+Overview Certified: GPE
+two years: DATE
+PRINCE2: NORP
+Two years: DATE
+three: CARDINAL
+Skills
+Work History: ORG
+06/2012: PRODUCT
+Current
+Programme Finance Associate Company Name: ORG
+UN: ORG
+Implementation of effective internal controls: ORG
+CO: ORG
+Ensures: LOC
+2: CARDINAL
+CO: ORG
+Atlas: PERSON
+Annual: DATE
+Combined Delivery Reports: PERSON
+NIM: ORG
+the Integrated Work Plan: EVENT
+Atlas: GPE
+GMS: ORG
+Atlas: GPE
+3: CARDINAL
+the Programme Finance Unit: ORG
+Atlas: GPE
+CO: ORG
+4: CARDINAL
+10/2008 to 05/2012: CARDINAL
+03/2008: CARDINAL
+01/1999: CARDINAL
+12 2008: DATE
+Civil Engineering: ORG
+Al-Fateh University: ORG
+Tripoli: GPE
+Libya: GPE
+1997 - 2001: DATE
+Tripoli: GPE
+Tripoli: GPE
+Libya: GPE
+2005 - 2006: DATE
+UNDP: ORG
+Tripoli: GPE
+December 2009: DATE
+Enterprise Risk Management: ORG
+UNDP: ORG
+Tripoli: GPE
+January 2009: DATE
+UNDP: ORG
+Tripoli: GPE
+January 2009: DATE
+Ethics Train: ORG
+UNDP: ORG
+Tripoli: GPE
+December 2008: DATE
+Thinking Outside the Box: ORG
+UNDP: ORG
+Tripoli: GPE
+January 2009: DATE
+UN Programme On The Prevention Of Harassment: ORG
+Sexual Harassment: PERSON
+Abuse Of Authority: ORG
+UNDP: ORG
+Tripoli: GPE
+January 2009: DATE
+UNDP: ORG
+Tripoli: GPE
+Arabic: LANGUAGE
+English: LANGUAGE
+Finance: ORG
+Financial: ORG
+Italian: NORP
+MS Office: ORG
+Enterprise: ORG
+PRINCE2: PRODUCT
+Risk Management: ORG
+5 November 1978: DATE
+Libyan: NORP

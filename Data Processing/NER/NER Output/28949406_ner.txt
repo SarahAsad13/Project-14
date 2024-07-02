@@ -1,0 +1,90 @@
+two years: DATE
+My day: DATE
+weekly: DATE
+B.S.: GPE
+Appropriate Technology: ORG
+Appalachian State University: ORG
+2012: DATE
+second: ORDINAL
+a B.S.B.E. in Information Technology: ORG
+East Carolina University: ORG
+two: CARDINAL
+South Park: GPE
+Third Ward: GPE
+Charlotte: GPE
+Homes Helping: PERSON
+three: CARDINAL
+each day: DATE
+first month: DATE
+12: CARDINAL
+Complete: PERSON
+weekly: DATE
+Follow: PERSON
+quarterly: DATE
+weekly: DATE
+the National Apartment Association: ORG
+Floating Leasing: WORK_OF_ART
+2013: CARDINAL
+2014: CARDINAL
+three: CARDINAL
+three: CARDINAL
+each day: DATE
+first year: DATE
+58: CARDINAL
+Maintained: GPE
+55%: PERCENT
+Fairington: GPE
+Fairington: GPE
+September 2013- 72%: DATE
+April 2014-: DATE
+99%: PERCENT
+Complete: PERSON
+weekly: DATE
+Follow: PERSON
+quarterly: DATE
+the National Apartment Association: ORG
+Jun 2012: PERSON
+2013: DATE
+Server Oct 2011 to Feb 2013: PERSON
+Member Jan 2002: DATE
+Jan 2009: DATE
+BSBE: ORG
+ï¼​ City: GPE
+May 2012: DATE
+Appalachian State University: ORG
+May 2005: DATE
+Parkwood High School ï¼​ City: ORG
+Skills
+
+Office Administrative: ORG
+Microsoft Office: ORG
+Access PowerPoint: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+Mac Office Suit: Pages: ORG
+Numbers: ORG
+Keynote: ORG
+Proprietary Programs: ORG
+E-Time Management: ORG
+Key-Trac System: ORG
+Blue Moon: ORG
+LeasingDesk: PRODUCT
+Weblisters, Property
+Solutions: ORG
+LRO: ORG
+Yardi: PERSON
+Revit BIM: PERSON
+C++: CARDINAL
+Exceeds Expectations: WORK_OF_ART
+my end of year: DATE
+Ginkgo Residential: ORG
+Fairfield Residential: PERSON
+ESL: ORG
+English: LANGUAGE
+Boone: GPE
+NC: GPE
+2007: DATE
+the ASU Sustainable: ORG
+2007: DATE
+the ASU Biofuels Lab: ORG
+2008: DATE

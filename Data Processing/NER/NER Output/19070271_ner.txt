@@ -1,0 +1,89 @@
+MAINTENANCE MECHANIC: PERSON
+7+ years: DATE
+Skills
+
+Electrical Maintenance: ORG
+AC Motors: ORG
+Mechanical: ORG
+Specialized: ORG
+Crisplant: PERSON
+TCP: ORG
+Name City: GPE
+four: CARDINAL
+Coordinated: ORG
+Oversaw: GPE
+CCTV: ORG
+IP: ORG
+MS: ORG
+Name City: GPE
+State: ORG
+Performed Unscheduled: PERSON
+Replaced Gearboxes: PERSON
+Performed AC Motor: ORG
+Performed: ORG
+Photo Electric Switches: ORG
+Tachometers, Inductive Proximity Sensors: ORG
+Emergency Stop Hardware: PERSON
+Float Switches: ORG
+Branch Circuit Protection: ORG
+Belt Conveyors: ORG
+Specialized: ORG
+Name City: GPE
+Maintained: GPE
+Maintained: GPE
+CCTV: ORG
+Installed Ethernet: LOC
+Name City: GPE
+State: ORG
+06/2013: CARDINAL
+Performed: ORG
+Name City: GPE
+Training: PERSON
+H.S: GPE
+2016: DATE
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+12/19/2016: DATE
+Personal Protective Equipment: ORG
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+9/26/2016: CARDINAL
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+9/14/2016: CARDINAL
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+Machine Guard: ORG
+J. J. Keller & Associates: PERSON
+City: GPE
+State: GPE
+United States: GPE
+12/15/2015: DATE
+Technical Skills: ORG
+Unisort: PERSON
+Unisort X
+: PERSON
+Buschman Accuglide: ORG
+Various V-belt: PERSON
+Powered Live Roller Conveyors: ORG
+Various Belt: PERSON
+Various Belt: PERSON
+Stewart-Glappat Extendable: ORG
+Tilt Tray Sorters: PERSON
+FKI Logistics Line-Shaft: ORG
+Crisplant S2000 Control System: ORG
+conveyor motor control systems: ORG
+Variable Frequency Drives: WORK_OF_ART
+Ethernet: PERSON

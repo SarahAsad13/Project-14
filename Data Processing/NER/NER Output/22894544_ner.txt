@@ -1,0 +1,38 @@
+DRIVER: ORG
+4 years: DATE
+10/2015: CARDINAL
+Loading: PERSON
+Maintained: GPE
+Amazon: ORG
+03/2008: CARDINAL
+12/2015: CARDINAL
+State: ORG
+Filed Patient: PERSON
+Red Lion Hotel Convention: ORG
+Bellevue: NORP
+Portland: GPE
+2017: DATE
+GPA: ORG
+GPA: ORG
+3.3: CARDINAL
+GPA: ORG
+3.3: CARDINAL
+Attended Shoreline CC: ORG
+2 years: DATE
+Psychology and Kinesiology: ORG
+Men's Basketball: ORG
+CC: GPE
+NWACC: ORG
+Competed: FAC
+Juanita High School: ORG
+first: ORDINAL
+BSU: ORG
+Bellevue College: ORG
+three: CARDINAL
+Men's Basketball: ORG
+CC: GPE
+NWACC: ORG
+first: ORDINAL
+BSU: ORG
+Bellevue College: ORG
+three: CARDINAL

@@ -1,0 +1,93 @@
+Healthcare & Pharmaceutical Sales Dedicated: ORG
+Medical, Pharmaceutical &: ORG
+Dental Sales: ORG
+New Business Development: ORG
+Years: DATE
+Windows, MS Office Suite: ORG
+SalesForce.com: ORG
+Networking & Prospecting * Clinical Administration: ORG
+January 2014 to July 2014: DATE
+NEUROLOGISTS: ORG
+DENTAL: ORG
+PCP'S: ORG
+INTERNAL MEDICINE: ORG
+ETC: ORG
+Kansas: GPE
+Texas: GPE
+8/15/13: CARDINAL
+only 2 months: DATE
+January 2009 to October 2012: DATE
+Sensodyne: NORP
+Sensodyne Isoactive: PERSON
+Dentin Hypersensitivity: ORG
+ProNamel: ORG
+Acid Erosion Protection (Adults & Children: ORG
+Aquafresh Enamelock: ORG
+Aquafresh Isoactive: GPE
+Biotene for Xerostomia: ORG
+Championed: PRODUCT
+first: ORDINAL
+Sales Council Leadership Team for Oral Healthcare: ORG
+Ranked #2: ORG
+the first year: DATE
+150: CARDINAL
+the "Empowerment Spirit Award: ORG
+2010: DATE
+Silver Spirit Award: WORK_OF_ART
+2011: DATE
+100%: PERCENT
+daily: DATE
+by15%: PERCENT
+January 2003 to January 2009: DATE
+Avandia/Avandamet: ORG
+Avandaryl: PERSON
+Coreg CR: PERSON
+Lovaza: GPE
+Ventolin HFA: PERSON
+.7%: PERCENT
+14.6%: PERCENT
+the first 6 months: DATE
+Ranked #2: WORK_OF_ART
+10: CARDINAL
+500: CARDINAL
+2004: DATE
+Ruby Tier Winner: WORK_OF_ART
+2005: DATE
+2006,Bronze: CARDINAL
+100%: PERCENT
+2004: DATE
+the "Geo Team Award"in: ORG
+2007: DATE
+January 2001 to January 2002: DATE
+Product Specialist: PERSON
+daily: DATE
+first: ORDINAL
+Cerner.: ORG
+Communicated: ORG
+70%: PERCENT
+100%: PERCENT
+daily: DATE
+monthly: DATE
+Ranked #5: WORK_OF_ART
+300: CARDINAL
+the first 6 months: DATE
+AVILA UNIVERSITY St. Joseph Healthcare Center: ORG
+Radiologic Technology Biology City: ORG
+State: ORG
+United
+States: GPE
+GPA: ORG
+GPA: ORG
+3.5: CARDINAL
+Radiologic Technology Biology: ORG
+3.5: CARDINAL
+2001: DATE
+American Registered Radiologic Technologists Charitable Volunteer Coordinator: ORG
+Radiologic Science Club: ORG
+Award Winner: PERSON
+CERTIFICATIONS & AFFILIATIONS: ORG
+2001: DATE
+American Registered Radiologic Technologists
+
+: ORG
+Radiologic Science Club: ORG

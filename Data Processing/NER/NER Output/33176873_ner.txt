@@ -1,0 +1,113 @@
+20 years: DATE
+15 plus years: DATE
+Human Resources Executive Management: ORG
+5 years: DATE
+HRIS: NORP
+4 years: DATE
+HRIS Development
+
+Benefit Administration: ORG
+Policy Development: ORG
+Kansas Health Institute -Health Outcomes: ORG
+Kansas: GPE
+Memberships: GPE
+Project Management Institute: ORG
+SHRM: ORG
+Chamber of Commerce: ORG
+1999: DATE
+Friends University: ORG
+1997: DATE
+Friends University Dean's: ORG
+Honor Roll: FAC
+Friends University Topeka: ORG
+the Topeka Advertising Federation: ORG
+ADDY Awards: ORG
+Kansas Travel: ORG
+Tourism Department: ORG
+ASHHRA: ORG
+KAHHR: ORG
+ACM: ORG
+the Adjutant General's Retention
+Research: ORG
+Adjutant: NORP
+Departments: ORG
+the Federal Security: ORG
+the Joint Forces Headquarters: ORG
+State Employees: ORG
+Federal Government Requirements: ORG
+LMIS: ORG
+the Job Vacancy Project: ORG
+years: DATE
+JVC: ORG
+three: CARDINAL
+FTE: ORG
+PRN: ORG
+09/2016: PERSON
+HRIS System: ORG
+Oversaw: GPE
+the Employee Handbook: PRODUCT
+Maintained: GPE
+day: DATE
+Oversaw: GPE
+09/2016: NORP
+Name City: GPE
+SHRO: ORG
+Established: ORG
+State: ORG
+the Adjutant General's Department: ORG
+TAG: ORG
+KAPE: ORG
+the 190th Fire Department: ORG
+State: ORG
+HRIS: ORG
+Responsible for Ramp: FAC
+Met: ORG
+Team Managers: ORG
+Payroll: ORG
+Quality Control: ORG
+950: CARDINAL
+Coordinated: ORG
+Human Resources Coordinator: ORG
+Name City: GPE
+Developed HRIS: PERSON
+Agency Staffing: ORG
+Coordinated: ORG
+Coordinated: PRODUCT
+One Person Office: ORG
+OSHA: ORG
+Training
+Master's Degree : Information Management Systems 05/2005: WORK_OF_ART
+Friends University City: ORG
+State: GPE
+United States: GPE
+3.5: CARDINAL
+62 Semester
+hours: TIME
+Information Management Systems: ORG
+Friends University City: ORG
+State: ORG
+United States: GPE
+4.0: CARDINAL
+62 Semester hours: TIME
+Topeka Chamber of Commerce -Ambassador Kansas Hospital Association -Health Care Human Resources: ORG
+SHRM -Legislative Liaison: PERSON
+Â 
+Newsletter: ORG
+DATABASE Management: ORG
+Leadership Training: PERSON
+OSHA: ORG
+Workers Compensation: ORG
+PageMaker: ORG
+Agency Automation: ORG
+Budget: ORG
+Corel Suite: PERSON
+Harvard Graphics: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Publisher: ORG
+MS Word: PERSON
+Â 
+Quark Express: ORG
+Quattro Pro: NORP
+Strategic Planning: ORG
+WordPerfect: ORG

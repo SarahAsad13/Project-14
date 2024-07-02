@@ -1,0 +1,142 @@
+more than 10 years: DATE
+Regulatory (Statutory): ORG
+Specialized: ORG
+Skills: ORG
+Month-end: DATE
+Reconciliations/Analysis
+Accounts Payable & Accounts Receivable: ORG
+General Ledger Entries & Audits
+Research, Investigation & Resolution
+Financial Analysis & Reporting
+Business Accounting Process Improvements: ORG
+Microsoft Office Proficient: ORG
+Accountant II 10/2016: LOC
+Current Company Name City: ORG
+State
+
+Business Property: ORG
+Grants & Contracts Accounting: ORG
+Property Management & Lease Accounting
+
+Responsible for CL500 - Events Clearing: ORG
+570496/670496: DATE
+6%: PERCENT
+5%: PERCENT
+Journal: ORG
+CRG: ORG
+CPG: ORG
+CTL: ORG
+CFM: ORG
+CPP: ORG
+CPS: ORG
+90-days: DATE
+30 days: DATE
+the M0380 Fund Balance: ORG
+Daily AR Payment Application: ORG
+Grant Accountant 09/2014: PERSON
+Name City: GPE
+Monthly: DATE
+AR & Revenue Collected: ORG
+Monthly: DATE
+Journal: ORG
+Invoice: GPE
+Grants: PERSON
+Prepare JE: ORG
+6%: PERCENT
+Prepare F&A: ORG
+Prepare Prepaid: PERSON
+monthly: DATE
+Unbilled for Grants: WORK_OF_ART
+Prepare Over: ORG
+Review A-133: ORG
+ORSP: ORG
+FFR: ORG
+quarterly: DATE
+09/2014 Company Name City: ORG
+quarterly: DATE
+annual: DATE
+Health Care
+Insurance: ORG
+49: CARDINAL
+annual: DATE
+Prepare: ORG
+SAP: ORG
+Loss Ratio: PERSON
+Communicates: ORG
+the Board Package: ORG
+the Capital planning: ORG
+quarterly: DATE
+State: ORG
+Accountant 10/2005: PERSON
+07/2011: CARDINAL
+Name City: GPE
+20: CARDINAL
+Communicate: ORG
+Prepare: ORG
+the General Ledger and sub-ledger: ORG
+Prepare: ORG
+month-end: DATE
+Controller: PERSON
+Assist the Accounting: ORG
+the Annual Audit: EVENT
+the Internal & External Auditors: ORG
+Annual: DATE
+Treasury: ORG
+FASB: ORG
+13: CARDINAL
+Assists Lease Administrator: ORG
+Accounts Receivable: ORG
+CAM: ORG
+FASB: ORG
+Notes Payable: ORG
+Prepares Financial Statements: ORG
+monthly: DATE
+Taxes: ORG
+Liaison: PERSON
+Farm: ORG
+Accountants: ORG
+Loan: NORP
+06/2003: CARDINAL
+Name City: GPE
+Evaluates: PRODUCT
+2004: DATE
+the Year Award: EVENT
+Internal Auditor 04/2002: ORG
+Name City: GPE
+State: ORG
+State: ORG
+11/1995: CARDINAL
+Company Name City: DATE
+Regional Financial: ORG
+08/1990: CARDINAL
+Name City: GPE
+Philippines: GPE
+11/2001: CARDINAL
+University of the Philippines: ORG
+Management Business Management Management Business Management
+Bachelor : Business Administration Accounting Business Administration Accounting: ORG
+Accounting: ORG
+Accounts Payable: ORG
+Balance, Bank Reconciliations: ORG
+Contracts: ORG
+Controller: PERSON
+Certified Public Accountant: ORG
+Expense Reporting: ORG
+Financial Analysis & Reporting: ORG
+Financial
+Statements: ORG
+Ledger: PERSON
+JD Edwards: PERSON
+Notes: PRODUCT
+Microsoft Office: ORG
+Enterprise: ORG
+Peoplesoft: PERSON
+Property Management: ORG
+Research, Sales: ORG
+SAP: ORG
+Taxes: ORG
+Treasury: ORG
+Affiliations: ORG
+An Taclobanon Association of So: ORG
+California: GPE
+2015-Present: DATE

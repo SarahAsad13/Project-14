@@ -1,0 +1,54 @@
+University: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+SPSS: ORG
+State Extension Methodologist
+
+Having: ORG
+Zambia: GPE
+the ministry of Agriculture: ORG
+the ministry of Agriculture: ORG
+Agriculture: ORG
+NGO: ORG
+the ministry of Agriculture e. g.: ORG
+eastern province: GPE
+11/2012: CARDINAL
+State Research: ORG
+Zambia: GPE
+SPSS: ORG
+06/2012 - 11/2013: PRODUCT
+State Policy: ORG
+ACF: ORG
+Zambia: GPE
+ACF: PERSON
+Zambian: NORP
+Zambian: NORP
+01/2012 - 02/2013: CARDINAL
+State Research: ORG
+2: CARDINAL
+CFU: ORG
+Zambia: GPE
+State Principal Investigator: ORG
+Daura: PERSON
+the
+university of Zambia: ORG
+2011: DATE
+State: GPE
+Zambia Bachelor's: PERSON
+Bachelor of Agricultural sciences: ORG
+2004: DATE
+Samfya Secondary School ï¼​ City: ORG
+State: GPE
+Zambia Bachelor: PERSON
+General School Certificate
+Languages
+Excellent: ORG
+English: LANGUAGE
+Bemba: ORG
+Nyanja: GPE
+English: LANGUAGE
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+SPSS: ORG

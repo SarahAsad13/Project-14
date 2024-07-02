@@ -1,0 +1,19 @@
+June 2014: DATE
+September 2017: DATE
+Name City: GPE
+Opening: WORK_OF_ART
+MNDR: ORG
+February 2011: DATE
+April 2014: DATE
+Name City: GPE
+State Retail Sales Associate/Pharmacy Clerk Maintained: ORG
+3rd party: ORG
+January 2007: DATE
+December 2010: DATE
+Name City: GPE
+State Pharmacy: ORG
+Century Business College City: ORG
+State: GPE
+United States Business Management
+Skills: ORG
+10: CARDINAL

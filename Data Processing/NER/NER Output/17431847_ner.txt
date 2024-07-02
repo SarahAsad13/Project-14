@@ -1,0 +1,125 @@
+Career Focus: PERSON
+the Masters of Science in Health Science and Rehabilitation: ORG
+Rocky Mountain University: ORG
+2013: DATE
+Nevada School of Massage Therapy: ORG
+State: ORG
+4.0: CARDINAL
+GPA: ORG
+2012: DATE
+Gulf Coast University: ORG
+Student Government: ORG
+the College of Health Professions: ORG
+Omicron Delta Kappa National Leadership: ORG
+Sigma Phi Epsilon Fraternity: ORG
+Human Performance Student Association Event Planner: ORG
+Skills
+
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Excel: PRODUCT
+Time: ORG
+Website Development
+
+Professional Experience
+: ORG
+Rehabilitation Specialist / Massage Therapist: ORG
+December 2014: DATE
+Rehabilitation and Strength & Conditioning: ORG
+Functional Movement Screen: ORG
+Selective Functional Movement Screen: ORG
+FMS: ORG
+Group Fitness Instructor: ORG
+May 2012: DATE
+Current Company Name: ORG
+Aqua Aerobics
+Primary: ORG
+20-30: CARDINAL
+Strength Coach/Massage Therapist: ORG
+January 2012: DATE
+Current Company Name: ORG
+Las Vegas Athletic Clubs: FAC
+25: CARDINAL
+Primary: PERSON
+January 2012: DATE
+Current Company Name: ORG
+Las Vegas: GPE
+Personal Trainers, Chiropractors: ORG
+Physical Therapists: ORG
+Dietitians: NORP
+Health Coaches: ORG
+weekly: DATE
+Fitness Specialist: PERSON
+January 2013 to December 2013: DATE
+SPRI: ORG
+Club Industry: ORG
+Interbike: GPE
+Las Vegas: GPE
+SPRI: ORG
+Wellness Coach: PERSON
+January 2012: DATE
+May 2012: DATE
+August 2011 to December 2011 Company Name ï¼​ City: DATE
+Cardiac Rehabilitation: ORG
+Orthopedic Surgeries: PERSON
+Kinesis: ORG
+Completed 500: PRODUCT
+Conditioning Specialist - NSCA: PERSON
+Certified/Licensed Massage Therapist - NCBTMB: ORG
+Certified Personal Trainer - ACE
+TRX: WORK_OF_ART
+1: CARDINAL
+CPR: ORG
+AED: ORG
+First Aid - American Heart Association
+
+Professional Affiliations
+
+National Strength and Conditioning Association: ORG
+NSCA: ORG
+American Massage Therapy Association: ORG
+American Council on Exercise: ORG
+Las Vegas Health and Fitness Chamber of Commerce: ORG
+American Heart Association
+
+Professional Development
+
+Selective Functional Movement Assessment Level: ORG
+Minneapolis: GPE
+2014: DATE
+Boston Rehabilitation Summit - Boston: ORG
+Mass.: GPE
+2012: DATE
+Perform Better Conference - Long Beach: ORG
+2012: DATE
+NSCA National Conference - Las Vegas 2011
+
+Community Service
+
+Free Pre and Post Race Stretching/Movement Assessment: ORG
+BBSC Endurance Sports: ORG
+2012: DATE
+Henderson Bike Exchange: ORG
+2013: DATE
+IRONMAN Triathlon: ORG
+2013-2014: DATE
+Golf Coach/Mentor: ORG
+The First Tee: ORG
+2011-2012: DATE
+Volunteer Worker: PERSON
+2010-2012: DATE
+USA Triathlon Age Group National Championship 2013 & 2014: ORG
+2014: DATE
+Kokopelli Triathlon: PERSON
+Hurricane: GPE
+1st: ORDINAL
+2014: CARDINAL
+Hurricane: GPE
+2013: CARDINAL
+Pumpkinman Triathlon: PERSON
+Las Vegas: GPE
+1st: ORDINAL
+2013: CARDINAL
+Las Vegas Triathlon: ORG
+2nd: ORDINAL

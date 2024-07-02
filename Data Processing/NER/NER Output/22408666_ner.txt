@@ -1,0 +1,90 @@
+Elementary School: PERSON
+August 2012: DATE
+Current Teacher 
+City: PERSON
+one: CARDINAL
+English: LANGUAGE
+School Education: ORG
+Safety
+Program Coordinator: ORG
+1st-6thgrades: CARDINAL
+August 2006 to June 2011: DATE
+Bakersfield: GPE
+CA: ORG
+August 2006- June 2011 Responsibilities
+Facilitates school: DATE
+State: ORG
+Maintain: PERSON
+Mange: PERSON
+seven: CARDINAL
+Key Contributions & Educational Outcomes: ORG
+After School
+Program: ORG
+January 2009 to January 2011: DATE
+Probation Department: ORG
+Families to Student Attendance Review Board: ORG
+Refer: NORP
+Translate: ORG
+Assisted: ORG
+Assisted: ORG
+first: ORDINAL
+Bakersfield College: ORG
+State: GPE
+US Bakersfield College: ORG
+Bakersfield: GPE
+CA: ORG
+2006 & 2010: ORG
+California State University: ORG
+Family Studies: ORG
+Sociology City: GPE
+State: GPE
+US: GPE
+California State: ORG
+CA: ORG
+2009-2010: DATE
+Child: GPE
+Social Sciences: ORG
+Science and Mathematics â—¦ Subtest III-: WORK_OF_ART
+Human Development, Visual and Performing Arts: ORG
+30 Day Substitute Permit: DATE
+Cuyama Valley High School: ORG
+State: GPE
+US: GPE
+Cuyama Valley High School: ORG
+1998-2002: DATE
+4 years: DATE
+4 years: DATE
+Science Club: ORG
+California Scholarship Federation: ORG
+Irvine Valley College City: ORG
+State: GPE
+US Irvine Valley College: ORG
+Irvine: GPE
+CA: ORG
+2003: DATE
+Allen Hancock College City: ORG
+State: GPE
+US Allen Hancock College: ORG
+Santa Maria: GPE
+CA: ORG
+2002-03: DATE
+First Aid Certified: ORG
+Children and Adults): WORK_OF_ART
+CPR: ORG
+First Aid CPR Certificate: ORG
+42 wpm: TIME
+Languages
+Teaching Experience: WORK_OF_ART
+Bilingual Fluency: PERSON
+English: LANGUAGE
+Spanish: NORP
+Professional Affiliations: ORG
+Kern County: GPE
+Skills
+Increase: ORG
+Filing: GPE
+Comprehensive Large Array Data Stewardship System: ORG
+Liaison: PERSON
+Translate: ORG
+Mathematics: NORP
+42 Wpm: DATE

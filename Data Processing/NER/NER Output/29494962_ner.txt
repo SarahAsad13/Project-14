@@ -1,0 +1,60 @@
+SECRETARY: GPE
+daily: DATE
+Microsoft Office: ORG
+Detail: PERSON
+Time: ORG
+Articulate: ORG
+Payroll: ORG
+weekly: DATE
+08/2014 - Current
+Company Name: ORG
+State: ORG
+August of 2014: DATE
+Finance: ORG
+daily: DATE
+AgendaQuick: ORG
+Brea: GPE
+Desk Diary: PERSON
+Influential Communicator's: ORG
+Finance: ORG
+Lease Revenue: ORG
+Purchasing, Information Technology and Human Resources: ORG
+Volunteen: PERSON
+annually: DATE
+08/2014 - Current
+Company Name: ORG
+State: ORG
+the Communications and Marketing: ORG
+half: CARDINAL
+PowerPoint: ORG
+annual: DATE
+State: ORG
+city council: ORG
+city council: ORG
+daily: DATE
+Desk Diary: PERSON
+City Plaque Inventory: ORG
+C&M Weekly: ORG
+Influential Communicator's: ORG
+Department Coordinator: ORG
+Weight Room Rehabilitation: ORG
+Brea City: GPE
+the City of Brea's Safety Committee: GPE
+2017: DATE
+Grand Canyon University: ORG
+ï¼​ City: GPE
+State: GPE
+2016: DATE
+Grand Canyon University: ORG
+ï¼​ City: GPE
+State: GPE
+1992: DATE
+Cypress Community College: ORG
+State: ORG
+90630: DATE
+GED: ORG
+Microsoft Office: ORG
+Edit: LOC
+Filing: GPE
+Letters: ORG
+Time: ORG

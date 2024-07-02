@@ -1,0 +1,44 @@
+MS Excel: ORG
+MS Powerpoint
+
+: PERSON
+ICUE: ORG
+Facet: ORG
+ISET: NORP
+Customer: ORG
+Citrix: PRODUCT
+VLookup: ORG
+Pivot Tables: PERSON
+Team: ORG
+Client: GPE
+Risk: ORG
+Active Listening: WORK_OF_ART
+State: ORG
+May 2014: DATE
+first: ORDINAL
+Answers: PRODUCT
+Intervene: PERSON
+Research: ORG
+first: ORDINAL
+Research: ORG
+State: ORG
+January 2008: DATE
+May 2014: DATE
+State: ORG
+May 2004 to July 2007: DATE
+monthly: DATE
+Mentored: ORG
+56: CARDINAL
+Mediated: ORG
+Chiropractic - Life University: ORG
+State: ORG
+2013: DATE
+State: ORG
+2007: DATE
+Consulting: ORG
+MS Excell: PERSON
+MS Office: ORG
+Outlook: PERSON
+MS PowerPoint: PERSON
+MS Word
+Medical Billing: PERSON

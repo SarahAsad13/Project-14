@@ -1,0 +1,72 @@
+Excel: PRODUCT
+PowerPoint: ORG
+October 2015: DATE
+Greets: NORP
+Resolves: GPE
+August 2015 to October 2015: DATE
+24 Hour Fitness: TIME
+daily: DATE
+December 2014 to August 2015: DATE
+weekly: DATE
+Bachelor of Business Administration: ORG
+Summer 2016 University: DATE
+C.T. Bauer College of Business ï¼​ City: ORG
+GPA: ORG
+3.52: CARDINAL
+3.52: CARDINAL
+January 2015: DATE
+GPA: ORG
+Dean: PERSON
+List at the University of Houston Spring 2014: WORK_OF_ART
+Spring 2013: DATE
+Dean: PERSON
+Spring 2012: DATE
+Fall Dean's: PERSON
+List at the University of Houston Spring 2014: WORK_OF_ART
+Spring 2013: DATE
+Dean: PERSON
+Spring
+: DATE
+2012: DATE
+Fall
+Microsoft Office: ORG
+2007: DATE
+Spring 2012: DATE
+Microsoft Office: ORG
+2007: DATE
+Spring 2012
+: DATE
+English: LANGUAGE
+Spanish: NORP
+Interests: NORP
+Volunteer Activities: PERSON
+2009: DATE
+2009-2013: DATE
+St. Cyril: GPE
+Thanksgiving: EVENT
+annual: DATE
+2009-2013: DATE
+Beautified: PERSON
+Educational Projects Fall 2015: ORG
+Spring 2014 DePelchin Children's: EVENT
+hundreds: CARDINAL
+Volunteer Activities: PERSON
+2009: DATE
+2009-2013: DATE
+St. Cyril: GPE
+Thanksgiving Organized: WORK_OF_ART
+annual: DATE
+2009-2013: DATE
+Beautified: PERSON
+J-Vibe Online Magazine Developed: PRODUCT
+Spring 2014: DATE
+DePelchin Children's: ORG
+hundreds: CARDINAL
+CPR: ORG
+English: LANGUAGE
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Microsoft Word: PERSON
+Spanish: NORP

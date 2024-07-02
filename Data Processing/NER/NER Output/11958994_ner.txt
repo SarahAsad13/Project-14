@@ -1,0 +1,45 @@
+Career Overview
+
+Committed: ORG
+Salon Designer: PERSON
+December 2014 to June 2015: DATE
+Call Center Representative: ORG
+October 2013 to November 2013: DATE
+Processor: PRODUCT
+January 2013 to August 2013: DATE
+Assemble: PRODUCT
+Credit Processors: ORG
+Appraisal Management
+Company: ORG
+QC: PERSON
+LOS: ORG
+Loan Flow: ORG
+QC: ORG
+Loan: NORP
+30-40: CARDINAL
+October 2012 to December 2012: DATE
+Recommend: ORG
+Change Watch Batteries: WORK_OF_ART
+Compute: ORG
+November 2009: DATE
+May 2012: DATE
+monthly: DATE
+daily: DATE
+Demonstrate: ORG
+State: GPE
+United States Cosmetology: ORG
+City: GPE
+State: GPE
+United States: ORG
+Greek: NORP
+English: LANGUAGE
+Skills
+Adobe: ORG
+Credit: ORG
+English: LANGUAGE
+Greek: NORP
+Inventory, Regulatory Compliance: ORG
+Excel: PRODUCT
+Exchange: ORG
+Point: ORG
+Ms Word: PERSON

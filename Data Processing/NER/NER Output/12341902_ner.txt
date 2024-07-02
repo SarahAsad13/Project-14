@@ -1,0 +1,78 @@
+EDUCATION OFFICER & SENIOR EDUCATION OFFICER GUIDANCE & COUNSELING UNIT: ORG
+the Ministry of Education: ORG
+1982: DATE
+seventeen and a half: CARDINAL
+years: DATE
+the Guidance Department: ORG
+1991: DATE
+1999: DATE
+Special Services Section: ORG
+the Guidance & Counseling Unit: ORG
+today: DATE
+the Guidance & Counseling Unit: ORG
+the past sixteen years: DATE
+two: CARDINAL
+42: DATE
+1999: DATE
+one hundred and thirty two: CARDINAL
+132: CARDINAL
+2015: DATE
+ninety-four: CARDINAL
+fourteen: CARDINAL
+the College of The Bahamas: ORG
+Kent State University: ORG
+a Master's of
+Education Degree Program in School Counseling: WORK_OF_ART
+2001 to 2011: DATE
+89: CARDINAL
+the Masters Degree: PRODUCT
+Degree: PERSON
+the Ministry of Education: ORG
+Dallas: GPE
+Texas: GPE
+Employee Assistance Program: WORK_OF_ART
+the Ministry of Education: ORG
+Pansy Hamilton Brown: PERSON
+Iris Strachan: PERSON
+Clevette Gibson: PERSON
+Erik Erikson: PERSON
+Solution: PERSON
+Critical: PRODUCT
+the Annual Careers Month & National Careers Fair: EVENT
+the month of October: DATE
+the school year: DATE
+Kent State University & The College of the Bahamas for the Masters: ORG
+School Counselling: ORG
+2002: DATE
+2003,after: CARDINAL
+Dallas: GPE
+Texas: GPE
+the Ministry of Education: ORG
+an estimated two thousand five hundred: CARDINAL
+National L.E.A.D Institute Bahamas Delegation: ORG
+North Carolina: GPE
+Facilities: FAC
+Education Officer & Senior Education Officer Guidance & Counseling Unit: ORG
+03/2015 Company Name
+
+Supervise Guidance Counselors: ORG
+Government School: ORG
+Bahamas: GPE
+1985: DATE
+Long Island University City: ORG
+State: GPE
+US: GPE
+1980: DATE
+Bethune Cookman College City: ORG
+State: GPE
+US: GPE
+St. Johns College: ORG
+Professional Affiliations
+
+Nassau Chapter of Links: ORG
+1979 - Present: DATE
+Association of School Counselors - 2010 - Present: ORG
+American School Counselors Association: ORG
+Assistance Professionals Association: ORG
+Resistance and Prevention Program: ORG
+Group: ORG

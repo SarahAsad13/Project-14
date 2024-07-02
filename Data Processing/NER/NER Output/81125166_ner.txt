@@ -1,0 +1,169 @@
+February 2008: DATE
+Tom Mosca: PERSON
+VP Manufacturing: ORG
+Research: ORG
+Design: PRODUCT
+Design: PRODUCT
+Whitney: FAC
+Trumpf: NORP
+Research: ORG
+Assist: NORP
+Provide: NORP
+Manufacturing Engineer: WORK_OF_ART
+October 2004 to February 2008: DATE
+Dave Rollison: PERSON
+Amada: GPE
+Maintain: PRODUCT
+Maintain: PERSON
+turret: PERSON
+Manufacturing Engineer: ORG
+September 2002 to October 2004: DATE
+Gary Albright: PERSON
+Amada: GPE
+Amada FMS: ORG
+Maintain: PRODUCT
+Train: GPE
+Prepare: ORG
+Time: ORG
+Assist: NORP
+Manufacturing Engineer: WORK_OF_ART
+October 1997 to September 2002: DATE
+Chuck Searfoss: PERSON
+Amada: GPE
+Behrens turret: PERSON
+Trumpf: NORP
+Trumpf: NORP
+Programming of Motoman 2-head robotic welding cell
+
+Creation of shop floor routings for parts and assemblies
+Design: WORK_OF_ART
+Design: PRODUCT
+Research: ORG
+Time: ORG
+Manufacturing Engineer: WORK_OF_ART
+February 1996 to September 1997: DATE
+Jim Nance: PERSON
+Amada: GPE
+Amada FMS: ORG
+Amada: GPE
+Design: PRODUCT
+Research: ORG
+Assist: NORP
+Time: ORG
+Mechanical Engineer: ORG
+December 1993 to January 1996: DATE
+Bill Higgins: PERSON
+Create: ORG
+Amada: GPE
+turret: PERSON
+MG: ORG
+Redesign: GPE
+March 1993 to December 1993: DATE
+Dave Whalen: PERSON
+Proficiencies and Training: AutoCAD: WORK_OF_ART
+2012: DATE
+Digital Resources: ORG
+Punch/Plasma: LOC
+Amada Punch: PERSON
+Plasma/Laser: ORG
+Motoman: PERSON
+MIG/TIG
+Welding: ORG
+Syman: PERSON
+MS Excel: ORG
+MS Word: PERSON
+MS Outlook: PERSON
+EncompixDie Setting Training: ORG
+Lean Manufacturing Training: ORG
+5S/Kaizen Event/: ORG
+Kanban Training: PERSON
+A-B PLC Training: ORG
+Pacific: LOC
+400 ton: QUANTITY
+60: CARDINAL
+Raleigh NC: ORG
+Hershey Medical Center - design: ORG
+Southern Environmental: ORG
+Hardox: ORG
+450: CARDINAL
+Johnson Controls - design: PERSON
+24: CARDINAL
+Kenworth: PERSON
+Peterbilt: GPE
+Lutron Electronics: ORG
+Ericsson Telecommunications - design: ORG
+ATM: ORG
+NCR: ORG
+Better Engineering -
+design: ORG
+Playworld Systems: ORG
+Crest Audio: PERSON
+Vulcan Hart: PERSON
+ITW: ORG
+Wolf Range: PERSON
+Vulcan Hart - design: ORG
+Fleetwood Motorhomes - robotic: ORG
+Alaska: GPE
+Keystoker: ORG
+Leisure Line: ORG
+Reading Stove: PERSON
+Trafcon Inc: ORG
+Morrison Truck: PERSON
+B.S.: GPE
+West Virginia Institute of Technology: ORG
+State: GPE
+US: GPE
+West Virginia Institute of Technology Montgomery: ORG
+B.S.: GPE
+December, 1992: DATE
+Skills
+Welding: ORG
+Automotive: ORG
+Automotive Cnc, Cnc, Cnc Programming: ORG
+Shop Floor: ORG
+Tooling: GPE
+Amada: GPE
+Engineer: ORG
+Maintenance, Customer Service: ORG
+Receptionist: NORP
+Manufacturing Engineer: ORG
+Cost Estimating: ORG
+Problem Solving: PERSON
+Plasma, Brakes, Stamping: ORG
+Automotive
+Stamping: ORG
+Continuous Improvement: PERSON
+Press Brake: PERSON
+Proposals: GPE
+Press Brakes: PERSON
+Laser: ORG
+Motoman, Robotic, Robotic Welding: ORG
+Strippit: ORG
+Turret Press: PERSON
+Hand Tools: PERSON
+Quality Control, Scheduling, Design For Manufacturing, Inspection, Collection, Flux Core, Load
+Calculations: ORG
+Engineer: WORK_OF_ART
+Structural Steel: ORG
+Structural Steel Design: ORG
+Compressors, Inventory, Machining, Manufacturing Process: ORG
+Powder Coating: ORG
+Project Management, Shear, Sorting, Total
+Project Management, Lasers: ORG
+Autodesk: PERSON
+Cabinets, Chassis, Circuit Board: ORG
+Control
+Panel: ORG
+Designer: ORG
+Electrical Schematics: ORG
+Excel: PRODUCT
+Kaizen: PERSON
+Kanban: ORG
+Lean Manufacturing: ORG
+Mig: ORG
+Ms Excel: PERSON
+Ms Outlook: PERSON
+Ms Word: PERSON
+Ncr, Outlook, Purchasing, Schematics, Stainless Steel: ORG
+Stamping Press: ORG
+Tig Welding: ORG

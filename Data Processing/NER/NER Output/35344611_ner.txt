@@ -1,0 +1,42 @@
+Detail: PERSON
+Human Resources Association: ORG
+Motivated
+Hiring: WORK_OF_ART
+Background: FAC
+Name City: GPE
+State: ORG
+HR - Shared Services Supervisor 01/2014: ORG
+Partnered: PRODUCT
+Advocate: ORG
+H.R.: PERSON
+Name City: GPE
+State Operations: ORG
+10: CARDINAL
+250: CARDINAL
+annual: DATE
+Name City: GPE
+State Action Response Team: ORG
+the Action Response Team: ORG
+Represented: ORG
+over 100: CARDINAL
+Name City: GPE
+550: CARDINAL
+30: CARDINAL
+New Hire Classes: ORG
+20: CARDINAL
+2 quarters of fiscal year: DATE
+80 percent: PERCENT
+Provided New Hire Policies & Procedure: ORG
+approximately 350: CARDINAL
+Knowledge: PERSON
+Conferred: ORG
+weekly: DATE
+Collaborated with Human Resources: ORG
+City: GPE
+GPA: ORG
+3.73: CARDINAL
+Human Resources Management: ORG
+Healthcare Management: ORG
+Customer Satisfaction: PERSON
+Human Resources: ORG
+Policies: GPE

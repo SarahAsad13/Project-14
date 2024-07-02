@@ -1,0 +1,20 @@
+30Â years: DATE
+Committed: ORG
+100%: PERCENT
+Name City: GPE
+sicilian stromboli: PERSON
+day: DATE
+Cashier: PERSON
+Name City: GPE
+State: ORG
+day: DATE
+House: ORG
+Painted: ORG
+Applied: ORG
+Bid: PERSON
+some holidays and weekends: DATE
+Sprayed: PERSON
+1986: DATE
+School City: GPE
+State: ORG
+100%: PERCENT

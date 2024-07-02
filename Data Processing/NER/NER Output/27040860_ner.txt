@@ -1,0 +1,45 @@
+Skills Profile: ORG
+More
+than 10 years: DATE
+Microsoft Office: ORG
+OpenWells, Spotfire: ORG
+SAP: GPE
+Concur: ORG
+QuickBooks: ORG
+Adobe Ability: PERSON
+Keen: PERSON
+2016: DATE
+State: ORG
+State: ORG
+Mar 2010: PERSON
+Dec 2010: DATE
+Main: GPE
+Jan 2010: DATE
+Utilized: ORG
+Outlook: PERSON
+Excel: PRODUCT
+PeopleNet: ORG
+FreightLink: PERSON
+2009: DATE
+Training
+Bachelor of Science , Sociology Business Management: PERSON
+Purdue University: ORG
+State Sociology Business Management 4: ORG
+Softball Scholar: ORG
+Dean: PERSON
+Interests
+Volunteered: ORG
+Kenya: GPE
+Simiyu House: ORG
+Volunteered: GPE
+Peru: GPE
+Peruvian: NORP
+Skills: ORG
+Excel: PRODUCT
+Outlook, Publisher: ORG
+Word: PERSON
+Kenya: GPE
+Simiyu House: ORG
+Volunteered: GPE
+Peru: GPE
+Peruvian: NORP

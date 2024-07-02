@@ -1,0 +1,76 @@
+SR: ORG
+Highlights
+Microsoft Office Suite: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Sr: ORG
+July 2006: DATE
+Department of Watershed Management: ORG
+DWM: ORG
+DWM: ORG
+Department: ORG
+Atlantawatershed.org: ORG
+DWM: ORG
+Provide: NORP
+Office of Communications: ORG
+Develop: ORG
+DWM: ORG
+five-million gallon: QUANTITY
+Turner Field: ORG
+first: ORDINAL
+the City of Atlanta: GPE
+Green Stormwater Infrastructure Task Force: ORG
+FEMA: ORG
+Automated Meter
+Reading: PERSON
+Georgia Tech-Midtown Water Main Replacement Project: ORG
+Camp Creek Sewer Capacity Relief Project: FAC
+Valves: GPE
+Hydrants Assessment: PERSON
+the Sewer System Evaluation Survey: ORG
+Sewer Rehabilitation Program: ORG
+Public Information Managers and Public Information Officers: ORG
+Watershed Management: ORG
+Georgia Engineer: ORG
+the City of: GPE
+Atlanta: GPE
+January 2010 to January 2011 Company Name: DATE
+2012: DATE
+March 2005 to June 2006 Company Name: DATE
+Atlanta: GPE
+weekly: DATE
+Airport: ORG
+monthly: DATE
+HJN News: ORG
+Managed Department of Aviation's: ORG
+Speakers Bureau: ORG
+Hartsfield-Jackson Airport: ORG
+May 2000 to March 2005: DATE
+Transportation Board: ORG
+GDOT: ORG
+Coordinated: ORG
+Speakers Bureau: ORG
+Monitored: ORG
+the Georgia General Assemblies: ORG
+Masters of Public Administration Troy University: ORG
+English University: ORG
+English: LANGUAGE
+Work History
+Company Name
+Company Name
+Company Name
+Professional Affiliations
+Public Relations Society of America - Georgia Chapter: WORK_OF_ART
+Black Public Relations: ORG
+DeKalb County - Public Relations & Technology Chair: GPE
+2012-2013: DATE
+2009-2010: DATE
+Engineer: ORG
+Mac: PERSON
+Access, Excel: ORG
+Microsoft Office Suite: ORG
+Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Transportation: ORG

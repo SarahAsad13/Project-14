@@ -1,0 +1,67 @@
+Electrical, Mechanical: ORG
+Pneumatic: LOC
+Interpretation of schematics: ORG
+Quick: ORG
+Resolve: PERSON
+Document: FAC
+AC/DC: ORG
+Electrical Power Generation
+Data Acquisition: PRODUCT
+Environmental/ESS Chamber: ORG
+Pneumatic: LOC
+Solenoid: PERSON
+Lock out/Tag: WORK_OF_ART
+Arc Flash: PERSON
+Live Electrical: ORG
+ESD: ORG
+Troubleshot: PERSON
+AOG: ORG
+Delta Airlines: ORG
+Production, Repair & Overhaul: ORG
+TESR: ORG
+Electricians: ORG
+Facilities: ORG
+Electrical Power Generation: ORG
+Fuel/Advance Controls and Sensors, Electronics: ORG
+Environmental Labs: PERSON
+07/2013 Company Name City: NORP
+ohm meters: PERSON
+9001: DATE
+Unmanned Aerial Vehicle: ORG
+Name City: GPE
+Electrical Power Generation Equipment Repairer: ORG
+U.S. Army: ORG
+Ft: GPE
+AZ: ORG
+1998: DATE
+UAV Maintenance Technician Common: PERSON
+U.S. Army: ORG
+Ft: GPE
+AZ: ORG
+1998: DATE
+Power Generation Equipment Repairer: ORG
+U.S. Army: ORG
+Aberdeen Proving Ground: ORG
+MD: GPE
+1996: DATE
+Power Generation Equipment Repairer: ORG
+U.S. Army: ORG
+Aberdeen Proving Ground: ORG
+MD: GPE
+1996: DATE
+â€¢Diploma: NORP
+Pueblo High School: ORG
+Tucson: GPE
+AZ: ORG
+1996: DATE
+State: GPE
+U.S: GPE
+2 years: DATE
+Skills
+
+Live Electrical: ORG
+Arc Flash: PERSON
+Lock-Out/Tag-Out,: WORK_OF_ART
+ESD: ORG
+ISO-9001: PRODUCT
+Power Generation: PRODUCT

@@ -1,0 +1,42 @@
+ten years: DATE
+Driven: ORG
+Microsoft Office Proficient: ORG
+Committed to Excellence MS Office: ORG
+Project
+Business: ORG
+Problem: PRODUCT
+Senior Exercise Specialist & Sports: ORG
+Directed: ORG
+CAD: ORG
+one year: DATE
+minutes: TIME
+Coordinated: ORG
+Marketed: ORG
+Safeway: ORG
+Networked: PRODUCT
+Plus One: PRODUCT
+Maintained: GPE
+Safeway: ORG
+Specialist & Coordinator 07/2013: ORG
+State
+Fitness Strategy Specialist: ORG
+Name City: GPE
+obese: NORP
+one: CARDINAL
+11/2010: CARDINAL
+Name City: GPE
+Completed: ORG
+daily: DATE
+month-end: DATE
+quarter-end: DATE
+Utilized: ORG
+Maintained: GPE
+Project Management University of Wisconsin City: ORG
+State Project Management
+B.S :: ORG
+Kinesiology California State University Kinesiology
+Skills: ORG
+CAD: ORG
+Microsoft Office: ORG
+MS Office: ORG
+Problem: PRODUCT

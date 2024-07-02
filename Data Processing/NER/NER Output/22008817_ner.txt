@@ -1,0 +1,88 @@
+HEALTHCARE CONSULTING: ORG
+US: GPE
+EU: ORG
+Training: PERSON
+May 2013: DATE
+Health Information Technology University: ORG
+State: GPE
+Health Information Technology Executive: ORG
+April 2010: DATE
+Graduate School of Public Health University of Pittsburgh - City: ORG
+State: GPE
+USA: GPE
+April 2008: DATE
+State: GPE
+Professional German: NORP
+August 2005: DATE
+Intensive Language Studies Die Neue Schule - City: ORG
+State: GPE
+Germany: GPE
+Magna Cum Laude: PERSON
+Health Administration: ORG
+Skill Highlights: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+Visio & Access: ORG
+NextGen Electronic Practice Management Super User: ORG
+NextGen Electronic Health Record End User: ORG
+PeopleSoft Financials & Supply Chain Management
+Lawson Supply Chain Management
+
+Professional Experience: ORG
+10/2013: CARDINAL
+Current
+Healthcare Consulting Project Associate Company Name - City: ORG
+State: ORG
+Oversee: ORG
+Manage: PRODUCT
+Build: GPE
+Negotiate: ORG
+GPO: ORG
+Facilitate: ORG
+Facilitate: ORG
+Develop: ORG
+30: MONEY
+Validate: ORG
+Slash: ORG
+annual: DATE
+06/2011: CARDINAL
+Administrative Fellow Company Name - City: ORG
+Centralize Program Registration and Benefits Assistance: ORG
+two: CARDINAL
+two: CARDINAL
+7: CARDINAL
+new clinics: ORG
+Primary: PERSON
+28: CARDINAL
+Oversee: ORG
+quarterly: DATE
+over 100: CARDINAL
+Hire: ORG
+Centex System Support Services: ORG
+Oversee: ORG
+NextGen: ORG
+ADP: ORG
+36: CARDINAL
+10: CARDINAL
+7: CARDINAL
+Lead: PERSON
+Joint Commission: ORG
+Accomplishments
+Manage: PRODUCT
+daily: DATE
+zero: CARDINAL
+Restructure: PERSON
+11%: PERCENT
+Design Explorative Technology Front Office Workflow Redesign: ORG
+Establish University of Texas Health Information Technology: ORG
+Administrative Resident Company Name - City: ORG
+Contractor, Pilot Immersion Program Company Name - City: ORG
+Identify: PRODUCT
+Redesign: PERSON
+Apply Six Sigma: WORK_OF_ART
+ADP: ORG
+Front Office: ORG
+German: NORP
+Health Information Technology: ORG
+Workflow: ORG

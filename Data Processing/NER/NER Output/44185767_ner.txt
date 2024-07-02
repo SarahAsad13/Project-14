@@ -1,0 +1,90 @@
+Career Overview
+Solutions: ORG
+Business Analysis: ORG
+Project Management: ORG
+ERP Systems: ORG
+Qualifications
+
+Technical Project Management: ORG
+Client Facing: PERSON
+Created: ORG
+4000 hours: TIME
+Information Management and Communication: ORG
+5%: PERCENT
+ERP: ORG
+Cultivated: ORG
+Name City: GPE
+the Air Transit Industry: ORG
+Technical Project: ORG
+twenty-two: CARDINAL
+over $5M
+: MONEY
+Created Professional Continuum: ORG
+500: CARDINAL
+the SITA Service Group: ORG
+SGS: ORG
+Agile: ORG
+3rd: ORDINAL
+Oversaw: GPE
+second: ORDINAL
+QA: ORG
+third: ORDINAL
+10/2013: CARDINAL
+Name City: GPE
+Agile: ORG
+200: MONEY
+Information Technology Specialist 05/2009: ORG
+Name City: GPE
+the US Army's Government Fund Enterprise Business System: ORG
+the US Army's: ORG
+Integrated Personnel and Pay System-Army: ORG
+Stakeholders: NORP
+Created: ORG
+Root Cause Analysis: ORG
+Information Management: ORG
+Afghanistan: GPE
+Agile: ORG
+Information Management: ORG
+Afghanistan: GPE
+US Army: ORG
+NATO: ORG
+Collaborated: ORG
+Pre-Sales Management Consultant Inside Sales: ORG
+12/2005: CARDINAL
+Name City: GPE
+ERP: ORG
+Prepared: PERSON
+Visio: PERSON
+IT Service Management: ORG
+Integration/User: ORG
+the SAP Practice Facilitated: ORG
+ERP: ORG
+Communicated: ORG
+Technician 12/1992: DATE
+Name City: GPE
+Managed Network Operations Center: ORG
+NOC: ORG
+third: ORDINAL
+Training
+ITIL Foundation: ORG
+Universtiy City: GPE
+State: ORG
+Organizational Management
+
+Bachelor of Science : Industrial Technology & Education Montclair State University City: ORG
+State
+Coursework in Information Management and Business Administation
+Minor: ORG
+Education: ORG
+Skills
+Agile: ORG
+Army: ORG
+ERP: ORG
+Functional, Government: ORG
+ITIL: ORG
+Team Lead: PERSON
+Enterprise: ORG
+Network: ORG
+Personnel: ORG
+SAP: GPE
+SDLC: GPE

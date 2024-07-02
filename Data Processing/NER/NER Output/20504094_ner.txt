@@ -1,0 +1,84 @@
+Customer Service Representative: ORG
+Buyer
+Highlights
+
+Office Management
+Team Building & Supervision
+Staff Development & Training
+Policies & Procedures Manuals
+Report & Document Preparation
+Spreadsheet & Database Creation
+Accounts Payable / Receivable
+Bookkeeping & Payroll
+Records Management
+Meeting & Event Planning
+Inventory Management
+Expense Reduction: FAC
+Document Controller: PERSON
+April 2016 to May 2016: DATE
+State
+
+Administration: ORG
+MS: ORG
+QA: ORG
+RA Leadership: ORG
+Contribute: ORG
+Quality Management: ORG
+Rental Coordinator: ORG
+August 2013 to December 2015: DATE
+daily: DATE
+Assist: ORG
+Assist: NORP
+Coordinate: FAC
+daily: DATE
+Provide: NORP
+Projects: ORG
+July 2011 to July 2012: DATE
+March 2008 to December 2008: DATE
+QuickBooks Conduct: ORG
+Distribute: ORG
+Business Customer Service: ORG
+December 2003 to January 2008: DATE
+daily: DATE
+Oversee: ORG
+daily: DATE
+daily: DATE
+Customer Service: ORG
+Plant Operations: ORG
+Maintain: PERSON
+daily: DATE
+R & D Engineering: ORG
+Plant Operations and Customers: ORG
+August 2002 to June 2003: DATE
+Accounts Payable: ORG
+Correspond: PERSON
+Coordinate: FAC
+Document Control: ORG
+May 1997: DATE
+May 1999: DATE
+BOM: ORG
+Customer P.O.: ORG
+Oversee: ORG
+daily: DATE
+1997: DATE
+Kelly Services: ORG
+City: GPE
+State Microsoft Office: ORG
+Hopkinsville Community College: ORG
+Accounts Payable: ORG
+Schedule: PERSON
+Customer Service: ORG
+Database Creation: ORG
+Staff Development & Training, Event Planning: ORG
+Inventory Management: ORG
+Team Building: ORG
+Microsoft Office Suite: ORG
+Office Management: ORG
+Payroll: ORG
+Policies: GPE
+Quality, Quality Management: ORG
+QA: ORG
+QuickBooks: ORG
+Maintain: PRODUCT
+Spreadsheet, Supervision: ORG
+Troubleshoot: ORG

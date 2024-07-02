@@ -1,0 +1,65 @@
+Highlights
+
+MS Office: ORG
+NetSuite: ORG
+Social Media: ORG
+Networks: ORG
+Account Management: ORG
+Team Player
+Operations Management
+Eye: ORG
+Detail
+Computer-Savvy
+Community Outreach: PERSON
+New Customer Acquisition: ORG
+Interpersonal Skills: ORG
+20: CARDINAL
+Columbus: GPE
+Operations Coordinator: ORG
+March 2016: DATE
+Current Company Name - City: ORG
+State
+
+Human Resources Administrator: ORG
+Portland: GPE
+Payroll Administrator
+Managed: ORG
+Maintained: GPE
+Facilitated: ORG
+Created: ORG
+weekly: DATE
+monthly: DATE
+June 2015 to March 2016: DATE
+Maintained: GPE
+Facilitated: ORG
+Created: ORG
+weekly: DATE
+daily: DATE
+Language Arts Instructor: WORK_OF_ART
+August 2013 to August 2015: DATE
+Maintained: GPE
+daily: DATE
+Created: ORG
+daily: DATE
+one: CARDINAL
+Communicated: ORG
+June 2009 to: DATE
+Bachelor of Science : Elementary Education: ORG
+2012: DATE
+Ball State University - City: ORG
+Emphasis: ORG
+Educational Technology: ORG
+English: LANGUAGE
+Creative Writing: PERSON
+Skills
+Account Management, Articulate, Billing, Business Development: ORG
+Interpersonal Skills: ORG
+Contracts: ORG
+Creative Writing: PERSON
+Emergency Preparedness: PERSON
+English: LANGUAGE
+Lesson Planning: ORG
+Networking, Operations Management: ORG
+Public Relations: ORG
+Team Player: ORG
+Phone Answering: ORG

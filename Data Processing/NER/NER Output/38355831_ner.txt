@@ -1,0 +1,118 @@
+Mitsubishi: ORG
+the Aviation Maintenance Technician Airframe: ORG
+Powerplant: PERSON
+SkyWest Airlines: ORG
+Associates: ORG
+EMS: ORG
+Air Methods: ORG
+Air Methods: ORG
+Bell Helicopters: ORG
+Airbus Helicopters: ORG
+Problem: PRODUCT
+Salt Lake Community College: ORG
+four: CARDINAL
+Salt Lake Community College: ORG
+Associates: ORG
+Aviation Technology: ORG
+GPA: ORG
+3.89: CARDINAL
+2nd: ORDINAL
+USA: GPE
+Current Company Name City: ORG
+State: ORG
+BK117-C2: PRODUCT
+Bell: ORG
+206: CARDINAL
+Bell 407: ORG
+Bell 430: ORG
+Pilatus PC-12: PRODUCT
+BK117-C2: PRODUCT
+Name City: GPE
+Gained: NORP
+Embraer Brasilia: PERSON
+Bombardier CRJ-200 series: PERSON
+Performed: ORG
+Automotive Technician 09/2004: ORG
+Mitsubishi: ORG
+Automotive Technician 06/2003: ORG
+Name City: GPE
+Mitsubishi: ORG
+One: CARDINAL
+1: CARDINAL
+1: CARDINAL
+2: CARDINAL
+2013: CARDINAL
+Turbomeca: NORP
+State: GPE
+USA: GPE
+1: CARDINAL
+1: CARDINAL
+2: CARDINAL
+Turbomeca Training: PERSON
+Model EC145: PERSON
+BK117 C2): PRODUCT
+2012: DATE
+State: GPE
+USA: GPE
+Completed Model EC145: PERSON
+BK117 C2): PRODUCT
+American Eurocopter: ORG
+One: CARDINAL
+407 Electrical Maintenance Training 2011: ORG
+State: GPE
+USA: GPE
+Completed Model 407 Electrical Maintenance Training Course: ORG
+Bell Helicopter Training Academy: ORG
+One: CARDINAL
+250: CARDINAL
+2010: DATE
+Rolls-Royce City: ORG
+State: GPE
+USA: GPE
+Completed Rolls-Royce: ORG
+250: CARDINAL
+Rolls-Royce Regional: ORG
+Greg Houston: PERSON
+One: CARDINAL
+2010: DATE
+State: GPE
+1: CARDINAL
+Grey Owl: ORG
+One: CARDINAL
+407 Field Maintenance Training Course: ORG
+2007: DATE
+State: GPE
+USA: GPE
+Bell Helicopter Training Academy: ORG
+One: CARDINAL
+State: GPE
+Associate of Science : Aviation Technology: WORK_OF_ART
+Salt Lake Community College City: ORG
+State: GPE
+USA: GPE
+Powerplant: PERSON
+USA: GPE
+2nd: ORDINAL
+2003: DATE
+Barber Brothers: ORG
+Mitsubishi City: GPE
+State: GPE
+Competed: ORG
+Automotive: GPE
+four: CARDINAL
+Salt Lake Community College: ORG
+2nd: ORDINAL
+USA: GPE
+GPA: ORG
+3.89: CARDINAL
+Mitsubishi MUT II: ORG
+Mitsubishi New Model: ORG
+Mitsubishi MEDIC: ORG
+2003: DATE
+Woods Cross High School City: ORG
+State: GPE
+USA: GPE
+Automotive: GPE
+Skills
+
+Aviation systems: ORG

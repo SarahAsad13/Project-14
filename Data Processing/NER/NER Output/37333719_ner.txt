@@ -1,0 +1,26 @@
+SEXUAL ASSAULT CRISIS COUNSELOR / VICTIM: ORG
+Core Qualifications: ORG
+Microsoft Office: ORG
+General Computer: ORG
+Education: ORG
+August 2012: DATE
+Social Work Fordham University: ORG
+ï¼​ City: GPE
+May 2009: DATE
+Bachelor of Arts : Social Services Quinnipiac University: ORG
+State Social Services: ORG
+May 2006: DATE
+Associate of Science : Human Services: WORK_OF_ART
+Naugatuck Valley: PERSON
+State Human Services: ORG
+02/2013: CARDINAL
+One: CARDINAL
+one: CARDINAL
+Legislative Advocacy Committee Liaison: ORG
+Clinical Social Work Intern Company Name: ORG
+20 - 30: CARDINAL
+Community Educator Intern Company Name: ORG
+Supervisor Company Name: WORK_OF_ART
+Social Work Intern Company Name: ORG
+Skills
+Active Listening, Curriculum Development: ORG

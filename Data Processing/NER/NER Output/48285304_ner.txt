@@ -1,0 +1,74 @@
+FINANCE: ORG
+Operations: ORG
+Highlights
+
+Operations Management: ORG
+Audits
+Logistics
+Accounting
+P&L Management
+Business Development
+Quality Assurance & Control
+Collection Management
+Proficient: ORG
+Excel: PRODUCT
+MS Access: ORG
+MS Project: GPE
+Quicken: GPE
+MS PowerPoint: PERSON
+Inoviswork: ORG
+SAP: ORG
+Oracle ERP: ORG
+Kronos: PERSON
+32 %: PERCENT
+45%: PERCENT
+one year: DATE
+2 million dollar: MONEY
+30%: PERCENT
+40 %: PERCENT
+underÂ  4 months: DATE
+Product Management and Purchasing Team: ORG
+SEC/FINRA: ORG
+Completed: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+11: CARDINAL
+18001: DATE
+18001: DATE
+annual: DATE
+4: CARDINAL
+Recruited: PRODUCT
+20: CARDINAL
+Store Management
+Ensure: ORG
+11/2012: CARDINAL
+Operations: ORG
+Organize: GPE
+20%: PERCENT
+first year: DATE
+one: CARDINAL
+ROI: ORG
+13%: PERCENT
+2008: DATE
+State: ORG
+2012: DATE
+Duke University Law School ï¼​ City: ORG
+Skills
+Accounting: ORG
+Business Development: ORG
+Customer
+Relations: ORG
+ERP: ORG
+Forecasting: ORG
+Kronos: ORG
+Logistics: ORG
+MS
+Access: ORG
+Excel: PRODUCT
+MS PowerPoint: PERSON
+MS Project: ORG
+Operations Management: ORG
+Quality Assurance: GPE
+Quicken: PERSON
+SAP: ORG

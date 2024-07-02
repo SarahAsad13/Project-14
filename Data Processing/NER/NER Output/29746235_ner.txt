@@ -1,0 +1,68 @@
+SECURITY: ORG
+Data: ORG
+Client: GPE
+Team: ORG
+2017: DATE
+â€¢ Huge: WORK_OF_ART
+â€¢ Outstanding: PRODUCT
+â€¢ Thorough: PRODUCT
+â€¢ Good: PRODUCT
+â€¢ Familiarity: PRODUCT
+â€¢ Amazing: PRODUCT
+â€¢ Ability: PRODUCT
+â€¢ Immense: PRODUCT
+â€¢ Remarkable: PRODUCT
+daily: DATE
+01/2016: ORG
+University: ORG
+Residential Life: ORG
+40: CARDINAL
+Residential Life: ORG
+University: GPE
+Residential Life: ORG
+Health and Safety Inspections
+Other duties as: ORG
+01/2016: CARDINAL
+CPR: ORG
+Safety: ORG
+Bachelor of Science : Wellness-Kinesiology: ORG
+Lincoln University - City: ORG
+Wellness-Kinesiology: ORG
+2013: DATE
+GC Foster College of Physical Education: ORG
+Sports - City: ORG
+70 Credit hours: TIME
+GC Foster College of Physical Education: ORG
+Spanish: NORP
+Jamaica: GPE
+12/2015: CARDINAL
+Lincoln University - City: ORG
+Shadow/Intern of Occupational Therapist and Physiotherapist: WORK_OF_ART
+12/2017: CARDINAL
+Recreational Therapist: ORG
+Team: ORG
+2014: DATE
+2017: DATE
+NCAA: ORG
+American: NORP
+2014: DATE
+NCAA: ORG
+2015 - 2017: DATE
+NCAA: ORG
+2017: DATE
+The National Consortium for Academic: ORG
+Award: PERSON
+2015: DATE
+Lincoln University Track and Field Award: ORG
+2015: DATE
+2016-2017: DATE
+2017: DATE
+Basic Psychiatric Training Course Certificate: ORG
+2017: DATE
+Lincoln University School of Education Honors Convocation Certificate of Excellence: ORG
+2017: DATE
+Jefferson City High School Cross: ORG
+LU Homecoming Parade: ORG
+weekly: DATE
+University: ORG
+Volunteer Track Coach: PERSON

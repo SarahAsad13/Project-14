@@ -1,0 +1,47 @@
+Highlights: GPE
+Superb Customer/Client: PERSON
+11/2008: CARDINAL
+02/2016 Company Name: PRODUCT
+1200: CARDINAL
+C&W Railway: ORG
+Relations-: ORG
+Collective Bargaining Agreements: WORK_OF_ART
+Talent Acquisition- Collaborated: ORG
+Onboarding & Orientation- Managed: ORG
+hourly: TIME
+Conducted: ORG
+731: CARDINAL
+5 years: DATE
+3: CARDINAL
+10-15: CARDINAL
+8 weeks: DATE
+Applicant Tracking Systems: ORG
+North American: NORP
+the Employee Referral Program: ORG
+first: ORDINAL
+SAFEbuilt: NORP
+first: ORDINAL
+weekly: DATE
+Clerk Typist: PERSON
+08/2008: PERSON
+11/2008: DATE
+Maintained: GPE
+02/2002: WORK_OF_ART
+Replenishment Team: ORG
+$3M dollar: MONEY
+Replenishment Team: ORG
+$3M dollar: MONEY
+hourly: TIME
+daily: DATE
+Education: ORG
+Colorado State University: ORG
+Merchandising Apparel: PERSON
+Interpersonal Skills, Council: ORG
+Customer
+Service Skills: ORG
+Decision Making: ORG
+HRIS: ORG
+Human Resources: ORG
+Interpretation, Labor Relations: ORG
+Lisa: PERSON
+Problem Resolution: PERSON

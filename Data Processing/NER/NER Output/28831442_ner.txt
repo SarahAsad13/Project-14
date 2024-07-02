@@ -1,0 +1,81 @@
+Delight: PERSON
+4+ years: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: PRODUCT
+January 2010: DATE
+January 2012: DATE
+CGCC: ORG
+T.V.
+Commercials: ORG
+January 2011: DATE
+January 2012: DATE
+P.A.C.K.: GPE
+GPA: ORG
+January 2012: DATE
+May 2012: DATE
+the Light Feet Project: LAW
+the beginning of the spring: DATE
+the Light Feet: LAW
+the Pecos/Williams Field
+Campus: ORG
+African American: NORP
+100: CARDINAL
+the Light Feet Project: LAW
+Malawi: GPE
+Africa: LOC
+05/14/15: CARDINAL
+Bayfront Medical Center: ORG
+Florida: GPE
+Bayfront: PERSON
+NICU: ORG
+Education: ORG
+December 2015: DATE
+Arizona State University: ORG
+Chandler Gilbert Community College B.S: ORG
+GPA: ORG
+3.22 M. Scholarship Recipient: PERCENT
+CGCC: ORG
+CGCC: ORG
+Biochemistry GPA: PERSON
+3.22 Accomplishments Community: MONEY
+S.T.E. M. Scholarship Recipient: PERSON
+CGCC: ORG
+CGCC: ORG
+Society First Generation College Student: ORG
+Arizona State University B.S: ORG
+Biochemistry Biochemistry
+Interests: PERSON
+2012-2013: DATE
+Kappa Chandler-Gilbert Community College: PERSON
+Theta Kappa: PERSON
+five: CARDINAL
+Theta Kappa: PERSON
+11/22/2010: DATE
+Chandler-: CARDINAL
+Gilbert Community College Pecos Campus Department of Service Learning
+Personal Information: ORG
+Thanksgiving: EVENT
+2012-2013: DATE
+Kappa Chandler-Gilbert Community College: PERSON
+Theta Kappa: PERSON
+five: CARDINAL
+Theta Kappa: PERSON
+11/22/2010: DATE
+Chandler-Gilbert Community College Pecos Campus Department of Service Learning: ORG
+Thanksgiving: EVENT
+Into The Streets - Citrus: WORK_OF_ART
+the National Food Bank: ORG
+Chandler-Gilbert Community College Pecos Campus Department of Service
+Learning This: ORG
+the National Food Bank: ORG
+Citrus: FAC
+the Food Bank: ORG
+11/09/10: CARDINAL
+Banquet Chandler-Gilbert Community College Pecos: PERSON
+CGCC: ORG
+2015: DATE
+Volunteer: PERSON
+Camp Kesem: FAC
+Camp Kesem: FAC
+This summer: DATE

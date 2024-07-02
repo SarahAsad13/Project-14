@@ -1,0 +1,42 @@
+Sports Management: ORG
+Skills
+
+Strong: ORG
+Communication: ORG
+May 2017 to August 2017: DATE
+May 2013 to May 2014: DATE
+Maintained: GPE
+June 2011 to June 2014: DATE
+Molded: PERSON
+Training
+Bachelor of Arts : Communication: PERSON
+Current Sports Management: ORG
+Texas A&M University: ORG
+ï¼​ City: GPE
+State Communication: ORG
+3.481: CARDINAL
+October 2015-: DATE
+Community Relations: ORG
+Volunteer: PERSON
+Summer 2016-: DATE
+Delta: LOC
+Delta Delta: LOC
+Fall 2015-current: DATE
+St. Jude: GPE
+Delta Delta Delta: LOC
+Fall 2016-current: DATE
+Membership: GPE
+Skills
+Strong: ORG
+Activities and Honors
+National Honors Society of Leadership and Success: WORK_OF_ART
+Delta Delta Delta Professional Summary Personable: ORG
+Volunteer: PERSON
+October 2015-: DATE
+Summer 2016-: DATE
+Delta Delta Delta: LOC
+Fall 2015-current: DATE
+St. Jude: GPE
+Delta Delta Delta: LOC
+2016: DATE
+Membership: GPE

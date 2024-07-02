@@ -1,0 +1,83 @@
+10 years: DATE
+Core Qualifications
+Excellent: ORG
+CPR: ORG
+First: ORDINAL
+Behavioral: ORG
+Goal Setting and Implementation
+
+Regularly met: WORK_OF_ART
+30 day: DATE
+reviews &: ORG
+annual: DATE
+Lesson Planning:
+
+Introduced: ORG
+30 Day: CARDINAL
+IEP: ORG
+Name City: GPE
+Counselor 11/2001: DATE
+daily: DATE
+Supervisor and Coworkers: WORK_OF_ART
+Teachers and Parents: ORG
+10/1999: CARDINAL
+11/2001: CARDINAL
+Name City: GPE
+Human Resource Department: ORG
+11/2001: CARDINAL
+Name City: GPE
+daily: DATE
+Supervisor and Coworkers: WORK_OF_ART
+Teachers and Parents: ORG
+10/1997: CARDINAL
+Name City: GPE
+hours: TIME
+Board: ORG
+annually: DATE
+Board: ORG
+Executive: ORG
+the Board of Trustees: ORG
+Teller/Bank: ORG
+Name City: GPE
+PNC bank: ORG
+Inward Call Activation Representative: ORG
+Name City: GPE
+one: CARDINAL
+Name City: GPE
+one: CARDINAL
+one: CARDINAL
+05/1995 Company Name City: ORG
+12-18 month old: DATE
+day: DATE
+Training
+Master's of Science : Human Resource Management: WORK_OF_ART
+St. Joseph's University City: GPE
+Human Resource Management
+
+Bachelor of Science : Social Relations: ORG
+5 1994: DATE
+Cheyney University of Pennsylvania City: ORG
+Community Involvement
+
+Work: ORG
+ages 5-7: DATE
+New Life: ORG
+the Garden Ministry: FAC
+every first Sunday of the month: DATE
+Affiliations: ORG
+Coatesville Brandywine: PERSON
+Coatesville Brandywine: PERSON
+Administrative: ORG
+AOL: ORG
+Budget, Business Works: ORG
+Email: PERSON
+Human Resource: ORG
+Lotus: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+98: CARDINAL
+Outlook, Power Point: ORG
+2000: DATE
+Netscape Navigator: ORG
+SAP: ORG
+Supervisor: PERSON

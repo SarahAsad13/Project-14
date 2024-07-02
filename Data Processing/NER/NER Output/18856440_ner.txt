@@ -1,0 +1,72 @@
+Microsoft Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Detail: PERSON
+Team: ORG
+Customer Service: ORG
+January 2010: DATE
+Current Consultant 
+City: PERSON
+Educate: ORG
+Recruit: ORG
+Tupperware: ORG
+June 2008 to January 2015: DATE
+October 2010 to: DATE
+April 2011: DATE
+Replenished: PERSON
+Processed: GPE
+March 2006 to June 2010 Day: DATE
+Established: ORG
+Coordinated: ORG
+Monitored: ORG
+28 years: DATE
+Redirected: ORG
+Created: ORG
+daily: DATE
+the day: DATE
+daily: DATE
+Maintained: GPE
+June 2002 to: DATE
+2: CARDINAL
+September 2001: DATE
+May 2003: DATE
+Cook: PERSON
+Cleaned: ORG
+Performed: ORG
+Prepared: PRODUCT
+Stored: PRODUCT
+Completed: ORG
+December 1998 to: DATE
+April 2002: DATE
+State: ORG
+Monitored: ORG
+University of Phoenix Jun 2014 Associates: ORG
+General Studies Healthcare Administration City: ORG
+State
+
+Health Information Administration: ORG
+State: ORG
+Springfield College of Beauty Dec 1998: ORG
+Post Secondary Coursework: ORG
+Accounting/Business City: ORG
+Degree City: GPE
+State: ORG
+Lane Community College High School: ORG
+State: GPE
+US: GPE
+Shipping: PERSON
+Careful: PRODUCT
+Multi: GPE
+10: CARDINAL
+Customer Needs: ORG
+Customer Service: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Filing: GPE
+Telephone Skills: ORG
+Time Management, Travel
+Arrangements: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft PowerPoint: ORG
+Microsoft: ORG

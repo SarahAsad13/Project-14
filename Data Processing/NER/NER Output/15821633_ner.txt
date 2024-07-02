@@ -1,0 +1,65 @@
+ten years: DATE
+A-133 MS Office: ORG
+Accountant Company Name: ORG
+Child Support Cashier Collections: ORG
+$1.3 million: MONEY
+4,700: CARDINAL
+the Cashier Booth: PERSON
+Interpreted: ORG
+second: ORDINAL
+six: CARDINAL
+twelve: CARDINAL
+daily: DATE
+monthly: DATE
+Child Support: PRODUCT
+Pennsylvania Child Support Enforcement
+System: ORG
+09/2015: CARDINAL
+Administrative Specialist II Company Name: ORG
+City: GPE
+Examined: NORP
+SELF Inc.: ORG
+Quickbooks: PERSON
+quarterly: DATE
+approximately $100: MONEY
+Federal and State: ORG
+the Homeless Prevention and Rapid Re-Housing: ORG
+Child and Adult Care Food (CACFP: WORK_OF_ART
+09/2014
+Auditor II Company Name: ORG
+Standard Accounting Procedures: ORG
+CFDA: ORG
+Assessed Federal and State: ORG
+prior year's: DATE
+Prepared: PERSON
+Accountant Company Name: ORG
+300: CARDINAL
+550: MONEY
+Performed: ORG
+Examined: NORP
+six: CARDINAL
+Bachelor Business Administration: ORG
+Accounting Fox School of Business, Temple University ï¼​ City: ORG
+State Accounting
+Professional Affiliations: ORG
+Emergency Medical Services: ORG
+EMS: ORG
+only 60%: PERCENT
+Philadelphia Fire Department: ORG
+PFD: ORG
+less than nine minutes: TIME
+EMS: ORG
+Knighton Award: PERSON
+the National Association of Local Government Auditors: ORG
+Charter School Office: ORG
+51: CARDINAL
+63: CARDINAL
+81%: PERCENT
+the Association for Certified Fraud Examiners: ORG
+ACFE: NORP
+Skills
+Accounting: ORG
+Cashier: PERSON
+Catalog: PERSON
+Financial: ORG
+Quickbooks: PERSON

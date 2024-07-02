@@ -1,0 +1,57 @@
+FINANCE: ORG
+Summary
+Highly: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+monthly: DATE
+Highlights: GPE
+Microsoft Word: PERSON
+Microsoft Excel: ORG
+Financial Edge: ORG
+QuickBooks: ORG
+Skill Proficiencies: PERSON
+Finance: ORG
+November 2009 to October 2015: DATE
+State
+
+Prepare: ORG
+annual: DATE
+Financial Edge: ORG
+Compiles: PRODUCT
+annual: DATE
+Prepare: ORG
+October 2006 to July 2009: DATE
+Examined: ORG
+Maintained: GPE
+30: CARDINAL
+over 200: CARDINAL
+each month: DATE
+/Bookkeeper: GPE
+January 2006 to July 2006 Company Name - City: DATE
+State: ORG
+1099: DATE
+monthly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Researched: ORG
+Certified Public Accountants: ORG
+April 2003 to December 2005: DATE
+Maintained: GPE
+Microsoft Project: ORG
+Maintained: GPE
+QuickBooks: ORG
+Bachelor: ORG
+University of Central Oklahoma - City: ORG
+State Business Administration: ORG
+Accounts Payable: ORG
+Budget Preparation: ORG
+Edge: ORG
+Financial: ORG
+Financial Statements: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Project: ORG
+Microsoft: ORG
+Process Improvement: PERSON
+QuickBooks: ORG

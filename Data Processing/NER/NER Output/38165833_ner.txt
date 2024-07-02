@@ -1,0 +1,45 @@
+GOALS: PERSON
+Skills
+Excel: ORG
+Microsoft Office Read Schematics and Blue Prints: ORG
+Name City: GPE
+Supervisors: WORK_OF_ART
+Name City: GPE
+State: ORG
+Asst: PERSON
+Demurage: ORG
+Asst: PERSON
+Crew
+Company: PERSON
+Name City: GPE
+State: ORG
+Assembler Chrysler: PERSON
+McDonald Aircraft Co.: ORG
+Long Beach: GPE
+Calif.: GPE
+DC 8 Aircraft General Telephone Co.: ORG
+Long Beach: GPE
+Calif.: GPE
+Central Office Computers Tech: ORG
+Training
+Tuloso-Midway High School Corpus Christi: WORK_OF_ART
+Texas Diploma San Jacinto College Pasadena Texas: ORG
+60 Semester Hours: TIME
+Telephone Long
+Beach: PERSON
+Calif.: GPE
+4: CARDINAL
+Personal Information
+Non Smoker: ORG
+Drinker: PERSON
+Skills
+Automotive: ORG
+Consolidations: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+Read: GPE
+Telephone
+Additional Information
+
+PERSONAL INFORMATION: ORG
+Drinker: PERSON

@@ -1,0 +1,117 @@
+Site Strategies
+Divestitures Create: ORG
+120 days: DATE
+90 days: DATE
+Created: ORG
+Create: ORG
+Risk Management Analyst: ORG
+Identify Consumer: PERSON
+the Commercial Bank: ORG
+Green Light Memo: PRODUCT
+the Commercial Banking - Decentralized Policies and Procedures: ORG
+ACH
+Facilities: ORG
+GFCIDs: ORG
+GFPIDs: ORG
+CAGIDs: ORG
+Continuity of Business and PSE Guidelines: ORG
+CBTX: ORG
+GFCID: ORG
+GFPIDs: ORG
+CAGIDs: ORG
+Global Risk Reporting: PRODUCT
+CBTX: ORG
+Central Region: LOC
+the US Local Commercial Bank: ORG
+the Facility Data Input Template: ORG
+CRMS: ORG
+US: GPE
+CCB: ORG
+CBTX: ORG
+the US Local Commercial Bank: ORG
+Maintain Credit Authority Delegation: ORG
+US: GPE
+the COB Coordinator for Risk Organizations: ORG
+Texas: GPE
+California: GPE
+Name City: GPE
+over 40 hours: TIME
+greater than $200: MONEY
+Created Project: ORG
+Liaison: PERSON
+Mystic: NORP
+Saratoga: NORP
+TCL: ORG
+Stucky: PERSON
+Davox: PERSON
+Crystal Reports: LOC
+Associate: PRODUCT
+01/2000: CARDINAL
+Name City: GPE
+Liaison: PERSON
+DOS: ORG
+TCL: ORG
+Windows: NORP
+Created and/or: ORG
+Crystal Reports: LOC
+Saratoga: NORP
+TCL: ORG
+2000: DATE
+Pro Lending: PERSON
+Micro Soft: ORG
+College City: GPE
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+North Central Texas College City: ORG
+GPA: ORG
+3.35: CARDINAL
+GPA: ORG
+3.35: CARDINAL
+Interests
+Church: ORG
+Baseball and Football spectator: ORG
+Gardening: GPE
+Volunteer Organizations: PERSON
+1998 - 2001: DATE
+Board: ORG
+Lewisville Baseball Association: ORG
+2004: DATE
+Denton County: GPE
+2009: DATE
+Task Force: PRODUCT
+2010: DATE
+2015: DATE
+Denton County: GPE
+Appraisal District Board
+Additional Information
+
+Interests Church: ORG
+Baseball and Football spectator: ORG
+Gardening: GPE
+Volunteer Organizations: PERSON
+1998 - 2001: DATE
+Board
+
+Interests Church: ORG
+Baseball and Football spectator: ORG
+Gardening: GPE
+Volunteer Organizations: PERSON
+1998 - 2001: DATE
+Lewisville Baseball Association: ORG
+2004: DATE
+Denton County: GPE
+2009: DATE
+2010: DATE
+2015: DATE
+Present Denton County Appraisal District Board: FAC
+Credit: ORG
+Crystal Reports: LOC
+DOS: ORG
+Laser: ORG
+Windows: GPE
+2000: DATE
+Policies: GPE
+Software Development: ORG
+TCL: ORG

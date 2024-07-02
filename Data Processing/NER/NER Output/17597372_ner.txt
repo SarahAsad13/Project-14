@@ -1,0 +1,48 @@
+Skills: ORG
+3: CARDINAL
+Council: ORG
+CPT: ORG
+Forklift, Manufacturing Processes: ORG
+Safety: ORG
+Technician: NORP
+March 2014 to August 2014: DATE
+Name City: GPE
+State Business Development Consultant
+
+Phoned: ORG
+VinSolutions: ORG
+Maintained: GPE
+8-10: CARDINAL
+daily: DATE
+daily: DATE
+weekly: DATE
+November 2011 to April 2014: DATE
+Name City: GPE
+State: ORG
+April 2009 to November 2011: DATE
+Name City: GPE
+3: CARDINAL
+Voted Employee Committee: ORG
+March 2004 to March 2009: DATE
+Sherwin Williams: PERSON
+Lawrence: PERSON
+KS: GPE
+95th: ORDINAL
+each month: DATE
+Training
+University of Kansas: ORG
+2016: DATE
+Safety, Manufacturing
+Processes & Production: ORG
+Washburn Institute of Technology: ORG
+Topeka: GPE
+KS: GPE
+Silver Level: GPE
+Kansas: GPE
+Certification: PRODUCT
+2016: DATE
+OSHA: ORG
+10: CARDINAL
+General Industry Certification: ORG
+University of Kansas 
+City: ORG

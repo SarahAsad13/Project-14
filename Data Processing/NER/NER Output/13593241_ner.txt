@@ -1,0 +1,91 @@
+Orcas Island: GPE
+2011: DATE
+BMX: ORG
+5-day: DATE
+Synergo: ORG
+Current
+School Success Advocate Company Name: ORG
+Facilitate: ORG
+15: CARDINAL
+weekly: DATE
+one: CARDINAL
+Latino Mentor Program Coordinator Company Name: ORG
+ARA: ORG
+Benson Latino High
+School: ORG
+Spanish: NORP
+monthly: DATE
+Latino: PERSON
+Regional Arts & Culture Council: ORG
+Identity Workshops: ORG
+Teatro Milagro: ORG
+PSU: ORG
+EdÃºcate Conference: WORK_OF_ART
+E.
+ChÃ¡vez Leadership Conference: PERSON
+Causa: PERSON
+Driver Card: ORG
+Latino: PERSON
+Causa: PERSON
+Bilingual Writing Tutor Company Name: ORG
+State: ORG
+one: CARDINAL
+2014: DATE
+Magna Cum Laude: PERSON
+3.815: CARDINAL
+Magna Cum Laude: PERSON
+3.815: CARDINAL
+2013: DATE
+INTERNSHIPS Causa: ORG
+Portland: GPE
+2014: DATE
+EcolÃ³gica Arcoiris: PERSON
+Loja: PERSON
+Ecuador Whitman College: ORG
+GPA: ORG
+Jan Meier Award: PERSON
+Best Essay: ORG
+Whitman College: ORG
+2014: DATE
+Lomen-Douglas Scholarship: PERSON
+Whitman College: ORG
+2014: DATE
+J
+& D Pitts Scholarship: ORG
+Whitman College: ORG
+2013: DATE
+John & Martha Kelly Scholarship: ORG
+Whitman College: ORG
+2013: DATE
+Myers-Little: ORG
+Whitman College: ORG
+2014: DATE
+Lomen-Douglas Scholarship: PERSON
+Whitman College: ORG
+2014: DATE
+Whitman College: ORG
+2013: DATE
+John & Martha Kelly Scholarship: ORG
+Whitman College: ORG
+2013: DATE
+Myers-Little Scholarship
+JL & Ivy Wadsworth Scholarship: ORG
+Whitman College: ORG
+2012: DATE
+The Children's Book Bank: ORG
+Portland: GPE
+2015: DATE
+Potluck: PERSON
+Portland: GPE
+2014: DATE
+Portland: GPE
+2015: DATE
+Skills: ORG
+Administrative: ORG
+Art, Book, Council: ORG
+Mentor: GPE
+Spanish: NORP
+Workshops
+Additional Information
+
+Can: ORG

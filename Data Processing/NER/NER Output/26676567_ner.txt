@@ -1,0 +1,137 @@
+â€¢ Extensive: PRODUCT
+Adobe: GPE
+Windows: ORG
+â€¢ Precise: PRODUCT
+â€¢ Strong: PERSON
+the past five years: DATE
+Creative Directors: PERSON
+Art Directors: PERSON
+University Presidents: ORG
+Adobe CS5 - 7: PERSON
+InDesign: ORG
+CSS: ORG
+Linux: GPE
+Microsoft Office: ORG
+Sketching
+Photography
+Drafting design
+Concept: WORK_OF_ART
+CAD: ORG
+2007: DATE
+Time: ORG
+Brochure: ORG
+Logo: PERSON
+Stationery: GPE
+Quick: FAC
+To Remember This: WORK_OF_ART
+Great American: ORG
+Photo Books, Calendars, Cards: ORG
+Stickers: ORG
+80k: CARDINAL
+US: GPE
+September 2014: DATE
+Skills Used Â 
+
+: WORK_OF_ART
+11/2014: CARDINAL
+11/2014: CARDINAL
+Freelance Graphic Designer Company Name: ORG
+Redesign: PERSON
+annual: DATE
+12/2013: CARDINAL
+Graphic: PERSON
+Advertising Intern Company Name: ORG
+British Dependency: ORG
+20: CARDINAL
+British Dependency: ORG
+12/2013: CARDINAL
+Graphic, Advertising and Marketing Intern Company Name: ORG
+Vegas: PERSON
+Wayne Marshall: PERSON
+Wyclef: PERSON
+Caribbean Artists & Musicians: ORG
+New York Metropolitan Area: ORG
+October 2013, January 2014: DATE
+August 2013,: DATE
+September 2013: DATE
+the Focus E- Magazine: ORG
+Graphic Design Tutor Company Name: ORG
+Adobe CS: ORG
+Illustration: ORG
+Itunes: NORP
+01/2011 to 12/2012: CARDINAL
+Print: GPE
+Web Designer / Student: ORG
+the Arts Company Name: ORG
+Created: ORG
+SGA: ORG
+Greek Life: ORG
+CAB: ORG
+Directed: ORG
+Family Day: EVENT
+Strawberry Jubilee: PERSON
+Gumbo Ya-Ya: PERSON
+Southeastern Louisiana University's: ORG
+2011: DATE
+2012: DATE
+2015: DATE
+Louisiana University: ORG
+115: CARDINAL
+Graphic Design and Marketing: ORG
+2014: DATE
+The Art Institute of New York City: ORG
+State: GPE
+the Graphic Design: ORG
+August 2010: DATE
+Over 100%: PERCENT
+Award: PERSON
+January 2012 to December 2012: DATE
+Greek: NORP
+SELU Student Government Association Â 
+
+: ORG
+March 2011 to December 2012: DATE
+the Student Government Association: ORG
+Humanities: GPE
+Sigma Alpha Lambda Â 
+
+: WORK_OF_ART
+January 2010: DATE
+the United States: GPE
+National Society of Collegiate: ORG
+Scholars Â: PERSON
+January 2011: DATE
+The National Society of Collegiate: ORG
+Scholars: PERSON
+NSCS: WORK_OF_ART
+nearly a million dollars: MONEY
+annually: DATE
+every day: DATE
+January 2011: DATE
+more than 2,842: CARDINAL
+50: CARDINAL
+Columbia: ORG
+January 2010 to December 2012: DATE
+Republicans: NORP
+1892: DATE
+over 250,000: CARDINAL
+CR: ORG
+1,800: CARDINAL
+DC: GPE
+CR: ORG
+America: GPE
+Republican: NORP
+Republican: NORP
+Division of Student Affairs Student: ORG
+January 2011 to December 2012: DATE
+the Division for Student Affairs: ORG
+DSA Leadership Ambassadors: ORG
+Southeastern: NORP
+Southeastern: NORP
+Accomplishments Â 
+
+Put: PRODUCT
+Southeaster's Students: ORG
+Skills
+
+Desktop Publishing Software: ORG

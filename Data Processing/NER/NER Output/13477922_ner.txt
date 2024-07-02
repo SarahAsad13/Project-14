@@ -1,0 +1,65 @@
+Information Technology: ORG
+Information Systems: ORG
+Networking: GPE
+Information Technology Specialist: ORG
+April 2015: DATE
+Current Company Name: ORG
+Setup: ORG
+android: ORG
+Computer Technical Specialist: ORG
+September 2007 to January 2014: DATE
+Faculty and Staff: ORG
+Windows: NORP
+McIntosh: PERSON
+McIntosh: PERSON
+DHCP: ORG
+Domain Controllers: ORG
+3: CARDINAL
+5: CARDINAL
+KBOX: ORG
+Polycom: ORG
+6000: CARDINAL
+Tandberg: PERSON
+November 2001 to September 2007 City: DATE
+Troubleshoot: ORG
+Meeting Point: ORG
+September 1999 to November 2001: DATE
+IP: ORG
+DHCP: ORG
+Reorganized: ORG
+Network+: GPE
+Windows Server: PERSON
+2012: DATE
+Network+: GPE
+A+: NORP
+Microsoft Certified Professional Systems Engineer: ORG
+2003: DATE
+CCNA: PERSON
+Northern Virginia Community: ORG
+GPA: ORG
+Dean: PERSON
+GPA: ORG
+3.4: CARDINAL
+GPA: ORG
+3.4: CARDINAL
+1982: DATE
+George Mason University: ORG
+15: CARDINAL
+NVCC: ORG
+06-25-2001: DATE
+NVCC: ORG
+06-25-2001: DATE
+Richmond: GPE
+Skills: ORG
+A+: NORP
+A+: NORP
+CCNA: PERSON
+DHCP: ORG
+IP: ORG
+Microsoft Certified Professional: ORG
+Windows 7,: ORG
+Windows, Network: ORG
+Networking: ORG
+Systems Engineer: PERSON
+Troubleshoot: ORG
+Windows Server: PERSON

@@ -1,0 +1,90 @@
+Skill Highlights: PERSON
+Microsoft: ORG
+2003, 2008: DATE
+2012: DATE
+Exchange: ORG
+Server: PERSON
+2007: DATE
+2010: DATE
+VMware: ORG
+6.x: CARDINAL
+7.x: ORG
+Microsoft: ORG
+Hyper-V: PERSON
+Cisco: GPE
+Vendor Management: ORG
+Information Technology: ORG
+Current Company Name City: ORG
+Met: ORG
+annual: DATE
+11/2012: CARDINAL
+Name City: GPE
+Microsoft: ORG
+Microsoft: ORG
+2008: DATE
+Server: PERSON
+2012: DATE
+Microsoft Exchange: ORG
+third: ORDINAL
+non-Exchange: ORG
+VMware: ORG
+VMware Horizon View: ORG
+120: CARDINAL
+zero: CARDINAL
+VDI: ORG
+Maintained: GPE
+Cisco: GPE
+VoIP: LOC
+third: ORDINAL
+260: CARDINAL
+Name City: GPE
+Toyota: ORG
+one: CARDINAL
+Name City: GPE
+State: ORG
+more than 10: CARDINAL
+Acted: ORG
+US: GPE
+Wal-Mart: ORG
+Maxx: PERSON
+Microsoft Certified Professional - Server 2012: ORG
+Core Accomplishments
+
+Leadership Skills:
+
+Led committee: WORK_OF_ART
+DMS: ORG
+ERP: ORG
+more than ten third: CARDINAL
+DMS: ORG
+Project Management: ORG
+50%: PERCENT
+30,000: MONEY
+Smart Motors: ORG
+DNS: ORG
+Smart Motors': ORG
+Exchange: ORG
+Exchange: ORG
+Outlook Web App: ORG
+Smart Motors': ORG
+5: CARDINAL
+two: CARDINAL
+vCenter: ORG
+Horizon View: FAC
+120: CARDINAL
+2: CARDINAL
+TrendMicro: ORG
+VMware View
+
+Staff Development: ORG
+one: CARDINAL
+one: CARDINAL
+daily: DATE
+morning: TIME
+260: CARDINAL
+500: CARDINAL
+7,000Â: PRODUCT
+each month: DATE
+Bachelor of Science : Management Information Systems Cardinal Stritch University City: ORG
+State: ORG
+LinkedIn: GPE

@@ -1,0 +1,114 @@
+the Team of the Month: ORG
+DEBTS: ORG
+April 2015: DATE
+Name City: GPE
+Migration of IU Print: ORG
+ColdFusion: ORG
+MVC Framework: ORG
+IU Print Analytics: ORG
+July 2011: DATE
+July 2014: DATE
+Name City: GPE
+State Software Engineer
+
+Responsibilities: ORG
+HTML: ORG
+CSS: ORG
+TECHNICALS SKILLS: PERSON
+2010: DATE
+4.0/3.5/2.0: CARDINAL
+MVC 4 Application: ORG
+Visual Studio: PERSON
+2008/2010/2013: CARDINAL
+SQL Server Management Studio: ORG
+SQL: ORG
+2005/2008: DATE
+Oracle Others: ORG
+JQuery: ORG
+CSS: ORG
+JavaScript, Bootstrap: ORG
+Team Foundation Sever: ORG
+GitHub: ORG
+1: CARDINAL
+Pratt & Whitney: ORG
+MS-Access: ORG
+2: CARDINAL
+DEBTS: ORG
+UTC USA: ORG
+UTC: ORG
+daily: DATE
+UBS: ORG
+each day: DATE
+UTC: ORG
+3: CARDINAL
+Valid: NORP
+ADP: ORG
+3: CARDINAL
+Supplier Portal Supplier Portal: PRODUCT
+SharePoint: ORG
+2010: DATE
+Supplier Portal: PERSON
+seven: CARDINAL
+Pratt: GPE
+Whitney: PERSON
+P&W: ORG
+Pratt & Whitney: ORG
+SharePoint: ORG
+2010: DATE
+SQL: ORG
+2012: DATE
+4: CARDINAL
+Request For Agreement): RFA: LAW
+two: CARDINAL
+more than eight: CARDINAL
+SharePoint: ORG
+UI: GPE
+Pratt & Whitney Military Engines: ORG
+the Team of the Month: ORG
+DEBTS: ORG
+Stood 3rd: FAC
+SIASAT: ORG
+Education: ORG
+Indiana University Masters : Computer Science Indiana University - Bloomington Masters: ORG
+August 2014 - December 2015: DATE
+GPA: ORG
+3.55: CARDINAL
+Jawaharlal: GPE
+Nehru Technological University: ORG
+Jawaharlal: GPE
+University: ORG
+India Bachelor of Technology: ORG
+September 2007 - May 2011: DATE
+GitHub: ORG
+the Team of the Month: ORG
+DEBTS: ORG
+Skills
+Asp: ORG
+Model View Controller: PRODUCT
+Ms Asp: PERSON
+Mvc: GPE
+Asp.net 4.0: PRODUCT
+Associate: PERSON
+Award: PERSON
+Bootstrap, Budget: ORG
+Coding: ORG
+Css, Database: GPE
+Engines: ORG
+Invoice, Invoices: ORG
+Disability, Ltd: ORG
+Microsoft Sharepoint: ORG
+Ms Sql Server: PERSON
+Mysql: GPE
+Oracle: ORG
+R2, Sap, Secure File Transfer Protocol: WORK_OF_ART
+Sftp, Sharepoint: ORG
+Software Engineer: ORG
+Sql: ORG
+Sql Server: PERSON
+Sql Server 2005: PERSON
+Sql Server: PERSON
+2012: DATE
+Interface: ORG
+Visual Studio: PERSON
+Web Based, Coldfusion, Prototype: ORG
+Prototypes: PERSON

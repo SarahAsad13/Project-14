@@ -1,0 +1,126 @@
+17 years: DATE
+Experienced Logistics: ORG
+Post 9/11: PRODUCT
+20 years: DATE
+the United States: GPE
+Air Force Reserve: ORG
+Final Cut Pro: ORG
+Graphic: PERSON
+CSS: ORG
+XML: ORG
+HTML: ORG
+Supply: ORG
+Ground: ORG
+Strategic: PRODUCT
+Cargo: NORP
+10,000: CARDINAL
+Air Force: ORG
+50,000 short tons: QUANTITY
+Iraq: GPE
+Operation New Dawn: EVENT
+Afghanistan: GPE
+Operation Enduring Freedom: EVENT
+Iraq: GPE
+Defense
+Logistics Agency: ORG
+the US Embassy: ORG
+Baghdad: GPE
+the Meritorious Service Medal: ORG
+Digital Producer/Multimedia Specialist: ORG
+November 1998 to February 2016: DATE
+Company Name - City: DATE
+24: CARDINAL
+ThisWeek: ORG
+Social Media: ORG
+YouTube: ORG
+Twitter: PERSON
+Pinterest: ORG
+Adobe Omniture/Chartbeat: ORG
+Google Analytics
+Served: ORG
+CMS: ORG
+the past 8 years: DATE
+QA: ORG
+Optimizes: ORG
+TOS: ORG
+daily: DATE
+Builds: PERSON
+February 1988 to July 2013: DATE
+the Logistics Plans Superintendent: ORG
+386: CARDINAL
+Ali Al Salem AB: PERSON
+December 2011 to June 2012: DATE
+Redeployed over 10,000: CARDINAL
+Air Force: ORG
+50,000 short tons: QUANTITY
+Iraq: GPE
+Operation New Dawn: EVENT
+Afghanistan: GPE
+Operation Enduring Freedom: EVENT
+8,000 square-foot: QUANTITY
+eight: CARDINAL
+two: CARDINAL
+24/7: CARDINAL
+Air Expeditionary Force: ORG
+AEF: ORG
+Monitored: ORG
+Coordinated: ORG
+Integrated: NORP
+Prepared: PERSON
+Monitored: ORG
+OJT: ORG
+five: CARDINAL
+LGRDX: ORG
+Digital: ORG
+July 2004 to December 2011: DATE
+State: ORG
+Columbus Audubon Board of Trustees: ORG
+Grange Insurance Audubon Center/Columbus Audubon: ORG
+monthly: DATE
+the Song Sparrow: FAC
+Columbus Audubon's: ORG
+www.columbusaudubon.org: NORP
+Social Media: ORG
+Columbus Audubon's: ORG
+Twitter: PERSON
+Bachelor of Arts: ORG
+September 1994: DATE
+The Ohio State University School of Journalism - City: ORG
+Journalism: NORP
+Air Force Sergeants Association: ORG
+Veterans of Foreign Wars: ORG
+Iraq: GPE
+Afghanistan: GPE
+American: NORP
+Veterans: PRODUCT
+Wounded Warrior Project Alumni: ORG
+Society of Professional Journalists: ORG
+Cleveland Press Association: ORG
+Local Media
+Association: ORG
+First: ORDINAL
+Cleveland Press Association Annual Awards: ORG
+June 2015: DATE
+United States: ORG
+June 2013: DATE
+United States Global War on Terrorism Expeditionary Medal: ORG
+June 2012: DATE
+United States Global War on Terrorism Service Medal: ORG
+June 2012: DATE
+United States Air Force Expeditionary Service Ribbon: ORG
+June 2012: DATE
+United States Air Force Commendation Medal: ORG
+October 2009: DATE
+Song Sparrow Award: PERSON
+Columbus Audubon: ORG
+2009: DATE
+Best Group-Owned Weekly Newspaper Web Site: ORG
+Ohio: GPE
+Ohio News Association: ORG
+February 2012: DATE
+ThisWeek: NORP
+United States: ORG
+March 1998: DATE
+Skills
+
+Social: ORG

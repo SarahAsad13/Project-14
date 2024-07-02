@@ -1,0 +1,49 @@
+the United States: GPE
+8 years: DATE
+Reliable: WORK_OF_ART
+Process Improvement
+
+Developed: WORK_OF_ART
+zero: CARDINAL
+5: CARDINAL
+Air Force: ORG
+May 2010 to October 2014: DATE
+over 300: CARDINAL
+Unit Type Codes: ORG
+UTC: ORG
+Air Expeditionary Force: ORG
+AEF: ORG
+monthly: DATE
+Air Force: ORG
+Researched: ORG
+November 2009: DATE
+May 2010: DATE
+multi-million dollar: MONEY
+monthly: DATE
+45K.: CARDINAL
+Project Lead: PERSON
+U.S. Armed Services Team: ORG
+the Military International Olympics
+Served: EVENT
+COR: ORG
+six: CARDINAL
+Air Force: ORG
+October 2004 to September 2008: DATE
+the Prevention and Management: ORG
+Training
+Bachelor of Science : Management: PERSON
+Dec 2015: DATE
+Park University - City: EVENT
+Dec 2015: DATE
+Customer Service Training Instructor, Deployment Manager Training: ORG
+Supervisor: PERSON
+Accountant/Resource: ORG
+CPR: ORG
+Skills
+
+Administrative, Leadership, Analytical: ORG
+Verbal: ORG
+Customer: ORG
+Computer Skills: PERSON
+Microsoft: ORG
+Excel: PRODUCT

@@ -1,0 +1,99 @@
+Professional Overview: ORG
+Information Technology: ORG
+16 years: DATE
+Strong: PERSON
+Skills
+Platforms: ORG
+2003: DATE
+Professional: GPE
+6.22: CARDINAL
+Â Hardware:Â  HP: WORK_OF_ART
+IBM: ORG
+Dell: ORG
+Intel: ORG
+Server: ORG
+Desktop Platforms: ORG
+HP Laser Jets: ORG
+Toshiba: ORG
+Sony Laptops: ORG
+Inter-telÂ Â 
+Â Software: ORG
+Visio: PERSON
+Antivirus: GPE
+Utilities: ORG
+Win: LOC
+McAfee Virus Scan: ORG
+Illustrator: ORG
+Partition Magic: PERSON
+Adware: ORG
+802.11: CARDINAL
+DNS: ORG
+Information Technology: ORG
+day: DATE
+Wilkes & McHugh's: ORG
+six: CARDINAL
+300: CARDINAL
+6: CARDINAL
+CIO: ORG
+Researched: ORG
+VMware: ORG
+50 to 4: CARDINAL
+2008: DATE
+2012: DATE
+R2: PRODUCT
+Coordinated: ORG
+8: CARDINAL
+Microsoft Exchange: ORG
+2010: DATE
+2016.Â: CARDINAL
+Citrix: PRODUCT
+Netscaler: ORG
+Atlanta: GPE
+first: ORDINAL
+Barracuda Spam & Virus Firewalls: ORG
+Spam: ORG
+40%.Â: CARDINAL
+Virus: ORG
+Malware: ORG
+Reduced desktop & application deployment times: ORG
+60%: PERCENT
+Microsoft: ORG
+System Center Configuration: ORG
+Coordinate: FAC
+third: ORDINAL
+Network Engineer Sep: WORK_OF_ART
+2003 to Jan 2006: DATE
+LAN: ORG
+WAN: ORG
+Networks: ORG
+Acted: ORG
+2000: DATE
+2003: DATE
+Implemented Server: ORG
+Mcafee Enterprise: ORG
+ePolicy Orchestrator: ORG
+FTP: ORG
+Cisco: PERSON
+1900: CARDINAL
+2600: DATE
+Group Policy: ORG
+Systems Administration: ORG
+Technician Jan 2003: DATE
+2003: DATE
+S.B.A.: ORG
+Group Policy Objects: ORG
+Performed Hardware: PERSON
+Software: PERSON
+MS Office Suite Managed: ORG
+Organizational Units through Active
+Directory Created: ORG
+Norton Ghost Troubleshooting: ORG
+Printers: PERSON
+Copy Machines: ORG
+Bachelor of Science , Management Information Systems University of Maryland University College: ORG
+Microsoft Certified Technology Specialist: ORG
+2008: DATE
+Citrix Certified Administrator: WORK_OF_ART
+CCA: ORG
+Information Systems Management Certificate
+Project Management Certificate: ORG

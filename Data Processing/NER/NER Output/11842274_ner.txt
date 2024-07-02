@@ -1,0 +1,251 @@
+Bartender: GPE
+10 years: DATE
+daily: DATE
+Attend: ORG
+Greets: NORP
+Health Department: ORG
+Bartender - Byron: ORG
+May 2019: DATE
+Dallas: GPE
+Texas: GPE
+Operate club's: ORG
+A.B.C.: ORG
+night: TIME
+Communicate: ORG
+Expedite: NORP
+hours: TIME
+Verify: LOC
+the Bar Requisition Sheet: ORG
+30: CARDINAL
+Bartender - American Family Insurance Golf Championship / June
+2018 / Madison: ORG
+WI: ORG
+Assist: NORP
+Bartender - St.
+Jude Golf Tournament: ORG
+May 2018: DATE
+TN: ORG
+daily: DATE
+Greet: PERSON
+Restock Beverages: ORG
+Clear: GPE
+Bartender - Byron: ORG
+May 2018: DATE
+Dallas: GPE
+TX: ORG
+TABC: ORG
+Keep: PERSON
+Prepare: ORG
+Greet: PERSON
+Club: ORG
+Prepare: ORG
+PGA: ORG
+State: ORG
+Bill: PERSON
+Keep: PERSON
+Bartender - Houston Open Golf Tournament /: ORG
+March 2018: DATE
+Houston: GPE
+TX: ORG
+Assess: ORG
+Escort: PRODUCT
+daily: DATE
+Bartender - St.
+
+Jude Golf Tournament: ORG
+May 2017 /: DATE
+TN: ORG
+Escort: PRODUCT
+daily: DATE
+Bartender - Byron: ORG
+May 2017: DATE
+TX: ORG
+Corner Bar: WORK_OF_ART
+30 years old: DATE
+Upsell: ORG
+Keeps: ORG
+Contribute: ORG
+Ensures: LOC
+Verify: LOC
+Inquires: PERSON
+PGA: ORG
+Bartender - Houston Open Golf Tournament /: ORG
+March 2017 / Houston: DATE
+TX: ORG
+the beginning and end: DATE
+Understand: GPE
+PGA: ORG
+Update: ORG
+Bartender - AT& T Byron: ORG
+May 2016: DATE
+Escort: PRODUCT
+daily: DATE
+Arrange: NORP
+Public Relations & Marketing Consultant: ORG
+annual: DATE
+Prepare: ORG
+Answer: LOC
+Cashier: PERSON
+05/2000: CARDINAL
+Escort: PRODUCT
+daily: DATE
+10 years: DATE
+daily: DATE
+Attend: ORG
+Greets: NORP
+Health Department: ORG
+Bartender - Byron: ORG
+May 2019: DATE
+Dallas: GPE
+Texas: GPE
+Operate club's: ORG
+A.B.C.: ORG
+night: TIME
+Communicate: ORG
+Expedite: NORP
+hours: TIME
+Verify: LOC
+the Bar Requisition Sheet: ORG
+30: CARDINAL
+Bartender - American Family Insurance Golf Championship / June
+2018 / Madison: ORG
+WI: ORG
+Assist: NORP
+Bartender - St.
+Jude Golf Tournament: ORG
+May 2018: DATE
+TN: ORG
+daily: DATE
+Greet: PERSON
+Restock Beverages: ORG
+Clear: GPE
+Bartender - Byron: ORG
+May 2018: DATE
+Dallas: GPE
+TX: ORG
+TABC: ORG
+Keep: PERSON
+Prepare: ORG
+Greet: PERSON
+Club: ORG
+Prepare: ORG
+PGA: ORG
+State: ORG
+Bill: PERSON
+Keep: PERSON
+Bartender - Houston Open Golf Tournament /: ORG
+March 2018: DATE
+Houston: GPE
+TX: ORG
+Assess: ORG
+Escort: PRODUCT
+daily: DATE
+Bartender - St.
+Jude Golf Tournament: ORG
+May 2017 /: DATE
+TN: ORG
+Escort: PRODUCT
+daily: DATE
+Bartender - Byron: ORG
+May 2017: DATE
+TX: ORG
+Corner Bar: WORK_OF_ART
+30 years old: DATE
+Upsell: ORG
+Keeps: ORG
+Contribute: ORG
+Ensures: LOC
+Verify: LOC
+Inquires: PERSON
+PGA: ORG
+Bartender - Houston Open Golf Tournament /: ORG
+March 2017 / Houston: DATE
+TX: ORG
+the beginning and end: DATE
+Understand: GPE
+PGA: ORG
+Update: ORG
+Bartender - AT& T Byron: ORG
+May 2016: DATE
+Escort: PRODUCT
+daily: DATE
+Arrange: NORP
+Public Relations & Marketing Consultant: ORG
+annual: DATE
+Prepare: ORG
+Answer: LOC
+Cashier: PERSON
+05/2000: CARDINAL
+Escort: PRODUCT
+daily: DATE
+Food Handler Certified Special Event
+Bartender/Cocktail Server: ORG
+7 years: DATE
+Skill: PERSON
+Knowledge: PERSON
+Possesses: PERSON
+Possesses: PERSON
+TX Drivers: ORG
+Food Handler: ORG
+TABC: ORG
+Highlights
+
+Accounting: ORG
+Cashier, Press
+Closing: ORG
+Press: ORG
+Conferences: ORG
+PR
+Cooking: ORG
+Processes
+Credit, Promotion
+Make: ORG
+Public Relations
+Clients: ORG
+Quality
+Customer Service: ORG
+Radio
+Direct: ORG
+Safety
+Documentation: ORG
+Speeches
+Exhibitions: ORG
+Supervisor
+Fast: PERSON
+Tables
+Funds: PERSON
+Taxes
+Health: ORG
+Television
+Image: ORG
+Website
+Insurance: ORG
+Annual: DATE
+Inventory
+Law
+Legal
+
+Multimedia
+Neat
+Newsletters
+Newspapers
+Preparing: WORK_OF_ART
+Classic: PRODUCT
+Liquor: PERSON
+Hospitality: PERSON
+Aloha: GPE
+Clear: GPE
+Fluency: GPE
+English: LANGUAGE
+TABC: ORG
+FOOD HANDLER: ORG
+1993: DATE
+Susan B. Dorsey: PERSON
+1993: DATE
+Career Academy Inc - City: ORG
+State: ORG
+Skills
+
+Accounting: ORG
+Public Relations: ORG
+annual: DATE

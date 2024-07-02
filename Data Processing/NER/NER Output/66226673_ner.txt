@@ -1,0 +1,31 @@
+Pro Tools: ORG
+Melodyne: GPE
+Autotune: GPE
+Traktor: GPE
+Serato: ORG
+Sibelius
+Capable: ORG
+API Vision: ORG
+9098i: DATE
+SSL Duality: ORG
+Car Stereo
+Knowledge: PRODUCT
+2014: DATE
+State: ORG
+2012: DATE
+Associates of Science and Arts : Music Northwestern Michigan College: ORG
+Current
+Audio/Visual Technician Company Name: ORG
+Tow Truck Driver: PERSON
+Shop Hand Company Name: ORG
+Specialized: ORG
+Promoter and Event Coordinator Company Name: ORG
+Internship Company Name: ORG
+Understands: GPE
+Training
+Session Recording: WORK_OF_ART
+Gained: NORP
+Midas Vienna: LOC
+Verona: GPE
+Venue: GPE
+Understands: GPE

@@ -1,0 +1,51 @@
+K-12 PRINCIPAL: PRODUCT
+K-12: PRODUCT
+10 years: DATE
+State: ORG
+K-12: PRODUCT
+Facilitated: ORG
+monthly: DATE
+PLC: ORG
+monthly: DATE
+PLC: ORG
+MTSS: ORG
+3: CARDINAL
+monthly: DATE
+one: CARDINAL
+three: CARDINAL
+Mentored: ORG
+Monitored: ORG
+three: CARDINAL
+Facilitated MTSS: ORG
+PLC: ORG
+Interviews: ORG
+Communicated: ORG
+three: CARDINAL
+Researched: ORG
+each year: DATE
+Facilitated: ORG
+State: ORG
+PBIS: ORG
+weekly: DATE
+Established: ORG
+Colorado Academic State Standards: ORG
+Three years: DATE
+CSAP: LOC
+Two years: DATE
+70%: PERCENT
+State: ORG
+6th: ORDINAL
+2006-2007 school year: DATE
+4th: ORDINAL
+2007-2008 school year: DATE
+Communicated: ORG
+Collaborated: ORG
+Prepared: PRODUCT
+Policy: PERSON
+Elementary: PERSON
+12/2008: CARDINAL
+Western Governors University: ORG
+12/2005: CARDINAL
+Western Governors University: ORG
+12/1996: CARDINAL
+Colorado Mesa University: ORG

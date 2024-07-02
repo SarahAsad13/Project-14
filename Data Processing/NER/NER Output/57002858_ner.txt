@@ -1,0 +1,120 @@
+Summary
+Experienced Information Technology: ORG
+Name City: GPE
+State Information Technology: ORG
+Current
+
+Responsible: ORG
+Managed Migration from Exchange: ORG
+2003: DATE
+Exchange 2010 Manged Migration: ORG
+Windows XP: ORG
+2003: DATE
+2010: DATE
+2010: DATE
+2013: DATE
+Physical Servers: ORG
+VMWare: ORG
+Virtual Server: ORG
+first: ORDINAL
+Name City: GPE
+State Technical Project: ORG
+Responsible for Maintaining Client: WORK_OF_ART
+Technical Integrity: ORG
+Client: PERSON
+Novell: ORG
+Groupwise: PERSON
+Novell: ORG
+Responsible for Managing IT Department: WORK_OF_ART
+Helpdesk: ORG
+Name City: GPE
+State Systems Engineer: ORG
+Novell: ORG
+Windows NT 4.0: LOC
+Windows: ORG
+2003: DATE
+Maintain: PRODUCT
+Patch: NORP
+the Server Side: ORG
+Novell Groupwise: FAC
+6.5: CARDINAL
+a SQL Cluster: ORG
+Microsoft: ORG
+2003: DATE
+Name City: GPE
+State Network Analyst 10/2001: ORG
+MetaFrame: ORG
+GroupWise 5.x: PRODUCT
+Second: ORDINAL
+Name City: GPE
+State: ORG
+two: CARDINAL
+Name City: GPE
+State: ORG
+LAN/WAN Infrastructure: ORG
+Evaluate: ORG
+Novell: ORG
+Windows NT Servers: LOC
+Cisco Switches: PERSON
+Routers: PRODUCT
+WAN: ORG
+Name City: GPE
+State: ORG
+04/1997: CARDINAL
+06/1999: CARDINAL
+130+: DATE
+NDS Directory Structure: ORG
+Name City: GPE
+State Network Support Specialist: ORG
+11/1993: CARDINAL
+Responsible for All Software: WORK_OF_ART
+Network: ORG
+Network: ORG
+Name City: GPE
+State Service: ORG
+09/1988: CARDINAL
+11/1993: CARDINAL
+3: CARDINAL
+Associate of Science : Business Administration: ORG
+McHenry County College: ORG
+City: GPE
+State Business Administration: ORG
+Algonquin Argonauts Football Board: ORG
+Algonquin Argonauts Football: PERSON
+Coach/Offensive Coordinator
+Additional Information: ORG
+Algonquin Argonauts Football Board: ORG
+Algonquin Argonauts Football: PERSON
+Coach/Offensive
+Coordinator: ORG
+Skills
+Accounting: ORG
+Citrix MetaFrame: PERSON
+Client: GPE
+Groupwise: PERSON
+Novell Groupwise: FAC
+6.5: CARDINAL
+GroupWise 5.x: PRODUCT
+LAN: ORG
+Exchange: ORG
+Windows 7 and
+Office, Office: ORG
+Windows: GPE
+Windows NT: LOC
+Windows NT 4.0: LOC
+Windows XP: ORG
+Migration: GPE
+NDS: ORG
+Network: ORG
+Novell: ORG
+6.0: CARDINAL
+Novell: ORG
+6.5: CARDINAL
+Novell: ORG
+Novell Servers: ORG
+Routers: PRODUCT
+Servers: PERSON
+SQL: ORG
+Cisco Switches: ORG
+T1: PERSON
+WAN: ORG

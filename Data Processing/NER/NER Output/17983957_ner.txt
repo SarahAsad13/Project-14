@@ -1,0 +1,59 @@
+Process Improvements - The: ORG
+Professional Training and Development - Extensive: ORG
+Community Health Systems: ORG
+Franklin: ORG
+TN: ORG
+CHS: ORG
+Provide WebEx: PRODUCT
+Advise: PERSON
+State: ORG
+6: CARDINAL
+55: CARDINAL
+Output
+Device Service & Support: ORG
+monthly: DATE
+Level Agreements: PERSON
+Senior Management: ORG
+the Army Corp: ORG
+Engineers: ORG
+over 12,000: CARDINAL
+Internal/External Senior Management Client: ORG
+Organization Side: ORG
+Conducted: ORG
+weekly: DATE
+Integrated Project Team: ORG
+Output Device Technicians & Support Team on Asset Management: ORG
+Configuration Management Database Processes & Procedures: ORG
+Central: ORG
+Windows 2000/XP: EVENT
+2000/2003: DATE
+18-month: DATE
+VoIP: LOC
+Cisco Switches: PERSON
+Routers: ORG
+Virtual Private
+Networks: ORG
+Monitored: ORG
+Training: PERSON
+August 2003: DATE
+Master of Science : Management Florida Institute of Technology ï¼​ City: WORK_OF_ART
+State Management: ORG
+May 1992: DATE
+Bachelor of Science : Computer and Information Sciences Alabama A&M University: ORG
+State Computer and Information Sciences: ORG
+Skills
+
+Army: ORG
+Asset Management: ORG
+Community Health, Configuration Management: ORG
+Client: GPE
+Database: GPE
+Senior Management: ORG
+Networks: ORG
+PBX: ORG
+Processes: ORG
+Project Management: ORG
+Routers: PRODUCT
+Level Agreements: PERSON
+Cisco Switches: PERSON
+VoIP: LOC

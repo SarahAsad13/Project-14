@@ -1,0 +1,61 @@
+BUSINESS DEVELOPMENT SPECIALIST/BRANCH: ORG
+10 years: DATE
+HRIS: PERSON
+Highlights
+
+Team: ORG
+Operations: ORG
+Business Development Specialist/Branch: ORG
+2015 to Dec 2015: DATE
+Mortgagebot: ORG
+Cross: ORG
+Maintained: GPE
+Bank Secrecy Act: ORG
+USA: GPE
+Submitted: ORG
+II Apr 2013 to Jan 2015: DATE
+Branch Managers: ORG
+Coordinated: ORG
+Conducted: ORG
+ATM: ORG
+Maintained: GPE
+Bank Secrecy Act: ORG
+USA: GPE
+Processed: GPE
+U.S.: GPE
+Bank: ORG
+Taleo: ORG
+2012: DATE
+Branch Managers: ORG
+Coordinated: ORG
+Processed: GPE
+Maintained: GPE
+Bank Secrecy Act: ORG
+USA: GPE
+Conducted: ORG
+ATM: ORG
+ADP: ORG
+Feb 2007: DATE
+Relationship Bankers: ORG
+Obtained: ORG
+Regulation D,: ORG
+Bank Secrecy Act: ORG
+USA Patriot Act: ORG
+Anti-Money Laundering: ORG
+Radford University: ORG
+Lotus Notes: PRODUCT
+Microsoft Office: ORG
+IPerformease
+ADP
+Etime Online Employer
+
+Fusion: PERSON
+BankPro: ORG
+SharePoint: ORG
+Mortgagebot: WORK_OF_ART
+2014 Quarter: DATE
+three years: DATE
+2009: DATE
+2010: DATE
+2012: DATE
+Registration 2008-2015: DATE

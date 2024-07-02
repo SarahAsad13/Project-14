@@ -1,0 +1,68 @@
+more than 8.5 years: DATE
+KYC/AML/CFT/OFAC/Global sanctions/FATCA: ORG
+Skill Highlights: ORG
+Strong: PERSON
+Detail: PERSON
+Reliable: WORK_OF_ART
+Computer Skills: PERSON
+MS Office Suite: ORG
+AML/OFAC: ORG
+English: LANGUAGE
+Russian: NORP
+Belarusian: NORP
+French: NORP
+German: NORP
+March 2013 to September 2015: DATE
+AML/CFT: ORG
+International Sanctions Compliance: WORK_OF_ART
+FinCEN: PERSON
+European Union: ORG
+Treasury: ORG
+United Nations: ORG
+The Bank Secrecy Act: ORG
+The USA PATRIOT Act: ORG
+US Treasury AML: ORG
+Suspicious Activity Reporting: PERSON
+KYC/EDD: ORG
+LexisNexis: ORG
+WorldCompliance: PERSON
+WorldCheck: ORG
+DowJones AML/CFT/: ORG
+AML Risk Assessment: ORG
+Processing/Analytics/Investigations of: ORG
+Surveillance: ORG
+Suspicious Activity Reports: PERSON
+Analysis: PRODUCT
+AML/CFT/: ORG
+English: LANGUAGE
+Russian: NORP
+AML/CFT/: ORG
+July 2008 to November 2012: DATE
+Surveillance: ORG
+Relationship: DATE
+RMA: EVENT
+BISS: ORG
+Belarusian Interbank Settlement System: ORG
+US: GPE
+Automated Clearing House: ORG
+ACH: ORG
+Familiarity with Federal Reserve Bank: ORG
+Clearing House Interbank Payment Systems: ORG
+English: LANGUAGE
+Russian: NORP
+June 2007 to June 2008: DATE
+Undertaking: GPE
+Analysis: PRODUCT
+the Credit Committee: ORG
+Control of the correctness: ORG
+September 2005 to June 2007: DATE
+Consulting: ORG
+Cashier: ORG
+Western Union: ORG
+International University: ORG
+MITSO: ORG
+2010: CARDINAL
+International Economic Relations and Management City: ORG
+Belarus: GPE
+Minsk: GPE
+Belarus: GPE

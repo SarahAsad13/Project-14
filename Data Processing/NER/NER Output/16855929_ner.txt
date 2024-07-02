@@ -1,0 +1,64 @@
+SUSHI CHEF
+Experience
+: ORG
+Sushi Chef: PERSON
+04/2019: CARDINAL
+SnowFox: ORG
+King Soopers: ORG
+the morning: TIME
+the day: DATE
+the next
+days: DATE
+morning: TIME
+Cook: PERSON
+Breakfast Cook: PERSON
+04/2016: ORG
+Winslow: PERSON
+evening: TIME
+three nights: TIME
+two mornings: TIME
+morning: TIME
+Cooper R.
+Snook: PERSON
+Cook: PERSON
+07/2014: CARDINAL
+12/2015: CARDINAL
+Cook: PERSON
+Receptionist: NORP
+Poudre High School: ORG
+first: ORDINAL
+04/2019: CARDINAL
+SnowFox: ORG
+King Soopers: ORG
+the morning: TIME
+the day: DATE
+the next
+days: DATE
+morning: TIME
+Cook: PERSON
+Breakfast Cook: PERSON
+04/2016: ORG
+Winslow: PERSON
+evening: TIME
+three nights: TIME
+two mornings: TIME
+morning: TIME
+Cooper R.
+Snook: PERSON
+Cook: PERSON
+07/2014: CARDINAL
+12/2015: CARDINAL
+Cook: PERSON
+Receptionist: NORP
+Poudre High School: ORG
+first: ORDINAL
+Poudre High School 
+CIS : Computer Information Systems Front Range Community College - City: ORG
+Evan Elias: PERSON
+earth: LOC
+Highlights: GPE
+CODING: ORG
+Delivery
+Direction
+Front: PERSON
+Next: ORG

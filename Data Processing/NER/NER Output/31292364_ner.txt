@@ -1,0 +1,128 @@
+Skills
+
+Media Relations
+Media Communications: ORG
+Digital Marketing
+Research
+Strategic Planning
+
+Social: ORG
+Social Media Analysis
+Content Management Systems: ORG
+Work History
+Public Relations Specialist: WORK_OF_ART
+NCCPAÂ 
+Prepare: ORG
+more than 50: CARDINAL
+the Certificate of Added: ORG
+quarterly: DATE
+monthly: DATE
+Public Affairs Specialist: ORG
+12/2010: CARDINAL
+Air
+Force Reserve Command: ORG
+Puerto Rico: GPE
+NBC national news: ORG
+Fox News: ORG
+Hurricane Maria Recovery: EVENT
+Streamline: NORP
+Photographs: NORP
+Public Affairs Specialist: ORG
+USACE: LOC
+CSS Georgia: ORG
+daily: DATE
+two hours: TIME
+Corporate Communications Office: ORG
+DoD: ORDINAL
+Army CORE: ORG
+Works Digest: ORG
+weeks: DATE
+friendlyÂ 
+Established: PERSON
+Reorganized: ORG
+two: CARDINAL
+Authored: PERSON
+STEM
+outreachÂ 
+Assumed: PERSON
+Facebook: PRODUCT
+Twitter: PERSON
+Mastered: ORG
+District: ORG
+Change of Command: ORG
+commander & dignitariesÂ: ORG
+Job Related Training
+
+Leadership Development Program: WORK_OF_ART
+Level 1: PERSON
+USACE: GPE
+Savannah District: GPE
+Savannah: GPE
+Georgia: GPE
+June 2016: DATE
+CES Action Officer Development Course: ORG
+USACE: GPE
+Savannah District: GPE
+Savannah: GPE
+Georgia: GPE
+March 2016: DATE
+Airman Leadership School Distance Learning: ORG
+Georgia Air National Guard: ORG
+Savannah: GPE
+Georgia: GPE
+March 2016: DATE
+CES Basic Course, Phase I (: ORG
+USACE: GPE
+Savannah District: GPE
+Savannah: GPE
+Georgia: GPE
+October 2015: DATE
+CES Foundational Course: ORG
+USACE: GPE
+Savannah District: GPE
+Savannah: GPE
+Georgia: GPE
+May 2015: DATE
+Basic Public Affairs Specialist: ORG
+Honor Graduate: PERSON
+Defense Information School: ORG
+MD: GPE
+May 2011: DATE
+News University: ORG
+Writing Clean &Preciseâ€​: ORG
+USACE: GPE
+Savannah District: GPE
+Savannah: GPE
+Georgia: GPE
+August 2015: DATE
+Bachelor: ORG
+Journalism, Public Relations: ORG
+2008: DATE
+Georgia State University - City: ORG
+2011: DATE
+Defense Information School - City 
+Associate's Degree :: ORG
+2017: DATE
+Community College: ORG
+the Air Force - City: ORG
+2018: DATE
+Microsoft Office: ORG
+2013: DATE
+Cloud Suite: PERSON
+CS6 2014: DATE
+Physician's Practice: ORG
+monthly: DATE
+January 2018: DATE
+MedPage: ORG
+April 2018: DATE
+The Corps Environment: ORG
+July 2015: DATE
+Public Works Digest: ORG
+July/August/Sept: DATE
+2015)Â: CARDINAL
+Foreign Affairs Magazine: ORG
+October: DATE
+Frontline: PERSON
+July: DATE
+August: DATE
+2015)Â: CARDINAL

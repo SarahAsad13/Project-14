@@ -1,0 +1,34 @@
+Air Freight Agent: PRODUCT
+Team: ORG
+Indirect Air Courier: ORG
+Air Freight Agent Company Name - City: PRODUCT
+State Accepting: ORG
+Checking import/
+export: PERSON
+Determining: ORG
+TSA: ORG
+CBP: ORG
+FAA Regulation: ORG
+daily: DATE
+Dangerous Goods: LOC
+04/2005: PRODUCT
+Determining: ORG
+TSA: ORG
+CBP: ORG
+FAA Regulation: ORG
+Verify: LOC
+daily: DATE
+Dangerous Goods: LOC
+08/2003: CARDINAL
+Determining: ORG
+TSA: ORG
+CBP: ORG
+FAA Regulation: ORG
+Verify: LOC
+daily: DATE
+Dangerous Goods: LOC
+1987: DATE
+Liberal Arts & Business College: ORG
+Micronesia - City: GPE
+State Liberal Arts & Business
+Skills: ORG

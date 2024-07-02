@@ -1,0 +1,116 @@
+Affirmative Action: ORG
+Wells Fargo's: ORG
+HRIS: PERSON
+Rising Star Award
+B.S.: ORG
+History - Recipient: GPE
+Hispanic: NORP
+first: ORDINAL
+Open Enrollment: ORG
+June 2013: DATE
+four months: DATE
+8: CARDINAL
+the United States: GPE
+ER: ORG
+CCS: ORG
+Dealer Services: ORG
+ER: ORG
+Dealer Services: ORG
+Consumer Credit Solutions: ORG
+Risk and Compliance: ORG
+CLG: ORG
+ER: ORG
+the ER Business Process Forum: ORG
+ER: ORG
+hour: TIME
+HRHD: ORG
+ER: ORG
+2013: DATE
+quarterly: DATE
+ER: ORG
+Phase II: LOC
+ER: ORG
+Created: ORG
+ER: ORG
+Dealer Services': ORG
+2.0: CARDINAL
+CLG: ORG
+Customer Excellence: ORG
+Performance Consulting: ORG
+4Q14: ORG
+Dealer Services: ORG
+Los Angeles: GPE
+California: GPE
+5/2011 - 6/2013: CARDINAL
+Home Lending: ORG
+Consumer Credit Solutions: ORG
+Dealer
+Services: ORG
+Wells Fargo Financial: ORG
+CLG: ORG
+One: CARDINAL
+Wells Fargo: ORG
+Wells Fargo: ORG
+April 2001 to October 2005: DATE
+State: ORG
+Wells Fargo Bank -: ORG
+San Francisco: GPE
+California: GPE
+Created: ORG
+first: ORDINAL
+EEO-1: PRODUCT
+Developed: PRODUCT
+Plan Writers Conference: EVENT
+Corporate Diversity: ORG
+April 2000 to August 2001: DATE
+the Wells Fargo Summer Internship Program: ORG
+Coordinated: ORG
+NSHMBA: PERSON
+NBMBA
+Expanded: PERSON
+Employment Services: ORG
+December 1999: DATE
+April 2000: DATE
+Supervisor Training Program: ORG
+CBG: ORG
+CBG: ORG
+April 2000: DATE
+Aligned: ORG
+January 1996 to January 1999: DATE
+Foreign Languages: ORG
+First Year Seminar: EVENT
+Directed Summer Scholars Program: ORG
+Early Monitoring Program: ORG
+WideningOurWorld Technology Program: ORG
+the University's Orientation Programs: ORG
+Advisor: ORG
+Latin American
+: NORP
+first Latina Sorority: ORG
+Chancellor's Commission: ORG
+Education: ORG
+M.S.: GPE
+Higher Education University of Nebraska University of Nebraska: ORG
+M.S.: GPE
+Counseling / Concentration: ORG
+Administration â—​ Recipient, Isaacson Scholarship for Graduate Work in Education: WORK_OF_ART
+Rising Star: ORG
+Award â—​: PERSON
+Leadership Organization
+B.S. :: ORG
+History B.S.: PERSON
+History - Recipient: GPE
+Hispanic: NORP
+Affiliations: ORG
+Society of Human Resources Management: ORG
+Accountability For, Change Management: ORG
+Proactive: PERSON
+Self Motivated: PERSON
+Affirmative Action, Compensation: ORG
+Ofccp, Office Of Federal Contract: ORG
+Compliance Programs: WORK_OF_ART
+Operations, Risk Management: ORG
+Virtual Learning: PERSON
+Staffing, Budget, Community Outreach: ORG
+Recruitment, Human Resources, Human Resources Management: ORG
+San, Storage Area Network: GPE

@@ -1,0 +1,151 @@
+Finance: ORG
+Current Company Name City: ORG
+Merck Capital Investments: ORG
+2014: DATE
+1.7B: MONEY
+Harmonize: ORG
+12: CARDINAL
+Finance: ORG
+Name City: GPE
+State
+
+Americas & Merck Consumer Care Mfg Operations Responsible: ORG
+North America: LOC
+my first 3 months: DATE
+Latin America Oversaw: LOC
+14: CARDINAL
+10%: PERCENT
+labor & overhead standard: ORG
+Developed: ORG
+MCC Finance: ORG
+18: CARDINAL
+US: GPE
+Puerto Rico: GPE
+Canada: GPE
+12/2012: CARDINAL
+Name City: GPE
+annual: DATE
+quarterly: DATE
+$165M: MONEY
+Biologics Commercialization: LOC
+Biologics Mfg: ORG
+Exec: PERSON
+BMSC: ORG
+Merck: ORG
+Supply Chain Management, Procurement, Marketing: ORG
+Merck Sr.: ORG
+Leadership Serve: PERSON
+Merck: ORG
+Financial Analyst: ORG
+Name City: GPE
+Merck Manufacturing Division: ORG
+Reporting & Analysis: ORG
+MMD: ORG
+annual: DATE
+quarterly: DATE
+10B: MONEY
+2B: MONEY
+Merck Manufacturing: ORG
+Established: ORG
+MMD: ORG
+5: CARDINAL
+Process: ORG
+annual: DATE
+quarterly: DATE
+MMD: ORG
+Corporate
+Finance management & external auditors: ORG
+quarterly: DATE
+over $200: MONEY
+Created: ORG
+20: CARDINAL
+Corporate: ORG
+Merck: ORG
+Temporarily: PERSON
+month: DATE
+2: CARDINAL
+Name City: GPE
+the Merck Manufacturing Division: ORG
+the North American &: ORG
+Latin American: NORP
+quarterly: DATE
+North & Latin American Operations: ORG
+Coordinated: ORG
+2008: DATE
+the Merck Manufacturing Division: ORG
+3: CARDINAL
+Name City: GPE
+State
+
+Sales & Marketing Prepared: ORG
+the Cordis Neurovascular US Sales & WW: ORG
+Performed: ORG
+Simplified: PERSON
+Cordis: ORG
+Automated: ORG
+Excel: PRODUCT
+the West Point Quality Organization: ORG
+Vaccine Tech & Engineering: ORG
+monthly: DATE
+WPQO: ORG
+monthly: DATE
+Excel: PRODUCT
+monthly: DATE
+annual: DATE
+Developed an Excel: PRODUCT
+WPQO: ORG
+Six Sigma: PERSON
+2004: DATE
+National Black MBA Conferences: ORG
+Internal Auditor 07/2002: ORG
+06/2004: CARDINAL
+Name City: GPE
+Merck: ORG
+3-week: DATE
+Completed 11: PRODUCT
+Merck: ORG
+third: ORDINAL
+Sarbanes-Oxley: PERSON
+Master of Business Administration: ORG
+May 2002: DATE
+Robert H. Smith School: PERSON
+GPA: ORG
+3.73: CARDINAL
+3.73: CARDINAL
+Chinese: NORP
+May 1998: DATE
+NEW YORK UNIVERSITY: ORG
+GPA: ORG
+GPA: ORG
+3.93: CARDINAL
+UNCF - Merck: ORG
+Undergraduate Science Research Scholarship for Minorities GPA: ORG
+3.93: CARDINAL
+Chinese UNCF - Merck Undergraduate: ORG
+Budget: ORG
+Cognos, Conferences: ORG
+Corporate Finance: ORG
+Client: GPE
+Essbase: NORP
+Finance: ORG
+Financial, Financial Analyst: ORG
+Hyperion: ORG
+Investments: ORG
+JD Edwards: PERSON
+Latin: LANGUAGE
+Lotus Notes: PRODUCT
+macros: ORG
+MBA: WORK_OF_ART
+Access, Excel: ORG
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+Word: PERSON
+SAP: ORG
+Sarbanes-Oxley: PERSON
+Six Sigma: PERSON
+Spanish: NORP
+Supply
+Chain Management: ORG
+Tax: PERSON
+Vaccine: PERSON
+Vista: ORG

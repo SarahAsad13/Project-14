@@ -1,0 +1,78 @@
+Komli: ORG
+Thailand: GPE
+Facebook: PERSON
+Twitter: PERSON
+quarterly: DATE
+Highlights
+Skills: WORK_OF_ART
+speakingÂ  Educating: ORG
+Â Platform: PRODUCT
+Social Media: ORG
+Pipeline: ORG
+Management
+Communication: ORG
+Problem: PRODUCT
+Social Engage Sales 01/2015: ORG
+State: ORG
+TheÂ: GPE
+KPI: ORG
+the one month: DATE
+Â Â Assist: PRODUCT
+Quarterly Business: ORG
+Â Reviews: ORG
+Â Enhance: ORG
+Â Identify: PRODUCT
+Â Â: PRODUCT
+12/2014: CARDINAL
+Name City: GPE
+Singapore: GPE
+VP: PERSON
+Weekly: DATE
+weekly: DATE
+Weekly Review Call-Managing Unilever: ORG
+OMD: ORG
+Thailand: GPE
+VP: ORG
+weekly: DATE
+¦: PERSON
+200: MONEY
+AOP: ORG
+Name City: GPE
+Singapore: GPE
+Weekly: DATE
+google docs: PRODUCT
+weekly: DATE
+Weekly Review Call Managing Unilever: ORG
+OMD: ORG
+Thailand: GPE
+VP: ORG
+weekly: DATE
+200: MONEY
+AOP: ORG
+Develop: ORG
+Assess: ORG
+Generate: PERSON
+professional & external: ORG
+Online Media's: ORG
+Establish: NORP
+Participate: ORG
+Identify &: ORG
+Oracle - Consult: ORG
+Oracle: NORP
+Cooperate: ORG
+Account Managers & Partners: ORG
+Target: ORG
+Oracle Thailand Technology: ORG
+BBA: ORG
+State: GPE
+Thailand Marketing Management: ORG
+Bangkok: GPE
+Bangkok: GPE
+thailand: GPE
+Matt-Sci: ORG
+2006: DATE
+Hadyai: NORP
+school - Hadyai: NORP
+Songkla: GPE
+Thailand: GPE
+Oracle: ORG

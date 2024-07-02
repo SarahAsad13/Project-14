@@ -1,0 +1,94 @@
+Lawson Financial: ORG
+PeopleSoft: ORG
+Principal Accountant: PERSON
+Mar 2014: DATE
+Advanced: ORG
+Mac: PERSON
+Compile: PRODUCT
+OPC: ORG
+monthly: DATE
+SEC: ORG
+RUS: ORG
+Rural Utilities Services: ORG
+Collaborated: ORG
+year-end: DATE
+Accountant - Revenue & Purchased Power
+
+Maintain: ORG
+Audit: ORG
+Process: ORG
+Financial Statements: ORG
+OPC
+Develop: ORG
+Process: ORG
+monthly: DATE
+monthly: DATE
+2005: DATE
+Restatement: GPE
+US: GPE
+1999-2004: DATE
+Securities Exchange Commission: ORG
+SEC: ORG
+Assisted: ORG
+Sarbanes Oxley Act: ORG
+SOX: ORG
+PeopleSoft: ORG
+some 7000: CARDINAL
+Mar 2005: PERSON
+Financial Statements: ORG
+Management's Discussion: ORG
+Analysis: PRODUCT
+Coke: ORG
+10-K: CARDINAL
+10: CARDINAL
+Quarterly: DATE
+Facilitated: ORG
+Coordinated: ORG
+Sarbanes-Oxley: ORG
+the External Financial Reporting: ORG
+SEC: ORG
+daily: DATE
+Controller Apr 1999: PERSON
+2003: DATE
+internal & external agencies
+Supervision: ORG
+3: CARDINAL
+Completed: ORG
+two: CARDINAL
+SEC: ORG
+Controller
+
+Responsible: ORG
+GL: ORG
+Facilitated: ORG
+2: CARDINAL
+Maintained: GPE
+Assisted: ORG
+monthly: DATE
+two: CARDINAL
+one: CARDINAL
+Analyst Jan 1998: DATE
+1999: DATE
+annual: DATE
+monthly: DATE
+Prepared monthly P & L: ORG
+Prepared: PRODUCT
+weekly: DATE
+monthly: DATE
+Monthly: DATE
+May 1996 to Dec 1997: DATE
+monthly: DATE
+Maintained: GPE
+Heavy: ORG
+Master of Business Administration: ORG
+Finance 2002 Rutgers University: ORG
+Bachelor of Business Administration: ORG
+1991: DATE
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Peachtree: NORP
+PeopleSoft: ORG
+SAP: ORG
+Sarbanes-Oxley: PERSON
+SQL: GPE

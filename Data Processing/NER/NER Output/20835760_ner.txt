@@ -1,0 +1,98 @@
+PROFESSIONAL HEALTHCARE: ORG
+Career Focus: ORG
+Experienced Healthcare Representative: ORG
+Seeking Pharmaceutical Sales Opportunity: ORG
+Unique: NORP
+Professional Healthcare Representative: ORG
+January 2007: DATE
+Current Company Name: ORG
+Louis: GPE
+Toviaz: GPE
+Viagra: PRODUCT
+Chantix: ORG
+Spiriva: PERSON
+Caduet: PERSON
+Exubera: ORG
+Pristiq: ORG
+Premarin Vaginal Cream: ORG
+Maintained: GPE
+Meaningful Use: PERSON
+ACO: ORG
+second: ORDINAL
+13/57: CARDINAL
+Viagra: PRODUCT
+2014: DATE
+Viagra: PRODUCT
+50%: PERCENT
+2013: DATE
+2014: DATE
+Viagra Field Faculty: ORG
+2014: DATE
+Cluster 1colleagues: LAW
+Viagra: PRODUCT
+Evaluated Participants on Sales Call Evaluations: ORG
+Virtual Classroom: ORG
+a Guest Trainer: PERSON
+105%: PERCENT
+Viagra: PRODUCT
+2013: DATE
+Executed Total Office Call: ORG
+19/57: CARDINAL
+2013: DATE
+2012: DATE
+State: ORG
+Regional Managers: ORG
+Chantix: ORG
+Toviaz: PERSON
+first: ORDINAL
+the Regional Cluster A Home Run Derby Contest: ORG
+2010: DATE
+Winner: PERSON
+March: DATE
+2010: DATE
+Toviaz: GPE
+3: CARDINAL
+20%: PERCENT
+2010: DATE
+January 1999 to January 2007: DATE
+24%: PERCENT
+2004: DATE
+41%: PERCENT
+2005: DATE
+35%: PERCENT
+2006: DATE
+Louis Metro: PERSON
+Gained: NORP
+SSM Cardinal Glennon Children's Hospital: ORG
+Washington University: ORG
+St.
+Louis University: ORG
+McCarthy Building Company: ORG
+Martin & Tucker & Clayco Construction: ORG
+Tenure: ORG
+Louis Minority Business Council: ORG
+73%: PERCENT
+2 years: DATE
+Initiated: ORG
+136%: PERCENT
+3 years: DATE
+daily: DATE
+7: CARDINAL
+Master of Business Administration :: ORG
+Human Resource Development and Management: ORG
+2006: DATE
+Webster University: ORG
+GPA: ORG
+3.6: CARDINAL
+Anthony: PERSON
+Kim Thompson Outstanding Student Award Human Resource Development: PERSON
+3.6: CARDINAL
+Anthony: PERSON
+Kim Thompson Outstanding Student Award
+Bachelor of Science : Psychology Communications: PERSON
+1 1999: DATE
+Southwest Missouri State University: ORG
+State Psychology Communications: ORG
+Council: ORG
+Office: ORG
+Trainer: ORG

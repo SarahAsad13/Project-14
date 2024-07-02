@@ -1,0 +1,116 @@
+AMC COMPUTER SPECIALIST: ORG
+INTERN: ORG
+Summary
+
+Information Technology Specialist: ORG
+twenty nine years: DATE
+Exceptional Listening: WORK_OF_ART
+Excels: PERSON
+Information Technology: ORG
+SME: ORG
+ADA Programming: ORG
+COR: ORG
+daily: DATE
+Division: ORG
+ATEC: NORP
+Customer Support Intern: PRODUCT
+Summer: PERSON
+ATEC: ORG
+Command: ORG
+AMC Computer Specialist: ORG
+Intern Sep: LOC
+1989: DATE
+1992: DATE
+two: CARDINAL
+the Panama Canal Conflict: ORG
+QA: ORG
+two: CARDINAL
+Computer Specialist (Special Assignment: ORG
+1993: DATE
+PM EWRSTA Camp Evans: ORG
+New Jersey: GPE
+Kiowa: ORG
+58D: CARDINAL
+Fort Bragg: GPE
+N.C.: GPE
+Briefed: ORG
+300: CARDINAL
+60: CARDINAL
+Arthur: PERSON
+Hurtado: PERSON
+Fort Myers: ORG
+Florida: GPE
+Artemis Schedule: ORG
+Electronic Warfare: PERSON
+Information Technology Specialist Sep: ORG
+1992: DATE
+2003-2011: DATE
+2003-2011: DATE
+2003-2011: DATE
+CECOM Command: ORG
+Information Technology Specialist Sep 2011: ORG
+Customer Support Branch ATEC Headquarters: ORG
+G6: PERSON
+APG: ORG
+Maryland: GPE
+2013-2015: DATE
+SWE on Information Systems Security: ORG
+2011-2015: DATE
+2011- 2015: DATE
+2011-2015: DATE
+2011-2015: DATE
+2011-2015: DATE
+framework(2011-2015: DATE
+2011-2015: DATE
+Information Technology: ORG
+2011-2015: DATE
+2011-2015: DATE
+applications.(2011-2015: DATE
+2011-2015: DATE
+2011-2015: DATE
+Utilizes: ORG
+2011-2015: DATE
+2011-2015: DATE
+ATEC Headquarters QIP's: ORG
+RTC: ORG
+DTC: ORG
+JITC: ORG
+2014: DATE
+Bachelor of Arts: ORG
+Business Admin: ORG
+January 2016: DATE
+Pillar College: ORG
+State: GPE
+USA: GPE
+4.0: CARDINAL
+GPA: ORG
+Organizational
+Management, Business Management, Business Communications and Theology: ORG
+Computer Software 2006 CED Solutions: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Defense Acquisition University Training Course Completion: ORG
+1 30 & 201: DATE
+SAMJOJ: ORG
+ACQ 2036 Army Civilian
+Training: ORG
+Technical Professional to Management Project Information Technology
+Management Information Assurance Fundamentals: ORG
+Project Management: ORG
+2015: DATE
+State: GPE
+USA: GPE
+Information Technology Level 3: ORG
+November 2015: DATE
+Computer Programmer: ORG
+COR: ORG
+Customer Support: PERSON
+Information Security: ORG
+Hardware: ORG
+Decision Making: ORG
+Information Systems: ORG
+Microsoft Certified Professional: ORG
+MCP: ORG
+Policies: GPE
+Project Management, Risk Assessment: ORG

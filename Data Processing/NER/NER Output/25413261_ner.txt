@@ -1,0 +1,78 @@
+Superb: NORP
+Public Relations Specialist: ORG
+20+years: DATE
+Highlights
+
+Promotional: ORG
+Copywriting: WORK_OF_ART
+Sponsorships: PERSON
+Decisive: NORP
+Persuasive: ORG
+Microsoft Office: ORG
+07/2009: CARDINAL
+08/2011: CARDINAL
+daily: DATE
+Draft: ORG
+monthly: DATE
+each quarter: DATE
+each quarter: DATE
+Develop: ORG
+Kemin Health: ORG
+Update: ORG
+Built Marketing Department: ORG
+Housby Mack: PERSON
+Used Trucks: ORG
+Isuzu: ORG
+Housby Truck Lube: PERSON
+Housby Mixer Group: ORG
+Second Generation: ORG
+monthly: DATE
+15,000: CARDINAL
+100%: PERCENT
+300: CARDINAL
+a day to: DATE
+5000: CARDINAL
+Up to 30,000: CARDINAL
+days: DATE
+12/2004: CARDINAL
+Executive Leadership Team Â: ORG
+quarterly: DATE
+National Sales Managers Â: ORG
+quarterly: DATE
+Developed: ORG
+National Sales Managers: ORG
+two: CARDINAL
+National Telly Awards: ORG
+David Bach: PERSON
+millions: CARDINAL
+Americans: NORP
+10/2004: CARDINAL
+Producer Company Name: WORK_OF_ART
+The Oprah Winfrey Show Â·: WORK_OF_ART
+20+ hour: TIME
+2: CARDINAL
+Oprah: PERSON
+Voting Party: ORG
+Cameron
+Diaz: PERSON
+Drew Barrymore: PERSON
+Christina Aguilera: PERSON
+Inside Detox: ORG
+Lisa Ling Investigates Bride Burnings: PERSON
+Julia Roberts: PERSON
+Having Twins: PERSON
+Weight Loss Success
+Stories: ORG
+Bob Greene: PERSON
+three: CARDINAL
+Oprah Winfrey Â: PERSON
+one: CARDINAL
+daily: DATE
+Bachelor of Arts : Sociology, Journalism Drake University: ORG
+Leadership: NORP
+Lisa: PERSON
+Producer: GPE
+Public Relations: ORG
+Stories: ORG
+National Mack Dealer Marketing
+Advisory Board: ORG

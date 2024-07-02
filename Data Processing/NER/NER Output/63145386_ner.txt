@@ -1,0 +1,70 @@
+Professional Summary
+Highly: ORG
+Core Qualifications
+Proficient: ORG
+PDM: ORG
+DWG TrueView: ORG
+Hyperion Financial: ORG
+QuickBooks: ORG
+Excel: PRODUCT
+V-Lookup: ORG
+Access: ORG
+PowerPoint: ORG
+Project, Outlook, Visio: GPE
+Page Layout Applications: Illustrator: WORK_OF_ART
+PhotoShop: ORG
+ImageReady: ORG
+Adobe Reader: PERSON
+Adobe Acrobat: PERSON
+KPT Vector Tools: ORG
+April 2015: DATE
+over 30%: PERCENT
+Garnered: PERSON
+Controller / Accountant Intern: ORG
+November 2014 to March 2015: DATE
+Project Controller: PERSON
+weekly: DATE
+monthly: DATE
+Maintained: GPE
+daily: DATE
+Assisted CFO/Controller: ORG
+KPI: ORG
+Conducted Accounts Payable: ORG
+Assisted Payroll: ORG
+tracking labor hours: TIME
+325: CARDINAL
+June 2014 to November 2014: DATE
+NCMR: ORG
+$6 million: MONEY
+annually: DATE
+Developed: ORG
+united purchasing: ORG
+Project Controller: PERSON
+June 2012 to June 2014: DATE
+Maintained: GPE
+Bachelor of Science : Finance: ORG
+December 2016: DATE
+Oakland University - City: ORG
+State Finance: ORG
+Skills: ORG
+Accounts Payable: ORG
+Adobe Acrobat: PERSON
+Adobe: PERSON
+PhotoShop: ORG
+Controller: PERSON
+Financial: ORG
+Hyperion, Illustration, Illustrator: ORG
+ImageReady: ORG
+Macros: PRODUCT
+Access: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Page Layout: PERSON
+Payroll: ORG
+PDM: ORG
+Pivot Tables: PERSON
+QuickBooks: ORG
+SAP: ORG
+Visio: PERSON

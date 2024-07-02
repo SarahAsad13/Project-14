@@ -1,0 +1,74 @@
+twenty years: DATE
+Skills
+Microsoft Office Excel: ORG
+Outlook: PERSON
+Word: PERSON
+100: CARDINAL
+Ramp: PERSON
+Syspro: ORG
+Name City: GPE
+Completed: ORG
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+annual: DATE
+Researched: ORG
+RGA: ORG
+Initiated: ORG
+annual: DATE
+Maintained: GPE
+3: CARDINAL
+Inventory: GPE
+four: CARDINAL
+NJ: ORG
+three: CARDINAL
+Processed: GPE
+daily: DATE
+GA: ORG
+TX: ORG
+NV: ORG
+Monthly: DATE
+4: CARDINAL
+4: CARDINAL
+year-end: DATE
+our other three: CARDINAL
+Name City: GPE
+State Inventory Control: ORG
+ERP: ORG
+Syspro: ORG
+COD: ORG
+Processed: GPE
+year-end: DATE
+Name City: GPE
+State Accounting: ORG
+2008: DATE
+monthly: DATE
+monthly: DATE
+G/L: ORG
+monthly: DATE
+G/L: ORG
+month end: DATE
+month end: DATE
+G/L: ORG
+ADP: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Maintained: GPE
+annual: DATE
+Maintained: GPE
+Name City: GPE
+State Full Charge Bookkeeper: ORG
+Training
+B.S :: ORG
+ADP: ORG
+ERP: ORG
+Inventory: GPE
+MAS90: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+Word: PERSON
+PL: ORG
+year-end: DATE

@@ -1,0 +1,77 @@
+SPEECH & LANGUAGE ARTS: ORG
+four: CARDINAL
+Fosters: ORG
+Possesses: PERSON
+6th: ORDINAL
+9th: ORDINAL
+Four years: DATE
+20: CARDINAL
+One year: DATE
+Professional Development: ORG
+Saginaw Bay Riverdawgs Travel Baseball: ORG
+four: CARDINAL
+Dow College Opportunity Program: ORG
+SVSU Board: ORG
+Jostens: PERSON
+English: LANGUAGE
+Yearbook & Psychology: ORG
+SVSU: ORG
+Women's Leadership Forum: ORG
+2006: DATE
+three: CARDINAL
+10%: PERCENT
+Completed 2012-13: ORG
+Reader's Workshop 3-8: ORG
+Alicia Kubacki: PERSON
+MAISA Units: ORG
+Completed Sign Post: ORG
+Anita Kepley: PERSON
+Speech & Language Arts: ORG
+January 2000 to January 2015: DATE
+Four years: DATE
+6th: ORDINAL
+Common Core Standards Focused: WORK_OF_ART
+three: CARDINAL
+Nine years: DATE
+Integrated: NORP
+Ten years: DATE
+English: LANGUAGE
+American: NORP
+Three years: DATE
+Analytical Reading Elective English: WORK_OF_ART
+Facilitated: ORG
+two: CARDINAL
+Four years: DATE
+English: LANGUAGE
+One year: DATE
+English: NORP
+ninth: ORDINAL
+English: LANGUAGE
+grammar Co-designed: PERSON
+One: CARDINAL
+Creative Writing: PERSON
+English: NORP
+eight: CARDINAL
+University - City: ORG
+Grant Program: ORG
+2000: DATE
+Saginaw Valley State University: EVENT
+University - City: ORG
+State Communication & Theater English: ORG
+Interpersonal and Public Communication Marketing: ORG
+1995: DATE
+Central Michigan University - City: ORG
+Interpersonal and Public Communication Marketing
+Teaching: ORG
+6-12: CARDINAL
+Dramatic Arts/Theater: ORG
+English: LANGUAGE
+Skills
+Arts: ORG
+BA: ORG
+Creative Writing: PERSON
+English: LANGUAGE
+Progress, Psychology, Reading: ORG
+Speech: ORG
+6: CARDINAL
+6: CARDINAL

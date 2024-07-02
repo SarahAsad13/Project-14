@@ -1,0 +1,104 @@
+Microsoft Office: ORG
+Autodesk Civil: PERSON
+GIS
+Construction: ORG
+Autodesk Revit: PERSON
+Update: ORG
+CAD: ORG
+two: CARDINAL
+10/2013: CARDINAL
+09/2014 Company Name City: ORG
+State: ORG
+CAD: ORG
+Autodesk Civil: PERSON
+CAD: ORG
+Coordinated: ORG
+Adjunct Instructor 08/2013: PRODUCT
+Develop: ORG
+weekly: DATE
+10/2010: CARDINAL
+Name City: GPE
+Dean: PERSON
+Oversaw: GPE
+Maintained: GPE
+Setup: ORG
+weekly: DATE
+Civil Project Engineer 05/2005: ORG
+Coordinated: ORG
+As-Builts: ORG
+CAD: ORG
+RFI: ORG
+CAD: PRODUCT
+CAD: ORG
+CAD: ORG
+CAD: ORG
+Name City: GPE
+CAD: ORG
+GPS: ORG
+CAD: ORG
+CAD: ORG
+AutoLisp: PRODUCT
+CAD: ORG
+Land Desktop: ORG
+05/2001: CARDINAL
+Name City: GPE
+Trace: ORG
+Carrier: LOC
+Indoor Air
+Quality: ORG
+Trane: PERSON
+CAD: ORG
+12/2000: CARDINAL
+Name City: GPE
+Drafted: ORG
+Collaborated: ORG
+Draftsman: PERSON
+12/1997: CARDINAL
+Name City: GPE
+Prepared: PRODUCT
+ADA: ORG
+Drafted: ORG
+Coordinated: ORG
+MEP: ORG
+Master of Education: WORK_OF_ART
+Leadership 01/2014 Northcentral University City: ORG
+The University of Texas City: ORG
+State Mechanical Engineering: ORG
+Associate of Applied Science : Drafting and Design Technology 06/1992: WORK_OF_ART
+Texas State Technical College City: ORG
+State Drafting and Design
+Technology: ORG
+Edinburg High School Independent School District
+Professional Affiliations: ORG
+9 years: DATE
+CAD: ORG
+6 years: DATE
+American: NORP
+10 years: DATE
+Android: ORG
+MS-DOS *Software: ORG
+Autodesk Civil 3D: PERSON
+Autodesk: PERSON
+Autodesk Inventor: PERSON
+Solidworks: ORG
+GIS Analyst: ORG
+Lidar: ORG
+Autodesk Revit Architectural: PERSON
+Microstation: ORG
+CAD: ORG
+Fortran: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Access: ORG
+Trace: ORG
+Carrier: GPE
+NC: GPE
+Adobe: PERSON
+Acrobat: PERSON
+Flash: PERSON
+Photoshop: ORG
+Firefox: PERSON
+HTML: ORG
+CSS: ORG
+Wordpress: ORG

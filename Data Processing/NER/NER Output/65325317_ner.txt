@@ -1,0 +1,197 @@
+Career Overview
+
+Highly: ORG
+35 years: DATE
+Administrative Management, Logistics Management: ORG
+Budget
+Management, Emergency Management: ORG
+Quality Improvement Management: ORG
+Antiterrorism, Force
+Protection: ORG
+Navigation: ORG
+Law Enforcement: PERSON
+Combat Readiness: ORG
+Skill Highlights
+
+Problem Resolution: ORG
+Collaboration and Coordination
+Service Orientation
+
+Budget
+Microsoft Office: WORK_OF_ART
+QuickBooks: ORG
+Career Accomplishments
+
+: WORK_OF_ART
+State: ORG
+Kodiak: GPE
+Alaska: GPE
+Continuous: PERSON
+the Kodiak Arts Council: ORG
+annual: DATE
+20 percent: PERCENT
+28 percent: PERCENT
+the year: DATE
+200: CARDINAL
+the year: DATE
+Baranov: NORP
+U.S.: GPE
+Four: CARDINAL
+Kuwait: GPE
+Operation Iraqi Freedom: EVENT
+CTF 150: ORG
+2005 -
+2006: DATE
+Patrol Boats: PRODUCT
+Operation Iraqi Freedom: EVENT
+2005 - 2006: DATE
+Liaison Officer: PERSON
+CTF 55.6: LAW
+Oman: GPE
+Yemen: GPE
+UAE: GPE
+Kuwait: GPE
+Djibouti: GPE
+Personal Protective Services: ORG
+US: GPE
+INCONUS: ORG
+2002 - 2005: DATE
+CTF 55.6: ORG
+Operation Iraqi
+Freedom: EVENT
+2002 - 2005: DATE
+the Coast Guard Intelligence Center: ORG
+Liaison: PERSON
+Administration/Leadership Command Enlisted Advisor: ORG
+1997-1999: DATE
+Officer In Charge of Forward Operating Base Kuwait: WORK_OF_ART
+2005 - 2006: DATE
+daily: DATE
+daily: DATE
+1999: DATE
+2002: DATE
+2006: DATE
+2007 - 2009: DATE
+1994 - 1999: DATE
+2002 - 2006: DATE
+2007 - 2009: DATE
+21 to 55 foot: QUANTITY
+ATV: ORG
+pulley systems: ORG
+1986 - 1999: DATE
+2002 - 2009: DATE
+COTR: ORG
+1989-1990: DATE
+1993-1994: DATE
+1995-1996: DATE
+1999-2002: DATE
+2007-2008: DATE
+COTR: ORG
+Area Command: ORG
+RFP: ORG
+Law Enforcement Officer: WORK_OF_ART
+1985 - 2009: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+Liaison Officer: PERSON
+2005: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+2005: DATE
+Education: ORG
+2002: DATE
+U.S. Coast Guard Certification: ORG
+BS-Liberal Arts BS : Management and Psychology Excelsior College BS-Liberal Arts: ORG
+Administration/Management: ORG
+200: CARDINAL
+100: CARDINAL
+Applied Suicide Intervention Course
+Military: ORG
+Four: CARDINAL
+May 1985 to September 2009: DATE
+Four: CARDINAL
+Kuwait: GPE
+Operation
+Iraqi Freedom for CTF 55.6: EVENT
+CTF 150: ORG
+2005 - 2006: DATE
+Patrol Boats: PRODUCT
+Operation Iraqi
+Freedom: EVENT
+2005 - 2006: DATE
+Liaison Officer: PERSON
+CTF 55.6: LAW
+Oman: GPE
+Yemen: GPE
+UAE: GPE
+Kuwait: GPE
+Djibouti: GPE
+Personal Protective Services: ORG
+US: GPE
+INCONUS: ORG
+2002 -
+2005: DATE
+CTF 55.6: ORG
+Operation Iraqi Freedom: EVENT
+2005 - 2006: DATE
+2002 - 2005: DATE
+Law Enforcement Officer: PERSON
+1985 - 2009: DATE
+2002 - 2005: DATE
+the Coast Guard Intelligence Center: ORG
+Liaison: PERSON
+1989: DATE
+Command Enlisted Advisor: ORG
+1997-1999: DATE
+2005 - 2006: DATE
+daily: DATE
+daily: DATE
+1999 - 2002: DATE
+2006: DATE
+2007: DATE
+2007 - 2009: DATE
+1994 - 1999: DATE
+2002 - 2006: DATE
+2007 - 2009: DATE
+21 to 55 foot: QUANTITY
+ATV: ORG
+pulley systems: ORG
+1986 - 1999: DATE
+2002 - 2009: DATE
+COTR: ORG
+1989-1990: DATE
+1993-1994,: DATE
+1995-1996: DATE
+1999-2002: DATE
+2007-2008: DATE
+COTR: ORG
+Area Command: ORG
+RFP: ORG
+Communications Strong: PERSON
+1977 - 1979: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+Liaison Officer: PERSON
+2005: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+2005: DATE
+Professional Affiliations: ORG
+Kodiak High School Booster Club: ORG
+1977 - 1979: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+Liaison Officer: PERSON
+2005: DATE
+1996 - 1999: DATE
+2002 - 2005: DATE
+2005: DATE
+Skills
+Liaison, Security, Training, Budget, Collections, Credit, Increase, Marketing, Video Teleconferencing: ORG
+Administrative Support: PERSON
+Compressors: CARDINAL
+Control Systems: ORG
+Fire Control, Generators, Industrial Machinery: ORG
+Preventive Maintenance: PERSON
+Operations: ORG
+Budget Management, Logistics, Logistics Management: ORG

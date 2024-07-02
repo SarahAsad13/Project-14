@@ -1,0 +1,25 @@
+17-year: DATE
+Established: ORG
+Effective Retail Sales: ORG
+April 2014: DATE
+Name City: GPE
+Shared: ORG
+Maintained: GPE
+January 2005: DATE
+June 2013: DATE
+Name City: GPE
+State General Sales: ORG
+Identify: ORG
+Develop: ORG
+Prepare: ORG
+Advise: ORG
+August 1998: DATE
+October 2004: DATE
+Name City: GPE
+daily: DATE
+Identify: ORG
+Prepare: ORG
+Develop: ORG
+Education: ORG
+Louisiana Tech University City: ORG
+Resolve: PERSON

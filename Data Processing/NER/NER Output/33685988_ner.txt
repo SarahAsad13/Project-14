@@ -1,0 +1,61 @@
+Accounting, Supervisory Management and Training: ORG
+Highlights: GPE
+Budget: ORG
+the BPI Team: ORG
+Savings & IP Schedules: ORG
+daily: DATE
+Maintained: GPE
+monthly: DATE
+annual: DATE
+May 2011 to January 2016: DATE
+G/L Reporting & Preparation of Audit Schedules Daily: ORG
+Savings & Interest Payable Reconciliations: ORG
+the organization year to date: DATE
+Loans & Statutory Deductions Investment Accounting Compiled: ORG
+Price Volume Budget
+Analysis: PERSON
+the Budget Analyst: ORG
+monthly: DATE
+year: DATE
+Gathered: PERSON
+Accretion & Amortization Schedules: ORG
+Accomplishments Liaised: PERSON
+the BPI Team: ORG
+the
+Savings & IP Schedules: ORG
+daily: DATE
+November 2010 to December 2010: DATE
+January 2007 to January 2009: DATE
+State
+
+Daily General Ledger: ORG
+Prepared: PERSON
+Supervisor & Senior Accounts Clerk: ORG
+January 1997 to January 2007: DATE
+eleven: CARDINAL
+each month: DATE
+Prepared Payroll: WORK_OF_ART
+weekly: DATE
+monthly: DATE
+Turbo Pay: ORG
+Daily: PERSON
+Maintained: GPE
+Organize: ORG
+monthly: DATE
+annual: DATE
+Bachelor of Science Degree : Business Administration Finance: ORG
+2009: DATE
+Northern Caribbean University: ORG
+ï¼​ City: GPE
+JAMAICA: GPE
+Business Administration Finance: ORG
+St. Hugh's: PERSON
+Sixth: ORDINAL
+JAMAICA: ORG
+Analysis: ORG
+Budget Analysis: ORG
+Ledger: PERSON
+Interest Payable & Savings: ORG
+Payroll: ORG
+Schedules: GPE
+Customer Service: ORG

@@ -1,0 +1,49 @@
+15 Years: DATE
+Account: GPE
+Detail: PERSON
+Trustworthy: PERSON
+Articulate: WORK_OF_ART
+years: DATE
+Skill: PERSON
+1: CARDINAL
+Skill: PERSON
+2: CARDINAL
+Executive: NORP
+Operations: ORG
+Client: GPE
+Excel: PRODUCT
+Accountant Company Name: ORG
+17%: PERCENT
+two-year: DATE
+E-_mail: GPE
+every day: DATE
+treasury: ORG
+the
+financial department: ORG
+daily: DATE
+ACH: ORG
+Prepared: PRODUCT
+treasury: ORG
+daily: DATE
+monthly: DATE
+treasury: ORG
+Communicated: ORG
+treasury: ORG
+Performed: ORG
+monthly: DATE
+Accounts Payable: ORG
+daily: DATE
+Processed: GPE
+treasury: ORG
+daily: DATE
+monthly: DATE
+Maintained: GPE
+two: CARDINAL
+treasury: ORG
+Associate Degree: PERSON
+Accounting National Education Center: ORG
+ï¼​ City: GPE
+State Accounting
+Bachelor of Science: ORG
+Accounting University: ORG
+treasury: ORG

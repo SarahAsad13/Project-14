@@ -1,0 +1,55 @@
+SIERRA: ORG
+Development or Executive: ORG
+Articulate: ORG
+Russian: NORP
+Spanish: NORP
+Suite: PERSON
+Time: ORG
+Database: GPE
+more than 50: CARDINAL
+50: CARDINAL
+10: CARDINAL
+Washington: GPE
+D.C. Metropolitan: ORG
+INTL TV, Services, Inc.: ORG
+Dean's List: WORK_OF_ART
+between 2012 and 2014: DATE
+Name City: GPE
+Sierra: ORG
+Excel: PRODUCT
+Created PowerPoint: ORG
+10: CARDINAL
+Researching: PRODUCT
+Name City: GPE
+State Executive: ORG
+Director of Operations &: ORG
+Processed: GPE
+Translated: ORG
+Russian: NORP
+Spanish: NORP
+English: LANGUAGE
+Name City: GPE
+State: ORG
+Spanish: LANGUAGE
+Collaborated: ORG
+Spanish: NORP
+Maintained: GPE
+Master of Arts : Economics & Community Development: WORK_OF_ART
+2015: DATE
+Pennsylvania State University: ORG
+City: GPE
+State: ORG
+GPA: ORG
+4.0: CARDINAL
+Bachelor of Arts : International Relations: ORG
+Spanish Language 2008: EVENT
+George Mason University: ORG
+City: GPE
+State: ORG
+GPA: ORG
+3.2: CARDINAL
+Interpersonal: ORG
+Office Administration: ORG
+MS Office Suite: ORG
+C-Level: ORG
+60: CARDINAL

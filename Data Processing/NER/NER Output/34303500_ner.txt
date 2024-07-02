@@ -1,0 +1,76 @@
+Core Qualifications
+
+Budget &: ORG
+Accomplishments
+-Added: WORK_OF_ART
+35+: DATE
+WaveFly: ORG
+JMF Solutions: ORG
+January 2016: DATE
+-Personally: ORG
+115%: PERCENT
+a year: DATE
+over $300,000: MONEY
+36 month: DATE
+January 2016: DATE
+Director 10/2015: DATE
+Current Company Name City: ORG
+State: ORG
+WaveFly Technologies: ORG
+My day to day: DATE
+35: CARDINAL
+36 month: DATE
+HOA: ORG
+MDU: ORG
+22: CARDINAL
+36 month: DATE
+Maintained: GPE
+115%: PERCENT
+the last year: DATE
+USAC: ORG
+E-Rate: ORG
+Ingram Micro: ORG
+CISCO: ORG
+Store Trainer & Key Holder: ORG
+07/2013 to 12/2015: CARDINAL
+Name City: GPE
+daily: DATE
+weekly: DATE
+daily: DATE
+Lead Bartender & Store Trainer: ORG
+08/2011: CARDINAL
+Name City: GPE
+daily: DATE
+Maintained: GPE
+hours: TIME
+Name City: GPE
+Devised: ORG
+Microsoft Excel: ORG
+minutes: TIME
+Education: ORG
+Nursing 2010 University of Mobile City: ORG
+State: GPE
+USA: GPE
+University of Mobile: ORG
+Center for Adult Programs: ORG
+2015: DATE
+University of Mobile City: ORG
+State: GPE
+USA: GPE
+Leadership & Cultural Studies: ORG
+All 4 years: DATE
+Deans: NORP
+3.5: CARDINAL
+GPA: ORG
+The Bachelor of Science in Leadership and Cultural Studies: ORG
+Skills
+
+Sales Software: ORG
+Desktop Publishing Software: ORG
+Cold Calling
+Achieving Results
+Customer Satisfaction
+Building Relationships
+Microsoft Office: WORK_OF_ART
+Microsoft: ORG
+Excel: PRODUCT

@@ -1,0 +1,79 @@
+18 years: DATE
+200: CARDINAL
+multi-million dollar: MONEY
+Santa Fe: ORG
+Skills
+
+Strategic Planning
+Marketing and Communication
+Highly Creative
+
+Financial & Analytical Experience
+Facilities Management Experience
+
+Leading IT: ORG
+Projects & Teams: ORG
+Jan 2007 to Jan 2017: DATE
+NM & CO Branches and Private Banking: ORG
+Bank: ORG
+Bank: ORG
+annual: DATE
+monthly: DATE
+Bank's Board of Directors and Asset & Liability Committee: ORG
+Participate in Executive Management: ORG
+Asset & Liability Management: ORG
+Marketing & Communications: ORG
+Jan 1993 to Jan 2006: DATE
+the
+Bank: ORG
+Bankwide: ORG
+Executive Management: ORG
+Bank: ORG
+Bank: ORG
+Jan 1986 to Jan 1993: DATE
+Project Management: ORG
+Bank: ORG
+monthly: DATE
+ATM: ORG
+2016: DATE
+New Mexico: GPE
+MBA: WORK_OF_ART
+The College of Santa Fe Western States School of Banking at University of New Mexico: ORG
+Business Administration: ORG
+Northern Arizona University Business Administration: ORG
+Interests: NORP
+Santa Fe Chamber of Commerce: ORG
+2007-2012: DATE
+the last 3 years: DATE
+Education: ORG
+2004-2006: DATE
+St. Michael's: GPE
+Adobe Acrobat: PERSON
+ATM: ORG
+Executive Management: ORG
+Facilities Management, Financial: ORG
+Marketing and Communication: ORG
+Microsoft Excel: ORG
+Microsoft Outlook: ORG
+Microsoft Powerpoint: ORG
+Microsoft: ORG
+Project Management: ORG
+Strategic Planning
+Additional Information
+
+AWARDS & COMMUNITY INVOLVEMENT: ORG
+Santa Fe Chamber of Commerce: ORG
+2007-2012: DATE
+the last 3 years: DATE
+AWARDS & COMMUNITY INVOLVEMENT: ORG
+Santa Fe Chamber of Commerce: ORG
+2007-2012: DATE
+the last 3 years: DATE
+Education: ORG
+2004-2006: DATE
+St. Michael's: GPE
+Santa Fe: GPE
+the Large Business Category: ORG
+the Santa Fe Chamber of Commerce: ORG
+US: GPE
+Jennifer Lind: PERSON

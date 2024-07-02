@@ -1,0 +1,44 @@
+More than ten years: DATE
+100lbs: CARDINAL
+Valid La: PERSON
+Lifts: ORG
+up to: CARDINAL
+100] pounds: QUANTITY
+3 years in a row: DATE
+Packed: ORG
+Attended Flight School
+
+Education: ORG
+BASICS: PERSON
+1998: DATE
+St.Bernard High School: ORG
+Name City: GPE
+State Pest Control Tech 08/2014: ORG
+Name City: GPE
+State: ORG
+Processed: GPE
+Oversaw: GPE
+Oversaw: GPE
+Name City: GPE
+State Warehouse/Driver: ORG
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+Maintained: GPE
+Name City: GPE
+State Warehouse/Shipping and: ORG
+Oversaw: GPE
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+ERP: ORG
+0%: PERCENT
+Name City: GPE
+State Driver/Helper: ORG
+Coordinated: ORG
+daily: DATE
+Obtained: ORG
+DOT: ORG
+Name City: GPE
+ISO: ORG
+Scanner: GPE

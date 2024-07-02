@@ -1,0 +1,43 @@
+first: ORDINAL
+Storm Water Compliance: WORK_OF_ART
+Ultraweld Exothermic Connection: ORG
+Switch, Single: ORG
+Three: CARDINAL
+MS: ORG
+Excel: PRODUCT
+Tower: PERSON
+RFDS: ORG
+Name City: GPE
+8 years: DATE
+Oversee: ORG
+more than 100: CARDINAL
+more than $10M.: MONEY
+Assigned: PERSON
+Determine: PERSON
+Name City: GPE
+II 11/2008: DATE
+Coordinate: ORG
+Utilities: ORG
+Completed: ORG
+daily: DATE
+Order: ORG
+Las Vegas: GPE
+Name City: GPE
+daily: DATE
+Budget: ORG
+Order: ORG
+Build: PERSON
+Sweep Test: ORG
+1991: DATE
+El Dorado High School: ORG
+State: ORG
+Blueprint: ORG
+Budget: ORG
+Budget: ORG
+CPR: ORG
+first: ORDINAL
+MS Excel: ORG
+MS Word: PERSON
+Safety: ORG
+Switch: ORG
+Utilities: ORG

@@ -1,0 +1,36 @@
+DIRECTOR: ORG
+Committed: ORG
+Innovative: NORP
+Human Resources: ORG
+Registrar: ORG
+Respond: PERSON
+days: DATE
+Distribute: ORG
+Develop: ORG
+annual: DATE
+Hollis Preschool Board: ORG
+the NH Child Care Licensing and Operating Standards: ORG
+Oversee: GPE
+Hollis Preschool: ORG
+Curriculum Committee: ORG
+06/2008: ORG
+IEP: ORG
+TEAM: ORG
+Working: ORG
+06/1999: CARDINAL
+first: ORDINAL
+Kindergarten: PERSON
+daily: DATE
+Mental Health Counselor Company Name: ORG
+NH: ORG
+May 1999: DATE
+Bachelor of Arts : Psychology Child Welfare University: ORG
+City: GPE
+State Psychology Child Welfare: ORG
+Child Care: ORG
+Educator: PERSON
+Human Resources: ORG
+Microsoft Office: ORG
+Organizational: ORG
+Staff Development: ORG
+Time Management: ORG

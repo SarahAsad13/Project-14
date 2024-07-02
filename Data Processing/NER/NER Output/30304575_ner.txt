@@ -1,0 +1,118 @@
+Financial Professional: ORG
+Skills
+
+Accounting and Financial Reporting: ORG
+Cash Flow Management and Financial
+Statement Analysis: ORG
+Reconciliations: PERSON
+AP: ORG
+Billing
+Progressive: ORG
+Budget Management: ORG
+SEC & GAAP Compliances
+Excellent: ORG
+Superb: NORP
+Team
+Settings: ORG
+Strong: PERSON
+Microsoft Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+Outlook
+Perfect: ORG
+Lawson: PERSON
+QuickBooks Pro: ORG
+PeopleSoft: ORG
+Axiom,: ORG
+Bloomberg Terminal: ORG
+Work History: WORK_OF_ART
+11/2014: CARDINAL
+10/2016: CARDINAL
+Accountant II Company Name: ORG
+month-end: DATE
+Ledger: PERSON
+Researched: ORG
+weekly: DATE
+monthly: DATE
+CPAR: ORG
+Performed: ORG
+monthly: DATE
+Prepared: PRODUCT
+Performed: ORG
+monthly: DATE
+monthly: DATE
+Account Payable & Purchasing: ORG
+daily: DATE
+11/2013 to 12/2013: CARDINAL
+Prepared: PERSON
+monthly: DATE
+monthly: DATE
+Monitored: ORG
+daily: DATE
+11/2013: CARDINAL
+month end: DATE
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Researched: ORG
+YTD: ORG
+12/2011: CARDINAL
+Accountant: PERSON
+month: DATE
+daily: DATE
+Performed: ORG
+12/2011: CARDINAL
+Performed: PERSON
+Researched: ORG
+Equity Research Analyst: ORG
+daily: DATE
+U.S.: GPE
+European: NORP
+10-Q: DATE
+SEC: ORG
+Bookkeeper: GPE
+Prepared: PRODUCT
+Processed: GPE
+weekly: DATE
+20: CARDINAL
+04/2008: PERSON
+Operation Budget: ORG
+weekly: DATE
+Pay-Hour: PRODUCT
+over 10,000: CARDINAL
+Bus Operator and Bus Maintenance: WORK_OF_ART
+Hyperion: ORG
+Prepared Audit Travel Expenses Report Assisted Supervisors: ORG
+Affiliations: ORG
+National Association of Black Accountants: ORG
+NABA: PERSON
+CSI International
+Students Association: ORG
+Education: ORG
+2012: DATE
+UNIVERSITY OF PHOENIX - City: ORG
+State: ORG
+2009: DATE
+Bachelor of Science : Accounting Finance & Economics: ORG
+NEW YORK - City: GPE
+State 
+
+Accounting Finance & Economics: ORG
+AP: ORG
+AR: ORG
+Bloomberg, Budget Management: ORG
+Financial Reporting: ORG
+Financial Statement Analysis: ORG
+General Ledger: ORG
+GL: ORG
+Hyperion: ORG
+Lawson: PERSON
+Mas 90: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Month End Close: DATE
+PeopleSoft: ORG

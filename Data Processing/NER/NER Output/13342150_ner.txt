@@ -1,0 +1,42 @@
+Medicare: ORG
+Medi-Cal
+Medical: ORG
+HIPAA: ORG
+Team: ORG
+Critical: ORG
+Patient Service: ORG
+03/2015: DATE
+Oversaw: GPE
+Guided: ORG
+16: CARDINAL
+Physician: PERSON
+Physicians and Patients: ORG
+Windows: GPE
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Demographics: ORG
+IDX: ORG
+Clinicare: ORG
+Paging Physicians through Perfect Serve: WORK_OF_ART
+Supervisor/Call: WORK_OF_ART
+Name City: GPE
+Facilitated: ORG
+year-end: DATE
+Salon Manager/: PERSON
+State: ORG
+Salon teamÂ Â: ORG
+53%: PERCENT
+first quarters: DATE
+Salon: ORG
+monthly: DATE
+Customer Service Sales Associate: ORG
+Name City: GPE
+State: ORG
+150Â: CARDINAL
+Training
+Bachelors of Arts 2011 Harrington College of Design: PERSON
+Compassionate: ORG
+Time: ORG
+Detail: PERSON
+Charting: PERSON

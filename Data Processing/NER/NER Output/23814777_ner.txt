@@ -1,0 +1,63 @@
+Career Overview
+
+Dedicated: WORK_OF_ART
+Administrative Support Specialist: ORG
+Core Strengths
+Excel: WORK_OF_ART
+Windows: ORG
+Microsoft: ORG
+Data Entry: ORG
+BLS: ORG
+PFT: ORG
+ECG: ORG
+Inspector: ORG
+Quality Control: ORG
+General Office: ORG
+Phlebotomy, Team: ORG
+Cash Handling: PERSON
+Call Center: ORG
+Telemarketing: PERSON
+Lo Driver: PERSON
+05/2012: CARDINAL
+Team Leader/ Machine Operator Company Name: ORG
+Inspected: ORG
+Maintained: GPE
+Home Healthcare Provider Company Name: ORG
+Home Healthcare Provider Company Name: ORG
+04/2009: ORDINAL
+10/2000 to 12/2003: CARDINAL
+daily: DATE
+2014: DATE
+Associate of Science : Business Management Henry Ford Community College: WORK_OF_ART
+State: ORG
+Wayne
+
+Office Administration: ORG
+Human Resource: ORG
+Microsoft Office Applications, Management and Business
+Administration Â: ORG
+2005: DATE
+Lawton School: ORG
+State: GPE
+Oakland: GPE
+Medical Receptionist: ORG
+Medical Billing: ORG
+Medical Records: ORG
+Lawton: GPE
+MI BLS Medical: ORG
+Skills
+
+Customer Service: ORG
+Receptionist: NORP
+Correspondence, Medical: ORG
+Training: PERSON
+Medical Records: ORG
+Std: PERSON
+Business Management: ORG
+Data Entry: ORG
+Excel: PRODUCT
+General Office, Mental Health: ORG
+Microsoft Office: ORG
+Multi Phone: ORG
+Phlebotomy, Quality Control: ORG
+Telemarketing: GPE

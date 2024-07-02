@@ -1,0 +1,24 @@
+Reliable: WORK_OF_ART
+04/2016: PRODUCT
+Teach Circuit: ORG
+Advanced Dance Fitness: ORG
+Cleaned: ORG
+03/2015: WORK_OF_ART
+Vista: ORG
+theirÂ: GPE
+Continuing Education: ORG
+Proctored C.R.C ( Â Career Readiness Career: ORG
+TestingÂ 
+Helped: PERSON
+weekly: DATE
+Verbal: ORG
+Zumba: PERSON
+Time Management Nutrition: ORG
+2012: DATE
+State: GPE
+United States Teach Dance Fitness, Circuit Training: ORG
+Spin General
+Studies: ORG
+2017: DATE
+Associate of Arts : Business Administration Accounting Northeast MS Community College - City: WORK_OF_ART
+State Business Administration Accounting: ORG

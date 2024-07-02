@@ -1,0 +1,54 @@
+ASST: GPE
+Executive: ORG
+Time: ORG
+Accomplishments
+
+Meeting planning
+Schedule: WORK_OF_ART
+Strong: PERSON
+30: CARDINAL
+Child Center Asst: ORG
+Current Company Name City: ORG
+Child Center: LOC
+Articulate: ORG
+Life Time Fitness: ORG
+Childhood: ORG
+Name City: GPE
+daily: DATE
+NAEYC: ORG
+Practices: PERSON
+Child Center Department: ORG
+04/2008 Company Name City: ORG
+the Center Help: FAC
+Oversees daily operations: ORG
+32: CARDINAL
+Drafted: ORG
+the Child Center: ORG
+Child Center Assistant Department: ORG
+Name City: GPE
+the Child Center: ORG
+Child Center: ORG
+the Child Center: ORG
+Activities Assistant Department head/: ORG
+Life Time Fitness: ORG
+Assist: NORP
+2: CARDINAL
+Teacher/School Age Lead: ORG
+Name City: GPE
+daily: DATE
+NAEYC: ORG
+04/1997: CARDINAL
+Name City: GPE
+Bachelor of Science : Criminal: ORG
+Kaplan University City
+
+Criminal Justice: ORG
+June 2002: DATE
+Oakton Community College City: ORG
+State
+
+Associates Arts: ORG
+Diploma June 2000: DATE
+Evanston Township HS City: NORP
+State: ORG
+Articulate: ORG

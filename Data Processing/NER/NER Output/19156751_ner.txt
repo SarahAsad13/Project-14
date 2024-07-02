@@ -1,0 +1,36 @@
+Verbal: ORG
+06/2016: PRODUCT
+Dealt: PERSON
+annual: DATE
+02/2016: PRODUCT
+Current
+Bar tender Company Name: ORG
+Dealt: PERSON
+Communicated: ORG
+daily: DATE
+Communicated: ORG
+Committed: ORG
+02/2016: CARDINAL
+Server: ORG
+Communicated: ORG
+daily: DATE
+Communicated: ORG
+Committed: ORG
+Dealt: PERSON
+daily: DATE
+State: ORG
+Select Sample Phrases: PERSON
+Select Expert Advice: ORG
+2011: CARDINAL
+State: GPE
+USA: GPE
+2012: DATE
+King's College: ORG
+State: ORG
+USA Completed: ORG
+King's College: ORG
+a year: DATE
+Microsoft: ORG
+Skills
+Work: ORG
+Rapidly: ORG

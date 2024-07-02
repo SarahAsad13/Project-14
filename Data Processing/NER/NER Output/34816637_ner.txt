@@ -1,0 +1,107 @@
+Balance Sheet: PERSON
+Actual Expense: PERSON
+Yearly: DATE
+Compiles: GPE
+Annual Budget: ORG
+Microsoft Office: ORG
+QuickBooks & Excel: ORG
+Monthly: DATE
+Financial Statements: ORG
+1040: DATE
+IRS: ORG
+NYS: ORG
+Book Keeping: Entering all Expenses and Revenue: WORK_OF_ART
+Bank & Credit Card Reconciliations Sales Tax: Complete: ORG
+quarterly: DATE
+Adjusting Entries: Balance Sheet Accounts: WORK_OF_ART
+quarter
+and year end: DATE
+Complete Financial Statements Budget Analysis: ORG
+the year: DATE
+1: CARDINAL
+2: CARDINAL
+Payroll: Processing of Weekly: LAW
+Bi-Weekly: ORG
+Monthly Payroll: WORK_OF_ART
+Complete: PERSON
+weekly: DATE
+monthly: DATE
+Electronic Federal Tax Payments: ORG
+941: CARDINAL
+944: CARDINAL
+NYS-1: GPE
+Complete Quarterly: PERSON
+year end: DATE
+Federal 941,: ORG
+944: CARDINAL
+QuickBooks: ORG
+Pro Series: NORP
+Microsoft Office Excel: ORG
+Outlook: PERSON
+the United Way: GPE
+Montgomery County: GPE
+Working: ORG
+the Board of Directors: ORG
+Assist the Executive: ORG
+QuickBooks & Microsoft Office: ORG
+Outlook: PERSON
+Excel: PRODUCT
+Power Point: ORG
+weekly: DATE
+Monthly Electronic Federal Tax Payments: ORG
+941: CARDINAL
+NYS-1: WORK_OF_ART
+Book Keeping: Entering all Expenses: WORK_OF_ART
+Bank & Credit Card Reconciliations: ORG
+27: CARDINAL
+over 500: CARDINAL
+4: CARDINAL
+weekly: DATE
+Train: GPE
+27: CARDINAL
+over 500: CARDINAL
+New World: ORG
+Complete Federal 941 & NYS-: ORG
+45: CARDINAL
+quarterly: DATE
+all year end: DATE
+Reconcile: PRODUCT
+W-2's Supervise Payroll : Review: ORG
+Dental: ORG
+Flexible Spending: ORG
+Approve: PERSON
+Grant Funding: Assist: ORG
+the past year: DATE
+the coming year: DATE
+Wage: PERSON
+3 year: DATE
+FICA: ORG
+Medicare: ORG
+NYS Retirement: ORG
+Benetech: ORG
+GASB: ORG
+Milliman Actuaries: ORG
+over 250: CARDINAL
+the year: DATE
+GASB: ORG
+May 2012: DATE
+Fulton-Montgomery Community College: ORG
+City: GPE
+State Business Accounting
+Individual Studies Certificate: ORG
+August 2006: DATE
+Skills: ORG
+Accounts Payable: ORG
+Balance Sheet: PERSON
+Book Keeping, Budget Analysis, Budget Development: WORK_OF_ART
+Budget: ORG
+Special Events, Financial, Financial Statements: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Power Point: ORG
+Word: PERSON
+Payroll: ORG
+Personnel: ORG
+QuickBooks: ORG
+Tax: PERSON
+year end: DATE

@@ -1,0 +1,89 @@
+thirty years: DATE
+EXCEL: ORG
+WORD: ORG
+Telxon: ORG
+Customer Service: ORG
+Credit: ORG
+Award: PERSON
+Outstanding Performance: WORK_OF_ART
+April 2013: DATE
+Provide Training and Direct Supervision: ORG
+Demonstrate: ORG
+CPR & First Aid: ORG
+three months: DATE
+Community Job: ORG
+Enclave Supervisor: PERSON
+Complete: PERSON
+weekly: DATE
+Enclave Supervisor's: PERSON
+Enclave: PERSON
+Workshop: LOC
+Community: ORG
+November 2007 to March 2013: DATE
+Merchandising and Company Standards: WORK_OF_ART
+Associates: ORG
+District/Regional Management: ORG
+110%: PERCENT
+last year: DATE
+Credit Goals: ORG
+1.44%: PERCENT
+over million dollars: MONEY
+last year: DATE
+April 2006 to November 2014: DATE
+Soft: PERSON
+twenty million dollar: MONEY
+thirty: CARDINAL
+Managerial: ORG
+Company: ORG
+Number One: PRODUCT
+Corporate Visual Merchandising Team: ORG
+daily: DATE
+September 2004 to April 2006: DATE
+five million dollar: MONEY
+Ladies Apparel: ORG
+49.6: CARDINAL
+twenty: CARDINAL
+Managerial: ORG
+Coordinated Visual Merchandising: ORG
+Inventory Control: ORG
+Recruited: PERSON
+Exceeded Spring Sales & Credit Goals: ORG
+April 2001 to September 2004: DATE
+Associate Merchandise Planner Home Area 
+City: ORG
+Communicate: ORG
+RMM: ORG
+Allocate: ORG
+April 1997 to April 2001: DATE
+the Inforem Replenishment System: ORG
+the Inforem Replenishment System: ORG
+Coordinate: FAC
+quarterly: DATE
+October 1996 to April 1997: DATE
+Linens &Soft Lines: ORG
+January 1992 to October 1996: DATE
+120: CARDINAL
+Recruited: PRODUCT
+forty: CARDINAL
+3% TO 2%: PERCENT
+September 1979 to January 1992: DATE
+Soft Lines: ORG
+35: CARDINAL
+Coordinated: ORG
+Philo High School: ORG
+State: GPE
+United States: GPE
+Muskingum Vocational School: ORG
+1980: DATE
+State: ORG
+United States: GPE
+CPR: ORG
+First Aid, Inforem, Inventory Control: ORG
+Lotus Notes: ORG
+Mainframe: PERSON
+Managerial: PERSON
+WORD: ORG
+Payroll: ORG
+Supervisor, Supervision: ORG
+Training: PERSON
+Customer Service: ORG

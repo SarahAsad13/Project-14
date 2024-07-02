@@ -1,0 +1,78 @@
+Pavithra Shetty: PERSON
+Principal: NORP
+SQL: GPE
+Data Visualization: ORG
+more than 6 years: DATE
+Principal Consultant Company Name: ORG
+City: GPE
+State: ORG
+June 2018 - Current
+
+Design: DATE
+BI: ORG
+Data Visualization Using Business Intelligence Tool: ORG
+Write SQL Queries: ORG
+Visualization Tool: PERSON
+Modeling: GPE
+Embed BI: ORG
+Customer Application: ORG
+JavaScript: PRODUCT
+BI: ORG
+SQL: ORG
+Document SQL Queries: ORG
+Student
+Information System: ORG
+Perform Unit: ORG
+Development: GPE
+QA: ORG
+Build Release: LOC
+Follow Agile Methodology: PERSON
+Create SQL: ORG
+City: GPE
+State: ORG
+September 2015 - May 2018: DATE
+SQL: ORG
+Conceived: PERSON
+BI: ORG
+Created: ORG
+SSIS: ORG
+Microsoft Visual Studio: ORG
+SSIS: ORG
+SQL Server: ORG
+Established: ORG
+2: CARDINAL
+College Student Company Name: ORG
+City: GPE
+State: ORG
+January 2015 - May 2016: DATE
+Random Forest Classifier: WORK_OF_ART
+96%: PERCENT
+one: CARDINAL
+Constructed Training: PERSON
+Java: PERSON
+five: CARDINAL
+five: CARDINAL
+95%: PERCENT
+Software Engineer Company Name: ORG
+City: GPE
+State: ORG
+October 2013 - January 2014: DATE
+Skills: ORG
+SQL Server: ORG
+Data Analysis: ORG
+Visualization: CARDINAL
+JavaScript
+Azure: PRODUCT
+Science Computer Science University of Illinois: ORG
+Springfield: GPE
+City: GPE
+Data Science: ORG
+Data Mining: ORG
+3.95/4.0: CARDINAL
+GPA: ORG
+May 2016: DATE
+Bachelor of Engineering Information Science P.A College of Engineering: ORG
+Best Outgoing Student" Recipient
+Honor Roll: WORK_OF_ART
+2010-2011: DATE
+May 2013: DATE

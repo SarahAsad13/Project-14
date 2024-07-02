@@ -1,0 +1,225 @@
+MAINTENANCE ENGINEERING CO-OP: ORG
+Maintenance Engineering Co-Op: ORG
+01/2019: DATE
+11/2019: CARDINAL
+Computerized Maintenance Management System: ORG
+Maximo: PERSON
+Managed Maximo: PERSON
+7.6: CARDINAL
+Maint Work Orders: ORG
+Maximo: GPE
+1000: CARDINAL
+Maximo: PERSON
+50%: PERCENT
+Maximo: PERSON
+Created: ORG
+Preventive Maintenance: ORG
+Predictive Maintenance: PERSON
+Effects Analysis: ORG
+PFMEA: ORG
+Maximo: PERSON
+SharePoint: ORG
+Champion for Spindle Vibration Analysis: ORG
+Electrical: GPE
+Pneumatic: LOC
+Identify: ORG
+ORACLE: ORG
+Purchasing Dept: ORG
+Student Team Leader: ORG
+05/2018: GPE
+12/2018: CARDINAL
+5,000: MONEY
+15: CARDINAL
+Mechanical Intern: PERSON
+01/2016: ORG
+02/2016: CARDINAL
+SolidWorks: ORG
+Modes: PERSON
+Effects Analysis: ORG
+FMEA: ORG
+Bill of Materials: LAW
+Root Cause Analysis: ORG
+01/2015: DATE
+Unigraphics: NORP
+ANSYS: PERSON
+Implemented Lean Manufacturing: WORK_OF_ART
+5%: PERCENT
+CNC: ORG
+01/2019: DATE
+11/2019: CARDINAL
+Computerized Maintenance Management System: ORG
+Maximo: PERSON
+Managed Maximo: PERSON
+7.6: CARDINAL
+Maint Work Orders: ORG
+Maximo: GPE
+1000: CARDINAL
+Maximo: PERSON
+50%: PERCENT
+Maximo: PERSON
+Created: ORG
+Preventive Maintenance: ORG
+Predictive Maintenance: PERSON
+Effects Analysis: ORG
+PFMEA: ORG
+Maximo: PERSON
+SharePoint: ORG
+Champion for Spindle Vibration Analysis: ORG
+Electrical: GPE
+Pneumatic: LOC
+Identify: ORG
+ORACLE: ORG
+Purchasing Dept: ORG
+01/2016: ORG
+02/2016: CARDINAL
+SolidWorks: ORG
+Modes: PERSON
+Effects Analysis: ORG
+FMEA: ORG
+Bill of Materials: LAW
+Root Cause Analysis: ORG
+01/2015: DATE
+Unigraphics: NORP
+ANSYS: PERSON
+Implemented Lean Manufacturing: WORK_OF_ART
+5%: PERCENT
+CNC: ORG
+Student Team Leader: ORG
+05/2018: GPE
+12/2018: CARDINAL
+5,000: MONEY
+15: CARDINAL
+Master of Science : Mechanical Engineering: WORK_OF_ART
+12/2019: CARDINAL
+Western Michigan University - City: ORG
+State: ORG
+GPA: ORG
+3.54/4: CARDINAL
+6: CARDINAL
+Catapult: ORG
+Design of Experiments: ORG
+Statistical Process Control: ORG
+JMP: ORG
+Developed Product Design Specification: ORG
+Quality Function Deployment: ORG
+Gantt Chart: PERSON
+Pugh Matrix: ORG
+Modes: PERSON
+Effects Analysis: ORG
+FMEA: ORG
+Bachelor of Engineering: ORG
+Automotive Engineering: ORG
+06/2017: CARDINAL
+Sagar College of Engineering: ORG
+Visvesvaraya Technological University - City: ORG
+GPA: ORG
+3.4/4: CARDINAL
+Mechanical Engineering: ORG
+Mechanical Design: ORG
+DOE: ORG
+Project
+Management: ORG
+CAD: ORG
+GD&T, Analysis & Simulation, Quality Control, Machine Processing & Maintenance
+Highlights
+
+Finite Element Analysis: ORG
+IBM: ORG
+7.6: CARDINAL
+SharePoint: ORG
+Oracle: ORG
+3: CARDINAL
+DFM: ORG
+Lean Manufacturing: ORG
+Computer-Aided Design: ORG
+Geometric
+Dimensioning
+Process Failure Mode: PERSON
+Effects Analysis: ORG
+PFMEA: ORG
+CNC: ORG
+Tolerancing: PERSON
+Unigraphics: GPE
+Project Management, Design of Exp: ORG
+V5: CARDINAL
+SolidWorks: ORG
+ANSYS: PERSON
+MATLAB: ORG
+Minitab: PERSON
+Statistical Data Analysis: ORG
+Quality Function Deployment: ORG
+5S: CARDINAL
+JMP: ORG
+Pam-Stamp: ORG
+Microsoft Project: ORG
+Microsoft Office: ORG
+3: CARDINAL
+Statistical Process Control: ORG
+CAD: ORG
+Transmission
+Catia, Unigraphics
+: ORG
+Continuous
+Improvement
+Data Analysis
+Design of
+EExperiments: WORK_OF_ART
+IBM: ORG
+MATLAB: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+SharePoint: ORG
+Minitab
+: PERSON
+ORACLE
+Problem: ORG
+SSoftware/Tools: ORG
+IBM: ORG
+7.6: CARDINAL
+SharePoint: ORG
+Oracle: ORG
+3: CARDINAL
+DFM: ORG
+Lean Manufacturing: ORG
+Computer-Aided Design: ORG
+Geometric Dimensioning: PERSON
+Effects Analysis: ORG
+PFMEA: ORG
+CNC: ORG
+Tolerancing: PERSON
+NX Unigraphics: ORG
+Catia: NORP
+Project Management, Design of Exp: ORG
+V5: CARDINAL
+SolidWorks: ORG
+ANSYS: PERSON
+MATLAB: ORG
+Minitab: PERSON
+SStatistical Data Analysis: ORG
+Quality Function Deployment: ORG
+5S: CARDINAL
+JMP: ORG
+Pam-Stamp: ORG
+Microsoft Project: ORG
+Microsoft Office Suite: ORG
+3: CARDINAL
+ANSYS: PERSON
+CAD: ORG
+Catia: ORG
+CNC: ORG
+Continuous Improvement: PERSON
+Data Analysis, Design of
+EExperiments: ORG
+IBM: ORG
+Lean Manufacturing: ORG
+MATLAB: ORG
+Microsoft Office Suite: ORG
+Microsoft Project: ORG
+SharePoint: ORG
+Minitab: GPE
+ORACLE: ORG
+Product Design: ORG
+Project Management: ORG
+SolidWorks: ORG
+SPC, Specification, Statistical Process Control: ORG
+Unigraphics: NORP

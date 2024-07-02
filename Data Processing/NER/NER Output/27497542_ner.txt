@@ -1,0 +1,30 @@
+PERSONAL STYLIST-: PERSON
+Skills
+
+Microsoft Office: ORG
+PowerPoint
+Excel: PRODUCT
+Name City: GPE
+State Leverages: ORG
+Associate-: PRODUCT
+02/2010: CARDINAL
+Name City: GPE
+Sales Associate: PERSON
+Name City: GPE
+State Successfully: ORG
+Team: ORG
+2016: DATE
+783,210: MONEY
+58.1%: PERCENT
+40%: PERCENT
+Cross-Sell: ORG
+48.7%: PERCENT
+30%: PERCENT
+3 Years: DATE
+2 Years: DATE
+Training
+Bachelor of Arts : Business Administration: PERSON
+2008: DATE
+California State University: ORG
+Fullerton City: PERSON
+State: ORG

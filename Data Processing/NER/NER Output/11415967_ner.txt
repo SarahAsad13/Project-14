@@ -1,0 +1,77 @@
+3years: CARDINAL
+Operations: ORG
+Client: GPE
+Microsoft Office: ORG
+Account Management, Advertising, Budgeting, Business Development, Client Relations: ORG
+Computer Literate: PERSON
+Computer Proficient: ORG
+Customer Needs Assessment: ORG
+Customer Service: ORG
+Domestic and International Experience,: ORG
+Expense Control: ORG
+Internal Auditing: ORG
+Lead
+Development: PERSON
+Multi-Task Management: ORG
+Product Development: ORG
+Name City: GPE
+Current
+
+Conducted: ORG
+Workers' Compensation: ORG
+Workers' Compensation: ORG
+K & R: ORG
+Name City: GPE
+Role: PERSON
+Health, Safety, Environment and Quality: ORG
+Corporate: ORG
+HSEQ: ORG
+Main Responsibilities: WORK_OF_ART
+HSE: ORG
+Petrolog: PERSON
+sound environmental
+& HSE: ORG
+Assist: NORP
+HSEQ: ORG
+Complete: ORG
+each month: DATE
+Petrologs: PRODUCT
+Frequent: ORG
+ISO 14001: ORG
+Contributions: ORG
+Attendance: PERSON
+Environmental Audit Team: ORG
+Name City: GPE
+State Environmental Specialist 09/2011: ORG
+EIA: ORG
+EIS: ORG
+community relations & company: ORG
+Master of Science : Oil and Gas Enterprise Management 2015 University of Aberdeen , City , State: WORK_OF_ART
+UK: GPE
+Distinction: ORG
+Best Practicable Environmental Option: ORG
+Nigeria: GPE
+Four years: DATE
+Second: ORDINAL
+CGPA: ORG
+4.13/5: CARDINAL
+One: CARDINAL
+Interests: NORP
+European Energy Institutes
+
+Additional Information
+
+Personal Interest: Travelling: ORG
+Skills
+Biology: ORG
+Chemistry: ORG
+Drafting, Economics: ORG
+EIA: ORG
+English: LANGUAGE
+ISO: ORG
+Microsoft: ORG
+Microsoft Office: ORG
+Enterprise: ORG
+Physics: ORG
+Project Management, Quality, Quality Assurance: ORG
+Safety: ORG

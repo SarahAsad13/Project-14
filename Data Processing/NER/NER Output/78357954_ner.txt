@@ -1,0 +1,69 @@
+MS Word: PERSON
+MS Excel: ORG
+MS Power Point: ORG
+French: NORP
+Creole
+Work History
+Company Name: WORK_OF_ART
+November 2011 to January 2016: DATE
+State: ORG
+120: CARDINAL
+Analyze: LOC
+weekly: DATE
+Search: ORG
+Hire: GPE
+hourly: TIME
+Require: PERSON
+daily: DATE
+Children: PERSON
+Miracle Network
+Enforce: ORG
+OSHA: ORG
+Ecolab: ORG
+Kay Chemical: PERSON
+May 2011 to November 2011 Company Name - City: DATE
+State: ORG
+300: CARDINAL
+Budgeted: PERSON
+Monitored: ORG
+February 2008 to April 2011: DATE
+State: ORG
+20: CARDINAL
+$100,000: MONEY
+AT&T: ORG
+Met: ORG
+Team Leader / Service Delivery Coordinator / Supervisor: ORG
+June 2005 to January 2008: DATE
+State: ORG
+108: CARDINAL
+CSR: ORG
+Roadside Assistance Division: ORG
+evening: TIME
+Service Counselors: PERSON
+Dispatch: ORG
+AAA: ORG
+Interacted: PERSON
+Counselors: ORG
+evening: TIME
+Customer Service Representative: ORG
+January 2001 to June 2006 Company Name - City: DATE
+August 2002 to November 2003: DATE
+Assigned: ORG
+Customer Service Team: ORG
+June 2001 to August 2002: DATE
+State: ORG
+23: CARDINAL
+daily: DATE
+Performed: PERSON
+daily: DATE
+daily: DATE
+weekly: DATE
+September 2000: DATE
+May 2001: DATE
+State: ORG
+12: CARDINAL
+Liberal Arts Kean University Liberal Arts
+High School Diploma: ORG
+Hamilton High West: PERSON
+Skills: ORG
+Network: ORG

@@ -1,0 +1,77 @@
+15 years: DATE
+Detail: PERSON
+Collaborate: ORG
+Software: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Adobe Acrobat: PERSON
+Multiline: NORP
+Corporate Administrator: ORG
+January 2009 to January 2017: DATE
+Meeting: PERSON
+Structure Revise: WORK_OF_ART
+Bidding Administration Prepare: ORG
+Construction Administration Assist: ORG
+approximately 15: CARDINAL
+multi-million dollar: MONEY
+Requires: PERSON
+Document Processing - Proofread: WORK_OF_ART
+PDF: ORG
+minutes: TIME
+O&M: ORG
+Bidding Administration - Distribute: ORG
+Construction Administration - Prepare: ORG
+approximately 18: CARDINAL
+multi-million dollar: MONEY
+Coordinated: ORG
+minutes: TIME
+O&M: ORG
+Bidding Administration - Handled: ORG
+addenda: ORG
+Construction Administration - Prepared: ORG
+Download: ORG
+Coordinate: FAC
+Register: ORG
+monthly: DATE
+minutes: TIME
+Log: PERSON
+Answer: LOC
+Distribute: ORG
+Prepare: ORG
+Customer Service Representative: ORG
+January 2006 to January 2009: DATE
+the Sears Credit Cards Portfolio: ORG
+the Sears Credit Cards Portfolio: ORG
+HealthCare: ORG
+January 2000 to January 2003 City: DATE
+monthly: DATE
+Branch: ORG
+over $500,000: MONEY
+monthly: DATE
+Prepared: PERSON
+monthly: DATE
+12: CARDINAL
+Washington: GPE
+Oregon: GPE
+Completed 45: PRODUCT
+Logic, Ethics: ORG
+C Programming: ORG
+Boise State University: ORG
+City: GPE
+State Graduated: ORG
+3.97: CARDINAL
+Award: PERSON
+Skills: ORG
+Adobe Acrobat: PERSON
+C Programming: ORG
+Clerical: ORG
+Prepare: ORG
+Credit: ORG
+Detail: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft: ORG
+PDF: ORG

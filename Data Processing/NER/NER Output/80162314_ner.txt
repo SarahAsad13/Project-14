@@ -1,0 +1,52 @@
+Human Resources Professional: ORG
+Skills
+
+Staff Recruitment & Retention: ORG
+Payroll: ORG
+HR Program/Project Management
+Orientation & on-boarding
+Training & Development
+Performance Management
+Leave: ORG
+HR Policies & Procedures: ORG
+3 years: DATE
+more than 12 years: DATE
+Human Resources: ORG
+HR Professional 04/2013: ORG
+Name City: GPE
+first: ORDINAL
+third: ORDINAL
+Trainer: ORG
+Handles: ORG
+daily: DATE
+2nd: ORDINAL
+Assist: NORP
+the HR Management System: ORG
+HRMS: WORK_OF_ART
+Validate: ORG
+07/2011: CARDINAL
+Name City: GPE
+State
+
+Liyanage & Co, Trained: ORG
+Developed: ORG
+Facilitated: ORG
+Surveys: PERSON
+HRMS: ORG
+Name City: GPE
+State: ORG
+Ameripise Financial: PERSON
+Minneapolis: GPE
+Assist: NORP
+Name City: GPE
+State: ORG
+Wells Fargo Bank: ORG
+Minneapolis: GPE
+Wells Fargo: ORG
+Working: ORG
+May 2012: DATE
+Concordia University City: ORG
+Art-(HR & Communication: ORG
+April 2007: DATE
+University of Colombo City: ORG
+Sri Lanka: GPE

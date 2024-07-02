@@ -1,0 +1,35 @@
+Highlights Neat: ORG
+Skills
+Work History
+Sales Associate 08/2013: ORG
+Described: PERSON
+Maintained: GPE
+Explained: ORG
+Influence: ORG
+Correctly: ORG
+Communicated: ORG
+Prepared: PERSON
+Mastered Point of Sale (POS: ORG
+Frequently: ORG
+Performed: ORG
+Assisted: ORG
+monthly: DATE
+weekly: DATE
+11/2014: CARDINAL
+2-3 minute: TIME
+Maintained: GPE
+Cooked: PERSON
+State Special: ORG
+my last two years: DATE
+Skills: ORG
+Inventory: NORP
+Listening, MS Office: ORG
+Written
+Additional Information
+
+Community Service: ORG
+Springhill Teen Service Teen: PERSON
+4 weeks: DATE
+Livingston: PERSON
+Society 2|42 Community Church: ORG
+Native American: NORP

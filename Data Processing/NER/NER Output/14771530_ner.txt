@@ -1,0 +1,29 @@
+Microsoft Office: ORG
+Suite: PERSON
+Superb: NORP
+Detail: PERSON
+Organized: ORG
+300,000: MONEY
+Drafted: ORG
+up to four: CARDINAL
+Producer Company Name: WORK_OF_ART
+Maintained: GPE
+Collaborated: ORG
+02/2013: CARDINAL
+10/2014: CARDINAL
+Associate Producer Company Name: ORG
+2: CARDINAL
+Anticipated: LOC
+Production Coordinator Company Name: ORG
+Coordinated: ORG
+Production Intern Company Name: ORG
+May 2011: DATE
+Computer Information Systems Lewis University: ORG
+ï¼​ City: GPE
+State Business Administration: ORG
+Computer Information Systems: ORG
+Skills
+
+Project Management Tools: Workamajig: ORG
+Basecamp: GPE
+Desktop Publishing Software: ORG

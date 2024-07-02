@@ -1,0 +1,102 @@
+NATIONAL: ORG
+US: GPE
+HEALTHCARE: ORG
+Skill Highlights: PERSON
+Customer: ORG
+Microsoft: ORG
+Customer CRM
+
+: PRODUCT
+GPO: ORG
+Distributor Relations: ORG
+National Business Development
+Regional Business Development
+Local Business Development
+Forecasting: ORG
+C-Suite: ORG
+45%: PERCENT
+Healthcare: ORG
+2014: DATE
+500%: PERCENT
+Healthcare: ORG
+20 million dollars: MONEY
+40%: PERCENT
+2010: DATE
+2011: DATE
+2012: DATE
+2013: DATE
+2014: DATE
+Northeast Region: LOC
+2012-2014: DATE
+2012-2014: DATE
+5 %: PERCENT
+65%: PERCENT
+2012-2014: DATE
+2013-2014: DATE
+Multi-Year: DATE
+National: ORG
+US: GPE
+Healthcare: ORG
+March 2014: DATE
+Current Company Name: ORG
+Develop: ORG
+Identify: PRODUCT
+GPO: ORG
+Created: ORG
+Manage: PRODUCT
+Prospect: ORG
+500: CARDINAL
+Nashville: GPE
+US: GPE
+Develop: ORG
+Northeast Region: LOC
+June 2012 to March 2014: DATE
+State
+
+Industries: ORG
+Coordinated: ORG
+2: CARDINAL
+1: MONEY
+1: MONEY
+Maintained: GPE
+June 2006 to: DATE
+April 2012: DATE
+Delaware: GPE
+New Jersey: GPE
+DuPont: ORG
+Dentsply International: ORG
+Siemens: ORG
+W.L.: ORG
+Gore: PERSON
+Goodrich: PERSON
+Chrysler: ORG
+General Motors: ORG
+T.A. Instruments: ORG
+weekly: DATE
+15: CARDINAL
+3: CARDINAL
+100: CARDINAL
+100: CARDINAL
+K.P.I.: ORG
+Coordinate: FAC
+Identify: ORG
+2006: DATE
+Bloomsburg University: ORG
+ï¼​ City: GPE
+Karrass Effective Negotiating Seminar
+
+Linde Pro Sales Training
+
+Sales Performance International-Solution Sales
+
+Sales Performance Internal-Management Training
+
+Challenger Sales Training
+
+Completed Advanced Sales Training I
+
+Consultative Sales Training Situational Leadership I
+
+Behavioral Interviewing Training
+
+Advanced Lead Generation Techniques and Diversity Training: WORK_OF_ART

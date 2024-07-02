@@ -1,0 +1,61 @@
+10 years: DATE
+occupational health & safety: ORG
+Policies &: ORG
+Performance reviews Recruitment: ORG
+Talent: ORG
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint Data: ORG
+Track Time: PERSON
+Attendance Software: PERSON
+Electronic Data Interchange: ORG
+08/2011: CARDINAL
+FLSA: ORG
+Planned: ORG
+Established: NORP
+35%: PERCENT
+Implemented Payroll: WORK_OF_ART
+annual: DATE
+100,000: CARDINAL
+10/2009: CARDINAL
+productivity & cost: ORG
+Created: ORG
+Prepared PowerPoint: PRODUCT
+Excel: PRODUCT
+12/2006: CARDINAL
+Field Researcher Company Name: ORG
+Travels: ORG
+Conducts: ORG
+Reviews: ORG
+07/2002 to 12/2005: CARDINAL
+Dealt: PERSON
+Organized: ORG
+open days: DATE
+Spoke: ORG
+Training: PERSON
+2017: DATE
+Human Resource Management University of the Southwest ï¼​ City: ORG
+State Human Resource Management: ORG
+2014: DATE
+Peacebuilding Eastern Mennonite University: ORG
+ï¼​ City: GPE
+2008: DATE
+State: GPE
+Sudan International Relations: ORG
+2005: DATE
+International Relations University: ORG
+State: GPE
+Sudan International Relations: ORG
+2002: DATE
+Bachelor of Arts: ORG
+English Language University: ORG
+State: GPE
+Sudan: GPE
+English Language
+Languages
+Fluent: EVENT
+English: LANGUAGE
+Skills
+Electronic Data Interchange: ORG
+EDI: ORG

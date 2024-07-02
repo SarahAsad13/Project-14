@@ -1,0 +1,232 @@
+Career Overview
+
+Receive Telephone Calls: ORG
+Give Routine: PERSON
+Non-Routine Information: ORG
+Control Internal/External Correspondence For Congress: ORG
+The Appropriate Person Or Office For Action: ORG
+Legal Documents Using Personal Computer: ORG
+Grammar: PERSON
+Determine Deadlines: PERSON
+Calendar: PRODUCT
+Schedule Appointments And Meetings/Conferences: ORG
+Arrangements And Prepare Travel Vouchers: ORG
+Responsible For Procuring Supplies: ORG
+Materials, Balancing And Reconciling Credit Card Statements And Invoices To Ensure Accuracy: WORK_OF_ART
+Timekeeper For Employees Under The Supervision Of Director: ORG
+Applies Appointing Authority Criteria: ORG
+Qualification Standards: ORG
+Initiates Tentative: ORG
+Explaining Federal Employment Benefits To Applicants: ORG
+Obtaining Transfer Data: PERSON
+The Federal Service: ORG
+Acceptance Letters: ORG
+Issuing The Oath Of Office: WORK_OF_ART
+Processing Of All New Hire Documentation: WORK_OF_ART
+Alternate Program Specialist For All Training: ORG
+Completed Certificate Courses: ORG
+The Graduate School For Federal Human
+Resources Overview: ORG
+03/25/11-Answering Phones: ORG
+Scheduling Appointments And Maintaining Calendars For Multiple Directors: ORG
+Ordering
+Supplies, Arranging And Facilitating Staff Meetings With Component Heads: WORK_OF_ART
+Taking The Minutes: WORK_OF_ART
+Records
+Management Systems: ORG
+Compiling/Merging Organizational Charts And Phone Rosters For Emergency Recall Systems: ORG
+Time: ORG
+Attendance Keeping: PERSON
+Outer-Office Correspondence: ORG
+Tracking Suspense Items For Response Or Completion: WORK_OF_ART
+Working With Budget And Finance Personnel On Funding And Tracking Of Funding For: ORG
+The Front Office: ORG
+Project Management: ORG
+Distributing
+Mail: ORG
+Memos: PERSON
+Standardized DoD Templates: ORG
+Distributes Mail: ORG
+Greets And Announces Visitors For Executive Staff: ORG
+Front Office/Inspector General: ORG
+Updates
+Contact Lists For The Inspector General's: ORG
+Treasury: ORG
+Manages Calendars For The Executive Staff: ORG
+Schedules: NORP
+Appointments: ORG
+Prepares The Weekly Report: ORG
+Treasury: ORG
+Reviews: ORG
+Controls: PERSON
+Reconciles Purchase Order Requests: PERSON
+Takes Minutes For The Senior Staff: WORK_OF_ART
+Approval And Signature; Posts Assignments To The SharePoint Website For Review By The Chief Of Operations: WORK_OF_ART
+The Associate
+Inspector General For Mission Support And Myself: ORG
+Serves As A Resource Person For Other Administrative Staff: ORG
+New Hires: ORG
+Reviewing: PERSON
+Gathering And Compiling Information For The Ig's Review: WORK_OF_ART
+Using Own Judgment On Various Projects To Determine The Best Course Of Action: ORG
+Receiving Calls: PERSON
+Determining The Nature Of Business, Giving Routine And Non-Routine Information: WORK_OF_ART
+The Appropriate Person Or Office For Action: ORG
+Requisitions: PERSON
+Grammar, Punctuation: ORG
+Spelling: GPE
+Records, Manuals,: ORG
+Calendar: PRODUCT
+Schedules
+Appointments: PERSON
+Prepares Agenda: PERSON
+Coordinates Travel Arrangements: ORG
+Requesting Ad Managing Medical Records: ORG
+Policy: PERSON
+Maintaining Medical Records: ORG
+Registering Patients For ER Visits: WORK_OF_ART
+Updating Demographics And Financial Information Using Electronic Databases: ORG
+Updating Medical Records Using: ORG
+The Terminal Digit
+Filing System: ORG
+The Privacy Act: LAW
+EKG: ORG
+X-Ray And Other Procedures: ORG
+Public: PERSON
+Well As Patients And Family Members Regarding Appointment Changes Directions, Instructions, And Out-Sourcing: WORK_OF_ART
+Capturing Patient: ORG
+Demographics And Registering New Patients
+For Medical Treatment: WORK_OF_ART
+Reviews Records For Administrative Errors: ORG
+Ola McGhee: PERSON
+901-523-8990: CARDINAL
+Greg Benson: PERSON
+404-474-5700: CARDINAL
+53,221.00: CARDINAL
+40: CARDINAL
+FG Grade: ORG
+07: CARDINAL
+Barbara Fiebich: PERSON
+240: CARDINAL
+55,622.00: CARDINAL
+40: CARDINAL
+09: CARDINAL
+Patrick Waller: PERSON
+301: CARDINAL
+43,431.00: CARDINAL
+40: CARDINAL
+Series: EVENT
+07: CARDINAL
+Group: ORG
+Bobbie Graham: PERSON
+901: CARDINAL
+34,000.00: CARDINAL
+40: CARDINAL
+05: CARDINAL
+6 2009: DATE
+Nursing Business Some College: ORG
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+41.0 Semester Hours: TIME
+Intro To Computers: PERSON
+5 1988: DATE
+Safety Training: ORG
+1998,2001,2004: CARDINAL
+2004: DATE
+HIPPA Training: ORG
+2002-Present: DATE
+2008: DATE
+ICS Windows 2009: ORG
+Fed-State: ORG
+2009: DATE
+TCM: ORG
+2009: DATE
+2009: DATE
+WebEx 2010: ORG
+SharePoint 2010 Management: LAW
+SharePoint: ORG
+Graduate School: ORG
+Graduate School: ORG
+2012: DATE
+Employee/Labor Relations: ORG
+Graduate School: ORG
+2012: DATE
+General Education
+Office Education Central: ORG
+State: GPE
+United States: ORG
+General Education Office: ORG
+12 2012: DATE
+Nursing Organizational Leadership Some College GPA: WORK_OF_ART
+GPA: ORG
+2.0: CARDINAL
+GPA: ORG
+2.0: CARDINAL
+49 Semester Hours Nursing
+: TIME
+Organizational Leadership Medical Terminology: ORG
+Anatomy & Physiology I, Anatomy & Physiology II: ORG
+Nutrition: ORG
+English: LANGUAGE
+State: GPE
+United States: GPE
+Southwest Tennessee Community College: ORG
+State: GPE
+United States: GPE
+Card Holder: PERSON
+Card Holder: PERSON
+Records Management: ORG
+Budgeting Through PCPS: ORG
+Regis: ORG
+Performing Basic Budget And Accounting Assignments Such As Collecting Financial Data And Performing Reconciliations: WORK_OF_ART
+Compiling: GPE
+Summarizing Narrative Information And Quantitative Data Using Excel: ORG
+E.G.: ORG
+Enter: ORG
+Modify: ORG
+Delete Information: ORG
+Answering Phones: ORG
+Collecting: GPE
+Providing Technology And Logistics: ORG
+Internal Revenue Service: ORG
+MD: GPE
+20706: DATE
+United States: GPE
+55,622.00: CARDINAL
+Per Year Hours: EVENT
+40: CARDINAL
+9: CARDINAL
+Spanish: NORP
+Skills
+Accounting: ORG
+Basic: GPE
+Budgeting, Budget, Data Entry: ORG
+English: LANGUAGE
+Financial, Forms, Funds, Human Resources: ORG
+Labor Relations: ORG
+Excel,: ORG
+Mail: GPE
+MS Office: ORG
+Power Point: ORG
+Windows: GPE
+MS Word: PERSON
+Personnel: ORG
+Read, Reporting, Safety: WORK_OF_ART
+Spanish: NORP
+Tax: PERSON
+Training Materials: ORG
+Treasury: ORG
+55 Wpm: DATE
+Visio: PERSON
+United States: GPE
+55,622.00: CARDINAL
+Per Year Hours: EVENT
+40: CARDINAL
+9: CARDINAL
+Society For College Students - Inductee
+Additional Information:: ORG
+2008: DATE
+Team Effort: ORG
+Achievement 2005: DATE

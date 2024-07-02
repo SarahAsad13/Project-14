@@ -1,0 +1,110 @@
+More than ten years: DATE
+CMA: ORG
+Cum Laude: PERSON
+BBA: ORG
+Advanced Excel: ORG
+ERP: ORG
+Highlights
+Advanced Excel: WORK_OF_ART
+PowerPoint: ORG
+Outlook: PERSON
+Word: PERSON
+Macola Progression: ORG
+NetSuite: ORG
+JD Edwards: PERSON
+ADP Payroll: ORG
+Crystal
+Reports: LOC
+Fixed Asset Software: ORG
+Vantage: GPE
+ten day: DATE
+three day: DATE
+AP: ORG
+Received Robbins LLC's: ORG
+each year: DATE
+January 2014: DATE
+NetSuite: ORG
+22%: PERCENT
+January 2008 to January 2014: DATE
+Build Effective: ORG
+ISO 9001:2008: ORG
+Zero: CARDINAL
+first: ORDINAL
+ISO: ORG
+Education: ORG
+March 2008 to April 2013: DATE
+Accountant Promoted: PERSON
+month: DATE
+three: CARDINAL
+AP: ORG
+Supervision of AP/AR: ORG
+Comparative Financial Statements: ORG
+three: CARDINAL
+Variance: PERSON
+Preparation of Bank Borrowing Base Certificate/ Bank Covenant: ORG
+semiannual: DATE
+Year-end: DATE
+Key: LOC
+the Robbins Financial Control Committee: ORG
+monthly: DATE
+Standard: ORG
+Molded Product
+: PERSON
+Customix: PRODUCT
+Miscellaneous: PERSON
+January 2004 to January 2008: DATE
+Accountant 
+City: PERSON
+Prepared: PERSON
+Key: LOC
+January 2004 to January 2004: DATE
+Accountant 
+City: PERSON
+January 2003 to January 2004: DATE
+University of North Alabama: ORG
+Finance City: GPE
+TVA Investment Challenge: ORG
+3.7: CARDINAL
+Alpha Theta: PERSON
+Honor Society: PERSON
+Cum Laude GPA: PERSON
+3.7: CARDINAL
+Columbia State Community College 2001 State: ORG
+Columbia: ORG
+University of North Alabama:: ORG
+Alpha Chi Accounting Club: ORG
+Bisk
+Student Representative Columbia State Community College: ORG
+Student Council: ORG
+Lawrence County Site): ORG
+North Alabama: LOC
+Sarah R. Brown Scholarship: PERSON
+Dean: PERSON
+Accounting Achievement Award: ORG
+Institute of Management Accountants National Conference Attendance Scholarship Columbia State
+Community College: ORG
+Lloyd Booker Memorial Scholarship: ORG
+Dean: PERSON
+Month: DATE
+Year: DATE
+Cash Management, Supervision: ORG
+AP/AR, Acquisitions: ORG
+ADP Payroll: ORG
+Budget: ORG
+Crystal Reports: LOC
+ERP: ORG
+Financial Statements: ORG
+Fixed Assets: ORG
+General Ledger, Internal Control: ORG
+Inventory, Payroll, Quality Assurance: WORK_OF_ART
+ISO: ORG
+ISO 9001: ORG
+IFS: ORG
+NetSuite: ORG
+JD Edwards: PERSON
+Macola: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG

@@ -1,0 +1,74 @@
+SOUS CHEF/LINE COOK: ORG
+Cook: PERSON
+Reliable: WORK_OF_ART
+Plate: ORG
+Sandwich: GPE
+10 million dollars: MONEY
+December 2015: DATE
+August 2016: DATE
+Name City: GPE
+State: ORG
+Sous Chef/Line Cook: PERSON
+Saute, Fryer, Salad: ORG
+Flattop: PERSON
+Correctly: PRODUCT
+May 2015: DATE
+December 2015: DATE
+Name City: GPE
+State Food Expediter/Food Runner/Busser
+
+Established: ORG
+Quickly: ORG
+January 2014: DATE
+April 2015: DATE
+Name City: GPE
+State Picker/Shipping
+
+: ORG
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+October 2013: DATE
+December 2013: DATE
+Name City: GPE
+Monitored UPC: ORG
+April 2013: DATE
+October 2013: DATE
+Name City: GPE
+State Seasonal Laborer
+
+Interacting: ORG
+Opening: WORK_OF_ART
+June 2011: DATE
+April 2013: DATE
+Name City: GPE
+State: ORG
+Performed: ORG
+October 2009: DATE
+January 2011: DATE
+Name City: GPE
+State Mobile Phone Consultant
+
+Described: ORG
+Maintained: GPE
+March 2009: DATE
+October 2009: DATE
+Name City: GPE
+State Food & Beverage Attendant
+
+Loaded: ORG
+Communicated: ORG
+2009: DATE
+East Pennsboro High School City: ORG
+State: ORG
+the Red Cross: ORG
+Critical Thinking: ORG
+Customer Service: ORG
+Customer Service Skills: ORG
+Inventory Management: ORG
+Leadership Skills: PERSON
+Leadership Skills: PERSON
+Microsoft Office: ORG
+Receiving, Sales: ORG
+Supervisory Skills: PERSON
+US: GPE

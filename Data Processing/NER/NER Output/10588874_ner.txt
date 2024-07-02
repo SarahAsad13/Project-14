@@ -1,0 +1,92 @@
+Expense: NORP
+Team: ORG
+Media: NORP
+Budget: ORG
+Complex: NORP
+Inventory: NORP
+Employee Scheduling
+
+Professional Experience
+: WORK_OF_ART
+Executive Chef: ORG
+October 2014: DATE
+Rochester University Fraternity: ORG
+Rochester University Chefs: ORG
+Manage: PRODUCT
+Rochester University: ORG
+Rochester University: ORG
+Sous Chef 
+: PERSON
+October 2013 to June 2014: DATE
+Maintained: GPE
+daily: DATE
+September 2012 to October 2013 Company Name ï¼​ City: DATE
+30 year: DATE
+Local's Favorite: WORK_OF_ART
+Sun News: ORG
+Myrtle Beach Tourist: ORG
+100: CARDINAL
+Myrtle Beach: GPE
+Chefs: GPE
+over 3,000: CARDINAL
+Monitored: ORG
+20: CARDINAL
+Quicken: PERSON
+25: CARDINAL
+Sous Chef: PERSON
+December 2010 to September 2012: DATE
+Owner: ORG
+Ernest Bledsoe: PERSON
+Recruited: PRODUCT
+20: CARDINAL
+100%: PERCENT
+Sous Chef: PERSON
+April 2010 to December 2010: DATE
+Frank Lee
+Supervised: PERSON
+Sous Chef: PERSON
+July 2008 to April 2010: DATE
+Monitored: ORG
+daily: DATE
+Revised: PERSON
+Internship for Associate Degree: WORK_OF_ART
+Culinary Arts: ORG
+January 2008 to June 2008: DATE
+300+ per night: QUANTITY
+Obtained: FAC
+European: NORP
+French Cuisine
+Interned: PERSON
+the 5th year: DATE
+Charlotte Restaurant: ORG
+the Year
+
+Education: EVENT
+Associate Degree :: PERSON
+Applied Food Science and Culinary Arts/Food and Beverage Management: ORG
+May 2008: DATE
+Johnson & Wales University: ORG
+ï¼​ City: GPE
+State: ORG
+GPA: ORG
+3.4: CARDINAL
+GPA: ORG
+GPA: ORG
+3.4: CARDINAL
+2008: DATE
+Johnson: PERSON
+Wales: GPE
+National Beverage Service: ORG
+2008: DATE
+Johnson: PERSON
+Wales: GPE
+Johnson: PERSON
+Wales Achievement Scholarship: ORG
+Multi-Business Operations Management: ORG
+New Business Development: ORG
+Quality Management: ORG
+Customer Relations: ORG
+Vendor Negotiations: PERSON
+Vendor Partnerships: PERSON
+Time: ORG
+Payroll: ORG

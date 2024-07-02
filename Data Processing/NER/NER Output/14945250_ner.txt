@@ -1,0 +1,100 @@
+DIGITAL: ORG
+Territory: PERSON
+15 years: DATE
+Creating & Executing Strategies
+
+Accomplishments: ORG
+2004,05: CARDINAL
+2013: DATE
+five: CARDINAL
+Digital Solutions Media Consultant: ORG
+the NY Daily News: ORG
+2004: DATE
+Japan: GPE
+500,000: MONEY
+Digital Media Consultant 11/2012: ORG
+Name City: GPE
+monthly: DATE
+the NY Daily News Digital Solution: ORG
+daily: DATE
+20: CARDINAL
+NYC: LOC
+Northern NJ: LOC
+Drove weekly: DATE
+daily: DATE
+Owner / Sales & Marketing: ORG
+07/2011: CARDINAL
+Name City: GPE
+A.N.S. Multi-Media, Inc.: FAC
+5000: CARDINAL
+60,000: CARDINAL
+quarterly: DATE
+the first 12 months: DATE
+0: CARDINAL
+125: CARDINAL
+Harley-Davidson: ORG
+Aprilla Motorsports: PERSON
+annual: DATE
+250,000: MONEY
+Urban Biker: ORG
+weekly: DATE
+3: CARDINAL
+6: CARDINAL
+2: CARDINAL
+Name City: GPE
+Simplex Grinnell: PERSON
+New Jersey: GPE
+Northern NJ: LOC
+25%: PERCENT
+25+ call per day: DATE
+Sold test & inspection services: ORG
+NFPA: ORG
+Simplex Grinnell: PERSON
+09/2002: CARDINAL
+Name City: GPE
+10: CARDINAL
+Parsippany: ORG
+NJ: ORG
+weekly: DATE
+daily: DATE
+Wachovia Bank: ORG
+Conducted: ORG
+weekly: DATE
+weekly: DATE
+30%: PERCENT
+the first 6 months: DATE
+Conferred: ORG
+01/1997: CARDINAL
+Name City: GPE
+six: CARDINAL
+six: CARDINAL
+South Carolina: GPE
+Georgia: GPE
+500: CARDINAL
+two: CARDINAL
+25%: PERCENT
+annual: DATE
+two: CARDINAL
+Oversaw: GPE
+daily: DATE
+annual: DATE
+$10 Million: MONEY
+Communicated: ORG
+daily: DATE
+Developed: ORG
+State: GPE
+United States: GPE
+Economics, Accounting
+
+Bachelor's Degree :: ORG
+State: ORG
+United States
+
+: GPE
+Sport & Hospitality Marketing
+
+Skills
+
+Leadership, Team Building: ORG
+Customer Satisfaction: PERSON
+Windows: NORP

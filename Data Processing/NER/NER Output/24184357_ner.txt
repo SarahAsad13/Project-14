@@ -1,0 +1,89 @@
+Resourceful Human Resources: ORG
+one: CARDINAL
+63: CARDINAL
+Social Networking Recruitment Advertising Campus Recruiting OSHA Standards: ORG
+Computer Skills: PERSON
+Microsoft: ORG
+PowerPoint Publisher Health Care IS
+: ORG
+HRIS Systems PeopleSoft Child Care IS Day Care Software QuickBooks Data Input
+
+Accomplishments
+
+Devised: ORG
+25: CARDINAL
+2-months: DATE
+January 2014 to January 2015: DATE
+State: ORG
+Communicate: ORG
+Develop: ORG
+annual: DATE
+Liaison: PERSON
+Create: ORG
+first day: DATE
+Contributes: ORG
+Kronos: PERSON
+Facilitate: ORG
+Federal/State: ORG
+Ensures: ORG
+more than 60: CARDINAL
+January 2010 to January 2014: DATE
+January 2005 to January 2008: DATE
+January 1996 to January 2005: DATE
+State: ORG
+South Carolina: GPE
+CPR: ORG
+First Aid: ORG
+Webster University 2015 Financial Accounting: ORG
+Managerial Accounting *: ORG
+Resources Management / Management and Leadership GPA: ORG
+GPA: ORG
+3.45: CARDINAL
+GPA: ORG
+3.45: CARDINAL
+Human Resources Management / Management: ORG
+Human Resource Management *: ORG
+Benedict College 2013 BS : Business Administration Business GPA: Management Honors Graduate Cum Laude GPA: ORG
+3.5: CARDINAL
+Business
+Administration Management: ORG
+Cum Laude: PERSON
+3.5: CARDINAL
+Analytical Skills: PERSON
+Basic: PRODUCT
+Business Communications: ORG
+Business Management, Child Care: ORG
+Cold Calling: ORG
+Interpersonal Skills: ORG
+CPR: ORG
+Employee Relations: ORG
+Finance: ORG
+Financial Accounting: ORG
+First Aid: ORG
+Hiring: GPE
+HRIS: PERSON
+Human Resource Management: ORG
+Human Resources Management: ORG
+Information Systems: ORG
+International Business, Job
+Analysis: ORG
+Kronos: ORG
+Labor Relations: ORG
+Law: PERSON
+Managerial, Managing: ORG
+Managerial Accounting, Marketing: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word, Works, Negotiations,: ORG
+Networking: GPE
+Notary Public: PERSON
+Organization Development, Organizational Skills: ORG
+Organizational: ORG
+PeopleSoft: ORG
+Performance Management: ORG
+Policies: PERSON
+Procurement, Production Management: ORG
+QuickBooks: ORG
+Recruiting, Recruitment: ORG

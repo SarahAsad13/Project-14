@@ -1,0 +1,91 @@
+Skill Highlights: PERSON
+Microsoft Office: ORG
+QuickBooks: ORG
+UltraTax: ORG
+Advanced: ORG
+Mac: PERSON
+VA Notary Public
+: WORK_OF_ART
+Microsoft Office Professional
+
+Core Accomplishments
+Employee Management
+
+Liaised: ORG
+Accounting Reviews
+
+: PERSON
+LLC: ORG
+Non-Profit: ORG
+Gift: PERSON
+quarterly: DATE
+May 2006 to May 2015: DATE
+Reviewing: GPE
+Prepares Corporate: PERSON
+Non-Profit: ORG
+LLC: ORG
+Tax Returns: PERSON
+January 2005: DATE
+May 2006: DATE
+Payroll: ORG
+Accounting
+
+Team Coach: ORG
+July 2003 to December 2004: DATE
+State
+
+Gymnastics: ORG
+Sales / Office: ORG
+Legal Department: ORG
+May 2003 to December 2004: DATE
+November 2002: DATE
+May 2003: DATE
+Screen: ORG
+Personal Injury: ORG
+Interrogatories: ORG
+July 2002 to November 2002: DATE
+Purchase: PERSON
+November 2001 to July 2002: DATE
+State
+
+Post: ORG
+Disbursements: ORG
+HUD-1: ORG
+August 2001 to November 2001: DATE
+Divaris Real Estate, Responsible: ORG
+Advantage Mortgage: ORG
+Progressive Nursing: ORG
+Nortel Networks: ORG
+Mericom: ORG
+J.Â  Hoskins Law Office: ORG
+August 2000 to August 2001: DATE
+450: CARDINAL
+Contractors: ORG
+Coastal Coatings: ORG
+Bay Metals & Fabrications: ORG
+States Roofing: ORG
+NORSHIPCO: ORG
+Colonna: PERSON
+April 2000 to August 2000: DATE
+Card: PERSON
+April 2000 to August 2000: DATE
+MacArthur Center Mall: ORG
+Store: PERSON
+January 1997 to November 1999: DATE
+Gained Hands: PERSON
+summer: DATE
+April 1996 to April 2000: DATE
+two months: DATE
+one year: DATE
+1997: DATE
+Ocean Lakes High School: ORG
+State Attended Professional Marketing: ORG
+Management Seminars
+Accounting and Business: ORG
+2004: DATE
+Skills
+Accountant Management: ORG
+Organizational Skills: PERSON
+the DECCA State Marketing Conference Award: ORG
+1997: DATE
+Active Volunteer: PRODUCT

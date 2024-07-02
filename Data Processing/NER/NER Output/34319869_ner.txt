@@ -1,0 +1,72 @@
+CONTRACTOR: ORG
+New Media & Digital Music/Film & TV: ORG
+Digital Music Industry: ORG
+Name City: GPE
+State Content Operations: ORG
+Audio/Video: ORG
+Maintained: GPE
+QC: PERSON
+Name City: GPE
+Global Reporting: ORG
+Music Labels: PERSON
+Publishers: PERSON
+Licensor's & External Partnerships
+Managed: ORG
+Maintained: GPE
+procedural & contractual: ORG
+Labels & Publishers Technical Specifications: ORG
+Legal & Licensing/Finance/Engineering/Product: ORG
+technical &: ORG
+Name City: GPE
+State New Media Solutions: ORG
+01/2011 to 06/2012: CARDINAL
+20: CARDINAL
+researchÂ 
+Designated: PERSON
+Name City: GPE
+State Global Digital Operations: ORG
+06/2008: ORG
+01/2011: CARDINAL
+Liaison: PERSON
+Nashville Records: ORG
+Â iTunes: PERSON
+Microsoft/Zune: ORG
+eMusic: GPE
+Name City: GPE
+State VH1 Production Management ~: ORG
+60min: CARDINAL
+Managed &: ORG
+Â 
+Directed: PRODUCT
+Project Management 2012: ORG
+AMA Executive Conference Center: ORG
+State: GPE
+USA: GPE
+The Basics for Success
+
+Bachelor of Arts : Communication ~: ORG
+Media Management 2007 State University of New York: ORG
+New Paltz: GPE
+City: GPE
+State: GPE
+Recipient of Education Opportunity Program Scholarship
+
+Languages
+
+Fluent: ORG
+Spanish: NORP
+Technical Skills: PERSON
+Mac: PERSON
+GitHub: ORG
+FileZilla: ORG
+Text Wrangler;Â SAP Business: ORG
+Adobe Acrobat: PERSON
+Tableau: GPE
+Micro: ORG
+Jira: PERSON
+Zendesk: PERSON
+Word: GPE
+Outlook: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Access & SharePointÂ: ORG

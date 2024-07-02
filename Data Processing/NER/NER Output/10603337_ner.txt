@@ -1,0 +1,14 @@
+Compute: ORG
+Production Intern Company Name: ORG
+Fashion Intern Company Name: WORK_OF_ART
+Scan: NORP
+02/2012
+Museum Intern Company Name: ORG
+Dec 2016: DATE
+Associates Borough: GPE
+Manhattan Community College: ORG
+State: ORG
+2013: CARDINAL
+High School Diploma Talent Unlimited High School ï¼​ City: ORG
+Inventory: GPE
+Research: ORG

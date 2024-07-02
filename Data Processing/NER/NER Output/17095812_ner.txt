@@ -1,0 +1,72 @@
+BUSINESS DEVELOPMENT: ORG
+Career Overview
+Career Overview: Dedicated Customer Service Representative: FAC
+Automotive/ Motor Vehicle: ORG
+Healthcare: ORG
+20 years: DATE
+the past 15 years: DATE
+Qualified Customer Service: ORG
+1 year: DATE
+Self Starter: PERSON
+Medicaid: ORG
+Medicare: ORG
+Committed: ORG
+Customer Focused: PERSON
+Detail Oriented: PERSON
+Focused and Gifted: ORG
+Hourly Rate: ORG
+18.00: MONEY
+Adaptive Team Player: ORG
+Telephone Etiquette: PERSON
+Critical: ORG
+Customer: ORG
+Data: ORG
+Documentation: ORG
+Email: GPE
+Filing: GPE
+Grammar: GPE
+Core Strengths
+
+Sharp: ORG
+Energetic: LOC
+Customer: ORG
+Adaptive: ORG
+Jan 2009 to Jan 2011: DATE
+Energetic Work Attitude: WORK_OF_ART
+Accomplishments Customer Assistance: PRODUCT
+Market Research * Interviewed: ORG
+Computed Data Reports: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Work Experience Customer Service Call Center: ORG
+May 2011: DATE
+weekly: DATE
+los angeles: GPE
+California Customer Service Call Center Demonstrated: ORG
+Maintained: GPE
+Customer: ORG
+Jan 2008 to Jan 2009: DATE
+weekly: DATE
+Business Development: ORG
+Customer: ORG
+California: GPE
+weekly: DATE
+Mar 2000: DATE
+Jul 2005: PERSON
+weekly: DATE
+weekly: DATE
+Educational Background
+Pharmacy 2002 Carree College of America ï¼​ City: ORG
+State: ORG
+Coursework in Pharmacy Technology: ORG
+Diploma 1994: DATE
+Thomas Jefferson High School: PERSON
+Skills
+Public Relations: ORG
+Careful: PRODUCT
+Data Collection: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Executive Management Support: ORG
+Filing: GPE

@@ -1,0 +1,84 @@
+HEALTHCARE: ORG
+Top Notch Financial Professional: ORG
+Retail Bank Leadership: ORG
+Healthcare: ORG
+Specialty Banking: ORG
+Credit
+Management-Leasing: ORG
+25+ years: DATE
+Humility
+
+Solid Collaborator: ORG
+Develops New Business
+
+Education: ORG
+2017: DATE
+MBA Franciscan University: ORG
+3.9: CARDINAL
+GPA: ORG
+Late 2017
+June 1984: DATE
+B.A :: ORG
+Eli Broad College of Business Finance Accounting/Economics Dean's: ORG
+December 2001: DATE
+Licensed Real Estate Title Insurance: ORG
+Michigan: GPE
+1985: DATE
+2010: DATE
+Medical Group Management Association: ORG
+100 hours: TIME
+Healthcare Administration/Practice Management Coursework: ORG
+Certified Medical Practice Executive: ORG
+12/2008: CARDINAL
+Healthcare Specialty Banker Company Name: ORG
+Business Banking/Treasury: ORG
+Detroit: GPE
+Michigan: GPE
+PA: GPE
+Fortune 500 Regional Bank: ORG
+annual: DATE
+Michigan: GPE
+Policy, Procedures, Risk Management, Regulatory Compliance: ORG
+Credit Training: PERSON
+Career Development: ORG
+Requires: PERSON
+2013: DATE
+2014: DATE
+2015: DATE
+#1: MONEY
+Detroit: GPE
+first full year: DATE
+2012.Â Â Â Â: CARDINAL
+05/2004: CARDINAL
+12/2008: CARDINAL
+annual: DATE
+Asset-Liability Committee: ORG
+three: CARDINAL
+Management Team: ORG
+Board of Directors: ORG
+Represented Bank: ORG
+Board: ORG
+Michigan Bankers Association-Real Estate Title Joint Venture: ORG
+2x: CARDINAL
+Gleaner's Food Bank: ORG
+Licensed: PERSON
+State: ORG
+Michigan: GPE
+First American Title: ORG
+Commissioned: ORG
+Livingston County: GPE
+First American Title: ORG
+Skills: ORG
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+CRM: PRODUCT
+Credit Analysis: ORG
+Affiliations: ORG
+Washtenaw Economic Club: ORG
+Gleaner's: ORG
+Livingston County: PERSON
+Spokesperson/Event Chair: ORG
+St. Patrick Church Financial Chair: ORG
+Mother's Club: ORG
+Council/Education Committe: ORG

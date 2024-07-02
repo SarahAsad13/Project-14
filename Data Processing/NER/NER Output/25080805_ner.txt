@@ -1,0 +1,83 @@
+INTERNSHIP: ORG
+SAS: ORG
+SAS: ORG
+SSPS: ORG
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+University of Missouri 2015 Master of Science : Statistics City: ORG
+State: ORG
+The United States: GPE
+Chinese: NORP
+3.7: CARDINAL
+GPA: ORG
+1: CARDINAL
+2: DATE
+3: DATE
+SAS: ORG
+Thesis/Dissertation
+
+Projects: ORG
+2014 January to: DATE
+seventh: ORDINAL
+linear: ORG
+seventh: ORDINAL
+first: ORDINAL
+second: ORDINAL
+2014: DATE
+May to 2014: DATE
+Lasso: PERSON
+2014 September to October: DATE
+the year before or after the year 1986: DATE
+90: CARDINAL
+6480: DATE
+Multivariate: ORG
+1986: DATE
+secondly: ORDINAL
+D.: NORP
+2014 November to 2014 December: DATE
+July: DATE
+January to June: DATE
+first: ORDINAL
+Second: ORDINAL
+Boosting, Random Forest: ORG
+Ridge: PERSON
+Lasso: GPE
+NNET: ORG
+SVM: ORG
+2014 November to 2014 December: DATE
+daily: DATE
+Netflix Inc.: ORG
+daily: DATE
+GARCH: PERSON
+GARCH: PERSON
+May 2014 to August 2014: DATE
+5.design: CARDINAL
+May 2013 to August 2013: DATE
+1.data: CARDINAL
+4.inventory: CARDINAL
+5.arrangement: CARDINAL
+each day: DATE
+November 2012 to March 2013: DATE
+1.data: CARDINAL
+PowerPoint: ORG
+5.Introduce: CARDINAL
+Fellowships and Awards: WORK_OF_ART
+1.merit: CARDINAL
+10%: PERCENT
+the spring semester of 2014: DATE
+2.merit: CARDINAL
+Chinese: NORP
+Missouri: GPE
+the Fall semester of 2014: DATE
+3.merit: CARDINAL
+Chinese: NORP
+the
+university: ORG
+Missouri: GPE
+the Fall semester of 2014-2015: DATE
+4.Merit: CARDINAL
+Chinese: NORP
+Missouri: GPE
+the spring semester of 2015: DATE

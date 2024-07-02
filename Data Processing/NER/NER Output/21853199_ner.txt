@@ -1,0 +1,54 @@
+Summa Cum Laude: PERSON
+BBA: ORG
+Eight years: DATE
+Three years: DATE
+Five years: DATE
+Microsoft Office: ORG
+Microsoft Dynamics AX: ORG
+CaseWare: ORG
+Ohio Auditor: ORG
+OneSource: ORG
+SBT: ORG
+SysPro: ORG
+Crystal Reports: LOC
+Ohio: GPE
+February 15, 2021: DATE
+Skills
+
+Analytical: ORG
+Superior: ORG
+Accountant: PERSON
+January 2016: DATE
+Current Company Name: ORG
+weekly: DATE
+month-end: DATE
+Communicate: ORG
+January 2016 to January 2016: DATE
+Maintained: GPE
+January 2012 to January 2015: DATE
+annual: DATE
+annual: DATE
+OneSource: ORG
+Secretaries of State: ORG
+Accountant II: PERSON
+January 2009 to January 2011: DATE
+monthly: DATE
+year-end: DATE
+Analysis: PRODUCT
+weekly: DATE
+Auditor II: PERSON
+January 2006 to January 2009: DATE
+Performed: ORG
+Maintained: GPE
+Training
+Bachelor of Business Administration: PERSON
+Accounting Kent State University: ORG
+State Accounting Graduated Summa Cum Laude: ORG
+Yearly: DATE
+Activities and Honors: WORK_OF_ART
+Ohio Society of CPAs: ORG
+AR: ORG
+month-end: DATE
+Research: ORG
+annual: DATE
+year-end: DATE

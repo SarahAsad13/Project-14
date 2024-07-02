@@ -1,0 +1,114 @@
+15 years: DATE
+SPC4 -B Co.: ORG
+192nd Support Battalion: ORG
+1989-1992: DATE
+BANNER Financial: ORG
+Infoview: GPE
+SAP R3: ORG
+SAP Business 1: ORG
+500: CARDINAL
+QuickBooks: ORG
+Labor Trak: ORG
+MAPICS: ORG
+Vertex: GPE
+Outlook: PERSON
+Word: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Budget: ORG
+QMM Auditor: ORG
+Crosby Certify: ORG
+Syteline: PERSON
+Create: ORG
+Review P & L: ORG
+prior year: DATE
+monthly: DATE
+quarterly: DATE
+35%: PERCENT
+Accountant/Analyst: ORG
+Jan 2010: DATE
+COGS: PERSON
+prior month: DATE
+prior year: DATE
+Prepare the Gross Profit Inventory: ORG
+Assisted Cost Accountant: WORK_OF_ART
+annual: DATE
+Prepare AP: ORG
+Confirm: ORG
+month: DATE
+BOFC: ORG
+Post: ORG
+Accountant Jan 2003 to: DATE
+Jan 2010: DATE
+State: ORG
+month end: DATE
+month end: DATE
+ERP: ORG
+Sarbanes Oxley: PERSON
+AP: ORG
+Payroll: ORG
+monthly: DATE
+Payroll Added Cost: ORG
+monthly: DATE
+year-end: DATE
+FAS: ORG
+Monitored: ORG
+monthly, quarterly: DATE
+annual: DATE
+35: CARDINAL
+Processed Annual Property Taxes: ORG
+1099: DATE
+Accounts Payable Team: ORG
+Jan 2000: DATE
+Jan 2003: DATE
+83: CARDINAL
+Processed: GPE
+ACH: ORG
+Reconcile: CARDINAL
+15: CARDINAL
+FED: ORG
+Jan 1998 to Jan 2000: DATE
+more than .75 million: CARDINAL
+FED: ORG
+Processed: GPE
+ACH: ORG
+Puerto Rico: GPE
+Orlando: GPE
+Puerto Rico: GPE
+Orlando Branches: ORG
+Graduate Diploma , Business Administration: ORG
+2009: DATE
+Metropolitan University: ORG
+ï¼​ City: GPE
+State
+
+Business Administration: ORG
+2007: DATE
+del Turabo: ORG
+State Accounting
+Languages
+Bilingual: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills: ORG
+Team Lead: PERSON
+Logistics: ORG
+MAPICS: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+QuickBooks: ORG
+SAP: ORG
+SAP R3: ORG
+Sarbanes
+Oxley: PERSON
+Spanish: NORP
+SPC4, Vertex: ORG
+Fixed Assets Administrator: ORG
+Project Lead: PERSON
+Reconciliation Skill: PERSON
+Payroll and Budget Proficiency: LAW
+Capital Expenditures: ORG
+Inventory Management: ORG
+Communications Skills: PERSON
+Financial Statements Analysis: ORG
+Research Skills: PERSON

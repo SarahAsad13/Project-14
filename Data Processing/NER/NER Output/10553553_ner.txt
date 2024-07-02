@@ -1,0 +1,116 @@
+Excels: PERSON
+Highlights
+
+Operations: ORG
+Project trackingÂ 
+Performance: ORG
+Waterfall: ORG
+Salary: DATE
+Client: GPE
+Information Technology: ORG
+03/2013 to Current Company Name: ORG
+four: CARDINAL
+Collaborated: ORG
+Build: GPE
+five: CARDINAL
+North America: LOC
+Canada: GPE
+Australia: GPE
+Chicago: GPE
+Houston: GPE
+Montreal: GPE
+Sydney: GPE
+North America: LOC
+WAN: ORG
+LAN: ORG
+Active Directory: ORG
+Group Policy: ORG
+SQL Administration: ORG
+Deployed: CARDINAL
+30: CARDINAL
+NEC: ORG
+NEC PBX: ORG
+Network Administrator: ORG
+02/2010: CARDINAL
+Windows 7: ORG
+Acronis Snap Deploy: PERSON
+Deployed: PRODUCT
+Microsoft Exchange: ORG
+2010: DATE
+VMware: ORG
+SQL: PERSON
+2005: DATE
+Dentrix: GPE
+10/2008: DATE
+Paine Wetzel ONCOR International: ORG
+Northridge Group: ORG
+Rent Here Realty: ORG
+Northwestern Dental Center: ORG
+Windows 2003: PERSON
+XP: ORG
+Vista: ORG
+Mac: PERSON
+Obtained Milestone Advanced Certified Partner: ORG
+Network Administrator: ORG
+10/2008: DATE
+LAN: ORG
+Windows XP: ORG
+Windows Vista: PERSON
+Administration of: ORG
+Microsoft Active Directory: ORG
+Administration of Microsoft Exchange: ORG
+2003: DATE
+Microsoft Office: ORG
+Adobe Acrobat: PERSON
+ACT: PERSON
+Network Administrator: ORG
+10/2008: DATE
+12/2009: CARDINAL
+Windows 2003: EVENT
+2008: DATE
+Blackberries: ORG
+iPhones: ORG
+Migrated to Exchange: ORG
+2007: DATE
+2003: DATE
+PowerShell: ORG
+DAS: ORG
+Managed Windows Server 2008: PERSON
+College of Education Computer Technician: ORG
+06/2008 Company Name: ORG
+Mac: PERSON
+Troubleshot: PERSON
+Novell Client: ORG
+Master of Science : Business Information Technology: WORK_OF_ART
+2018: DATE
+DePaul University: ORG
+ï¼​ City: GPE
+2009: DATE
+DeVry University: ORG
+Skills
+Active Directory: ORG
+Adobe Acrobat: PERSON
+Architect: ORG
+Client/Server: PERSON
+Client: GPE
+DAS: ORG
+Ghost: PERSON
+LAN: ORG
+Mac: PERSON
+Mac, Exchange: ORG
+Microsoft Exchange: ORG
+Microsoft Exchange: ORG
+2003: DATE
+Microsoft Office: ORG
+Windows: ORG
+Microsoft: ORG
+Windows 2003: PERSON
+Windows XP: ORG
+NEC: ORG
+Novell: ORG
+Policies: GPE
+SLA: ORG
+SQL: PERSON
+Vista: ORG
+WAN: ORG
+Windows Server: PERSON

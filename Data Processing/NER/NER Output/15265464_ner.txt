@@ -1,0 +1,49 @@
+Howell Township Public Schools: ORG
+Standard Solutions: ORG
+Math and Language Arts: WORK_OF_ART
+October 2013: DATE
+May 2014: DATE
+Powerpoint: PRODUCT
+Smart Notebook: PERSON
+Developmental Reading Assessments: ORG
+Facilitated: ORG
+Smart Board: ORG
+5: CARDINAL
+37: CARDINAL
+2nd: CARDINAL
+Grade Replacement: LOC
+January 2013 to August 2013: DATE
+quarterly: DATE
+weekly: DATE
+weekly: DATE
+September 2012 to December 2012: DATE
+Smart Board: ORG
+Certifications: ORG
+Endorements
+Bachelor of Arts : Psychology: PERSON
+December 2012: DATE
+Georgian Court University: ORG
+Cum Laude
+
+: PERSON
+Intercultural and Group Communication: ORG
+2012: DATE
+Georgian Court University: ORG
+Child Development
+Coursework in Professional Development: ORG
+Cum Laude/ Dean's: PERSON
+Scholar: PRODUCT
+GPA: ORG
+3.61: CARDINAL
+Students with Disabilities: WORK_OF_ART
+2012: DATE
+Georgian Court University: ORG
+Associate of Arts : Education: WORK_OF_ART
+2009: DATE
+Brookdale Community College: ORG
+2007: DATE
+Brookdale Community College: ORG
+State: ORG
+Nicole Harrison Peters: PERSON
+732: CARDINAL
+Nic_Harrison@aol.com: ORG

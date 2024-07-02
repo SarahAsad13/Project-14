@@ -1,0 +1,22 @@
+13 years: DATE
+over 20 years: DATE
+10/2014: CARDINAL
+Name City: GPE
+Cheerfully: ORG
+holiday season: DATE
+09/2014 Company Name City: ORG
+morning: TIME
+Teleflora Dove: FAC
+Itemize: ORG
+07/2002: CARDINAL
+Name City: GPE
+six: CARDINAL
+May 1979: DATE
+CAPE COD COMMUNITY: ORG
+CC Community College / Travel: ORG
+Tourism Certificate 1999 Cass Floral School / Floral Design Certificate: ORG
+2000: DATE
+Skills: ORG
+Resolve: PERSON
+Filing: GPE
+2000: DATE

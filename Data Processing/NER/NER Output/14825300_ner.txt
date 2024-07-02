@@ -1,0 +1,132 @@
+Skill Highlights: PERSON
+Client: GPE
+Ethics: ORG
+Customer: ORG
+Core Accomplishments
+
+Gartner Winners Circle 2013, 2015: WORK_OF_ART
+ESI International: ORG
+2011 Government Sales Contributor: ORG
+Year: DATE
+2009: DATE
+ESI International: ORG
+2008: DATE
+Year: DATE
+2007-2011: DATE
+ESI International: ORG
+2005-2006: DATE
+ExecuTrain: ORG
+1996-1997: DATE
+Caribbean Club
+
+Professional Experience
+Senior: ORG
+December 2012: DATE
+State: ORG
+California: GPE
+1.25: MONEY
+Gartner: ORG
+Gartner: ORG
+Manage: PRODUCT
+monthly/quarterly/: DATE
+annual: DATE
+January 2010 to December 2012: DATE
+Business Development: ORG
+Chairperson: ORG
+ESI: ORG
+Salesforce.com Governance Council: ORG
+Salesforce.com: ORG
+Council: ORG
+2011 Government Sales Contributor: ORG
+the Year Sale: EVENT
+State: ORG
+California: GPE
+ESI: ORG
+30-year: DATE
+Gold Club: ORG
+2010: DATE
+138%: PERCENT
+1.65: MONEY
+2011: DATE
+112%: PERCENT
+2.5: MONEY
+ESI: ORG
+Salesforce.com User Council: ORG
+2011: DATE
+March 2004 to December 2009: DATE
+ESI: ORG
+annual: DATE
+US: GPE
+Pacific Rim: LOC
+Jan 2007: DATE
+annual: DATE
+monthly: DATE
+ESI Business Development: ORG
+the Year for 2008: DATE
+2009: DATE
+annual: DATE
+2004 to 2006: DATE
+each year: DATE
+five consecutive years: DATE
+2005-2009: DATE
+137%: PERCENT
+136%: PERCENT
+129%: PERCENT
+2009: DATE
+2008: DATE
+2007: DATE
+Gold Club: ORG
+every year: DATE
+2007: DATE
+December 2002 to March 2004: DATE
+SkillRamp: PRODUCT
+ExecuTrain Southwest: ORG
+Fortune 1000: PRODUCT
+California: GPE
+Nevada: GPE
+Arizona: GPE
+California: GPE
+Nevada: GPE
+1.2: CARDINAL
+2004: DATE
+1: CARDINAL
+SkillRamp: PRODUCT
+2003: DATE
+January 1999 to December 2002: DATE
+State: ORG
+Las Vegas: GPE
+$40K-$50K/month: MONEY
+over $100K: MONEY
+150 days: DATE
+15 %: PERCENT
+200K+/month: MONEY
+2001: DATE
+$1.35M: MONEY
+$1.42: MONEY
+1999: DATE
+978K.: MONEY
+2006: DATE
+The George Washington University - City: ORG
+State: GPE
+USA: GPE
+2017: DATE
+Brigham Young University - City: ORG
+State: GPE
+USA: GPE
+The BYU Marriott School of Management's: ORG
+six: CARDINAL
+French University of California - City: ORG
+State: GPE
+3: CARDINAL
+Dean: PERSON
+3: CARDINAL
+Dean: PERSON
+List, College of Engineering: ORG
+Completed: ORG
+Bachelor of Science: ORG
+Electrical Engineering: ORG
+Enjoy: PERSON
+European: NORP
+Passionate Francophile: ORG
+French: NORP
+Legos: GPE

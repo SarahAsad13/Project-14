@@ -1,0 +1,64 @@
+Current
+Business Process Analyst Company Name: ORG
+Corporate Internal Auditors: ORG
+Oversee: ORG
+annual: DATE
+AAP: ORG
+EEO-1: PRODUCT
+Prepare: ORG
+quarterly: DATE
+CPO: ORG
+10/2015: CARDINAL
+People Infrastructure Operations Coordinator Company Name: ORG
+North American: NORP
+North: LOC
+Latin America: LOC
+Created: ORG
+the People Team: ORG
+HRIS: ORG
+Payroll: ORG
+Supported Talent Acquisition: ORG
+10/2015: CARDINAL
+Operations: ORG
+PEO: ORG
+day: DATE
+Acted: ORG
+PEO: ORG
+Processed: GPE
+monthly: DATE
+Assisted: ORG
+monthly: DATE
+English: LANGUAGE
+Language Arts Department Chair Company Name: ORG
+monthly: DATE
+English/Language Arts: EVENT
+Discovery Education: PRODUCT
+the Teacher Leader Corps: ORG
+the Leadership Team and School Improvement Plan Committee: ORG
+Grade English: LOC
+Martin Gifted: PERSON
+Talented Magnet Middle School: ORG
+02/2015
+English: PERSON
+daily: DATE
+the Common Core State Standards: ORG
+eighth: ORDINAL
+English/Language Arts: EVENT
+Utilized: ORG
+10/2010: DATE
+LanguageArts: ORG
+daily: DATE
+North Carolina: GPE
+eighth: ORDINAL
+Language
+Arts and Social Studies: ORG
+the Leadership Team: ORG
+Balanced Literacy: ORG
+Coordinated: ORG
+summer: DATE
+sixth: ORDINAL
+Training
+Master of Arts Degree :: WORK_OF_ART
+The University of North Carolina: ORG
+Greensboro Education: ORG
+Skills: ORG

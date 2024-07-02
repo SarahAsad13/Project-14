@@ -1,0 +1,71 @@
+Elementary Youth: PERSON
+Elementary Youth: PERSON
+Elementary Youth: PERSON
+Lexile: ORG
+Reclassification: PERSON
+CPR AA: ORG
+Mandated Reporting: ORG
+Skills
+Conducted Peer Council: ORG
+Positive Language Instructed Personalized Lesson Plans Critiqued: WORK_OF_ART
+Addressed Challenging Student
+Behavior Developed Strong Problem-Solving Skills
+
+Conducted Peer Council: WORK_OF_ART
+Â Assigned Books: PRODUCT
+Reading levelÂ 
+Supported: PERSON
+Behavioral: ORG
+Engaged Student with Positive verbal: WORK_OF_ART
+Instructed: ORG
+Conducted Peer Council: ORG
+Â Assigned Books: PRODUCT
+Reading levelÂ 
+Supported: PERSON
+Behavioral: ORG
+Engaged Student with Positive verbal: WORK_OF_ART
+Instructed: ORG
+Conducted Peer Council: ORG
+Â Assigned Books: PRODUCT
+Reading levelÂ 
+Supported: PERSON
+Behavioral: ORG
+Engaged Student with Positive verbal: WORK_OF_ART
+Instructed: ORG
+Tier I and Tier II: PERSON
+weekly: DATE
+EL Learner: ORG
+Department: ORG
+every day: DATE
+07/2013: CARDINAL
+weekly: DATE
+EL Learner: ORG
+EL: ORG
+Specialist: ORG
+every day: DATE
+EXL Tutor & ELA Academic Tutor: ORG
+20 1st: DATE
+EXL Tutor &: ORG
+ELA Academic Tutor: ORG
+20 1st: DATE
+Afterschool: ORG
+EXL Tutor & ELA Academic Tutor: ORG
+20 1st: DATE
+EXL Tutor &: ORG
+ELA Academic Tutor: ORG
+20 1st: DATE
+Associate of Arts : Psychology: ORG
+2019: DATE
+California State University: ORG
+Los Angeles - City: GPE
+Associate of Arts : Liberal Arts: WORK_OF_ART
+2015: DATE
+Los Angeles Trade Technical College: ORG
+Liberal Arts
+
+Skills
+Council: WORK_OF_ART
+Lesson Plans: PERSON
+Problem-Solving Skills: ORG
+american Heart: ORG
+Mandated Reporting: WORK_OF_ART

@@ -1,0 +1,51 @@
+Knowledge: PERSON
+Lotus Notes: ORG
+Research, Reporting, Negotiation Skills: ORG
+Organization and Interpersonal: ORG
+Windows XP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+March 2009: DATE
+Current Company Name - City: ORG
+Update: ORG
+daily: DATE
+daily: DATE
+Lien Release Customer Care Workbench: PERSON
+Workforce Management Analyst: ORG
+July 2007 to August 2008: DATE
+Customer Care Professional: ORG
+Communicated: ORG
+the Call Service: ORG
+Assist: NORP
+Loss Reporting Unit: WORK_OF_ART
+weekly: DATE
+100: CARDINAL
+December 2006 to March 2009: DATE
+H&R Block: ORG
+annual: DATE
+IRS: ORG
+January 1999: DATE
+April 2007 Company Name - City: DATE
+Bachelors of Business Administration : Computer Information Systems: ORG
+Northeast Louisiana University Computer Information Systems: ORG
+Human Resource Management University of Phoenix - City: ORG
+State Human Resource Management: ORG
+Delta Community College - City: ORG
+State Process Technology: ORG
+Skills
+Administrative: ORG
+Customer Service: ORG
+Customer
+Care: ORG
+Team Leader: ORG
+Lotus Notes: PRODUCT
+Access: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Windows XP: ORG
+Microsoft: ORG
+Research, Sales: ORG
+SAP: ORG
+Workbench: GPE

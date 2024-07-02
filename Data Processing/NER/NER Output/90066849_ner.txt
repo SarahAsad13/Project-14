@@ -1,0 +1,168 @@
+Tamantha Uebele: PERSON
+a Home Health Clinical Analyst: ORG
+Instructional Designer: ORG
+28 years': DATE
+Epic Home Health: ORG
+5 years: DATE
+ProHealth Care: ORG
+Tamantha: GPE
+Business Analyst: ORG
+Principal Trainer: PERSON
+Application Coordinator: ORG
+Providence Health & Services: ORG
+Northwest Community Hospital: ORG
+the Home Health: ORG
+Lahey Health: ORG
+Tamantha: GPE
+Home Health: ORG
+Nova: ORG
+Tamantha: GPE
+the Home Health and Hospice: ORG
+Home Health's: ORG
+ADT & Cadence: ORG
+Facility: ORG
+Profile, & Department Settings, Contact & Visit Types: ORG
+Print Groups: GPE
+User &
+Provider: ORG
+Cadence Templates: PERSON
+Smart Tools: PERSON
+Remote Client: ORG
+2009: DATE
+NVT: ORG
+2010: DATE
+NVT: ORG
+2012: DATE
+NVT: ORG
+2014: DATE
+NVT: ORG
+2015: DATE
+Hospice: ORG
+Home Health Clinical: ORG
+Home Health Implementation: ORG
+Formal: ORG
+building & testing: ORG
+28 years: DATE
+the Home Health and Hospice
+
+Full: ORG
+Knowledge & Experience: ORG
+Home Health: ORG
+2009: DATE
+2015: DATE
+Hospice: PERSON
+OASIS: ORG
+Physicians' Orders: ORG
+Analyst & Instructional Designer
+
+Epic Specific: ORG
+Expertise
+
+Application Coordinator/Analyst Specifics
+
+System: ORG
+2009: DATE
+2010: DATE
+2012: DATE
+2014: DATE
+2015: DATE
+Build: GPE
+EAF: ORG
+Profile: ORG
+LPR: ORG
+Contact & Visit Types: ORG
+LCT & PRC: ORG
+LRP: ORG
+Build: GPE
+Custom Form Build: ORG
+InBasket Classes: ORG
+Pools: ORG
+Verbal Order: ORG
+LVO: ORG
+User & Provider: ORG
+EMP & SER: ORG
+Linked Templates: PERSON
+Cadence Templates: PERSON
+Flow-Sheets: ORG
+Management &: ORG
+the Home Health Databases
+Integrated: ORG
+Home Care: ORG
+HIM: ORG
+Security Team Application Lead
+Data Courier/Migration Team Application Lead
+Change: ORG
+Understanding of Epic's Community Lead: WORK_OF_ART
+Epic Training & Curriculum Development
+
+Development: ORG
+Epic Home Health: ORG
+Lesson Plan Matrix: ORG
+Credentialed Trainer: PERSON
+Home Health: ORG
+the Home Health: ORG
+Learning Homes Dashboard
+
+Work: PERSON
+Feb 2015: DATE
+2: CARDINAL
+Created: ORG
+PowerPoint: ORG
+Quick Start Guides: PERSON
+Tip Sheets
+Classroom: ORG
+Build: GPE
+Learning Homes Dashboard
+
+: ORG
+Mar 2014: PERSON
+May 2014: DATE
+Home Health implementation
+
+Analysis: ORG
+2014: DATE
+Discovery: PRODUCT
+Subject Matter Experts: PERSON
+SME: ORG
+SER: ORG
+EMP: ORG
+SME: ORG
+InBasket: ORG
+Data Courier
+Database: PERSON
+Home Health: ORG
+Assisted Instructional Designer: ORG
+2014: CARDINAL
+Analyst Jan 2013 to Dec 2013: DATE
+Community Connect Home Health: ORG
+Data Validation/Workflow: ORG
+Redesign: PERSON
+Analysis: PRODUCT
+Led Nursing Care Plan: WORK_OF_ART
+Application Coordinator/Analyst &: ORG
+Principal Trainer Jul: PERSON
+Jan 2013: DATE
+Hospice: PERSON
+Hospice: PERSON
+EMR: PERSON
+Home Health: ORG
+the Home Health: ORG
+Epic's: ORG
+Home Health: ORG
+2012: DATE
+Principal Trainer: PERSON
+2009: DATE
+2010: DATE
+Created: ORG
+Meditech & PtCT: ORG
+Scheduler/Home Health: ORG
+1991: DATE
+2009: DATE
+three: CARDINAL
+two: CARDINAL
+Patient Care
+
+Education
+
+Associate of Arts ,: ORG
+Information Technology 2010 University of Phoenix: ORG

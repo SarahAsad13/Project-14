@@ -1,0 +1,109 @@
+FIELD BASED NURSE CHART REVIEWER - HEALTHCARE: ORG
+Seventeen years: DATE
+July 2010: DATE
+Current Company Name: ORG
+Nursing and Business Operations Provide: ORG
+Best Nursing Practices: WORK_OF_ART
+Workflow: ORG
+Education: ORG
+Nurse Consultant Services
+Leadership Nurse Consultant Services
+: ORG
+Safety Consultants: ORG
+Oversaw the Skilled Nursing: WORK_OF_ART
+Rehab: ORG
+Oversaw: GPE
+MDS: ORG
+MDS: ORG
+the Interdisciplinary Team: ORG
+MDS: ORG
+Federal Regulations: ORG
+Initial Admission Assessments: ORG
+Quarterly: DATE
+Annual: DATE
+Significant Changes: PERSON
+Medicare: ORG
+MDS CAA: ORG
+CAT: ORG
+CAA: ORG
+MDS: ORG
+Medicare: ORG
+PPS: ORG
+MDS: ORG
+MDS: ORG
+CMS: ORG
+QA: ORG
+monthly: DATE
+MDS: ORG
+Department of Health and Human Services: ORG
+Preparedness: PERSON
+Response: ORG
+National Disaster Medical System - DMAT NY6 -
+: ORG
+SGE: ORG
+NY: ORG
+7/2010-6/2014: PRODUCT
+Deployable Registered Nurse: WORK_OF_ART
+New York State: GPE
+the Federal National Disaster Medical System: ORG
+Quality Assurance: ORG
+Medicaid: ORG
+Medicare: ORG
+CARA: ORG
+HCC: ORG
+Physician: PERSON
+Quality Assurance: ORG
+April 2010 to January 2011 Company Name: DATE
+Interim HealthCare: ORG
+Interim HealthCare: ORG
+Interim HealthCare: ORG
+50: CARDINAL
+130: CARDINAL
+35: CARDINAL
+J year of age to 102 years of age: DATE
+Quality Net: ORG
+Quadra Med: PERSON
+COPE: ORG
+July 2007 to January 2008: DATE
+State: ORG
+ADON: ORG
+7: CARDINAL
+North- TBI: ORG
+the Behavioral Care Unit: ORG
+ADON: ORG
+7: CARDINAL
+North- TBI: ORG
+the Behavioral Care Unit: ORG
+Oversaw: GPE
+Nurse Administrator/Registered Nurse/Day: ORG
+January 2004 to July 2007: DATE
+Syracuse: GPE
+NY: ORG
+Nurse Administrator/Registered Nurse/Day: ORG
+Bachelor of Science : Nursing: ORG
+1999: DATE
+Syracuse University Syracuse University Bachelor of Science: ORG
+1999: DATE
+Master of Science: WORK_OF_ART
+46: CARDINAL
+Professional Affiliations: ORG
+American Association of Managed Care Nurses: ORG
+Medicaid Provider Identification: ORG
+National Provider
+Identification Number-1477790020: ORG
+Certifications: WORK_OF_ART
+RN Registered Nurse American Association of Managed Care Nurses CAA CAT: ORG
+Healthcare: ORG
+Medicare: ORG
+Staffing, Business Operations: ORG
+Contracts: ORG
+Operations, System Analysis: ORG
+Infection Control, Client Services: ORG
+Root Cause Analysis: ORG
+Medicaid: ORG
+Cms: ORG
+Content
+Management System: ORG
+Federal Regulations: ORG
+Qa: ORG
+Payroll: ORG

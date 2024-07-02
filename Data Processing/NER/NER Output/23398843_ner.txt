@@ -1,0 +1,41 @@
+10 years: DATE
+ECE: ORG
+Weekly Educational Project
+Project Communication Project Setup & Monitoring: ORG
+Microsoft: ORG
+Microsoft: ORG
+Microsoft: ORG
+Excel Power: PRODUCT
+Skills
+
+MS Office: ORG
+35: CARDINAL
+PowerPoint: PRODUCT
+English: LANGUAGE
+Spanish: NORP
+Bilingual: GPE
+spanish: NORP
+40] pounds: QUANTITY
+Work History
+Teacher 05/2008 to 07/2012 
+Company Name: WORK_OF_ART
+Daycare: ORG
+Project Coordination/Management Led: ORG
+SharePoint: ORG
+Coordinated: ORG
+Guidelines: ORG
+Conducted: ORG
+daily: DATE
+Project Coordination/Management Coordinated: ORG
+daily: DATE
+Associate of Applied Science : Early Childhood Education: WORK_OF_ART
+2012: DATE
+St Augustine: PERSON
+- City: GPE
+AASECE: ORG
+St Augustine: PERSON
+2012: DATE
+Skills: ORG
+Administrative Support: PERSON
+Project
+Coordination: ORG

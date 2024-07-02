@@ -1,0 +1,25 @@
+Skills
+
+Critical Thinking  Â  Â  Â  Â  Â  Â  Â  Â  Â Decision Making
+
+Hand/Power Tools: ORG
+Name City: GPE
+six: CARDINAL
+Processed: GPE
+Communicated: ORG
+the day: DATE
+Name City: GPE
+State Aviation Electronics Technician 09/2011: ORG
+Keep: ORG
+Coordinate: FAC
+Training
+Administration of Justice 2018 College: ORG
+Summer 2018: DATE
+Certificate 2012 Naval Fleet Training Center: ORG
+State: ORG
+City: GPE
+2011: DATE
+Mate Strand: PERSON
+2010: DATE
+Diamond Ranch High School: ORG
+State: ORG

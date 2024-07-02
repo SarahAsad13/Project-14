@@ -1,0 +1,87 @@
+Skills: ORG
+Construct: ORG
+AC/DC: ORG
+Determine: ORG
+Identify: ORG
+AC: PERSON
+Troubleshoot: ORG
+Multisim: NORP
+Assemble: PRODUCT
+Familiar: PERSON
+C+: GPE
+C++: PERSON
+Java: PERSON
+SQL: ORG
+Visual Studio: PERSON
+Microsoft Team Foundation: ORG
+Microsoft Test: ORG
+Tera Term: PERSON
+GShell: ORG
+Linux: PERSON
+Digital: ORG
+UTP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook
+Strong: PERSON
+Adapt: ORG
+Technician Jan 2014 to Jan 2016: DATE
+Beverage QA: PERSON
+Refractometer, Oscilloscope and Function Generators: ORG
+the Freestyle Platform: PRODUCT
+Calibrate Alpha: FAC
+Microsoft: ORG
+Microsoft Team Foundation Server: ORG
+Tera Term: ORG
+Linux: PERSON
+GShell: ORG
+Technician Jan 2012 to Jan 2014: DATE
+Build: GPE
+GPS: ORG
+USB: ORG
+IPOD: ORG
+Technician Jan 2010: DATE
+Jan 2012: DATE
+9500: CARDINAL
+2020: DATE
+Electromechanical: ORG
+Troubleshoot: ORG
+Assemble: PRODUCT
+Jan 2001 to Jan 2009: DATE
+30: CARDINAL
+daily: DATE
+Computer and Electronics Engineering Technology: ORG
+ITT Technical Institute: ORG
+State Computer: ORG
+Electronics Engineering Technology
+Bachelor of Science Degree , Electronics and Communication Engineering Technology: ORG
+September: DATE
+2013: DATE
+A average every quarter: DATE
+every quarter: DATE
+3.7: CARDINAL
+Publications: GPE
+Steve Brawley: PERSON
+C.E.O. of M.K.I. Waste: ORG
+678)-898- 2283: DATE
+Skills
+Alpha: ORG
+C++: PERSON
+CAD: ORG
+DC: GPE
+GPS: ORG
+Java: PERSON
+Linux: GPE
+Access, Excel: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft: ORG
+Multimeters: PERSON
+Oscilloscope: ORG
+Quality: ORG
+QA: ORG
+SQL: ORG
+Troubleshoot: ORG
+USB: ORG
+Visual Studio: PERSON

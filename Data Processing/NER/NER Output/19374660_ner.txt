@@ -1,0 +1,54 @@
+Daxko Operations: ORG
+Membership Coordinator: ORG
+Purchase Orders: PERSON
+Childcare: ORG
+Daxko Operations: ORG
+Assisted the Program: ORG
+weekly: DATE
+Input: ORG
+CC: ORG
+Maintained: GPE
+Front Desk/Customer Service: ORG
+11/2006: CARDINAL
+12/2010: CARDINAL
+State: ORG
+Ensures: LOC
+Data: ORG
+Attend: ORG
+monthly: DATE
+weekly: DATE
+monthly: DATE
+one: CARDINAL
+Maintained: GPE
+Document Clerk: PERSON
+03/2002: DATE
+01/2003 Company Name: ORG
+Ginnie Mae: ORG
+Fannie Mae: ORG
+Freddie Mac: ORG
+FHLB: ORG
+Trust System: ORG
+FiTech/Empower: ORG
+Excel: PRODUCT
+Update: ORG
+weekly: DATE
+Excel: PRODUCT
+Answer: LOC
+Finalize Ginnie Mae: ORG
+Fannie Mae: ORG
+Freddie Mac: ORG
+FHLB: ORG
+Empower: PERSON
+FiTech: ORG
+Sort and File: ORG
+11/1996: DATE
+the month September 1997: DATE
+1996: DATE
+American Safety & Health Institute: ORG
+CPR & AED Certification: ORG
+October 2013: DATE
+American Safety & Health Institute: ORG
+October 2013: DATE
+American Safety & Health Institute: ORG
+Microsoft Office/Excel/Powerpoint/Outlook/Word/Publisher: ORG
+AS400: PRODUCT

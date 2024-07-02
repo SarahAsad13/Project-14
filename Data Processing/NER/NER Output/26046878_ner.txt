@@ -1,0 +1,46 @@
+Adept: ORG
+MS Office: ORG
+Iowa: GPE
+North American: NORP
+Monthly: DATE
+MVP: ORG
+November 2013: DATE
+State: ORG
+Customer
+Service Representatives: ORG
+2011: CARDINAL
+March 2011: DATE
+North America: LOC
+MVP: ORG
+3-Time 2: PRODUCT
+November 2008 to April 2009: DATE
+February 2006 to June 2008: DATE
+State: ORG
+Sprint Nextel: ORG
+Awarded Service Star Award: ORG
+Education: ORG
+Bachelor: ORG
+City: GPE
+State: GPE
+US Bachelor's: PERSON
+May 2003: DATE
+University of Nebraska - Lincoln: ORG
+Nebraska: GPE
+3: CARDINAL
+Skills
+Sales: ORG
+Award, Clients, Marketing, Market Share: ORG
+Mvp: GPE
+Solutions: PRODUCT
+Exceed: PERSON
+Loss Prevention: ORG
+Sales Goals: PERSON
+Customer Service: ORG
+Receptionist: NORP
+Customer
+Inquiries: ORG
+Route Sales: ORG
+Monthly: DATE
+Ms Office: ORG
+Territory: PERSON
+Data Integrity: ORG

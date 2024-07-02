@@ -1,0 +1,72 @@
+17 years: DATE
+4 years: DATE
+Detail: PERSON
+Operations: ORG
+P&L: ORG
+297: CARDINAL
+10: CARDINAL
+less than 6 months: DATE
+year-over-year: DATE
+60%: PERCENT
+Oversaw: GPE
+Southeast: LOC
+Initiated: ORG
+07/2015: CARDINAL
+30: CARDINAL
+daily: DATE
+Completed: ORG
+30: CARDINAL
+daily: DATE
+50 %: PERCENT
+Maintained: GPE
+CSI: ORG
+Maintained: GPE
+F&I: ORG
+a four month: DATE
+1100: MONEY
+Xtreme Service Drive: ORG
+weekly: DATE
+Name City: GPE
+Completed: ORG
+weekly: DATE
+Maintained: GPE
+daily: DATE
+Name City: GPE
+State: ORG
+Oversaw: GPE
+5: CARDINAL
+Southeast: LOC
+Oversaw: GPE
+Recruited: PRODUCT
+Revamped: PRODUCT
+60 %: PERCENT
+Mentored: ORG
+10: CARDINAL
+Conducted: ORG
+03/2008 Company Name City: WORK_OF_ART
+Reorganized: ORG
+Completed: ORG
+weekly: DATE
+Completed: ORG
+weekly: DATE
+Directed: ORG
+Reorganized: ORG
+up to 20: CARDINAL
+weekly: DATE
+Name City: GPE
+Reorganized: ORG
+Bachelor of Arts : Religion /Psychology: ORG
+State: ORG
+Skills
+
+Customer Service
+Direct: ORG
+Loss Prevention: WORK_OF_ART
+Management
+Negotiating/Closing: ORG
+Payroll: ORG
+P&L Management
+Planning
+Receiving
+Recruiting
+Sales Coaching: ORG

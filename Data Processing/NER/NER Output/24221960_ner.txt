@@ -1,0 +1,36 @@
+Highlights
+Fast learner Friendly Communication Skills Computer Skills Customer Service: WORK_OF_ART
+Neat: ORG
+Reliable: WORK_OF_ART
+Jobs: PERSON
+December 2015: DATE
+Mastered Point: ORG
+April 2015 to August 2015: DATE
+March 2013 to December 2013: DATE
+Dairy Queen - Gainesville: PERSON
+Florida: GPE
+one: CARDINAL
+8 am in the morning: TIME
+11 pm: TIME
+almost every night: TIME
+cashier & line cook: ORG
+Associate of Science : Medical Coder and Billing: ORG
+2015: DATE
+Santa Fe College - City: ORG
+State: GPE
+United States of America: GPE
+Health Information Management: ORG
+3.7: CARDINAL
+GPA: ORG
+2011: CARDINAL
+State: ORG
+Alachua
+
+: PERSON
+2011: DATE
+Cashier: PERSON
+Line Cook: PERSON
+Interpersonal Skills: ORG
+Customer Service Skills: ORG
+Leadership Skills: PERSON
+Organizational Skills: PERSON

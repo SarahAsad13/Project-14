@@ -1,0 +1,72 @@
+Professional Summary
+
+Ambitious Construction Executive: ORG
+30+ years: DATE
+Finance: ORG
+Work History
+Company Name Senior Project Manager: WORK_OF_ART
+City: GPE
+State: ORG
+2017 - Current
+
+: DATE
+Act: LAW
+3 to 5: CARDINAL
+$5 toÂ​: MONEY
+$10 million: MONEY
+Monitored: ORG
+City: GPE
+State: ORG
+November 2010 - August 2017: DATE
+RFI: ORG
+Obtained: FAC
+PCOR: NORP
+FFE: ORG
+Assigned: ORG
+City: GPE
+State: ORG
+January 2006 - November 2010: DATE
+Incident: ORG
+IIT: ORG
+Collaborated: ORG
+the Accounting department: ORG
+City: GPE
+State: ORG
+January 2003 - December 2005: DATE
+Oversaw: GPE
+Obtained: FAC
+weekly: DATE
+City: GPE
+State: ORG
+April 1999 - December 2002: DATE
+between 10 to 20: CARDINAL
+Directed: ORG
+City: GPE
+State: ORG
+April 1997 - March 1999: DATE
+Maintained: GPE
+Directed: ORG
+State: ORG
+1995: DATE
+Construction
+Management
+BBA Business Management East Tennessee: ORG
+University City: GPE
+State: ORG
+1991: DATE
+Business Management
+Skills
+
+Safety Oversight: ORG
+Budgeting, Competitive Contracts Management: ORG
+Â Marketing: ORG
+Microsoft Office: ORG
+Microsoft
+Project: ORG
+Pro Core Project Management: ORG
+Personnel Management, Procurement: ORG
+Project Management, Systems Protocols: ORG
+Quality Control: ORG
+LEED AP: PERSON
+ASHE: PRODUCT
+American Society of Health Engineers: ORG

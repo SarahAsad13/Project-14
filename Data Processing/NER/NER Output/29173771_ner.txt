@@ -1,0 +1,39 @@
+Family Advocate: ORG
+Leadership
+Planning and Coordination
+Good: ORG
+Community Resources
+
+Work History: ORG
+Current
+Center: ORG
+day-day-day: DATE
+Quickly: ORG
+daily: DATE
+daily: DATE
+14: CARDINAL
+07/2019: DATE
+12/2019: CARDINAL
+day-day-day: DATE
+Quickly: ORG
+daily: DATE
+Recruited: PRODUCT
+up to 96: CARDINAL
+each day: DATE
+Monitored: ORG
+17: CARDINAL
+day: DATE
+10/2014: CARDINAL
+07/2019: GPE
+day-day-day: DATE
+Quickly: ORG
+daily: DATE
+08/2009: CARDINAL
+10/2014: CARDINAL
+Pursued: GPE
+Performed: ORG
+daily: DATE
+Completed: ORG
+daily: DATE
+2014: DATE
+State: ORG

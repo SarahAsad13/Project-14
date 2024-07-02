@@ -1,0 +1,325 @@
+Seven years: DATE
+Software Application Development, Application Support, Testing and Implementation: ORG
+Software Development Life Cycle: ORG
+Functional Domain: ORG
+HealthCare: ORG
+Life Sciences: ORG
+Transportation: ORG
+six months: DATE
+Fiddler: ORG
+Web Traffic
+Hands: WORK_OF_ART
+DLL: ORG
+Computer Sciences: ORG
+University of IL: ORG
+Springfield: GPE
+XML: ORG
+HTML: ORG
+HTTP: ORG
+MS SQL Server: ORG
+ADO.NET: ORG
+Entity Framework: PERSON
+CSS: ORG
+Java Script: PERSON
+Themes & Skins: ORG
+Custom Controls: ORG
+Object Oriented Analysis & Design: ORG
+Inheritance, Polymorphism & Abstraction: ORG
+State Management: ORG
+2.0/3.5/4.0/4.5: CARDINAL
+MVC: ORG
+4.0: CARDINAL
+MVC: ORG
+Languages C#.NET: PERSON
+XML: ORG
+HTML: ORG
+JavaScript: ORG
+Core Java: PERSON
+Oracle 9i/10g/11: ORG
+Web Programming: WORK_OF_ART
+Java Script: PERSON
+CSS: ORG
+AJAX: ORG
+JQuery
+Version Control Tools Team Foundation Server: ORG
+IBM Rational Team Concert: ORG
+GitHub
+Reporting Tools SSRS: PRODUCT
+Crystal Reports and Business Objects: ORG
+IDE Visual Studio: ORG
+2005: DATE
+2008: DATE
+2010: DATE
+2012: DATE
+2013: DATE
+2015: DATE
+MS DOS: PERSON
+Domain Skills HealthCare: ORG
+Life Sciences: ORG
+Transportation: ORG
+JQuery: ORG
+Postman Interceptor: ORG
+Fiddler: PERSON
+Remote Desktop: ORG
+July 2014: DATE
+Healthcare: ORG
+Lab Management, Oncology: ORG
+Pain Management and Sleep Management: ORG
+Document Generation Services: ORG
+over 30: CARDINAL
+UI: GPE
+Windows Services: ORG
+Database Systems: ORG
+The day: DATE
+50: CARDINAL
+12 million: CARDINAL
+Works: ORG
+Works: PERSON
+Works: PERSON
+SQL: ORG
+Developed: PRODUCT
+Flesch-Kincaid Algorithm: ORG
+JQuery: ORG
+Primary: PERSON
+Bug: PERSON
+Production Participates: ORG
+Participated: ORG
+daily: DATE
+Sprint: ORG
+Scrum Master: PERSON
+Application Support Team: ORG
+Root cause Analysis &: ORG
+VS.NET2010: PERSON
+LINQ: ORG
+MVC: ORG
+TFS: ORG
+SQL Server: ORG
+2008/2012: DATE
+JavaScript: ORG
+Fiddler: PERSON
+Peek: PERSON
+Postman
+Interceptor: ORG
+January 2010 to April 2013: DATE
+Landauer Inc.: ORG
+third: ORDINAL
+Landauer: LOC
+Agresso: GPE
+Order Entry: ORG
+Customer Service: ORG
+Finance: ORG
+AJAX: ORG
+JQuery: ORG
+Oracle: ORG
+SQL Server: ORG
+N-Tier: ORG
+Presentation, Business and Data: ORG
+Created a RESTFUL WCF Service: ORG
+Team Foundation Server: ORG
+2010: DATE
+Visual Source Safe: FAC
+IBM: ORG
+Team Concert: PERSON
+Implemented Data: ORG
+JQuery: ORG
+WCF Services for Business Logic: ORG
+PDF: ORG
+Heavily: GPE
+Used Generics in C#: WORK_OF_ART
+Client: PERSON
+Server: ORG
+#: CARDINAL
+Created Database Schema: ORG
+Objects: ORG
+SQL Server: ORG
+2008: DATE
+Created SSIS: ORG
+CSS/Themes: ORG
+ASP.NET: ORG
+CSS: ORG
+SQL Server 2012: PERSON
+Oracle 10: ORG
+7.0: CARDINAL
+JQuery: ORG
+ADO.NET: ORG
+Net Framework: GPE
+Visual: GPE
+2010/2012: DATE
+JavaScript: ORG
+TFS: ORG
+LINQ: ORG
+Entity Framework: PERSON
+Software Engineer: PERSON
+August 2008 to November 2010: DATE
+State: ORG
+CSX Corporation: ORG
+Jacksonville: GPE
+Fla.: GPE
+the CSX Transportation: ORG
+about 21,000: CARDINAL
+23: CARDINAL
+the District of Columbia: GPE
+Canadian: NORP
+Ontario: GPE
+Quebec: GPE
+Nearly two-thirds: CARDINAL
+Americans: NORP
+CSX: ORG
+C#.NET: PERSON
+HTML: ORG
+DHTML: ORG
+CSS: ORG
+Java Script: PERSON
+Worked on Validation Controls: ORG
+User Controls: ORG
+Custom Controls: PERSON
+AJAX: ORG
+XAML: ORG
+UI: GPE
+SQL Server: ORG
+2005: DATE
+SQL Queries: ORG
+Indexes: PERSON
+Objects: ORG
+2005: DATE
+SSIS: ORG
+SSIS: ORG
+SQL: ORG
+SQL Server: ORG
+Excel & MS Access: ORG
+Wrote Web Services: ORG
+SOAP: ORG
+Export and Import Datasets: ORG
+XML: ORG
+Security Services: ORG
+Sax: PERSON
+Performed Unit Testing: ORG
+SSRS: ORG
+Visual Studio: PERSON
+2005/2008: DATE
+C#.NET: GPE
+ADO.NET: ORG
+Code Dom: PERSON
+SQL Server: PERSON
+2005: DATE
+Multithreading: PERSON
+XML: ORG
+AJAX: ORG
+XAML: ORG
+Java: PERSON
+SQL Server: ORG
+2005: DATE
+Excel: PRODUCT
+SSIS: ORG
+Web Services: ORG
+SOAP: ORG
+VSS: ORG
+Crystal Reports: LOC
+SSRS: ORG
+Master of Science : Computer Science: WORK_OF_ART
+2014: DATE
+State: ORG
+USA Computer Science
+Bachelor of Science : Computer Science and Engineering: ORG
+2008: DATE
+Jawaharlal: GPE
+Nehru Technological University: ORG
+ï¼​ City: GPE
+State: GPE
+India Computer
+Science and Engineering
+Accomplishments: ORG
+Windows: NORP
+Coded: ORG
+User Controls: ORG
+Custom Controls: PERSON
+Validation Controls: ORG
+API: ORG
+Source Code Control
+Systems: ORG
+Microsoft Team Foundation Server: ORG
+IBM Rational Team Concert: ORG
+RTC: ORG
+GitHub Worked: PRODUCT
+ADO.NET: ORG
+SQL Command Object: ORG
+Data Reader: ORG
+Dataset: ORG
+Data Adapter: ORG
+Constraints, Indexes: ORG
+Views: ORG
+Stored
+Procedures: ORG
+Functions: PERSON
+SQL Server: ORG
+2005/2008/2014 & Oracle: MONEY
+Test Driven Development: ORG
+Code & Application Documentation: ORG
+User Guide: ORG
+Angular JS: PRODUCT
+SQL Server: ORG
+IIS Application Servers: ORG
+C#.NET: NORP
+2.0: CARDINAL
+third: ORDINAL
+ADO: ORG
+Agresso: ORG
+AJAX: ORG
+API: ORG
+Business Objects,: ORG
+Cardiology: GPE
+Client: GPE
+Server, Configuration Management: ORG
+Crystal Reports: LOC
+CSS: ORG
+Client: GPE
+Customer Service: ORG
+Version: GPE
+Database: GPE
+Dom: PERSON
+DHTML: ORG
+ERP: ORG
+XML: ORG
+Finance: ORG
+HTTP: ORG
+IBM: ORG
+IDE: ORG
+7: CARDINAL
+7.0: CARDINAL
+Java: PERSON
+JavaScript: PRODUCT
+Java Script: PERSON
+JQuery, JSON: GPE
+Access, MS Access: ORG
+#,: MONEY
+Excel: PRODUCT
+Windows 7,: ORG
+Windows: GPE
+2000: DATE
+Works, Monitors: ORG
+MS DOS: PERSON
+MVC: ORG
+4.0: CARDINAL
+MVC: ORG
+Object Oriented Analysis & Design: ORG
+OOAD: ORG
+ODBC, Oncology: ORG
+Operating Systems: ORG
+Oracle 9: ORG
+Oracle: ORG
+Oracle: ORG
+SQL: ORG
+Order Entry: ORG
+Pain Management: ORG
+PDF: ORG
+SOAP: ORG
+Visual Source Safe: PERSON
+SQL Server: PERSON
+SQL: ORG
+SQL Server: ORG
+Therapy: PERSON
+Transportation: ORG
+Validation: ORG
+Vista: ORG
+Visual Studio: ORG
+H-1B Visa: PERSON

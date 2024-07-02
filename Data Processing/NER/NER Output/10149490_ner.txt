@@ -1,0 +1,157 @@
+NEW CONSTRUCTION / AFE MAINTENANCE: ORG
+23 years: DATE
+18 years: DATE
+Management / Supervisory: ORG
+Shutdowns: ORG
+Supervisor: PERSON
+the=: WORK_OF_ART
+refinery.=: WORK_OF_ART
+have=: PERSON
+the=: WORK_OF_ART
+manager=: WORK_OF_ART
+the=: WORK_OF_ART
+strong=: PRODUCT
+relationships=: WORK_OF_ART
+integrity,=: PERSON
+the=: WORK_OF_ART
+betterment=: WORK_OF_ART
+manager=: WORK_OF_ART
+that=: WORK_OF_ART
+budget.=: WORK_OF_ART
+the=: WORK_OF_ART
+manager=: WORK_OF_ART
+the=: WORK_OF_ART
+Integrity
+Strong Team: ORG
+MS Proficient: ORG
+Budget / Cost: ORG
+Volunteerism/ Executing Crew Projects: Our: ORG
+Adopt-A-Family: ORG
+Fisher House: ORG
+Omega: PERSON
+Girls Club: ORG
+Cause: ORG
+Cause: ORG
+this year: DATE
+the Solano County Food Bank: ORG
+5 year: DATE
+5 year: DATE
+Building: GPE
+10 year: DATE
+3 week: DATE
+2008-2010: DATE
+four: CARDINAL
+Valero: PRODUCT
+the previous 10 years: DATE
+200: CARDINAL
+500: CARDINAL
+VLO/Eichleay/Harvest Eng: ORG
+FGS OSBL: ORG
+Utilities: ORG
+Upgrades: GPE
+Butamer Mechanical Coordinator: ORG
+Non-Union: ORG
+jobsite: NORP
+Name City: GPE
+State New Construction / AFE Maintenance: ORG
+the Safety and Health: ORG
+weekly: DATE
+Safety Meetings with Contractors /: ORG
+aÂ: PERSON
+Safety VPP Football Program: ORG
+Capital: GPE
+Strong: PERSON
+Liaison between Operations: ORG
+Project Engineering and Construction Team: ORG
+4 years: DATE
+10 year: DATE
+7: CARDINAL
+Maintains Environmental: ORG
+Model: ORG
+Manages Construction: ORG
+Budget Reviews: PERSON
+New Contractor: ORG
+Name City: GPE
+Operations: ORG
+Maintained: GPE
+Maintained: GPE
+40-50: CARDINAL
+3rd: ORDINAL
+4th: ORDINAL
+5th: ORDINAL
+CBO: ORG
+4: CARDINAL
+Oil Spill Response: PERSON
+Situation Control: PERSON
+Assumed Incident Commander Role: ORG
+Completed OS Manual: ORG
+Implemented Crew: PRODUCT
+Name City: GPE
+State: ORG
+11/2010: CARDINAL
+TA: ORG
+the PS TA: ORG
+Name City: GPE
+State New Construction Mechanical Coordinator 04/2008: ORG
+11/2010: CARDINAL
+MOC: ORG
+OSBL: ORG
+Developed: ORG
+EPR: ORG
+Completed: ORG
+OSBL: ORG
+Constructability: ORG
+Model: ORG
+Liaison between Operations: ORG
+Project Engineering and Construction Team: ORG
+Implemented Budget Reviews: ORG
+QA/QC: EVENT
+Refinery/ Construction: ORG
+Name City: GPE
+Began Training: PERSON
+05: CARDINAL
+06: CARDINAL
+Refinery: ORG
+State: GPE
+US High School: ORG
+El Sobrante: ORG
+CA: GPE
+USA: GPE
+Professional Affiliations
+Active Fire Dept: ORG
+Honorary: PERSON
+Present
+Certifications
+
+Emergency Response
+
+Active Fire Dept: ORG
+2000-2012: DATE
+Honorary: PERSON
+200: CARDINAL
+300: CARDINAL
+700: CARDINAL
+Strategy and Tactics
+Advanced Fire FightingFoam: WORK_OF_ART
+Wild Lands Fire Fighting: LOC
+Rope Rescue: ORG
+Advanced Specialty Rope Schools: ORG
+Qualified Haz: PERSON
+Fire Fighting Apparatus/ Equipment
+Certified: ORG
+Competed: FAC
+2000: DATE
+2002: DATE
+Rope 1 Rescue Qualified: ORG
+Oil Spill Response: PERSON
+Land / Water Division: ORG
+Situation Control: ORG
+Liaison, Operations, Environmental Compliance: ORG
+Mentoring, Site Assessments, Budget: ORG
+Construction Schedules / Integration: ORG
+Contracts: ORG
+QA/QC: ORG
+Proactive
+Problem Solving: ORG
+Self Motivated: PERSON
+Team Player: ORG

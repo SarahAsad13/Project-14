@@ -1,0 +1,98 @@
+Profile: ORG
+Esteemed Organization: ORG
+6.5 years: DATE
+Sharp: ORG
+Working: ORG
+month
+end and year end: DATE
+Skill Highlights: PERSON
+Windows 95/ 98/ 2000/: PERSON
+MS Word: PERSON
+MS Excel: ORG
+MS Power Point
+Office: ORG
+2000/2002: DATE
+Accounts Payable: ORG
+Custom: ORG
+Air/Ocean Freight: ORG
+CFO: ORG
+GM: ORG
+Foreign and Local: ORG
+Developed GL: PRODUCT
+month: DATE
+Mass Upload JV: LOC
+month: DATE
+09/2015: CARDINAL
+AP: ORG
+Pan India: ORG
+PO: ORG
+Ledger: PERSON
+quarterly: DATE
+Forex: NORP
+SAP: GPE
+RBI: ORG
+GRIR Analysis: ORG
+GRIR: ORG
+Clearing: ORG
+GRIR: ORG
+A1: PRODUCT
+Invoice: ORG
+Original BOE: ORG
+BL: ORG
+EDD: ORG
+Sundry Creditors: ORG
+GL: ORG
+Down: PERSON
+Imprest Supplier: NORP
+daily: DATE
+Prepare: ORG
+monthly: DATE
+Handling Petty: PERSON
+daily: DATE
+Analysis
+Preparation Bank: ORG
+month: DATE
+Inter Branch: ORG
+MIS Reports
+Internal: ORG
+Journal: ORG
+TDS: ORG
+ESI & P F.: ORG
+Monthly: DATE
+Receipts Vs Payment Analysis
+
+Education
+M.B.A : Finance: WORK_OF_ART
+Manonmaniam Sundaranar University: PERSON
+Kamaraj College of Arts: ORG
+Manonmaniam Sundaranar University: ORG
+English: LANGUAGE
+Tamil: GPE
+Arabic (Read & Write: WORK_OF_ART
+35 Years - 24.05.1980: DATE
+35 Years - 24.05.1980: DATE
+Accounts Payable: ORG
+AP: ORG
+Arabic: NORP
+English: LANGUAGE
+ERP: ORG
+9: CARDINAL
+Finance: ORG
+Forex: ORG
+General Ledger: ORG
+GL: ORG
+MS Excel: ORG
+Office, Office 2000: ORG
+MS Power Point: ORG
+2000: DATE
+Windows 95: ORG
+98: DATE
+MS Word: PERSON
+MIS: ORG
+month end: DATE
+Operating System: ORG
+Procurement, Express: ORG
+SAP: ORG
+Tax: PERSON
+TDS: ORG
+Website: GPE

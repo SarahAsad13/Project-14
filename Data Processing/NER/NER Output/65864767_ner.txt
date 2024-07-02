@@ -1,0 +1,100 @@
+Career Focus: FAC
+IAA Credit Union: ORG
+215MM: PRODUCT
+Busey Bank: ORG
+3.9B: CARDINAL
+01/2011: CARDINAL
+Led Chase Bank: ORG
+one: CARDINAL
+350: CARDINAL
+350: CARDINAL
+Sold: ORG
+Fannie Mae: ORG
+Freddie Mac: ORG
+FHA: ORG
+VA: ORG
+RHA: ORG
+Created: ORG
+first: ORDINAL
+260k+: MONEY
+approximately $22MM: MONEY
+250k: MONEY
+20MM: MONEY
+JPMorgan Chase Bank: ORG
+N.A.: ORG
+2.35: CARDINAL
+Focus: ORG
+250k: MONEY
+20MM: MONEY
+260k+: MONEY
+approximately $22MM: MONEY
+first: ORDINAL
+Fannie Mae: ORG
+Freddie Mac: ORG
+FHA: ORG
+VA: ORG
+RHA: ORG
+Built: ORG
+12: MONEY
+over $: MONEY
+Led Chase Bank: ORG
+one: CARDINAL
+350: CARDINAL
+2002: DATE
+ï¼​ City: GPE
+State Chemistry Business and Accounting
+Certifications
+Affluent: ORG
+CPR: ORG
+Interests: NORP
+2008-Present: DATE
+United Way Steering Committee: ORG
+2016-Present: DATE
+LeRoy Pack 3950: PERSON
+Award Chair: PERSON
+2011-2013: DATE
+Committee Chair: ORG
+2014: DATE
+McLean County: PERSON
+2011: DATE
+Mentor: ORG
+2012&2013: CARDINAL
+Business Day Chair: ORG
+2014-: CARDINAL
+Project Oz Board (Fundraising Chair: ORG
+2011-2012: DATE
+2013: DATE
+Eastview Christian Church: ORG
+2008: DATE
+2008-2013: DATE
+Skills: ORG
+Council: ORG
+CPR: ORG
+Credit: ORG
+Financial: ORG
+Human Resources: ORG
+Mac: PERSON
+Retail: PERSON
+Supervisor: PERSON
+Treasury: ORG
+2008-Present: DATE
+United Way Steering Committee: ORG
+2016-Present: DATE
+LeRoy Pack 3950: PERSON
+Award Chair: PERSON
+2011-2013: DATE
+Committee Chair: ORG
+2014: DATE
+McLean County: PERSON
+2011: DATE
+Mentor: ORG
+2012&2013: CARDINAL
+Business Day Chair: ORG
+2014: DATE
+Project Oz Board (Fundraising Chair: ORG
+2011-2012: DATE
+2013: DATE
+Eastview Christian
+Church: PERSON
+2008: DATE
+2008-2013: DATE

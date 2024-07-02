@@ -1,0 +1,47 @@
+Twenty years: DATE
+Microsoft: ORG
+Windows/Office XP: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+January 2011: DATE
+Negotiate: ORG
+Prospect: ORG
+January 2009 to January 2011: DATE
+approximately 100: CARDINAL
+1: MONEY
+2%: PERCENT
+January 1997 to January 2009: DATE
+Charleston Trident: ORG
+Setup: ORG
+8,000: CARDINAL
+approximately 50-60: CARDINAL
+$20.4 million: MONEY
+2006 FY: DATE
+29.4%: PERCENT
+600: CARDINAL
+Bachelor of Science : Business Administration: ORG
+1995: DATE
+The Military College of South Carolina: ORG
+City: GPE
+State: GPE
+US Bachelor: PERSON
+The Military College of South Carolina: ORG
+Charleston: GPE
+South Carolina: GPE
+Prospect: ORG
+Skills
+Sales: ORG
+Corporate Sales: ORG
+Operations: ORG
+Billing, Business
+Operations: ORG
+Lighting, Marketing, Merchandising, Million: ORG
+Receptionist: NORP
+Training, Outside Sales: ORG
+Proposals: GPE
+Telemarketing: PERSON
+Excel: PRODUCT
+Marketing Management: ORG
+Microsoft Windows: ORG
+Powerpoint: ORG
+Public Relations: ORG

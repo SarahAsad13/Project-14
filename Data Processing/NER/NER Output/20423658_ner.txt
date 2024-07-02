@@ -1,0 +1,76 @@
+AT&T.: NORP
+James
+Sauders: PERSON
+14 years old: DATE
+the last six and a half of those years: DATE
+AT&T: ORG
+more than 8 years: DATE
+number one: CARDINAL
+14: CARDINAL
+months: DATE
+10: CARDINAL
+600: CARDINAL
+AT&T: ORG
+1: CARDINAL
+only 10: CARDINAL
+my first year: DATE
+the University of Louisville: ORG
+West KY: LOC
+Teen Leadership Group: ORG
+October 2009: DATE
+Name City: GPE
+State Sales Representative: ORG
+number one: CARDINAL
+350: CARDINAL
+the Student Bank: ORG
+FBLA: ORG
+FBLA: ORG
+America: GPE
+2001: DATE
+the University of Louisville: ORG
+the first year: DATE
+Development Program: ORG
+AT&T: ORG
+one: CARDINAL
+first: ORDINAL
+Global Young Leaders Conference: ORG
+Australia: GPE
+1: CARDINAL
+5: CARDINAL
+over 350: CARDINAL
+Mock United Nations Assembly: ORG
+only year: DATE
+the year: DATE
+three months: DATE
+May 2007: DATE
+March 2008: DATE
+Name City: GPE
+State Airman/Cryptologic Linguist: ORG
+Airman: PERSON
+52: CARDINAL
+Arabic: LANGUAGE
+Russian: NORP
+June 2004: DATE
+May 2007: DATE
+Name City: GPE
+State Technology Sales Rep/Technology Sales Lead/Technology Sales: ORG
+Circuit City: GPE
+14 months: DATE
+ten: CARDINAL
+the month: DATE
+6: CARDINAL
+the same year: DATE
+the year: DATE
+Education: ORG
+2005: DATE
+University of Louisville City: ORG
+State: ORG
+United States Bachelor of Science : Double: GPE
+the University of Louisville: ORG
+Organizational Leadership & Learning: ORG
+May 2007: DATE
+March 2008: DATE
+Name City: GPE
+State Airman: ORG
+United States Air Force: ORG
+Led &: ORG

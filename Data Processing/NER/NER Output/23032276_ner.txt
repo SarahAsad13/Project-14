@@ -1,0 +1,120 @@
+EXECUTIVE CHEF
+Professional Summary
+Energetic: ORG
+Skills
+
+Creativity: ORG
+Knowledgeable in Heart Healthy Cooking
+Safe and Healthy: WORK_OF_ART
+Forward Thinking
+
+Highly: ORG
+Budgeting, Forecasting: ORG
+P&L
+Proficient: ORG
+Word: PERSON
+Excel: PRODUCT
+Powerpoint: ORG
+Outlook: PERSON
+Work History
+Executive Chef: WORK_OF_ART
+china: GPE
+Sanitation (Serv-Safe Certified: LAW
+daily: DATE
+HACCP: ORG
+weekly: DATE
+six: CARDINAL
+Food Production Coordinator: ORG
+Minimized: PERSON
+Maintained: GPE
+Executive Chef: ORG
+08/2009: CARDINAL
+09/2010: CARDINAL
+two: CARDINAL
+two: CARDINAL
+china: GPE
+40ppl: CARDINAL
+2: CARDINAL
+hourly: TIME
+Sanitation (Serv-Safe Certified: LAW
+daily: DATE
+HACCP: ORG
+weekly: DATE
+Executive Chef & General: ORG
+Food Venues: ORG
+12/2005: DATE
+11: CARDINAL
+25: CARDINAL
+600: CARDINAL
+china: GPE
+100ppl: CARDINAL
+17: CARDINAL
+hourly: TIME
+Safety
+
+and Sanitation (Serv-Safe Certified: ORG
+daily: DATE
+HACCP: ORG
+weekly: DATE
+Sous Chef: PERSON
+01/2004: CARDINAL
+HACCP: ORG
+12: CARDINAL
+Maintained: GPE
+Maintained: GPE
+Sous Chef: PERSON
+03/2003 to 12/2003: CARDINAL
+up to: CARDINAL
+30: CARDINAL
+10/2000: CARDINAL
+5: CARDINAL
+first three months: DATE
+Created: ORG
+up to: CARDINAL
+5: CARDINAL
+Culinary Supervisor: WORK_OF_ART
+09/1999 to 09/2000: CARDINAL
+McGrath: PERSON
+the Executive Chef: ORG
+Cooked: PERSON
+6 %: PERCENT
+6 months: DATE
+daily: DATE
+Specialty Chef: ORG
+08/1999: CARDINAL
+Maintained: GPE
+Asst: PERSON
+daily: DATE
+daily: DATE
+Associate of Science : Culinary Arts: WORK_OF_ART
+2012: DATE
+National Institute for Culinary Arts at: ORG
+Mountain State University - City: ORG
+Alcohol Awareness: ORG
+2003: DATE
+Health Communications Inc - City: ORG
+State: ORG
+Club Management: ORG
+2001: DATE
+Technical Vocational Institute - City: ORG
+Attained Serv-Safe Certification: ORG
+Serv-Safe: PERSON
+1 1995: DATE
+Chippewa Valley Technical College - City: ORG
+2003-2005: DATE
+The Great Outdoors: WORK_OF_ART
+Chandler: PERSON
+Affiliations: ORG
+2005: DATE
+Present American Culinary Federation: ORG
+World Association of Chefs Societies Charleston: ORG
+WV Active: ORG
+Skills
+Accounting: ORG
+Team Builder: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+MS Word: PERSON
+Safety: ORG
+Self Motivated: PERSON

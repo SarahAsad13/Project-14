@@ -1,0 +1,109 @@
+DIRECTOR: ORG
+FINANCE: ORG
+20 years: DATE
+Publishing: GPE
+Non-Profit: ORG
+Skill Highlights: PERSON
+Risk Management
+Analytical Skills: ORG
+Time Management
+Leadership: ORG
+Team Building
+Team Leadership
+
+Core Accomplishments
+
+Project Management: Â 
+
+Eliminated: ORG
+ABM: ORG
+Launched Audubon's: PERSON
+first: ORDINAL
+T&E: ORG
+Audubon: ORG
+first: ORDINAL
+Audubon: ORG
+first: ORDINAL
+4: CARDINAL
+33%: PERCENT
+100: CARDINAL
+Operations Management: Â 
+
+Professional Experience
+Company: ORG
+August 2015: DATE
+Finance Operations 
+City: ORG
+100 million dollar: MONEY
+Gift Processing -: PERSON
+our fiscal year: DATE
+35: CARDINAL
+October 2009 to July 2015: DATE
+Business Management: ORG
+3: CARDINAL
+HR: GPE
+Legal: GPE
+May 2003 to October 2009: DATE
+Budgets 
+City: GPE
+463: CARDINAL
+Chapters: NORP
+22: CARDINAL
+44: CARDINAL
+Audubon Centers: ORG
+year end: DATE
+the current
+fiscal year: DATE
+year end: DATE
+first: ORDINAL
+two: CARDINAL
+Audubon: ORG
+each fiscal year: DATE
+ABM: ORG
+Budget Module: ORG
+January 2000: DATE
+May 2003: DATE
+Audubon: ORG
+first: ORDINAL
+Oversaw: GPE
+Audubon: ORG
+annual: DATE
+monthly: DATE
+July 1999 to January 2000: DATE
+Audubon: ORG
+1/3: CARDINAL
+Audubon: ORG
+February 1997 to July 1999: DATE
+State: ORG
+Jobson Medical Information: ORG
+LLC: ORG
+every month: DATE
+Jobson: ORG
+30 million: CARDINAL
+60 million: CARDINAL
+the almost 5 years: DATE
+August 1995 to February 1997: DATE
+Financial Analyst: ORG
+annual: DATE
+November 1994 to August 1995: DATE
+Billing Coordinator: ORG
+Join Audubon: PERSON
+Optical: ORG
+first: ORDINAL
+Jobson: ORG
+just 10 months: DATE
+February 1991: DATE
+October 1994: DATE
+Accounting Clerk: PERSON
+IBM: ORG
+Education: ORG
+Wagner College Finance City: ORG
+State: GPE
+MBA: WORK_OF_ART
+Bernard M. Baruch College: PERSON
+State: GPE
+one: CARDINAL
+Microsoft: ORG
+Powerplan Budget/Forecasting: ORG
+Datatel: ORG
+Media Services Group: ORG

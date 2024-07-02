@@ -1,0 +1,114 @@
+9 years: DATE
+Human Resources: ORG
+11 years': DATE
+18 years': DATE
+9 years': DATE
+Core Qualifications
+
+Benefits Administration: ORG
+10+ years: DATE
+Employee Relations: ORG
+10+ years: DATE
+Human Resources: ORG
+9 years: DATE
+Payroll: ORG
+9 years: DATE
+Training & Development: ORG
+10+ years: DATE
+Recruitment: PERSON
+5 years: DATE
+Microsoft: ORG
+Word: PERSON
+Outlook: PERSON
+Excel: PRODUCT
+Powerpoint: ORG
+Prezi: GPE
+Tableau: GPE
+Core: ORG
+Core Advanced: PERSON
+Paychoice: DATE
+Paychoice Online, Encore: ORG
+Encore Online: PERSON
+ADI: ORG
+Time: ORG
+Hire Centric: PERSON
+Taleo: PERSON
+11/2015: CARDINAL
+HRIS: ORG
+Non-union: ORG
+Environments: PRODUCT
+US: GPE
+Canada: GPE
+Mexico: GPE
+Human Resources: ORG
+Workers Comp: ORG
+weekly: DATE
+HRIS: ORG
+weekly: DATE
+MVR: ORG
+Administers Employee Recognition Programs: ORG
+monthly: DATE
+quarterly: DATE
+Open Enrollment: ORG
+Vendors: ORG
+approximately 150: CARDINAL
+Massachusetts: GPE
+15: CARDINAL
+6: CARDINAL
+Canada Answer: ORG
+Coordinate: ORG
+weekly: DATE
+semi-monthly: DATE
+Design: PRODUCT
+Leadership
+Development: ORG
+STD: ORG
+LTD: ORG
+annual: DATE
+annual: DATE
+Affirmative Action: ORG
+Client Care Payroll Specialist Company Name: ORG
+Respond: PERSON
+Employee: GPE
+monthly: DATE
+ADA: ORG
+Section 125: LAW
+Worker's Compensation: ORG
+annual: DATE
+07/2011: CARDINAL
+Customer Relations Administrator Company Name: ORG
+Created the Customer Service Surveys: ORG
+the Marketing, Operations: ORG
+Customer Service: ORG
+Oversaw: GPE
+03/2008: CARDINAL
+07/2011: CARDINAL
+10/2007: CARDINAL
+year: DATE
+Created: ORG
+Maintained: GPE
+first: ORDINAL
+over 300: CARDINAL
+ADA: ORG
+Section 125: LAW
+Worker's Compensation: ORG
+annual: DATE
+May 2015: DATE
+June 2012: DATE
+Bachelor: ORG
+Business Administration New England College of Business and Finance Business Administration: ORG
+ADA: ORG
+Backup: PERSON
+Customer Service: ORG
+Employee Relations: ORG
+HRIS: ORG
+Human Resource, Human Resources: ORG
+Leadership Skills: PERSON
+Excel: PRODUCT
+Microsoft: ORG
+Outlook, Powerpoint: ORG
+Payroll: ORG
+Recruiting, Recruitment: ORG
+Surveys, Tableau: ORG
+Tax Returns: PERSON
+US: GPE

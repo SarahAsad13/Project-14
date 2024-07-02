@@ -1,0 +1,72 @@
+10 + years: DATE
+FASB: ORG
+SOX: ORG
+Project and Inventory Management * Staff Management
+Skills
+Work History
+01/2014: ORG
+Compile: PRODUCT
+Analyze: PRODUCT
+V.
+Mercado: PERSON
+2: CARDINAL
+Accountant: PERSON
+One: CARDINAL
+$15 million: MONEY
+Assist: NORP
+the month/year-end: DATE
+Generally Accepted Accounting: ORG
+monthly: DATE
+full-year: DATE
+annual: DATE
+weekly: DATE
+monthly: DATE
+AP: ORG
+monthly: DATE
+Formulate: ORG
+weekly: DATE
+year-end: DATE
+W-2s: PRODUCT
+Federal, State: ORG
+quarterly: DATE
+year-end: DATE
+IRS: ORG
+Oversee: ORG
+401k: PRODUCT
+annual: DATE
+2003: DATE
+Nissho Iwai American Corporation: ORG
+Metal One America: ORG
+Maintained: GPE
+Mexico: GPE
+Japan: GPE
+annually: DATE
+Master of Business Administration : Accounting: ORG
+1 2013: DATE
+State: ORG
+GPA: ORG
+Bachelor of Arts: ORG
+ROBERT MORRIS UNIVERSITY - City: ORG
+State: ORG
+H&R Block - Tax: ORG
+Wiley: PERSON
+Affiliations: ORG
+ACFE - Association of Certified Forensic Examiners: ORG
+Skills
+Accounting: ORG
+Accountant: ORG
+Ad: ORG
+AP: ORG
+Hyperion: ORG
+Inventory: GPE
+Access: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Oracle: ORG
+QuickBooks: ORG
+SAP, Fluent: ORG
+Spanish: LANGUAGE
+Tax: PERSON
+Turbo Tax: ORG
+year-end: DATE

@@ -1,0 +1,20 @@
+Customer Service: ORG
+Microsoft Office: ORG
+50%: PERCENT
+Social Media Content Creator 04/2016: ORG
+Liaison: PERSON
+Public Relations: ORG
+10/2015: CARDINAL
+Name City: GPE
+Twitter: PERSON
+Instagram: GPE
+Tumblr: GPE
+Name City: GPE
+Initiated: ORG
+Intern/Student Worker 03/2012 ï¼​ 05/2015 Company Name: ORG
+Prairie View A&M University - Mass Communication City: ORG
+State Mass Communication: ORG
+Data Entry: ORG
+Microsoft Office: ORG
+Windows: ORG
+Public Relations: ORG

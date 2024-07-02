@@ -1,0 +1,62 @@
+Key Skills: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Current
+HR Services: ORG
+Human Resources Association: ORG
+Group Benefit Plans
+Process: ORG
+weekly: DATE
+Prepare Offer Letters and Employment Contracts for Employees
+Conducting: ORG
+Register: ORG
+Company: ORG
+Assist: NORP
+Scan: NORP
+daily: DATE
+Assisted: ORG
+Prepared the Haulage and Contractor: WORK_OF_ART
+weekly: DATE
+05/2010: CARDINAL
+07/2011: CARDINAL
+Teller/Customer Service: ORG
+CSR)/Teller: ORG
+Assisted: ORG
+Society: ORG
+Batched: FAC
+daily: DATE
+Prepared: PRODUCT
+daily: DATE
+Prepared: PERSON
+daily: DATE
+Assisted: ORG
+2019: DATE
+Human Resource Management University College of the Caribbean ï¼​ City Jamaica
+
+: ORG
+Human Resource Management: ORG
+2009: DATE
+Select One :: WORK_OF_ART
+St. Jago High School: PERSON
+State: GPE
+Jamaica: GPE
+7: CARDINAL
+The Jamaica National Building Society - Teller/Customer Service: ORG
+Skills
+
+Human Resource Management: ORG
+Databases, Documentation, File: ORG
+Hr, Increase, Induction: ORG
+Packaging, Recruiting, Recruitment, Security, Accounts And, Cash: WORK_OF_ART
+Customer Service: ORG
+Customer Service Representative: ORG
+Dispatch: GPE
+Filing: GPE
+Loans: PERSON
+Payroll: ORG
+Vouchers: GPE
+Confident: PRODUCT
+Excel: PRODUCT
+Microsoft: ORG
+Presentation Skills: PERSON
+Self Motivated: PERSON

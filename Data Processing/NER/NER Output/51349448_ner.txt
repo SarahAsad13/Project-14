@@ -1,0 +1,24 @@
+Microsoft Word: PERSON
+Excel: PRODUCT
+Photoshop CS6
+Internet: PERSON
+Team: ORG
+Time Management
+Strong: ORG
+Current
+Security Guard Company Name: ORG
+State Secures: ORG
+02/2016: CARDINAL
+Maintenance: PERSON
+Hawaii: GPE
+twenty 55: CARDINAL
+9: CARDINAL
+1 2012: DATE
+General Education: ORG
+Santa Rosa Junior College: ORG
+4 years: DATE
+Profound: LOC
+Afghanistan: GPE
+Global War on Terrorism: EVENT
+Afghanistan: GPE
+Campaign National Defense Service Medal: ORG

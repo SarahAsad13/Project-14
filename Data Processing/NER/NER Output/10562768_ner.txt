@@ -1,0 +1,156 @@
+Geo-Spatial: PRODUCT
+Electronic Warfare: PERSON
+Networks and Threat: ORG
+DNR: ORG
+the World Wide Web: WORK_OF_ART
+Wide Area Networks: ORG
+Google Earth: ORG
+Microsoft Office Suite: ORG
+SIGINT Geospatial Analyst/Signal Analysis/SIGDEV: ORG
+Bloomberg: PERSON
+2014: DATE
+Governmental Health Care: ORG
+Medicare Advantage: ORG
+Belleview, Metrics: ORG
+Anchory: ORG
+Globalreach: ORG
+SEDB: ORG
+SIGNAV: ORG
+NSAnet: ORG
+Target Profiler: ORG
+MS Office Suite: ORG
+ArcMap: PERSON
+ArcGIS: GPE
+Google Earth: ORG
+Analyst Notebook: PERSON
+Dishfire: GPE
+JWICS: GPE
+Bloomberg: GPE
+Archtics: GPE
+Ticketmaster: LOC
+MarX: PERSON
+Continuum: PERSON
+Med
+Informatics: ORG
+Verint: GPE
+Cisco: GPE
+Name City: GPE
+State: ORG
+Retail Banking Center Building Operations: ORG
+TEAM: ORG
+Comerica Securities: ORG
+Standard Operating Procedures: ORG
+HOGAN: ORG
+Trio: GPE
+Bloomberg: PERSON
+PayPoint: ORG
+CoStar: ORG
+Provider Services: ORG
+Name City: GPE
+State: ORG
+Provider Services: ORG
+10/2015: CARDINAL
+8: CARDINAL
+Ulysses Service Mentor: ORG
+FACETS: ORG
+MEDCo: ORG
+CareAdvance: ORG
+Health Maintenance Organization: ORG
+Continuum: PERSON
+MarX: PERSON
+Med Informatics: PERSON
+CISCO: ORG
+Verint: PERSON
+Subscribers, Providers: ORG
+Small Groups: PERSON
+Large
+Groups: PERSON
+Governmental: PERSON
+NCQA: ORG
+MTM: ORG
+NMIS: ORG
+Department of Human Services: ORG
+Center for Medicare: ORG
+Medicaid Services: ORG
+the Health Insurance
+Marketplace: ORG
+Name City: GPE
+State Box Office Associate 01/2014: ORG
+Archtics: PERSON
+Ticketmaster: LOC
+Michigan Lottery Sales: ORG
+Meadowbrook Hall: PERSON
+DTE: ORG
+The Palace of Auburn Hills: ORG
+Name City: GPE
+10%: PERCENT
+2013 to 2015: DATE
+OSHA: ORG
+Microsoft Office Programs: ORG
+Name City: GPE
+State SIGINT Analyst 06/2009: ORG
+SIGNIT: ORG
+Intelligence: ORG
+Strategic: PERSON
+SIGNIT: ORG
+COMINT: ORG
+ELINT: ORG
+OSINT: ORG
+Analysis and Reporting: WORK_OF_ART
+Gained: NORP
+Captains: PERSON
+14: CARDINAL
+IIR: ORG
+PIR: ORG
+Name City: GPE
+State: ORG
+Red Cross/Ellis Lifeguard Certification: ORG
+CPR: ORG
+Aid/AED Certification: ORG
+USA: GPE
+Swim Coach: PERSON
+47%: PERCENT
+monthly: DATE
+CPR/AED/First Aid Training: ORG
+2008: DATE
+City: GPE
+Basic Training: ORG
+Fort Leonard Wood: FAC
+MO: GPE
+2009: DATE
+Goodfellow AFB: PERSON
+TX: ORG
+2010: DATE
+2016: DATE
+Cochise College: ORG
+State
+Masters of Business Administration: ORG
+2016: DATE
+Oakland University: ORG
+2016: CARDINAL
+2016: DATE
+Certifications
+YMCA Certification, Red Cross/Ellis Lifeguard Certification, Water Aerobics Certification: WORK_OF_ART
+CPR: ORG
+Aid/AED Certification: ORG
+USA Certified: GPE
+47%: PERCENT
+monthly: DATE
+CPR/AED/First Aid Training: ORG
+Skills: ORG
+Analyst: PERSON
+Basic: GPE
+Bloomberg: PERSON
+Coach: ORG
+CPR: ORG
+Financial: ORG
+First Aid: ORG
+HOGAN: ORG
+Instructor, Insurance: ORG
+TEAM: ORG
+Mentor: GPE
+Microsoft: ORG
+MS Office Suite: ORG
+Network: ORG
+Retail, Sales,: ORG
+Vision: ORG

@@ -1,0 +1,56 @@
+Core Qualifications
+MS Office Suite: ORG
+Word/Power Point/Excel/Outlook: ORG
+Oversee: ORG
+03/2011: ORG
+06/2013: CARDINAL
+State: ORG
+Personal Book: WORK_OF_ART
+Demonstrate: ORG
+monthly: DATE
+Â·Develop: CARDINAL
+Sales Professional Company Name: ORG
+Greet: PERSON
+Build: GPE
+Nordstrom Fashion Rewards: ORG
+Perform daily: ORG
+12/2009: CARDINAL
+Achieve: PERSON
+Build: GPE
+10/2008: DATE
+Workflow: ORG
+Teller Company Name: WORK_OF_ART
+Customer Service: ORG
+create & update C of A's: ORG
+Specs: PERSON
+scan & link: ORG
+BSE: ORG
+NAFTA: ORG
+produce &: ORG
+PPT: ORG
+update & print labels &: ORG
+MSA Coordinator Company Name: ORG
+Medicare: ORG
+Set Aside: ORG
+Claims Examiners: PERSON
+Applicant: PERSON
+11/2004: CARDINAL
+Receptionist: NORP
+QuickBooks: ORG
+01/2004: CARDINAL
+10/2002: CARDINAL
+11/2007: CARDINAL
+Bookkeeper Company Name: ORG
+2016: DATE
+Professional Affiliations: ORG
+American Marketing Association: ORG
+AMA: ORG
+David Nazarian School of BusinessÂ: ORG
+Skills
+Attention: ORG
+Fashion: ORG
+Excel: PRODUCT
+Microsoft Office Applications: ORG
+Outlook: PERSON
+QuickBooks: ORG
+Workflow: ORG

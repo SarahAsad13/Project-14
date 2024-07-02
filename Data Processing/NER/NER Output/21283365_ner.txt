@@ -1,0 +1,85 @@
+Establishing: ORG
+24x7x 365: CARDINAL
+Information Technology: ORG
+the Department
+Producing: ORG
+Communicating: ORG
+Cloud Environments Design & Implementation
+Network Design & Implementation: ORG
+Cyber Security: ORG
+Project Management
+Technical Support Management
+Budget Management: ORG
+Request for Proposals
+Current with Emerging Technologies
+
+: LAW
+Sep 2005: DATE
+Adsystech: GPE
+one: CARDINAL
+three: CARDINAL
+first: ORDINAL
+Software: PERSON
+a
+Service: ORG
+Adsystech: GPE
+the Adsystech EVP: ORG
+County Wide: PERSON
+Today: DATE
+monthly: DATE
+2004: DATE
+Adsystech: GPE
+05: CARDINAL
+2008: DATE
+08: DATE
+Adsystech: GPE
+Maintenance Cloud Technologies Cyber Security: ORG
+NITS: ORG
+CIS: ORG
+Project Management Technical Support Management
+Staff Professional Development RFP Responses: ORG
+Sep 2003 to: DATE
++120 Million dollars: MONEY
+County Wide Human Service: ORG
+the Information Technology Manger: ORG
+-County: GPE
+2.5 million: CARDINAL
+Los Angeles County: GPE
+Network Design and Oversight Project Management Product Training: ORG
+Mar 2003: DATE
+100: CARDINAL
+5: CARDINAL
+ERP: ORG
+Boston: GPE
+Nine short months: DATE
+CFO: ORG
+Cisco: GPE
+Windows Server Management: ORG
+Desktop Support: ORG
+Training
+M.S: ORG
+Fullerton Masters: PERSON
+Information Technology Mihaylo College of Business and Economics: ORG
+California State University
+Information Technology GPA: ORG
+3.4: CARDINAL
+UOP: GPE
+Information Technology University of Phoenix Information Technology GPA: ORG
+3.7: CARDINAL
+Skills: ORG
+Budget Management: ORG
+Cisco Routers: PERSON
+ERP: ORG
+Firewalls: NORP
+Information
+Technology: ORG
+2000: DATE
+Network Design: ORG
+Network Design &
+Implementation: ORG
+Producing: GPE
+Project Management: ORG
+Proposals: GPE
+Desktop Support: ORG
+VOIP: ORG
+Windows Server: PERSON

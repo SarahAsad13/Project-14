@@ -1,0 +1,77 @@
+RN STAFF NURSE
+Professional Experience
+: ORG
+RN Staff: ORG
+Nurse: PERSON
+August 2008 to April 2014: DATE
+Evidence: LOC
+Identify: ORG
+Accomplishments Management of Aggressive Behavior: ORG
+Certified Instructor: ORG
+Patient Experience Champion: ORG
+Policy & Procedure Committee: ORG
+Bedside Report: ORG
+hourly: TIME
+Skills Used Therapeutic: ORG
+Resident Care: PERSON
+July 2007 to July 2008: DATE
+SNF: ORG
+ECF: ORG
+ICF: ORG
+ALF: ORG
+24 hour: TIME
+monthly: DATE
+MAR: ORG
+Accomplishments Created: PERSON
+Mission Statement: PERSON
+Skills Used Effective: ORG
+Charge Nurse: PERSON
+July 2000 to June 2007: DATE
+Attend: ORG
+the Geriatric Assessment Center: ORG
+GAC: ORG
+Accomplishments
+Geriatric Resource Nurse: PRODUCT
+2003-2008: DATE
+NICHE: ORG
+Pain Management Resource: ORG
+Participant: ORG
+Evidence Based Practice: ORG
+Geriatric Assessment Center: ORG
+RN: ORG
+Providence Milwaukie: ORG
+ECF: ORG
+the Med/Surg: ORG
+Womens Health/Mother-Baby: ORG
+the Geriatric Assessment Center: ORG
+GAC: ORG
+ED: PERSON
+Skills Used Open: ORG
+Telemetry: GPE
+IV: GPE
+Appropriate: ORG
+April 1990 to April 1996: DATE
+Compile: PRODUCT
+monthly: DATE
+Training: PERSON
+1 2007: DATE
+Washington State University: ORG
+ADN: ORG
+1 2000: PERCENT
+Clark College: ORG
+ï¼​ City: GPE
+1 1987: DATE
+Clark College: ORG
+ï¼​ City: GPE
+State General Studies Medical Admin: ORG
+Front: ORG
+Med: PERSON
+1 1982: MONEY
+Western Business College: ORG
+the 1996-1997 fiscal year: DATE
+Skills: ORG
+Instructor: ORG
+Protocols: PERSON
+Telemetry: ORG
+the 1996-1997 fiscal year: DATE
+2014: DATE

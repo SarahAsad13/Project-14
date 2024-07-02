@@ -1,0 +1,105 @@
+MEMBERSHIP: ORG
+twenty years: DATE
+Front Desk: PERSON
+The Claremont Club: ORG
+Strategic: PERSON
+Outgoing: WORK_OF_ART
+Interpersonal: ORG
+Name City: GPE
+State Membership Sales: ORG
+01/2015: DATE
+Achieve: PERSON
+monthly: DATE
+Relationship Selling: ORG
+â€œcloseâ€​: PRODUCT
+DecreaseÂ: ORG
+monthly: DATE
+monthly: DATE
+Club: ORG
+Name City: GPE
+State Health & Wellness Coach: ORG
+Club: ORG
+Name City: GPE
+04/2013: CARDINAL
+two: CARDINAL
+less than $18,000: MONEY
+monthly: DATE
+over $30,000: MONEY
+monthly: DATE
+85: CARDINAL
+135: CARDINAL
+Top of Mind: WORK_OF_ART
+Upgrade: ORG
+Renewal: ORG
+four: CARDINAL
+monthly: DATE
+Constant Contact: ORG
+Name City: GPE
+State: ORG
+Performance Sports 03/2011: ORG
+08/2011: CARDINAL
+Running, Fitness: ORG
+Soccer: PERSON
+$21 million: MONEY
+Name City: GPE
+State: ORG
+Apparel & Accessories Merchandising 03/2008: ORG
+North America: LOC
+$50 million: MONEY
+2010: DATE
+24%: PERCENT
+Germany: GPE
+6 - 8 weeks: DATE
+North America: LOC
+10%: PERCENT
+23%: PERCENT
+three: CARDINAL
+one: CARDINAL
+Name City: GPE
+New Business: ORG
+03/2008 Managed: PERSON
+20%: PERCENT
+first year: DATE
+15%: PERCENT
+monthly: DATE
+15: CARDINAL
+Communicated: ORG
+Limited Edition: WORK_OF_ART
+Name City: GPE
+State: ORG
+the Department Store and Lifestyle: ORG
+over $20 million: MONEY
+annual: DATE
+60%: PERCENT
+daily: DATE
+Listened: PERSON
+Name City: GPE
+State Trade Channel: ORG
+10/2002: CARDINAL
+30: CARDINAL
+$15 million: MONEY
+three: CARDINAL
+six-month: DATE
+the Year: DATE
+200%: PERCENT
+Education: ORG
+Bachelor of Arts : International Relations: ORG
+1998: DATE
+Mount Holyoke College: ORG
+City: GPE
+State: GPE
+USA: GPE
+de Lisboa: PERSON
+City: GPE
+Portugal: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+DataTrak ABC: ORG
+ClubOs: ORG
+Microsoft: ORG
+Mac OSX
+Fluent: PERSON
+Portuguese: NORP
+Portuguese: NORP
+Spanish: NORP

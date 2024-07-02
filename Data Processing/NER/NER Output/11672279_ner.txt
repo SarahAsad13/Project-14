@@ -1,0 +1,103 @@
+Highlights
+MS Office Suite: ORG
+Markit: ORG
+Cass II Brokerage System: PERSON
+HP Quality Center: ORG
+Pegasystems: PERSON
+Bloomberg: PERSON
+Reuters: ORG
+Dodd-Frank: ORG
+FATCA: ORG
+February 2013: DATE
+State: ORG
+Oversaw: GPE
+Post Trade Confirmation: ORG
+11: CARDINAL
+Dodd Frank: PERSON
+CFTC: ORG
+Credit: ORG
+Represents Barclays on International Swaps and Derivatives Association: ORG
+multi-million-dollar: MONEY
+Regression Testing: ORG
+New-Hire: GPE
+Post Migration Analysis: ORG
+Screened & Investigated: ORG
+OFAC Sanctions & AML Regulations: ORG
+Created
+Daily MIS Reporting for Senior Management: ORG
+Weekly Management Governance Meetings: ORG
+Middle Office Analyst: ORG
+May 2006 to February 2013: DATE
+JPMorgan Credit Executives: ORG
+the Corporate & Financial Institution Group: ORG
+the Client Annual Review Process: ORG
+JPM Internal Risk Policies Monitored: ORG
+Credit and Compliance Officers: ORG
+JPMorgan Investment Banking - Derivatives: ORG
+5: CARDINAL
+first: ORDINAL
+Confirmed: GPE
+Processed: GPE
+annual: DATE
+PPB: ORG
+Risk Weighted: PERSON
+1billion: MONEY
+MIS: ORG
+the SOX Act: LAW
+JPMorgan: ORG
+Project Analyst 
+Company Name
+
+Developed Business Process Models: ORG
+JPMorgan: ORG
+US: GPE
+UAT: ORG
+thousands: CARDINAL
+UAT: ORG
+JPM: ORG
+Bear Stearns: ORG
+the "Air Traffic Control: ORG
+the JPMC Fixed Income & Listed: ORG
+Created: ORG
+Fixed Income Listed Options: ORG
+Licensed Pennsylvania Real Estate Agent / Honors Certificate: ORG
+April 2013: DATE
+Temple University Real Estate Institute: ORG
+May 2007: DATE
+University of Maryland: ORG
+Robert H. Smith School of Business Finance: PERSON
+Treasurer: PERSON
+January 2012 - Present: DATE
+August 2007 - February 2012: DATE
+MD: GPE
+Philadelphia Youth Network: ORG
+PYN: ORG
+Mentor & Seminar Facilitator: ORG
+June 2005 - November 2007: DATE
+National Society of Collegiate: ORG
+Scholars: PERSON
+Deans: NORP
+Treasurer: PERSON
+January 2012 - Present Co-Captain: DATE
+August 2007 - February 2012: DATE
+MD: GPE
+Philadelphia Youth Network: ORG
+PYN: ORG
+Mentor & Seminar Facilitator: ORG
+June 2005 - November 2007: DATE
+Analyst: PERSON
+Banking: GPE
+Bloomberg, Business Process: ORG
+Credit: ORG
+Client: GPE
+Derivatives: ORG
+Senior Management, Financial: ORG
+Legal: GPE
+Meetings: GPE
+Migration: PERSON
+MIS: ORG
+Policies: GPE
+Project Management: ORG
+Quality, Real Estate, Reporting,: ORG
+Reuters: ORG
+Securities: ORG

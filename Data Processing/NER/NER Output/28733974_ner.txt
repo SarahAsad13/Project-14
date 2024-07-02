@@ -1,0 +1,86 @@
+28 years: DATE
+Association
+Management: ORG
+Association Board of Directors: ORG
+Skills
+
+Effective: ORG
+Budget: ORG
+Negotiation
+Effective: ORG
+Constant Contact
+Print: WORK_OF_ART
+Accurate: ORG
+Advanced MS Office: ORG
+Suite: PERSON
+two: CARDINAL
+5: CARDINAL
+2%-8%: PERCENT
+the drought years of 2006-2008: DATE
+2009-2012: DATE
+annual: DATE
+3,199: CARDINAL
+annual: DATE
+2,200: CARDINAL
+36: CARDINAL
+Board of Director: ORG
+6: CARDINAL
+5: CARDINAL
+Prepared: PERSON
+three: CARDINAL
+annual: DATE
+minutes: TIME
+Oversaw: GPE
+daily: DATE
+Association Chapter: ORG
+up to two: CARDINAL
+October 2014: DATE
+Association: ORG
+Networked: PRODUCT
+North America: LOC
+3: CARDINAL
+each year: DATE
+annual: DATE
+Georgia: GPE
+the United States: ORG
+over $250,000: MONEY
+Association: ORG
+Owner: ORG
+Provided Association Management: ORG
+National Association of Pond Professionals: ORG
+Georgia Green Industry Association: ORG
+Georgia Turfgrass Association: ORG
+Georgia Turfgrass Foundation
+Trust: ORG
+Georgia Vegetation Management Association: ORG
+Association Management: ORG
+AP/AR: ORG
+State 
+Association: ORG
+GGIA: ORG
+2012-2015: DATE
+Statistician: NORP
+04/1983 to 06/1988: CARDINAL
+over 150,000: CARDINAL
+Â Prepared: PRODUCT
+Martin Marietta Data Services: ORG
+Georgia: GPE
+quarterly: DATE
+Consumer Report: WORK_OF_ART
+Education: ORG
+Bachelor of Science : Marketing Education: ORG
+Business Electives: ORG
+1985: DATE
+The University of Georgia - City: ORG
+the Distributive Education Clubs of America
+
+Associate of Science : Core Curriculum: ORG
+1982: DATE
+Abraham Baldwin Agricultural College - City: ORG
+First: ORDINAL
+Phi Theta Kappa National Honor Fraternity Hall of Fame
+Recipient: FAC
+the ABAC Student of Distinction in Business
+Recipient: ORG
+the ABAC Student of Distinction: ORG
+English: LANGUAGE

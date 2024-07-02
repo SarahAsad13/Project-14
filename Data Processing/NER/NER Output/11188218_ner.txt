@@ -1,0 +1,70 @@
+Career Overview
+
+Objective Â 
+
+: WORK_OF_ART
+Administrative Specialist/Office: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Outlook, Money, Excel: ORG
+12: CARDINAL
+Quatro Pro: ORG
+Peachtree Accounting: ORG
+Timeslips: PERSON
+2007: DATE
+Dictation: ORG
+Cellular Technology: ORG
+Skill Highlights: PERSON
+Microsoft: ORG
+Peachtree Accounting
+Spreadsheet: ORG
+Schedule: ORG
+Telephone Skills
+Scheduling
+Travel: ORG
+Minute Taking: FAC
+Critical Thinking: ORG
+Oversaw: GPE
+Customer Advocate: ORG
+September 2007 to March 2015: DATE
+Conducted: ORG
+Maintained: GPE
+January 2006 to May 2007: DATE
+Performed: ORG
+monthly: DATE
+August 2005 to January 2006: DATE
+Doane College: ORG
+minutes: TIME
+June 2002: DATE
+August 2003: DATE
+daily: DATE
+ATM: ORG
+Bachelor of Arts: ORG
+Fine Art: PERSON
+1985: DATE
+Doane College - City: ORG
+Doane: PERSON
+4 years: DATE
+Pallet Scholar Award: PERSON
+Doane: PERSON
+4 years: DATE
+American Legion Award,: ORG
+Loup City: GPE
+NE: GPE
+Mary L. Chapin: PERSON
+Art Award: PERSON
+Doane College - 1985: ORG
+Yearbook: ORG
+Co-Head Photographer: ORG
+1985: DATE
+Delta Chi Upsilon Sorority: ORG
+Doane Art League: PERSON
+Art Editor: PERSON
+XANADU: ORG
+Alpha Lambda Delta: WORK_OF_ART
+GPA: ORG
+3.44: CARDINAL
+Skills
+
+Office: ORG
+Problem: PRODUCT

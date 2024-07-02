@@ -1,0 +1,93 @@
+Skills
+PLC: ORG
+61131: DATE
+Ladder Logic, Functional Block Diagram: ORG
+Java: PERSON
+VHDL: ORG
+PSpice: ORG
+Assembly: ORG
+Intel: ORG
+Motorola: ORG
+Labview: PERSON
+Inventor: PERSON
+Matlab: ORG
+Microsoft Office: ORG
+PSIM: ORG
+Easy Power: ORG
+Printed Circuit Board: ORG
+Siemens Step: ORG
+7: CARDINAL
+Allen Bradley RSLogix: PERSON
+ERP: ORG
+XA: ORG
+SAP: ORG
+December 2014: DATE
+May 2011 to December 2014: DATE
+control cabinets and: ORG
+PLC: ORG
+API: ORG
+Modeling: GPE
+one: CARDINAL
+24VDC: CARDINAL
+24VDC: CARDINAL
+Standalone VFD: ORG
+derrick mast: PERSON
+Topdrives: GPE
+600V: CARDINAL
+1800HP: DATE
+DC: GPE
+Commissioning of Siemens VFD: ORG
+Project Engineer: PERSON
+October 2008: DATE
+jacking switchgears: PERSON
+PLC: ORG
+one: CARDINAL
+519: CARDINAL
+Kencana KM-1: PERSON
+Kencana Shipyard: PERSON
+Malaysia: GPE
+Friede: PERSON
+Goldman: ORG
+IO: ORG
+Xtreme Drilling and Coil: WORK_OF_ART
+IO: ORG
+Facility Engineer: ORG
+August 2006 to October 2008: DATE
+HVAC: ORG
+2.4kV: CARDINAL
+12.5kV.: CARDINAL
+Intern: ORG
+January 2005 to August 2006: DATE
+Training
+Bachelor of Science : Electrical and Computer Engineering: PERSON
+Aug 2006 University of Oklahoma - City: ORG
+GPA: ORG
+3.73: CARDINAL
+GPA: ORG
+3.78: CARDINAL
+Electrical and Computer Engineering GPA: ORG
+3.73: CARDINAL
+GPA: ORG
+3.78: CARDINAL
+API: ORG
+CAD: ORG
+Conversion: ORG
+DC: GPE
+ERP: ORG
+Functional: GPE
+Intel: ORG
+Java, Labview: ORG
+Logic: ORG
+Matlab: ORG
+Microsoft Office: ORG
+Modeling: GPE
+Motorola: ORG
+PLC: ORG
+Protel: GPE
+SAP: ORG
+Siemens: ORG
+7: CARDINAL
+Structured: ORG
+Supervising: PERSON
+VHDL: ORG
+XA: ORG

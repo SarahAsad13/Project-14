@@ -1,0 +1,43 @@
+October 2014: DATE
+Store: PERSON
+daily: DATE
+March 2014 to February 2015: DATE
+Store: PERSON
+daily: DATE
+Team: ORG
+February 2013 to December 2013: DATE
+Skills Used Assist: ORG
+Store: PERSON
+daily: DATE
+August 2011 to January 2013: DATE
+State Responsibilities Drafted: ORG
+Mathematical: ORG
+MS Office: ORG
+Excel: PRODUCT
+Understands: PERSON
+Education: ORG
+BA : Communications: ORG
+2018: DATE
+State: GPE
+US BA: PERSON
+Phoenix: GPE
+AZ 2014 to 2018: DATE
+Professional Affiliations
+Team: ORG
+Customer Service: ORG
+Point Of Sale, Pos, Pos Systems: WORK_OF_ART
+Receptionist: NORP
+Cash Register, Closing: ORG
+Credit, Effective Sales: ORG
+Generate Sales: PERSON
+Incentive Programs: ORG
+Inventory: GPE
+Operations: ORG
+Reconciliation, Sales Staff: ORG
+Training: PERSON
+Cash Handling: PERSON
+Excel: PRODUCT
+File Systems: ORG
+Front Desk: PERSON
+Ms Office: ORG
+Cashier, Client Relations: ORG

@@ -1,0 +1,82 @@
+FINE APPAREL DEPARTMENT: ORG
+Success: ORG
+Max Mara Northbrook: PERSON
+76%: PERCENT
+12 months: DATE
+6 months: DATE
+Stylist: NORP
+Profitably: ORG
+Sans Pareil Inc.: ORG
+2000: MONEY
+1.8 million dollar: MONEY
+5 years: DATE
+11/2013: CARDINAL
+Fine Apparel Department: ORG
+Provide: NORP
+Provide: NORP
+Retain: GPE
+clientÃ¨le
+Motivate: PERSON
+Develop: ORG
+Oversee: ORG
+Oversee: GPE
+Establish: NORP
+Oversee: ORG
+01/2011 to 10/2013: CARDINAL
+16%: PERCENT
+year one: DATE
+10%: PERCENT
+year two: DATE
+Established: ORG
+Train: GPE
+Provide: NORP
+Provide: NORP
+Groom: PERSON
+Create: ORG
+01/2011: CARDINAL
+YTD: ORG
+16%: PERCENT
+Oversee: ORG
+Establish: NORP
+Manage: PRODUCT
+Develop: ORG
+Oversee: ORG
+12%: PERCENT
+6 months: DATE
+Maintained: GPE
+Developed: ORG
+MaxMara Northbrook
+Promoted: PERSON
+2 months: DATE
+03/2007: GPE
+Owner/: GPE
+2000: MONEY
+1.8 million dollar: MONEY
+5 years: DATE
+2: CARDINAL
+70%: PERCENT
+48: CARDINAL
+Recruited: PRODUCT
+10%: PERCENT
+Developed: ORG
+2007: DATE
+Bachelor of Arts: ORG
+Graphic Arts/ Business Loyola University: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+Established: ORG
+20+ years: DATE
+Business Acumen
+Building Effective Teams: ORG
+Customer Focus: FAC
+Developing Direct Reports and Others
+Drive for Results
+Interpersonal Savvy
+Managing and Measuring Work
+Managing Vision: WORK_OF_ART
+Problem Solving
+Ability: WORK_OF_ART

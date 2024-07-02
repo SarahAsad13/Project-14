@@ -1,0 +1,73 @@
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+MS Outlook: GPE
+AS400: PRODUCT
+Baan ERP: PERSON
+SharePoint: ORG
+Salesforce.com: ORG
+SAP CRM: ORG
+05/2014 - Current
+Company Name: ORG
+State Finance Coordinator: ORG
+State Master Data Specialist: ORG
+SAP: GPE
+Warehouse Direct (WD: ORG
+WD: ORG
+SharePoint: ORG
+WD: ORG
+half: CARDINAL
+State Financial Analyst: ORG
+CFO: ORG
+Excel: PRODUCT
+month: DATE
+five business days: DATE
+Processed: GPE
+Financial Analysts: ORG
+State Financial Analyst: ORG
+Maintained: GPE
+multi-million dollar: MONEY
+the Marketing Funds: WORK_OF_ART
+weekly: DATE
+SAP: GPE
+quarterly: DATE
+Access: ORG
+quarterly: DATE
+two: CARDINAL
+Coordinated annual Accrual: ORG
+75k: CARDINAL
+State Trade Promotion Specialist
+
+Accounting Pre-: ORG
+year-end: DATE
+year-end: DATE
+Excel: PRODUCT
+Marketing Funds System: ORG
+SAP: ORG
+Oversaw: GPE
+What Outstanding Work: WORK_OF_ART
+WOW: ORG
+2016: DATE
+Columbia Southern University City: ORG
+State B.S :: ORG
+Skills
+Accounting: ORG
+Accrual: ORG
+AS400: PRODUCT
+Baan: GPE
+CRM: PRODUCT
+ERP: ORG
+Financial: ORG
+Mainframe: PERSON
+Access, Access: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+MS
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Word: PERSON
+month end: DATE
+SAP: ORG
+Six Sigma: PERSON
+year-end: DATE

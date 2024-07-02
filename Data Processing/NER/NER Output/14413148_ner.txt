@@ -1,0 +1,83 @@
+FINANCE: ORG
+Accounting: GPE
+forty years: DATE
+Controllerships, Accounts Payable: ORG
+Subgrant Contracting: PERSON
+Manufacturing and Service Companies: ORG
+Sandia National Laboratory: ORG
+State of Nevada WIC Program and Office of Navajo Economics: ORG
+Cost Accounting Systems: ORG
+Cost Accounting System Disclosing Statements: ORG
+CAS: ORG
+DCAA: ORG
+DCMA: ORG
+CDCMA: ORG
+Accomplishments
+
+Hexcel Corporation: ORG
+Aerospace Industries Association: ORG
+the AIA Committee: ORG
+48CFR15: CARDINAL
+Excel: PRODUCT
+American Legion Fernley Post 37 Adjutant: ORG
+3 years: DATE
+Finance: ORG
+April 2004 to June 2011 Company Name ï¼​ City: DATE
+March 2001 to August 2004: DATE
+daily: DATE
+Fair Management: ORG
+50: CARDINAL
+January 1988 to January 2001: DATE
+eight: CARDINAL
+DCAA: ORG
+DCMA: ORG
+two years: DATE
+B2 Bomber: PRODUCT
+three years: DATE
+eight: CARDINAL
+$8 million: MONEY
+B2 Bomber: PRODUCT
+Northrop Corporation: ORG
+January 1979 to January 1987: DATE
+Operations: ORG
+O&M: ORG
+Department of Energy: ORG
+Assigned: PERSON
+Assigned: PERSON
+USAF Office Special Investigations: ORG
+OSI: ORG
+DOE-Inspector General: ORG
+Hot Line: GPE
+Tonopah Fighter Training Base: PERSON
+Controller: PERSON
+January 1978 to January 1979: DATE
+Arizona: GPE
+Tennessee: GPE
+four: CARDINAL
+Controller: PERSON
+January 1976 to January 1977: DATE
+two: CARDINAL
+the ONEO Board: ORG
+Fund Accounting: ORG
+thirty-four: CARDINAL
+twenty-six: CARDINAL
+over 40%: PERCENT
+Bachelor of Science : Accounting: ORG
+1966: DATE
+University of Albuquerque ï¼​ City: ORG
+Graduated Cum Laude Accounting Graduated Cum
+Laude: ORG
+Skills
+Accounting: ORG
+OSI: ORG
+Professional Affiliations
+American Legion Department of Nevada Children & Youth: ORG
+Hear Today-Learn: WORK_OF_ART
+Tomorrow: DATE
+American Legion Children and Youth Program: ORG
+Nevada: GPE
+American: NORP
+National Children & Youth Committee: ORG
+Memberships American Legion Department of Nevada: ORG
+American Bar Association: ORG
+2002: DATE

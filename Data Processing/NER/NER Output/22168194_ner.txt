@@ -1,0 +1,42 @@
+CUSTOMER: ORG
+10 years: DATE
+Skills
+
+Microsoft Office: ORG
+Microsoft Office
+Office: ORG
+Work History
+Customer Service: WORK_OF_ART
+11/2020: CARDINAL
+Customer Service Representative: ORG
+01/2010: DATE
+12/2020: CARDINAL
+Customer Service: ORG
+G2 Secure Staff: ORG
+11/2020: CARDINAL
+12/2016: CARDINAL
+Organize: GPE
+Library: PERSON
+10/2013 to 12/2013: CARDINAL
+Oversaw: GPE
+2016: DATE
+Los Angeles Southwest College - City: ORG
+2011: CARDINAL
+Junipero Serra High School - City: ORG
+11/2020: CARDINAL
+Customer Service: ORG
+G2 Secure Staff: ORG
+11/2020: CARDINAL
+12/2016: CARDINAL
+Organize: GPE
+Library: PERSON
+10/2013 to 12/2013: CARDINAL
+Oversaw: GPE
+Customer Service Representative: ORG
+01/2010: DATE
+12/2020: CARDINAL
+Skills
+
+Microsoft Office: ORG
+Art: PERSON
+Troubleshooting: GPE

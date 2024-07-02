@@ -1,0 +1,98 @@
+Two years': DATE
+CAD: ORG
+Seven years': DATE
+Illustrator: ORG
+Matrix 8: ORG
+Illustrator: ORG
+Matrix CAD: PERSON
+Microsoft Office: ORG
+Bachelor of Fine Arts: ORG
+Audio-Visual Editing
+
+Accomplishments
+
+Featured Interview in PaperCity Magazine: ORG
+Dec 2008: DATE
+LIU Designs: PERSON
+Stanley Korshak: PERSON
+Dallas: GPE
+May 2016 to September 2016: DATE
+Name City: GPE
+CAD: ORG
+Neiman Marcus: ORG
+October 2015 to February 2016: DATE
+Name City: GPE
+CAD: ORG
+Matrix 8: LAW
+CAD: ORG
+Satisfy: ORG
+daily: DATE
+March 2015 to August 2016: DATE
+Name City: GPE
+CAD: ORG
+Matrix 8: LAW
+STL: ORG
+October 2011 to May 2013: DATE
+Name City: GPE
+MAC: ORG
+E-Commerce: ORG
+August 2008 to October 2010: DATE
+Name City: GPE
+JCPenny: ORG
+Zale: PERSON
+Macys: PERSON
+February 2005: DATE
+August 2008: DATE
+Name City: GPE
+Jewelry Designer: PERSON
+Retoucher
+
+Created: ORG
+18: CARDINAL
+Stanley Korshak: PERSON
+2008: DATE
+Leah Adler: PERSON
+Sue Spielberg: PERSON
+18: CARDINAL
+New Yorker
+Magazine: ORG
+March 2015: DATE
+Academy Gemvision 
+City: ORG
+8: CARDINAL
+October 2014: DATE
+GIA: ORG
+State Matrix 7.5 Comprehensive: ORG
+CAM 
+Certificate: PERSON
+2014: DATE
+GIA: ORG
+Certificate: ORG
+2012: DATE
+University of the Arts London: ORG
+City: GPE
+Photography Retouching 
+Certificate: WORK_OF_ART
+May 2003: DATE
+Brookhaven College 
+City: ORG
+June 1993: DATE
+Navy Education University: ORG
+Audio-Visual Editing: ORG
+Professional Affiliations: ORG
+GIA Alumni Association: ORG
+2014 - Present
+Languages
+Fluent: DATE
+English: LANGUAGE
+Chinese: NORP
+Skills: ORG
+Adobe Creative Suite: PERSON
+Arts: ORG
+CAD: ORG
+CAM: ORG
+E-Commerce: ORG
+English: LANGUAGE
+Illustrator: ORG
+MAC: ORG
+Microsoft Office: ORG

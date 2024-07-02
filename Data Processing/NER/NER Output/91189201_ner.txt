@@ -1,0 +1,101 @@
+Volunteer English: PERSON
+India: GPE
+Challenge for Charity: ORG
+SQL: ORG
+SPSS: ORG
+Tableau: GPE
+MS Excel: ORG
+Power Point: ORG
+Evert McCabe Fellowship: PERSON
+Rick: PERSON
+Marilyn Wong Scholarship: PERSON
+Business Technology Club Board: ORG
+4: CARDINAL
+$5M: MONEY
+annual: DATE
+Beyond the Call of Duty: WORK_OF_ART
+Windows: GPE
+Android: ORG
+03/2015: GPE
+State: ORG
+vCloud Air Company Name: ORG
+VMware Inc.: ORG
+Palo Alto: GPE
+Summer 2014: DATE
+Intern: PERSON
+vCloud Air: ORG
+vCloud Air: ORG
+10: CARDINAL
+vCloud Air: ORG
+vCloud Air: ORG
+8: CARDINAL
+4: CARDINAL
+IaaS: ORG
+VMware: ORG
+150: CARDINAL
+AWS: ORG
+Microsoft Azure: ORG
+Rackspace: PERSON
+Google: ORG
+MBA Marketing Consultant Company Name ï¼​ City: WORK_OF_ART
+Security Software: ORG
+1.6B: MONEY
+May: DATE
+F5: CARDINAL
+Networks: ORG
+Defense: ORG
+01/2013
+Team Leader Company Name: ORG
+8: CARDINAL
+5: CARDINAL
+annual: DATE
+Technology & Product Analyst Company Name: ORG
+American: NORP
+4: CARDINAL
+$5M: MONEY
+annual: DATE
+Beyond the Call of Duty: WORK_OF_ART
+0.9: MONEY
+Infosys: ORG
+550: MONEY
+Master of Business Administration : Business Technology: ORG
+The Michael G. Foster School of Business, University of Washington: PERSON
+State: ORG
+US: GPE
+Michael G. Foster School of Business, University of Washington: PERSON
+Seattle: GPE
+June 2015: DATE
+Evert McCabe Fellowship: PERSON
+Rick: PERSON
+Marilyn Wong Scholarship: PERSON
+Business Technology Club Board: ORG
+Bachelor of Engineering : Computer Science Manipal Institute of Technology: ORG
+Manipal: GPE
+India: GPE
+May 2007: DATE
+Bachelor of Engineering,: ORG
+Co-founder & first: ORG
+RED X: ORG
+Professional Affiliations: ORG
+Evert McCabe Fellowship: PERSON
+Rick: PERSON
+Marilyn Wong Scholarship: PERSON
+Business Technology Club Board: ORG
+Skills
+Web Services: ORG
+Award: PERSON
+Satisfaction, Testing: ORG
+Excel: PRODUCT
+Ms Excel: PERSON
+Spss: ORG
+Sql: PERSON
+Competitive Analysis, Marketing, New Product Development: ORG
+Cases: ORG
+Drivers: GPE
+Iaas: ORG
+Roi: PERSON
+Use Cases: ORG
+Vmware: ORG
+Market Research: ORG
+Saas: PERSON
+Android: ORG

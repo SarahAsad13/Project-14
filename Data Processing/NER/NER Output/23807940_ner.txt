@@ -1,0 +1,150 @@
+BANQUET CHEF
+Professional Summary
+Dynamic Executive Chef: ORG
+Food &Beverage Management &: ORG
+food & beverage: ORG
+Europe: LOC
+Traditional French: NORP
+Italian: NORP
+American: NORP
+Skills
+
+Business operations expertise: ORG
+Work History
+Senior: WORK_OF_ART
+Banquet Chef 03/2014: PRODUCT
+466: CARDINAL
+4: CARDINAL
+24-hour: TIME
+Banquet: PRODUCT
+Garde Manger: PERSON
+over 40.000: CARDINAL
+3: CARDINAL
+8: CARDINAL
+5: CARDINAL
+2: CARDINAL
+8: CARDINAL
+the Jean Georges Spice Market: ORG
+the Culinary Department: ORG
+GSI: ORG
+4.67: CARDINAL
+the Banquet/Catering: ORG
+Custom: ORG
+26%: PERCENT
+YTD: ORG
+24.1%: PERCENT
+97.6: CARDINAL
+Steritech: ORG
+98: CARDINAL
+Executive Chef 04/2012: PRODUCT
+The Emory Conference Center Hotel: ORG
+325: CARDINAL
+5: CARDINAL
+250: CARDINAL
+Club Lounge: ORG
+lanes & Pub: ORG
+the Houston Mill House: ORG
+over 40,000: CARDINAL
+30: CARDINAL
+5: CARDINAL
+8-10 million: QUANTITY
+the Food & Beverage Department: ORG
+Created: ORG
+Obtained: ORG
+Unifocus: GPE
+90-96%: PERCENT
+F&B: ORG
+Training & Development: ORG
+F&B Management Training: ORG
+Sous Chef 08/2010: PERSON
+04/2012: CARDINAL
+Atlanta: GPE
+414: CARDINAL
+120: CARDINAL
+Southern: NORP
+120: CARDINAL
+24 hour: TIME
+over 37,000: CARDINAL
+11,000 sq foot: QUANTITY
+35: CARDINAL
+5: CARDINAL
+12: CARDINAL
+the Food & Beverage Department: ORG
+Loews Brand Standards: ORG
+Maintained: GPE
+1: CARDINAL
+the Loews Corporation: ORG
+Culinary: ORG
+the year: DATE
+Culinary: ORG
+Sous Chef/Interim Head Chef: PERSON
+The Intercontinental Hotel: ORG
+422: CARDINAL
+24-hour: TIME
+The Intercontinental Hotel: ORG
+422: CARDINAL
+24-hour: TIME
+32,000: CARDINAL
+850: CARDINAL
+1,500: CARDINAL
+Culinary Department: ORG
+4: CARDINAL
+5: CARDINAL
+the Intercontinental Hotel
+Group: ORG
+25%: PERCENT
+28.2%: PERCENT
+F&B: ORG
+24 hour: TIME
+French: NORP
+Bistro: PRODUCT
+Fine Dining: PERSON
+XO: ORG
+Bar & Lounge: ORG
+Room
+Service & Spa Dining: ORG
+Banquet and Catering Operations: ORG
+over 50: CARDINAL
+Culinary Department: ORG
+IHG: ORG
+Banquet Chef Winery Chef 03/2006: ORG
+The Hotel Features: WORK_OF_ART
+277: CARDINAL
+6: CARDINAL
+Pool Bar: GPE
+Winery: PRODUCT
+120: CARDINAL
+Bistro: ORG
+Cooking Studio: PERSON
+Banquet: ORG
+the Culinary Department: ORG
+Banquets and Catering: ORG
+6: CARDINAL
+F&B: ORG
+the Executive Chef: ORG
+over 40: CARDINAL
+4: CARDINAL
+development &: ORG
+2007: DATE
+Culinary Arts: ORG
+Hospitality Management Nutrition: ORG
+1 1998: DATE
+RIVB Culinary Institute - City: ORG
+Hospitality Management Nutrition: ORG
+1 1992: DATE
+Mavo College - City Business Administration: ORG
+Cooking: PERSON
+Delphi: ORG
+Dutch: NORP
+English: LANGUAGE
+French: NORP
+German: NORP
+Internet Literate: PERSON
+Excel: PRODUCT
+Office: ORG
+97: DATE
+Outlook, Windows 98: ORG
+98, NT: DATE
+Word: PERSON
+Mill: PERSON
+Spanish: NORP

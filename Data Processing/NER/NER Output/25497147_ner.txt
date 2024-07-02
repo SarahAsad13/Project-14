@@ -1,0 +1,65 @@
+Accounting Software: ORG
+Highlights
+
+Accounting: ORG
+Managerial: ORG
+Invoice: ORG
+Intuit Quick Books: ORG
+Payroll
+Budget: ORG
+Ledger Accounts: PERSON
+Financial Statements: ORG
+Governmental: LOC
+Researched: ORG
+23: CARDINAL
+year-end: DATE
+23: CARDINAL
+28: CARDINAL
+86: CARDINAL
+over 16,985: CARDINAL
+Performed: ORG
+196: CARDINAL
+Systematically: ORG
+annual: DATE
+Maintained: GPE
+23: CARDINAL
+Processed: GPE
+189: CARDINAL
+68: CARDINAL
+2,398: CARDINAL
+Accountant 01/2011: PERSON
+annual: DATE
+annual: DATE
+monthly: DATE
+Revised: PERSON
+Coded: ORG
+Coded: ORG
+Coordinated: ORG
+month-end: DATE
+Processed: GPE
+Maintained: GPE
+5: CARDINAL
+over 200: CARDINAL
+weekly: DATE
+11/2004: CARDINAL
+Name City: GPE
+daily: DATE
+Coordinated: ORG
+Associate of Arts : Business Business Management: ORG
+Midwest Business College City: ORG
+State: ORG
+USA Business Business Management
+Continuing: ORG
+the Accounting Standards: ORG
+Advanced Financial Accounting: ORG
+Recognition: ORG
+Specialized Industry: ORG
+Accounting: ORG
+Budget: ORG
+Financial
+Accounting: ORG
+Managerial: ORG
+Payroll: ORG
+Quick Books: PERSON
+Recognition: ORG
+year-end: DATE

@@ -1,0 +1,69 @@
+Summary
+
+Adaptable: ORG
+5+ Years: DATE
+McJunkin RedMan Corporation: ORG
+McJunkin RedMan Corporation: ORG
+July 2013 to October 2015: DATE
+50 hours: TIME
+21.78: MONEY
+daily: DATE
+monthly: DATE
+January 2011 to July 2013: DATE
+50 Hours: TIME
+18.00: MONEY
+5+ years: DATE
+Maintained: GPE
+Oversaw: GPE
+ERP: ORG
+SIMS: ORG
+Oversaw: GPE
+0%: PERCENT
+Coordinated: ORG
+daily: DATE
+Obtained: ORG
+Conducted: ORG
+DOT: ORG
+Maintained: GPE
+Stocker/ Inventory: ORG
+September 2007 to November 2010: DATE
+50: CARDINAL
+13.00: MONEY
+Verify Orders: PERSON
+Process: ORG
+MDS: ORG
+daily: DATE
+Interpreting: ORG
+Conducted: ORG
+Truck Loader/Case Pack/: WORK_OF_ART
+August 2006 to September 2007: DATE
+45-50 hours: TIME
+16.00: MONEY
+Cross: PERSON
+2004: DATE
+Ardmore High School - City: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3: CARDINAL
+GPA: ORG
+3 University Center of Southern Oklahoma - Ardmore: ORG
+USAcompleted: ORG
+Prairie View A&M University Prairie View: ORG
+TX: ORG
+USAcompleted: ORG
+this university
+University of Central Oklahoma: ORG
+GPA: ORG
+5: CARDINAL
+USAComplete: NORP
+one full year: DATE
+GPA: ORG
+5: CARDINAL
+Professional Affiliations: ORG
+Skills
+
+Dependable
+Learns: ORG
+8+ years: DATE
+2+ years: DATE

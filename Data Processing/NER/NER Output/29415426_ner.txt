@@ -1,0 +1,29 @@
+CLIENT: GPE
+10 years: DATE
+Jack: PERSON
+Microsoft Office: ORG
+Client Advocate / Escalation Specialist Nov 2015 to May 2016: ORG
+HR Coordinator: ORG
+Training Coordinator: ORG
+Jun 2008: PERSON
+2015: DATE
+Performed bi-weekly: ORG
+Maintained: GPE
+Acted: ORG
+Records Management / Document Management System: ORG
+Jan 2007 to: DATE
+Nov 2007: DATE
+DMS: ORG
+Assisted: ORG
+Telerecruiter: PERSON
+Jun 2005: PERSON
+Sep 2001 to: DATE
+200,000: MONEY
+Created: ORG
+university's Business Travel Account
+
+Education: ORG
+Bachelor of Arts , Political Science Pre-Law 2017 University of New Orleans - City: ORG
+Paralegal 2016: ORG
+East Tennessee: ORG
+Microsoft Office: ORG

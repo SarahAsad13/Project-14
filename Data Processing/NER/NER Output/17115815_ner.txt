@@ -1,0 +1,60 @@
+BUSINESS DEVELOPMENT SPECIALIST
+Professional Overview
+
+Results: ORG
+Business Development: ORG
+Technical Background: ORG
+daily: DATE
+SAP CRM: ORG
+MS Office: ORG
+Professional: ORG
+Core Accomplishments
+Â: WORK_OF_ART
+2013 - 2014: DATE
+Microsoft: ORG
+six consecutive quarters: DATE
+SAP Q3 - Q4 2015:: PERSON
+13.3: CARDINAL
+6.8: CARDINAL
+18.7: CARDINAL
+Pipeline: ORG
+2.3: CARDINAL
+March 2015: DATE
+September 2016: DATE
+Name City: GPE
+State Business Development Specialist
+
+Develop: ORG
+the SAP Northeast Large Enterprise: ORG
+SAP
+Implement: ORG
+Maintain: PRODUCT
+CRM: PRODUCT
+Recommend: ORG
+Utilize SPIN Selling: FAC
+BANT: ORG
+January 2014: DATE
+March 2015: DATE
+Name City: GPE
+State Sales Optimization Specialist: ORG
+Mid-Market Sales Teams: ORG
+June 2012: DATE
+April 2014: DATE
+Name City: GPE
+State Marketing Specialist: ORG
+Microsoft: ORG
+Success Associate: PERSON
+23: CARDINAL
+Internal Client Success: ORG
+Key Microsoft Stakeholders: LOC
+Microsoft Certification: ORG
+Troubleshoot: ORG
+KPI: ORG
+Dell SonicWALL: ORG
+Dell SonicWALL: ORG
+Event Recruitment - Inviting: ORG
+Appointment Setting - Scheduling: PRODUCT
+Lead Generation - Matching: WORK_OF_ART
+Client: GPE
+2017: DATE
+Rio Salado A.A. General Studies Related: ORG

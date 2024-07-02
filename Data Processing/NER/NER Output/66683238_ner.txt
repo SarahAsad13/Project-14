@@ -1,0 +1,33 @@
+Math Teacher: PERSON
+22: CARDINAL
+the years: DATE
+Combines: ORG
+Guides: PERSON
+Team Lead: PERSON
+years: DATE
+100%: PERCENT
+the Mentor Team: ORG
+first year: DATE
+two: CARDINAL
+Began: PERSON
+New Store Coordinator: ORG
+Store Services: ORG
+Division Sales
+Development Management: ORG
+over 20: CARDINAL
+PowerPoint: ORG
+Excel: PRODUCT
+Farmers: ORG
+Conducted: ORG
+Liability Specialist 08/1998: ORG
+Maintained: GPE
+Bachelor of Science : Multidisciplinary Studies: ORG
+Texas Teaching Certification: ORG
+ESL Certified: ORG
+Crisis Prevention Institute: ORG
+Skills: ORG
+Team Lead: PERSON
+Math: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+MS Word: PERSON

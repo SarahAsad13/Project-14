@@ -1,0 +1,111 @@
+five years: DATE
+Multicultural: ORG
+Generalist: PERSON
+Latinos: ORG
+Interpersonal: ORG
+Client: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Team: ORG
+February 2015 to March 2017: DATE
+Name City: GPE
+State: ORG
+Victim Advocate: PERSON
+April 2014 to March 2015: DATE
+Name City: GPE
+State Multicultural Advocate: ORG
+professionalsÂ: NORP
+Latino: PERSON
+Interpretation: ORG
+June 2013 to February 2014: DATE
+Name City: GPE
+August 2012: DATE
+May 2013: DATE
+Name City: GPE
+State Interpreter: ORG
+Displayed: PERSON
+Convert: ORG
+Render: ORG
+2014: DATE
+Pellissippi State Community College: ORG
+State Professional: ORG
+B.S Professional: ORG
+04/2016: PRODUCT
+Middle Tennesse State University: ORG
+Community Coalition Against Human Trafficking Criminal Injuries Compensation Training: ORG
+03-2015: DATE
+2014: DATE
+ABC: ORG
+Tuesday, March 24 - Wednesday, March 25: DATE
+March 25: DATE
+2p.m: CARDINAL
+2014: DATE
+Knoxville TN: PERSON
+Department of Homeland Security: ORG
+TN: ORG
+Family Justice Center: ORG
+Knoxville TN 07/2014: PERSON
+Bridges Out of Poverty: WORK_OF_ART
+Knoxville Homeless: PERSON
+Knoxville: GPE
+The Hotline Webinar Services: ORG
+Knoxville TN: PERSON
+Knox County: GPE
+Knoxville: GPE
+07-2014: DATE
+CPR: ORG
+Knoxville TN: PERSON
+National Immigration Law Center: ORG
+Knoxville TN: PERSON
+06/2014 Â 
+: CARDINAL
+Jewish: NORP
+Knoxville TN: PERSON
+Trauma Informed: PERSON
+Advocacy Knoxville: PERSON
+Family Justice Center: ORG
+Knoxville TN
+07/2014
+Expert Advice: PERSON
+NIWAP: ORG
+Knoxville TN: PERSON
+Sexual Assault: PERSON
+Domestic Violence: ORG
+New Orleans: GPE
+LA: GPE
+Criminal Injuries Compensation: ORG
+Tennessee Department of Treasury: ORG
+Knoxville TN: PERSON
+Catholic Charities: ORG
+Knoxville TN: PERSON
+CCR- Safety Audit: ORG
+Family Justice Center: ORG
+Knoxville TN
+05/: PERSON
+2015: DATE
+Human Trafficking Summit
+Human Trafficking Summit Community Coalition
+Against Human Trafficking: WORK_OF_ART
+Knoxville TNÂ 
+: PERSON
+ABC: ORG
+Advocacy: ORG
+Knoxville TN: PERSON
+09/2014: ORG
+Criminal Injuries Compensation: ORG
+Tennessee Department of Treasury: ORG
+Knoxville TN: PERSON
+08/2016
+Drug: ORG
+Knoxville: GPE
+Knoxville TN
+: PERSON
+02/2015: WORK_OF_ART
+Spanish: LANGUAGE
+English: NORP
+Skills
+
+Trained: ORG
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE

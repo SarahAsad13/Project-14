@@ -1,0 +1,88 @@
+March 2014: DATE
+November 2014: DATE
+Name City: GPE
+State Risk Specialist: ORG
+Loans: NORP
+August 2010: DATE
+February 2014: DATE
+Name City: GPE
+State Loan Modification Underwriter
+
+Review: ORG
+Chase: ORG
+BAU: ORG
+HAMP: NORP
+Freddie Mac: ORG
+Fannie Mae: ORG
+FHA: ORG
+Review: ORG
+3: CARDINAL
+February 2009: DATE
+July 2010: DATE
+Name City: GPE
+State Mortgage Refinance and Liquidations: ORG
+third: ORDINAL
+Performed: ORG
+Microsoft: ORG
+Excel: PRODUCT
+3rd party: ORG
+April 2008: DATE
+January 2009: DATE
+Name City: GPE
+Coordinated: ORG
+September 2007: DATE
+April 2008: DATE
+Name City: GPE
+State Account Executive: ORG
+Originated Conforming: ORG
+Jumbo: PERSON
+Alta-A and Home Equity: ORG
+Maintained: GPE
+monthly: DATE
+one: CARDINAL
+two million dollars: MONEY
+April 2007: DATE
+August 2007: DATE
+Name City: GPE
+State Loan Acquisitions: ORG
+1st: DATE
+2nd: ORDINAL
+July 2004: DATE
+April 2007: DATE
+Name City: GPE
+State Loan Processor/Wholesale Account Executive: ORG
+Michigan: GPE
+monthly: DATE
+five million to: CARDINAL
+a nine month: DATE
+monthly: DATE
+75 million: CARDINAL
+110 million dollars: MONEY
+a nine month: DATE
+June 2003: DATE
+July 2004: DATE
+Name City: GPE
+State Retail Mortgage Account Executive: ORG
+3rd: ORDINAL
+November 2002: DATE
+June 2003: DATE
+Name City: GPE
+State: ORG
+Highest: ORG
+February 2003: DATE
+May 2001: DATE
+July 2002: DATE
+Name City: GPE
+State: ORG
+Freddie Mac's: ORG
+BPO: ORG
+BPO: ORG
+2004: DATE
+University of Phoenix: ORG
+Dallas Campus) City: PERSON
+State: GPE
+United States Masters of Business Administration : Business Administration: ORG
+1998: DATE
+Texas Tech University City: ORG
+State: GPE
+United States Bachelor of Science Degree :: GPE

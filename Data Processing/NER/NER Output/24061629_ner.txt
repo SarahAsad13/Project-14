@@ -1,0 +1,80 @@
+Front Office: ORG
+Epic: ORG
+EMR system)Â: DATE
+Quick: ORG
+Customer Service Assistance and Quality
+Assurance: ORG
+Windows: NORP
+10/2012: CARDINAL
+RN/LVN: ORG
+maximum comfort & hygiene: ORG
+Obtains: PERSON
+Observes: ORG
+Box Office: ORG
+1: CARDINAL
+Maintained: GPE
+Obtained: ORG
+Maintained: GPE
+Maintained: GPE
+Performed: ORG
+Collects: ORG
+Box Office Aid: ORG
+08/2011: CARDINAL
+Answer: LOC
+Assist: NORP
+Telephone Interviewer: ORG
+clientÃ¨le: PERSON
+daily: DATE
+daily: DATE
+daily: DATE
+10%: PERCENT
+Directed: ORG
+Monitored: ORG
+Telephone Interviewer: ORG
+Survey Interviewer for Bank of America and Scion: ORG
+Obtained: ORG
+monthly: DATE
+Excel: PRODUCT
+the Clinical Laboratory Scientist: ORG
+2012: DATE
+Downey Adult School - City: ORG
+ICD-9 Coding: ORG
+Coursework in Laboratory Equipment Calibration
+
+Certified Nurse Assistant/Medical Core Program: ORG
+12: CARDINAL
+Cypress College - City: ORG
+State: ORG
+Nursing Program: ORG
+April, 2013: DATE
+American Heart Association Healthcare Provider: ORG
+BLS: ORG
+CPR: ORG
+AED: ORG
+July: DATE
+2014: DATE
+December, 2013: DATE
+Microsoft Word: PERSON
+2007: DATE
+37wpm: CARDINAL
+N. Orange County Regional Occupational: ORG
+Certifications
+Medical: ORG
+American Heart Association Healthcare Provider: ORG
+BLS: ORG
+CPR: ORG
+AEDÂ 
+Nonviolent Crisis Intervention: ORG
+HIPAA/OSHA DiplomaÂ 
+Skills
+Basic: ORG
+Charts: ORG
+CA: ORG
+CPR: ORG
+CPT: ORG
+ICD-9: NORP
+Office: ORG
+Microsoft: ORG
+Coding: ORG
+Telephone: ORG
+extended hours: TIME

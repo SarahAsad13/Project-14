@@ -1,0 +1,59 @@
+seven years: DATE
+Highlights
+Microsoft Office: ORG
+EXCEL: ORG
+POWERPOINT: ORG
+Oracle
+Discover: ORG
+Develop: ORG
+Accumulate: ORG
+monthly: DATE
+10/2009: CARDINAL
+133: CARDINAL
+the Michigan Market: ORG
+Retail Regional Managers & Branch Managers: ORG
+one: CARDINAL
+Business Banking Events: ORG
+Facilitated: ORG
+06/2004: CARDINAL
+10/2007: CARDINAL
+OPERATIONS: ORG
+16: CARDINAL
+daily: DATE
+ATM Balancing: ORG
+Regulation DD & Z: ORG
+Facilitated: ORG
+Branch Managers: ORG
+the State Retail Operations: ORG
+Teller: PERSON
+Operational Integrity: ORG
+Southeast Michigan: LOC
+Toledo: GPE
+August 2000: DATE
+Bachelor of Arts : Organizational Studies University of Michigan: ORG
+City: GPE
+Spring 2012: DATE
+Wayne State University: PERSON
+State Finance
+: ORG
+Certified Credit Union Financial Counselor
+Interests: ORG
+Public Service Credit Union: ORG
+Detroit Public School/Eastern Michigan University: ORG
+Thanksgiving Dinners: ORG
+Skills: ORG
+ATM: ORG
+Counselor, Credit: ORG
+Financial: ORG
+EXCEL: ORG
+Microsoft Office Applications: ORG
+OUTLOOK: ORG
+POWERPOINT: ORG
+WORD: ORG
+Oracle: ORG
+Retail, Risk
+Assessment: ORG
+COMMUNITY: ORG
+Charter One's and Public Service Credit Union: ORG
+Detroit Public School/Eastern Michigan University: ORG
+Thanksgiving Dinners: ORG

@@ -1,0 +1,173 @@
+SPRINT: ORG
+Windows: ORG
+Red Hat: ORG
+3.5: CARDINAL
+2005-2008: DATE
+SECURITY SYSTEMS/LOAD: ORG
+Brocade SSL Load Balancer: WORK_OF_ART
+F5: CARDINAL
+Sprint ISP Management: ORG
+May 2014: DATE
+Performed System Administration: ORG
+KCMO: ORG
+KS: GPE
+a weekend: DATE
+ATT: ORG
+Analog: ORG
+Dell Appassure: ORG
+22: CARDINAL
+VM Windows: ORG
+2: CARDINAL
+SQL: ORG
+2: CARDINAL
+Microsoft
+Exchange Servers: ORG
+Completed P2V: ORG
+5.5: CARDINAL
+22: CARDINAL
+Configured Orion Solar Winds: WORK_OF_ART
+ATT/Sprint ISP Management: ORG
+21: CARDINAL
+SonicWall/Cisco ASA Firewall: ORG
+Windows Server: PERSON
+03-12: CARDINAL
+Pertino Networks: WORK_OF_ART
+4.1-5.5: CARDINAL
+2007/2013: DATE
+Dell Switches: ORG
+Dell Servers: ORG
+AppAssure: ORG
+Implemented Pertino: WORK_OF_ART
+EMC VNX 5300: ORG
+3200: CARDINAL
+January 2013 to May 2014: DATE
+MainMark: ORG
+DataCenter: PRODUCT
+Layered Tech ATC: PERSON
+5.1: CARDINAL
+EMC VNX 5300: ORG
+SAN/Fibre Channel: ORG
+technology-10gb/Fabric Connectors/Cisco 4500 Switches
+Moved: ORG
+Brokade Load Balancers: WORK_OF_ART
+F5: CARDINAL
+Configured Orion Solar Winds: WORK_OF_ART
+5.1: CARDINAL
+Fibre Channel: ORG
+10gb connection: QUANTITY
+SAN: LOC
+F5: CARDINAL
+Cisco ASA Firewall: ORG
+Cisco UCS Blade Server: ORG
+EMC San: ORG
+Windows Server: PERSON
+03-12: CARDINAL
+4.1-5.5: CARDINAL
+SolarWinds: ORG
+2003/2010/2013: CARDINAL
+Dell Switches: ORG
+Dell Servers: ORG
+September 2007 to January 2013: DATE
+2008: DATE
+32: CARDINAL
+90: CARDINAL
+Virtualization - Went: ORG
+4: CARDINAL
+32: CARDINAL
+3: CARDINAL
+VM's: ORG
+Cisco Switches: PERSON
+Dell Switches: ORG
+HP Switches: ORG
+HP Servers: ORG
+Windows Server: PERSON
+2003/2008: DATE
+3.5: CARDINAL
+5.1: CARDINAL
+2003/2010: CARDINAL
+DAG: ORG
+Unitrends: GPE
+Kansas State Government: ORG
+January 2001 to January 2007: DATE
+66062: DATE
+Training
+BS : Business Management Ottawa University: ORG
+ï¼​ City: GPE
+State: GPE
+US Ottawa University: ORG
+Overland Park: GPE
+KS Campus: PERSON
+Minor in Business Management
+
+Certifications: ORG
+CCDA: ORG
+MSCE: ORG
+VMWARE: ORG
+Watchguard Firewall Technologies
+Exchange: ORG
+5.5-2010: DATE
+Windows Server NT: PERSON
+2000: DATE
+2003: DATE
+2008: DATE
+95, 97, 2000: DATE
+2003: DATE
+2007: DATE
+2010: DATE
+F5 BigIP AFM/: PRODUCT
+EMC VNX SAN Technologies - Training/Experience: ORG
+5300: DATE
+3100: DATE
+Unisphere/AX4-5i/Navisphere: ORG
+SMB: ORG
+Cisco UCS Blade Server: ORG
+Supporting: GPE
+10: CARDINAL
+Fabric Connect: ORG
+UCS/SAN/VMWARE: ORG
+Backup/DR Applications and Business Continuity: ORG
+Cisco Router - Cisco Catalyst Switch - Switching Technologies (Layer 2,3: ORG
+FastEthernet: ORG
+GigEthernet: ORG
+HP/Dell/Cisco Managed Switches - Cisco Switching: ORG
+4500: DATE
+F5: CARDINAL
+DHCP: ORG
+IP: ORG
+DNS: ORG
+Cert Mgmt
+Wireless B/G/: PERSON
+AC Gb: PERSON
+Skills: GPE
+Cisco, Exchange: ORG
+Firewall: GPE
+Microsoft Windows: ORG
+R2: DATE
+Virtualization, Windows 2003: ORG
+Windows Server: PERSON
+2003: DATE
+Cisco Asa, Emc, Emc Vnx, Orion, Vnx,: ORG
+Engineer: ORG
+Fibre Channel: ORG
+Marketing: GPE
+Ssl: GPE
+Vmware: ORG
+Analog: ORG
+Aws, Clients, Cost Analysis: ORG
+Data Center: ORG
+Microsoft Exchange: ORG
+Pbx, Sql, System Administration, Systems Administration: ORG
+Training: PERSON
+Virtual Machine: PERSON
+Vnxe, Wireless: ORG
+Brocade, Business Continuity: ORG
+Catalyst: ORG
+Ccna, Deployment, Dhcp, Dns: ORG
+Lan: PERSON
+Lan Manager: PERSON
+Layer 2: PERSON
+Navisphere: GPE
+Netware: GPE
+Red Hat: PERSON
+Tcp: PERSON
+Business Management: ORG

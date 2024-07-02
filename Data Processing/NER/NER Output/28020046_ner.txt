@@ -1,0 +1,82 @@
+Quality Specialist: ORG
+Six Sigma: PERSON
+5S: CARDINAL
+Dedication: ORG
+Client: GPE
+Quantifiable: PERSON
+Analytical: PRODUCT
+QA/QC/Audits: ORG
+Microsoft Office: ORG
+14: CARDINAL
+25%: PERCENT
+14: CARDINAL
+20: CARDINAL
+100%: PERCENT
+under 16 moths months: DATE
+100%: PERCENT
+October 2015 to January 2016: DATE
+Excellence Specialist: PERSON
+Operational Equipment Efficiency: ORG
+OEE: ORG
+PCB: ORG
+LEAN Manufacturing: ORG
+Printed Circuit Board: ORG
+PCB: ORG
+OEE: ORG
+Standard Operating Procedures: ORG
+Protocols: PERSON
+Root Cause Analysis: ORG
+Process Map: PERSON
+Pareto Chart: PERSON
+Kaizen: PERSON
+7: CARDINAL
+Statistical Process Control: ORG
+February 2014 to September 2015: DATE
+Client Guidelines: PERSON
+Technical Manuals: ORG
+14: CARDINAL
+Insight Quality Services Asian: ORG
+LEAN
+Manufacturing: ORG
+Chinese: NORP
+Quality Control: ORG
+China: GPE
+14: CARDINAL
+Jewelry and Electronic: ORG
+Coordinated: ORG
+monthly: DATE
+quarterly: DATE
+September 2013 to January 2014: DATE
+Internal Production Auditor: ORG
+Inspected: ORG
+Monitored: ORG
+Coordinated: ORG
+October 2006 to December 2012: DATE
+Technician 
+City: GPE
+54: CARDINAL
+QA: ORG
+MSDS: ORG
+Fuels: PERSON
+1,140,198 gallons: QUANTITY
+Jet Propulsion Fuel: ORG
+two: CARDINAL
+Persian Gulf Pacific Deployments: LOC
+zero: CARDINAL
+University of Maryland University College 2002 Bachelor of Science : Information Systems Management Information Systems Management
+Languages: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+Mandarin Chinese: NORP
+German - Basic Conversational (Speak: ORG
+Desktop Publishing Software: ORG
+Microsoft: ORG
+MS Access: ORG
+MS Excel: ORG
+MS Outlook: GPE
+MS Power Point: ORG
+Microsoft Publisher: ORG
+MS Word
+
+Business Management Software: ORG
+ERP - NetSuite: ORG

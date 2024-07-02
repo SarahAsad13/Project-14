@@ -1,0 +1,74 @@
+Microsoft Office: ORG
+2010: DATE
+Excel: PRODUCT
+Access: ORG
+Vista: ORG
+Vantive/Newt: ORG
+Works: PERSON
+1SourceCenter: CARDINAL
+ICare: ORG
+Exony &Cisco: ORG
+10: CARDINAL
+Exceptional: WORK_OF_ART
+Energetic: PRODUCT
+Time: ORG
+Name City: GPE
+State Finance: ORG
+09/1999: DATE
+Name City: GPE
+State Customer Relations: ORG
+daily: DATE
+the month: DATE
+Sprint Nextel Direct Service: ORG
+Prepare daily: ORG
+mid-year: DATE
+the day to day: DATE
+daily: DATE
+Advise: PERSON
+monthly: DATE
+Processed: GPE
+95%: PERCENT
+Assist: NORP
+management/: ORG
+Develop: ORG
+Prepare daily: ORG
+daily: DATE
+daily: DATE
+monthly: DATE
+monthly: DATE
+Negotiate: ORG
+Informed: ORG
+Science: ORG
+1995: DATE
+DENVER: GPE
+City: GPE
+State: GPE
+USA: GPE
+1996: DATE
+City: GPE
+State: GPE
+USA: GPE
+1993: DATE
+GEORGE: GPE
+WASHINGTON HIGH SCHOOL: ORG
+City: GPE
+State: GPE
+USA: GPE
+2004-2006: DATE
+2013: DATE
+Crown Perks: PRODUCT
+2014: DATE
+Pinnacle: ORG
+Professional Affiliations
+
+: ORG
+Colorado: GPE
+10: CARDINAL
+Cisco: GPE
+Client: GPE
+Access, Excel: ORG
+Microsoft Office: ORG
+Power Point: ORG
+People Soft: PERSON
+Research, Vantive: ORG
+Vista: ORG

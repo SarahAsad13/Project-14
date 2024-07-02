@@ -1,0 +1,41 @@
+BOOKSELLER: ORG
+16: DATE
+Wal-Mart: ORG
+Wal-Mart: ORG
+about a year and a half: DATE
+Wal-Mart: ORG
+second: ORDINAL
+a few months: DATE
+Wal-Mart: ORG
+Childcare: ORG
+Speech: ORG
+Language Pathology: GPE
+Bookseller: ORG
+08/2016: CARDINAL
+Teacher/ Closer: PERSON
+Southside Christian Childcare and Preschool: ORG
+the next day: DATE
+Organize: GPE
+Observe: LOC
+Identify: ORG
+Adapt: FAC
+Cashier: ORG
+04/2013: CARDINAL
+Wal-Mart: ORG
+Wal-Mart: ORG
+the Jewelry Counter: PRODUCT
+Recommend: ORG
+Compute: ORG
+Jun: PERSON
+2015: DATE
+Oldham County High School: ORG
+State: GPE
+United States: GPE
+Cashier: PERSON
+Communication Skills: ORG
+Customer Service: ORG
+Speak: GPE
+ASL: ORG
+MS
+Office: ORG
+Time Management: ORG

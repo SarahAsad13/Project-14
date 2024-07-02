@@ -1,0 +1,32 @@
+SUSHI CHEF
+Executive Profile: ORG
+14 years: DATE
+French: LANGUAGE
+Japanese: NORP
+Peruvian Cuisine: PERSON
+May 2005: DATE
+November 2011: DATE
+Name City: GPE
+Sushi Chef: PERSON
+daily: DATE
+monthly: DATE
+10: CARDINAL
+November 2011: DATE
+January 2015: DATE
+Name City: GPE
+State: ORG
+Sous Chef: PERSON
+daily: DATE
+Monthly: DATE
+50: CARDINAL
+January 2016: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+90: CARDINAL
+Hiring: GPE
+Monthly: DATE
+Education: ORG
+2006: DATE
+Bleu City: GPE
+State: ORG

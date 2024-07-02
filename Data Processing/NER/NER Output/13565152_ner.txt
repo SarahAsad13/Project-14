@@ -1,0 +1,80 @@
+Summary
+Extensive: WORK_OF_ART
+Recognize: ORG
+US: GPE
+Skills
+
+Staffing: ORG
+Motivation: ORG
+Critical: ORG
+Prepare: ORG
+networksUtilizes: ORG
+CRM: PRODUCT
+annually: DATE
+annual: DATE
+the fiscal year: DATE
+Cooperated: ORG
+day: DATE
+Minimized: PERSON
+Established: ORG
+weekly: DATE
+Corresponded: ORG
+annual: DATE
+hours: TIME
+Home Health services: ORG
+Home Health:: ORG
+PT: GPE
+OT: ORG
+ST: GPE
+Account Executives: ORG
+Maintain: PERSON
+Assist: NORP
+RN: ORG
+CNA: ORG
+Startup: ORG
+daily: DATE
+Facilitated: ORG
+Clinical Services: ORG
+Responsible for Quality Assurance: ORG
+Operations: ORG
+Demonstrate: ORG
+Evolution Health: ORG
+Assist: NORP
+01/2013: CARDINAL
+State: ORG
+annual: DATE
+day: DATE
+Minimized: PERSON
+Established: ORG
+annual: DATE
+monthly: DATE
+Assigned: ORG
+Obtain/: GPE
+two: CARDINAL
+Second: ORDINAL
+Medicare: ORG
+Medicaid: ORG
+Independent Medical Examinations: ORG
+Liaison: ORG
+five: CARDINAL
+TQM: ORG
+Medical Research Coordinator Company Name: ORG
+Coumadin: PERSON
+EKG'S: ORG
+Training
+Present
+Bachelors of Science : Healthcare Management Letourneau University: WORK_OF_ART
+Dallas: GPE
+City: GPE
+State Healthcare Management: ORG
+2016: DATE
+Associates of Science : Healthcare Management Letourneau University: ORG
+Dallas: GPE
+City: GPE
+State Healthcare Management: ORG
+1993: DATE
+Skills: ORG
+EKG'S: ORG
+Home Health: ORG
+Home Health: ORG
+Assist: NORP

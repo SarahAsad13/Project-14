@@ -1,0 +1,47 @@
+SOUS: PERSON
+25 years: DATE
+Skills
+
+Staff: ORG
+Operations: ORG
+Follows: ORG
+SOP: ORG
+Bilingual: PERSON
+English: LANGUAGE
+Spanish: NORP
+Featured in The Carroll County Times: WORK_OF_ART
+two: CARDINAL
+40: CARDINAL
+more than 250: CARDINAL
+each night: TIME
+Sous Chef Dec: PERSON
+hourly: TIME
+Jan 2012 to Dec 2016: DATE
+2%: PERCENT
+Systematically: ORG
+hourly: TIME
+daily: DATE
+Correctly: PRODUCT
+2005: DATE
+2% percent: PERCENT
+hourly: TIME
+daily: DATE
+Training
+Bachelor of Arts: PERSON
+CULINARY ARTS 2001 CULINARY ARTS: ORG
+BIC City: GPE
+State: GPE
+United States Classes: ORG
+Restaurant: ORG
+Facility Operations
+Coursework in Pastry Arts Courses: ORG
+Patisserie and Confectionery, International Cuisine Nutrition: ORG
+Skills
+Arts: ORG
+English: LANGUAGE
+Focus: ORG
+Inventory: ORG
+Inventory: NORP
+Operations: ORG
+Spanish: NORP
+Supervision: ORG

@@ -1,0 +1,59 @@
+Human Resources: ORG
+Core Competencies
+
+Human Capital Planning
+: ORG
+Excel: PRODUCT
+Possess: ORG
+Talent Review: ORG
+Regional
+Managers: ORG
+Performance, Development, Engagement: ORG
+Excel: PRODUCT
+Deposition Simplification: ORG
+09/1992 - 10/2002: DATE
+State Management
+
+Driving: ORG
+Excel: PRODUCT
+Marketing, Administration: ORG
+Customer Service: ORG
+Human Resources: ORG
+Grand Rapids Leadership Program: ORG
+18)/: CARDINAL
+10: CARDINAL
+6-12: CARDINAL
+1995: DATE
+Kalamazoo & GRCC Community College: ORG
+University of Phoenix BSBM : Business Management Business Management: ORG
+Bank Donations Committee Chair: ORG
+2010: DATE
+2011: DATE
+Teach a Child: ORG
+Caring Volunteer: PERSON
+Present Additional Information: ORG
+Skills
+Administrative: ORG
+Clerical: ORG
+Human Resources: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft PowerPoint: ORG
+SharePoint: ORG
+Microsoft: ORG
+Perioperative: ORG
+Project Lead: PERSON
+Retail: PERSON
+Supervisor: PERSON
+Yellow Belt Trained: PERSON
+2010: DATE
+Project SEARCH Project SEARCH 5/3 Bank Donations Committee Chair: ORG
+2010: DATE
+2011: DATE
+Teach a Child to Save Classroom Initiative United Way Donations Captain: ORG
+Caring Volunteer: PERSON
+Kids Food: ORG
+Present Additional Information: ORG

@@ -1,0 +1,64 @@
+CUSTOMER: ORG
+Core Strengths
+
+Active: ORG
+Adaptive: ORG
+Energetic: LOC
+Customer: ORG
+Career Overview
+
+Highly enthusiastic customer service professional: WORK_OF_ART
+10 year: DATE
+Dedicated Customer Service Representative: ORG
+Inventory: ORG
+Devoted: ORG
+Strong: PERSON
+Strong: PERSON
+Detail: PERSON
+Strong: PERSON
+Markdown: NORP
+Seasoned: PRODUCT
+Detail: PERSON
+Accomplishments Customer Service Researched: ORG
+Product Sales Cross: ORG
+30%: PERCENT
+Customer Interface Greeted: ORG
+two: CARDINAL
+Customer Service Representative: ORG
+March 2011: DATE
+daily: DATE
+January 2009: DATE
+Current Company Name: ORG
+weekly: DATE
+monthly: DATE
+Licensed Insurance: ORG
+March 2007 to December 2007: DATE
+monthly: DATE
+April 2006 to March 2007: DATE
+daily: DATE
+zero: CARDINAL
+Researched: ORG
+March 2003 to March 2006 Company Name: DATE
+30%: PERCENT
+daily: DATE
+zero: CARDINAL
+Roslyn Savings Bank: ORG
+Credit Card Specialist: ORG
+February 2000: DATE
+August 2003: DATE
+Service Center: FAC
+July 1997 to March 2000: DATE
+Oversaw: GPE
+Bank Teller: ORG
+March 1995 to February 1996: DATE
+Processed: GPE
+25Balanced: CARDINAL
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+2016: DATE
+SUNY Old Westbury College: ORG
+State: GPE
+United States Sociology
+Skills: ORG
+daily: DATE

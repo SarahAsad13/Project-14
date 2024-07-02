@@ -1,0 +1,57 @@
+CUSTOMER: ORG
+Career Focus: FAC
+Skills
+
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Quick: ORG
+Energetic: LOC
+Coursework
+Associate of Applied Science :: ORG
+Paralegal 2016: PERSON
+Central Piedmont Community College City: ORG
+State: ORG
+3.56Â: CARDINAL
+GPA: ORG
+Customer Service
+
+Data Organization
+
+Policy Development
+Reporting
+
+Technology Proficient: ORG
+Lowe's Home Improvment: ORG
+daily: DATE
+VeriBalance: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+May/2016: NORP
+Customer Service: ORG
+Name City: GPE
+State: ORG
+10: CARDINAL
+F/A-18C: PRODUCT
+April 2012: DATE
+19: CARDINAL
+May 2011: DATE
+two: CARDINAL
+Ground Support Equipment: ORG
+two: CARDINAL
+Name City: GPE
+Name City: GPE
+United
+States Navy Aviation Electrician: ORG
+Skills
+
+Attention: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG

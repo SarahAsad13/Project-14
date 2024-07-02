@@ -1,0 +1,109 @@
+15 years: DATE
+Background: FAC
+Technical Skills: PERSON
+Qualifications
+Executive Positioning & Communications: ORG
+Media Relations: ORG
+Platform Development: PERSON
+Ghostwriting, Social Strategy: ORG
+Speakers' Bureau: ORG
+Consultant 02/2016: PRODUCT
+10/2015: CARDINAL
+Name City: GPE
+10: CARDINAL
+Group: ORG
+10/2015: CARDINAL
+Name City: GPE
+Deloitte Tax and Audit: ORG
+Deloitte LLP: ORG
+Deloitte Growth Enterprise Services: ORG
+Deloitte Consulting: ORG
+Deloitte Human Capital: ORG
+Deloitte
+Strategy & Operations: ORG
+Deloitte Consulting's: ORG
+Deloitte Business Confidence: ORG
+Report: ORG
+CNBC: ORG
+Forbes: ORG
+Deloitte Consulting's: ORG
+Banyan Branch: ORG
+the Financial Times: ORG
+Deloitte Growth Enterprise Services: ORG
+Deloitte: ORG
+first: ORDINAL
+SABRE: ORG
+B2B Professional Services Award: ORG
+2015: DATE
+Huffington Post: ORG
+Forbes: ORG
+Twitter: PRODUCT
+Deloitte Human Capital: ORG
+Name City: GPE
+day: DATE
+the Chase Cards: ORG
+TIAA: ORG
+CREF Institute: ORG
+Name City: GPE
+Global: ORG
+Global Chief Innovation Officer: ORG
+Global
+Financial Advisory: ORG
+Deloitte's Center for Cross-Border Investment: ORG
+Fox Business News: ORG
+CNBC: ORG
+Center: ORG
+Robert Kimmitt: PERSON
+Treasury: ORG
+Deloitte: ORG
+Global Industry: ORG
+Deloitte: ORG
+Global Economic Outlook: ORG
+Reuters: ORG
+The Financial Times: ORG
+The International New York Times: ORG
+Developed: ORG
+Audit: PRODUCT
+European Union: ORG
+the Office of the CEO: ORG
+Jim Quigley: PERSON
+CFO.com: ORG
+Forbes, CIO Insight: ORG
+Fast Company: ORG
+The Financial Times: ORG
+weekly: DATE
+Name City: GPE
+Deloitte: ORG
+Sharon Allen: PERSON
+5th: ORDINAL
+Sarbanes Oxley Act: EVENT
+BusinessWeek: ORG
+Deloitte: ORG
+Established Chief Executive Magazine's: ORG
+CNBC: ORG
+Squawk Box: PERSON
+Magazine: ORG
+Name City: GPE
+day: DATE
+TradeWeb: ORG
+eSpeed: ORG
+The Financial Times: ORG
+Bloomberg: PERSON
+Wall Street & Technology: ORG
+Investment News: ORG
+11/2001: CARDINAL
+Name City: GPE
+Q&A: ORG
+11/2001: CARDINAL
+Name City: GPE
+The Wall Street Journal: ORG
+CNNMoney: ORG
+American Banker: ORG
+2006: DATE
+Columbia University - School of International & Public Affairs City: ORG
+State: ORG
+the European Union: ORG
+Italian: NORP
+Salamanca: GPE
+Spain: GPE
+summer 1995: DATE

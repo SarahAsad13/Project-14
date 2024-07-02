@@ -1,0 +1,56 @@
+Career Overview
+Personable: ORG
+Skill Highlights: PERSON
+Macintosh: ORG
+Microsoft: ORG
+Microsoft Power Point: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Google Drive: ORG
+November 2015: DATE
+Build: GPE
+Salesforce: GPE
+March 2015 to June 2015: DATE
+January 2015 to June 2015: DATE
+annual: DATE
+All Nations Banquet: WORK_OF_ART
+the All Nations: WORK_OF_ART
+the All Nations Food and Art Festival: ORG
+Master's: ORG
+Thesis Capstone Cohort: ORG
+Scott Cairns: PERSON
+September 2014 to June 2015: DATE
+fifteen: CARDINAL
+Google Calendar: PRODUCT
+Google Drive: ORG
+Hospitality: PERSON
+last-minute: TIME
+June 2014 to June 2015: DATE
+Co-Chair of Fuller Arts Collective: ORG
+FAC: ORG
+two: CARDINAL
+FAC: ORG
+every ten weeks: DATE
+FAC: ORG
+September 2013 to June 2014: DATE
+the Worship Arts Department: ORG
+Networked: PRODUCT
+the Worship Arts Department: ORG
+August 2009 to September 2013: DATE
+Barista 
+City: GPE
+Vanguard University: ORG
+2009: DATE
+Theatre Arts City: PERSON
+2009: DATE
+Sigma Theta Delta: ORG
+English: LANGUAGE
+English: LANGUAGE
+Religion
+
+Fuller Theological: ORG
+the Arts City: LOC
+Brehm Scholar: PERSON
+Skills
+Active Learner: ORG
+Â  Customer Service: ORG

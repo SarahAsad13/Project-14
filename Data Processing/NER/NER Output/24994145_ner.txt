@@ -1,0 +1,27 @@
+Microsoft Office: ORG
+WordPress: ORG
+Twitter: PERSON
+FitByRaphael: GPE
+one: CARDINAL
+Skype: ORG
+Daily: DATE
+two: CARDINAL
+eBooks: ORG
+The Power of Healing Through Fitness and Nutrition: ORG
+8-Weeks: DATE
+Lasting Weight Loss: ORG
+95%: PERCENT
+National TV: ORG
+100-pound: QUANTITY
+6-week: DATE
+40%: PERCENT
+8-17 pounds: QUANTITY
+weekly: DATE
+500,000 to 1 million: CARDINAL
+300: CARDINAL
+Guide: ORG
+World Natural Bodybuilding Federation: ORG
+Training
+B.A :: ORG
+Southern Connecticut State University: ORG
+Certified Personal Trainer - The American Council on Exercise: WORK_OF_ART

@@ -1,0 +1,67 @@
+15-year: DATE
+Time: ORG
+Accomplishments
+
+Scheduling Â 
+
+Facilitated: WORK_OF_ART
+Oversaw: GPE
+June 2014 to October 2015: DATE
+Name City: GPE
+Maintained: GPE
+May 2013 to May 2014: DATE
+Name City: GPE
+September 2012 to April 2013: DATE
+Name City: GPE
+Technician
+
+Cold: EVENT
+June 2012 to: DATE
+August 2012: DATE
+Name City: GPE
+Maintained: GPE
+April 2011 to May 2012: DATE
+Name City: GPE
+State Operations: ORG
+Oversaw: GPE
+November 2009 to March 2012: DATE
+Name City: GPE
+Trainer for New Restaurant Openings: ORG
+daily: DATE
+Communicated: WORK_OF_ART
+March 2009 to October 2009: DATE
+Name City: GPE
+daily: DATE
+1988: DATE
+GED 
+City: ORG
+State: ORG
+United States: GPE
+GED: ORG
+Guadalajara: GPE
+Mexico: GPE
+GED: ORG
+Culinary Management
+
+Coursework in Business, Restaurant and: ORG
+Hotel Management
+
+: ORG
+Spanish: LANGUAGE
+Skills
+
+Advertising: ORG
+Customer Relations: ORG
+Data Management: ORG
+Financial Planning: ORG
+Hiring: GPE
+Inventory Control: ORG
+Inventory Management: ORG
+Network: ORG
+New Construction, Payroll: ORG
+Personnel: ORG
+Policies: GPE
+Project Management: ORG
+Retail, Safety, Sales: ORG
+Spanish Speaking, Supervision, Telecommunications: EVENT
+Equipment Operations: ORG

@@ -1,0 +1,43 @@
+TEACHER
+Professional Background
+Certified Nursing: PERSON
+Skill Highlights: PERSON
+Charting: PERSON
+50 pounds: QUANTITY
+HIPAA: ORG
+Strong: PERSON
+Valid PennsylvaniaÂ  Â: PERSON
+CPR/BLS: ORG
+Name City: GPE
+State: ORG
+Current Employed: PERSON
+daily: DATE
+Maintained: GPE
+daily: DATE
+Name City: GPE
+daily: DATE
+Name City: GPE
+State Home Health: ORG
+Name City: GPE
+Operates: NORP
+Requires: PERSON
+EPA: ORG
+State Health Department: ORG
+daily: DATE
+daily: DATE
+daily: DATE
+daily: DATE
+daily: DATE
+2009: DATE
+Strawberry: PERSON
+Mansion High School: ORG
+Skills: ORG
+â€¢ Well: WORK_OF_ART
+â€¢: PRODUCT
+â€¢ Strong: PERSON
+â€¢ Good: PRODUCT
+â€¢ Courteous with clients, residents and staf f
+
+â€¢ Sound: WORK_OF_ART
+â€¢ Willing: WORK_OF_ART
+working hours: TIME

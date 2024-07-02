@@ -1,0 +1,182 @@
+07/2015: CARDINAL
+State: ORG
+04/1996: CARDINAL
+29 years: DATE
+USCG: ORG
+225: CARDINAL
+WLB: ORG
+175: CARDINAL
+WLM: ORG
+87: CARDINAL
+Coastal Patrol Boats: WORK_OF_ART
+WPB: ORG
+VHF: ORG
+GPS systems: ORG
+2010: DATE
+VHF: ORG
+225: CARDINAL
+WLB: ORG
+175: CARDINAL
+WLM: ORG
+VHF: PRODUCT
+225: CARDINAL
+WLB: ORG
+Relocation and Replacement: ORG
+87: CARDINAL
+WPB: ORG
+VHF: ORG
+EMC-EMI Program Support: ORG
+USCG/USN RADHAZ/EMI: ORG
+Dockside Repair: ORG
+USCG/USN HF: ORG
+VHF: ORG
+UHF Communications Systems: ORG
+10 years': DATE
+Differential Global Positioning System: ORG
+Nationwide Differential Global
+Positioning System: ORG
+NDGPS: ORG
+DGPS: ORG
+DGPS: ORG
+DGPS: ORG
+Roshto: ORG
+USCG: ORG
+VHF: ORG
+the past five years: DATE
+VHF: ORG
+225: CARDINAL
+WLB: ORG
+175: CARDINAL
+WLM: ORG
+87: CARDINAL
+Coastal Patrol Boats: WORK_OF_ART
+WPB: ORG
+VHF: ORG
+eleven 225': DATE
+Duluth: PERSON
+MN: ORG
+USCGC Aspen: ORG
+San Francisco: GPE
+CA: ORG
+USCGC Fir: ORG
+Astoria: GPE
+AK: ORG
+USCGC Kukui: ORG
+USCGC Maple: ORG
+AK: ORG
+USCGC Oak: ORG
+211: CARDINAL
+Charleston: GPE
+SC: ORG
+USCGC Sequoia: ORG
+Guam: GPE
+AK: ORG
+AK: ORG
+the USCGC Walnut: ORG
+Roshto: ORG
+VHF: PRODUCT
+HS-2774-1: FAC
+225: CARDINAL
+175: CARDINAL
+87: CARDINAL
+WPB: ORG
+USCG: ORG
+Pre-Maintenance Test: ORG
+Pre-Installation Test: ORG
+Check Out: PERSON
+System Operational Test (SOVT: WORK_OF_ART
+the USCG C4IT Service Center: ORG
+WLB: ORG
+USCG: ORG
+VHF: ORG
+GOTR: ORG
+C3CEN: PRODUCT
+Pre-Installation Testing and: ORG
+Removing: PERSON
+VHF antennas: PERSON
+HF FAX antennas: ORG
+VHF: ORG
+Performed: ORG
+Restoring: PERSON
+USCG: ORG
+OPNAV: ORG
+4790: DATE
+USCG: ORG
+4790: DATE
+EMC/EMI: ORG
+USCG Optical Surveillance: ORG
+Utility Boats: PRODUCT
+Coast Guard: ORG
+Beacon: PERSON
+DGPS: ORG
+Key West: LOC
+FL: ORG
+Moriches: PERSON
+NY: ORG
+Tampa: GPE
+FL: ORG
+DGPS: ORG
+DGPS: ORG
+USCG HF: ORG
+the Greater Antilles Section: LOC
+Performed HF Fan Wire Impedance Matching: ORG
+U.S.: GPE
+Navy: ORG
+Appleton: GPE
+WA: GPE
+Ground Wave Electrical Network: ORG
+DGPS: ORG
+NDGPS: ORG
+the Vessel Traffic Control Systems: ORG
+Houston/Galveston: ORG
+TX: ORG
+National Distress System: ORG
+NDS: ORG
+North Carolina: GPE
+Florida: GPE
+Coast Guard Command Centers: ORG
+65: CARDINAL
+Uninterruptible Power Supply Systems: ORG
+Atlantic: LOC
+Pacific Area Command Centers: ORG
+Pacific Area: LOC
+BARCO Video Display: ORG
+Coast Guard Command Centers: ORG
+08/1995: NORP
+second: ORDINAL
+Programmable Logic Controllers: ORG
+08/1995: NORP
+Joint Operational Tactical Systems: ORG
+Combat Direction System: ORG
+Optical Surveillance: ORG
+Coast Guard: ORG
+Beacon Transmitter: PERSON
+01/1991
+Electrical/Mechanical Foreman Company Name: ORG
+QVC Network: ORG
+Hills Bros.: ORG
+Allied Colloids, Inc.: ORG
+Electrical Apprentice Company Name: ORG
+1988: DATE
+Diploma Norview High School Virginia Apprenticeship Council Electrical Apprenticeship
+Additional Information
+
+Location: ORG
+Virginia Beach: PERSON
+VA Security Clearance: ORG
+CA: ORG
+Council: ORG
+FAX: ORG
+GPS: ORG
+Inspection: NORP
+Team Lead: PERSON
+Navy: ORG
+NDS: ORG
+Network: ORG
+OSS: ORG
+Power Supply: ORG
+Radio: ORG
+San: LOC
+Technician V: ORG
+UHF: ORG
+VHF: ORG

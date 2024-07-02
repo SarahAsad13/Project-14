@@ -1,0 +1,57 @@
+DESIGNER / TECHNICAL DESIGNER
+Summary: ORG
+Garment Fittings
+Garment: WORK_OF_ART
+Ulihu: ORG
+Oversaw: GPE
+New York City: GPE
+Designer / Technical Designer: ORG
+January 2013 to August 2015: DATE
+Excel & Illustrator: ORG
+Oversee: ORG
+NYC Communicate: FAC
+Review: ORG
+T.O.P.: ORG
+Wardrobe Supervisor: PERSON
+June 2001 to August 2015: DATE
+Synch OnSet: ORG
+October 2012 to March 2013: DATE
+Daily Correspondence: PERSON
+New York City: GPE
+Associate Designer: PERSON
+April 2010 to October 2012: DATE
+State: ORG
+Ralph Lauren Sleepwear: PERSON
+FOA: ORG
+FOE: ORG
+Lauren Sleepwear: PERSON
+Illustrator: ORG
+Prepare: ORG
+Responsible: ORG
+daily: DATE
+Participate: ORG
+Archivist: NORP
+May 2009 to August 2009: DATE
+August 2006 to October 2008: DATE
+Created: ORG
+Adobe Illustrator: WORK_OF_ART
+Communicated: ORG
+Created: ORG
+Maintained: GPE
+Oxford / Li & Fung / March 2006 -
+: ORG
+August 2006: DATE
+Patternmaker - Women's: ORG
+nine: CARDINAL
+Assisted: ORG
+Transferred: PRODUCT
+Associate of Applied Science : Fashion Design F.I.T - City: WORK_OF_ART
+State: ORG
+Eastern European Studies: ORG
+Saint Edward's: PERSON
+University - City: ORG
+Adobe Illustrator
+Adobe Photoshop: WORK_OF_ART
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG

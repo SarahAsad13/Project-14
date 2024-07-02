@@ -1,0 +1,74 @@
+TEACHER
+Core Accomplishments
+
+Girl Scouts: PERSON
+Missouri: GPE
+Cole County Service: ORG
+2012: DATE
+Involvement & Professional
+Develop: ORG
+Affiliations: ORG
+Girl Scout: PERSON
+82: CARDINAL
+153: CARDINAL
+800: CARDINAL
+Coach: ORG
+fidelity: ORG
+Serve: PERSON
+Springfield: GPE
+MO: GPE
+Camp: ORG
+Summer Twilight Camp Plan: WORK_OF_ART
+Janet: PERSON
+Dance Studio: PERSON
+Fulton: GPE
+MO Â​ Studio: FAC
+1999 Â​ 2009: DATE
+08/2009: CARDINAL
+Current
+Teacher Company Name: PERSON
+Jefferson City: GPE
+development & current: ORG
+Balanced Literacy/Guided: ORG
+Lucy Calkins: PERSON
+Investigations Mathematics: PERSON
+Sitton Spelling: PERSON
+PBS: ORG
+the English Language Arts: LOC
+Coach: ORG
+2nd: ORDINAL
+3rd: ORDINAL
+Assessment for Learning: ORG
+daily: DATE
+Develop: ORG
+JC Lead: WORK_OF_ART
+JCPS: ORG
+Mathematics: NORP
+Common Core: WORK_OF_ART
+ISTE: ORG
+01/2004: CARDINAL
+Leadership Academy: WORK_OF_ART
+the Regional Professional
+Development Centers: ORG
+Collaborated: ORG
+Curriculum
+Coordinating Council: ORG
+Missouri Assessment Program: ORG
+MAP: ORG
+Communication Arts and Mathematics: ORG
+01/2003: CARDINAL
+Education: ORG
+December 2014: DATE
+DESE Initial Administration Certification: ORG
+Curriculum Leadership William Woods: PERSON
+Policy Analysis University: ORG
+Bachelor of Science : Elementary Education Elementary Education: ORG
+Elementary 1-6 Certification: PERSON
+Spanish: NORP
+K-9: ORG
+Arts: ORG
+Coach: ORG
+Council: ORG
+English: LANGUAGE
+Mathematics: NORP
+Spanish: NORP

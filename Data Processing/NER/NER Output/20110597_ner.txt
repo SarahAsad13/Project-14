@@ -1,0 +1,98 @@
+LICENSED UNITED HEALTHCARE: ORG
+Summary
+Talent: WORK_OF_ART
+the Customer Service: ORG
+13.46%: PERCENT
+65 +: DATE
+the month Awards: DATE
+Awarded: ORG
+weekly: DATE
+monthly: DATE
+KDM & QA Scores: ORG
+100%: PERCENT
+Skills
+Time Management, Effective Communication: ORG
+Cloud: PERSON
+Skype, Proficient: ORG
+Microsoft Office Suite: ORG
+Instant Messaging: WORK_OF_ART
+Web Chat: GPE
+Negotiating: GPE
+Cross-Sell Ability: ORG
+Outlook Email: PERSON
+Lotus Notes: ORG
+Quicken: PERSON
+QuickBooks: ORG
+10/2015: CARDINAL
+Licensed United Healthcare Insurance Sales Agent Company Name: ORG
+MA: GPE
+MAPD: ORG
+MED Sup: ORG
+PDP: ORG
+09/2014
+Account Executive Sales: ORG
+daily: DATE
+Licensed United Healthcare Insurance Sales Agent Company Name: ORG
+MA: GPE
+MAPD: ORG
+MED Sup: ORG
+PDP: ORG
+04/2013: CARDINAL
+HIPAA: ORG
+CMS: ORG
+11/2008: CARDINAL
+Online Customer Service & Sales: ORG
+more than 100: CARDINAL
+daily: DATE
+Quicken: PERSON
+QuickBooks: ORG
+daily: DATE
+first: ORDINAL
+BSA: ORG
+USA PATRIOT Act: ORG
+FDIC: ORG
+TISA: ORG
+HMDA: ORG
+CRA: ORG
+Customer Service Task Specialist Company Name: ORG
+Creditors &: ORG
+daily: DATE
+PIF: ORG
+ACH amounts & dates: ORG
+200: CARDINAL
+daily: DATE
+Training
+Business Administration: ORG
+2013: DATE
+Wachovia Bank: ORG
+NA: ORG
+Charlotte: GPE
+NC: GPE
+2008: DATE
+Central Piedmont Community College: ORG
+Charlotte: GPE
+NC: GPE
+Career Development Center: ORG
+State: ORG
+2001: DATE
+Computer Office Information Systems Certificate Central Piedmont Community College: ORG
+State: ORG
+2001: DATE
+High School Equivalency Diploma Central Piedmont Community College: ORG
+3.75: CARDINAL
+Skill Sets
+Trouble Shooting: ORG
+IVR: ORG
+Lotus Notes: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Problem Solving: PERSON
+QuickBooks: ORG
+Quicken: PERSON
+Time
+Management: ORG
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG

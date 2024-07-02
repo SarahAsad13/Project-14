@@ -1,0 +1,86 @@
+Wetlands: GPE
+Delineation
+Proficient: ORG
+Microsoft Office: ORG
+Species Diversity of Lepidoptera: WORK_OF_ART
+Oak Hickory: GPE
+Luzerne County: GPE
+Keystone College: ORG
+List Spring 2011: EVENT
+Fall 2008: DATE
+Wrigley Ryder: PERSON
+Fall 2009: DATE
+Spring 2010: DATE
+Joseph Sirotnak ': PERSON
+Esq: GPE
+Fall 2007: DATE
+Spring 2009: DATE
+Plant Protection: ORG
+Quarantine Technician: PERSON
+May 2011 to August 2011 Company Name ï¼​ City: DATE
+Asian: NORP
+Beetle: PRODUCT
+Emerald Ash Borer: ORG
+eight: CARDINAL
+Pennsylvania: GPE
+PPQ: ORG
+May 2009 to August 2009: DATE
+State: ORG
+May 2008 to August 2008: DATE
+State: ORG
+Emerald Ash Borer: PERSON
+Asian: NORP
+Longhorn Beetle: PERSON
+Sirex Wood: ORG
+apiarian: NORP
+Lackawanna County: GPE
+PA: GPE
+2008: DATE
+10: CARDINAL
+Pennsylvania: GPE
+2009: DATE
+Lindgren Funnel: PERSON
+IPM Tech: ORG
+4x4: CARDINAL
+Panasonic Toughbook: ORG
+Global Mapper: ORG
+Microsoft Office: ORG
+Trail Steward: PERSON
+Workshop Staff: ORG
+May 2007 to August 2007: DATE
+State: ORG
+Trail: GPE
+Keystone College's: ORG
+160-acre: QUANTITY
+Woodland Campus: PERSON
+Lake Manataka Environmental Field Station: FAC
+Watershed Explorers Workshop: ORG
+Secchi: GPE
+September 1998 to January 1999: DATE
+State
+
+Laboratory: ORG
+the University of Nevada-Reno: ORG
+David P. Arsenault's: PERSON
+May 1998 to September 1998: DATE
+avian: NORP
+Flammulated Owls: PERSON
+New Mexico: GPE
+Garmin: ORG
+the Continental Divide: ORG
+New Mexico: GPE
+The State University of New Jersey ï¼​ City: ORG
+State: GPE
+US: GPE
+Bachelor of Science : Environmental Biology: ORG
+2011: DATE
+Keystone College: ORG
+State: GPE
+US: GPE
+Affiliations: ORG
+Keystone College Eco Club: ORG
+North American: NORP
+American Red Cross: ORG
+CPR: ORG
+Keen: PERSON
+Strong: PERSON

@@ -1,0 +1,70 @@
+EXECUTIVE CHEF
+Professional Summary
+Executive Chef Â: ORG
+20 Â years: DATE
+American: NORP
+Mexican: NORP
+Asian: NORP
+French: NORP
+SeafoodÂ: NORP
+Bilingual: GPE
+20Â  years: DATE
+Skills
+
+American/French: ORG
+Mexican: NORP
+Work History
+Executive Chef: WORK_OF_ART
+12/2013: CARDINAL
+CAMPEON: ORG
+Village Voice "Critics' Picks: ORG
+The New York: GPE
+Two: CARDINAL
+Chinaware: ORG
+Created Menus: LOC
+HOH: ORG
+Coordinated: ORG
+Conducted: ORG
+28 Â percent: PERCENT
+Maintained: GPE
+daily: DATE
+Created: ORG
+Sous Chef 10/2012: PERSON
+11/2013: CARDINAL
+weeks: DATE
+the holiday season: DATE
+Conducted: ORG
+Executive: ORG
+40Â: ORG
+08/2012: CARDINAL
+Connecticut: GPE
+28 Â percent: PERCENT
+Maintained: GPE
+Maintained: GPE
+Working Chef 01/2007: ORG
+100: CARDINAL
+French: NORP
+American: NORP
+Tapas: GPE
+Maintained: GPE
+Sous Chef 01/1992: PERSON
+Maintained: GPE
+Maintained: GPE
+Bachelor of Arts: ORG
+2001: DATE
+City College: ORG
+New York - City: GPE
+a Master Degree: WORK_OF_ART
+Serv-Safe Certification: ORG
+Cooking: PERSON
+English: LANGUAGE
+French: NORP
+Receiving, Safety, Scheduling: ORG
+Spanish: NORP
+Additional Information
+
+PRESS http://blogs.villagevoice.com/forkintheroad/2014/06/campeon_a_championship_caliber_sports_bar_arrives_in_flatiron.php
+http://www.nytimes.com/2012/01/08/nyregion/red-lulu-cocina-in-south-norwalk-review.html?_r=2&partner=rssnyt&emc=rss&
+http://www.nytimes.com/2010/08/15/nyregion/15dinect.html
+
+: ORG

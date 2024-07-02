@@ -1,0 +1,28 @@
+nearly 4 years: DATE
+Skill Highlights: PERSON
+Superb: PERSON
+Reliable: WORK_OF_ART
+Energetic: LOC
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP
+monthly: DATE
+Sales for Management: ORG
+20%: PERCENT
+2017: DATE
+Maintained: GPE
+TOPMAN: ORG
+Feb 2016 to Nov 2016: DATE
+Collaborated: ORG
+Maintained: GPE
+2014 to Feb 2016: DATE
+Maintained: GPE
+Explained: ORG
+Influence: ORG
+Shared: ORG
+Maintained: GPE
+Visual Merchandiser / Sales Associate Aug: ORG
+2013 to Jan 2014: DATE
+Exchanged: ORG
+2013: DATE
+daily: DATE

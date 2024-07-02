@@ -1,0 +1,84 @@
+INTERNATIONAL BUSINESS DEVELOPMENT
+Summary: ORG
+International Sales: ORG
+Customer Service: ORG
+Highlights
+Professional Ethics
+
+Negotiation: ORG
+Foreign Trade
+
+Food and Beverage Industry Experience
+
+Territory: ORG
+International Business Development: ORG
+International Sales: ORG
+Customer Service: ORG
+10/2013: CARDINAL
+Name City: GPE
+100%: PERCENT
+Contracts Administrator/Customer Service 04/2004: ORG
+10/2004: CARDINAL
+Name City: GPE
+the Returns Material Authorization: ORG
+Liaison: PERSON
+Customer Service: ORG
+06/2003 ï¼​ 03/2004 Company Name City: ORG
+Processed: GPE
+Customer Service: ORG
+03/2003: CARDINAL
+Name City: GPE
+20%: PERCENT
+LTL: ORG
+US Commercial
+Services: ORG
+International Inside Sales Customer Service & Logistics Coordinator: ORG
+Name City: GPE
+Japan: GPE
+U.S.: GPE
+Mexico: GPE
+Prepared: PERSON
+15%: PERCENT
+Maquila Factory: ORG
+Mexico: GPE
+12: CARDINAL
+U.S.: GPE
+U.S.: GPE
+Created: ORG
+QuickBooks: ORG
+Coordinated: PRODUCT
+10/1996: CARDINAL
+Name City: GPE
+400: CARDINAL
+Name City: GPE
+State
+
+Collaborated: ORG
+English: LANGUAGE
+French: NORP
+Spanish: LANGUAGE
+Customer Service: ORG
+ï¼​ 07/1994: ORG
+Name City: GPE
+Associate of Arts: ORG
+Irvine Valley College - Managerial Finance: ORG
+Accounting City: GPE
+Autonomous University of Guadalajara - Accounting City: ORG
+State: GPE
+Mexico: GPE
+the Arts Business Works - Inventory Control: ORG
+Order Data Entry City: ORG
+8th: ORDINAL
+Walton - Selling: ORG
+Walmart Mexico: FAC
+Central America City: LOC
+State: ORG
+Spanish: NORP
+French: LANGUAGE
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+MAS90: GPE
+MAS200: NORP
+Greatplains: PERSON

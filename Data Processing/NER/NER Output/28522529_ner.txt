@@ -1,0 +1,113 @@
+FINANCE: ORG
+Banking Operations: ORG
+Cash Management: ORG
+Treasury Management: ORG
+Credit Administration: ORG
+Trade
+Finance: ORG
+Forex: ORG
+Risk Management: ORG
+ALM: ORG
+KYC: ORG
+Client Servicing: PERSON
+Team Management: ORG
+Funds Management: ORG
+Budgeting and Forecasting: ORG
+Audit: ORG
+MIS: ORG
+Finalization of Accounts: ORG
+Credit: ORG
+Letter: NORP
+Financial Analysis Accounts:: ORG
+Finalization of Accounts Community Management: Community Management: ORG
+Escrow: PERSON
+Trust Accounts,: ORG
+Facility Management: ORG
+Owners Association: ORG
+Finance: ORG
+March 2012: DATE
+May 2013: DATE
+Finance/Accounting: ORG
+Finance: ORG
+MIS: ORG
+Community: ORG
+Owners Associations: ORG
+Budget: ORG
+monthly: DATE
+Board: ORG
+AGA: ORG
+May 2008 to December 2011 Company Name ï¼​ City: DATE
+Finance/Accounts: ORG
+Banks/financial: ORG
+Analyzing Cash: PERSON
+Budgeting and Forecasting: ORG
+MIS: ORG
+Annual: DATE
+Payables: GPE
+Monthly: DATE
+INFOS: ORG
+labor ministry: ORG
+Implementation of WPS: ORG
+UAE Government: ORG
+December 1993: DATE
+May 2008: DATE
+Bank: ORG
+6 years: DATE
+INR 18 billion: ORG
+Funds Management and Liquidity: ORG
+Risk Management: ORG
+CRR: ORG
+Reserve Ratio: PERSON
+Credit Management Accountable: ORG
+Head Office: ORG
+Vehicle: ORG
+Educational: NORP
+General Banking operations: Administration: ORG
+KYC: ORG
+AML: ORG
+Retail Marketing: ORG
+3rd: ORDINAL
+Trade Finance/Foreign Exchange: ORG
+Purchase: ORG
+negotiation & collection: ORG
+UCPDC Import: ORG
+Purchase: PERSON
+RBI: ORG
+M.B.M: ORG
+Bank Management Alagappa University: ORG
+ï¼​ City: GPE
+State Bank Management
+B.Sc University of Kerala
+Proficiency: ORG
+MS: ORG
+Excel: PRODUCT
+Training / Certifications Risk Management: ORG
+Conducted by Reserve Bank's: ORG
+College: GPE
+Mumbai: GPE
+Treasury Management: ORG
+National Institute of
+Bank Mngmnt: ORG
+Pune) Certification in Owners Association Management: ORG
+DREI: ORG
+UAE
+
+Personal Information
+US: ORG
+Michigan: GPE
+Skills
+Accounting: ORG
+Budget: ORG
+Credit: ORG
+ERP: ORG
+Finance: ORG
+Forecasting, Foreign Exchange: ORG
+Funds, Government: ORG
+Excel: PRODUCT
+Office: ORG
+MS: ORG
+MIS: ORG
+Retail, Risk Management: ORG
+Treasury: ORG
+US: GPE
+Michigan: GPE

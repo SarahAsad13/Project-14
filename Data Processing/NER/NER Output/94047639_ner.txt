@@ -1,0 +1,50 @@
+16 years: DATE
+years: DATE
+Line Cook: PERSON
+years: DATE
+Hospitality: PERSON
+Inventory: ORG
+April 2013 to December 2013: DATE
+Executive Chef: ORG
+August 2014 to January 2015: DATE
+daily: DATE
+utensil: GPE
+the
+summer months: DATE
+February 2005 to September 2005: DATE
+January 2003 to October 2003: DATE
+daily: DATE
+3rd: ORDINAL
+April 2002 to August 2002: DATE
+third: ORDINAL
+March 2002 to December 2002: DATE
+State: ORG
+May 2001 to October 2001: DATE
+State: ORG
+April 2001 to October 2001: DATE
+Maintained: GPE
+cashier: PERSON
+January 2014 to August 2014: DATE
+quarterly: DATE
+daily: DATE
+Processed: GPE
+Zanesville: GPE
+Associate of Applied Science :: WORK_OF_ART
+Hospitality Management Liberty University: ORG
+Coursework in Hospitality Management: ORG
+these classes winter quarter: DATE
+Associate of Arts: WORK_OF_ART
+Associate of Arts: WORK_OF_ART
+Kaplan: PERSON
+Skills
+
+Cooking: ORG
+Sanitation, Contamination, Operations: ORG
+Chef, Executive Chef: ORG
+Answering Phones: ORG
+Sales Associate: PERSON
+Cashier: PERSON
+Fast Learner: PERSON
+Food Industry: ORG
+Leadership Skills: PERSON
+Paralegal: GPE

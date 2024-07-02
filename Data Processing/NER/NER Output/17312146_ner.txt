@@ -1,0 +1,52 @@
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+Experienced: PERSON
+Geographic Information Systems: ORG
+Home Depot: ORG
+2559: MONEY
+Frederick: GPE
+Maryland: GPE
+10/2016: CARDINAL
+summer: DATE
+10/2015: CARDINAL
+Training: PERSON
+May: DATE
+2014: DATE
+Shepherd University: ORG
+State Completed: ORG
+summer: DATE
+400 hours: TIME
+Claude E. Kitchen's: PERSON
+Valley Wildlife
+Management Area/Western Maryland Department of Natural Resources: LOC
+Clear Spring: GPE
+Maryland: GPE
+2000: DATE
+11400: DATE
+Robinwood Drive: PERSON
+Hagerstown: GPE
+21742: DATE
+Hagerstown Community College: ORG
+Interests: NORP
+monthly: DATE
+Eagle Scout Award: ORG
+the Boy Scouts: ORG
+America: GPE
+American: NORP
+Red
+Cross: ORG
+Chesapeake Bay Foundation: ORG
+Skills: ORG
+Information Systems: ORG
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+Natural Resources: ORG
+monthly: DATE
+Eagle Scout Award: ORG
+the Boy
+Scouts of America: ORG
+American Red Cross: ORG
+Chesapeake Bay Foundation: ORG

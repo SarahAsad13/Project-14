@@ -1,0 +1,79 @@
+English: LANGUAGE
+Spanish: NORP
+U.S.: GPE
+March 2013: DATE
+Quito: GPE
+Ecuador: GPE
+Macintosh & Windows Software: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook
+Adobe Creative: PERSON
+5: CARDINAL
+Photoshop
+SharePoint
+Social Media
+
+Experience
+: PERSON
+Name City: GPE
+State Administrative: ORG
+Hospitality: PERSON
+weekly: DATE
+minutes: TIME
+monthly: DATE
+InDesign: ORG
+Courier/ FedEx/Mail: ORG
+Project Managers: ORG
+07/2013 (Bureau of International Narcotics and Law Enforcement Affairs Section: ORG
+NAS: ORG
+Temporary Duty: PERSON
+General Services Office: ORG
+CAA: ORG
+Diplomatic Security: ORG
+1: CARDINAL
+the U.S. Embassy's: ORG
+weekly: DATE
+CLO: ORG
+CLO: ORG
+Embassy: GPE
+Ecuador: GPE
+Visa: PERSON
+the Consular Consolidated Database: ORG
+the American Citizens Service: ORG
+Name City: GPE
+State Catering Sales Intern: ORG
+University of Tampa University of Tampa 2008-2012 Bachelors of Arts in Advertising &
+Public Relations
+High School Diploma :: ORG
+2008: DATE
+2004-2008: DATE
+Skills Competent: ORG
+Certifications
+CAA
+Languages: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills
+Advertising, Public Relations: ORG
+Excellent Multitasker: PERSON
+Contracts: ORG
+Indesign, Invoice, Invoices: ORG
+Cyber Security: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Project: ORG
+Microsoft Sharepoint: ORG
+Ms Office: ORG
+Outlook, Photoshop: ORG
+Powerpoint: PRODUCT
+Liaison: PERSON
+Clients, Event Planning: ORG
+Weddings: GPE
+Arrangements: GPE
+Nas: GPE
+Training: GPE
+Vouchers: ORG
+Clerk: GPE
+Database: GPE

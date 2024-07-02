@@ -1,0 +1,76 @@
+Social Services Provider: ORG
+IT Enterprise Networks: ORG
+2013: DATE
+2013: DATE
+Windows: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: PRODUCT
+PowerPoint: ORG
+Database Information Systems: ORG
+Master of Arts: WORK_OF_ART
+Education-: ORG
+8 2014: DATE
+Mount St. Joseph University: ORG
+Dean: PERSON
+Honor Roll GPA: PERSON
+3.58: CARDINAL
+GPA: ORG
+3.58: CARDINAL
+4.0: CARDINAL
+15%: PERCENT
+â€œROTC & Military Education: ORG
+Dean: PERSON
+Honor Roll GPA: PERSON
+3.49: CARDINAL
+Alpha Theta: PERSON
+Mortar Board: ORG
+Alpha Sigma Lambda: ORG
+Mortar Board Chapter Historian: ORG
+GPA: ORG
+3.49: CARDINAL
+4.0: CARDINAL
+Alpha Theta: ORG
+Mortar Board: ORG
+Alpha Sigma Lambda: ORG
+â€¢Mortar Board Chapter Historian: ORG
+Specialist of Infantry: ORG
+Sep 2002: DATE
+3,000,000: MONEY
+Bradley Infantry Fighting Vehicle: ORG
+Maintained: GPE
+M16: PERSON
+Army: ORG
+Fire and Maneuver: FAC
+24 hour: TIME
+Maintained: GPE
+Battalion Soldier: PERSON
+Medic Combat Life Saver Certified: ORG
+Ribbon: LOC
+Honorable Discharge (Form DD-214: ORG
+Jan 1998: DATE
+Mar 2000: DATE
+Data: ORG
+Processed: GPE
+Paul Ayres: PERSON
+916: CARDINAL
+212: CARDINAL
+Jan 1998: DATE
+8 to 12 Stock Associates: MONEY
+Managedstore: PERSON
+Setup: ORG
+Back to School: ORG
+Christmas: DATE
+Processed: GPE
+the Month: DATE
+Edward Knight: PERSON
+Mate: PERSON
+AD Mar 1988: DATE
+Mar 1996: DATE
+24,000,000: MONEY
+Facilitated: ORG
+State: ORG
+Maintained: GPE
+50: CARDINAL
+Professional Affiliations: ORG
+American Legion: ORG

@@ -1,0 +1,124 @@
+fifteen years: DATE
+IT Management and Technical Support: ORG
+Vision
+Network InfrastructureHardware: ORG
+Active Directory: WORK_OF_ART
+Adobe: PERSON
+Antivirus: GPE
+Backup Exec: PERSON
+Backup, Budget: ORG
+Cisco: GPE
+Hardware: ORG
+DAS: ORG
+Database: GPE
+Dell Servers: ORG
+Desktops, Documentation: ORG
+Firewall: PERSON
+ISO 9000: ORG
+Linux, Logistics,: ORG
+Mac: GPE
+MAC: ORG
+Microsoft: ORG
+Microsoft Exchange: ORG
+Microsoft ExchangeServer: ORG
+Microsoft Office Professional: ORG
+Microsoft Project: ORG
+Microsoft Visio
+Professional: ORG
+Windows: GPE
+NAS: ORG
+Network Attached Storage: PERSON
+Enterprise: ORG
+Printers: PERSON
+Networking: ORG
+Operating Systems: ORG
+PBX: ORG
+PCI: ORG
+Phone System: ORG
+Project Management: ORG
+QuickBooks Pro, Research, Robotic: ORG
+Storage Area Network: ORG
+SAN: ORG
+Microsoft: ORG
+SQL: PERSON
+Microsoft: ORG
+SQL Server: PERSON
+Symantec: ORG
+Troubleshooting, Visio Professional: ORG
+WAN: ORG
+Information Technology: ORG
+July 2000: DATE
+Current Company Name: ORG
+Capitol Budget: ORG
+maintenance agreements & service: ORG
+September 1998 to September 1999 City: DATE
+25: CARDINAL
+3: CARDINAL
+6: CARDINAL
+daily: DATE
+Managed Documentation Control: ORG
+Logistics: ORG
+daily: DATE
+Quality Assurance Supervisor: FAC
+April 1995 to March 1998: DATE
+15: CARDINAL
+8: CARDINAL
+Managed Documentation Control: ORG
+ISO 9000: ORG
+Bachelor of Science : Information System: ORG
+December 2000: DATE
+University of Phoenix Information System
+Information System Microsoft Certified Professional: ORG
+June 1999: DATE
+Associate of Science :: WORK_OF_ART
+June 1993: DATE
+American River College Computer Technology: ORG
+Analog: ORG
+VOIP: ORG
+40k: MONEY
+80%: PERCENT
+Hyper-V: ORG
+Skills
+Active Directory: ORG
+Adobe: PERSON
+Antivirus: GPE
+Backup Exec: PERSON
+Backup, Budget: ORG
+Cisco: GPE
+Hardware: ORG
+DAS: ORG
+Dell Servers: ORG
+Desktops, Documentation: ORG
+Firewall: GPE
+ISO 9000: ORG
+Linux, Logistics,: ORG
+Logistics and Management, Mac: ORG
+MAC: ORG
+Microsoft Certified Professional: ORG
+Microsoft Exchange: ORG
+Microsoft Office Professional: ORG
+Microsoft Project: ORG
+Microsoft: ORG
+SQL: ORG
+Microsoft Visio Professional: ORG
+Enterprise: ORG
+NAS: ORG
+Network Attached Storage: PERSON
+Network Printers: WORK_OF_ART
+Network: ORG
+Networking: ORG
+Operating Systems: ORG
+PBX: ORG
+PCI: ORG
+Phone System: ORG
+Project Management: ORG
+QuickBooks Pro, Research, Robotic: ORG
+Storage Area Network: ORG
+SAN: ORG
+Servers: PERSON
+Microsoft: ORG
+SQL: PERSON
+Server: GPE
+Troubleshooting: GPE
+Visio Professional: ORG
+WAN: ORG

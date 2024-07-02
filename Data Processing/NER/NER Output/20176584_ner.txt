@@ -1,0 +1,205 @@
+25 years: DATE
+P&L: ORG
+Skill Highlights
+
+: PERSON
+Project Management
+Performance/Metrics Management
+
+Supplier Management
+HACCP: ORG
+GMP Certification: ORG
+Lean Manufacturing: ORG
+Six-Sigma Champion
+Manufacturing Engineering
+Quality Systems Design: ORG
+SQF Practitioner: PERSON
+Bachelor of Science : Industrial Technology 1992: ORG
+Southern Illinois University City: ORG
+State: GPE
+USA: GPE
+1989: DATE
+State: GPE
+USA: GPE
+Better Process Control Certified
+
+: ORG
+35%: PERCENT
+Trifecta Foods
+
+: ORG
+KPI: ORG
+Lotus Pet Foods: ORG
+37%: PERCENT
+annual: DATE
+15%: PERCENT
+Lotus Pet Foods Inc.: ORG
+39%: PERCENT
+4-year: DATE
+Lean Manufacturing: ORG
+SPC: ORG
+Quality Systems Program: ORG
+Pacific Fabric Reels Inc.: ORG
+the United States: GPE
+$200 billion: MONEY
+USAF: ORG
+over 1 million gallons: QUANTITY
+Supplier Management Â 
+
+â€¢Designed: ORG
+over $500: MONEY
+Trifecta Foods: ORG
+98%: PERCENT
+Lotus Pet Foods: ORG
+99%: PERCENT
+Albanese
+Confectionery Group: ORG
+Pacific Fabric Reels: ORG
+5%: PERCENT
+JIT: NORP
+99%: PERCENT
+Quality Enhancement: ORG
+3: CARDINAL
+Food Manufacturing: ORG
+SQF Level II Certification: EVENT
+Quality
+Systems: ORG
+Quality Policies: ORG
+Directives, Food Defense Programs: ORG
+GMP: ORG
+the ISO 9001 Registration and Compliance Team: ORG
+the MRP/ERP Implementation Team: ORG
+Quality Assurance System: ORG
+ISO Certification: ORG
+Carleton Technologies: ORG
+Quality System: ORG
+ISO 9001: ORG
+Pacific
+Fabric Reels: ORG
+Certified Operator Programs: WORK_OF_ART
+â€¢Conceived: CARDINAL
+Standard Operating Procedures: ORG
+Quality Control, Sanitation: ORG
+Warehouse/Distribution Center and Production/Manufacturing: ORG
+â€¢ Recognized by the United States Air Force: WORK_OF_ART
+MX: PRODUCT
+Continuous Improvement Management Â: ORG
+Lotus Pet Foods: ORG
+$1 Million dollars: MONEY
+2: CARDINAL
+2: CARDINAL
+Departments: ORG
+99.3%: PERCENT
+Quality Shipments: ORG
+98.9%: PERCENT
+Master Training Plan: WORK_OF_ART
+less than 1%: PERCENT
+Multiwall Packaging: ORG
+Lean and Six Sigma: WORK_OF_ART
+over 35%: PERCENT
+21%: PERCENT
+60%: PERCENT
+less than 0.5%: PERCENT
+100%: PERCENT
+Pacific Fabric Reels: FAC
+Lean Manufacturing: ORG
+Continuous Improvement Teams: ORG
+SCI: ORG
+$21
+million: MONEY
+$38 million: MONEY
+28%: PERCENT
+$3 million: MONEY
+12%: PERCENT
+Lean/Sigma: ORG
+first 3 months: DATE
+31%: PERCENT
+16%: PERCENT
+50%: PERCENT
+ISO Quality System: ORG
+Multiwall: GPE
+State: ORG
+Operational Management: ORG
+Operations: ORG
+Quality Assurance 08/2013: ORG
+12/2013: CARDINAL
+Name City: GPE
+the Plant Operations: ORG
+P&L: ORG
+MRP/ERP: ORG
+Inventory Control, Materials Management: ORG
+Supply Chain Management: ORG
+Traffic/Logistics: ORG
+Warehouse Order Fulfillment, Human Resources: ORG
+Shipping/Receiving, Project Management, Research
+and: ORG
+Development, Plant Engineering: ORG
+Maintenance, Operations Administration: ORG
+Safety, HACCP Team, Global Food Safety Initiative SQF: ORG
+Level II: PERSON
+Name City: GPE
+the Plant Operations: ORG
+P&L: ORG
+MRP/ERP: ORG
+Warehouse Management System: ORG
+Traffic/Logistics: ORG
+Warehouse Order Fulfillment: ORG
+Shipping/Receiving, Project Management, Research: ORG
+Maintenance, Operations Administration: ORG
+Safety, HACCP Team, Global Food Safety Initiative: ORG
+Name City: GPE
+the Operations Team: ORG
+Production Scheduling: ORG
+MRP/ERP: ORG
+200: CARDINAL
+Warehouse Management System: ORG
+Traffic/Logistics: ORG
+Warehouse Order Fulfillment: ORG
+Shipping/Receiving, Project Management, Research and Development, Engineering: ORG
+Operations Administration: ORG
+Safety, HACCP Team, Global Food Safety Initiative: ORG
+Name City: GPE
+10/2009: CARDINAL
+Name City: GPE
+P&L: ORG
+Quality Assurance: ORG
+Project Management, Research and Development, Engineering: ORG
+Strategic Planning: ORG
+Policy: PERSON
+Mergers and Acquisitions, Forecasting: WORK_OF_ART
+New Product Introduction: ORG
+NPI: ORG
+New Product Development: ORG
+NPD: ORG
+Strategic Planning: ORG
+Name City: GPE
+Manufacturing Operations: ORG
+P&L: ORG
+Production Control, Materials Management: ORG
+Traffic/Logistics: ORG
+Shipping/Receiving: ORG
+Project Management, Human Resources: ORG
+04/2000: CARDINAL
+Name City: GPE
+Maintenance, Training,: ORG
+Quality Assurance: GPE
+ISO: ORG
+Project
+Management: ORG
+Shipping/Receiving: ORG
+Customer Service: ORG
+Name City: GPE
+Warehouse/Distribution, Receiving, Purchasing, Training: ORG
+Machinists: NORP
+Project Management: ORG
+Manufacturing Engineering: ORG
+Research and Development, Planning/Scheduling: ORG
+P&L: ORG
+Maintenance: PERSON
+Customer Service: ORG
+Project Management, Purchasing, Marketing, Logistics and Quality Assurance: ORG
+Name City: GPE
+80: CARDINAL
+11: CARDINAL
+11/1989: DATE
+Name City: GPE

@@ -1,0 +1,40 @@
+15 years: DATE
+4: CARDINAL
+Inventory: ORG
+Utilized: ORG
+15: CARDINAL
+each night: TIME
+20k per week: DATE
+Beverage: ORG
+Name City: GPE
+State Chef and Restaurant: ORG
+12/2007: CARDINAL
+Name City: GPE
+State Chef and Restaurant: ORG
+12/2007: CARDINAL
+17%: PERCENT
+two-year: DATE
+Name City: GPE
+State Chef: ORG
+Sous Chef 02/2001: PERSON
+Established: ORG
+daily: DATE
+Name City: GPE
+State Chef: ORG
+Sous Chef 02/2001: PERSON
+Established: ORG
+daily: DATE
+Associate of Arts: ORG
+Pennsylvania Culinary Institute: ORG
+City: GPE
+State: GPE
+USA: GPE
+10 %: PERCENT
+98: CARDINAL
+State: ORG
+USA Business
+Skills
+
+Account Management
+Project Management
+Computer Proficient: ORG

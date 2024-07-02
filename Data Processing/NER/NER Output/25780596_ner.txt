@@ -1,0 +1,45 @@
+BRANCH: ORG
+Expertise: GPE
+Microsoft Office Suite: ORG
+April 1973 to June 2000: DATE
+Alvernia College and Reading Area
+Community College: ORG
+15+ years: DATE
+Fleetwood Bible Church: ORG
+500,000: MONEY
+annual: DATE
+Excel: PRODUCT
+Word: PERSON
+Excel: PRODUCT
+26 years: DATE
+PMI: ORG
+monitored bank's: ORG
+January 2007 to January 2015: DATE
+Arbitration Forums: ORG
+monthly: DATE
+27: CARDINAL
+Surpassed: ORG
+59%: PERCENT
+55%: PERCENT
+Provide: NORP
+May 2005 to March 2007: DATE
+State: ORG
+seven: CARDINAL
+one: CARDINAL
+weekly: DATE
+monthly: DATE
+April 2002: DATE
+May 2005: DATE
+April 2001 to April 2002: DATE
+daily: DATE
+daily: DATE
+Bachelor of Arts : Psychology: ORG
+1973: DATE
+Kutztown University: ORG
+ï¼​ City: GPE
+State: GPE
+Florida: GPE
+Florida: GPE
+Arbitration: ORG
+Excel: PRODUCT
+Word: PERSON

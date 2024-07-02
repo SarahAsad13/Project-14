@@ -1,0 +1,42 @@
+Professional Summary
+Skills
+
+Administrative
+Administrative: ORG
+Budget
+Business operations
+Clients
+Customer: ORG
+Fashion
+Inventory
+Logistics: ORG
+03/2015: ORG
+11/2020: CARDINAL
+Drunk Elephant: ORG
+daily: DATE
+QVC: ORG
+QVC: ORG
+03/2015: GPE
+08/2012: CARDINAL
+two: CARDINAL
+Facilitated: ORG
+60: CARDINAL
+over $85k: MONEY
+Bachelor of Arts : Business Administration: ORG
+California State University - City: ORG
+03/2015: ORG
+11/2020: CARDINAL
+Drunk Elephant: ORG
+daily: DATE
+QVC: ORG
+QVC: ORG
+two: CARDINAL
+Facilitated: ORG
+60: CARDINAL
+over $85k: MONEY
+Collaborated: ORG
+03/2015: GPE
+08/2012: CARDINAL
+Skills
+
+Administrative: ORG

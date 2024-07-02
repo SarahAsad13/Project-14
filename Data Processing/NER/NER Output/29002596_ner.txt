@@ -1,0 +1,66 @@
+DIRECTOR: ORG
+Skill Highlights: PERSON
+Digital, Social: ORG
+Global Digital Marketing 01/2014: ORG
+first: ORDINAL
+Marketo: GPE
+12: CARDINAL
+day: DATE
+Boosted: ORG
+8%: PERCENT
+Interactive Marketing 04/2013 to 12/2013: ORG
+Name City: GPE
+50%: PERCENT
+five: CARDINAL
+Marketing Communications 03/2011: ORG
+04/2013: CARDINAL
+Name City: GPE
+10: CARDINAL
+1M.: MONEY
+Packaging Industry Marketing 01/2009: ORG
+Name City: GPE
+Applications Marketing: ORG
+Name City: GPE
+50: CARDINAL
+four months: DATE
+90%: PERCENT
+Healthcare & Retail Industry Marketing: ORG
+Name City: GPE
+2.2%: PERCENT
+Healthcare: ORG
+6%: PERCENT
+Retail: GPE
+44%: PERCENT
+Finance & Accounting Services Marketing: ORG
+Name City: GPE
+two: CARDINAL
+01/2003 Company Name City: ORG
+1: MONEY
+2001: DATE
+2002: DATE
+Name City: GPE
+07/2000: CARDINAL
+11/2000: CARDINAL
+Name City: GPE
+Retail Multi: PERSON
+Product Marketing Manager 08/1998 to 07/2000: WORK_OF_ART
+Name City: GPE
+Name City: GPE
+US: GPE
+237%: PERCENT
+1997: DATE
+Customer Interface Engineer for Color Products 03/1995: ORG
+Name City: GPE
+Created: ORG
+Network Engineer: ORG
+Name City: GPE
+two: CARDINAL
+first: ORDINAL
+Xerox: ORG
+550k: MONEY
+annual: DATE
+Executive Development University: ORG
+Fairport Soccer Club - Team: WORK_OF_ART
+Fairport High School Girls Soccer: ORG
+Club - Team: ORG
+Lacrosse - Booster: PERSON

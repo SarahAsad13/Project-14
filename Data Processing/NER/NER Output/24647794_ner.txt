@@ -1,0 +1,108 @@
+Profile
+
+Proficient Entry Level Electrical Engineer: ORG
+US: GPE
+Embedded Hardware & Software: ORG
+Hardware & Software: ORG
+Digital: ORG
+Analog: ORG
+Digital Filter design| Reading Circuit Schematics| Circuit Design: ORG
+Analysis: PRODUCT
+Digital: ORG
+Power Systems Analysis: ORG
+Noise Cancelling: PERSON
+ANC: ORG
+Research and Development: ORG
+Solar PV: PRODUCT
+NationalElectric Code: ORG
+NEC: ORG
+Engineering
+Ethics|: PERSON
+Logistics: ORG
+MS Office: ORG
+MAC: ORG
+Matlab: NORP
+Simulink: PERSON
+Mathcad: ORG
+Verilog: PERSON
+Orcad: PERSON
+PowerWorld: ORG
+ETAP: ORG
+HelioScope: PERSON
+#: CARDINAL
+CAPSTONE: ORG
+Spring 2013 - spring: DATE
+4: CARDINAL
+3: CARDINAL
+SolidWorks: ORG
+Gained: NORP
+Competed: FAC
+2014: DATE
+Code Composer: PERSON
+UI: ORG
+Visual Basics Used: FAC
+Software: NORP
+NET: ORG
+Spring 2013 Â: DATE
+C6713 DSK: ORG
+Matlab: ORG
+Simulink: PERSON
+Laser Project Computer Systems: ORG
+Spring 2013 Â: DATE
+July 2015: DATE
+Active Noise Control: ORG
+ANC: ORG
+3: CARDINAL
+Passive Noise: FAC
+October 2014: DATE
+PowerWorld: ORG
+ETAP: ORG
+Performed Three-Phase Power Systems: PERSON
+September 2014 to August 2015: DATE
+3: CARDINAL
+2D: CARDINAL
+Spill Prevention: ORG
+SPCC: ORG
+Oil and Gas Production Facilities: ORG
+Training: GPE
+Oklahoma Christian University: ORG
+August 2015: DATE
+State Engineering Electrical Engineering: ORG
+Oklahoma Christian University: ORG
+April 2014 BSEE City: DATE
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+English: LANGUAGE
+French: NORP
+ten: CARDINAL
+4-year: DATE
+Oklahoma: GPE
+Christian University: ORG
+Technical Skills: PERSON
+3: CARDINAL
+Circuit Design: ORG
+Hardware: ORG
+Digital: ORG
+2: CARDINAL
+English: LANGUAGE
+Failure Analysis: ORG
+French: NORP
+Logistics: ORG
+MAC: ORG
+Mathcad: ORG
+Matlab: NORP
+#: CARDINAL
+MS
+Office: ORG
+Multimeters: GPE
+NEC: ORG
+Orcad, Oscilloscope,: ORG
+PSPICE, Research, Schematics: ORG
+Software: NORP
+Soldering, SolidWorks: ORG
+Power Systems Analysis: ORG
+Troubleshooting: GPE
+Verilog: PERSON
+MS Visual Studio: ORG

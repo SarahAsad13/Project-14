@@ -1,0 +1,185 @@
+34 years: DATE
+today: DATE
+Graphic Artist: ORG
+Elementary: PERSON
+Cody: GPE
+Wyoming: GPE
+Adobe Photoshop: WORK_OF_ART
+InDesign: ORG
+Dreamweaver, Illustrator: ORG
+Microsoft: ORG
+Excel: PRODUCT
+SHedrick Art & Design: ORG
+Networking with Arts Councils, Galleries: ORG
+Client: GPE
+Background & Experience ~~~ Product: ORG
+Approx: GPE
+20 years: DATE
+one: CARDINAL
+Commerce: ORG
+3 years: DATE
+Cody: GPE
+Wyoming: GPE
+7years: DATE
+300: CARDINAL
+over 30 years: DATE
+the Cody Parks: PERSON
+Raise Your Hand for Art: WORK_OF_ART
+Wyoming: GPE
+California: GPE
+Completed: ORG
+hundreds: CARDINAL
+Graphic Designer: PERSON
+more than 30 years: DATE
+30 years: DATE
+InDesign: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Dreamweaver
+
+Adept: ORG
+more than one: CARDINAL
+Microsoft Office: ORG
+Suite: PERSON
+Strong: PERSON
+Logo: PERSON
+Stationery: GPE
+Quick: ORG
+Menu: ORG
+Adobe InDesign: ORG
+Professional Associations
+
+Substitute Teaching: ORG
+2004-2011: DATE
+Wyoming Public School: ORG
+Park County School District: ORG
+Indimension, Inc.: ORG
+Asheville: GPE
+NC: GPE
+Pat O'Hara Brewing Co: PERSON
+Cody: PERSON
+WY: GPE
+Park County School District: ORG
+Cody: PERSON
+WY: GPE
+Park County Arts Council: ORG
+Cody: PERSON
+WY: GPE
+Cody Country Art League: ORG
+Cody: PERSON
+WY: GPE
+Cody: PERSON
+WY: GPE
+Gold Coast Marketing: ORG
+Ventura: GPE
+CA: GPE
+Irma Hotel: PERSON
+Cody: PERSON
+WY: GPE
+Fine Art Collectors: PERSON
+Jerry Russell: PERSON
+Gretchen Stark: PERSON
+Wapiti: ORG
+WY: GPE
+Jeri Gillett: PERSON
+Belfry: GPE
+MT: GPE
+Ty & Jamie Barhaug: ORG
+Powell: PERSON
+WY: ORG
+Dorothea Hartley: PERSON
+CA: ORG
+January 1995 to January 2014: DATE
+Name City: GPE
+January 2005 to October 2013: DATE
+Name City: GPE
+State Food and Beverage: ORG
+Food: GPE
+7 years: DATE
+January 1990 to April 1995: DATE
+Company Name City: LOC
+State: ORG
+Sea World: ORG
+Busch Gardens: LOC
+Harrah: PERSON
+Stratosphere: ORG
+MGM Grand: ORG
+Las Vegas: GPE
+July 1984 to June 1987: DATE
+Name City: GPE
+State: ORG
+Licensed Disney: PERSON
+Universal Studios: ORG
+Southern California: LOC
+Disney: ORG
+Mickey Mouse: PERSON
+Betty Boop: PERSON
+1985: DATE
+Colorado Institute of Art 
+City: ORG
+State: ORG
+USA Advertising Design: ORG
+Fine Art: PERSON
+Computer and Art Design: WORK_OF_ART
+Studio Art: GPE
+Visual Communication: ORG
+Graphic Design for Print Media: ORG
+Ventura College: ORG
+State: ORG
+USA Illustration & Cartooning: ORG
+Chris Martinez: PERSON
+Caricaturist: PERSON
+Northwest College: ORG
+State: GPE
+US History: PERSON
+Online Adult: PERSON
+Ventura College: ORG
+State: GPE
+US Computer Science
+
+Learned: ORG
+PC/Mac: ORG
+Microsoft: ORG
+Born Billings: PERSON
+Montana: GPE
+Feb 8, 1961: DATE
+5: CARDINAL
+American: NORP
+35 acre: QUANTITY
+Valid: PERSON
+US: GPE
+Wyoming: GPE
+Love: WORK_OF_ART
+Love: WORK_OF_ART
+Love: WORK_OF_ART
+Adobe Photoshop: PERSON
+InDesign: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Asheville: GPE
+NC: GPE
+Park County School District: ORG
+Cody: PERSON
+WY: GPE
+Park County Arts Council: ORG
+Cody: PERSON
+WY: GPE
+Cody Country Art League: ORG
+Cody: PERSON
+WY: GPE
+Cody: PERSON
+WY: GPE
+Gold Coast Marketing: ORG
+Ventura: GPE
+Jerry Russell: PERSON
+Gretchen Stark: PERSON
+Wapiti: ORG
+WY: GPE
+Jeri Gillett: PERSON
+Belfry: GPE
+MT: GPE
+Ty & Jamie Barhaug: ORG
+Powell: PERSON
+WY: ORG
+Dorothea Hartley: PERSON
+CA: ORG

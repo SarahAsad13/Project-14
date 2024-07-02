@@ -1,0 +1,50 @@
+First Aid: ORG
+BMI: ORG
+Customer: ORG
+BMI: ORG
+AED: ORG
+Organize: GPE
+Observe: LOC
+Evaluate: ORG
+Advise: ORG
+Teach: ORG
+11/2012: CARDINAL
+11/2012: CARDINAL
+10/2013: CARDINAL
+Keep: PERSON
+Signal: ORG
+Resolve: PERSON
+Compile: PRODUCT
+02/2013: CARDINAL
+Keep: ORG
+Refer: PRODUCT
+Recommend: ORG
+Compute: ORG
+Estimate: LOC
+Advise: PRODUCT
+Measure: ORG
+JAY M. ROBINSON: PERSON
+Weight
+Training: PERSON
+Competed: ORG
+Competed: ORG
+Track: GPE
+Dec 2015: DATE
+BELMONT ABBEY COLLEGE: ORG
+NORTH CAROLINA: GPE
+GPA: ORG
+GPA: ORG
+3.5: CARDINAL
+GPA: ORG
+3.5: CARDINAL
+NC UNITED: PERSON
+Jun 2013-Aug: PERSON
+Certifications
+Programming for Muscular Fitness: Machines Programming for Muscular Fitness: Free Weights Alternative Training Techniques: WORK_OF_ART
+AED: ORG
+FIRST: ORDINAL
+Skills: ORG
+CPR: ORG
+FIRST AID,: ORG
+Inventory, Exchange: ORG
+Research: ORG

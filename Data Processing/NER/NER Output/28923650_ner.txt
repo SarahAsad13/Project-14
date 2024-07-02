@@ -1,0 +1,78 @@
+Ph.D.: WORK_OF_ART
+1: CARDINAL
+MATLAB: ORG
+ABAQUS: NORP
+2: CARDINAL
+MATLAB: ORG
+ABAQUS Finite Element Analysis: ORG
+Central Hole Conducted: LOC
+MATLAB: PRODUCT
+the Anthropomorphic Control of Redundant Robot Arms Focused: ORG
+every-day: DATE
+Two: CARDINAL
+two: CARDINAL
+Solidworks: ORG
+IR: ORG
+MCU: ORG
+Delta II: LOC
+Launch Vehicle Conducted: ORG
+Delta-II: ORG
+Solidworks: ORG
+Metalworking Practice Learned: ORG
+CNC: ORG
+Electrical Engineering Practice: ORG
+1: CARDINAL
+Wang: ORG
+Y.: PERSON
+Artemiadis: NORP
+2013: CARDINAL
+Robotics & Automation: ORG
+2: CARDINAL
+Wang: ORG
+Y.,Mignolet: GPE
+IMAC-XXXIV Conference & Exposition: ORG
+Structural Dynamics: ORG
+State
+
+Research: ORG
+linear: ORG
+Thermal Engineering Intern 07/2011 to 08/2011 Company Name City
+
+Hands-on training: WORK_OF_ART
+AFRL-University Collaborative Center in Structure Sciences Cooperated: ORG
+the Air Force Center: ORG
+Varied: ORG
+01/2011 to 01/2013 City: DATE
+ASU: ORG
+Varied: ORG
+MATLAB: ORG
+Name City: GPE
+State: ORG
+Internal Combustion Engine: ORG
+Oversaw: GPE
+90: CARDINAL
+2016: DATE
+Arizona State University City: ORG
+GPA: ORG
+3.9/4.0: CARDINAL
+3.9/4.0: CARDINAL
+December 2013: DATE
+Arizona State University City: ORG
+GPA: ORG
+4.0/4.0: CARDINAL
+Mechanical Engineering: ORG
+GPA: ORG
+4.0/4.0: CARDINAL
+Skills
+Air Force: ORG
+ANSYS: PERSON
+CAD: ORG
+FORTRAN: ORG
+Materials: PRODUCT
+MATLAB: ORG
+Mechanical Design: ORG
+Microsoft Office: ORG
+Modeling: GPE
+Process Control, Research: ORG
+Solidworks: ORG
+Statistical Process Control: ORG

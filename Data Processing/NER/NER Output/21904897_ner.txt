@@ -1,0 +1,11 @@
+25+ years: DATE
+8+ years: DATE
+years: DATE
+State Line: ORG
+daily: DATE
+State Helped: ORG
+seasonal: DATE
+Chef/Owner Company Name: ORG
+05/1995: ORG
+Knowledge of Health and Safety: ORG
+Vermont: GPE

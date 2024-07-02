@@ -1,0 +1,89 @@
+Underwriting: GPE
+Quality Assurance: GPE
+Analyst: PERSON
+FHA: ORG
+DOS: ORG
+LPS: ORG
+MSP: ORG
+CREDCO: ORG
+RELS: ORG
+Microsoft: ORG
+Outlook: PERSON
+Excel: PRODUCT
+Powerpoint: PRODUCT
+SLOAD: ORG
+3  years: DATE
+Default  Servicing  *: ORG
+3  years: DATE
+Loss: PERSON
+Loss: PERSON
+7  years: DATE
+Processing/Mortgage  Banking: ORG
+3  years: DATE
+Underwriting/Lending  *: WORK_OF_ART
+3  years  : DATE
+3  years: DATE
+Compliance/Quality Assurance: ORG
+10+ years: DATE
+Loan Operations/ Operations: ORG
+3%: PERCENT
+Civil Relief Act: LAW
+LPS: ORG
+MSP: ORG
+Vendorscape: GPE
+Lenstar: ORG
+ResWare: ORG
+Lotus: ORG
+Name City: GPE
+monthly: DATE
+5%: PERCENT
+FHA: ORG
+Loss: PERSON
+Tax Returns: PERSON
+S-Corps: ORG
+Schedule C: ORG
+1120S: DATE
+K-1: PERSON
+LES Military: ORG
+W2: PERSON
+1099: DATE
+01/2010 Company Name City: EVENT
+State
+
+Mortgage Loan Operations: ORG
+5%: PERCENT
+50: CARDINAL
+F.H.A. & V.A.: ORG
+daily: DATE
+Loan Processor 04/2003 to 08/2008: ORG
+Name City: GPE
+30: CARDINAL
+daily: DATE
+Associate of Science : Business Administration Auburn University: ORG
+Montgomery City: GPE
+Loan Processor: ORG
+Processor, Ups: ORG
+Fha: PERSON
+Credit, File, Financial Statements: ORG
+Quality Control: ORG
+Tax Returns: PERSON
+Banking Loan: ORG
+Data
+Entry, Loan Operations: ORG
+Operations, Security, Cases, Clients, Mortgage Banking: ORG
+Fannie Mae: ORG
+Internal
+Audits: ORG
+Solutions: ORG
+Credit Analysis: ORG
+Detail: PERSON
+Excel: PRODUCT
+Fast Learner: PERSON
+Loan Closing: ORG
+Loss Mitigation: PERSON
+Microsoft Sharepoint: ORG
+Pipeline: ORG
+Powerpoint: PRODUCT
+Problem: PRODUCT
+Quality Assurance: GPE
+Word: PERSON

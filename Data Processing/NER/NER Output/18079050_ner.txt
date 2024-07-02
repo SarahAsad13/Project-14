@@ -1,0 +1,76 @@
+9-year: DATE
+Outlook: PERSON
+OneSource: ORG
+OneNote: ORG
+CorpTax: ORG
+Oracle: ORG
+PeopleSoft: ORG
+CCH: ORG
+BNA Excel - Pivot Tables: ORG
+VLookup: ORG
+July 2015 to September 2015: DATE
+Name City: GPE
+904: CARDINAL
+8858s: DATE
+Gather: ORG
+Assist: NORP
+March 2010 to January 2015: DATE
+Name City: GPE
+State: ORG
+U.S.: GPE
+Sec: ORG
+901: CARDINAL
+Sec: ORG
+904: CARDINAL
+U.S.: GPE
+U.S Form 5471: ORG
+70: CARDINAL
+quarterly: DATE
+OneNote: ORG
+80%: PERCENT
+Facilitated: ORG
+Monitored: ORG
+U.S.: GPE
+August 2005: DATE
+February 2010: DATE
+Name City: GPE
+Prepared: PERSON
+U.S.: GPE
+1118: DATE
+5471,8858: DATE
+U.S.: GPE
+1118: DATE
+Developed: ORG
+IRS: ORG
+Prepared Form 5713: WORK_OF_ART
+U.S.: GPE
+U.S.: GPE
+March 2004: DATE
+May 2005: DATE
+Name City: GPE
+State AR/AP: ORG
+Cashier
+
+: PERSON
+Proven: PERSON
+Verified: PERSON
+monthly: DATE
+daily: DATE
+daily: DATE
+May 2005: DATE
+Webster University: ORG
+State Finance: ORG
+M.B.A Finance: ORG
+2001: DATE
+Webster University: ORG
+2001: DATE
+Webster University 
+City: WORK_OF_ART
+Credit: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Microsoft: ORG
+Oracle: ORG
+PeopleSoft: ORG
+Pivot Tables: ORG
+Tax: PERSON

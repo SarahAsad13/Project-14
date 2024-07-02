@@ -1,0 +1,69 @@
+MORTGAGE GROUP OPERATIONS: ORG
+Highlights
+
+MS Office: ORG
+Reliable
+Strong: WORK_OF_ART
+BB&T: ORG
+the Regional Production Support Teams: ORG
+Appraisal: PERSON
+Construction Permanent: ORG
+Communicate: ORG
+Develop: ORG
+Coordinate: FAC
+UniFi: ORG
+Group Mortgage Managers: ORG
+BB&T: ORG
+Coordinate Small Business and Mortgage Cross Sell: ORG
+SAM: ORG
+Learning Center: FAC
+Home Mortgage Direct Mortgage Loan Counselor Company Name - City: ORG
+BB&T Mortgage: ORG
+Execute: ORG
+BB&T: ORG
+Assist Mortgage Loan Administration: ORG
+Execute: ORG
+BB&T Mortgage Strategies: ORG
+BB&T: ORG
+State: ORG
+Hogan: PERSON
+AFS, Blast, Credit Fulfillment: ORG
+Moody's: ORG
+PFA: ORG
+SeeMore Plus: PRODUCT
+Commercial Loan Documentation Specialist Company Name - City: ORG
+Loan: ORG
+Regional Business Banking Customers: ORG
+$2-$20 million: MONEY
+Regional Business Banking: ORG
+Banking Center: ORG
+Conducted: ORG
+quarterly: DATE
+yearly: DATE
+Developed: PRODUCT
+quarterly: DATE
+Generating: PERSON
+Prepared: PERSON
+75%: PERCENT
+one year: DATE
+Ranked 3rd: PERSON
+37: CARDINAL
+Employee Development / Training: ORG
+Senior Management: ORG
+CFPB: ORG
+2015: DATE
+CFPB: ORG
+Promoted to Mortgage Operations: ORG
+Home Mortgage Direct: ORG
+a year: DATE
+April 2003: DATE
+Dan Mohr Estate School - City: PERSON
+State: ORG
+2015: DATE
+Business Management Guilford College - City: ORG
+Non-Profit Management
+
+Skills
+
+Developing: ORG
+Unifi: ORG

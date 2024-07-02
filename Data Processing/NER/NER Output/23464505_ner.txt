@@ -1,0 +1,78 @@
+JAVA: PERSON
+Career Overview
+
+Developer: ORG
+SAN: ORG
+May 2015: DATE
+Wichita State University: ORG
+Science Computer Science GPA:: ORG
+GPA: ORG
+3.93/4: CARDINAL
+GPA: ORG
+3.92/4: CARDINAL
+May 2013: DATE
+GPA: ORG
+8.81/10: CARDINAL
+GPA: ORG
+8.81/10: CARDINAL
+Optimizing: GPE
+Agile Software: ORG
+Technical Skills
+
+Capable: ORG
+Server: NORP
+JSP: ORG
+J2EE technologies, Hibernate3.x,: ORG
+JPA: PERSON
+Spring 3.0: ORG
+2.0: CARDINAL
+EJB: ORG
+JMS: ORG
+SQL: PERSON
+Pl/SQL: ORG
+Client: GPE
+HTML5: ORG
+CSS: ORG
+Java Script: PERSON
+Jquery: PERSON
+SOAP: ORG
+Restful: ORG
+XML: ORG
+JSON: PERSON
+CUDA: ORG
+Data Structures: ORG
+SAN: ORG
+UNIX: ORG
+IOmeter: ORG
+Code Warrior: PERSON
+Visual Studio: ORG
+Arduino: ORG
+Oracle 11: LAW
+Code Blocks: PERSON
+NetApp: ORG
+Navicat: PERSON
+JConsole: ORG
+JBOSS: GPE
+Git
+
+Technical: ORG
+Linux: PERSON
+Parallel Apriori: PERSON
+Nvidia GPU Performance: FAC
+Apriori: ORG
+GPU: ORG
+GPU: ORG
+Hibernate: PERSON
+Oracle 11: LAW
+Java: PERSON
+06/2013 ï¼​ Current Company Name: ORG
+Leave Management System: ORG
+MVC: ORG
+Creating Single Page Application: ORG
+Conducted: ORG
+PCV: ORG
+daily: DATE
+Java: PERSON
+Graduate Research: ORG
+12/2013: CARDINAL
+NIAR: ORG

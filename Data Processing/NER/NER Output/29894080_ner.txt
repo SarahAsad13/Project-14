@@ -1,0 +1,173 @@
+Professional Summary
+Senior Construction Manager EPCM Safety/Mitigation: ORG
+JSA: PERSON
+Land Development, Infrastructure, Wet and Dry: ORG
+PGE/SCE: ORG
+Road Paving/Engineering: ORG
+Caltrans/Public Works: ORG
+Traffic
+Control: ORG
+years: DATE
+RFI: ORG
+RWO: ORG
+WO: ORG
+CO: ORG
+CPUC: ORG
+G.O. 95: FAC
+128: CARDINAL
+20: CARDINAL
+Fire Dept: PERSON
+up to $225M: MONEY
+200: CARDINAL
+Core Qualifications: ORG
+Microsoft Project: ORG
+SAP: ORG
+SRM: ORG
+BPC: LOC
+SCADA: ORG
+GIS: ORG
+Word: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+January 2002: DATE
+California: GPE
+U.S.: GPE
+Projects Completed: PG&E Projects: Electrical EGI/: ORG
+San Luis Obispo: PERSON
+CA: ORG
+Electrical Generating Interconnection, Substation: ORG
+SCADA: ORG
+EP: ORG
+EPC: ORG
+Transmission and Distribution: ORG
+SCADA: NORP
+California: GPE
+Los Padres: GPE
+4: CARDINAL
+Aera/Sturgeon Services Intl: ORG
+CA Management: ORG
+a Water Treatment Injection Plant: WORK_OF_ART
+Beldridge: GPE
+California: GPE
+Brinderson: PERSON
+Project: Commercial/ Industrial/ Public Works Bakersfield: ORG
+CA Management: ORG
+$225M: MONEY
+Energy Procurement and Production: ORG
+two: CARDINAL
+Lost Hills: GPE
+California: GPE
+Industrial/ Public: ORG
+Santa Fe Springs: GPE
+CA Management: ORG
+the Naval Facility: ORG
+Pearl Harbor Hawaii: FAC
+Bakersfield: GPE
+Wind Turbine Project: ORG
+The Los Angeles Department of Water and Power: ORG
+Residential/ Public Works Visalia: ORG
+CA Construction and Land Development: ORG
+the Central Valley: LOC
+RWO: ORG
+WO: ORG
+CO: ORG
+Coordinate: FAC
+City Building: ORG
+Fire Dept: ORG
+20: CARDINAL
+KBHome: PERSON
+Project: Residential/ Public Works Valencia: ORG
+CA Management: ORG
+Forward Planning: ORG
+City/County: GPE
+S.W.P.P.P.: NORP
+Bond: ORG
+Fire Dept: PERSON
+the Central Valley: LOC
+LA County: GPE
+Lundgren Management: ORG
+CA Managed: PERSON
+R.F.I.&rsquo;s: PERSON
+SWPPP: ORG
+Towbes Group: ORG
+Residential/ Public Works: ORG
+Santa Barbara: GPE
+CA Managed: PERSON
+R.F.I.&rsquo;s: PERSON
+S.W.P.P.P.: NORP
+January 2002: DATE
+California: GPE
+U.S.: GPE
+Projects Completed Continue: ORG
+Steton Construction: ORG
+CA: WORK_OF_ART
+Aerospace Corporation: ORG
+January 1997 to January 2002: DATE
+Residential/ Public Works Orange County: ORG
+CA Managed: PERSON
+RFI&rsquo;s: PERSON
+RWO: ORG
+WO: ORG
+CO: ORG
+Ventura: GPE
+L.A County: GPE
+1986&ndash: CARDINAL
+1997: DATE
+Projects Completed: ORG
+Texaco/Smith Construction: ORG
+Ecuador: GPE
+South America: LOC
+the Raptor Rain Forest Project: ORG
+$125: MONEY
+200: CARDINAL
+Refineries: ORG
+Southern California: LOC
+the Arco Clean Fuel Project: LAW
+Kasler Construction: ORG
+Project: Highway, Bridge/Underpass: ORG
+Santa Barbara: GPE
+CA Highway: FAC
+Coordinated: ORG
+FREEWAY: WORK_OF_ART
+CALTRANS: ORG
+the City of: GPE
+Santa Barbara: GPE
+Consolidated Concrete Structures: ORG
+Superintendent: PERSON
+CA Business Center Complex Development: ORG
+TILT: ORG
+M.S
+B.S :: ORG
+Petro/Civil Engineering University of Southern California: ORG
+USC: ORG
+State Petro/Civil Engineering: ORG
+Project Management: ORG
+SWPPP: ORG
+Air Pollution Control: ORG
+Safety Training: ORG
+40 hours: TIME
+First Aid and Safety
+Certifications: ORG
+ROTC: ORG
+C.O. Core Training: PERSON
+P.C.: GPE
+Spanish: LANGUAGE
+CA: ORG
+Ventura: GPE
+D.W.P: GPE
+First Aid: ORG
+GIS: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Microsoft: ORG
+Naval: GPE
+P.C.: GPE
+Pearl: GPE
+Procurement, Project Management: ORG
+RFI: ORG
+Safety, San,: ORG
+SAP: GPE
+SCADA: GPE
+Spanish: LANGUAGE
+Transmission: ORG

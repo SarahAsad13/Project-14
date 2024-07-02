@@ -1,0 +1,115 @@
+22 years: DATE
+Last 4 years: DATE
+167 million dollars: MONEY
+Waterfront Beach: GPE
+Orange County: GPE
+Executive Chef: ORG
+12/2003: DATE
+67: CARDINAL
+3: CARDINAL
+9: CARDINAL
+Boardwalk: ORG
+Henry: ORG
+2: CARDINAL
+1: CARDINAL
+over 51,000 square feet: QUANTITY
+Maintained: GPE
+under 11%: PERCENT
+26%: PERCENT
+daily: DATE
+up to 1000: CARDINAL
+Initiated: ORG
+Coordinated: ORG
+daily: DATE
+Oversaw: GPE
+Sous-Chef and Chef de Cuisine: ORG
+Health Department Standards: ORG
+Restaurant Chef / Executive: ORG
+30: CARDINAL
+California: GPE
+30: CARDINAL
+hourly: TIME
+Established: ORG
+Maintained: GPE
+daily: DATE
+weekly: DATE
+$3.5 million: MONEY
+annual: DATE
+Lead Cook: PERSON
+Prepared: PRODUCT
+every day: DATE
+Line Prep Cook: PERSON
+12/1999 to 12/2003: CARDINAL
+Maintained: GPE
+Prepared: PRODUCT
+more than 300: CARDINAL
+Classic French cooking Â: PRODUCT
+Cooked: PERSON
+Banquets: ORG
+Resource Management
+Food: ORG
+Budgeting: PERSON
+Detail: PERSON
+Purchasing
+Inventory: ORG
+Time: ORG
+Strong: PERSON
+Problem: PRODUCT
+Training
+Bachelor of Arts: PERSON
+1996: DATE
+ITHQ: ORG
+Institue d'hotelerie: ORG
+Quebec - City: GPE
+State: ORG
+Banquets: ORG
+Resource Management
+Food: ORG
+Budgeting: PERSON
+Detail: PERSON
+Purchasing
+Inventory: ORG
+Time: ORG
+Strong: PERSON
+Problem: PRODUCT
+12/2003: DATE
+67: CARDINAL
+3: CARDINAL
+9: CARDINAL
+Boardwalk: ORG
+Henry: ORG
+2: CARDINAL
+1: CARDINAL
+over 51,000 square feet: QUANTITY
+Maintained: GPE
+under 11%: PERCENT
+26%: PERCENT
+daily: DATE
+up to 1000: CARDINAL
+Initiated: ORG
+Coordinated: ORG
+daily: DATE
+Oversaw: GPE
+Sous-Chef and Chef de Cuisine: ORG
+Health Department Standards: ORG
+Restaurant Chef / Executive: ORG
+30: CARDINAL
+California: GPE
+30: CARDINAL
+hourly: TIME
+Established: ORG
+Maintained: GPE
+daily: DATE
+weekly: DATE
+$3.5 million: MONEY
+annual: DATE
+Lead Cook: PERSON
+Prepared: PRODUCT
+every day: DATE
+Line Prep Cook: PERSON
+12/1999 to 12/2003: CARDINAL
+Maintained: GPE
+Prepared: PRODUCT
+more than 300: CARDINAL
+Classic French cooking Â: PRODUCT
+Cooked: PERSON

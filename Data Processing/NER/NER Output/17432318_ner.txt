@@ -1,0 +1,69 @@
+DIGITAL: ORG
+Hootsuite: PERSON
+Twitter: PERSON
+Facebook, Instagram: ORG
+Mailchimp, Salesforce: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Adobe Creative Suite: PERSON
+Dreamweaver, Illustrator: ORG
+InDesign: ORG
+Marketing Plan Development: ORG
+Creative Thinking: ORG
+Special Events Planning: ORG
+Self-
+Starter
+Accomplishments: ORG
+2005-2010: DATE
+: Student Government Association (: ORG
+Royal Court: ORG
+Campus Mentoring
+Program: PERSON
+Activities & Events Board: ORG
+Omega Psi
+Phi: PERSON
+Charter Property & Casualty Insurance Underwriter Courses 2011-2013: ORG
+Statutory Accounting Achievements & Volunteering Honors: ORG
+Delaware State University: ORG
+Omega Psi Phi: PERSON
+Deans: NORP
+#1 collector: MONEY
+ACE Group Insurance - $: ORG
+580,448: MONEY
+187,191: MONEY
+ACE's Advantage: ORG
+Sisters Hugs Foundation: ORG
+January 2015: DATE
+Execute: ORG
+development &
+optimization: ORG
+January 2013 to January 2015: DATE
+InSpire
+Enterprise: ORG
+LLC InSpire Magazine: ORG
+InSpire Us Foundation: ORG
+ILEAD Institute: ORG
+InSpire Film: ORG
+10-15: CARDINAL
+January 2011 to January 2013: DATE
+ACE: ORG
+Early Career Development: ORG
+Analyze hundreds: FAC
+each month: DATE
+ACE: ORG
+monthly: DATE
+Heavily: GPE
+580,448: MONEY
+Delaware State University Business Management: ORG
+Illustrator, InDesign: ORG
+Marketing Plan Development: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Research: ORG
+Self-Starter: ORG

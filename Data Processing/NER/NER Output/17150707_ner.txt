@@ -1,0 +1,65 @@
+HRIS: PERSON
+Highlights
+Applaud: ORG
+Colleague: PERSON
+SAP: ORG
+ADP: ORG
+PeopleSoft: ORG
+Microsoft Office: ORG
+Aon/Hewitt HRIS Systems: ORG
+Shared Services: ORG
+September 2015: DATE
+HRIS: ORG
+PeopleSoft: ORG
+HRIS: PERSON
+Provide: NORP
+1: CARDINAL
+2: CARDINAL
+Mass Changes/ Reorganizations: ORG
+PeopleSoft Perform: ORG
+Complete: PERSON
+Correction Mode: PERSON
+PeopleSoft Support: ORG
+PeopleSoft Conduct: ORG
+Fulfill: ORG
+Maintain: PERSON
+January 2014 to February 2015: DATE
+University: ORG
+third: ORDINAL
+daily: DATE
+University: ORG
+Performing day: DATE
+Interpreting University: ORG
+HR Representatives: ORG
+Director Human Resources Benefits & Compensation: ORG
+HRIS Specialist: PERSON
+June 2012 to January 2014: DATE
+State
+
+Management of the College's: ORG
+the Human Resources Information System: ORG
+HRIS: ORG
+HRIS: ORG
+Oversee: ORG
+Specialist: PERSON
+December 2007 to July 2011 Company Name ï¼​ City: DATE
+annual: DATE
+EOI: ORG
+LOA: ORG
+annual: DATE
+Created: ORG
+annual: DATE
+Maintained: GPE
+Specialist: ORG
+November 2006 to December 2007: DATE
+Processed: GPE
+ï¼​ City: GPE
+State Business
+Skills: ORG
+ADP: ORG
+Documentation: ORG
+HRIS: ORG
+Human Resources: ORG
+Microsoft Office: ORG
+PeopleSoft: ORG
+SAP: ORG

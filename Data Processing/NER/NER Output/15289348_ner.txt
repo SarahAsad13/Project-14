@@ -1,0 +1,202 @@
+Ledger Reconciliation: PERSON
+Financial Reporting: ORG
+Team Management: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Formulas: PERSON
+Access Database Queries &: ORG
+Microsoft Office: ORG
+MS Word: PERSON
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+PeopleSoft: ORG
+- Queries &: ORG
+Oracle
+InfoLease for Lease and Financial Accounting: ORG
+CITConnect Research
+Internet Accounting: ORG
+Finance: ORG
+Tax Research - Lexis-Nexis: ORG
+CCH & RIA
+Tax Research: ORG
+FSI: ORG
+Printers & Scanners: WORK_OF_ART
+QuickBooks: ORG
+Working Knowledge of GAAP: WORK_OF_ART
+Complex: NORP
+Superior: ORG
+Accounting & Finance: ORG
+2001: DATE
+City: GPE
+State: GPE
+USA: GPE
+BBA - Accounting: ORG
+BBA - Finance: ORG
+CFP: ORG
+September 2011 to November 2014: DATE
+State: ORG
+Fixed Maintenance & Prepaid Maintenance GL Accounts
+
+Starting: ORG
+January 2014: DATE
+Fixed Pass-Through: ORG
+Prepaid Maintenance: PERSON
+Financial Adjustments: ORG
+GAO Variance Tool: PERSON
+Maintenance: PERSON
+GL: ORG
+Financial Adjustments: ORG
+the Fixed Maintenance Recs: ORG
+Oct. 2012: DATE
+2006: DATE
+2007: DATE
+2008: DATE
+2009: DATE
+2010: DATE
+2011: DATE
+Financial Adjustments/ Funding: ORG
+35,700.00: MONEY
+0: MONEY
+over $96,000.00 to $0.00: MONEY
+365 days: DATE
+163,000.00: MONEY
+25,000.00: MONEY
+2006-2011: DATE
+under 60 days: DATE
+the Bank Holding Company GL: ORG
+302,000.00: MONEY
+900.00: MONEY
+Bank: ORG
+111,000.00: MONEY
+under $ 25.00: MONEY
+under 60 days: DATE
+Voided: PERSON
+ACH: ORG
+CIT: ORG
+API: ORG
+GL: ORG
+â€¢Special: GPE
+3 months: DATE
+Corporate Accounting - Sales Tax Project: ORG
+Corporate Sales Tax: ORG
+Reconciled Fixed Maintenance Receivable: ORG
+Prepaid Maintenance Payables: PERSON
+Receivables &
+
+â€¢Reviewed: ORG
+Reconciled Fixed Maintenance Receivable: ORG
+Prepaid Maintenance Payables: PERSON
+Receivables &
+: ORG
+Managed Net Investment: ORG
+Property Tax Reserve Accounts: ORG
+Reserved Value Insurance: ORG
+Bank Holding Company and Bank: ORG
+US: GPE
+Researched: ORG
+Analyzed: PERSON
+Reconciled: DATE
+Bank Holding Company and Bank: ORG
+US: GPE
+Mexico Business Units: ORG
+month-end: DATE
+quarter-end: DATE
+year-end: DATE
+General Ledger: ORG
+Corporate Finance: ORG
+Created: ORG
+Established: ORG
+Pivot Tables: PERSON
+Formulas: PERSON
+Access Database Queries: ORG
+Outlook: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+PeopleSoft: ORG
+January 2011 to November 2010: DATE
+State: ORG
+Texas Unclaimed Property Penalty & Interest Assessment: ORG
+over $1.7 million: MONEY
+11: CARDINAL
+Texas: GPE
+$1.7 million: MONEY
+Unclaimed Property: ORG
+2 weeks earlier: DATE
+the previous year: DATE
+California: GPE
+Illinois: GPE
+Texas: GPE
+annual: DATE
+2010: DATE
+Contributed: ORG
+750 to 1000: CARDINAL
+2010: DATE
+7: CARDINAL
+multi-million dollar: MONEY
+â€œAâ€​: CARDINAL
+Treasury Department: ORG
+Oracle: ORG
+STAT: ORG
+FSI Track: ORG
+IMAGE Scanner: PERSON
+scan & scanned: ORG
+Utilized: ORG
+CCH: ORG
+Lexis-Nexis: PERSON
+Multi: GPE
+Unclaimed Property: ORG
+Accountant: PERSON
+September 2009 to December 2009: DATE
+Accounting: ORG
+Compilations and Reviews
+
+â€¢Tax preparation: ORG
+1040: DATE
+1120,1120S: DATE
+K-1: PRODUCT
+1065: DATE
+940: CARDINAL
+941: CARDINAL
+UCT-6: NORP
+monthly: DATE
+â€¢Payroll: NORP
+12: CARDINAL
+â€¢Monthly: DATE
+quarterly: DATE
+year-end: DATE
+12: CARDINAL
+3: CARDINAL
+G/L: ORG
+Financial
+Statement preparation
+
+: ORG
+Financial Advisor: WORK_OF_ART
+November 2003 to September 2009: DATE
+Life, Health & Variable Annuities License: ORG
+MBA: WORK_OF_ART
+CRPC: ORG
+CFP: ORG
+401k: PRODUCT
+HSA: ORG
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Formulas: PERSON
+Access Database Queries &: ORG
+Microsoft Office: ORG
+MS Word: PERSON
+Outlook: PERSON
+PowerPoint: ORG
+PeopleSoft: ORG
+- Queries &: ORG
+SharePoint: ORG
+InfoLease for Lease and Financial Accounting & CITConnect Research
+
+Internet Accounting, Finance: ORG
+Tax Research - Lexis-Nexis: ORG
+CCH & RIA Tax Research - STAT-: ORG
+Track - Ultra Tax - IMAGE Scanner -
+: PRODUCT
+Printers & Scanners: WORK_OF_ART

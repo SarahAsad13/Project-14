@@ -1,0 +1,81 @@
+SPEAKING &COMMUNICATIONS |PRODUCTION: ORG
+14+ years: DATE
+Skills
+
+MS Word: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Seven: CARDINAL
+Avid: PERSON
+Adobe Premiere: PERSON
+Adobe Premiere: PERSON
+Arabic: LANGUAGE
+English: LANGUAGE
+Hebrew
+Invoicing: WORK_OF_ART
+Magic
+Marketing: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+Camera
+Photography
+Presentations
+Pricing
+Processes
+Public relations
+Public: WORK_OF_ART
+Identify: ORG
+01/2010 to 07/2015: DATE
+Directed and Line Produced: ORG
+Filmed: PERSON
+Collaborated: ORG
+US: GPE
+Europe: LOC
+Newsroom Producers: ORG
+Newsroom Producers: ORG
+Education: ORG
+09/2016: PRODUCT
+New York Film Academy - City: ORG
+Identify: ORG
+01/2010 to 07/2015: DATE
+Directed and Line Produced: ORG
+Filmed: PERSON
+Collaborated: ORG
+US: GPE
+Europe: LOC
+Newsroom Producers: ORG
+English: LANGUAGE
+Arabic: LANGUAGE
+Hebrew: LANGUAGE
+French: NORP
+Skills: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Seven: CARDINAL
+Avid: PERSON
+Adobe Premiere: PERSON
+Adobe Premiere: PERSON
+Arabic: LANGUAGE
+Avid: GPE
+English: LANGUAGE
+French: NORP
+Hebrew: LANGUAGE
+Magic: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+MS Word: PERSON
+Video Production: ORG
+United Nations Associations Film Festival: ORG
+10th: ORDINAL
+Al-Jazeera International Film Festival: ORG
+Harlem International Film Festival Manhattan Film Festival NYACK Film Festival: EVENT
+The Yonkers Fest Film Festival: ORG
+Aloha Accolade Award: FAC
+Honolulu International Film Festival Humanity: EVENT
+The World's International
+Film Festival: ORG
+TWIFF: ORG
+Audience Award: PERSON

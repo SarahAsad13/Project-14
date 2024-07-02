@@ -1,0 +1,71 @@
+MARKETING & COMMUNICATIONS: ORG
+multi-million-dollar: MONEY
+Skill Highlights
+
+Persuasive: ORG
+Budgeting
+Project Planning & Execution: ORG
+YouTube: ORG
+Twitter: PERSON
+Facebook: GPE
+LinkedIn: GPE
+Instagram: GPE
+Vimeo: GPE
+Tumblr: GPE
+Principal: ORG
+Robert Redford's: PERSON
+Sundance TV: ORG
+12: CARDINAL
+millions of dollars: MONEY
+Disney: ORG
+â€​: CARDINAL
+â€​: PRODUCT
+Kenneth Branagh: PERSON
+Ang Lee: PERSON
+Anthony Minghella: PERSON
+Julia Roberts: PERSON
+Steven Spielberg: PERSON
+Spike Lee: PERSON
+Ridley Scott: PERSON
+Marketing & Communications Executive Company Name: ORG
+more than 100: CARDINAL
+up to $20 million: MONEY
+1+ million: MONEY
+Quincy Jones III's: PERSON
+Feel Rich: WORK_OF_ART
+more than 30: CARDINAL
+CNBC: ORG
+tens of thousands: CARDINAL
+75: CARDINAL
+100: CARDINAL
+Apple TV ESPN: ORG
+CNBC: ORG
+Warner Brothers: ORG
+Disney: ORG
+Universal Studios: ORG
+ESPN: ORG
+CNBC: ORG
+the History
+Channel: ORG
+Garnered: PERSON
+Magic Johnson: PERSON
+Dustin Hoffman: PERSON
+Matthew McConaughey: PERSON
+United States': GPE
+more than 200: CARDINAL
+40 Year Old: DATE
+Munich: PERSON
+American Gangster: WORK_OF_ART
+VOD: PERSON
+01/1995: GPE
+Marketing & Public Relations Company Name: ORG
+25: CARDINAL
+50: CARDINAL
+Oscar: PERSON
+Ang Lee's: PERSON
+Kenneth Branagh's: PERSON
+Oversaw: GPE
+American Gladiators: ORG
+Bachelor of Arts: ORG
+English: LANGUAGE
+UC: GPE

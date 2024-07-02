@@ -1,0 +1,50 @@
+Core Qualifications
+
+Excellent Communicator
+Problem Solver
+Highly Organized
+
+Influential Leader
+Metrics: ORG
+annual: DATE
+Implement Continent: ORG
+Ashley Home Store: ORG
+Researched: ORG
+Ecommerce: PRODUCT
+Google Analytics: ORG
+$32 million dollars: MONEY
+annual: DATE
+04/2012: CARDINAL
+annual: DATE
+$50 million dollars: MONEY
+annually: DATE
+Created: ORG
+monthly: DATE
+PowerPoint: ORG
+Buyer Company Name: PERSON
+$6 million dollars: MONEY
+Maintained: GPE
+Website Blog: PERSON
+04/2010
+
+Merchandiser Company Name: ORG
+$25 million dollars: MONEY
+annually: DATE
+Figured: ORG
+Created: ORG
+08/2003: CARDINAL
+Adobe Illustrator CS: WORK_OF_ART
+PDM: ORG
+Far East: LOC
+2009: DATE
+MBA : Business University of Phoenix ï¼​ City , State Business Administration: WORK_OF_ART
+2002: DATE
+Bachelor of Arts: ORG
+State: ORG
+2000: DATE
+City England: LOC
+Skills
+Branding: ORG
+Excel: PRODUCT
+Google Analytics: ORG
+PowerPoint: ORG

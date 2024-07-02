@@ -1,0 +1,87 @@
+BUSINESS DEVELOPMENT: ORG
+Professional Profile
+
+Highly: ORG
+more than 15 years: DATE
+Expert computing: PERSON
+Qualifications
+
+Inventory Management
+Leadership Development
+Risk Management
+Staff Development
+Project Management
+
+Accomplishments
+
+Managing Employees
+Marketing
+Team Building
+: ORG
+40%: PERCENT
+Cut: ORG
+20%: PERCENT
+year over year: DATE
+35%: PERCENT
+Improve: ORG
+20%: PERCENT
+3%: PERCENT
+annually: DATE
+Jan 2015: DATE
+Prospect: ORG
+Identify: ORG
+Arrange: NORP
+May 2006 to Dec 2014: DATE
+monthly: DATE
+May 1999: DATE
+May 2006: DATE
+Refer: NORP
+Investigate: ORG
+Identify: ORG
+Masters of Public Administration: ORG
+Budget and Public Finance: ORG
+2004-12-18: DATE
+Texas Tech University: ORG
+State: GPE
+US: GPE
+Policy Theory: ORG
+Public Personnel Administration: ORG
+Public Organization Theory: ORG
+Health Care Policy: ORG
+Public Financial
+Management: ORG
+Health Organization Management I & II: ORG
+Budgeting and Research Methods, Financial: ORG
+Managerial Accounting: ORG
+Foundations of Finance: ORG
+Operations Management: ORG
+B.A.: GPE
+General Studies,: ORG
+Business Management 2001-12-15: ORG
+Texas Tech University: ORG
+State: GPE
+US: GPE
+International Financial Management: ORG
+Credit Analysis: ORG
+Financial Statement Analysis: ORG
+Denison High School ï¼​ City: ORG
+State: GPE
+US: GPE
+10%: PERCENT
+American Society for Public Administration: ORG
+American Public Health Association: ORG
+TAAF Sports Management School
+
+Skills
+
+Leadership Development
+
+Project Management
+
+Budgeting
+
+Employee Management
+
+Operations Management
+
+Business Management: ORG

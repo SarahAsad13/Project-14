@@ -1,0 +1,75 @@
+15 years: DATE
+Associate Merchant 06/2015: PRODUCT
+17%: PERCENT
+936: MONEY
+2016: DATE
+10M+: MONEY
+SAP: GPE
+over $60M: MONEY
+Partnered with Inventory and Demand: ORG
+96%: PERCENT
+annual: DATE
+Merchandising: PERSON
+Buyer: PERSON
+Name City: GPE
+RFP/RFQ/: ORG
+the Re-Buyer: ORG
+over $30 million: MONEY
+Forecast: ORG
+Resolve: PERSON
+Home & Garden Showplace Product Merchant 02/2011: ORG
+06/2013 Company Name City: ORG
+300: CARDINAL
+over 350: CARDINAL
+4%: PERCENT
+2012: DATE
+$56 million: MONEY
+Value Gardens: PRODUCT
+more than 380: CARDINAL
+Name City: GPE
+over $65M: MONEY
+Patio Furniture: ORG
+over $16 million dollars: MONEY
+30%: PERCENT
+Revamped: PRODUCT
+Outdoor Living: ORG
+cor: ORG
+Buyer: PERSON
+the Marketing department: ORG
+Associate Buyer: PERSON
+Name City: GPE
+12.1%: PERCENT
+2003 to 2005: DATE
+Created a Grill: ORG
+Seasonal: DATE
+Created: ORG
+weekly: DATE
+monthly: DATE
+800: CARDINAL
+monthly: DATE
+weekly: DATE
+Communicated: ORG
+Awarded Buying Team of: ORG
+1998: DATE
+Hawaii: GPE
+Puerto
+Rico: GPE
+05/1996: PERSON
+Name City: GPE
+State: ORG
+Training
+B.S :: ORG
+Apparel University of Illinois: ORG
+Urbana-Champaign Marketing of Textiles: ORG
+Customer Service: ORG
+Forecasting: ORG
+Trends, Category Management,: ORG
+Negioation: GPE
+Vendor
+Management
+Microsoft Office Suite: ORG
+SAP: ORG
+PeopleSoft: ORG
+Problem-Solving: ORG
+Organizational Skills: PERSON
+Time Management: ORG

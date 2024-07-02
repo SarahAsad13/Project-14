@@ -1,0 +1,111 @@
+LAN/WAN: ORG
+Frame Relay: ORG
+TCP/IP: ORG
+IAVA Routers/Firewalls/Switches/Wi-Fi/VPN Network: ORG
+2 Technical Support Cable Systems Installer/Maintainer Imaging/Base: ORG
+Current TS-SCI Clearance: ORG
+VOIP Videoconferencing Technologies Network: ORG
+Server Administration Government Security Disaster Recovery/Backups
+Accomplishments Information Technology Deployed: ORG
+CPN: ORG
+LOS: ORG
+SPAWAR: ORG
+AFN: ORG
+LAN/WAN Architectures: ORG
+Active
+Directory: PRODUCT
+over 50: CARDINAL
+VOIP: ORG
+Windows 7: PRODUCT
+520: CARDINAL
+the Stuttgart Garrison Command Disaster Recovery/Backup: ORG
+Technical Support/Service: ORG
+3 years: DATE
+Microsoft: ORG
+Strong: PERSON
+Multiple: ORG
+Management Squad: ORG
+Strong: PERSON
+Information Technology Specialist Company Name
+Information Systems Specialist: ORG
+07/2011: CARDINAL
+Stuttgart: GPE
+Germany: GPE
+Information Assurance: ORG
+VOIP: ORG
+Maintained: GPE
+Deployed: PRODUCT
+Garrison: ORG
+several million dollars: MONEY
+Remedy / Exchange: ORG
+IP / Firewalls / VOIP /
+Remote Connectivity / Encryption / Netscreen / Cisco / Tier 2 Helpdesk: ORG
+Cable Installer: PERSON
+Army: ORG
+Stuttgart: GPE
+Germany: GPE
+6 months: DATE
+Africa: LOC
+5: CARDINAL
+6: DATE
+Maintained: GPE
+Fluke Cable Analyzers: ORG
+thousands of dollars: MONEY
+Fluke Networks Products: ORG
+11/2010: CARDINAL
+Name City: GPE
+the Defense Messaging Center: ORG
+Defense Messaging System: ORG
+DMS: ORG
+Headquarters: GPE
+United
+States: GPE
+European Command: ORG
+USEUCOM: ORG
+Department of Defense: ORG
+CP-XP: ORG
+AMHS: ORG
+DII Guard: ORG
+Certificate Workstations: ORG
+DMS: ORG
+NIPRNET: GPE
+the 52d Signal Battalion: ORG
+Network Operations: ORG
+over $100 million: MONEY
+Associate of Arts : Business Administration: ORG
+12 2014: DATE
+Business Administration: ORG
+Security+ Certified Certification /: ORG
+25 weeks: DATE
+US Army / Nov 2009 Information
+Technology Online Training: ORG
+223 hours: TIME
+US Army: ORG
+2009-Jan 2012: DATE
+32 hours: TIME
+June 2011: DATE
+40 hours: TIME
+2010: DATE
+Skills
+Army: ORG
+Basic, Cable: ORG
+5: CARDINAL
+Cisco, Encryption: ORG
+Customer Support: PERSON
+Firewalls: ORG
+FTP: ORG
+Information Technology: ORG
+Access, Exchange: ORG
+Windows 7: ORG
+Network: ORG
+Networks: ORG
+Oct, Organizational: ORG
+Strategic: PERSON
+TCP/IP, Technical Support: ORG
+VOIP: ORG
+Additional Information
+
+Awards: ORG
+United States Army National Defense Service Medal Global War On Terrorism Service Medal Army
+Service: ORG
+Coins of Excellent: ORG

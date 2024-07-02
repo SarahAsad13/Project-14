@@ -1,0 +1,140 @@
+over 40 years: DATE
+Paramedic: PERSON
+Nurse: GPE
+Home Health: ORG
+Educator: PERSON
+Regulator: ORG
+two: CARDINAL
+Travel Nurse: PERSON
+2003 and 2005: DATE
+ED: PERSON
+Sarah Bush: PERSON
+Lincoln Healthcare: ORG
+Mattoon: GPE
+Illinois: GPE
+Illinois ED: ORG
+Agostini and Associates, Travel Nurse: ORG
+2004)-ED: CARDINAL
+Mercy Merced Medical Center: ORG
+Merced: ORG
+California: GPE
+Provena Covenant Medical Center: ORG
+ED Nurse: PERSON
+2002-2004: DATE
+Performed: ORG
+ED ED Staff Nurse: ORG
+2001-2002: DATE
+two: CARDINAL
+400: CARDINAL
+200: CARDINAL
+Psychiatric: ORG
+ED Nurse: PERSON
+Supervisor: PERSON
+ED Registry: ORG
+1976 - 1998: DATE
+Daley: PERSON
+EMS/Education/Human
+Resources and National Affairs: ORG
+1975: DATE
+Specialized Critical Care Transport: ORG
+Nurse Teams: ORG
+Grew: PERSON
+150: CARDINAL
+1000: CARDINAL
+1000: CARDINAL
+OSHA: ORG
+CQI: ORG
+Board of Directors: ORG
+15 years: DATE
+the American Ambulance Association: ORG
+AAA) Board of Directors: ORG
+the National Registry of EMTs: ORG
+Porter Memorial Hospital: FAC
+EMS: ORG
+1982 - 1985: DATE
+EMS: ORG
+EMS: ORG
+Paramedic: PERSON
+EMT: ORG
+Popular: NORP
+Policy: PERSON
+CQI: ORG
+Fire Departments: PERSON
+Crete: ORG
+Glenwood: ORG
+Cornbelt Fire Departments: PERSON
+between 1974 and 2005: DATE
+Firefighter/Paramedic/Diver Career: ORG
+D.B.: NORP
+Diane Petit Authored: PERSON
+American Ambulance Association: ORG
+AAA) Board: ORG
+AAA: ORG
+1999: DATE
+Appointed: ORG
+the Illinois Department of Public Health: ORG
+EMS: ORG
+Trauma Advisory Committee(s: PERSON
+Special Critical Care Transport: ORG
+Nurse Teams: ORG
+HBV/PPD: ORG
+IDPH: ORG
+the University of
+Chicago: ORG
+EMS: ORG
+Medicare: ORG
+AAA: ORG
+January 1999: DATE
+Current Consultant 
+
+Operations: ORG
+OSHA: ORG
+Startup EMS: ORG
+January 2010: DATE
+Provided Home Health: ORG
+April 2014 to July 2014: DATE
+Mercy Home Health: ORG
+Oklahoma City: GPE
+Illinois Department of Public Health: ORG
+Response: ORG
+January 2005 to January 2009: DATE
+Trauma Centers: ORG
+EMS: ORG
+Emergency Department: ORG
+EMS: ORG
+ED: PERSON
+Response for Hospitals: ORG
+EMS: ORG
+Governors State University Masters : Health Administration Health Administration: ORG
+Valparaiso University: ORG
+BSN: ORG
+Prairie State College: ORG
+1 1978: DATE
+1 1975: DATE
+D.B. Petit: PERSON
+Diane Petit Ambulance Industry Journal: ORG
+AAA The Insider: ORG
+JEMS Communication Human Resource Manual: ORG
+AAA Medicare Documentation: ORG
+AAA Expanded
+Scope of Practice Manual: ORG
+AAA Certifications: ORG
+Advanced Cardiac Life Support Emergency Communications RN: ORG
+Illinois
+National Incident Management System: ORG
+Certificate Pediatric Education for Prehospital Professionals: ORG
+CPR Certification MTI: ORG
+Management Training Institute: ORG
+Texas A & M: ORG
+AAA
+Paramedic: ORG
+1975: DATE
+Skills
+Ambulance: ORG
+CPR, Documentation, Human Resource: ORG
+Management Training: ORG
+Nursing: GPE
+Publications: GPE
+Radio: ORG
+Staffing, Supervision: ORG
+Technician: NORP

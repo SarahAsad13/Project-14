@@ -1,0 +1,145 @@
+Process: PRODUCT
+System Applications: WORK_OF_ART
+Microsoft Office: ORG
+English: LANGUAGE
+Portuguese: NORP
+Detail: PERSON
+Name City: GPE
+State: ORG
+HRIS - Business Analyst: ORG
+Prepare Business Requirement Documents: ORG
+PMO: ORG
+Document: FAC
+quarterly: DATE
+US: GPE
+Investigate: GPE
+Request: ORG
+COE: ORG
+Front Office: ORG
+Americas: LOC
+the monthly Department of Labor: ORG
+Create: ORG
+GBS People Analytics India's: ORG
+US Front Office: ORG
+GBS India: ORG
+Americas Region Center of Excellence: ORG
+Name City: GPE
+HRIS: ORG
+daily: DATE
+troubleshootingÂ 
+Provided expertise: PERSON
+HRIS: PERSON
+Acted: ORG
+HRIS: PERSON
+Coordinated: ORG
+US: GPE
+Acted: ORG
+the Master Data: ORG
+ERP: ORG
+ADP: ORG
+Affordable Care Act: LAW
+ERP: ORG
+HRIS Master Data Team Lead: ORG
+02/2014 Company Name City: ORG
+State: ORG
+â€¢ Monitored: PRODUCT
+â€¢ Responsible: WORK_OF_ART
+ADP: ORG
+HRIS: ORG
+requirements.â€‹: ORG
+â€¢ Ran: PRODUCT
+SAP: GPE
+â€¢ Created: PRODUCT
+â€¢ Created: PRODUCT
+monthly: DATE
+quarterly: DATE
+â€¢ Designed: PRODUCT
+â€¢: PRODUCT
+US: GPE
+Workers Comp: ORG
+Canadian: NORP
+Organization Management and Personnel Administration: ORG
+Global System: ORG
+SAP Timekeeping Analyst 05/2009: ORG
+11/2010: CARDINAL
+Name City: GPE
+Time: ORG
+Processed: GPE
+Employees Services: ORG
+47: CARDINAL
+9,500: CARDINAL
+around 1,000: CARDINAL
+Access and Excel: ORG
+Name City: GPE
+SAP HCM: ORG
+Canada: GPE
+Human Resources Shared Services: ORG
+year-end: DATE
+Collaborated with Information Systems: ORG
+Finance: ORG
+Canada: GPE
+US Payroll and Human Resources Business: ORG
+Sarbanes-Oxley: PERSON
+Information Systems: ORG
+Performed: ORG
+Canada: GPE
+US: GPE
+Information Systems: ORG
+Acted: ORG
+Human Resources and Information System: ORG
+SAP
+HCM Compensation: ORG
+Canadian: NORP
+European Expat: ORG
+US Payroll Year End: EVENT
+SAP: ORG
+Human Resources Shared Services: ORG
+Human
+Resources Shared Services: ORG
+Articulated: ORG
+Human Resources
+Analyzed: ORG
+Canada: GPE
+US Payroll: ORG
+Quality Assurance: ORG
+Created: ORG
+Adhoc: ORG
+Human Resources Shared Services: ORG
+Internal and External Auditors per Sarbanes-Oxley: ORG
+Transferred 60: PRODUCT
+Quality Assurance: ORG
+Quality Assurance: ORG
+Asia: LOC
+Europe: LOC
+Canada: GPE
+US: GPE
+SAP: GPE
+DARE: ORG
+Developed 75: PRODUCT
+2008: DATE
+2009: DATE
+Benefits Annual Enrollment: ORG
+2008: DATE
+2009: DATE
+US: GPE
+Canada: GPE
+Canadian: NORP
+Payroll: ORG
+HR Shared: ORG
+BBA :: ORG
+May 2009: DATE
+Campbell University City: ORG
+State: GPE
+US: GPE
+Portuguese: NORP
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills
+Advanced Excel: ORG
+Visio: PERSON
+VBA: ORG
+SAP HCM: ORG
+Success Factors (Compensation: ORG
+Microsoft Project Management: ORG
+Smartsheet, Panaya,: FAC
+SilkRoad - Red Carpet: ORG

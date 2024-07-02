@@ -1,0 +1,55 @@
+Accurate: ORG
+Complex: NORP
+Strong: PERSON
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+95%: PERCENT
+just 3 months: DATE
+85%: PERCENT
+Prepare: ORG
+CRX: ORG
+SAP: ORG
+Respond: PERSON
+August 2011 to May 2014: DATE
+HSA: ORG
+Assist: NORP
+HSA: ORG
+Respond: PERSON
+monthly: DATE
+February 2007 to August 2011 Company Name ï¼​ City: DATE
+Conducted: ORG
+Collaborated: ORG
+the Review Department: ORG
+Reviewers: ORG
+weekly: DATE
+Document: FAC
+February 2007 to April 2007: DATE
+November 2004 to February 2007: DATE
+1,000: CARDINAL
+monthly: DATE
+Review/Reconcile: ORG
+Researched: ORG
+monthly: DATE
+November 1999 to November 2004: DATE
+daily: DATE
+2012: DATE
+Cecil County Community College: ORG
+Performing Payroll: WORK_OF_ART
+2009: DATE
+2012: DATE
+Cecil County Community College: ORG
+2011: DATE
+Wilmington University: ORG
+ï¼​ City: GPE
+State: ORG
+New Castle County: GPE
+Call Center: ORG
+Critical Thinking: ORG
+Financial: ORG
+Team Lead: PERSON
+MS Office Suites, Payroll: ORG
+Quality Assurance: ORG
+QuickBooks: ORG
+Risk Management: ORG
+SAP: ORG

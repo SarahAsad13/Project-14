@@ -1,0 +1,71 @@
+Insurance: GPE
+Healthcare: ORG
+Project Management: ORG
+Highlights: GPE
+Healthcare & Long: ORG
+Name City: GPE
+Lean, Agile, Six Sigma: WORK_OF_ART
+Project Management: ORG
+Business management methodology & procedure development
+Business: ORG
+SOX: ORG
+HIPPA: ORG
+Fair Credit Act: ORG
+Developed: PRODUCT
+$6 million: MONEY
+Drafted: ORG
+Minimized: PERSON
+State: ORG
+Federal Insurance: ORG
+HIPPA: ORG
+Privacy Act: PRODUCT
+OSHA: ORG
+Operations: ORG
+Affordable Health Care
+Act: WORK_OF_ART
+Oversaw: GPE
+Communicated: ORG
+Name City: GPE
+State Consultant 09/2011: ORG
+Retail and Service: ORG
+Name City: GPE
+State: ORG
+10/2013: CARDINAL
+over 16%: PERCENT
+HIPPA: ORG
+Fair Credit Act: ORG
+State: ORG
+Provided Insurance and Risk Management: ORG
+Med Supps: PERSON
+Affordable Care Act: LAW
+P&L: ORG
+Complied: PERSON
+Maintained: GPE
+the property & casualty and life and health book of business: ORG
+ISO: ORG
+Professional Liability: ORG
+monthly: DATE
+Project Management: ORG
+CA Workers Compensation Claims Adjuster
+Certification: ORG
+WCCA: ORG
+WCCP: ORG
+AIC: ORG
+AIC-M Coursework: ORG
+Six: CARDINAL
+Project Management: ORG
+Quality Management and Regulatory Compliance/Auditing
+Designation/Certification :: ORG
+CIC: ORG
+License : Property and Casualty & Life/Health/Annuities Insurance: ORG
+Insurance and Risk Management Indiana State University: ORG
+Agile: ORG
+CA: ORG
+Counselor, Credit: ORG
+ISO: ORG
+Mergers: PRODUCT
+Progress: ORG
+Project Management: ORG
+Retail, Risk Management: ORG
+San: LOC
+Six: CARDINAL

@@ -1,0 +1,30 @@
+over $150,00 dollars: MONEY
+3 years: DATE
+Works: PERSON
+Works: PERSON
+Personal Trainer: PERSON
+one: CARDINAL
+Oversee: ORG
+Forecast: ORG
+Consult: ORG
+Maintain: PRODUCT
+Maintain: PRODUCT
+09/2013: CARDINAL
+Prepared: PERSON
+weekly: DATE
+Fitness Trainers: ORG
+monthly: DATE
+day: DATE
+Schedule: PERSON
+Master Trainer: PERSON
+daily: DATE
+Recruited: PRODUCT
+Coordinated: PRODUCT
+Maintained: GPE
+Personal Trainer: PERSON
+Bachelor of Science : Exercise Science and Human Performance: ORG
+1 2008: DATE
+Mesabi Range Community College: ORG
+Buena Vista University: ORG
+ï¼​ City: GPE
+Skills: ORG

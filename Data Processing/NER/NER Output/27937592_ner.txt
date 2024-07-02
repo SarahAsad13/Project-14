@@ -1,0 +1,43 @@
+BUSINESS LEADER & SALES: ORG
+Collaborative Management / Business Strategy / New Business Development An: ORG
+Highlights: GPE
+Articulate: ORG
+the Month: DATE
+CAS Certification: ORG
+Promotional Products Industry: ORG
+New Business Development Â afterÂ  : ORG
+months: DATE
+State: ORG
+50%: PERCENT
+2014 to 2015: DATE
+2: CARDINAL
+Champion: ORG
+Lootfest: ORG
+300: CARDINAL
+2: CARDINAL
+Train: GPE
+10,000: MONEY
+monthly: DATE
+10%: PERCENT
+each year: DATE
+10: CARDINAL
+each month: DATE
+Maintained: GPE
+30%: PERCENT
+95%: PERCENT
+Ran: PERSON
+20%: PERCENT
+quarterly: DATE
+Education: ORG
+ROSE STATE COLLEGE: ORG
+City: GPE
+State Taken Business and Marketing Classes: ORG
+State Advertising & Public Relations: ORG
+PPAI - Industry Specific Program: ORG
+Business, Marketing & Sales: ORG
+November 2015: DATE
+Skills: ORG
+Customer Relationship Management: ORG
+Marketing & Sales: ORG
+New
+Business Development, Optimization: ORG

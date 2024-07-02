@@ -1,0 +1,185 @@
+Strategic & Consultative Selling: ORG
+Developing/Expanding Territories: WORK_OF_ART
+C-Level & Technical: ORG
+1996: DATE
+Executive Board: ORG
+2009: DATE
+Haiti: GPE
+Elavon: PERSON
+VP of Sales: ORG
+North Eastern: NORP
+Cold Calling: ORG
+Awarded: WORK_OF_ART
+October: DATE
+North East Region: LOC
+more than $50k: MONEY
+four: CARDINAL
+18%: PERCENT
+12: CARDINAL
+100%: PERCENT
+Yorktown/Peekskill: ORG
+Ranked 6th: PERSON
+10 %: PERCENT
+Merchandiser: PERSON
+State Southern Wine & Spirits: ORG
+14,000: CARDINAL
+35: CARDINAL
+âž¢: PRODUCT
+Current Company Name City: ORG
+Haiti: GPE
+1993: DATE
+1996: DATE
+Executive Board: ORG
+2009: DATE
+Haiti: GPE
+50,000: MONEY
+7 months: DATE
+300: CARDINAL
+Press Interviews: PERSON
+Shipped 3: PERSON
+LA Fitness: ORG
+600: CARDINAL
+New York: GPE
+LA Fitness's: ORG
+Yonkers: NORP
+0: CARDINAL
+500: CARDINAL
+3 months: DATE
+one: CARDINAL
+âž¢: PRODUCT
+# 1: MONEY
+8: CARDINAL
+July - November: DATE
+5: CARDINAL
+June - January: DATE
+2,800: MONEY
+June - February: DATE
+83%: PERCENT
+the month July to January Top: DATE
+all months: DATE
+Hebrew Hospital Home Continuum of Care: WORK_OF_ART
+the Queens County Territory: ORG
+over 200: CARDINAL
+Contracting Doctors and Medical Offices: ORG
+HHH Home Health Network: ORG
+Doctors and Office Managers: ORG
+Cold Calls: ORG
+Sales Representatives: ORG
+3 month: DATE
+30: CARDINAL
+200: CARDINAL
+Developed Queens Territory: PERSON
+Account Managers: ORG
+30: CARDINAL
+first quarter: DATE
+1: MONEY
+the quarter: DATE
+100%: PERCENT
+Name City: GPE
+State US Banks: ORG
+Elavon: PERSON
+2004: DATE
+Elavon: PERSON
+1 million: CARDINAL
+Elavon: PERSON
+VP of Sales: ORG
+North Eastern: NORP
+Cold Calling: ORG
+five: CARDINAL
+30: CARDINAL
+Bank Regional: ORG
+3: CARDINAL
+Stack Ranking: WORK_OF_ART
+2009: DATE
+East Region: LOC
+the month of February: DATE
+68: CARDINAL
+1: CARDINAL
+Monthly: DATE
+May: DATE
+North East Region: LOC
+2: CARDINAL
+January: DATE
+North East Region: LOC
+October: DATE
+North East Region: LOC
+Name City: GPE
+State Yellowbook: ORG
+more than $50k: MONEY
+four: CARDINAL
+18%: PERCENT
+12 per quarter: DATE
+100%: PERCENT
+Yorktown/Peekskill: ORG
+Ranked 6th: PERSON
+10 %: PERCENT
+2: CARDINAL
+2007: DATE
+over 100%: PERCENT
+Two: CARDINAL
+Rep of the Month: WORK_OF_ART
+September 2007, February 2006: DATE
+Ranked 25th: FAC
+approximately 200: CARDINAL
+53: CARDINAL
+105k: MONEY
+three years in a row: DATE
+Quota Buster: PERSON
+2006,: DATE
+2007: DATE
+2008: DATE
+11 months: DATE
+College City: GPE
+State: GPE
+US Marist College: ORG
+Poughkeepsie: ORG
+NY: ORG
+the Marist Ski Team: ORG
+Slalom: PERSON
+Giant Slalom: PERSON
+Marist Rugby Team: ORG
+Debate Team: ORG
+Portland: GPE
+Oregon: GPE
+NCC: ORG
+3rd: ORDINAL
+the Phi-Ro-Pi National Championships: FAC
+88: CARDINAL
+Parliamentary Debate: PERSON
+Bronze: PERSON
+114: CARDINAL
+Debate Team: ORG
+Overall Bronze: PERSON
+109: CARDINAL
+French: NORP
+Professional Affiliations
+FUNDRAISER: ORG
+EXECUTIVE: ORG
+C-Level & Technical Presentations: ORG
+Skills
+Sales: ORG
+Increase, Pediatric, Marketing,: ORG
+Account Executive: ORG
+Solutions: PRODUCT
+Closing: PERSON
+Channel
+Marketing: ORG
+New Hires: ORG
+Overall Sales: ORG
+Quota: ORG
+Quota: GPE
+Yellow Pages: ORG
+Cold
+Calling: PERSON
+Million: CARDINAL
+Retail, Retail Marketing: ORG
+Merchandising: PERSON
+Owned Sales: ORG
+Coordinate Sales: ORG
+Networking: GPE
+Sales Representatives: ORG
+Territory: PERSON
+Account
+Management: ORG
+B2b: ORG
+Project Management: ORG

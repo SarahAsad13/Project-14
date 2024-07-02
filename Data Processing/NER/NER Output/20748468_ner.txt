@@ -1,0 +1,141 @@
+Analyst: PERSON
+Core Qualifications
+
+Operations: ORG
+Policy/Program: ORG
+Complex: NORP
+Organizational Restructure/Change
+Root: ORG
+Healthcare Administrator/Operational and Staff Reorg Oct 2006: ORG
+2007: DATE
+6: CARDINAL
+4: CARDINAL
+3: CARDINAL
+3: CARDINAL
+2: CARDINAL
+1: CARDINAL
+1: CARDINAL
+95%: PERCENT
+Liaison: PERSON
+SDHS: ORG
+47: CARDINAL
+OSHA Reps: ORG
+Created: ORG
+2 months: DATE
+2: CARDINAL
+3: CARDINAL
+SDHS: ORG
+OSHA: ORG
+Outlook: PERSON
+weekly: DATE
+monthly: DATE
+San Diego County Medical Administrators: ORG
+SHARP: ORG
+SCRIPPS: ORG
+Administrator/Project: ORG
+Bookkeeper: GPE
+2: CARDINAL
+Quickbooks: ORG
+Paychex: GPE
+MS Office: ORG
+MS Project: ORG
+Quickbooks daily: ORG
+Oct 2004: DATE
+the VP of Risk Solutions: ORG
+SVP: ORG
+National Consumer Lending: ORG
+Remote: ORG
+SVP: ORG
+3: CARDINAL
+Project Managers: ORG
+35%: PERCENT
+Performed: ORG
+3: CARDINAL
+Risk Solutions Team: ORG
+Created: ORG
+MS Project: GPE
+Facilitated: ORG
+monthly: DATE
+monthly: DATE
+SVP: ORG
+Monitored: ORG
+monthly: DATE
+Project Managers: ORG
+Researched: ORG
+VP: ORG
+SVP: ORG
+MS Office: ORG
+MS Project: ORG
+Powerpoint: PRODUCT
+Visio: PERSON
+daily: DATE
+Healthcare Administrator/Operations and Office Reorg: ORG
+2003 to Jan 2004: DATE
+6: CARDINAL
+3: CARDINAL
+1: CARDINAL
+an additional $30,000: MONEY
+$1.4 million to $11,000: MONEY
+Prepared: PERSON
+weekly: DATE
+Excel: PRODUCT
+Healthcare Administrator/Business Office Reorg: ORG
+Jan 2003: DATE
+Mar 2003: DATE
+25: CARDINAL
+25: CARDINAL
+Created: ORG
+daily: DATE
+daily: DATE
+25%: PERCENT
+J.Crew Clothiers: PERSON
+18: CARDINAL
+Created: ORG
+Excel: PRODUCT
+Fox Pro: PERSON
+Excel: PRODUCT
+Long Beach Harbor: FAC
+seconds: TIME
+PO: ORG
+Junior Healthcare Administrator/Statistics: ORG
+Mar 2000 to Jan 2002: DATE
+Decision Support, Medical Records: ORG
+Newborn Careline Dept: PERSON
+OBStat Database: ORG
+ACCESS: ORG
+daily: DATE
+Coordinated 93: PRODUCT
+ANSOS: ORG
+over 1000: CARDINAL
+1999: DATE
+Mar 2000: DATE
+the Pharmacy Administration Accounts Receivable Department: ORG
+the Accounting Department: ORG
+Data Management: ORG
+daily: DATE
+Created: ORG
+six: CARDINAL
+daily: DATE
+Excel: PRODUCT
+4: CARDINAL
+2: CARDINAL
+Created: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Electronically: GPE
+PDX: ORG
+Specialized Clinician Services: ORG
+SCS: ORG
+ANSOS: ORG
+PC Anywhere: ORG
+the Newborn Careline Department: ORG
+Bachelor of Arts , Psychology University of Southern California: ORG
+Social Sciences: ORG
+Beach City College: ORG
+Reorganization Procedural Evaluations: ORG
+MS Project: ORG
+MS Office: ORG
+Windows: NORP
+Visio
+Advanced: PERSON
+NEC: ORG

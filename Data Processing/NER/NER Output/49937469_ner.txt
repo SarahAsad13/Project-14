@@ -1,0 +1,52 @@
+Employee Relations: ORG
+Employee Handbook: WORK_OF_ART
+Generalist: PERSON
+Personable HR Generalist: ORG
+September 2015: DATE
+Identify: ORG
+Created: ORG
+Advise: ORG
+more than 100: CARDINAL
+Facilitate: ORG
+monthly: DATE
+Suport 77: FAC
+Specialist: PERSON
+November 2011 to September 2015: DATE
+Excel: PRODUCT
+100%: PERCENT
+Prepared: PRODUCT
+weekly: DATE
+Maintained: GPE
+Clerk/Store: ORG
+June 2002 to January 2012: DATE
+3 weeks: DATE
+7: CARDINAL
+Reorganized: ORG
+Directed: ORG
+Completed: ORG
+weekly: DATE
+Maintained: GPE
+daily: DATE
+May 2004: DATE
+Initiated: ORG
+Maintained: GPE
+100%: PERCENT
+Maintained: GPE
+Generalist: PERSON
+January 2004 to May 2007: DATE
+30: CARDINAL
+Created: ORG
+Advise: ORG
+Created: ORG
+Developed 2: PRODUCT
+30: CARDINAL
+al: ORG
+ORGANIZATIONAL LEADERSHIP MANAGEMENT AND HUMAN RESOURCE MANAGEMENT: ORG
+2011: CARDINAL
+Lourdes College: ORG
+Lourdes College: ORG
+Interests: NORP
+Skills: ORG
+A.I.: GPE
+Employee Relations, Event: ORG
+Excel: PRODUCT

@@ -1,0 +1,64 @@
+twenty years: DATE
+Supervisor: PERSON
+number one: CARDINAL
+MasTec Money: PRODUCT
+Highlights
+
+Operations: ORG
+Inventory: NORP
+Multi: GPE
+Project Management: Â 
+
+: ORG
+Route: GPE
+January 2002: DATE
+Maintained: GPE
+daily: DATE
+Completed: ORG
+daily: DATE
+up to $1500: MONEY
+January 2007: DATE
+Current Company Name: ORG
+daily: DATE
+DMA: ORG
+Communicate: GPE
+daily: DATE
+Business Intelligence: ORG
+RDO: ORG
+Coach: ORG
+Evaluate: ORG
+daily: DATE
+Technician Supervisor: PERSON
+January 2005 to January 2007: DATE
+MasTec: ORG
+MasTec: PRODUCT
+Communicate: GPE
+daily: DATE
+Facilitate: ORG
+January 2002 to January 2005: DATE
+daily: DATE
+January 2000 to January 2002: DATE
+$1.5 million dollar: MONEY
+35: CARDINAL
+seven: CARDINAL
+80,000 pounds: QUANTITY
+weekly: DATE
+daily: DATE
+Operations Engineer: ORG
+January 1998 to January 2000: DATE
+Specialized: ORG
+monthly: DATE
+150,000: MONEY
+January 1994 to January 1998: DATE
+$5 million: MONEY
+40: CARDINAL
+100,000 pounds: QUANTITY
+weekly: DATE
+Safety Committee: ORG
+OSHA: ORG
+1 1998: DATE
+Del Mar College: ORG
+State Applied Science Industrial Management
+Skills: ORG
+Coach: ORG
+RDO: ORG

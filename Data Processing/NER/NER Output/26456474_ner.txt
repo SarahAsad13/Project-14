@@ -1,0 +1,109 @@
+LPN: PERSON
+Smith Village - Chicago: GPE
+IL: ORG
+October 2013 to April 2015: DATE
+CNA's: ORG
+Injections, Diabetic: ORG
+CVA: ORG
+GT: GPE
+Psych Care: ORG
+Med Surg: PERSON
+IV care Management: ORG
+8 weeks: DATE
+MDS: ORG
+Understanding the Principals: WORK_OF_ART
+3.0: CARDINAL
+PPS/OBRA Regulations and: ORG
+Guidelines: PRODUCT
+Understanding MDS 3.0 Coding for OBRA: WORK_OF_ART
+PPS: ORG
+Activities for Daily Living: ORG
+PPS/Medicare Timing and Scheduling: ORG
+Familiar: PERSON
+Care Assessments: ORG
+CAAS: PERSON
+RUG IV Payment Prospective System: ORG
+Clinical Reimbursement: ORG
+Quality of Care: ORG
+RUG: ORG
+Glucose: PERSON
+Dressing Changes: PERSON
+CPR: ORG
+Surgical Sterile Field: PERSON
+Standard: ORG
+first: ORDINAL
+GT: ORG
+IV: GPE
+Daily: PERSON
+9 years: DATE
+Certifications/Licenses: ORG
+3.0: CARDINAL
+Great Management: ORG
+Skills Used Time Management: ORG
+CNA's: ORG
+IV: GPE
+Medicare: ORG
+Manor Nursing & Rehab - Chicago Heights: ORG
+February 2012: DATE
+September 2014: DATE
+up to 30: CARDINAL
+up to: CARDINAL
+4: CARDINAL
+daily: DATE
+Interdisciplinary Team: ORG
+Skills Used: ORG
+Glucose: PERSON
+CPR Certified: ORG
+Surgical Sterile: PERSON
+Standard: ORG
+G-Tube: ORG
+Foley: PERSON
+IV: GPE
+December
+2009: DATE
+February 2012: DATE
+up to 30: CARDINAL
+up to: CARDINAL
+4: CARDINAL
+daily: DATE
+Interdisciplinary Team: ORG
+Skills Used Vital Signs: WORK_OF_ART
+Glucose: PERSON
+CPR Certified: ORG
+Surgical Sterile: PERSON
+Standard: ORG
+G-Tube: ORG
+Foley: PERSON
+IV: GPE
+IDT: ORG
+MDS: ORG
+eHealth: ORG
+Assist: NORP
+Restorative Nurse: PERSON
+Point Click Care: FAC
+10: CARDINAL
+Inpatient/ Outpatient: ORG
+Training: PERSON
+2015: DATE
+ï¼​ City: GPE
+State: ORG
+3.0: CARDINAL
+2009: DATE
+Phlebotomy Technician Certificate: ORG
+State: ORG
+2020: DATE
+State: GPE
+Great Time Management: ORG
+Working Smart: ORG
+MDS: ORG
+Skills: ORG
+CNA: ORG
+CPR: ORG
+Diabetic: ORG
+first: ORDINAL
+Geriatrics, Injections: ORG
+Phlebotomy, Coding,: ORG
+Technician: GPE
+Great Time Management: ORG
+Working Smart: ORG
+MDS: ORG

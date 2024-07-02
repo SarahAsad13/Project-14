@@ -1,0 +1,94 @@
+Career Overview: WORK_OF_ART
+ISO 27001: ORG
+2005: DATE
+Information Security: ORG
+& Network Administration: ORG
+10 years': DATE
+Infrastructure Management: ORG
+Telecom: NORP
+Presently: NORP
+Jaiprakash Associates Limited: ORG
+Jaypee Group: ORG
+27001:2005: CARDINAL
+IT & information security: ORG
+LAN: ORG
+WAN: ORG
+WAN: ORG
+Operating Systems: ORG
+Clusters, File Systems: ORG
+Operations Address: ORG
+Backup Strategy: WORK_OF_ART
+Backups: PERSON
+Deployment & Implementation: ORG
+Barracuda Spam Firewall Deployment & Implementation of SSL VPN: ORG
+Deployment & Implementation of Symantec Endpoint Management: ORG
+Deployment &
+Implementation: ORG
+Juniper firewall Deployment & Implementation: ORG
+Radware: PRODUCT
+Load
+Balancer Networking / Systems Administration Architect/Design Network: PERSON
+Firewall
+Engineering/Intrusion Detection (IDS)/Intrusion Prevention (IPS: ORG
+Managing Blue: PERSON
+Architect: ORG
+Conducting Internal: ORG
+Vulnerability Assessment: ORG
+Enterprise: ORG
+Responsible for Group: ORG
+Responsible for Enforcement of application & device Control Leading: WORK_OF_ART
+Active Directory Administration: ORG
+Monitoring of Directory: ORG
+AD Replication: ORG
+DHCP & DNS: ORG
+EDP/Facilities Management Interact: ORG
+60: CARDINAL
+Information &: ORG
+Operating Systems: ORG
+Windows: ORG
+Information Security: ORG
+06/2004: CARDINAL
+03/2008: CARDINAL
+Asst: PERSON
+06/2004: CARDINAL
+Vishnuprayag Joshimath: PERSON
+Uttranchal: ORG
+1 2001: DATE
+B.E Jawaharlal Institute of Technology: ORG
+Rajiv Gandhi Proudyogiki Vishawavidhalaya: PERSON
+Bhopal: GPE
+Cisco Certified Network Associates: ORG
+2006: DATE
+2011: DATE
+SCS: ORG
+2011: DATE
+CEH: ORG
+2013: DATE
+Kanakia Road Near
+Seveb Eleven Scholastic: FAC
+401107: CARDINAL
+7th: ORDINAL
+December 1977: DATE
+Pushpa Mahajan: PERSON
+Skills
+Active Directory: ORG
+Analyst: PERSON
+Architect: ORG
+CCNA: PERSON
+Cisco Certified: GPE
+Hardware: ORG
+DHCP: ORG
+DNS: ORG
+Facilities Management: ORG
+Firewall: GPE
+Information Security: ORG
+ISO: ORG
+Microsoft Certified, Mail: ORG
+Windows, Enterprise: ORG
+Network Associates: ORG
+Network: ORG
+Networking, Operating Systems: ORG
+Unique: PERSON
+7th: ORDINAL
+December 1977: DATE
+Pushpa Mahajan: PERSON

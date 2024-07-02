@@ -1,0 +1,51 @@
+LIBRARY EDUCATIONAL: PERSON
+10 years: DATE
+Possess: ORG
+Perform: ORG
+Highly: PERSON
+Versatile: FAC
+Relates: PERSON
+Library Educational Aide: WORK_OF_ART
+August 2015: DATE
+Current Company Name: ORG
+State: ORG
+10 years': DATE
+Entrepreneur: PERSON
+toÂ: CARDINAL
+Meticulous: NORP
+Committed: ORG
+Green Valley Elementary: LOC
+North Ridge Elementary Teaches: GPE
+Checks: ORG
+Organizes: PERSON
+Assist: NORP
+April 2014: DATE
+2015: DATE
+300: MONEY
+daily: DATE
+2016.Â: CARDINAL
+one: CARDINAL
+14 days: DATE
+Christmas/New Year Holiday: DATE
+ATA: ORG
+monthly: DATE
+an entire year: DATE
+Children's Ministry: ORG
+September 2009: DATE
+May 2013: DATE
+June 2007 to November 2009: DATE
+Established: ORG
+daily: DATE
+October 2004 to December 2006: DATE
+English: LANGUAGE
+Journalism: GPE
+2004: DATE
+English: LANGUAGE
+Journalism: NORP
+2000: DATE
+New Mexico State University: ORG
+2000: CARDINAL
+Mayfield High School: ORG
+2015: DATE
+Skills: ORG
+Email: PERSON

@@ -1,0 +1,66 @@
+TEACHER
+Interests
+RANGOLI DANCE COMPANY: PERSON
+Los Angeles: GPE
+CA Lead/Post-Graduate Company: ORG
+2004: DATE
+15: CARDINAL
+India: GPE
+the United States: GPE
+Indian: NORP
+2016: DATE
+KARNATAKA CULTURAL ASSOCIATION: ORG
+CALIFORNIA: GPE
+Long Beach: GPE
+CA: ORG
+Youth Committee: ORG
+Volunteer Sep: PERSON
+annual: DATE
+Indian: NORP
+10: CARDINAL
+Walk-a-Thons: ORG
+2016: DATE
+CA: ORG
+Volunteer Group: ORG
+2012 - June 2016: DATE
+daily: DATE
+February 2016 to June 2016: DATE
+December 2015 to July 2016: DATE
+Bollywood: GPE
+Bharathanatyam, Fusion: ORG
+July 2013 to September 2013: DATE
+Hoag Hospital: FAC
+20+ hours: TIME
+Completed Cardiopulmonary Resuscitation: ORG
+REGIONAL OCCUPATIONAL: PERSON
+Training: PERSON
+CALIFORNIA STATE UNIVERSITY: ORG
+Chemistry City Chemistry: ORG
+3.65: CARDINAL
+Survey of Chemistry: ORG
+Chemistry: ORG
+CPR: ORG
+Law: PERSON
+Resuscitation: ORG
+ACTIVITIES RANGOLI DANCE COMPANY: ORG
+Los Angeles: GPE
+CA Lead/Post-Graduate Company: ORG
+2004: DATE
+15: CARDINAL
+India: GPE
+the United States: GPE
+Indian: NORP
+2016: DATE
+KARNATAKA CULTURAL ASSOCIATION OF SOUTHERN CALIFORNIA Long Beach: ORG
+CA: ORG
+Youth Committee: ORG
+Volunteer Sep: PERSON
+annual: DATE
+Indian: NORP
+10: CARDINAL
+Walk-a-Thons: ORG
+2016: DATE
+CA: ORG
+Volunteer Group: ORG
+2012 - June 2016: DATE
+daily: DATE

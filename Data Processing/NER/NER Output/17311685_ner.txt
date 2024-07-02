@@ -1,0 +1,38 @@
+ESL: ORG
+Instructor: ORG
+Skills
+Microsoft Office: ORG
+Certified ESL Instructor
+Proficiency: WORK_OF_ART
+Smart Board
+Proficient: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+3: CARDINAL
+Dibel: GPE
+TRC: ORG
+Differentiated: PERSON
+the Schedule Committee for: ORG
+SPEC: ORG
+LBs1: CARDINAL
+Language Arts: LOC
+First Grade Teacher Company Name: ORG
+monthly: DATE
+Third Grade: FAC
+quarterly: DATE
+Local School Council: ORG
+2015: DATE
+City Endorsement: FAC
+2002: DATE
+Teacher Leadership Roosevelt University: ORG
+1998: DATE
+National-Louis University: ORG
+Skills
+Co-teach: ORG
+LBs1: CARDINAL
+ELL: ORG
+Â Differentiated Instruction: ORG
+Technology Integration: ORG
+Classroom Management, Character Development: ORG
+SMART Board: ORG
+MS Word/PowerPoint/Excel: PERSON

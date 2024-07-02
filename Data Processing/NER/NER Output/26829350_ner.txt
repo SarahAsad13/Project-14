@@ -1,0 +1,106 @@
+Over 1 year of end: DATE
+5 years of end: DATE
+Analytic: GPE
+Highlights
+Proficient: ORG
+Oracle: GPE
+SAP ECC 6.0: ORG
+Helios: ORG
+Sun: ORG
+5: CARDINAL
+Excel: PRODUCT
+PowerPoint: ORG
+Buyer: LOC
+January 2014 to January 2015: DATE
+Meetings &: ORG
+Facilities: ORG
+Requisition: PRODUCT
+PO: ORG
+req: GPE
+PO: ORG
+Information-: ORG
+P-Card: ORG
+PCard: ORG
+Generating: PERSON
+quarterly: DATE
+monthly: DATE
+PO: ORG
+weekly: DATE
+EMEA: ORG
+Clearing APC Direct Debit and Trial Balance: ORG
+January 2013 to January 2014: DATE
+Accounts Payable PO & Non Po Vendors Invoice: ORG
+daily: DATE
+Analyse: FAC
+Motivating associates: ORG
+development & implementation: ORG
+Review and Monitor: ORG
+monthly: DATE
+one: CARDINAL
+Amex: ORG
+January 2010 to January 2013: DATE
+AP: ORG
+Accurate: ORG
+weekly: DATE
+weekly: DATE
+AP: ORG
+AP: ORG
+Vat Rate: PERSON
+PO: GPE
+Business Unit: ORG
+VAT: ORG
+Prepare: ORG
+Dell: ORG
+Readdressing of Invoices: ORG
+UK: GPE
+Reconciliation Project: ORG
+Amend of Invoice: ORG
+UAT Application: ORG
+Utopia, Indexing and Triaging: ORG
+the London Office: ORG
+AP: ORG
+India Shared Service Centre: ORG
+UK: GPE
+South Africa: GPE
+UAE: GPE
+Prepared Global: PRODUCT
+AP: ORG
+the Problem Solving
+Team: ORG
+Q3: PRODUCT
+Received Kudos: PERSON
+Dell: ORG
+Received Kudos: PERSON
+TAT: ORG
+January 2008 to January 2010: DATE
+Central Receiving, Vendors: ORG
+Communicate: ORG
+Goods Receipt: ORG
+Ingram: ORG
+Team Player: ORG
+Master of Business Administration :: ORG
+Finance & Human Resource: ORG
+2008: DATE
+CMR Institute of Management: ORG
+Bangalore University: ORG
+India Finance & Human Resource
+Bachelor of Commerce : Marketing: ORG
+2006: DATE
+Science and Commerce: ORG
+Veer Narmada South Gujarat University: ORG
+ï¼​ City: GPE
+India: GPE
+AP: ORG
+Client: GPE
+Debit, Dell: ORG
+Indexing, Inventory: ORG
+Invoice: GPE
+Meetings: GPE
+Excel: PRODUCT
+Office: ORG
+PowerPoint: ORG
+MS-Word: ORG
+Oracle, Problem Solving: ORG
+SAP: ORG
+Shared Service: ORG
+Sun, Team Player: ORG

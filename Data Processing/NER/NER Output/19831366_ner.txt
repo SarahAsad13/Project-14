@@ -1,0 +1,24 @@
+James Beard Award: PERSON
+Alfred Portale: PERSON
+Paul Bartolotta: PERSON
+Food &Labor Executive: ORG
+Sous Chef Inventory &Ordering: ORG
+Executive Chef Company Name: ORG
+Structured: ORG
+08/2016: CARDINAL
+Structured: ORG
+Cleaned: ORG
+Particapated: NORP
+CDC: ORG
+Maintained: GPE
+Liberal Arts Gibraltar High School ï¼​ State: ORG
+USA: GPE
+Liberal Arts: ORG
+Loyola University of Chicago ï¼​ City: ORG
+State: GPE
+USA Art: GPE
+Alliance Francaise Paris: PERSON
+France: GPE
+Skills
+Art: ORG
+Structured: ORG

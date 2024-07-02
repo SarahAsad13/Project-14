@@ -1,0 +1,27 @@
+DANCE INSTRUCTOR
+: PERSON
+06/2008: ORG
+Current
+Dance Instructor Company Name: ORG
+Ballet: GPE
+Musical Theatre: ORG
+Current
+Company: ORG
+State: ORG
+08/2010: CARDINAL
+Apprentice Company: ORG
+Education: ORG
+2014: DATE
+Florida International University: ORG
+Professional Summer Training Program: ORG
+2009-2010: DATE
+Rockette Summer Experience: FAC
+Ballet Atlanta Ballet: ORG
+summer of 2008: DATE
+Ballet University of North Carolina School of the Arts ï¼​ City: ORG
+2007-2009: DATE
+Ballet American Ballet Theatre: ORG
+Summer Intensive - 2007: PERSON
+Ballet Orlando Ballet: ORG
+Ballet Boston Ballet School: ORG
+Summers 2004 and 2005: DATE

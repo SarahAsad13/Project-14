@@ -1,0 +1,50 @@
+Architecture: ORG
+Electro-Mechanical Design: ORG
+Adobe InDesign: PERSON
+SketchUp: PERSON
+Rhino: NORP
+Skills
+
+Building codes: ORG
+Complex: NORP
+Digital: ORG
+SketchUp: GPE
+12/2013: CARDINAL
+Originated: ORG
+12/2013: CARDINAL
+Originated: ORG
+Facilitated: ORG
+Originated: ORG
+Electro-Mechanical Designer &: ORG
+Motorola: ORG
+Facilitated: ORG
+Originated: ORG
+Electro-Mechanical Designer: ORG
+Originated: ORG
+Originated: ORG
+2013: DATE
+The University of North Carolina - City: ORG
+Design Graphics: ORG
+Sustainable Design
+Architecture: ORG
+Color Theory: ORG
+Historic Conservation & Adaptive Re: ORG
+Sustainable Design Practices Energy Efficiency: ORG
+the Building Envelope: ORG
+Applied Science Architecture Technology Wake Technical Community College: ORG
+Applied Science Architecture Technology
+Recipient of Home Builders: ORG
+Design Graphics: ORG
+Architectural Club
+
+Construction Materials & Methods Building Codes Solar Technology Civil Engineering Construction Estimating Project Management: ORG
+Drafting Certificate :: WORK_OF_ART
+Duke Stadium Press Tower: ORG
+Skills: ORG
+Cadence, Client, Documentation: ORG
+Lighting, Materials: ORG
+Motorola: ORG
+Press: ORG
+Project Management
+
+: ORG

@@ -1,0 +1,25 @@
+Highlights
+
+Logistics
+Shipping: ORG
+Punctual: LOC
+Detail: PERSON
+Adaptive: ORG
+Strong: PERSON
+Multi: GPE
+Spanish: NORP
+October 2011: DATE
+Retail Associate: PERSON
+November 2012 to September 2013: DATE
+Facilitated: ORG
+quarterly: DATE
+Quality Assurance Clerk: ORG
+August 2006 to September 2011 Company Name ï¼​ City: DATE
+Monitored: ORG
+Package Handler: FAC
+August 2005 to August 2006 Company Name ï¼​ City: DATE
+Redirected: ORG
+0%: PERCENT
+2005: DATE
+Moneta High School: PERSON
+75: CARDINAL

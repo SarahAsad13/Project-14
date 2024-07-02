@@ -1,0 +1,58 @@
+Microsoft Office: ORG
+40: CARDINAL
+September 2014 to January 2015: DATE
+Marketed: ORG
+Examined: NORP
+Receptionist: NORP
+September 2012 to March 2014: DATE
+State: ORG
+daily: DATE
+Privacy Act standards: PRODUCT
+Maintained: GPE
+Child Care Provider: WORK_OF_ART
+July 2011 to January 2013: DATE
+State: ORG
+age five: DATE
+Coordinated: ORG
+Maintained: GPE
+CPR: ORG
+2012: DATE
+Volunteer: PERSON
+Alamogordo: GPE
+2014 - 2015: DATE
+Volunteer: PERSON
+Cibolo: ORG
+TX: ORG
+2006 - 2014: DATE
+Future Farmers of America: ORG
+Cibolo: ORG
+TX: ORG
+2009 - 2012: DATE
+Thespian Club: ORG
+Cibolo: ORG
+TX: ORG
+2008 - 2011: DATE
+Skills: ORG
+CPR: ORG
+Microsoft Office Suite: ORG
+40: CARDINAL
+Additional Information
+
+COMMUNITY INVOLVEMENT: ORG
+Otero County Animal Control Shelter: ORG
+Volunteer: PERSON
+Alamogordo: GPE
+2014 - 2015: DATE
+Schertz Animal
+Shelter: PERSON
+Volunteer: PERSON
+Cibolo: ORG
+TX: ORG
+2006 - 2014: DATE
+Cibolo: ORG
+TX: ORG
+2009 - 2012: DATE
+Thespian Club: ORG
+Cibolo: ORG
+TX: ORG
+2008 - 2011: DATE

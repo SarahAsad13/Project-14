@@ -1,0 +1,119 @@
+6 years: DATE
+ETL: ORG
+Data Warehouse Specialist: ORG
+ETL Datastage: ORG
+Netezza: NORP
+Oracle: ORG
+SQL Server: ORG
+Hadoop Hive Data Warehouses: ORG
+Banking Credit: ORG
+Unites Services Automobile Association: ORG
+Process Implementation: ORG
+Customer: ORG
+Release Management: ORG
+Deliverable and Warranty: WORK_OF_ART
+IBM Datastage: ORG
+8.5,9.1: CARDINAL
+11.5: CARDINAL
+ETL & ELT: ORG
+SQL
+: ORG
+Informatica: ORG
+9.1: MONEY
+IBM: ORG
+SQL Server/Oracle
+Data: PERSON
+IBM: ORG
+HIVE: ORG
+Control-M Scheduling Tool
+
+Accomplishments
+
+: ORG
+IBM: ORG
+IBM: ORG
+Oracle Database 11: LOC
+Jan 2016: DATE
+State: ORG
+PROJECT
+Project: PERSON
+un: ORG
+SQL: ORG
+Netezza Collections: ORG
+Collections: ORG
+Aspect: GPE
+Strata: PERSON
+FICO: ORG
+Fidelity: ORG
+FDR: PERSON
+SDLC: GPE
+Analysis-Design: ORG
+third: ORDINAL
+ETL: ORG
+BIGINSIGHTS DATA ARCHIVAL
+
+: ORG
+Hadoop: ORG
+11.5: CARDINAL
+Datastage: ORG
+InfoSphere Information Server: ORG
+Version: GPE
+9.1: CARDINAL
+toÂ: CARDINAL
+InfoSphere Information Server: ORG
+Version: GPE
+11.5: CARDINAL
+QA: ORG
+11.5: CARDINAL
+Feb 2013 to Jan 2016: DATE
+PROJECT
+Large: PERSON
+Developed Datastage: ORG
+ETL: ORG
+Dimensions and Fact: ORG
+SME: ORG
+180: CARDINAL
+Informatica: ORG
+ETL: ORG
+Informatica: ORG
+Datastage: ORG
+Data: ORG
+IBM: ORG
+Oracle: ORG
+ETL Design: ORG
+1000: CARDINAL
+InfoSphere Information Server: ORG
+Version: GPE
+8.1 toÂ: CARDINAL
+InfoSphere Information Server: ORG
+Versions 8.5: LAW
+9.1: CARDINAL
+the years: DATE
+ANALYST Jan 2012 to Feb 2013: DATE
+State: ORG
+Extract Transform Load: ORG
+ETL: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Datastage/Informatica: ORG
+ETL Datastage: ORG
+ï¼​ City: GPE
+State: GPE
+INDIA: GPE
+2011: CARDINAL
+City: GPE
+State: GPE
+INDIA: GPE
+SEPTEMBER 2011 - DECEMBER 2011Â: DATE
+ETL: ORG
+Informatica/Datastage: ORG
+90 days: DATE
+2012: DATE
+State: GPE
+INDIA: GPE
+ETL: ORG
+Datastage Development: ORG
+ETL: ORG
+TATA CONSULTANCY: ORG
+FEB 2015: DATE

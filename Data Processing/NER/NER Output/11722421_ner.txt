@@ -1,0 +1,71 @@
+Fabric Dyeing
+: PERSON
+Accutrac
+Technical: PERSON
+Fit
+Computerized: PERSON
+Garment Embellishment
+Draping and Sewing
+Fashion Illustrations Manual and Computerized
+Merchandise & Line Development
+Trend & Color Analysis
+Understanding of Target Customer/Markets
+
+Experience
+Technical Designer 01/2015 to Current 
+Company Name City: WORK_OF_ART
+State: ORG
+65: CARDINAL
+1 week: DATE
+Coordinated 8: PRODUCT
+30,000: CARDINAL
+Collaborated: ORG
+60,000: CARDINAL
+Designer/Technical Designer: ORG
+12/2014: CARDINAL
+Name City: GPE
+Sweaters Created: ORG
+Designer/Technical Designer: ORG
+04/2013: CARDINAL
+Name City: GPE
+Created Tech Packs and Line: ORG
+Current Styles: PERSON
+Accutrac Applied Illustrator: PERSON
+Supported Design Team: ORG
+Design: PRODUCT
+Provided Fit Comments: ORG
+China: GPE
+India: GPE
+Specs: PERSON
+Sourced Fabric: WORK_OF_ART
+Trims: GPE
+Prepared for Design: WORK_OF_ART
+Name City: GPE
+University City: GPE
+State Business Administration: ORG
+Data & Information Systems Management: ORG
+HR Administration: ORG
+March 2014: DATE
+FIDM/Fashion Institute of Design & Merchandising City: ORG
+Cum Laude Fashion Design Cum
+Laude
+Pattern Making: ORG
+Technical Drawing: PERSON
+Textile Technology: ORG
+June 2010: DATE
+RGPV University City: ORG
+State: GPE
+India: GPE
+Magna Cum Laude Textile Technology: ORG
+Magna Cum Laude: PERSON
+Fabric Printing: PERSON
+Textile Testing: ORG
+Gimatex Industries
+Pvt. Ltd.: ORG
+Maharashtra, India Spinning: ORG
+Technical Textiles: ORG
+Skills: ORG
+Photoshop: PERSON
+CAD: ORG
+Illustrator, Information Systems: ORG
+Organizational: ORG

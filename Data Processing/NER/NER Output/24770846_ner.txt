@@ -1,0 +1,60 @@
+17 years': DATE
+Northern California: LOC
+LOTO: ORG
+daily: DATE
+Assisted Project Managers and Superintendents: ORG
+Project Managers: ORG
+Federal, State and Local: ORG
+Assist: NORP
+Superintendent: PERSON
+daily: DATE
+several times a day: DATE
+every morning: TIME
+JSA & MOP: ORG
+that day: DATE
+JSA: ORG
+Performed: ORG
+Review Contractor: ORG
+Responsible for Storm Water Pollution Prevention: ORG
+Administer Hazard Communication Program: ORG
+Maintained: GPE
+OSHA & ANSI: ORG
+Federal, State, Local and SLAC: ORG
+LCLS Building #901: ORG
+Linac Coherent Light Source: ORG
+26 acre: QUANTITY
+Linac Coherent light Source: ORG
+the year: DATE
+2005: DATE
+2015)Â: CARDINAL
+AUTH: ORG
+ACCIDENTÂ REPORTSÂ: PERSON
+7505: DATE
+CPR: ORG
+OSHA: ORG
+3515: DATE
+Â LOTO Electrical &: ORG
+Associate of Science : Construction Management: ORG
+2004: DATE
+San Jose: GPE
+State Management: ORG
+OSHA SAFETY CLASSES: ORG
+2007: DATE
+City: GPE
+State: GPE
+USA: GPE
+HAZARDOUS: ORG
+OSHA: ORG
+2015: DATE
+SPILL: ORG
+OSHA: ORG
+MECHANICS: ORG
+Bilingual: NORP
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills: ORG
+â€¢ Building: PRODUCT
+IRC: ORG
+â€¢ NAVFAC Army Corps Engineering Contractor Quality: ORG
+â€¢ Electrical Safety High Voltage & Low: PRODUCT
+Grounding and Bonding Electrical Systems: ORG

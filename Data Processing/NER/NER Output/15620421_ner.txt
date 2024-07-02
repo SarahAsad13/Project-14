@@ -1,0 +1,44 @@
+Team: ORG
+Client: GPE
+Complex: NORP
+Process and Productivity: ORG
+Natural: ORG
+Organized
+Unsurpassed: ORG
+Center Sales: ORG
+Current Company Name: ORG
+State Answering: ORG
+5: CARDINAL
+Processed: GPE
+30: CARDINAL
+daily: DATE
+Generate: PERSON
+daily: DATE
+weekly: DATE
+daily: DATE
+daily: DATE
+10-40Â: CARDINAL
+Clerk: PERSON
+15-20: CARDINAL
+Receptionist: NORP
+10/2004: CARDINAL
+State Received: ORG
+daily: DATE
+Excel: PRODUCT
+Specialist: ORG
+12/2001: DATE
+06/2003 Company Name: ORG
+11/2001: CARDINAL
+daily: DATE
+the end of the week: DATE
+2000: CARDINAL
+John F Hodge: PERSON
+State: GPE
+USA Coursework in Marketing, Business Management: ORG
+Â Debate: ORG
+Â  Data Entry Office: ORG
+English: LANGUAGE
+Technical Skills: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON

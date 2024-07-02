@@ -1,0 +1,50 @@
+OPERATIONS: ORG
+1: CARDINAL
+Problem: PRODUCT
+Team: ORG
+Organization
+Communication
+
+MS Office: ORG
+Operations: ORG
+1: CARDINAL
+State: ORG
+07/2020: GPE
+Maintained: GPE
+over 300,000: CARDINAL
+Gatorade: PRODUCT
+PepsiCo: ORG
+Performed: ORG
+OSHA: ORG
+30 minutes: TIME
+Applied: ORG
+State: ORG
+2000: MONEY
+Networked: PRODUCT
+13%: PERCENT
+QA: ORG
+State: ORG
+06/2013: CARDINAL
+$60 million: MONEY
+Performed: ORG
+up to: QUANTITY
+120 pounds: QUANTITY
+Coordinated: ORG
+Maintained: GPE
+Server: NORP
+State: ORG
+Performed: ORG
+Completed: ORG
+Huntsville: GPE
+State Some College: ORG
+Kennesaw State University: ORG
+City Some College: ORG
+Activities and Honors
+
+Awarded Junior Sailor of the Month: WORK_OF_ART
+US Navy: ORG
+2013-2018: DATE
+2018: DATE
+Licensed: PERSON
+2013-2018: DATE
+CPR: ORG

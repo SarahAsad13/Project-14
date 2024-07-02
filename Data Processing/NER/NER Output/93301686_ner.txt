@@ -1,0 +1,91 @@
+Highlights
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Name City: GPE
+POAM: NORP
+seven: CARDINAL
+U.S.: GPE
+Navy: ORG
+33%: PERCENT
+6: CARDINAL
+Taught two: CARDINAL
+the Norfolk Naval Shipyard: ORG
+PowerPoint: ORG
+200%: PERCENT
+02/2015 Company Name City: ORG
+8: CARDINAL
+100%: PERCENT
+Coordinated: ORG
+seven: CARDINAL
+Utilized: ORG
+100: CARDINAL
+37: CARDINAL
+Kiowa: ORG
+250,000: MONEY
+four weeks: DATE
+the US Army's: ORG
+15J Professional Development Map: ORG
+less than 60 days: DATE
+500: CARDINAL
+4: CARDINAL
+1: CARDINAL
+10 weeks: DATE
+over $500,000: MONEY
+annual: DATE
+the Computer Based Training: ORG
+10/2007: CARDINAL
+Name City: GPE
+four: CARDINAL
+12: CARDINAL
+Afghanistan: GPE
+750: CARDINAL
+14 day: DATE
+National Training Center: ORG
+80: CARDINAL
+750: CARDINAL
+6 month: DATE
+two: CARDINAL
+MS Word: PERSON
+Excel: PRODUCT
+weekly: DATE
+Assisted: ORG
+Mine Resistant Armored Protection: ORG
+80: CARDINAL
+90 day: DATE
+10/2005: DATE
+Name City: GPE
+over 200: CARDINAL
+16: CARDINAL
+six: CARDINAL
+47%: PERCENT
+28: CARDINAL
+293: CARDINAL
+97%: PERCENT
+16: CARDINAL
+100%: PERCENT
+10/2005: CARDINAL
+Name City: GPE
+State
+
+Created: ORG
+75%: PERCENT
+85: CARDINAL
+65: CARDINAL
+7 days: DATE
+Bachelor of Science : Professional Aeronautics EMBRY RIDDLE AERONAUTICAL UNIVERSITY City: ORG
+State Professional Aeronautics
+Certifications
+Training Education Developers Middle Managers Course *Army Basic Instructor Course *Army: ORG
+Army: ORG
+Basic: GPE
+Instructor: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+97: DATE
+Outlook, Power Point: ORG
+PowerPoint: ORG
+Word: PERSON
+MS Word: PERSON
+Navy: ORG
+Naval: GPE

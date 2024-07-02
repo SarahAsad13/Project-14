@@ -1,0 +1,110 @@
+Lynchburg College: ORG
+Eagle Scout: ORG
+June 2015 to August 2015: DATE
+MEP: ORG
+Charlottesville: GPE
+VA: GPE
+Indian Head Military Base: LOC
+MD: GPE
+June 2014 to August 2014: DATE
+the US State Department: ORG
+Arlington National Cemetery: ORG
+Jefferson Island: GPE
+MD: GPE
+Autodesk Inventor: PERSON
+Reverse Osmosis Multi Element Module: ORG
+Autodesk Showcase: PERSON
+Researched: ORG
+Built: ORG
+Motherboard Windows Server: PERSON
+2012: DATE
+8x: CARDINAL
+Ripjaws Z: WORK_OF_ART
+240: CARDINAL
+DDR3: ORG
+RAM: ORG
+Seagate: ORG
+2: CARDINAL
+6.0: CARDINAL
+Gb: PERSON
+3.5: CARDINAL
+Internal: ORG
+Seagate Barracuda: ORG
+3: CARDINAL
+6.0: CARDINAL
+Gb: PERSON
+3.5: CARDINAL
+Internal: ORG
+Cooler Master: ORG
+CPU: ORG
+Wiring: ORG
+Reston: GPE
+Researched: ORG
+Industrial Wireless Network Bridge: ORG
+July 2012 to January 2014: DATE
+Papa Johns: PERSON
+Autodesk Inventor: PERSON
+2009,12,15,16: CARDINAL
+3Ds: CARDINAL
+Max: PERSON
+Lynchburg College 2017 Data Structures & Analysis: ORG
+C++: GPE
+Sports Management Micro: ORG
+Macro Economics Computer: ORG
+Minor Sports Management Micro: ORG
+Macro Economics: ORG
+Oakton High School: ORG
+Lynchburg College Club: ORG
+Volunteer Virginia 10 mile: LAW
+Walk/Run: ORG
+October 2013: DATE
+half: CARDINAL
+Eagle Scout: ORG
+December 2012: DATE
+Eagle Scout: ORG
+around two tons: QUANTITY
+the Community of Faith United Methodist Church: ORG
+Stop Hunger: PERSON
+2011: DATE
+Haiti Assistance League of Northern VirginiaÂ: ORG
+2008-2011: DATE
+BSA Eagle Scout: ORG
+Highest Rank: PERSON
+March 2009-December 2013: DATE
+Less than 2%: PERCENT
+Boy Scouting: PERSON
+Eagle Scout: ORG
+21: CARDINAL
+months: DATE
+Boy Scout Oath: PERSON
+Scout: PERSON
+Lynchburg College Club: ORG
+School Varsity Football Community: ORG
+Walk/Run: ORG
+October 2013: DATE
+half: CARDINAL
+Eagle Scout: ORG
+December 2012: DATE
+Eagle Scout: ORG
+the Community of Faith United Methodist Church: ORG
+Stop Hunger: PERSON
+2011: DATE
+Haiti Assistance League of Northern VirginiaÂ: ORG
+2008-: CARDINAL
+2011: DATE
+Highest Rank: PERSON
+March 2009-December 2013: DATE
+Less than 2%: PERCENT
+Boy Scouting: PERSON
+Eagle Scout: ORG
+at least 21: CARDINAL
+months: DATE
+the Boy Scout Oath: FAC
+Scout: PERSON
+C++: GPE
+Inventor: GPE
+Linux: GPE
+Xcode: GPE
+MS Word: PERSON
+MS Powerpoint: PERSON
+Excel: PRODUCT

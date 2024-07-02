@@ -1,0 +1,65 @@
+WOMEN'S HEALTHCARE SPECIALIST
+Professional Summary
+Skills: ORG
+MINDSET: GPE
+Account Management
+Acquisitions: ORG
+EVENT PLANNING
+Inventory
+TEAM LEADERSHIP: ORG
+Mergers
+Communicator
+Organizational: WORK_OF_ART
+Problem: PRODUCT
+Strategic
+Strategic: PERSON
+Work History
+PHARMACEUTICAL: WORK_OF_ART
+Women's Healthcare Specialist Company Name: ORG
+National: ORG
+daily: DATE
+pre-season: DATE
+Strategies: ORG
+Communicated: ORG
+Developed Account Management Program: ORG
+Objectives: ORG
+a New England Association: ORG
+50%: PERCENT
+the first two years: DATE
+the year 2003: DATE
+Maintained: GPE
+quarterly: DATE
+Communicated: ORG
+daily: DATE
+Communicated: ORG
+daily: DATE
+Bachelor of Arts : Business Administration And Public Relations: ORG
+1995: DATE
+Heidelberg College - City: ORG
+Women's Healthcare Specialist: ORG
+National: ORG
+daily: DATE
+pre-season: DATE
+Strategies: ORG
+Communicated: ORG
+Developed Account Management Program: ORG
+Objectives: ORG
+a New England Association: ORG
+50%: PERCENT
+the first two years: DATE
+the year 2003: DATE
+Maintained: GPE
+quarterly: DATE
+Communicated: ORG
+daily: DATE
+Communicated: ORG
+daily: DATE
+EVENT PLANNING: ORG
+LEADERSHIP: ORG
+Abbott: PERSON
+Territory Sales Position: ORG
+Tacoma: GPE
+WA: GPE
+3 Week: DATE
+Radnor: GPE
+PA: GPE

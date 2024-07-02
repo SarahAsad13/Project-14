@@ -1,0 +1,79 @@
+four years: DATE
+English: LANGUAGE
+Spanish: LANGUAGE
+Budget Planning
+Cash Management
+Accounts Receivable Accounts Payable
+Inventory & PurchasesÂ 
+Fixed Assets
+
+Auditing
+Payroll: ORG
+Team: ORG
+Deadline: NORP
+Name City: GPE
+daily: DATE
+Monthly: DATE
+10: CARDINAL
+Name City: GPE
+State Accounting and Finance: ORG
+daily: DATE
+month-end: DATE
+Coded: ORG
+Coordinated: ORG
+monthly: DATE
+Name City: GPE
+State Administrator/Accountant 03/2015: ORG
+daily: DATE
+including;Â Account: PERSON
+Quarterly: DATE
+monthly: DATE
+annual: DATE
+W2: DATE
+Collaborated: ORG
+year-end: DATE
+401k: PRODUCT
+Name City: GPE
+State: ORG
+Controller: PERSON
+Journal: ORG
+Controller: PERSON
+Name City: GPE
+State Seasonal Tax Advisor: ORG
+Calculate: ORG
+Name City: GPE
+State Account Executive: ORG
+Monthly: DATE
+2.5M.Â: CARDINAL
+Name City: GPE
+State Account Executive: ORG
+Loan Processor: ORG
+Name City: GPE
+State: GPE
+United States: GPE
+IVU: PERSON
+MBA : Accounting and Finance 2014 University of Phoenix , City , State: WORK_OF_ART
+United States Continuing: ORG
+the Major
+Changes in Accounting Standards 
+Certification 2011 HR Block: ORG
+State: GPE
+United States: ORG
+2010: DATE
+University of Phoenix: ORG
+City: GPE
+State: GPE
+United States: GPE
+Management 
+Computer Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+ADP
+Quickbooks
+Peachtree
+CDI
+PR Softâ€‹: PERSON

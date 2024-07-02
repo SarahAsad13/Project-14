@@ -1,0 +1,64 @@
+Professional Overview
+Over: ORG
+five years: DATE
+Business Operations: ORG
+a Master Degree in International Commerce: WORK_OF_ART
+Policy: PERSON
+Strategic Leadership: PERSON
+Strong Executive Communication Skills: ORG
+Accounts Payable/ReceivableÂ: WORK_OF_ART
+Detail: PERSON
+Complex: NORP
+Client: PERSON
+Name City: GPE
+State Business Development Associate 11/2015: ORG
+Locating: GPE
+over $200,000Â: MONEY
+annual: DATE
+110%: PERCENT
+125000: MONEY
+Name City: GPE
+State Trade Agreements Negotioations: ORG
+U.S.Trade Policy
+Development: ORG
+the United States: GPE
+International Trade Administration: ORG
+North America Steel Committee: ORG
+Name City: GPE
+State: ORG
+more than 40: CARDINAL
+annual: DATE
+Key Control Program: ORG
+Created: ORG
+35000: MONEY
+the 2015 fiscal year: DATE
+Drafted: ORG
+Name City: GPE
+02/2007: PERSON
+Quality Assurance: ORG
+Financial: ORG
+Maintained: GPE
+quarterly: DATE
+annual: DATE
+Master of Arts : International Commerce: WORK_OF_ART
+Policy 2014 George Mason School of Public Policy: ORG
+State International Commerce: ORG
+Policy International Commerce: ORG
+Policy Semester: PERSON
+42 Credit Hours: TIME
+2013: DATE
+Oxford University - Mansfield College: ORG
+3 Credit Hours
+Bachelor of Arts : Government: TIME
+2012: DATE
+George Mason University: ORG
+State Government: ORG
+Credit Hours: WORK_OF_ART
+60 Credit Hours: TIME
+Associate of Arts: WORK_OF_ART
+Northern Virginia Community College: ORG
+City: GPE
+State Liberal Arts Liberal Arts Semester: ORG
+Credit Hours: WORK_OF_ART
+60: CARDINAL
+Credit Hours: WORK_OF_ART

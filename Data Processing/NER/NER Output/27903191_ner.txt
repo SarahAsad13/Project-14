@@ -1,0 +1,47 @@
+DIGITAL MARKETING: ORG
+Digital: ORG
+Digital: ORG
+MS Office: ORG
+Digital Marketing Lead 12/2014: ORG
+Current Company Name City: ORG
+the Digital Marketing Board: ORG
+the Digital Board: ORG
+Club: ORG
+the Digital Board: ORG
+daily: DATE
+Current Company Name City: ORG
+monthly: DATE
+Name City: GPE
+Schedule: ORG
+Director 07/2014: DATE
+Name City: GPE
+6 week: DATE
+50: CARDINAL
+4-13: DATE
+Director: PERSON
+06/2013: CARDINAL
+Name City: GPE
+Store: PERSON
+Customer Service and Recovery: ORG
+Shared: ORG
+Maintained: GPE
+Name City: GPE
+first: ORDINAL
+Name City: GPE
+250: CARDINAL
+Coached over 350: CARDINAL
+a week: DATE
+2-15: DATE
+Customer Service: ORG
+12/2011: CARDINAL
+15: CARDINAL
+2-15: DATE
+Name City: GPE
+State: ORG
+20 hours: TIME
+Established: ORG
+Name City: GPE
+State: ORG
+Bachelor of Arts :: ORG
+May 2010: DATE
+Warner University City: ORG

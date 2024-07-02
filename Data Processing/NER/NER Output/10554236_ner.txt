@@ -1,0 +1,261 @@
+the Department of Defense: ORG
+Critical: PRODUCT
+ERP: ORG
+General Ledger: ORG
+DEAMS: GPE
+360B: MONEY
+the first successful: DATE
+fiscal year-end: DATE
+2012: DATE
+DFAS Europe: ORG
+USAFE: ORG
+July 2011 to November 2012: DATE
+ERO: ORG
+Accountant: ORG
+the Defense Enterprise Accounting and Management System: ORG
+ERO: ORG
+Ledger: PERSON
+Budget to Report: ORG
+daily: DATE
+the DEAMS Functional
+Management Office: ORG
+the DEAMS Program Management Office: ORG
+Ledger: PERSON
+360B: MONEY
+the first successful: DATE
+fiscal year-end: DATE
+2012: DATE
+fiscal year 2010: DATE
+2011: DATE
+fiscal year-end: DATE
+the Air Force Operational Test and Evaluation Center: ORG
+the Air Force: ORG
+DEAMS: LOC
+April 2010 to June 2011: DATE
+1st: ORDINAL
+Air Communications Operation Squadron: ORG
+1ACOS: CARDINAL
+4.6: MONEY
+between four: CARDINAL
+USAFE Directorate of Intelligence (USAFE/A2: ORG
+USAFE Directorate of Air and Space Operations: ORG
+USAFE Directorate of Communications: ORG
+USAFE: ORG
+the 435th Air Ground Operations Wing: ORG
+1ACOS: CARDINAL
+three: CARDINAL
+Group: ORG
+Directorate: ORG
+the same day: DATE
+the Flight Chiefs: ORG
+CC: ORG
+1ACOS: CARDINAL
+the Defense Travel System: ORG
+DTS: ORG
+daily: DATE
+Reviewing Officials: WORK_OF_ART
+Approvers: ORG
+the General Accounting and Finance System: ORG
+GPC: ORG
+the Billing Official: ORG
+the Management
+Control Program: ORG
+zero: CARDINAL
+yearly: DATE
+700th CONS: ORG
+zero: CARDINAL
+July 2008 to: DATE
+April 2010: DATE
+Accountant 
+City: PERSON
+Command: ORG
+the USAFE Comptroller: ORG
+DFAS Europe: ORG
+hours: TIME
+USAFE: ORG
+USAFE: ORG
+FMA Financial: ORG
+DFAS Limestone: ORG
+USAFE: ORG
+GPC: ORG
+monthly: DATE
+USAFE: ORG
+USAFE: ORG
+USAFE Contracting: ORG
+Air Force Instruction: PRODUCT
+GPC: ORG
+five: CARDINAL
+GPC: ORG
+each month: DATE
+DFAS: ORG
+DFAS Denver: ORG
+the Access On-Line: ORG
+one: CARDINAL
+USAFE: ORG
+the Open Document Analysis: ORG
+FMSuite: ORG
+Temporary Duty: ORG
+the ODA Program Management Office: ORG
+January 2007 to July 2009: DATE
+Reports Branch: ORG
+the Reports Branch: ORG
+Accounts Maintenance & Control: ORG
+AM&C: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+the General Accounting and Finance System: ORG
+Limestone: ORG
+the High Performing Organization: ORG
+January 2007: DATE
+AM&C: ORG
+Directorate: ORG
+HPO: ORG
+AM&C: ORG
+Standards and Compliance: ORG
+Limestone POC: ORG
+the Department of Treasury's: ORG
+February 2009: DATE
+$6.9 million: MONEY
+February 2007: DATE
+$1.1 million: MONEY
+August: DATE
+Accounts Payable: ORG
+the Transportation Financial Management System: ORG
+DFAS: ORG
+Omaha: GPE
+Limestone: ORG
+Limestone: ORG
+Federal Managers Financial Integrity Act: ORG
+February 2000 to January 2007: DATE
+120: CARDINAL
+four: CARDINAL
+DFAS Denver: ORG
+the Air National Guard: ORG
+Workload: ORG
+the Major Commands: ORG
+DFAS Limestone: ORG
+December 2004: DATE
+25%: PERCENT
+30,000: CARDINAL
+the Major Command Comptrollers: ORG
+Air Force: ORG
+three month: DATE
+19%: PERCENT
+20 days old: DATE
+quarterly: DATE
+Employee Performance Plans: WORK_OF_ART
+DFAS Strategies: ORG
+Louis II: ORG
+DFAS: ORG
+Air
+Force: ORG
+DFAS: ORG
+DFAS: ORG
+DFAS: ORG
+DFAS: ORG
+February 1999: DATE
+February 2000: DATE
+Reports Branch: ORG
+Vendor Pay Reports: PERSON
+22: CARDINAL
+525: CARDINAL
+German: NORP
+Directed: ORG
+Interpreted: ORG
+DoD: GPE
+DFAS: ORG
+DoD: GPE
+DFAS Equal Opportunity Program: ORG
+June 1995 to: DATE
+February 1999: DATE
+DFAS Denver: ORG
+the Field Sites: ORG
+Major Command: ORG
+Workload: ORG
+the Major Commands: ORG
+DFAS Limestone: ORG
+quarterly: DATE
+Louis II: ORG
+DFAS: ORG
+Air Force: ORG
+DFAS: ORG
+DFAS: ORG
+DFAS: ORG
+DFAS: ORG
+the Field Site: ORG
+Vendor Pay Site: PERSON
+DFAS Limestone: ORG
+DFAS Denver: ORG
+Air Force: ORG
+Resource Advisors: ORG
+five week: DATE
+Boot Camp: WORK_OF_ART
+400: CARDINAL
+DFAS: ORG
+June 1994 to June 1995: DATE
+the Network Assistance Team: ORG
+DoD: GPE
+Coordinated: ORG
+DFAS Denver: ORG
+the Omaha Field Site: ORG
+first: ORDINAL
+Defense Accounting
+Office: ORG
+DFAS: ORG
+the Network Assistance Team I: ORG
+Defense Accounting Office: ORG
+June 1993 to June 1994: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+the General Accounting and Finance System: ORG
+Major Command: ORG
+Data Automation: ORG
+Processing Centers: ORG
+the Open Document Listing: LAW
+ODL: ORG
+Allotment Ledger: PERSON
+fiscal year: DATE
+Examined: NORP
+Coordinated: ORG
+fiscal year: DATE
+GAFS: ORG
+Integrated Accounts Payable System: ORG
+Northern Maine Community College: ORG
+1994: DATE
+Accounting City: GPE
+State: GPE
+USA: GPE
+1994: DATE
+Accounting City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.41: CARDINAL
+3.41 174 Hours: TIME
+Husson College: ORG
+78 semester hours: TIME
+Professional Military Comptroller School: ORG
+6wk: DATE
+4: CARDINAL
+Managerial Accounting I: ORG
+09: CARDINAL
+24hrs: CARDINAL
+09-01: DATE
+Auditing Methods: ORG
+Organizational Leadership: ORG
+32hrs: DATE
+07: CARDINAL
+Management Development II: ORG
+32hrs: DATE
+07: CARDINAL
+Certified Defense Financial: ORG
+CDFM: ORG
+May 2005: DATE
+Interests: NORP
+General Accounting: ORG
+Accounts Payable: ORG
+Program Management: ORG

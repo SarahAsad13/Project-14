@@ -1,0 +1,337 @@
+11/2013: CARDINAL
+up to 50 Managers: PERCENT
+25: CARDINAL
+Vendor: ORG
+Fixed Bid: ORG
+Fixed Scope: PERSON
+3rd Party Software: ORG
+Road Maps: FAC
+Project Planning & Monitoring and Software Delivery: ORG
+Operational Excellence using Application Performance Monitoring: ORG
+Log: PERSON
+Solution Architecture & design: ORG
+IT Management - Hiring: ORG
+Key
+Contributions: PRODUCT
+SDLC: GPE
+the first 90 days: DATE
+Introduced Jira: GPE
+thousands: CARDINAL
+Windows: NORP
+MTTR: ORG
+RCA: ORG
+Splunk: NORP
+AppDynamics: ORG
+Established: ORG
+12: CARDINAL
+AWS: ORG
+RDS: ORG
+SNS: ORG
+NBC: ORG
+Identity Management: ORG
+REST: ORG
+API reference: ORG
+JavaScript: ORG
+PHP/Drupal OnPrem & Cloud: ORG
+12: CARDINAL
+Containerized & Serverless: ORG
+01/2011: CARDINAL
+the Solution Architecture and Project Management Office: ORG
+Android: ORG
+ROKU: ORG
+XBOX: ORG
+My Responsibilities: PRODUCT
+SME: PERSON
+Target: ORG
+STARZ: ORG
+Barnes & Noble: ORG
+Dish
+Network: WORK_OF_ART
+Catalog: PERSON
+Apple/Google/Microsoft DRM: ORG
+Digital: ORG
+Key Contributions: LOC
+$9 million-dollar: MONEY
+Barnes & Noble: ORG
+Java: PERSON
+DRM: ORG
+Movies & TV Shows: ORG
+Nook: ORG
+Android: ORG
+PKI: ORG
+DRM: ORG
+Charter Communications: ORG
+6 months: DATE
+Media & Entertainment: ORG
+Disney: ORG
+Disney: ORG
+Regulated Payment Processing:: WORK_OF_ART
+Business Analysts, Architects & Web Developers: ORG
+Mar 2010-July2010: DATE
+Walmart: ORG
+MoneyCard: PRODUCT
+12-million: CARDINAL
+Federal HARP: ORG
+Regulated Finance & Lending: ORG
+First: ORDINAL
+Countrywide: ORG
+15: CARDINAL
+Architects: ORG
+QA: ORG
+$1.7 million: MONEY
+$29.3 million: MONEY
+Regulated Finance & Lending: Technical Lead: ORG
+IndyMac: ORG
+first: ORDINAL
+US: GPE
+75%: PERCENT
+Amazon: ORG
+RDS: ORG
+IaaS: ORG
+Lambdas (Serverless: ORG
+API: ORG
+Alexa: ORG
+Similar &: ORG
+Microsoft: ORG
+Heroku: GPE
+Cloud: PERSON
+Docker: PERSON
+Rkt: PERSON
+Docker Swarm & Kubernetes: ORG
+Cloud Native Computing Foundation's: ORG
+CNCF: ORG
+OCI: ORG
+Software Engineering: ORG
+Kanban: PRODUCT
+eXtreme Programming: ORG
+Waterfall: ORG
+DevOps: ORG
+Git: PERSON
+Jenkins, Artifactory & Nexus: ORG
+Automated: ORG
+SonarQube: ORG
+Veracode: ORG
+Snyk: PERSON
+Canary: GPE
+Operations: ORG
+RTO & RPO Technology Platforms: ORG
+Linux: GPE
+Windows: GPE
+Java: PERSON
+C++: PERSON
+#: CARDINAL
+JavaScript: ORG
+Typescript: PERSON
+SQL Server: ORG
+Oracle: ORG
+SQLite: ORG
+Realm, Swift & Objective-C: ORG
+Social Analytics: ORG
+Networks & Decision Trees: ORG
+Architecture &
+Design: ORG
+11/2013: CARDINAL
+up to 50 Managers: PERCENT
+25: CARDINAL
+Vendor: ORG
+Fixed Bid: ORG
+Fixed Scope: PERSON
+3rd Party Software: ORG
+Road Maps: FAC
+Project Planning & Monitoring and Software Delivery: ORG
+Operational Excellence using Application Performance Monitoring: ORG
+Log: PERSON
+Solution Architecture & design: ORG
+IT Management - Hiring: ORG
+Key
+Contributions: PRODUCT
+SDLC: GPE
+the first 90 days: DATE
+Introduced Jira: GPE
+thousands: CARDINAL
+Windows: NORP
+MTTR: ORG
+RCA: ORG
+Splunk: NORP
+AppDynamics: ORG
+Established: ORG
+12: CARDINAL
+AWS: ORG
+RDS: ORG
+SNS: ORG
+NBC: ORG
+Identity Management: ORG
+REST: ORG
+API reference: ORG
+JavaScript: ORG
+PHP/Drupal OnPrem & Cloud: ORG
+12: CARDINAL
+Containerized & Serverless: ORG
+01/2011: CARDINAL
+12/2010: CARDINAL
+the Solution Architecture and Project Management Office: ORG
+Android: ORG
+ROKU: ORG
+XBOX: ORG
+My Responsibilities: PRODUCT
+SME: PERSON
+Target: ORG
+STARZ: ORG
+Barnes & Noble: ORG
+Dish
+Network: WORK_OF_ART
+Catalog: PERSON
+Apple/Google/Microsoft DRM: ORG
+Digital: ORG
+Key Contributions: LOC
+$9 million-dollar: MONEY
+Barnes & Noble: ORG
+Java: PERSON
+DRM: ORG
+Movies & TV Shows: ORG
+Nook: ORG
+Android: ORG
+PKI: ORG
+DRM: ORG
+Charter Communications: ORG
+6 months: DATE
+Media & Entertainment: ORG
+Disney: ORG
+Disney: ORG
+Regulated Payment Processing:: WORK_OF_ART
+Business Analysts, Architects & Web Developers: ORG
+Mar 2010-July2010: DATE
+Walmart: ORG
+MoneyCard: PRODUCT
+10/2009: CARDINAL
+12-million: CARDINAL
+Federal HARP: ORG
+Regulated Finance & Lending: ORG
+First: ORDINAL
+Countrywide: ORG
+15: CARDINAL
+Architects: ORG
+QA: ORG
+$1.7 million: MONEY
+$29.3 million: MONEY
+Regulated Finance & Lending: Technical Lead: ORG
+IndyMac: ORG
+first: ORDINAL
+US: GPE
+75%: PERCENT
+Amazon: ORG
+RDS: ORG
+IaaS: ORG
+Lambdas (Serverless: ORG
+API: ORG
+Alexa: ORG
+Similar &: ORG
+Microsoft: ORG
+Heroku: GPE
+Cloud: PERSON
+Docker: PERSON
+Rkt: PERSON
+Docker Swarm & Kubernetes: ORG
+Keen: PERSON
+Cloud Native Computing Foundation's: ORG
+CNCF: ORG
+OCI: ORG
+Software Engineering: ORG
+Kanban: PRODUCT
+eXtreme Programming: ORG
+Waterfall: ORG
+DevOps: ORG
+Git: PERSON
+Jenkins, Artifactory & Nexus: ORG
+Automated: ORG
+SonarQube: ORG
+Veracode: ORG
+Snyk: PERSON
+Canary: GPE
+Operations: ORG
+RTO & RPO Technology Platforms: ORG
+Linux: GPE
+Windows: GPE
+Java: PERSON
+C++: PERSON
+#: CARDINAL
+JavaScript: ORG
+Typescript: PERSON
+SQL Server: ORG
+Oracle: ORG
+SQLite: ORG
+Realm, Swift & Objective-C: ORG
+Social Analytics: ORG
+Networks & Decision Trees: ORG
+Architecture &
+Design: ORG
+2016: DATE
+Massachusetts Institute of Technology 
+M.B.A: ORG
+2002: CARDINAL
+UCLA Anderson School of Management - City: ORG
+State: ORG
+Bachelor: ORG
+1993: DATE
+Thapar University: ORG
+18+ yrs: DATE
+Information Technology Management: ORG
+Serverless
+Strategic Digital Transformations: PRODUCT
+RPAs: NORP
+NLP: ORG
+Blockchain
+
+Program: ORG
+Agile/SCRUM/Kanban: ORG
+DevOps: ORG
+verbal & written: ORG
+SMART: ORG
+Networks: ORG
+APM: ORG
+Oracle
+API: ORG
+Problem: PRODUCT
+Project Management: ORG
+Project Planning
+Content, Quality
+Client: ORG
+PHP: ORG
+Unique
+IT Management: ORG
+Vendor: ORG
+Java: PERSON
+JavaScript: PRODUCT
+Linux: PERSON
+#
+Office: MONEY
+Software Engineering
+Features: ORG
+SQL Server
+Finance: ORG
+NET: ORG
+APM: ORG
+Agile: ORG
+API: ORG
+Apple: ORG
+C++: PERSON
+Catalog: PERSON
+Finance: ORG
+Hiring: GPE
+HTML: ORG
+PHP: ORG
+IT Management: ORG
+Java: PERSON
+JavaScript: PERSON
+Linux: GPE
+#, Office: MONEY
+Windows: GPE
+Network: ORG
+Networks: ORG
+Programming, Project Management: ORG
+Project Planning: ORG
+QA: ORG
+Software Developers: PERSON
+Software Engineering: ORG
+SQL Server: ORG
+Vendor: ORG

@@ -1,0 +1,98 @@
+20 years: DATE
+Project Management
+Professional: ORG
+20 years: DATE
+Project Management Professional: ORG
+Â Professional: ORG
+Budgeting
+Team: ORG
+Multi: GPE
+Microsoft Office: ORG
+Suite: PERSON
+SQL: ORG
+07/2013 to Current 
+Company: PRODUCT
+the Consumer Private Wealth Management: ORG
+the Enterprise Execution Services: ORG
+the Business Case: ORG
+Project Plan: PERSON
+Stakeholder
+Communications Management Plan: ORG
+Risks/Issues Log: ORG
+SunTrust: ORG
+Analyzes: PERSON
+07/2009: CARDINAL
+Healthcare: ORG
+Agile Methodology: ORG
+Healthcare: ORG
+Facilitated: ORG
+daily: DATE
+day: DATE
+previous day's: DATE
+JIRA: GPE
+Healthcare: ORG
+third: ORDINAL
+50%: PERCENT
+daily: DATE
+IBM: ORG
+Maintained: GPE
+Project Tracker: ORG
+RFS: ORG
+Service Center: FAC
+India: GPE
+Data Governance: ORG
+three: CARDINAL
+IBM: ORG
+two: CARDINAL
+IBM: ORG
+Technical Analyst: ORG
+HSD: ORG
+SQL: ORG
+PL/SQL: ORG
+ORACLE: ORG
+Created: ORG
+WinRunner: ORG
+TestDirector: ORG
+HSD: ORG
+950: CARDINAL
+University of Georgia - City: ORG
+Business Case: PERSON
+Change Management: ORG
+Customer Relationship Management: ORG
+CRM: PRODUCT
+Data Management: ORG
+Enterprise Application Integration: ORG
+EAI: ORG
+Javabeans: PERSON
+EJB: ORG
+XML: ORG
+IBM: ORG
+Java: PERSON
+Java Server Pages: PERSON
+JavaScript: ORG
+JDBC: PERSON
+MS Access: ORG
+Microsoft Office Suite: ORG
+Microsoft Project: ORG
+Microsoft Visio: ORG
+Enterprise: ORG
+ORACLE: ORG
+Developer, PL/SQL: ORG
+Primavera: ORG
+Product Management: ORG
+Project
+Management: ORG
+Rational Unified Process: ORG
+Software Development: ORG
+SQL: ORG
+TestDirector: ORG
+Validation: ORG
+Microsoft: ORG
+Visual Studio: ORG
+Wealth Management: ORG
+IBM WebSphere: ORG
+WebSphere: ORG
+WinRunner: ORG
+Project Management Professional: ORG
+Project Management Institute: ORG
+PMI: ORG

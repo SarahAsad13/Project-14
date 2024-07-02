@@ -1,0 +1,127 @@
+Cross-Channel Marketing: ORG
+Visual Communications: ORG
+Brand Creation &
+Reinvention, Strategies, Efficiency, Planning,: ORG
+Maya: PERSON
+Vray: PERSON
+Mental ray.3d: ORG
+Vray: PERSON
+3dsMax: CARDINAL
+Maya: PERSON
+Softimage: PERSON
+3d: CARDINAL
+3dsMax,: DATE
+Maya: PERSON
+Softimage: PERSON
+Vray: PERSON
+Mental: PRODUCT
+Highlights: GPE
+Max: PERSON
+Autodesk
+Maya
+Vray: PERSON
+Adobe
+Photoshop: PRODUCT
+Effects
+Adobe
+Illustrator
+Adobe: PRODUCT
+Adobe
+Lightroom: PRODUCT
+Joomla: PERSON
+CMS: ORG
+Flash: PERSON
+Google: ORG
+10: CARDINAL
+MAC: ORG
+Windows: NORP
+Adobe DreamweaverAdobe FlashArtiosCADZbrushKeynoteMicrosoft: ORG
+07/2014 - Current
+Company Name: ORG
+Maya: PERSON
+Vray: PERSON
+Mental: PRODUCT
+3d Lighting and Shaders: Intimate: ORG
+Vray: PERSON
+3dsMax: CARDINAL
+Maya: PERSON
+Softimage: PERSON
+3d: CARDINAL
+3dsMax,: DATE
+Maya: PERSON
+Softimage: PERSON
+Vray: PERSON
+Mental: PRODUCT
+Reviews: NORP
+McDonalds: ORG
+Coca Cola: ORG
+KFC: ORG
+Jack
+Daniels: PERSON
+Kraft Foods: ORG
+Hershey: ORG
+Winchester: PERSON
+Nestle: ORG
+Blizzard: PERSON
+CVS Pharmacy: ORG
+Wallgrens: PERSON
+John Deere: PERSON
+Kellog: GPE
+United Airlines: ORG
+Gentelman Jack: PERSON
+Bayer: ORG
+Johnson: PERSON
+Smirnoff: ORG
+Miller: PERSON
+Fisher: PERSON
+State: ORG
+Reviews: NORP
+Dunkin Donuts: PERSON
+Sony: ORG
+American Eagle: ORG
+Bulova: ORG
+True, Burt's
+Bees, Loreal: ORG
+Gatorade: PRODUCT
+Hitachi: ORG
+Algida: GPE
+Yankee Candle: PERSON
+Nicki Minaj: PERSON
+Bentley: ORG
+State: ORG
+Provided: ORG
+Assisted: ORG
+Education: ORG
+2005: DATE
+WSSS: GPE
+Suwalki ï¼​ City: GPE
+State: GPE
+Poland Master of Arts : Computer Graphics Computer Graphics: ORG
+2002: DATE
+WSSS: GPE
+SUWALKI: LOC
+State: GPE
+Poland Bachelor of Arts : Computer Graphics Computer Graphics: ORG
+Skills: ORG
+Modeling: GPE
+3DS: CARDINAL
+Max: PERSON
+Adobe: PERSON
+Adobe Photoshop: PERSON
+CMS: ORG
+SC: ORG
+CVS: ORG
+Dreamweaver: ORG
+Flash: PERSON
+Adobe Illustrator: ORG
+Lighting: ORG
+MAC: ORG
+Maya: PERSON
+Microsoft Office: ORG
+PowerPoint: ORG
+Windows: NORP
+Camera: PERSON
+Softimage: PERSON
+SolidWorks: ORG
+Staff
+Development, Supervision: ORG

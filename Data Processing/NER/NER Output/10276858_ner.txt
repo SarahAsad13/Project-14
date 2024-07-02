@@ -1,0 +1,47 @@
+Skills
+
+Highly: ORG
+Inborn: LOC
+5+ years: DATE
+25-50: CARDINAL
+Italian: NORP
+American: NORP
+Plate: ORG
+Banquet: ORG
+2015: DATE
+Maintained: GPE
+State Food Prep Chef
+
+: ORG
+Maintained: GPE
+12/2012: CARDINAL
+Cook: PERSON
+02/2013 - 06/2013: CARDINAL
+Cook: PERSON
+Cooked: PERSON
+Weighed: ORG
+06/2014 - 11/2014: PRODUCT
+Seasoned: PRODUCT
+Created: ORG
+Instructed: ORG
+Cooked: PERSON
+State Food Service Cook: ORG
+daily: DATE
+five: CARDINAL
+Stored: PRODUCT
+Complied: PERSON
+Cooked: PERSON
+State Line Cook: ORG
+Communicated: ORG
+2011: DATE
+William M Davies Career & Tech: ORG
+State: ORG
+USA High School: ORG
+Hospitality: GPE
+Restaurant Management
+Classes: ORG
+Restaurant: ORG
+Prep Cook: PERSON
+Patisserie and Confectionery, International Cuisine
+
+: ORG

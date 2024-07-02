@@ -1,0 +1,71 @@
+SR: ORG
+10 years: DATE
+Superb: NORP
+Detail: PERSON
+Background: FAC
+Time: ORG
+Exit interviews
+
+Staff: FAC
+ADP
+Fluent: ORG
+English: LANGUAGE
+HRIS Lawson: PERSON
+Administrative Specialist: ORG
+Section 125: LAW
+ERISA: ORG
+HIPAA: ORG
+STD: ORG
+Worker's Compensation: ORG
+ADA: ORG
+Coordinate: FAC
+HR Partners: ORG
+the Leave of Absence: ORG
+Employee Relations Managers: ORG
+11/2012: CARDINAL
+06/2013: CARDINAL
+05/2012: CARDINAL
+11/2012: CARDINAL
+day: DATE
+Health Savings Plan: ORG
+Vendors: ORG
+Accounting: ORG
+Coordinated: ORG
+annual: DATE
+05/2012: CARDINAL
+11/2011: CARDINAL
+Translated: ORG
+State: ORG
+Corporate Human Resources Coordinator 10/2006: ORG
+STD/LTD: ORG
+Workers Compensation: ORG
+Liaison: PERSON
+Organized: ORG
+Tuition Reimbursement: ORG
+Conducted Exit: FAC
+Human Resources Benefit: ORG
+daily: DATE
+the Human Resources Service Center: ORG
+monthly: DATE
+Liaison: PERSON
+Conducted: ORG
+annual: DATE
+Master of Science: WORK_OF_ART
+State Human Resources and Employment Relations
+B.S :: ORG
+Capella University - Human Resources Management: ORG
+September 2014: DATE
+Affiliations: ORG
+CEB Human Resources Network: ORG
+Skills
+Accounting: ORG
+ADA: ORG
+ADP: ORG
+Employee Relations: ORG
+HRIS: ORG
+Human Resources: ORG
+Lawson: PERSON
+Works: ORG
+PeopleSoft: ORG
+Safety: ORG
+SAP: ORG

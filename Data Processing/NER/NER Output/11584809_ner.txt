@@ -1,0 +1,75 @@
+Building Automation Systems: ORG
+Hardware: ORG
+Certified Information Security: ORG
+Server: ORG
+Mac: PERSON
+Navy: ORG
+Marine Corps Achievement Medal: ORG
+2010: DATE
+2011,Â 2012: DATE
+2013: DATE
+Year: DATE
+the Pacific Naval Fleet: ORG
+2013: DATE
+150: CARDINAL
+300+: CARDINAL
+8: CARDINAL
+Building Automation Systems: ORG
+October 2014: DATE
+UX: NORP
+8: CARDINAL
+second: ORDINAL
+QA: ORG
+Information Systems: ORG
+July 2008 to July 2014: DATE
+Operation Iraqi Freedom and Operation New Dawn: EVENT
+Microsoft: ORG
+Maintained: GPE
+Macs: PERSON
+Maintained: GPE
+Master of Science : Computer & Information Science: WORK_OF_ART
+2015: DATE
+State: GPE
+USA: GPE
+15 %: PERCENT
+Emphasis: ORG
+Cyber Security andÂ Information Awareness: ORG
+Â 
+Coursework in Operating Systems and System Programming
+Coursework in Computer Networking and Information Technology 
+
+Bachelor of Science : Management of Information Systems: ORG
+2011 University of Maryland University College: ORG
+State: GPE
+USA: GPE
+Coursework in Computer Networking and Information Technology: ORG
+4.0Â: CARDINAL
+GPA: ORG
+Windows Server: PERSON
+2003: DATE
+Windows Server: PERSON
+2008: DATE
+Active Directory
+: WORK_OF_ART
+Microsoft Exchange: ORG
+2013: CARDINAL
+Linux
+Mac OS: ORG
+Microsoft Dynamics
+Access Control SecurityÂ 
+
+Certifications
+: ORG
+Certified Naval Information Systems: ORG
+E6: CARDINAL
+Information Systems Security Professional: ORG
+Microsoft Certified Systems Administrator: ORG
+PMI - Project Management Professional: ORG
+ISA - Certified Automation Professional
+Cisco
+Certified Network Associate: ORG
+Certified Network Professional: ORG
+Certified Security Professional: ORG
+Teleconference Certified: PERSON
+Network+: GPE
+A+: CARDINAL

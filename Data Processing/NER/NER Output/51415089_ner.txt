@@ -1,0 +1,125 @@
+August 2006: DATE
+First: ORDINAL
+La Costa Film Festival: EVENT
+Spinal Elements: ORG
+American Express: ORG
+Ogilvy Public
+Relations: ORG
+Walt Disney Records: ORG
+The Los Angeles College of Music: ORG
+Rock 'n Roll: ORG
+Kids Rock: LOC
+The Associated Press: ORG
+Time Magazine: ORG
+Rolling Stone: ORG
+Oprah Magazine: PERSON
+Fast Company, Business Week: ORG
+AARP Magazine: ORG
+Ladies Home Journal: ORG
+Fox Business News: ORG
+CNN: ORG
+USA Today: ORG
+The New York Daily News: ORG
+The Los Angeles Times: ORG
+daily: DATE
+San Diego: GPE
+Southern California: LOC
+San
+Diego Union Tribune: GPE
+FINE Magazine: ORG
+San Diego Magazine: ORG
+Westways: ORG
+Sunset: ORG
+Travel & Leisure: ORG
+Carlsbad: GPE
+Ranch & Coast: ORG
+San Diego Business Journal: ORG
+Associate Executive: ORG
+January 2001 to August 2006: DATE
+the NAMM Foundation: ORG
+Oversaw: GPE
+two: CARDINAL
+Disney: ORG
+Fisher Price: ORG
+Paramount Home Video: ORG
+Teen People
+magazine: PERSON
+American Idol: ORG
+The Afterschool Alliance: ORG
+the Justin Timberlake Foundation: ORG
+millions: CARDINAL
+hundreds of millions: MONEY
+over $50 million dollars: MONEY
+Oversaw: GPE
+NAMM: ORG
+Sesame Street Music Works: ORG
+2002: DATE
+annual: DATE
+Capitol: FAC
+NAMM: ORG
+Rose Parade: ORG
+5 billion: CARDINAL
+November 1997 to January 2001: DATE
+Walt Disney Records': ORG
+Chosen: PERSON
+Walt Disney Records: ORG
+Michael Eisner's: PERSON
+Disney Learning Partnership: ORG
+WDR: ORG
+Billboard: GPE
+CNN: ORG
+USA Today: ORG
+The New York Daily News: ORG
+The New York Times: ORG
+The Los Angeles Times: ORG
+Access Hollywood: PERSON
+Entertainment Weekly: ORG
+Walt Disney Records': ORG
+Mulan: PRODUCT
+Christina Aguilera: PERSON
+98: CARDINAL
+Lion King Broadway: ORG
+Radio Disney Jams: ORG
+over 50 million: CARDINAL
+Importance of Music: WORK_OF_ART
+Disney: ORG
+NAMM: ORG
+the International Music Products Association: ORG
+the American Music Conference (: ORG
+AMC: ORG
+Phil Collins: PERSON
+Disney: ORG
+Walt Disney Records: ORG
+Account Executive: ORG
+January 1995 to November 1997: DATE
+Extra: ORG
+CNN: ORG
+KABC-TV News: ORG
+Los Angeles: GPE
+KTTV News: ORG
+LA: GPE
+KCAL-TV News: ORG
+LA: GPE
+KROQ-FM: ORG
+LA: GPE
+The Los Angeles Times: ORG
+Inside Edition, American Journal: ORG
+Pre-Emmy Awards: PERSON
+Cable Ace Awards: PERSON
+Established: ORG
+March 1994 to December 1994: DATE
+Bachelor of Arts : Communications Public: ORG
+August: DATE
+1993: DATE
+University of Missouri ï¼​ City: ORG
+State Communications Public: ORG
+Skills: ORG
+Fast, Film: ORG
+Access: ORG
+98: DATE
+Works: ORG
+Press: ORG
+Public Relations: ORG
+Express: ORG
+Radio,: ORG
+San: GPE

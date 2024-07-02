@@ -1,0 +1,56 @@
+2015: DATE
+Spanish: NORP
+Media: ORG
+Mercer University
+
+Marketing, Public Relations: ORG
+Journalism: NORP
+Presentation Skills: PRODUCT
+Georgia Perimeter College: ORG
+Suite: PERSON
+Excel: PRODUCT
+InDesign, Illustrator: ORG
+Adobe Acrobat XI Pro
+Meeting: PERSON
+Schedule: PERSON
+Deadline: NORP
+Problem: PRODUCT
+Schedule: ORG
+Created: ORG
+Excel: PRODUCT
+Adobe: PERSON
+Coordinated: ORG
+Prepared: PERSON
+Name State Public Relations Specialist: ORG
+Researched: ORG
+monthly: DATE
+Name City: GPE
+monthly: DATE
+Hodac: ORG
+Created: ORG
+Draft: PERSON
+Mercer University: ORG
+Mercer: PRODUCT
+Facilitated: ORG
+Maintained: GPE
+French: LANGUAGE
+Spanish: NORP
+Letters: NORP
+Memos: PERSON
+Filing: GPE
+Telephone Skills: ORG
+Time Management: ORG
+Microsoft Office Suite: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+PowerPoint Presentations: ORG
+Document: PRODUCT
+Internet Research: ORG
+Adobe Acrobat Pro: PERSON
+Photoshop: PERSON
+InDesign: ORG
+Design, Marketing Materials: ORG
+Press Releases: ORG
+Proposal Writing: PERSON
+Strategic Research: ORG
+Social Media Maintenance: ORG

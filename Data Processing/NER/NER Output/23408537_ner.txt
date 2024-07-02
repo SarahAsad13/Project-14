@@ -1,0 +1,74 @@
+Certifications: WORK_OF_ART
+John A. Logan: PERSON
+2003 - 2005: DATE
+ADP: ORG
+QuickBooks: ORG
+Human Resources Coordinator: ORG
+10+ years: DATE
+HR Coordinator: ORG
+Human Resources Executive: ORG
+Generalist Certificate: PERSON
+CiHRG: PERSON
+SHRM: ORG
+Notary Public: PERSON
+JD Edwards: PERSON
+JDE: ORG
+Fred Pryor Seminars: PERSON
+Windows: NORP
+Mac: PERSON
+Excel: PRODUCT
+PowerPoint: PRODUCT
+Outlook: PERSON
+Background: FAC
+Detail: PERSON
+Payroll: ORG
+Exit interviews
+: FAC
+Time Management
+Superb: ORG
+HRIS
+Recruitment: ORG
+Payroll: ORG
+Work History
+05/2015: WORK_OF_ART
+ADP: ORG
+Expertise: GPE
+Ethical: NORP
+Superior: LOC
+Strong: PERSON
+Excel: PRODUCT
+ADP: ORG
+Maintained: GPE
+Developed: ORG
+Researched: ORG
+Obtained: ORG
+Researched: ORG
+Enrollment Coordinator Company Name: ORG
+The Enrollment Coordinator: ORG
+meet Department of Insurance: ORG
+Medicare: ORG
+the organization for Individual: ORG
+Medicare: ORG
+10/2013: CARDINAL
+monthly: DATE
+ADP: ORG
+JD Edwards: PERSON
+JDE: ORG
+Mac: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows: NORP
+Word: PERSON
+Notary Public: PERSON
+Payroll: ORG
+Policies: GPE
+Transportation: ORG
+Education: ORG
+2005: DATE
+Associate of Science : Biology 
+John A. Logan College - City: WORK_OF_ART
+State: ORG
+Affiliations: ORG
+Graduate of Generalist Program: ORG

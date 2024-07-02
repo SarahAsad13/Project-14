@@ -1,0 +1,22 @@
+DEALERSHIP: GPE
+State: ORG
+Oversaw: GPE
+Maintained: GPE
+Processed: GPE
+Prepared: PERSON
+Maintained: GPE
+Prepared: PERSON
+monthly: DATE
+quarterly: DATE
+2002: DATE
+University of California - City: ORG
+State 
+Accounting
+Bachelor of Science : Finance: ORG
+2005: DATE
+University of California - City: ORG
+Core Qualifications Â: ORG
+MS Office: ORG
+Excel: PRODUCT
+Solid: PRODUCT
+Skills: ORG

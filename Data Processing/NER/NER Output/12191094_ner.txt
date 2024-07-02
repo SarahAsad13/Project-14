@@ -1,0 +1,104 @@
+Centene MARCOM: PERSON
+Development: ORG
+Centene Health Plans: ORG
+Specialty Companies: ORG
+Design: PRODUCT
+Collateral: NORP
+Adobe Suite: PERSON
+Promotional Products Management Resourceful: ORG
+Research Management: ORG
+Compose news: ORG
+Healthcare: ORG
+SNF: ORG
+Social Media Planning: ORG
+Centene: PRODUCT
+WEBSTER: PERSON
+Organizational Management Nashua: ORG
+NH: ORG
+Business Networking International: ORG
+Rotary International: ORG
+Commerce and Business Associations
+Courses: ORG
+Ethics: ORG
+Customer Relations: ORG
+Basic
+Communication and Conflict Management Skills: ORG
+Crisis Management: ORG
+Maximize Customer Service: ORG
+Initiate Quality Improvements
+
+Professional Experience: ORG
+01/2003 - 01/2008: ORG
+State: ORG
+LifeShare: ORG
+LifeShare: ORG
+Nashua: PERSON
+NH: ORG
+2003âˆ’2008 College: ORG
+01/2000: CARDINAL
+State: ORG
+State: ORG
+Publications Directed: PERSON
+annual: DATE
+01/1990 - 01/1997: CARDINAL
+four: CARDINAL
+two: CARDINAL
+more than 1,200: CARDINAL
+NH Press Association: ORG
+24-hour: TIME
+01/2011 - 01/2014: MONEY
+State: ORG
+2006-2008: DATE
+Oversaw: GPE
+day: DATE
+American Red Cross: ORG
+Easter Seals NH: ORG
+TEMPLE UNIVERSITY: ORG
+State: GPE
+US: GPE
+Journalism BA TEMPLE UNIVERSITY: ORG
+Journalism Philadelphia: PERSON
+PA: GPE
+City: GPE
+State: GPE
+US: GPE
+Nursing Fitchburg: GPE
+MA: GPE
+Manchester: ORG
+NH Marketing: ORG
+2014: DATE
+annual: DATE
+Certifications: ORG
+RN Registered Nurse American Red Cross: ORG
+2006-2008: DATE
+Affiliations
+Press Association: ORG
+Skills
+Marketing, Public Relations, Business Development, Solutions: ORG
+Budgets, Exchange: ORG
+Liaison, Marketing Department: ORG
+Operations: ORG
+B2b: ORG
+B2b Sales: ORG
+Including Sales: ORG
+Promotional: ORG
+Sales Management, Sales Organization, Securities, Clients: ORG
+American Red Cross: ORG
+Health And
+
+Wellness: ORG
+Red Cross: ORG
+Registered Nurse: ORG
+Conflict Management: ORG
+Crisis
+Management: ORG
+Customer Service: ORG
+Educational Programs: ORG
+Emergency Preparedness: PERSON
+Healthcare: ORG
+Hippa: GPE
+Marcom: ORG
+Mba: GPE
+Media Planning: ORG
+Product Management: ORG
+Receptionist: NORP

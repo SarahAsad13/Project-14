@@ -1,0 +1,66 @@
+Skills
+
+Team-oriented: ORG
+Preventive and Reparative Maintenance
+Materials Handling
+: ORG
+Debris: PERSON
+Store Merchandising
+Merchandise Stocking
+Shelving of Products
+Inventory Planning
+Heavy: WORK_OF_ART
+Work History
+Construction Worker: WORK_OF_ART
+Performed: ORG
+first: ORDINAL
+crown: ORG
+Monitored: ORG
+Monitored: ORG
+Provided: ORG
+daily: DATE
+Stocker: PERSON
+10/2020: CARDINAL
+Maintained: GPE
+Checked: PRODUCT
+as much as 150 pounds: MONEY
+Collaborated: ORG
+Created: ORG
+Maintained: GPE
+Maintained: GPE
+Applied: ORG
+RF: PRODUCT
+04/2020: CARDINAL
+Corinth Holders High School - City: ORG
+Skills
+
+Team-oriented: ORG
+Preventive and Reparative Maintenance
+Materials Handling
+: ORG
+Debris: PERSON
+Store Merchandising
+Merchandise Stocking
+Shelving of Products
+Inventory Planning
+Heavy: WORK_OF_ART
+Work History
+Construction Worker: WORK_OF_ART
+Performed: ORG
+first: ORDINAL
+crown: ORG
+Monitored: ORG
+Monitored: ORG
+Provided: ORG
+daily: DATE
+Stocker: PERSON
+10/2020: CARDINAL
+Maintained: GPE
+Checked: PRODUCT
+as much as 150 pounds: MONEY
+Collaborated: ORG
+Created: ORG
+Maintained: GPE
+Maintained: GPE
+Applied: ORG
+RF: PRODUCT

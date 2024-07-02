@@ -1,0 +1,122 @@
+Career Overview: WORK_OF_ART
+10+ years: DATE
+Build Quality: ORG
+daily: DATE
+working hours: TIME
+SKILLS Manufacturing Quality: ORG
+Mechanical Inspection Tools: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Inventory Control: ORG
+Data Entry: ORG
+Assembler Hard: ORG
+Mass Storage: GPE
+HDD: ORG
+Nodes: PERSON
+UPG 3PAR Racks: ORG
+weekends: DATE
+BL 460: FAC
+BL 465c: FAC
+BL 490c: ORG
+HP ProLiant Tower Servers: ORG
+ML: ORG
+ML: ORG
+310 G5: PRODUCT
+ML: ORG
+330: CARDINAL
+ML: ORG
+350: CARDINAL
+ML: ORG
+370: CARDINAL
+HP ProLiant Rack Servers: ORG
+DL: ORG
+165: CARDINAL
+G6: PRODUCT
+3PAR Rack and Servers Assembly: ORG
+F200: PRODUCT
+F400: PRODUCT
+Storage Systems: ORG
+T400: PRODUCT
+T800 Configuration Base: PRODUCT
+V400: PRODUCT
+EOS: ORG
+7400/7200: DATE
+300: CARDINAL
+Excel: PRODUCT
+Access: ORG
+10 Years: DATE
+HP Servers: ORG
+Expert: PRODUCT
+5 Years: DATE
+HP Servers Test
+Expert: WORK_OF_ART
+1 Years: DATE
+Expert: PRODUCT
+5 Years: DATE
+Data Entry/Records
+Management
+Expert: ORG
+5 Years: DATE
+Expert: PRODUCT
+5 Years: DATE
+WIP AUDITOR TECHNICAL: ORG
+10: CARDINAL
+January 2011: DATE
+State: ORG
+3: CARDINAL
+GB: GPE
+15: CARDINAL
+K Fiber Channel: ORG
+600: CARDINAL
+GB: GPE
+15: CARDINAL
+K Fiber Channel: ORG
+1: CARDINAL
+3: CARDINAL
+7.2: CARDINAL
+SATA Assembly: ORG
+3PAR: ORG
+F and V Class: PRODUCT
+Assembly: ORG
+3PAR Racks: ORG
+Assembly: ORG
+Fans: NORP
+FCALS: ORG
+GBIC: PERSON
+Fiber Cable: ORG
+Reduce 3PAR: PERSON
+EOS: ORG
+77% to 9%: PERCENT
+EOS: ORG
+SAS: ORG
+SAS: ORG
+3: CARDINAL
+weekly: DATE
+Monitored: ORG
+October 2009 to: DATE
+State
+
+Assembly: ORG
+Site Engineering: ORG
+August 2003 to October 2005: DATE
+Develop: ORG
+Training
+Bachelor of Science: PERSON
+State: GPE
+iraq: GPE
+Skills: ORG
+3: CARDINAL
+7.2: CARDINAL
+Assembly: ORG
+Customer Service: ORG
+Data Entry: ORG
+HP Servers: ORG
+IBM: ORG
+Mechanical: ORG
+Access: PRODUCT
+Excel: PRODUCT
+MS Word: PERSON
+MSN: ORG
+ProLiant: ORG
+SAS: ORG

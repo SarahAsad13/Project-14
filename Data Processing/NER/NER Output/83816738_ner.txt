@@ -1,0 +1,201 @@
+cycleÂ: ORG
+Java: PERSON
+Object Oriented Programming: ORG
+Distributed Systems: ORG
+Spring: DATE
+Spring Core ContainerÂ: ORG
+Module: PERSON
+AOP: ORG
+MVC: ORG
+Security: ORG
+Data, Transaction Management: ORG
+Spring Cloud: PERSON
+HTML5: ORG
+CSS3: GPE
+JavaScript: PRODUCT
+jQuery: ORG
+SQL: ORG
+MySQL, PostgreSQL: GPE
+Oracle: ORG
+NoSQL: GPE
+Agile: ORG
+Scrum: PRODUCT
+Version Control Tools: ORG
+SVN: ORG
+Git: GPE
+Selenium: ORG
+Java: PERSON
+Behavioral: ORG
+Cucumber: DATE
+Ant: GPE
+Maven: GPE
+Gradle: PERSON
+Jenkins: PERSON
+Skills
+
+Programming Languages: ORG
+Java/J2EE: PERSON
+JavaScript: PRODUCT
+Android: ORG
+HTML: ORG
+CSS: ORG
+SQL: ORG
+Restful-Web Services: ORG
+Hibernate: PERSON
+jQuery, Bootstrap,Â Selenium WebDriver: ORG
+Cucumber: DATE
+Oracle: ORG
+Build Tools: Gradle: WORK_OF_ART
+Maven: GPE
+Ant
+Practices: FAC
+Waterfall: ORG
+TDD: ORG
+Clean Coding: ORG
+Continuous Delivery
+Architectures: Microservices: PERSON
+Single Page Application: ORG
+REST: ORG
+Client: PERSON
+SVN: ORG
+Git
+Cloud Application: PERSON
+Npm: PERSON
+Node: GPE
+JSON: GPE
+XML: ORG
+Jenkins: PERSON
+Android Studio: PERSON
+Linux: GPE
+Windows: NORP
+Information Technology Intern: ORG
+Name City: GPE
+â€˜WebTix: ORG
+ExtremeTix: ORG
+Ticketing Solution Company: ORG
+Selenium WebDriver: ORG
+Spring Boot: ORG
+â€˜WebTix: ORG
+Framework: PERSON
+Java: PERSON
+Page Object Model: ORG
+Integrated: ORG
+Cucumber: PERSON
+Quality Assurance: ORG
+Leveraged Jenkins: PERSON
+Automated: ORG
+Interpreted: ORG
+QA: ORG
+Collaborated: ORG
+QA: ORG
+Java Full Stack Developer 05/2014: PERSON
+Name City: GPE
+Coded: ORG
+Java: PERSON
+Java: PERSON
+Spring: DATE
+MVC: ORG
+AOP: ORG
+DAO: ORG
+JDBC: PERSON
+Transaction, Validation,: ORG
+JSON: GPE
+XML: ORG
+Maven: GPE
+JUnit Test: ORG
+SOA - Service Oriented Architecture: ORG
+Spring Data JPA: ORG
+Hibernate: PERSON
+Java: PERSON
+SDK: ORG
+Linux: GPE
+NFC: ORG
+VMS: ORG
+Visitor Management System: ORG
+QMS: ORG
+Queue Management System: ORG
+Java: PERSON
+RS485: PRODUCT
+TCP & HTTP: ORG
+QMS: ORG
+VMS (Visitors Management System: ORG
+QMS: ORG
+Queue Management System: ORG
+JSP: ORG
+HTML: ORG
+CSS: ORG
+Bootstrap: PERSON
+Android: ORG
+Gained: NORP
+PhoneGap and Titanium: ORG
+Java: PERSON
+Git: GPE
+Java Developer Intern: PERSON
+Name City: GPE
+Core Java: PERSON
+Multithreading Exception Handling: PERSON
+Generics: PERSON
+Java Collections: PERSON
+Java 1.7: PERSON
+Java Swing: PERSON
+JDBC: PERSON
+SQL Server: ORG
+Nepal Tourism Board: ORG
+NTB: ORG
+Prepared: PRODUCT
+JUnit: ORG
+Software Developer Intern 01/2013: ORG
+Name City: GPE
+Scrum: PRODUCT
+Agile Software Development: ORG
+PHP: ORG
+CodeIgniter MVC Framework: ORG
+PHP: ORG
+CodeIgniter: ORG
+PHP: ORG
+Object Oriented Programming: ORG
+Maintained: GPE
+Git: PERSON
+SQL: PERSON
+Structured Query Language: ORG
+Database Design: ORG
+Master of Science : Computer Science: WORK_OF_ART
+2017: DATE
+Lamar University City: ORG
+State: GPE
+United States of America: GPE
+4.0/4.0: CARDINAL
+Bachelor of Engineering : Electronics and: ORG
+2013: DATE
+Tribhuvan University City: ORG
+State: ORG
+Nepal GPA: GPE
+3.94/4.0: CARDINAL
+Honours: ORG
+National Robotics Competition: ORG
+Robotics Association of Nepal: ORG
+July 2012: DATE
+Outstanding Student Award: PERSON
+Lamar University: ORG
+2017Â: DATE
+Robotics Club: ORG
+Kathmandu Engineering College: ORG
+Tribhuvan University: ORG
+2013 - 2013: DATE
+National Robotics Competition: ORG
+Robotics Association of Nepal: ORG
+Conducted: ORG
+13th January 2013: DATE
+14th June 2013: DATE
+Kathmandu Engineering College: ORG
+Android: ORG
+Locus 2013: FAC
+Nepal
+Gave: PERSON
+Nepal Army Club: ORG
+Treasurer and Event Organizer: ORG
+Nepalese Student Association (NSA: ORG
+Lamar University: ORG
+2016 - 2017: DATE
+LinkedIn: GPE
+GitHub: ORG

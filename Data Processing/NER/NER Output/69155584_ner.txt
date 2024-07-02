@@ -1,0 +1,36 @@
+Detail Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+: PERSON
+three years: DATE
+10/2015: CARDINAL
+15%: PERCENT
+both years: DATE
+each month: DATE
+Maintained: GPE
+10/2015: CARDINAL
+Bridal Consultant Company Name: ORG
+Maintained: GPE
+5-10%: PERCENT
+monthly: DATE
+Knowledgeable: WORK_OF_ART
+Maggie Sottero: PERSON
+Casablanca Bridal: ORG
+David Tutera Bridal: PERSON
+The Dessy Collection: ORG
+Alfred
+Angelo: PERSON
+Bill Levkoff: PERSON
+Mori Lee: PERSON
+12/2014: CARDINAL
+Waitstaff Company Name: ORG
+days: DATE
+Fridays, Saturdays: DATE
+Sundays: DATE
+One: CARDINAL
+two: CARDINAL
+Training: PERSON
+2006: DATE
+State: GPE
+USA
+Business Management Black Hills State University: ORG
+State: GPE
+USA: GPE

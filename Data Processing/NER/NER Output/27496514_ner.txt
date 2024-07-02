@@ -1,0 +1,62 @@
+CUSTOMER: ORG
+Client: GPE
+Adept: ORG
+Microsoft: ORG
+Excel: PRODUCT
+9.1: DATE
+SAP: ORG
+Remedy: PERSON
+Highlights: GPE
+Intake: ORG
+4258: DATE
+25%: PERCENT
+the Fiscal year 2014: DATE
+15%: PERCENT
+10%: PERCENT
+Intake: ORG
+approximately 80: CARDINAL
+weekly: DATE
+1.4 days: DATE
+30%: PERCENT
+the 2 days Service: DATE
+HR Customer Service: ORG
+11/2012: CARDINAL
+Current Company Name: ORG
+Remedy: PERSON
+HR Teams: ORG
+Visa: ORG
+Payroll, Accounting and Travel: ORG
+Educate: ORG
+Contribute: ORG
+daily: DATE
+the 2 days Service: DATE
+Intake: ORG
+4258: DATE
+25%: PERCENT
+the Fiscal year 2014: DATE
+15%: PERCENT
+the average: PERCENT
+10%: PERCENT
+Intake: ORG
+weekly: DATE
+1.4 days: DATE
+Department of Health: ORG
+Created: ORG
+Prepared: PRODUCT
+Pennsylvania: GPE
+3%: PERCENT
+Liaison: PERSON
+04/2009: ORDINAL
+Maintained: GPE
+over 100: CARDINAL
+Ran: PERSON
+a quarter: DATE
+Communicated: ORG
+Business Administration Business Administration: ORG
+State: GPE
+France: GPE
+Skills
+Accounting: ORG
+Department of Health: ORG
+Payroll: ORG
+Research, Service Level Agreement: ORG

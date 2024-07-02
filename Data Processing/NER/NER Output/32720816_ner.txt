@@ -1,0 +1,103 @@
+Career Focus
+Earned a Private Pilot's License: FAC
+August 2008: DATE
+95 hours: TIME
+ATC: ORG
+Windows: NORP
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+the Air Force's: ORG
+September 2009 to January 2011: DATE
+the DisAbility Sports Festival: EVENT
+CSUSB: ORG
+San Bernardino: GPE
+CA: ORG
+Core Qualifications
+Education: ORG
+Training
+Bachelor's: PERSON
+Professional Aeronautics Management and Aviation Safety: ORG
+2014: DATE
+Embry Riddle Aeronautical University: ORG
+GPA: ORG
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+Professional Aeronautics Management and Aviation Safety: ORG
+2009: DATE
+Silver Valley High School: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.50: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+Professional Aeronautics Management, Safety, Aeronautical Science: ORG
+Information Systems: ORG
+10 2012: DATE
+Embry Riddle
+: PERSON
+Aeronautical University: ORG
+GPA: ORG
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+GPA: ORG
+3.8: CARDINAL
+GPA: ORG
+4.00: CARDINAL
+Professional Aeronautics Management, Safety, Aeronautical Science: ORG
+Information Systems
+Human Factors Security Aviation Safety Occupational Safety and Health Air Traffic Control Aircraft Maintenance Aeronautical Science
+Work Experience
+Company: ORG
+Name City: GPE
+State Aviation Parts Salesman: ORG
+14.00: CARDINAL
+40: CARDINAL
+Ray Ferreira: PERSON
+405: CARDINAL
+Quantum: ORG
+AMICS: ORG
+Logged: ORG
+Skydrol: PRODUCT
+PPE: ORG
+hour: TIME
+Name City: GPE
+State Package/Front Counter Attendant 10/2012: ORG
+7.75: CARDINAL
+25: CARDINAL
+Susan: PERSON
+405: CARDINAL
+273-9125: CARDINAL
+Performed: ORG
+Name City: GPE
+State: ORG
+21.00: CARDINAL
+40: CARDINAL
+Jim Kennedy: PERSON
+931: CARDINAL
+303-1748: DATE
+4: CARDINAL
+50: CARDINAL
+Chevy: ORG
+Colorado: GPE
+U.S.: GPE
+Navy: ORG
+Mobile Land Target) Program: ORG
+Utilized: ORG
+PPE: ORG
+Interpreted: ORG
+Navy: ORG
+hours: TIME
+Navy: ORG
+Safety: ORG
+Supervisor: PERSON

@@ -1,0 +1,84 @@
+Administration and Management Conflict: ORG
+Adapt: ORG
+Highlights
+
+Program: ORG
+Analytical: PRODUCT
+Team Player: ORG
+Public Relations: ORG
+Public Relations Strategies: ORG
+the organization of Group: ORG
+Ministry of Oil and Minerals and Attend Group: ORG
+Company: ORG
+Company: ORG
+â€¢Integrated Public Relations: ORG
+Company: ORG
+Public Relations: ORG
+Jan 2010: DATE
+Jan 2013: DATE
+USAID: ORG
+Yemen: GPE
+USAID: ORG
+Yemen: GPE
+Oversaw: GPE
+US: GPE
+DG: GPE
+USAID: ORG
+Yemen Stability Initiative: WORK_OF_ART
+Supreme National Authority for Combating Corruption: ORG
+Central Organization for Control and Audit, Ministry of Finance: ORG
+Ministry of Planning: ORG
+Parliament: ORG
+Supreme Commission: ORG
+Election and Referendum and Ministry of Local Administration: WORK_OF_ART
+NDI: ORG
+IFES: ORG
+ADRA: ORG
+Save the Children: ORG
+UNDP: ORG
+Democratic: NORP
+Yemen: GPE
+Nov 2002: DATE
+Yemen: GPE
+Yemen: GPE
+Directory: GPE
+Yemen: GPE
+First Educational Yemeni Cartoon: ORG
+Children Library: PERSON
+Women Income Generation: ORG
+Youth Community Participation: ORG
+the Foreign Service National award of the Year 2003: ORG
+Child Project Officer: WORK_OF_ART
+May 1999: DATE
+Nov 2000: DATE
+Project Officer: PERSON
+the Community Based Rehabilitation and Inclusive Education: ORG
+Project Officer: PERSON
+the Community Based Rehabilitation and Inclusive Education: ORG
+four: CARDINAL
+Yemeni: NORP
+NGO: ORG
+June 1996: DATE
+Colorado State University: ORG
+State Arts
+Additional Information
+
+Awards Nov 2009: ORG
+2007: DATE
+US Department of State: ORG
+Swanee Hunt Award: PERSON
+Advancing Women's Role: WORK_OF_ART
+Policy Formulation: ORG
+Washington DC Nov: GPE
+Sanaa May: PERSON
+US Department of State: ORG
+May 2005: DATE
+US Department of State Certificate of Appreciation: ORG
+Finance: ORG
+Grants: PERSON
+Oct, Oil: ORG
+PDM: ORG
+Project Design and Management, Public Relations: ORG
+Rehabilitation: ORG
+Supervision: ORG
+Tender: NORP

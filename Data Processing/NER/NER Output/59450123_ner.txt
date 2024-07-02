@@ -1,0 +1,92 @@
+Skills Budgeting: PERSON
+Superior: LOC
+Lean implementation Exceptionally: ORG
+Excel: PRODUCT
+Finance: ORG
+April 2014: DATE
+Oversee: ORG
+quarterly: DATE
+annual: DATE
+eleven: CARDINAL
+22.9%: PERCENT
+2 years: DATE
+Forecast: ORG
+VP of Finance: ORG
+two: CARDINAL
+monthly: DATE
+Regional: ORG
+30-60-90 day: DATE
+month: DATE
+Finance: ORG
+June 2013 to April 2014: DATE
+weekly: DATE
+two: CARDINAL
+monthly: DATE
+Regional: ORG
+30-60-90 day: DATE
+month: DATE
+November 2011 to June 2013: DATE
+Business Basics': ORG
+two: CARDINAL
+monthly: DATE
+Regional: ORG
+30-60-90 day: DATE
+month: DATE
+P&L: ORG
+March 2008 to November 2011: DATE
+monthly: DATE
+P&L: ORG
+Regional VP: ORG
+Food and Beverage: ORG
+monthly: DATE
+Created a Profit: ORG
+Call Center: FAC
+30-60-90: DATE
+monthly: DATE
+P&L Review: ORG
+Quarterly Earnings Call and Board Meetings: ORG
+DMA: ORG
+Department: ORG
+February 2007 to March 2008: DATE
+Business Intelligence System: ORG
+Datavision: ORG
+Maintained Excel: ORG
+Resort: ORG
+5-10 hours: TIME
+10%: PERCENT
+Accountant: PERSON
+May 2006 to January 2007: DATE
+monthly: DATE
+monthly: DATE
+GWR: ORG
+August 2004 to May 2006 Company Name ï¼​ City: DATE
+weekly: DATE
+Cut: FAC
+five hours: TIME
+August 2002 to July 2004: DATE
+F: PRODUCT
+A.: NORP
+August 2002: DATE
+Street McDonalds: PERSON
+$1.65 million: MONEY
+August 2003: DATE
+8%: PERCENT
+July 2004: DATE
+3%: PERCENT
+40: CARDINAL
+nine: CARDINAL
+annual: DATE
+monthly: DATE
+MBA : Accounting: WORK_OF_ART
+1 2009: DATE
+Lakeland College: ORG
+State Accounting
+Bachelor's Degree :: ORG
+Accounting Upper Iowa University: ORG
+State Accounting: ORG
+Analyst: PERSON
+Budget, Business Intelligence, Call Center, Finance: ORG
+Meetings: GPE
+Excel: PRODUCT
+Loss: PERSON
+Retail: PERSON

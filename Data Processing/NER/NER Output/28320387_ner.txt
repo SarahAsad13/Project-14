@@ -1,0 +1,24 @@
+4 years: DATE
+6 months: DATE
+multi-million dollar: MONEY
+Conferred: ORG
+Obtained: ORG
+Field Engineering Intern Company Name ï¼​ City: WORK_OF_ART
+Conferred: ORG
+Directed: ORG
+State: ORG
+Examined: NORP
+Performed: ORG
+10/2010: CARDINAL
+Non-Commissioned Officer Company Name: ORG
+State: ORG
+4: CARDINAL
+30: CARDINAL
+Performed: ORG
+Oversaw: GPE
+May 2016: DATE
+Bachelor of Science : Petroleum Engineering LOUISIANA: ORG
+State Petroleum Engineering
+Interests: ORG
+Philanthropy Committee: ORG
+Philanthropy Committee: ORG

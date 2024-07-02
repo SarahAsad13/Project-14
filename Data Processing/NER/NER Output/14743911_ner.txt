@@ -1,0 +1,90 @@
+the United States: GPE
+Air Force: ORG
+JCM Global: PERSON
+Working on MS: ORG
+Instructional Design
+
+Great Group Worker
+
+Able: ORG
+Won Diamond Sharp: PERSON
+Current
+Technical Trainer/ Instructional Designer Company Name: ORG
+Develop
+Computer Based Training: ORG
+Webinar: PERSON
+Hybrid Training: PERSON
+LMS: ORG
+twelve: CARDINAL
+less than one year: DATE
+Skills Used Public Speaking: ORG
+Microsoft Office Suite: ORG
+ATD: ORG
+Accomplishments Was: WORK_OF_ART
+EW: ORG
+Combat Shield Team: ORG
+Skills Used Public Speaking: ORG
+Combat Shield Lead Company Name: PRODUCT
+Combat Shield: PRODUCT
+each year: DATE
+Air Force Wide: PRODUCT
+Air Force Leadership: PRODUCT
+Project House Call: ORG
+Diamond Sharp: ORG
+Skills Used Public: ORG
+State Responsibilities Ensure EW: ORG
+Accomplishments Worked: PERSON
+first: ORDINAL
+First: ORDINAL
+Microsoft Office Suite: ORG
+2017: DATE
+State: GPE
+US: GPE
+2015: DATE
+Associate of Arts : Criminal Justice Community College: WORK_OF_ART
+the Air Force: ORG
+State: GPE
+US: GPE
+2014: DATE
+Leo University: ORG
+State: GPE
+US: GPE
+Saint Leo University - Saint Leo: ORG
+FL: ORG
+2012: DATE
+2014: DATE
+2010: DATE
+Associate of Arts University of Phoenix: ORG
+State: GPE
+US: GPE
+twelve: CARDINAL
+less than one year: DATE
+Project House Call: ORG
+Won Diamond Sharp: PERSON
+NV - May 2009: ORG
+May 2013: DATE
+Combat Shield: PRODUCT
+each year: DATE
+Air Force Wide: PRODUCT
+Air Force Leadership: PRODUCT
+Accomplishments Co-authored: PERSON
+Project House Call: ORG
+Diamond Sharp: ORG
+Skills Used Public: ORG
+Supervisor USAF - Nellis AFB: PERSON
+NV - June: ORG
+May 2009: DATE
+Responsibilities Ensure EW: ORG
+Accomplishments Worked with Subject Matter Experts: WORK_OF_ART
+first: ORDINAL
+First: ORDINAL
+Microsoft Office Suite: ORG
+Leadership and Management: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+Award, Budget, Articulate, Adult Learning: ORG
+Avionics: ORG
+Instructional Design: ORG
+Maintenance: PERSON
+Clients,: ORG
+Liaison: PERSON

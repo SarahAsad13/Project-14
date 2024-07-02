@@ -1,0 +1,99 @@
+Business Administration Human Resources Management University of New Mexico: ORG
+State Business Administration Human: ORG
+Provider: ORG
+Database: GPE
+makingÂ: ORG
+Professional Affiliations: ORG
+Alpha Chi Omega Sorority
+Professional Experience
+Market Consultant - Healthcare Advocate: ORG
+August 2015: DATE
+Current Company Name: ORG
+HEDIS: PERSON
+Stars)Â: NORP
+Providers: ORG
+Provider: ORG
+Consults: GPE
+SalesForce: ORG
+Tableau: GPE
+Concur: ORG
+SharePoint: ORG
+Provider Network Specialist: ORG
+February 2014 to August 2015: DATE
+the Blue Community HMO: ORG
+Blue Advantage HMO: ORG
+the
+health insurance exchange: ORG
+2015: DATE
+HMO: ORG
+Northeast: LOC
+New Mexico: GPE
+La
+Vida IPA: ORG
+monthly: DATE
+Taos: FAC
+La Vida: PERSON
+PPW: ORG
+Provider
+Finder: PERSON
+Vistar: PRODUCT
+Premier Pricing: ORG
+Utilized Blue Chip: ORG
+PQRS: ORG
+Completed Single Case Agreements Assisted: ORG
+Centennial Care: ORG
+Medicare Appeals: ORG
+Grievances: ORG
+Lovelace: PERSON
+Medicare Advantage: ORG
+December 2013 to February 2014: DATE
+HIPAA: ORG
+Maintained: GPE
+daily: DATE
+Quality Assurance: ORG
+Collaborated: ORG
+one: CARDINAL
+Lean Six Sigma: EVENT
+Provider Relations Field Representative: ORG
+November 2012 to December 2013: DATE
+Fee for Service New Mexico Medicaid Providers: ORG
+Applied: ORG
+Examined: ORG
+Supervisor 
+September 2011 to November 2012 Company Name: WORK_OF_ART
+the Mi Via Self-Directed Waiver: ORG
+Maintained: GPE
+Allocated: ORG
+Recruitment Specialist: PERSON
+February 2010 to September 2011 Company Name ï¼​ City: DATE
+Facilitated: ORG
+120: CARDINAL
+2nd Quarter, 2010: DATE
+25,000: MONEY
+monthly: DATE
+2%: PERCENT
+4th quarter 2010: DATE
+HRIS Administrator: ORG
+September 2008 to November 2010: DATE
+Determine: PERSON
+remaining hours: TIME
+Coordinated Workman's Compensation: ORG
+Acted: ORG
+Liberty Mutual: PERSON
+SITEL: ORG
+enrollment: GPE
+Mediated: ORG
+Maintained: GPE
+Championed: PRODUCT
+Juvenile Diabetes Research Foundation: ORG
+United Way: GPE
+Toys for Tots and Road
+Runner food bank: ORG
+Initiated: ORG
+Behavioral Health: ORG
+Critical: ORG
+2: CARDINAL
+Organizational: ORG
+Quality, Quality Assurance: ORG
+Research: ORG
+Sound: GPE

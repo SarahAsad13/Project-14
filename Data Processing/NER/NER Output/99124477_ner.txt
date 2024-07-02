@@ -1,0 +1,283 @@
+7+ years: DATE
+Analysis, Design: ORG
+Testing: GPE
+Database Administrator & Production: ORG
+Mainframe: PERSON
+Banking, Financial: ORG
+IBM: ORG
+CICS: GPE
+JCL: ORG
+VSAM: GPE
+UNIX: ORG
+BRIO: ORG
+XPEDITOR: ORG
+IBM: ORG
+QMF: ORG
+Admin: ORG
+ENDEVOR: ORG
+SCLM: ORG
+Analysis and Designing of Documents like Software requirement Specifications (SRS: WORK_OF_ART
+HLD: ORG
+Problem: PRODUCT
+Batch: PERSON
+Mainframes: GPE
+DB2 Application Developer and DB2 UDB V8 family Fundamentals
+Certifications: ORG
+MVS: ORG
+Windows: GPE
+UNIX: ORG
+ORACLE: ORG
+SQL: ORG
+Tools/Utilities: ORG
+RACF: ORG
+OPC: ORG
+QMF: ORG
+SPUFI: ORG
+XPEDITOR: ORG
+ENDEVOR: ORG
+ABEND: ORG
+SDF: ORG
+DCLGEN: ORG
+IBM: ORG
+ICETOOL: ORG
+BMS: ORG
+Quality Center: ORG
+8.2: CARDINAL
+Clear Quest: ORG
+Fault Analyzer: ORG
+SDSF: ORG
+FTP: ORG
+IBM UTILITIES: ORG
+JCL UTILITIES: ORG
+ADMIN: ORG
+PANEL: ORG
+SONAR: ORG
+RDZ: ORG
+MQ Shooter
+
+: PERSON
+JCL: ORG
+CICS: GPE
+VSAM: GPE
+SQL: ORG
+HTML: ORG
+XML: ORG
+JavaScript: PRODUCT
+REXX: NORP
+Java: PERSON
+MS-
+Word: PERSON
+Excel: PRODUCT
+MS-Office: ORG
+MS Access: ORG
+OLTP: ORG
+CICS: ORG
+Associate Consultant: PERSON
+October 2010 to July 2014: DATE
+October 2010 to July 2014: DATE
+9.0: CARDINAL
+10: CARDINAL
+MVS: ORG
+SPUFI: ORG
+Scheduler: PERSON
+REXX: NORP
+JCL: ORG
+CICS: ORG
+ENDEVOR: ORG
+EXPEDITOR: ORG
+R2DS: PERSON
+MQ Roles: ORG
+more than: CARDINAL
+7: CARDINAL
+Done Resource
+Management: ORG
+Fridays: DATE
+News-Letter: ORG
+Cheque: ORG
+Fees & Interests: ORG
+Development of new programs: ORG
+daily: DATE
+Techinical Specifications: ORG
+Creating UTP: ORG
+SIT: ORG
+Working: ORG
+E2E: ORG
+Abends &: ORG
+adhoc & business: ORG
+Working: ORG
+Reviews: NORP
+Code Reviews: PERSON
+Emphasis: PERSON
+Creation of STUB: ORG
+Batch: PERSON
+20 million: CARDINAL
+Working on Performance Testing and Tuning: ORG
+Batch: PERSON
+Impact Analysis: ORG
+Coding: ORG
+Unit Testing: WORK_OF_ART
+AIT: ORG
+Reviews: NORP
+Document Reviews: PERSON
+Code Reviews: PERSON
+Reviews: ORG
+SIT: ORG
+March 2007 to October 2010: DATE
+2011 Symbiosis University: ORG
+State: GPE
+INDIA: GPE
+BE Computer - Pune University: ORG
+OHCB: ORG
+HSBC: ORG
+SIT: ORG
+Term Deposit: ORG
+one: CARDINAL
+HSBC: ORG
+HSBC: ORG
+OHCB: ORG
+Mainframes: ORG
+AS400: PRODUCT
+HUB: ORG
+HSBC: ORG
+OHCB: ORG
+One: CARDINAL
+53: CARDINAL
+OHCB: ORG
+One: CARDINAL
+OHCDM: ORG
+HSBC: ORG
+OHCB: ORG
+85: DATE
+HSBC: ORG
+year
+2020: DATE
+2: CARDINAL
+IBM INDIA PVT LTD: ORG
+Pune (System Engineer: ORG
+Mar 2007 - Oct 2010: PERSON
+MIW: ORG
+MARKETPLACE: ORG
+2009 -: DATE
+IBM: ORG
+USA Tools: ORG
+SCLM: ORG
+RMDS: ORG
+Admin Panel: ORG
+Spufi: GPE
+QMF: ORG
+Brio: ORG
+JCL: ORG
+VSAM: GPE
+8.0 /: MONEY
+Loading / Unloading: ORG
+Utilities: ORG
+RPM: ORG
+Application: ORG
+Responsible for Change Request Management: WORK_OF_ART
+Creation of BRIO Reports Unit: ORG
+Marketplace Information Warehouse: ORG
+MIW: ORG
+MIW: ORG
+Data: ORG
+IBM: ORG
+MIW: ORG
+External: ORG
+Vendors: ORG
+MIW: ORG
+IBM: ORG
+MIW: ORG
+2007 - Mar 2009: DATE
+IBM: ORG
+Germany: GPE
+QMF: ORG
+Brio: PERSON
+TSO/ISPF Team Size: ORG
+2 Roles / Responsibilities: QUANTITY
+Creating Report: WORK_OF_ART
+BRIO: ORG
+Requirements: WORK_OF_ART
+OPC: ORG
+DBA Activities: ORG
+three: CARDINAL
+one: CARDINAL
+GEO: PRODUCT
+EMEA: ORG
+NA: ORG
+AP: ORG
+overnight: TIME
+daily: DATE
+CBS: ORG
+SAP: ORG
+S&D: ORG
+MVS: ORG
+The LDW ESW: ORG
+MVS: ORG
+UK: GPE
+LCM: ORG
+BRIO: ORG
+BRIO: ORG
+L123: PRODUCT
+DATA SYSTEMS: ORG
+2007: DATE
+2009: DATE
+IBM: ORG
+Germany: GPE
+QMF: ORG
+Brio: PERSON
+TSO/ISPF Team Size: ORG
+2 Roles / Responsibilities: QUANTITY
+Creating Report: WORK_OF_ART
+BRIO: ORG
+Requirements: WORK_OF_ART
+OPC: ORG
+DBA Activities: ORG
+EDW: ORG
+12: CARDINAL
+two: CARDINAL
+1: CARDINAL
+2: CARDINAL
+S&D: ORG
+S&D: ORG
+one: CARDINAL
+MVS: ORG
+one: CARDINAL
+more than one: CARDINAL
+MVS: ORG
+up to 12: CARDINAL
+12: CARDINAL
+one: CARDINAL
+Dependent: PRODUCT
+two: CARDINAL
+CICS: GPE
+COBOL-II: DATE
+Database: GPE
+ENDEVOR: ORG
+English: NORP
+File-Aid: ORG
+Hindi: GPE
+IBM: ORG
+8.0: CARDINAL
+9.0: CARDINAL
+IBM: ORG
+ISPF: ORG
+JCL: ORG
+Languages: GPE
+Team Lead: PERSON
+Mainframe: PERSON
+MS-Access: ORG
+Windows, News-Letter: ORG
+Coding: ORG
+QMF: ORG
+Quest: LOC
+REXX: NORP
+SPUFI: ORG
+SQL: ORG
+TSO: ORG
+UDB: ORG
+VSAM
+Additional Information
+
+PERSONAL DETAILS Date of Birth: ORG
+20-08-1983: DATE
+Hobbies: FAC
+Swapanali Dhend: PERSON

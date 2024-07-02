@@ -1,0 +1,121 @@
+CUSTOMER: ORG
+Office Professional: ORG
+Office Systems
+Technology: ORG
+Microsoft Office Word: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Skills
+
+: ORG
+Microsoft Office: ORG
+Resourceful Proofreading: PERSON
+Understands: PERSON
+Current
+Customer Service: ORG
+1 month: DATE
+Tara Hall Home for Boys: ORG
+Howard Adult Center: ORG
+Store Inventory: WORK_OF_ART
+Overnight: TIME
+September, 2010: DATE
+October 2012: DATE
+Provide Customer: PERSON
+Customer: ORG
+Customer: ORG
+Customer: ORG
+Associates: ORG
+Fulfill Customer: PERSON
+Customers: ORG
+Associates: ORG
+Cashier: ORG
+Customer: ORG
+Cashier: ORG
+Execute: ORG
+Build: GPE
+Prepare: ORG
+Communicate: ORG
+Communicate: ORG
+the month: DATE
+three years: DATE
+10/2012: CARDINAL
+Apparel Processor/: ORG
+Shared: ORG
+first: ORDINAL
+Maintained: GPE
+daily: DATE
+Keyholder/ College Bookseller: ORG
+06/2004: CARDINAL
+10/2005: CARDINAL
+ComData Company Name: ORG
+Assist: NORP
+05/2004: CARDINAL
+10/2009: CARDINAL
+Processed: GPE
+all syllabi: DATE
+Bookstore Text-Aid System: WORK_OF_ART
+daily: DATE
+Created: ORG
+Excel: PRODUCT
+Maintained: GPE
+The Power of WOW: WORK_OF_ART
+Cashier Company Name: ORG
+Completed: ORG
+97%: PERCENT
+Kept: PERSON
+05/2001: CARDINAL
+10/2003: CARDINAL
+Processed: GPE
+weekly: DATE
+Maintained: GPE
+Replenished: PERSON
+Processed: GPE
+Completed: ORG
+daily: DATE
+daily: DATE
+Store: PERSON
+Store: PERSON
+Shared: ORG
+Maintained: GPE
+Prepared: PRODUCT
+daily: DATE
+Managers: ORG
+Training: PERSON
+2007: DATE
+Associate of Arts : Office Systems Technology HORRY GEORGETOWN TECHNICAL COLLEGE: ORG
+City: GPE
+State: GPE
+United States Office
+Systems Technology: ORG
+1991: DATE
+Office Administration: ORG
+Notetaking: GPE
+Computerized Accounting: ORG
+Office Communications: ORG
+Leadership
+Development: ORG
+Administrative Technology: ORG
+Concentration in Office Systems & Procedures: ORG
+Technical
+Communications: ORG
+Technical Education Certificate: ORG
+City: GPE
+State: ORG
+United States: GPE
+Society International Scholastic Order: ORG
+2005: DATE
+Skills
+Computerized Accounting: ORG
+Administrative, Advertising: ORG
+Cashier: PERSON
+Customer Service: ORG
+Skills, Inventory: ORG
+Leadership Development: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Office: ORG
+97: DATE
+Office Administration: ORG
+Patient Care: PERSON
+Spreadsheet: PERSON
+Technician: NORP

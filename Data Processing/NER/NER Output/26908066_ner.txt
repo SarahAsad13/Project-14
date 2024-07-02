@@ -1,0 +1,73 @@
+RECRUITER: ORG
+Core Qualifications
+Cold: ORG
+CRM: PRODUCT
+ATS: ORG
+Budget: ORG
+Team: ORG
+Implementation of new ideas: ORG
+January 2015: DATE
+Current Recruiter: PERSON
+Tax Exempt Markets: ORG
+Fortune 500: LAW
+26: CARDINAL
+31: CARDINAL
+2014: DATE
+75: CARDINAL
+2015: DATE
+116%: PERCENT
+Efficiently: ORG
+320: MONEY
+2015: DATE
+May 2011 to January 2015: DATE
+Conducted: ORG
+Talent Strategists: ORG
+400,000: MONEY
+2013: DATE
+over $600,000: MONEY
+2014: DATE
+over $150,000: MONEY
+2013: DATE
+250,000: MONEY
+2014: DATE
+Collaborated: ORG
+the Pricing Team: ORG
+Utilized: ORG
+Winner: PERSON
+quarter-long: DATE
+2012: DATE
+January 2010: DATE
+May 2011: DATE
+Healthcare Recruiter: PERSON
+90: CARDINAL
+487%: PERCENT
+annual: DATE
+2010: DATE
+600%: PERCENT
+2011: CARDINAL
+30: CARDINAL
+daily: DATE
+Conducted: ORG
+Chicago: GPE
+8: CARDINAL
+over $250,000: MONEY
+Recruited: PRODUCT
+2: CARDINAL
+16,500: MONEY
+Joint Commission: ORG
+Recruiters: PERSON
+District: GPE
+Milwaukee Staffing: ORG
+R2 Professional Recruiter: FAC
+August 2007 to January 2010: DATE
+Supervisor: PERSON
+Head Bartender 
+City: PERSON
+July 2006: DATE
+August 2008: DATE
+Key Hourly: PERSON
+Lewis University: ORG
+May 2009: DATE
+State Business Administration: ORG
+Leadership: PERSON
+Recruiter: PERSON

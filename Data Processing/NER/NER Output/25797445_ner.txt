@@ -1,0 +1,108 @@
+480 three: QUANTITY
+Allen Bradley PLC: PERSON
+Logix 5000 PLC: ORG
+DeviceNet: ORG
+Fanuc Robotics: PERSON
+RJ-3: ORG
+ABB S4P: ORG
+5400: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Job Improvement: PERSON
+Intermediate Programming Allen Bradley PLC 5: WORK_OF_ART
+Allen Bradley Advanced: PERSON
+Allen Bradley PLC: ORG
+Allen Bradley Advanced: PERSON
+Maintenance Allen Bradley PLC: PERSON
+RsLogix 5 Software: LAW
+Allen Bradley Intermediate: PERSON
+Allen Bradley: PERSON
+500: CARDINAL
+Allen
+Bradley Advanced Programming: PERSON
+Allen Bradley: PERSON
+500: CARDINAL
+Allen Bradley Maintenance: PERSON
+500: CARDINAL
+Allen Bradley Data: PERSON
+DH485 Peer: PERSON
+Peer Communications: ORG
+Allen Bradley: PERSON
+Allen Bradley Designing: PERSON
+a DeviceNet Network: ORG
+Allen Bradley PanelBuilder: PERSON
+Allen Bradley: PERSON
+Logix 5000: PERSON
+Intermediate
+Programming: WORK_OF_ART
+Allen Bradley Factory: PERSON
+Fanuc Robotics: PERSON
+ArcMate 120i Robot: ORG
+Fanuc Robotics Electrical Maintenance: ORG
+RIA Configured RJ3 Controller: ORG
+Fanuc Robotics Electrical
+Maintenance: PERSON
+Controller: PERSON
+TPP Programming: ORG
+ABB: ORG
+S4 Paint Electrical Service: ORG
+ABB Robotics S4 Paint IPS System: ORG
+ABB Robotics S4P+ Electrical Service: ORG
+ABB Robotics 5400 Mechanical
+Maintenance: ORG
+ABB Robotics Hardware Calibration and Communication: ORG
+ABB Robotics S4P Paint Programming: ORG
+ABB Robotics: ORG
+ABB Robotics: ORG
+ABB Robotics IRC5P: ORG
+Microsoft MS PowerPoint Fundamentals: ORG
+Microsoft MS Excel Fundamentals: ORG
+Microsoft MS Excel Advanced: ORG
+Training Honda: PERSON
+Emergency Spill: PERSON
+Spill Prevention: ORG
+Control, & Countermeasures Honda: ORG
+Normal Hazardous Waste Honda: ORG
+Robotic Safety Principles Honda: ORG
+ARC Flash Training Honda: PERSON
+Basic Hydraulics/ Pneumatics Honda: ORG
+Catia, Auto Cad Level 1: ORG
+Vision Systems: ORG
+Fanuc: ORG
+Cognex: ORG
+November 2000: DATE
+Current Company Name: ORG
+Sealant Robot: PERSON
+Fanuc IR Vision: PERSON
+Liberty Reach Vision: ORG
+PLC/Controls (PLC: ORG
+500: CARDINAL
+Maintenance: PERSON
+PLC: ORG
+PLC: ORG
+Robotic: ORG
+PLC: ORG
+Air Handler: ORG
+PLC: ORG
+Oven systems,: ORG
+PLC Controlled Incinerator: ORG
+PLC: ORG
+January 1996 to January 2000: DATE
+first: ORDINAL
+January 1993 to January 1995: DATE
+Maintained: GPE
+Applied Science Electronics Technology: ORG
+January 1995: DATE
+Central Alabama Community College: ORG
+State Applied
+Science Electronics Technology: ORG
+January 1992: DATE
+Talladega High School ï¼​ City: ORG
+Skills
+Delivery: ORG
+Lighting, Paint, PLC: ORG
+PLC: ORG
+5: CARDINAL
+Project Management, Robotic: ORG
+Vision Systems: ORG

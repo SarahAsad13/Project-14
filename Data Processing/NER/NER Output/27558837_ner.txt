@@ -1,0 +1,83 @@
+August 2013: DATE
+CFO Manages: ORG
+4: CARDINAL
+2 Accounting Clerks: ORG
+1: CARDINAL
+1 Volunteer: PRODUCT
+30: CARDINAL
+35: CARDINAL
+month end: DATE
+Microsoft: ORG
+Excel: PRODUCT
+a day and half: DATE
+Revamped: PRODUCT
+990: CARDINAL
+Excel: PRODUCT
+PeopleSoft Finance: ORG
+Mary's Hospital: ORG
+today: DATE
+AOP: ORG
+the next fiscal year: DATE
+$5 million dollar: MONEY
+EBIDA: ORG
+fiscal year 2015: DATE
+$75 million: MONEY
+FTE: ORG
+Microsoft Access: ORG
+June 2006 to: DATE
+Accountant/ IT Report: PERSON
+20: CARDINAL
+25: CARDINAL
+Balance Sheet: ORG
+TGP: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Monarch: ORG
+30: CARDINAL
+Developed Excel: PRODUCT
+month end: DATE
+month: DATE
+every morning: TIME
+this day: DATE
+Excel: PRODUCT
+TGP: ORG
+December 2003 to June 2006 Company Name - City: DATE
+Controller Accountable: PERSON
+Accounts Payable: ORG
+Assisted: ORG
+month: DATE
+5: CARDINAL
+Accountant: PERSON
+March 2001 to December 2001: DATE
+Controller: PERSON
+15: CARDINAL
+Sprint: ORG
+Led month: DATE
+Sprint: ORG
+IRS: ORG
+Tax Reporting & Submission: ORG
+May 2000: DATE
+Illinois University - City: ORG
+State Accounting
+Associates Degree :: ORG
+May 1997: DATE
+Black Hawk College - City: EVENT
+State Accounting: ORG
+Skills
+Accounting: ORG
+Budget Planning: ORG
+CMS: ORG
+Controller: PERSON
+Finance: ORG
+Financial Analyst: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Monarch: GPE
+month end: DATE
+month end: DATE
+PeopleSoft: ORG
+Supervisor: PERSON
+Tax: PERSON

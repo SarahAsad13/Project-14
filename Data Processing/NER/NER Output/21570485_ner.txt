@@ -1,0 +1,71 @@
+Summary
+Administrative Operations: Special events: ORG
+Skills
+MS Windows: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: ORG
+MAC: ORG
+Lexis Nexis: PERSON
+Soarian: NORP
+MediNotes: PRODUCT
+annual: DATE
+Provide Executive: ORG
+Assist: NORP
+the Quality Assurance / Risk Management Department: ORG
+quarterly: DATE
+the Department of Health (DOH: ORG
+Joint Commission: ORG
+JCAHO: ORG
+annual: DATE
+the Health Commerce System: ORG
+Oversee Corporate Compliance: ORG
+annual: DATE
+Requisitioner: PERSON
+the Culture Change Committee: ORG
+Risk Management: ORG
+the Pharmacy and Rehabilitation department: ORG
+Assist: NORP
+Human Resource: ORG
+annual: DATE
+09/2010: DATE
+Name City: GPE
+State: ORG
+Maintained: GPE
+Name City: GPE
+Housing and Community Development: ORG
+the Housing & Urban Development: ORG
+HUD: ORG
+annual: DATE
+35: CARDINAL
+annual: DATE
+quarterly: DATE
+Housing: GPE
+Processed: GPE
+monthly: DATE
+Established: ORG
+03/1997 to 12/2005: DATE
+Name City: GPE
+Researched: ORG
+Training
+Bachelor of Arts: PERSON
+2004: DATE
+The College Of New Rochelle City: ORG
+State Communications: ORG
+8/08-11/08: CARDINAL
+May 2004: DATE
+NYS Notary Public: ORG
+American Heart Association: ORG
+Basic Life Support: ORG
+Urban League Young Professionals
+: ORG
+Department of Health: ORG
+DOH: ORG
+Lexis Nexis: PERSON
+MAC: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+MS Windows: PERSON
+Word: PERSON
+Risk Management: ORG

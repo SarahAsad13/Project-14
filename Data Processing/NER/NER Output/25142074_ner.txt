@@ -1,0 +1,46 @@
+Writing & Proficient: ORG
+Typist: NORP
+Microsoft Office: ORG
+Twitter: PERSON
+Yoga & meditation: ORG
+Certified Yoga Teacher
+
+Work History
+Administrative: WORK_OF_ART
+04/2020: CARDINAL
+02/2021: CARDINAL
+monthly: DATE
+10/2018: DATE
+03/2020: CARDINAL
+2 million dollar: MONEY
+3 million: CARDINAL
+a year: DATE
+Salesfloor: ORG
+Processed: GPE
+Vogue: ORG
+Styled â€œSaks Limitless Clientsâ€​: ORG
+New York: GPE
+Milan Fashion: ORG
+week: DATE
+the Oscar de la Renta Lake Tahoe Benefit: ORG
+Assisted: ORG
+MTM Armani Event: ORG
+quarterly: DATE
+Saks: ORG
+Front Desk Receptionist: PERSON
+Assistant Company: PERSON
+Key Holder: PERSON
+Bachelor of Arts : Fine Arts: ORG
+2017: DATE
+School of The Museum of Fine Arts - Boston: ORG
+2010: DATE
+Brookline High School 
+Accomplishments
+
+School of the Museum of Fine Arts: ORG
+The Graphic Arts Annual Show: ORG
+2017: DATE
+Jumpsuit: PERSON
+MA: PERSON
+2016: DATE
+200: CARDINAL

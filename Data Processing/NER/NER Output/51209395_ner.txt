@@ -1,0 +1,11 @@
+AlsoÂ: ORG
+Microsoft Office: ORG
+Work History
+Preschool: WORK_OF_ART
+February 2010 to August 2015: DATE
+February 2004 to January 2010: DATE
+weekly: DATE
+Team: ORG
+January 2001 to March 2003: DATE
+Chattahoochee Technical College Current City: ORG
+Valdosta State University City: ORG

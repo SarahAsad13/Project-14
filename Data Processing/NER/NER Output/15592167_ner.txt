@@ -1,0 +1,75 @@
+Disney: ORG
+Warner Brothers: ORG
+LEGO: ORG
+Highlights: GPE
+Tertiary: DATE
+Master Degree: PERSON
+Accounting: GPE
+Licensed: PERSON
+5+ years': DATE
+English: LANGUAGE
+ERP: ORG
+Advanced: ORG
+Microsoft Office Suite: ORG
+Excel: PRODUCT
+Disney: ORG
+Warner Brothers: ORG
+10: CARDINAL
+Asian Pacific Region: LOC
+the year 2013: DATE
+2014: DATE
+Excel: PRODUCT
+150: CARDINAL
+05/2012: CARDINAL
+P/L, Cash Flow and Others Specific Reports: ORG
+Group: ORG
+ApplyingÂ: GPE
+IFRS Accounting: ORG
+Company Accounting: ORG
+150: CARDINAL
+Royalty Reports: PERSON
+Monthly: DATE
+Quarterly: DATE
+Warner: ORG
+Brothers: ORG
+Mattel: ORG
+Disney: ORG
+Lego: PERSON
+Licensing Contracts: ORG
+Royalty Rates: PERSON
+BDI: ORG
+05/2012: CARDINAL
+Foreign currency Management: Options and Swap Management: ORG
+daily: DATE
+Banking Reconciliation for the group: WORK_OF_ART
+Expense management/: PERSON
+the International Logistic: EVENT
+AP: ORG
+AR: ORG
+Oversees Accounts Payable /Accounts: ORG
+RMS: ORG
+Front Office Officer Company Name: ORG
+Online: PRODUCT
+Internship - Credit Officer Company Name: ORG
+Gaining: GPE
+2010: DATE
+State: ORG
+Australia Continuing: ORG
+the Major Changes: ORG
+2009: DATE
+Bachelor of Commerce : Accounting & Finance: ORG
+ï¼​ City: GPE
+State: ORG
+Australia Coursework: ORG
+Management
+Accounting: ORG
+Financial Accounting: ORG
+Â Governance & Ethics: ORG
+Professional Affiliations: ORG
+AUSTRALIAÂ 
+Languages
+English: PERSON
+Chinese: NORP
+Skills
+
+Communication Skills: Â: ORG

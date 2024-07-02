@@ -1,0 +1,79 @@
+FIELD PROJECT SUPERVISOR: ORG
+26 years': DATE
+20 years': DATE
+U.S. Navy: ORG
+Marine Corps: ORG
+6046/6047: DATE
+Human Resources Management: ORG
+Supply Chain Management
+Logistics Management: ORG
+Microsoft Office: ORG
+Suite: PERSON
+NTCSS: ORG
+SAP
+Technical Publications: ORG
+U.S.: GPE
+Naval Aviation Logistics Command Management Information System: ORG
+OOMA: ORG
+7: CARDINAL
+more than 48,400: CARDINAL
+more than 11 billion dollars: MONEY
+more than 19,500: CARDINAL
+130: CARDINAL
+U.S.: GPE
+260: CARDINAL
+over 400: CARDINAL
+U.S.: GPE
+130: CARDINAL
+260: CARDINAL
+the Marine Corps Aviation Branch: ORG
+130: CARDINAL
+U.S.: GPE
+20%: PERCENT
+7: CARDINAL
+12: CARDINAL
+one: CARDINAL
+Directs Associates: ORG
+Facility: ORG
+Drives: ORG
+Drives: ORG
+Models: PRODUCT
+Associates: ORG
+Customer: PRODUCT
+Customer: ORG
+U.S Marine Corps: ORG
+U.S.: GPE
+Marine Corps: ORG
+Aviation Administration: ORG
+Performed: ORG
+U.S.: GPE
+Oversaw: GPE
+Aviation Administration Program: ORG
+Computed: PERSON
+Completed: ORG
+Training: PERSON
+2015: DATE
+Bachelor of Arts : Human Resources Management Business Administration Ashford University: ORG
+State Human Resources Management: ORG
+3.8: CARDINAL
+Business Administration: ORG
+2013: DATE
+Defense Acquisition University: ORG
+State Ethics Training for Acquisition Technology and Logistics: ORG
+2012: DATE
+Defense Acquisition University West Regional Campus ï¼​ City: ORG
+2011: DATE
+Lean Six Sigma Green Belt Course Lean Six Sigma Yellow Belt Course Lean Six Sigma White Belt Course US Department: WORK_OF_ART
+Navy: ORG
+State: ORG
+Skills: ORG
+Customer: ORG
+Government, Information Systems: ORG
+Logistics, Logistics Management: ORG
+Microsoft Office Suite: ORG
+Management Information System: ORG
+Naval: GPE
+Organizational: ORG
+SAP: ORG
+Six Sigma: PERSON
+Supply Chain Management: ORG

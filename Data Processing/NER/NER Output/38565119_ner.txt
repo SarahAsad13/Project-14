@@ -1,0 +1,84 @@
+Skills
+
+Space Planning
+Workplace Strategy
+Project Coordination
+: ORG
+FF&E Expertise
+Problem Resolution
+: ORG
+ADA & Building Codes
+Written & Verbal Communication: ORG
+ADA: ORG
+Verbal Communication
+Change: ORG
+Written
+COUNCIL
+Creativity
+Customer: ORG
+Direction
+Documentation
+Innovation
+Interior: ORG
+Team: ORG
+04/2020: CARDINAL
+Walgreens: PERSON
+Chipotle: ORG
+Aspen Dental: PERSON
+Property Investors: ORG
+03/2020: CARDINAL
+Architects: ORG
+Designers, Builders: ORG
+Furniture Manufacturers, Facility Managers: ORG
+Retail and Commercial End Users: ORG
+Initiated: ORG
+40 percent: PERCENT
+ADA: ORG
+Reduced Office Real Estate: ORG
+1,000,000: MONEY
+Coordinated: ORG
+1000: CARDINAL
+up to 1,000,000: CARDINAL
+01/2003: CARDINAL
+Bachelor of Arts: ORG
+State: ORG
+NATIONAL COUNCIL FOR INTERIOR DESIGN QUALIFICATION: ORG
+04/2020: CARDINAL
+Walgreens: PERSON
+Chipotle: ORG
+Aspen Dental: PERSON
+Property Investors: ORG
+03/2020: CARDINAL
+Architects: ORG
+Designers, Builders: ORG
+Furniture Manufacturers, Facility Managers: ORG
+Retail and Commercial End Users: ORG
+Initiated: ORG
+40 percent: PERCENT
+ADA: ORG
+Reduced Office Real Estate: ORG
+1,000,000: MONEY
+Coordinated: ORG
+1000: CARDINAL
+up to 1,000,000: CARDINAL
+01/2003: CARDINAL
+Skills
+
+Space Planning
+Workplace Strategy
+Project Coordination
+: ORG
+FF&E Expertise
+Problem Resolution
+: ORG
+ADA & Building Codes: ORG
+WWritten & Verbal Communication: ORG
+ADA: ORG
+COUNCIL: ORG
+MS Office Suite: ORG
+Problem Resolution: PERSON
+Project Coordination: ORG
+Space Planning, Specification, Strategy: ORG
+Verbal: ORG
+ILLINOIS LICENSE: ORG
+161.000401: MONEY

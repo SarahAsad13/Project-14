@@ -1,0 +1,91 @@
+FOUNDER: ORG
+Entrepreneur: PERSON
+PR & Digital Marketing Professional: ORG
+Thinker: ORG
+10 years: DATE
+Skills
+
+Management and Operational Leadership
+Critical Thinking and Problem Solving: ORG
+Networking, Business Development: ORG
+Detail-Oriented: PERSON
+Effective Writer
+Strategy Development & Strategic Planning: ORG
+Proposal Presentation
+
+Key Account Management
+Project Management
+Research: EVENT
+Data Analytics: ORG
+Reports
+Social Media Strategy: ORG
+Love for Visual Design
+Articulate Planning an Effective Communication: WORK_OF_ART
+10/2020: CARDINAL
+State: ORG
+Operation and Management of the Agency: ORG
+Integrated Public Relations: ORG
+Strategic Communications: ORG
+Digital Marketing Services: ORG
+PR Professionals: ORG
+Content Writers: PERSON
+Digital Marketers: ORG
+Visual Designers: ORG
+Profile: PRODUCT
+Project Portfolio: ORG
+12/2016: CARDINAL
+State: GPE
+Myanmar: GPE
+Automotive: GPE
+Attending Shows & Fairs: ORG
+Media Events, Press Conferences: ORG
+Reviews: PERSON
+the Print
+Magazine: ORG
+Website - Coordinate: ORG
+Magazine: ORG
+Establishing & maintaining: ORG
+Mercedes-Benz: ORG
+Ford: ORG
+Land Rover: PERSON
+Samsung: ORG
+Asus: PERSON
+Myanmar: GPE
+First & Only: ORG
+International Standard: ORG
+Reviews: NORP
+Magazine: ORG
+Myanmar: GPE
+04/2010 to 12/2013: CARDINAL
+Reviews: ORG
+Request for Quotation (RFQ: ORG
+Request for Proposal: LAW
+Bid: PERSON
+ITB: ORG
+Collaborate: ORG
+Contracts: ORG
+HQ Supply Team: ORG
+UN Examinations: ORG
+over 30 Million: CARDINAL
+Goods & Services: ORG
+Contracts: ORG
+Marketing & Business Development: ORG
+Request for Proposals: LAW
+Request for Qualifications (RFQ): ORG
+Expression of Interest: ORG
+EOI: ORG
+Collaborated: ORG
+Grew: PERSON
+Coordinate: FAC
+Cost Estimates: ORG
+Project Schedules: ORG
+EWF: ORG
+RFP/RFI: LAW
+over $ 8 Million: MONEY
+Professional Certificate : Social Media: ORG
+Coursera + Facebook - City
+Professional Certificate : Public Relations And Organizational Communication 01/2017: ORG
+National University Of Singapore - City: ORG
+New Jersey Institute Of Technology - City
+Bachelor of Science :: ORG
+2004: DATE

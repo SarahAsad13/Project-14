@@ -1,0 +1,103 @@
+QUALITY & GOVERNANCE
+Professional Background
+Analyst: ORG
+Â Excels: PERSON
+Skill Highlights: PERSON
+Microsoft Access: ORG
+Microsoft Excel: ORG
+SAS: ORG
+SQL Server: ORG
+Cognos: PRODUCT
+Crystal Reports
+
+Business Objects: ORG
+SQL: GPE
+Tableau Server: ORG
+Desktop, Project
+Management: ORG
+HIPAA: ORG
+Create: ORG
+Healthcare Data: ORG
+Current Company Name City: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Health Ministries: ORG
+SAS: ORG
+SQL: ORG
+MS Office: ORG
+Health Ministry: ORG
+05/2012: CARDINAL
+Name City: GPE
+Created: ORG
+Created: ORG
+SEC: ORG
+FINRA: ORG
+Analyst 06/2005: DATE
+Created: ORG
+daily: DATE
+monthly: DATE
+quarterly: DATE
+Created: ORG
+weekly: DATE
+Created: ORG
+monthly: DATE
+Primary: PERSON
+Created: ORG
+Name City: GPE
+daily: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Researched: ORG
+02/2002: DATE
+Name City: GPE
+daily: DATE
+Microsoft Access: ORG
+Created: ORG
+Access: ORG
+daily: DATE
+Registration: NORP
+02/2002 Company Name City: EVENT
+Created: ORG
+Microsoft Access: ORG
+Collaborated: ORG
+Authored: PRODUCT
+Training
+Masters of Business Information Technology: ORG
+Project Management 2007 Walsh College City: ORG
+State Project Management
+Bachelor : Business Administration: ORG
+1996: DATE
+Rochester College City: ORG
+State Business Administration: ORG
+Health Care: ORG
+Affiliations: ORG
+Volunteer: PERSON
+weekly: DATE
+Volunteer: PRODUCT
+weekly: DATE
+Taught Sunday: WORK_OF_ART
+Skills
+Streamline Processes: ORG
+Business Objects: ORG
+Cognos: PRODUCT
+Crystal Reports: ORG
+Customer Service: ORG
+Data Analysis: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Problem-Solving: ORG
+Process Analysis: ORG
+Project Management: ORG
+Project
+Planning: ORG
+SAS: ORG
+Securities Reporting: PERSON
+SQL: GPE
+Troubleshooting: GPE
+Annual: DATE
+Tableau Server: PERSON
+Tableau: GPE

@@ -1,0 +1,77 @@
+Skills
+
+OSHA Certified: ORG
+Knowledgeable: PRODUCT
+Interior: ORG
+Scaffolding
+Fall Protection Plan: ORG
+FPP: ORG
+Work History
+Construction Administration: WORK_OF_ART
+09/2014 
+Company Name: ORG
+Preliminary Engineering: ORG
+ArcGis: ORG
+Civil: ORG
+2013: DATE
+Observe: LOC
+Landfill: ORG
+Coordinated: ORG
+Obtained: FAC
+weekly: DATE
+weekly: DATE
+Prepared: PERSON
+Oversaw: GPE
+third: ORDINAL
+04/2008: PERSON
+04/2009: ORDINAL
+Observe: LOC
+Transportation: ORG
+Civil: ORG
+weekly: DATE
+weekly: DATE
+Prepared: PERSON
+Oversaw: GPE
+Process Engineering: ORG
+03/2008: CARDINAL
+Observe: LOC
+Koch: PERSON
+Koch: GPE
+12/2005: DATE
+36 inch: QUANTITY
+HDPE: ORG
+Rio Rancho: GPE
+NM: GPE
+35: CARDINAL
+Superintendant: FAC
+the City of Albuquerque: GPE
+72 inch: QUANTITY
+CCP: ORG
+the Rio Grande River: EVENT
+Alexander Blvd: PERSON
+three: CARDINAL
+20-30 feet: QUANTITY
+Alameda Blvd: FAC
+Paseo Del Norte: ORG
+the State of New Mexico: ORG
+Jaynes: NORP
+Gerald Martin: PERSON
+Blue Sky Builders: ORG
+FHP: ORG
+JG Daniels: PRODUCT
+1984: DATE
+Del Norte High School - City: ORG
+1990: DATE
+International Business College - City: ORG
+State 
+
+Continuing Education: ORG
+Associate of Science : CNM of: WORK_OF_ART
+New Mexico: GPE
+Skills: ORG
+Accounting: ORG
+Grants: PERSON
+San: LOC
+Transportation: ORG
+98: CARDINAL
+the State of New Mexico: ORG

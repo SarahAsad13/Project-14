@@ -1,0 +1,101 @@
+Engineering Associate: WORK_OF_ART
+8 years: DATE
+Skills: ORG
+Electro: GPE
+JMP: ORG
+Microsoft: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Vision: ORG
+Microsoft: ORG
+Microsoft: ORG
+Six: CARDINAL
+Mechanical: ORG
+Bronze: PERSON
+Skills USA: ORG
+Product Improvement Worked: WORK_OF_ART
+LOB: ORG
+Testing, Evaluation and Analysis: ORG
+AutoCad Software Utilization Helped: ORG
+CAD: ORG
+four: CARDINAL
+Presentations Created: ORG
+IDEXX Technical Review Board: ORG
+Project Management Lead: ORG
+Customer Interface Meet: ORG
+Perform Site: ORG
+servays: DATE
+EliteVison
+Protective: ORG
+Tech: ORG
+Catalyst DX: ORG
+a few months: DATE
+Catalyst Pilot: ORG
+2011: DATE
+Instrument: ORG
+the fall of 2013: DATE
+Engineer: ORG
+Digital Radiography: ORG
+NPD: ORG
+ESD: ORG
+daily: DATE
+CR: GPE
+DR: GPE
+IDEXX: ORG
+DC: GPE
+02/2007: PERSON
+Name City: GPE
+Programmable Logic Controllers (PLC: ORG
+AC: GPE
+DC: GPE
+Name City: GPE
+Maintained: GPE
+South City: GPE
+State: GPE
+US: GPE
+SMCC: ORG
+2007-2008: DATE
+YCCC Wells: PERSON
+US Studied CAD: PERSON
+the Engineering Design Program: ORG
+YCCC: ORG
+Industrial Management-: ORG
+electro: GPE
+2015: DATE
+US: GPE
+Skills
+CAD: ORG
+DC: GPE
+Engineer, Engineering Design: ORG
+Logic: ORG
+Mechanical: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Microsoft Visio, PLC: ORG
+Six Sigma: PERSON
+5: CARDINAL
+Troubleshooting: GPE
+Vision: ORG
+Microsoft Visual Basic: ORG
+Additional Information
+
+IDEXX Laboratories Westbrook: ORG
+US: GPE
+4 week: DATE
+5x: CARDINAL
+GD&T: ORG
+2015: DATE
+Portland: GPE
+ME: GPE
+US: GPE
+Sanford High School Sanford: ORG
+US: GPE
+Honors Electronics: ORG
+Sanford Regional: PERSON
+Vocational Center Sanford: PERSON
+ME: GPE
+US: GPE
+Vocational: NORP
+the National Technical Honors Society
+
+: ORG

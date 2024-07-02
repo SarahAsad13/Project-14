@@ -1,0 +1,64 @@
+CFO: ORG
+Core Qualifications
+
+Computer: ORG
+Motivational: ORG
+Time: ORG
+Resourcefulness
+Forward: WORK_OF_ART
+CFO: ORG
+Oversaw: GPE
+Charter and Dispatch Department: ORG
+Oversaw: GPE
+daily: DATE
+COO: ORG
+Created: ORG
+Excel: PRODUCT
+the Chief Pilot: ORG
+Coordinated: ORG
+Federal, State, Local: ORG
+TSA: ORG
+12: CARDINAL
+Created: ORG
+monthly: DATE
+Collaborated: ORG
+Created: ORG
+Name City: GPE
+50Â: CARDINAL
+Maintained: GPE
+Name City: GPE
+Coordinated: ORG
+daily: DATE
+Coordinated: ORG
+Monitored: ORG
+daily: DATE
+6: CARDINAL
+Monitored: ORG
+daily: DATE
+1995: DATE
+State: GPE
+USA: GPE
+Skills
+Account Management, Calendaring, Client Relations: ORG
+Critical Thinking: ORG
+Customer
+Needs Assessment, Customer Service: ORG
+Data Collection: ORG
+Data Entry, Documentation: ORG
+Email: GPE
+Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Internet Research, Letters: ORG
+Memos: PERSON
+Microsoft Excel: ORG
+Microsoft Office Suite: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+Multi-Task Management: ORG
+Spreadsheets: ORG
+Telephone Skills: ORG
+Time Management, Travel Arrangements: ORG
+Travel Booking, Travel Planning: ORG
+Vendor Management: ORG

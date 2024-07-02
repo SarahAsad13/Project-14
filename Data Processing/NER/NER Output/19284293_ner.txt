@@ -1,0 +1,106 @@
+UAV
+operations: PERSON
+greater than 20 years: DATE
+more than 6 years: DATE
+Unmanned Aerial Systems: ORG
+UAS: ORG
+10 years: DATE
+UAS: ORG
+UAS: ORG
+Flight: PRODUCT
+Aircraft: ORG
+Team: ORG
+2011: DATE
+NASA: ORG
+NASA: ORG
+UAS: ORG
+NASA: ORG
+Northrop Grumman
+
+Corporation: ORG
+L-3 Communications: ORG
+Global Hawk: ORG
+Science: ORG
+the Global Hawk: ORG
+2000: DATE
+NASA: ORG
+Flight Readiness Review: ORG
+â€¢U.S. Army Commanders Award: ORG
+1996: DATE
+Army: ORG
+Army: ORG
+Excellence: PERSON
+1987: DATE
+Lead Operations Engineer - Global Hawk Project Company Name: ORG
+Global Hawk: ORG
+UAS: ORG
+2: CARDINAL
+3: CARDINAL
+Global Hawk: ORG
+the Federal Aviation Administration and Transport Canada: ORG
+US: GPE
+Canadian: NORP
+Global Hawk: ORG
+the Ground Control Station: ORG
+Global Hawk: ORG
+Assisted Global Hawk: PRODUCT
+Performed as Mission Director: ORG
+more than 150: CARDINAL
+Global Hawk: ORG
+eight: CARDINAL
+State: ORG
+Missile Defense Agency: ORG
+$5M: MONEY
+MDA: ORG
+Coordinated: ORG
+Raytheon Aircraft: ORG
+Launch Platform Aircraft Research Vehicle: ORG
+NASA: ORG
+F light: PRODUCT
+NASA: ORG
+Launch: NORP
+Flight Test Plans: PRODUCT
+Performed as Test Director: ORG
+Flight Test Engineer: PRODUCT
+System Requirements Verification Document: ORG
+F-16: PRODUCT
+10/1986: DATE
+18: CARDINAL
+daily: DATE
+36: CARDINAL
+Data Views: ORG
+Flight Test Engineer: PRODUCT
+Flight Test: PRODUCT
+FORTRAN: ORG
+Processed: GPE
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+Training: PERSON
+1994: DATE
+Defining System Requirements: WORK_OF_ART
+NASA: ORG
+2004: DATE
+NASA: ORG
+2001: DATE
+Personnel Management for Executives: ORG
+US Army: ORG
+1994: DATE
+Test and Evaluation Management US Air Force Institute of Technology University of Kansas Hazards of High-Intensity
+Electromagnetic Radiation: ORG
+CKC Laboratories: ORG
+1991: DATE
+1982: DATE
+California Polytechnic State University: ORG
+State Aeronautical Engineering: ORG
+Skills
+Army: ORG
+Agency: ORG
+DC: GPE
+Engineer: ORG
+FORTRAN: ORG
+Excel: PRODUCT
+2000: DATE
+Microsoft: ORG
+Personnel Management: ORG
+Research, Safety: ORG

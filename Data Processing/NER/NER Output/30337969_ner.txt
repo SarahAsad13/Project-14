@@ -1,0 +1,111 @@
+OWNER: ORG
+PERSONAL CHEF
+Areas of Expertise: ORG
+Bachelor of Science Degree: ORG
+Environmental Science and Research and Development: ORG
+Eight years': DATE
+Personal Chef Business: ORG
+Marketing & Business Development
+Client Relationship Management
+Budgeting: ORG
+Proactive: NORP
+Owner: ORG
+January 2006 to January 2014: DATE
+Gourmet: ORG
+20: CARDINAL
+within first year: DATE
+up to 125: CARDINAL
+Accomplishments Winner: PERSON
+Blue Water Area Chamber: ORG
+first year: DATE
+Commerce: ORG
+January 2001 to January 2006: DATE
+National Environmental Policy Act Reviews: ORG
+Performance of Hazardous Material Surveys: ORG
+Michigan: GPE
+daily: DATE
+weekly: DATE
+Verizon: GPE
+Sprint: ORG
+Master of Business Administration: ORG
+May 2003: DATE
+University of Michigan ï¼​ City: ORG
+Marketing Management: ORG
+Strategic Management: ORG
+Communication in Organization and Human Resource
+Management: ORG
+GPA: ORG
+GPA: ORG
+6.8/8.0: CARDINAL
+GPA: ORG
+6.8/8.0: CARDINAL
+May 1999: DATE
+Wayne State University: ORG
+State Biology Gained: ORG
+Physiology, Chemistry, Microbiology: ORG
+2004- 2010: DATE
+Accredited Asbestos Building Inspector - Michigan: ORG
+2003- 2006: DATE
+OSHA: ORG
+29: CARDINAL
+CFR: ORG
+191.120 40-hour: QUANTITY
+8-hour: TIME
+2002-2006: DATE
+National Environmental Policy Act: ORG
+Chosen: GPE
+Commercial Real
+Estate Women: ORG
+CREW: ORG
+Annual: DATE
+Marysville: GPE
+Michigan: GPE
+1999-2001: DATE
+ISO: ORG
+Performed: ORG
+Worked with Environmental Health and Safety Coordinator: ORG
+Accomplishments Updated: WORK_OF_ART
+Chemical Hygiene Plan for Research and Development department: ORG
+Optometric Technician Shores
+& Associates: PERSON
+Port Huron: GPE
+Michigan: GPE
+1997-1999: DATE
+daily: DATE
+Obtained: ORG
+Optometrist: NORP
+Marysville: GPE
+Michigan: GPE
+1993-1995: DATE
+Cardiac Telemetry: ORG
+Assisted: ORG
+2014: DATE
+Volunteer Coach: PERSON
+2013: DATE
+Thomas Edison: PERSON
+2013-2014: DATE
+Thomas Edison Elementary: PERSON
+PTA Board: ORG
+2011-2013: DATE
+1993: DATE
+Port Huron Area School District Visionary Team: ORG
+2014: DATE
+Volunteer Coach: PERSON
+Thomas Edison Elementary: PERSON
+2013-2014: DATE
+Thomas Edison Elementary: PERSON
+PTA Board: ORG
+2011-
+2013: DATE
+1993: DATE
+General Accounting, Biology: ORG
+Budgeting, Business Administration: ORG
+Business Development, Chemistry: ORG
+Client: GPE
+ENVIRONMENTAL SCIENTIST: ORG
+Environmental Science, Finance: ORG
+FOCUS, Genetics, Human Resource Management: ORG
+Interpretation: ORG
+Marketing Management: ORG
+Real Estate, Relationship Management, Research: ORG
+Strategic Management: ORG

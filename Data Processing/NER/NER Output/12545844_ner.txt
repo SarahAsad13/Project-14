@@ -1,0 +1,39 @@
+Highlights
+
+Relationship: GPE
+WordPress: ORG
+Jan 2015: DATE
+FOX & Friends, USA Today: ORG
+Yahoo: ORG
+AOL: ORG
+ABC Nightline: ORG
+Vocus: ORG
+Coordinator Mar: PERSON
+2012 to Jan 2015: DATE
+North American Hairstyling Awards: ORG
+Giuliana: GPE
+Bill Rancic: PERSON
+ECRY NY: ORG
+Beauty
+Collection: WORK_OF_ART
+Cosmoprof North America: FAC
+Solidify: PERSON
+Draft: ORG
+Oct 2010: DATE
+May 2011: DATE
+Oversaw: GPE
+three: CARDINAL
+Nicky Hilton: PERSON
+Chateau Nightclub: ORG
+Hootsuite: PERSON
+Bachelor of Arts: ORG
+City: GPE
+State Marketing, Public Relations: ORG
+Skills
+Account Management
+Proficient: ORG
+Vocus: ORG
+Cision
+Administrative: ORG
+Familiar: PERSON
+TVEyes: ORG

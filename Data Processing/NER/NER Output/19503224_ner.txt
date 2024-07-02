@@ -1,0 +1,179 @@
+COLLEGE ADVANCEMENT & PUBLIC RELATIONS
+: ORG
+7 years: DATE
+over 20: CARDINAL
+Mississippi Delta Community College: ORG
+Associate: PRODUCT
+College Advancement: ORG
+the Chief Advancement & Chief Communications Officer: ORG
+2010: DATE
+Cabinet: ORG
+the MDCC Alumni & Foundation, Inc.: ORG
+annual: DATE
+Name City: GPE
+State: ORG
+College Advancement & Public Relations: ORG
+the MDCC Alumni & Foundation: ORG
+Name City: GPE
+State: ORG
+multi-million dollar: MONEY
+Coordinate: ORG
+Deans: NORP
+$3.1M: MONEY
+Name City: GPE
+State Adjunct Instructor: ORG
+220: CARDINAL
+International Business (Graduate Level Team: ORG
+Name City: GPE
+State Instructor: ORG
+Webmaster: PERSON
+Advanced Computer: ORG
+Business Law for College Credit: ORG
+Webmaster: PERSON
+Student Council Advisor: ORG
+School Newspaper Advisor: ORG
+MPSA: ORG
+MBA : Management and Marketing 2005: WORK_OF_ART
+Delta State University: ORG
+City: GPE
+State: GPE
+United States: GPE
+3.89: CARDINAL
+GPA: ORG
+Delta State University: ORG
+City: GPE
+State: GPE
+United States: GPE
+Summa Cum Laude: PERSON
+Received The First Diploma: WORK_OF_ART
+3.98: CARDINAL
+GPA Overall: ORG
+4.00: CARDINAL
+GPA: ORG
+Delta State University: ORG
+City: GPE
+State: GPE
+United States: GPE
+December 2012: DATE
+Core Accomplishments
+
+Mississippi Delta Community College Alumni & Foundation, Inc.
+
+Increased annual contributions by: WORK_OF_ART
+500%: PERCENT
+72,000: MONEY
+the five year: DATE
+the 2013 fiscal year: DATE
+annual: DATE
+350,000: MONEY
+June 2014: DATE
+2024: DATE
+420,000: MONEY
+Prior to 2010: DATE
+100,000: MONEY
+The Staff Appreciation Fund: ORG
+The Robert W. Steinriede Faculty Development
+Fund: PERSON
+The Emergency Student Support Fund: ORG
+The School Support Fund: ORG
+the Athletic Improvement Fund: ORG
+1,500: CARDINAL
+over 15,000: CARDINAL
+Delta State University Alumni & Foundation: ORG
+Delta State University: ORG
+$3.1 million: MONEY
+2014: DATE
+two: CARDINAL
+250,000: MONEY
+Initiated: ORG
+first: ORDINAL
+2: CARDINAL
+University: ORG
+$40 million: MONEY
+Developed: PRODUCT
+The Corporate Scholarship Program: ORG
+20: CARDINAL
+the first year: DATE
+Institutional Advancement
+
+: ORG
+Generally Accepted Accounting Principles: ORG
+annual: DATE
+annual: DATE
+Ellucian, Inc.: ORG
+The Raiser's Edge Fundraising Software (Blackbaud: WORK_OF_ART
+Wealthengine: ORG
+Photoshop, Illustrator: ORG
+Muse: PERSON
+Premire Pro: PERSON
+Microsoft Office Programs: ORG
+Styleguard: PERSON
+Joomla: PERSON
+3: CARDINAL
+Project Development Management Training: ORG
+Transportation: ORG
+2013: DATE
+the Mississippi Community College Leadership Academy: ORG
+2012: DATE
+the Incident Command System: ORG
+2009: DATE
+ICS-200: GPE
+ICS for Single Resources and Initial Action Incident: ORG
+2009: DATE
+National Incident Management System: ORG
+2009: DATE
+National Response Framework: ORG
+2009: DATE
+the Council for Advancement & Support of Education: ORG
+2007: DATE
+Delta State University College of Education: ORG
+2012-Present: DATE
+Volunteer Firefighter: PERSON
+2001-Present: DATE
+County Fire: LOC
+2010: DATE
+Assistant Chief & Training Officer: ORG
+2008-2010: DATE
+2007-2008: DATE
+2001-2007: DATE
+Board: ORG
+Cleveland/Bolivar County Crime: ORG
+2007-Present: DATE
+Board: ORG
+Delta Center for Community and Economic Development: ORG
+2007-2010: DATE
+Delta Human Resource Management Association Â 
+
+Council for Advancement & Support of Education: ORG
+Role: GPE
+May 2014: DATE
+three-year: DATE
+2014-2015: DATE
+2015-2016: DATE
+2016-2017: DATE
+Abraham: PERSON
+D.R.: GPE
+Gibson: GPE
+M.C.: GPE
+Novicevic: GPE
+M.M.: GPE
+R.K.: PERSON
+2009: DATE
+USA: GPE
+Biographical: ORG
+Wren: PERSON
+Bedeian: GPE
+Journal of Management History: ORG
+15(1: CARDINAL
+9-19: DATE
+Novicevic: PERSON
+M., Williams: PERSON
+L.: PERSON
+Abraham: PERSON
+D.: NORP
+Gibson: PERSON
+Smothers: ORG
+J.: ORG
+2011: DATE
+Dale Carnegie's: PERSON
+The Journal of Applied Management and Entrepreneurship: ORG

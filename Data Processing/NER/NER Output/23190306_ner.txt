@@ -1,0 +1,54 @@
+2ND: CARDINAL
+OPERATIONS: ORG
+OPERATIONS: ORG
+Core Knowledge: PERSON
+Skills Retail Merchandising,: ORG
+Recruitment & Retention: ORG
+Operations Store Planning & Design: ORG
+Mentoring Profit: ORG
+Loss: PERSON
+Personnel Training and Development
+
+Highlights: ORG
+01/2004: CARDINAL
+Name City: GPE
+State: ORG
+Operations: ORG
+Sales & Services: ORG
+Monitored: ORG
+25: CARDINAL
+hourly: TIME
+Name City: GPE
+Communicating: PERSON
+Apparel Lead 01/2009: PERSON
+01/2011: CARDINAL
+Name City: GPE
+Constructing: GPE
+Communicating: ORG
+Leadership Known: PERSON
+one: CARDINAL
+Brenna T.
+: PERSON
+Walsh: PERSON
+2: CARDINAL
+Sales / Profit & Loss Management Motivated: ORG
+daily: DATE
+daily: DATE
+Earned: PERSON
+Targeted: NORP
+weekly: DATE
+9+/10: CARDINAL
+Personnel Development Coordinated: ORG
+~35%: PERCENT
+one to two: CARDINAL
+annual: DATE
+State: ORG
+Business Management University of Alaska Fairbanks City: ORG
+State Business Management
+Business Management: ORG
+Present Florida State College: ORG
+Jacksonville City: GPE
+State Business Management: ORG
+Skills: ORG
+Customer Service: ORG
+2: CARDINAL

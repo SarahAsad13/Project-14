@@ -1,0 +1,19 @@
+12/2015: CARDINAL
+monthly: DATE
+Assist: NORP
+Maintain: PRODUCT
+Name City: GPE
+State
+
+Insurance: ORG
+Company: ORG
+Name City: GPE
+State: ORG
+04/2013: CARDINAL
+Name City: GPE
+Obtained: ORG
+2010: DATE
+Edmond North High School City: ORG
+2012: DATE
+Christian University City: ORG
+State: ORG

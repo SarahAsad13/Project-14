@@ -1,0 +1,68 @@
+COMMUNITY: ORG
+Skills: ORG
+Creative Suite: PERSON
+Microsoft Office Suite: ORG
+Google Apps: PERSON
+Twitter: PERSON
+Instagram: ORG
+Tumblr: GPE
+Google+: GPE
+Youtube: GPE
+Blogger: ORG
+Wordpress: ORG
+Constant Contact: PERSON
+Raiser: PERSON
+ProClass: ORG
+CampusCafe: ORG
+RetailPro: ORG
+WORKSHOPS Visual Thinking Strategy, Arts & Healthcare: ORG
+Community Art Projects: ORG
+Encaustic Painting: ORG
+Ceramics: ORG
+Printmaking: GPE
+August 2017: DATE
+Current Company Name: ORG
+Community Education: ORG
+Facilitate: ORG
+30%: PERCENT
+past two years: DATE
+Assist: NORP
+7%: PERCENT
+Curate: ORG
+Coordinate: FAC
+Oversee: ORG
+Draft: ORG
+November 2012 to August 2017: DATE
+NH Institute of Art: ORG
+Sharon Arts Center School of Art &
+Craft: ORG
+Built: ORG
+Acted: ORG
+Performed: ORG
+Oversee: ORG
+September 2009 to November 2012: DATE
+State: ORG
+Oversaw: GPE
+Oversaw: GPE
+Initiated: ORG
+Oversaw: GPE
+250K.: MONEY
+Webmaster: PERSON
+July 2009 to November 2012: DATE
+April 2009 to September 2009: DATE
+Assisted Development: ORG
+Assisted Education: ORG
+March 2008 to April 2009: DATE
+State: ORG
+Oversaw: GPE
+Fine Art Gallery: ORG
+Intern/Free-Lance Production: ORG
+September 2006 to January 2008: DATE
+Training: PERSON
+MFA: ORG
+Creative Writing: PERSON
+2016: DATE
+New Hampshire Institute of Art Creative Writing: ORG
+2007: DATE
+Fitchburg State Communications/Graphic Design: ORG
+Adobe Creative Suite: PERSON

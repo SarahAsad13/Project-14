@@ -1,0 +1,54 @@
+Customer Service Associate: ORG
+Highlights
+
+Exceptional: ORG
+Quick learnerÂ: FAC
+Detail: PERSON
+Display: PERSON
+Name City: GPE
+State: ORG
+10/2014: CARDINAL
+Name City: GPE
+Scrubbed: GPE
+2015: DATE
+Name City: GPE
+State: ORG
+clientÃ¨le: PERSON
+Name City: GPE
+State Cashier/ Food Preperation/ Tanning 01/2011 to 07/2011
+
+: ORG
+Inspected: PRODUCT
+Prepared: PRODUCT
+Name City: GPE
+State Technician 06/2010: ORG
+Help Vet: FAC
+Prepared: PRODUCT
+Name City: GPE
+State Substitute: ORG
+Substitute Teachers: ORG
+08/2009: CARDINAL
+Maintained: GPE
+Name City: GPE
+State Teller 12/2006: ORG
+Rapidly: ORG
+ATM: ORG
+Coordinated: ORG
+daily: DATE
+Maintained: GPE
+Name City: GPE
+State Customer Service: ORG
+Office Cleaned: ORG
+overnight: TIME
+Maintained: GPE
+Created: ORG
+daily: DATE
+weekly: DATE
+Coordinated: ORG
+daily: DATE
+Name City: GPE
+State Housekeeping 05/2012: ORG
+10%: PERCENT
+National Honor
+Society: ORG
+10%: PERCENT

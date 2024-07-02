@@ -1,0 +1,110 @@
+TEACHER
+: PERSON
+K-12 Vocal Music: PRODUCT
+Kansas State University: ORG
+Sterling College: ORG
+1999: DATE
+the formative years: DATE
+Music: GPE
+Brain
+Research Strategies: ORG
+Multiple Intelligences: ORG
+HOTS: ORG
+Music: LANGUAGE
+4 Years: DATE
+MTSS Leadership Team
+
+: EVENT
+Quality Control Specialist: ORG
+Taught K-12 Vocal Music: ORG
+9-12: CARDINAL
+two: CARDINAL
+one: CARDINAL
+Elementary: PERSON
+one: CARDINAL
+Middle and High School: ORG
+6-8: PERCENT
+K-8 Vocal Music: ORG
+Jackson Elem: FAC
+Coleman: PERSON
+Choir: NORP
+85 7/8: CARDINAL
+6th Grade Students: ORG
+Taught General Music: ORG
+Choir: NORP
+3: CARDINAL
+Musicals: ORG
+Horace Mann: PERSON
+Vocal Music Program: ORG
+Grade: PRODUCT
+Improved Choral Quality: ORG
+40% to 98%: PERCENT
+1.5 Years: DATE
+3: CARDINAL
+Latchkey Co: PERSON
+3 years: DATE
+Latchkey: NORP
+1 year: DATE
+the past 11 years: DATE
+Dual Language Strategies: ORG
+07/2002: CARDINAL
+Taught K-12 Vocal Music: ORG
+Responsible for Elementary at: WORK_OF_ART
+Windom: GPE
+Little River
+
+: LOC
+05/2001: CARDINAL
+six: CARDINAL
+Kinder: GPE
+2nd Grade Students: ORG
+3: CARDINAL
+05/2000: CARDINAL
+5/6: CARDINAL
+Taught Vocal Music: ORG
+Kinder: ORG
+8: CARDINAL
+Took MS: ORG
+District Choir: LOC
+Taught Beginning and Advance Band: WORK_OF_ART
+District Band: ORG
+10/1996: CARDINAL
+Human Resources Company Name: ORG
+CU: ORG
+Assisted: ORG
+Board: ORG
+01/1995: CARDINAL
+Customer: ORG
+Specialist Company Name: ORG
+3: CARDINAL
+COOP: ORG
+Troubleshoot: PRODUCT
+11/1993: CARDINAL
+Quality Control Compliance: ORG
+the Presidents Council: ORG
+Cherry Hill: GPE
+NJ: ORG
+monthly: DATE
+GE Customer Service: ORG
+14: CARDINAL
+14: CARDINAL
+1999: DATE
+10 year: DATE
+Education: ORG
+Management: GPE
+GE Capital: ORG
+Music Education Degree: WORK_OF_ART
+1989: DATE
+Select One : Music Education Kansas State University ï¼​ City: WORK_OF_ART
+176: CARDINAL
+Music Education: ORG
+Affiliations: ORG
+KMEA/NEA
+
+: ORG
+UTW: ORG
+Executive Council: ORG
+Corporate Trainer: PERSON
+GE Capital: ORG
+Council, Quality Control: ORG
+Customer Service Management: ORG

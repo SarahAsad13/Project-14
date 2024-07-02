@@ -1,0 +1,86 @@
+Microsoft Office: ORG
+Schedule: PERSON
+Resourceful
+Bilingual: PERSON
+Arts: ORG
+Operations: ORG
+Interpersonal: ORG
+Clear: GPE
+Seasoned: PRODUCT
+Client: GPE
+Microsoft Office: ORG
+Parent: GPE
+Behavioral: ORG
+Innovative: NORP
+Calm: PERSON
+Student Technology Leadership Program: ORG
+Customer Service: ORG
+Current Company Name City: ORG
+State: ORG
+05/2014 Company Name City: ORG
+the year: DATE
+monthly: DATE
+Evaluation Committee Meeting Ensuring: ORG
+four year: DATE
+Registering: PERSON
+four year: DATE
+Beauty Consultant 04/2003: WORK_OF_ART
+Name City: GPE
+Coordinated: ORG
+11/2008: CARDINAL
+10/2010: CARDINAL
+Name City: GPE
+Compile: PRODUCT
+Animal Labs: PRODUCT
+Orientation for New Committee Members: ORG
+05/2008 Company Name City: TIME
+State: ORG
+Laid: PERSON
+K12: PERSON
+Graduation for Clinical Scholars: ORG
+two-day: DATE
+Name City: GPE
+State: ORG
+Provided Administrative: ORG
+the Family Medicine Clerkship: ORG
+third: ORDINAL
+fourth-year: DATE
+the Faculty Development Institute: ORG
+Communicated: ORG
+Coordinated: ORG
+National Board Exam: ORG
+every four weeks: DATE
+Initiated: ORG
+Name City: GPE
+first through fourth year: DATE
+week-long: DATE
+Comprehensive Clinical Assessment Exam: WORK_OF_ART
+third-year: DATE
+third-year: DATE
+Coordinated: ORG
+first: ORDINAL
+second: ORDINAL
+the year: DATE
+Initiated: ORG
+daily: DATE
+Bachelor of Science : Language, Literature, Communication: ORG
+Theater Arts Social: ORG
+Communication: ORG
+Theater Arts Social Science
+
+Interests
+Planning: ORG
+Skills: ORG
+Program Management
+Advertising
+Marketing: ORG
+Meeting Planning: WORK_OF_ART
+Microsoft Office: ORG
+Personnel
+Program Planning
+Recruitment
+Research
+Sales
+Supervising: ORG
+Symposium Planning
+Travel: ORG

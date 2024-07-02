@@ -1,0 +1,132 @@
+23 + years: DATE
+Variance: PERSON
+28 %: PERCENT
+multipleÂ: PRODUCT
+May 2015 to March 2016: DATE
+Biologics Development Services: ORG
+7: CARDINAL
+September 2013: DATE
+BDS: ORG
+Controller: PERSON
+Archivist: NORP
+Controller/Office: ORG
+September 2012: DATE
+Initiated: ORG
+September 2012: DATE
+May 2015: DATE
+BDS: ORG
+Controller: PERSON
+February 2009 to January 2013: DATE
+State: ORG
+Controller: PERSON
+30: CARDINAL
+9: CARDINAL
+over 200: CARDINAL
+Payroll: ORG
+year-end: DATE
+5: CARDINAL
+monthly: DATE
+annual: DATE
+Integrated: NORP
+the end of the month: DATE
+August 2001 to August 2008: DATE
+GM: ORG
+monthly: DATE
+annual: DATE
+Integrated: NORP
+zero: CARDINAL
+the end of the month: DATE
+3: CARDINAL
+monthly: DATE
+213: CARDINAL
+GL: ORG
+monthly: DATE
+Petty: PERSON
+Sales Reports: PERSON
+Gift Card: PERSON
+Daily: GPE
+Monthly: DATE
+ADA Reports: ORG
+Completing Annual Reconciliations of Real Estate Tax: ORG
+Recharge: PERSON
+Central Plant: LOC
+90 days old: DATE
+annual: DATE
+Controller/Accounting: ORG
+January 1994 to August 2002: DATE
+5: CARDINAL
+Collections: GPE
+Time: ORG
+Order: ORG
+G/L, Financial Statements: ORG
+Month end: DATE
+Processed: GPE
+Reconcile Merchant: PERSON
+American: NORP
+Perform Bank Reconciliation's: ORG
+year-end: DATE
+Charge Accountant: PERSON
+August 1993 to January 1994: DATE
+Cost Accounting: ORG
+Proposals: GPE
+all
+month end: DATE
+May 1988 to August 1993: DATE
+31: CARDINAL
+Raytheon, Honeywell: ORG
+daily: DATE
+the V.P. of Finance: ORG
+General Accounting: ORG
+five: CARDINAL
+2: CARDINAL
+Inventory Control: ORG
+Order: ORG
+Customer P.O. Administration: ORG
+ADA: ORG
+ADP: ORG
+Bank Reconciliation: ORG
+Billing, Billings: ORG
+Controller: PERSON
+Cost Accounting: ORG
+Finance: ORG
+Financial Statements: ORG
+GL: ORG
+Inventory: GPE
+LIMS: ORG
+Order: ORG
+Payroll: ORG
+Proposals: GPE
+Real Estate: ORG
+Sales Reports: PERSON
+Tax: PERSON
+year-end: DATE
+General Accounting: ORG
+five: CARDINAL
+2: CARDINAL
+Cost Accounting: ORG
+G/L: ORG
+Inventory: NORP
+Order: ORG
+Customer P.O.
+Administration: ORG
+General Accounting: ORG
+ADA: ORG
+ADP: ORG
+Bank Reconciliation: ORG
+Billing, Billings: ORG
+Controller: PERSON
+Cost Accounting: ORG
+Finance: ORG
+Financial Statements: ORG
+GL: ORG
+Inventory: GPE
+LIMS: ORG
+Order: ORG
+Payroll: ORG
+Proposals: GPE
+Real Estate: ORG
+Sales Reports: PERSON
+Tax: PERSON
+year-end: DATE
+Business Management/Accounting Zephyrhills High School - City: ORG
+State: ORG

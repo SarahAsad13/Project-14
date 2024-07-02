@@ -1,0 +1,116 @@
+2007: DATE
+The Barbara Hume Memorial Award 2011 Coach's: FAC
+2007: DATE
+B.W. ": PERSON
+Pete" Woodward: PERSON
+2010: DATE
+Kristen Markoe: PERSON
+January 2014 to January 2015: DATE
+State: ORG
+Develop: ORG
+5: CARDINAL
+6: CARDINAL
+Reason and Rhetoric: ORG
+Teach: ORG
+weekly: DATE
+study hall Closely: ORG
+seventh: ORDINAL
+January 2012 to January 2014: DATE
+New England: LOC
+New York: GPE
+Montreal: GPE
+New Jersey: GPE
+Philadelphia: GPE
+Maryland: GPE
+Chicago: GPE
+Virginia: GPE
+Florida Develop: ORG
+Act: LAW
+Attend: PRODUCT
+Coordinate: FAC
+daily: DATE
+Interview: ORG
+Assist: NORP
+Holderness School's: ORG
+Fall Open House: ORG
+Spring Second
+Visits: EVENT
+over 100: CARDINAL
+Holderness Social Media: ORG
+Twitter: PERSON
+YouTube: ORG
+a 1 year: DATE
+3 year: DATE
+5 year: DATE
+Assisted: PERSON
+Assisted: ORG
+15%: PERCENT
+18%: PERCENT
+20%: PERCENT
+15%: PERCENT
+NEPSAC: ORG
+New England Prep
+School M Athletic Council: LOC
+AAU: ORG
+daily: DATE
+Invited: ORG
+AAU: ORG
+Collaborated with Strength: ORG
+Performed: PERSON
+Assisted studentÂ​: ORG
+Migle Vilunate: PERSON
+Liberty League AllÂ​Rookie: ORG
+Organized: ORG
+the season: DATE
+Collaborated with Athletic Director: WORK_OF_ART
+the Women's Basketball Coaches
+Association: ORG
+WBCA: ORG
+January 2011 to January 2012: DATE
+Coach: ORG
+Men's Basketball 
+City: ORG
+State Conducted: ORG
+daily: DATE
+Instructed: ORG
+Coordinated: PRODUCT
+three: CARDINAL
+one: CARDINAL
+AllÂ​Rookie: ORG
+Conducted: ORG
+Assisted: ORG
+daily: DATE
+W Helped: PERSON
+Thoroughbreds: PERSON
+16Â​10: CARDINAL
+Liberty League Tournament: ORG
+Skidmore College: ORG
+State: GPE
+US Skidmore College: ORG
+Saratoga Springs: GPE
+NY: ORG
+May 2011: DATE
+Holderness School: ORG
+Plymouth, NH: ORG
+June 2007: DATE
+Concordia University Master: ORG
+State: GPE
+US Concordia University: ORG
+Irvine: PERSON
+CA: ORG
+May 2015: DATE
+Coaching and Athletic Administration
+Professional Affiliations
+University of Rochester Boys' Basketball Camp: WORK_OF_ART
+Skills
+Games: ORG
+Health And Wellness: ORG
+Liaison: PERSON
+Recruiting, Arrangements, Exchange: GPE
+Progress: ORG
+Team Player: ORG
+Field Operations: ORG
+Purchase Orders: PERSON
+Award
+
+: PERSON

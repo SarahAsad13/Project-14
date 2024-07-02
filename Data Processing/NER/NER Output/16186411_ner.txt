@@ -1,0 +1,179 @@
+2 years: DATE
+Software Development Life Cycle: ORG
+Microsoft: ORG
+JavaScript: PRODUCT
+jQuery: ORG
+CSS: ORG
+Bootstrap CSS: ORG
+XML: ORG
+AJAX: ORG
+Dataset: ORG
+Data Reader: ORG
+Data Adaptor: ORG
+Entity Frame: ORG
+Library: PERSON
+LINQ: ORG
+SQL: ORG
+Database Access: ORG
+SQL Database: GPE
+Server Controls: ORG
+Form Validation Controls: ORG
+Custom: ORG
+Table Definitions: ORG
+SQL Database: GPE
+one: CARDINAL
+Dev ->: PERSON
+Based Authentication: ORG
+Role-Based Authorization: ORG
+Scrum Master: PERSON
+daily: DATE
+weekly: DATE
+QA: ORG
+QA: ORG
+JavaScript: ORG
+jQuery: ORG
+C++: PERSON
+Java
+Net Technologies: PERSON
+MVC: ORG
+Entity Framework: PERSON
+AJAX: ORG
+Entity Framework: PERSON
+LINQ: ORG
+CSS: ORG
+JavaScript: ORG
+JQuery: ORG
+Visual Studio: PERSON
+Eclipse: PRODUCT
+NetBeans: ORG
+Dreamweaver
+Database: FAC
+SQL: ORG
+MySql
+Operating System:: ORG
+SVN: ORG
+GitHub
+Others: ORG
+Microsoft Word: PERSON
+Excel: PRODUCT
+Access, Power point
+
+Professional Experience
+Database Programmer/Analyst: ORG
+Graduate Research: ORG
+Database Programmer/Analyst: ORG
+Application Development Network: ORG
+ADN: ORG
+DoIT: ORG
+University of Missouri System: ORG
+three: CARDINAL
+Tutee: ORG
+Scheduler: PERSON
+every day: DATE
+1 hour: TIME
+# Console Application: MONEY
+both Console Application for Schedule: ORG
+CKEditor: ORG
+JavaScript: ORG
+Login: PERSON
+Administrator and Students: ORG
+Used Active Directory: ORG
+AD Group: ORG
+Administrators: ORG
+Visual Studio: ORG
+2013: DATE
+Bootstrap CSS: ORG
+Used Redgate SQL Compare: ORG
+ADN Utilities: ORG
+DoIT Utilities: ORG
+AppInventory: ORG
+App Structure: PERSON
+Remedy: PERSON
+Prod: GPE
+QA: ORG
+DCL: ORG
+Database: GPE
+UAT: ORG
+Scrum Masters: PERSON
+Project Estimator: ORG
+Sprint: ORG
+weeks: DATE
+Entity Framework: PERSON
+first: ORDINAL
+LINQ: ORG
+the Database Consumed ADO.Net Entity Frame Work for Entity Data: ORG
+Querying Data: ORG
+Console Application: PRODUCT
+CSV: ORG
+JavaScript: PRODUCT
+Javascript: PERSON
+daily: DATE
+UAT: ORG
+GoAdmin: PERSON
+GoMizzou: ORG
+the University of Missouri: ORG
+GoMizzou Staff: ORG
+GoMizzou: ORG
+AJAX: ORG
+Server: ORG
+Validations: PERSON
+Filtering: GPE
+n-Tier Architecture: ORG
+Created the Business Logic Layer: ORG
+SocialSpirit: ORG
+Created ASP.Net: ORG
+Views: ORG
+SQL: ORG
+Mizzou Checkout: ORG
+Developed C: ORG
+CSV: ORG
+LIM Service: ORG
+Role: PERSON
+Personalized Email: PERSON
+Outlook: PERSON
+Master of Science , Computer Engineering Present University: WORK_OF_ART
+GPA: ORG
+3.7: CARDINAL
+3.7: CARDINAL
+Bachelor of Technology ,: ORG
+Electrical and Electronics: ORG
+May 2013: DATE
+Jawaharlal: GPE
+Nehru Technological University: ORG
+India: GPE
+GPA: ORG
+3.65: CARDINAL
+Electrical and Electronics Engineering GPA: ORG
+3.65: CARDINAL
+Skills: ORG
+Active Directory: ORG
+AGILE: ORG
+AJAX: ORG
+HTML: ORG
+IDE: ORG
+Java: PERSON
+JavaScript: PRODUCT
+JQuery: ORG
+Application Development: ORG
+C++: GPE
+CSS: ORG
+Database: GPE
+Eclipse: PRODUCT
+Email: PERSON
+Frame: ORG
+Logic: ORG
+Access, C#: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Windows: ORG
+Microsoft Word: PERSON
+Network: ORG
+Programmer: ORG
+QA: ORG
+Research: ORG
+Software Development: ORG
+SQL: ORG
+SQL: ORG
+Utilities: ORG
+Visual
+Studio: ORG

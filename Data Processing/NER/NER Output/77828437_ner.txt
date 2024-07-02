@@ -1,0 +1,117 @@
+Combustion Engineer: ORG
+Fluids and Thermal Sciences: ORG
+Mechanical Engineering: ORG
+Highlights: GPE
+Pro/Engineer: ORG
+MATLAB: ORG
+Revit: GPE
+Autodesk Inventor: PERSON
+GD&T: ORG
+Solidworks, Microstation: ORG
+ANSYS
+Mechanical: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Project): ORG
+Name City: GPE
+Vessel: PERSON
+P&ID: GPE
+Mechanical and Microstation: ORG
+ANSI Document Control & Management System: ORG
+Project Managers: ORG
+Name City: GPE
+three: CARDINAL
+Pro/Engineer: ORG
+KANTHAL: ORG
+16.67%: PERCENT
+1 minute: TIME
+61.87%: PERCENT
+Rs: PERSON
+426,336: CARDINAL
+07/2011: CARDINAL
+Fixed: GPE
+Rotary Wing Aircraft Engines: ORG
+Gas Turbines: PRODUCT
+know-: NORP
+Avionics: NORP
+MRO (Manufacture, Maintenance, Repair: ORG
+Drill,: ORG
+Mill: PERSON
+CNC Machine: ORG
+08/2014: CARDINAL
+12/2014: CARDINAL
+New York State Energy Research and Development Authority: ORG
+Performed: ORG
+BioBlock Using: ORG
+TGA: ORG
+Solving Non-Linear Euler Equation for Gas Dynamics: ORG
+CFD: ORG
+November
+2014: DATE
+December 2014: DATE
+Euler: ORG
+Gas Dynamics: ORG
+Lax Friedrich Scheme: PERSON
+Kutta Fourth Order: PERSON
+Lax Wendroff Method Fundamental: PERSON
+Solution: PERSON
+3: CARDINAL
+Numerical: ORG
+Prandtl: NORP
+September 2014: DATE
+October
+: DATE
+2014: DATE
+the Wave Equation: ORG
+two: CARDINAL
+Successive Over- Relaxation: ORG
+Alternating Direction Grid: PERSON
+January 2014: DATE
+May 2014: DATE
+October 2011: DATE
+Master of Science : Mechanical Engineering: WORK_OF_ART
+December 2014: DATE
+SUNY, University at Buffalo: ORG
+GPA: ORG
+3.4/4.0: CARDINAL
+3.4/4.0: CARDINAL
+May 2013: DATE
+GPA: ORG
+3.6/4.0: CARDINAL
+3.6/4.0: CARDINAL
+Fluid Mechanics: ORG
+Computational Fluid Dynamics: ORG
+Applied Thermodynamics: ORG
+Combustion
+Laser Diagnostics: ORG
+Metallurgy, Machine Design: ORG
+Mechanical System Design: ORG
+Society of Automotive Engineers: ORG
+May 2010: DATE
+May 2013: DATE
+PVG College: ORG
+Engineering: GPE
+Pune 2011 Presented: ORG
+'Removal of Toxic Metals: WORK_OF_ART
+Wastewater: ORG
+Activated Carbon: ORG
+MMM College of Engineering: ORG
+Pune 2011: DATE
+Skills
+
+Academic: ORG
+ANSYS: PERSON
+CNC, Direction, Documentation, Drafting: ORG
+DSC: ORG
+Engineer: ORG
+Laser: ORG
+MATLAB: ORG
+Mechanical: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word, Microstation, Mill, Oil: ORG
+Research: ORG
+Solidworks: ORG
+System Design: ORG

@@ -1,0 +1,37 @@
+Marilyn Hunter: PERSON
+Compliance
+Leadership
+Teambuilding
+Work ethic
+Multitasking
+Active: WORK_OF_ART
+Troubleshooting
+Individualized care
+: WORK_OF_ART
+Organization: ORG
+Substitute Teacher: PERSON
+State: ORG
+school day: DATE
+Maintained: GPE
+Oversaw: GPE
+Assigned: ORG
+daily: DATE
+Board of Education: ORG
+Elementary Computer: PERSON
+State: ORG
+Facilitated: ORG
+Receptionist: NORP
+State: ORG
+daily: DATE
+daily: DATE
+each day: DATE
+Oversaw: GPE
+Screened: ORG
+Directed: ORG
+Determined: ORG
+Maintained: GPE
+Maintained: GPE
+Training
+Albany State University: ORG
+City: GPE
+State: ORG

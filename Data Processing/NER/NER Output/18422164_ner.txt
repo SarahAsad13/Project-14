@@ -1,0 +1,60 @@
+SPECIALIST: ORG
+Personnel: ORG
+Workday: DATE
+the HR Operations Service Delivery: ORG
+Human Resource
+Services: ORG
+Human Resources: ORG
+Sr.: GPE
+Job Aids: PERSON
+Maintain: PRODUCT
+SPECIALIST: ORG
+Jun 2008: DATE
+2013: CARDINAL
+Completed: ORG
+Hire systems Responsible: ORG
+Identity: ORG
+Facilitated New Hire Orientation: ORG
+Conducted: ORG
+Conducted: ORG
+2007: DATE
+2008: DATE
+Assisted: ORG
+Maintained: GPE
+Assisted Staffing Specialists with Benefit: WORK_OF_ART
+Workers Compensation: ORG
+Jury Duty: PERSON
+STD/LTD: ORG
+daily: DATE
+Facilitated New Employee
+: ORG
+Orientation Conducted: ORG
+Conducted: ORG
+Sep 2004 to Aug 2007: DATE
+Teamed: ORG
+U.S.: GPE
+Bancorp: ORG
+Maintained: GPE
+Instructed: ORG
+Delivered New Employee Orientation: ORG
+Recruited: PRODUCT
+25: CARDINAL
+Conducted: ORG
+Feb 2001: DATE
+Processed: GPE
+Sep 2014 to Dec 2015: DATE
+Conducted: ORG
+quarterly: DATE
+Masters , Public Administration: ORG
+May 2006: DATE
+Northern Kentucky University: ORG
+ï¼​ City: GPE
+State Public Administration: ORG
+Bachelor of Arts: ORG
+English: LANGUAGE
+May 2002: DATE
+Northern Kentucky University: ORG
+ï¼​ City: GPE
+Affiliations: ORG
+Skills: ORG
+Human Resources: ORG

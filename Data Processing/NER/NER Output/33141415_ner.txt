@@ -1,0 +1,57 @@
+15 year: DATE
+HTML: GPE
+CSS: ORG
+JavaScript
+
+Ability: PRODUCT
+Detail: PERSON
+XHTML
+CSS
+XML: PERSON
+JavaScript: PRODUCT
+ActionScript 3.0: PRODUCT
+Adobe Dreamweaver: PERSON
+Microsoft: ORG
+Microsoft Powerpoint: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsfot Visual Studio: ORG
+PHP/MySQL
+Developed: ORG
+JavaScript: PRODUCT
+Flash: PERSON
+Java Applets: PERSON
+VB.NET: ORG
+Java: PERSON
+ActionScript
+Created: ORG
+Jack: PERSON
+Flash: PERSON
+01/2000: CARDINAL
+Applied: ORG
+Applied: ORG
+Training: PERSON
+2013: DATE
+Animation Kaplan University: ORG
+State: GPE
+USA: GPE
+3.43: CARDINAL
+GPA: ORG
+National Society of Collegiate: ORG
+Scholars
+
+: PERSON
+Java
+Intermediate Java Programming: PERSON
+PHP: ORG
+Interactive Scripting for Web Pages: ORG
+JavaScript: PRODUCT
+Multimedia Scripting: ORG
+ActionScript 3.0: PRODUCT
+Website Development
+Fundamentals of Web Graphics
+Data Structures: ORG
+Algorithms
+Systems Analysis and Design
+Networking Concepts
+Project Management: ORG

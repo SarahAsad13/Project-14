@@ -1,0 +1,118 @@
+PUBLIC RELATIONS & COMMUNICATIONS: ORG
+Professional Summary
+
+Public Relations: ORG
+Results
+
+Strategic: PERSON
+Team Leadership
+Press Releases & Press Kits
+Crisis Management
+Promotion & Image: ORG
+Media Relations
+Campaign Development
+Community Relations: ORG
+Problem: PRODUCT
+Work History
+Public Relations & Communications: WORK_OF_ART
+Oversee: ORG
+Wapa: PERSON
+Wapa
+Deportes
+Plan: PERSON
+Identify: ORG
+the Crisis Communications Committee: ORG
+Build: GPE
+Identify: ORG
+Coordinate: FAC
+Maintain: PERSON
+Communicate: ORG
+Coordinate: FAC
+Developed: PRODUCT
+Wapa Contigo: PERSON
+Partnered: PRODUCT
+Susan G. Komen: PERSON
+Puerto Rico: GPE
+Created: ORG
+Account Executive: ORG
+06/2011: CARDINAL
+five: CARDINAL
+Nissan: ORG
+Coordinated: ORG
+Performed: ORG
+Coordinated: PRODUCT
+three: CARDINAL
+15: CARDINAL
+90%: PERCENT
+at least two: CARDINAL
+more than $1M: MONEY
+a year: DATE
+Editor: PERSON
+more than 3,000: CARDINAL
+04/2011 
+University of Sacred Heart - City 
+Bachelor of Arts :: ORG
+University of Puerto Rico - City: ORG
+Affiliations
+
+Board: ORG
+the Public Relations Professionals Association: ORG
+ARPPR: ORG
+2019: DATE
+Public Relations Professionals Association: ORG
+ARPPR: ORG
+Global Alliance: ORG
+Oral and Written Proficiency: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+â€¢ Computer Knowledge - Windows: PRODUCT
+MS Office Suite: ORG
+Power Point: ORG
+Outlook & Intermediate: ORG
+Certification - Business School of Navarra: ORG
+Spain: GPE
+2014: DATE
+Team Leadership
+Press Releases & Press Kits
+Crisis Management
+Promotion & Image: ORG
+Media Relations
+Campaign Development
+Community Relations: ORG
+Problem: PRODUCT
+Work History
+Public Relations & Communications: WORK_OF_ART
+Oversee: ORG
+Wapa: PERSON
+Wapa
+Deportes
+Plan: PERSON
+Identify: ORG
+the Crisis Communications Committee: ORG
+Build: GPE
+Identify: ORG
+Coordinate: FAC
+Maintain: PERSON
+Communicate: ORG
+Coordinate: FAC
+Developed: PRODUCT
+Wapa Contigo: PERSON
+Partnered: PRODUCT
+Susan G. Komen: PERSON
+Puerto Rico: GPE
+Created: ORG
+Account Executive: ORG
+06/2011: CARDINAL
+five: CARDINAL
+Nissan: ORG
+Coordinated: ORG
+Performed: ORG
+Coordinated: PRODUCT
+three: CARDINAL
+15: CARDINAL
+90%: PERCENT
+at least two: CARDINAL
+more than $1M: MONEY
+a year: DATE
+Editor: PERSON
+more than 3,000: CARDINAL

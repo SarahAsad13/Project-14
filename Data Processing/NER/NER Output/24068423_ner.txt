@@ -1,0 +1,127 @@
+15+ years: DATE
+5 years: DATE
+PhD: WORK_OF_ART
+Soil
+Science and Crop: ORG
+Strong: PERSON
+GIS: ORG
+Development using HTML5: ORG
+JavaScript: ORG
+CSS3: GPE
+PHP Strong: ORG
+Instruments - Licor: ORG
+6400: DATE
+CIRAS3: ORG
+Campbell Scientific: ORG
+GC: GPE
+HPLC: GPE
+Strong: PERSON
+Agricultural: ORG
+Highlights: GPE
+January 2015: DATE
+Current Company Name: ORG
+Identification: ORG
+University of
+: ORG
+Kentucky: GPE
+2010: DATE
+July - 2014: DATE
+Conducted: ORG
+Multistate USDA: ORG
+Working: ORG
+first: ORDINAL
+Prepared: PERSON
+Research: ORG
+Univ: PERSON
+Kentucky: GPE
+2006: DATE
+May: DATE
+winter: DATE
+Green Seeker: PERSON
+Hydro-N: ORG
+Spectro: ORG
+Practical: ORG
+July 
+January 2004 to February 2006 Company Name: DATE
+January 2000 to December 2002: DATE
+Fellow Kerala: PERSON
+Govt: ORG
+Kerala: GPE
+2003 April -2003: DATE
+Kerala: GPE
+India: GPE
+Development of Site Specific Nutrient Management: ORG
+Kerala: GPE
+Nov 
+January 2000: DATE
+May 2000: DATE
+Coir Geo: PERSON
+coir geo: PERSON
+PhD: WORK_OF_ART
+Crop: ORG
+2010: DATE
+University of Kentucky: ORG
+City Soil Science: FAC
+Crop: ORG
+Soil Science and Agricultural Chemistry: ORG
+2002: DATE
+Tamil Nadu Agricultural University: ORG
+2000: DATE
+Kerala Agricultural University: ORG
+India: GPE
+PhD: WORK_OF_ART
+Publications
+Nambuthiri: ORG
+R. Geneve: PERSON
+2014: DATE
+M. Goyal: PERSON
+Ed: PERSON
+Micro: ORG
+CRC Press: ORG
+Coolong, T.,: GPE
+S. Nambuthiri: PERSON
+R. Warner: PERSON
+2014: DATE
+Tensiometer Based Automated
+Irrigation For Tomato: PERSON
+M. Goyal: PERSON
+Ed: PERSON
+Micro: ORG
+CRC Press: ORG
+Ethan: PERSON
+A. Fulcher: PERSON
+R. Geneve: PERSON
+2014: DATE
+Comparing Substrate Moisture-Based Daily Water Use: PERSON
+Two: CARDINAL
+Scientia Horticulturae: PERSON
+179: CARDINAL
+132: CARDINAL
+S.: NORP
+2014: DATE
+24: CARDINAL
+1: CARDINAL
+R. Geneve: PERSON
+G. Niu: PERSON
+2015: DATE
+HortTechnology: ORG
+Nambuthiri: PERSON
+G. Niu: PERSON
+G. Bi: PERSON
+T. Fernandez: PERSON
+R. Geneve: PERSON
+2015: DATE
+R.: NORP
+S. Nambuthiri: PERSON
+A. Fulcher: PERSON
+2014: DATE
+Irrigation Application Efficiency Calculation: ORG
+Sprinkler Irrigated Container Plants Grown: ORG
+Sensor: PERSON
+Irrigation Scheduling: ORG
+Acta Horticulturae: PERSON
+Dec: PERSON
+Modeling: GPE
+Oct: PERSON
+PhD: WORK_OF_ART
+Research: ORG

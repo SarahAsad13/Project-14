@@ -1,0 +1,66 @@
+Human Resources: ORG
+3
+years': DATE
+AR/AP: ORG
+Oracle: ORG
+New Hire Training
+Filing & Records Management
+Spreadsheets/Reports
+Office Management
+Customer Service: FAC
+QuickBooks: ORG
+New Hire: GPE
+Circle K -Naples: ORG
+FL: ORG
+10/2014: CARDINAL
+PTO: ORG
+Explained: PRODUCT
+two: CARDINAL
+Completed: ORG
+Processed: GPE
+01/2010
+AR/AP Representative Company Name: WORK_OF_ART
+Processed: GPE
+Lien: PERSON
+Waiver: PERSON
+NTO: ORG
+Processed: GPE
+01/2004: CARDINAL
+State
+
+Electrical: ORG
+NTO: ORG
+Balanced: ORG
+daily: DATE
+AR/AP Filling: ORG
+Coordinated: ORG
+Associates of Science : Human resources: ORG
+State Human: ORG
+Accounting, Employment Laws, Human: ORG
+1: CARDINAL
+Organizational
+Development: ORG
+Society for Human Resource Management: ORG
+Volunteer: PRODUCT
+Hire Smart" Rasmussen College
+: PERSON
+Skills
+Accounting: ORG
+ADP: ORG
+AP: ORG
+AR, Benefits: ORG
+Customer
+Service: ORG
+Detail: PERSON
+Employee Relations: ORG
+Filling: ORG
+Filing: GPE
+Human Resource
+Management, Human Resources: ORG
+1: CARDINAL
+MS Office Suite: ORG
+Office
+Management: ORG
+Oracle, Organizational Development: ORG
+QuickBooks, Recruitment, Scheduling: ORG
+Spreadsheets: ORG

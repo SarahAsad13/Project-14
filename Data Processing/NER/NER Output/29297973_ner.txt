@@ -1,0 +1,86 @@
+Payroll: ORG
+four months: DATE
+monthly: DATE
+06/2013: CARDINAL
+11: CARDINAL
+3 months: DATE
+Shut: PERSON
+100: CARDINAL
+3 days: DATE
+90%: PERCENT
+60 days: DATE
+Reopened: ORG
+30: CARDINAL
+30 days: DATE
+Facilitated: ORG
+700: CARDINAL
+Recruited: PRODUCT
+ADA: ORG
+Coordinated: ORG
+Gaylord: GPE
+LeSueur: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Affirmative Action: ORG
+Affirmative Action: ORG
+Kronos: GPE
+Ulti-Pro: PERSON
+Michael Foods, Inc.: ORG
+Kronos: PERSON
+Ceridian: NORP
+Chaska: GPE
+Chaska: GPE
+10/2011: CARDINAL
+06/2013: CARDINAL
+State: ORG
+06/2011: CARDINAL
+07/2011: CARDINAL
+State: ORG
+Quality Assurance Auditor: ORG
+Assembler Company Name: ORG
+State: ORG
+03/2007: ORG
+04/2010: CARDINAL
+20: CARDINAL
+Maintained: GPE
+3 years: DATE
+up to 300: CARDINAL
+Communicated: ORG
+MDS: ORG
+Medicare: ORG
+Maintained: GPE
+Created: ORG
+late night: TIME
+The Brickhouse Grill: WORK_OF_ART
+Conducted: ORG
+monthly: DATE
+Training: PERSON
+December 2012: DATE
+Organizational Management Human Resources Management Ashford University: ORG
+State Organizational Management
+Human Resources Management 4.0: ORG
+May 2005: DATE
+Art Wisconsin Lutheran College: ORG
+City: GPE
+State: ORG
+2016: DATE
+OSHA: ORG
+10: CARDINAL
+General Industry Safety and Health: ORG
+2/26/
+July 2016: DATE
+First Aid & CPR: ORG
+9/8/2015: DATE
+Law Seminar: PERSON
+July 2016: DATE
+Payroll Law Seminar
+: LAW
+ADA: ORG
+Ceridian: NORP
+CPR: ORG
+First Aid: ORG
+Kronos: PERSON
+Law: PERSON
+Payroll: ORG
+Safety: ORG

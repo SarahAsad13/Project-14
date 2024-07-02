@@ -1,0 +1,85 @@
+BUSINESS DEVELOPMENT: ORG
+Summary
+
+Extensive: WORK_OF_ART
+MS Office: ORG
+Team: ORG
+Detail: PERSON
+Analytical: PRODUCT
+Generate: PERSON
+Identify: ORG
+Develop: ORG
+CRM: PRODUCT
+Participate: ORG
+Sponsorship & Exhibition Account Executive 07/2015: ORG
+State
+
+Research: ORG
+Develop: ORG
+Invoice: GPE
+Coordinate: FAC
+Internal Operations: ORG
+08/2014: CARDINAL
+Resolve: PRODUCT
+Sell: ORG
+technician
+Increase service department revenue: ORG
+30%: PERCENT
+just 6 months: DATE
+Name City: GPE
+3rd: ORDINAL
+Appraise: GPE
+Assist: NORP
+40: CARDINAL
+70: CARDINAL
+3 months: DATE
+Business Development Sales: ORG
+80-100: CARDINAL
+Identify: ORG
+CRM: PRODUCT
+Participate: ORG
+Name City: GPE
+CRM: PRODUCT
+Negotiate: ORG
+monthly: DATE
+Forecast: ORG
+Name City: GPE
+State: ORG
+Identify: ORG
+60: CARDINAL
+Develop: ORG
+150: CARDINAL
+Master of Science Degree :: WORK_OF_ART
+May 2012: DATE
+Argosy University City: ORG
+December 2006: DATE
+Winthrop University City: ORG
+State: GPE
+Richardson Animal Rescue: PERSON
+York: ORG
+SC: ORG
+March 2015: DATE
+Fort Mill Rescue: PERSON
+Fort Mill: ORG
+SC: ORG
+July 2009 to August 2012: DATE
+Flex Mortgage: WORK_OF_ART
+SC: ORG
+September 2006 to December 2006: DATE
+Rock Hill: ORG
+SC: ORG
+September 2006 to December 2006: DATE
+Winthrop University: ORG
+Rock Hill: ORG
+SC: ORG
+September 2003 to December 2006: DATE
+Air Defense Artillery 03/2002: PRODUCT
+03/2008 Company Name
+
+Air Defense Artillery
+Earned: WORK_OF_ART
+the Army Achievement Medal
+College ROTC: ORG
+CRM: PRODUCT
+MS: ORG
+CNA: ORG

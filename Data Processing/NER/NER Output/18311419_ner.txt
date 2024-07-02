@@ -1,0 +1,26 @@
+10-year: DATE
+Dec 2015: DATE
+healthcare clinics: ORG
+Heavy: ORG
+2010: DATE
+2015: DATE
+Recruited: PRODUCT
+University: ORG
+Maintained: GPE
+weekly: DATE
+May 2001: DATE
+2010: DATE
+10: CARDINAL
+Monitored: ORG
+daily: DATE
+every month: DATE
+Training
+Bachelor of Science , Business Management June 2008: PERSON
+State Business Management: ORG
+Budgeting: PERSON
+Customer Relationship Management: ORG
+Functional: GPE
+Human Resource: ORG
+Leadership: PERSON
+Research, Sales: ORG
+Strategic: PERSON

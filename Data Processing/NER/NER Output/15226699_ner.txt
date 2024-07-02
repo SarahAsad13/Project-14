@@ -1,0 +1,81 @@
+Highlights
+
+: GPE
+Alliance Safety Council: ORG
+2014: DATE
+Visio: PERSON
+StudioOne: ORG
+ProTools: ORG
+Ableton
+Live: FAC
+Corel Painter: ORG
+Adobe Illustrator: PERSON
+Adobe DreamWeaver: PERSON
+Excel: PRODUCT
+Access Database: ORG
+April 2014: DATE
+Name City: GPE
+State Operations: ORG
+July 2011 to November 2014: DATE
+Name City: GPE
+daily: DATE
+Oversee: ORG
+daily: DATE
+May 2010 to July 2011: DATE
+Name City: GPE
+State Certified Quality Assurance: ORG
+Troubleshoot: ORG
+Data: ORG
+three: CARDINAL
+Tiger Woods PGA: WORK_OF_ART
+2012: DATE
+EA Sports': ORG
+MMA: ORG
+NHL: ORG
+12: CARDINAL
+January 2009: DATE
+May 2010: DATE
+Company Name City: LOC
+State Department: ORG
+Complete: PERSON
+January 2006 to January 2009: DATE
+Name City: GPE
+Baton Rouge: GPE
+Identify: WORK_OF_ART
+30+ foot: QUANTITY
+2014: DATE
+Baton Rouge Community College: ORG
+State: GPE
+United States: GPE
+Applied Science Entertainment Technology / Audio Engineering: ORG
+PreSonus Audio - Baton Rouge Sales Department: ORG
+Warehouse Department, Event Planning: ORG
+NaVision: ORG
+Loading: PERSON
+Applied Science Entertainment Technology / Audio Engineering: ORG
+2014: DATE
+Central High School 
+City: ORG
+State: GPE
+United States: ORG
+Robert C. Byrd Scholarship: PERSON
+GPA: ORG
+3.65: CARDINAL
+Dean's List Standing: WORK_OF_ART
+Skills: ORG
+Adobe DreamWeaver: PERSON
+Adobe Illustrator: ORG
+Adobe Photoshop: PERSON
+Adobe Premiere: PERSON
+Audio: PERSON
+Cool Edit Pro: PERSON
+Corel: GPE
+Data: ORG
+Event Planning: ORG
+Access, Access Database: ORG
+Excel: PRODUCT
+NaVision: ORG
+ProTools: ORG
+Quality: ORG
+Safety, Sales: ORG
+Troubleshooting: GPE

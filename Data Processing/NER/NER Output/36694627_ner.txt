@@ -1,0 +1,54 @@
+years: DATE
+Highlights
+
+Crisis: EVENT
+Complex: NORP
+Valid Texas: ORG
+Reliable: WORK_OF_ART
+Client: PERSON
+Compassionate: ORG
+Microsoft Office: ORG
+Lead Teller: PERSON
+9 months: DATE
+1 month: DATE
+the Dove Project, Inc.: ORG
+July 2014 to August 2015: DATE
+Maintained: GPE
+Collaborated: ORG
+Drafted: ORG
+January 2014 to March 2014: DATE
+Processed: GPE
+Processed: GPE
+Created: ORG
+June 2012 to: DATE
+Processed: GPE
+daily: DATE
+zero: CARDINAL
+Processed: GPE
+Wells Fargo: ORG
+Researched: ORG
+Directed: ORG
+2000: DATE
+Jefferson City High School - City: ORG
+State: ORG
+Cole: PRODUCT
+10%: PERCENT
+Coursework in Business, Communications and Advertising
+Coursework in Accounting 1 & 2: ORG
+3.4: CARDINAL
+GPA
+Coursework includes: ORG
+Technical and Professional Writing
+
+Select One: ORG
+Skills: ORG
+10: CARDINAL
+Trains: PERSON
+Faxing: GPE
+Filing: GPE
+microsoft: ORG
+PowerPoint: ORG
+microsoft: ORG
+Scanning: GPE
+Supervisory: PERSON
+65: CARDINAL

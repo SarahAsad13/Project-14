@@ -1,0 +1,116 @@
+COMMITTEE: ORG
+Homeland Security: ORG
+Skill Highlights: PERSON
+Public Relations
+
+Project Management
+Strategic Planning
+Contract Negotiations
+Performance Analysis
+
+Core Accomplishments
+
+Project Management: Â 
+
+Initiated the Brothers' Keeper Program: ORG
+multi-year: DATE
+January 2016: DATE
+Current Committee: ORG
+the Durham Community Development Block Grant Program: ORG
+Ensures: LOC
+Durham: GPE
+August 2015: DATE
+Current Correctional Officer 
+City: ORG
+Oversee: ORG
+October 2009 to: DATE
+April 2013: DATE
+FTO: ORG
+first: ORDINAL
+daily: DATE
+March 2007 to July 2011 Program Coordinator/Case: DATE
+HIPPA: ORG
+Structured: ORG
+December 2005 to March 2007: DATE
+State: ORG
+February 2002: DATE
+August 2007: DATE
+Officer/Anti Crimes Unit: ORG
+November 2004 to March 2006: DATE
+Technician 
+City: GPE
+the Joint Commission on Accreditation of Health Care
+Organizations: ORG
+JCAHO: ORG
+April 1990 to September 1996: DATE
+the Tactical Response Unit: ORG
+the Commonwealth of Pennsylvania Office of Attorney General Drug Elimination Task Force: ORG
+January 1989 to March 1991: DATE
+Criminal Investigator 
+City: ORG
+United States Food Coupons: ORG
+the United States: GPE
+the Eastern District: LOC
+Pennsylvania: GPE
+Affidavit: GPE
+Probable Cause for the: WORK_OF_ART
+U.S.: GPE
+the Eastern District: LOC
+Pennsylvania: GPE
+the U.S. Food Stamp Act: ORG
+7: CARDINAL
+North Carolina Central University: ORG
+One: CARDINAL
+Public Administration & Master of Science in Information Science MPA/MIS City: ORG
+Public Administration & Information Science (Strategic Information Management: ORG
+Public Administration: ORG
+Administrative Law: PERSON
+Public Administration: ORG
+American Government: ORG
+Intergovernmental Relations, Human Resource Management: ORG
+Information Systems: ORG
+Kaplan University 02/2013: ORG
+Dean: PERSON
+The National Society of Collegiate: ORG
+Charlotte School of Law City: ORG
+Legal Writing: ORG
+Lawyer Practicing: PERSON
+Professional Responsibility, Ethics: ORG
+Practice: GPE
+United States Dept: ORG
+Deoxyribonucleic Acid: PERSON
+Legal Guide for the Forensic Expert
+Advanced: WORK_OF_ART
+Courtroom Testimony for Forensic Analysts Crime Scene & DNA
+Basics for Forensic Analysts DNA Extraction and Quantization for Forensic Analysts Collecting DNA Evidence at Property Crime Scenes
+Federal Bureau of Investigation (FBI: WORK_OF_ART
+Training Division's Office of Technology, Research: ORG
+National Intelligence
+
+Awards
+
+Bravery Commendation - 1994, 1995, 2001,: ORG
+2002: DATE
+Valor Commendation - 1993, 1994,: ORG
+2002: DATE
+Professional Affiliations
+
+City of Durham Citizens Advisory Committee: ORG
+American Bar Association: ORG
+International City/County Management Association: GPE
+Council on Legal Education Opportunity (C.L.E.O.: ORG
+National Conference of State Legislatures
+National Association for the Advancement of Colored People (NAACP: WORK_OF_ART
+The Most Worshipful Prince Hall Grand Lodge: WORK_OF_ART
+Maryland: GPE
+Jurisdiction, Inc.
+
+: ORG
+Skills
+
+Team Leadership
+Departmental Operations Leadership
+Time Management
+Training and Development
+Conflict Resolution
+Negotiations: ORG

@@ -1,0 +1,35 @@
+FINANCE: ORG
+Negotiations
+Cross-Cultural Sales BackgroundÂ 
+
+Â Marketing
+Leadership & Management: ORG
+40 %: PERCENT
+monthly: DATE
+Finance: ORG
+4Â months: DATE
+12: CARDINAL
+20%: PERCENT
+each month: DATE
+Finance: ORG
+11/2010: CARDINAL
+Name City: GPE
+State: ORG
+11/2015: CARDINAL
+Name City: GPE
+State Negotiated: ORG
+Finance: ORG
+02/2015: PERSON
+Name City: GPE
+CNA 01/2003: ORG
+Name City: GPE
+Hospice: PERSON
+13: CARDINAL
+Charted: LOC
+Finance & Automotive Insurance: ORG
+2014: DATE
+UDS City: GPE
+State: ORG
+Skills: ORG
+Bi: PERSON
+Hospice: PERSON

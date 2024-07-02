@@ -1,0 +1,190 @@
+Skills
+PeopleSoft HCM 8.8/9.x: ORG
+PeopleSoft Financials: ORG
+8.8/9.x: CARDINAL
+8.54: CARDINAL
+SQL Developer: ORG
+Visio: PERSON
+MS Project: GPE
+Dell Stat: ORG
+5.6/5.7: CARDINAL
+SQL Developer: ORG
+Putty, SharePoint: ORG
+HP Application Lifecycle Management: ORG
+Oracle Enterprise: ORG
+STAT: ORG
+Admin: PERSON
+TOAD: ORG
+Remedy, Heat: ORG
+8: CARDINAL
+Current
+Information Technology Auditor Company Name: ORG
+annual: DATE
+annual: DATE
+Sarbanes Oxley - SOX: PERSON
+Assist: NORP
+Association: ORG
+Critical Infrastructure Protection: ORG
+Western Electricity Coordinating
+Council: ORG
+WECC: ORG
+Federal Energy Regulatory Commission: ORG
+FERC: ORG
+North American Electric Reliability Corporation: ORG
+NERC: ORG
+Midwest Reliability Organization: ORG
+Equal Employment Opportunity: ORG
+10/2016: CARDINAL
+PeopleSoft Security Administrator III Company Name: ORG
+quarterly: DATE
+Segregation of Duty: WORK_OF_ART
+monthly: DATE
+quarterly: DATE
+PeopleSoft Core Financials: ORG
+PeopleSoft Financials: ORG
+Enterprise Learning Management: ORG
+Perform: ORG
+Dell Stat 5.6/5.7: ORG
+Streamline: GPE
+PeopleSoft Financials: ORG
+Coordinate: FAC
+Sr. Application Systems Analyst Company Name: ORG
+Created: ORG
+Dashboards: ORG
+Interaction Hubs: PERSON
+HCM: ORG
+PeopleSoft: ORG
+9.2: CARDINAL
+PeopleTools: ORG
+PeopleSoft: ORG
+PS Financials: ORG
+PS Campus Solutions: ORG
+Workday HCM: PERSON
+PeopleSoft: ORG
+9.1: CARDINAL
+9.2: CARDINAL
+third: ORDINAL
+Created: ORG
+Performed: ORG
+Performed: ORG
+SOX: ORG
+Data Privacy: ORG
+Identity Access Management: ORG
+Citrix Remote Desktop: WORK_OF_ART
+Microsoft: ORG
+ERP Security Analyst/Team Lead/Project Lead Company Name: ORG
+PeopleSoft: ORG
+PeopleSoft Financial: ORG
+Workday HCM: PERSON
+US: GPE
+USON: ORG
+McKesson
+Specialty Health: ORG
+McKesson: PERSON
+USON: ORG
+McKesson: ORG
+PeopleSoft HCM: ORG
+Performed: ORG
+PeopleSoft: ORG
+HRMS: PERSON
+PeopleSoft: ORG
+Grants: PRODUCT
+Workday HCM: PERSON
+McKesson: PERSON
+PeopleSoft: ORG
+PeopleSoft: ORG
+Oracle, Siebel: ORG
+EIB: ORG
+Workday HCM: ORG
+Payroll: ORG
+PeopleSoft Financials: ORG
+PeopleSoft: ORG
+Workday HCM: PERSON
+PeopleSoft: ORG
+annually: DATE
+weekly: DATE
+Created: ORG
+weekly: DATE
+quarterly: DATE
+Coordinated: ORG
+10/2007: CARDINAL
+Remedy: PERSON
+Remedy: PERSON
+Created a Change Management: ORG
+Applied: ORG
+Conducted: ORG
+Conducted: ORG
+Created: ORG
+five: CARDINAL
+first: ORDINAL
+Gurgaon: GPE
+India: GPE
+SOX: ORG
+monthly: DATE
+quarterly: DATE
+Performed Business Impact Analysis and Cost/Benefit Analysis: ORG
+weekly: DATE
+Structured: ORG
+Client Security: ORG
+03/2006
+Sr. Technical Analyst Company Name: ORG
+Performed: ORG
+PeopleSoft: ORG
+PeopleSoft: ORG
+Provided third: PRODUCT
+Created: ORG
+Mainframe: PERSON
+PeopleSoft: ORG
+Blackberry: ORG
+Established: ORG
+Facilitated: ORG
+weekly: DATE
+weekly: DATE
+Maintained: GPE
+Systems Infrastructure Analyst Company Name: ORG
+State: ORG
+10/1999: DATE
+B.B.A : Management Information Systems University of Houston Management Information Systems: ORG
+2010: DATE
+Certified Information Systems Auditor: ORG
+CCNA: PERSON
+Novell: ORG
+Delta Sigma Pi Business Fraternity: ORG
+Skills
+Streamline: ORG
+CCNA, Change Management: ORG
+CISA: GPE
+Citrix: GPE
+Council: ORG
+Dell: ORG
+8.8: CARDINAL
+Financial: ORG
+Grants: PERSON
+Hubs: GPE
+Information
+Systems: ORG
+Mainframe: PERSON
+Access: PRODUCT
+MS Office: ORG
+MS Project: ORG
+SharePoint: ORG
+Novell, Oncology: ORG
+Oracle Enterprise: ORG
+Oracle, Developer, Payroll: ORG
+PeopleSoft HRMS: PERSON
+PeopleSoft: ORG
+PeopleSoft: ORG
+9.1: CARDINAL
+PeopleSoft: ORG
+9.2: CARDINAL
+PeopleTools: ORG
+PeopleTools: ORG
+8.51: CARDINAL
+Sarbanes Oxley: PERSON
+SAS: ORG
+Siebel: PERSON
+Sigma: GPE
+SQL: ORG
+Structured: ORG
+TOAD: ORG
+Visio: PERSON

@@ -1,0 +1,69 @@
+SOUS CHEF
+Work: ORG
+Sous Chef Jul 2010: PERSON
+Plated: ORG
+daily: DATE
+daily: DATE
+Received: ORG
+Jan 2013 to Jan 2014: DATE
+Processed: GPE
+OPERA Perform: ORG
+Guest: PERSON
+Maintained: GPE
+IHG: ORG
+monthly: DATE
+Completed: ORG
+Front: PERSON
+Jan 2010 to Jan 2013: DATE
+Prepared: PRODUCT
+ADA: ORG
+Workers Compensation: ORG
+Jan 2011 to Jan 2012: DATE
+daily: DATE
+Prep Cook: PERSON
+Banquet Upheld Department of Health: ORG
+Jun: PERSON
+2007: DATE
+2007: DATE
+OSHA: ORG
+HAZCOM: ORG
+Blood Borne Illnesses: PERSON
+Career Overview
+
+A: WORK_OF_ART
+Core Strengths: PERSON
+Hospitality: PERSON
+Project Management
+Marketing
+Experienced: ORG
+Working long hours: TIME
+Accounting
+Revenue Management
+
+Accomplishments
+
+: ORG
+Woodbridge: GPE
+Business Administration: ORG
+2015: DATE
+Stratford University: ORG
+GPA: ORG
+3.8: CARDINAL
+3.8: CARDINAL
+Magna Cum Lade: PERSON
+Hospitality Management 2013 Stratford University: ORG
+State: GPE
+2010: DATE
+Stratford: PERSON
+State: GPE
+USA: GPE
+Advanced Culinary Arts: ORG
+Trainings City: GPE
+CPR-AED Certified: ORG
+Certified Food Handler: ORG
+Culinarian: NORP
+2010: DATE
+Skills: ORG
+ADA: ORG
+CPR: ORG
+Department of Health: ORG

@@ -1,0 +1,92 @@
+INTERIOR: ORG
+the United States: GPE
+Skills
+
+Proficient: ORG
+Autocad
+Time: ORG
+Detail: PERSON
+11/2014: CARDINAL
+Prepare: ORG
+Submit: ORG
+Completed: ORG
+AEC: ORG
+Excel: PRODUCT
+Microsoft: ORG
+05/2004: CARDINAL
+Completed: ORG
+Calculate B.O.M.A.: FAC
+Prepare: ORG
+Coordinate: ORG
+Submit: ORG
+Microsoft: ORG
+10/2000: CARDINAL
+05/2004: CARDINAL
+Completed: ORG
+Prepare: ORG
+Microsoft: ORG
+09/1997: DATE
+10/2000: CARDINAL
+Prepare a Design Fee Proposal: ORG
+Prepare: ORG
+Microsoft: ORG
+12/1993: CARDINAL
+Maryland National Bank: ORG
+NationsBank: ORG
+five: CARDINAL
+Baltimore: GPE
+six: CARDINAL
+Richmond: GPE
+Virginia: GPE
+Prepare: ORG
+Fac: ORG
+07/1993: CARDINAL
+12/1993: CARDINAL
+09/1989: CARDINAL
+07/1993: CARDINAL
+eight to twelve: CARDINAL
+the United States: GPE
+17: CARDINAL
+five: CARDINAL
+Mt.
+: LOC
+Washington: GPE
+Calculate: ORG
+monthly: DATE
+B.O.M.A.: GPE
+Baltimore: GPE
+AEC Architectural Template: ORG
+Lotus: ORG
+Microsoft: ORG
+Earnest: PERSON
+01/1984: CARDINAL
+09/1989: CARDINAL
+six to eight: CARDINAL
+the United States: GPE
+Research: ORG
+AEC Architectural Template: ORG
+IBM: ORG
+Art History Minor: PERSON
+5 1984: DATE
+Maryland Institute College of Art - City: ORG
+State: ORG
+Art History Minor: PERSON
+Fine Art Curriculum: PERSON
+1 1980: DATE
+Towson State University - City: ORG
+CEU: ORG
+CID: ORG
+International Interior Design Association: ORG
+1998 to: DATE
+1999: DATE
+1995 to 1996: DATE
+Treasurer: PERSON
+National Trust for Historic Preservation: ORG
+IBM: ORG
+Lotus: ORG
+Microsoft Excel: ORG
+Excel: PRODUCT
+Microsoft
+Project: ORG
+Microsoft: ORG
+Proposal, Research: ORG

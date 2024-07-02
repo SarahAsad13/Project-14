@@ -1,0 +1,73 @@
+Effective: NORP
+Fiscal: WORK_OF_ART
+Work History
+Finance: WORK_OF_ART
+Treasurer: PERSON
+the Finance Department: ORG
+South County: GPE
+City: GPE
+Coordinate: FAC
+the Transportation
+Development Act: ORG
+one: CARDINAL
+Financial Services Officer/Budget Officer: ORG
+10/1997: DATE
+SEC: ORG
+Calpine
+Corporation: ORG
+SEC: ORG
+the Division of Corporation Finance: ORG
+the
+Office of the Chief Accountant: ORG
+the Division of Enforcement: ORG
+Company: ORG
+SEC: ORG
+zero: CARDINAL
+approximately $20 billion: MONEY
+Author: GPE
+10: CARDINAL
+8: CARDINAL
+1934 Act: QUANTITY
+SEC: ORG
+Assist: NORP
+quarterly: DATE
+Draft: ORG
+quarterly: DATE
+monthly: DATE
+Support Investor Relations and Public Relations: ORG
+Legal, Human Resources, Financial Planning and Analysis and: ORG
+Primary: PERSON
+SFAS 133: LAW
+SFAS 34: LAW
+Responsible for Stock Administration: ORG
+01/1997 to 03/2000: CARDINAL
+Client: GPE
+2001: DATE
+California: GPE
+State: ORG
+GPA: ORG
+Summa Cum Laude: PERSON
+California: GPE
+Finance Committee: ORG
+South Valley Community: LOC
+Church- Gilroy: ORG
+CA Treasurer: PERSON
+Las Madres - Gilroy: PERSON
+CA: ORG
+2000: DATE
+California Polytechnic - City: FAC
+State: ORG
+Accountant: ORG
+CA: ORG
+Certified Public Accountant: ORG
+Finance: ORG
+Financial, Financial Planning and Analysis: ORG
+Human Resources: ORG
+Investor Relations: ORG
+Office: ORG
+Public Relations: ORG
+Research: ORG
+Sarbanes-Oxley: PERSON
+Transportation: ORG
+Treasury: ORG
+Author: GPE

@@ -1,0 +1,33 @@
+Social Media Producer Nov 2016: ORG
+Instagram and Facebook
+Set: ORG
+Videographer: PERSON
+Social Media Sites: ORG
+Videographer: PERSON
+YouTube: ORG
+May 2007 to Nov 2016: DATE
+Excel: PRODUCT
+Microsoft: ORG
+Paychex: GPE
+Bachelor of Arts , Television: ORG
+June 2016: DATE
+California State University of Los Angeles: ORG
+State
+Associates of Arts Degree 2009 Riverside Community College: ORG
+Mac: PERSON
+2015: DATE
+MacBook Pro: PERSON
+Windows: NORP
+IOS: ORG
+Avid Media: PERSON
+Avid Media: PERSON
+Composer User: PERSON
+Social Media Sites
+Self: ORG
+DSLR: ORG
+Productive: NORP
+72 wpm: QUANTITY
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook: PERSON

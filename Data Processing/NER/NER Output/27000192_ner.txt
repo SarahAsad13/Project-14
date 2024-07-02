@@ -1,0 +1,103 @@
+healthcare: ORG
+Skills
+Work History
+VP: ORG
+Ocean City: GPE
+Md.: GPE
+Department of Tourism, OLD BAY: ORG
+McCormick & Company: ORG
+Cookies: ORG
+Pretzelmaker: PERSON
+Stick: FAC
+The Maryland Stem Cell Research Commission: ORG
+The Maryland Technology Development
+Corporation: ORG
+Nobel Learning Communities, Inc.: WORK_OF_ART
+The Center for Eating Disorders at Sheppard Pratt: WORK_OF_ART
+Demonstrate: ORG
+Tops: ORG
+USA Today: ORG
+The Today Show: WORK_OF_ART
+Sheppard Smith: PERSON
+Fox & Friends: ORG
+Newsweek: ORG
+Huffington Post: ORG
+Advise: PRODUCT
+MGH: ORG
+Recruit: ORG
+MGH: ORG
+MGH: ORG
+MGH: ORG
+eight years: DATE
+Marketing Edge: ORG
+Marketing Edge: ORG
+Marketing Edge: ORG
+Marketing Edge: ORG
+Intern 07/2005 
+Company Name: PRODUCT
+the State of Maryland: GPE
+Researched: ORG
+Governors: NORP
+Governors: NORP
+the House of Delegates: ORG
+United States: ORG
+Congress: ORG
+Maryland: GPE
+Intern 07/2004 
+Company: PRODUCT
+the State of Maryland: GPE
+weekly: DATE
+Intern 10/2000: LAW
+the House of Representatives: ORG
+Congress: ORG
+2000: DATE
+the Congressional Nominations to the National Service Academies: ORG
+Master of Arts : Strategic Communication: WORK_OF_ART
+December 2006: DATE
+Villanova University - City: ORG
+Villanova University - City: ORG
+2006: DATE
+5 2005: DATE
+Cum Laude Gettysburg College - City: PERSON
+State Political Science
+Skills: ORG
+CMS: ORG
+Edge: ORG
+Functional: GPE
+Journalism: NORP
+Mac: PERSON
+Excel: PRODUCT
+Microsoft Outlook: ORG
+2000: DATE
+Microsoft: ORG
+Operating Systems: ORG
+Public Relations: ORG
+Research: ORG
+Tops: ORG
+Advisory Board: ORG
+Volunteer Unlimited's: PERSON
+Volunteer Unlimited's: PERSON
+Volunteer Experiences: LAW
+Program Past Board: ORG
+Regular Volunteer: WORK_OF_ART
+The Baltimore Humane Society - Manager: ORG
+Volunteer Partnership Program: ORG
+MGH: ORG
+The SEED School of Maryland Active: ORG
+Society of America: ORG
+Maryland: GPE
+Winner: PERSON
+2013: DATE
+The Maryland Daily: ORG
+20: CARDINAL
+Twenties: WORK_OF_ART
+Winner: PERSON
+one: CARDINAL
+Maryland: GPE
+Bronze Anvil: ORG
+Ocean City: GPE
+Md.: GPE
+Department of Tourism Press Kit: ORG
+2008: DATE
+Citation: ORG
+Recognition: ORG

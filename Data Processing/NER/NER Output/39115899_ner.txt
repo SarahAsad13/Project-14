@@ -1,0 +1,96 @@
+Highlights
+Knowledgeable: FAC
+QuickBooks: ORG
+SQL: ORG
+SAP: ORG
+AS400: PRODUCT
+Microsoft Office: ORG
+Microsoft Word: ORG
+PPT: ORG
+Microsoft: ORG
+Excel II: PRODUCT
+November 2013: DATE
+Name City: GPE
+ETA: ORG
+Selects: ORG
+two: CARDINAL
+Ensures: LOC
+month-end: DATE
+month-end: DATE
+Organizes: PERSON
+monthly: DATE
+quarterly: DATE
+annual: DATE
+September 2010: DATE
+May 2013: DATE
+Name City: GPE
+State: ORG
+French: NORP
+Developed: ORG
+April 2006 to January 2010: DATE
+Company Name City: LOC
+State Procurement Specialist
+
+Served: ORG
+sixteen: CARDINAL
+the United States: GPE
+French: LANGUAGE
+French: LANGUAGE
+Montreal: GPE
+Quebec: GPE
+ETA: ORG
+CRM: PRODUCT
+Performed: PERSON
+monthly: DATE
+day: DATE
+three: CARDINAL
+AS400: PRODUCT
+SAP Oversaw: ORG
+Prepared: PRODUCT
+August 2005 to April 2006: DATE
+Name City: GPE
+State Freight Planning Contact: ORG
+DuPont International: ORG
+Coordinated: ORG
+South America: LOC
+Europe: LOC
+Asia Conducted: LOC
+Coordinated: ORG
+5 2015: DATE
+La Salle University: ORG
+State Fraud: GPE
+Forensic Accounting: ORG
+Forensic Accounting: ORG
+5 2011: DATE
+University of Phoenix 
+City: ORG
+State Accounting: ORG
+MBA Accounting: WORK_OF_ART
+5 2005: DATE
+Pennsylvania State University: ORG
+State Business Economics: ORG
+International Business and French Structural Economics: ORG
+International Business and French Structural Economics: ORG
+5 2005: DATE
+Paris Chamber of Commerce 
+City: ORG
+France: GPE
+12 2011: DATE
+FMA Institute 
+City: ORG
+Certified Nonprofit Accounting Professional (CNAP: ORG
+French: NORP
+Skills
+Accounting: ORG
+AS400: PRODUCT
+CRM: PRODUCT
+French: NORP
+French: LANGUAGE
+Access III: ORG
+Microsoft: ORG
+Excel II: PRODUCT
+Microsoft Office: ORG
+Microsoft: ORG
+QuickBooks: ORG
+SAP: ORG
+SQL: ORG

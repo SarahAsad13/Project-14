@@ -1,0 +1,54 @@
+INVENTORY ANALYST\MATERIALS: PERSON
+MRP II: ORG
+MS: GPE
+Exact Macola: ORG
+Bilingual English: PERSON
+Spanish: NORP
+ERP: ORG
+APICS: ORG
+Lean Manufacturing: ORG
+the Theory of Constraints: ORG
+99%: PERCENT
+weekly: DATE
+Order: ORG
+50%: PERCENT
+06/2008 - 08/2013: ORG
+State Inventory Analyst\Materials Planner: ORG
+weekly: DATE
+99%: PERCENT
+BOM: ORG
+11/2005 - 05/2008: CARDINAL
+State Operations: ORG
+Quickbooks - Contractor Edition: ORG
+Quickbooks: ORG
+the Quote - Order Entry - Billing Cycle: ORG
+State Project: ORG
+Exact Macola: ORG
+ERP: ORG
+Goldmine: PERSON
+CRM: PRODUCT
+50%: PERCENT
+the Distribution Center: FAC
+Setup: ORG
+the Quality Control System: ORG
+1993: DATE
+Pontificia Universidad: PERSON
+Catolica Madre: PERSON
+Maestra City: GPE
+Dominican: NORP
+Industrial Engineer: PERSON
+Master Planning of Resources: ORG
+Control of
+Operations: ORG
+Strategic Management of Resources: ORG
+Manufacturing Planning: ORG
+1998: DATE
+1999: DATE
+Domingo: GPE
+D.R. 2002
+
+: ORG
+Crystal Reports: LOC
+Project Management / MS Project
+Quickbooks - Contractor Edition: ORG
+CRM - Goldmine: PRODUCT

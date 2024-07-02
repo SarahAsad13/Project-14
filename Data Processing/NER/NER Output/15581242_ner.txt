@@ -1,0 +1,22 @@
+SPECIALIST: ORG
+Education: ORG
+May 2016: DATE
+Health Science: ORG
+December 2014: DATE
+Processed: GPE
+May 2014: DATE
+500: CARDINAL
+1,000: MONEY
+September 2013 to January 2014: DATE
+Maintained: GPE
+3 years: DATE
+Apple: ORG
+CRM: PRODUCT
+SAP Inventory Management: Software: ORG
+Conducted: ORG
+Drosophila: ORG
+English: LANGUAGE
+Strong: PERSON
+Advanced: ORG
+Knowledgeable: PRODUCT
+Windows/Mac: ORG

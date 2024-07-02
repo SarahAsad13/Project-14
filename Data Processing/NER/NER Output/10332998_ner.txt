@@ -1,0 +1,79 @@
+Skills
+Court Procedures
+
+Due Dilligence
+
+Legal Document Preparation
+
+Deposition
+
+Strong Researcher
+
+Strong Negotiator
+
+Organization
+
+Communication
+
+Leadership
+
+Team Player
+
+Motion PracticeÂ 
+
+Regulatory Compliance
+
+Risk Management
+
+Strong Writer
+
+Civil Litigation
+
+Quality Assurance
+
+Litigation Management
+
+Professional and Personable
+
+Detailed-Oriented Â  Â  Â  Â  Â Â 
+Work History: ORG
+Virgin Islands': LOC
+age.â€‹Â: NORP
+daubert motions: PERSON
+the Special Federal Litigation Division: ORG
+the United States Constitution: GPE
+42: CARDINAL
+the City of New York: GPE
+01/2011: CARDINAL
+12/2009: CARDINAL
+SEC: ORG
+Suspicious Activity Reports: PERSON
+second: ORDINAL
+â€¨: CARDINAL
+ERISA: ORG
+RICO: LAW
+the Sherman Act: LAW
+U.S.: GPE
+Jenner & Block: ORG
+Arkin: PERSON
+Kaplan & Rice: ORG
+Debevoise & Plimpton: ORG
+J.D.: GPE
+May 2005: DATE
+Fordham University School of Law - City: ORG
+State: ORG
+GPA: ORG
+Fordham Journal of Corporate and Financial Law: ORG
+Dean: PERSON
+Archibald R. Murray Public Service: PERSON
+Dean: PERSON
+Archibald R. Murray Public Service: PERSON
+Fordham Immigration Rights Clinic - City: ORG
+May 2000: DATE
+John Jay: PERSON
+State: ORG
+GPA: ORG
+Magna Cum Laude Dean's: PERSON
+List Recipient Bar Admissions Criminal: ORG
+Magna Cum Laude Dean's: PERSON
+List Recipient Bar Admissions: ORG

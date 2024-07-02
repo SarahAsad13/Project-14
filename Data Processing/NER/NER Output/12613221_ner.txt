@@ -1,0 +1,61 @@
+Healthcare: ORG
+more than ten years': DATE
+HIPPA Privacy and Security: ORG
+Highlights: GPE
+AHIMA: ORG
+ILHIMA: ORG
+HIMSS: ORG
+More than ten years: DATE
+Analytical
+Critical: PRODUCT
+Skills
+Works: ORG
+daily: DATE
+CPR: ORG
+Windows OS: ORG
+92%: PERCENT
+85%: PERCENT
+Technologist: NORP
+01/2015: DATE
+La-Grange University: ORG
+2000: DATE
+Sleep Technologist: PERSON
+State: ORG
+Polysomnogram: GPE
+PAP: ORG
+92%: PERCENT
+85%: PERCENT
+CPR: ORG
+Windows OS: ORG
+1:2: CARDINAL
+RPSGT: ORG
+11/2015: CARDINAL
+Name City: GPE
+EEG: ORG
+LTM: ORG
+10-20: CARDINAL
+prepare & calibrate: ORG
+MSLT: ORG
+MWT: ORG
+PAP: ORG
+Healthcare Specialist: ORG
+12/2008: CARDINAL
+Name City: GPE
+May, 2000: DATE
+Hannibal La-Grange University City: ORG
+State Applied Associates Degree: ORG
+Therapy Graduate: PERSON
+Valedictorian: NORP
+Respiratory Therapy: PERSON
+John Rodgers Memorial Scholarship
+Bachelor of Science : Healthcare Information Management & Technology 1999: PERSON
+2017: DATE
+University of Wisconsin City: ORG
+State Healthcare Information
+Management & Technology: ORG
+Skills
+Billing: ORG
+CPR Certified: ORG
+CPR: ORG
+Windows OS, Works: ORG
+Respiratory Therapy: PERSON

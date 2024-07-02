@@ -1,0 +1,22 @@
+Microsoft Office: ORG
+Resourceful
+Time management
+
+: ORG
+Name City: GPE
+11/1996 to 10/2004: DATE
+Name City: GPE
+Department/Data: ORG
+Name City: GPE
+State: ORG
+2013: DATE
+At-Home-Professions City: ORG
+USA: GPE
+1985: DATE
+St. Gregory's: ORG
+College City: GPE
+State: GPE
+USA: GPE
+Oklahoma State University City: ORG
+State: GPE
+USA: GPE

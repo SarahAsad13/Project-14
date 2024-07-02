@@ -1,0 +1,193 @@
+Effective Problem Solving Skills
+Excellent Critical Thinking Skills: WORK_OF_ART
+Time: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+SPSS: ORG
+Microsoft Outlook: ORG
+Google: ORG
+Windows Live: PERSON
+ChildPlus: PRODUCT
+Effective Problem Solving Skills
+Excellent Critical Thinking Skills: WORK_OF_ART
+Time: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+SPSS: ORG
+Microsoft Outlook: ORG
+Google: ORG
+Windows Live: PERSON
+ChildPlus: PRODUCT
+New Hire
+Orientation
+
+Organized: FAC
+Superior Organizational
+Skills
+Exceptional: ORG
+Skills
+Effective Problem Solving: ORG
+Skills
+Excellent Critical Thinking: ORG
+Skills
+Detail Oriented: ORG
+New Hire Orientation
+
+Records Maintenance
+
+Awareness of federal and state: WORK_OF_ART
+Â XP Professional/Windows 10: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+SPSS: ORG
+Microsoft Outlook: ORG
+Google: ORG
+Windows
+Live: PERSON
+ChildPlus: PRODUCT
+Effective Problem
+Solving Skills
+Excellent Critical
+Thinking Skills: WORK_OF_ART
+Experienced: PRODUCT
+New Hire Orientation
+
+Records Maintenance
+
+Awareness of federal and state: WORK_OF_ART
+Â XP Professional/Windows 10: ORG
+Microsoft Office: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+SPSS: ORG
+Microsoft Outlook: ORG
+Google: ORG
+Windows Live: PERSON
+ChildPlus: PRODUCT
+04/2012: CARDINAL
+Completed: ORG
+30 day: DATE
+Referred Veterans: PERSON
+Prepared: PERSON
+Conducted: ORG
+Updated Veteran: PRODUCT
+Base Camp: FAC
+15: CARDINAL
+Veterans Liaison: PERSON
+Veterans Conducted: ORG
+Veterans Conducted: ORG
+monthly: DATE
+Determined Veteran's: FAC
+Intensive Supervision Officer: ORG
+02/2016: ORG
+04/2018: ORG
+18: CARDINAL
+Scan: NORP
+Maintains: PERSON
+monthly: DATE
+Conducts: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Instructs: ORG
+Explain Probation Court Orders / Parole
+Guidelines: ORG
+Hunan Services Specialist: ORG
+35: CARDINAL
+Shelter: ORG
+Scan: NORP
+Supervised 4-: PERSON
+5: CARDINAL
+monthly: DATE
+Guardians: NORP
+Manage: PRODUCT
+250: CARDINAL
+Scan: NORP
+Conducts: ORG
+Maintains: PERSON
+Administers: PERSON
+Acts: PRODUCT
+New Hires Evaluated New Hire Progress: ORG
+Individualizes Improvement: ORG
+Maintains: PERSON
+monthly: DATE
+monthly: DATE
+Conducts: ORG
+weekly: DATE
+monthly: DATE
+Carries: ORG
+Provides: PERSON
+Participate: ORG
+annual: DATE
+10/2012: CARDINAL
+Recruit: ORG
+Review: ORG
+40 to 60: CARDINAL
+Scan: NORP
+Assist: NORP
+Maintain: PERSON
+12/2003: DATE
+Perform EKG's: ORG
+Assist: NORP
+Brian Injury: PERSON
+Cerebrovascular: ORG
+Cardiopulmonary: NORP
+CPR: ORG
+Team Lead: PERSON
+Payroll: ORG
+Customer Care: ORG
+Scan Human Resource: ORG
+Maintained: GPE
+Complete: PERSON
+Communicate: ORG
+Department: ORG
+Department: ORG
+the Organization: ORG
+Master of Science : Human Resource Management Human Resource Generalist: WORK_OF_ART
+2019: DATE
+Strayer University - City: ORG
+Human Resource Management Human Resource Generalist
+Bachelor of Arts : Sociology: ORG
+May 2012: DATE
+Augusta State University - City: ORG
+GPA: ORG
+3.35: CARDINAL
+Quantitative Methods of Research I and Research Methods II, Methods in Sociological Research, Psychology, Social Problem Analysis: WORK_OF_ART
+Health
+Psychology: ORG
+Caring, Medical Terminology: ORG
+ROFILE: ORG
+More than ten years: DATE
+Acknowledge: PERSON
+Basic: PRODUCT
+CPR: ORG
+Critical Thinking: ORG
+Customer Care: ORG
+Detail Oriented: PERSON
+EKG: ORG
+Human Resource: ORG
+Law Enforcement: PERSON
+Medical
+Terminology: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+PowerPoint: ORG
+Windows: ORG
+Microsoft: ORG
+Organizational Skills: PERSON
+Assist: NORP
+Payroll: ORG
+Problem
+Analysis: ORG
+Progress, Psychology: ORG
+Research I, Research: ORG
+SPSS: ORG
+Time: ORG

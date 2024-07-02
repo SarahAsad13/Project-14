@@ -1,0 +1,105 @@
+Profile
+Civil Engineer Quality Control Project: ORG
+Process Improvements Safety Compliance Testing/Analysis Accomplished: ORG
+Civil Engineer: ORG
+more than ten years: DATE
+Master of Science: WORK_OF_ART
+Civil Engineering: ORG
+Florida International University: ORG
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook, Publisher: ORG
+Microsoft: ORG
+Studio / CodeVision / SolidWorks: ORG
+State: ORG
+daily: DATE
+18: CARDINAL
+Systematically: ORG
+Assisted: ORG
+daily: DATE
+day: DATE
+daily: DATE
+Assess: ORG
+2,000,000: MONEY
+Training
+Master of Science : Civil Engineering: WORK_OF_ART
+2007: DATE
+FLORIDA INTERNATIONAL UNIVERSITY - City: ORG
+GPA: ORG
+3.6: CARDINAL
+GPA: ORG
+3.6: CARDINAL
+Traffic & Materials Engineering: ORG
+Fluid Mechanics & Hydraulics
+Bachelor of Science : Civil Engineering FLORIDA INTERNATIONAL UNIVERSITY - City: ORG
+GPA: ORG
+3.8: CARDINAL
+3.8: CARDINAL
+Civil Engineering Design: ORG
+Structural Analysis & Dynamics: ORG
+Geotechnical Engineering: ORG
+Environmental Engineering: ORG
+Concrete & Steel Design: ORG
+Chi Epsilon: PERSON
+Dean: PERSON
+List Chi Epsilon: EVENT
+Dean: PERSON
+List
+Bachelor of Science : Construction Technology UNIVERSITY OF PARIS - City: WORK_OF_ART
+FRANCE: GPE
+GPA: ORG
+3.7: CARDINAL
+3.7: CARDINAL
+Associate of Science : Mathematics UNIVERSITY OF PARIS - City GPA: WORK_OF_ART
+GPA: ORG
+3.5: CARDINAL
+3.5: CARDINAL
+2004: DATE
+EIT: ORG
+Affiliations: ORG
+American Society of Civil Engineers: ORG
+National Society of Professional Engineers - Member: ORG
+National Academy of Engineering: ORG
+Institute of Electrical and Electronics Engineers: ORG
+Interests: NORP
+Detailed Professional References Available: ORG
+Request
+Languages
+English: PRODUCT
+French: NORP
+Spanish: NORP
+Skills: ORG
+Photoshop: ORG
+Blueprints, Building Codes: ORG
+Cadence, Civil Engineering: ORG
+Computer Literate: PERSON
+Customer Relationship Management: ORG
+Customer Service: ORG
+Training: GPE
+EIT: ORG
+English: LANGUAGE
+Environmental Engineering: ORG
+French: NORP
+Hydraulics: ORG
+Linux: GPE
+MAC: ORG
+Materials: PRODUCT
+MATLAB: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Microsoft Project: ORG
+Microsoft Visio: ORG
+Orcad: PERSON
+Project Design: ORG
+Project Management: ORG
+Project Planning: ORG
+Reading, Reporting, Safety, Scheduling,: WORK_OF_ART
+SolidWorks: ORG
+Spanish: NORP
+Time Management: ORG
+Dean: PERSON
+Detailed Professional References Available: ORG

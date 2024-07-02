@@ -1,0 +1,35 @@
+more than 13 years: DATE
+Excels: PERSON
+Litigation: ORG
+U.S.: GPE
+Advanced Legal Writing: ORG
+the Court of Criminal Appeals: ORG
+Awarded: FAC
+first: ORDINAL
+thousands: CARDINAL
+Corporate Headquarters: ORG
+one: CARDINAL
+6: CARDINAL
+Texas: GPE
+2015: DATE
+May 2016: DATE
+Explained: PRODUCT
+Jan 2008: DATE
+2015: DATE
+100: CARDINAL
+75,000: MONEY
+2004 to Jan 2006: DATE
+daily: DATE
+Monitored: ORG
+Maintained: GPE
+Mastered: ORG
+J.D.: GPE
+St. Mary's University: ORG
+Bachelor of Arts: ORG
+English Literature 2000: EVENT
+Texas A&M University - College: ORG
+State: GPE
+Texas: GPE
+Insurance, Legal Research & Writing, Litigation: ORG
+Commercial: ORG
+Risk Management: ORG

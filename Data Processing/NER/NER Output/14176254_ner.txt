@@ -1,0 +1,44 @@
+Mar 2016: PERSON
+MedicalÂ: PERSON
+Working 0-2 FCR Case: ORG
+Coach: ORG
+PCMH: ORG
+2016: CARDINAL
+weekly: DATE
+Preach 45 minute: EVENT
+weekly: DATE
+Started: ORG
+Roasts: NORP
+Retreat: ORG
+first: ORDINAL
+Contributes: ORG
+Models: PRODUCT
+Contributes: ORG
+weekly: DATE
+Evaluates: NORP
+2014: DATE
+Frequently: ORG
+20 to 300: CARDINAL
+Functions: PERSON
+Guest Services: ORG
+first: ORDINAL
+Quality Assurance Analyst Aug: ORG
+2014: DATE
+Conducted: ORG
+annual: DATE
+first: ORDINAL
+Customer Service: ORG
+Aug 2011 to Aug 2013: DATE
+100: CARDINAL
+clientÃ¨le: PERSON
+Jun 2008: PERSON
+daily: DATE
+2007: DATE
+Bachelor of Arts , Historical Theology: ORG
+May 2007: DATE
+Moody Bible Institute: ORG
+State Historical Theology: ORG
+State: ORG
+Database: GPE
+Works: PERSON
+Team Player: ORG

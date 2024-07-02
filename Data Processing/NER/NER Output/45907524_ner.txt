@@ -1,0 +1,65 @@
+Identify: ORG
+Collaborated: ORG
+Examined: ORG
+fed: ORG
+Ran: PERSON
+daily: DATE
+Completed: ORG
+Dispersed: PERSON
+11/2018: CARDINAL
+Processed: GPE
+monthly: DATE
+Coordinated: PRODUCT
+Coordinated: ORG
+Organized: ORG
+more than 10: CARDINAL
+03/2016: PRODUCT
+08/2016: CARDINAL
+Communicated: ORG
+daily: DATE
+Cleaned: ORG
+daily: DATE
+10: CARDINAL
+Review: ORG
+Identify: ORG
+Maintain: PERSON
+Accompany: PRODUCT
+Complete: ORG
+Dress: ORG
+Performed: ORG
+Copied: ORG
+11/2018: CARDINAL
+Processed: GPE
+monthly: DATE
+Coordinated: PRODUCT
+Monitored: ORG
+Maintained: GPE
+Coordinated: ORG
+DAYCARE TEACHING: ORG
+03/2016: PRODUCT
+08/2016: CARDINAL
+Communicated: ORG
+daily: DATE
+Cleaned: ORG
+daily: DATE
+10: CARDINAL
+Bachelor of Science : Health Administration: ORG
+Expected: ORG
+2020: DATE
+EASTERN MICHIGAN UNIVERSITY - City: ORG
+2016: CARDINAL
+MIFFLIN HIGH SCHOOL - City: ORG
+2016: CARDINAL
+Certifications: ORG
+First Aid & CPR: ORG
+Highlights
+
+Records: ORG
+Excel: PRODUCT
+Administrative Support: PERSON
+CPR: ORG
+Data Entry: ORG
+First Aid: ORG
+Sorting, Spreadsheet: ORG
+Time: ORG
+Travel Arrangements: PERSON

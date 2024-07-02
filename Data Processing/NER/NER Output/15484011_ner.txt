@@ -1,0 +1,57 @@
+Licensed Cosmetologist: PERSON
+Superior: LOC
+Accomplishments
+
+Hair: WORK_OF_ART
+Styling Techniques
+Infection: WORK_OF_ART
+Facial: ORG
+10Helped: CARDINAL
+daily: DATE
+one: CARDINAL
+the day: DATE
+daily: DATE
+weekly: DATE
+first: ORDINAL
+Billing &: ORG
+11/2011: CARDINAL
+12/2011: CARDINAL
+Name City: GPE
+State: ORG
+Call Service Counselor 06/2006: ORG
+Name City: GPE
+Verified: ORG
+Customer Service: ORG
+Communication: ORG
+2014: CARDINAL
+American Academy: ORG
+State: GPE
+USA: GPE
+MEDCIN Certificate: ORG
+HIPAA Certificate: ORG
+Microsoft Excel & Word Certificate: ORG
+MEDISOFT Certificate Grossmont Health
+Occupations Center Santee: ORG
+CA - 2007 Certificate of Completion: FAC
+2011 UEI College: ORG
+Medical Billing: ORG
+Coding City: GPE
+State
+Additional Information
+
+AWARDS & CERTIFICATES Certificate: ORG
+2011: DATE
+Honor Roll UEI 2011: ORG
+4.0: CARDINAL
+GPA Customer Service: ORG
+Northwest Airlines: ORG
+2003: DATE
+Communication: ORG
+CA: ORG
+CPR Certified: ORG
+Customer Service: ORG
+MEDISOFT: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+Retail: PERSON

@@ -1,0 +1,51 @@
+9 years: DATE
+trainingÂ 
+Familiar: PERSON
+Denver Metro Chamber of Commerce: ORG
+Microsoft Office: ORG
+Sep 2015: DATE
+2017: DATE
+Denver Public School: ORG
+Metro Denver: LOC
+Nov 2013: DATE
+Spoke: ORG
+English: LANGUAGE
+2012: DATE
+Japanese: NORP
+US: GPE
+Japanese: NORP
+Created: ORG
+2010: DATE
+2012: DATE
+250: CARDINAL
+Created: ORG
+Partnered: PRODUCT
+CU Boulder: ORG
+University of Denver: ORG
+Coordinated: ORG
+summer: DATE
+Facilitated: ORG
+Dec 2007: DATE
+2010: DATE
+six: CARDINAL
+the Department of Education: ORG
+Collaborated: ORG
+Monitored: ORG
+city council: ORG
+Conflict and Dispute Resolution Certification
+Education: ORG
+Training: PERSON
+August 2015: DATE
+University of Denver: ORG
+State Education: ORG
+Bachelor of Science , Political Communications: ORG
+May 2006: DATE
+Emerson College: ORG
+State Political Communications: ORG
+Magna Cum Laude: PERSON
+Activities and Honors
+
+Urban Leadership Foundation of: WORK_OF_ART
+Colorado Black Chamber of Commerce-Participant: ORG
+Denver Center: ORG
+PeaceJam Foundation-: ORG

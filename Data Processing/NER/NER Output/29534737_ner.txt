@@ -1,0 +1,29 @@
+Dedication: ORG
+first: ORDINAL
+thirty-five: CARDINAL
+October 2014: DATE
+July 1997 to October 2014: DATE
+Coordinated: ORG
+Emphasis: ORG
+April 1993 to April 1997: DATE
+Obtained: ORG
+1998: DATE
+John Wood Community College: ORG
+State: ORG
+May: DATE
+1987: DATE
+Strengths Adaptable: ORG
+Highly: PERSON
+Discharge: GPE
+US: GPE
+April, 1997: DATE
+Confidential Security Clearance: EVENT
+US: GPE
+93-: CARDINAL
+Nov, 1996: DATE
+¦: PERSON
+Interests Hunting & Fishing: ORG
+Spending: GPE
+Strengths Adaptable: ORG
+Highly: PERSON
+CNC: ORG

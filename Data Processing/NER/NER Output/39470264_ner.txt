@@ -1,0 +1,156 @@
+TALENTED ARTS PROGRAM INSTRUCTIONAL COORDINATOR
+: ORG
+Eight year: DATE
+seven years: DATE
+Four years: DATE
+Parish: LANGUAGE
+the Talented Arts Program: ORG
+Caddo Schools: PERSON
+Art: PERSON
+Forest Hill Elementary: FAC
+Judson Elementary: PERSON
+Art: PERSON
+the Volunteers of America: ORG
+Forest Hill Elementary: FAC
+nine years: DATE
+Talented Arts Program Instructional Coordinator: ORG
+November 2008: DATE
+State: ORG
+1961: DATE
+Midway Avenue Shreveport: FAC
+LA: GPE
+71130: DATE
+11/2008 - Present: TIME
+2,000.00: CARDINAL
+40: CARDINAL
+Elementary Principal: PERSON
+Angela Douglas: PERSON
+318: CARDINAL
+686-1783: DATE
+Talented Arts
+Program Instructional Coordinator: ORG
+Rhonda Glass: PERSON
+318: CARDINAL
+Caddo: GPE
+Parish: LANGUAGE
+Talented Arts Program: ORG
+Shreve Island: LOC
+Herndon: GPE
+Judson Elem: ORG
+Keithville: NORP
+Youree Drive Middle: PERSON
+Walnut Hill: GPE
+Northwood: ORG
+Magnet High: PERSON
+Parish Schools: PERSON
+JPAMS: ORG
+Ensures: LOC
+October 2000 to December 2007: DATE
+2,500.00: CARDINAL
+40: CARDINAL
+CO-Owner/Transportation Logistics Manager Duties: ORG
+Related Skills: ORG
+weekly: DATE
+monthly: DATE
+three: CARDINAL
+Created: ORG
+weekly: DATE
+monthly: DATE
+three: CARDINAL
+Created: ORG
+Completed: ORG
+Initiated: ORG
+Minimized: PERSON
+Assigned: PERSON
+three: CARDINAL
+Cultivated: ORG
+Implemented Logistic Strategies: ORG
+150,000: MONEY
+Supply Logistics: ORG
+Customer Service Specialist: ORG
+September 1992 to July 1999: DATE
+Barksdale AFB: GPE
+LA 71110 United States: GPE
+1,500.00: CARDINAL
+40: CARDINAL
+Supply Logistics: ORG
+Customer Service Specialist Duties, Accomplishments and Related Skills: ORG
+Air Force Organizations: PRODUCT
+Andersen: GPE
+Barksdale Air Force Base: FAC
+Processed: GPE
+hundreds: CARDINAL
+daily: DATE
+Researched: ORG
+Computed: PERSON
+Master of Science : Management, Business /Project: WORK_OF_ART
+2010-02-09: DATE
+Colorado Technical University: ORG
+State: GPE
+US: GPE
+Colorado Technical University: ORG
+Colorado Springs CO Concentration:: ORG
+Business /Project: ORG
+3.86: CARDINAL
+February 09, 2010
+: DATE
+MBA : Human Resource Management: WORK_OF_ART
+2008-12-27: DATE
+Colorado Technical University: ORG
+State: GPE
+US: GPE
+Business Administration: ORG
+MBA: WORK_OF_ART
+Colorado Technical University: ORG
+Colorado Springs CO Concentration:: ORG
+3.85: CARDINAL
+December: DATE
+27, 2008
+: DATE
+2007-05-05: DATE
+Colorado Technical University: ORG
+State: GPE
+US Bachelor: PERSON
+Science of Business Administration: ORG
+Colorado Technical University: ORG
+Colorado Springs CO Concentration: ORG
+3.5: CARDINAL
+May 05, 2007: DATE
+Cum Laude Honors SPECIALIZED TRAINING
+Accomplishments
+GPA: ORG
+3.5: CARDINAL
+May 05, 2007: DATE
+Cum Laude Honors
+Military Experience
+: ORG
+Specialist: ORG
+September 1992 to July 1999: DATE
+Air Force Andersen Air Force Base Barksdale AFB: PRODUCT
+LA 71110: GPE
+United States: GPE
+09/1992 - 07/1999: DATE
+1,500.00: CARDINAL
+40: CARDINAL
+Customer Service Specialist Duties: ORG
+Air Force Organizations: PRODUCT
+Andersen: GPE
+Barksdale Air Force
+Base: FAC
+Processed: GPE
+hundreds: CARDINAL
+daily: DATE
+Researched: ORG
+Input: ORG
+Computed: PERSON
+Certifications: ORG
+Logistics: GPE
+Basis, Budget, Contracts,: ORG
+Drivers, Invoices, Maintenance, Operations: ORG
+Customer Service: ORG
+Receptionist: NORP
+Progress, Teaching: ORG
+Accounting And Finance: ORG
+Marketing, Business Management, Change Management: ORG
+Marketing, Painting, Problem Solver: ORG
+Strong Communication Skills, Msm, Project Management, Human Resource Management: ORG

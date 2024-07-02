@@ -1,0 +1,47 @@
+Career Focus
+
+Innovative: ORG
+Business Development * Operations Management: ORG
+Continuous Improvement: PERSON
+ImageReady: ORG
+MS Project: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+ColdFusion: ORG
+Flash: PERSON
+Golf Operations Company Name City: ORG
+State: ORG
+daily: DATE
+Marketing, Event Management and Sales: ORG
+700: MONEY
+2012: DATE
+1.2: MONEY
+2013 year-end: DATE
+21: CARDINAL
+500: MONEY
+Created: ORG
+each year: DATE
+15%: PERCENT
+FirstBank: ORG
+Selected Accomplishments: Managed FirstBank: WORK_OF_ART
+10%: PERCENT
+2012: DATE
+first: ORDINAL
+Name City: GPE
+Selected Accomplishments:: WORK_OF_ART
+multimillion-dollar: MONEY
+500: MONEY
+1M+: MONEY
+between 6% and 8%: PERCENT
+Bachelor of Science : Business Management Marketing 2010 University: ORG
+Colorado City: GPE
+ColdFusion: ORG
+Event Management: ORG
+Flash: PERSON
+ImageReady: ORG
+Access, Excel: ORG
+MS Office: ORG
+PowerPoint: ORG
+MS Project: ORG
+Multimedia: PERSON
+year-end: DATE

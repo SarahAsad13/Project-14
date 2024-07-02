@@ -1,0 +1,60 @@
+Amelia Gambetti: ORG
+Reggio Schools: PERSON
+Reggio Emilia: GPE
+Italy: GPE
+USI: GPE
+Little Husky World: PERSON
+TLC Nursery: ORG
+Reggio: NORP
+Amelia Gambetti (Reggio Municipal Schools: ORG
+Reggio Emilia: GPE
+Italy: GPE
+USI: GPE
+Deaconess Children's: ORG
+Lead Teacher - Little Husky: PERSON
+Little Husky World: PERSON
+TLC Nursery: ORG
+25 years: DATE
+25 years: DATE
+25 years: DATE
+Skills
+Classroom management Creation of forms for: ORG
+Payroll Schedule: PERSON
+Maintain: PRODUCT
+Snack/Meal Planning
+Classroom: ORG
+Schedule: PERSON
+Snack/Meal Planning
+Classroom: ORG
+Schedule: PERSON
+Snack/Meal Planning
+Classroom: ORG
+Schedule: PERSON
+Snack/Meal Planning: ORG
+State: ORG
+daily: DATE
+Liaison: PERSON
+Red Cross: ORG
+ProTrainings: ORG
+CPR/First Aid: LAW
+Photographer/EMT/Cook Company Name - City: ORG
+Prepare: ORG
+State: ORG
+daily: DATE
+Liaison: PERSON
+Early Childhood/Special: ORG
+Early Childhood/Special Ed: ORG
+2003: DATE
+Associate of Science : Early Childhood Education Ivy Tech Community College - City: WORK_OF_ART
+2003: DATE
+Certified EMT: ORG
+Onsite Hss : City ,: WORK_OF_ART
+2003: DATE
+Skills: ORG
+CPR: ORG
+First Aid: ORG
+Payroll: ORG
+Red Cross/ProTrainings First Aid/CPR/AED Instructor: ORG
+Skills Tester: ORG
+First: ORDINAL
+CPR: ORG

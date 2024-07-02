@@ -1,0 +1,105 @@
+almost 19 years: DATE
+Interactive: ORG
+Innovative: NORP
+MA Education: ORG
+Knowledgeable: PRODUCT
+Microsoft: ORG
+Derive: ORG
+Google
+Docs: ORG
+Excel: PRODUCT
+the Month: DATE
+January 2011: DATE
+the Year in June 2011: DATE
+MCTM: ORG
+the Month: DATE
+May 2014: DATE
+the Year: DATE
+Spring 2014: DATE
+Gained: NORP
+Appointed: ORG
+Math: PERSON
+Assigned: PERSON
+Math Mentors Club
+N: ORG
+3 Â Most: CARDINAL
+SY 2002: DATE
+Elected FACAMPA Treasurer: ORG
+SY 2004: DATE
+Vita Matematica: PERSON
+every quarter: DATE
+Rated Proficient: WORK_OF_ART
+2003: DATE
+the High School Assessment: ORG
+May 2013: DATE
+May 2014: DATE
+100% percent: PERCENT
+HSA: ORG
+2010: DATE
+Professional Experience
+Company: ORG
+January 2009: DATE
+Current Teacher 
+City: PERSON
+Geometry for Regular and Honors: ORG
+Bridge: WORK_OF_ART
+Data Analysis: ORG
+Grade Level: FAC
+10th: ORDINAL
+11th: ORDINAL
+Data Analysis Mastery Class: ORG
+Geometry for Regular and Honors: ORG
+12th: DATE
+hours: TIME
+second: ORDINAL
+quarterly: DATE
+March 2005 to June 2009: DATE
+9th , 10th ,: DATE
+11th: ORDINAL
+hours: TIME
+second: ORDINAL
+quarterly: DATE
+November 1997 to March 2005: DATE
+Data Analysis: ORG
+9th: ORDINAL
+10th: ORDINAL
+hours: TIME
+June 1995 to March 1996: DATE
+Subject: GPE
+1st year: DATE
+hours: TIME
+second: ORDINAL
+quarterly: DATE
+Training
+Southwestern University: ORG
+State: GPE
+Philippines USA Math Education: ORG
+Philippine Normal University Math Education City: ORG
+Philippines: GPE
+30: CARDINAL
+Philippine Normal University 2000 Master of Arts : Education City: ORG
+Philippines Education: ORG
+1994: DATE
+Bachelor of Arts: ORG
+APC: ORG
+Community Involvement: ORG
+ASPCA: ORG
+Affiliations: ORG
+Baltimore Teacher's: PERSON
+2005: DATE
+NCT: ORG
+2005: DATE
+2010: DATE
+Pampanga: GPE
+Philippines: GPE
+20th of March, 1973: DATE
+Present Resident: WORK_OF_ART
+Carroll County: GPE
+Maryland: GPE
+USA: GPE
+Watching TV/Movies: ORG
+CPR: ORG
+two: CARDINAL
+the Medical Mission
+I: LAW
+Operation Smile: ORG

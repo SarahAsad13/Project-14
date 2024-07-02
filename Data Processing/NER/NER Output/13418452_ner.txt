@@ -1,0 +1,124 @@
+Career Overview
+
+I: WORK_OF_ART
+15 years': DATE
+the Information Technology Field: ORG
+five years: DATE
+Five years: DATE
+Five years: DATE
+PCI\SOX Audits: ORG
+SIIA: ORG
+Certified Information Security Auditor: ORG
+MCP-Windows 2000: ORG
+MCP: ORG
+2797345: DATE
+2000: DATE
+Server Administration: ORG
+AFFILIATIONS
+Information Systems Audit and Control Association (ISACA)
+Software Information Industry Association: ORG
+Liaise with Information Technology and Operations: ORG
+Coordinate: FAC
+DSS: PRODUCT
+SAS: ORG
+70: CARDINAL
+IT Risk Assessments: PRODUCT
+Payment Systems: ORG
+Coordinate: FAC
+Coordinate: FAC
+Evaluate: ORG
+ITIL: ORG
+FFIEC: ORG
+Assisted: ORG
+Coordinated: ORG
+Performed: ORG
+Windows Evaluated: ORG
+UNIX: ORG
+RACF SETROPTS: ORG
+Windows: NORP
+third: ORDINAL
+SAP: ORG
+Performed: ORG
+the internal audit department: ORG
+Annual: DATE
+MIS Technology & Procurement: ORG
+Software Media Control Retired: ORG
+Microsoft: ORG
+Share Point Responsible: ORG
+Centralized: PERSON
+JAG: ORG
+Created: ORG
+Compliance: PRODUCT
+Negotiated million dollar: MONEY
+IBM: ORG
+Microsoft: ORG
+McAfee, Symantec: ORG
+Multi-Million dollar: MONEY
+SIIA software Audit: ORG
+9.2 million dollars: MONEY
+Name City: GPE
+TCP/IP: ORG
+DNS: ORG
+DHCP: ORG
+SMTP: ORG
+Windows: GPE
+Familiar: PERSON
+Magic: ORG
+Compaq: ORG
+HP: ORG
+Supported Office 97/2000/XP: ORG
+Outlook 97/98/2000: ORG
+Adobe Acrobat: PERSON
+IBM: ORG
+Familiar: PERSON
+HP Print Server Appliances: ORG
+Domain: GPE
+Email: PERSON
+Novell: ORG
+KIX: PERSON
+Novell: ORG
+Windows: NORP
+Remote Control Software: ORG
+DameWare Utilities: ORG
+VNC Viewer: ORG
+CA ArcServe: ORG
+Training
+Certificate of Completion: ORG
+2003: DATE
+Networking Technology 2003 Bucks County Community College Networking Technology: ORG
+Adobe Acrobat: PERSON
+AIX: ORG
+ArcServe: ORG
+AS400: PRODUCT
+Compaq: ORG
+CA: ORG
+Client: GPE
+DHCP: ORG
+DNS: ORG
+Email: PERSON
+Ghost: PERSON
+IBM: ORG
+Information Security: ORG
+Information Systems: ORG
+Information Technology: ORG
+ITIL: ORG
+KIX: ORG
+Magic: ORG
+McAfee, Access: ORG
+MCP: ORG
+97: CARDINAL
+Outlook 97: ORG
+Windows: GPE
+2000: DATE
+98: DATE
+modem: GPE
+Network: ORG
+Novell: ORG
+PCI: ORG
+RACF: ORG
+SAS: ORG
+SMTP: ORG
+Symantec: ORG
+TCP/IP: ORG
+UNIX: ORG
+Utilities: ORG

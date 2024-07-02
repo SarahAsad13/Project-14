@@ -1,0 +1,33 @@
+Microsoft: ORG
+Excel: PRODUCT
+Powerpoint: PRODUCT
+Qualitative and Quantitative Analysis
+Public Speaking
+
+Experience
+: ORG
+Name City: GPE
+State Social Media Coordinator 06/2017: ORG
+Facebook, Instagram: ORG
+Yelp: ORG
+weekly: DATE
+Name City: GPE
+Communicated: ORG
+weekly: DATE
+Exhibited: ORG
+Smart Car Brand: PERSON
+Informed the SF: ORG
+2018: DATE
+Smart Car Worked: WORK_OF_ART
+Smart Car: PRODUCT
+Prompted: ORG
+a Smart Car: PRODUCT
+Name City: GPE
+44% to 100%: PERCENT
+three months: DATE
+weekly: DATE
+Name City: GPE
+State Office: ORG
+Excel: PRODUCT
+Skills
+Photoshop: ORG

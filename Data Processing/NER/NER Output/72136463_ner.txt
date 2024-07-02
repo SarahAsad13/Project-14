@@ -1,0 +1,109 @@
+Admin: PERSON
+Expert: PRODUCT
+Microsoft Office: ORG
+Researched: ORG
+Identified, Established, Improved, Trained, Resolved: ORG
+Initiated: PERSON
+Consulted, Guided: ORG
+Administrative: ORG
+Adobe Illustrator: ORG
+Photoshop: PERSON
+Payroll: ORG
+AP: ORG
+AR, Art: ORG
+Bookkeeping: GPE
+Bookkeeper: GPE
+Creative Writing: PERSON
+Database, Desktop
+Publishing: ORG
+FileMaker Pro: PERSON
+FSA: ORG
+Grant Writing: PERSON
+Graphic Design: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+MYOB: ORG
+Paralegal: GPE
+QuickBooks: ORG
+QuickBooks: ORG
+year-end: DATE
+month: DATE
+year end: DATE
+AR: ORG
+AP: ORG
+two: CARDINAL
+Established: ORG
+monthly: DATE
+FSA: ORG
+Submit: ORG
+Paychex: GPE
+Established: ORG
+Coordinate: FAC
+Protected Harvest Certification Program: ORG
+2009: DATE
+Protected Harvest: ORG
+Bookkeeper: GPE
+six: CARDINAL
+AP: ORG
+AR: ORG
+QuickBooks: ORG
+1099s: DATE
+Converted MYOB: ORG
+five: CARDINAL
+QuickBooks Pro: ORG
+January 2006: DATE
+2008: DATE
+Utilized ADP Payroll Service: ORG
+up to 20: CARDINAL
+Obtained: FAC
+Created Excel: ORG
+FileMaker Pro: ORG
+Created: ORG
+two: CARDINAL
+Bookkeeper / Office: ORG
+AP: ORG
+AR: ORG
+$1.5 million: MONEY
+Telluride: NORP
+five: CARDINAL
+QuickBooks Pro: ORG
+Created: ORG
+annual: DATE
+Maintained: GPE
+Project / Purchasing: ORG
+Excel: PRODUCT
+Liaison: PERSON
+Founder / Principal: ORG
+Bookkeeper: GPE
+the Santa Cruz Art League: GPE
+Learning Resource Center Technician: ORG
+1994: DATE
+Colorado Mountain Writers Workshop: EVENT
+five-day: DATE
+Created: ORG
+Bookkeeper / Office: ORG
+Initiated: ORG
+Developed Excel: PRODUCT
+400K-5OOK: MONEY
+W-2s/1099s: PERSON
+AP: ORG
+AR: ORG
+year-end: DATE
+Metropolitan State College: ORG
+California State University: ORG
+Candidate
+Community College of Denver ï¼​ City: ORG
+Colorado: GPE
+Mountain College (CMC: ORG
+Aspen: GPE
+CO
+Desktop Publishing: ORG
+Photoshop: PERSON
+Adobe Illustrator: ORG
+Aspen: GPE
+Graphic Design: ORG
+Grant Writing: PERSON
+CMC: ORG
+Glenwood Springs: GPE
+CO Paralegal Certification Courses: ORG
+30 Hours: TIME

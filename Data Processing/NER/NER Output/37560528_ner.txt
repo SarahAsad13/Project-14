@@ -1,0 +1,69 @@
+the
+Department of Children and Family Services of: ORG
+San Bernardino County: GPE
+2010: DATE
+Domestic Violence: ORG
+Eastern: ORG
+Monday: DATE
+8am to 5pm: TIME
+CFS: ORG
+weekly: DATE
+the Juvenile Dependency: EVENT
+daily: DATE
+RAM: ORG
+(Risk Assessment Meetings: ORG
+CFS: ORG
+TDM: ORG
+Team Decision Making: ORG
+Team Decision Making: ORG
+CFS: ORG
+CFS: ORG
+daily: DATE
+daily: DATE
+monthly: DATE
+02/2013 - 07/2015: DATE
+4 nights: TIME
+10 hours: TIME
+10pm to 8am: TIME
+first: ORDINAL
+ER: ORG
+daily: DATE
+daily: DATE
+08/2008: CARDINAL
+the first 2 years: DATE
+40 hour: TIME
+2009: DATE
+the day: DATE
+day: DATE
+one: CARDINAL
+one: CARDINAL
+2009-2011: DATE
+State Mandated Domestic Violence: ORG
+2: CARDINAL
+State Administrative: ORG
+daily: DATE
+two: CARDINAL
+Saint Louis: GPE
+LTL: ORG
+Acor: PERSON
+China: GPE
+daily: DATE
+09/2000: CARDINAL
+State Administrative: ORG
+EEOC: ORG
+first month: DATE
+Education: ORG
+1995: DATE
+Citrus College General Education General Education: ORG
+1992: DATE
+Glendora High School West College Medical: ORG
+Spanish: NORP
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+OMS Systems: ORG
+UPS Worldship: ORG
+ALICE: PRODUCT
+Apricot: PERSON
+10: CARDINAL

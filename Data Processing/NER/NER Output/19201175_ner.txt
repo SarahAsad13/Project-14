@@ -1,0 +1,46 @@
+Permissions: PERSON
+Software: ORG
+Task estimation
+: PRODUCT
+GUI: ORG
+Timeline: PRODUCT
+Windows: ORG
+Information Technology Specialist: ORG
+02/2019: PERSON
+Microsoft: ORG
+Researched: ORG
+Assigned: PERSON
+daily: DATE
+up to 40 pounds: QUANTITY
+Strictly: ORG
+Maintained: GPE
+Customer Service Representative: ORG
+50: CARDINAL
+06/2016: ORG
+Fremont Adult & Continuing Education - City: ORG
+State 
+Information Technology: ORG
+2019: DATE
+Unitek College - Fremont - City: ORG
+State: ORG
+Permissions: PERSON
+Software: ORG
+Task estimation
+: PRODUCT
+GUI: ORG
+Timeline: PRODUCT
+Windows: ORG
+Work History
+Information Technology Specialist: WORK_OF_ART
+02/2019: PERSON
+Microsoft: ORG
+Researched: ORG
+Assigned: PERSON
+daily: DATE
+up to 40 pounds: QUANTITY
+Strictly: ORG
+Maintained: GPE
+Customer Service Representative: ORG
+50: CARDINAL
+06/2016: ORG
+State: ORG

@@ -1,0 +1,71 @@
+Microsoft AX Dynamics: ORG
+ERP: ORG
+Intuit QuickBooks: ORG
+Accounts Payable
+Accounts Receivable
+V Look: WORK_OF_ART
+Budget: ORG
+State: ORG
+7: CARDINAL
+Prepare Prepayment: ORG
+monthly: DATE
+Generate: PERSON
+month: DATE
+Balance Sheet: ORG
+Submit: ORG
+monthly: DATE
+Microsoft Dynamics AX: ORG
+Ledger Responsible: PERSON
+monthly: DATE
+Generate: PERSON
+month end: DATE
+Develop: ORG
+State: ORG
+06/2014 - 11/2014: CARDINAL
+Recorded Accounts Payable: ORG
+Assisted: PERSON
+month end: DATE
+QuickBooks Prepared: ORG
+two: CARDINAL
+Calculated Bi: ORG
+annual: DATE
+Applied: ORG
+Music: GPE
+Accountant/Financial Analyst Company Name - City: ORG
+State: ORG
+Labels: PERSON
+Hong Kong Completed Accounts Payable/Accounts Receivable: GPE
+weekly: DATE
+Accounts Receivable and Accounts Payable: ORG
+month end: DATE
+month end: DATE
+Balance Sheet: PERSON
+Assisted: ORG
+Sun: ORG
+5: CARDINAL
+Assisted: ORG
+2014: CARDINAL
+SML: ORG
+Minnesota: GPE
+SML: ORG
+Full-Charge Bookkeeper Company Name - City: ORG
+State: ORG
+QuickBooks: ORG
+Researched: ORG
+Accounts Payable: ORG
+Bi: PERSON
+Ledger: PERSON
+Microsoft Dynamics: ORG
+Microsoft Excel: ORG
+Microsoft PowerPoint: ORG
+Microsoft: ORG
+month end: DATE
+Peachtree: NORP
+QuickBooks: ORG
+Sun: ORG
+Bachelor of Arts : Business Administration: ORG
+Business Administration Business Information Systems: ORG
+GPA: ORG
+4.0: CARDINAL
+GPA: ORG
+3.2: CARDINAL

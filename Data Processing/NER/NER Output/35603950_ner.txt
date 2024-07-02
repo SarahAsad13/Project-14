@@ -1,0 +1,144 @@
+OPERATIONS: ORG
+Peoplesoft: ORG
+Kronos: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+HTML Professional
+Excellent: ORG
+Strong: PERSON
+Civic Club Scholarship: ORG
+2008: DATE
+Kohl's Territory Finalist: ORG
+2012: DATE
+Operations and Human Resources: ORG
+May 2014: DATE
+27707: DATE
+Stacyanne Belsky: PERSON
+Available for Contact: WORK_OF_ART
+919: CARDINAL
+489-1116: DATE
+48,750: MONEY
+Operations and Human Resources: ORG
+15.5 million: CARDINAL
+Review: ORG
+Oversee: ORG
+the Replenishment Best Practice Merchandise Location System: ORG
+Oversees: ORG
+Loss Prevention: ORG
+Associate: PERSON
+Associates: ORG
+Company: NORP
+Associate: PRODUCT
+Area Supervisors: ORG
+Associates: ORG
+North Carolina State University: ORG
+Apparel and Accessories Apr 2012: ORG
+May 2014: DATE
+State: ORG
+05/2014 1361: ORG
+Boone Station Drive Burlington: ORG
+NC: GPE
+27215: DATE
+James Floyd: PERSON
+Contact: WORK_OF_ART
+336: CARDINAL
+458: CARDINAL
+60 hours: TIME
+42,500: MONEY
+Apparel and Accessories: ORG
+7
+million: CARDINAL
+daily: DATE
+Ensure Company: ORG
+Develop: ORG
+Operate Kronos: PERSON
+Best Practice: ORG
+Complete: PERSON
+annual: DATE
+Recruit: ORG
+Training: PERSON
+MIT: ORG
+Jan 2012: DATE
+Apr 2012 
+Company Name: ORG
+State: ORG
+NC: GPE
+28056: DATE
+Susette Vlasich: PERSON
+704: CARDINAL
+824: CARDINAL
+17.50: MONEY
+Training: PERSON
+MIT: ORG
+17.5 million: CARDINAL
+Resolve: PERSON
+Loyalty Programs: ORG
+Coach: ORG
+daily: DATE
+Home Decor and: ORG
+Store Management Intern Jun 2011 to Jan 2012: WORK_OF_ART
+3050: DATE
+Watson Blvd Warner Robins: ORG
+31093: CARDINAL
+Debra Drake: PERSON
+478: CARDINAL
+293: CARDINAL
+40
+hours: TIME
+11.25: MONEY
+Store Management Intern: WORK_OF_ART
+16.5 million: CARDINAL
+Assist: NORP
+day: DATE
+Complete: PERSON
+Capstone Project: ORG
+Community Service: ORG
+2009: DATE
+May 2010: DATE
+State
+
+Post Office: ORG
+Georgia: GPE
+Margaret Pigatt-Lanier: PERSON
+912: CARDINAL
+478-5413 40 hours: DATE
+1,500: MONEY
+Peer Financial Counseling Student Liaison
+Educate Students: ORG
+Budgeting, Managing Credit: ORG
+Modules: PERSON
+Modules: PERSON
+Recruit: ORG
+Raise: PERSON
+Coordinate: FAC
+the Provincial Community Service Committee: ORG
+BBA: ORG
+Economics: ORG
+2010: DATE
+Georgia Southern University: ORG
+State: GPE
+US: GPE
+Georgia Southern University: ORG
+Economics
+Affiliations
+Economics Club: ORG
+Retail, Retail Marketing: ORG
+Operations: ORG
+Kronos: PERSON
+Training: PERSON
+Credit, Equipment Maintenance, Human Resources: ORG
+Loss Prevention: ORG
+Budgeting, Career Development, Central Office: ORG
+Financial Aid: ORG
+Liaison: PERSON
+Access, Award,: ORG
+Excel: PRODUCT
+Journal: ORG
+Microsoft: ORG
+Peoplesoft: PERSON
+Powerpoint: ORG
+Territory: PERSON
+Customer Engagement: ORG
+Daily Sales: ORG

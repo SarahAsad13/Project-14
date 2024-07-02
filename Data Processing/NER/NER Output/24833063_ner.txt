@@ -1,0 +1,170 @@
+more than 8-years: CARDINAL
+Financial & Management: ORG
+IFRS: ORG
+US: GPE
+Working Capital: ORG
+Internal Controls: ORG
+Hyperion: ORG
+Quick Books: ORG
+Payroll &: ORG
+Capex: PERSON
+Leadership: NORP
+Key Professional Skills Financial Reporting & Analysis: ORG
+IFRS: ORG
+US: GPE
+Planning (Short, Medium and Long Term: WORK_OF_ART
+System Development & Cost Controls: ORG
+Internal Controls & Financial Audits: ORG
+Controllership of Accounting Operations: ORG
+Team Leadership &
+resource management: ORG
+Bench Marking/Setting KPIs & Performance Measurement: PERSON
+ERP: ORG
+MS Office: ORG
+Excel: PRODUCT
+MS Excel: ORG
+Hyperion: ORG
+Synapse: PRODUCT
+QuickBooks: ORG
+Warehouse Management System: ORG
+Mainframe: PERSON
+Ultriva: ORG
+Trainings & Workshops: ORG
+Oracle Financial, Hyperion: ORG
+Rolling Forecast, Leadership: ORG
+Finance: ORG
+Delegation: ORG
+ABC Costing: ORG
+MS Excel: ORG
+ISO Quality Standards: ORG
+OSHA: ORG
+First Aid & Safety: ORG
+Budget: ORG
+Strong: PERSON
+01/2011: CARDINAL
+Saudi Arabia: GPE
+Bahrain: GPE
+Jordan: GPE
+Drilling: GPE
+Petro Chemicals: ORG
+Mining, & Exploration/Production: ORG
+Oil & Gas Sector: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+weekly: DATE
+daily: DATE
+month-end: DATE
+month: DATE
+L/Cs: NORP
+Review Zakat/Sales Tax: ORG
+Liaison: PERSON
+Develop: ORG
+Develop Adhoc: PRODUCT
+Accounting Analysis: ORG
+Tender: NORP
+Prepare: ORG
+Activity Based Cost Analysis: ORG
+Generate: PERSON
+monthly: DATE
+Achievements
+Reduced: PERSON
+400: CARDINAL
+2 years: DATE
+ARAMCO: ORG
+2014: DATE
+120 to 65 days: DATE
+ERP-Oracle Financials 12i: ORG
+P&L: ORG
+ERP: ORG
+Prepared 3: DATE
+5: DATE
+7 years: DATE
+Finance: ORG
+a year: DATE
+MB-Jordan: ORG
+British Petroleum: ORG
+Taxes: ORG
+Jordan: GPE
+01/2011 Company Name: ORG
+daily: DATE
+month end: DATE
+Prepared: PERSON
+monthly: DATE
+weekly: DATE
+Prepared AR: PRODUCT
+AP: ORG
+GL: ORG
+monthly: DATE
+Quick: ORG
+monthly: DATE
+Implemented Quick Books Premier: PERSON
+Supply Chain: ORG
+USA: GPE
+2009: DATE
+Supply Chain: ORG
+Purchase: PERSON
+Coordinated: ORG
+Prepared: PRODUCT
+more than USD 10 million: CARDINAL
+Prepare month end: DATE
+Assisted: ORG
+month end: DATE
+100%: PERCENT
+ISD: ORG
+Evaluated Inventory: ORG
+more than one million dollar: MONEY
+200K.: CARDINAL
+Bachelor of Science : Business, Accounting and Finance Kelley School of Business: ORG
+Indiana University Bachelor of Science in Business Major: ORG
+August: DATE
+2010: DATE
+Kelley School of Business: ORG
+Indiana University: ORG
+USA: GPE
+Certifications: WORK_OF_ART
+MS Excel: ORG
+Skills
+Inventory, Accountant, Accounts And: ORG
+General Ledger, Internal Controls: ORG
+Accounting Analysis: ORG
+Balance Sheet: PERSON
+Employee Resource Group: ORG
+Resource Planning: ORG
+Erp, Exploration, Financial Reports: ORG
+Forecasting: GPE
+Invoice, Journal: ORG
+Liaison: PERSON
+Oracle, Oracle Financials: ORG
+Petroleum, Receivables: ORG
+Consumer
+Products: ORG
+Financial Reporting: ORG
+Gl, Invoices, Payroll: ORG
+Prepared Sales: ORG
+Quick Books: ORG
+Quickbooks, Retail: ORG
+Retail Marketing: ORG
+Sales Reports: PERSON
+Tax Returns: PERSON
+Ad Hoc Analysis: ORG
+Material Flow, Metrics: ORG
+Million: CARDINAL
+Supply Chain,: ORG
+Access, Accounting Operations: ORG
+Cma: PERSON
+Excel: PRODUCT
+Financial Accounting: ORG
+Financial Audits: ORG
+Gaap: PERSON
+Iso: PERSON
+Mainframe: PERSON
+Maintenance, Management Accounting: ORG
+Ms Excel: PERSON
+Ms Office: ORG
+Operations: ORG
+Proposals: GPE
+Team
+Management: ORG
+Warehouse Management: ORG
+Warehouse Management System: ORG

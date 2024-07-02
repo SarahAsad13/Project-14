@@ -1,0 +1,18 @@
+Accurate: ORG
+Salesforce.com: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG
+Current
+Accountant Company Name: ORG
+Customer Service Rep Company Name: ORG
+daily: DATE
+Processed: GPE
+06/2005: DATE
+daily: DATE
+Training: PERSON
+2009: DATE
+Bachelor of Science : Accounting Kaplan University: ORG
+State: GPE
+US Accounting: ORG

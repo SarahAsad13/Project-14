@@ -1,0 +1,50 @@
+Executive Chef: ORG
+Le: GPE
+Scottsdale: GPE
+Arizona: GPE
+Mac Programs: PERSON
+Well Versed Palate: WORK_OF_ART
+Food and Labor Control Measures: ORG
+Name City: GPE
+State: ORG
+08/2016: CARDINAL
+7 percent: PERCENT
+hourly: TIME
+daily: DATE
+Name City: GPE
+State: ORG
+01/2016: CARDINAL
+Name City: GPE
+State Regional Executive Chef 03/2014: ORG
+15 %: PERCENT
+the summer months: DATE
+6 percent: PERCENT
+hourly: TIME
+Name City: GPE
+State: ORG
+Garde Manger/Production: PERSON
+11/2012: CARDINAL
+Collaborated: ORG
+the Food and Beverage: ORG
+daily: DATE
+Name City: GPE
+State: ORG
+11/2011: CARDINAL
+Name City: GPE
+State: ORG
+Sous Chef: PERSON
+Correctly: PRODUCT
+Name City: GPE
+State: ORG
+Sous Chef 04/2009: PERSON
+Quickly: ORG
+Established: ORG
+2008: DATE
+Scottsdale Culinary Institute: ORG
+City: GPE
+Culinary Arts
+Skills
+Administrative duties, Cash Handling: WORK_OF_ART
+Inventory: GPE
+Purchasing: GPE
+Record Keeping: PERSON

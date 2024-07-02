@@ -1,0 +1,64 @@
+TEACHER
+Skills: PERSON
+University of Redlands 2008 Elementary Credentials : Education City: ORG
+State: ORG
+United States: GPE
+California Baptist University 2006 Bachelor of Arts: ORG
+Liberal Arts City: PERSON
+State: GPE
+United States: GPE
+fifth: ORDINAL
+second: ORDINAL
+two years: DATE
+fifth: ORDINAL
+one year: DATE
+the WRITE Institute: ORG
+one year: DATE
+10: CARDINAL
+System 44 Instruction: LAW
+daily: DATE
+daily: DATE
+weekly: DATE
+four years: DATE
+second: ORDINAL
+one year: DATE
+daily: DATE
+one: CARDINAL
+the day: DATE
+daily: DATE
+weekly: DATE
+State: ORG
+Fourth: ORDINAL
+two years: DATE
+fourth: ORDINAL
+last year: DATE
+fifth: ORDINAL
+two years: DATE
+two years: DATE
+one: CARDINAL
+the day: DATE
+daily: DATE
+weekly: DATE
+Communicate: ORG
+weekly: DATE
+monthly: DATE
+STAR Reading and STAR Math: ORG
+weekly: DATE
+Get Ahead Writing: PERSON
+English Language Development: EVENT
+Common Core Math: PERSON
+three years: DATE
+Trainer: FAC
+the WRITE Institute: ORG
+Common Core: ORG
+RCD: ORG
+Last year: DATE
+GATE: ORG
+GATE: ORG
+the Jr Journal: ORG
+five: CARDINAL
+every month: DATE
+four: CARDINAL
+our second year: DATE
+High School: ORG
+this year: DATE

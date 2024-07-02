@@ -1,0 +1,58 @@
+Core Strengths
+
+Highly: ORG
+Mathematical: ORG
+Upbeat: ORG
+daily: DATE
+Assigned: ORG
+Checked: PRODUCT
+Seasoned: PRODUCT
+Name City: GPE
+State: ORG
+Sushi Chef 10/2014: PERSON
+Current
+
+Working at Wasabi's Downtown: ORG
+Sushi Time: PERSON
+second: ORDINAL
+Sushi Time: LOC
+5: CARDINAL
+Name City: GPE
+10/2014: CARDINAL
+Sushi Time: LOC
+the last few years: DATE
+The 5 Spot: ORG
+Name City: GPE
+State Host: ORG
+Server: GPE
+Dishwasher: GPE
+Cook: PERSON
+Sushi Time Towa: PERSON
+first: ORDINAL
+Sushi Time: PERSON
+six years: DATE
+about a year: DATE
+3 years: DATE
+Monday-Saturday 10-
+10: DATE
+a few hours: TIME
+days: DATE
+12 hours: TIME
+6 days: DATE
+Sushi Time: ORG
+daily: DATE
+the day: DATE
+the 6 years: DATE
+Towa: PERSON
+2012: DATE
+Savannah Technical College: ORG
+City: GPE
+State: GPE
+United States: GPE
+GED: ORG
+Wayne County Highschool: PERSON
+State: GPE
+United States: GPE
+Wayne County: PERSON
+Grades: PERSON
+9-11: DATE

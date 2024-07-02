@@ -1,0 +1,156 @@
+GPA: ORG
+3.6 / 4.0: CARDINAL
+NCAA: ORG
+ITA Varsity Scholar-Athlete: ORG
+Award Winner: PERSON
+Yale University Varsity Tennis Team / Division: ORG
+69: CARDINAL
+Skills & Licenses
+Proficient: ORG
+DBC Finance: ORG
+Argus Real Estate: ORG
+SNL Financial: ORG
+Bloomberg: GPE
+Capital IQ: ORG
+Thomson One: ORG
+Banker, Factset: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+7: CARDINAL
+Tennis: GPE
+N.Y. Yankees: ORG
+N.Y. Giants: ORG
+Politics and Traveling
+
+Professional Experience
+: WORK_OF_ART
+May 2014: DATE
+FirstBank: ORG
+Puerto Rico: GPE
+NYSE: ORG
+FBP: ORG
+Act 20 and Act 22: LAW
+Tax Exemption Laws of 2012: LAW
+Puerto Rico: GPE
+Act 20/22: LAW
+January 2007 to January 2012: DATE
+Highlights: PERSON
+¦: PERSON
+45%: PERCENT
+200: CARDINAL
+less than 1 year: DATE
+over $30 mm: MONEY
+¦: PERSON
+UBS Financial
+Services Incorporated: ORG
+Puerto Rico Investment Banking - Corporate: GPE
+Public Finance Group: ORG
+San Juan: GPE
+P.R.: PERSON
+2007 - 2012: DATE
+2013 - 2014: DATE
+DCF: ORG
+the Government of Puerto Rico: ORG
+Assisted UBS Asset Managers: ORG
+P.R.: ORG
+14.1: MONEY
+3.1: MONEY
+$428 mm: MONEY
+2.9: MONEY
+¦: PERSON
+2008A & 2009B: DATE
+1.9: MONEY
+B & Tender Exchange: ORG
+1.3: MONEY
+¦: PERSON
+Lead Underwriter: PERSON
+GTS: ORG
+IPO: ORG
+203: MONEY
+166: MONEY
+¦ Sole Underwriter / P.R. AAA Bond Fund II: PERSON
+P.R. Fixed Income
+Fund VI: ORG
+$65 mm: MONEY
+Aerostar Transition: ORG
+40: CARDINAL
+Luis MuÃ±oz Marin International
+Airport: ORG
+San Juan: GPE
+P.R.: GPE
+Aerostar: GPE
+$615 mm: MONEY
+UBS: ORG
+Summer Analyst 2005: DATE
+January 2006 to January 2007: DATE
+Advised Technology: ORG
+Media: GPE
+Telecom: GPE
+DCF: ORG
+4.3: MONEY
+Transactions: PERSON
+¦: PERSON
+Lead Arranger: PERSON
+General Atlantic: ORG
+Network Solutions: ORG
+$800 mm: MONEY
+Fandango: ORG
+$200 mm: MONEY
+CHV: ORG
+IPO: ORG
+$108 mm: MONEY
+¦: PERSON
+Lead Arranger: PERSON
+Joint Bookrunner / Intelsat Senior Unsecured Term Loan: ORG
+1.0: MONEY
+B.A.: GPE
+Latin American Studies: NORP
+2006: DATE
+Yale University / New Haven: ORG
+State: GPE
+US Yale University / New Haven: ORG
+CT: ORG
+B.A.: GPE
+Major - Economics: ORG
+Latin American: NORP
+2002 - 2006: DATE
+GPA: ORG
+3.6 / 4.0: CARDINAL
+NCAA: ORG
+ITA Varsity Scholar-Athlete: ORG
+Award Winner: PERSON
+English: LANGUAGE
+Spanish: LANGUAGE
+2002: DATE
+Academia del Perpetuo Socorro High School: PERSON
+State: GPE
+US Academia: PERSON
+P.R.: PERSON
+1998 - 2002: DATE
+English: LANGUAGE
+Spanish: NORP
+Intermediate Brazilian: PERSON
+Portuguese: NORP
+Certifications: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+English: LANGUAGE
+Spanish: NORP
+Intermediate
+Skills
+Clients: PRODUCT
+Associate, Credit Analysis: ORG
+Financial Analysis: ORG
+Financial Services: ORG
+Management Sales: ORG
+Market Share: ORG
+Solutions: GPE
+Commercial Loans: ORG
+Leasing: GPE
+Loans: NORP
+Closing, Exchange: ORG
+Excel: PRODUCT
+Finance: ORG
+Microsoft Office: ORG
+Ms Office: ORG
+7: CARDINAL

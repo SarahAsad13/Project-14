@@ -1,0 +1,87 @@
+25 years: DATE
+the Utility Industry: ORG
+Team and Company: ORG
+Highlights: GPE
+Microsoft Dynamics CRM: ORG
+Â CRM Product Owner: PRODUCT
+2018Â: DATE
+one: CARDINAL
+three: CARDINAL
+PNG: ORG
+the Year 2008: DATE
+Piedmont Natural Gas: ORG
+GSA: ORG
+Experienced Project Management: ORG
+Agile Trained: ORG
+6: CARDINAL
+Duke Gas: ORG
+Piedmont Natural: ORG
+Project Management: ORG
+Residential: ORG
+Maintained: GPE
+CRM: PRODUCT
+the Product Owner of CRM: ORG
+11/2012: CARDINAL
+11/2015: CARDINAL
+Name City: GPE
+daily: DATE
+ten: CARDINAL
+Sales Representatives: ORG
+Mentored: ORG
+CRM: PRODUCT
+the SouthWest Region: LOC
+GaveÂ: ORG
+04/2006: CARDINAL
+11/2012: CARDINAL
+Name City: GPE
+Charlotte: GPE
+Networked: PRODUCT
+2009: DATE
+one: CARDINAL
+three: CARDINAL
+2008: DATE
+Residential Energy Specialist 03/2006: ORG
+Name City: GPE
+Commercial: ORG
+Industrial Power Representative: ORG
+one half: CARDINAL
+Mecklenburg County Industrial: GPE
+First: ORDINAL
+Commercial Power Representative: ORG
+One: CARDINAL
+three: CARDINAL
+Mecklenburg County's: GPE
+the Call Center: ORG
+Name City: GPE
+State
+
+Promoted: ORG
+Charlotte: GPE
+6 week: DATE
+the Charlotte Home Builders Association: ORG
+Residential: ORG
+Name City: GPE
+Name City: GPE
+Facilitated: ORG
+three day: DATE
+Business Area Representatives
+
+Education: ORG
+Training
+Bachelor of Arts: PERSON
+State: ORG
+USA Psychology
+Computer Skills: ORG
+S2: CARDINAL
+CIS: ORG
+Accounts Payable: ORG
+Microsoft Dynamics CRM: ORG
+GSA Lite: ORG
+Microsoft Office Suite: ORG
+Acrobat Pro: PERSON
+Charlotte Homes Builders Association: ORG
+Board: ORG
+the Year 2008: DATE
+Piedmont Natural Gas: ORG
+LEED: PERSON
+2009: DATE

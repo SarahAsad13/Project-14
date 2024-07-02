@@ -1,0 +1,37 @@
+4+ years: DATE
+Skills
+
+Analytical: ORG
+Variance: PERSON
+Complex: NORP
+October 2006 - June 2010: DATE
+2007-2008: DATE
+American: NORP
+Linus Project: ORG
+Phi Sigma Sigma Foundation: ORG
+2 years: DATE
+June 2012 - January 2013: DATE
+Nov 2013: PERSON
+Key Performance Indicators: LOC
+KPI: ORG
+Researched: ORG
+Generated: ORG
+weekly: DATE
+Feb 2011: DATE
+Investigate: ORG
+Negotiate: ORG
+Refer: NORP
+Examine: PERSON
+Evaluate: ORG
+Arrange: PERSON
+Intern Aug: LOC
+2010: DATE
+Oct 2010: DATE
+Calculate: ORG
+Training
+Bachelor of Science , Business Administration: PERSON
+June 2010: DATE
+CALIFORNIA STATE UNIVERSITY OF BAKERSFIELD: ORG
+State
+Business Administration Finance: ORG
+Sigma: NORP

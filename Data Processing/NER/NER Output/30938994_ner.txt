@@ -1,0 +1,46 @@
+20) years: DATE
+Highlights
+
+Integrity: WORK_OF_ART
+first: ORDINAL
+Customer: ORG
+11/2011: CARDINAL
+Business Development Company Name: ORG
+two: CARDINAL
+10/2011: CARDINAL
+Regional: ORG
+Consumer Engagement Company Name: ORG
+1.2: MONEY
+Experienced: PERSON
+Utilized: ORG
+Acted: ORG
+over $3MM: MONEY
+1: CARDINAL
+8) Supervisors: ORG
+1: CARDINAL
+200: CARDINAL
+1,100: CARDINAL
+428,000: CARDINAL
+One: CARDINAL
+Conducted Performance Reviews: ORG
+Code of Corporate Responsibility, Smokeless Tobacco Master Settlement
+Agreement: ORG
+One: CARDINAL
+150: CARDINAL
+Motorsports: ORG
+15-30: CARDINAL
+over $200,000: MONEY
+Conducted: ORG
+Nielsen: GPE
+Company's Sales/Marketing: ORG
+Print Media Plan: WORK_OF_ART
+South Texas: LOC
+350: CARDINAL
+3: CARDINAL
+5: CARDINAL
+Worked Trade Shows: ORG
+Bachelor of Arts Degree :: ORG
+Stephen F. Austin: PERSON
+Dean: PERSON
+Dean: PERSON
+Experienced: PERSON

@@ -1,0 +1,61 @@
+more than 10 years: DATE
+Roads: PERSON
+3 years: DATE
+one: CARDINAL
+Forest: GPE
+Garland: GPE
+United Auto Credit: ORG
+Westlake: PERSON
+Lobel: GPE
+Windows, Mac OS X Software: ORG
+Microsoft Office: ORG
+Photoshop: ORG
+PDF: ORG
+MS Outlook: GPE
+Sep 2011 to Sep 2014: DATE
+annual: DATE
+annual: DATE
+CONTRACTOR: ORG
+ALBASHIQ GROUP: ORG
+NINEVEH: PERSON
+IRAQ: GPE
+Sep 2005: DATE
+Sep 2011: EVENT
+monthly: DATE
+quarterly: DATE
+daily: DATE
+quarterly: DATE
+semiannual: DATE
+AL-MAHER GROUP: ORG
+NINEVEH: PERSON
+IRAQ: GPE
+Nov 2002 to Aug 2005: DATE
+One: CARDINAL
+first: ORDINAL
+Engineer: ORG
+third: ORDINAL
+weekly: DATE
+Bachelor of Science , Civil Engineering: ORG
+6 1997: DATE
+Mosul University: ORG
+Iraq: GPE
+US: GPE
+Master of Science , Civil Engineering: WORK_OF_ART
+11 1999: DATE
+Mosul University: ORG
+ï¼​ City: GPE
+Iraq: GPE
+English/ Arabic: PERSON
+Skills
+Photoshop: ORG
+Arabic: LANGUAGE
+Engineer: ORG
+English: LANGUAGE
+Estimating: GPE
+Languages, Team: ORG
+Mac OS: PERSON
+Microsoft Office: ORG
+MS Outlook: GPE
+Operating Systems: ORG
+PDF: ORG
+Supervising: PERSON

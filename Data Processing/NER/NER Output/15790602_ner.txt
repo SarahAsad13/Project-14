@@ -1,0 +1,94 @@
+a Master's Degree in Business Administration: WORK_OF_ART
+the Discounts Task Force: ORG
+Data Capture Team: ORG
+Offer
+: PERSON
+Develop: ORG
+the Discounts Sub-Committee Led: ORG
+Oversee: ORG
+Provided: CARDINAL
+Card & Save: ORG
+New York & Company: ORG
+Target.com: ORG
+Dell, Circuit City: ORG
+Best Buy Successfully: ORG
+AAA Prescription Savings: ORG
+Target.com: ORG
+Shell: ORG
+Payless: ORG
+Travel Money: WORK_OF_ART
+09/1997: DATE
+02/1999: GPE
+TourBook: NORP
+four: CARDINAL
+Conducted: ORG
+Oversaw RFP: PERSON
+national Internet Service Provider Evaluated: ORG
+Collaborated: ORG
+04/1996: CARDINAL
+America Online: ORG
+AOL: ORG
+AAA.com: GPE
+Built: ORG
+Development Committee: ORG
+TourBook: PRODUCT
+AAA: ORG
+Approved Auto Repair: ORG
+two: CARDINAL
+Initiated: PERSON
+07/1991: DATE
+Became Marketing: ORG
+the Publishing Division: ORG
+January 1993: DATE
+18 months: DATE
+AAA: ORG
+World Cup: EVENT
+Oversaw: GPE
+AAA: ORG
+06/1991: PRODUCT
+seven: CARDINAL
+45: CARDINAL
+$184 million: MONEY
+10/1986: DATE
+06/1990
+VICEPRESIDENT Company Name: ORG
+January 1990: DATE
+36: CARDINAL
+20: CARDINAL
+Daytona: GPE
+750,000: MONEY
+six: CARDINAL
+Directed: ORG
+one: CARDINAL
+$20 million: MONEY
+90 days: DATE
+$14 million: MONEY
+three months: DATE
+Established: ORG
+eight: CARDINAL
+$2 million: MONEY
+the first four months: DATE
+01/1984: CARDINAL
+09/1986
+: PERSON
+Created Newcomer Program: ORG
+$20 million: MONEY
+the first five years: DATE
+01/1984: CARDINAL
+MBA: WORK_OF_ART
+1984: DATE
+BUSINESS ADMINISTRATION Stetson University: ORG
+ï¼​ City: GPE
+State BUSINESS ADMINISTRATION: ORG
+1981: DATE
+State Journalism and Business
+Skills
+America Online: ORG
+AOL: ORG
+Auto Repair: ORG
+Branding: ORG
+Database: GPE
+Dell: ORG
+MBA: WORK_OF_ART
+RFP: ORG
+Shell: ORG

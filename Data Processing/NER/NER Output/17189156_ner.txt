@@ -1,0 +1,52 @@
+6 years: DATE
+2: CARDINAL
+Knowledge: PERSON
+Skills: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Microsoft: ORG
+Outlook
+Languages
+Fluent: PERSON
+English: LANGUAGE
+01/2016: ORG
+Current
+Business Banking Specialist Company Name: ORG
+Basic Microsoft Office: ORG
+Excel: PRODUCT
+Outlook: PERSON
+01/2016: CARDINAL
+Overseen: PERSON
+DBE: ORG
+Conducting morning: TIME
+Teller: PERSON
+Thursday: DATE
+Business Advocate: ORG
+Thursday: DATE
+Providing Notary Service: ORG
+Assist: NORP
+Teller: PERSON
+daily: DATE
+Requires: PERSON
+daily: DATE
+Training
+
+High School: ORG
+Math University of California, Riverside ï¼​ City: ORG
+State: GPE
+United States: GPE
+various ages: DATE
+Excel: PRODUCT
+Possess: ORG
+IBM: ORG
+MAC: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Microsoft Outlook: ORG
+English: LANGUAGE
+WritingBeing: ORG
+Merchant: ORG
+Retail Small Business Credit Consultant: ORG
+Searching for Stars: WORK_OF_ART
+Notary: GPE

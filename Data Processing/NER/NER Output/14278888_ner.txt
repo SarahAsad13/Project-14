@@ -1,0 +1,83 @@
+more than ten years: DATE
+the United States Navy: ORG
+United States Army: ORG
+Trilingual - English: NORP
+Wafi: PERSON
+Igbo - Global: ORG
+Core Qualifications
+
+Operations: ORG
+Policy: ORG
+Policy: ORG
+the Afghanistan National Police,: ORG
+National Interdiction Unit: ORG
+NIU) Logistics: ORG
+MOI: ORG
+Logistics Policy: PERSON
+NIU: ORG
+the Ministry of Interior's: ORG
+Sensitive Investigative Unit: ORG
+SIU: ORG
+National Interdiction Unit: ORG
+Afghanistan: GPE
+Kunduz: GPE
+Jalalabad: GPE
+Kabul: GPE
+The PAE Warehouse: ORG
+Kabul: GPE
+Afghanistan: GPE
+Logistics: ORG
+Statements of Work: WORK_OF_ART
+Afghanistan Logistics Officers and Property Custodians: ORG
+Advised the Program's Warehouse, Sustainment, Property Book, Logistics Plans: ORG
+Operations: ORG
+Coordinated: ORG
+530: CARDINAL
+Afghanistan: GPE
+2: CARDINAL
+Kunduz: GPE
+Herat: ORG
+01/2011: CARDINAL
+LogisticsSupervisorin: ORG
+Global War On Terrorism: EVENT
+Afghanistan: GPE
+Africa: LOC
+Iraq: GPE
+Bookkeeping: GPE
+Inventoryand Management: ORG
+Navy: ORG
+FederalGovernment: ORG
+up to $500,000: MONEY
+the Department of Defense: ORG
+3million: MONEY
+Navy: ORG
+the Combined Joint Task Force Horn: ORG
+Africa: LOC
+African: NORP
+Village
+Stabilization Operations: ORG
+2: MONEY
+Defense Reutilization: ORG
+Facilitated: ORG
+US: GPE
+Nigerian: NORP
+Humanitarian: NORP
+Employed: PERSON
+Saved U.S Government: ORG
+Afghani: ORG
+United
+States: GPE
+six months to one month: DATE
+Afghan: NORP
+United States: GPE
+2004: CARDINAL
+1995: DATE
+Bachelor of Science : Microbiology University of Nigeria Nigeria Microbiology
+Interests
+Global War on Terrorism Operation Iraq Freedom Reading Analyzing: ORG
+Playing Soccer Army Achievement Medal: ORG
+Moderate Risk Public Trust: ORG
+Law
+Enforcement: PERSON
+Navy: ORG
+Strategist: ORG

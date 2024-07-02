@@ -1,0 +1,49 @@
+Core Qualifications
+
+Client: ORG
+Quick: FAC
+Booking.com: ORG
+Extranet: ORG
+Booking.com: ORG
+Customer Service: ORG
+Booking.com: ORG
+CUSTOMER: ORG
+EXECUTIVE: ORG
+11/2016 Company Name City: LOC
+Keep: ORG
+Refer: PRODUCT
+12/2011: CARDINAL
+Name City: GPE
+daily: DATE
+100%: PERCENT
+Monitored: ORG
+12/2011: CARDINAL
+30: CARDINAL
+01/2000: CARDINAL
+12/2004: CARDINAL
+Name City: GPE
+up to 85%: PERCENT
+J.D.: GPE
+2000: DATE
+Universidad: GPE
+Santa Maria City: GPE
+State: GPE
+Venezuela: GPE
+Bachelor of Science: ORG
+IUTIRLA City: GPE
+Venezuela: GPE
+Hospitality Management: ORG
+El Morro: GPE
+Anzoategui Graduated Cum Laude: PERSON
+Professional Affiliations
+National Association of Professional Trainers
+Languages
+Â Bilingual: ORG
+Spanish: LANGUAGE
+Portuguese: LANGUAGE
+French: NORP
+Italian: NORP
+Skills
+Customer services: ORG
+The Open University: ORG
+Three: CARDINAL

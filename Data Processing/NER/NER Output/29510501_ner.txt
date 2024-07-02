@@ -1,0 +1,40 @@
+Seeking an Education Coordinator: WORK_OF_ART
+Core Qualifications
+
+Microsoft Office: ORG
+Outlook: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Creative Curriculum Verbal: PERSON
+CDA-Infants & Toddlers Teaching: ORG
+Maryland Child Care Credential Certified: ORG
+up to: CARDINAL
+9: CARDINAL
+200: CARDINAL
+weekly: DATE
+Performed: PERSON
+Prepare: ORG
+Organize: GPE
+Assimilate: LOC
+Prepare: ORG
+Organize: GPE
+Assimilate: LOC
+Better Together Partnership Program: ORG
+Bright Horizons Foundation: ORG
+08/2006
+Office Automation Clerk Company Name: ORG
+Education: ORG
+2016: DATE
+Educational Leadership Concordia University: ORG
+2011: DATE
+Basic, Child Care: ORG
+Goal Setting: WORK_OF_ART
+Lesson
+Planning: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Time: ORG
+Verbal: ORG

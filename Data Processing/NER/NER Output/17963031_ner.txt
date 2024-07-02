@@ -1,0 +1,134 @@
+Professional Background: ORG
+20 years: DATE
+Information Technology: ORG
+Information Technology: ORG
+15 years: DATE
+healthcare: ORG
+healthcare: ORG
+Skill Highlights: PERSON
+Problem: PRODUCT
+Current
+System Administrator: ORG
+State: ORG
+Edwin Combs: PERSON
+Supervisor: PERSON
+618: CARDINAL
+229-2955: DATE
+AMC: ORG
+Functional Systems Administrator: ORG
+FSA: ORG
+Scott Air Force Base: FAC
+AMC/A4: ORG
+A4: ORG
+USTRANSCOM: PERSON
+MAF: ORG
+AMC: ORG
+C2: PRODUCT
+the "Lean Logistics: LAW
+21: CARDINAL
+the War Fighter: EVENT
+XML: ORG
+JAVA: ORG
+AF: ORG
+AMC: ORG
+Transactional Processing Systems: ORG
+UNIX: ORG
+Windows: GPE
+Subscribe: ORG
+BI Seamless Data Sharing: ORG
+Relational Databases: ORG
+Data Repositories: ORG
+GUI Tools: ORG
+Wireless Networks: ORG
+C2: CARDINAL
+AMC: ORG
+21: CARDINAL
+the 21st Century: DATE
+Ten years: DATE
+LAN: ORG
+Windows Vista: GPE
+XP: ORG
+2000: CARDINAL
+up to: CARDINAL
+750: CARDINAL
+Configures: PRODUCT
+Directory and Resources Administrator: ORG
+DRA: ORG
+Microsoft: ORG
+2003: DATE
+Active Directory: ORG
+Created Standard Operation Procedure: ORG
+VTC: ORG
+Schedules: PERSON
+VTC: ORG
+Tandberg: PERSON
+Primary Video Teleconference: PERSON
+eight years: DATE
+VTC: ORG
+VTC: ORG
+approximately 30 a month: DATE
+07/2000: CARDINAL
+Fortune 500: FAC
+Daimler Chrysler: ORG
+Union Pacific Railroad: ORG
+Health Risk Assessment: ORG
+Health: ORG
+12/1999 to: CARDINAL
+Clinical Research Associate Company Name
+
+: ORG
+BMT: ORG
+four: CARDINAL
+BMT: ORG
+BMT: ORG
+12/1997: CARDINAL
+12/1999: CARDINAL
+BMT: ORG
+four: CARDINAL
+BMT: ORG
+BMT: ORG
+United Healthcare: ORG
+ROHO Incorporated: ORG
+Training
+Masters : Information Management Webster University: ORG
+State Information Management
+Bachelor of Science : Health Education Southern Illinois University: ORG
+State Health Education: ORG
+May 2004: DATE
+Program Management' Systems Analysis and Design, Database Management: ORG
+1996: DATE
+Bachelor of Arts :: ORG
+Illinois University: ORG
+1993: DATE
+Associate of Science Southwestern Illinois Community College: WORK_OF_ART
+May 2004: DATE
+Microsoft Certified Systems: ORG
+Microsoft Certified Systems Engineer: ORG
+2003: DATE
+2003: DATE
+May 2004: DATE
+Skills
+Active Directory: ORG
+Air Force: ORG
+BI: ORG
+Database Management: ORG
+FSA: ORG
+Functional: ORG
+GUI: ORG
+JAVA: ORG
+Local
+Area Network: ORG
+LAN: ORG
+Logistics: ORG
+Microsoft Certified: ORG
+Microsoft Certified Systems Engineer: ORG
+Windows: NORP
+2000: DATE
+Network: ORG
+Networks: ORG
+Program Management: ORG
+Relational Databases, Risk Assessment: ORG
+Supervisor, Systems Analysis and Design: ORG
+UNIX: ORG
+Vista: ORG
+XML: ORG

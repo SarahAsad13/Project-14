@@ -1,0 +1,104 @@
+Electronic Engineer: ORG
+12/2014: CARDINAL
+Builds: PERSON
+Troubleshoots: ORG
+C.O.: NORP
+Operates: NORP
+Technicians: NORP
+Construction Coordinator Company Name: ORG
+Quality Assurance on Fiber Closures: ORG
+Fiber Terminal: ORG
+Cleanup: ORG
+Verizon Communications: ORG
+3704 3rd: DATE
+Tampa: GPE
+Florida Responsible: ORG
+daily: DATE
+10-20: CARDINAL
+Greenfield: PERSON
+Tampa: GPE
+daily: DATE
+the
+Single Service Providers: ORG
+01/2000: CARDINAL
+3192: CARDINAL
+9: CARDINAL
+Charles Industries: ORG
+DSL Loop Units-: ORG
+HRU: ORG
+HTUC: ORG
+HRU612: GPE
+8: CARDINAL
+FRC753: PRODUCT
+PS213: PRODUCT
+FLU712: ORG
+AT&T: ORG
+DDM-2000: NORP
+Digital: ORG
+NEC: ORG
+1 2005: DATE
+Bachelor of Science : Information Systems Security: ORG
+Information Systems: ORG
+1 2003: DATE
+Associates of Science : Computer and Electronic Engineering: ORG
+ISS ITT Technical Institute: ORG
+State: GPE
+US: GPE
+GPA: ORG
+0.850: CARDINAL
+GPA: ORG
+0.850: CARDINAL
+Affiliations: ORG
+the V1 Air Department: ORG
+V1: CARDINAL
+AIR Department: ORG
+Certifications
+OTR: ORG
+Skills
+SECURITY: ORG
+CONTRACTS: ORG
+DOCUMENTATION: ORG
+FIBER SPLICING: ORG
+SPLICING: ORG
+VERIZON: GPE
+DSL: GPE
+AC: ORG
+COMPONENT: ORG
+DDL: ORG
+SCHEMATIC: ORG
+TELECOMMUNICATIONS: ORG
+TELECOMMUNICATIONS EQUIPMENT: ORG
+AVIATION: GPE
+DISPATCHER: ORG
+OPERATIONS: ORG
+PROMOTIONAL: ORG
+SECURITY: ORG
+MICROSOFT WINDOWS: ORG
+DDM: ORG
+HDSL: ORG
+MICROSCOPE: ORG
+SOLDERING: ORG
+EXCEL: ORG
+FIREWALLS: ORG
+POWERPOINT: ORG
+RED HAT: ORG
+WORD: ORG
+ISS
+Military Experience
+: ORG
+11/1996 to 11/2000: CARDINAL
+E-4 Company Name: FAC
+the V1 Air Department: ORG
+Conducted: ORG
+V1: CARDINAL
+AIR Department: ORG
+Patrolman: PERSON
+Dispatcher: PERSON
+Armored: ORG
+the USS George Washington: PRODUCT
+Patrolman: PERSON
+C.O: GPE
+40: CARDINAL
+Air and Security: ORG
+Attack Force Team and Special Forces Joint: ORG
+the USS George Washington.: PRODUCT

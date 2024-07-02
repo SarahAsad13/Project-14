@@ -1,0 +1,29 @@
+29 years: DATE
+4 years: DATE
+Bar: ORG
+Budgeting / Profit & Loss
+Management Safety & Sanitation Compliance
+Innovative Menu Planning: ORG
+Vendor Management & Negotiation: ORG
+Name City: GPE
+State Executive Chef 08/2010: ORG
+One: CARDINAL
+one: CARDINAL
+Purchase: PERSON
+Name City: GPE
+Created: ORG
+Observe: LOC
+Name City: GPE
+State: ORG
+Sous Chef: PERSON
+daily: DATE
+Name City: GPE
+Data: ORG
+Quick: ORG
+San Diego Area: LOC
+Serve Safe Management Certified: ORG
+Restaurant/Hotel Management 2017: ORG
+Penn Foster
+Management Serve Safe Certified: PERSON
+2015: DATE
+Serve Safe Management Certified: ORG

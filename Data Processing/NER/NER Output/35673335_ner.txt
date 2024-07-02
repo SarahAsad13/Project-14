@@ -1,0 +1,112 @@
+Strategic Business Development Executive Entrepreneurial: ORG
+7-year: DATE
+500,000: MONEY
+90%: PERCENT
+83%: PERCENT
+two: CARDINAL
+Operations Relationship Management Enterprise Software Channel Sales Strategic Partnerships Business Intelligence & Data Analytics: ORG
+September 2014: DATE
+Business Intelligence Software: ORG
+five: CARDINAL
+2 months: DATE
+167: CARDINAL
+CRM: PRODUCT
+March 2014 to September 2014: DATE
+1: MONEY
+Electric Vehicles: ORG
+Canada: GPE
+CRM Conducted: PRODUCT
+20%+: CARDINAL
+General Motors: ORG
+PLUGLESS: ORG
+U.S.: GPE
+Marketing and Business Development: ORG
+January 2009 to March 2014: DATE
+San Francisco: GPE
+Business Development: ORG
+Telecom: ORG
+$0 to $250,000: MONEY
+10 months: DATE
+Verizon Wireless: ORG
+Cricket
+Wireless: ORG
+Grew: PERSON
+0% to 83%: PERCENT
+2 years: DATE
+9: CARDINAL
+11: CARDINAL
+North America: LOC
+AT&T: ORG
+Alltel: ORG
+US Cellular: ORG
+Verizon Wireless: ORG
+six-month: DATE
+90,000: MONEY
+AccuWeather.com: ORG
+College Sports: ORG
+35%: PERCENT
+40%: PERCENT
+January 2004 to January 2010: DATE
+Business Development: ORG
+six months: DATE
+Business Development: ORG
+1: MONEY
+North America: LOC
+three years: DATE
+P&L: ORG
+every month: DATE
+20,000: MONEY
+2005: DATE
+500,000: MONEY
+2008: DATE
+90%: PERCENT
+Content Management System: ORG
+the Direct to Consumer: ORG
+HBO: ORG
+NFL: ORG
+Simpsons: ORG
+UFC: ORG
+NCAA: ORG
+AT&T: ORG
+Sprint: ORG
+Tracfone: ORG
+$250,000: MONEY
+Wal-Mart: ORG
+CMS: ORG
+Wal-Mart's: ORG
+monthly: DATE
+20,000: MONEY
+Augmented: GPE
+200,000: MONEY
+40%: PERCENT
+65%: PERCENT
+120,000: MONEY
+Microsoft: ORG
+Cover Girl: PERSON
+Tide: PRODUCT
+NBA: ORG
+Dominos Pizza: ORG
+ABC news: ORG
+130%: PERCENT
+$1.5M: MONEY
+North American: NORP
+70%: PERCENT
+January 2001 to January 2003: DATE
+10: CARDINAL
+27.M.: MONEY
+Gained: NORP
+three: CARDINAL
+3.4M.: MONEY
+B.S :: ORG
+2004: DATE
+Virginia Commonwealth University: ORG
+GPA: ORG
+Cum Laude Economics Cum Laude: ORG
+ABC: ORG
+Business Development, Business Intelligence Software: ORG
+CMS: ORG
+Content
+Management: ORG
+CRM: PRODUCT
+San,: GPE
+Telecom: GPE

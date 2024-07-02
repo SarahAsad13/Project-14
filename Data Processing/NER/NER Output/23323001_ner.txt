@@ -1,0 +1,107 @@
+PROJECT COORDINATOR: PERSON
+Time Management: ORG
+Strength: ORG
+MS Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Project Coordinator Current 
+Company Name
+
+Develop: ORG
+MS: ORG
+2013: DATE
+Demand & Supply: ORG
+Develop: ORG
+Guri: PERSON
+Monthly: DATE
+Portfolio Office Previous Telecom NZ Ltd - Business Process Co-ordinator: ORG
+WBSE: ORG
+Health & Safety: ORG
+Purchase Orders: PERSON
+audio & video: ORG
+Project Manager - Birthright Wellington: ORG
+the Government Department - Child Youth & Family: ORG
+non-Government: ORG
+Government: ORG
+non-Government: ORG
+Te Rito Co-ordinator: ORG
+monthly: DATE
+¦: PERSON
+coming year: DATE
+¦: PERSON
+three: CARDINAL
+monthly: DATE
+Community Action Fund: ORG
+¦: PERSON
+¦: PERSON
+weekly half hour: TIME
+¦: PERSON
+day: DATE
+Quarterly: DATE
+Ministry of Social Development: ORG
+¦: PERSON
+monthly: DATE
+¦: PERSON
+Wellington Ending Abuse &
+Violence: ORG
+Strengthening Families (SF) Co-ordinator - Hutt Valley: ORG
+Convene: GPE
+SF Meetings: ORG
+Maintain & record meeting: ORG
+monthly: DATE
+SF: GPE
+SF: GPE
+Teller / Investment Advisor Co-ordinator: ORG
+12/1999: CARDINAL
+daily: DATE
+Provide: NORP
+Reconcile ATM Machine: ORG
+Monthly: DATE
+Advisor & Quarterly Reports
+Check Investment: ORG
+Advisors &: ORG
+WINZ Call Centre, Wine & Food 01/1989 to 01/1996 
+Company Name: ORG
+1989 to 1996: DATE
+Ministry of Justice: ORG
+Superannuation Services: ORG
+National Bank: ORG
+WINZ Call Centre, Wine & Food: ORG
+Volunteer Community Work - Women's Refuge Crisis Line: PERSON
+Victim: GPE
+Diploma : Health & Human Development, Frontline Management 2012: ORG
+MS: ORG
+Task Management 2010 March 2012: ORG
+Frontline Management Facilitating Adult Learning & Training: WORK_OF_ART
+Impact Treaty of Waitangi Social Policy: WORK_OF_ART
+Client: PERSON
+Practice Skills for Life First Aid Course Privacy & Official Information Act Group Facilitation Facilitation & Advanced Training
+Introduction to Small Business Management Marketing & Selling: ORG
+Legal: ORG
+Computer Skills: ORG
+Health & Human Development - 6: ORG
+1: CARDINAL
+2: CARDINAL
+Affiliations: ORG
+Victim Support: PERSON
+Skills
+Customer Service: ORG
+Payroll: ORG
+Induction: ORG
+Microsoft Project: ORG
+Ms Project: ORG
+Adult Learning: PERSON
+Business Management, Business Planning, Finance: ORG
+First Aid Course, Marketing, Presentation Skills, Taxation, Business Writing: ORG
+Excel: PRODUCT
+Intermediate Representation: FAC
+Project Management: ORG
+Time Management: ORG
+Visio: PERSON
+2000: DATE
+Access: ORG
+Basis, Budget, Case Management: ORG
+Disability, Ltd: ORG
+Project Coordinator: ORG
+Project Manager: PERSON
+Purchase: PERSON

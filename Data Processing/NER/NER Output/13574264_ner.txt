@@ -1,0 +1,86 @@
+January 2010: DATE
+Current Company Name: ORG
+45MM: MONEY
+52: CARDINAL
+daily: DATE
+25%: PERCENT
+daily: DATE
+7.5MM: MONEY
+1.4MM: MONEY
+DealerSocket: ORG
+CRM: PRODUCT
+100%: PERCENT
+1MM: MONEY
+January 2004 to January 2010: DATE
+SEM: ORG
+YouTube: ORG
+Google AdWords: ORG
+50%: PERCENT
+1MM: MONEY
+first: ORDINAL
+Kia: ORG
+year: DATE
+year: DATE
+2015: DATE
+25th: ORDINAL
+13.2%: PERCENT
+7.2%: PERCENT
+10.1%: PERCENT
+the first year: DATE
+63%: PERCENT
+37%: PERCENT
+the first year: DATE
+Net Promoter Score: ORG
+100%: PERCENT
+2011: DATE
+2012: DATE
+2014: DATE
+2015: DATE
+14: CARDINAL
+Western: NORP
+Central New York: LOC
+2018: DATE
+13%: PERCENT
+the prior year: DATE
+the Northeast Region: LOC
+Ford: ORG
+Ford: ORG
+Rochester: GPE
+four: CARDINAL
+eight: CARDINAL
+annual: DATE
+3.2MM: MONEY
+10.8MM: MONEY
+15: CARDINAL
+50: DATE
+1MM: MONEY
+3rd: ORDINAL
+100%: PERCENT
+first year: DATE
+Reynolds: FAC
+Reynolds: ORG
+DealerTrak: PERSON
+V-Auto: ORG
+Digital Advertising Marketing & Design: ORG
+AutoTrader: ORG
+DealerSocket: ORG
+CRM: PRODUCT
+Scott F.: PERSON
+Fuccillo Automotive Group: ORG
+Bachelor of Arts Degree : Business Administration and Management EDINBORO UNIVERSITY OF PENNSYLVANIA Business
+Administration and Management
+Summary
+ACCOMPLISHED SALES & BUSINESS DEVELOPMENT LEADER BUILDS & LEADS STRONG: ORG
+CLIENT: GPE
+Business Development: ORG
+Fuccillo Kia: ORG
+52: CARDINAL
+45MM: MONEY
+annual: DATE
+Strategic Fixed: PERSON
+Skills
+Account Management: ORG
+Competitive: PERSON
+CRM: PRODUCT
+Mentoring, Online Marketing: ORG
+Profit, Sales, Strategy: ORG

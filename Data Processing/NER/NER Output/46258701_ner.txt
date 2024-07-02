@@ -1,0 +1,66 @@
+Hr Coordinator: PERSON
+Core Qualifications
+
+Exceptional: ORG
+Innovative
+Microsoft Office: ORG
+Suite: PERSON
+Personnel: ORG
+Applicant Tracking System
+EEO Reporting: WORK_OF_ART
+HRMS: ORG
+HR Coordinator: ORG
+First day: DATE
+first: ORDINAL
+Kenexa BrassRing: ORG
+06/2012: CARDINAL
+Edward Don & Company: ORG
+08/2008 - 09/2011 Company Name - City: ORG
+first day: DATE
+their first day's: DATE
+WOTC: ORG
+SOX: ORG
+the HR Department: ORG
+SAP Administration: ORG
+Wellness Fairs: PERSON
+the HR Department's: ORG
+SharePoint: ORG
+CPR: ORG
+first: ORDINAL
+Receptionist: ORG
+Recruiter Lead: PERSON
+Hiring Managers: ORG
+Excel: PRODUCT
+State: ORG
+Federal: ORG
+six: CARDINAL
+2008: DATE
+DePaul University - City: ORG
+State BA Human Resources
+Professional Affiliations
+
+Membership:: ORG
+Society for Human Resources: ORG
+2007: DATE
+Technical Skills: ORG
+Microsoft Sharepoint: ORG
+SAP,: ORG
+Excel: PRODUCT
+Groupwise: PERSON
+Incoming Calls: PERSON
+Ms Office: ORG
+Ms Outlook: PERSON
+Outlook: PERSON
+Phone System: ORG
+Receptionist: NORP
+Recruiter: PERSON
+Sterling Inforsystems: ORG
+Orange Tree Employment Services: ORG
+Kenexa - IBM Products: ORG
+Ultipro: ORG
+New Hires: ORG
+Sarbanes-Oxley: ORG
+SOX: ORG
+Filing: GPE
+Leads: GPE
+Performance Review: ORG

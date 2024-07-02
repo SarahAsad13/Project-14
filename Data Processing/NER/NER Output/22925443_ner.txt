@@ -1,0 +1,48 @@
+Highlights
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Critical: PRODUCT
+Decisive
+
+Excellent: WORK_OF_ART
+Accountant: PERSON
+May 2014 to July 2014: DATE
+the Accounting Clerk: ORG
+Assisted Accounting: ORG
+Assisted: ORG
+daily: DATE
+monthly: DATE
+daily: DATE
+Created: ORG
+Excel: PRODUCT
+September 2012: DATE
+Current Company Name: ORG
+Measure: WORK_OF_ART
+Respond: PERSON
+July 2007 to September 2012: DATE
+ICP: ORG
+Prepare: ORG
+Bachelor of Arts : Accounting: ORG
+5 2014: DATE
+Ashford University: ORG
+State: GPE
+USA: GPE
+Business Administration: ORG
+Coursework in Business Administration: ORG
+Advanced Financial Accounting: ORG
+Law: PERSON
+Business Administration: ORG
+Coursework in Human Resource Management and Business Administration: ORG
+Specialized Industry: ORG
+Coursework in International Finance: ORG
+Microeconomics
+
+Coursework in Accounting and Finance
+
+Communications and Marketing: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG

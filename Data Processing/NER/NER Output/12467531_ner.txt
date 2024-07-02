@@ -1,0 +1,92 @@
+TEACHER
+Professional Summary
+
+Master: PERSON
+Skills
+
+Instructional Design, Teaching, Progress Monitoring, Course
+Development
+Evernote: ORG
+Slack, Social Media: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Adobe
+Photoshop
+Management: PRODUCT
+Projects, Daily Scheduling
+
+Work History: ORG
+Portfolio Managament: PERSON
+Liability Structuring
+Research, Analysis: ORG
+Designs: NORP
+Initiates: ORG
+Individualized Education Plan: ORG
+IEP: ORG
+Utilizes District: LOC
+IEP: ORG
+Communicates: ORG
+Mathematics: NORP
+Robotics and Design Instructor: WORK_OF_ART
+09/2014 
+Company Name: ORG
+Robotics: ORG
+20-25%: PERCENT
+annually: DATE
+5 year: DATE
+Research and Analytics
+Provide: WORK_OF_ART
+Time: ORG
+Black Swan Events
+Planned: EVENT
+15%: PERCENT
+apps
+Improved: PERSON
+Maintained: GPE
+M. Ed: PERSON
+2016: DATE
+University of California - Los Angeles - City: ORG
+Elementary Education: ORG
+2003: DATE
+The University of New Mexico - City: ORG
+Studio Arts: GPE
+Monica College - City: PERSON
+State: ORG
+Skills
+
+Instructional Design, Teaching, Progress Monitoring, Course Development
+
+Evernote: ORG
+Slack, Social Media: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Projects, Daily Scheduling
+
+Financial Analysis: ORG
+Portfolio Managament: ORG
+Liability Structuring
+Research, Analysis: ORG
+Designs: NORP
+Initiates: ORG
+Individualized Education Plan: ORG
+IEP: ORG
+Utilizes District: LOC
+IEP: ORG
+Communicates: ORG
+Mathematics: NORP
+Robotics and Design Instructor: WORK_OF_ART
+09/2014 
+Company Name: ORG
+Robotics: ORG
+20-25%: PERCENT
+annually: DATE
+5 year: DATE
+Research and Analytics
+Provide: WORK_OF_ART
+Time: ORG
+Black Swan Events
+Planned: EVENT
+15%: PERCENT
+apps
+Improved: PERSON
+Maintained: GPE

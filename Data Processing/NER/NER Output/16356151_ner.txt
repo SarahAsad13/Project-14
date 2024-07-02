@@ -1,0 +1,80 @@
+OCCUPATIONAL HEALTH NURSE COORDINATOR
+Professional Summary: ORG
+20 years: DATE
+Â Patient Management
+Patient: ORG
+Homecare/Hospice: ORG
+Communication & Documentation: ORG
+Healthcare: ORG
+JCAHO Standards / Compliance
+Relations
+Homecare Skills: ORG
+Quality Assurance / Quality Control
+Records: ORG
+22: CARDINAL
+Expert: PERSON
+OCCUPATIONAL HEALTH NURSE COORDINATOR: ORG
+September 2011 to May 2012: DATE
+State: ORG
+first: ORDINAL
+CPR: ORG
+first: ORDINAL
+annual: DATE
+AED: ORG
+Medical Incident Reports: ORG
+five days: DATE
+Influenza: NORP
+Maintain Ergonomics, Wellness: ORG
+Blood Borne Exposure Control
+Programs: PERSON
+annually: DATE
+Physician Liaison/Nurse Triage/GI Nurse: PERSON
+December 2000 to October 2011 Company Name: DATE
+State: ORG
+AmSurg Corp.: ORG
+Washington: GPE
+DC: GPE
+Physician Liaison/Nurse Triage: PERSON
+ER: ORG
+the physician and/or additional healthcare resources: ORG
+GI: ORG
+IV: GPE
+Maintained: GPE
+GI: ORG
+Home Healthcare Nurse: ORG
+May 1990 to July 2000: DATE
+State: ORG
+Bachelor of Arts: ORG
+State: GPE
+US: GPE
+Lambda Sigma Society: ORG
+GPA: ORG
+3.85: CARDINAL
+NxStage/US Renal Care: Home
+Dialysis education & training: ORG
+BCLS: ORG
+CPR: ORG
+Trauma Certification: ORG
+Professional Affiliations: ORG
+RN: ORG
+Home Health Care: ORG
+2/1992 to 5/2000: CARDINAL
+1992: DATE
+Skills
+Healthcare: ORG
+Training, Access, Customer Service, Laboratory: ORG
+Liaison, Office Management: ORG
+Â Phlebotomy: ORG
+Telephone, Voice: ORG
+Cardiovascular: ORG
+Employee Records, Environmental Health: ORG
+Ergonomics: ORG
+Industrial Safety, Office Supplies: ORG
+Sops: ORG
+Testing, Community Relations, Documentation: ORG
+Maintenance, Oasis, Quality Assurance: ORG
+Quality Control: ORG
+Rn/: ORG
+Team Player: ORG
+Dialysis: PERSON
+Registered Nurse: PERSON

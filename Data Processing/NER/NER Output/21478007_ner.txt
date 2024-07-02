@@ -1,0 +1,44 @@
+over 5 years: DATE
+the years: DATE
+Developmental: ORG
+September 2011: DATE
+Oversee: ORG
+Manhattan: GPE
+daily: DATE
+weekly: DATE
+Instagram: ORG
+January 2015: DATE
+May 2015: DATE
+Update: ORG
+the season: DATE
+Develop: ORG
+Demonstrate: ORG
+September 2013 to August 2014: DATE
+Ticket Office: ORG
+Northeast: LOC
+Generate: PERSON
+weekly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Respond: PERSON
+20,000: CARDINAL
+25%: PERCENT
+September 2011 to May 2014: DATE
+Processed: GPE
+15: CARDINAL
+Coordinated: ORG
+Tutored: PRODUCT
+English: LANGUAGE
+History: GPE
+Spanish: NORP
+Regents Exam: ORG
+September 2013 to December 2013: DATE
+Maintained: GPE
+Cision: ORG
+Adobe Photoshop: ORG
+June 2009 to July 2011: DATE
+Skills
+
+Team Leadership Accomplished: ORG
+Microsoft: ORG
+Strategic Thinker: PERSON

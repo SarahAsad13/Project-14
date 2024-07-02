@@ -1,0 +1,84 @@
+fifteen years: DATE
+1: MONEY
+Satisfaction Survey's: PERSON
+Sears Corporate Holdings Inc: ORG
+420: CARDINAL
+Advocate: ORG
+25+ years: DATE
+half: CARDINAL
+nine months in a row: DATE
+2013: DATE
+May 2007: DATE
+Party Planning - Updated Menu: ORG
+daily: DATE
+Project Coordinator: ORG
+Jan 2013 to Aug 2013: DATE
+quarterly: DATE
+Jan 2012: DATE
+2012: DATE
+Maintained: GPE
+Oversaw: GPE
+May 2011 to Dec 2011: DATE
+Jan 2007: DATE
+State
+
+Government Affairs Manage: ORG
+Microsoft Office Excel: ORG
+Phone Etiquette: PERSON
+US Postal Service Sensitive Security Clearance: ORG
+Data Entry: ORG
+Dispatcher: PERSON
+Dispatcher Jan 2008: DATE
+monthly: DATE
+Jan 2003: DATE
+San Marcos: GPE
+Seasonal Dept: WORK_OF_ART
+Dec 2002: DATE
+Seasonal Department: ORG
+Bachelor: ORG
+Managerial Economics, Human Services: ORG
+May 2012: DATE
+University of Phoenix: ORG
+State Business: ORG
+Managerial Economics, Human Services: ORG
+Associate Degree: PERSON
+Managerial Economics: ORG
+May 2002: DATE
+Tech State College: ORG
+State Human Services: ORG
+Managerial Economics
+Bachelor's: ORG
+January 2002: DATE
+The Culinary Institute of America
+Master's: ORG
+January 2002: DATE
+The Culinary Institute of America: ORG
+January 1995: DATE
+Paul Harding High School
+Languages: ORG
+70+ Wpm
+: DATE
+Data Entry
+Administrative: ORG
+Communication Skills: PRODUCT
+Microsoft: ORG
+Customer Relationship Management: ORG
+microsoft: ORG
+Analyst: PERSON
+Microsoft: ORG
+400: CARDINAL
+Communication Skills: ORG
+Cooking: PERSON
+Customer Relationship Management: ORG
+Data Entry: ORG
+DOS: ORG
+English: LANGUAGE
+Materials: GPE
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Microsoft Outlook: ORG
+People Soft: PERSON
+San: LOC
+Phone Etiquette: PERSON

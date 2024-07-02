@@ -1,0 +1,123 @@
+two year: DATE
+one year: DATE
+Camp Parks: PERSON
+11/29/2007: DATE
+Department of Defense: ORG
+Fort Riley: GPE
+Ks: GPE
+Fort Gillem: FAC
+Ga 01/12/2007
+: GPE
+Department of the Army Inspector General Course: ORG
+Fort Belvoir: GPE
+Va: GPE
+Advanced Non-Commissioned: ORG
+US Army: ORG
+Fort Leonard Wood: ORG
+Mo 06/28/2005: GPE
+Small Group Instructor Training Course: ORG
+US Army NCO Academy: ORG
+Fort Dix: ORG
+NJ: ORG
+Controller: PERSON
+Trainer Course: PERSON
+Camp Shelby: GPE
+Drill Sergeant School: ORG
+US Army NCO Academy: ORG
+Fort Leonard: FAC
+Mo 10/12/1995: DATE
+Marine Corp Non-Resident Leadership Course: ORG
+Fort Leonard Wood: ORG
+US Army: ORG
+Fort Knox: GPE
+Inventory: ORG
+the Downtown Meridian Earth Bounty Chopped Completion Contest: ORG
+Two: CARDINAL
+List for Honor Recognition
+
+Successfully: WORK_OF_ART
+12: CARDINAL
+more than 175: CARDINAL
+each day: DATE
+Executive Chef: PRODUCT
+January 2014 to October 2014: DATE
+one hundred and twenty: CARDINAL
+seventy five: CARDINAL
+Associate Pastor 
+March 2013 to Current Company Name ï¼​ City: WORK_OF_ART
+Outreach: PERSON
+Wednesday: DATE
+up to seventy five: CARDINAL
+July 2011 to October 2012: DATE
+Shop: ORG
+Safety Director/Office: ORG
+August 2010 to June 2011 Company Name ï¼​ City: DATE
+East Central Mississippi: LOC
+West: LOC
+Alabama: GPE
+Sergeant: PERSON
+January 1983 to July 2010: DATE
+Assisted the Commanding General: WORK_OF_ART
+311th: ORDINAL
+over 6,300: CARDINAL
+four: CARDINAL
+Kuwait: GPE
+Conducted Inspector General Inquiries: ORG
+Soldiers: ORG
+the Command IG: ORG
+November 2002 to October 2005: DATE
+the Primary Leadership Development Course: ORG
+Soldiers: ORG
+annually: DATE
+Controller Trainer Course: PERSON
+Camp Shelby: GPE
+Drill Sergeant School: ORG
+US Army NCO Academy: ORG
+Fort Leonard Wood: FAC
+Mo: GPE
+Marine Corp Non-Resident Leadership Course: ORG
+Fort Leonard Wood: ORG
+4 1994: DATE
+US Army: ORG
+Basic Non-Commissioned Officer Course: ORG
+Fort Leonard Wood: ORG
+US Army: ORG
+Fort: GPE
+Quarry Machine: PERSON
+US Army: ORG
+Fort Leonard Wood: ORG
+11/24/1987: DATE
+Combat Bridge Builder Training: FAC
+Fort Leonard Wood: FAC
+3 1984 City: DATE
+State
+Ministry/Leadership : Ministry: ORG
+2010: DATE
+Vanguard University of Southern Cal ï¼​ City: ORG
+State: ORG
+Culinary Arts Degree :: WORK_OF_ART
+Culinary: ORG
+12 2014: DATE
+20 Hours: TIME
+10 Hours: TIME
+10 Hours: TIME
+20 Hours: TIME
+Garde Manger: PERSON
+60 Hours: TIME
+Saute: ORG
+Fry, Food Production: ORG
+10 Hours: TIME
+Management/Leadership Observation
+
+Courses: ORG
+Patisserie and Confectionery, International Cuisine
+
+Small Group Instructor Training Course: ORG
+12 2002 US Army NCO Academy ï¼​ City: MONEY
+State: ORG
+Skills
+Army: ORG
+Basic: GPE
+Ca: PRODUCT
+Controller: PERSON
+Trainer: ORG

@@ -1,0 +1,84 @@
+Carpenter: PERSON
+October 2010: DATE
+Name City: GPE
+State Training Specialist - Construction Equipment
+
+Serve: ORG
+a Training Specialist: ORG
+the U.S. Army: ORG
+the U.S. Army's: ORG
+Technical Manuals: ORG
+August 2000: DATE
+October 2010: DATE
+Name City: GPE
+State: ORG
+daily: DATE
+first: ORDINAL
+the day: DATE
+Commercial Drivers License Class A.
+
+Military Experience: ORG
+February 1999: DATE
+Name City: GPE
+State: ORG
+42: CARDINAL
+Marine: NORP
+Marines: NORP
+Mentor Marines: NORP
+250/260: CARDINAL
+Maintained: GPE
+over 1.2 million dollars: MONEY
+3: CARDINAL
+Navy: ORG
+Marine Corps Achievement Medals: ORG
+Bronze Star: PERSON
+4: CARDINAL
+Marine Corps Reserve Medals: ORG
+Bronze Hour Glass: PERSON
+3: CARDINAL
+2015: DATE
+Eastern Michigan University City: ORG
+State: GPE
+the American Council: ORG
+Introduction to Construction, Construction Safety: ORG
+Electrical and Mechanical Equipment Systems: ORG
+LEED: ORG
+New Construction: ORG
+Legal Environment of Business Law: ORG
+Henry Ford Community College City: ORG
+State: ORG
+USA Associate: ORG
+Architectural/Construction Technology
+
+: ORG
+08/28/2000 - 05/05/2002: DATE
+24: CARDINAL
+Scrapers: NORP
+Loaders: NORP
+AutoCad: ORG
+Microsoft Office Suite: ORG
+Troxler Nuclear Guage
+Densometer, Radiation Safety Officer, Radioactive Commodity Identification/Transportation: WORK_OF_ART
+Hazmat: ORG
+CPR: ORG
+Eastern Constructors Organization: ORG
+16: CARDINAL
+the Southwest Indian Foundation: ORG
+Gallup: GPE
+New Mexico: GPE
+172: CARDINAL
+Al Asad Iraq: ORG
+the Marine Corps Logistics Command: ORG
+Al Asad Air Base: ORG
+Iraq: GPE
+the Marine Corps: ORG
+Iraq: GPE
+Completed Combat Out Post Baghdadi: ORG
+four days: DATE
+7th: ORDINAL
+Division Military Transition Team: ORG
+Developed the Radiation Safety Officer Course: ORG
+the Troxler Nuclear Guage Densometer: ORG
+the Nuclear Regulatory
+Commission: ORG
+492: CARDINAL

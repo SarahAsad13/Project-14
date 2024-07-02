@@ -1,0 +1,55 @@
+Profile: ORG
+20 years: DATE
+six: CARDINAL
+Skills
+
+Microsoft Office: ORG
+Visio: PERSON
+FMEA: ORG
+Minitab
+Process: PERSON
+12/2015: CARDINAL
+Airmate Company: ORG
+daily: DATE
+Standardized: ORG
+-30%: PERCENT
+12/2015: CARDINAL
+Validate: ORG
+Quality Engineer Valve Value Stream Company Name: ORG
+Maintained: GPE
+APQP: ORG
+PFEMA: GPE
+Control Plans: ORG
+Product Profiles: ORG
+Process Technician Valve Value Stream Company Name: ORG
+Championed: PRODUCT
+Created: ORG
+Assisted Applications and Manufacturing Engineering: WORK_OF_ART
+01/2003: CARDINAL
+Value Stream Group: ORG
+50: CARDINAL
+hourly: TIME
+Maintained: GPE
+daily: DATE
+Training: PERSON
+2014: DATE
+Applied Industrial Ergonomics: ORG
+2014: DATE
+Lean Certification: ORG
+2013: DATE
+EPA Certification: ORG
+2011: DATE
+AWS Brazing Certification: PRODUCT
+2007: DATE
+Six Sigma Academy: ORG
+Greenbelt Training: PERSON
+2004: DATE
+Duggan and Associates *Value Stream Mapping: ORG
+2006: DATE
+Mixed Model Value Stream Mapping: PERSON
+2003: DATE
+Purdue University: ORG
+Poke-a-Yoke Certification: PERSON
+Continuous Improvement: PERSON
+Ergonomics: ORG
+Six Sigma: PERSON

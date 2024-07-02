@@ -1,0 +1,75 @@
+FINANCE: ORG
+Finance: ORG
+15 years: DATE
+supreme Customer Service: ORG
+Finance: ORG
+Finance: ORG
+January 2015 to January 2016: DATE
+State: ORG
+94%: PERCENT
+85%: PERCENT
+100%: PERCENT
+Newly: ORG
+four: CARDINAL
+Finance: ORG
+Training: PERSON
+daily: DATE
+Sales Consultants: ORG
+Enter: PERSON
+Exit: GPE
+85%: PERCENT
+Documented Extended Service Plan: ORG
+100%: PERCENT
+2 Months: DATE
+75%: PERCENT
+Gap Insurance: WORK_OF_ART
+October 2013 to January 2015: DATE
+Customers: ORG
+Monitored: ORG
+Working Directly: ORG
+20%: PERCENT
+two-year: DATE
+Repeat Customers: ORG
+Maintained: GPE
+15: CARDINAL
+Customer Service: ORG
+September 2013 to December 2014: DATE
+Advertising and Marketing Own Real Estate Business: WORK_OF_ART
+Client: GPE
+Mailings
+Listing: FAC
+M.L.S: FAC
+30 day: DATE
+2 years in row: DATE
+Buyers Agents: ORG
+Clients Home: ORG
+Title: ORG
+Listing: GPE
+Clients: PRODUCT
+Staying: PERSON
+Customer: ORG
+Loan: ORG
+Bankers: ORG
+Associate of Science : Business Management: ORG
+2012: DATE
+Deans: NORP
+2011: CARDINAL
+Foster Continuing Education - City: ORG
+State: ORG
+Maryland Associations of Realtors: ORG
+Prince George's County Realtor
+
+: GPE
+National Associations of Realtors
+
+PMA-Property Management Association
+
+Professional Affiliations
+: ORG
+Closing: PERSON
+Customer Service: ORG
+Email: PERSON
+Filing: GPE
+Insurance, Marketing: ORG
+Negotiating: GPE
+Real Estate, Selling: ORG

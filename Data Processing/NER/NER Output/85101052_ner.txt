@@ -1,0 +1,134 @@
+Career Overview
+â—​Â  Having: WORK_OF_ART
+8.5 years: DATE
+Software: NORP
+Java/J2EE Technologies
+â—​Â: ORG
+Technical Designer: PERSON
+Tata Consultancy Services: ORG
+â—​Â  Knowledge: WORK_OF_ART
+Coding: ORG
+Unit Testing: WORK_OF_ART
+Spring 3: DATE
+jQuery, Bootstrap: ORG
+JPA: ORG
+Struts: PERSON
+Core Java: PERSON
+JSP: ORG
+EJB: ORG
+XML: ORG
+PL SQL
+: ORG
+â—​Â: PRODUCT
+Java Programmer: PERSON
+â—​Â Â  Solid: PRODUCT
+Agile: NORP
+â—​Â Â  : PRODUCT
+Object Oriented Methodology: ORG
+Design Patterns: PERSON
+â—​Â Â  Proficiency: PRODUCT
+Java: PERSON
+WebServices: ORG
+â—​Â Â  Exposure to Automation: PRODUCT
+Building Solution
+â—​Â Â  Looking: WORK_OF_ART
+Coding: ORG
+Unit Testing: WORK_OF_ART
+Spring 3: DATE
+jQuery, Bootstrap: ORG
+JPA: ORG
+Struts: PERSON
+Core Java: PERSON
+JSP: ORG
+EJB: ORG
+XML: ORG
+UML: ORG
+Git: GPE
+Rally
+Work Experience
+: ORG
+February 2011: DATE
+January 2010 to January 2011: DATE
+FXO: ORG
+FedEx Office: ORG
+Java 6.0: PERSON
+Hibernate: PERSON
+EJB: ORG
+XML: ORG
+Team Size: ORG
+25: CARDINAL
+FedEx: GPE
+Print: GPE
+FXO: ORG
+Struts: DATE
+PMD: ORG
+Findbugs: NORP
+Bug Fixing: PERSON
+Software Engineer: PERSON
+October 2006 to January 2010: DATE
+Java 6.0: PERSON
+Hibernate, Struts,: ORG
+UML: ORG
+Niagara AX: PERSON
+20: CARDINAL
+Eclipse: PRODUCT
+UDS Database: GPE
+SQL: ORG
+Description: PERSON
+HBS: ORG
+Labor hours: TIME
+Tridium: NORP
+weekly: DATE
+Track meetings & MR Involved: ORG
+Java 6.0: PERSON
+EJB: ORG
+XML: ORG
+20: CARDINAL
+Git: PERSON
+Eclipse: PRODUCT
+Rally, UML: ORG
+Oracle 11i
+Servers :: DATE
+Weblogic 10 Description: ORG
+NASDAQ: ORG
+SEIC: ORG
+Struts: DATE
+PMD: ORG
+Findbugs: NORP
+Bug Fixing: PERSON
+Training
+Bachelor of Engineering: PERSON
+Computer Science & Engg: ORG
+June-2005 Computer Science & Engg: ORG
+68%: PERCENT
+C.E.T: GPE
+Belgaum: GPE
+10+3: DATE
+Computer Science & Engineering: ORG
+63.2%: PERCENT
+Govt: ORG
+Bijapur: PERSON
+March-1999: ORG
+Std: PERSON
+79.52%: PERCENT
+P.D.J High School: ORG
+Hindi Kannada: PERSON
+Skills: ORG
+Client: GPE
+Eclipse: PRODUCT
+English: LANGUAGE
+EJB: ORG
+XML: ORG
+Hindi: GPE
+Java: PERSON
+Java 6.0: PERSON
+JSP: ORG
+JBOSS: ORG
+jQuery: ORG
+Coding: ORG
+Requirement, Servers: ORG
+SQL: ORG
+Struts: PERSON
+UML: ORG
+Weblogic
+Additional Information: ORG

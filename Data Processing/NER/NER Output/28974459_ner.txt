@@ -1,0 +1,78 @@
+Career Overview
+Skilled medical: WORK_OF_ART
+Core Strengths
+
+Active: ORG
+Energetic: LOC
+Healthcare: ORG
+Computerized: NORP
+CPR/BLS: ORG
+Microsoft Office: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Detail: PERSON
+daily: DATE
+Patient Advocate: PERSON
+09/2014 Company Name: ORG
+Screen: ORG
+Determine Eligibility: PERSON
+Medicaid Coverage
+
+Send application: ORG
+Medicaid: ORG
+Medicaid: ORG
+Verify Insurance using Health XNet
+
+Certify: WORK_OF_ART
+Medicaid: ORG
+Tech: GPE
+Maintained: GPE
+Obtained: ORG
+10: CARDINAL
+12/2013: CARDINAL
+State: ORG
+Responsible For Registering Patients
+Answered: WORK_OF_ART
+Maintained: GPE
+Credit Education Specialist/Customer Service Rep: ORG
+01/2010 Company Name: ORG
+Credit Education: ORG
+Cashier/Shift: ORG
+Took: ORG
+2011: CARDINAL
+PIMA Medical Institute ï¼​ City: ORG
+State: GPE
+US: GPE
+PIMA Medical Institute Medical: ORG
+Certificate Albuquerque: PERSON
+NM: GPE
+2010-2011: DATE
+GPA: ORG
+3.8: CARDINAL
+G.E.D: PERSON
+2008: DATE
+Central New Mexico Community College: ORG
+State: GPE
+US: GPE
+Central New Mexico Community College: ORG
+G.E.D Albuquerque: PERSON
+NM: ORG
+2008: DATE
+Certifications
+EKG CPR Certified CPR Medical Assistant Certificate Medical: WORK_OF_ART
+Skills
+Answering: ORG
+Customer Service: ORG
+Problem Solving: PERSON
+Receptionist: NORP
+Cashier, Answering Phones: ORG
+Data Entry,: ORG
+Excel: PRODUCT
+Medical Coding: ORG
+Outlook: PERSON
+Phlebotomist: PERSON
+Phlebotomy, Sterile, Sterilization, Word, Billing: ORG
+Schedule Appointments: ORG

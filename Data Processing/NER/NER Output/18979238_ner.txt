@@ -1,0 +1,70 @@
+DIGITAL: ORG
+State: ORG
+Zip Code Your Phone: PERSON
+State: ORG
+CountyArts: PRODUCT
+the Museum of Art: ORG
+next week: DATE
+Ethan Araya: PERSON
+Letter Graphic
+Arts: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+Digital Designer 
+Company Name: ORG
+2: CARDINAL
+July 2009 to April 2011 Company Name: DATE
+Assemble: PRODUCT
+January 2007 to July 2009: DATE
+Assisted: WORK_OF_ART
+Gained: NORP
+6 2006: DATE
+Elklan Oregon: PERSON
+Bachelor of Science : Civil Engineering: ORG
+3 2010: DATE
+Foothill University: ORG
+ï¼​ City: GPE
+Chi Epsilon: PERSON
+Dean: PERSON
+5: CARDINAL
+American Society of Civil Engineers: ORG
+Chi Epsilon: PERSON
+Dean: PERSON
+5: CARDINAL
+American Society of Civil Engineers: ORG
+EIT: ORG
+1 2012 City: DATE
+State: ORG
+North Bergen High School GPA: ORG
+2nd: CARDINAL
+1: CARDINAL
+2: CARDINAL
+2nd: CARDINAL
+1: CARDINAL
+2: CARDINAL
+76th: ORDINAL
+Gina Lucia: PERSON
+next week: DATE
+Ethan Araya: PERSON
+Ethan Araya: PERSON
+German: NORP
+French: LANGUAGE
+Skills: ORG
+Edit, Engineer: ORG
+English: LANGUAGE
+French: NORP
+German: NORP
+Graphic: PERSON
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Spanish: NORP
+210A 76th street: PERCENT
+Gina Lucia: PERSON
+next
+week: DATE
+Ethan Araya: PERSON
+Ethan Araya: PERSON

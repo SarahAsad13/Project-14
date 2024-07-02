@@ -1,0 +1,74 @@
+DIGITAL: ORG
+Professional Profile
+Results: ORG
+Digital: ORG
+Paid: PERSON
+Strong: PERSON
+Critical: PRODUCT
+Design & Strategy:: ORG
+managingÂ: GPE
+User Experience & Content Quality: ORG
+Research & Insights: Â Created: ORG
+200k: MONEY
+Project Management: Â Managed: ORG
+3: CARDINAL
+1: CARDINAL
+a span of 18 months: DATE
+Name City: GPE
+Library: PERSON
+7: CARDINAL
+2Â: CARDINAL
+Librarians: NORP
+12%: PERCENT
+18%: PERCENT
+summer: DATE
+Name City: GPE
+State Web Services: ORG
+11/2011: CARDINAL
+4: CARDINAL
+44: CARDINAL
+450k: MONEY
+the City/County Web Governance Board: GPE
+Extended Information Services: ORG
+Name City: GPE
+State Web Metrics Analyst: ORG
+10/2011: CARDINAL
+65: CARDINAL
+the Global Small and Medium
+Business: ORG
+monthly: DATE
+Collaborated: ORG
+Surfaid Analytics: ORG
+the Unica NetInsight Analytics: ORG
+Name City: GPE
+State: ORG
+Translated: ORG
+UX: ORG
+Microsoft SharePoint: ORG
+Name City: GPE
+Directed: ORG
+PPC: ORG
+200k: MONEY
+Master of Science : Technology Management 2010 University of Maryland, University College , City , State: WORK_OF_ART
+USA: GPE
+Wayne State University: ORG
+City: GPE
+State: GPE
+USA Coursework: ORG
+Website Management: ORG
+Website Design & Development: ORG
+CSS3: GPE
+PHP: ORG
+Drupal,: ORG
+WordPress: ORG
+InvisionApp: ORG
+Adobe Fireworks: PERSON
+Microsoft SharePoint: ORG
+Yahoo AdCenter: PERSON
+Facebook Ads: PERSON
+Twitter Ads: PERSON
+Website Measurement & Analysis: ORG
+Google Analytics: ORG
+Mouseflow: PERSON
+Unica NetInsights: ORG
+Coremetrics: NORP

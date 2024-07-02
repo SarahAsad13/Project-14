@@ -1,0 +1,63 @@
+TEACHER
+Career Overview
+
+Highly: PERSON
+15 years: DATE
+Dedicated Customer Service Representative: ORG
+Core Strengths
+
+Strong: PERSON
+Seasoned: PRODUCT
+Sharp: ORG
+Customer: ORG
+Adaptive: ORG
+Opening: WORK_OF_ART
+Live Support: LOC
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Current Company Name City: ORG
+daily: DATE
+CPR: ORG
+Georgia: GPE
+daily: DATE
+1-5: CARDINAL
+13 years: DATE
+Name City: GPE
+20: CARDINAL
+Quick: ORG
+12%.Managed: CARDINAL
+50%: PERCENT
+50%: PERCENT
+daily: DATE
+daily: DATE
+CPR: ORG
+Illinois: GPE
+quarterly: DATE
+daily: DATE
+Child Protection Services: ORG
+Resource and Referral Centers: ORG
+50: CARDINAL
+2: CARDINAL
+300: CARDINAL
+a period of 10 years: DATE
+daily: DATE
+one: CARDINAL
+working hours: TIME
+alphabet games: ORG
+100: CARDINAL
+a year: DATE
+weekly: DATE
+50: CARDINAL
+2-14 year old: DATE
+20.Planned: CARDINAL
+50: CARDINAL
+9000-square-foot: QUANTITY
+100: CARDINAL
+25: CARDINAL
+U TRI: ORG
+Associate of Arts :: ORG
+Business Jones International University City: ORG
+89: CARDINAL
+Roswell: PERSON
+Georgia: GPE

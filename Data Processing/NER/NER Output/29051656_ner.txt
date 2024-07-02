@@ -1,0 +1,166 @@
+6years: CARDINAL
+Oracle: NORP
+Sql Server: ORG
+Information Technology Specialist: ORG
+Current Company Name City: ORG
+Oracle: ORG
+11.2.0.4: CARDINAL
+13c: DATE
+13c: DATE
+Performed Hot/Cold Backup, Recovery and Cloning: ORG
+RMAN: ORG
+Crontab: ORG
+MySQL 5.6 to 5.7: CARDINAL
+RDS: ORG
+AWS: ORG
+Created Snapshots: ORG
+Elastic: NORP
+EBS Volumes: PERSON
+Security Groups: ORG
+S3: CARDINAL
+Database Administrator 12/2014: ORG
+Current Company Name City: ORG
+Troubleshot: PERSON
+100%: PERCENT
+EXPLAIN PLAN: ORG
+TKPROF: ORG
+STATSPACK: ORG
+AWR: ORG
+SQL TRACE: ORG
+Physical, Logical, Active: ORG
+Data guard: ORG
+Oracle 11: LAW
+10: CARDINAL
+RAC: ORG
+ADDM: ORG
+Oracle 10: ORG
+11: CARDINAL
+12c: DATE
+Oracle: NORP
+SQL: ORG
+SQL Access: ORG
+SQL: ORG
+RDS: ORG
+AWS: ORG
+Created Snapshots: ORG
+Elastic: NORP
+EBS Volumes: PERSON
+Security Groups: ORG
+Real Application Cluster: ORG
+RAC: ORG
+Oracle 11gR2 Grid: DATE
+10: CARDINAL
+ASM: ORG
+ACFS: ORG
+RAC: ORG
+Rconfig: ORG
+RMAN: ORG
+ASM: ORG
+Installed Oracle: NORP
+10: CARDINAL
+11: CARDINAL
+12c: CARDINAL
+oracle 12c: DATE
+TDE: ORG
+Data Redaction: ORG
+Applied PSU on standalone TEST: ORG
+OPatch: NORP
+OPatch Auto: ORG
+Oracle Golden Gate: ORG
+Oracle: NORP
+Golden Gate: FAC
+Cold: PERSON
+Flash Recovery Area: PERSON
+Logical Backups: PERSON
+RMAN: ORG
+Maintenance Jobs: PERSON
+Crontab: ORG
+OEM: ORG
+Datapump and Export/Import: ORG
+Cloned: PERSON
+RMAN: ORG
+Implemented Point: ORG
+one: CARDINAL
+Installed SQL Server: ORG
+2012: DATE
+10: CARDINAL
+11: CARDINAL
+DBUA: ORG
+Datapump, Manually: ORG
+Oracle Dataguard: ORG
+Oracle Database Administrator 07/2012: ORG
+Name City: GPE
+RAC: ORG
+STATSPACK: ORG
+EXPLAIN PLAN: ORG
+TKPROF: ORG
+Collaborated: ORG
+Maintained Physical: ORG
+Logical: ORG
+Data guard: ORG
+Oracle 11: LAW
+10: CARDINAL
+RAC: ORG
+Oracle OEM: ORG
+12c: CARDINAL
+Database: GPE
+Oracle Instance: ORG
+Materialized: NORP
+Maintained: GPE
+Real Application Cluster: ORG
+RAC: ORG
+Oracle 11gR2 Grid: DATE
+10: CARDINAL
+ASM: ORG
+CPU: ORG
+10: CARDINAL
+11: CARDINAL
+g.
+: PERSON
+Golden Gate: FAC
+TDE: ORG
+Maintained Active Data: ORG
+300: CARDINAL
+10: CARDINAL
+11: CARDINAL
+12c: CARDINAL
+300: CARDINAL
+2: CARDINAL
+Datapump: PERSON
+Training
+Bachelor of Science :: PERSON
+State: ORG
+Cameroon Civil Engineering
+Technical Environment: ORG
+10: CARDINAL
+11: CARDINAL
+12c: DATE
+MySQL 5.6: CARDINAL
+5.7: CARDINAL
+Sql Server 2008: ORG
+2012: DATE
+Oracle Enterprise Linux: ORG
+5.11: CARDINAL
+6.7: CARDINAL
+7: DATE
+11.x: CARDINAL
+Sun Solaris: ORG
+2.5: CARDINAL
+2.6: CARDINAL
+Windows Server: PERSON
+2008: DATE
+TKPROF: ORG
+STATSPACK: ORG
+AWR: ORG
+ADDM Toad: FAC
+WinSCP.Â 
+Database Utilities: PERSON
+Oracle Enterprise: ORG
+Real Application Cluster: ORG
+ASM: ORG
+RMAN: ORG
+DataPump, Export, Import
+Languages :Â  Â·SQL*PLUS: ORG
+PL/SQL: ORG
+Shell Scripting: PERSON
+Ksh: GPE

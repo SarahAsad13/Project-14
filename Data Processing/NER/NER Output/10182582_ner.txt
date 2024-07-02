@@ -1,0 +1,21 @@
+Summary
+Highly: ORG
+Highlights: GPE
+Word: PERSON
+Excel: PRODUCT
+MS Office: ORG
+Accomplished: PRODUCT
+Key Holder: LOC
+Maintained: GPE
+Coordinated: PRODUCT
+Met: ORG
+04/2009 City: GPE
+Maintained: GPE
+2008: DATE
+Virginia Union University City: ORG
+State Marketing
+Skills: ORG
+Excel: PRODUCT
+MS Office: ORG
+Microsoft Outlook: ORG
+Word: PERSON

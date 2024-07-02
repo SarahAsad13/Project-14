@@ -1,0 +1,45 @@
+Customer Service: ORG
+10 years': DATE
+Energetic: LOC
+Client: GPE
+Proactive: NORP
+the GW Medical Faculty Associates: ORG
+the National Automobile Dealers Association: ORG
+55%: PERCENT
+12/2015: CARDINAL
+Contact Center Specialist Company Name: ORG
+State: ORG
+90 - 160: CARDINAL
+daily: DATE
+Processed: GPE
+the Department of Medicine Specialties: ORG
+Assisted: ORG
+11/2013: CARDINAL
+Plan Information Call Center Manager Company Name: ORG
+day: DATE
+Call Center: ORG
+daily: DATE
+Assisted the Plan Information: ORG
+NADART: ORG
+first: ORDINAL
+Plan Administration Specialist Company Name: ORG
+NADART: ORG
+Communicated: ORG
+Plan Administrators: ORG
+Processed: GPE
+September 2017: DATE
+A.S. Degree : Business Administration Southern New Hampshire University Business Administration National Honor Society/Leadership: WORK_OF_ART
+Success: ORG
+April 2017: DATE
+Career Certificate: ORG
+Penn Foster Career School: PERSON
+Skills: ORG
+10: CARDINAL
+Call Center: ORG
+Medical Terminology: ORG
+Suite: PERSON
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Xerox: ORG

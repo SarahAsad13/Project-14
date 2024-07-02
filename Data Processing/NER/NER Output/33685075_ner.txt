@@ -1,0 +1,79 @@
+QUALITY ENGINEERING
+Executive Summary: ORG
+14 years: DATE
+8: CARDINAL
+Core Qualifications
+ProEngineer: PERSON
+MiniTab, MS Office Suite: ORG
+MS Project: GPE
+MS Visio: PERSON
+Trackwise: PERSON
+Catsweb
+Professional: ORG
+Quality Engineering: ORG
+April 2014: DATE
+the Quality Engineering Team: ORG
+the Complaints Department: ORG
+the Metrology Department: ORG
+Alcon: GPE
+NCR Investigations: ORG
+CAPA: NORP
+Investigate: ORG
+two: CARDINAL
+March 2011 to April 2014: DATE
+September 2013: DATE
+the Process Engineering and Automation Groups: ORG
+Alcon: GPE
+Injection Molding: PERSON
+Assembly, Curing: ORG
+Chemical Processing: ORG
+Wavefront: GPE
+50%: PERCENT
+5%: PERCENT
+0.3%: PERCENT
+the=: WORK_OF_ART
+materials=: WORK_OF_ART
+between 1 and 3 years: DATE
+at least $: MONEY
+100k: MONEY
+September 2007 to March 2011 Company Name ï¼​ City: DATE
+Drafting: PERSON
+Custom Tool Production, Milling, Injection Molding: ORG
+Room Engineering Support: WORK_OF_ART
+Process Engineer II: PRODUCT
+February 2005 to September 2007: DATE
+Alcon: GPE
+AcrySof Single-Piece IOL: ORG
+AcrySof Single-Piece: ORG
+more than 25%: PERCENT
+23: CARDINAL
+one: CARDINAL
+Research Engineer: ORG
+September 2003 to February 2005: DATE
+Labview: PERSON
+96: CARDINAL
+LIAT: ORG
+examiner: ORG
+Patent Examiner: PERSON
+July 2002 to: DATE
+September 2003: DATE
+the United States: ORG
+Code: PERSON
+Graduate Research: ORG
+September 2000 to July 2002: DATE
+Master of Science : Mechanical Engineering UNIVERSITY OF VIRGINIA ï¼​ City: WORK_OF_ART
+City: GPE
+Skills
+
+Manufacturing,: ORG
+Assembly, Automation, Budget, Calibration: ORG
+MS Office Suite: ORG
+MS Project: GPE
+MS VIsio: GPE
+MiniTab, Stat Graphics: ORG
+Process Engineering: ORG
+CIP: ORG
+Pro Engineer: ORG
+Physics: ORG
+Sigma Pi Sigma: ORG
+Physics: ORG

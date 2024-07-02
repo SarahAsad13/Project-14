@@ -1,0 +1,74 @@
+DIRECTOR: ORG
+GLOBAL BUSINESS DEVELOPMENT: PERSON
+Scott Kachelek: PERSON
+more than 15 years: DATE
+Highlights
+
+Cross: ORG
+Spanish: NORP
+Japanese: NORP
+25: MONEY
+$150 million: MONEY
+Maintained: GPE
+50%: PERCENT
+5: CARDINAL
+33: CARDINAL
+more than 30: CARDINAL
+up to $6 million: MONEY
+20: CARDINAL
+Global Business Development 06/2015: ORG
+OEM: ORG
+Name City: GPE
+33: CARDINAL
+first: ORDINAL
+one: CARDINAL
+one: CARDINAL
+annual: DATE
+International Inside Sales 09/2002: ORG
+U.S.: GPE
+Japan: GPE
+Researched: ORG
+Reduce: PERSON
+Bosphorus Bridge: PERSON
+Turkey: GPE
+Vegas Mall: PERSON
+Russia: GPE
+Torre Colpatria: PERSON
+Colombia: GPE
+Maracana Stadium World Cup: ORG
+Brazil: GPE
+DTI Cinema,: ORG
+USA: GPE
+Marks: ORG
+Spencer Stores: ORG
+U.K: ORG
+Allianz Arena: PERSON
+Germany: GPE
+Meydan Bridge: PERSON
+U.A.E: ORG
+Macau: GPE
+Ghent Stadium: PERSON
+Belgium: GPE
+Olympics: EVENT
+Brazil: GPE
+Kingdom: GPE
+Saudi Arabia: GPE
+Kohinoor Tower: FAC
+India: GPE
+Intercontinental , UAE: ORG
+Aspire Tower: FAC
+Qatar: GPE
+Nabana: PERSON
+Japan: GPE
+Matsuya Ginza: PERSON
+Japan: GPE
+Montparnasse: GPE
+France: GPE
+Bachelor of Science : International: ORG
+University of Minnesota: ORG
+Carlson School of Management City: ORG
+State: GPE
+USA Minors: ORG
+Spanish: LANGUAGE
+Japanese: NORP
+East Asian: NORP

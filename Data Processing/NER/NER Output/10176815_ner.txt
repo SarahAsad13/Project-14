@@ -1,0 +1,89 @@
+Highlights
+Proficient: ORG
+Prezi: ORG
+Microsoft Office Programs: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Adobe: PERSON
+Access, Auto CAD: ORG
+Commercial Multi-Engine: ORG
+Single-Engine Pilot: ORG
+Airline Dispatcher Certified: PERSON
+FAA: ORG
+MATLAB: ORG
+Utilized: ORG
+Canvas: PRODUCT
+Respondus: GPE
+StudyMate: ORG
+TurnItIn: ORG
+SnagIt: ORG
+Camtasia: GPE
+Facilitated: ORG
+Blackboard LMS: PERSON
+Canvas LMS: PRODUCT
+Collaborated: ORG
+Edited: PRODUCT
+Blackboard System Administrators: ORG
+LMS: ORG
+LMS: ORG
+Current
+Aviation Electronics Technician Company Name: ORG
+IR turret: PERSON
+DAC: ORG
+Quality: ORG
+IFF/SIF: ORG
+Doppler: PERSON
+Troubleshoot: ORG
+UHF: ORG
+VHF: ORG
+Aviation Electronics Technician Company Name: ORG
+Navy: ORG
+260,000: CARDINAL
+annually: DATE
+$557 million: MONEY
+DAC: ORG
+55%: PERCENT
+19: CARDINAL
+F/A-18: PRODUCT
+11: CARDINAL
+over 2,900: CARDINAL
+annually: DATE
+F/A-18: PRODUCT
+95%: PERCENT
+May 2016: DATE
+ï¼​ City: GPE
+GPA: ORG
+3.23/4.0: CARDINAL
+Aeronautical Science Applied Meteorology GPA: ORG
+3.23/4.0: CARDINAL
+May 2008: DATE
+Associate of Science : Electronic Engineering Technology Tidewater Community College: WORK_OF_ART
+City: GPE
+GPA: ORG
+3.85/4.0: CARDINAL
+Summa Cum Laude
+Electronic Engineering Technology GPA: PERSON
+3.85/4.0: CARDINAL
+Summa Cum Laude: PERSON
+Spanish: LANGUAGE
+English: LANGUAGE
+Adobe, Articulate: ORG
+Canvas: PRODUCT
+English: LANGUAGE
+MATLAB: ORG
+Excel: PRODUCT
+Microsoft Office
+Programs: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Navy: ORG
+Spanish: LANGUAGE
+Troubleshoot: ORG
+UHF: ORG
+VHF: ORG
+Additional Information
+
+Active: ORG

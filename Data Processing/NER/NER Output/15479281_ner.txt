@@ -1,0 +1,43 @@
+PR & EVENT: ORG
+PR & Event: ORG
+Jan 2015: DATE
+Evaluate: ORG
+Coordinate: FAC
+2017: DATE
+PR & Social: ORG
+Jan 2013 to Jan 2017: DATE
+180k: CARDINAL
+2013: DATE
+2.2: CARDINAL
+2017: DATE
+PR & Social Media Coordinators: ORG
+20: CARDINAL
+Social Media: ORG
+Twitter: PERSON
+Instagram: ORG
+Tumblr: GPE
+Youtube: GPE
+Viva Radio: ORG
+weekly: DATE
+PR &: ORG
+weekly: DATE
+Mar 2017: PERSON
+2017: DATE
+social & influencer: ORG
+Identify: ORG
+Curate: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+year-long: DATE
+Oct 2017: DATE
+Build: GPE
+over 6 million: CARDINAL
+Communicate: ORG
+Training
+Bachelor of Arts: PERSON
+2013: DATE
+State: GPE
+Canada International Studies: ORG
+Google Analytics: ORG
+Social Media: ORG

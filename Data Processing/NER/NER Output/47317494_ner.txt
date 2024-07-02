@@ -1,0 +1,44 @@
+ASSISTANT CHEF
+Highlights
+: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: PRODUCT
+May 2015: DATE
+State: ORG
+Coordinated: ORG
+Communicated: ORG
+Financial Aid Office: ORG
+2013: CARDINAL
+daily: DATE
+Performed: ORG
+Bachelor of Science , Finance CPA Eligible Business: ORG
+June 2017: DATE
+Portland State University: ORG
+GPA: ORG
+3.84: CARDINAL
+GPA: ORG
+3.66: CARDINAL
+3.84: CARDINAL
+GPA: ORG
+3.66: CARDINAL
+December 2014: DATE
+Portland Community College: ORG
+City: GPE
+GPA: ORG
+3.89: CARDINAL
+3.89: CARDINAL
+List
+Languages
+Fluent: ORG
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Skills: ORG
+English: LANGUAGE
+French: NORP
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Spanish: NORP

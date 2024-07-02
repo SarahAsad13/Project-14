@@ -1,0 +1,76 @@
+DIGITAL ADVERTISING: ORG
+Digital Advertising Consultant: ORG
+07/2013: CARDINAL
+12/2017: CARDINAL
+day: DATE
+Develop: ORG
+KPI Expectations: ORG
+Search Engine Marketing (PPC: ORG
+Display Advertising: ORG
+Social Media: ORG
+Mobile Advertising: ORG
+Engineer: ORG
+04/2010: CARDINAL
+AdJuggler: PERSON
+Created: ORG
+80: CARDINAL
+QA: ORG
+1st: ORDINAL
+3rd: ORDINAL
+JavaScript: PRODUCT
+Flash: PERSON
+Videos: GPE
+Newsletters: PERSON
+daily: DATE
+AdJuggler: PERSON
+Coordinated: ORG
+AdJuggler Ad Server: PERSON
+3rd: ORDINAL
+Vindico: ORG
+MediaMind: PRODUCT
+Pointroll: PERSON
+EyeWonder: ORG
+Brightcove: GPE
+3rd: ORDINAL
+AdJuggler Ad Server: PERSON
+Request For Proposal and Insertion
+Order: WORK_OF_ART
+KPI: ORG
+Maintained: GPE
+AdJuggler Ad Server: PERSON
+Beta User and Clients of the Ad Server Platform: ORG
+the Ad Server: ORG
+03/2008: CARDINAL
+RoboForm Pro: PERSON
+Goodsync: PERSON
+Assisted Customers: ORG
+May 2007: DATE
+University of Maryland 
+: ORG
+7+ years: DATE
+DSP: ORG
+SSP: ORG
+DMP: ORG
+Ad Exchange: ORG
+Ad Network: ORG
+Highlights
+DoubleClick: FAC
+DCM & DBM: ORG
+Ad Exchanges, Demand and Supply Side: ORG
+RTB: ORG
+IAB: ORG
+SQL: PERSON
+JavaScript: ORG
+HTML5/CSS: ORG
+Skills
+Ad, Advertising: ORG
+CSS: ORG
+DBM: ORG
+Flash: PERSON
+HTML: ORG
+HTML5: PERSON
+JavaScript: ORG
+Newsletters: PERSON
+Proposal: PERSON
+QA: ORG
+SQL: ORG

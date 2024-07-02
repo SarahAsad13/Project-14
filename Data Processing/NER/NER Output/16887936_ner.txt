@@ -1,0 +1,64 @@
+Communications Specialist: PERSON
+Expert computing: PERSON
+CMS: ORG
+SharePoint: ORG
+Microsoft Office Suite
+
+Event planning
+
+Exceptional: ORG
+Print: GPE
+Donor Relations Company Name: ORG
+Research: ORG
+Identify: ORG
+Generate: PERSON
+Maintain: PRODUCT
+Design: PRODUCT
+Assist: NORP
+Monitored: ORG
+Correspond: PERSON
+Verify: LOC
+06/2013
+Coordinator: ORG
+Finance & Special Projects Company Name: ORG
+seven: CARDINAL
+Created: ORG
+Assisted: ORG
+month-end: DATE
+Maintained: GPE
+Performed W-9: ORG
+1099: DATE
+Financial Edge: ORG
+Performed: ORG
+CFO: ORG
+monthly: DATE
+Maintained: GPE
+04/2011: CARDINAL
+monthly: DATE
+Provided: ORG
+Market Research: ORG
+Development Communicated: ORG
+SupplyChain: PERSON
+Processed: GPE
+Researched: ORG
+Maintained: GPE
+01/2011: CARDINAL
+Assisted: ORG
+Twitter: PRODUCT
+firsthand: GPE
+monthly: DATE
+Maintained: GPE
+December 2008: DATE
+Mass Communications Southern University: ORG
+A&M College: ORG
+Salesforce.com: ORG
+QuickBooks
+Public Relations Software: ORG
+MTR: ORG
+CisionPoint: ORG
+iContact
+Desktop Publishing Software: ORG
+Adobe InDesign: PERSON
+Photoshop: PERSON
+Dreamweaver: GPE
+WordPress: ORG

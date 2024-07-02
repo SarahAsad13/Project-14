@@ -1,0 +1,133 @@
+EXECUTIVE CHEF
+Professional Summary: ORG
+Skills
+Work History
+Executive Chef: ORG
+daily: DATE
+500 & 4000: ORG
+Work Force Camps: WORK_OF_ART
+4: CARDINAL
+daily: DATE
+Provision & Prepare: ORG
+250: CARDINAL
+Develop: ORG
+Establish &: ORG
+Negotiate: ORG
+Oversee Food & Beverage: ORG
+weekly: DATE
+Perform/Train: ORG
+Develop: ORG
+Serve-Safe and Alcohol Service: ORG
+Direct Supervision: ORG
+Oversee all Retail: ORG
+Recipe Design/Menu Engineering: ORG
+Retail & Hospitality Maintain High: ORG
+Customer Service Business Plan Development
+Location Evaluation Management Services Menu Design & Layout Restaurant & Brewery Design Equipment: ORG
+Policies Author: ORG
+Budgeting & Financial Controls Develop: ORG
+Recipe Development/Menu Engineering: ORG
+Operations: ORG
+01/1997 to 01/2000: CARDINAL
+Procurement/Logistics for Remote Camps Contract Negotiations for Food Brokerage: ORG
+daily: DATE
+Culinary Unions: ORG
+FDA: ORG
+Alaska: GPE
+Washington: GPE
+Oregon: GPE
+Certified Food Handler: ORG
+Budget: ORG
+Franchisee of: DATE
+2 QSR: QUANTITY
+Fast Food: ORG
+Food, Labor: ORG
+18-21%: PERCENT
+30-32%: PERCENT
+& Overall: ORG
+Oversee complete Food & Beverage Operations: ORG
+175: CARDINAL
+5: CARDINAL
+annual: DATE
+Supervision of 475 Seasonal & Fulltime Staff: ORG
+Wine & Beverage: ORG
+Food Handling: ORG
+Safe Practices: PERSON
+Recipe Design/Menu Engineering Corporate Chef: ORG
+10: CARDINAL
+Merchandising: PRODUCT
+Customer Service Training for Sales Staff Overall: ORG
+37 acres: QUANTITY
+Product Sales Forecasting: ORG
+Sales Staff Training & Merchandising: ORG
+Develop Strategic Sales: PRODUCT
+weekly: DATE
+Oversee Weekly Sales Meetings & Supervision: ORG
+15: CARDINAL
+Implement and Develop Key Performance: ORG
+Culinary Divisions: ORG
+Create & Develop Sales Incentive Programs Primary Organizer for Community & Catering/Banquet Events: ORG
+Implement Bi-Annual Sales Retreats: PERSON
+Route Sales: FAC
+Food Service Associates)Castile Trucking: ORG
+The Shanghai CafÃ: ORG
+Tai-Tung: PERSON
+Four-
+Seas: PERSON
+Alaska Sightseeing Cruise West: WORK_OF_ART
+Chili's of Westminster: ORG
+The Gallery Restaurant & Lounge: ORG
+2 Locations: CARDINAL
+The Quality Hotel Tacoma Dome: ORG
+Crown Pacific Inn: ORG
+Ernst Home Centers: ORG
+Paul: PERSON
+Mt Baker Vineyards &: ORG
+Restaurant & Lounge: ORG
+Education: ORG
+Shanghai Province: GPE
+Peoples Republic of China: GPE
+Hospitality Management
+B.P.S : Culinary Management: ORG
+Culinary Management
+Accomplishments: ORG
+U.S.: GPE
+Naval Culinary Training: FAC
+USNTC: ORG
+San Diego: GPE
+Ca: GPE
+USS Esteem: PRODUCT
+US: GPE
+Naval Culinary Team: ORG
+1977-1980: DATE
+Owner: ORG
+Rossellini: GPE
+410: CARDINAL
+Seattle: GPE
+Washington Internship-Trotter's: ORG
+Chicago: GPE
+Illinois: GPE
+AFFILIATIONS American Culinary Federation: ORG
+234185: MONEY
+7361161: MONEY
+USDA: ORG
+FDA: ORG
+Alaska: GPE
+Washington: GPE
+Oregon Food Handler's: ORG
+National Restaurant Assoc: ORG
+Pro-Start Mentor/Coach NSTC Certification: ORG
+CPR & AED: ORG
+TWIC: ORG
+FAA Security Clearance: ORG
+Merchant Mariner's: ORG
+Documents- United States Coast Guard: ORG
+Budgeting, Budget: ORG
+Customer Service
+Training: ORG
+Fast, Financial: ORG
+Layout: GPE
+Meetings: GPE
+Organizer: PERSON
+Policies: GPE
+Retail: PERSON

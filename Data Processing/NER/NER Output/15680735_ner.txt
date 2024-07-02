@@ -1,0 +1,190 @@
+DIRECTOR: ORG
+CLINICAL RESEARCH OPERATIONS & MEDICAL SCIENCE LIAISON: ORG
+18 years: DATE
+Name City: GPE
+State: ORG
+Clinical Research Operations & Medical: ORG
+30: CARDINAL
+annually: DATE
+30k: DATE
+120: CARDINAL
+first 12 months: DATE
+1%: PERCENT
+Europe: LOC
+The United States: GPE
+Schizophrenia, Bipolar, & Depression: ORG
+2013 & 2014: DATE
+monthly: DATE
+300%: PERCENT
+California: GPE
+200%: PERCENT
+2013 & 2014: DATE
+45%: PERCENT
+140: CARDINAL
+first: ORDINAL
+24 months: DATE
+Physician: NORP
+17k: CARDINAL
+300k: PRODUCT
+18 months: DATE
+1000%: PERCENT
+Name City: GPE
+State Sales/Business Development: ORG
+3: CARDINAL
+24 months: DATE
+Canadian: NORP
+36 month: DATE
+80M.: MONEY
+60: CARDINAL
+Canadian: NORP
+May 2013: DATE
+CITrials: ORG
+Clinical Research Operations: ORG
+February 2013: DATE
+Name City: GPE
+State: ORG
+annual: DATE
+60%.to $7M: MONEY
+2009: DATE
+PD: LOC
+PD: GPE
+2009: DATE
+124%: PERCENT
+2009: DATE
+Peak: PERSON
+100%: PERCENT
+$5M: MONEY
+annual: DATE
+2008: DATE
+1: MONEY
+2009: DATE
+Joined Bio-Synergy Partners: PERSON
+LLC: ORG
+January 2010: DATE
+Name City: GPE
+State Account Executive: ORG
+Baxter: PERSON
+Nephrologists: GPE
+Renal: ORG
+Conducted: ORG
+Kidney Disease: PERSON
+Managed Baxter's: PERSON
+5: CARDINAL
+annual: DATE
+2.3: CARDINAL
+60%: PERCENT
+University: ORG
+180%: PERCENT
+Upsold: ORG
+400k: MONEY
+Grew: PERSON
+70%: PERCENT
+35: CARDINAL
+50: CARDINAL
+first 18 months: DATE
+San Diego: GPE
+CA: WORK_OF_ART
+January 2006: DATE
+1%: PERCENT
+65: CARDINAL
+the United States: GPE
+Name City: GPE
+State Financial Consultant/Sales Trainer: ORG
+monthly: DATE
+45%: PERCENT
+4: CARDINAL
+18 months: DATE
+Maintained: GPE
+85%: PERCENT
+Trained 75: CARDINAL
+Baxter Healthcare: ORG
+Account Executive: ORG
+Name City: GPE
+State Senior Institutional Healthcare Representative: ORG
+02/2002: ORDINAL
+Tikosyn: PERSON
+Viagra: PERSON
+Diflucan: GPE
+Zithromax
+
+: PERSON
+six: CARDINAL
+6: CARDINAL
+$3M: MONEY
+12 months: DATE
+100%: PERCENT
+2001: DATE
+annual: DATE
+119%: PERCENT
+Pfizer: ORG
+Increased Government: ORG
+72%: PERCENT
+12 months: DATE
+250K.: CARDINAL
+Southwest Region: LOC
+Tikosyn: PERSON
+400: MONEY
+207%: PERCENT
+2001: DATE
+Recruited By World Financial Group: WORK_OF_ART
+Financial Sales Team: ORG
+Salt Lake City: GPE
+Name City: GPE
+State Institutional Healthcare Representative: ORG
+Trovan: NORP
+Zoloft: PERSON
+Diflucan: GPE
+Zithromax: GPE
+Southwest: LOC
+1.7M: CARDINAL
+2000: DATE
+159%: PERCENT
+Produced 1.3M: WORK_OF_ART
+1999: DATE
+125%: PERCENT
+10%: PERCENT
+antifungal: DATE
+1.5: CARDINAL
+Promoted: ORG
+August 2000: DATE
+Senior Institutional Healthcare Representative: ORG
+Pfizer: ORG
+Utah: GPE
+Name City: GPE
+State Professional Healthcare Representative: ORG
+Glucotrol XL: PERSON
+Zyrtec: GPE
+Cardura: GPE
+Trovan: NORP
+Diflucan: NORP
+Ranked in Top: WORK_OF_ART
+5%: PERCENT
+45: CARDINAL
+the Powers Division: ORG
+165%: PERCENT
+1996: DATE
+420: MONEY
+formulary: ORDINAL
+Tucson Medical Center & VA: ORG
+2: CARDINAL
+Exceeds Expectations: WORK_OF_ART
+Institutional Healthcare Representative
+
+Education
+Masters of Science : Clinical & Counseling Psychology: ORG
+City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+Summa Cum Laude: PERSON
+Summa Cum Laude: PERSON
+1994: DATE
+Brigham Young University: ORG
+State: GPE
+United States: GPE
+English: LANGUAGE
+V.P. Student Government
+
+: ORG
+Bilingual: GPE
+Spanish: LANGUAGE

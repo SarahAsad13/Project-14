@@ -1,0 +1,74 @@
+The Arts Project: WORK_OF_ART
+weekly: DATE
+10: CARDINAL
+CPS: ORG
+The Arts Project: ORG
+weekly: DATE
+20-50: CARDINAL
+Tailored: PERSON
+DBT: ORG
+CBT: ORG
+Stress Reduction) Produced & administered usability: ORG
+08/2014
+MENTOR SUPERVISION TEAM LEADER & SUPERVISOR City: ORG
+more than 50: CARDINAL
+Conducted: ORG
+8: CARDINAL
+weekly: DATE
+6: CARDINAL
+50-: CARDINAL
+60: CARDINAL
+PSY-305: ORG
+four: CARDINAL
+Head Teaching: WORK_OF_ART
+2013: DATE
+Training
+Present
+MASTER OF SCIENCE: WORK_OF_ART
+GPA: ORG
+3.70: CARDINAL
+3.70: CARDINAL
+2012: DATE
+BACHELOR OF ARTS : General Psychology Human Development DePaul University: ORG
+GPA: ORG
+3.51: CARDINAL
+Dean: PERSON
+6: CARDINAL
+General Psychology Human Development: ORG
+3.51: CARDINAL
+Dean: PERSON
+6: CARDINAL
+2013: DATE
+Certificate: ORG
+Interests: NORP
+2011 - 2012: DATE
+Child Life Volunteer - Children's Memorial Hospital Chicago: LAW
+2009 - 2009: DATE
+Volunteer - Hearts: PERSON
+West Michigan: GPE
+United Way Grand Rapids: ORG
+Volunteer - Kent County: PERSON
+Volunteer - SpringHill Camps Evart: PRODUCT
+MI
+Personal Information
+COMMUNITY LIVING SUPPORT PERSON MOKA Western: ORG
+Michigan: GPE
+2008: DATE
+Prompted &: ORG
+Michigan: GPE
+2008: DATE
+Prompted &: ORG
+VOLUNTEER: ORG
+2011 - 2012: DATE
+Child Life Volunteer - Children's Memorial Hospital Chicago: LAW
+2009 -
+: DATE
+2009: DATE
+United Way Volunteer - Hearts of: EVENT
+Grand Rapids: GPE
+Volunteer - Kent County: PERSON
+Animal Shelter Grand Rapids: WORK_OF_ART
+Arts: ORG
+International Business: ORG
+Latin: NORP
+Mentor: GPE

@@ -1,0 +1,20 @@
+Detail: PERSON
+Customer: ORG
+Microsoft Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+Assistant Intern: PERSON
+February 2016 - March 2016 City: DATE
+Verify I-9: PERSON
+Submit: ORG
+Update: ORG
+August 2012 - Current City: DATE
+October 2004 - May 2013 City: DATE
+Training
+Bachelors: PERSON
+Cleveland State University: ORG
+April 2018: DATE
+April, 2016: DATE
+EMT Certification Cuyahoga Community College: ORG
+2003: DATE
+Skills: ORG

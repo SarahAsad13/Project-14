@@ -1,0 +1,44 @@
+daily: DATE
+daily: DATE
+Microsoft Office: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Constant Contact: PERSON
+Technology Management: ORG
+Quick: ORG
+Microsoft Office: ORG
+24 months: DATE
+20: CARDINAL
+Name City: GPE
+Answer: ORG
+Warehouse Clerks: PERSON
+Pick: PERSON
+Delivery
+Managers: PRODUCT
+Submit: NORP
+Prepare: ORG
+Distribute: ORG
+Stamp: WORK_OF_ART
+COD: ORG
+Coordinate: FAC
+10,000: MONEY
+02/2011 Company Name City: ORG
+Collaborated: ORG
+Name City: GPE
+Maintained: GPE
+more than $25,000 dollars: MONEY
+Name City: GPE
+Bachelor of Science : Technology Management EASTERN MICHIGAN UNIVERSITY City: ORG
+State Technology Management
+Administrative and Information Management 2010: ORG
+FORD COMMUNITY: ORG
+State
+Office Administration: ORG
+Coursework in Administrative Technology: ORG
+Office Administration: ORG
+Office Skills: ORG
+Pick: PERSON
+Research: ORG
+Supervision: ORG
+Answer: ORG

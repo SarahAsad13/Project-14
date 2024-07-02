@@ -1,0 +1,80 @@
+BUSINESS DEVELOPMENT
+Career Overview: ORG
+Detail: PERSON
+Technical Skills: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PP: NORP
+Google - Analytics: ORG
+10+
+
+2016
+2016: DATE
+2014: DATE
+2014: DATE
+Quality Control Â 
+
+: ORG
+10%: PERCENT
+Operational Management Â 
+
+Identified: ORG
+SQL: ORG
+IVR: ORG
+Interface Â 
+
+: PERSON
+Current
+Business Development Company Name: ORG
+one: CARDINAL
+CRM: PRODUCT
+KPI: ORG
+Oversee: ORG
+day: DATE
+12/2014: CARDINAL
+SQL: ORG
+Live Chat: LOC
+Wazagua: GPE
+SQL: ORG
+The Zellman Group: ORG
+day: DATE
+05/2012: CARDINAL
+Sales & Service Specialist Company Name: ORG
+#1: MONEY
+20%-27%: PERCENT
+weekly: DATE
+7%: PERCENT
+quarterly: DATE
+approximately 10%: PERCENT
+the TOS Development Program: ORG
+the Signature Series: EVENT
+04/2012: CARDINAL
+daily: DATE
+hourly: TIME
+daily: DATE
+Developed a Sales and Service: ORG
+year-to-date: DATE
+Improved Key Performance Indicators: ORG
+IPC: ORG
++32%: PERCENT
+SPH: ORG
+Facilitate: ORG
+Oversee: ORG
+every 2 weeks: DATE
+2010: DATE
+Bachelor of Arts: ORG
+State: GPE
+USA: GPE
+LEG: ORG
+legislation)-Schick
+Resident Safety Program: ORG
+Telefund: GPE
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Google: ORG
+SQL: ORG
+Strategic: PERSON
+65: CARDINAL
+Advertising, Budget planning: ORG
+Content Management: ORG

@@ -1,0 +1,163 @@
+BUSINESS DEVELOPMENT
+Executive Profile: ORG
+my seventeen years: DATE
+five years: DATE
+six years: DATE
+Visio Financial Services: ORG
+Core Accomplishments
+
+Sales and Marketing
+
+Increased: ORG
+112%: PERCENT
+12 months: DATE
+Austin: GPE
+20% to 70%: PERCENT
+Atlanta: GPE
+12 months: DATE
+23: CARDINAL
+U.S.: GPE
+23: CARDINAL
+U.S.: GPE
+23: CARDINAL
+U.S.: GPE
+Business Development: ORG
+Name City: GPE
+State: ORG
+Washington: GPE
+DC: GPE
+Miami: GPE
+Knoxville: GPE
+Minneapolis: GPE
+Dallas: GPE
+Austin: GPE
+San Antonio: GPE
+Tulsa: GPE
+Los
+Angeles: GPE
+Phoenix: GPE
+Orlando: GPE
+Denver: GPE
+Tucson: GPE
+Houston: GPE
+New Orleans: GPE
+Biloxi: GPE
+New York City: GPE
+Indianapolis: GPE
+Birmingham: GPE
+Nashville: GPE
+Sacramento: GPE
+Modesto: GPE
+Fresno: GPE
+Miami: GPE
+Miami: GPE
+17: CARDINAL
+38: CARDINAL
+PowerPoint: ORG
+Minneapolis: GPE
+Austin: PERSON
+under 12 months: DATE
+San Antonio: GPE
+Waco: GPE
+Dallas: GPE
+Denver: GPE
+Denver: GPE
+200: CARDINAL
+only 8: CARDINAL
+monthly: DATE
+three months: DATE
+8: CARDINAL
+90: CARDINAL
+Business Development/Political Relations: ORG
+North Carlolina: GPE
+South Carolina: GPE
+Georgia: GPE
+only three months: DATE
+Augusta: GPE
+Georgia: GPE
+Business Development: ORG
+North
+Carolina: GPE
+South Carolina: GPE
+Georgia: GPE
+three: CARDINAL
+Atlanta: GPE
+Charlotte: GPE
+90%: PERCENT
+three: CARDINAL
+100%: PERCENT
+Atlanta: GPE
+Atlanta: GPE
+Coca-Cola: ORG
+Georgia Pacific: ORG
+Cousins Properties: ORG
+Rollins: PERSON
+Orkin Pest Control: ORG
+Equifax: ORG
+Synovus Banks: ORG
+Georgia Power: ORG
+Shirley
+Franklin: FAC
+Atlanta: GPE
+Franklin: ORG
+first: ORDINAL
+Atlanta: GPE
+first: ORDINAL
+African-American: NORP
+South: LOC
+Denise Majette: PERSON
+Atlanta: GPE
+United States: ORG
+Cynthia McKinney: PERSON
+first: ORDINAL
+Hispanic: NORP
+the Georgia State Senate: ORG
+first: ORDINAL
+Hispanic: NORP
+the Georgia House of Representatives: ORG
+Tradd Street: FAC
+Charleston: GPE
+South Carolina: GPE
+the decade: DATE
+1980: DATE
+the Preservation
+Society of Charleston: ORG
+Firestone Automotive: ORG
+Tire Stores: ORG
+Transworld Systems: ORG
+Education: ORG
+Bachelor of Arts: ORG
+English 1991: EVENT
+Charleston Southern University City: ORG
+English: LANGUAGE
+15-18 hours: TIME
+weekly: DATE
+2014: DATE
+Dale Carnegie University City: ORG
+State: GPE
+US: GPE
+Diplomacy and Tact - Emphasis: ORG
+10 Day Spanish Immersion: DATE
+Dartmouth University City: ORG
+State: GPE
+US: GPE
+10-day: DATE
+Spanish: LANGUAGE
+the Rassias Foundation: ORG
+Dartmouth University: ORG
+Skills
+
+Business Development: ORG
+Cold Calling: ORG
+Â Relationship Building, Marketing, Market Research: ORG
+Various CRM: PERSON
+Salesforce, Salespoint: ORG
+ZOHO: ORG
+Outlook: PERSON
+Complaint Resolution: ORG
+Cabinets, Sales,: ORG
+Directing Large Teams: ORG
+Motivating Team Members: ORG
+Identifying and Capturing New Markets: ORG
+Critical Thinking: ORG
+Budget Development and Forecasting: ORG

@@ -1,0 +1,70 @@
+Committed HR Professional: ORG
+around 3.5 years: DATE
+HRD/Administration: ORG
+Recruitment & Selection: ORG
+Performance Management System: ORG
+MIS & HRIS: ORG
+Employee Master, Training & Development: ORG
+MS Word: PERSON
+MS Excel: ORG
+MS Power: ORG
+HRMS: ORG
+Mar 2008: DATE
+Jun 2010: PERSON
+Recruitment Specifications: ORG
+Interviews: ORG
+Salary: DATE
+Performance Management System: ORG
+Performance Appraisal Forms: WORK_OF_ART
+the Competency Framework: FAC
+PMS Awareness: ORG
+Performance Appraisal Forms: WORK_OF_ART
+Appraisal: PERSON
+the Grading & Percentage
+
+Accountable for MIS: ORG
+HRIS: PERSON
+Employee Master : Â 
+
+Making: WORK_OF_ART
+Performance Appraisal: LOC
+Arranging internal &: ORG
+OJT: ORG
+Leave & Attendance:
+
+Collection: ORG
+TDS Deductions: ORG
+HRIS: PERSON
+Greytip: GPE
+ISO: ORG
+ISO: ORG
+ISO 9001:2000 Exit: ORG
+Management Trainee: PERSON
+QA Aug: PERSON
+2007: DATE
+2007: DATE
+ISO 9001:2000: ORG
+QMS Induction: ORG
+Arrange: PERSON
+Software Development Life Cycle: ORG
+Coordinator Nov 2006: PERSON
+2007: DATE
+Department: ORG
+HRIS: ORG
+ISO, Recruitment: ORG
+Entry & Exit
+
+Education: ORG
+MBA: WORK_OF_ART
+Bhadruka Collage: PERSON
+State: GPE
+India: GPE
+2003: DATE
+State: GPE
+India: GPE
+English: LANGUAGE
+English: NORP
+Spanish: NORP
+September 28th , 1982: DATE
+Indian: NORP
+EAD: ORG

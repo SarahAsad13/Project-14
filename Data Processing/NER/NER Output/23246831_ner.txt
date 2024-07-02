@@ -1,0 +1,35 @@
+Detail: PERSON
+11+ years: DATE
+Problem: PRODUCT
+Microsoft Office: ORG
+Data Organization Â 
+
+Improved: ORG
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+01/2011 to 01/2012: CARDINAL
+Billing Accountant Company Name: ORG
+State
+
+Cross: ORG
+Excel: PRODUCT
+100%: PERCENT
+18: CARDINAL
+01/2011: CARDINAL
+Maintenance: ORG
+Assist: ORG
+01/2000: CARDINAL
+Billing Specialist Company Name: ORG
+monthly: DATE
+Assist: NORP
+01/1999: CARDINAL
+01/2000: CARDINAL
+Billing Administrator Company Name: ORG
+Validates: GPE
+Business Administration Belize America Business Administration: ORG
+Filing: GPE
+Works: PERSON
+Processes: PERSON
+Maintain: PERSON
+Research: ORG

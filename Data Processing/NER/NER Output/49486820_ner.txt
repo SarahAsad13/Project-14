@@ -1,0 +1,58 @@
+Career Overview
+Customer Service Representative: WORK_OF_ART
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Office Publisher: ORG
+Loan Servicing Systems: ORG
+MSP: ORG
+Lexis Nexis: PERSON
+Westlaw: PERSON
+CRM Selling System
+Citrix: WORK_OF_ART
+Encoder Pro: PERSON
+March 2015: DATE
+Seasoned: PRODUCT
+Sharp: ORG
+Customer: ORG
+first: ORDINAL
+Answers: PRODUCT
+Intervene: PERSON
+Research: ORG
+first: ORDINAL
+Research: ORG
+Online Customer Service: ORG
+Aerotek Contractor: PERSON
+December 2014 to February 2015: DATE
+Customer Service: ORG
+September 2013 to April 2014: DATE
+Xerox Corporation Provide: PERSON
+Provided Services for Wellpoint Insurance: ORG
+Researched: ORG
+ICD-9, CPT & Diagnosis: ORG
+Encoder Pro: NORP
+MedPolicy: ORG
+Representative/Holistic Health: ORG
+March 2011 to December 2014: DATE
+over thirty thousand dollars: MONEY
+first six months: DATE
+nine: CARDINAL
+Conducted: ORG
+weekly: DATE
+Collaborated: ORG
+Logged: ORG
+Mortgage Insurance Customer Service: ORG
+June 2008 to June 2011 Company Name - City: DATE
+SME: ORG
+Wells Fargo: ORG
+Maintained: GPE
+Paralegal Colorado Technical University Coursework: ORG
+Â Consulting
+Customer Service: ORG
+MS Excel: ORG
+Â MS Office: ORG
+Outlook: PERSON
+MS PowerPoint: PERSON
+MS Word: PERSON
+Medical Billing: ORG
+ICD-10Â 
+Mortgage: ORG

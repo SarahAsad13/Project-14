@@ -1,0 +1,149 @@
+Highlights
+
+Microsoft Office: ORG
+Excel: PRODUCT
+Outlook, Powerpoint: ORG
+Vista: ORG
+CPR/Combat Lifesaver Intermediate
+
+Experience: ORG
+June 1999: DATE
+Current Company Name: ORG
+September 2006 Company Name ï¼​ City: DATE
+54,000: MONEY
+40: CARDINAL
+Army Aviation: ORG
+6: CARDINAL
+23: CARDINAL
+Compile: PRODUCT
+two: CARDINAL
+Nebraska: GPE
+Insures: ORG
+monthly: DATE
+STANFINS: ORG
+State Aviation Officer: ORG
+fiscal year: DATE
+flight hours: TIME
+between 99.9-100%: CARDINAL
+every fiscal year: DATE
+over $3.5M: MONEY
+3: CARDINAL
+17: CARDINAL
+Utilized the Logistics Modernization Program: ORG
+LMP: ORG
+Created: ORG
+Compiles: PRODUCT
+Adobe: ORG
+Microsoft: ORG
+4610: CARDINAL
+Grand Island: GPE
+KIRS Key control Program: ORG
+PRweb: ORG
+Monthly Obligation Plans: EVENT
+AFTPs: ORG
+DFAS 37-100-2008: LAW
+Assists State Aviation Safety Officers: ORG
+Colorado: GPE
+Utah: GPE
+Minnesota: GPE
+COMSEC: ORG
+Quality Control: ORG
+Insures: ORG
+Guides: PERSON
+UHF: ORG
+VHF: ORG
+KY-58: GPE
+KIT-1C: GPE
+Sincgars: PERSON
+Doppler: PERSON
+AFCS System: ORG
+VOR: ORG
+IFF: ORG
+CIS: ORG
+Night Vision Goggles: ORG
+Utilizes Integrated Family Test Equipment: ORG
+IFTE: ORG
+Built In Test Equipment: ORG
+Detail: PERSON
+May 1998: DATE
+Current Company Name
+
+Grade Level: ORG
+$300/month: MONEY
+Quality Assurance/Technical Inspector: ORG
+24: CARDINAL
+UH-60A Blackhawk: PRODUCT
+14: CARDINAL
+Microsoft: ORG
+Battalion: ORG
+Utilized: ORG
+Compiles: PRODUCT
+Troop: ORG
+Microsoft: ORG
+Furnishes: PERSON
+Standard Operating Procedures: ORG
+seven: CARDINAL
+Initiates: ORG
+Technical Manuals: ORG
+Installs: GPE
+COMSEC: ORG
+Ensures: LOC
+Insures: ORG
+Guides: PERSON
+Checks: ORG
+UHF: ORG
+VHF: ORG
+KY-58: GPE
+KIT-1C: GPE
+Sincgars: PERSON
+Doppler: PERSON
+AFCS System: ORG
+VOR: ORG
+IFF: ORG
+CIS: ORG
+Night Vision Goggles: ORG
+Utilizes Integrated Family Test Equipment: ORG
+IFTE: ORG
+Built In Test Equipment: ORG
+Detail: PERSON
+E-7: PRODUCT
+18 month: DATE
+Iraq: GPE
+Good Conduct Medal: PERSON
+The Bronze Star Medal: ORG
+US: GPE
+May 1997: DATE
+Malcolm High School: ORG
+Aeronautical Engineering Embry-Riddle Aeronautical University: ORG
+State Aeronautical Engineering: ORG
+MBA
+Additional Information
+
+Top Secret Security Clearance: WORK_OF_ART
+TSCI: ORG
+FCC License: PERSON
+Adobe, Army: ORG
+C++: PERSON
+CPR: ORG
+Detail: PERSON
+GPS: ORG
+Inspect: GPE
+Logistics: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+Microsoft: ORG
+Powerpoint: ORG
+Windows: GPE
+Windows XP: ORG
+Word: PERSON
+Quality Control, Quality Assurance: ORG
+Safety, FM: ORG
+SOP: ORG
+Technical Manuals: ORG
+Test Equipment: ORG
+UHF: ORG
+VHF: ORG
+Vision: ORG
+Vista: ORG

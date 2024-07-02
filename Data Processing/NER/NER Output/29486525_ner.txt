@@ -1,0 +1,29 @@
+27.5 years: DATE
+Texas: GPE
+Texas: GPE
+Flexible and adaptable
+Experience
+Teacher: WORK_OF_ART
+August 1994 to June 2014: DATE
+each month: DATE
+the Site Base Committee: ORG
+Communicated: ORG
+Maintained: GPE
+August 1987 to July 1993: DATE
+1 to 5: CARDINAL
+Maintained: GPE
+Chemistry: PERSON
+August 1985 to June 1986 Company Name
+
+: DATE
+15 to 25: CARDINAL
+Communicated: ORG
+Maintained: GPE
+Mathematics Teacher: PERSON
+September 2014 to December 2014: DATE
+10 to 22: CARDINAL
+Maintained: GPE
+Bachelor of Science : Chemistry: ORG
+1985: DATE
+University of Montevallo ï¼​ City: ORG
+State Chemistry: ORG

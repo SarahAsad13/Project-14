@@ -1,0 +1,65 @@
+Certified Human Resources Professional: ORG
+15 years: DATE
+State: ORG
+Highlights
+
+Training: WORK_OF_ART
+Instituted Performance Management: ORG
+Supported Company: ORG
+CFRA: ORG
+ADAAA: ORG
+July 2014 to December 2014: DATE
+40,000: CARDINAL
+ADAAA: ORG
+LOA: ORG
+August 2008 to June 2014 Company Name ï¼​ City: DATE
+State: ORG
+monthly: DATE
+weekly: DATE
+Time: ORG
+Utilized HR Metrics: ORG
+Human Capital
+Management: ORG
+ER: ORG
+April 2007 to April 2008: DATE
+SME: ORG
+Leaves of Absences: ORG
+Workers Compensation: ORG
+January 2003 to January 2007: DATE
+3: CARDINAL
+Southern California: LOC
+600: CARDINAL
+LOA: ORG
+CFRA: ORG
+State: ORG
+VP: GPE
+EDD: ORG
+FEHA: PRODUCT
+100%: PERCENT
+Working: ORG
+Oracle HR: ORG
+hourly: TIME
+Calculated: ORG
+quarterly: DATE
+annual: DATE
+Maintained: GPE
+Conducted New Hire: ORG
+Sexual Harassment Prevention: WORK_OF_ART
+50%: PERCENT
+Maintained: GPE
+WC: ORG
+OSHA: ORG
+January 2000 to January 2001: DATE
+State: ORG
+Education: ORG
+B.S. :: ORG
+Pharmacology University of Dundee: ORG
+B.S.: GPE
+Pharmacology, University of Dundee: ORG
+Scotland: GPE
+SHRM-SCP - Senior Certified Professional
+
+Professional Affiliations
+: ORG
+Society of Human Resources Managers: ORG
+PIHRA: ORG

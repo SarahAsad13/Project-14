@@ -1,0 +1,82 @@
+Software: PERSON
+MAC: ORG
+Microsoft: ORG
+Microsoft: ORG
+Excel: PRODUCT
+OneNote: ORG
+PowerPoint: ORG
+Photoshop: ORG
+MAC: ORG
+Microsoft: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Time: ORG
+Strong: PERSON
+quarterly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Name City: GPE
+State Park Operations Hostess 09/2014: ORG
+Perform: ORG
+hourly: TIME
+Assist: NORP
+Name City: GPE
+10/2014: CARDINAL
+Sharyn McCrumb: PERSON
+New York Times Bestselling Author: ORG
+Name City: GPE
+State: ORG
+Created: ORG
+Pitched: GPE
+Built: ORG
+Oversaw: GPE
+Achievement: PERSON
+Name City: GPE
+Name City: GPE
+State: ORG
+Bachelor of Arts: ORG
+English: NORP
+2010: DATE
+Roanoke College: ORG
+City: GPE
+State: GPE
+United States: GPE
+GPA: ORG
+Cum Laude Graduate Cum Laude: PERSON
+Cum Laude English: PERSON
+Cum Laude: PERSON
+North Cross School: ORG
+CPR: ORG
+AED: ORG
+First Aid: ORG
+the American Red Cross: ORG
+Interests: NORP
+Shakespeare Monologue: PERSON
+Spanish: LANGUAGE
+French: NORP
+Spanish: LANGUAGE
+Professional Affiliations: ORG
+Sigma Tau Delta International: ORG
+Kappa Delta Pi: PERSON
+2010-2011: DATE
+Roanoke College Peace: ORG
+Ruritan Club (Catawba Chapter: ORG
+January 2004-May 2010: DATE
+Skills: ORG
+CPR: ORG
+First Aid: ORG
+French: NORP
+MAC: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft Word: PERSON
+Publicist: ORG
+Spanish: LANGUAGE
+Spanish: LANGUAGE
+Author
+Additional Information
+
+Honours: ORG
+Activities 2006 Regional Champion: ORG
+Shakespeare Monologue: PERSON

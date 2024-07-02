@@ -1,0 +1,88 @@
+Career Overview
+
+Dedicated Service Representative Professional: WORK_OF_ART
+Core Strengths
+Excel: WORK_OF_ART
+Data: ORG
+Outlook: PERSON
+Microsoft: ORG
+Live Support: LOC
+State
+
+Health insurance/Benefit Specialist Administrative Xerox Corporation - Xerox: ORG
+BPO: ORG
+Thousands: CARDINAL
+Xerox: ORG
+Medicare: ORG
+Medicare: ORG
+Medicare: ORG
+Educate: ORG
+1099R: DATE
+minutes: TIME
+Significant Achievement Received Certificate: PERSON
+$7.6 million: MONEY
+4: CARDINAL
+Claims Representative 08/2001: ORG
+Name City: GPE
+State: ORG
+Performed: ORG
+Amerigroup: ORG
+Medicaid: ORG
+the Customer Service Department: ORG
+Name City: GPE
+State
+
+Amerigroup Corporation Reporting: ORG
+Directors: PERSON
+VP/GM: ORG
+Directors: PERSON
+VP/GM: ORG
+Screened: ORG
+Maintained: GPE
+Coordinated: ORG
+minutes: TIME
+Collates: GPE
+Utilized: ORG
+Researched: ORG
+Created: ORG
+Name City: GPE
+The Signature Group: ORG
+The Signature Group: ORG
+$870 million: MONEY
+America: GPE
+Consumers Car Club: ORG
+1987: DATE
+Center: ORG
+the Outbound Unit: ORG
+the Human Resources Dept: ORG
+Name City: GPE
+the Better Business Bureau: ORG
+more than 90%: PERCENT
+Maintained: GPE
+the Better Business Bureau: ORG
+Significant Achievements: PERSON
+over 350: CARDINAL
+a month: DATE
+95%: PERCENT
+Name City: GPE
+1981: DATE
+LaGuardia Community College Applied Science Secretarial Science
+Tidewater Community College: ORG
+Interests
+Church of God: ORG
+Ebenezer: PERSON
+- Church: ORG
+Bookkeeper: GPE
+English: LANGUAGE
+Spanish: NORP
+Skills
+Administrative: ORG
+Customer Service: ORG
+English: LANGUAGE
+Human Resources, Insurance: ORG
+Access, Excel: ORG
+Outlook: PERSON
+Spanish: NORP
+Ebenezer: PERSON
+Church: ORG
+Church Bookkeeper: ORG

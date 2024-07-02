@@ -1,0 +1,105 @@
+Accomplished Business Development: ORG
+7 years: DATE
+Bentley University: ORG
+Education: ORG
+December 2012: DATE
+Bentley University Finance Extensive: ORG
+WACC: ORG
+CAPM: ORG
+May 2011: DATE
+Cum Laude Economics & Finance: ORG
+01/2016: ORG
+PQX: ORG
+PQX: ORG
+six: CARDINAL
+Raised: GPE
+500k: MONEY
+China: GPE
+PQX: ORG
+up to $8,500: MONEY
+Centralized: ORG
+CRM: PRODUCT
+Evoke Neurosciences: ORG
+EEG: ORG
+100: CARDINAL
+the National Institue on Drug Abuse: ORG
+NIDA: ORG
+one: CARDINAL
+10: CARDINAL
+NIDA: ORG
+06/2012: CARDINAL
+01/2016
+: PERSON
+Co-Founder VP of Business Development Company Name: ORG
+State: ORG
+LSN: ORG
+5,000: CARDINAL
+90-day: DATE
+LSN: ORG
+$4M: MONEY
+2016: DATE
+2015: DATE
+LSN: ORG
+Boston Innovation Capital: ORG
+between $5M - $: MONEY
+20M.: MONEY
+Oversee: ORG
+Grew: PERSON
+LSN: ORG
+22: CARDINAL
+7: CARDINAL
+6: CARDINAL
+4: CARDINAL
+2: CARDINAL
+Created: ORG
+twelve: CARDINAL
+LSN: ORG
+over $1M: MONEY
+Big Pharma: LOC
+thirty-four: CARDINAL
+EIP Pharma, Hsiri Therapeutics: ORG
+JB Therapeutics: PERSON
+Corbus Pharma: PERSON
+over 1,000: CARDINAL
+Abpro: ORG
+Abpro: ORG
+Abpro: ORG
+HTP: ORG
+GPCR: ORG
+100%: PERCENT
+$1.6M: MONEY
+700,000: MONEY
+2010: DATE
+2011: DATE
+$4.0M: MONEY
+2012: DATE
+$3.4M: MONEY
+first: ORDINAL
+30%: PERCENT
+three-hundred: CARDINAL
+100,000: CARDINAL
+Interests: NORP
+14 years: DATE
+London: GPE
+6 years: DATE
+Colombia: GPE
+5 years: DATE
+China: GPE
+2 years: DATE
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+CRM: PRODUCT
+English: LANGUAGE
+Speaker: ORG
+Spanish: LANGUAGE
+Additional Information
+
+International Experience: USA: ORG
+14 years: DATE
+London: GPE
+6 years: DATE
+Colombia: GPE
+5 years: DATE
+China: GPE
+2 years: DATE

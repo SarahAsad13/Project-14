@@ -1,0 +1,89 @@
+fifteen years: DATE
+Highlights
+
+School Writing Department Chair: ORG
+10 years: DATE
+Georgia Milestone: ORG
+Critical: PRODUCT
+85%: PERCENT
+2014-2015: DATE
+C.R.C.T.: GPE
+2014-2015: DATE
+100%: PERCENT
+5th: ORDINAL
+Hutchinson Elementary: ORG
+95%: PERCENT
+Georgia Writing: ORG
+2013-2014: DATE
+Common Core Standards: ORG
+Georgia: GPE
+Created: ORG
+Our Squad: WORK_OF_ART
+January 2011: DATE
+sixty 5th: CARDINAL
+Reading and Language Arts: WORK_OF_ART
+2014 - 2015: DATE
+Common Core: WORK_OF_ART
+Promethean: NORP
+Study Island: LOC
+Common Core Standards: ORG
+Georgia: GPE
+January 2008 to January 2010: DATE
+4th: ORDINAL
+C: PERSON
+Created: ORG
+daily: DATE
+January 2007 to January 2008: DATE
+4th: ORDINAL
+Mathematics: NORP
+Promethean Board: ORG
+Academy: ORG
+January 2005 to January 2007: DATE
+weekly: DATE
+Created: ORG
+Shared: ORG
+Coordinated: PRODUCT
+January 2001 to January 2005: DATE
+five: CARDINAL
+8th: ORDINAL
+Reading and Social Studies: ORG
+January 1998 to January 2001: DATE
+January 1996 to January 1998: DATE
+eighth: CARDINAL
+Science: ORG
+Michigan M.E.A.P.
+Review Course: ORG
+20%: PERCENT
+40%: PERCENT
+1997-1998 school year: DATE
+Master of Education: WORK_OF_ART
+2007: DATE
+Marygrove College: ORG
+1996: DATE
+Tennessee State University: ORG
+Georgia Teaching Certifications: ORG
+P-5),: LAW
+4-8): DATE
+Social Science: ORG
+4-8): DATE
+English Language Arts: WORK_OF_ART
+4-8): DATE
+1570: DATE
+Mentoring Young Boys: A Community Effort: WORK_OF_ART
+2009: DATE
+Atlanta: GPE
+Georgia: GPE
+Building Relationships: African American Male Teachers and Black Boys: WORK_OF_ART
+Detroit: GPE
+Michigan: GPE
+2007: DATE
+Presenter-Michigan Association of Public School Academies: ORG
+Real Talk: The Media: WORK_OF_ART
+Influence on African American Boys: ORG
+Detroit: GPE
+Michigan 2006: ORG
+Skills
+
+Team: ORG
+ProvenLeader: ORG
+Specialist: ORG

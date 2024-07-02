@@ -1,0 +1,12 @@
+Repair: ORG
+Train: GPE
+320: CARDINAL
+Jasmine Terrace: PERSON
+AC: ORG
+Repair: ORG
+Roof: PERSON
+2005: DATE
+GED Central Florida College: ORG
+State: ORG
+2009: DATE
+EPA: ORG

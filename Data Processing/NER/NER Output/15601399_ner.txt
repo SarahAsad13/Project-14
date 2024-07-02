@@ -1,0 +1,29 @@
+Diffusion Furnace: ORG
+300mm: QUANTITY
+Wet Etch: LOC
+Plasma Asher: PERSON
+200mm: QUANTITY
+300mm: QUANTITY
+10/2000: CARDINAL
+300mm: QUANTITY
+Rotating Area Coordinator: ORG
+Plasma Asher: PERSON
+Wet Etch Fabrication: ORG
+200mm: QUANTITY
+300mm: QUANTITY
+Level 3 Maintenance: PERSON
+the Fab Emergency Response Team: ORG
+09/1999: CARDINAL
+Ultrasonic Bio: ORG
+100: CARDINAL
+2000: DATE
+Bachelor of Science : Electronic Engineering Electronics Engineering Field ITT Techinical Institute: ORG
+GPA: ORG
+8: CARDINAL
+Engineering Electronics Engineering Field
+: WORK_OF_ART
+Skills
+Excellent: ORG
+Team Lead: PERSON
+Technician: GPE
+Trainer: GPE

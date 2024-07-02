@@ -1,0 +1,103 @@
+DIRECTOR: ORG
+BUSINESS DEVELOPMENT
+Executive Profile: ORG
+Skill Highlights: PERSON
+Enthusiastic: ORG
+Project Management
+
+Core Accomplishments
+
+: ORG
+CPG: ORG
+23 year old: DATE
+90 days: DATE
+two months: DATE
+NCR: ORG
+Grew: PERSON
+53%: PERCENT
+the first year: DATE
+NCR: ORG
+8%: PERCENT
+Walmart: ORG
+an additional $3.3M: MONEY
+first quarter: DATE
+Azteca Milling
+Grew: FAC
+Sam's Club: ORG
+Glazer: PERSON
+15.98%: PERCENT
+first year: DATE
+nearly 100%: PERCENT
+one: CARDINAL
+Sam's Club: ORG
+Glazer: PERSON
+Business Development: ORG
+October 2014: DATE
+CPG: ORG
+2020: CARDINAL
+90 days: DATE
+Canada: GPE
+3: CARDINAL
+CPG: ORG
+within first 6 months: DATE
+Oversees: ORG
+SalesForce.com: ORG
+Builds: PERSON
+20: CARDINAL
+Consulting: ORG
+December 2012 to August 2014: DATE
+monthly: DATE
+more than 100%: PERCENT
+Oversaw: GPE
+May 2012 to December 2012: DATE
+State: ORG
+Oversaw National Accounts: ORG
+Performed: ORG
+March 2011 to April 2012: DATE
+Grew Walmart's: PERSON
+an additional $3.3M million: MONEY
+first quarter: DATE
+Walmart: ORG
+Sam's Club: ORG
+Interacted: ORG
+Kroger, Supervalu, Safeway: ORG
+Kehe: PERSON
+Jetro
+
+Customized: PERSON
+SAP: ORG
+Retail Link: PERSON
+Created: ORG
+Big Box: PERSON
+October 2007 to March 2011 Company Name - City: DATE
+$26.8M: MONEY
+Sam's Club: ORG
+Glazer: PERSON
+15.98%: PERCENT
+first year: DATE
+nearly 100%: PERCENT
+one: CARDINAL
+Sam: PERSON
+Club
+Sold: ORG
+3,600: CARDINAL
+Glazer: PERSON
+Sam: PERSON
+68: CARDINAL
+Sam's: PERSON
+5: CARDINAL
+Forecasted: ORG
+National Sales Analyst: ORG
+March 2005 to: DATE
+August 2007: DATE
+9: CARDINAL
+US: GPE
+Walmart: ORG
+Retail Link
+Researched: PERSON
+National Sales and Marketing Analyst: ORG
+October 1998 to March 2005: DATE
+Advanced Diploma South Grand: ORG
+Microsoft Suite: PERSON
+Excel: PRODUCT
+Word: PERSON

@@ -1,0 +1,273 @@
+Catalyst: ORG
+more than 15 years: DATE
+Public Relations Brand Building & Product Management Event
+Coordination/Management/Promotion Strategic Planning/Forecasting/Budgeting Social Media Strategy and Implementation ROI/Market
+Effectiveness Analysis Materials Generation Internal and External Use Account Management and Growth Advertising/Creative Generation: ORG
+2.0: CARDINAL
+Share of Voice Strengthening Crisis Management
+Channel Management Sales Generation: ORG
+Diesel Army Magazine: ORG
+over 100: CARDINAL
+Chosen: GPE
+2004, 2005: DATE
+2006: DATE
+2008: DATE
+2009: DATE
+2010: DATE
+2011: DATE
+2012: DATE
+2013,2014: CARDINAL
+Chosen: GPE
+one: CARDINAL
+35: CARDINAL
+35: CARDINAL
+SEMA Magazine: ORG
+2004, 2005: DATE
+Marketing/Branding Webinar Presenter: ORG
+Specialty Equipment Market Association: ORG
+2005: DATE
+2006: DATE
+2007: DATE
+Radio DJ/Morning Show Host: ORG
+KCKR-FM
+Proficient: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Prezi: ORG
+Lotus Notes: ORG
+Oracle, Hyperion: ORG
+FTG: ORG
+Camtasia: GPE
+Photoshop: PERSON
+Adobe, Illustrator: ORG
+Adobe
+InDesign: PERSON
+Speednik: PERSON
+CRM: PRODUCT
+2004, 2005: DATE
+2006: DATE
+2008: DATE
+2009: DATE
+2010: DATE
+2011: DATE
+2012: DATE
+2013,2014: CARDINAL
+Chosen: GPE
+one: CARDINAL
+35: CARDINAL
+35: CARDINAL
+SEMA Magazine
+
+Professional Experience
+: ORG
+Name City: GPE
+Create: ORG
+daily: DATE
+all day: DATE
+Oversee: ORG
+Specialist 01/2013 to 01/2014 
+: ORG
+Name City: GPE
+$120 million: MONEY
+Secondarily: GPE
+$20 million: MONEY
+Manage: PRODUCT
+ISR, OSR: ORG
+RSM: PERSON
+Day to Day: DATE
+Field Key Account Managers
+Manage Key Accounts: ORG
+Marketing and Sales: ORG
+Prepare: ORG
+monthly: DATE
+French: NORP
+Manage: PRODUCT
+US: GPE
+Generate: PERSON
+Liaison: ORG
+Create: ORG
+Coordinate: FAC
+Virbac: PERSON
+French: NORP
+Virbac: GPE
+Manage: PRODUCT
+Name City: GPE
+2.0: CARDINAL
+only one year: DATE
+2.0: CARDINAL
+01/2003: CARDINAL
+Name City: GPE
+6: CARDINAL
+90%: PERCENT
+Name City: GPE
+daily: DATE
+8: CARDINAL
+Created: ORG
+weekly: DATE
+01/2000: CARDINAL
+Name City: GPE
+Freelance Booker: ORG
+Name City: GPE
+Directed: ORG
+Associate Producer: PERSON
+Name City: GPE
+weekend: DATE
+Created news: ORG
+Ran the Chyron: WORK_OF_ART
+morning: TIME
+MBA: WORK_OF_ART
+International Business Management 2012 University of Texas City: ORG
+State: GPE
+US: GPE
+MBA-International Business Management: ORG
+University of
+
+Texas: ORG
+Arlington: GPE
+TX: ORG
+2012: CARDINAL
+Graduate Certificate : Asian Business Studies: ORG
+2012: DATE
+University City: GPE
+Tongji University: ORG
+Shanghai: GPE
+China: GPE
+2012: DATE
+Baylor University City: ORG
+State: GPE
+US Bachelor of Communications - Baylor University - Waco: ORG
+TX: ORG
+1998: DATE
+Nicole Westfall: PERSON
+Kellogg & Andelson Pharmaceutical/Medical/Spa: ORG
+Medco St. Jude's: ORG
+Pampered Perch: ORG
+Carla: PERSON
+Concoctions Utilities Touchstone Energy Big Dig: ORG
+Boston: GPE
+LPPC: PERSON
+Large Public Power Council: ORG
+LCRA: PERSON
+National Rural Electric Cooperative Association: ORG
+Qwest Communications Lifestyle/Philanthropy Boyd Gaming Corporation Sam's: ORG
+Town Hotel and Casino Stardust Hotel: ORG
+Casino Sam's: PERSON
+House: ORG
+California: GPE
+Judy Marshall: PERSON
+Shelby Automobiles Carroll: PERSON
+Petersen Aviation Gooding & Company: ORG
+Haggerty Collector: ORG
+Network Meguiar's Inc.: ORG
+Specialty Equipment Market Association: ORG
+Royal Purple Inc.: ORG
+American Collector's: ORG
+Insurance Baer
+Inc.: ORG
+Shelby Licensing Petersen Automotive Museum Kruse International Classic Restoration Enterprises Smeding Performance Street: ORG
+Performance Innovative Turbo Systems: ORG
+BSE: ORG
+Bill Smulo: PERSON
+BSE: ORG
+Bill Smulo: PERSON
+B & M Racing & Performance: ORG
+Autotecnica American Collectors Insurance Allview: ORG
+ABC Television Ebay Motors: ORG
+Vanguarde Media: PERSON
+Qwest Communications Crisis
+Communications Company: ORG
+New York: GPE
+Inc PG&E Corp.: ORG
+Federal Mogul Corporation: ORG
+Cinemas: PERSON
+Lizzy: PERSON
+Don King: PERSON
+Venezuela: GPE
+1999: DATE
+01/2004: CARDINAL
+Diesel Army Magazine Published: ORG
+over 100: CARDINAL
+Chosen: GPE
+2004, 2005: DATE
+2006: DATE
+2008: DATE
+2009: DATE
+2010: DATE
+2011: DATE
+2012: DATE
+2013,2014: CARDINAL
+Chosen: GPE
+one: CARDINAL
+35: CARDINAL
+35: CARDINAL
+SEMA Magazine: ORG
+2004, 2005: DATE
+Specialty Equipment Market Association: ORG
+2005: DATE
+2006: DATE
+2007: DATE
+KCKR-FM Proficient: ORG
+Word: GPE
+Excel: PRODUCT
+Powerpoint: ORG
+Prezi: ORG
+Lotus Notes: ORG
+Oracle, Hyperion: ORG
+FTG: ORG
+Camtasia: GPE
+Photoshop: PERSON
+Adobe, Illustrator: ORG
+Adobe InDesign: PERSON
+Speednik: PERSON
+CRM: PRODUCT
+Certifications: ORG
+Graduate Certificate-Asian Business Studies Tongji University: ORG
+Shanghai: GPE
+China: GPE
+Professional Affiliations
+Marketing/Branding Webinar Presenter: ORG
+Specialty Equipment Market Association: ORG
+2007: DATE
+90%: PERCENT
+Skills
+Marketing, Advertising, Public Relations: ORG
+Roi: PERSON
+Social Media Strategy: ORG
+Site Layout: PERSON
+Strategic Planning: ORG
+Media Buying: ORG
+Tradeshows, Clients, Agency Partners: ORG
+Business Sales: ORG
+Forecasts, Marketing Strategy: ORG
+Presentations: GPE
+Basis, Budget, Distributor Sales: ORG
+Marketing Department: ORG
+Corporate Accounts: ORG
+Monthly: DATE
+National
+Sales: ORG
+New Products: ORG
+Liaison: PERSON
+Proposals: GPE
+Database: GPE
+Account Planning: ORG
+Adobe Indesign: PERSON
+Catalyst, Channel Management, Crisis Management, Crm: ORG
+Customer Relationship Management: ORG
+Diesel: ORG
+Excel: PRODUCT
+Hyperion, Illustration, Illustrator: ORG
+Indesign: ORG
+Interactive Media: PERSON
+Lotus Notes: ORG
+Masters Of Business Administration: ORG
+National Accounts, Natural: ORG
+Oracle: ORG
+Powerpoint: PRODUCT
+Product Management, Relationship Building: ORG
+Rest: PERSON
+Steering: GPE
+Team Player: ORG
+Automotive, Business Management: ORG
+Mba, Aviation: ORG
+Rural Electric: ORG

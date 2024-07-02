@@ -1,0 +1,88 @@
+CVS Health Med D: ORG
+EGS: ORG
+a.
+vendor: PERSON
+230: CARDINAL
+EGS: ORG
+CVS: ORG
+EGS: ORG
+two: CARDINAL
+monthly: DATE
+Med D's: ORG
+annual: DATE
+100: CARDINAL
+2-month: DATE
+70%: PERCENT
+98%: PERCENT
+CVS: ORG
+3: CARDINAL
+CVS: ORG
+05/2012: CARDINAL
+Microsoft: ORG
+Hosted: ORG
+CVS Caremark: FAC
+MedForce: ORG
+MedForce: ORG
+CVS Health: ORG
+300: CARDINAL
+3: CARDINAL
+MedForce: ORG
+Created: ORG
+daily: DATE
+MedForce: ORG
+UAT: ORG
+MedForce: ORG
+OCR: ORG
+Coordinator II: PERSON
+Maintained: GPE
+daily: DATE
+Built MedForce Forms: ORG
+MedForce: ORG
+daily: DATE
+Recon: ORG
+Devised: ORG
+daily: DATE
+MedForce: ORG
+daily: DATE
+BEQ TRR: LAW
+Maintained: GPE
+10-day: DATE
+QC: ORG
+MedForce Technology Supported: ORG
+the Medicare D Operations: ORG
+Processed: GPE
+daily: DATE
+MedForce: ORG
+Created: ORG
+Coordinated: ORG
+Medicare: ORG
+Coordinated: ORG
+Medicare: ORG
+daily: DATE
+Assigned: PERSON
+daily: DATE
+MedForce: ORG
+daily: DATE
+Medicare: ORG
+Maintained: GPE
+14+ years': DATE
+Highlights: GPE
+Kronos: ORG
+PeopleSafe Multi: ORG
+AS400 Customer: PRODUCT
+3270: DATE
+MEDS: ORG
+Medicare: ORG
+Ecrs Process: ORG
+Vendor: ORG
+Skills: ORG
+AS400: PRODUCT
+Customer: ORG
+CVS: ORG
+Kronos: PERSON
+MS Office: ORG
+98: DATE
+Multi: GPE
+Navigation: ORG
+OCR: ORG
+Vendor: ORG

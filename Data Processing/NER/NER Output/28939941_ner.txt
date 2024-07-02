@@ -1,0 +1,70 @@
+Company Objectives, Strategy &
+Organization Culture: ORG
+Identify Personal Differences & Build: ORG
+Cultures: PERSON
+Identify Potentials, Design & Conduct Development: ORG
+Set & Develop Business Quality Bench: ORG
+Excellent Awareness &: ORG
+Customers Handling Techniques: ORG
+Tactics: ORG
+Identify Products & Services Advantages &: ORG
+Identify
+Risk &: ORG
+Auditory Understanding: PERSON
+Listening Skills: PERSON
+Presentation Skills: PERSON
+Highlights
+Master of International Business Administration: WORK_OF_ART
+Microsoft Office: ORG
+Excel: PRODUCT
+Access, Power point: ORG
+Outlook: PERSON
+Microsoft Visual Studio: ORG
+6.0: CARDINAL
+Build &: ORG
+Accountant: ORG
+November 2001 to June 2004: DATE
+June 2004 to November 2006: DATE
+December 2006 to September 2008: DATE
+Trainer: ORG
+Nov 2009 Operation: DATE
+Training &: ORG
+Handling: PERSON
+Join Vodafone: ORG
+Cascade: GPE
+monthly: DATE
+annually: DATE
+NPS: ORG
+Mystery Shopper: ORG
+Middle East Language School: LOC
+Alexandria University: ORG
+International Business Administration Vodafone Retail Academy MIBA ESLSCA: ORG
+Oxford Business School GPA: ORG
+3 years: DATE
+First Egypt ": ORG
+3 years: DATE
+First Egypt ": ORG
+Oxford Business School: ORG
+Microsoft: ORG
+20: CARDINAL
+Skills
+Visual Basic .Net, Accounting: ORG
+Arabic: LANGUAGE
+English: LANGUAGE
+French: LANGUAGE
+Human Resource: ORG
+International Business, Managing: ORG
+MBA: WORK_OF_ART
+Access: ORG
+Microsoft Certified Professional: ORG
+MCP: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+Word: PERSON
+Retail: PERSON
+Strategic: PERSON
+Trainer: ORG
+6.0: CARDINAL
+Microsoft Visual Studio: ORG
+20: CARDINAL

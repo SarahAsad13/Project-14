@@ -1,0 +1,94 @@
+Career Focus: FAC
+4 years: DATE
+Skills
+Certification: ORG
+Six: CARDINAL
+Greenbelt
+
+Technical: ORG
+Software: PERSON
+Software: PERSON
+Inventor Fusion 2013: WORK_OF_ART
+Synopsys: ORG
+Mathworks: PRODUCT
+MATLAB: PRODUCT
+Microsoft Visual Basic: ORG
+2008: DATE
+Arena
+Flow Layouts: FAC
+AutoCad Software Utilization Â 
+
+Produced: ORG
+CAD: ORG
+four: CARDINAL
+Applied Materials Drafting Standards
+Prepared: ORG
+AutoCad Software Utilization Â 
+
+Produced: ORG
+CAD: ORG
+four: CARDINAL
+Project Management Â 
+
+: ORG
+Current Company Name City: ORG
+Inventor: GPE
+Engineer 08/2013: ORG
+Name City: GPE
+Pride Park: FAC
+Midlothian High School: ORG
+Galveston Industrial: PERSON
+Craig LF
+Partners: PERSON
+CAD: ORG
+Skills: ORG
+AutoCad 3D: ORG
+Vertex BD: ORG
+1.184: CARDINAL
+SolidWorks: ORG
+Blueprints: ORG
+Shop: ORG
+Hilti Profis Anchor: PERSON
+360, Steel View: ORG
+Key Build Steel: ORG
+Inventor: WORK_OF_ART
+Inventor: WORK_OF_ART
+Project Engineer: PERSON
+Name City: GPE
+$35 Million dollar: MONEY
+84%: PERCENT
+71%: PERCENT
+20%: PERCENT
+approximately 26%: PERCENT
+CAD: ORG
+Skills: ORG
+Pareto: PERSON
+Name City: GPE
+3400: MONEY
+Training
+Bachelors of Science : Industrial Engineering: PERSON
+May 2013: DATE
+Louisiana Tech University City: ORG
+I.I.E Club
+
+Advanced: ORG
+Industrial Engineering
+
+Affiliations: ORG
+Alpha Phi Alpha
+
+National Society of Professional Engineers: WORK_OF_ART
+NSPE: ORG
+3: CARDINAL
+Blueprints: ORG
+CAD: ORG
+Lingo: PERSON
+Excel: PRODUCT
+MS Office: ORG
+Power Point: ORG
+Word: PERSON
+MiniTab: PERSON
+Six Sigma: PERSON
+SolidWorks: ORG
+Vertex: GPE
+View: GPE

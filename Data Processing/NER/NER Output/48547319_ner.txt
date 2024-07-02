@@ -1,0 +1,42 @@
+Childcare: PERSON
+Daycare: ORG
+Childcare: ORG
+Infant: PERSON
+fourth: ORDINAL
+June 2002 to December 2014: DATE
+Creation Kingdom -130: GPE
+Georgetown: GPE
+40324: DATE
+daily: DATE
+Maintained: GPE
+daily: DATE
+April 2013 to June 2014: DATE
+daily: DATE
+Maintained: GPE
+daily: DATE
+Toddler: PERSON
+April 2012 to April 2013: DATE
+State: ORG
+Reason: ORG
+daily: DATE
+daily: DATE
+October 2010 to March 2012: DATE
+State: ORG
+daily: DATE
+Maintained: GPE
+daily: DATE
+Associate of Arts: ORG
+IECE: ORG
+Maysville Community Technical College: ORG
+Early Childhood EducationCoursework: ORG
+Child
+DevelopmentCoursework: WORK_OF_ART
+Child Abuse PreventionEmphasis in Special Needs EducationCoursework: WORK_OF_ART
+Nutrition: ORG
+SafetyEarly: ORG
+64: CARDINAL
+Morehead State University: ORG
+Infant/Toddler CDA: ORG
+64: CARDINAL
+first: ORDINAL
+Orientation 1 and 2: LAW

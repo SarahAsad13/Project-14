@@ -1,0 +1,83 @@
+K-12: PRODUCT
+06/2013: CARDINAL
+State: ORG
+Leadership and Program Development: ORG
+K-8: ORG
+Project Management and Creative Development: ORG
+ECS: ORG
+Relationship Building and Outreach:: WORK_OF_ART
+ECS Guiding Principles: ORG
+Financial Management: ORG
+1.2 million: CARDINAL
+annual: DATE
+annual: DATE
+12 million dollar: MONEY
+10/2014: CARDINAL
+Healthy Schools Academy Company Name: ORG
+06/2008: ORG
+06/2013: CARDINAL
+one: CARDINAL
+Science Educator and Environmental Coordinator Company Name ï¼​ City: WORK_OF_ART
+600+ acre: QUANTITY
+Educator - Center: ORG
+the Highly Gifted Company Name: ORG
+4th: ORDINAL
+the Washington National Opera: ORG
+75: CARDINAL
+annually: DATE
+08/2002: CARDINAL
+Account Executive Company Name: ORG
+Coordinated: ORG
+01/2000: CARDINAL
+Outreach Coordinator Company Name: ORG
+Energy and Resource Conservation Education: ORG
+2: CARDINAL
+2012: DATE
+Principal Certification : School Leadership Gannon University: ORG
+State: ORG
+2004: DATE
+Instruction University of Maryland College: ORG
+1998: DATE
+ï¼​ City: GPE
+Harvard University: ORG
+Graduate School of Education: ORG
+Remake Learning: PERSON
+the Carnegie Science Center: ORG
+the Remake Learning Network: ORG
+the Thinking Lab HS XQ: ORG
+Volunteer: PRODUCT
+Pittsburgh Opera
+Creator of Think Out: ORG
+monthly: DATE
+Pittsburgh: GPE
+40: CARDINAL
+2015: DATE
+the Healthy Schools Summit: ORG
+2016: DATE
+Heinz Endowment's: ORG
+Western Pennsylvania Environmental Award: LOC
+2015)-: CARDINAL
+the Environmental Charter School: ORG
+9-12: DATE
+Visual Thinking: ORG
+Quaker Valley School District: ORG
+Harvard Project Zero: ORG
+2015: DATE
+Carnegie Mellon University: ORG
+Allegheny College: ORG
+Point Park University: ORG
+Duquesne University: ORG
+2013-2019: DATE
+Panelist: PERSON
+The Pennsylvania Partnership for Green and: ORG
+Healthy Schools: PERSON
+Harrisburg: GPE
+PA: GPE
+2014: DATE
+Guest: PERSON
+evolveEA: ORG
+2014: DATE
+Greenbuild: PERSON
+2014: DATE
+National Green Schools Conference: ORG
+21st century: DATE

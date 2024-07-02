@@ -1,0 +1,69 @@
+Detail: PERSON
+Supervisor: PERSON
+15+ years: DATE
+Military Healthcare: ORG
+8+ years: DATE
+Maintenance Data Administration Time Management Risk Management
+Education: ORG
+Training: PERSON
+September 2016: DATE
+Bachelor of Science : Health Care Administration Kaplan University Health Care Administration: ORG
+May 2015: DATE
+Associate of Science : Health Science Kaplan University Health Science: WORK_OF_ART
+November 2014: DATE
+Computerized Patient Record System: ORG
+CPRS: GPE
+Fee Basis Claims System: ORG
+Veterans: NORP
+VISTA Appointment: ORG
+Non-VA Care Coordinator Nurse: ORG
+Veteran Affairs: ORG
+VA Medical Center and: ORG
+Non-VA Care: ORG
+Non-VA: ORG
+Veteran: ORG
+CPT: ORG
+DRG: ORG
+Works: PERSON
+CBO: ORG
+Health Administration Services: ORG
+monthly: DATE
+Ensures Veterans: NORP
+the Veteran's Choice-First: FAC
+Healthnet: GPE
+Communicates: ORG
+Veterans: ORG
+Non-VA: ORG
+Non-VA: ORG
+Veterans: NORP
+over 40: CARDINAL
+Monitored: ORG
+Physician: NORP
+Physician: PERSON
+Coordinated: ORG
+day: DATE
+Medical Treatment Facilities: ORG
+Coordinated: ORG
+clinicians: NORP
+10: CARDINAL
+Field Litter Ambulances: ORG
+six: CARDINAL
+Medical Sets: ORG
+over $700,000: MONEY
+11/2005: CARDINAL
+HealthCare Specialist Team: ORG
+6: CARDINAL
+Maintained: GPE
+six: CARDINAL
+Provided Emergency: ORG
+Fort Jackson: PERSON
+AC&S: ORG
+Fort Sam Houston: PERSON
+TX: ORG
+Fort Bragg: GPE
+NC *: ORG
+CPT: ORG
+Team Leader: ORG
+Works: PERSON
+Technician: NORP
+VISTA: ORG

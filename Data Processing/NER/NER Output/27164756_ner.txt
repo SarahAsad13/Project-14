@@ -1,0 +1,121 @@
+FOUNDER/THERAPIST AND TEACHING ARTIST
+Summary
+Mental Health Counselor: ORG
+Art and Play Therapies: WORK_OF_ART
+Mental Health Therapist: ORG
+DBT: ORG
+one: CARDINAL
+one: CARDINAL
+Child Protective Services: ORG
+CPS: ORG
+Family: ORG
+Specialized: ORG
+Family: PRODUCT
+Suicide: PERSON
+Suicide: PERSON
+Suicide: PERSON
+Medicaid: ORG
+Psychiatric: ORG
+the National Association of Social Workers: ORG
+N.A.S.W.: ORG
+August 2014: DATE
+October 2015: DATE
+Name City: GPE
+State: ORG
+Founder/Therapist: ORG
+Created: ORG
+Collaborated: ORG
+first: ORDINAL
+Quickly: ORG
+50Â: CARDINAL
+June 2012: DATE
+March 2014: DATE
+Name City: GPE
+State: ORG
+August 2008: DATE
+May 2011: DATE
+Name City: GPE
+State Therapist: ORG
+50Â: CARDINAL
+Quickly: PERSON
+first: ORDINAL
+Training: PERSON
+2020: DATE
+Northcentral University City: GPE
+State: ORG
+USA Ph.D. : Education Specialization in Special Education: ORG
+2017: DATE
+Colorado Technical University City: ORG
+State: ORG
+2012: DATE
+University of Southern California City: ORG
+State: GPE
+English: LANGUAGE
+Elementary: PERSON
+Special Education: ORG
+2008: DATE
+University of Pennsylvania City: ORG
+State: ORG
+USA Masters: ORG
+Social Work Specializations: ORG
+Developmental Disabilities: ORG
+Macro: ORG
+School Social
+Practice: ORG
+Social Work, Counseling, Human Services: ORG
+Â  Marriage: ORG
+Family Therapy: PERSON
+2006: DATE
+University City: GPE
+State: GPE
+Civic: PRODUCT
+Non-Profit Leadership: ORG
+Art History
+Recipient: PERSON
+James M. Gaffney Award: PERSON
+Student Government Association: ORG
+National Coalitions Building Institute Campus Affiliate: ORG
+the Rotoract Â Club
+
+Accomplishments
+Effectively: ORG
+more than: CARDINAL
+100Â: CARDINAL
+the National Association of Social Workers (N.A.S.W.: ORG
+2008: DATE
+the Rutgers University faculty Urban Studies: ORG
+James M. Gaffney Award: PERSON
+2006: DATE
+M.A.T. Thesis: ORG
+Saxon Math: PERSON
+Undergraduate Thesis: ORG
+Northern Ireland: GPE
+Youth: ORG
+Civil Society: ORG
+Northern Ireland: GPE
+the European Union
+Publications
+Technical Reports: ORG
+Oster, K.W.: ORG
+2012: DATE
+Saxon Mathematics: PERSON
+Effects on Learning: ORG
+Rossier School of Education: ORG
+University of
+Southern California: ORG
+Oster, K.W.: ORG
+2006: DATE
+Undergraduate Dissertation: ORG
+College of Arts and Sciences: ORG
+Rutgers
+University: ORG
+Skills
+
+Public Relations Software: ORG
+Bacon: ORG
+Mediasource: ORG
+Factiva: ORG
+Desktop Publishing Software: ORG
+Healthcare: ORG
+MEDISOFT: GPE
+STD: ORG

@@ -1,0 +1,84 @@
+Ms-Office: ORG
+Excel: PRODUCT
+Word, Pivot & Vlookup: ORG
+Store Managing
+Accomplishments
+
+Inventory: WORK_OF_ART
+Vendor: ORG
+Shipment: ORG
+Institution/University Year of Completion
+B.Com C.K.Thakur College of Arts & Commerce: ORG
+Mumbai University: ORG
+2008: DATE
+S.E.S College / Mumbai University: ORG
+2005: DATE
+SSC New English School / Mumbai University: ORG
+2003: DATE
+Store Keeper / Production Co-ordinator 03/2014: WORK_OF_ART
+Key Responsibilities: LOC
+Maintained: GPE
+Maintained: GPE
+Ministry of Economy & Labour: ORG
+ASN & Shipment: ORG
+12/2013: CARDINAL
+02/2014 Company Name City: ORG
+3-15: CARDINAL
+Maintained: GPE
+Collaborated: ORG
+Category Management Incharge: ORG
+Name City: GPE
+Front-End & backend: ORG
+Pre-Inventory: ORG
+Sourcing & Dispatch: ORG
+PAN India: ORG
+Processing End: ORG
+OMS: ORG
+Working on Data Correction(Audit: ORG
+PAN India: ORG
+store(Memo Sales Report: ORG
+VAT: PERSON
+MIS: ORG
+Name City: GPE
+2 ATL's: MONEY
+& 40 Associates: ORG
+Training ATL's: ORG
+cashiers & Backroom Associates: ORG
+daily: DATE
+Compute: ORG
+daily: DATE
+daily: DATE
+Monitoring of Goods with Proper: ORG
+Binning: GPE
+Responsible for Purging: WORK_OF_ART
+every month: DATE
+Periodic: PERSON
+daily: DATE
+Customer Service Executive 08/2008: ORG
+02/2011 Company Name City: ORG
+Train Front End: ORG
+Processed: GPE
+2008: DATE
+CKT College of Arts,Commerce & Management Studies City: ORG
+State: GPE
+India: GPE
+SES College of Arts ,Commerce & Science City: ORG
+State: GPE
+India: GPE
+2003: DATE
+New English School City: ORG
+State: GPE
+India: GPE
+English: LANGUAGE
+Hindi, Marathi & Tamil: ORG
+24: CARDINAL
+11-03-2010: DATE
+10-03-2020: DATE
+MUMBAI: ORG
+8837359: DATE
+N.S.S: GPE
+Excel: PRODUCT
+Ms-Office: ORG
+Word: PERSON
+MIS) Inventory: ORG
+Merchandising: PRODUCT

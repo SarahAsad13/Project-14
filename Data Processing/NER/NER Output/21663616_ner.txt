@@ -1,0 +1,94 @@
+INTERN: ORG
+CLAIM: ORG
+Corporate Communications: ORG
+Self-Improvement: ORG
+Decision Making and Judgment, Adaptability: ORG
+Customer Focus: PERSON
+Work Ethic: ORG
+Resourcefulness, Communication: ORG
+Critical Thinking: ORG
+Core Accomplishments
+
+Project Management: Â 
+
+Employee: WORK_OF_ART
+Mentored: ORG
+12%: PERCENT
+Name City: GPE
+Human Resources Generalist, Public Affairs: ORG
+Liaison Superintendent: PERSON
+the Kalamazoo Operations Center: ORG
+State Farm: ORG
+the Human Resources Department: ORG
+Name City: GPE
+State Public Relations Intern: ORG
+Oprah Winfrey's: PERSON
+Chicago: GPE
+Illinois: GPE
+Name City: GPE
+State: ORG
+the Public Relations Department: ORG
+Organizational Management and Leadership Diversity: ORG
+City: GPE
+Organizational Management and Leadership Diversity: ORG
+Intercultural Communications 2011 Illinois State University: ORG
+GPA: ORG
+3.9: CARDINAL
+Organizational Communications Diversity/Inclusion: ORG
+Intercultural Communications: ORG
+3.9: CARDINAL
+Grade Point: ORG
+Mass Communications Human Resources: ORG
+1987: DATE
+City: GPE
+Mass Communications Human Resources Graduated: ORG
+May of 1987: DATE
+3.0: CARDINAL
+the Black Student Organization: ORG
+RA: ORG
+University: ORG
+Council: ORG
+Human Resources: ORG
+Public Relations: ORG
+2013: DATE
+Lansing: GPE
+Michigan: GPE
+2012: DATE
+Athena Awards Honoree: ORG
+2010: DATE
+Tom Joyner Mother: PERSON
+the Year Award: EVENT
+the 2009 National Association of
+Female Executive Award: ORG
+2008: DATE
+George Bush: PERSON
+Point of Light: WORK_OF_ART
+2008: DATE
+Food
+Mother of Distinction Regional Award: ORG
+2007: DATE
+Woman of Distinction Award: ORG
+2006: DATE
+Tim Johnson: PERSON
+Professional Affiliations
+
+: ORG
+Jack: PERSON
+Kalamazoo Chapter: ORG
+Kalamazoo's National Association for the
+Advancement of Colored People (NAACP: ORG
+Alpha Kappa Alpha Sorority: ORG
+Incorporated-Kalamazoo Chapter: ORG
+M.A.P.S.: GPE
+America: GPE
+the "Kalamazoo Community
+Voices: ORG
+the Board of Trustees: ORG
+Kalamazoo Country Day School: ORG
+Kalamazoo's Community in School's: ORG
+Advisory Board: ORG
+Kalamazoo Graduate-2011: PERSON
+Radio Personality: ORG
+first: ORDINAL
+African-American: NORP
+Central Illinois-WXRJ-94.9: LOC

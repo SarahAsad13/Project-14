@@ -1,0 +1,162 @@
+Summary
+
+Human Resources: ORG
+Recruiting
+Compensation: WORK_OF_ART
+Personnel: ORG
+Affirmative Action: ORG
+Software Engineering: ORG
+September 2009: DATE
+Current Company Name: ORG
+Windows: ORG
+STL: ORG
+OOP: GPE
+MFC: ORG
+ATL: ORG
+IPC: ORG
+FTP: ORG
+TCP: ORG
+HTTP: ORG
+XML: ORG
+JSON: PERSON
+SOA: ORG
+SDK: ORG
+API: ORG
+BCD: ORG
+Imagine: GPE
+2013: DATE
+Nexio: ORG
+SAN: ORG
+NAS: ORG
+Nexio: ORG
+30: CARDINAL
+Playout: ORG
+IL: ORG
+CA: ORG
+6: CARDINAL
+Northridge: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+Adopted: ORG
+2014: DATE
+ScrumMaster: ORG
+3 to 6: CARDINAL
+Burbank: ORG
+Naperville: GPE
+2013: DATE
+Team: ORG
+Mercurial / Jenkins: ORG
+IP: ORG
+Server: ORG
+Released: PERSON
+Nexio Software: ORG
+6.0: CARDINAL
+7.0: DATE
+8.0: DATE
+Global Proxy Suite: PERSON
+2.5: CARDINAL
+3.0: CARDINAL
+3.5: CARDINAL
+SOA: ORG
+2: CARDINAL
+10: CARDINAL
+Hercules: GPE
+H.264: PRODUCT
+AAC: ORG
+HTML5: ORG
+JavaScript: ORG
+Team: ORG
+#: CARDINAL
+CLI: ORG
+TCP: ORG
+C++: PERSON
+SOA Created API: ORG
+Created: ORG
+SAX: ORG
+Helper: GPE
+Picon: GPE
+GPRX: ORG
+Helios: ORG
+MB, Scavenger: ORG
+Transcoder: ORG
+Helper: ORG
+API: ORG
+3rd: ORDINAL
+metadata: PERSON
+two: CARDINAL
+UMID: ORG
+2: CARDINAL
+Win32: PERSON
+TCP: ORG
+two: CARDINAL
+MediaBase DLL: PRODUCT
+Nexio: ORG
+200: CARDINAL
+Approach: PERSON
+one: CARDINAL
+Team: ORG
+one: CARDINAL
+DLL: ORG
+November 2005: DATE
+August 2009: DATE
+Nexio: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+8: CARDINAL
+Beijing: GPE
+Team: ORG
+Released: PERSON
+2.5: CARDINAL
+Principal Software Engineer: ORG
+August 1997 to October 2005: DATE
+Harris Corporation: ORG
+Leitch: GPE
+DLL: ORG
+Win32: PERSON
+SDK: ORG
+GUI: ORG
+Media: NORP
+Hardware: ORG
+64: CARDINAL
+Unicode: GPE
+over 4 million: CARDINAL
+Software Engineer: PERSON
+August 1994 to July 1997: DATE
+Star Media: ORG
+Leitch: PERSON
+DPS: ORG
+2000: DATE
+Star Media: ORG
+Render Bank: ORG
+State Computer Science
+B.E : Electronics and Communication Engineering National Institute of Technology ï¼​ City: ORG
+India Electronics: ORG
+Communication Engineering
+Products: ORG
+Skills
+API, Approach, ATL: ORG
+C++: PERSON
+CLI: ORG
+CA: PERSON
+Hardware: ORG
+Content: ORG
+HTML5: PRODUCT
+XML: ORG
+FTP: ORG
+GUI: ORG
+IP: ORG
+JavaScript: ORG
+LAN: ORG
+MB: ORG
+MFC: ORG
+Win, Windows: ORG
+2000: DATE
+NAS: ORG
+OOP: GPE
+Proxy: PERSON
+SAN: ORG
+Video Editing: PERSON

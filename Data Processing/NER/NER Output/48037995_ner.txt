@@ -1,0 +1,51 @@
+Pharmacist: PERSON
+Nine years: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Identify: PRODUCT
+Solve Potential Problem: ORG
+Pharmaceutical Research: ORG
+Accurate
+Exceptional Attention: ORG
+Communicate: ORG
+Articulate: ORG
+Coworker Relationship Management: ORG
+hundreds: CARDINAL
+Russian: NORP
+04/2009: ORDINAL
+more than 1,500: CARDINAL
+weekly: DATE
+Strictly: ORG
+Maintained: GPE
+Mastered HEB Pharmacy Standard Operating Procedures: ORG
+SOPS: ORG
+Maintained: GPE
+Calculated: ORG
+Oversaw: GPE
+11/2002: CARDINAL
+Pharmacy Intern Company Name: ORG
+State: ORG
+12/1995: DATE
+State: ORG
+11/1993: CARDINAL
+Maintained: GPE
+Completed: ORG
+01/1990 to 04/1991: CARDINAL
+Maintained: GPE
+2002: DATE
+Pharmaceutics Massachusetts College of Pharmacy and Health Science ï¼​ City: ORG
+State: GPE
+Beth Israel Deaconess Medical Center (Infectious Disease: ORG
+Boston Children's Hospital (Center for Poison Control and Prevention: ORG
+Beverly Hospital: ORG
+Boston Dialysis Center: ORG
+1992: DATE
+Master of Science : Hardware Engineering University of Information Technology: WORK_OF_ART
+Mechanics and: ORG
+Russia: GPE
+the Massachusetts Board of Pharmacy
+
+Skills
+
+Integrity: ORG
+Honesty: GPE

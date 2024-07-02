@@ -1,0 +1,93 @@
+HEALTHCARE: ORG
+CPR: ORG
+First Aid: ORG
+Energy: ORG
+Microsoft Office
+Team: ORG
+Dedicated
+Responsible
+
+Accomplishments
+
+Success: ORG
+30: CARDINAL
+6: CARDINAL
+six months: DATE
+Healthcare: ORG
+October 2014: DATE
+State: ORG
+Medicare: ORG
+Identify: ORG
+CMS: ORG
+Medicare Advantage: ORG
+Cycle Instructor: PERSON
+September 2012: DATE
+weekly: DATE
+Tabata: GPE
+Provider Group Engagement: ORG
+September 2012 to October 2014: DATE
+Oversaw: GPE
+Atlanta: GPE
+Initiated: ORG
+PCP: ORG
+Coordinated: ORG
+HEDIS: PERSON
+STARS: ORG
+4: CARDINAL
+Provider Network Consultants: ORG
+the Southeast Region: LOC
+September 2010 to April 2012: DATE
+Southeastern: NORP
+Maintained: GPE
+January 2004 to January 2010: DATE
+WellStar: ORG
+Georgia: GPE
+five: CARDINAL
+over 1000: CARDINAL
+three: CARDINAL
+over 20%: PERCENT
+Maintained: GPE
+an average of 50 days: DATE
+100%: PERCENT
+an average of: DATE
+90 days: DATE
+99%: PERCENT
+2010: DATE
+Gallup: ORG
+48%: PERCENT
+two years: DATE
+Managed Care: ORG
+Lean Thinking: WORK_OF_ART
+Provider Reimbursement Specialist: ORG
+January 2000 to January 2004: DATE
+Blue Cross Blue Shield: ORG
+GA: ORG
+multi-million dollar: MONEY
+monthly: DATE
+the WellPoint Enterprise Data Model: ORG
+January 1997 to January 1999: DATE
+Blue Cross Blue Shield: ORG
+GA: ORG
+Medicare: ORG
+Pathways Contract Management: ORG
+ten: CARDINAL
+Health Systems Analyst: ORG
+January 1997 to January 1999: DATE
+Blue Cross Blue Shield: ORG
+GA: ORG
+January 1996 to January 1997: DATE
+January 1995 to January 1996: DATE
+2000: DATE
+Kennesaw
+State University: ORG
+State: GPE
+USA: GPE
+1994: DATE
+Auburn University: ORG
+State: GPE
+USA: GPE
+Skills: ORG
+CMS: ORG
+Contract Management: ORG
+Enterprise: ORG
+Network: ORG

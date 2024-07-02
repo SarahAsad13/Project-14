@@ -1,0 +1,56 @@
+TRAINING & DEVELOPMENT SPECIALIST: ORG
+Human Resource Management: ORG
+Employee Engagement and Training &
+Development: ORG
+Human Resource Management, Training & Development, Employment Engagement: ORG
+Temporary Services: ORG
+Talent
+Acquisition: ORG
+Microsoft: ORG
+HRIS: ORG
+Learning: ORG
+Training & Development Specialist: ORG
+Career Path: PERSON
+Education Reimbursement: ORG
+New Hire Orientation: ORG
+Cares: ORG
+Workforce Development and Human Resource: ORG
+WFD: ORG
+Kent Co.: ORG
+Maintained: GPE
+18 months: DATE
+Michigan Works: ORG
+Goodwill: ORG
+GRCC: ORG
+Maintained: GPE
+day: DATE
+07/2000: CARDINAL
+the Direct Sales Association National: ORG
+Customer
+Service: ORG
+Motivational: ORG
+Pampered Chef's National Meetings Designed: ORG
+Customer Service: ORG
+09/1991: CARDINAL
+Facilitated: ORG
+Nike: ORG
+Kmart: ORG
+Target: ORG
+15: CARDINAL
+Maintained: GPE
+Bachelor of Arts : Business Management/Human Resource Management: ORG
+1 2015: DATE
+University of Phoenix ï¼​ City: ORG
+State Business
+Management/Human Resource Management Annual Compliance Training: ORG
+Predictable Performance Systems Compliance: ORG
+Management Social: ORG
+Knowledgeable: WORK_OF_ART
+Skills: ORG
+Customer Service: ORG
+Direct Sales: ORG
+Human Resource: ORG
+Meetings, Works: ORG
+Motivational: ORG
+Creative: PRODUCT
+Knowledgeable: WORK_OF_ART

@@ -1,0 +1,84 @@
+annual: DATE
+nearly $5.7 million: MONEY
+0: CARDINAL
+15,000: CARDINAL
+200%: PERCENT
+less than 12 months: DATE
+Grew: PERSON
+0: CARDINAL
+6,000: CARDINAL
+just 12 months: DATE
+Winner: PERSON
+Circle Award: PERSON
+2008: DATE
+10/2008: DATE
+Greenie Tots: PERSON
+Whole Foods: ORG
+Giant Eagle: PRODUCT
+Safeway: ORG
+the United States: GPE
+Hired &: ORG
+Greenie Tots: ORG
+UNFI: ORG
+70%: PERCENT
+60%: PERCENT
+one year: DATE
+08/2003: CARDINAL
+Healthcare Management: ORG
+2: CARDINAL
+billion dollar: MONEY
+Fort Lauderdale: GPE
+FL: ORG
+67%: PERCENT
+$5.7 million: MONEY
+Assisted District: LOC
+National Healthcare Operations Intern Company Name: ORG
+monthly: DATE
+NHO: ORG
+Cluster: ORG
+formulary growth & decline: ORG
+Developed &: ORG
+Hispanic: NORP
+Harlem: LOC
+NY: ORG
+Collaborated: ORG
+City of New York: ORG
+Radio, Newspaper, &Television: ORG
+Manage Care: PRODUCT
+Pfizer: ORG
+Bank of America: ORG
+VP: ORG
+Recruited: PRODUCT
+the Banc of America: ORG
+10/1999: CARDINAL
+12/2000: CARDINAL
+Customer Development Intern Company Name: ORG
+Information Resources Inc: ORG
+the Marketing and Sales department: ORG
+Rick: PERSON
+Spiked Lemonade: PERSON
+Wine Coolers: WORK_OF_ART
+Beer: PERSON
+Mixers: ORG
+VP: ORG
+August 2003: DATE
+MBA : Business Administration Florida A&M University: WORK_OF_ART
+ï¼​ City: GPE
+State: ORG
+August 2003: DATE
+BS : Business Administration Florida A&M University: ORG
+ï¼​ City: GPE
+Better Chance (Alumni: ORG
+National Black MBA Association: ORG
+Southern Florida Minority Supplier Development Council: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Access: ORG
+MAC: ORG
+Microsoft Project: ORG
+Information Resources
+Inc: ORG
+Database: GPE
+CUE: GPE
+Quick Books: ORG

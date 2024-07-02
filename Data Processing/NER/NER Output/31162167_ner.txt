@@ -1,0 +1,128 @@
+more than 5 years: DATE
+Weber Shadwick: GPE
+Golin Harris: PERSON
+Latina PR *: PERSON
+Hootsuite: PERSON
+TrackMaven: ORG
+Skills
+
+Salesforce: ORG
+Adobe Package: ORG
+MS Office: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Keynote: GPE
+Cloud: PERSON
+American: NORP
+Brazilian: NORP
+the San Francisco Bay Area: LOC
+Switzerland: GPE
+Salesforce: PERSON
+Adobe Package: ORG
+MS Office: ORG
+Excel: PRODUCT
+Powerpoint: ORG
+Keynote: GPE
+Name City: GPE
+State: ORG
+Media Relations - UN Global Compact: ORG
+UNGA: ORG
+09/18-22: CARDINAL
+September 18-22: DATE
+Robin Blumenthal: PERSON
+Economist: ORG
+Matthew
+Hoffman: PERSON
+Reuters: ORG
+Laura Colby: PERSON
+UN Global Compact: ORG
+Public Relations: ORG
+Golin Harris: PERSON
+UNGA: ORG
+the UN Global Compact: ORG
+Toby Usnik -
+Creative: ORG
+Twitter: PRODUCT
+UNGA week: DATE
+three consecutive days: DATE
+New York City: GPE
+UN: ORG
+Al Gore: PERSON
+Shinzo Abe: PERSON
+UN: ORG
+UNGA: ORG
+Digital Marketing - Manage: ORG
+Twitter: PERSON
+Instagram: ORG
+Hootsuite: PERSON
+TrackMaven: ORG
+Peer Space: FAC
+Airbnb Experiences: ORG
+Detail: PERSON
+Google Calendar and Evernote: PRODUCT
+Name City: GPE
+Digital Marketing - Researched: ORG
+Asia: LOC
+Americas: LOC
+ERP: ORG
+three: CARDINAL
+Used Sales Force Connect Data: ORG
+Asia: LOC
+Americas: LOC
+Hootsuite: PERSON
+Stemdefining: ORG
+CTR: ORG
+ToLocal: ORG
+Facebook, Instagram: ORG
+Twitter Weber: PERSON
+Digital Media Intern 06/2017: ORG
+Name City: GPE
+Napster South America: LOC
+Honda: ORG
+South America: LOC
+Honda: ORG
+Kept: PERSON
+daily: DATE
+LaTam - Increased Honda: ORG
+Napster: PERSON
+weekly: DATE
+Training: PERSON
+2019: DATE
+University of San Francisco: ORG
+3.4: CARDINAL
+San Francisco City: GPE
+Recife City: GPE
+Brazil: GPE
+2012: DATE
+IMG Academy City: ORG
+State: ORG
+2009: DATE
+The American School of Leysin City: ORG
+Switzerland: GPE
+English: LANGUAGE
+Portuguese: LANGUAGE
+Spanish: LANGUAGE
+French: LANGUAGE
+Portuguese: LANGUAGE
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Skills
+Adobe: ORG
+Photoshop: PERSON
+Bloomberg: PERSON
+English: LANGUAGE
+ERP: ORG
+French: LANGUAGE
+InDesign: ORG
+Media Relations: ORG
+Excel: PRODUCT
+MS Office: ORG
+Powerpoint: PRODUCT
+Word: PERSON
+Portuguese: NORP
+Public Relations: ORG
+Reuters: ORG
+San: LOC
+Spanish: LANGUAGE
+Spanish: LANGUAGE

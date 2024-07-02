@@ -1,0 +1,57 @@
+Associate Degree: PERSON
+Applied Science: ORG
+June 1999: DATE
+Robert Morris University: ORG
+State
+
+Health Information Management
+
+Healthcare Management Devry University: ORG
+Healthcare Management: ORG
+Skill Highlights: PERSON
+2014: DATE
+Â 
+Create: PRODUCT
+Coordinate: FAC
+HB: ORG
+daily: DATE
+Provides: PERSON
+hours: TIME
+Mar 2014: DATE
+Evaluate: ORG
+Analyst Nov 2005: DATE
+Nebo: PERSON
+ECare: ORG
+CMS: PRODUCT
+Assisted: ORG
+ECare: ORG
+ECare: ORG
+2002 to Nov 2005: DATE
+Monitored: ORG
+Coordinated: ORG
+Utilization Review: ORG
+Revenue Management: ORG
+Provider Relations Representative: ORG
+1997: DATE
+2002: DATE
+PHO: ORG
+Physician Hospital Organization: ORG
+Conducted: ORG
+quarterly: DATE
+Communicated: ORG
+Managed Care Organizations: ORG
+the Provider Health Organization: ORG
+seven: CARDINAL
+Provider Health Organization's: ORG
+Oversaw: GPE
+Computer Skills: PERSON
+Resolute Hospital Billing: FAC
+Allegra: PRODUCT
+IDX: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Powerpoint
+
+Certifications: ORG
+Developing Others
+The Basic Principles of a Collaborative Workplace: WORK_OF_ART

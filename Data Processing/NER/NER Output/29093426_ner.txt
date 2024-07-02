@@ -1,0 +1,104 @@
+UNDERWRITER II: EVENT
+Sole Proprietors: ORG
+Partnerships: ORG
+S-Corps: ORG
+Underwrite: ORG
+Desktop Underwriter: PERSON
+Loan Prospector (LP: ORG
+Obtained: ORG
+750,000: MONEY
+Remote Underwriter: PERSON
+Arch MI: ORG
+$417,000 to $750,000: MONEY
+Remote Underwriter: PERSON
+12/2012: CARDINAL
+10/2016: CARDINAL
+Arch MI's: ORG
+4.5: CARDINAL
+$200,00 to $: MONEY
+417,000: MONEY
+Fannie Mae: ORG
+Freddie Mac: ORG
+11/2012: CARDINAL
+monthly: DATE
+the Home Affordable Refinance Program: ORG
+Delegated Mortgage Insurance: ORG
+1: CARDINAL
+2: CARDINAL
+CMG: ORG
+the Home Affordable Refinance Program: ORG
+Performed: ORG
+50: CARDINAL
+Collaborated: ORG
+12/2004: CARDINAL
+Mortgage Insurance: ORG
+at least 95% to 100%: PERCENT
+Correspond: PERSON
+Sole Proprietors: ORG
+Partnerships: ORG
+S-Corps: ORG
+Underwrite: ORG
+Desktop Underwriter: PERSON
+Loan Prospector (LP: ORG
+Obtained: ORG
+750,000: MONEY
+Remote Underwriter: PERSON
+Arch MI: ORG
+$417,000 to $750,000: MONEY
+Remote Underwriter: PERSON
+12/2012: CARDINAL
+10/2016: CARDINAL
+Arch MI's: ORG
+4.5: CARDINAL
+$200,00 to $: MONEY
+417,000: MONEY
+Fannie Mae: ORG
+Freddie Mac: ORG
+11/2012: CARDINAL
+monthly: DATE
+the Home Affordable Refinance Program: ORG
+Delegated Mortgage Insurance: ORG
+1: CARDINAL
+2: CARDINAL
+CMG: ORG
+the Home Affordable Refinance Program: ORG
+Performed: ORG
+50: CARDINAL
+Collaborated: ORG
+12/2004: CARDINAL
+Mortgage Insurance: ORG
+at least 95% to 100%: PERCENT
+Correspond: PERSON
+06/2000: CARDINAL
+George Westinghouse Career Academy - City: PERSON
+State: ORG
+the Retail and Education Alliance: ORG
+R.E.A.D.Y. Program: ORG
+17 years: DATE
+Excels: PERSON
+Risk Analysis: ORG
+Credit Evaluations: ORG
+Financial Reporting: ORG
+Data Entry: ORG
+10: CARDINAL
+Credit
+Credit
+Rrisk
+Credit: ORG
+Clients
+
+Mac
+Office
+Quality
+Retail
+Risk: WORK_OF_ART
+Documentation
+Financial
+Imaging
+Insurance
+Inventory
+Loan: ORG
+Underwriter: PERSON
+Mac: PERSON
+Retail: PERSON
+Underwriter: PERSON

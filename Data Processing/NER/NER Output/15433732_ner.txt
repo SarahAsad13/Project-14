@@ -1,0 +1,110 @@
+Product Marketing
+Event Marketing
+Marketing & Corporate Communications
+
+Accomplishments
+
+Web & Content Design
+Creative/Collateral Design, Development & Management: WORK_OF_ART
+Japan: GPE
+first: ORDINAL
+Digital Be-In: ORG
+Tokyo: GPE
+95: CARDINAL
+Verbum Inc.: ORG
+Japan: GPE
+Japan: GPE
+Daniel Remer: PERSON
+â€œJAWS MAUIâ€​: PRODUCT
+Charles Lyon: PERSON
+Japan: GPE
+US: GPE
+Japan: GPE
+$3 million: MONEY
+GO: GPE
+3Com: CARDINAL
+Customers Matter: PERSON
+Panasonic USA: ORG
+VS Technologies: ORG
+Uniforce Sales & Engineering: ORG
+Program/Project Management: ORG
+Content/Collateral Development: ORG
+Management Event Management Public Relations: ORG
+Japanese Localization and Management: ORG
+Uniforce Sales & Engineering: ORG
+UI: ORG
+first: ORDINAL
+US: GPE
+70%: PERCENT
+English: LANGUAGE
+UI: GPE
+PHP: ORG
+US Business Development: ORG
+Name City: GPE
+Machine Vision: ORG
+North Asia Marketing: LOC
+Name City: GPE
+China: GPE
+Japan: GPE
+Korea: GPE
+Japanese: NORP
+Name City: GPE
+Sybase: ORG
+Claris: PERSON
+Apple: ORG
+Fractal Design: ORG
+National Semiconductor J: ORG
+Dun & Bradstreet J: ORG
+PacBell: ORG
+Intelligard: PERSON
+EMC: ORG
+development & management: ORG
+Japanese: NORP
+PacBell: ORG
+National Semiconductor Japan
+Successfully: ORG
+Dun & Bradstreet: ORG
+Japan: GPE
+Fractal Design
+Successfully: ORG
+Japan: GPE
+Name City: GPE
+3: CARDINAL
+$3 million: MONEY
+Japanese: NORP
+Japan: GPE
+Name City: GPE
+3+ Open: DATE
+Macintosh: ORG
+MRD: ORG
+3+ Open: DATE
+Macintosh: ORG
+MRD: ORG
+Japan: GPE
+Japan Business Development: ORG
+Country: ORG
+$3 million: MONEY
+first: ORDINAL
+3COM Japan: ORG
+English: NORP
+Aoyama Gakuin University City: ORG
+Japan Business: ORG
+English Literature: NORP
+Technical Marketing: ORG
+UC Berkeley Extension: FAC
+CA Public Relations, Event Management: ORG
+CA Web Design: PERSON
+Adobe CS: PERSON
+CSS: ORG
+JavaScript: ORG
+Foothill /De: ORG
+CA: ORG
+Skills
+
+Content/Collateral/Web Design: ORG
+HTML: ORG
+CSS: ORG
+JavaScript: ORG
+PHP Client: ORG
+MS Office: ORG
+Japanese: NORP

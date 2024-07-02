@@ -1,0 +1,110 @@
+11 + years: DATE
+Bachelors Degree -: PERSON
+Accounting: GPE
+25: CARDINAL
+10: CARDINAL
+Accountant: ORG
+Highlights
+
+Payroll: WORK_OF_ART
+940: CARDINAL
+941: CARDINAL
+Accounts Payable & Receivable: ORG
+Strength: ORG
+Adobe: PERSON
+PeachTree: NORP
+Quick Books: ORG
+MS Office: ORG
+Medlin: GPE
+Tax Slayer: PERSON
+Lotus: ORG
+II: CARDINAL
+Fortune 500: WORK_OF_ART
+17: CARDINAL
+10: CARDINAL
+Ledger Accounts Â: PERSON
+â€¢ Streamlined: PRODUCT
+â€¢ Extensive: PRODUCT
+Financial Statements: ORG
+Governmental: LOC
+â€¢ Saved: PRODUCT
+20,000: MONEY
+Worker's Compensation Insurance: ORG
+Use Tax Audit: ORG
+01/2011: CARDINAL
+the NC State Revenue Dept: ORG
+6 years: DATE
+Performance Motorcycle: ORG
+three months: DATE
+10: CARDINAL
+30: CARDINAL
+Accountants Payable/Receivable & Purchasing Administrator: ORG
+Current Company Name: ORG
+Prepared: PRODUCT
+monthly: DATE
+purchasing & inventory: ORG
+Accountant: ORG
+01/2011: CARDINAL
+W-2: ORG
+annual: DATE
+two: CARDINAL
+QuickBooks: ORG
+Accounts Receivable & Collection: ORG
+01/2010: DATE
+1,200,000.00: MONEY
+General Contractors: ORG
+3: CARDINAL
+Surety Company: ORG
+1040: DATE
+1040A: DATE
+1040EZ: DATE
+Schedule - A: ORG
+EIC: ORG
+SE: GPE
+L,1065: GPE
+1120: DATE
+1120S: DATE
+Schedule - A: ORG
+L: GPE
+M-1: ORG
+941: CARDINAL
+940: CARDINAL
+State: ORG
+Use Tax: PERSON
+W-2: ORG
+Liaison with: ORG
+Internal Revenue Service: ORG
+Department of Labor: ORG
+Workers Compensation Insurance Commission: ORG
+Employment Security
+Commission: ORG
+Department of State Revenue: ORG
+Quick Books: ORG
+Peach Tree: PERSON
+Medlin: GPE
+Tax Slayer: PERSON
+Bachelor of Science : Accounting: ORG
+2010: DATE
+Colorado Technical University: ORG
+State: GPE
+USA: GPE
+Accounting: GPE
+February 2010: DATE
+Financial Statement Analysis: ORG
+May 2010: DATE
+Associate of Arts and Applied Science : Accounting: WORK_OF_ART
+2007: DATE
+Rowan Cabarrus Community College: ORG
+State: GPE
+USA: GPE
+Detail: PERSON
+Versatile: ORG
+Lotus: ORG
+Quick Books: PERSON
+PeachTree: NORP
+Adobe, MS Office: ORG
+Payroll: ORG
+12 years: DATE
+Journal Entry Preparation/Posting, Financial Statement Analysis: ORG
+Year-end: DATE
+Regulatory Filings: PERSON

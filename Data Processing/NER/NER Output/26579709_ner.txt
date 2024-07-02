@@ -1,0 +1,89 @@
+RESEARCH SPECIALIST: PERSON
+Highlights: GPE
+5+ years: DATE
+Supervisor: PERSON
+Customer Escalation Management
+Executive Office Complaint Handling & Resolution
+Project Management
+Facilities Management: ORG
+10+ years: DATE
+Call Center Environment
+Mortgage Default & Originations: ORG
+Loss Mitigation
+Non-IS Auditing
+Escalation Resolution Auditing
+Compliance & Regulatory
+Quality and Control
+
+Accomplishments: WORK_OF_ART
+the EMS Audit Training Guide: ORG
+Auditors: PRODUCT
+the Implementation of the QC: ORG
+EMS: ORG
+QC: PERSON
+Customer Direct: ORG
+Exceeds: NORP
+monthly: DATE
+annually: DATE
+Current
+Mortgage Banking Research Specialist Company Name: ORG
+Shortsale Solicitor: PERSON
+Loss Mitigation Rep: ORG
+30: CARDINAL
+Texas: GPE
+Arizona: GPE
+daily: DATE
+Executive Office: ORG
+LOB: ORG
+Executive Office: ORG
+the EMS EO Quality Control: ORG
+EMS: ORG
+EO: ORG
+EMS: ORG
+EMS: ORG
+QC: PERSON
+12/2009: CARDINAL
+12: CARDINAL
+daily: DATE
+monthly: DATE
+monthly: DATE
+annually: DATE
+12: CARDINAL
+100 to 160: CARDINAL
+each and days: DATE
+60: CARDINAL
+Commuted: ORG
+Ford Motor Credit: ORG
+Volvo Finance: ORG
+12/2000: CARDINAL
+daily: DATE
+3: CARDINAL
+premises: LOC
+Bachelor: ORG
+ï¼​ City: GPE
+State Business Administration Finance: ORG
+FCRA: ORG
+SSA: ORG
+Fannie Mae: ORG
+Freddie Mac: ORG
+DWS: ORG
+MSP: ORG
+Lenderlive: GPE
+LPS: ORG
+BART: ORG
+Infosource: GPE
+TAS: GPE
+Fortracs, Ivault: ORG
+CMS: ORG
+VLS: ORG
+ICAT: ORG
+CAT: ORG
+CCW: ORG
+SPO Tool: ORG
+Vendorscape: GPE
+MS Word: PERSON
+MS Excel: ORG
+Powerpoint: ORG
+Oracle: NORP
+REO: ORG
+the Executive Office: ORG

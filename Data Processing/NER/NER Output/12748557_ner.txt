@@ -1,0 +1,72 @@
+REGIONAL ENGINEERING: ORG
+25 years': DATE
+ITS/SCADA: ORG
+90%+: CARDINAL
+QA: ORG
+Vendor: ORG
+Current Company Name City: ORG
+State: ORG
+Texas: GPE
+Australia: GPE
+New Zealand: GPE
+Chile: GPE
+$1M: MONEY
+the Western NA: LOC
+SA: ORG
+Oceania: LOC
+JIT: ORG
+Projects: ORG
+Santiago Chile: ORG
+GIS: ORG
+CityLink OMCS Upgrade - Value: ORG
+4.5: MONEY
+Melbourne: GPE
+Australia: GPE
+Motorway: GPE
+GIS: ORG
+GUI: ORG
+LBJ/NTE Managed: ORG
+Project - Value: ORG
+25: MONEY
+40 miles: QUANTITY
+Dallas: GPE
+Fort Worth: GPE
+first: ORDINAL
+Texas: GPE
+Dallas: GPE
+TxDOT: ORG
+LoneStar & DalTrans: ORG
+Name City: GPE
+Beat: PERSON
+QA/QC: ORG
+ITS/SCADA: ORG
+providedÂ: PERSON
+Caltrans Devil's: ORG
+$7M
+Delivered: MONEY
+PLC: ORG
+SCADA: ORG
+a mile: QUANTITY
+Half Moon Bay: LOC
+CA: WORK_OF_ART
+GUI: ORG
+IRM: ORG
+GUI: ORG
+Operators: ORG
+first: ORDINAL
+Eastern Distributor Tunnel - Value: ORG
+$3.5M.: MONEY
+Sydney: GPE
+12/2010: CARDINAL
+Name City: GPE
+Name City: GPE
+State: ORG
+Control Systems: ORG
+Name City: GPE
+Name City: GPE
+State: ORG
+Education: ORG
+Bachelor of Science : Electrical and Computer Engineering 1990 University of California: ORG
+Santa Barbara City: GPE
+State: ORG
+Project Management/Leadership Courses: ORG

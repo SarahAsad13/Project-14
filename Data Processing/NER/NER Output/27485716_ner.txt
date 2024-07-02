@@ -1,0 +1,63 @@
+Career Overview
+Seasoned: ORG
+Success: ORG
+Methodology/ Problem & Change Software & Application Lifecycle Management
+Management: ORG
+Team-Building & Front-Line Leadership Technology Upgrades & Training: ORG
+Project Management Life: ORG
+Planning, Execution, Monitor &
+Control: ORG
+yearly: DATE
+monthly: DATE
+01/2016
+: PERSON
+Corporate Project: ORG
+annual: DATE
+ERP: ORG
+Facilities Management: ORG
+monthly: DATE
+20%: PERCENT
+Director of Information Technology and Systems Company Name
+
+: ORG
+Saflok: GPE
+Salto: PERSON
+Amano Mc Gann: PERSON
+PMS: ORG
+Information Technology and Systems Company Name: ORG
+four: CARDINAL
+day: DATE
+first: ORDINAL
+second: ORDINAL
+Windows: NORP
+PMS/POS Systems: ORG
+Oversaw: GPE
+Training
+Bachelor of Science : Computers and Information Technology UNIVERSITY: PERSON
+City: GPE
+State Computers and Information
+Technology
+Associates of Arts : Finance and: ORG
+Business Administration LAKE: ORG
+City: GPE
+State Finance: ORG
+Business
+Administration: ORG
+2016: DATE
+Microsoft Certified Professional: ORG
+CompTia: ORG
+A+: PRODUCT
+CompTia N+: ORG
+Skills: ORG
+ERP: ORG
+Enterprise Resource Planning: ORG
+Facilities Management: ORG
+Forecasting: ORG
+Team-Building: ORG
+Microsoft Certified Professional: ORG
+MCP: ORG
+Project
+Management: ORG
+SLA: ORG
+Strategic Planning: ORG
+Upgrades, Windows: ORG

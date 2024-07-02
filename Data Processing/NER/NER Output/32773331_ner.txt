@@ -1,0 +1,108 @@
+PROJECT ENGINEER & PROJECT: ORG
+Engineer: ORG
+20 years: DATE
+eleven years: DATE
+Efficient Management: ORG
+Time Management: ORG
+Time: ORG
+Quick Books: ORG
+Timberland: GPE
+Virtual Basic: PERSON
+2003-2010: DATE
+Excel: PRODUCT
+Microsoft: ORG
+P3: PRODUCT
+P6: NORP
+Primavera Contract Management
+Hold CIVIL ENGINEER LICENSE: ORG
+the Chamber of Civil Engineering: ORG
+Turkey: GPE
+Project Engineer & Project: ORG
+June 2006: DATE
+WASHINGTON DC: GPE
+4500: CARDINAL
+Procurement, Contract Coordination: ORG
+LEED: PERSON
+Green Building Act: LAW
+AIA Contracts: ORG
+A-201: PRODUCT
+A-211: ORG
+A-111: ORG
+A-101: PERSON
+Prepare: ORG
+Completed: ORG
+one: CARDINAL
+weekly: DATE
+monthly: DATE
+monthly: DATE
+Requisition and Change Orders AIA Documents: WORK_OF_ART
+G702: CARDINAL
+G703: PRODUCT
+January 1996 to January 2006: DATE
+25: CARDINAL
+more than 4: CARDINAL
+Coordinated: PRODUCT
+Prepared: PERSON
+Completed: ORG
+20 million dollar: MONEY
+Prepared: PRODUCT
+Prepared: PERSON
+weekly: DATE
+monthly: DATE
+monthly: DATE
+G702: CARDINAL
+G703: PRODUCT
+G701: NORP
+G704: NORP
+Project Engineer: PERSON
+January 1989 to January 1990: DATE
+160: CARDINAL
+World Bank: ORG
+Turkish: NORP
+NATO: ORG
+1982: DATE
+Electrical Engineering Technical High School Istanbul Technical University: ORG
+ï¼​ City: GPE
+Turkey: GPE
+Old Dominion Information: ORG
+Virginia: GPE
+1997: DATE
+Certifications: ORG
+OSHA: ORG
+CPR & First Aid Training *: ORG
+Excel: PRODUCT
+Primavera P3: PERSON
+P6: ORG
+US: GPE
+Languages
+Proficient: ORG
+English: LANGUAGE
+Turkish Languages: ORG
+Italian: NORP
+Spanish: NORP
+Kurdish: NORP
+A+: NORP
+AIA: ORG
+AGENCY: ORG
+Auto Cad: ORG
+CAD: ORG
+Civil Engineering: ORG
+Contracts: ORG
+DC: GPE
+Engineer: ORG
+English: LANGUAGE
+FINANCE: ORG
+First Aid: ORG
+Italian: NORP
+Access: PRODUCT
+Excel: PRODUCT
+MS Office: ORG
+Power Point: ORG
+MS Project: ORG
+Microsoft Project: ORG
+Word: PERSON
+Primavera: ORG
+Quick Books: ORG
+Spanish: NORP
+Turkish: NORP
+US: GPE

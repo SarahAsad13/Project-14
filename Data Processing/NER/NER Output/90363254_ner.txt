@@ -1,0 +1,58 @@
+the Curriculum Development: FAC
+MS Office: ORG
+Learning Management Systems: ORG
+June 2012: DATE
+Current Teacher 
+
+: PERSON
+Trivium: ORG
+ADDIE: ORG
+4%: PERCENT
+AIMS: ORG
+one year: DATE
+three years: DATE
+Writing: GPE
+12%: PERCENT
+2015: DATE
+93%: PERCENT
+64%: PERCENT
+Maintained: GPE
+each year: DATE
+November 2009 to June 2012: DATE
+Facilitated: ORG
+Subject Matter
+Experts: PERSON
+Learning Management System for Quality Assurance: ORG
+24-48 hours: TIME
+20: CARDINAL
+the 2.5 years: DATE
+Â·UNV 103Â  & CWV 103/303 Â  Â  Â  Â 
+: MONEY
+the College of Fine Arts: ORG
+College of Arts & Sciences: ORG
+the College of Christian
+Studies: ORG
+Grand Canyon University: ORG
+Instructional Design: ORG
+65%: PERCENT
+Evaluated: ORG
+Academic Web Services: ORG
+September 2005 to September 2009: DATE
+Fine Arts: ORG
+four: CARDINAL
+40: CARDINAL
+the Learning Management System: ORG
+weekly: DATE
+University of Phoenix: ORG
+2007: DATE
+State: GPE
+U.S.A.: GPE
+ADDIE: ORG
+APA: ORG
+ESL Tutoring: ORG
+Arizona State University: ORG
+Interdisciplinary Arts & Performance-Visual Arts City: ORG
+State: ORG
+U.S.A.: GPE
+Completed: ORG
+Glendale Community College for Fine Arts Department: ORG

@@ -1,0 +1,182 @@
+Ganesh Seetharaman: PERSON
+Ganesh: ORG
+Solutions: FAC
+MCA: ORG
+Project Management
+Implementation Specialist: ORG
+WebLogic Server Administration
+Incident Management
+Database: ORG
+Oracle Cloud: PERSON
+People Management
+ITIL Service Management
+Oracle Enterprise: ORG
+Operations Management
+Change Management: ORG
+24X7: CARDINAL
+Database Administration: ORG
+Exadata: ORG
+X4-2: PRODUCT
+X3-2: PRODUCT
+Oracle Database: GPE
+10g/11: CARDINAL
+Middleware Administration: ORG
+Oracle WebLogic Server: ORG
+10.3.6, 10.3.5: DATE
+Oracle Application: ORG
+Oracle Management Server: ORG
+Primavera: ORG
+Linux: GPE
+Solaris: GPE
+Windows
+Database Tools: PERSON
+EM: ORG
+RAC: ORG
+RMAN: ORG
+Data Guard: ORG
+AWR/ADDM: ORG
+TKPROF: ORG
+SQLDeveloper
+Other: ORG
+Excel: PRODUCT
+MS Project: ORG
+Visio: PERSON
+F5: CARDINAL
+Global Traffic: ORG
+Quick: ORG
+12c: CARDINAL
+Apply BP: PRODUCT
+Plugins: PERSON
+Oracle Database: GPE
+Oracle WebLogic: ORG
+Anticipated: LOC
+Upgrade: GPE
+10: CARDINAL
+11204: DATE
+12c: CARDINAL
+Oracle Virtual Machines: ORG
+Oracle Exadata Machines Move: ORG
+ASM: ORG
+one: CARDINAL
+Upgrade Oracle WebLogic: ORG
+10.3.5: CARDINAL
+Web Tier: PERSON
+11.1.1.6 Apart: PERSON
+daily: DATE
+Oracle Public Cloud: ORG
+Oracle: NORP
+Cloudem: NORP
+12c: CARDINAL
+1000: CARDINAL
+Troubleshoot Oracle Management: ORG
+Troubleshoot: ORG
+Create IP: ORG
+Notification/Alerting: WORK_OF_ART
+Upgrade OMS: ORG
+Follow: PERSON
+Maintain: PERSON
+Automate: ORG
+EM: ORG
+EM: ORG
+Cloudem: NORP
+Recruit: ORG
+02/2005 - 11/2014: CARDINAL
+Principal: ORG
+Oracle Public Cloud's: ORG
+Monitoring Solution: ORG
+Operation: ORG
+20000: CARDINAL
+Fusion Middleware: ORG
+Oracle Public Cloud: ORG
+EM: ORG
+Oracle: ORG
+EM: ORG
+Operations: ORG
+OMS & agents: ORG
+EM: ORG
+SSL: ORG
+SSO: ORG
+TAS: ORG
+SAAS: PERSON
+Oracle: ORG
+10: CARDINAL
+11: CARDINAL
+12c: CARDINAL
+one: CARDINAL
+UNIX: ORG
+RAC: ORG
+20: CARDINAL
+Oracle Cloud Data Centers: ORG
+OMS: ORG
+Upgrade OMS: ORG
+Applying BP: ORG
+OMS: ORG
+Oracle: ORG
+Operations: ORG
+Oracle WebLogic: ORG
+Linux: GPE
+OFA: ORG
+the application Administration of
+Oracle 10g Application Server: ORG
+Explain Plan: PERSON
+SQL Trace: ORG
+TKPROF: ORG
+RDA: ORG
+STATSPACK: ORG
+Changes Monitoring Backup Schedules: ORG
+Provided 24x7: CARDINAL
+Database Reorganizations: ORG
+MCA: ORG
+Madurai Kamaraj University University of Madras - RKM: ORG
+Vivekananda College: PERSON
+TRAININGS: ORG
+Six Sigma: PERSON
+Green Belt: PERSON
+ITIL V3 Foundation: ORG
+Oracle DBA 10g/11: ORG
+OCP: ORG
+Oracle WebLogic Server/Application: ORG
+11: CARDINAL
+10g/11: CARDINAL
+Database Machine Administration: ORG
+PMP - Project
+Management Professional Training Pursuing AWS: ORG
+Math
+Skills: PERSON
+ASM: ORG
+Automate: GPE
+Backup: PERSON
+Change Management: ORG
+Computer Applications: WORK_OF_ART
+Clients, Database Administration: ORG
+DBA: ORG
+Database: GPE
+IP: ORG
+ITIL: ORG
+Linux: GPE
+People Management: ORG
+Excel: PRODUCT
+MS Project: ORG
+Windows: GPE
+Middleware: GPE
+Enterprise: ORG
+Operating System: ORG
+Operations
+Management: ORG
+Oracle Application: ORG
+Oracle Enterprise: ORG
+Oracle,: ORG
+Oracle DBA: ORG
+Oracle Database: GPE
+Primavera: ORG
+Project Management: ORG
+Quick: ORG
+Six: CARDINAL
+Solaris: GPE
+SQL: ORG
+SSL: ORG
+Troubleshoot: ORG
+UNIX: ORG
+Upgrade: PERSON
+Visio: PERSON
+WebLogic: ORG

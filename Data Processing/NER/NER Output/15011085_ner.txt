@@ -1,0 +1,227 @@
+12+ years: DATE
+Detail: PERSON
+Microsoft: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+ERP/System: ORG
+Facilitated: ORG
+month-end: DATE
+Created: ORG
+250K+: MONEY
+annual: DATE
+monthly: DATE
+KPI: ORG
+KPI: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+weekly: DATE
+monthly: DATE
+Created: ORG
+monthly: DATE
+PowerPoint: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+KPI: ORG
+KPI: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+weekly: DATE
+monthly: DATE
+Created: ORG
+monthly: DATE
+PowerPoint: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+KPI: ORG
+KPI: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+weekly: DATE
+monthly: DATE
+Created: ORG
+monthly: DATE
+PowerPoint: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+weekly: DATE
+monthly: DATE
+Created: ORG
+monthly: DATE
+PowerPoint: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+Standard: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+ERP: ORG
+quarterly: DATE
+annual: DATE
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+Standard: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+ERP: ORG
+quarterly: DATE
+annual: DATE
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+Standard: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+ERP: ORG
+quarterly: DATE
+annual: DATE
+Created: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+Standard: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+ERP: ORG
+quarterly: DATE
+annual: DATE
+Created: ORG
+Name City: GPE
+State: ORG
+month-end: DATE
+Created: ORG
+Created: ORG
+250M+: MONEY
+annual: DATE
+$350: MONEY
+P&L: ORG
+SG&A: ORG
+monthly: DATE
+Provide: NORP
+KPI: ORG
+Standard: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+ERP: ORG
+quarterly: DATE
+annual: DATE
+Created: ORG
+Name City: GPE
+State FINANCIAL ANALYST/PROJECT: ORG
+Monthly: DATE
+Financial: ORG
+each month: DATE
+Data Warehouse: ORG
+Oracle, OBIEE, EssBase: ORG
+Business Objects: ORG
+EOA: ORG
+Budget/Forecasting: ORG
+Prepare: ORG
+Executive Board: ORG
+Budgeting and Planning Application: ORG
+140: CARDINAL
+the Commercial Sales Business Initiate: ORG
+Six Sigma/Lean Management Certified: ORG
+Name City: GPE
+State: ORG
+Subject Matter Expert: PERSON
+Boston: GPE
+Dallas: GPE
+Name City: GPE
+Prepare daily: ORG
+monthly: DATE
+Accounting Department: ORG
+monthly: DATE
+daily: DATE
+Prepare daily: ORG
+monthly: DATE
+MBA: WORK_OF_ART
+City: GPE
+2003: DATE
+Southeastern Oklahoma State University: ORG
+City: GPE
+VITA: ORG
+Accounting Club: ORG
+Skills
+Accounting: ORG
+Budgeting and Planning, Business Analysis: ORG
+Finance Reporting: ORG
+Manufacturing Costing: ORG
+Oracle, Payroll, Risk: ORG
+Six Sigma: PERSON

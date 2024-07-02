@@ -1,0 +1,110 @@
+11 years: DATE
+InDesign: ORG
+Photoshop: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+October 2003: DATE
+State: ORG
+Ohio Teaching Licensure, Visual Arts: ORG
+daily: DATE
+Oak Hills School District Visual Arts Curriculum: ORG
+National Visual Arts Standards: ORG
+Ohio Visual Arts Standards: ORG
+October 2003: DATE
+Current Student: PERSON
+daily: DATE
+Oak Hills School District Visual Arts Curriculum: ORG
+National Visual Arts Standards: ORG
+Ohio Visual Arts Standards Initiated: ORG
+Cincinnati Art Museum: ORG
+Contemporary Arts Center: ORG
+Displayed: PERSON
+Delhi Public Library: ORG
+January 2004: DATE
+Current Visual Arts: ORG
+daily: DATE
+1: CARDINAL
+National Visual Arts Standards: ORG
+Ohio Visual Arts Standards Teach: ORG
+Evaluate: ORG
+quarterly: DATE
+Display: PERSON
+biannual: DATE
+Catholic Schools Week Open: ORG
+House: ORG
+annual: DATE
+Fine Arts Festival: EVENT
+the Scholastic Art Competition: ORG
+Ohio Art Education: ORG
+Cincinnati Arts Association Art Exhibit: ORG
+the Knights of Columbus Substance Abuse Awareness Poster Competition Facilitate: ORG
+Art Criticism: PERSON
+Jerry Tollifson Art: PERSON
+annual: DATE
+Xavier University May: ORG
+Mount St. Joseph University: ORG
+May, 2004: DATE
+May,: DATE
+May 1989: DATE
+Licensure Visual Arts Specialist: ORG
+Grades PK-12: ORG
+Ohio: GPE
+Cincinnati Art Museum Evenings: ORG
+Cincinnati: GPE
+Studio San: PERSON
+July - December 2004: DATE
+Life and Times of Education: ORG
+annual: DATE
+OAEA: ORG
+Columbus: GPE
+Ohio: GPE
+2001 - 2004: DATE
+2004: DATE
+MSJ Thesis Exhibit: ORG
+Studio San Guiseppe: PERSON
+2004 MSJ Annual Student Exhibit: DATE
+Studio San Guiseppe: PERSON
+2001 - 2004: DATE
+Art: PERSON
+Drawing, Illustrator: ORG
+InDesign: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Cincinnati Art Museum Evenings: ORG
+Cincinnati Art Museum: ORG
+Cincinnati: GPE
+Studio San Guiseppe Gallery: ORG
+Pendleton Arts Center: ORG
+July - December 2004: DATE
+Times of Education: ORG
+annual: DATE
+OAEA: ORG
+Columbus: GPE
+Ohio: GPE
+2001 - 2004: DATE
+2004: DATE
+Award Winner: PERSON
+Studio San Guiseppe: PERSON
+2004: DATE
+MSJ Annual Student Exhibit: ORG
+Studio San: PERSON
+Guiseppe: PERSON
+2001 - 2004: DATE
+Professional Affiliations
+
+: ORG
+National Art Education Association: ORG
+NAEA: ORG
+2002: DATE
+Ohio Art Education Association: ORG
+OAEA: ORG
+2000: CARDINAL
+Southwest Art Education Association: ORG
+2000: CARDINAL
+Cincinnati Art Museum: ORG
+1989: DATE
+Taft Art Museum: ORG
+2000: CARDINAL
+SWOAEA Nuts and Bolts: PRODUCT

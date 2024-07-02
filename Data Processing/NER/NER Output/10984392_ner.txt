@@ -1,0 +1,55 @@
+4.5 million dollar: MONEY
+Visionary: WORK_OF_ART
+Context/Command/Futuristic/Relator
+
+Key Skills: ORG
+January 2014: DATE
+Determine: ORG
+Operations: ORG
+January 2012 to January 2014: DATE
+14%: PERCENT
+Authored: PERSON
+January 2002 to January 2011: DATE
+52,000: MONEY
+2002: DATE
+2,000,000: CARDINAL
+2004: DATE
+4,500,000: MONEY
+fiscal 2011: DATE
+Toyota Motor Manufacturing: ORG
+Blue Springs: GPE
+Mississippi: GPE
+$2.3 million: MONEY
+Cincinnati: GPE
+OH: GPE
+Lexington: GPE
+KY: GPE
+Louisville: GPE
+KY: GPE
+Columbus OH: GPE
+Dayton: GPE
+OH: GPE
+Twice: ORG
+daily: DATE
+Vesta: PERSON
+Entrepreneur: ORG
+first: ORDINAL
+September 2008: DATE
+11%: PERCENT
+year: DATE
+2008 to 2009: DATE
+first: ORDINAL
+L-3: ORG
+Proctor and Gamble: ORG
+Toyota Motor Manufacturing: ORG
+BA: ORG
+1987: DATE
+University of Wisconsin Green Bay: ORG
+GPA: ORG
+3.47: CARDINAL
+GPA: ORG
+3.47: CARDINAL
+German: NORP
+Personality: ORG
+CNBC: ORG
+Apple: ORG

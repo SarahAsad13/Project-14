@@ -1,0 +1,78 @@
+Core Qualifications
+Ability: ORG
+WordPerfect: ORG
+Microsoft: ORG
+PowerPoint: ORG
+Leadership: NORP
+Language Arts: WORK_OF_ART
+August 2007: DATE
+Current Company Name - City: ORG
+Co-Advisor Team: ORG
+August 1995 to: DATE
+May 2007: DATE
+Seventh: ORDINAL
+Language Arts: LOC
+Augmented Benchmark Test: ORG
+hours: TIME
+Teach Language Arts: ORG
+daily: DATE
+sixth: ORDINAL
+Benchmark: PERSON
+Language Arts: LOC
+Assess: ORG
+Southeast Middle School: ORG
+the school year: DATE
+the Pine Bluff School District: ORG
+Pine Bluff School District: ORG
+Pine Bluff: GPE
+Arkansas: GPE
+Reading, Social Studies: ORG
+Arkansas History: PERSON
+Science: ORG
+August 1988 to: DATE
+May 1995: DATE
+years: DATE
+Tutored: PRODUCT
+fifth: ORDINAL
+Math and Language Arts: WORK_OF_ART
+Fifth: ORDINAL
+Arkansas: GPE
+Maintained: GPE
+Fun Day: WORK_OF_ART
+Working Parents Child Care
+Center: ORG
+Pine Bluff: GPE
+Arkansas: GPE
+four year old: DATE
+one: CARDINAL
+one: CARDINAL
+May 2005: DATE
+University of Arkansas: ORG
+Pine Bluff - City: FAC
+State: GPE
+USA: GPE
+May 1995: DATE
+University of Arkansas: ORG
+Pine Bluff - City: FAC
+State: GPE
+USA: GPE
+Professional Affiliations
+
+: ORG
+AEA: ORG
+Arkansas Education Association: ORG
+Pathwise Mentor: ORG
+Skills: ORG
+Arts: ORG
+Math: PERSON
+PowerPoint: ORG
+Microsoft: ORG
+Organizational Skills: ORG
+SAT: ORG
+WordPerfect
+Additional Information
+
+Elementary: ORG
+Pathwise Mentor Teacher
+
+: WORK_OF_ART

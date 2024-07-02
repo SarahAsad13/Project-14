@@ -1,0 +1,64 @@
+7-12: CARDINAL
+English: LANGUAGE
+ELA: ORG
+ESL: ORG
+Connecticut: GPE
+Background Urban: ORG
+Grades: PERSON
+7-12: CARDINAL
+Ph.D.: WORK_OF_ART
+Psi Chi International: PERSON
+NCTE: PERSON
+APA Graduate: PERSON
+National Institute of Health/ For
+Human Participants Approved: ORG
+Ongoing PD: PERSON
+Developed: PRODUCT
+5x: CARDINAL
+8th: ORDINAL
+18%: PERCENT
+previous year: DATE
+higher than 2: CARDINAL
+MS Office / Technology: ORG
+0-45: DATE
+85-100: CARDINAL
+TESOL: ORG
+35: CARDINAL
+Coordinated: ORG
+7th: ORDINAL
+8th: ORDINAL
+2: CARDINAL
+annually: DATE
+English: LANGUAGE
+Oct 2014: DATE
+ESL: ORG
+ESL: ORG
+Individual Education: ORG
+Established: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Kept: PERSON
+Established: NORP
+English Jan 2002: DATE
+May 2014: DATE
+2: CARDINAL
+Kept: PERSON
+English: LANGUAGE
+SAT: ORG
+English: LANGUAGE
+1998: DATE
+5: CARDINAL
+Met: ORG
+Created: ORG
+Revised curricula: PERSON
+2012: DATE
+State: GPE
+Transcripts: ORG
+Master of Science: WORK_OF_ART
+English 1999: DATE
+Southern CT State University - City: ORG
+State: GPE
+Southern CT State University - City: ORG
+State: GPE
+USA: GPE

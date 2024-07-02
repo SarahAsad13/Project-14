@@ -1,0 +1,52 @@
+Summary
+Work Ethic: WORK_OF_ART
+Â  Personal Ownership, Responsibility, Adaptability: ORG
+Microsoft Office: ORG
+March 2015: DATE
+Name City: GPE
+State Engineer
+
+Assisted: ORG
+Performed: ORG
+Troubleshot: PERSON
+Coordinated: ORG
+Collaborated: ORG
+Completed: ORG
+Completed: ORG
+January 2012: DATE
+Name City: GPE
+Examine: PRODUCT
+Assemble: PRODUCT
+Order: ORG
+Prepare: ORG
+January 2004: DATE
+September 2013: DATE
+Name City: GPE
+State Healthcare Provider: ORG
+Provided Healthcare: ORG
+Home Patient: ORG
+January 2000: DATE
+January 2004: DATE
+Name City: GPE
+State: ORG
+Arcade Repairman: PERSON
+Test: ORG
+ATM: ORG
+Order: ORG
+Refer: PRODUCT
+Aug 2000: DATE
+Traverse City West High School City: ORG
+State: GPE
+United States: ORG
+State: ORG
+USA Associate of Arts: ORG
+Graphic Art and Design
+Skills: PERSON
+40: CARDINAL
+Networking (Computer: ORG
+Computer Management
+Rebuild/Repair Computer: ORG
+Computer Software Installation: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG

@@ -1,0 +1,77 @@
+BUSINESS DEVELOPMENT SPECIALIST
+
+Summary
+
+Dynamic: ORG
+Banking Professional: ORG
+15 years: DATE
+Many years: DATE
+Trainer: FAC
+Highlights
+
+Management
+Customer Service: ORG
+Creative Solutions: WORK_OF_ART
+IBC Bank: ORG
+First National Bank: ORG
+PlainsCapital Bank: ORG
+-Elected Board: ORG
+Edinburg: GPE
+Business Development Specialist 11/2014: ORG
+State: ORG
+Mister: PERSON
+South
+: GPE
+Texas: GPE
+Mister: PERSON
+Mister: PERSON
+09/2013: CARDINAL
+Name City: GPE
+400+: DATE
+3: CARDINAL
+Coordinated: ORG
+400+: DATE
+3: CARDINAL
+Commercial Sales & Services: ORG
+05/2012 ï¼​ 01/2013 Company Name City: ORG
+Remote Deposit Capture: ORG
+Cultivated: ORG
+Conducted: ORG
+05/2012: CARDINAL
+Name City: GPE
+State: ORG
+Remote Deposit Capture: ORG
+Cultivated: ORG
+Conducted: ORG
+Name City: GPE
+Corporate Training and Corporate Human Resources: ORG
+400: CARDINAL
+Monthly: DATE
+annual: DATE
+4: CARDINAL
+Name City: GPE
+CTR: ORG
+State: ORG
+Consolidated: ORG
+CTR Reports: ORG
+Crucial: ORG
+Name City: GPE
+7: CARDINAL
+Training: PERSON
+Name City: GPE
+GL: ORG
+a Specialty Teller: ORG
+Teller: PERSON
+Food Stamp Processing
+Foreign Exchange Processing: WORK_OF_ART
+2012: DATE
+American Intercontinental University - Business Management - Marketing City: ORG
+State: GPE
+US: GPE
+Coursework in Business Management: ORG
+Marketing: GPE
+Skills
+
+Computer: ORG
+Interpersonal, Customer Service: ORG
+Presentational: NORP

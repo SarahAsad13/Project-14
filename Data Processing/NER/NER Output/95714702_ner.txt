@@ -1,0 +1,75 @@
+five years: DATE
+the United States Army: ORG
+the end of the week: DATE
+Jeanette Bellamy: PERSON
+Highlights: GPE
+Microsoft Office: ORG
+Strong: PERSON
+DHCP/DNS Ethernet: ORG
+Firewall: PERSON
+MS Office: ORG
+AVG: GPE
+Printers: PERSON
+August 2014: DATE
+Current Company Name: ORG
+Time Warner Cable Quality: ORG
+Utilizing the Time
+Warner Cable Quality: ORG
+Calibrate: ORG
+New Hire: GPE
+Quality: ORG
+May 2013 to August 2014: DATE
+Utilizes: ORG
+TWC: ORG
+TWC: ORG
+TWC: ORG
+April 2012 to April 2013: DATE
+30 hrs/week: DATE
+Company: ORG
+Maintained: GPE
+July 2011 to April 2012: DATE
+30 hrs/week: DATE
+Management Excellence Series: EVENT
+September 2010: DATE
+30 hrs/week: DATE
+Integrated: NORP
+RIT: ORG
+May 2008 to December 2009: DATE
+40hrs/week: DATE
+Questioned: PERSON
+Broke: PRODUCT
+Determined: PRODUCT
+November 2002 to July 2007: DATE
+40hrs/week: DATE
+five years: DATE
+the U.S.
+Army: ORG
+U.S.: GPE
+Supervised: PERSON
+over 10,000: CARDINAL
+more than 20,000: CARDINAL
+daily: DATE
+Bachelor of Science : Business Administration Computer Information Systems: ORG
+May 2013: DATE
+North Carolina Central University: ORG
+ï¼​ City: GPE
+State
+Business Administration Computer Information Systems: ORG
+March 2016: DATE
+University of Phoenix ï¼​ City: ORG
+December 2009: DATE
+ITT Technical Institute: ORG
+State Computer Network
+Systems: ORG
+Interests: NORP
+ITT Technical Institute: ORG
+NCCU: PERSON
+Iota Tau Chapter of Phi Beta Lambda, INC
+Skills: ORG
+Army: ORG
+Quality: ORG
+ITT Technical Institute: ORG
+NCCU: PERSON
+Iota Tau Chapter of Phi Beta Lambda, INC
+
+: ORG

@@ -1,0 +1,18 @@
+INTERIOR: ORG
+Interior: ORG
+January 2011: DATE
+March 2006 to January 2011 Company Name ï¼​ City: DATE
+May 2005: DATE
+August 2009: DATE
+Maintained: GPE
+Designers i / Owner: ORG
+Originate: ORG
+Facilitate: ORG
+Associate of Arts : Interior Design: ORG
+2008: DATE
+Southwest University of Visual Arts: ORG
+Art History: PERSON
+Art History: PERSON
+New Mexico: GPE
+Universtiy - Las Cruces: ORG
+NM: ORG

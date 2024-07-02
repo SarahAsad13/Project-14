@@ -1,0 +1,107 @@
+Summary
+Highly: ORG
+Software Development, Software Configuration Management: ORG
+Project Management, System Planning & Specification Development: ORG
+Detail: PERSON
+Information Technology Specialist: ORG
+August 2006: DATE
+over 150: CARDINAL
+per month: DATE
+Software: PERSON
+Customer Requirements Documents: ORG
+Governance Specifications: PERSON
+Document: FAC
+Evaluate: ORG
+CM: ORG
+CM: ORG
+Coordinate: FAC
+the Serena Business Management: ORG
+SBM: ORG
+Collaborated: ORG
+SBM: ORG
+SBM: ORG
+Serena Version: ORG
+WinSCP: PERSON
+SharePoint Site: ORG
+Division: ORG
+Document CM: PERSON
+CM: ORG
+Division: ORG
+CMMI: ORG
+Solve: ORG
+CM: ORG
+Capability Maturity Model Integration: ORG
+Computer Specialist: ORG
+August 1996 to August 2006 Company Name
+
+: DATE
+Communicated: ORG
+MAF/TIGER: ORG
+Oracle: ORG
+Oracle: NORP
+Oracle: NORP
+PL/SQL: ORG
+SQL: ORG
+Shell: ORG
+LINUX: ORG
+JavaScript: ORG
+SAS: ORG
+GEO: ORG
+Computer Specialist: ORG
+July 1994 to August 1996: DATE
+Computer Assisted Survey Information Collection: ORG
+CASIC: ORG
+CAI: ORG
+Collaborated: ORG
+the Survey of Inmates of Local Jails: ORG
+Mathematical Statistician: ORG
+February 1988 to July 1994: DATE
+the Research & Methodology Branch: ORG
+the Industry Division: ORG
+PPS: ORG
+Designedcomputer: PERSON
+annual: DATE
+monthly: DATE
+Applied Probabilty: ORG
+Statistics University of Maryland: ORG
+Physical Geography Indiana University: ORG
+Composer: PERSON
+Serena Business Manager Administrator
+Configuration: ORG
+Release Management Training: ORG
+JDeveloper
+Java Programming
+Object Oriented Programming
+: PERSON
+Intro: ORG
+UNIX Systems: ORG
+SAS: ORG
+SQL Processing: ORG
+SAS: ORG
+SAS: ORG
+Table Processing: WORK_OF_ART
+SAS: ORG
+Demand Terminal Language
+Package References
+Objects: WORK_OF_ART
+Modules: PERSON
+Skills
+Configuration Management: ORG
+Database Management, Software Development: ORG
+Serena Version: ORG
+Serena Business Manager: ORG
+Serena Business Administrator: ORG
+Reflections: GPE
+WinSCP: ORG
+JavaScript: ORG
+LINUX: ORG
+Microsoft: ORG
+Access, Office: ORG
+SharePoint: ORG
+Enterprise: ORG
+Oracle: ORG
+PL/SQL: ORG
+Oracle SQL: ORG
+SAS: ORG
+LINUX: ORG
+Visual Basic: PERSON

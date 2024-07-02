@@ -1,0 +1,509 @@
+25 years: DATE
+OEM: ORG
+AV: ORG
+IPTV: ORG
+Fortune 500: LAW
+Telco/CSP/Mobile: ORG
+International
+Governments, Government Ministries: ORG
+healthcare: ORG
+billions: CARDINAL
+the past 20 years: DATE
+CDO: ORG
+CSO: ORG
+Strategy Officer: PERSON
+CTO: ORG
+20+ years: DATE
+Cloud: PERSON
+SKD: ORG
+Silicon Valley: LOC
+Video Integration: ORG
+Network: ORG
+Optimizing: GPE
+Customer: ORG
+Core Accomplishments
+
+Vast technical knowledge
+Patient: WORK_OF_ART
+Digital: ORG
+IPTV: ORG
+Broadcast Systems: ORG
+Media Server: ORG
+DHCP/DNS Ethernet: ORG
+Firewall: PERSON
+3: CARDINAL
+Hardware: ORG
+IPTV: ORG
+7: CARDINAL
+4: CARDINAL
+SVP System Integration: ORG
+June 2009: DATE
+Current Company Name: ORG
+SVP System Integration: ORG
+Hardware: ORG
+MPLS: ORG
+Mobile TV: ORG
+Cloud Video: PERSON
+17: CARDINAL
+Digital Media and Entertainment Group: ORG
+March 2009 to June 2011 Company Name: DATE
+DME: ORG
+Digital Media and Entertainment: ORG
+Fortune 100-500: DATE
+CSP: ORG
+Telcos: ORG
+Alcatel: GPE
+Cisco: GPE
+Scientific Atlanta: GPE
+Yahoo: GPE
+QUALCOMM: ORG
+NTT: ORG
+CTO: ORG
+January 2007 to September 2009: DATE
+One: CARDINAL
+4: CARDINAL
+CTO: ORG
+IPTV/VOD/MobileTV: ORG
+UI: ORG
+Awarded 5: FAC
+7: CARDINAL
+IOS: ORG
+Android: ORG
+Telco/CSP: ORG
+EVP Operations: ORG
+EVP/GM of Engineering, Television Design Center: ORG
+January 2004 to January 2007: DATE
+State: ORG
+EVP Operations: ORG
+EVP/GM of Engineering, Television Design Center: ORG
+EVP: ORG
+Established China: LOC
+ShenZhen: GPE
+China: GPE
+China: GPE
+LCD Televisions: ORG
+Japan: GPE
+Korea: GPE
+CE: ORG
+LCD: ORG
+CE: ORG
+500: CARDINAL
+QA: ORG
+CE: ORG
+Samsung: ORG
+LG: ORG
+Sony: ORG
+Matsushita: ORG
+Mitsubishi: ORG
+Sharp: ORG
+Sanyo, Panasonic: PERSON
+Posdata: GPE
+Rifatron: ORG
+Hitachi: ORG
+Hyundai: ORG
+Established: ORG
+CE: ORG
+China: GPE
+TCL: ORG
+Konka: ORG
+HiSense: GPE
+Jizhou: GPE
+Skyworth: GPE
+Lenovo: ORG
+UT Starcom: ORG
+Haier: ORG
+Innolux: GPE
+TPV: ORG
+YDF: ORG
+Xoceco: ORG
+SVA: ORG
+Founder: PERSON
+2: DATE
+3: CARDINAL
+Samsung: ORG
+Celestica: GPE
+Alphameric: GPE
+Vestel: ORG
+Beko: PERSON
+Grundig: GPE
+Hyundai: ORG
+Sony: ORG
+Samsung: ORG
+LG: ORG
+Matsushita: ORG
+Sharp: ORG
+Sanyo: PERSON
+Hitachi for TV: ORG
+EVP Worldwide System Integration and Professional Services: ORG
+January 2003 to January 2004: DATE
+State: ORG
+EVP Worldwide System Integration and Professional Services: ORG
+MPEG4-H.264 End-to-Platform: PRODUCT
+the
+Chinese Government: ORG
+Set Top Boxes: PERSON
+IPTV: ORG
+Digital Cinema: ORG
+Established MPEG4: PRODUCT
+Cable, Terrestrial,: ORG
+Satelitte: PERSON
+Mobile: ORG
+China: GPE
+Japan: GPE
+India: GPE
+China: GPE
+SARFT: ORG
+China Telecom: ORG
+China Netcom: ORG
+VP Global Professional Services: ORG
+Integration and Technical Services: ORG
+January 2000 to January 2003: DATE
+H.264: PERSON
+IP: ORG
+QAM: ORG
+Wireless: ORG
+Mobile: ORG
+Satellite: ORG
+EDS: ORG
+IBM Global and Accenture: PRODUCT
+Sony: ORG
+Samsung: ORG
+Yahoo, Pioneer: ORG
+Panasonic: ORG
+Intel: ORG
+NIST: ORG
+Matsushita: ORG
+Fuji/Xerox: ORG
+Cisco: GPE
+Japan: GPE
+NTT Comm: ORG
+NTT East: ORG
+China Telecom: ORG
+China: GPE
+NHK: ORG
+Teleman: ORG
+Daikin: ORG
+Hunan Government: ORG
+Kao Cosmetics: ORG
+Dai Nippon Printing: ORG
+DNP: ORG
+Dentsu International: ORG
+Shobi
+University: ORG
+B & H: ORG
+Dazzle: PRODUCT
+Broadfield: ORG
+China Education TV: ORG
+Sony: ORG
+Beijing Dawning Computer: ORG
+NASA: ORG
+Belo: PERSON
+PAX: ORG
+Turner
+Broadcasting: ORG
+IP: ORG
+SDK: ORG
+Mobile
+Phones: ORG
+Set Top Boxes: PERSON
+Sharp: ORG
+Toshiba: ORG
+Sony: ORG
+Daikin: ORG
+Savaje: ORG
+Nokia: ORG
+CTC: ORG
+DSP: ORG
+CE: ORG
+MPEG-4: PERSON
+Texas Instruments: ORG
+Tut Systems: ORG
+Advanced Communications: ORG
+Roxus Technology: ORG
+DG2L: ORG
+Samsung: ORG
+Sony: ORG
+Fuji/Xerox: ORG
+VideoTele: ORG
+Savaje Technology: ORG
+Equator: ORG
+LSI Logic: ORG
+Sharp: ORG
+Toshiba: ORG
+SeaChange: ORG
+Onewave: NORP
+Turner Broadcasting: ORG
+Fox: ORG
+MTV: ORG
+Discovery Channel, Cox: ORG
+Disney: ORG
+HBO: ORG
+Warner Brothers: ORG
+Sony Entertainment: ORG
+2 years: DATE
+4: CARDINAL
+China: GPE
+1: CARDINAL
+Japan: GPE
+System Integrator: PRODUCT
+36: CARDINAL
+SI: ORG
+Asia Pacific: LOC
+South America: LOC
+India: GPE
+Australia: GPE
+Europe: LOC
+VOD: PERSON
+IPTV, Cable: ORG
+e-Learning: ORG
+over 60%: PERCENT
+annually: DATE
+SI: ORG
+Asia Pacific: LOC
+Itochu/CTC: ORG
+Hwacom: ORG
+Comtech: ORG
+Sobey: GPE
+Dayang: GPE
+Bluewave: GPE
+Daikin: ORG
+ShenZhen Ricom: ORG
+Lian Dian Digital: PERSON
+Truetech: ORG
+MinYoung Media: ORG
+Hunan: GPE
+Onewave Technology: ORG
+Ouija Technology: ORG
+Telelynx: GPE
+Oriental Telemedia: GPE
+Instec: GPE
+Cisco: GPE
+System: PERSON
+Professional Services: ORG
+January 1998 to January 2000: DATE
+MPEG-1: GPE
+2: DATE
+4: CARDINAL
+H.264: PERSON
+WMT: ORG
+VCD: ORG
+Streaming21: GPE
+Avid Technology: PERSON
+Compaq: ORG
+Dell: ORG
+EDS: ORG
+IBM Global: PRODUCT
+Ciprico: PERSON
+EMC: ORG
+EDS: ORG
+ADC: ORG
+Kabira: PERSON
+Digital Fairway,: FAC
+Arista: PERSON
+Upperstream: GPE
+Futuretel: ORG
+GDC: ORG
+Todd
+VNM: PERSON
+ISTS: ORG
+Accucom: ORG
+Ariscom: ORG
+Data Direct, Fantastic: ORG
+Network Engines: ORG
+Stellar One: ORG
+Motorola: ORG
+Proton, Philips: ORG
+Sony: ORG
+Neon
+Technology: ORG
+Elastic Networks: ORG
+Acer: ORG
+James Cameron: PERSON
+Titanic: ORG
+18M.: MONEY
+Established: ORG
+an additional 25%: PERCENT
+the Solutions Group: ORG
+S21: ORG
+Digital Media Technology: ORG
+January 1997 to January 1999: DATE
+Hammer: PERSON
+Hammer: PERSON
+Hammer: PERSON
+Disney Television Animation Worldwide: ORG
+Disney Feature Animation: ORG
+Disney On-line: ORG
+Walt Disney
+Imagineering: PERSON
+Lightpoint Entertainment: ORG
+FullSail: PERSON
+Dreamquest Images: GPE
+Skywalker
+Sound: PRODUCT
+JAK Films: PERSON
+DreamWorks: ORG
+Industrial Light: ORG
+Magic: ORG
+Pixar: PERSON
+Digital Domain: ORG
+CNN: ORG
+PDI: ORG
+Sony: ORG
+HBO: ORG
+Universal: ORG
+Nickelodeon: ORG
+MTV: ORG
+Toon City: GPE
+Metropolis Digital: PERSON
+MCI: ORG
+NBC: ORG
+WB: ORG
+Fox Animation Studios: ORG
+Martha Stewart Living Studios: ORG
+Buena Vista: ORG
+Home Entertainment: ORG
+MCA Home Entertainment: ORG
+Lockheed Martin: PERSON
+Manex Group: ORG
+Associated Press: ORG
+A.G.
+Edwards: ORG
+NYU Tisch School for Film and Video: ORG
+Bloomberg: GPE
+USC: ORG
+Lawrence Livermore Labs: PERSON
+Toyota: ORG
+George Lucas for Star Wars: PERSON
+Episode I.: PERSON
+Disney: ORG
+Hammer: PERSON
+45M.: MONEY
+Started theFibre Channel SAN: ORG
+Division of Hammer Storage
+Solutions: ORG
+Hammer: ORG
+Bell Micro: ORG
+Media Arts Division: ORG
+January 1996 to January 1997: DATE
+Andataco: GPE
+Andataco: GPE
+Animation: ORG
+Post Production: ORG
+the Motion Picture, Post Production: ORG
+Andataco: GPE
+the Motion picture/Entertainment Industry: LAW
+MRD: ORG
+January 1994 to January 1996: DATE
+Post Production: ORG
+Grew: PERSON
+$19 million: MONEY
+annual: DATE
+$98 million: MONEY
+just 2.5 years: DATE
+Received 1 Emmy: PERSON
+2: CARDINAL
+Clio: PERSON
+January 1991 to January 1994: DATE
+State: ORG
+Lambert: PERSON
+Feature Films: PERSON
+Lambert: PERSON
+Established: ORG
+Lambert Industries: ORG
+Universal Studios: ORG
+Warner Brothers: ORG
+20th: ORDINAL
+Century Fox: ORG
+Lambert Industries: ORG
+$12.5 Million: MONEY
+$46 Million: MONEY
+Lambert: ORG
+Lambert: ORG
+Ancillary: GPE
+60: CARDINAL
+four: CARDINAL
+January 1987 to January 1991: DATE
+Travel Video Media: ORG
+first: ORDINAL
+2rd: ORDINAL
+100,000: CARDINAL
+3: CARDINAL
+250: CARDINAL
+$175M: MONEY
+3 years: DATE
+first: ORDINAL
+Sony: ORG
+Digital: ORG
+Abekas: GPE
+Quantel: ORG
+Ultimatte Technology: ORG
+first: ORDINAL
+3: CARDINAL
+MTV: ORG
+HBO: ORG
+Disney: ORG
+Paramount: ORG
+Twentieth Century Fox: FAC
+Disney Studios: ORG
+Orlando Florida: ORG
+January 1985 to January 1987: DATE
+25: CARDINAL
+two years: DATE
+3 Clio awards: QUANTITY
+January 1982 to January 1985: DATE
+Bob Evans: PERSON
+Cast: PERSON
+First AD: EVENT
+January 1980 to January 1982: DATE
+first: ORDINAL
+Greenbriar Productions: ORG
+N.
+Lee Lacy Associates: PERSON
+N.
+Lee Lacy Associates: PERSON
+7 months: DATE
+14 months: DATE
+Clio: PERSON
+United Airlines: ORG
+N.
+Lee Lacy Associates: PERSON
+BA : Communication Boston University: ORG
+ï¼​ City: GPE
+Arts: ORG
+Avid: PERSON
+Broadcasting: GPE
+Cable TV: ORG
+China: GPE
+Hardware: GPE
+Multiplexers: NORP
+LCD TV: ORG
+DSP: ORG
+Film: PERSON
+Intel: ORG
+IPTV: ORG
+MPEG2: ORG
+MPEG4: GPE
+H.264: PERSON
+HEVC: ORG
+2: CARDINAL
+4: CARDINAL
+Motorola: ORG
+Networks: ORG
+Packaging: PERSON
+Press: ORG
+QA: ORG
+RAID: ORG
+RFP: ORG
+SAN: ORG
+Sound: GPE
+System Architect: ORG
+Telecom: GPE
+Phones: ORG
+Mobile: ORG
+3: CARDINAL
+NMS: ORG
+EMS: ORG
+CSP: ORG
+7: CARDINAL
+7: CARDINAL
+5: CARDINAL

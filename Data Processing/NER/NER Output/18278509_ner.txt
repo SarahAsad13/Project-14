@@ -1,0 +1,44 @@
+5+ years: DATE
+â€¢ Substantial: PRODUCT
+North America: LOC
+Europe: LOC
+Asia: LOC
+China: GPE
+Singapore & South Korea: ORG
+â€¢ Understanding: WORK_OF_ART
+July 2009: DATE
+LCG Primeview: ORG
+July 2008: DATE
+Researched: ORG
+Associates: ORG
+July 2007: DATE
+July 2006 City: DATE
+Hampden-Sydney College 2010 Bachelor of Arts : Economics and Commerce City: ORG
+State: ORG
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.3: CARDINAL
+Sigma Chi Fraternity: PERSON
+Society of '91: ORG
+Student Leadership Program
+
+Interests
+
+Additional Information: ORG
+Sigma Chi Fraternity: PERSON
+Rush Committee: ORG
+Social Committee: ORG
+2008: DATE
+Society of '91: ORG
+Student
+Leadership Program: ORG
+2009: DATE
+Ridgewood High School Basketball Team 2005-2006: ORG
+Corporate Finance: ORG
+Economics, Equity, Financial, Financial
+Accounting: ORG
+Financial Modeling: ORG
+Managerial, Managing,: ORG
+Managerial Accounting: ORG
+Venture Capital: ORG

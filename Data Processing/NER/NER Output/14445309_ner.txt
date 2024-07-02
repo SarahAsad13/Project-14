@@ -1,0 +1,97 @@
+two years: DATE
+two years: DATE
+the
+U.S. Department of State
+
+Core Qualifications
+KEY QUALIFICATIONS: ORG
+Maryland Bar
+Statutory Public Policy: ORG
+Advocate: ORG
+01/2011 to 01/2013 Company Name: ORG
+State
+
+Represented: ORG
+Strategized: PERSON
+504: CARDINAL
+first: ORDINAL
+Fort Meade: FAC
+DC: GPE
+Family
+Action Board: ORG
+The Kimbrough Military Treatment Patient Family Action Council: ORG
+the National Military Officer Association of America
+Spouse Advisory Panel: ORG
+United States Foreign Service Officer: ORG
+Student , Department of State, Foreign Service Institute: ORG
+Studied German: NORP
+Europe: LOC
+German/American Relations: ORG
+American/ EU: ORG
+German: NORP
+Learned European: NORP
+Western Europe: LOC
+Eastern Europe: LOC
+Balkans: LOC
+Department of State: ORG
+Africa: LOC
+the Annual Congressional Religious Freedom Report: EVENT
+Western: NORP
+Africa: LOC
+Coordinated: ORG
+U.S.: GPE
+Africa: LOC
+State Department: ORG
+Africans: NORP
+Department of State: ORG
+Political/ Military Bureau: ORG
+State: ORG
+the Political/Military Bureau: ORG
+the Office of the Assistant: ORG
+ten: CARDINAL
+300: CARDINAL
+State: ORG
+National Security Council: ORG
+State: ORG
+State: ORG
+Liaison with Legislative Affairs Bureau: ORG
+Congressional: NORP
+State: ORG
+the Political/Military Bureau: ORG
+nine: CARDINAL
+hours: TIME
+Volunteer Public Advocate: PERSON
+01/1997: CARDINAL
+State: ORG
+504: CARDINAL
+Interpreted: ORG
+Drafted: ORG
+Juris: PERSON
+Georgia State University: ORG
+State: GPE
+US: GPE
+Georgia State University: ORG
+GSU) College of Law: ORG
+Jurist: NORP
+Atlanta: GPE
+GA
+
+International: ORG
+Johannes Kepler University: ORG
+School of Law ï¼​ City: ORG
+Austria: GPE
+Johannes Kepler University: ORG
+School of Law, International Arbitration: ORG
+Bachelor of Arts : Government and Communications Evangel University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Professional Affiliations
+
+: ORG
+Austria: GPE
+Springfield: GPE
+MO: GPE
+Summa cum Laude
+Evangel University: PERSON
+Liaison, Federal Government: ORG

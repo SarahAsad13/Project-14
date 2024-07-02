@@ -1,0 +1,96 @@
+Consulting: ORG
+Software: NORP
+Life Cycle: PERSON
+11/2014: CARDINAL
+P & C: ORG
+UAT: ORG
+P & C: ORG
+Technical Project: ORG
+Commercial Lines Expansion Project: ORG
+1.5%: PERCENT
+about $35,000,000: MONEY
+Ernst & Young Led: ORG
+Accelio: PERSON
+Adobe: PERSON
+P & C Insurance: ORG
+P & C: ORG
+P & C
+Insurance: ORG
+the Office of Foreign Assets Control (OFAC): ORG
+POINT: ORG
+over 40%: PERCENT
+UAT: ORG
+UAT: ORG
+CRM: PRODUCT
+CRM: PRODUCT
+Imaging: GPE
+Guy Carpenter: PERSON
+Commercial: ORG
+Software Engineer: PERSON
+01/2000: CARDINAL
+Maintained: GPE
+Analyst Programmer: PERSON
+11/1997: CARDINAL
+12/2000: CARDINAL
+Centura: GPE
+Oracle: ORG
+P & C Insurance: ORG
+Tourism and Garage Liability: ORG
+Sul America: ORG
+Centura: GPE
+Oracle: ORG
+Asbestos: PERSON
+Zurich American: PERSON
+SQL Windows: ORG
+Oracle: ORG
+General
+Motors Corporation: ORG
+Centura Developer: ORG
+Oracle: ORG
+RFP: ORG
+SME: ORG
+16: CARDINAL
+P&C Insurance: ORG
+32: CARDINAL
+Mentored: ORG
+2000: DATE
+South Carolina: GPE
+City: GPE
+State: GPE
+1992: DATE
+Gujarat University: ORG
+State: GPE
+India: GPE
+Technical Project: ORG
+Commercial Lines Expansion Project: ORG
+1.5%: PERCENT
+about $35,000,000: MONEY
+the end of 2011: DATE
+Application: PRODUCT
+Ernst & Young Leadership in Application Design: ORG
+Development and Deployment: Technically: ORG
+Accelio: PERSON
+Adobe: PERSON
+P & C Insurance: ORG
+P & C Insurance: ORG
+the Office
+of Foreign Assets Control (OFAC) Leadership: ORG
+Assembler: PERSON
+Carpenter: PERSON
+CL: ORG
+CRM: PRODUCT
+Database: GPE
+Delphi: ORG
+Imaging, Insurance, Languages: ORG
+Access Basic, Office: ORG
+MS-Office: ORG
+MS-Project: ORG
+Windows: GPE
+Operating Systems: ORG
+Oracle, Developer, Pascal: ORG
+RFP: ORG
+SQL Server: PERSON
+SQL
+Windows: ORG
+UNIX: ORG
+Visio: PERSON

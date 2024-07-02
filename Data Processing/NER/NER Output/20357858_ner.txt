@@ -1,0 +1,84 @@
+FOUNDER: ORG
+PowerPoint: PRODUCT
+Cloud Document: WORK_OF_ART
+Excel: PRODUCT
+Google Drive: FAC
+Access
+Outlook: PRODUCT
+FOUNDER: ORG
+TOOLS: DATE
+10 to 63: CARDINAL
+530%: PERCENT
+Platinum Clubs of America: ORG
+the Golf Business Network: ORG
+2014: DATE
+GBN: ORG
+GBN: ORG
+One: CARDINAL
+GBN: ORG
+PartnerPlus: PRODUCT
+GBN: ORG
+76: MONEY
+12 months: DATE
+L.E.N.: ORG
+LUXURY LIFESTYLE APPAREL: PERSON
+Procured 22: PRODUCT
+L.E.N.: ORG
+150K+: MONEY
+L.E.N.: ORG
+TALGRACE MARKETING - DIGITAL MARKETING AGENCY: ORG
+Butterfield Country Club: ORG
+Glen Oak Country Club: ORG
+Ruth Lake Country Club: PERSON
+Valley Lo Club: PERSON
+Elgin
+Country Club: ORG
+Oak Park Country Club: ORG
+Montini Catholic High School: ORG
+Facilitated: ORG
+Golfsmith.com: ORG
+PGA Tour: ORG
+2011: DATE
+60: CARDINAL
+Name City: GPE
+Mercedes-Benz: ORG
+Allstate: ORG
+Castrol Oil: ORG
+Directed BP Amoco's: ORG
+500: MONEY
+CarDomain: ORG
+Name City: GPE
+119%: PERCENT
+2007: DATE
+900K+: MONEY
+ConAgra Foods: ORG
+Bally Total Fitness: ORG
+Dell: ORG
+Hanes: PERSON
+Fisher-Price: ORG
+LaSalle Bank: ORG
+Discover: GPE
+Walgreens: PERSON
+DeVry: PERSON
+NBC: ORG
+SPONSORSHIP: ORG
+State: ORG
+01/2004: CARDINAL
+Name City: GPE
+State: ORG
+Name City: GPE
+1992: DATE
+SAINT MARY'S: PERSON
+UNIVERSITY City: GPE
+State Public Relations: ORG
+15+ years: DATE
+SMB: ORG
+AGENCY: ORG
+Dell: ORG
+Access: PRODUCT
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+NETWORK: ORG
+Platinum: ORG

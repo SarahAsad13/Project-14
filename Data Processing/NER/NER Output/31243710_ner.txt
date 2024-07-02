@@ -1,0 +1,253 @@
+Ten years: DATE
+Ten years: DATE
+Microsoft: ORG
+Dell: ORG
+HP: ORG
+IBM: ORG
+Symantec, McAfee, Trend Micro: ORG
+Cisco: GPE
+Microsoft Exchange Server: ORG
+Cisco: GPE
+IOS: ORG
+VoIP: LOC
+2: CARDINAL
+3: CARDINAL
+4: CARDINAL
+Fluke OptiView: GPE
+Wireshark: ORG
+NetFlow: ORG
+Analyzer: ORG
+SMS: ORG
+VMware: ORG
+Trend Micro: ORG
+McAfee, ESET: ORG
+Acronis: PERSON
+ShadowProtect: ORG
+GFI: ORG
+Crow Canyon: PERSON
+DameWare: ORG
+Wireshark: ORG
+NetFlow Analyzer: PERSON
+Fluke OptiView: GPE
+NPM: PERSON
+Microsoft Response Point: ORG
+GP: ORG
+CRM: PRODUCT
+SharePoint: ORG
+SQL: PERSON
+LTO: ORG
+CCTV: ORG
+PBX: ORG
+IP: ORG
+Applications Apache: PRODUCT
+Cisco ASDM: GPE
+Cisco: GPE
+90: CARDINAL
+Sage Medical: ORG
+Citrix: GPE
+SmartFilter: GPE
+Imail: GPE
+Websense: GPE
+SonicWall Global
+VPN Client: PRODUCT
+Adobe: PERSON
+Foxit Phantom: PERSON
+PDF: ORG
+JobBOSS: ORG
+ERP: ORG
+Word: PERSON
+Excel: PRODUCT
+Access
+Industries Business, Manufacturing,: ORG
+Education: ORG
+Medical
+Operating Systems: ORG
+Server 2003: PERSON
+Server: PERSON
+2008: DATE
+Server 2012: PERSON
+2003: DATE
+2007: DATE
+2010: DATE
+2013: DATE
+Cisco: GPE
+Linux: GPE
+Virus: ORG
+Server: ORG
+Hardware: ORG
+Resourceful
+Advanced: PERSON
+T1: CARDINAL
+State: ORG
+SonicWall: ORG
+3: CARDINAL
+Microsoft Exchange Server: ORG
+Server 2012: PERSON
+Hyper-V: ORG
+Windows XP: NORP
+SharePoint: ORG
+Microsoft Dynamics GP/CRM: ORG
+Project Server: PERSON
+SQL: ORG
+Macola: ORG
+CCTV: ORG
+Syspine IP: PERSON
+Microsoft Response Point: ORG
+VoIP: LOC
+Creo Pro/E: PERSON
+Windchill: ORG
+SolidWorks: ORG
+QuickBooks Enterprise: ORG
+McAfee SaaS: PERSON
+annual: DATE
+Active Directory: PERSON
+Hyper-V: ORG
+Information Technology Engineer: ORG
+State: ORG
+Exchange Server: ORG
+SQL: ORG
+Cisco: GPE
+Symantec Backup Exec: PERSON
+Endpoint Protection: ORG
+Mac OS: PERSON
+VoIP: LOC
+Active Directory: PERSON
+DHCP: ORG
+DNS: ORG
+Network Engineer: ORG
+10/2007: CARDINAL
+State: ORG
+Exchange Server: ORG
+SQL: ORG
+Exchange Server: ORG
+SQL: ORG
+Secure Computing Webwashers: ORG
+Snapgear: PERSON
+Cisco: GPE
+Trend Micro: ORG
+VoIP: LOC
+Active Directory: PERSON
+DHCP: ORG
+DNS: ORG
+Information Technology Engineer: ORG
+State: ORG
+90: DATE
+SQL: ORG
+Cisco: GPE
+1721: DATE
+2800: DATE
+3600: DATE
+Cisco Catalyst: ORG
+3100: DATE
+HP ProCurve: ORG
+NAS/SAN: ORG
+Intel: ORG
+7: CARDINAL
+Active Directory: PERSON
+DHCP: ORG
+DNS: ORG
+VPN tunnels: PERSON
+Sage Medical: ORG
+VoIP: LOC
+QoS: PERSON
+3: CARDINAL
+4: CARDINAL
+Cisco Aironet: PERSON
+Toshiba: ORG
+PBX: ORG
+VoIP: LOC
+QoS: PERSON
+HIPAA: ORG
+SAN: ORG
+NAS: ORG
+Elkhart: ORG
+Warsaw Server: ORG
+A+: NORP
+Network+: GPE
+Microsoft: ORG
+Cisco: GPE
+Windows 2000: LOC
+Server: PERSON
+2003: DATE
+Computer Information Systems: ORG
+three: CARDINAL
+Region 2: EVENT
+Active Directory: PERSON
+FERPA: ORG
+Davenport University - City: ORG
+State: ORG
+USA Information Technology Certification: ORG
+A+: NORP
+Network+: GPE
+CCNA: PERSON
+Operating Systems: ORG
+Business Applications: ORG
+1988: DATE
+Western Michigan University - City: ORG
+State: GPE
+USA M.A Counselor Education: ORG
+Counseling Psychology Administration of Student
+Personnel Services: ORG
+1985: DATE
+Indiana University - City: ORG
+State: GPE
+USA B.A Sociology Sociology and Psychology
+Ivy Tech Community College - City: ORG
+State: ORG
+USA Information Technology Certification: ORG
+Cisco: GPE
+Cisco: GPE
+A+: NORP
+Network+: GPE
+Microsoft MCP: ORG
+70: CARDINAL
+70-215: CARDINAL
+Cisco: GPE
+Adobe: PERSON
+Apache: PRODUCT
+Backup Exec: PERSON
+CCNA: PERSON
+Cisco IOS: PERSON
+Cisco: GPE
+Citrix: GPE
+Hardware: ORG
+CRM: PRODUCT
+Client: GPE
+DHCP: ORG
+DNS: ORG
+ERP: ORG
+Information Systems: ORG
+Intel: ORG
+IP: ORG
+Linux: GPE
+Mac OS: PERSON
+Macola: ORG
+90: CARDINAL
+McAfee, Medical: ORG
+Access: ORG
+MCP: ORG
+Microsoft Dynamics: ORG
+Excel: PRODUCT
+Exchange Server: ORG
+Microsoft Exchange Server: ORG
+SharePoint: ORG
+Windows 7, Windows 8, 2000: ORG
+Windows XP: ORG
+Word: PERSON
+Enterprise: ORG
+NAS: ORG
+Network Engineering: ORG
+Network: ORG
+Operating Systems: ORG
+PACS: ORG
+PBX: ORG
+PDF: ORG
+QuickBooks: ORG
+SAN: ORG
+SMS: ORG
+SolidWorks: ORG
+SQL: ORG
+Cisco: GPE
+Symantec: ORG
+Toshiba, Trend: ORG
+VoIP: LOC

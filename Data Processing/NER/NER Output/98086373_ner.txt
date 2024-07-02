@@ -1,0 +1,63 @@
+3.5+ years: DATE
+sports & event: ORG
+media advisories & distributed news: ORG
+Apple, Windows: ORG
+Vocus: ORG
+2014: DATE
+Utah Marketing Awards
+Accomplishments
+Recipient of Best B2C Marketing Team: EVENT
+2014: DATE
+Utah Marketing Awards: EVENT
+Current
+Public Relations: ORG
+The Color Run, The Color Run Night: WORK_OF_ART
+Created &: ORG
+240: CARDINAL
+North America: LOC
+FAQ: ORG
+Wikipedia: ORG
+05/2014: GPE
+Winter Olympic Games Press: EVENT
+Coordinated &: ORG
+2014: DATE
+06/2012: PRODUCT
+Foundation Associate Company Name: ORG
+Foundation Facebook: ORG
+50/50: CARDINAL
+Chicago Fire White Party: FAC
+Bank of America Chicago Marathon, Fire Brews: ORG
+Bites: GPE
+Molly: GPE
+06/2012: CARDINAL
+Front Office Intern Company Name: ORG
+season: DATE
+06/2012: CARDINAL
+Nevada: GPE
+daily: DATE
+2: CARDINAL
+08/2011: CARDINAL
+Game & Team Operations Intern Company Name: ORG
+half: CARDINAL
+2011: DATE
+CONCACAF-Gold Cup: EVENT
+referee & team transportation
+Education: ORG
+Las Vegas: GPE
+State: GPE
+US University of Nevada: ORG
+Las Vegas: GPE
+Las Vegas: GPE
+Nevada: GPE
+December 2012: DATE
+Sports Management
+Certifications: ORG
+Skills
+Clients: ORG
+Satisfaction, Training, Coaching,: ORG
+Mentor, Public Relations: ORG
+Budgeting, Media Relations: ORG
+Merchandising, Games,: WORK_OF_ART
+Adobe Photoshop: PERSON
+B2c, Marketing, Photoshop: ORG
+Liaison: PERSON

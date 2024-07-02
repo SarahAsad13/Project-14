@@ -1,0 +1,60 @@
+17+  years: DATE
+Payroll: ORG
+Month-End Closing
+Reconciliation and Analysis: DATE
+Ledger Entries: PERSON
+Authored: PRODUCT
+ACH: ORG
+one full day: DATE
+Automated Positive Pay: WORK_OF_ART
+ACH: ORG
+Oracle Payroll: ORG
+Where Everybody Counts: WORK_OF_ART
+the Office of Accounting: ORG
+13  years: DATE
+three: CARDINAL
+Accounting Specialist: ORG
+daily: DATE
+ACH: ORG
+AP: ORG
+third: ORDINAL
+Reconciles: CARDINAL
+monthly: DATE
+Authority: ORG
+fifty: CARDINAL
+monthly: DATE
+monthly: DATE
+Reconciles: CARDINAL
+Verify: PRODUCT
+Trains: ORG
+Collaborates: PERSON
+04/1999: ORG
+08/2007
+Credit / Collections Analyst Company Name: ORG
+Authority: ORG
+300: MONEY
+Completed: ORG
+daily: DATE
+daily: DATE
+$700 million: MONEY
+annually: DATE
+Monitored: ORG
+Liaison: ORG
+the Office of Corporate Finance: ORG
+12/1996: CARDINAL
+04/1999
+: ORG
+Accounting Coordinator Company Name: ORG
+monthly: DATE
+Spectrum Accounting: ORG
+Monitored: ORG
+MBA Kennesaw State University: ORG
+State: ORG
+State Accounting: ORG
+Skills
+
+Oracle Accounting
+Dun: ORG
+Bradstreet Financial Reporting: ORG
+Microsoft Office
+Bank Of America CashPro: ORG

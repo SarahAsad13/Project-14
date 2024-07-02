@@ -1,0 +1,130 @@
+Career Overview
+
+Objective Â 
+
+IT Specialist: WORK_OF_ART
+Experienced Systems: ORG
+one: CARDINAL
+Stays: NORP
+SharePoint: ORG
+MS Access
+MS Office: ORG
+Adobe Suite: PERSON
+Windows, Linux: PERSON
+Mac
+Skype: PERSON
+Adobe Connect: ORG
+Support
+System: ORG
+System Admin: PERSON
+5: CARDINAL
+5: DATE
+September 2014
+September 2015: DATE
+the Forest Service: ORG
+Pacific Northwest Research Station: ORG
+SharePoint: ORG
+2013: DATE
+the Forest Service: ORG
+Pacific Northwest Research Station: ORG
+the Communication Application
+Program: ORG
+Regional Examination Center(REC: ORG
+Merchant Mariner: PERSON
+REC: ORG
+the United States: GPE
+the U.S. Coast Guard: ORG
+Name City: GPE
+State Information Technology Specialist: ORG
+GS-11 08/2013: PRODUCT
+two years: DATE
+the Forest
+Services' Climate Change Resource Center: ORG
+Coordinated: ORG
+Information Office (CIO: ORG
+Virtual Machine Primer: PERSON
+the Forest
+Service: ORG
+Content Management System: ORG
+Drupal: GPE
+Linux: PERSON
+the Forest Service: ORG
+Drupal: GPE
+SharePoint: ORG
+eBooks: ORG
+PNWRS: ORG
+CIO/WO: ORG
+MS SharePoint: ORG
+one: CARDINAL
+section 508: LAW
+the Rehabilitation Act: LAW
+Name City: GPE
+State Computer: ORG
+Created: ORG
+the Forest Services': ORG
+SharePoint: ORG
+Provide: NORP
+one: CARDINAL
+eBook: PRODUCT
+eReaders: NORP
+Name City: GPE
+State Computer Department Intern 09/2008: ORG
+Linux: GPE
+Apache: GPE
+MySQL: GPE
+PHP: ORG
+HTML: ORG
+CSS: ORG
+the Camas School District: ORG
+Linux: GPE
+250,000: MONEY
+MS Office: ORG
+Adobe Suite: PERSON
+Linux: PERSON
+Setup: ORG
+80: CARDINAL
+normal work hours: TIME
+Name City: GPE
+State Database Intern 06/2008: ORG
+MS Access: ORG
+Name City: GPE
+State Office/Building: ORG
+32-hour: TIME
+work week: DATE
+Coordinated: PRODUCT
+Homelink River: LOC
+Name City: GPE
+State Geek Squad Tech 10/2004 to: ORG
+Geek Squad Tech: ORG
+Assist: NORP
+BestBuy: ORG
+Name City: GPE
+State Marine Science Technician, E-6: ORG
+400: CARDINAL
+Coast Guard: ORG
+daily: DATE
+Built: ORG
+Created: ORG
+MS Access: ORG
+Training
+Master of Science : Management and Organizational Leadership 08/2015 Warner Pacific University: WORK_OF_ART
+City: GPE
+State: GPE
+USA
+
+Management and Organizational Leadership
+
+Certification: ORG
+ITIL Foundation: ORG
+2016: DATE
+New Horizons: GPE
+State: GPE
+USA: GPE
+Eastern Washington University: ORG
+City: GPE
+State: GPE
+Content Management 08/2012: ORG
+State: GPE
+USA: GPE
+Content Management Systems: ORG
+T1: NORP

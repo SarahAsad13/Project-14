@@ -1,0 +1,159 @@
+the entire month end: DATE
+the Mortgage Banking Technology: ORG
+monthly: DATE
+monthly: DATE
+Manage: PRODUCT
+MBT: ORG
+monthly: DATE
+annual: DATE
+Tower: ORG
+Cap: PERSON
+T&M: ORG
+Technology: ORG
+monthly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+Chase: ORG
+Chase: ORG
+monthly: DATE
+Technology Executive Management Reporting: ORG
+the Technology EMR: LAW
+Create: ORG
+LOB: ORG
+weekly: DATE
+Sow: PERSON
+MBT: ORG
+Assist: NORP
+Capital Expenditure: ORG
+Support Mortgage Banking Technology: ORG
+third: ORDINAL
+Vendor: PERSON
+Budget / Forecast: ORG
+monthly: DATE
+MBT (Mortgage Banking Technology: ORG
+2012: DATE
+Financial Analyst: ORG
+01/2004: CARDINAL
+JPMorgan Chase: ORG
+nine: CARDINAL
+DOCS: ORG
+Assist Chase Home Finance: ORG
+Information Technology: ORG
+annual: DATE
+quarterly: DATE
+monthly: DATE
+Develop: ORG
+NPV: ORG
+IRR: ORG
+JPMorgan Chase Home Finance: ORG
+Project Accounting & Reporting: ORG
+PAR: ORG
+Finance: ORG
+Liaison: PERSON
+Corporate Finance: ORG
+Corporate Accounting: ORG
+Build: GPE
+Assist: NORP
+CHF: ORG
+Chase Home Finance: ORG
+Financial Analyst: ORG
+Huntington: ORG
+daily: DATE
+Complete: PERSON
+Huntington: ORG
+Oversee: GPE
+Oversee: ORG
+Oversee: ORG
+daily: DATE
+Financial Analysts Perform: ORG
+Access/SQL Databases: ORG
+monthly: DATE
+Home Lending revenue: ORG
+Servicing: PERSON
+Consumer Lending: ORG
+monthly: DATE
+Home Lending: ORG
+Expense: ORG
+Balance Sheet: ORG
+Develop: ORG
+Secondary Marketing: ORG
+monthly: DATE
+Servicing, Loan Default: ORG
+Consumer Lending and Shared Support: ORG
+month-end: DATE
+the entire month end: DATE
+monthly: DATE
+MSR: ORG
+MSR: ORG
+Calculate: ORG
+monthly: DATE
+MSR: ORG
+MSR (Mortgage Servicing Rights: ORG
+monthly: DATE
+MSR: ORG
+annual: DATE
+Servicing: PERSON
+Consumer Lending: ORG
+2009: DATE
+Divisional Financial: ORG
+month: DATE
+two: CARDINAL
+Calculate: ORG
+monthly: DATE
+10Q: DATE
+10: CARDINAL
+SEC: ORG
+SEC: ORG
+the Central Division: ORG
+annual: DATE
+the Central Division: ORG
+quarterly: DATE
+annual: DATE
+monthly: DATE
+previous year: DATE
+SRC: ORG
+COO: ORG
+CFO: ORG
+quarterly: DATE
+MOA: ORG
+Capital Expenditure: ORG
+Coordinate: FAC
+quarterly: DATE
+Control Self Assessment: ORG
+Division: ORG
+annual: DATE
+the Board of Directors: ORG
+nine: CARDINAL
+Accountants: PERSON
+CFO: ORG
+BBA: ORG
+The University of Toledo - City: ORG
+State: ORG
+GPA: ORG
+The University of Paris Dauphine - City: ORG
+GPA: ORG
+Accounting Graduated: PERSON
+P&L: ORG
+Fortune 500: PRODUCT
+Regional Accounting: ORG
+300K.: CARDINAL
+Skills
+Accounting: ORG
+Budget: ORG
+Business Development: ORG
+Corporate Finance: ORG
+Essbase, Executive Management: ORG
+Fast, Finance,: ORG
+Hyperion, Information Technology: ORG
+JD EDWARDS: PERSON
+Access: ORG
+Microsoft Access: ORG
+MS Access: ORG
+Microsoft Excel: ORG
+MS Excel: ORG
+MS Office Suite: ORG
+PowerPoint: ORG
+Research: ORG
+SAP: ORG
+SQL: ORG

@@ -1,0 +1,96 @@
+FREELANCE: GPE
+Men's: ORG
+Denim: GPE
+Knits: GPE
+Graphics: ORG
+Highlights
+Fabric: WORK_OF_ART
+Apparel: NORP
+PLM: ORG
+Men's & Women's: ORG
+July 2015: DATE
+Asia: LOC
+PP: ORG
+weekly: DATE
+WIP: ORG
+daily: DATE
+Purchase Orders: PERSON
+50%: PERCENT
+Hong Kong: GPE
+Vietnam: GPE
+Cambodia: GPE
+India: GPE
+80%: PERCENT
+Maintained: GPE
+100%: PERCENT
+deliveryÂ Monitored: FAC
+PO: ORG
+Associate Pre-Production: PERSON
+Women's Graphics: ORG
+October 2014 to June 2015: DATE
+160: CARDINAL
+400: CARDINAL
+Partnered: PRODUCT
+Hong Kong: GPE
+Peru: GPE
+Partnered with Design: WORK_OF_ART
+8%: PERCENT
+PLM: ORG
+December 2012 to October 2014: DATE
+80: CARDINAL
+200: CARDINAL
+4 season: DATE
+Merchandising, Design: ORG
+4%: PERCENT
+2013-2014: DATE
+July 2011 to November 2012: DATE
+HK/Italy: ORG
+Tunisia: ORG
+20: CARDINAL
+30: CARDINAL
+6 season: DATE
+Partnered with Design and Tech: WORK_OF_ART
+April 2008 to June 2011 Company Name ï¼​ City: DATE
+Non-Denim Roughwear: ORG
+Denim & Chambray Shirts: ORG
+Woven Headwear: WORK_OF_ART
+60: CARDINAL
+Non-Denim Roughwear: ORG
+Denim & Chambray Shirts: ORG
+Woven Headwear: WORK_OF_ART
+60: CARDINAL
+Men's: ORG
+80: CARDINAL
+4 season: DATE
+Partnered with Design: WORK_OF_ART
+Asia: LOC
+HK: ORG
+April 2006 to April 2008: DATE
+State: ORG
+SVP: ORG
+RRL Design: ORG
+RRL Design Operations: ORG
+Â: PRODUCT
+Maintained Travel and Entertainment: ORG
+Proto: ORG
+Coordinated: ORG
+RRL: ORG
+May 2004 to February 2006 Company Name: DATE
+day: DATE
+45: CARDINAL
+five: CARDINAL
+COO: ORG
+Los Angeles: GPE
+San Francisco: GPE
+Orange County Â: GPE
+Created: ORG
+BBA: ORG
+Design and Management Parson's School of Design
+
+Marketing, Public Relations: ORG
+Advertising, International Business, Entrepreneurship: ORG
+Trim/Hardware Development: ORG
+PLM: ORG
+Illustrator: ORG
+Microsoft Office: ORG
+MAC: ORG

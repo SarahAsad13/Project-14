@@ -1,0 +1,127 @@
+BUDGET: ORG
+Microsoft Office: ORG
+2010: DATE
+2013: DATE
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+SharePoint: ORG
+2010: DATE
+2013 Business Intelligence Systems Knowledge of Federal Acquisition Regulations: ORG
+hours: TIME
+North America: LOC
+the Year: DATE
+3: CARDINAL
+DynCorp International - two: ORG
+SPOT: NORP
+January 2009: DATE
+Current Company Name: ORG
+¦: PERSON
+BOE: ORG
+¦: PERSON
+Afghanistan: GPE
+Kuwait: GPE
+Udairi Task Orders: ORG
+USG: ORG
+USG: ORG
+¦: PERSON
+USG: ORG
+¦: PERSON
+¦: PERSON
+¦: PERSON
+¦: PERSON
+¦: PERSON
+Infomaker 10.5: ORG
+PCM: ORG
+¦: PERSON
+day: DATE
+¦: PERSON
+¦: PERSON
+¦: PERSON
+Budget Analyst/Research Administrator: ORG
+January 2007 to January 2009: DATE
+¦: PERSON
+20: MONEY
+¦: PERSON
+¦ Developed: PERSON
+annual: DATE
+capital & strategic long: ORG
+3: CARDINAL
+12: CARDINAL
+¦: PERSON
+¦: PERSON
+200: CARDINAL
+¦: PERSON
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Toyota Motor Company: ORG
+¦: PERSON
+monthly: DATE
+quarterly: DATE
+annual: DATE
+TMC: ORG
+January 2005 to January 2007: DATE
+Marketing & Finance: ORG
+¦: PERSON
+¦: PERSON
+¦: PERSON
+PM-Group: ORG
+¦: PERSON
+¦: PERSON
+¦: PERSON
+January 2002 to January 2005: DATE
+¦: PERSON
+monthly: DATE
+quarterly: DATE
+annual: DATE
+¦: PERSON
+125%: PERCENT
+¦: PERSON
+¦: PERSON
+¦: PERSON
+Education: ORG
+MBA: WORK_OF_ART
+University of Phoenix,2006 -: ORG
+3.2: CARDINAL
+GPA: ORG
+Business Management University of Phoenix BS, Business Management, University of Phoenix - 3.6: ORG
+GPA: ORG
+Certifications: WORK_OF_ART
+Skills
+Database, Basis, Inventory, Advertising, Marketing, Training: ORG
+Process Improvement: ORG
+Public Relations: ORG
+Sales Reports: PERSON
+Transportation Safety: ORG
+Virtual Learning: ORG
+Virtual Training: PERSON
+Inventory Control: ORG
+Progress: ORG
+Sops: ORG
+Financial Services: ORG
+New Hires: ORG
+Oracle: ORG
+Pricing, Records Management: ORG
+Access, Accounting: ORG
+Excel: PRODUCT
+Federal Acquisition: ORG
+Federal Acquisition Regulations, Government Contract: ORG
+Microsoft Access: ORG
+Microsoft Office: ORG
+Microsoft Office: ORG
+2010: DATE
+Microsoft Sharepoint: ORG
+Ms Access: ORG
+Ms Office: ORG
+2010: DATE
+Outlook: PERSON
+Powerpoint: PRODUCT
+Problem Solving: PERSON
+Share Point: ORG
+Six Sigma: PERSON
+Six: CARDINAL
+Word: PERSON
+Mba, Business Management
+
+: ORG

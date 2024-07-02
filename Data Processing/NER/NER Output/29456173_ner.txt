@@ -1,0 +1,60 @@
+Highlights
+Microsoft Office: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Outlook and Access: ORG
+Macros: PRODUCT
+25 %: PERCENT
+2014: DATE
+Resource: ORG
+monthly: DATE
+fifteen percent: PERCENT
+PO: ORG
+Accountant Dec: PERSON
+2014: DATE
+Sysco Foods Company: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+Uplaod: GPE
+CFO: ORG
+monthly: DATE
+the Sysco Corporation: ORG
+GL: ORG
+Jan 2010 to Feb 2012: DATE
+Examined: NORP
+over 240: CARDINAL
+Texas: GPE
+Maintained: ORG
+PVAMU: ORG
+Sarbanes-Oxley: PERSON
+Prepared: PRODUCT
+Masters of Science , Accounting: ORG
+Prairie View A&M University: ORG
+ï¼​ City: GPE
+State Accounting: ORG
+BBA: ORG
+2009: DATE
+Prairie View A&M University: ORG
+ï¼​ City: GPE
+State Accounting
+Professional Affiliations: ORG
+the Phi Beta Lambda and National Association of Black Accountants Texas: WORK_OF_ART
+Society of CPA's: ORG
+Chamber of Society Completed: ORG
+2015: DATE
+Skills: ORG
+AR: ORG
+Contracts: ORG
+GL: ORG
+Macros,: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+PeopleSoft: ORG
+Research: ORG
+SAP: ORG
+Oxley: PERSON

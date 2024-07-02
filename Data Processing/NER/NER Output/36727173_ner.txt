@@ -1,0 +1,65 @@
+11 years: DATE
+more than $300 million: MONEY
+the Aviation Supply Department: ORG
+Marine: NORP
+Pride: PRODUCT
+Courage and Commitment: ORG
+Marines: NORP
+Highlights
+
+Effective: ORG
+Supply: ORG
+Data: ORG
+Six Sigma
+Inventory Specialist: ORG
+CPR: ORG
+Valid CA: PERSON
+over $300 million: MONEY
+Maintained: GPE
+100%: PERCENT
+over $500 million: MONEY
+100%: PERCENT
+the Commanding General's: ORG
+2500: CARDINAL
+zero: CARDINAL
+100%: PERCENT
+07/2013 Company Name City: NORP
+Federal Acquisition: ORG
+2013: DATE
+Marine Corps Institute City: ORG
+State: GPE
+Marine Corps Orders: ORG
+annually: DATE
+The Marine Corps Institute: ORG
+Occupational Specialty to Safety
+
+of Weapons and Weapons Handling, Leadership Traits: ORG
+Leading Marines: PERSON
+English: LANGUAGE
+Spelling: GPE
+Marine Corps Institute City: ORG
+State: GPE
+USA: GPE
+Council: ORG
+Marine: NORP
+One: CARDINAL
+Marine Corps Institute City: ORG
+State: GPE
+USA: GPE
+the Naval Aviation Survival
+
+Training Program: ORG
+Stress and Human: ORG
+Sensory Physiology: ORG
+Combat/Survival First: ORG
+Swim Skills: PERSON
+Underwater Problem
+
+Solving Skills: WORK_OF_ART
+Extended Sea Survival: LOC
+Monroe: PERSON
+State: GPE
+USA: GPE
+Skills
+
+Inventory Specialist: ORG

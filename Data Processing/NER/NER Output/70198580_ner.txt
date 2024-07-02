@@ -1,0 +1,53 @@
+Operations: ORG
+Microsoft Office: ORG
+Client: GPE
+Budget: ORG
+Prepare: ORG
+Supply Chain Management: ORG
+Learns: ORG
+Technical Proficiency: ORG
+Supply Chain: ORG
+Lowered: ORG
+20%: PERCENT
+30%: PERCENT
+the first year: DATE
+the New Orleans Federal Executive Board's: ORG
+Support Achievement
+Award: WORK_OF_ART
+May, 2011: DATE
+July 2011 to December 2014: DATE
+Mobility Transportation Specialist: ORG
+July 2011 to December 2014: DATE
+Oversaw: GPE
+10-15: CARDINAL
+Coordinated: PRODUCT
+Coordinated: ORG
+weekly: DATE
+monthly: DATE
+Oversaw: GPE
+every day: DATE
+the end of every month: DATE
+Clerk: PERSON
+March 2010 to July 2011 Company Name: DATE
+State
+Movement Control Coordinator: ORG
+June 2010 to: DATE
+2010: DATE
+State: ORG
+Letter Carrier: PERSON
+September 2009 to March 2010: DATE
+State: ORG
+SUpply Chain Management Technician/ Aircraft Maintenance: ORG
+July 2003 to July 2009: DATE
+MBA : Management: WORK_OF_ART
+2014: DATE
+State: GPE
+United States: GPE
+2012: DATE
+State: GPE
+United States: GPE
+Supply Chain: ORG
+2001: DATE
+St. Augustine High School: ORG
+State: ORG
+70119: DATE

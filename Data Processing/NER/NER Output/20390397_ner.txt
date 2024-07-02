@@ -1,0 +1,64 @@
+Â  Proficient: ORG
+Autocad: GPE
+Microstation: ORG
+Spanish: LANGUAGE
+Complex: NORP
+SharePoint: ORG
+Microsoft Excel: ORG
+Visio: PERSON
+Assembly: ORG
+Mastered: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+the Controls and Electrical Groups: ORG
+Lean Six Sigma: ORG
+Yellow Belt: FAC
+Green Belt: PERSON
+ELECTRICAL: ORG
+05/2012: CARDINAL
+Name City: GPE
+North America Facilities Engineering: ORG
+one: CARDINAL
+the Process Control: ORG
+Forming Electronics: ORG
+Cold End Packaging: EVENT
+CAD: ORG
+Order: ORG
+North American: NORP
+Name City: GPE
+State: ORG
+Project Planner: PERSON
+the Machine Manufacturing - Global Glass Technology: ORG
+Create: ORG
+third: ORDINAL
+CUSTOMER: ORG
+09/2008: ORG
+Order: ORG
+quotesÂ 
+Arrange: ORG
+Expedite: PRODUCT
+Name City: GPE
+State
+
+Process Control Services - Global Glass Technology: ORG
+Order: ORG
+W: ORG
+English: LANGUAGE
+Spanish: LANGUAGE
+English: LANGUAGE
+Spanish: LANGUAGE
+Industrial Electronics Associates Degree Program: ORG
+Spanish: NORP
+International Relations STATE UNIVERSITY OF: ORG
+Spanish: NORP
+International Relations: ORG
+Arts Program: ORG
+Skills: ORG
+WORD: ORG
+EXCEL: ORG
+POWERPOINT: ORG
+OUTLOOK: ORG
+JD EDWARDS: PERSON
+ERP: ORG
+HART COMMUNICATION: LAW
+SHAREPOINT: ORG

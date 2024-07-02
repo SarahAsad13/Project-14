@@ -1,0 +1,10 @@
+Western Wisconsin: LOC
+Western Wisconsin: LOC
+Established: ORG
+Arranged: PERSON
+May 2006: DATE
+Bachelor of Arts: ORG
+Liberal Arts Environmental Studies Geography UNIVERSITY OF MINNESOTA: ORG
+State Liberal Arts
+Environmental Studies Geography
+Skills: ORG

@@ -1,0 +1,76 @@
+SPECIALIST: ORG
+the last 4+ years: DATE
+Skills
+Active Directory: ORG
+Automotive: ORG
+DC: GPE
+DNS: ORG
+XML: ORG
+FTP: ORG
+IP: ORG
+Journalism, JSON: GPE
+LAN: ORG
+Law: PERSON
+Managerial: ORG
+Merchandising: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Powerpoint: ORG
+Word: PERSON
+Public
+Speaking: PERSON
+Recording, Research: ORG
+System Administration: ORG
+Troubleshoot: ORG
+WAN: ORG
+Skills
+
+Team: ORG
+Data: ORG
+Client Facing PersonalityÂ 
+: ORG
+Network Setup
+Hardware/Software Troubleshooting: ORG
+Emergency Support
+Root Cause Analysis: PERSON
+Daily Tasks Inspect: WORK_OF_ART
+Respond: PERSON
+Troubleshoot: ORG
+LAN/WAN: ORG
+TCI: ORG
+DNS: ORG
+Active Directory, System Administration: ORG
+Maintain: PRODUCT
+JSON/XML: ORG
+Accomplishments Worked: PERSON
+half: CARDINAL
+the United States: GPE
+NYC, DC: GPE
+Philadelphia: GPE
+Redline Automotive Merchandising: PERSON
+Establishes: PERSON
+Answer: ORG
+daily: DATE
+Reviewing: ORG
+Acted: ORG
+FTP: ORG
+Accomplishments Assisted: PERSON
+Recruited: PRODUCT
+Intern Company Name: ORG
+Microsoft Office: ORG
+Word/Excel/Powerpoint/Outlook Use: ORG
+Recording of minutes: WORK_OF_ART
+Proof: PERSON
+2014: DATE
+Motivating the Youth to Recreation Outdoors: ORG
+2013: DATE
+Dean: PERSON
+Spring 2013: DATE
+3.39: CARDINAL
+State & Local Political System / Political Systems-Mil Strategy / Public Speaking / Judicial Process / Fund of Military Science / Comp Govt II: ORG
+Non-West Pol Systems: ORG
+30%: PERCENT
+the United States: GPE
+NYC, DC: GPE
+Philadelphia: GPE
+Recruited: PRODUCT

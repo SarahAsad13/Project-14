@@ -1,0 +1,33 @@
+Skills
+Microsoft Office Suite Factset Ipreo: ORG
+07/2013: CARDINAL
+10: CARDINAL
+multi-billion dollar: MONEY
+multi-billion dollar: MONEY
+Created: ORG
+11/2010: CARDINAL
+Created: ORG
+CRM: PRODUCT
+11/2008: CARDINAL
+11/2010: CARDINAL
+Financial Advisor Company Name: ORG
+2014: DATE
+13F: DATE
+daily: DATE
+Collaborated: ORG
+Training: PERSON
+May 2013: DATE
+MBA CARNEGIE MELLON UNIVERSITY: ORG
+Dec 2009: DATE
+Graduate Finance Association: ORG
+Alpha Club: ORG
+The Soccer Club UNIVERSITY OF SOUTH FLORIDA Tampa: ORG
+FL: ORG
+Skills
+CRM: PRODUCT
+Dec: PERSON
+Microsoft Office Suite: ORG
+Graduate Finance Association: ORG
+Alpha Club: ORG
+The Soccer Club UNIVERSITY OF SOUTH FLORIDA Tampa: ORG
+FL: ORG

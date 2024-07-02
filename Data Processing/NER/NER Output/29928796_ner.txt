@@ -1,0 +1,30 @@
+2 years: DATE
+Highlights: GPE
+6 years: DATE
+Customer Service: ORG
+Â Intermediate Microsoft Office: ORG
+Excel: PRODUCT
+Reliable: WORK_OF_ART
+Store: PERSON
+6 months: DATE
+daily: DATE
+each day: DATE
+7: CARDINAL
+Sales Associate: PERSON
+6-10: CARDINAL
+Created: ORG
+45%: PERCENT
+monthly: DATE
+daily: DATE
+Sales Lead: PERSON
+10/2014: CARDINAL
+Complete: PERSON
+monthly: DATE
+Provide: NORP
+Server: PERSON
+June 2013: DATE
+Skills
+
+Attentive: ORG
+Positive influenceÂ 
+Dependable: WORK_OF_ART

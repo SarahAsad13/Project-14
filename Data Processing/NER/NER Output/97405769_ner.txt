@@ -1,0 +1,57 @@
+Talented Customer Service: ORG
+Skills
+Superb sales: ORG
+Detail: ORG
+Time: ORG
+annual: DATE
+the first 15 years: DATE
+daily: DATE
+each day: DATE
+20: CARDINAL
+80%: PERCENT
+each month: DATE
+$1.4 million: MONEY
+Store: PERSON
+as many as 20: CARDINAL
+each day: DATE
+Call Center: ORG
+6 months: DATE
+03/2015: WORK_OF_ART
+10/2016: CARDINAL
+Customer Service Advocate Company Name: ORG
+State: ORG
+weekly: DATE
+daily: DATE
+first: ORDINAL
+Directed: ORG
+Established: ORG
+Conducted: ORG
+Researched: FAC
+11/1990: CARDINAL
+08/1995: NORP
+30,000: MONEY
+monthly: DATE
+Maintained: GPE
+6: CARDINAL
+07/1986: DATE
+08/1990: CARDINAL
+Data Entry: ORG
+daily: DATE
+Loan Servicing Representative Company Name: ORG
+Training: PERSON
+1983: DATE
+William Penn Vo-tech: PERSON
+City: GPE
+State: ORG
+USA General-Business
+Communications: ORG
+Morgan State University: ORG
+State: GPE
+USA: GPE
+1984 - 1985: DATE
+Skills: ORG
+Strong: PERSON
+Detail: PERSON
+MS
+Office: ORG
+Time: ORG

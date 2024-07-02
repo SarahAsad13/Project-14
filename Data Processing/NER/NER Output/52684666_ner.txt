@@ -1,0 +1,103 @@
+Skills
+Work History
+Care Coordinator: WORK_OF_ART
+10/2013: DATE
+a Care Coordinator: ORG
+08/2011: CARDINAL
+05/2012: CARDINAL
+45: CARDINAL
+two years: DATE
+ten: CARDINAL
+one year: DATE
+Mentor Resident Advisor: ORG
+the academic year: DATE
+Office of Residence Life: ORG
+Â  Â  Â Â 
+Organized: PERSON
+65: CARDINAL
+Â  Â  Â Â 
+Implemented: PERSON
+Â  Â  Â Â: PRODUCT
+Â  Â  Â Â 
+Designed: PRODUCT
+01/2011 to 01/2012: CARDINAL
+45: CARDINAL
+two years: DATE
+ten: CARDINAL
+one year: DATE
+Mentor Resident Advisor: ORG
+the academic year: DATE
+Residence Life: ORG
+65: CARDINAL
+daily: DATE
+Â  Â  Â  Â 
+Performed: PRODUCT
+monthly: DATE
+50: CARDINAL
+two years: DATE
+Â 
+Managed: PERSON
+daily: DATE
+Performed: PERSON
+monthly: DATE
+50: CARDINAL
+two years: DATE
+Bachelor of Science: ORG
+8 2014: DATE
+The State University of New Jersey - City: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.64: CARDINAL
+GPA: ORG
+3.64: CARDINAL
+5 2013: DATE
+Syracuse University - City: ORG
+State: ORG
+GPA: ORG
+GPA: ORG
+3.91: CARDINAL
+ACLS Certified: ORG
+2014: DATE
+CPR/BLS Certified: ORG
+2013 Certified: PERCENT
+Culturally Competent Care: ORG
+2013: DATE
+1 2013: DATE
+Rutgers University: ORG
+GPA: ORG
+Syracuse University: ORG
+2012: DATE
+2013: DATE
+Syracuse University: ORG
+2011: DATE
+Syracuse University: ORG
+2011: CARDINAL
+Syracuse University: ORG
+eight: CARDINAL
+Dean: PERSON
+List Recipient, Faculty Award for Excellence: ORG
+Syracuse University: ORG
+2012: DATE
+2013: DATE
+Syracuse University: ORG
+2011: DATE
+2012: DATE
+Syracuse UniversityÂ 2011 
+Dean's: ORG
+List, Syracuse University: ORG
+eight: CARDINAL
+Dean: PERSON
+List, Rutgers University: ORG
+four: CARDINAL
+Affiliations: ORG
+Nutrition Education Promotion Association: ORG
+2010: DATE
+National Student Nurses Association: ORG
+2014: DATE
+Electronic Medical Record: ORG
+License: ORG
+Advanced Cardiac Life Support: ORG
+CPR: ORG
+Mentor, Office: ORG
+Research: ORG

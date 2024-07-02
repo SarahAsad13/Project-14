@@ -1,0 +1,76 @@
+EXECUTIVE CHEF
+Professional Summary
+Energetic: ORG
+The Cork Tree: WORK_OF_ART
+West Ways: LOC
+Chefs: WORK_OF_ART
+August 2008: DATE
+Hospitality: PERSON
+Work History
+Executive Chef 05/2012: WORK_OF_ART
+Modern California: LOC
+Mediterranean Cuisine: GPE
+Head Chef 01/2011 to 05/2012: PRODUCT
+Sous Chef 01/2010: PERSON
+01/2011: CARDINAL
+State: ORG
+American Cuisine: ORG
+Daily: DATE
+up to 500: CARDINAL
+Prep: PERSON
+150 to 300: CARDINAL
+Maintained: GPE
+daily: DATE
+Menu: ORG
+6.5 Million: CARDINAL
+yearly: DATE
+European: NORP
+Mediterranean Cuisine: PERSON
+45: CARDINAL
+Front of House Management: ORG
+Budgeting, Accounting: ORG
+Kaiser Grill: PERSON
+2: CARDINAL
+Kaiser Grill: ORG
+Palm Springs: GPE
+The Chop House: ORG
+Palm Desert: GPE
+2: CARDINAL
+Inventory: GPE
+4 million: CARDINAL
+yearly: DATE
+American: NORP
+Asian Cuisine: PERSON
+29.5 %: PERCENT
+Weekly Inventory: ORG
+Daily Specials and Banquets: ORG
+4.5 million: CARDINAL
+three: CARDINAL
+2: CARDINAL
+4 million: CARDINAL
+Corporate Executive Chef: ORG
+Italian Cuisine: PERSON
+Italian: NORP
+Las Vegas: GPE
+New York: GPE
+two: CARDINAL
+Il
+Fornaio 1993 Pasadena: ORG
+CA: WORK_OF_ART
+1996: DATE
+Las Vegas: GPE
+NV: ORG
+14 million: CARDINAL
+Associate of Arts: ORG
+Culinary Arts: ORG
+Chef Training: ORG
+Restaurant Management 1 1983: ORG
+Los Angeles Trade Technical College - City: ORG
+Skills
+Accounting: ORG
+Budgeting: PERSON
+CA: PERSON
+Inventory: GPE
+Italian: NORP
+Chefs de Cuisine Assn: PERSON
+California: GPE

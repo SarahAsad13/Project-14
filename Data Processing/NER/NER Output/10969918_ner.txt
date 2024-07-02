@@ -1,0 +1,50 @@
+CONCIERGE: NORP
+US: GPE
+Certified Nursing: WORK_OF_ART
+Skill Highlights
+
+Highly: ORG
+Vital: ORG
+Privacy/Hippa: ORG
+Name City: GPE
+State: ORG
+Current
+
+Welcome: ORG
+Understand: GPE
+Arrange: NORP
+Respond: PERSON
+Name City: GPE
+State Health Unit Coordinator / Certified Nurse: ORG
+Nurse: PERSON
+RN: ORG
+Ensure Hippa: WORK_OF_ART
+Registering: PERSON
+one: CARDINAL
+Initiates: ORG
+Uses Epic: ORG
+Peri: NORP
+Prepared: PRODUCT
+Name City: GPE
+State Housekeeping 02/2008: ORG
+Delivery
+Performed: PRODUCT
+Terminal: ORG
+Maintained: GPE
+EVS
+Department: ORG
+Name City: GPE
+State Certified Fitness Instructor/Circuit: ORG
+the 30 minute: TIME
+Curves Circuit: ORG
+1:1: CARDINAL
+Completed: ORG
+monthly: DATE
+Various Club: ORG
+1988: DATE
+Belton High School: ORG
+State: ORG
+Skills
+Patient: ORG
+Compassionate: ORG
+Detail: PERSON

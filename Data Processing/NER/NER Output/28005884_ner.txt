@@ -1,0 +1,51 @@
+Outdoor Sports: ORG
+August 2007: DATE
+Current Engineering Technician 
+City: ORG
+Microstation: ORG
+GeoPak: ORG
+Storm Water Utility Assessment - Review: WORK_OF_ART
+Software: ORG
+ArcView: ORG
+Microsoft Access: ORG
+Topcon Total Station: ORG
+Software: ORG
+ArcView: ORG
+CrateGraph: ORG
+April 2006 to August 2007: DATE
+Technician 
+City: GPE
+Ashtec: NORP
+daily: DATE
+AutoCad: ORG
+Eagle Point: ORG
+May 1998 to April 2006: DATE
+7 years: DATE
+Geodimeter: GPE
+6 years: DATE
+7: CARDINAL
+3 years: DATE
+daily: DATE
+Stream Gauging - Over: ORG
+2 years: DATE
+4: CARDINAL
+Iowa: GPE
+Des Moines: GPE
+Raccoon: ORG
+Cedar: FAC
+2 years: DATE
+Microstation: ORG
+University of Northern Iowa: ORG
+May 2004: DATE
+State Construction Management
+Hawkeye Community College: ORG
+May 1998: DATE
+Civil and Construction Engineering Technology City: ORG
+State Civil and Construction Engineering
+Technology: ORG
+Skills
+ArcView: ORG
+AutoCad: ORG
+GPS: ORG
+Inspection: NORP
+Microsoft Access, Microstation, File Maintenance: ORG

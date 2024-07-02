@@ -1,0 +1,73 @@
+USAid: ORG
+two: CARDINAL
+Swahili: PRODUCT
+Name City: GPE
+State: ORG
+GIS: ORG
+Name City: GPE
+State Research Associate 06/2012: ORG
+Sokoine University of Agriculture: ORG
+Morogoro: GPE
+Tanzania: GPE
+summer: DATE
+Tanzanian: NORP
+Name City: GPE
+State: ORG
+weekly: DATE
+seventy-five: CARDINAL
+QGIS: PERSON
+Coordinated: ORG
+three: CARDINAL
+Name City: GPE
+State: ORG
+ten acres: QUANTITY
+Maintained: GPE
+four: CARDINAL
+Ohio: GPE
+Completed: ORG
+ArcGIS: GPE
+Name City: GPE
+State Seasonal Forestry Worker: ORG
+04/2012: CARDINAL
+Emerald Ash Borer: ORG
+380: CARDINAL
+4,000: CARDINAL
+400: CARDINAL
+800: CARDINAL
+Name City: GPE
+State Research: ORG
+01/2011 to 12/2012: CARDINAL
+Name City: GPE
+State Trail Logistics Intern: ORG
+08/2011: CARDINAL
+Collaborated with California Conservation Corps: ORG
+over 400 miles: QUANTITY
+four: CARDINAL
+Name City: GPE
+State: ORG
+06/2010: PERSON
+Coordinated: ORG
+Sandusky County: GPE
+MS Excel: ORG
+5 years: DATE
+2015: DATE
+The Ohio State University: ORG
+Rice Yields: PERSON
+Smallholder Farms: ORG
+The Ohio State University: ORG
+City: GPE
+Spanish: NORP
+2011: DATE
+2012: DATE
+Dean: PERSON
+AmeriCorps: ORG
+4: CARDINAL
+Leadership: NORP
+2009 4-H: DATE
+Ten Year: DATE
+Award: PERSON
+2013: CARDINAL
+11,000: MONEY
+Coca-Cola Sustainability Grant
+
+Skills: ORG

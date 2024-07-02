@@ -1,0 +1,33 @@
+65: CARDINAL
+Microsoft Office: ORG
+October 2014 to February 2015: DATE
+Replenished: PERSON
+Maintained: GPE
+Healthcare Specialist/Combat Medic: ORG
+March 2013 to December 2015: DATE
+Maintained: GPE
+Rapidly: ORG
+Initiated: ORG
+Frequently: ORG
+Coordinated: ORG
+February 2015 to April 2015: DATE
+Maintained: GPE
+January 2016: DATE
+Communicated: ORG
+Regularly inquired: ORG
+Maintained: GPE
+hours: TIME
+Facilitated: ORG
+May 2013: DATE
+Jonesboro High School ï¼​ City: ORG
+State: ORG
+Drill Team: ORG
+Chess Club
+Certifications: ORG
+Skills
+Administrative: ORG
+CPR Certified: ORG
+first: ORDINAL
+Logistics: ORG
+Microsoft Office: ORG
+65: CARDINAL

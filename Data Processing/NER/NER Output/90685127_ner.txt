@@ -1,0 +1,49 @@
+DIGITAL MARKETING
+Summary
+Experienced: ORG
+Six years: DATE
+CRM: PRODUCT
+Digital Marketing 09/2017 to Current Company Name City: ORG
+monthly: DATE
+LTV: ORG
+5MÂ: MONEY
+Manage: PRODUCT
+Digital Marketing: ORG
+Name City: GPE
+State: ORG
+Created Customer Lifecycle Program: ORG
+256: MONEY
+18%: PERCENT
+551%: PERCENT
+26%: PERCENT
+4%: PERCENT
+480%: PERCENT
+Name City: GPE
+400: CARDINAL
+US: GPE
+annually: DATE
+21%: PERCENT
+YOY: ORG
+38%: PERCENT
+Analyzed: ORG
+weekly: DATE
+Launched: PRODUCT
+35%: PERCENT
+over 35: CARDINAL
+SMS: ORG
+Global Digital Advertising & Analytics Coordinator: ORG
+Boolean: NORP
+45%: PERCENT
+Awarded: ORG
+2015: DATE
+Mobile Marketer: ORG
+CTR: ORG
+300%: PERCENT
+Training
+Bachelor of Science : Business Administration 2012 University of Southern California City: PERSON
+State Concentrations: ORG
+Google Analytics: ORG
+Omniture: GPE
+Looker: ORG
+Adobe Social, Netbase: ORG
+Simon Data: ORG

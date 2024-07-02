@@ -1,0 +1,19 @@
+INTERIOR: ORG
+Adobe InDesign: PERSON
+Interior: ORG
+Color: ORG
+01/2016
+: PERSON
+Shop Drawings: ORG
+10/2013: CARDINAL
+Interior: ORG
+07/2011: CARDINAL
+Fashion Designer
+
+Design: WORK_OF_ART
+2014: DATE
+International University: ORG
+City Lebanon: GPE
+2011: DATE
+English: LANGUAGE
+Arabic: LANGUAGE

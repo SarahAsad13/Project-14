@@ -1,0 +1,76 @@
+UTILITY: ORG
+Profile: ORG
+Detail: PERSON
+Chemical Engineer: ORG
+Fluent Hindi-Urdu: PERSON
+English: LANGUAGE
+Areas of Expertise
+Site: ORG
+Gamry VistaShield: PERSON
+Microsoft Office Design Software: ORG
+Matlab: PERSON
+Microscopic Imaging Key
+Qualities: Excellent: ORG
+Reliable, Responsible, Resourceful, Quick learner: WORK_OF_ART
+January 2015: DATE
+December 2016: DATE
+Name City: GPE
+State: ORG
+New York State's: GPE
+Evaluated Utility's: ORG
+Cases: ORG
+System Reliability: ORG
+Cooperated: ORG
+Public Service Commission: ORG
+Public Service Commission: ORG
+June 2014: DATE
+December 2014: DATE
+Name City: GPE
+State Transportation Construction Inspector: ORG
+Department of Transportation's: ORG
+Charge Reviewed: WORK_OF_ART
+daily: DATE
+April 2013: DATE
+May 2014: DATE
+Assembly Mentor Prof.: ORG
+Ilona Kretzschmar Provided: PERSON
+PhD: WORK_OF_ART
+Dye Sensitized: PERSON
+Solar Cells: ORG
+Gamry VistaShield: PRODUCT
+Fabricated: ORG
+Performed Physical Vapor Deposition of Platinum and Titanium: ORG
+FTO: ORG
+Ammonia: GPE
+Shale Gas Designed: ORG
+PFD: ORG
+Performed: ORG
+Kinetics: ORG
+Mass Transfer: PERSON
+5: CARDINAL
+4 minutes: TIME
+May: DATE
+2014: DATE
+City College of: ORG
+Chemical Engineering Chemistry: ORG
+Mathematics Chemical Engineering Chemistry: ORG
+Affiliations: ORG
+American Institute of Chemical Engineers: ORG
+Omega Chi Epsilon: ORG
+Society of Women
+Engineers President- Chemistry Club: ORG
+Fall 2011: DATE
+Spring 2011: DATE
+Phenomenon Process Control Reaction Engineering Separation Operations Calculus I: ORG
+Chemistry: ORG
+Design Software: ORG
+Economics, Engineer: ORG
+Materials Science: WORK_OF_ART
+Matlab: ORG
+Mentor: ORG
+Microsoft Office: ORG
+PhD: WORK_OF_ART
+Platinum: ORG
+Process Control: ORG
+Research: ORG
+Simulation, Transportation: ORG

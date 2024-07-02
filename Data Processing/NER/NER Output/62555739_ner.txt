@@ -1,0 +1,54 @@
+CUSTOMER: ORG
+Customer Service: ORG
+Representative and Administration: ORG
+8 years: DATE
+Detail: PERSON
+Call Center Representative: ORG
+Civil Engineering: ORG
+Adobe: PERSON
+3Ds: CARDINAL
+Max: PERSON
+Revit: GPE
+08/2016: CARDINAL
+Critical: ORG
+Windows: NORP
+Quick: ORG
+Strong: PERSON
+Risk: ORG
+Described: PERSON
+10%: PERCENT
+Directed: ORG
+daily: DATE
+daily: DATE
+the Call Center: ORG
+02/2014: ORG
+08/2016: CARDINAL
+Chipotle: ORG
+the day: DATE
+the day: DATE
+11/2012: CARDINAL
+a day: DATE
+Maintained: GPE
+Maintained: GPE
+Correctly: ORG
+HIPAA: ORG
+second: ORDINAL
+Customer Services: ORG
+Billing: GPE
+Server: GPE
+Cleans: NORP
+cor: ORG
+Associate Degree :: PERSON
+March 2015: DATE
+ITT-TECHNICAL INSTITUTE - 
+
+Computer Drafting and Design
+
+Pre-Medicine: ORG
+June 2010: DATE
+LEE-DAVIS HIGH SCHOOL - 
+Additional Skills
+
+Adobe Illustrator 3: ORG
+Civil Engineering: ORG
+Revit: GPE

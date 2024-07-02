@@ -1,0 +1,70 @@
+Planning & Development, Construction, Project Development: ORG
+AutoCAD & GIS Systems: ORG
+Background & Qualifications: ORG
+ten years: DATE
+15 years: DATE
+10/2016: CARDINAL
+State: ORG
+South Africa: GPE
+Utilized: ORG
+the United States: GPE
+South Africa: GPE
+daily: DATE
+Administrate: ORG
+daily: DATE
+Inform Board of Directors: ORG
+Value: ORG
+Planning & Development Company Name: ORG
+Tribal Council: ORG
+Tribal Council: ORG
+community &: ORG
+Operations Company Name: ORG
+five: CARDINAL
+09/2008: GPE
+Data Engineering Company Name: ORG
+Uranium Resources Inc.: ORG
+the United States: GPE
+Durango: GPE
+Colorado: GPE
+multi-million dollar: MONEY
+monthly: DATE
+3: CARDINAL
+Bureau of Reclamation's: ORG
+06/2003: CARDINAL
+Technician Company Name: ORG
+ten-year: DATE
+Examined: NORP
+annual: DATE
+fifty-three: CARDINAL
+Oversaw: GPE
+fifty-three: CARDINAL
+Training
+Master's : Business Management Colorado Tech University Business Management
+
+2002
+Bachelor of Science : Geography Business Information Systems Utah State University ï¼​ City: WORK_OF_ART
+State Geography Business Information Systems: ORG
+1997: DATE
+Associate of Science : General Studies College of: WORK_OF_ART
+Eastern Utah: ORG
+State General Studies: ORG
+1993: DATE
+Associate of Applied Science : Computer: WORK_OF_ART
+ITT Technical Institute: ORG
+State Computer Aided Drafting
+Certifications
+Business Management Scheduling Development OSHA & CPR Certified Tribal Government Human Resources Native: ORG
+Native Networking
+Project Management Business Networking Employee Relations Hiring and Retention Administration Business to Government Liaison Development
+Consulting Community Planning Business Development International Business
+Skills: ORG
+ArcView: ORG
+Business Development, Business Management, Consulting, Council: ORG
+CPR Certified: ORG
+Employee Relations, Government: ORG
+Hiring, Human Resources: ORG
+International Business: ORG
+Project
+Management: ORG
+3: CARDINAL
+annual: DATE

@@ -1,0 +1,100 @@
+Core Qualifications
+
+Microsoft Office: ORG
+PowerPoint: ORG
+Excel: PRODUCT
+Outlook
+Inspiration Software: ORG
+Software: PERSON
+Strong Typing Skills: PERSON
+Proofreading/Grammar
+
+Strong: WORK_OF_ART
+Resourceful & adaptable
+Professional: ORG
+Flexible & adaptable: ORG
+Time: ORG
+Name City: GPE
+followingÂ Common Core: FAC
+English: LANGUAGE
+Language Learner: WORK_OF_ART
+ELL: ORG
+non-English: NORP
+the Boys & Girls Club of Nashua: ORG
+2014-2015: DATE
+Name City: GPE
+State K-5 LITERACY & MATH INTERVENTIONIST 09/2008: ORG
+students'Â: LAW
+Name City: GPE
+State STUDENT TEACHER/SUBSTITUTE: ORG
+06/2008: ORG
+Grades: PERSON
+2: CARDINAL
+4: CARDINAL
+K-12: PRODUCT
+Hollis/Brookline High School: ORG
+Name City: GPE
+State: ORG
+INDEPENDENT CONTRACTOR FOR PAMPERED CHEF: ORG
+three: CARDINAL
+two: CARDINAL
+Name City: GPE
+100%: PERCENT
+Name City: GPE
+State Owned & Operated: ORG
+IN-HOME: ORG
+DAYCARE: ORG
+Name City: GPE
+100%: PERCENT
+Name City: GPE
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+01/1982 to 01/1984: CARDINAL
+ten: CARDINAL
+ELEMENTARY: PERSON
+2008: DATE
+Rivier University: ORG
+City: GPE
+State: GPE
+USA: GPE
+Elementary Educator Certificate K-8: PERSON
+1811: DATE
+April 2006, Sept. 2007: DATE
+BUSINESS MANAGEMENT 1987 Rivier University: ORG
+State: GPE
+USA: GPE
+1982: DATE
+Nashua Community College: ORG
+City: GPE
+State: GPE
+USA: GPE
+Non-Degree Program: ORG
+Plymouth University/UNH Manchester: ORG
+City: GPE
+State: GPE
+6: CARDINAL
+80
+hours: TIME
+K-8: ORG
+Professional Affiliations
+
+NASHUA GARDEN CLUB: ORG
+2004-Present: DATE
+2005-2010: DATE
+MedicAlert: ORG
+medicalÂ: GPE
+CHARLOTTE AVENUE ELEMENTARY SCHOOL CLASSROOM & PTO VOLUNTEERÂ  : ORG
+1996-2008: DATE
+Hospitality & Garden Club: ORG
+Ski & Chess Club: ORG
+Skills
+Computer: ORG
+Proofreading, Prioritization: ORG
+non-English: NORP
+English: LANGUAGE
+Microsoft Office: ORG
+Excel: PRODUCT
+Â PowerPoint: PERSON
+Outlook; Inspiration SoftwareÂ &Â Publisher: ORG

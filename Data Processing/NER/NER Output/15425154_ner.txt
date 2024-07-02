@@ -1,0 +1,113 @@
+one: CARDINAL
+InDesign: ORG
+Microsoft Office: ORG
+Powerpoint: PRODUCT
+Excel: PRODUCT
+Art Direction: PERSON
+Corporate Brand Strategy
+Graphic Design: ORG
+Adobe Creative Suites: PERSON
+Corporate Marketing Communications: ORG
+Creative Print: PERSON
+Digital Content Development
+Event/Trade Show Management
+Print Production Management
+Project Management
+
+Experience
+Marketing Specialist Graphic Designer: ORG
+January 2005 to January 2016: DATE
+Selected Accomplishments: Drove: WORK_OF_ART
+35 Dealers/250: CARDINAL
+Annual: DATE
+300,000: MONEY
+annual: DATE
+15%: PERCENT
+10 to 1,000: CARDINAL
+$500 to $250,000: MONEY
+Integrated: LOC
+150: CARDINAL
+35: CARDINAL
+Built: ORG
+Wirtgen Group: ORG
+Germany: GPE
+Wirtgen Group: ORG
+Coordinated: ORG
+over 9,000: CARDINAL
+January 2001 to January 2005: DATE
+Selected Accomplishments:: WORK_OF_ART
+Conceptualized: PRODUCT
+day: DATE
+Finished: PRODUCT
+four: CARDINAL
+2001: DATE
+2005: DATE
+January 2000 to January 2001: DATE
+January 1997 to January 2000: DATE
+20%+: CARDINAL
+the first year: DATE
+Established: ORG
+three years: DATE
+Varied: ORG
+Wirtgen America: LOC
+Bridgestone/Firestone: ORG
+Horizon Music Group: ORG
+Graphic Designer: PERSON
+January 1995 to January 1996: DATE
+four: CARDINAL
+Selected Accomplishments: Designed international: WORK_OF_ART
+Graphic Designer: PERSON
+Graphic Designer: PERSON
+Lead Artist: PERSON
+January 1990 to January 1995: DATE
+State: ORG
+Manufacturer: ORG
+eight: CARDINAL
+US: GPE
+Selected Accomplishments: Piloted the "Traveling Artist: WORK_OF_ART
+Walmart: ORG
+Walgreens: PERSON
+Kroger: PERSON
+POP: ORG
+Master of Business Administration: ORG
+December 2016: DATE
+Belmont University: ORG
+The Jack C. Massey Graduate School of Business ï¼​ City: PERSON
+State: ORG
+GPA: ORG
+3.86: CARDINAL
+3.86: CARDINAL
+The University of Cincinnati: ORG
+City: GPE
+State: ORG
+5 years: DATE
+Professional Affiliations
+Marketing Collateral Chairperson for Wirtgen America Charity: ORG
+Classic: PRODUCT
+the T.J. Martell Foundation: ORG
+2007-2015: DATE
+Big Brothers: ORG
+Middle Tennessee: GPE
+2008-2013: DATE
+Belmont: GPE
+Dragon Boat Team: ORG
+Cumberland River Compact: ORG
+2014: DATE
+Co-Coach for Women's Softball Team: ORG
+2000-: CARDINAL
+1990-1995: DATE
+Skills: ORG
+Adobe: PERSON
+Adobe Photoshop: PERSON
+Artist: NORP
+Art Direction: PERSON
+Content Development: ORG
+Graphic Design: ORG
+Illustrator: ORG
+InDesign: ORG
+Marketing Communications: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Powerpoint: PRODUCT
+Word: PERSON
+Project Management: ORG

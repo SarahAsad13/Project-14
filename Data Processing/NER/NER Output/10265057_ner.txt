@@ -1,0 +1,88 @@
+WORKING RF SYSTEMS ENGINEER
+Qualifications
+Microsoft: ORG
+Office for Mac: ORG
+RF/Microwave: PERSON
+Ansoft Designer: PERSON
+AWR Microwave Office: ORG
+RF: PERSON
+Vector Network/Signal Analyzer: ORG
+Logic Analyzer: PERSON
+Java: PERSON
+Matlab: ORG
+LabView Â· Circuit: ORG
+Eagle: ORG
+PCB Artiest: ORG
+Working RF Systems Engineer: ORG
+May 2014: DATE
+Current Company Name: ORG
+DFM: ORG
+Perform EVT: PERSON
+DVT: ORG
+DFM: ORG
+Antenna: PERSON
+SSL: ORG
+DFM: ORG
+DVT: ORG
+PVT: ORG
+RF: ORG
+RF: ORG
+Gain: GPE
+IP3: GPE
+1dB: CARDINAL
+August 2011 to December 2013: DATE
+Purdue University's: ORG
+SQL: ORG
+SQL: ORG
+Excel: PRODUCT
+SAS: ORG
+SPSS: ORG
+Electrical/Validation Engineer: ORG
+May 2011 to August 2011 Company Name: DATE
+PCBA EVT: ORG
+DVT: ORG
+PVT: ORG
+GSM: ORG
+EMI: ORG
+ESD - Monitor: ORG
+Dec. 2013: DATE
+PURDUE UNIVERSITY: ORG
+GPA: ORG
+GPA: ORG
+3.9/4.0 Electrical and Computer Engineering GPA: ORG
+3.9/4.0: CARDINAL
+Dec. 2011: DATE
+GPA: ORG
+GPA: ORG
+3.2/4.0 Electrical and Computer Engineering GPA: ORG
+3.2/4.0: CARDINAL
+5.8 GHz: CARDINAL
+Laptop-Based Radar System Publication Â: ORG
+FMCW: ORG
+CW: ORG
+Doppler: PERSON
+DTI: ORG
+RTI: ORG
+SAR: ORG
+ISM: ORG
+Â: PRODUCT
+Matlab: ORG
+C++: PERSON
+Circuit: ORG
+Data: ORG
+DTI: ORG
+GSM: ORG
+Java, LabView, Team: ORG
+Logic Analyzer: PERSON
+Mac: PERSON
+Matlab: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Office, Microwave: ORG
+Radar: PRODUCT
+Network: ORG
+Publication, Python: WORK_OF_ART
+SAS: ORG
+SPSS: ORG
+SQL: ORG
+SSL: ORG

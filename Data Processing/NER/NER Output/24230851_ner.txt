@@ -1,0 +1,51 @@
+CUSTOMER: ORG
+Six years: DATE
+Contact Center
+Operations: ORG
+20: CARDINAL
+100: CARDINAL
+the Contact Center Operations: ORG
+daily: DATE
+Skills
+
+Microsoft Office: ORG
+Verint: PRODUCT
+Vista: ORG
+Keep: PERSON
+Refer: PRODUCT
+Complete: PERSON
+20 to 60: CARDINAL
+the Healthcare Marketplace Supervise: ORG
+Maintain: PERSON
+daily: DATE
+hours: TIME
+CSR: ORG
+CSR: ORG
+Complete: PERSON
+monthly: DATE
+CCO: ORG
+General Dynamics Information Technology: ORG
+10/2013: CARDINAL
+09/2014
+Customer Service Representative Company Name: ORG
+Keep: ORG
+Refer: PRODUCT
+Complete: ORG
+10/2013: CARDINAL
+Customer Service Representative Company Name: ORG
+100: CARDINAL
+Keep: ORG
+Complete: ORG
+Training: PERSON
+2013: DATE
+Associate of Science :: WORK_OF_ART
+ï¼​ City: GPE
+Avaya: ORG
+Conflict Resolution: ORG
+Information Technology: ORG
+Inspect: GPE
+ISO 9001: ORG
+Microsoft Office: ORG
+Operating Systems: ORG
+Time Management: ORG
+Vista: ORG

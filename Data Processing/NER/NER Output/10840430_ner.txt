@@ -1,0 +1,62 @@
+Motivated Information Technology: ORG
+Cyber: PRODUCT
+Office of
+Management and Budget: ORG
+Department of Defense: ORG
+U.S. Air Force: ORG
+DoD: GPE
+PPBE: ORG
+IA: GPE
+ACAS: PERSON
+Authority to Connect and Authority to Operate: ORG
+SCADA: ORG
+SCI) w/CI Polygraph
+Professional Experience
+07/2014 to Current
+Branch Chief Information Technology Specialist Company Name: ORG
+the Headquarters Air Force: ORG
+DoD: GPE
+the National Capital Region: ORG
+08/2009: CARDINAL
+Information Technology Specialist: ORG
+U.S.: GPE
+Collaborated with Defense Information Systems Agency: ORG
+US Government: ORG
+Global
+Information Grid: ORG
+Geographic Combatant Commanders': ORG
+Supported Defend the Nation: WORK_OF_ART
+Operation Planning Team: ORG
+INFOSEC: ORG
+US: GPE
+Allied/Coalition: ORG
+Intelligence Community: ORG
+NetOps: ORG
+Air Force: ORG
+Air Force: ORG
+the Air Force Electronic Publishing Program: ORG
+Represented the Office: ORG
+ANG: ORG
+Air National Guard: ORG
+Communicated: ORG
+Air National (ANG: ORG
+ANG: ORG
+M.S :: ORG
+Sul Ross University: ORG
+State Public Administration: ORG
+Morgan State University: ORG
+State Psychology: ORG
+Education: ORG
+Jun-2014
+SPECIALIZED: PERSON
+Sep-2010: PRODUCT
+Basic Computer Operations Planner's: ORG
+Sep-2009: PRODUCT
+Skills
+Air Force: ORG
+Agency: ORG
+Basic: GPE
+Computer Operations: ORG
+Dec: PERSON
+Government, Information Systems: ORG
+Network: ORG

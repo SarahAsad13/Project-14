@@ -1,0 +1,51 @@
+Team: ORG
+Embrace: PERSON
+Committed: ORG
+Project Management
+Strong: ORG
+Trainer: ORG
+New England Territory: ORG
+Mentor: ORG
+Identify: ORG
+Name City: GPE
+Maintained: GPE
+98.89%: PERCENT
+99%: PERCENT
+Collaborated: ORG
+Aetna: ORG
+Mental Health Parity and Health Care Reform: ORG
+Aetna: ORG
+Implementation Specialist 02/2004: ORG
+Name City: GPE
+Aetna: ORG
+Aetna: ORG
+99.49%: PERCENT
+Implementation Managers: ORG
+Account Managers: ORG
+Drafters: PERSON
+Monitored: ORG
+daily: DATE
+99.76%: PERCENT
+Name City: GPE
+09/2000: CARDINAL
+11/2004: CARDINAL
+Name City: GPE
+1 year: DATE
+Education: ORG
+Connecticut: GPE
+K-6: ORG
+June 2004: DATE
+University City: GPE
+July 2004: DATE
+GPA: ORG
+4.0: CARDINAL
+Bachelor of Science : Psychology: ORG
+May 2003: DATE
+GPA: ORG
+3.9: CARDINAL
+Summa Cum Laude: PERSON
+Psi Chi: GPE
+Italian: NORP
+Skills
+Computer: ORG
+Salesforce.com: ORG

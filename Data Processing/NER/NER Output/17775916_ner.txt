@@ -1,0 +1,129 @@
+FINANCE: ORG
+Core Qualifications: ORG
+Windows Operating System: ORG
+Microsoft Office: ORG
+Operations: ORG
+Oracle ERP: ORG
+SAP & Tally Date: ORG
+January 2012: DATE
+RICOH India Ltd: ORG
+73.6%: PERCENT
+Japan: GPE
+RICOH Co.
+Ltd.: ORG
+14: CARDINAL
+230: CARDINAL
+India: GPE
+10 billion: CARDINAL
+New Delhi/NCR: GPE
+20th: ORDINAL
+16th: ORDINAL
+IRR & NPV Calculation: ORG
+Treasury: ORG
+Audit Scheduling: PERSON
+Balance Sheet and Profit &: ORG
+Capital Expenditure: ORG
+Inter: ORG
+Budget: ORG
+monthly: DATE
+PPT: ORG
+MIS: ORG
+the Assets Register: ORG
+monthly: DATE
+Bank Guarantee: ORG
+Remittance: PERSON
+Finance Team: ORG
+6: CARDINAL
+North Region: LOC
+Team: ORG
+Kochi: PRODUCT
+Feb'15: PERSON
+Debt Management: ORG
+the Branch Calculation Of dealer commission: PRODUCT
+Audit Scheduling: PERSON
+Inter: ORG
+Budget: ORG
+monthly: DATE
+PPT: ORG
+MIS: ORG
+the Assets Register: ORG
+monthly: DATE
+Credit Controlling: ORG
+February 2008 to September 2012: DATE
+Kolkata & Hyderabad: ORG
+Finance Executive: ORG
+1937: DATE
+DIC India Limited: ORG
+Japan: GPE
+Dainippon Ink & Chemicals: ORG
+DIC India: ORG
+Viocure: NORP
+Key Responsibilities: LOC
+MIS: ORG
+Liquidity Analysis: ORG
+monthly: DATE
+Liability: ORG
+monthly: DATE
+monthly: DATE
+Prepare: ORG
+monthly: DATE
+weekly: DATE
+Govt: ORG
+Bill of Exchange: ORG
+Bank
+Guarantee and Export: ORG
+Service Tax: PERSON
+Central Excise: LOC
+PF: GPE
+ESI Etc: ORG
+Kolkata: PERSON
+May 2006 to January 2008: DATE
+SAIT Mining of: ORG
+France: GPE
+Transwitch Unit: ORG
+NFLP Starter: PRODUCT
+Halogen: ORG
+Bulbs: PERSON
+Mining Sector: WORK_OF_ART
+Indian: NORP
+Lighting: ORG
+India: GPE
+Vat: PERSON
+E1: CARDINAL
+Provident Fund: ORG
+ESI: ORG
+Central Excise: ORG
+Bank Guarantee: ORG
+Letter Of
+Credit: PERSON
+Kolkata: PERSON
+April 2004 to April 2006 Company Name: DATE
+Bachelor of Commerce: ORG
+Calcutta University: ORG
+RICOH India Limited Current Designation : Branch Finance: ORG
+Current Location: PERSON
+9 years: DATE
+30 Days Date of Birth :: DATE
+2: CARDINAL
+April 1983: DATE
+09643890956: DATE
+NCR: ORG
+Balance Sheet: PERSON
+Budgeting, Budget, C: ORG
+Cost Analysis: ORG
+Credit: ORG
+ERP: ORG
+Finance: ORG
+Financial Management: ORG
+Foreign Exchange: ORG
+Functional, Government: ORG
+Ink: ORG
+Lighting, Exchange: ORG
+Microsoft Office: ORG
+Windows Operating System: ORG
+MIS: ORG
+Multitasking: PERSON
+Oracle: ORG
+SAP: ORG
+Tax: PERSON
+Treasury: ORG

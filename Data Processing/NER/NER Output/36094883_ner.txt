@@ -1,0 +1,68 @@
+the six years: DATE
+Desires: ORG
+Excel: PRODUCT
+Client: GPE
+Microsoft Office: ORG
+Quick: FAC
+Volunteer Career: PERSON
+Oct 2013: DATE
+American: NORP
+International Politics: ORG
+Jan 2009: DATE
+the University California at Irvine: ORG
+Customer Service: ORG
+Apparel Associate -Seasonal Position: ORG
+Jan 2014 to Jan 2014: DATE
+the Board of Directors Oct 2012 to: ORG
+Oct 2013: DATE
+Liaison: PERSON
+Board: ORG
+Theatre: ORG
+Oct 2005: DATE
+Jan 2009: DATE
+Millennial: PERSON
+Boomer: PERSON
+Career Services: ORG
+Oct 2005: DATE
+Cognitive Information Processing: ORG
+one: CARDINAL
+16: CARDINAL
+40%: PERCENT
+67%: PERCENT
+Seminar on Career Development: WORK_OF_ART
+Center: GPE
+one: CARDINAL
+only 3: CARDINAL
+University: ORG
+Graduation Auditor/Adjunct: ORG
+2002: DATE
+2001: DATE
+6: CARDINAL
+Organizational Behavior and Politics: ORG
+100: CARDINAL
+B.A: ORG
+Middle East: LOC
+May 1986: DATE
+Fordham University: ORG
+State: GPE
+US: GPE
+Summa cum Laude
+
+Summa cum Laude Middle East Studies: PERSON
+M.A , Political Science 1989 Fordham University: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+4.0: CARDINAL
+Professional Affiliations: ORG
+NACE: ORG
+NAACADA: ORG
+DC: GPE
+Top National Award Winning Millennial Emotional Intelligence
+Assessment Product "Education-In-Motion: ORG
+HR Executive: ORG
+University of Charleston: ORG
+2002-2003: DATE
+2001: DATE
+New York University New York University Dean's: ORG
+4: CARDINAL

@@ -1,0 +1,36 @@
+Stocker/Receiver for Paris Walmart Super Center: ORG
+Adaptive: ORG
+Detail: PERSON
+Adaptive: ORG
+JLG: ORG
+CAM: ORG
+Interpersonal: ORG
+Home Health Care Provider: ORG
+07/2019: GPE
+02/2020: CARDINAL
+daily: DATE
+Completed: ORG
+Monitored: ORG
+Aircraft Hydraulics Systems Journeyman: ORG
+04/2016: ORG
+05/2019: GPE
+Performed: ORG
+Complied: PERSON
+Collaborated: ORG
+02/2014: ORG
+daily: DATE
+Completed: ORG
+Monitored: ORG
+Frequently: ORG
+HIPAA: ORG
+Environmental Services Associate: ORG
+Examined: ORG
+Grant Union High School - City: ORG
+Paris Junior College - City
+Graduation of Aircraft Hydraulics Systems: ORG
+Aircraft Hydraulics Systems: ORG
+12/2016: CARDINAL
+Sheppard Air Force Base - City
+Associate of Applied Science : Mechatronics , Expected: ORG
+01/2022 Paris Junior College - City: ORG
+State: ORG

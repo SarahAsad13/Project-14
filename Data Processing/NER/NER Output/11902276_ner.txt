@@ -1,0 +1,62 @@
+Business Development: ORG
+Bilingual: GPE
+Fortune 500: PRODUCT
+Cold: EVENT
+Strategic: PERSON
+Spanish: NORP
+Reliable
+Financial: WORK_OF_ART
+Detail: PERSON
+Analytical
+Strategic: PRODUCT
+Critical: PRODUCT
+312%: PERCENT
+2011: DATE
+136 %: PERCENT
+2012: DATE
+Awarded â€œ Emergent Talent Program â€​: ORG
+Customer Relations: ORG
+Process Improvement
+
+Created: WORK_OF_ART
+September 2015 to May 2016: DATE
+the
+coming years: DATE
+Leassy: PERSON
+August 2013 to April 2015: DATE
+Three months: DATE
+50%: PERCENT
+General Motors Venezolana: ORG
+Venezuela: GPE
+Club del Presidente de GM: WORK_OF_ART
+30%: PERCENT
+February 2011 to July 2013 Relationship: DATE
+KYC: ORG
+Anti Money Laundering: ORG
+AML: ORG
+zero: CARDINAL
+Citibank: ORG
+Correspondent Bank: ORG
+50%: PERCENT
+the second quarter of 2011: DATE
+100%: PERCENT
+the end of that year: DATE
+more than 70: CARDINAL
+$ 1.7 Million to $ 7.2 Million: MONEY
+two years: DATE
+Citi: PERSON
+May 2016: DATE
+State: ORG
+UNIVERSIDAD: GPE
+October 2010: DATE
+Venezuela Business
+Administration Management
+Financial Engineering Certificate
+Languages: ORG
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills: ORG
+Credit, Client: ORG
+English: LANGUAGE
+Financial, Leadership: ORG
+Spanish: NORP

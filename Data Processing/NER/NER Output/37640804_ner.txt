@@ -1,0 +1,125 @@
+NURSE: GPE
+II: CARDINAL
+ON MEDICAL/CARDIAC INTENSIVE CARE UNITS: ORG
+INTERVENTIONAL: ORG
+Nursing Practice: ORG
+DNP: ORG
+CRNA: ORG
+School of Anesthesia: ORG
+BSN: ORG
+Loyola University: ORG
+Chicago: GPE
+4 years: DATE
+MICU: ORG
+2 years: DATE
+September 2013: DATE
+Nurse Anesthetist: ORG
+Two solid years: DATE
+the Medical/Cardiac/Interventional ICU: ORG
+Advocate Lutheran General Hospital: ORG
+Observe: LOC
+Hypothermia: ORG
+IABP: ORG
+IV: GPE
+ACLS: ORG
+Frequently: ORG
+Device Competencies & Proficiencies: ORG
+CRRT/CVVH: ORG
+Intra-Aortic Balloon Pump: ORG
+Flow Trac: ORG
+Cardiac: ORG
+Impella: PERSON
+Rapid Infusers: PERSON
+Bladder Pressure: ORG
+Vasopressor: PERSON
+Neo-Synephrine: ORG
+Levophed: GPE
+Dobutamine, Propofol,: WORK_OF_ART
+Fentanyl: PERSON
+Midazolam: PERSON
+Lorazepam: PERSON
+Morphine: PERSON
+Nitroglycerine: PERSON
+August 2013-Present
+: DATE
+2014-Present: DATE
+Basic Life Support (BLS) Certification: WORK_OF_ART
+2014-Present: DATE
+2015-Present: TIME
+September 2013- Present: DATE
+Therapy: ORG
+Procedural: ORG
+Hourly Rounding: WORK_OF_ART
+Diagnostic: LOC
+Vital: ORG
+Nurse Clinician II: NORP
+Medical/Cardiac Intensive Care Units: ORG
+State: ORG
+Chicago Luvabulls Company Name: ORG
+the Chicago Bulls: ORG
+the season: DATE
+the United Center: FAC
+Chicagoland: GPE
+Interventional Unit Company Name: ORG
+33: CARDINAL
+Medical/Cardiac/Interventional: ORG
+ICU: ORG
+Activities of Daily Life: ORG
+12: CARDINAL
+EKG: ORG
+Training: PERSON
+2013: DATE
+Bachelor: ORG
+Loyola University: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.59: CARDINAL
+List, Loyola University Chicago: ORG
+GPA: ORG
+3.5/4.0: CARDINAL
+Advocate Lutheran General Hospital Spirit Awards: Awarded: ORG
+Behaviors of Excellence: PERSON
+Alpha Sigma Nu Jesuit Honor: PRODUCT
+October 2012-May 2013: DATE
+15%: PERCENT
+Loyola: GPE
+Jesuit: NORP
+Sigma Theta Tau Honor Society of Nursing: PERSON
+November 2012-May 2013: DATE
+3.0: CARDINAL
+GPA: ORG
+National Society of Collegiate: ORG
+Scholars: PERSON
+Jan 2010-May 2013: DATE
+GPA: ORG
+3.4: CARDINAL
+the Medical/Cardiac ICU: ORG
+Advocate Lutheran General Hospital: ORG
+the Medical/Cardiac ICU: ORG
+Advocate Lutheran General Hospital
+Loyola University Chicago's: ORG
+Nursing Student Council Executive Board: ORG
+April 2012-May 2013: DATE
+Loyola University Chicago's: ORG
+National Society of Collegiate Scholars Executive Board: ORG
+Co-Social Chair: ORG
+Sept 2012-May 2013: DATE
+Loyola University Chicago's: ORG
+Nursing Student Council: ORG
+2009-May 2013: DATE
+American Association of Critical-Care Nurses: ORG
+Feb 2015-Present: DATE
+Volunteer & Community Service: ORG
+Honduras Global Public Health Brigade: ORG
+May 2013: DATE
+Honduran: NORP
+El Jute: ORG
+one week: DATE
+Honduran: NORP
+five: CARDINAL
+Spanish: NORP
+12: CARDINAL
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG

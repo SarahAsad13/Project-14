@@ -1,0 +1,87 @@
+Skills
+Microsoft Office: ORG
+Spanish: NORP
+TMT: ORG
+Evertec: ORG
+TMT: ORG
+Select Transaction: ORG
+Ascensus, Inc.: ORG
+Genstar Capital: ORG
+Aquiline Capital Partners Aided: ORG
+Investor Presentation: EVENT
+Prepared: PERSON
+U.S.: GPE
+Created: ORG
+07/2014: CARDINAL
+Intern Company Name: ORG
+07/2013
+Intern Company Name: PRODUCT
+May 2016: DATE
+Financial Accounting: ORG
+Microeconomics, Macroeconomics: ORG
+Urban Economics: ORG
+Multivariable Calculus: ORG
+Management Duke University: ORG
+State Psychology Economics Markets: ORG
+Management Graduated Cum Laude: ORG
+3.8: CARDINAL
+Spring 2013: DATE
+Fall 2013, Spring 2015: DATE
+Fall 2015: DATE
+740: CARDINAL
+Fall 2014: DATE
+Universitat AutÃ³noma de Barcelona: FAC
+City Spain: FAC
+Business, Cross Cultural Management, Business Ethics: ORG
+Intercultural
+Interactions: ORG
+June 2012: DATE
+Rye Country Day School: ORG
+800: CARDINAL
+Critical Reading: PERSON
+720: CARDINAL
+730: CARDINAL
+Interests: NORP
+2013 - 2016: DATE
+Oversaw: PRODUCT
+1,000: CARDINAL
+hours: TIME
+over $5,500: MONEY
+Cameron Classic Tournament: PERSON
+Duke
+University Hospital: ORG
+The Monday Life Implemented: ORG
+Face Your Challenges: WORK_OF_ART
+2012 - 2016: DATE
+Raised: GPE
+over $: MONEY
+2,000: MONEY
+Autism Speaks: EVENT
+Volunteer 2006 -: PERSON
+Team: ORG
+annual: DATE
+Economics: ORG
+Financial Accounting: ORG
+Math: PERSON
+Microsoft Office: ORG
+SAT: ORG
+Spanish: LANGUAGE
+Strategic
+Additional Information: ORG
+2013 - 2016: DATE
+Oversaw: PRODUCT
+1,000: CARDINAL
+over $5,500: MONEY
+Cameron Classic Tournament: PERSON
+Duke University Hospital: ORG
+The Monday Life
+Implemented: ORG
+Face Your Challenges: WORK_OF_ART
+2012 - 2016: DATE
+Raised: GPE
+2,000: MONEY
+Autism Speaks: EVENT
+Volunteer 2006 -: PERSON
+Team: ORG
+annual: DATE
+Draft: PERSON

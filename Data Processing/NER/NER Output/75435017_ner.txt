@@ -1,0 +1,95 @@
+RN: ORG
+Intake ,Case Management: ORG
+Seasoned Charge Nurse: WORK_OF_ART
+more than 10 years: DATE
+Dual Diagnosis /Chemical: ORG
+13 years: DATE
+Holistic: ORG
+Case Managers: ORG
+Physicians: NORP
+Ancillary: GPE
+Social Workers: ORG
+Patient Care Planning
+Medical: ORG
+Detail: PERSON
+Critical: ORG
+Strong: PERSON
+Adaptability
+Collaboration: PRODUCT
+Charge Nurse: PERSON
+07/2018: GPE
+Performed: ORG
+daily: DATE
+daily: DATE
+Intake Nurse: ORG
+09/2019: PERSON
+04/2020: CARDINAL
+RN: ORG
+RN: ORG
+Performed: ORG
+Monitored: ORG
+PO: ORG
+IM: GPE
+Charge Nurse: PERSON
+03/2006: CARDINAL
+10/2016: CARDINAL
+Chemical Detox: ORG
+Assigned: ORG
+Anxiety and Depression: ORG
+Nurse: PERSON
+01/2004: CARDINAL
+ADL: ORG
+Nurse: PERSON
+03/2002: DATE
+Med-Surg/ Oncology: ORG
+Collaborated: ORG
+Nurse: PERSON
+06/1993: DATE
+07/2001: CARDINAL
+Med-Surg: ORG
+Maintained: GPE
+Notified Surgeon: ORG
+Lincoln Park High School - City: ORG
+Associate of Applied Science : Nursing: WORK_OF_ART
+Olive Harvey College - City: ORG
+Patient Care Planning
+Medical: ORG
+Detail: PERSON
+Critical: ORG
+Strong: PERSON
+Adaptability
+Collaboration: PRODUCT
+Charge Nurse: PERSON
+07/2018: GPE
+Performed: ORG
+daily: DATE
+daily: DATE
+Intake Nurse: ORG
+09/2019: PERSON
+04/2020: CARDINAL
+RN: ORG
+RN: ORG
+Performed: ORG
+Monitored: ORG
+PO: ORG
+IM: GPE
+Charge Nurse: PERSON
+03/2006: CARDINAL
+10/2016: CARDINAL
+Chemical Detox: ORG
+Assigned: ORG
+Anxiety and Depression: ORG
+Nurse: PERSON
+01/2004: CARDINAL
+ADL: ORG
+ADL: ORG
+Nurse: PERSON
+03/2002: DATE
+Med-Surg/ Oncology: ORG
+Collaborated: ORG
+Nurse: PERSON
+06/1993: DATE
+07/2001: CARDINAL
+Med-Surg: ORG
+Maintained: GPE
+Notified Surgeon: ORG

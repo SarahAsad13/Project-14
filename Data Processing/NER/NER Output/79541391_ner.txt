@@ -1,0 +1,198 @@
+HP ALM: PERSON
+Network Configuration: ORG
+Database Management: ORG
+Training: PERSON
+Training: PERSON
+Website Maintenance: ORG
+Mac: PERSON
+1: CARDINAL
+4: CARDINAL
+Subject Matter Expert (Information Technology: PERSON
+September 2013: DATE
+Data Validation: ORG
+Database/ SAP: PERSON
+Umoja: ORG
+LSMW: ORG
+SAP: ORG
+Conversion: ORG
+Umoja: ORG
+-Develop: ORG
+Excel: PRODUCT
+HP/ALM: ORG
+Umoja: ORG
+Training Materials for Data Validation and Testing in: WORK_OF_ART
+SAP: GPE
+Product Integration
+Testing and User Verification Testing -Supported Tier 3 Production Support Activities Accomplishments:: WORK_OF_ART
+LSMW: ORG
+1
+hour: TIME
+Data Validation Spreadsheet: ORG
+40%: PERCENT
+Peacekeeping Missions in Umoja Foundation Cluster 1: ORG
+3: CARDINAL
+Umoja Cluster 3 Data Conversion Load
+Cycles: ORG
+UNON: ORG
+UNEP: ORG
+ESCAP: ORG
+UN-Habitat: ORG
+Fixed Assets Equipment: ORG
+Cluster 3: LAW
+Product Integration
+Testing (: WORK_OF_ART
+PIT: ORG
+User Verification Testing: ORG
+Umoja Cluster 3
+Information Technology: ORG
+OSAU: ORG
+October 2010 to August 2013: DATE
+UN: ORG
+Locations: GPE
+Vacancies: ORG
+Overcapacities: ORG
+Department Focal Points: ORG
+UN: ORG
+Untel: ORG
+Voice/Data Messaging Service: ORG
+Floor: GPE
+Aperture -Clean: PRODUCT
+Floor: PRODUCT
+-Assist Property Management Inventory Control
+Unit: ORG
+Occasional Inventories and Property Verifications: ORG
+SQL: ORG
+Microsoft Access for Project Managers: ORG
+UN Staff Telephone Directory Database: ORG
+UN: ORG
+Voice/Data Messaging Service: ORG
+UN Staff Telephone Directory Database: ORG
+Voice/Data Messaging Service: ORG
+SQL: ORG
+Microsoft Access: ORG
+Untel: ORG
+Excel: PRODUCT
+Create and Maintain Document Management: ORG
+Umoja Pilot: ORG
+Tester for Umoja: ORG
+HP ALM: PERSON
+SAP: ORG
+Umoja Pilot Project: ORG
+Untel: ORG
+Untel: ORG
+a month: DATE
+Supervisor: PERSON
+P3: NORP
+SQL Database: GPE
+50%: PERCENT
+Information Technology: ORG
+January 2008 to October 2011 Company Name: DATE
+MP-2 / iNeed: ORG
+Departments/Offices of UNHQ: ORG
+-Coordinate/Arrange: ORG
+1 to 10: CARDINAL
+Furniture Disposals: ORG
+Procure: ORG
+OICT: ORG
+Procure: ORG
+Build: GPE
+Relocate: ORG
+Transfer: PERSON
+Remove: PERSON
+-Enter: PERSON
+Procure Plus: FAC
+Procure Plus: PRODUCT
+Database: GPE
+FMS: ORG
+Furniture Disposal Process: WORK_OF_ART
+Furniture Issuance Procedure": WORK_OF_ART
+Processing PO Orders Procedure: WORK_OF_ART
+Unit Operations: ORG
+45,000 sq ft: QUANTITY
+5,000: CARDINAL
+10,000: CARDINAL
+200,000: MONEY
+Performed Location Verification: ORG
+2008: DATE
+10,000: CARDINAL
+Procure: ORG
+$2.4M: MONEY
+630,000sqft: CARDINAL
+Consolidated: ORG
+Organized Wood: ORG
+more than 50%: PERCENT
+Information Technology: ORG
+September 2007 to December 2007: DATE
+UN: ORG
+Procure Plus -Cleaned: FAC
+Procure Plus -Enter: FAC
+30%: PERCENT
+Procure Plus: FAC
+Technical Support Representative: ORG
+July 2005 to September 2007: DATE
+yearly: DATE
+-Performed Customer Service: ORG
+Technician Phone Support: PERSON
+Secured Wireless Networks: ORG
+Hardware: ORG
+1: CARDINAL
+4: CARDINAL
+25%: PERCENT
+weeks: DATE
+3-5 days: DATE
+QA: ORG
+September 2002 to July 2005: DATE
+Great Plains: ORG
+MS: ORG
+Excel: PRODUCT
+yearly: DATE
+- Performed Quality Control: ORG
+3 months: DATE
+3: CARDINAL
+40%: PERCENT
+2005: DATE
+Chubb Institute ï¼​ City: ORG
+State: GPE
+US Certification: ORG
+2003 to 2005: DATE
+Bachelor of Science : Computer Science & Business Oneonta State University: ORG
+State: GPE
+US Bachelor of Science in Computer Science &
+Business: ORG
+Oneonta State University - Oneonta: ORG
+NY: ORG
+Affiliations
+Foundation Cluster 1 and Cluster 2: ORG
+3: CARDINAL
+Mock
+Certifications
+Certification: ORG
+Skills
+Inventory, Database, Excel: ORG
+Training: PERSON
+Stockroom: GPE
+Sql: PERSON
+Operations: ORG
+Sops: ORG
+Asset Management: ORG
+Cafm, Document Management: ORG
+Microsoft Access: ORG
+Ms Access: PERSON
+Ms Asp: PERSON
+P3, Property Management: ORG
+Credit Card: ORG
+Great Plains: PERSON
+Ms Excel: PERSON
+Order Processing: ORG
+Qa: ORG
+Quality Control: ORG
+Warehouse Inventory: ORG
+Customer Service: ORG
+Receptionist: NORP
+Network Security: ORG
+Adjustments: ORG
+Clarify: GPE
+Data Conversion: ORG
+Data Validation, Deployment, Fixed Asset: ORG
+Fixed Assets: GPE
+Ids: ORG

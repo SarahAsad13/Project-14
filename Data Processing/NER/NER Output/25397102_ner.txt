@@ -1,0 +1,56 @@
+Business Development and Data Analytic: ORG
+Business Professional: ORG
+Key Skills: PERSON
+Advanced Adobe: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+Power Point
+Analytical and Tactical Planning
+Flexible: ORG
+Fast Learner: PERSON
+Superb: NORP
+July 2016: DATE
+October 2017: DATE
+Name City: GPE
+State Business Development Analyst
+
+Responsible: ORG
+Entry Level Business Analyst: ORG
+November 2014: DATE
+September 2015: DATE
+Name City: GPE
+State Documentation Analyst: ORG
+15%: PERCENT
+10%: PERCENT
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+May 2014: DATE
+November 2014: DATE
+Name City: GPE
+State Data Analyst: ORG
+Intern: ORG
+Quality Assurance: ORG
+Oracle: ORG
+SQL: GPE
+Customer  Relations: ORG
+Team  Leadership: ORG
+Business  Analysis: ORG
+Microsoft: ORG
+Organization, Advanced  Presentation: ORG
+Project  Coordinator: ORG
+Quality  Control: ORG
+Quality Assurance: ORG
+Business Analyst: ORG
+SAP: ORG
+SQL: ORG
+SPSS: ORG
+Oracle
+
+Education: ORG
+May,: DATE
+2016: DATE
+University of Miami City: ORG
+August 2013: DATE
+May 2016: DATE

@@ -1,0 +1,170 @@
+twenty-eight: CARDINAL
+28) years: DATE
+Model: PRODUCT
+May 2013 to July 2015: DATE
+the Research and Technology: ORG
+Designs: NORP
+Creo Parametric 2.0: ORG
+Windchill: ORG
+Autodesk Inventor 2015: PERSON
+Frac: PERSON
+the Fluid Ends: GPE
+Created: ORG
+twenty two: CARDINAL
+Frac: PERSON
+Frac: PERSON
+Troubleshot: PERSON
+Troubleshot: PERSON
+PVG: ORG
+Troubleshot: PERSON
+April 2011 to May 2013: DATE
+the Coil Tubing Unit: ORG
+the American Petroleum Institute: ORG
+the International Standards Organization: ORG
+Autodesk Inventor Pro 2012: ORG
+Routed Systems - Tube: ORG
+Pipe: FAC
+Autodesk Vault Professional 2102: ORG
+Wet Kit: GPE
+Heavy: ORG
+Autodesk: PERSON
+one: CARDINAL
+Vendor/Purchasing Q &A: ORG
+second: ORDINAL
+January 2009: DATE
+February 2010: DATE
+Applied Aerodynamics Inc.: ORG
+FAA: ORG
+Repair / Overhaul / Manufacturing: ORG
+As Planning Engineer: ORG
+Boeing Suppliers: ORG
+Boeing DPD: ORG
+Applied Aerodynamics: ORG
+DPD: ORG
+Boeing: ORG
+As Planning Engineer: WORK_OF_ART
+the Parts Manufacturer Approval: ORG
+PMA: ORG
+Applied Aerodynamics: ORG
+Parts Manufacturer Approval: ORG
+PMA: ORG
+the United States Federal Aviation Administration: ORG
+FAA: ORG
+October 2006 to December 2008: DATE
+AeroParts Manufacturing and Repair: ORG
+FAA: ORG
+Master Shop Traveler: WORK_OF_ART
+Input Specifications: ORG
+Review: ORG
+Categorize: ORG
+one: CARDINAL
+June 2004 to July 2006: DATE
+Mobile Command and Communications Systems: ORG
+the Beyond Line-of-Sight High Mobility Digital Group Multiplexer Assemblage: ORG
+HMDA: ORG
+HMDA: ORG
+S805 Shelter: PRODUCT
+EIA: ORG
+Sheet Metal Fabrication: ORG
+Subassemblies Cable: ORG
+Harness Assemblies All: ORG
+SolidWorks: ORG
+2004: DATE
+Rev 2005: PERSON
+ANSI: ORG
+ASME Y14.5-1994: PERSON
+June 2002 to: DATE
+November 2003: DATE
+U.S.: GPE
+Department of Energy's: ORG
+first: ORDINAL
+2,150 feet: QUANTITY
+2,000-foot: QUANTITY
+Remote
+Handling of Transuranic Radioactive Waste: Underground Radios Continues Air Monitoring: ORG
+CAM: ORG
+Remote Alarm: PERSON
+Filter Clip: ORG
+2Â½ Ton
+Jib Crane: QUANTITY
+the Cask Preparation Station Radiation Source Holders Elevated Work Platform for Cask Preparation Station Shrouded: ORG
+10-160B: CARDINAL
+10-160B: CARDINAL
+August 1996 to June 2001: DATE
+DELTA II: ORG
+100E: CARDINAL
+ANSIY14.5M-1982: ORG
+ASMEY14.5-1994: DATE
+August 1994 to March 1996: DATE
+Specialized: ORG
+DOD-STD-100C: NORP
+ANSI: ORG
+Maintained: GPE
+Library: PERSON
+October 1992 to August 1994: DATE
+Vertical: PRODUCT
+Communicate: ORG
+MIL-SPEC: ORG
+ANSI: ORG
+June 1986 to October 1992: DATE
+Specialized: ORG
+DOD-STD-100C: NORP
+ANSI: ORG
+Library: PERSON
+Hydraulics Training 2012 Certification: ORG
+60 hours: TIME
+Industrial Hydraulics Training: ORG
+Level II: PERSON
+Federal Aviation Administration: ORG
+Federal Aviation Administration: ORG
+New Mexico State University: ORG
+2003: DATE
+Pro/Engineer Certification: ORG
+Pro/Engineer City: ORG
+State: ORG
+Pro/Engineer
+
+South Plains College: ORG
+1986: DATE
+Applied Science & Drafting Technology
+
+Affiliations
+
+Aircraft Owners and Pilots Association: ORG
+Autodesk: PERSON
+one: CARDINAL
+Model: PRODUCT
+Recent 60 hours: TIME
+Level II: PERSON
+3: CARDINAL
+DOD-D-1000: ORG
+4.0: CARDINAL
+GPA: ORG
+two: CARDINAL
+Dean: PERSON
+List, Academic Scholarship, Honorary Draftsperson of the Year 1986: WORK_OF_ART
+National
+Honor Society: ORG
+South Plains College: ORG
+4.0: CARDINAL
+GPA: ORG
+National College: ORG
+two: CARDINAL
+Honeywell
+Defense Avionics Div
+
+Skills
+
+Extremely: ORG
+Microsoft: ORG
+Word: PERSON
+Excel: PRODUCT
+Autodesk Inventor Pro 2012: PERSON
+Routed Systems - Tube: ORG
+Pipe: FAC
+Autodesk Vault Professional 2102: ORG
+Pro/Engineer: ORG
+Creo, ComputerVision 3-D Personal Designer: ORG
+CADDS4X-: LOC
+SUNhardware: ORG
+SolidWorks: ORG

@@ -1,0 +1,21 @@
+3 years: DATE
+Skills: ORG
+first: ORDINAL
+Languages
+Fluent: WORK_OF_ART
+English: LANGUAGE
+Spanish: NORP
+Name City: GPE
+EFT: ORG
+first: ORDINAL
+Operations: ORG
+10/2016: CARDINAL
+Name City: GPE
+Obtained: ORG
+Maintained: GPE
+Name City: GPE
+Performed: ORG
+EFT: ORG
+State: ORG
+Tallahassee Community College City: ORG
+State: ORG

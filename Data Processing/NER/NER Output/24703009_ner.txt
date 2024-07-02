@@ -1,0 +1,71 @@
+Virginia Francis: PERSON
+Supervisor's Endorsement: WORK_OF_ART
+â€œVirginia: GPE
+Craig C.: PERSON
+Division: ORG
+2009: DATE
+MAS 90 & Sage Software: ORG
+Complex: NORP
+Advanced: ORG
+Accountant: PERSON
+September 2010: DATE
+Current Company Name: ORG
+Cypress Healthcare Partners: ORG
+monthly: DATE
+seven: CARDINAL
+two to fifteen: CARDINAL
+One: CARDINAL
+eleven: CARDINAL
+two: CARDINAL
+one: CARDINAL
+ZBA: ORG
+month end and year end: DATE
+daily: DATE
+annual: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+monthly: DATE
+July 2008 to October 2009: DATE
+three: CARDINAL
+multi-million dollar: MONEY
+quarterly: DATE
+up to $25,000: MONEY
+Created Reimbursable
+Service Agreements: ORG
+Academy: ORG
+State: ORG
+Workforce Investment Act: ORG
+July 2007 to July 2008: DATE
+five: CARDINAL
+nine: CARDINAL
+Department of Military: ORG
+Veterans' Affairs: ORG
+AP: ORG
+Alaska Statewide Accounting System: ORG
+November 2002 to July 2008: DATE
+2002: DATE
+Child Support Specialist: ORG
+Accounting Technician II: NORP
+2006: DATE
+three: CARDINAL
+Simplified: PERSON
+BBA : Business Administration/Accounting: ORG
+2009: DATE
+University of Anchorage Alaska: ORG
+City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+3.0: CARDINAL
+Associate of Science : General , 2000: WORK_OF_ART
+Umpqua Community College: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+2000: DATE
+Umpqua Community College: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.4: CARDINAL

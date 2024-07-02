@@ -1,0 +1,82 @@
+LOGISTICS SPECIALIST: PERSON
+Career Overview
+Vacancy Identification Number: ORG
+1192501: DATE
+Intake Specialist: ORG
+10 years: DATE
+Administration and Logistics
+Specialist: ORG
+Specialized: ORG
+Created: ORG
+Microsoft Power: ORG
+Excel: PRODUCT
+Word: PERSON
+Material Logistics Specialist: ORG
+April 2000: DATE
+Current
+
+American Airlines S: ORG
+Phil Simpson Hanger: PERSON
+21st Street: FAC
+May: DATE
+DFW Int'l Airport: FAC
+Texas: GPE
+48,000: MONEY
+Equipment & Supply: ORG
+June 1999: DATE
+April 2000: DATE
+33rd Street: FAC
+May: DATE
+Dallas: GPE
+Texas: GPE
+50,000: MONEY
+Develop: ORG
+approximately one hundred (100: CARDINAL
+three: CARDINAL
+Duty Managers: ORG
+March 1998 to June 1999: DATE
+4901: DATE
+May: DATE
+Fort Worth: GPE
+Texas: GPE
+55,000: MONEY
+Develop: ORG
+FedEx: GPE
+Business Administrator: ORG
+July 1978 to September 1998: DATE
+55: CARDINAL
+50,000: MONEY
+Coordinated: ORG
+daily: DATE
+10 to 15: CARDINAL
+Established: ORG
+monthly: DATE
+Provided: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+Training
+Certificate of Achievement - Business Administration: ORG
+Santa Ana: GPE
+CA 08/10 Certificate of Achievement - Operations Management: FAC
+Santa Ana: GPE
+CA: WORK_OF_ART
+5 2014: DATE
+3 2014: DATE
+California Coast University: ORG
+State Business Administration: ORG
+US Veterans Preference: ORG
+30%: PERCENT
+Skills: ORG
+Business Administration: ORG
+CA: ORG
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+Operations Management: ORG
+Sabre: NORP
+Word Perfect: ORG
+US Veterans Preference: ORG
+30%: PERCENT
+Awards 08/98 Veterans Preference Awards (Expeditionary Medal, National Defense Service Medal: ORG
+40+: DATE

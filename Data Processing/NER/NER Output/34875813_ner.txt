@@ -1,0 +1,55 @@
+07/2011 - Current
+Company Name: ORG
+IKON: ORG
+over $1 million: MONEY
+annually: DATE
+the University of
+: ORG
+Vermont: GPE
+Major Account Executive: ORG
+six: CARDINAL
+Six Sigma: ORG
+the Business Development: ORG
+Developed: ORG
+Maintained: GPE
+Collaborated: ORG
+Fortune 1000: PRODUCT
+IKON: ORG
+Maintained: GPE
+Business Development: ORG
+Mentorship: NORP
+10/2005 - 12/2013: CARDINAL
+State: ORG
+Directed: ORG
+Project Managers: ORG
+annual: DATE
+5-year: DATE
+Collaborated: ORG
+02/2004: CARDINAL
+State Account Executive
+
+: ORG
+Maintained: GPE
+Maintained: GPE
+05/2001 - 12/2003: DATE
+Pacific Life Insurance Company: ORG
+March 2001: DATE
+UNIVERSITY OF CALIFORNIA: ORG
+LOS ANGELES Bachelor of Arts: GPE
+International Economics Italian International Economics Italian: ORG
+Microeconomics, Macroeconomics, Industrial Organization, International Trade Theory: ORG
+Accounting: ORG
+Italian Language & Literature: ORG
+two: CARDINAL
+Certified Employee Benefit Specialist: ORG
+the Wharton School of Business California Life Agent License
+Languages
+Fluent: ORG
+Spanish: NORP
+Skills
+Accounting: ORG
+Business Development: ORG
+Finance: ORG
+Italian: NORP
+Six: CARDINAL
+Spanish: NORP

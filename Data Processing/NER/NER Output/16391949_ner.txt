@@ -1,0 +1,37 @@
+CASHIER: ORG
+Cashier: ORG
+Seasoned: PRODUCT
+Energetic: LOC
+Opening: WORK_OF_ART
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+Name City: GPE
+State: ORG
+Maintained: GPE
+Explained: ORG
+Influence: ORG
+Name City: GPE
+State Grocery 07/2015: ORG
+11/2015: CARDINAL
+Directed: ORG
+Broke: ORG
+Arranged: PERSON
+Name City: GPE
+State: ORG
+Northeast High School: ORG
+State: GPE
+40%: PERCENT
+four years: DATE
+Key: NORP
+Associate of Arts : Guidance 2018 Broward College: WORK_OF_ART
+City: GPE
+State: GPE
+USA: GPE
+Careful: PRODUCT
+Multi: GPE
+Well-Organized
+
+: WORK_OF_ART

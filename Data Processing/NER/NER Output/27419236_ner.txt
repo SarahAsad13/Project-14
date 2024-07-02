@@ -1,0 +1,130 @@
+Skills
+InDesign: ORG
+Acrobat: PERSON
+Photoshop: PERSON
+Pagemaker: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point: ORG
+Fetch: PERSON
+Asura: PERSON
+11/2013: CARDINAL
+Salesforce Marketing Cloud: WORK_OF_ART
+Salesforce
+Marketing Cloud: WORK_OF_ART
+Knowledgeable in Salesforce Marketing Cloud: WORK_OF_ART
+Email Studio: PERSON
+Marketing Cloud Connect: PERSON
+Journey Builder: PERSON
+Social Studio: ORG
+Familiar: PERSON
+Salesforce.com: ORG
+Familiar: PERSON
+SQL: ORG
+Microsoft: ORG
+Visio: PERSON
+Excel: PRODUCT
+Keeps: ORG
+UAT: ORG
+English: NORP
+SOW: ORG
+Aptitude: PRODUCT
+Experienced: PERSON
+HTML: ORG
+CSS: ORG
+SQL Familiar: PERSON
+WordPress: ORG
+Dot Net Nuke frameworks Familiarity: PRODUCT
+Consults: GPE
+Salesforce Marketing
+Cloud or Adobe Campaign: WORK_OF_ART
+Salesforce Marketing Cloud: WORK_OF_ART
+Crafts: ORG
+Salesforce Marketing Cloud: WORK_OF_ART
+SFMC: GPE
+Email Studio: PERSON
+Journey Builder: PERSON
+Contact Builder: FAC
+Salesforce.com: ORG
+Advertising and Social Studio: ORG
+indico: GPE
+july 2012 to november 2013: DATE
+Digital Media Program: ORG
+Indico: GPE
+NACS Media Solutions: ORG
+third: ORDINAL
+the Print on Demand: ORG
+Grow Custom: PERSON
+the Guide to Custom: ORG
+Grow Custom: PERSON
+more than 2,000: CARDINAL
+NACS: ORG
+Coordinated: ORG
+NMS: ORG
+the Print on Demand and Grow Custom: ORG
+the NACS Media Solutions: ORG
+the NACS Media Solutions: ORG
+Dot Net Nuke: PRODUCT
+NACS: ORG
+HTML: ORG
+CSS: ORG
+Dot Net Nuke: PRODUCT
+01/2011 to 06/2012: CARDINAL
+nacs media solutions
+
+Managed the Print on Demand: ORG
+NACS: ORG
+the Print on Demand: ORG
+NACS: ORG
+Media Solutions: ORG
+NACS Media Solutions: ORG
+POD: ORG
+June of 2012: DATE
+the Digital Department: ORG
+daily: DATE
+Comics: ORG
+Training: PERSON
+2010: DATE
+Completed: ORG
+Web Design/Development: ORG
+Polaris: PERSON
+HTML: ORG
+CSS: ORG
+SQL: ORG
+1992: DATE
+Bachelor of Arts: ORG
+The University of Akron: ORG
+State: ORG
+English: LANGUAGE
+1992: DATE
+Bachelor of Arts : Political Science The University of Akron: ORG
+State Political Science
+Interests: ORG
+March 31, 2016: DATE
+July 18, 2017: DATE
+17482983: DATE
+Skills
+Dot Net: ORG
+Acrobat: PERSON
+Adobe: PERSON
+Photoshop: PERSON
+Advertising: PERSON
+Pagemaker: PERSON
+CSS: ORG
+Email: GPE
+English: LANGUAGE
+Fetch, Freehand: ORG
+Illustrator: ORG
+InDesign: ORG
+Leadership: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Microsoft: ORG
+NMS: ORG
+Quark XPress: ORG
+SQL: ORG
+Visio: PERSON
+Web Design/Development: ORG
+March 31, 2016: DATE
+July 18, 2017: DATE
+17482983: DATE

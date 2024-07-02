@@ -1,0 +1,73 @@
+CONTROL SPECIALIST: ORG
+12 years: DATE
+Logistics: GPE
+9 years: DATE
+NALCOMIS: ORG
+BSI: ORG
+Highlights
+
+MS Office Suite: ORG
+Analytical Thinking
+Flexibility
+Communication Skills: WORK_OF_ART
+12/2012: CARDINAL
+03/2015: GPE
+Material Control Specialist Company Name: ORG
+Coordinate: FAC
+Identify: ORG
+Examine: PRODUCT
+10/2012: CARDINAL
+Logistics Supply Specialist Company Name: ORG
+Maintained: GPE
+BSI: ORG
+Processed: GPE
+$2 million: MONEY
+Coordinated: ORG
+DFIM: ORG
+Program Managers: ORG
+01/2011: CARDINAL
+30: CARDINAL
+Processed: GPE
+$2 billion: MONEY
+01/2011: CARDINAL
+Specialist Company Name: ORG
+United States Marine Corps: ORG
+Camp Pendleton: FAC
+CA Aviation Supply: ORG
+Specialist Jan 2002 - Jan 2011: DATE
+30: CARDINAL
+Marines: NORP
+Processed: GPE
+$2 billion: MONEY
+Education: ORG
+2014: DATE
+Six Sigma Villanova University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+2014: DATE
+Lean Villanova University: ORG
+ï¼​ City: GPE
+State: ORG
+2003: DATE
+Aviation Logistics Navy: ORG
+Marine Corps Aviation Logistics: ORG
+State: ORG
+2000: DATE
+State: GPE
+US: GPE
+Skills
+Inventory, Aviation, Staffing, Documentation,: ORG
+Asset Management: ORG
+Comprehensive Large Array Data Stewardship
+System: ORG
+Shipping: GPE
+Bsi: ORG
+Cost Point: ORG
+Inventory Records: ORG
+Logistics: GPE
+Pricing, Proposal Preparation, Provisioning, Training, Training Initiatives: ORG
+Hazmat: ORG
+Ms Office: ORG
+Six Sigma: PERSON
+Six: CARDINAL

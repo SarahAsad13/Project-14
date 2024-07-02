@@ -1,0 +1,95 @@
+Knowledge of Sage
+General: WORK_OF_ART
+Complex: NORP
+Great Plains: ORG
+SAP: GPE
+Microsoft Office: ORG
+Excel: PRODUCT
+Time: ORG
+Resourceful
+Strong: PERSON
+Ledger Accounts: PERSON
+Maintained: GPE
+Researched: ORG
+December 2009: DATE
+Current Staff Accountant 
+City: ORG
+10: CARDINAL
+multi-million dollar corporation: MONEY
+Audit: ORG
+Ledger: PERSON
+June 2009 to September 2009: DATE
+State: ORG
+Bill: PERSON
+2000: DATE
+monthly: DATE
+quarterly: DATE
+Flexibill: GPE
+Compile: PRODUCT
+monthly: DATE
+daily: DATE
+July 2008 to February 2009: DATE
+Accounting Clerk/ Human Resources: ORG
+Processed: GPE
+Personnel: ORG
+Job Fairs: PERSON
+Screened: ORG
+Communicated: ORG
+Monitored: ORG
+Initiated: ORG
+Branch: ORG
+New Hires: ORG
+Verify: LOC
+Quickbooks: ORG
+Controller: PERSON
+July 2007 to June 2008: DATE
+Purchase Order: PERSON
++ $3.2 million: MONEY
+March 2007 to July 2007: DATE
+Accounting Clerk: PERSON
+hours: TIME
+Tactfully: ORG
+three: CARDINAL
+NX/View: ORG
+Solomon: GPE
+Timekeeper: ORG
+25: CARDINAL
+ITAS: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Schedule: ORG
+September 2006 to February 2007: DATE
+Accounting Clerk: PERSON
+April 2006 to August 2006: DATE
+Bookkeeper 
+City: GPE
+September 2004 to December 2005: DATE
+Customer Service: ORG
+Strayer University 2014 Bachelor of Science : Accounting State: ORG
+United States: GPE
+Strayer University 2011 Associate of Applied Science : Business Management State: ORG
+United States: GPE
+Skills
+
+Proficient: ORG
+Microsoft Office: ORG
+2010: DATE
+Excel: PRODUCT
+Outlook: PERSON
+System Application Process (Sap: WORK_OF_ART
+Windows: PERSON
+2007,XP, NT, 2000: DATE
+98: CARDINAL
+95: DATE
+4.1: CARDINAL
+MS DOS: PERSON
+90/200: CARDINAL
+NX/View: ORG
+Solomon: PERSON
+Great Plains: PERSON
+Scrapware: PERSON
+Scrap Dragon: PERSON
+Oracle People Soft 8.9: ORG
+IQMS: ORG
+Laser: ORG
+60: CARDINAL

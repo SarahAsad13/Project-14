@@ -1,0 +1,69 @@
+Human Resources Generalist: ORG
+fourteen years: DATE
+Quick: ORG
+Strong Word: PERSON
+Excel: PRODUCT
+PowerPoint Training: ORG
+Accomplishments ADP: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Payroll: ORG
+People Soft: PERSON
+02/2013: CARDINAL
+Bio-metric: LAW
+hourly: TIME
+Advised: PRODUCT
+Created: ORG
+Coordinated: ORG
+Protective Services Applied: ORG
+Department Safety Manual Provided: ORG
+Assisted: ORG
+ADP: ORG
+weekly: DATE
+the Payroll & Benefits: ORG
+Processed: GPE
+People Soft Managed &: ORG
+Worker's Compensation: ORG
+Managed Temporary Associates: ORG
+Maintained: GPE
+Explained: ORG
+Conducted: ORG
+year-end: DATE
+Coordinated Employee Assistance Programs: ORG
+Ran: PERSON
+ADP: ORG
+FX: ORG
+Latin America: LOC
+Assist: NORP
+the Voice of the Employee Survey Assist: ORG
+Short Term Disabilities: PRODUCT
+monthly: DATE
+year-end: DATE
+04/2000: CARDINAL
+Processed: GPE
+Leave of Absences: ORG
+monthly: DATE
+01/1997 to 01/2000: CARDINAL
+Generalist: PERSON
+five: CARDINAL
+Processed: GPE
+Leave of Absences: ORG
+2003: DATE
+Associate of Arts : Sociology Business Management HUNTER COLLEGE ï¼​ City: WORK_OF_ART
+State Sociology Business Management: ORG
+City: GPE
+Spanish: NORP
+Skills: ORG
+ADP: ORG
+Latin: LANGUAGE
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Payroll: ORG
+People Soft: PERSON
+Policies: PERSON
+Process Improvement: PERSON
+Safety: ORG
+Spanish: NORP
+year-end: DATE

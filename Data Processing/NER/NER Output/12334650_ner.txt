@@ -1,0 +1,74 @@
+sixteen years: DATE
+four years: DATE
+Microsoft Office: ORG
+Adobe Media Arts Software: ORG
+Microsoft Office Excel: ORG
+Microsoft Office Access: ORG
+Microsoft Office PowerPoint: ORG
+Adobe Illustrator
+
+Math: WORK_OF_ART
+SpanishDelivers: ORG
+Neat: ORG
+Reliable: WORK_OF_ART
+2000: DATE
+Lucky Lill's: PERSON
+2003: DATE
+Denny: GPE
+Crew Trainer: WORK_OF_ART
+Food Server Company Name: ORG
+State: ORG
+2000 - 2003: DATE
+Mastered Point: ORG
+State: ORG
+1997 - 1998: DATE
+Processed: GPE
+Communicated: ORG
+Housekeeping Company Name: ORG
+State: ORG
+2004 - 2005: DATE
+State: ORG
+1998 - 2000: DATE
+Communicated: ORG
+Mastered Point: ORG
+Media Arts Tutor Company Name: ORG
+State: ORG
+2013 - 2014: DATE
+Tutored: PRODUCT
+PhotoShop: PRODUCT
+Aftereffects: PERSON
+one: CARDINAL
+Crew Trainer & Graveyard Server Company Name: ORG
+State: ORG
+2003 - 2004: DATE
+Mastered Point: ORG
+Graveyard Food Server & Supervisor Company Name: ORG
+2006 - 2007: DATE
+Prepared: PERSON
+Frequently: ORG
+Maintained: GPE
+nightly: DATE
+Communicated: ORG
+Runner Company: PERSON
+State: ORG
+2005 - 2006: DATE
+Oversaw: GPE
+one: CARDINAL
+Processed: GPE
+State: ORG
+1997 - 1998: DATE
+Communicated: ORG
+Frequently: ORG
+Associate of Arts ,: ORG
+Computer Media / Media Arts: ORG
+2014: DATE
+The University of Montana: ORG
+City: GPE
+State: GPE
+Missoula: GPE
+The University of Montana: ORG
+Adobe Illustrator: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON

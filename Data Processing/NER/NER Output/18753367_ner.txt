@@ -1,0 +1,101 @@
+more than 15 years: DATE
+Maintenance Support Engineer: PERSON
+A&P Mechanic: ORG
+Avionics: NORP
+Project Management: ORG
+Maintenance, Management, Logistics, Electronic & Mechanical Technology: ORG
+Program Management: ORG
+Skills
+
+Electronic & Mechanical Technology
+Maintenance Management
+Project Management
+Program Management
+Lean/: ORG
+six: CARDINAL
+Mechanical Component Troubleshooting
+Quality Assurance/Control
+Material Management
+Staff Development/Leadership
+Technical Interface
+Safety Compliance Microsoft Office: ORG
+Microsoft Project: ORG
+Microsoft Access: ORG
+SAP: ORG
+SharePoint: ORG
+Ensures: LOC
+Customer: ORG
+Customers Ensures: ORG
+Alerts: ORG
+Participates: GPE
+Ensures: LOC
+weekly: DATE
+08/2011: CARDINAL
+State
+
+Aircraft Repair/Modification Representative: ORG
+Block Upgrades, Prototypes: ORG
+CC-130J: ORG
+Air Mobility & Maritime Missions: ORG
+AMMM Sustainment and Engineering: ORG
+MRO: ORG
+AOG: ORG
+Aircraft on Ground) Project: ORG
+the Royal Saudi Arabian Air Force: ORG
+Logistics Support Services Fleet: ORG
+Review TCTO/Service Bulletin: ORG
+BOE: ORG
+Basis of Estimate: ORG
+Project Management Effectively: ORG
+the Project Management Methodology: ORG
+Develop: ORG
+Coordinate: FAC
+Demonstrate: ORG
+Quality Assurance Demonstrate: FAC
+QA: ORG
+Electrician / Avionics Technician Company Name: ORG
+30: CARDINAL
+journeyman: ORG
+C-130: PRODUCT
+C-130: PRODUCT
+BPO: ORG
+Troubleshoot: ORG
+Use Flight Line: ORG
+C-130: PRODUCT
+Reviews: NORP
+Originate: ORG
+Review BOM: ORG
+Bill of Material: PERSON
+BOM: ORG
+Training: PERSON
+Dec 2015: DATE
+MBA Eastern New Mexico University: WORK_OF_ART
+ï¼​ City: GPE
+State: ORG
+Jan 2008: DATE
+State Professional Aeronautics: ORG
+May 2004: DATE
+Associate of Science : Airframe & Power Plant Technology Enterprise Community College: WORK_OF_ART
+State Airframe & Power Plant Technology: ORG
+Skills
+Air Force: ORG
+Logistics: ORG
+Schedule: PERSON
+Mechanical: ORG
+Microsoft Access: ORG
+Microsoft Office: ORG
+Microsoft Project: ORG
+SharePoint: ORG
+Program
+Management: ORG
+Project Management: ORG
+QA: ORG
+Quality Control, Quality Assurance: ORG
+Safety: ORG
+SAP: ORG
+six: CARDINAL
+Staff Development: ORG
+Troubleshoot,: ORG
+Upgrades: GPE
+FCC License: PERSON
+A&P License Security Clearance: ORG

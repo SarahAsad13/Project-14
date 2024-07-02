@@ -1,0 +1,69 @@
+SENIOR CONSTRUCTION & SAFETY PROJECT: ORG
+30 years: DATE
+Skills: ORG
+Microsoft: ORG
+Propricer: PERSON
+Timberline: GPE
+Peoplesoft: ORG
+Deltek Costpoint: ORG
+Working: ORG
+Asset Managers: ORG
+Operations: ORG
+Oversee: ORG
+Superintendent: PERSON
+Field Personnel: ORG
+OSHA: ORG
+monthly: DATE
+CFO: ORG
+Produce: ORG
+Project Owners: ORG
+Negotiate: ORG
+Submit: ORG
+monthly: DATE
+CFO: ORG
+Interface: ORG
+safety & health department: ORG
+site safety & health: ORG
+Conduct New Employee Site Safety Orientation: ORG
+monthly: DATE
+Develop: ORG
+weekly: DATE
+Assist: ORG
+five multi million dollars: MONEY
+the Federal Government: ORG
+thousands of dollars: MONEY
+each year: DATE
+Oversee: ORG
+Initiated: ORG
+Architects: ORG
+multi-year: DATE
+G&A: ORG
+10/1984: CARDINAL
+02/1991: CARDINAL
+Operations: ORG
+about $20 million dollars: MONEY
+OSHA: ORG
+OSHA: ORG
+Conducted: ORG
+third: ORDINAL
+weekly: DATE
+weekly: DATE
+Micro: ORG
+Training: PERSON
+1984: DATE
+State Marketing: ORG
+1986: DATE
+Masters of Business Administration :: ORG
+Finance Southeastern University: ORG
+American Painting and Decorators of America: ORG
+OSHA Certification: ORG
+Budgeting: PERSON
+Meetings: GPE
+Microsoft: ORG
+Peoplesoft: ORG
+Personnel: ORG
+Progress: ORG
+Safety: ORG
+Construction Industry Research and Information: ORG
+American Painting and Decorators of America: ORG
+American Council for Construction Education: ORG

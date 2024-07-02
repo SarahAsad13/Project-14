@@ -1,0 +1,71 @@
+Microsoft Office: ORG
+Excel: PRODUCT
+Windows: ORG
+Proofreading
+Billing: WORK_OF_ART
+Outlook: GPE
+Tessitura: GPE
+Cision: GPE
+Gorkana: GPE
+Constant Contact: PERSON
+Resourceful
+Meeting planning
+Report: WORK_OF_ART
+Schedule: PERSON
+2013: DATE
+Oct 2013 to Oct 2013: DATE
+Marcia Horowitz: PERSON
+daily: DATE
+Easily: ORG
+Coordinated: ORG
+Horowitz
+Arranged: PERSON
+Horowitz: PERSON
+Howard: PERSON
+Steven Rubenstein: PERSON
+Jun 2012: PERSON
+Coded: ORG
+Store: PERSON
+Dec 2010: DATE
+Apr 2012 
+Company Name: ORG
+Washington DC: GPE
+NYC: LOC
+Generated: ORG
+the United States: GPE
+Communicated: ORG
+every evening: TIME
+US: GPE
+London: GPE
+US: GPE
+spring: DATE
+May 2010: DATE
+first: ORDINAL
+Duke University Summer Program: ORG
+Created: ORG
+Theatre: ORG
+18: CARDINAL
+The Royal Central School of Speech: ORG
+London: GPE
+United Kingdom: GPE
+Specialized: ORG
+Cum Laude Graduated: PERSON
+Departmental Honors: ORG
+Theatre Saratoga Springs: PERSON
+New York: GPE
+United States: GPE
+The Ad-Liberal Artists: ORG
+Skidmore: GPE
+Multi-year: DATE
+the National College Comedy Festival: ORG
+Graduated Cum Laude: ORG
+Departmental Honors: ORG
+Copywriting
+Crisis: WORK_OF_ART
+Research
+Filing
+Inventory
+Mac: WORK_OF_ART
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Windows: ORG

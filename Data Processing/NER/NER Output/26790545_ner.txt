@@ -1,0 +1,65 @@
+Highlights
+
+InfoGraphics Person of the
+Quater: WORK_OF_ART
+2014: DATE
+MTN Yello Star: ORG
+Award
+Person of the Quater: PERSON
+Customer Care
+Satisfaction Training
+Retail and Sales
+
+Adobe Photoshop: ORG
+Prototype: ORG
+Wireframes: ORG
+Adobe Illustrator: ORG
+Adobe Dreamweaver: PERSON
+CSS: ORG
+Adobe Photoshop: PERSON
+Adobe Illustrator: PERSON
+Adobe
+Dreamweaver: PERSON
+CSS: ORG
+Powerpoint: PRODUCT
+Keynote: GPE
+February 2016: DATE
+Current Company Name: ORG
+Powerpoint Slides: ORG
+Creation of Graphic Assets: ORG
+Multimedia Designer: PERSON
+October 2015: DATE
+Jesus House: PERSON
+Dallas: GPE
+June 2013 to July 2015: DATE
+User Interaction Designer (Team Lead: ORG
+Content: ORG
+Digital: ORG
+October 2011 to June 2013 Company Name: DATE
+Systems: NORP
+MTN Nigeria: ORG
+Customer: ORG
+Siebel CRM: PRODUCT
+& Tricks: GPE
+Hyconnect: GPE
+Representatives: ORG
+MTN: ORG
+Career Portal: PERSON
+MNP: ORG
+South Africa: GPE
+Bachelor of Science : Computer Science: ORG
+5/2009 Covenant University Computer Science
+Professional Affiliations: ORG
+Accomplished Designer: PERSON
+5 years: DATE
+Interface Design: ORG
+Microsoft Sharepoint: ORG
+Mobile
+Applications: ORG
+Adobe Dreamweaver: PERSON
+Adobe Illustrator: ORG
+Adobe Photoshop: PERSON
+Powerpoint: ORG
+Keypoint: ORG
+Prototyping: GPE
+Wireframes: PERSON

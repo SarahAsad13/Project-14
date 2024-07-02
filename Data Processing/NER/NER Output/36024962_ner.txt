@@ -1,0 +1,36 @@
+Budget: ORG
+Cash Management Proficient: ORG
+QuickBooks: GPE
+Intacct: GPE
+Excel: PRODUCT
+01/2016: ORG
+11/2016: CARDINAL
+Treasury: ORG
+WI Manage: ORG
+AP: ORG
+AR: ORG
+Payroll/Benefits Assist: ORG
+monthly/year-end: DATE
+annual: DATE
+Assist: NORP
+CFO: ORG
+monthly: DATE
+monthly: DATE
+annual: DATE
+Prepare: ORG
+Cap Table: PERSON
+Accountant Company Name: PERSON
+WI AR-Prepared Client Invoices: ORG
+AP-Processed Invoices: ORG
+Processed: GPE
+month-end: DATE
+Bachelor of Science :: ORG
+State Accounting
+Bachelor of Science : Business Administration University of Illinois Business Administration Champaign/Urbana: ORG
+Hononegah Youth Soccer Association
+Skills: ORG
+AP: ORG
+AR: ORG
+Client: GPE
+Payroll: ORG
+year-end: DATE

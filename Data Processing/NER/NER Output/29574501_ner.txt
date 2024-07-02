@@ -1,0 +1,63 @@
+Summary
+
+Accounting Professional: ORG
+13 years: DATE
+Complex: NORP
+Managerial: ORG
+401: CARDINAL
+Excel: PRODUCT
+Established: ORG
+Reduce: PERSON
+Construction Bookkeeper: ORG
+09/2016: PRODUCT
+12/2016: CARDINAL
+State Completed: ORG
+Southern New Jersey: GPE
+Quickbooks: ORG
+Builder
+Trend: ORG
+Quickbooks: ORG
+Builder Trend: ORG
+monthly: DATE
+monthly: DATE
+Builder's Trend: ORG
+Bookkeeper: GPE
+01/2015: DATE
+State: ORG
+AR/: DATE
+AP
+Payroll Administration: ORG
+Payment Applications
+Job Costing
+Insurance Certificates: WORK_OF_ART
+Quickbooks
+
+Office: ORG
+08/2003: CARDINAL
+6,000: CARDINAL
+30: CARDINAL
+10: CARDINAL
+Establish: NORP
+Prepare: ORG
+Review: ORG
+Process: PRODUCT
+ACH: ORG
+Research: ORG
+Assisted: ORG
+weekly: DATE
+Bank Branch: ORG
+eleven: CARDINAL
+Performed: ORG
+Maintained: GPE
+over 30 million: CARDINAL
+over 10 million: CARDINAL
+1985: DATE
+Mastbaum Area Vocational Tech: ORG
+Skills
+
+Accounting, Accounts Receivable: ORG
+AR: ORG
+Strong: PERSON
+Managerial: ORG
+QuickBooks: ORG
+Quickbooks Pro, Research: ORG

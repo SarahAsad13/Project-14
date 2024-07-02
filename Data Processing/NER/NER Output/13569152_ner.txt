@@ -1,0 +1,74 @@
+15 years: DATE
+Skill Highlights
+
+Project Management
+Social Entrepreneurship
+Service: ORG
+Instructional Design
+
+Core Accomplishments
+
+Hard: ORG
+Fast Learner
+Business and Strategic Planning
+Cultural Competency
+Knowledge Management Systems Design and Implementation
+
+US Army Veteran: PERSON
+Supply Specialist: ORG
+Honorably Discharged: PERSON
+Understands Agile: PERSON
+Scrum: PRODUCT
+Kanban: ORG
+Crystal: LOC
+XP: ORG
+FDD: ORG
+Agile: ORG
+Lean: GPE
+May 2013: DATE
+Jan 2013: DATE
+CT State Employees: ORG
+Traditional: GPE
+Waterfall Project Management: ORG
+Jun 2005: PERSON
+Nov 2011: DATE
+6-year: DATE
+$1.225 million: MONEY
+25: CARDINAL
+21st century: DATE
+Oversaw: GPE
+Financial Specialist: ORG
+Library: PERSON
+Librarian: PERSON
+DCAPS: ORG
+Distributed Learning: ORG
+6-week: DATE
+Course , Management Consulting 2008: ORG
+Cornell University Johnson School of Management ï¼​ City: ORG
+Financial Accounting: ORG
+2007: DATE
+Cornell University Johnson School of Management ï¼​ City: ORG
+State: ORG
+Library: PERSON
+State: ORG
+Education: ORG
+2000: DATE
+Northwestern State University: ORG
+Northwestern State University: ORG
+2015: DATE
+Hartford Commission: ORG
+Art and Cultural Affairs: ORG
+2007: DATE
+FRYE Institute Fellowship: ORG
+March 2006: DATE
+Shaker: PERSON
+2006: DATE
+Rockefeller Foundation: ORG
+63,000: MONEY
+the Southside Community Center: ORG
+Ithaca: GPE
+NY: ORG
+Computer Skills: PERSON
+Suite: PERSON
+Adobe CS: PERSON
+SharePoint: ORG

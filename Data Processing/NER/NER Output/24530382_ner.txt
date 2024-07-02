@@ -1,0 +1,121 @@
+DIRECTOR: ORG
+FINANCE: ORG
+Skill Highlights: PERSON
+Complex Change Management
+Financial Planning and Analysis
+Mergers: ORG
+Project Management
+System: ORG
+Strategic: PERSON
+over 200: CARDINAL
+Implemented Finance PMO: ORG
+45: MONEY
+Stock Administration: ORG
+70%: PERCENT
+13: MONEY
+Treasury: ORG
+Cash Operations: ORG
+Foreign Exchange & Currency Option Management
+
+Acquisition Integration: ORG
+Drove Change Management: ORG
+Tandberg: PERSON
+Starent Networks: ORG
+Process Central: ORG
+over 60,000: CARDINAL
+Ariba Procurement: ORG
+Oracle iProcurement: ORG
+95%: PERCENT
+Finance: ORG
+January 2010: DATE
+Current Company Name - City: ORG
+48: CARDINAL
+Finance: ORG
+Treasury Operations: ORG
+Payroll: ORG
+Tax: PERSON
+Technical Accounting: ORG
+CFO: ORG
+45: MONEY
+Delivered 215: PRODUCT
+Finance: ORG
+Developed: PRODUCT
+January 2008 to January 2010: DATE
+Governance: PERSON
+Creation of a cross: ORG
+Led Employee Enablement: ORG
+Developed: ORG
+the Project Management Office: ORG
+Finance: ORG
+January 2003 to January 2008: DATE
+Change Management: ORG
+Program/Project Management: ORG
+33: CARDINAL
+Finance: ORG
+Finance: ORG
+Accounting Shared Services: ORG
+$4M: MONEY
+Expense Management Leadership Team: ORG
+Cisco\: ORG
+250: MONEY
+first: ORDINAL
+Corporate Controllers Office: ORG
+Cisco: GPE
+Spend
+Management Organization
+
+Program: ORG
+Finance: ORG
+January 2001 to January 2003: DATE
+the U.S. Public Sector: ORG
+third: ORDINAL
+Created: ORG
+Cisco\: ORG
+$1M: MONEY
+IP: ORG
+$12M: MONEY
+Developed: ORG
+the IP Video Surveillance: ORG
+15: MONEY
+US: GPE
+Finance: ORG
+January 1998 to January 2001: DATE
+5: CARDINAL
+more than 150: CARDINAL
+50%: PERCENT
+2: CARDINAL
+4B: MONEY
+day: DATE
+Cisco: GPE
+Finance: ORG
+January 1996 to January 1998: DATE
+Oversaw Asia/Pacific P&L: ORG
+Developed: PRODUCT
+monthly: DATE
+quarterly: DATE
+Partnered: PRODUCT
+Oversaw: GPE
+annual: DATE
+outlooks: ORG
+quarterly: DATE
+the Internet Mail Group: ORG
+annual: DATE
+13M.: MONEY
+Competitive Pricing Analyst: ORG
+Finance: ORG
+January 1993 to January 1996: DATE
+January 1990 to January 1992: DATE
+Project Management: ORG
+2014: DATE
+Stanford University - City: ORG
+State: GPE
+USA: GPE
+San Jose: GPE
+State University Business Administration/Finance: ORG
+Skills
+P&L Management: ORG
+Project Management, Communications: ORG
+Tax: PERSON
+O2C: ORG
+Compensation Services: ORG
+Change Management: ORG

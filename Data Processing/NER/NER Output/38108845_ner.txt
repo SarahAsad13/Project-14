@@ -1,0 +1,85 @@
+Microsoft: ORG
+May 2017: DATE
+Develop: ORG
+monthly: DATE
+yearly: DATE
+daily: DATE
+Submit: ORG
+monthly: DATE
+Recruit: ORG
+Spa, Food and Beverage, Fitness, Sales: ORG
+Maintenance, Aquatics: ORG
+Operations: ORG
+Ensures: LOC
+Assess: ORG
+annual: DATE
+annual: DATE
+Recommend: ORG
+Develop: ORG
+National Sales: ORG
+Jan 2017: DATE
+2017: DATE
+daily: DATE
+two: CARDINAL
+Operations and Central Services: ORG
+annual: DATE
+annual: DATE
+May 2014 to Dec 2016: DATE
+Operations Managers: ORG
+70: CARDINAL
+four: CARDINAL
+15: CARDINAL
+annual: DATE
+Jan 2014: DATE
+May 2014: DATE
+monthly: DATE
+Jun 2013 to: PERSON
+2013: DATE
+State: ORG
+75: CARDINAL
+weekly: DATE
+each month: DATE
+the month: DATE
+2009: DATE
+2012: DATE
+Quota Agreement: ORG
+Compile: PRODUCT
+monthly: DATE
+Train: GPE
+Fitness Formula: PERSON
+weekly: DATE
+one: CARDINAL
+weekly: DATE
+Build: GPE
+Awarded Top Sales Director: WORK_OF_ART
+2009: DATE
+2010: DATE
+2011: DATE
+2009: DATE
+monthly: DATE
+weekly: DATE
+hundreds: CARDINAL
+2006: DATE
+2007: DATE
+2008: DATE
+Customer Service: ORG
+Mar 2005: DATE
+Mar 2006: PERSON
+the Customer Service and Operations Staff: ORG
+the Power Shack Fitness Facilities: ORG
+Managed Department Managers: ORG
+Created: ORG
+annual: DATE
+20-year: DATE
+Power Shack Fitness: ORG
+years: DATE
+2002: DATE
+2003: DATE
+2004: DATE
+Education: ORG
+Bachelor of Science , Sports: ORG
+The Ohio State University: ORG
+Motivation
+Dependable
+Interpersonal Skills
+Communication: ORG

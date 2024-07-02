@@ -1,0 +1,95 @@
+June 2011: DATE
+quarterly: DATE
+annual: DATE
+17: CARDINAL
+Coordinate: FAC
+approximately $100,000,000: MONEY
+FL: ORG
+MA: PERSON
+MD: GPE
+March 2010 to June 2011: DATE
+quarterly: DATE
+annual: DATE
+MSREF: ORG
+Morgan Stanley Real Estate Funds: ORG
+$8 billion: MONEY
+quarterly: DATE
+approximately $14,000,000: MONEY
+Develop: ORG
+Fund Controllers: ORG
+MSREF: PERSON
+ROP: ORG
+approximately $120,000,000: MONEY
+Microsoft Excel: ORG
+four: CARDINAL
+Information Technology: ORG
+ROP: ORG
+June 2007 to March 2010: DATE
+Advisory, Forensic and Audit Associate 
+City: WORK_OF_ART
+U.S.: GPE
+thirty-five: CARDINAL
+FBI: ORG
+two billion dollar: MONEY
+Performed: ORG
+approximately one billion: MONEY
+annual: DATE
+United States: GPE
+first: ORDINAL
+over twenty: CARDINAL
+multi-million dollar: MONEY
+August 2006 to May 2007: DATE
+25: CARDINAL
+35: CARDINAL
+EMORY UNIVERSITY: ORG
+Goizueta Business School: ORG
+Bachelor of Business Administration: ORG
+Accounting City: GPE
+GPA: ORG
+3.63/4.0: CARDINAL
+GPA: ORG
+3.77/4.0: CARDINAL
+3.63/4.0: CARDINAL
+GPA: ORG
+3.77/4.0: CARDINAL
+Interests: NORP
+Fulton County CASA Board: ORG
+Treasurer: PERSON
+CASA: ORG
+Fulton County: GPE
+Georgia: GPE
+between 87 and 93: CARDINAL
+99: CARDINAL
+four: CARDINAL
+CFE: ORG
+Certified Fraud Examiner: ORG
+Skills: ORG
+Funds, Government, Information Technology: ORG
+MA: ORG
+Microsoft Excel: ORG
+Real Estate: ORG
+Additional Information
+
+COMMUNITY SERVICE: ORG
+CERTIFICATIONS: ORG
+Fulton County CASA Board: ORG
+Treasurer: PERSON
+CASA: ORG
+Fulton County: GPE
+Georgia: GPE
+between 87 and 93: CARDINAL
+99: CARDINAL
+four: CARDINAL
+CPA: ORG
+CFE: ORG
+Certified Fraud Examiner: ORG
+four: CARDINAL
+two years: DATE
+2007: DATE
+John R. Jones Accounting: PERSON
+annually: DATE
+Emory University Professors: ORG
+year: DATE
+Ben Pius Award: PERSON
+Emory Professors: PERSON
+Emory University: ORG

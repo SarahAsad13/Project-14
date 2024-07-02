@@ -1,0 +1,89 @@
+VOLUNTEER: ORG
+US: GPE
+Human Resources Professional: ORG
+Human Resources: ORG
+Key: LOC
+Recruitment - Recruitment: ORG
+10 + years: DATE
+Nokia: ORG
+Small-Midsized & Start: ORG
+US: GPE
+India: GPE
+Non-profit: ORG
+Dice, Monster: ORG
+3rd: ORDINAL
+HR Partners: ORG
+un: ORG
+Taleo: NORP
+years: DATE
+Software Engineers/Architects: ORG
+Network/System/Security Engineers: ORG
+Development Managers: ORG
+Business Analysts: ORG
+Information Technology Industry: ORG
+Software Engineers/Architects: ORG
+Database Architects/Developers/Administrators: ORG
+Network/System/Security Engineers: ORG
+Development Managers: ORG
+Highlights: GPE
+Volunteer HR -iVolunteer: PRODUCT
+10/2015: CARDINAL
+Provide: NORP
+Researched: FAC
+Non-Profit: ORG
+Technical Recruiter: PERSON
+ï¼​: GPE
+01/2008 City: GPE
+Technical Recruiter: PERSON
+03/2006: WORK_OF_ART
+Windows &
+: ORG
+Java/J2EE: PERSON
+SQL Server: ORG
+Oracle: ORG
+# 1 revenue generator: MONEY
+gross: PERSON
+month: DATE
+month: DATE
+10: CARDINAL
+each month: DATE
+Responsible for Full Life-Cycle: ORG
+Java: PERSON
+Microsoft: ORG
+Oracle: ORG
+Informatica: ORG
+their hours: TIME
+Experienced: PERSON
+Mitra Technology Foundation: ORG
+Information and Communications
+Technology: ORG
+One: CARDINAL
+India: GPE
+Recruitment and Induction: ORG
+Recruitment Scheduling: ORG
+Coordinate: FAC
+Induction New: ORG
+Internal Communications: ORG
+Liaison: PERSON
+5: CARDINAL
+2002: DATE
+Internal
+Communications: ORG
+Diploma Management Management: ORG
+2002: DATE
+India MLL Masters Labor Laws and Labor Welfare Labor Laws and Labor Welfare: ORG
+2000: CARDINAL
+India Bachelor Commerce Commerce: ORG
+ACADEMIC: ORG
+C++: PERSON
+Database: GPE
+Informatica: ORG
+Java, Linux: PERSON
+Microsoft: ORG
+Windows: GPE
+Oracle: ORG
+Policies: GPE
+Profit, Quality, Recruitment: ORG
+SAP: ORG
+SQL Server: ORG
+UNIX: ORG

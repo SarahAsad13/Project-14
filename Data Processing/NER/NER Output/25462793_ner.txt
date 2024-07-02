@@ -1,0 +1,66 @@
+a decade: DATE
+Ledger Accounting: PERSON
+Detail Microsoft Office: ORG
+Microsoft Windows: ORG
+ERP: ORG
+August 2011: DATE
+Current Accountant 
+City: PERSON
+Calculate: ORG
+Prepare: ORG
+10: CARDINAL
+SEC Responsible: ORG
+U.S.: GPE
+Monthly: DATE
+April 2007 to July 2011 Accountant 
+City: DATE
+AR: ORG
+AP: ORG
+GL: ORG
+monthly: DATE
+Professional Experience: ORG
+January 2006 to October 2006: DATE
+Accountant 
+City: PERSON
+Prepared: PRODUCT
+monthly: DATE
+Prepared: PRODUCT
+monthly: DATE
+Prepared: PERSON
+quarterly: DATE
+annual: DATE
+Prepared annual Form 1099: WORK_OF_ART
+Assisted: ORG
+Certified Public Accountant: ORG
+25320: CARDINAL
+Colorado State University: ORG
+May 2005: DATE
+M.S :: ORG
+State Business Administration Accounting
+Certificate: ORG
+Regis University: ORG
+May 2003: DATE
+B.S :: ORG
+Accounting Accounting
+University of Colorado: ORG
+August 1998: DATE
+B.S :: ORG
+Business Administration Business Administration: ORG
+Fall 2011-Present Local Cub Scout Pack & Boy Scout Troop - Boy Scouts of America: DATE
+Badge Counselor
+Skills: PERSON
+Reconciliations: PERSON
+Accounts Receivable: ORG
+AP: ORG
+AR, Attention: ORG
+Detail: PERSON
+Certified Public Accountant: ORG
+ERP: ORG
+Financial Statement Preparation: ORG
+Ledger Accounting: ORG
+GL, Government: ORG
+Microsoft Office: ORG
+Microsoft Windows: ORG
+Tax: PERSON
+Den: ORG
+Badge Counselor: PERSON

@@ -1,0 +1,109 @@
+thousands: CARDINAL
+the Wall Street Journal: ORG
+Forbes: ORG
+People, Sports Illustrated: ORG
+USA Today: ORG
+Time: ORG
+Newsweek: ORG
+NBC: ORG
+Today: DATE
+The Tonight Show: WORK_OF_ART
+Jay Leno: PERSON
+David Letterman: PERSON
+Good Morning America: WORK_OF_ART
+Oprah: PERSON
+dozens: CARDINAL
+Future Capitals World Summit & Expo: ORG
+Abu Dhabi: ORG
+the World Summit on Innovation & Entrepreneurship: ORG
+WSIE: ORG
+Dubai: GPE
+US: GPE
+Colin Powell: PERSON
+USA: GPE
+the Middle East & North Africa: ORG
+Central America: LOC
+sports & entertainment: ORG
+Pfizer: ORG
+American Institute of Healthcare & Fitness: ORG
+Medical College: ORG
+Environmental Health Perspectives Financial Capital Bank: ORG
+Fifth Third Bank Government, Travel: ORG
+Tourism Environmental Health Perspectives: ORG
+Michigan: GPE
+Cultural Marketing Special Events & Launches Project & Team Management Idea Generation Public Relations Campaigns Regional: ORG
+National &
+Global PR Publicist & Company Spokesperson Press Conferences & Media Tours Media Training & Development Collateral Writing &
+Development Website Content Social Media Strategy & Content: ORG
+The Today Show: WORK_OF_ART
+a Gold Award: WORK_OF_ART
+the
+International Festivals and Events Association: ORG
+IFEA: ORG
+Jan 2006: DATE
+Jan 2011 to Jan 2012: DATE
+Honduras: GPE
+Honduran: NORP
+Tegucigalpa: GPE
+Central America: LOC
+Jan 2004 to Jan 2007: DATE
+RFP: ORG
+Public Relations & Agency: ORG
+Associate Jan 2000 to Jan 2004: DATE
+US: GPE
+Middle East & North Africa: ORG
+nearly 40 million: CARDINAL
+The US-Arab Economic Forum's: ORG
+the Middle East: LOC
+US: GPE
+dozens: CARDINAL
+Fortune 500: PRODUCT
+Boeing: ORG
+Microsoft: ORG
+Cisco: GPE
+OPEC: ORG
+ConocoPhillips: ORG
+ExxonMobile: ORG
+Ford: ORG
+Detroit: GPE
+Created: ORG
+a Tasting Event: EVENT
+400: CARDINAL
+nearly $5 million: MONEY
+the first six weeks: DATE
+2: CARDINAL
+2 Professional Experience: ORG
+Grew: PERSON
+RFP: ORG
+Collaborated: ORG
+Agency: ORG
+Publicist & Director: ORG
+Jan 1996 to Jan 2000: DATE
+World Figure Skating Champion: ORG
+Mary Lou Retton: PERSON
+Michelle Kwan: PERSON
+50: CARDINAL
+two: CARDINAL
+Sports Illustrated's: ORG
+Jan 1992 to Jan 1996: DATE
+10: CARDINAL
+1400: CARDINAL
+Michigan: GPE
+two: CARDINAL
+America: GPE
+Thanksgiving Parade: WORK_OF_ART
+the International Freedom Festival & Fireworks: EVENT
+million: CARDINAL
+Master of Science , Administration Business, Marketing Central Michigan University: WORK_OF_ART
+ï¼​ City: GPE
+State Administration Business, Marketing
+Bachelor of Applied Arts: ORG
+Journalism & Public Relations: ORG
+Broadcasting Journalism & Public Relations: ORG
+Agency: ORG
+Cisco: GPE
+Fireworks: ORG
+RFP: ORG
+Professional Affiliations
+National Association of Women Business Owners Public Relations Society of America Adcraft Club Michigan Festivals & Events Association
+International Festivals & Events Association: ORG

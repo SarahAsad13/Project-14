@@ -1,0 +1,129 @@
+VISUAL ARTS: ORG
+Highlights
+
+Rated Master Teacher
+: WORK_OF_ART
+NAEA: ORG
+TAEAÂ: ORG
+Multi: GPE
+Committed: ORG
+15 years: DATE
+Lesson: ORG
+Detail: PERSON
+January 2017-Led 200: DATE
+Chiang Mai, Thailand: GPE
+the Year 2010: DATE
+Texas Association of Private and: ORG
+NAEA: ORG
+Deans: NORP
+2: CARDINAL
+Rated Master Teacher in public school system
+
+Group Exhibitions: WORK_OF_ART
+2014 Â Â IMAGO-Redemption: DATE
+Houston: GPE
+TX: ORG
+2014Â Â  : CARDINAL
+Hands Gallery: ORG
+Jay Hill: PERSON
+Houston TX: PERSON
+2014Â Â  : CARDINAL
+Riddle Gallery: ORG
+Bryan: PERSON
+TX: ORG
+2015Â Â  8th: DATE
+Annual: DATE
+Baytown: GPE
+TX: ORG
+2015Â Â  Kuntsthaus: PERCENT
+Salzwedel: GPE
+Germany: GPE
+2015Â Â  Under the: PERCENT
+Radar: PRODUCT
+Sally Sprout: PERSON
+Williams Tower Houston: PERSON
+Tx: ORG
+2016Â Â  Holiday Group Exhibition: DATE
+Samara Gallery: PERSON
+Houston: GPE
+Tx: ORG
+2016Â: DATE
+Texas: GPE
+juror-Anna Stothart: PERSON
+Rockport Center: FAC
+2016Â Â  IMAGO: CARDINAL
+Houston TX: PERSON
+2016: DATE
+Beeville Art Museum: ORG
+Texas: GPE
+Artist Exhibition: PERSON
+Beeville: GPE
+Tx
+2016 Â  TeaPlusArt: PERSON
+Clayhouston: ORG
+Houston: GPE
+Tx
+2016 Â  The Jung Center: PERSON
+Spirit: ORG
+Matter: PERSON
+Houston: GPE
+Tx
+2017 Â  Hardy: PERSON
+Nance Studios: ORG
+Houston: GPE
+Tx
+2017 Â  Donum Gratia: PERSON
+Juried: PERSON
+Houston: GPE
+05/2014 Company Name City: ORG
+NAHSÂ: ORG
+Digital Design: ORG
+02/2011 Company Name City: ORG
+Visual Arts: PERSON
+Christian: NORP
+3: CARDINAL
+weekly hours: TIME
+daily: DATE
+Visual Arts: ORG
+Name City: GPE
+Name City: GPE
+Established: ORG
+18: CARDINAL
+3: CARDINAL
+2010: DATE
+Board: ORG
+02/2011 Company Name City: ORG
+Initiated: ORG
+Volunteer: PRODUCT
+Model Builder/Project: PERSON
+05/1984 Company Name City: WORK_OF_ART
+State: ORG
+Oversee: ORG
+2016: DATE
+Houston Baptist University City: ORG
+State: GPE
+USA: GPE
+Texas Art Education: ORG
+Yearly: DATE
+2013: DATE
+Kansas City Art Institute City: ORG
+State: GPE
+USA: GPE
+State: ORG
+USA Studio Art
+Bachelor of Science : Art Education: ORG
+1980: DATE
+University of Wisconsin City: ORG
+State: GPE
+USA: GPE
+Photoshop, Mac: ORG
+Windows: NORP
+Advanced: PERSON
+16: CARDINAL
+Biking
+Hiking
+Scuba
+Reading
+Bible: WORK_OF_ART
+Married 36 years: DATE
+2: CARDINAL

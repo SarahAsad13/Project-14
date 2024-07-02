@@ -1,0 +1,116 @@
+the twenty-first century: DATE
+two: CARDINAL
+Skill Highlights: PERSON
+Training and Development
+Team Player
+Organizational Skills
+Performance Evaluations
+
+Core Accomplishments
+
+MS/HS Language Arts: WORK_OF_ART
+Chairperson Editor: ORG
+Signal Student Council: ORG
+the Mind Coach Cheerleading Coach MS Track
+: ORG
+ASSESSMENT: PERSON
+DATA MANAGEMENT EXPERIENCE: ORG
+Trainings: ORG
+Teachers' Tenure Act: ORG
+Implemented The Thoughtful Classroom Teacher Evaluation System: WORK_OF_ART
+MCEE: ORG
+University of Michigan: ORG
+NCLB: ORG
+Title I Boot Camp: LAW
+21st century: DATE
+Nonviolent Crisis Intervention: ORG
+Three Minute Classroom Walk-through,: WORK_OF_ART
+Classroom Walk-through: ORG
+Charlotte: GPE
+Danielson: PERSON
+The Thoughtful Classroom Teacher: WORK_OF_ART
+Data 4 Student Success: ORG
+National Middle School Conference: ORG
+Summer Learning: ORG
+Data Retreat: ORG
+Professional Development: ORG
+Cognitive Coaching: ORG
+Second Order Change: ORG
+Search of School Leadership: ORG
+Skills: PERSON
+Framework for Understanding Poverty: ORG
+Lucy Calkins: PERSON
+5: CARDINAL
+John
+Collins Writing: PERSON
+Classroom: ORG
+School Safety Training: ORG
+Emmett Township: GPE
+Calhoun County: GPE
+AYP: ORG
+every
+year: DATE
+July 2008 to June 2015: DATE
+MCEE: EVENT
+IEP: ORG
+504: CARDINAL
+MS: ORG
+Todd Whitaker 2008: PERSON
+2009: DATE
+Effective Grading Practices: EVENT
+Doug Reeves 2011: PERSON
+Ruby Payne: ORG
+2012: DATE
+Lucy Calkins: PERSON
+5: CARDINAL
+CMP: ORG
+John Collins Writing: PERSON
+MS: ORG
+Communicated: ORG
+HCMS: ORG
+Facilitated: ORG
+Mediated: ORG
+the Administrative Team: ORG
+RTI: ORG
+August 2005 to July 2008: DATE
+fifth: ORDINAL
+sixth: ORDINAL
+MS: ORG
+IEP: ORG
+June 1999 to: DATE
+July 2005: DATE
+State: ORG
+K-12 Career Preparation Coordinator: ORG
+August 1994 to June 1999: DATE
+OEA Negotiating Team: ORG
+Western Michigan University: ORG
+December 2000: DATE
+Hillsdale College: ORG
+May 1993: DATE
+English: LANGUAGE
+Psychology City: GPE
+English: LANGUAGE
+MS Curriculum Lego Robotics Girls: PERSON
+the Run National Junior: ORG
+American Heart Association's: ORG
+Red Out Game Additional Clubs: ORG
+Lacrosse: ORG
+Competitive Cheerleading: PERSON
+Run: PERSON
+Calhoun County: GPE
+MI American Heart Association: ORG
+Kalamazoo: GPE
+Professional Affiliations: ORG
+Michigan Association of Secondary School Principals National Association of Secondary School Principals Association Supervision: ORG
+MS Curriculum Lego Robotics Girls: PERSON
+the Run National Junior: ORG
+American Heart Association's: ORG
+Red Out Game Additional Clubs: ORG
+Lacrosse: ORG
+Competitive
+Cheerleading VOLUNTEER: PERSON
+Run: PERSON
+Calhoun County: GPE
+MI American Heart Association: ORG
+Kalamazoo: GPE
+Negotiating: GPE

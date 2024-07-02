@@ -1,0 +1,37 @@
+DIGITAL MARKETING COORDINATOR
+: ORG
+Digital Marketing Coordinator: ORG
+5+ years: DATE
+WordPress: ORG
+Google Analytics & AdWords Certified: ORG
+Adobe Photoshop
+Budget: WORK_OF_ART
+Digital Marketing Coordinator: ORG
+Current City: GPE
+monthly: DATE
+each month: DATE
+Maintained: GPE
+over 400%: PERCENT
+& Customer Service: ORG
+02/2015: PERSON
+02/2016 Company: ORG
+Name City: GPE
+30%: PERCENT
+Shared: ORG
+Earned: PERSON
+four: CARDINAL
+Training
+Bachelor of Arts: PERSON
+English: LANGUAGE
+Journalism 2016 Vanguard University City: ORG
+State: GPE
+USA: GPE
+English: LANGUAGE
+Journalism
+Advanced: PERSON
+Public Relations: ORG
+2015: DATE
+Budget: ORG
+Google Analytics: ORG
+Public Relations: ORG
+Strategic: PERSON

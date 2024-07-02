@@ -1,0 +1,70 @@
+5 years: DATE
+Highlights
+
+Retail: ORG
+Accurate: ORG
+Team: ORG
+Reliable
+Flexible schedule
+
+Accomplishments
+
+Promoted: WORK_OF_ART
+7 months: DATE
+Awarded ": PERSON
+2015.position: CARDINAL
+August 2008 to June 2009: DATE
+January 2010: DATE
+Current Company Name: ORG
+10 to 20: CARDINAL
+Tutored: PRODUCT
+Collaborated: ORG
+normal hours: TIME
+zoos: PERSON
+Maintained: GPE
+Transactions: PERSON
+Cashier: ORG
+July 2014: DATE
+Correctly: ORG
+Communicated: ORG
+Prepared: PERSON
+Mastered Point of Sale (POS: ORG
+Frequently: ORG
+Performed: ORG
+Maintained: GPE
+Maintained: GPE
+English: LANGUAGE
+Mathematics and Accounting: ORG
+2019: DATE
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+GPA: ORG
+2: CARDINAL
+GPA: ORG
+2: CARDINAL
+English: LANGUAGE
+Mathematics: NORP
+Microsoft Excel: ORG
+Word: PERSON
+English: LANGUAGE
+Mathematics and Accounting: ORG
+Wilson Technical Community College: ORG
+State: GPE
+USA: GPE
+2009: DATE
+James B. Hunt High School: PERSON
+State: GPE
+USA: GPE
+GPA: ORG
+3.6: CARDINAL
+GPA: ORG
+3.6: CARDINAL
+Skills
+Accounting: ORG
+English: LANGUAGE
+Mathematics: NORP
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+Retail: PERSON

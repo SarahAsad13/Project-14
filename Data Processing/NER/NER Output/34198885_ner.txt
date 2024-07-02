@@ -1,0 +1,58 @@
+Detail: PERSON
+Superior: ORG
+weekly: DATE
+monthly: DATE
+Trace: ORG
+Accountant/General Accounting Supervisor 03/2011: ORG
+Name City: GPE
+the Arguindegui Oil Company II: ORG
+AOC: ORG
+monthly: DATE
+month-end: DATE
+monthly: DATE
+month-end: DATE
+Controller: PERSON
+Texas: GPE
+gallons: PRODUCT
+200: CARDINAL
+ERP: ORG
+quarterly: DATE
+Texas Motor Fuel Transporter
+Report: ORG
+Texas: GPE
+Use Tax Return: PERSON
+AOC: ORG
+monthly: DATE
+12/2010: CARDINAL
+Name City: GPE
+Refund Anticipation Loans and Refund Anticipation Checks: WORK_OF_ART
+Associate Administrative: PERSON
+10/2010: CARDINAL
+Name City: GPE
+State: ORG
+the Mid Rio Grande Border Area Health Education Center: ORG
+daily: DATE
+monthly: DATE
+Coordinated: ORG
+Name City: GPE
+Work-Study Student Employee: ORG
+04/2008 Company Name City: WORK_OF_ART
+TAMUS' Financial Accounting Management Information System: ORG
+Work-Study Student Employee 02/2004: ORG
+Name City: GPE
+12/15/2012: DATE
+Texas A&M International University City: ORG
+Bachelor of Business Administration: ORG
+Texas A&M International University City: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills
+
+Microsoft Office
+Accounting Software: ORG
+200: CARDINAL
+ERP: ORG
+Peachtree Complete Accounting: ORG
+QuickBooks Pro, Profitool
+
+: ORG

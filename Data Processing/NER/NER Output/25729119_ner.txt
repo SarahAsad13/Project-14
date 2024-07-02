@@ -1,0 +1,61 @@
+Skills
+
+Accounts Payable, Advertising, Bookkeeping: ORG
+Customer Service: ORG
+Financial Reporting: ORG
+Payroll: ORG
+Mathematics: LOC
+Mathematics: NORP
+Mathematics: NORP
+iReady: ORG
+TenMarks: ORG
+Accelerated
+Math: ORG
+Caring Tutor: ORG
+Standardized: ORG
+DIBELS: ORG
+Mathematics
+
+Work History: EVENT
+October 2017 - Current: DATE
+87: CARDINAL
+Observe: LOC
+200: CARDINAL
+daily: DATE
+Maintain: PRODUCT
+87: CARDINAL
+November 2016 - May 2017 Day: DATE
+5th: ORDINAL
+one: CARDINAL
+August 2014 - May 2016: DATE
+Utilized: ORG
+Maintained: GPE
+Completed: ORG
+September 2013 - May 2014: DATE
+up to: CARDINAL
+30: CARDINAL
+DIBELS Next: ORG
+Leveled Reading Passages: ORG
+DIBELS: ORG
+weekly: DATE
+daily: DATE
+July 2009: DATE
+January 2005 - January 2006: DATE
+Accounts Payable: ORG
+January 2002 - June 2004: DATE
+Loan Control Specialist: EVENT
+January 2001 - September 2001: DATE
+June 1996 - December 2000: DATE
+Maintained: GPE
+hourly: TIME
+Accounts Payable: ORG
+over 100: CARDINAL
+CFO: ORG
+daily: DATE
+2007: DATE
+MBA : Business Administration University of Phoenix Online , City , State Business Administration: WORK_OF_ART
+1993: DATE
+Business Administration and Management Information Systems University of Southern Mississippi: ORG
+City: GPE
+State Business
+Administration and Management Information Systems: ORG

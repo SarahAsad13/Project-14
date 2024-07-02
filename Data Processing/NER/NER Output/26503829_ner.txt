@@ -1,0 +1,48 @@
+Product Developer/Technical Designer: ORG
+Adobe CS6 Adobe Illustrator: PERSON
+PLM Grovesite: PERSON
+Microsoft: ORG
+Optitex
+Garment: ORG
+Fit Assessment: PERSON
+the LGBTA Business Council: ORG
+Participant: ORG
+BullseyeCrowd: ORG
+Target: ORG
+Target: ORG
+Name City: GPE
+State: ORG
+11/2013: CARDINAL
+Name City: GPE
+SWAT TD for Children's: ORG
+Handbags: ORG
+Identify: ORG
+CTM: ORG
+2 - Associate Technical Designer: ORG
+Product Development Coordinator: ORG
+11/2013: CARDINAL
+Name City: GPE
+Shaun: PERSON
+06/2011: CARDINAL
+Name City: GPE
+Woven Bottoms: PERSON
+Outerwear
+
+Responsible: ORG
+Woven Bottoms: PERSON
+Name City: GPE
+Abercrombie: PERSON
+Illustrator: GPE
+PLM: ORG
+Collaborated: ORG
+Applied: ORG
+BUSINESS University of Central Missouri City: ORG
+State: ORG
+USA: GPE
+Adobe Illustrator: PERSON
+Illustrator: ORG
+Excel: PRODUCT
+Microsoft: ORG
+PLM: ORG
+Product Development: ORG
+Quality Assurance: ORG

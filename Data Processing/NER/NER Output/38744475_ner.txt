@@ -1,0 +1,27 @@
+INTERIOR: ORG
+Retail Merchandiser: PERSON
+AutoCad
+
+Store: ORG
+Graphic: PERSON
+IKEA: ORG
+National Marketing Campaign IKEA Home: ORG
+Name City: GPE
+IKEA Home Tour: ORG
+US: GPE
+Name City: GPE
+Orlando: GPE
+Specialized: ORG
+Name City: GPE
+Kartell: PERSON
+Bachelor: ORG
+University of Central Florida City: ORG
+State: GPE
+United States: GPE
+the New America Foundation: ORG
+Associate of Arts :: WORK_OF_ART
+College City: GPE
+English: LANGUAGE
+Native: NORP
+Spanish: NORP
+Native: NORP

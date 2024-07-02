@@ -1,0 +1,60 @@
+NATIONAL MARINE FISHERIES SERVICE NMFS SPECIES: ORG
+Environmental Engineering: ORG
+12 years: DATE
+Environmental Science: FAC
+State: GPE
+USA: GPE
+State: GPE
+USA: GPE
+Soil, Water and Environmental Science: ORG
+State: GPE
+UK: GPE
+Agriculture 2002 University: ORG
+Guyana City: GPE
+State: ORG
+Guyana
+Select One City: ORG
+Graduate Student Travel Award Institute of the Environment: ORG
+2013: DATE
+National Marine Fisheries Service NMFS Species Observer 07/2015: ORG
+Atlantic: LOC
+$3.1 Billion: MONEY
+Bridge Project: FAC
+Collect: ORG
+Collect: ORG
+necropsy: PERSON
+Communicate: ORG
+New York: GPE
+New York State Department of Environmental
+Conservation (NYSDEC: ORG
+Environmental Research: ORG
+Name City: GPE
+Directed the Western Regional Aquaculture Center: ORG
+Acted: ORG
+UA Food Products and Safety: ORG
+Montana State University: ORG
+US: GPE
+Wildlife Service: ORG
+Bozeman Fish Technology Center: ORG
+Laboratory: ORG
+Oversaw: GPE
+daily: DATE
+Prepared: PERSON
+Developed: ORG
+over 40: CARDINAL
+the National Aquaculture: ORG
+Name City: GPE
+the months and years: DATE
+Examined: NORP
+Guyana: ORG
+Southern: NORP
+Bangamary: GPE
+Award
+
+University of Arizona - Graduate Student Travel Award Institute of Environment: ORG
+2013: DATE
+10 Hour: TIME
+the Construction Industry: ORG
+Microsoft
+Office: ORG
+Microsoft Excel: ORG

@@ -1,0 +1,122 @@
+20 years: DATE
+10/2011: CARDINAL
+Social Media Marketing Company Name: ORG
+Brand Marketing 360: ORG
+USA: GPE
+#1 Cable Network: MONEY
+the last 8 years: DATE
+Royal Pains: ORG
+Graceland: GPE
+White Collar: ORG
+Chrisley Knows Best: PERSON
+Covert
+Affairs: ORG
+Rush, Satisfaction, Sirens: ORG
+Lexus: ORG
+BMW: ORG
+Fandango: ORG
+Microsoft: ORG
+Dunkin' Donuts: ORG
+Colgate: ORG
+Development, Press: ORG
+On-Air: ORG
+Fan Appreciation Days: EVENT
+TCA: ORG
+Golden Globes: PERSON
+five: CARDINAL
+31%: PERCENT
+year: DATE
+over 7.7 billion: MONEY
+over 22.5 million: CARDINAL
+112: CARDINAL
+Facebook: GPE
+Twitter: PERSON
+Youtube: GPE
+Instagram: GPE
+Tumblr: GPE
+Pinterest: ORG
+Vine: PERSON
+Giphy: PERSON
+the Psych Slumber Party: ORG
+Season 7: EVENT
+22: CARDINAL
+four week: DATE
+USA: GPE
+3.5MM: CARDINAL
+2Q14: CARDINAL
+FX: ORG
+USA: GPE
+1: MONEY
+1: MONEY
+USA Network: ORG
+2.4MM: CARDINAL
+Season 3: DATE
+1.3MM: CARDINAL
+Season 3: DATE
+09/2010: PERSON
+Digital & Interactive Marketing Company Name: ORG
+ten: CARDINAL
+Lifetime: ORG
+Warner
+Brothers: ORG
+Scott Rudin Productions: PERSON
+Tony Award: PERSON
+Book of Mormon (Winner: WORK_OF_ART
+9: CARDINAL
+Jerusalem: GPE
+1: CARDINAL
+Facebook: PERSON
+Twitter: PERSON
+Foursquare: ORG
+Broadway: FAC
+History Channel & Lifetime: ORG
+USA Network: ORG
+History Channel: ORG
+A&E: ORG
+Warner Brothers Films: ORG
+Starz: PERSON
+AMC: ORG
+Netflix: GPE
+Atari: ORG
+Nikon: ORG
+Clorox: GPE
+Best Buy: LOC
+Facebook,: ORG
+Youtube: PERSON
+Twitter: PERSON
+USA Network: ORG
+A&E: ORG
+over 3 million: CARDINAL
+2: CARDINAL
+USA: GPE
+over 1 million: CARDINAL
+Foursquare: GPE
+U.S.: GPE
+U.K.: GPE
+America: The Story of Us': WORK_OF_ART
+OMMA Award: PERSON
+USA Publicity: ORG
+01/2003: CARDINAL
+Mummy: PERSON
+Hulk: ORG
+Jurassic Park: GPE
+Hat: FAC
+Halloween Horror Nights: EVENT
+Features, TV: ORG
+Home Video, Music: ORG
+Van Helsing: PERSON
+Jurassic Park: GPE
+Nickelodeon: ORG
+Animal Planet: LOC
+Millennium Dance Party: ORG
+Halloween Horror Nights: EVENT
+30%: PERCENT
+P&L: ORG
+50: MONEY
+up to $3 million: MONEY
+Gay Days Hollywood: ORG
+Festival Universal: WORK_OF_ART
+Ultimate Marvel Mania: ORG
+2003: DATE
+1995: DATE
+Film & TV Production Columbia College: ORG

@@ -1,0 +1,26 @@
+Client: GPE
+MS Office: ORG
+Superb: PERSON
+Detail: PERSON
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+PowerPoint: ORG
+01/2016
+Graphic Designer Company Name - City: PERSON
+Completed: ORG
+01/2016
+: PERSON
+four consecutive quarters: DATE
+Computer Technician Network Specialist: ORG
+Fresno City College - City: ORG
+State: GPE
+United States: GPE
+Skills
+
+Data Entry, Customer Service: ORG
+Interpersonal Skills: ORG
+Marketing, Problem Resolution: ORG
+Bilingual: GPE
+English: LANGUAGE
+Spanish: NORP

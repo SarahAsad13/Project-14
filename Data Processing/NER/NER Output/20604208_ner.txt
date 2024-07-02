@@ -1,0 +1,76 @@
+Case Worker: PERSON
+Detail: PERSON
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Outlook, Data Entry: ORG
+Power Point: PRODUCT
+the Month: DATE
+Outreach Advocate: PERSON
+June 2008 to October 2014: DATE
+Microsoft: ORG
+Excel: PRODUCT
+monthly: DATE
+daily: DATE
+the Integrated Tracking System Maintaining: ORG
+Answer: ORG
+Xerox: ORG
+Prepare: ORG
+Assisted: PERSON
+up to 15: CARDINAL
+approximately a dozen: CARDINAL
+monthly: DATE
+Serve: PERSON
+the 24 hour: TIME
+one week a month: DATE
+Speak: LOC
+Fort Bend County: GPE
+at least ten: CARDINAL
+annually: DATE
+monthly: DATE
+Coordinate: ORG
+Provide: NORP
+Oversee: ORG
+Coordinate: FAC
+Complete: ORG
+Complete Client Service Plan Act: ORG
+Texas: GPE
+weekly: DATE
+Demonstrate: ORG
+Texas Works: ORG
+1: CARDINAL
+August 2005: DATE
+May 2008: DATE
+State: ORG
+Texas Works Advisor I Determined: ORG
+Medicaid: ORG
+TANF: ORG
+30: CARDINAL
+daily: DATE
+Explained: PRODUCT
+Prepared: PERSON
+each week: DATE
+Call Center Representative: ORG
+June 2002 to October 2002: DATE
+Houston Community College: ORG
+State: GPE
+USA: GPE
+June 1990: DATE
+Forest Brook High School ï¼​ City: ORG
+State: GPE
+USA: GPE
+January 2012: DATE
+Hampton University: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+the Month: DATE
+the Fort Bend County Women's Center: FAC
+the year of 2008: DATE
+2009: DATE
+2010: DATE
+2011: DATE
+Microsoft Office: ORG
+Outlook, Power Point: ORG
+Word: PERSON
+Excel: PRODUCT

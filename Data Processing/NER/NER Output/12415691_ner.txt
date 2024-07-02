@@ -1,0 +1,108 @@
+System Administration: ORG
+3+ years: DATE
+Unix/Linux System Administration: ORG
+Oracle Database Administration: ORG
+11: CARDINAL
+Ellucian Banner ERP: PERSON
+Oracle
+Application: ORG
+Technical Skills
+Languages : C: ORG
+C++: GPE
+C#.NET: PERSON
+Java: PERSON
+Python: GPE
+PHP: ORG
+Mathematica: GPE
+Oracle: ORG
+PL/SQL: ORG
+XHTML/CSSÂ 
+Environment: Windows: ORG
+UNIX: ORG
+Windows Server: PERSON
+WAMP: ORG
+LAMP: ORG
+Softwares: PERSON
+Oracle: ORG
+SQL Developer: ORG
+Visual Studio: PERSON
+Eclipse: PRODUCT
+NetBeans: ORG
+Dev-C++: PERSON
+Luminis: NORP
+every day: DATE
+DegreeWorks: ORG
+Linux: PERSON
+Oracle: ORG
+XML: ORG
+DegreeWorks: ORG
+Plans: NORP
+Oracle: NORP
+RMAN: ORG
+MySQL Database: GPE
+12: CARDINAL
+Red Hat Linux: FAC
+Centos Linux: PERSON
+Unix(Solaris: GPE
+10: CARDINAL
+Experienced: PERSON
+Query Optimization: ORG
+Database Consistency Checks Experienced: ORG
+Triggers: PRODUCT
+Joins: ORG
+Views: ORG
+SQL: PERSON
+Oracle 11g Experienced: LAW
+Oracle Application Express: ORG
+Nagios: ORG
+OSSEC: ORG
+LogWatch: ORG
+Maintain Web Servers: PERSON
+Apache: PRODUCT
+DNS: ORG
+Tomcat: ORG
+CAS: ORG
+CMS: ORG
+more than 15: CARDINAL
+Oracle Wallet Certificates: ORG
+Apache: PRODUCT
+Tomcat Integrate: ORG
+Single Sign-On(SSO: ORG
+Luminis Platform Installed: ORG
+Oracle RDBMS: ORG
+Banner System Well: ORG
+Cognos Business Intelligence: ORG
+Report Studio, Framework: ORG
+Query Studio Created: ORG
+PL/SQL: ORG
+Experienced: PERSON
+Banner Security: ORG
+Solve: ORG
+Handling: PERSON
+Coordinated: ORG
+five: CARDINAL
+PHP: GPE
+Lawton: GPE
+Developed SQL Queries: ORG
+Database Tables: ORG
+CU Faculty Research Grant: ORG
+Wayne Eby Â  Â  Â Â 
+: PERSON
+Assist: NORP
+Mathematica: PERSON
+Â  Â  Â  Â 
+
+: PERSON
+two: CARDINAL
+TCP: ORG
+Linux: GPE
+2012: DATE
+Cameron University: ORG
+ï¼​ City: GPE
+3.7: CARDINAL
+Oracle Database 11g Administration: ORG
+2013: DATE
+Banner Database Administration: ORG
+2013: DATE
+Red Hat: ORG
+2015: DATE

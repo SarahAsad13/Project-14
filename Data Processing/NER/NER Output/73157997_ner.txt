@@ -1,0 +1,81 @@
+10: CARDINAL
+PowerPoint: ORG
+Customer Service
+Scheduling: ORG
+Spanish: NORP
+Outlook
+Problem Resolution
+Regulatory Compliance: ORG
+Front-Office Operations
+Report Preparation
+Marketing & Sales: ORG
+PhotoShop
+Dependable: PRODUCT
+Bachelor of Arts: ORG
+EDWARD: ORG
+UNIVERSITY: ORG
+Jan 2011: DATE
+Generate: PERSON
+Work with Accounting Department: ORG
+Material Resource Planning: ORG
+Generate: PERSON
+Planners: ORG
+Project Engineers: ORG
+Communicate: ORG
+II Jan 2009: DATE
+monthly: DATE
+15: CARDINAL
+Conduct: PERSON
+quarterly: DATE
+yearly: DATE
+quarterly: DATE
+Coach: ORG
+Uncover: ORG
+Jan 2004 to Jan 2009: DATE
+Assisted: ORG
+17: CARDINAL
+Assisted: ORG
+daily: DATE
+Created: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Coordinated: ORG
+monthly: DATE
+Teller/Teller Operations: ORG
+Specialist Jan 1999: DATE
+Jan 2004: DATE
+seven: CARDINAL
+Created: ORG
+100%: PERCENT
+zero: CARDINAL
+two consecutive months: DATE
+monthly: DATE
+Spanish: NORP
+Interests
+
+Little League Volunteer U6: ORG
+Coach
+
+Team Bank of America Community Volunteer
+
+Additional Information
+
+Team Bank of America Community Volunteer: ORG
+2010: DATE
+2008: DATE
+2004: DATE
+Omega Co-ed: PERSON
+Salutatorian: NORP
+10: CARDINAL
+Photoshop: PERSON
+Customer Service: ORG
+Front-Office: ORG
+Marketing & Sales: ORG
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+MRP: GPE
+Problem Resolution: PERSON
+Retail Management: ORG
+Spanish: NORP

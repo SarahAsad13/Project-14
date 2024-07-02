@@ -1,0 +1,67 @@
+over 30 years: DATE
+Skill Highlights: PERSON
+Expense: NORP
+Knowledge: PERSON
+Core Accomplishments
+
+Purchased &: WORK_OF_ART
+100: CARDINAL
+22%: PERCENT
+previous year: DATE
+Mediated: ORG
+7%: PERCENT
+2007: DATE
+annually: DATE
+the Health Department: ORG
+ServSafe: PRODUCT
+4: CARDINAL
+600: CARDINAL
+100%: PERCENT
+Trains: PERSON
+three: CARDINAL
+daily: DATE
+three: CARDINAL
+Performed: ORG
+Dietitian: NORP
+Food Service: ORG
+Florida Food Management: ORG
+26.8%: PERCENT
+Owner/Executive Chef: ORG
+04/2008 Company Name City: EVENT
+daily: DATE
+daily: DATE
+Cleanliness: ORG
+daily: DATE
+10- 600: CARDINAL
+Negotiates: ORG
+Food Services Director/Executive Chef: ORG
+Trains: PERSON
+three: CARDINAL
+daily: DATE
+three: CARDINAL
+Dietitian: NORP
+Food Service: ORG
+Florida Food Management: ORG
+26.8%: PERCENT
+28% to: PERCENT
+26.8%: PERCENT
+Name City: GPE
+1998: DATE
+Associate of Arts :: WORK_OF_ART
+The Academy - Occupational Studies Culinary Arts City: ORG
+State: GPE
+USA: GPE
+1996: DATE
+GED: ORG
+The Life Skills Center City: ORG
+State: GPE
+USA: GPE
+NRA ProMgt Certifications: ORG
+Nutrition, Professional Service: ORG
+Professional Cooking: ORG
+Supervisory Development, Hospitality Management and Cost Control: ORG
+CEU: ORG
+May 2014: DATE
+Florida Food Management: ORG
+Professional Affiliations: ORG
+the American Culinary Federation: ORG

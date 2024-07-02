@@ -1,0 +1,76 @@
+Driven: PERSON
+Mechanical Engineer: ORG
+Mechanical Engineering: ORG
+Construction and Management: ORG
+Highlights
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+AutoCad: ORG
+September 2014 to September 2015: DATE
+MATLAB: ORG
+Operations Research: ORG
+Physics: ORG
+July 2013 to April 2014: DATE
+August 2011 to July 2012: DATE
+120: CARDINAL
+Heat: PERSON
+Strength of Materials: ORG
+4: CARDINAL
+their final year: DATE
+Generating Fuel: WORK_OF_ART
+Algae: GPE
+Mechanical Engineering: ORG
+MESA: ORG
+April 2010 to August 2013: DATE
+weekly: DATE
+the Lead Design Engineer Academic Projects: Analysis of LASER
+Cladding: ORG
+IIT Bombay: FAC
+Laser Cladding: ORG
+LASER: ORG
+30%: PERCENT
+20%: PERCENT
+Banking Database Management System: ORG
+Excel: PRODUCT
+VBA Optimization and Scheduling of Shifts for Police Department: ORG
+Excel: PRODUCT
+AMPL: PERSON
+May 2016: DATE
+Arizona State University: ORG
+3.15: CARDINAL
+May 2011: DATE
+University of Mumbai 
+Mechanical Engineering 
+Bachelor of Engineering Mechanical Engineering: ORG
+3.9: CARDINAL
+Project Life Cycle Management, Design of Engineering
+Experiments, Probability and Statistics: ORG
+Mass Transfer: PERSON
+Interests: NORP
+Volunteer Teacher: PERSON
+Akanksha Foundation: ORG
+May 2008 - Aug 2013: DATE
+Field Hockey: ORG
+Skills
+Academic: ORG
+AutoCad: ORG
+Database Management System: ORG
+Engineer: ORG
+Experiments: ORG
+GUI: ORG
+LASER: ORG
+MATLAB: ORG
+Mechanical Engineering: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Power Point: ORG
+Word: PERSON
+MySQL, Optimization, Physics: ORG
+Research, Retail, Scheduling, Statistics: ORG
+VBA: ORG
+Volunteer Teacher: PERSON
+Akanksha Foundation: ORG
+May 2008 - Aug 2013: DATE
+Field Hockey: ORG

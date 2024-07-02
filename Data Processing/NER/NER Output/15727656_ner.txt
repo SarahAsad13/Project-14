@@ -1,0 +1,46 @@
+Facilitated Healthy Relationship: ORG
+RPMS: ORG
+Coordinated: ORG
+3: CARDINAL
+Associate of Science : Truckee Community College - Psychology City: WORK_OF_ART
+State: ORG
+1995: DATE
+Associate of Arts :: WORK_OF_ART
+Southwester Polytechnic Institute - General Studies City: ORG
+the Sexual Assault Response Team: ORG
+the Sexual Assault Response Team: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Microsoft: ORG
+Personnel: ORG
+Identify: ORG
+State
+
+Behavioral Services: ORG
+Coordinate: FAC
+Name City: GPE
+Tribal: ORG
+minutes: TIME
+Community Liaison 06/2009: PERSON
+Name City: GPE
+Victims Sevicest Program Conduct: ORG
+RPMS: ORG
+Provide: NORP
+Coordinate: FAC
+Healthy Relationship: NORP
+the Domestic Violence Program: ORG
+Gather: ORG
+monthly: DATE
+quarterly: DATE
+Maintain: PERSON
+hours: TIME
+State System: ORG
+SAMS: ORG
+monthly: DATE
+quarterly: DATE
+Assist Community Health Personnel: ORG
+monthly: DATE
+Name City: GPE
+Evaluate: ORG
+Oversee: ORG
+three months: DATE

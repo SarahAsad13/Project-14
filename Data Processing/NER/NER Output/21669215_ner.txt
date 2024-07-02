@@ -1,0 +1,38 @@
+Customer Service: ORG
+Research: ORG
+01/2016: ORG
+Current
+Marketing Coordinator Company Name: ORG
+CPRstrong: PERSON
+HealthStream: ORG
+3 millionth: DATE
+Talent Management's: ORG
+Accelerate Development: ORG
+HealthStream: ORG
+first: ORDINAL
+340: CARDINAL
+15-minute: TIME
+Pardot and Salesforce: ORG
+Oversee: ORG
+Oversaw: GPE
+Franklin Covey: ORG
+HealthStream: ORG
+01/2016
+: PERSON
+Customer Support Specialist Company Name: ORG
+five: CARDINAL
+the Customer Service Spotlight: ORG
+over 4 million: CARDINAL
+01/2013
+Public Relations and Marketing Intern Company Name: ORG
+monthly: DATE
+Christmas: DATE
+monthly: DATE
+Researched: ORG
+Starkville: GPE
+150: CARDINAL
+HMM: ORG
+Training: PERSON
+2013: DATE
+Magna Cum Laude: PERSON
+3.8/4.00 3.66/4.00: CARDINAL

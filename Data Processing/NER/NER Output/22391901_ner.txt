@@ -1,0 +1,31 @@
+5 years: DATE
+Core Qualifications
+
+Operations: ORG
+Mar 2016: PERSON
+State: ORG
+Jan 2012: DATE
+Mentoring / Coaching: ORG
+Jan 2011 to Mar 2016: DATE
+hours: TIME
+Jan 2008 to Jan 2010: DATE
+weekly: DATE
+Jan 2007: DATE
+Metro Atlanta: LOC
+Atlanta University Center: ORG
+Shipping/Receiving Clerk: ORG
+Utilized: ORG
+2010: DATE
+University of South Carolina: ORG
+City: GPE
+State Physical Education: ORG
+Proactive: PERSON
+extended hours: TIME
+Affiliations
+: PRODUCT
+Boy Scouts Of America: ORG
+WCFL: GPE
+Anywhere Authorized: ORG
+US: GPE
+Proactive: PERSON
+extended hours: TIME

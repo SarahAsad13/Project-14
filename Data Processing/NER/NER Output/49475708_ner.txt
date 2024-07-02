@@ -1,0 +1,20 @@
+4 years: DATE
+second: ORDINAL
+Dec 2014 to Nov 2015: DATE
+One: CARDINAL
+Monday: DATE
+Monday: DATE
+Verify: LOC
+Calculate: ORG
+Recommend: ORG
+Estimate: LOC
+Bag: GPE
+Jun 2014 to Dec 2014: DATE
+Maintain: PRODUCT
+Recommend: ORG
+2012 to Aug 2014: DATE
+Maintain: PRODUCT
+2014: DATE
+State: ORG
+Skills: ORG
+Inventory: GPE

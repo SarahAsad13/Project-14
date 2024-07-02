@@ -1,0 +1,94 @@
+GROUP FITNESS INSTRUCTOR
+Summary
+Experienced: ORG
+Group Fitness Instructor: ORG
+July 2007: DATE
+Current Company Name: ORG
+Observe: LOC
+Communicate: ORG
+the Year Award: EVENT
+2010: DATE
+Group Fitness Instructor: ORG
+November 2005: DATE
+May 2007: DATE
+March 2005 to September 2006: DATE
+Group Fitness Instructor: ORG
+August 2003 to November 2005: DATE
+State
+Pharmaceutical Sales Representative: ORG
+June 1999 to: DATE
+February 2004: DATE
+Coordinated: ORG
+District Champion for Singulair: ORG
+two: CARDINAL
+2001: DATE
+NJ: ORG
+1Q 2001: DATE
+Winner: PERSON
+two consecutive years: DATE
+Product Marketing Specialist: WORK_OF_ART
+June 1997 to June 1999: DATE
+Canon's Office Products Line: ORG
+Office Depot: ORG
+Staples: PRODUCT
+Max: PERSON
+Acted as Staples' Key Account Representative: ORG
+Staples Stores: ORG
+Canon: PERSON
+14: CARDINAL
+Northeast: LOC
+Assisted: ORG
+Staples: PRODUCT
+Represented Canon Inc.: ORG
+QVC: ORG
+over 2,500: CARDINAL
+Canon: PERSON
+Two: CARDINAL
+The Marketing Diplomat Award: ORG
+August 1993 to June 1995 Company Name ï¼​ City: DATE
+73: CARDINAL
+The Cittone Institute's: ORG
+10 to 100: CARDINAL
+Utilized: ORG
+50%: PERCENT
+1: MONEY
+21: CARDINAL
+1994: DATE
+Trainer/Coach: ORG
+November 2013: DATE
+Coach: ORG
+Bosu Balls: ORG
+Bachelor Of Science : Communications Spanish Ithaca College: ORG
+ï¼​ City: GPE
+State: GPE
+USA: GPE
+Cum Laude Two: PERSON
+Emerson Academic
+Scholarship Â: ORG
+Two: CARDINAL
+Alpha Epsilon Rho: ORG
+Deans: NORP
+Spanish: NORP
+Cum Laude Two: PERSON
+Emerson Academic Scholarship Â: ORG
+Two: CARDINAL
+Alpha Epsilon Rho: ORG
+Deans: NORP
+ACE Certified Group Fitness: ORG
+Johnny G Certified Spinning Instructor: PERSON
+Bosu AEA: ORG
+Aquatics Instructor Ball: PERSON
+Resistance/Strength: ORG
+three: CARDINAL
+Les Mills Programs: ORG
+Les Mills Combat: ORG
+CPR: ORG
+AED: ORG
+Strong: PERSON
+Skills: ORG
+Excellent Communication: ORG
+Interpersonal Skills: ORG
+CPR: ORG
+Instructor: ORG
+Leadership: PERSON
+Max: PERSON

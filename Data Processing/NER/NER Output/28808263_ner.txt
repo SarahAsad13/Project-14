@@ -1,0 +1,59 @@
+Accounting: GPE
+Credit Union Financial Services: ORG
+Retail Sales: ORG
+Customer Service: ORG
+Telemarketing, Food & Beverage: ORG
+Highlights
+Branch Suite: FAC
+Appro: ORG
+Delta Docs: PERSON
+A/P & Payroll: ORG
+Excel: PRODUCT
+Workers: ORG
+Accomplishments
+Finance Skills: PRODUCT
+Microsoft Office: ORG
+Time: ORG
+Strong: PERSON
+Resourceful: PERSON
+annual: DATE
+Ledger Accounts: PERSON
+Researched: ORG
+Name City: GPE
+State: ORG
+Payroll/ Accounting: ORG
+11/2008: CARDINAL
+all employee hours: TIME
+STD: ORG
+weekly: DATE
+semi-monthly: DATE
+Processed: GPE
+Accounts Payable: WORK_OF_ART
+Coded: ORG
+Coordinated: ORG
+month-end: DATE
+Researched: ORG
+Name City: GPE
+State Financial Relationship Specialist: ORG
+Researched: ORG
+Processed: GPE
+Originate: ORG
+daily: DATE
+zero: CARDINAL
+the Credit Union's: ORG
+Name City: GPE
+State: ORG
+Name City: GPE
+State: ORG
+Counter Supervisor: PERSON
+daily: DATE
+Compile: PRODUCT
+Blue River Community College Business
+Bachelors : Business Finance: ORG
+2016: DATE
+UMKC Business Finance: ORG
+Skills
+
+Analytical and Statistical: ORG
+reportingÂ 
+: PERSON

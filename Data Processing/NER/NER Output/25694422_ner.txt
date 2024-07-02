@@ -1,0 +1,93 @@
+Skill Highlights: PERSON
+Medicaid: ORG
+Psychiatric: ORG
+Quality: ORG
+more than 30: CARDINAL
+2: CARDINAL
+822: CARDINAL
+86 %: PERCENT
+January 2016: DATE
+Current Company Name: ORG
+1 year: DATE
+January 2015 to February 2016: DATE
+State
+
+Collaborated: ORG
+Communicate: ORG
+Level Of Care: PERSON
+Correspond: PERSON
+MCO: ORG
+Facilitate DWI Chemical Dependency Awareness Group: ORG
+June 2013 to June 2014: DATE
+State
+
+Territory Management for Long Island: ORG
+New York City: GPE
+the United States: GPE
+Regional Service Coordinator: ORG
+February 2011 to June 2013 Company Name ï¼​ City: DATE
+New York: GPE
+Assessment Resource Center: ORG
+Mid-Town Manhattan: GPE
+ARC: ORG
+first: ORDINAL
+the CRC Health
+Group/White Deer Run Northeast: ORG
+New York City: GPE
+Long Island: LOC
+EAP: ORG
+Unions, Outpatient Clinics: ORG
+514: CARDINAL
+2011: DATE
+208: CARDINAL
+254: CARDINAL
+52: CARDINAL
+Intake: ORG
+September 2009 to February 2011 Company Name ï¼​ City: DATE
+Intake/Assessment: ORG
+86%: PERCENT
+230%: PERCENT
+2010: DATE
+Second: ORDINAL
+annual: DATE
+196: CARDINAL
+2009: DATE
+365: CARDINAL
+2010: DATE
+Increased Intensive Outpatient Admission: ORG
+94: CARDINAL
+2009: DATE
+208: CARDINAL
+2010: DATE
+Training
+B.S :: ORG
+Community and Human Services: ORG
+2005: DATE
+SUNY Empire State College: ORG
+State Community and Human Services: ORG
+Technician Computer: ORG
+Microsoft Office Suite: ORG
+Outlook, Louts, Salesforce
+Electronic Medical Records South Oaks Hospital: ORG
+Institute for Addictions Amityville: ORG
+NY-1992: DATE
+New York State: GPE
+#116816: MONEY
+Admissions, Operations: ORG
+Assessment, Case Management, Program Development: ORG
+Business Processes: ORG
+Computer Hardware: PERSON
+1999: DATE
+Computer Career Center: ORG
+ï¼​ City: GPE
+Skills
+Insurance: ORG
+Business Processes: ORG
+Â  Case Management, Computer: ORG
+Counselor: PERSON
+Customer Service: ORG
+Electronic Medical Records: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Program Development: ORG
+Technician, Territory Management: ORG

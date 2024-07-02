@@ -1,0 +1,95 @@
+sincerity &: ORG
+XP: ORG
+MS Office: ORG
+Oracle, Tally: ORG
+Adobe Photoshop: PERSON
+Adobe Illustrator: ORG
+Pagemaker: ORG
+3d Inifnative: ORG
+Audio Editing: ORG
+Macro: ORG
+Oracle 8I, Developer 2000: ORG
+October 2011: DATE
+August 2015: DATE
+Name City: GPE
+monthly: DATE
+annual: DATE
+Performed: ORG
+Monthly Management: ORG
+monthly: DATE
+quarterly: DATE
+Inspection: NORP
+Budget: ORG
+Reconciliation of Bank Statements: ORG
+MIS: ORG
+CFO: ORG
+Management, Coordinating: ORG
+January 2009: DATE
+September 2011: DATE
+Name City: GPE
+the G/L. Responsible: ORG
+Monthly Management: ORG
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+Inspection: NORP
+Budget: ORG
+Reconciliation of Bank Statements: ORG
+MIS: ORG
+CFO: ORG
+Management, Coordinating: ORG
+Dec'08: ORG
+Al-Ghannam Auto World Co.: ORG
+WLL: ORG
+Kuwait Accountant: Responsible: PERSON
+Monthly Management: ORG
+daily: DATE
+Reconciliation of Bank Statements: ORG
+MIS: ORG
+April 2006: DATE
+May 2007: DATE
+Name City: GPE
+Ensures Co.: ORG
+Preparation of Financial Statements: ORG
+October 2001: DATE
+March 2006: DATE
+Name City: GPE
+daily: DATE
+daily: DATE
+the Management, Preparation of Inventory
+Reports: ORG
+Vouchers of debit & credit: ORG
+Sep: ORG
+2K-: CARDINAL
+Udaipur: PERSON
+India: GPE
+Journal: ORG
+Preparation of Cash Vouchers &: ORG
+Daily: PERSON
+2006: DATE
+Vidyasagar University City: ORG
+State: GPE
+India: GPE
+2000: DATE
+Mohan Lal Sukhadia University City: ORG
+State: GPE
+India: GPE
+Skills: ORG
+3d: CARDINAL
+Accountant, Accounts: ORG
+Adobe Illustrator: ORG
+Adobe Photoshop: PERSON
+Pagemaker: ORG
+Audio Editing: ORG
+Dec: PERSON
+Financial: ORG
+Preparation of Financial Statements: ORG
+Inspection, Inventory: ORG
+Macro: ORG
+MS Office: ORG
+2: CARDINAL
+MIS: ORG
+2000: DATE
+Oracle 8I: ORG
+Oracle: ORG
+Affiliations: ORG

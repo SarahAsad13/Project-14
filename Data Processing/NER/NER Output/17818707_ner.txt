@@ -1,0 +1,50 @@
+FACILITIES: ORG
+18 years: DATE
+Operations: ORG
+Housing and Financial Institutions: ORG
+Core Competencies Competition Analysis - Ability: ORG
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Power Point Software: ORG
+Microsoft Word: PERSON
+Excel: PRODUCT
+Outlook: PERSON
+Adobe Photoshop: PERSON
+Boston Post: ORG
+HMIS: ORG
+Current
+Program: ORG
+approximately 20: CARDINAL
+all Environmental Health & Safety goals & objectives: ORG
+02/2008
+Clinic: ORG
+Facility: ORG
+Evaluates: NORP
+Coaches: PERSON
+Ensures: LOC
+12/1998: CARDINAL
+Roles: ORG
+monthly: DATE
+annual: DATE
+Working: ORG
+Maximizing: ORG
+Utilized: ORG
+Training: PERSON
+June 2008: DATE
+Bachelor of Business and Management University of Phoenix: ORG
+State: ORG
+September 1999: DATE
+Bachelor of Science : Nurse University of Washington: ORG
+June 2014: DATE
+Healthcare University of Phoenix ï¼​ City: ORG
+State Healthcare: ORG
+Budget: ORG
+Business Management: ORG
+Driving, Environmental Health: ORG
+Financial Analysis: ORG
+Excel: PRODUCT
+Outlook, Power Point: ORG
+Microsoft: ORG
+Problem: PRODUCT
+Safety: ORG

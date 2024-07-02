@@ -1,0 +1,54 @@
+FINANCE: ORG
+OPERATIONS: ORG
+Career Overview: ORG
+Management Information Systems: ORG
+Document: FAC
+Strong Communication Skills
+Customer: WORK_OF_ART
+Requirements Analysis
+Requirements Gathering: WORK_OF_ART
+Java
+CICS
+Windows Networks: PERSON
+25: CARDINAL
+LAN: ORG
+LAN: ORG
+WAN: ORG
+Network Support Â 
+
+Acted: PERSON
+first: ORDINAL
+Oversaw: GPE
+three: CARDINAL
+IT Department: ORG
+Finance Manager/ Operations: ORG
+July 2004: DATE
+Recruited: PRODUCT
+two: CARDINAL
+Wireless Nation: ORG
+Oversaw: GPE
+monthly: DATE
+annual: DATE
+annual: DATE
+150%: PERCENT
+200%: PERCENT
+the first year: DATE
+Shared: ORG
+Fortune 500: PRODUCT
+Sprint Wireless: ORG
+Computer Information Systems: ORG
+September 1999 to July 2004: DATE
+20-30: CARDINAL
+Reviews: NORP
+Respond: PERSON
+Collaborates: PERSON
+Training
+Masterof Science : Information Systems: ORG
+2016: DATE
+Bowie State University: ORG
+State: ORG
+4: CARDINAL
+2001: DATE
+University of Maryland: ORG
+University College: ORG
+Hardware Systems: ORG

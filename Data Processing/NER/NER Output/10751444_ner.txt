@@ -1,0 +1,103 @@
+4-5 years: DATE
+1-2 years: DATE
+Innovator: ORG
+Efficient Mechanical Engineer: ORG
+Mechanical Engineer: ORG
+Skills: ORG
+Complex: NORP
+Component: ORG
+Engine: ORG
+10/2014: CARDINAL
+Outernet (https://www.outernet.is/en/: ORG
+two: CARDINAL
+North America: LOC
+Europe: LOC
+the Middle East: LOC
+CAD: ORG
+Two: CARDINAL
+Makerspce: PERSON
+500: MONEY
+20 feet: QUANTITY
+Team: ORG
+10/2013: CARDINAL
+Simulation: ORG
+2013: DATE
+Chevrolet: ORG
+MATLAB Simulink: PERSON
+Mechanical Engineering Components: ORG
+10/2013: CARDINAL
+Eddy Current DYNO Research: ORG
+Eddy: PERSON
+Eddy: ORG
+RPM: ORG
+EGR: PERSON
+Kubota Diesel Engine: ORG
+06/2013: CARDINAL
+Thermodynamics eBook: FAC
+Smartdraw: ORG
+eBook: PRODUCT
+eBook: PRODUCT
+06/2013: CARDINAL
+the Hangzhou Engineering Study Abroad Program: ORG
+Zhejiang University: ORG
+this coming summer: DATE
+2323 04/2013: DATE
+10/2013: CARDINAL
+2: CARDINAL
+10/2012: CARDINAL
+04/2013: CARDINAL
+Graphic Communications Project: ORG
+10/2012: CARDINAL
+04/2013: CARDINAL
+SolidWorks: ORG
+Emphasis: ORG
+04/2009: CARDINAL
+Robotic & Manufacture Current Columbia University: ORG
+the City of New York - City: GPE
+Robotic & Manufacture
+
+Coursework: ORG
+Advanced Mechanical Engineering: ORG
+Computer-Aided Design: ORG
+Computer-Aided Manufacturing: ORG
+CAM: ORG
+1: CARDINAL
+North Carolina State University: ORG
+Raleigh (NCSU) - City: ORG
+State: ORG
+GPA: ORG
+Magna Cum Laude: PERSON
+3.5: CARDINAL
+GPA: ORG
+3.63/4.0: CARDINAL
+Magna Cum Laude: PERSON
+3.5: CARDINAL
+GPA: ORG
+3.63/4.0: CARDINAL
+North Carolina: GPE
+GPA: ORG
+Magna Cum Laude: PERSON
+Magna Cum Laude: PERSON
+three: CARDINAL
+NC: GPE
+the Professional Development Certificate Â: ORG
+Chinese: NORP
+Math: PERSON
+Â: ORG
+Control and Mechanical Team: ORG
+NCSU EcoCAR2 Â: ORG
+NC: GPE
+State University Â: ORG
+Chinese: NORP
+Chinese: NORP
+Dec: PERSON
+English: LANGUAGE
+Fortran: GPE
+Graphic: PERSON
+Lathe: GPE
+Maple: ORG
+MATLAB: ORG
+Mechanical Engineering: ORG
+Mill: PERSON
+SolidWorks: ORG
+Welding: PRODUCT

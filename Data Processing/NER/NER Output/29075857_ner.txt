@@ -1,0 +1,187 @@
+Skill Highlights: PERSON
+SQL/MS Access Progress: ORG
+Power Point Data Warehousing HP Quality Center MS Test Rational: ORG
+QA: ORG
+PM: EVENT
+MS Word/Excel: PERSON
+Project Visio: PERSON
+January 1999 to November 2014: DATE
+Oversaw: GPE
+QA: ORG
+monthly: DATE
+AIT: ORG
+1st: ORDINAL
+the Planning and Strategy: ORG
+Communication, Quality, Risk and Implementation Management: ORG
+SDLC: GPE
+QA: ORG
+Project Management Life Cycles: ORG
+AIT: ORG
+Leadership Development Program: ORG
+QA: ORG
+Resource Capacity Management: ORG
+Annuities Marketing Service: ORG
+20: CARDINAL
+QA: ORG
+Business
+Analyst: ORG
+29: MONEY
+five: CARDINAL
+Organizational Units: ORG
+QA: ORG
+Portfolio Management Database: ORG
+four: CARDINAL
+two: CARDINAL
+SDLC: GPE
+QA: ORG
+Project Management Lifecycles: ORG
+Annuities Services: ORG
+two: CARDINAL
+AIT: ORG
+50%: PERCENT
+Vendor Management: ORG
+HP's Requirement Management Tool: ORG
+RMT: ORG
+APPTIO: ORG
+Request for Proposals: LAW
+Prudential Legal: ORG
+APPTIO: ORG
+APPTIO: ORG
+Prudential Annuities: ORG
+Annuities Technology Business Partners: ORG
+Collaborated: ORG
+QA: ORG
+Information Management and Business Intelligence: ORG
+QA: ORG
+Business Intelligence Testing Methodology: ORG
+QA: ORG
+Data Warehouse: ORG
+ETL: ORG
+Transform and Load: WORK_OF_ART
+Socialized: ORG
+IMBI QA: LOC
+AIT: ORG
+AIT: ORG
+QA: ORG
+QA: ORG
+AIT: ORG
+Information Management and Business Intelligence: ORG
+Quality Control: ORG
+Oversaw: CARDINAL
+QA: ORG
+Prudential: ORG
+Data Warehouse: ORG
+Cognos: PRODUCT
+QA: ORG
+Annuities Information Factory: ORG
+AIT: ORG
+Business Intelligence: ORG
+QA Organization: ORG
+two: CARDINAL
+six: CARDINAL
+India: GPE
+Ireland: GPE
+SDLC: ORG
+Project Life Cycle: ORG
+Bridged: GPE
+SME: ORG
+Monitored: ORG
+QA: ORG
+QA Production Support: ORG
+Coordinated QA: PRODUCT
+QA: ORG
+AIT: ORG
+up to 5 days: DATE
+9 days: DATE
+15: CARDINAL
+50: MONEY
+12 months: DATE
+QA: ORG
+American Skandia: ORG
+State: ORG
+QA: ORG
+12: CARDINAL
+10: CARDINAL
+QA metrics: ORG
+Annuities
+
+Information Technology's: ORG
+Collaborated: ORG
+Pramerica: LOC
+1st: ORDINAL
+Rational Software: ORG
+Prudential: ORG
+Annuities Technology: ORG
+QA: ORG
+75%: PERCENT
+QA: GPE
+UAT: ORG
+4 person hours: TIME
+100: CARDINAL
+Software Developer: ORG
+January 1996 to January 1998: DATE
+Project Lead: PERSON
+January 1988 to January 1996: DATE
+1992: DATE
+University of New Haven: ORG
+State: GPE
+US: GPE
+Computer Science University of New Haven - New Haven: ORG
+1992: DATE
+1985: DATE
+Fairleigh Dickinson University: ORG
+State: GPE
+US BS: ORG
+Teaneck: GPE
+NJ: ORG
+1985: DATE
+Certifications: ORG
+AIT: ORG
+Skills
+Qa, Offshore, Annuities,: ORG
+Database: GPE
+Qa Validation: ORG
+Sdlc: GPE
+Project Planning: ORG
+Qa Test: ORG
+Qa Testing: ORG
+Excel: PRODUCT
+Production Environment, Rational,: ORG
+Uat, Leadership Development: ORG
+Project Management: ORG
+Best Practices: ORG
+Collection, Data Collection, Marketing, Portfolio Management, Procurement, Progress: ORG
+Project Plans: ORG
+Proposals: GPE
+Saas: PERSON
+Vendor Management: ORG
+Coda: ORG
+Cognos: GPE
+Data Warehouse, Etl, Extract, Transform: ORG
+Load: PERSON
+Front End: ORG
+Front End Design: ORG
+Front-end: ORG
+Governance: PERSON
+Ibm Cognos: PERSON
+Qa Methodology: ORG
+Quality Assurance: ORG
+Quality Assurance Standards: ORG
+Subject Matter Expert: PERSON
+Test Lead: PERSON
+Batch Processing: PERSON
+Process Improvement: ORG
+Data Analysis: ORG
+Data Warehousing: ORG
+Ibm Rational Software: ORG
+Microsoft Project: ORG
+Ms Access: ORG
+Ms Project: PERSON
+Ms Word: PERSON
+Oracle, Org
+Development: ORG
+Rdb: PERSON
+Software Qa: PERSON
+Sql, Team Building: ORG
+User Acceptance: ORG
+Visio: PERSON

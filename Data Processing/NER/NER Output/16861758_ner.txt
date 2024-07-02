@@ -1,0 +1,61 @@
+Skill Highlights: PERSON
+Sharp: ORG
+April 2008: DATE
+Assemble: PRODUCT
+first: ORDINAL
+Maintenance: PERSON
+Developing: PERSON
+Quality Assurance: FAC
+quarterly: DATE
+July 2007 to April 2008: DATE
+Nurses: ORG
+Clients Scheduled and Completed DNA Collections Completed Orientation: WORK_OF_ART
+Verified Payroll: ORG
+Creating Files: PERSON
+Scheduling
+Making Copies, File and Fax Maintain Compliance: ORG
+Updating: GPE
+Typing Physician: PERSON
+CAP: ORG
+October 2005 to October 2006: DATE
+Client: GPE
+2: CARDINAL
+Physician: PERSON
+Assist: NORP
+Client: GPE
+Maintained: GPE
+Komen: GPE
+May 2000 to June 2006: DATE
+Client: GPE
+Qs: PERSON
+Cleaned: PRODUCT
+New Jersey Laws: ORG
+Physicians: NORP
+the Joint Commission on Accreditation: ORG
+Hospitals: FAC
+Evaluated: ORG
+Knowledge: PERSON
+Ability: ORG
+March 1999 to January 2000: DATE
+Technician 
+City: GPE
+Provide Client's: ORG
+Healthcare: ORG
+Answered: PERSON
+Inventory: GPE
+Skills
+
+Professional: ORG
+Training
+Edgecombe Community College Present Select: ORG
+One: CARDINAL
+Nursing City: GPE
+State: GPE
+United States: GPE
+Nursing: GPE
+Nash Community College: ORG
+2: CARDINAL
+CNA City: ORG
+State: ORG
+United States: GPE
+Nursing: GPE

@@ -1,0 +1,87 @@
+15 years: DATE
+Skills
+
+Team: ORG
+Financial Statement Analysis
+Team: ORG
+Detail-orientedÂ: PERSON
+Work History: WORK_OF_ART
+12/2015: CARDINAL
+monthly: DATE
+annual: DATE
+Â Create Cost Segregation Report: ORG
+Prepare: ORG
+Coordinate: ORG
+Evaluate: ORG
+Manage: PRODUCT
+Calculate: ORG
+Verify: GPE
+Breakdown Structure: WORK_OF_ART
+Goods and Invoice Receipts Properly: ORG
+Prepare: ORG
+Complete: PERSON
+Identify: PERSON
+Maintain: PERSON
+SEC Regulations: ORG
+Sarbanes-Oxley: PERSON
+09/2014
+Accounting Supervisor Company Name: ORG
+Maintained: GPE
+daily: DATE
+IPS/Field Office Accounting: ORG
+200: CARDINAL
+Oversaw: GPE
+Performed Quality Assurance: ORG
+Analyzed: ORG
+Perform: PERSON
+Awarded a Certificate of Completion for the Company Management Training Program: WORK_OF_ART
+monthly: DATE
+200: CARDINAL
+Served: PERSON
+third: ORDINAL
+monthly: DATE
+Created: ORG
+Performed: PERSON
+daily: DATE
+monthly: DATE
+Conducted: ORG
+Created: ORG
+Maintained: GPE
+Junior/Staff Accountant Company Name: ORG
+daily: DATE
+monthly: DATE
+30-plus: CARDINAL
+Created: ORG
+Calculated: ORG
+zero: CARDINAL
+Maintained: GPE
+100%: PERCENT
+skills Technology Team - Worked: ORG
+Automated Workflow Project - Led: ORG
+AWF: ORG
+the end of each month: DATE
+Critical Items Project - Recommended: ORG
+monthly: DATE
+May 2004: DATE
+Long Island University - 
+
+: ORG
+Magna Cum Laude: PERSON
+Magna Cum Laude: PERSON
+May 2000: DATE
+Lincoln University: ORG
+Lincoln University - 
+
+Accounting
+
+Affiliations
+An: ORG
+15+ years: DATE
+Skills: ORG
+Corporate Accounting: ORG
+Document Management: ORG
+Ledger: PERSON
+SAP: ORG
+Sarbanes-Oxley: PERSON
+SQL: ORG
+Structured Query Language: ORG

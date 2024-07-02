@@ -1,0 +1,59 @@
+Skills: ORG
+Budget: ORG
+Superior: LOC
+monthly: DATE
+the Credit Union: ORG
+the Board Members: ORG
+Ledger: PERSON
+Ledger: PERSON
+Human Resources and Compliance Assistant: ORG
+Generalist: PERSON
+Maintained: GPE
+110: CARDINAL
+Assisted HR Generalist: ORG
+Processed: GPE
+110: CARDINAL
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+yearly: DATE
+Maintained: GPE
+approximately 110: CARDINAL
+6: CARDINAL
+Value and Service: ORG
+Human Resource Specialist: ORG
+the Compliance/Training: ORG
+Verafin: GPE
+10/2010: DATE
+Automated Clearing House: ORG
+ACH: ORG
+EFT: ORG
+1099: DATE
+W-9: ORG
+weekly: DATE
+Share Drafts: PERSON
+Daily Balancing: WORK_OF_ART
+Bachelor of Science : Accounting Business Administration: ORG
+5 2011: DATE
+University of Maryland University College: ORG
+Accounting Business Administration: ORG
+5 2009: DATE
+Montgomery College - 
+Business Management
+Affiliations
+
+Volunteered: ORG
+the Cherry Blossom Festival: FAC
+2012 - 2013: DATE
+Council: ORG
+2009 - 2011: DATE
+Skills
+Accounting: ORG
+Accounting Software: ORG
+Credit, Electronic Funds Transfer: ORG
+General Ledger, Human Resource: ORG
+MS Access: ORG
+MS Excel: ORG
+MS Power Point: ORG
+MS Word: PERSON
+QuickBooks: ORG

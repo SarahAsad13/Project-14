@@ -1,0 +1,61 @@
+Skills: ORG
+Training
+Ph.D. :: WORK_OF_ART
+Universtiy City: GPE
+State: ORG
+2001: DATE
+Webster University City: ORG
+Associate 02/2016: PRODUCT
+Create: ORG
+the Lucky Brand: ORG
+Substitute Teacher: PERSON
+01/2016: ORG
+day: DATE
+each day: DATE
+Name City: GPE
+State: ORG
+Weekly: DATE
+four: CARDINAL
+Fort Lauderdale: GPE
+Maintained: GPE
+Established: ORG
+Store: ORG
+Name City: GPE
+State: ORG
+Adobe Illustrator
+Performed: ORG
+Business Management Instructor 01/2008: ORG
+01/2010 Company Name City: EVENT
+State: ORG
+73 % to 87%: PERCENT
+Name City: GPE
+four: CARDINAL
+Utilized: ORG
+Point of Sale: ORG
+Name City: GPE
+24: CARDINAL
+North Carolina: GPE
+South Carolina: GPE
+Created: ORG
+Position Highlights: Served: WORK_OF_ART
+09/2003: CARDINAL
+20: CARDINAL
+Established: ORG
+daily: DATE
+03/2003: CARDINAL
+Name City: GPE
+12,000 square foot: QUANTITY
+10: CARDINAL
+weekly: DATE
+$1.2 million to $1.7 million: MONEY
+12 months: DATE
+5.2%: PERCENT
+4.6%: PERCENT
+my first year: DATE
+2004: DATE
+01/2003 Company Name City: ORG
+Consumer Relations Specialist Company Name City: ORG
+Medicaid: ORG
+Medicaid: ORG
+Customer Care Specialist Company Name City: ORG
+Maintained: GPE

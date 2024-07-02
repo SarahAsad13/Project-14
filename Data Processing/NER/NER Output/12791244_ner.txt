@@ -1,0 +1,39 @@
+Zumba Gold: GPE
+Zumba Toning: PERSON
+PTA: ORG
+OTA: ORG
+PTA: ORG
+OTA: ORG
+Fitness Instructor & Trainer/ Front Desk Staff/ Group: ORG
+Zumba Toning: PERSON
+Zumba Gold: PERSON
+Zumba Kids: PERSON
+55: CARDINAL
+Facility: ORG
+one: CARDINAL
+daily: DATE
+05/2000: CARDINAL
+Name City: GPE
+Name City: GPE
+Maintained: GPE
+Name City: GPE
+10: CARDINAL
+between two to six: CARDINAL
+Accounting Department: ORG
+Training
+Bachelor of Science: PERSON
+2020: DATE
+Allied Health 2017 Norwalk Community College City: ORG
+State: GPE
+USA: GPE
+College City: GPE
+State: GPE
+USA: GPE
+Skills
+Accounting: ORG
+ABC: ORG
+CPR: ORG
+Customer: ORG
+MS
+Office: ORG
+Physical Therapy Aide: PERSON

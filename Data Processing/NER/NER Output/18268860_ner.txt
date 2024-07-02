@@ -1,0 +1,44 @@
+QUALITY CONTROL INSPECTOR: ORG
+10: CARDINAL
+Point Preference: ORG
+18 years: DATE
+Quality Control Inspector: ORG
+912)-414-1558: DATE
+First Article: ORG
+John Sherman: PERSON
+912: CARDINAL
+661: CARDINAL
+Reset: PRODUCT
+Aircraft: ORG
+Fabricated: ORG
+Name City: GPE
+Robert Macks: PERSON
+615: CARDINAL
+946: CARDINAL
+Phase: ORG
+the F/A-18: PRODUCT
+Trains: PERSON
+Company Name City: DATE
+State: ORG
+Eight years: DATE
+Navy: ORG
+servos: GPE
+the F/A-18: PRODUCT
+the USS Nimitz: PRODUCT
+Aircraft Carrier: PERSON
+six-month: DATE
+Operation Iraqi Freedom: EVENT
+Collateral Duty Inspector: ORG
+14-day: DATE
+28-day: DATE
+daily: DATE
+Training
+B.S :: ORG
+Riddle Aeronautical University - Professional Aeronautics: ORG
+70%: PERCENT
+Professional Aeronautics
+U.S. Navy Aviation F/A-18 Hydraulic/Structural Repair School: ORG
+U.S Navy Aircraft Paint: ORG
+Markings: PERSON
+Catia V: ORG
+Inspector: ORG

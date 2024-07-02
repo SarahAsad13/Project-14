@@ -1,0 +1,77 @@
+25 years: DATE
+Acting Bureau of Internal Revenue Representative: ORG
+8 Â½ years: DATE
+the Philippine Consulate General: FAC
+San
+Francisco: GPE
+BIR: ORG
+500%: PERCENT
+17 years: DATE
+the Philippine Department of Tourism: ORG
+Detail: PERSON
+Skills
+Work History
+Finance Officer: ORG
+Maintained: GPE
+monthly: DATE
+Prepared bi-monthly: PERSON
+four: CARDINAL
+Researched: ORG
+Maintained: GPE
+Processed: GPE
+Philippines: GPE
+one: CARDINAL
+Asia: LOC
+Philippines: GPE
+Processed: GPE
+12/1993: CARDINAL
+600,000: MONEY
+50,000: MONEY
+Coordinated: ORG
+Bureau of Internal Revenue: ORG
+Department of Foreign Affairs and Commission on Audit: ORG
+San Francisco: GPE
+Dealt: PERSON
+San Francisco: GPE
+USA: GPE
+monthly: DATE
+annual: DATE
+Checked: PRODUCT
+daily: DATE
+daily: DATE
+Prepared bi-monthly: PERSON
+40: CARDINAL
+Examiner: ORG
+Foreign Service: ORG
+New York: GPE
+Stockholm: GPE
+Pakistan: GPE
+San Francisco: GPE
+UNGA: ORG
+United Nations General Assembly: ORG
+UNCLOS: ORG
+United Nations Law of the Sea: ORG
+Completed US Individual Income Tax Course: ORG
+1982: DATE
+Philippine: NORP
+1 1994: DATE
+Bachelor of Science : Commerce Accounting: ORG
+1 1975: DATE
+University of Batangas: ORG
+Commerce Accounting: ORG
+1 1: CARDINAL
+Junior Philippine Institute of Accountants: ORG
+Affiliations: ORG
+Philippine Institute of Certified Public Accountants Government Association of Certified Public Accountants: ORG
+2: CARDINAL
+Skills: ORG
+Assembly: ORG
+Finance: ORG
+Law: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Word: PERSON
+QuickBooks: ORG
+San: GPE
+Tax: PERSON
+annual: DATE

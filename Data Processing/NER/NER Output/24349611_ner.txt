@@ -1,0 +1,156 @@
+Areas of Expertise
+
+Time and: ORG
+Territory: PERSON
+Molecular Biology TechniquesÂ 
+Assay Design/Development
+Presentation Skills
+
+DNA/RNA Sequencing
+PCR
+Cell Biology/Tissue Culture
+Data Analysis: WORK_OF_ART
+February 2013: DATE
+December 2015: DATE
+Name City: GPE
+State Adjunct Faculty: ORG
+Zanvyl Kreiger School of Arts and Sciences: ORG
+Advanced Academic Programs
+
+Co-Designed: ORG
+Lectured: PRODUCT
+12: CARDINAL
+7: CARDINAL
+HTS: ORG
+HTS: ORG
+November 2005: DATE
+Name City: GPE
+State: ORG
+Discovery: PRODUCT
+Analytical Solutions: ORG
+PerkinElmer: ORG
+3: CARDINAL
+PA: GPE
+DE: GPE
+MD,DC, VA: GPE
+NC: GPE
+SC: ORG
+2016: DATE
+$5.6 Million: MONEY
+Facilitate: ORG
+Industrial/Biotech, Government: ORG
+PerkinElmer: PERSON
+PerkinElmer: ORG
+Alpha: GPE
+LANCE: GPE
+Luminescence: PERSON
+96: DATE
+384: CARDINAL
+1536: DATE
+Advise: ORG
+Design: PRODUCT
+FAS: ORG
+Field Marketing: ORG
+Strategic Marketing: ORG
+Reagent Manufacturing: ORG
+February 2000: DATE
+November 2005: DATE
+Name City: GPE
+Applied Biosystems: ORG
+Maintain: NORP
+Sample Preparation Systems: ORG
+TAS: ORG
+Sample Preparation Systems: ORG
+SPS: ORG
+PCR: ORG
+SDS: ORG
+AB Support Organization: ORG
+Contribute: ORG
+AB: ORG
+AB: ORG
+TAS: GPE
+TAS: ORG
+August 1995: DATE
+February 2000: DATE
+Name City: GPE
+Biologist: PERSON
+GB: GPE
+Hepatitis: NORP
+RT-PCR: ORG
+3' end: DATE
+5: CARDINAL
+RNA: ORG
+PCR: ORG
+RT-PCR: ORG
+5: CARDINAL
+Contributed: ORG
+RT-PCR: ORG
+HGV: ORG
+GBV-C: ORG
+GB Virus A: ORG
+GB Virus B: PERSON
+Performed: ORG
+RNA: ORG
+GCG Wisconsin Package: ORG
+5: CARDINAL
+3: CARDINAL
+Created: ORG
+a Clean Room environment.
+: LAW
+July 1992: DATE
+August 1995: DATE
+Company Name City: LOC
+State Research: ORG
+Transfected: ORG
+Southern: NORP
+Performed: PERSON
+Synthesized: PERSON
+ABI: ORG
+394: CARDINAL
+SIV: ORG
+March 1989: DATE
+July 1992: DATE
+Name City: GPE
+State: ORG
+10-1000: CARDINAL
+assays: DATE
+2002: DATE
+Johns Hopkins University City: ORG
+State Biotechnology Biotechnology: ORG
+1988: DATE
+East Carolina University City: ORG
+Interests: NORP
+30 years: DATE
+K-2 league: ORG
+K- 8) Basketball, Baseball: ORG
+Football Tee-Ball: PERSON
+Mother Seton Parish Council: ORG
+June 2003: DATE
+St. Paul's: GPE
+Parish Council: ORG
+June 2012: DATE
+2nd: CARDINAL
+Knights of
+Columbus *Board: ORG
+St. Ann's: GPE
+CYO: ORG
+Affiliations: ORG
+Society for Lab Automation and Screening: ORG
+Laboratory Robotics Interest Group: ORG
+Additional Information
+
+Community Service: ORG
+Washington Metropolitan Area: ORG
+17 years: DATE
+K-2 league: ORG
+K- 8) Basketball, Baseball: ORG
+Tee-Ball: FAC
+Mother Seton Parish Council: ORG
+June 2003: DATE
+2nd: CARDINAL
+Knights of Columbus Board: ORG
+St. Ann's: GPE
+Skills
+Virology: ORG
+Real Time PCR: ORG
+RT-PCR: ORG

@@ -1,0 +1,97 @@
+nearly five years: DATE
+every few months: DATE
+Skills
+
+Excel: ORG
+Google Sheets
+Familiarity: ORG
+CRM: PRODUCT
+CRM: PRODUCT
+Excel: PRODUCT
+Project Management: ORG
+Spanish: NORP
+Spanish Language
+Strategy: LANGUAGE
+09/2020: GPE
+12/2020: CARDINAL
+2.25MM: MONEY
+two months: DATE
+14: CARDINAL
+4.25MM: MONEY
+43%: PERCENT
+Campaign and Fundraising Special Projects Advisor: ORG
+08/2020: CARDINAL
+8: CARDINAL
+Midwest: LOC
+at least 100%: PERCENT
+Collaborated: ORG
+100: CARDINAL
+12/2019: CARDINAL
+4MM: MONEY
+11/2018: DATE
+02/2019: CARDINAL
+1.4MM: MONEY
+NYC: LOC
+11/2018: CARDINAL
+State: ORG
+12/2017: CARDINAL
+State 
+Office of House: ORG
+Steny Hoyer: PERSON
+12/2017: CARDINAL
+Litigation Legal: ORG
+Legislative Intern City: LOC
+Bachelor of Arts: ORG
+US: GPE
+State: ORG
+Gender and Sexuality
+
+Diversity and Inclusion: ORG
+Workplace: ORG
+Four-week: DATE
+University of Pittsburgh 
+Certificate: ORG
+Spanish: LANGUAGE
+Universidad De Salamanca - City: PERSON
+09/2020: GPE
+12/2020: CARDINAL
+2.25MM: MONEY
+two months: DATE
+14: CARDINAL
+4.25MM: MONEY
+43%: PERCENT
+Campaign and Fundraising Special Projects Advisor: ORG
+08/2020: CARDINAL
+8: CARDINAL
+Midwest: LOC
+at least 100%: PERCENT
+Collaborated: ORG
+100: CARDINAL
+12/2019: CARDINAL
+4MM: MONEY
+11/2018: DATE
+02/2019: CARDINAL
+1.4MM: MONEY
+NYC: LOC
+11/2018: CARDINAL
+State: ORG
+12/2017: CARDINAL
+Office of House: ORG
+Steny Hoyer: PERSON
+12/2017: CARDINAL
+Litigation Legal: ORG
+Languages
+
+Conversational: ORG
+Spanish: NORP
+Excel: PRODUCT
+Google Sheets
+FFamiliarity: ORG
+CRM: PRODUCT
+Business Development: ORG
+CRM: PRODUCT
+Excel: PRODUCT
+Organizational, Problem Solver: ORG
+Project Management: ORG
+Spanish: LANGUAGE
+Spanish Language: NORP

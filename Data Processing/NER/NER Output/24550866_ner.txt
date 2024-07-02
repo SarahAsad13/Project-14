@@ -1,0 +1,63 @@
+Training: PERSON
+2016: DATE
+University of Saint Francis: ORG
+Health Administration: ORG
+2010: DATE
+Pfeiffer University 
+City: ORG
+State Business Administration and Management Information Systems: ORG
+2012: DATE
+Certified Health Information Technology -Implementation: ORG
+Skills: ORG
+Motivation: ORG
+American Health Information Management Association: ORG
+AHIMA: ORG
+2012: DATE
+January 2017: DATE
+Name City: GPE
+State Health Systems Analyst: ORG
+January 2017: DATE
+May 2017: DATE
+Name City: GPE
+State Health Systems Analyst: ORG
+January 2007 to January 2014: DATE
+Name City: GPE
+State Healthcare Claims: ORG
+Medicaid: ORG
+Medicare: ORG
+Commercial: ORG
+Generated Medical: ORG
+January 1996 to January 2007: DATE
+Name City: GPE
+State: ORG
+25: CARDINAL
+Gained: NORP
+25%: PERCENT
+daily: DATE
+Hospital: FAC
+Physician: PERSON
+Researched and Analyzed Insurance Data: ORG
+Maintained: GPE
+95%: PERCENT
+six consecutive years: DATE
+Current Procedural Terminology: ORG
+Healthcare: ORG
+International Classification of Diseases(ICD-9: ORG
+July 2011 to April 2016: DATE
+Name City: GPE
+State Academic Resource Specialist II: ORG
+75%: PERCENT
+Starfish
+Application: ORG
+Skills
+Accounting: ORG
+CMS: ORG
+CPT: ORG
+Critical: ORG
+Customer Support: PERSON
+Financial, Health Information Technology: ORG
+ICD-9, Insurance: ORG
+Microsoft Office: ORG
+Coding: ORG
+Project Management, Quality, Quality Assurance: ORG
+Vendor Management: ORG

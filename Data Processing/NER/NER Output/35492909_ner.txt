@@ -1,0 +1,84 @@
+QuickBooks: ORG
+CCH ATX: ORG
+Microsoft Office: ORG
+CA: ORG
+MA: GPE
+Mandarin: LANGUAGE
+Excel: PRODUCT
+Microsoft Office: ORG
+Suite: ORG
+QuickBooks: ORG
+Work History
+Tax Accountant: WORK_OF_ART
+01/2016: ORG
+hundreds: CARDINAL
+Partnerships: ORG
+1040/1040NR/1120/1120S/1065: CARDINAL
+MN / NY/ WI: ORG
+Form 1042S: DATE
+5471: DATE
+5472: DATE
+annual: DATE
+1099: DATE
+Prepared: PERSON
+monthly: DATE
+quarterly: DATE
+Intern: ORG
+07/2015: DATE
+Created Excel: ORG
+Assisted: ORG
+daily: DATE
+Conducted: ORG
+06/2016 
+University of California 
+Bachelor of Science : Accounting, Economics: ORG
+05/2015: PERSON
+The Pennsylvania State University: ORG
+University Park 
+Work History
+Tax Accountant: FAC
+01/2016: ORG
+hundreds: CARDINAL
+Partnerships: ORG
+1040/1040NR/1120/1120S/1065: CARDINAL
+MN / NY/ WI: ORG
+Form 1042S: DATE
+5471: DATE
+5472: DATE
+annual: DATE
+1099: DATE
+Prepared: PERSON
+monthly: DATE
+quarterly: DATE
+Intern: ORG
+07/2015: DATE
+Created Excel: ORG
+Assisted: ORG
+daily: DATE
+Conducted: ORG
+Affiliations: ORG
+more than 3 years: DATE
+hundreds: CARDINAL
+20: CARDINAL
+5: CARDINAL
+Interests
+
+LEADERSHIP & VOLUNTEER: ORG
+Pennsylvania State University Chinese Students: ORG
+April 2013 - April 2014: DATE
+Sports Department: ORG
+Coordinator Planned: PERSON
+Organized: ORG
+16: CARDINAL
+three: CARDINAL
+hundred: CARDINAL
+Mandarin: LANGUAGE
+QuickBooks: ORG
+CCH ATX: ORG
+Microsoft Office Suite: ORG
+CA: ORG
+MA: GPE
+Mandarin: LANGUAGE
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+QuickBooks: ORG

@@ -1,0 +1,36 @@
+daily: DATE
+IM: GPE
+Butterfly, Vaccutainer, Needle & Syringe: ORG
+Cardiopulmonary Resuscitation
+Certification: ORG
+Customer: PERSON
+Microsoft Office: ORG
+ICD-9: NORP
+CPT: ORG
+standard office equipment & procedures: ORG
+Numbers: ORG
+Arts: ORG
+Crfts: GPE
+3 and 4 year olds: DATE
+the end of the day: DATE
+Assisted: ORG
+Cleaned: ORG
+EMR: PERSON
+Provided: ORG
+01/2011: CARDINAL
+Measured & Recorded Vitals: ORG
+Training: PERSON
+2012: DATE
+Clinical Medical: ORG
+South West Schools: NORP
+State Program: ORG
+approximately 800 hours: TIME
+nine-month: DATE
+Medical Terminology and Anatomy &
+Physiology: ORG
+2010: DATE
+High School Diploma Holy Cross High School ï¼​ City: ORG
+Skills
+Anatomy, Arts: ORG
+EMR: PERSON
+Letters, Medical Terminology: ORG

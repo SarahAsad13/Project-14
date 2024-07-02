@@ -1,0 +1,61 @@
+6+ years: DATE
+Capital IQ: ORG
+Thomson: ORG
+Bloomberg: ORG
+Microsoft Office: ORG
+Host Analytics
+Accomplishments
+: PERSON
+Integrated Planning: ORG
+planningÂ: GPE
+Americas DTC: ORG
+one: CARDINAL
+GM: ORG
+Americas: LOC
+VP of Retail: ORG
+5-year: DATE
+four: CARDINAL
+SAP Business Intelligence: ORG
+Emphasized: PERSON
+first: ORDINAL
+monthly: DATE
+Board of
+Directors: ORG
+Leadership: NORP
+SG&A: ORG
+three: CARDINAL
+P/L: ORG
+monthly: DATE
+10 to 5 days: DATE
+AP: ORG
+Integrated: NORP
+06/2012: PRODUCT
+annual: DATE
+quarterly: DATE
+Americas DTC: ORG
+monthly: DATE
+TOMS: ORG
+Bain Capital: ORG
+06/2012: CARDINAL
+55: CARDINAL
+U.S.: GPE
+Westfield: GPE
+10/2011: CARDINAL
+over 40,000: CARDINAL
+University of Southern California ï¼​ City: ORG
+State: ORG
+May 2010: DATE
+Bachelor of Science : Business Administration Finance: ORG
+Interests: NORP
+Nutrition/Health, Sports, Traveling, Reading
+Skills: ORG
+AP: ORG
+Bloomberg: PERSON
+Business Intelligence, Business Planning: ORG
+Microsoft Office: ORG
+Retail: PERSON
+SAP: ORG
+Interests: NORP
+Nutrition/Health, Sports, Traveling, Reading
+
+: ORG

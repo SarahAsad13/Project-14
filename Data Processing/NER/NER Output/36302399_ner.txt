@@ -1,0 +1,84 @@
+Advocate: ORG
+Resolution: ORG
+2014: DATE
+10%: PERCENT
+2013: DATE
+Comerica Bank: ORG
+Michigan Market: ORG
+two: CARDINAL
+Banking Centers: ORG
+2011-2012: DATE
+2012-Present Day: DATE
+Statewide for Comerica Bank: ORG
+2010: DATE
+Current
+Banking Center: ORG
+Comerica Bank (Brooklyn Office: ORG
+first: ORDINAL
+Created: ORG
+Develop: ORG
+weekly: DATE
+daily: DATE
+Exceed Corporates: PERSON
+01/2011 to 01/2012: CARDINAL
+Banking Center: ORG
+First Level Officer
+
+Comerica Bank: ORG
+Educate: ORG
+Banking Center: ORG
+01/2011: CARDINAL
+Coach: ORG
+annually: DATE
+annual: DATE
+Michigan Regional: ORG
+Home Security of America: ORG
+Present Home Security of America's: ORG
+Expand: ORG
+Michigan Board of Realtors: ORG
+Western Wayne Board of Realtors: ORG
+Lansing Board: ORG
+Oakland Board of Realtors: ORG
+1 2012: DATE
+Principles of Accounting-Jackson College: ORG
+2013: DATE
+2012: DATE
+Human Resource Management-Central Michigan University: ORG
+Graduate Program: ORG
+2012: DATE
+Organizational Dynamics and Human Behavior-Central Michigan University Graduate Program: ORG
+1 2002: DATE
+Bachelor of Science Michigan State University: ORG
+Skills
+Accounting: ORG
+Coach: ORG
+Financial, Human Resource: ORG
+Mentor, Office: ORG
+Organizational: ORG
+Statistics: ORG
+2012-Present: DATE
+2009: DATE
+Life Insurance: ORG
+2008: DATE
+Michigan Real Estate: ORG
+2003: DATE
+Professional Affiliations: ORG
+2012-Present: DATE
+2011: DATE
+2012: DATE
+Lake Regional-Board: ORG
+2011, 2012: DATE
+Manchester Area Chamber of Commerce
+Activity Committee: ORG
+2007-2010: DATE
+Manchester Chicken Broil Event Volunteer: ORG
+2007-2010: DATE
+2014: DATE
+Manchester Area: ORG
+2007-2010: DATE
+2010: DATE
+Co-Chair: ORG
+March: DATE
+Dimes-
+Comerica Bank Team: ORG
+2007-2008: DATE

@@ -1,0 +1,22 @@
+Skills
+Outlook, Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+QuickBooks: ORG
+OneNote: ORG
+09/2016: PRODUCT
+Current
+Substitute Teacher Company Name: PERSON
+Maintenance Technician Company Name: ORG
+100: CARDINAL
+Maintained: GPE
+04/2012: CARDINAL
+Training
+Bachelor of Arts :: PERSON
+ï¼​ City: GPE
+State Business Administration Management: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG

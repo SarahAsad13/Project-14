@@ -1,0 +1,81 @@
+Highlights: GPE
+Talent Management: ORG
+Strategic Recruitment Planning
+: ORG
+Human Resources Professional: ORG
+10+ years: DATE
+Value Offered
+Workforce Planning
+Team Building & Facilitation: ORG
+Project Management
+Vendor Relations: ORG
+Employee Retention
+Performance Appraisal
+Behavioral Interviewing
+Performance Improvement
+Employment Branding
+Recruitment
+Training & Development
+
+: PRODUCT
+AT&T: ORG
+TempHelp
+Build: PRODUCT
+Success - AT&T's: ORG
+Wisconsin Manual for Sales: ORG
+Hiring Protocols: PERSON
+AT&T: ORG
+Selection: NORP
+March 2013: DATE
+our Leadership Team: ORG
+Director - Talent Assimilation: ORG
+capital & organization change
+management strategies: ORG
+Recruiter: PERSON
+January 2006 to March 2013 Company Name: DATE
+Coordinated: ORG
+Corporate HR Team: ORG
+weekly: DATE
+first: ORDINAL
+20%: PERCENT
+35%: PERCENT
+Chicago: GPE
+Created: ORG
+E-Fax System: ORG
+Design Recruitment: ORG
+Generalist: PERSON
+January 1998 to January 2006 Company Name ï¼​ City: DATE
+State: ORG
+Generalist: PERSON
+approximately 38: DATE
+514: CARDINAL
+PT/Temporary: ORG
+Oversaw: GPE
+Generalist: PERSON
+1,500: CARDINAL
+Managed EEOC: ORG
+ADA: ORG
+Coordinated: ORG
+January 1992 to January 1998: DATE
+1,700: CARDINAL
+30: CARDINAL
+Oversaw: ORG
+EEOC: ORG
+ADA: ORG
+Illinois Reduced: ORG
+Applicant Tracking System: ORG
+annual: DATE
+Human Resources Marquette University: ORG
+Cum Laude Cum Laude Human Resources: PERSON
+JD: PERSON
+State: ORG
+Skills: ORG
+ADA: ORG
+Branding: ORG
+Human Resources: ORG
+Team Building: ORG
+Organizational Development: ORG
+Performance Appraisal: PERSON
+Project Management: ORG
+Strategic: ORG
+Vendor Relations: ORG

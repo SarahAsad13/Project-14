@@ -1,0 +1,55 @@
+Highly: PERSON
+Bilingual: GPE
+Spanish: LANGUAGE
+English: LANGUAGE
+Substitute Teacher: PERSON
+December 2014 to: DATE
+May 2015: DATE
+State
+
+Prepare: ORG
+Demonstrate: ORG
+ESL/ESOL: ORG
+Spanish: NORP
+Genesis: ORG
+orlando: GPE
+January 2014 to July 2014: DATE
+Maintained: GPE
+Created: ORG
+HRMS: ORG
+December 2010 to July 2014: DATE
+Human Resources: ORG
+FSA: ORG
+PTO: ORG
+HIPAA: ORG
+Work Compensation: ORG
+Human Resources: ORG
+Loss Prevention: ORG
+Xthepanie: ORG
+club & restaurant: ORG
+san juan: GPE
+May 2002 to January 2004: DATE
+the day: DATE
+Recruited: PRODUCT
+Coordinated: PRODUCT
+daily: DATE
+daily: DATE
+The Real Estate Institute: ORG
+City: GPE
+2015: DATE
+B.B.A : Management: ORG
+May 2014: DATE
+University of Turabo: ORG
+State Management
+B.A: ORG
+May 2003: DATE
+Del Sagrado: ORG
+USC: ORG
+State Journalism Type Personal Name Type Personal Name
+: ORG
+Skills: ORG
+FSA: ORG
+Human Resources: ORG
+Loss Prevention: ORG
+san: GPE
+Spanish: LANGUAGE

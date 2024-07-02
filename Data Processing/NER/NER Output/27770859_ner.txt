@@ -1,0 +1,154 @@
+one: CARDINAL
+Qualifications
+
+Systems: ORG
+Strong: PERSON
+Team: ORG
+Apple: ORG
+Name City: GPE
+State Information Technology Administrator 09/2014: ORG
+85: DATE
+FTE: ORG
+275: CARDINAL
+Durham: PERSON
+BSC: ORG
+5: CARDINAL
+40: CARDINAL
+VMWare: ORG
+Durham: GPE
+Concord: ORG
+Windows: ORG
+Mac: PERSON
+Name City: GPE
+State: ORG
+09/2014
+
+Primary: ORG
+Microsoft Windows: ORG
+Mac: PERSON
+Novell: ORG
+Cisco: GPE
+Computer Services: ORG
+first: ORDINAL
+three: CARDINAL
+thirteen years: DATE
+Windows 98: ORG
+Windows XP: ORG
+Windows XP: ORG
+Franklin Pierce Law Center: PERSON
+UNH: ORG
+Novell: ORG
+Microsoft: ORG
+Novell: ORG
+GroupWise: PRODUCT
+Microsoft Exchange: ORG
+Name City: GPE
+State District Computer: ORG
+first: ORDINAL
+Apple Airport: ORG
+iBook: ORG
+Name City: GPE
+State Electrician's: ORG
+Apprentice 06/1990: PRODUCT
+07/1999: CARDINAL
+Bachelor of Science : Exercise and Sports Sciences: ORG
+1999: DATE
+Colby-Sawyer College: ORG
+City: GPE
+State: GPE
+USA: GPE
+Skills
+Platforms: ORG
+Microsoft Windows: ORG
+Microsoft: ORG
+Windows Server: PERSON
+Microsoft Active Directory: ORG
+Microsoft Group Policy: ORG
+Microsoft Office: ORG
+Windows and Mac: ORG
+Microsoft Exchange: ORG
+Mac OS X: ORG
+Mac: PERSON
+Apple: ORG
+Android: ORG
+SUSE Enterprise Server: ORG
+Novell: ORG
+Netware: GPE
+Novell eDirectory: ORG
+Novell GroupWise: FAC
+Novell Open Enterprise Server: ORG
+Novell Datasync/Mobility Server: ORG
+Novell Teaming: ORG
+Novell: ORG
+Novell Zenworks Configuration Management: ORG
+Adobe Acrobat: PERSON
+Adobe Connect Pro: PERSON
+Apache: PRODUCT
+PHP: ORG
+SSL: ORG
+LDAP: ORG
+DHCP: ORG
+BIND: ORG
+DNS: ORG
+TCP/IP
+Appliances: ORG
+Expression Engine: PERSON
+Aerohive: PERSON
+Barracuda Anti-Spam Appliance: ORG
+Barracuda: PERSON
+Web Filter: PERSON
+BarracudaWare: ORG
+3Com: CARDINAL
+NBX: ORG
+Avaya: GPE
+Cisco: GPE
+Cisco Network: ORG
+Blackberry Enterprise: ORG
+Server: ORG
+VMWare ESX: ORG
+VMWare Fusion: ORG
+NTop: ORG
+Nagios: ORG
+Icinga: GPE
+Cacti: PERSON
+RealChat, MRBS: ORG
+WebCalendar: ORG
+vBulletin: ORG
+Movable Type: WORK_OF_ART
+WordPress: ORG
+MediaWiki: ORG
+Gallery2: GPE
+Gallery3: GPE
+Joomla: PERSON
+Moodle, Mailman: ORG
+EMS Campus: ORG
+EMS: ORG
+Calendar: PERSON
+Virtual
+EMS: ORG
+C-Cure: ORG
+Remedy: PERSON
+TeamDynamix: ORG
+Apple: ORG
+Micron: ORG
+Lenovo: ORG
+Dell: ORG
+HP Laserjets: ORG
+Xerox: ORG
+University of New Hampshire School of Law: ORG
+Franklin Pierce Law Center: PERSON
+2: CARDINAL
+Concord: GPE
+Computer Services: ORG
+07/2000: CARDINAL
+31,500: MONEY
+54,000: MONEY
+University of New Hampshire School of Law: ORG
+Franklin Pierce Law Center: PERSON
+2: CARDINAL
+White Street: FAC
+Concord: GPE
+Information Technology Administrator: ORG
+09/2000: CARDINAL
+62,300: MONEY
+62,300: MONEY

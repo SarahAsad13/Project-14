@@ -1,0 +1,226 @@
+Skills: ORG
+MATLAB: ORG
+Git: GPE
+Bash: GPE
+SQL: PERSON
+Linux: GPE
+Machine Learning Tools: PERSON
+Pandas: ORG
+Seaborn: ORG
+TensorFlow: ORG
+XGBoost: ORG
+77.5%: PERCENT
+Kaggle Titanic: ORG
+CFD: ORG
+CFD-ACE+Â®: ORG
+LAMMPS: ORG
+Reservoir: ORG
+FracProÂ: NORP
+Saphir: PERSON
+Statistical Methods: WORK_OF_ART
+AFM: ORG
+Confocal Microscopy: ORG
+08/2016: PRODUCT
+CFD: ORG
+several hours: TIME
+a few
+minutes: TIME
+05/2016: NORP
+CFD: ORG
+48+ hours: TIME
+less than 1: CARDINAL
+sec: ORG
+Improve: ORG
+Won Qualstar: PERSON
+Nov.
+2012: DATE
+two: CARDINAL
+two months: DATE
+first: ORDINAL
+52%: PERCENT
+73% to 92%: PERCENT
+two: CARDINAL
+5: CARDINAL
+2: CARDINAL
+Japan: GPE
+HORIZONTAL WELLS: PERSON
+Austin Aug.
+: DATE
+2014: DATE
+Evaluate: ORG
+CFD: ORG
+CFD: ORG
+5: CARDINAL
+less than: PERCENT
+Chu-Hsiang: PERSON
+2: CARDINAL
+SELECTION: GPE
+SAND CONTROL SCREENS: ORG
+Austin Jun.: PERSON
+2013: DATE
+DEM: ORG
+Monte Carlo: PERSON
+6: CARDINAL
+less than: PERCENT
+between 1/5 to 1/9: CARDINAL
+two: CARDINAL
+Nepal: NORP
+Taiwan Bio-Nano: ORG
+Wu: PERSON
+Sharma: NORP
+Powder Technology: ORG
+ISSN: ORG
+0032-5910: DATE
+Wu: PERSON
+Sharma: NORP
+M. M.: PERSON
+Chanpura: GPE
+R.: NORP
+2017: DATE
+Predicted Performance of Multilayered Metal-Mesh Screens: WORK_OF_ART
+SPE Drilling & Completion: ORG
+Wu: PERSON
+Sharma: NORP
+Perforation Geometry and Orientation on Proppant Placement: ORG
+Perforation Clusters: ORG
+Horizontal Well: WORK_OF_ART
+SPE-179117-MS: ORG
+the SPE Hydraulic Fracturing Technology Conference: ORG
+TX: ORG
+USA: GPE
+11 February 2016: DATE
+Wu: PERSON
+Sharma: NORP
+SPE-184861-MS: PERSON
+the SPE Hydraulic Fracturing Technology Conference: ORG
+TX: ORG
+USA: GPE
+24: CARDINAL
+January 2017: DATE
+Wu: PERSON
+Sharma: NORP
+M. M. et al: PERSON
+Selecting Metal: ORG
+Standalone-Screen Applications: ORG
+SPE Drill & Compl: ORG
+2: DATE
+85-94: DATE
+Wu: PERSON
+Sharma: NORP
+CFD-DEM Simulation of Hydrodynamic Bridging: ORG
+J. Multiph: PERSON
+pp.: GPE
+245: CARDINAL
+ISSN: ORG
+Zhang, K.: PERSON
+Chanpura: GPE
+Mondal: ORG
+Wu: PERSON
+Sharma: NORP
+J. A.: PERSON
+Particle Size
+Education: PERSON
+Training: PERSON
+May 2018: DATE
+Modeling Particulate Flows: ORG
+Supervisor: PERSON
+Mukul M. Sharma: PERSON
+2013: DATE
+Jack L. Thurber Memorial Endowed Presidential Scholarship: PERSON
+National Taiwan University - MECHANICAL ENGINEERING City: ORG
+Taiwan MECHANICAL ENGINEERING Design: ORG
+3.9/4.0: CARDINAL
+2008: DATE
+National Tsing Hua University - POWER MECHANICAL ENGINEERING City: ORG
+Taiwan POWER MECHANICAL
+ENGINEERING Presidential Award and Scholarship: ORG
+2007: DATE
+Skills: ORG
+Bash: PERSON
+C++: PERSON
+DAS: ORG
+Linux, Machine Learning: ORG
+MATLAB: ORG
+Modeling: GPE
+Python, Simulation: ORG
+SQL: ORG
+Supervisor: PERSON
+VOLUNTEER Â·: PRODUCT
+the Taiwan Army: ORG
+2010-2011: DATE
+Qualstar Award: PERSON
+Qualcomm: GPE
+2012: DATE
+2013: DATE
+Incentive Award: LOC
+Qualcomm: GPE
+2013: DATE
+SPE
+Journal: ORG
+SPE Drilling and Completion: ORG
+Operations: ORG
+2017: DATE
+Volunteer: PERSON
+Nepal: PERSON
+Taiwan Bio-Nano: ORG
+Wu: PERSON
+Sharma: NORP
+M. M.
+: PERSON
+2017: DATE
+Powder Technology: ORG
+ISSN: ORG
+0032-5910: DATE
+Wu: PERSON
+Sharma: NORP
+M. M.: PERSON
+Chanpura: GPE
+R.: NORP
+2017: DATE
+SPE Drilling & Completion: ORG
+Wu: PERSON
+Sharma: NORP
+Perforation Geometry and Orientation on Proppant Placement: ORG
+Perforation Clusters: ORG
+Horizontal Well: WORK_OF_ART
+SPE-179117-MS: ORG
+the SPE Hydraulic Fracturing Technology Conference: ORG
+TX: ORG
+USA: GPE
+9-11: DATE
+February 2016: DATE
+Wu: PERSON
+Sharma: NORP
+Horizontal Wellbore: PERSON
+SPE-184861-MS: PERSON
+the SPE Hydraulic Fracturing Technology Conference: ORG
+TX: ORG
+USA: GPE
+24-26 January 2017: DATE
+Wu: PERSON
+Sharma: NORP
+M. M. et al: PERSON
+Selecting Metal: ORG
+Standalone-Screen Applications: ORG
+SPE Drill & Compl: ORG
+2: DATE
+85-94: DATE
+Wu: PERSON
+Sharma: NORP
+CFD-DEM Simulation: ORG
+J. Multiph: PERSON
+pp.: GPE
+245-263: CARDINAL
+ISSN: ORG
+Zhang, K.: PERSON
+Chanpura: GPE
+Mondal: ORG
+Wu: PERSON
+Sharma: NORP
+M. M.: PERSON
+Ayoub: ORG
+J. A.: PERSON
+SPE Drill & Compl: ORG
+30: CARDINAL
+2: DATE
+164: CARDINAL

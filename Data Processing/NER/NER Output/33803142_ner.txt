@@ -1,0 +1,90 @@
+ADMINISTRATOR: ORG
+Accomplished Executive: ORG
+Skill Highlights: PERSON
+Healthcare: ORG
+20 years': DATE
+16 years: DATE
+Contract Negotiations
+Human Resources
+Performance and Productivity Improvements
+Finance & Accounting/Profit: WORK_OF_ART
+Loss Accountability: PERSON
+Organizational Management
+Collaborative Problem-Solving: ORG
+Name City: GPE
+Patient Care Delivery; Client Services: ORG
+9 years: DATE
+31: CARDINAL
+240: CARDINAL
+9 years: DATE
+Prepared: PERSON
+weekly: DATE
+monthly: DATE
+Maintained: GPE
+Integrity: ORG
+Led State: GPE
+Federal Regulatory: ORG
+Name City: GPE
+State: ORG
+Healthcare Services: ORG
+01/2004: CARDINAL
+daily: DATE
+Quality Assurance: ORG
+Maintained: GPE
+Maintained State: ORG
+Name City: GPE
+State Clinical Director/Branch: ORG
+01/2004: CARDINAL
+Medicare Conditions of Participation: ORG
+Maintained State: ORG
+Best Practices: ORG
+Name City: GPE
+State Authorization Specialist: ORG
+140: CARDINAL
+Name City: GPE
+01/2000: CARDINAL
+clinicians: NORP
+monthly: DATE
+45-50: CARDINAL
+Implementation of Medicare PPS: ORG
+Name City: GPE
+State: ORG
+RN: ORG
+7-10/day: DATE
+weekly: DATE
+Name City: GPE
+State: ORG
+Bachelor of Science : Healthcare Administration: ORG
+2005: DATE
+University of Phoenix: ORG
+City: GPE
+State Healthcare Administration: ORG
+BS : Healthcare Administration: ORG
+Nurse 1996: DATE
+Northwest Mississippi Community College: ORG
+City: GPE
+State Healthcare Administration: ORG
+Registered Nurse: ORG
+Nurse Methodist Hospital School of Nursing: ORG
+State Nursing - Registered Nurse: ORG
+Southwest Tennessee Community College: ORG
+City: GPE
+Skills
+Accounting: ORG
+Negotiations: GPE
+Client: GPE
+Finance: ORG
+Financial: ORG
+Human Resources: ORG
+Team Building: ORG
+Organizational: ORG
+Patient Care, Direct: ORG
+Pricing, Problem-Solving: ORG
+Quality
+Assurance: ORG
+Strategic Planning: ORG
+Mississippi: GPE
+1998: DATE
+University of Phoenix: ORG
+Healthcare
+Administration: ORG

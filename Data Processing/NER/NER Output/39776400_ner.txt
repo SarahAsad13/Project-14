@@ -1,0 +1,76 @@
+CAD: ORG
+Red Line: ORG
+Autodesk
+Inventor: PERSON
+10 through 2015: DATE
+SolidWorks: ORG
+97 Plus Certified, Trained: PERCENT
+2008-2009 & Current: DATE
+2010: DATE
+English & Metric Geometric Dimensioning and Tolerancing Techniques
+Qualifications: LAW
+Creating: ORG
+Detail: PERSON
+2015: DATE
+Processed Engineering: ORG
+GD&T: ORG
+the Metal Packaging Division: ORG
+Name City: GPE
+Ion Beam: ORG
+Original: ORG
+SolidWorks: ORG
+Name City: GPE
+LeyBold: PERSON
+Created: ORG
+PDF: ORG
+Revised: PERSON
+SolidWorks: ORG
+Name City: GPE
+Processed: GPE
+CAD: ORG
+Autodesk Inventor: PERSON
+Name City: GPE
+Original: ORG
+two: CARDINAL
+one: CARDINAL
+Fabricated: ORG
+SolidWorks: ORG
+Name City: GPE
+Diode Array: PERSON
+BAK: ORG
+MSP: ORG
+Processed: GPE
+PDF: ORG
+Design: PRODUCT
+SolidWorks: ORG
+2009: DATE
+Name City: GPE
+Solar: PRODUCT
+Working: ORG
+Solar Panel: ORG
+Design: PRODUCT
+Autodesk Inventor 2008: PERSON
+Vault: ORG
+Name City: GPE
+LeyBold: PERSON
+MSP: ORG
+CAD: ORG
+PDF: ORG
+SAP: GPE
+Invision S2 Created: ORG
+CAD: ORG
+Aided: ORG
+BAK & LeyBold: ORG
+two and half years: DATE
+Autodesk Inventor 10: PRODUCT
+Associate of Applied Science : Machine Drafting Technology: WORK_OF_ART
+May 1992: DATE
+Front Range Community College City: ORG
+State: GPE
+United States: GPE
+Backup: PERSON
+CAD: ORG
+Packaging: PERSON
+PDF: ORG
+SAP: ORG
+SolidWorks: ORG

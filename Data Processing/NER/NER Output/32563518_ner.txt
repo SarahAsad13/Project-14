@@ -1,0 +1,148 @@
+SR: ORG
+Profile
+
+Information Technology Professional: ORG
+10+ years: DATE
+third: ORDINAL
+Vendor: ORG
+Product Roadmaps
+Financial management
+Sustainable: WORK_OF_ART
+Internal and External Communication: ORG
+Document: PRODUCT
+Content: ORG
+Technical Skills
+
+Skills
+Windows: WORK_OF_ART
+VMWare: ORG
+SQL: ORG
+Mobile Development
+Professional Experience
+Sr: ORG
+Total Years: EVENT
+Cloud Realization: ORG
+AT&T: ORG
+Consults: GPE
+AT&T: ORG
+AT&T Cloud Services: ORG
+Create: ORG
+Provide: NORP
+Maintain SharePoint: PERSON
+Wiki: ORG
+State: ORG
+Georgia: GPE
+Healthcare Training Non-Commissioned Officer: ORG
+NCO)/68W: ORG
+IV: GPE
+Train: GPE
+first: ORDINAL
+78 Troop Command: ORG
+HIPPA: ORG
+NREMT: ORG
+# E2043432 BLS Instructor: MONEY
+#08130190094: DATE
+Implementation Engineering: ORG
+Name City: GPE
+3: CARDINAL
+G Engineering: ORG
+LTE: ORG
+Atlanta: GPE
+metro: FAC
+Formulated: ORG
+minutes: TIME
+Name City: GPE
+Network Infrastructure: ORG
+GE Technical Services Group: ORG
+TSG Group: ORG
+Network Infrastructure: ORG
+GE Technical Services Group: ORG
+TSG Group: ORG
+GE: ORG
+GE: ORG
+14: CARDINAL
+PMO: ORG
+Americas: LOC
+UK: GPE
+Algeria: GPE
+Procurement/Sourcing: ORG
+1mil+: MONEY
+Nuclear: ORG
+LAN: ORG
+WAN: ORG
+VLAN: ORG
+WLAN: ORG
+Juniper Firewalls: PERSON
+Cisco: GPE
+Cisco Tandberg TelePresence: PERSON
+VoIP: LOC
+LEC: ORG
+IP: ORG
+TSG: ORG
+GE: ORG
+U.S.: GPE
+Asia/Pacific: ORG
+Europe: LOC
+Collaborated: ORG
+3rd: ORDINAL
+Performed: ORG
+Network & RCDD Engineers: ORG
+Project Team: ORG
+12/2009: CARDINAL
+Name City: GPE
+Oversaw: GPE
+15: CARDINAL
+first: ORDINAL
+VoIP: LOC
+Dedicated IP: ORG
+DSL: ORG
+3: CARDINAL
+4: CARDINAL
+T1: NORP
+T3: GPE
+DSL: GPE
+X.25: GPE
+Frame Relay: ORG
+Master of Business Administration: ORG
+2017: DATE
+WALDEN UNIVERSITY City: ORG
+State: ORG
+Project Management Certificate Course 2011 Clayton State University City: ORG
+State: ORG
+Bachelor of Business Administration: ORG
+2004: DATE
+American Intercontinental University City: ORG
+State
+
+International Business Marketing
+
+Skills: ORG
+Cell Tower: PERSON
+LAN/WAN: ORG
+Ethernet: PERSON
+4: CARDINAL
+VMware: ORG
+NetApp: ORG
+F5: CARDINAL
+3: CARDINAL
+Cisco: GPE
+Compliance, Financial: ORG
+Firewalls: ORG
+first: ORDINAL
+Frame Relay: PRODUCT
+HIPPA: ORG
+Information Technology: ORG
+Instructor: ORG
+IP: ORG
+LAN: ORG
+MS Project: ORG
+SharePoint: ORG
+Network: ORG
+Project Management: ORG
+RFP: ORG
+T1: NORP
+Vendor: ORG
+Visio: PERSON
+VoIP: LOC
+WAN: ORG
+X.25: GPE

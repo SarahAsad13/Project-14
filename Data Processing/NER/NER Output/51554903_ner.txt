@@ -1,0 +1,139 @@
+EXECUTIVE CHEF
+Executive Profile: ORG
+Skill Highlights
+
+Brand Development
+Butchery: ORG
+2015: DATE
+Bobby Flayâ€​: PERSON
+Winner: PERSON
+2013-: CARDINAL
+Developed Hotels first Vegetable Urban Garden System: ORG
+2013-: CARDINAL
+Developed Hotels first Apiary: ORG
+2013: CARDINAL
+Marriott Food & Beverage Council: ORG
+Southwest: LOC
+2012: DATE
+the Year: DATE
+Renaissance: ORG
+the Marriott International â€œRising Star: ORG
+Winner: PERSON
+2006 2nd: DATE
+the West Coast â€œYoung Chef de Rottisuerâ€​: LOC
+2005: DATE
+2006: DATE
+Marriott Stock: ORG
+2005: DATE
+Marriott International
+Guest Chef Of Holland America: ORG
+2004-2015: DATE
+2014: DATE
+2015: DATE
+F&B: ORG
+this Boutique Hotel: ORG
+Build Culinary: LOC
+Operate PnL: ORG
+2014: DATE
+F&B Concepts: ORG
+Boutique Hotel Hottest Hotel: ORG
+KC: GPE
+F&B: ORG
+Luxury: PERSON
+Build Culinary: LOC
+Modern Mediterranean Cuisine: PRODUCT
+Midwest: LOC
+8 million: CARDINAL
+F&B: ORG
+the first year: DATE
+Jan 2012: DATE
+Marriott Intl: ORG
+Brand: ORG
+527: CARDINAL
+B&F: ORG
+Strategy, Breakfast Program: ORG
+R Life Events Conversion Union: ORG
+Renaissance Brand Green: ORG
+Converted Property: ORG
+Renaissance Brand Event Service Developed and Opened Renaissance's: ORG
+Elite Lounge: ORG
+#1: CARDINAL
+Brand for: ORG
+1: CARDINAL
+Budget: ORG
+Southwest Food Beverage Council: ORG
+Americas: LOC
+Sous Chef: PERSON
+Jan 2010: DATE
+Jan 2012: DATE
+State: ORG
+AAA: ORG
+Resort: ORG
+BLT Steak: ORG
+Celebrity Chef Laurent Tourondel: ORG
+Rita: PERSON
+Sprouts, Hoppin
+Jacks: ORG
+Golf Grill: PERSON
+Banquet Kitchen Combined: PERSON
+F&B: ORG
+22: MONEY
+annual: DATE
+Manage: PRODUCT
+9 Managers/Supervisors: ORG
+100: CARDINAL
+61% to 83%: PERCENT
+Maintain Guest Satisfaction: PERSON
+Brand: GPE
+Brand: ORG
+2010: DATE
+Assigned: PRODUCT
+Coach: ORG
+Arizona: GPE
+Sous Chef Nov: PERSON
+Jan 2010: DATE
+F&B: ORG
+$58 million: MONEY
+annual: DATE
+Developed Chef Garden: ORG
+Developed Chefs: ORG
+Demo: PERSON
+Created and Executed Hands on Cooking Class: ORG
+Sous Chef Mar 2002: PERSON
+Contemporary American Cuisine Responsible: ORG
+daily: DATE
+Creating: PERSON
+25-100: CARDINAL
+Sous Chef Mar 2001: PERSON
+State: ORG
+AAA Mobile: ORG
+Five: CARDINAL
+the Green &: ORG
+Mary Elaine's: PERSON
+State: ORG
+Four: CARDINAL
+French: NORP
+Chef Daniel Boulud: ORG
+Chef Alex Lee: PERSON
+daily: DATE
+Nuevo French: PERSON
+1998 to Feb 1999: DATE
+daily: DATE
+Menu: PERSON
+Associate of Arts: ORG
+Culinary Arts Feb 2001: ORG
+California Culinary Academy - City: ORG
+1999: DATE
+Metro Tech - City: FAC
+State: GPE
+1999: DATE
+Phoenix Convention & Visitors: ORG
+- City: GPE
+State: ORG
+one year: DATE
+Costing, Inventory: ORG
+Associate Engagement: PERSON
+Networking, Purchasing, Quality
+Assurance, Scheduling,: ORG
+Excel: PRODUCT
+Word: PERSON

@@ -1,0 +1,184 @@
+Professional Profile: ORG
+20+ years: DATE
+10+ years: DATE
+20: CARDINAL
+10+: DATE
+40: CARDINAL
+Windows: ORG
+STL: ORG
+OOP: GPE
+MFC: ORG
+COM: PERSON
+ATL: ORG
+IPC: ORG
+FTP: ORG
+TCP: ORG
+HTTP: ORG
+XML: ORG
+JSON: PERSON
+REST API: ORG
+SOA: ORG
+SDK: ORG
+API: ORG
+Hercules: GPE
+Reuse Innovation: PERSON
+Harris Corporation: ORG
+IP: ORG
+NLE: ORG
+Nexio: ORG
+IP: ORG
+Server: ORG
+years: DATE
+ScrumMaster: PERSON
+Scrum Alliance: PERSON
+Dec 2014 - Dec 2016: DATE
+Software Engineering: ORG
+September 2009: DATE
+Current Company Name: ORG
+State
+
+Limited: ORG
+HTML5: ORG
+CSS: ORG
+JavaScript: PRODUCT
+BCD of: ORG
+Harris Corporation: ORG
+Imagine: GPE
+2013: DATE
+Nexio: ORG
+LAN: ORG
+SAN: ORG
+NAS: ORG
+Nexio: ORG
+IL: ORG
+CA: ORG
+6: CARDINAL
+Northridge: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+2014: DATE
+3 to 6: CARDINAL
+Burbank: ORG
+Naperville: GPE
+2013: DATE
+Team: ORG
+Mercurial / Jenkins: ORG
+2: CARDINAL
+10: CARDINAL
+UI: GPE
+Released: PERSON
+Nexio Software: ORG
+6.0: CARDINAL
+7.0: DATE
+8.0: DATE
+Global Proxy Suite: PERSON
+2.5: CARDINAL
+3.0: CARDINAL
+3.5: CARDINAL
+Hercules: GPE
+REST API: ORG
+H.264: PERSON
+AAC: ORG
+Provides HTML5: PERSON
+JavaScript: ORG
+#: CARDINAL
+API: ORG
+CLI: ORG
+Team: ORG
+CLI: ORG
+TCP: ORG
+C++ JSON: PERSON
+API: ORG
+Helper: GPE
+Picon: GPE
+GPRX: ORG
+Helios: ORG
+MB, Scavenger: ORG
+Transcoder: ORG
+GPRX: ORG
+Helper: ORG
+metadata: PERSON
+two: CARDINAL
+DLL: ORG
+SDK: ORG
+C++: GPE
+GUI: ORG
+SDK: ORG
+GUI: ORG
+Transcoder, Scavenger: ORG
+TCP: ORG
+two: CARDINAL
+MediaBase DLL: PRODUCT
+Nexio: ORG
+up to 200: CARDINAL
+Initiated: ORG
+Approach: PERSON
+one: CARDINAL
+Team: ORG
+one: CARDINAL
+DLL: ORG
+November 2005: DATE
+August 2009: DATE
+Nexio: ORG
+8: CARDINAL
+Naperville: GPE
+8: CARDINAL
+Beijing: GPE
+Released: PERSON
+2.5: CARDINAL
+Principal Software Engineer: ORG
+August 1994 to October 2005: DATE
+Harris Corporation: ORG
+Leitch: ORG
+Windows: GPE
+Media: NORP
+Audio: PERSON
+Hardware: ORG
+64: CARDINAL
+Unicode: GPE
+over 4 million: CARDINAL
+Software Engineer: PERSON
+August 1994 to July 1997: DATE
+Star Media: ORG
+Leitch: PERSON
+DPS: ORG
+2000: DATE
+Star Media: ORG
+Render Bank: ORG
+GPA: ORG
+3.9 / 4.0 Computer: MONEY
+3.9 / 4.0: CARDINAL
+B.E :: ORG
+Communication Engineering National Institute of Technology: ORG
+India: GPE
+First: ORDINAL
+Distinction Electronics: ORG
+API: ORG
+10: CARDINAL
+Skills
+API, Approach, ATL: ORG
+Audio: PERSON
+C++: PERSON
+CLI: ORG
+COM: ORG
+CA: ORG
+Hardware: ORG
+Content: ORG
+CSS: ORG
+XML: ORG
+FTP: ORG
+GUI: ORG
+HTML5: ORG
+HTTP: ORG
+JavaScript: PRODUCT
+LAN: ORG
+MB: ORG
+MFC: ORG
+Windows: NORP
+2000: DATE
+NAS: ORG
+OOP: GPE
+Proxy: PERSON
+SAN: ORG

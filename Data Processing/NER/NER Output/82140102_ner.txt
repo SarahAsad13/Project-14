@@ -1,0 +1,57 @@
+Adjuster: PERSON
+07/2018: PERSON
+Investigate: ORG
+Communicate: ORG
+Negotiate: ORG
+first: ORDINAL
+Evaluate: ORG
+Mitchell Decision Point: ORG
+Negotiate: ORG
+the first 60 days: DATE
+Identify: ORG
+Recognize: ORG
+Recognize: ORG
+Negotiate: ORG
+first: ORDINAL
+Negotiate: ORG
+Identify: ORG
+Special Investigation Unit: ORG
+Recognize: ORG
+07/2015: CARDINAL
+10/2016: CARDINAL
+1st: ORDINAL
+3rd: ORDINAL
+third: ORDINAL
+Facilitated: ORG
+Processed: GPE
+07/2018: PERSON
+Investigate: ORG
+Communicate: ORG
+Negotiate: ORG
+first: ORDINAL
+Evaluate: ORG
+Mitchell Decision Point: ORG
+Negotiate: ORG
+the first 60 days: DATE
+Identify: ORG
+Recognize: ORG
+Negotiate: ORG
+first: ORDINAL
+Negotiate: ORG
+Identify: ORG
+Special Investigation Unit: ORG
+Recognize: ORG
+07/2015: CARDINAL
+10/2016: CARDINAL
+1st: ORDINAL
+3rd: ORDINAL
+third: ORDINAL
+Facilitated: ORG
+Processed: GPE
+John F. Kennedy: PERSON
+12 year: DATE
+Designated Home State All-Lines Adjuster's License: ORG
+Communicate: ORG
+Licensed: PERSON
+Customer: ORG
+Time: ORG

@@ -1,0 +1,23 @@
+Bidwell
+Possess: ORG
+Gang Form: PERSON
+10/2015: CARDINAL
+hundredths: DATE
+10/2015: CARDINAL
+Foreman Company Name: ORG
+DRA: ORG
+JHA: ORG
+Weekly Job: ORG
+daily: DATE
+daily: DATE
+Perform: PERSON
+Request: PERSON
+Knowledge: PERSON
+Ensures: ORG
+Coordinate: WORK_OF_ART
+Carpenter Company Name: WORK_OF_ART
+hundredths: DATE
+Byron High School ï¼​ City: ORG
+Rock Valley College: ORG
+2: CARDINAL
+Forms, Inspection: ORG

@@ -1,0 +1,86 @@
+Apple: ORG
+Windows: NORP
+Microsoft Office: ORG
+Social Media: ORG
+Sigma Kappa: PERSON
+FOCUS: ORG
+Accomplishments
+Awarded two Navy: WORK_OF_ART
+Marine Corps Achievement Medal: ORG
+2014: DATE
+2017: DATE
+Awarded Letter Commendation: ORG
+2016: DATE
+the Defense Reduction Threat Agency: ORG
+Marine Corps Security Force Battalion: ORG
+WA: GPE
+12/2011: CARDINAL
+Name City: GPE
+Kindergarten: GPE
+6th Grade: ORG
+Math: PERSON
+State: ORG
+Functional Academics: ORG
+Created: ORG
+Elementary: PERSON
+Center: ORG
+Current Company Name City: ORG
+BALTIMORE: GPE
+MARYLAND: GPE
+Mentor: LOC
+Mentored Middle School Students: ORG
+the Central Baltimore County: GPE
+Name City: GPE
+PSA FINANCIAL CENTER*HUNT VALLEY: ORG
+April 2009 - December
+: DATE
+2010: DATE
+Business Center: ORG
+120: CARDINAL
+Microsoft Excel: ORG
+Business Center: ORG
+Education: ORG
+2017: DATE
+United States Department: ORG
+Navy: ORG
+2011: DATE
+MARYLAND City: GPE
+2007: DATE
+GARRISON FOREST SCHOOL City: ORG
+State: ORG
+May 2011 UNIVERSITY OF MARYLAND: DATE
+PARK Tutor and Mentor *: WORK_OF_ART
+Mentored University of Maryland Division: ORG
+English: LANGUAGE
+English: LANGUAGE
+May 2011: DATE
+MONTPELIER ELEMENTARY SCHOOL City: ORG
+State Supported: ORG
+fifth: ORDINAL
+Math: PERSON
+Reading, Social Studies: ORG
+the
+year: DATE
+the school year: DATE
+75 percent: PERCENT
+Professional Affiliations: ORG
+SORORITY: ORG
+MARYLAND: ORG
+Education Committee: ORG
+Interests: NORP
+SCHOOLS: ORG
+January 2009 - May 2011
+June 2007-Present: DATE
+more than: CARDINAL
+week long summer: DATE
+Martha: PERSON
+Massachusetts: GPE
+more than 50: CARDINAL
+a week long winter: DATE
+North
+Creek: GPE
+New York: GPE
+ten: CARDINAL
+weekly: DATE
+Baltimore: GPE
+Skills: ORG

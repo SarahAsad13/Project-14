@@ -1,0 +1,64 @@
+4+ years: DATE
+Spanish: NORP
+Detailed Oriented
+
+Strategic Sales
+Leadership
+Business Development
+Key Account: WORK_OF_ART
+Name City: GPE
+Asphaltite Â​ Chile Office: ORG
+2016: DATE
+Led Santiago: GPE
+USD3MM: ORG
+est.2016: ORG
+USA: GPE
+Latin
+America: LOC
+5: CARDINAL
+the first 18 months: DATE
+43%: PERCENT
+Name City: GPE
+State: ORG
+National Crane: ORG
+Altec: NORP
+Mongoose Jetters: PERSON
+Mercedes Benz: ORG
+VW: ORG
+Freightliners: ORG
+International: ORG
+75%: PERCENT
+USD700K: ORG
+40: CARDINAL
+5: CARDINAL
+35%: PERCENT
+15%: PERCENT
+Name City: GPE
+the Chilean Market: LOC
+5-year: DATE
+17%: PERCENT
+USD0.8M: FAC
+annual: DATE
+Master of Science : International Marketing 2016 Hult International Business School , City ,: WORK_OF_ART
+State: GPE
+United States of America: GPE
+one year: DATE
+Edmunds.com: ORG
+Created: ORG
+one year: DATE
+NBC TV: ORG
+State: ORG
+Chile: GPE
+Bello National University: ORG
+State: ORG
+Chile: GPE
+English: LANGUAGE
+Fluid: GPE
+Spanish: LANGUAGE
+Basic German: PERSON
+Interests: NORP
+15 years: DATE
+Skills
+Office Suite: ORG
+SQL: ORG
+Google Products: ORG

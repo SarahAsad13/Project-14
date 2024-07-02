@@ -1,0 +1,210 @@
+SPECIALIST: ORG
+02/2013 - 12/2014: CARDINAL
+State HR Specialist (Information Systems: ORG
+Iris Murray: PERSON
+910-432-2392: DATE
+Fort Bragg Installation Civilian Personnel Information Systems: FAC
+AutoNoa: ORG
+USA: GPE
+CPOL: ORG
+DCPDS: ORG
+CSU: ORG
+ASARS: GPE
+SharePoint: ORG
+the Fort Bragg Civilian Personnel Advisory Center: ORG
+Network Enterprise Center: ORG
+Performed: ORG
+Fort Bragg: GPE
+State: ORG
+Kimberly Malone: PERSON
+870-540-3077: CARDINAL
+Specialist: ORG
+four: CARDINAL
+Assigned: PERSON
+RPA: ORG
+all Pine Bluff Arsenal: ORG
+the HR Automation Program Administrator: ORG
+CPAC: ORG
+Information Management Officer: ORG
+over 1,200: CARDINAL
+Conducted: ORG
+Delegated Examining Unit: ORG
+Merit Promotion: ORG
+USA Staffing: ORG
+Coded: ORG
+Command: ORG
+Schedule: PERSON
+Wage Grade: PERSON
+WG: ORG
+Reemployment Priority List Program Administrator: ORG
+Conducted PPP: ORG
+08/2011: CARDINAL
+State: ORG
+Kimberly Malone: PERSON
+870-540-3077: CARDINAL
+the HR Automation Program Administrator: ORG
+CPAC: ORG
+Information Management Officer: ORG
+Business Objects Applications: ORG
+CPAC: ORG
+CAC: ORG
+USA Staffing: ORG
+the Pine Bluff Arsenal USA Staffing Super User: ORG
+weekly: DATE
+Created: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Access: ORG
+SOP: ORG
+FLSA: ORG
+Wage Schedule: PERSON
+Schedule: PERSON
+Researched: ORG
+monthly: DATE
+over 1,200: CARDINAL
+IAW: ORG
+RPA: ORG
+Open Goodness of Data: ORG
+DEU: ORG
+TSP: ORG
+Reemployment Priority List Program Administrator: ORG
+Miller-Motte College: ORG
+State: GPE
+US: GPE
+Miller-Motte College: ORG
+Wilmington: GPE
+NC: GPE
+United States: GPE
+GPA 3.61: ORG
+4.0: CARDINAL
+68 Credit Hours: TIME
+Project Management: ORG
+Desktop Publishing: ORG
+Presentation Graphics: ORG
+PC Hardware & Software: ORG
+A+: NORP
+Advanced Database Management: ORG
+Advanced Spreadsheets: ORG
+Advanced Word Processing: ORG
+Capella University: ORG
+Minneapolis: GPE
+City: GPE
+State: GPE
+US Master's: ORG
+Capella University: ORG
+Minneapolis: GPE
+MN
+United States: ORG
+GPA: ORG
+3.67: CARDINAL
+4.0: CARDINAL
+48 Semester hours: TIME
+Cum Laude: PERSON
+Cum Laude: PERSON
+Army: ORG
+Civilian HR Agency: ORG
+40: CARDINAL
+Fort Bragg: GPE
+NC: GPE
+Iris
+Murray: PERSON
+910-432-2392: DATE
+Fort Bragg Installation Civilian Personnel Information Systems: FAC
+AutoNoa: ORG
+USA: GPE
+CPOL: ORG
+DCPDS: ORG
+CSU: ORG
+ASARS: GPE
+SharePoint: ORG
+the Fort Bragg Civilian Personnel Advisory Center: ORG
+Network Enterprise Center: ORG
+Fort Bragg: GPE
+Specialist (Recruitment & Placement/Info Systems: ORG
+GS-0201-12: DATE
+08/2012 - 02/2013 Department: ORG
+Army: ORG
+Civilian HR Agency: ORG
+40: CARDINAL
+AR Permanent: ORG
+Kimberly Malone: PERSON
+870-540-3077: CARDINAL
+Specialist: ORG
+four: CARDINAL
+RPA: ORG
+all Pine Bluff Arsenal: ORG
+CPAC: ORG
+Information Management Officer: ORG
+Specialists: NORP
+over 1,200: CARDINAL
+Delegated Examining Unit: ORG
+Merit Promotion: ORG
+USA: GPE
+Command: ORG
+the General Schedule: ORG
+Wage Grade: PERSON
+WG: ORG
+Reemployment Priority List Program: ORG
+Classification/Recruitment & Placement: ORG
+Army: ORG
+Civilian HR Agency: ORG
+40: CARDINAL
+Pine Bluff: GPE
+AR Permanent: ORG
+Kimberly Malone: PERSON
+870-540-3077: CARDINAL
+the HR Automation Program Administrator: ORG
+CPAC: ORG
+Information Management Officer: ORG
+Business Objects Applications: ORG
+Defense Civilian Personnel Data System: ORG
+CPAC: ORG
+CAC: ORG
+USA Staffing: ORG
+the Pine Bluff Arsenal USA Staffing Super User: ORG
+Regional: ORG
+weekly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft Access: ORG
+SOP: ORG
+FLSA: ORG
+Schedule: PERSON
+monthly: DATE
+over 1,200: CARDINAL
+IAW: ORG
+Processing Personnel: ORG
+RPA: ORG
+Open Goodness of Data: ORG
+DEU: ORG
+TSP: ORG
+Reemployment Priority List Program Administrator: ORG
+Certifications: ORG
+RPA: ORG
+Skills
+Hr, Maintenance, Registrations, Staffing, Training, Access: ORG
+Maintenance: PERSON
+Access Control: ORG
+Csu: PRODUCT
+Microsoft Sharepoint: ORG
+Sap, Sharepoint: ORG
+File: GPE
+Flsa: PERSON
+Job Analysis: ORG
+Quality Control, Recruitment, Technical Assistance: ORG
+Bi, Business Intelligence, Cac: ORG
+Excel: PRODUCT
+Federal Regulations: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Ms Access: PERSON
+Statistical Analysis: ORG
+Publishing: GPE
+Hr Issues: PERSON
+Process Improvement: ORG
+Process
+Improvements, Proposals, Solutions: ORG
+Associate, Credit, Database, Database Management: ORG
+Desktop Publishing: ORG
+Project Management: ORG

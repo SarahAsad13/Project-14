@@ -1,0 +1,48 @@
+one: CARDINAL
+one: CARDINAL
+number one: CARDINAL
+Highlights: GPE
+6+ years: DATE
+MS Office: ORG
+Team: ORG
+Detail: PERSON
+CAD: ORG
+Project Management Â 
+
+: ORG
+Name City: GPE
+Oversaw: GPE
+LTL: ORG
+2010: DATE
+DAR: ORG
+three: CARDINAL
+DAR: ORG
+Strictly: ORG
+Calculating: PERSON
+D.A.R.: ORG
+Music Teacher/Camp: WORK_OF_ART
+Name City: GPE
+Rock Band Camp: ORG
+ages 7-18: DATE
+each week: DATE
+Drumset: PERSON
+Name City: GPE
+Latin: LANGUAGE
+BA : Business Communications: ORG
+2012: DATE
+Hill College City: ORG
+GPA: ORG
+3.40: CARDINAL
+Business Communications GPA: ORG
+3.40 Degree: QUANTITY
+night: TIME
+Main Line Affair: ORG
+Light the Night: WORK_OF_ART
+St Baldrick's: PERSON
+One: CARDINAL
+Audio/Video Recording Bloomsburg University of PA City: ORG
+State: GPE
+USA: GPE
+Audio/Video Recording
+
+Skills: ORG

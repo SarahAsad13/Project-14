@@ -1,0 +1,73 @@
+LEAD CHEF & FOOD TRUCK: ORG
+the Culinary Institute of America: ORG
+CIA: ORG
+The Godfather of American Cuisine: WORK_OF_ART
+Iron Chef Marc Forgione: ORG
+CIA: ORG
+the American Bounty Restaurant: ORG
+Ristorante Caterina de': PERSON
+Medici: PERSON
+St. Andrews Restaurant: ORG
+5 month: DATE
+Walt Disney World's: ORG
+3rd: ORDINAL
+Artist Point: WORK_OF_ART
+Orlando: GPE
+Florida: GPE
+the Wilderness Lodge: FAC
+Magic Kingdom: GPE
+Cattail Creek Country: FAC
+Maryland: GPE
+Contemporary: ORG
+Only 13: CARDINAL
+300: CARDINAL
+Glenelg High School's: ORG
+3rd Place: ORG
+3rd Place: ORG
+1st Place: ORG
+annual: DATE
+the Culinary Institute Of America
+Successfully: ORG
+the Artist Point Resort: ORG
+Walt Disney World: ORG
+300-700: CARDINAL
+each
+night: TIME
+Napa CA: ORG
+Current
+Lead Chef & Food Truck: PERSON
+Working: ORG
+French Laundry Executive Chef: ORG
+thousands: CARDINAL
+2012: DATE
+Thanksgiving &: EVENT
+Christmas Holiday season: DATE
+Gained: NORP
+200-300: CARDINAL
+500-700: CARDINAL
+40+
+hours: TIME
+Hodge - Various Locations: ORG
+Maryland: GPE
+New York: GPE
+California: GPE
+Healthy Cuisine: PERSON
+50-100: CARDINAL
+weekly: DATE
+weekly: DATE
+Full Personal Chef Services: ORG
+10 - 50: CARDINAL
+Culinary Apprentice: ORG
+30 hours/week: TIME
+2011: CARDINAL
+Culinary Arts Academy Culinary Arts Glenelg High School ï¼​ City: ORG
+State Culinary Arts Academy Culinary Arts: ORG
+2012: DATE
+L'Academie de Cuisine: PERSON
+Howard County Community College: ORG
+State Culinary Arts: ORG
+2014: DATE
+Culinary Arts & Culinary Arts Management: ORG
+The Culinary Institute of America ï¼​ City: ORG
+foodÂ 
+Fast: PRODUCT

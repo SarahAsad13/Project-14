@@ -1,0 +1,48 @@
+Colorado School of Mines: ORG
+State: GPE
+USA: GPE
+May 2016: DATE
+Aalto University 2014 Materials and Metallurgical Science City: ORG
+Finland: GPE
+European Minerals Engineering Course: ORG
+University of Miskolc 2013 Mineral Processing City: ORG
+Hungary: GPE
+European: NORP
+Wroclaw University of Technology 2013 Materials and: ORG
+Poland: GPE
+European: NORP
+Colorado School of Mines 2013 Bachelor of Science : Materials and Metallurgical Engineering City: ORG
+State: GPE
+USA: GPE
+June 2014 to September 2014: DATE
+May 2013 to August 2013: DATE
+Metallurgical Engineering Intern 
+City: EVENT
+Collaborated: ORG
+XRD/XRF: ORG
+May 2012 to: DATE
+Corrosion and Materials Engineering Intern 
+City: ORG
+Researched: LOC
+June 2011 to August 2011: DATE
+Process Intern: PERSON
+State: ORG
+Affiliations: ORG
+Society of Mining, Metallurgy: ORG
+Exploration, Tau Beta Pi Engineering Honor Society: ORG
+Alpha
+Phi, International Intercollegiate Mining Games
+
+Accomplishments
+
+Cumulative GPA - 3.67: WORK_OF_ART
+Involvement Tau Beta Pi Engineering Honor Society: EVENT
+2012: DATE
+Skills
+Metallurgical,: ORG
+Metallurgical Engineering: ORG
+Mec: PERSON
+Metallurgy, Laboratory: ORG
+Operations: ORG
+Corrosion, Materials Engineering: ORG
+Pipeline: ORG

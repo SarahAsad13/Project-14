@@ -1,0 +1,77 @@
+BUSINESS DEVELOPMENT: ORG
+Career Focus
+Position: ORG
+Key Skills: LOC
+4: CARDINAL
+Named End of Quarter Super Star: WORK_OF_ART
+Q1 2015: DATE
+One: CARDINAL
+two: CARDINAL
+200: CARDINAL
+200%: PERCENT
+Team of the Month: ORG
+Dell: ORG
+a day: DATE
+115: CARDINAL
+Colorado State University: ORG
+the Month: DATE
+July 2017: DATE
+Business Development Representative 01/2017 to Current 
+Company Name City: ORG
+last 3 quarters: DATE
+133%: PERCENT
+144%: PERCENT
+200%: PERCENT
+$100 million: MONEY
+annual: DATE
+2: CARDINAL
+Daily: PERSON
+LinkedIn: GPE
+Name City: GPE
+3+ years: DATE
+APOS Large Institution: ORG
+Responsible for New England: ORG
+Northeast: LOC
+Southern: NORP
+the last nine quarters: DATE
+201%: PERCENT
+116%,Â: DATE
+226%: PERCENT
+100%,Â 64%,Â: DATE
+106%: PERCENT
+Last quarter's: DATE
+$2.3 million: MONEY
+1,000,000: MONEY
+Miami Stock Exchange: ORG
+Icahn: NORP
+Hershey: GPE
+Workday, SalesForce: ORG
+Sirius XM: ORG
+Samsung: ORG
+Benjamin Moore: PERSON
+weekly: DATE
+weekly: DATE
+Dell LI: ORG
+Flexible Billing Program: WORK_OF_ART
+January 2016: DATE
+teamsÂ 
+Trained: PERSON
+Philippines: GPE
+Social Media Coordinator: ORG
+Name City: GPE
+Grand Junction: GPE
+Facebook, Instagram: ORG
+Twitter: PERSON
+Major Mortgage: ORG
+06/2012: CARDINAL
+Name City: GPE
+the month: DATE
+Journalism and Technical Communication: ORG
+December 2012: DATE
+Colorado State University City: EVENT
+Journalism and Technical Communication: ORG
+Minor in Business Management
+
+Personal Information: ORG
+DJ: ORG
+s kier: PERSON

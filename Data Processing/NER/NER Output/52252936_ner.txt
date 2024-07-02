@@ -1,0 +1,89 @@
+4-years: DATE
+CNA License - NA0010346149
+CPR Certification
+BLS - Basic Life Support
+In: ORG
+Electrocardiogram: PERSON
+AMCA: ORG
+AMCA: ORG
+Skill Highlights: PERSON
+Personnel: ORG
+Recruiting
+Compensation: WORK_OF_ART
+One: CARDINAL
+Tenant Tracer: PERSON
+ADP Payroll: ORG
+QuickBooks: ORG
+Microsoft: ORG
+May 2015 to November 2016: DATE
+Company Name - City: DATE
+MS Office: ORG
+Word, Excel & Internet: ORG
+the Texas Workforce Commission: ORG
+TWC: ORG
+the Department of Aging and Disability Services: ORG
+DADS: ORG
+NACEES: ORG
+annual: DATE
+daily: DATE
+DARS: PERSON
+CNA: ORG
+Recruited: PRODUCT
+Specialist - 40+ Hours: ORG
+January 2014: DATE
+May 2015: DATE
+weekly: DATE
+January 2013 to September 2013: DATE
+Bi-Weekly: ORG
+ADP: ORG
+daily: DATE
+Baristas Coffee Company Inc.: ORG
+daily: DATE
+Barista/Office: ORG
+March 2012 to December 2012: DATE
+State: ORG
+6: CARDINAL
+Bi-weekly: PERSON
+daily: DATE
+weekly: DATE
+weekly: DATE
+daily: DATE
+the
+day: DATE
+Retail Apparel Associate: PERSON
+March 2010 to March 2012: DATE
+State: ORG
+Cashier: PERSON
+daily: DATE
+Training
+License/Certification : Electrocardiogam: ORG
+2016: DATE
+State: GPE
+March 2016: DATE
+License/Certification : Phlebotomy: ORG
+2016: DATE
+State: GPE
+March 2016: DATE
+2015: DATE
+State: GPE
+USA: GPE
+2010: DATE
+State: GPE
+Des Moines: GPE
+February, 1992: DATE
+Present Resident: WORK_OF_ART
+Federal Way: GPE
+Careful: PRODUCT
+Multi: GPE
+Accounts Payable/Receivable
+Customer Service: ORG
+Customer Satisfaction
+Patient: ORG
+Time: ORG
+Detail: PERSON
+QuickBooks: ORG
+One: CARDINAL
+Tenant Tracker: PERSON
+ADP Payroll System: ORG
+Microsoft: ORG
+Microsoft Excel: ORG

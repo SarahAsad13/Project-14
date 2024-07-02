@@ -1,0 +1,69 @@
+10: CARDINAL
+Microsoft: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Google Mail
+Accounts: ORG
+Customer Service: ORG
+MAC: ORG
+Microsoft: ORG
+1: CARDINAL
+04/2013 - Current
+Company Name Telephone Interviewer
+
+: LAW
+The National Agricultural Statistics Service: ORG
+U.S.: GPE
+Department of Agriculture: ORG
+More than 300: CARDINAL
+Telephones: LOC
+Obtains: PERSON
+Reviews: NORP
+thousands: CARDINAL
+ECM: ORG
+Intranet Server: ORG
+SharePoint: ORG
+metadata: PERSON
+SharePoint: ORG
+SharePoint: ORG
+SharePoint: ORG
+SharePoint: ORG
+SharePoint: ORG
+05/2011 - 12/2012: CARDINAL
+Customer Service Representative
+
+Credit Control: ORG
+LLC: ORG
+over 450: CARDINAL
+one: CARDINAL
+Frequently: ORG
+10/2010 - 05/2011: DATE
+150: CARDINAL
+850: CARDINAL
+U.S.: GPE
+more than 140: CARDINAL
+12/2008 - 11/2010: CARDINAL
+more than 245 million: MONEY
+weekly: DATE
+10: CARDINAL
+approximately $473 billion: MONEY
+Walmart: ORG
+2.2 million: CARDINAL
+Cleanliness: ORG
+2012: DATE
+Gateway Institute of Technology High School Diploma: ORG
+St. Louis Community College: ORG
+Skills
+Accounts: ORG
+Administrative: ORG
+Content Management: ORG
+Customer Service: ORG
+Data Entry: ORG
+MAC: ORG
+Microsoft Excel: ORG
+Microsoft Outlook: ORG
+Microsoft: ORG
+Enterprise: ORG
+Office Equipment: ORG
+Statistics: ORG
+Telephones: ORG

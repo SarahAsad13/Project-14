@@ -1,0 +1,52 @@
+EXECUTIVE CHEF
+Executive Profile: ORG
+More than twenty years: DATE
+Executive Chef: ORG
+Culinary Arts: ORG
+The Culinary Institute of America: ORG
+40: CARDINAL
+as many as 5,000: CARDINAL
+four: CARDINAL
+Skill Highlights: PERSON
+Core Accomplishments
+
+Directed the operation: WORK_OF_ART
+Milwaukee: GPE
+Carol Deptolla's: PERSON
+30: CARDINAL
+2011: DATE
+Executive Chef 11/2014: PRODUCT
+Ordering: GPE
+Loss Prevention: ORG
+Developed Scratch Pastry Program: ORG
+Bristlecones: GPE
+Premium Club Chef 01/2014: ORG
+11/2014: CARDINAL
+Name City: GPE
+Oversaw: GPE
+three: CARDINAL
+daily: DATE
+daily: DATE
+two: CARDINAL
+DNC: ORG
+Name City: GPE
+DNC: ORG
+Pastry Chef 06/2012: PRODUCT
+daily: DATE
+Name City: GPE
+seasonal: DATE
+monthly: DATE
+Name City: GPE
+weekly: DATE
+daily: DATE
+Pastry Chef 04/1991: PRODUCT
+05/1995 Company Name City: ORG
+four: CARDINAL
+Pier: PERSON
+39: DATE
+Oversaw: GPE
+Associate of Occupational Studies: ORG
+1991: DATE
+The Culinary Institute of America City: ORG
+State Culinary Arts: ORG
+Costing, Inventory: ORG

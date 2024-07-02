@@ -1,0 +1,65 @@
+Accountant: ORG
+Highlights
+
+Financial: ORG
+7: CARDINAL
+over 20,000: CARDINAL
+annual: DATE
+Process Retail Sales Revenue: ORG
+Coffee Shop: ORG
+monthly: DATE
+Monthly: DATE
+monthly: DATE
+Streamline Procedures: ORG
+08/2012: CARDINAL
+Independent Accounting Consultant Company Name: ORG
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+year-end: DATE
+QuickBooks: ORG
+QuickBooks Pro: ORG
+Quicken
+Assist: PERSON
+Worker's Compensation Audits: ORG
+Assist: ORG
+Payroll: ORG
+Financial Statement Preparation: ORG
+Bank Statement Reconciliations Â  
+
+: ORG
+CFO: ORG
+Manage Accounts Receivable: WORK_OF_ART
+monthly: DATE
+401: CARDINAL
+2: CARDINAL
+02/2007
+Accounting and Human Resources: ORG
+2: CARDINAL
+2: CARDINAL
+Accounting Department: ORG
+weekly: DATE
+quarterly: DATE
+annual: DATE
+Researched: ORG
+Researched: ORG
+401: CARDINAL
+Recruit: ORG
+Â  
+
+Education: ORG
+Bachelor of Science : Business Management Arizona State University: ORG
+State: GPE
+USA: GPE
+Skills
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook: PERSON
+Abila MIP Fund Accounting Software: ORG
+QuickBooks: ORG
+QuickBooks Pro: ORG
+Quicken
+ADP: PERSON
+QuickBooks Payroll Systems: ORG

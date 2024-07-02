@@ -1,0 +1,138 @@
+Knowledgeable Engineering Superintendent: WORK_OF_ART
+First: ORDINAL
+Points: ORG
+AP: ORG
+Navy: ORG
+Pick
+Problem: ORG
+Repairs
+Reporting
+Requirement
+Switches
+Time: FAC
+Troubles
+Technical: ORG
+Document: PRODUCT
+SharePoint: ORG
+Team: ORG
+Current
+Engineering: ORG
+Annual: DATE
+60,468 USD Hours: TIME
+40+ Series: DATE
+20 years: DATE
+the Department of Navy: ORG
+twelve: CARDINAL
+60: CARDINAL
+Hawaii: GPE
+Systems: GPE
+Hazardous Material (HAZMAT: ORG
+Alarm: GPE
+Monitoring
+Systems: ORG
+AMS: ORG
+Auxiliary Control Console: ORG
+ACC: ORG
+bell: ORG
+cannon plugs: PERSON
+Damage Control Console: ORG
+DCC: ORG
+Electric Plant Control Console: ORG
+Light Emitting Diode: WORK_OF_ART
+Local Operating Panel: ORG
+Gas Turbine: PERSON
+Gas Turbine: ORG
+Local Operating Panels: PERSON
+Ships Control Console: ORG
+Gas Turbine: ORG
+Adjusts Auxiliary Control Console: ORG
+ACC: ORG
+Fuel Systems Control Console: ORG
+Controllable Pitch Propeller: PERSON
+CPP: ORG
+Controllable Reversible Pitch: WORK_OF_ART
+Fuel Systems Control Console: ORG
+Propulsion: PERSON
+Auxiliary Control Console: ORG
+Propulsion Control Console: ORG
+Auxiliary Control Console: ORG
+ACC: ORG
+Update Engineer's: ORG
+twelve: CARDINAL
+the
+Department of the Navy: ORG
+06/2014 to 12/2018: CARDINAL
+Electrical Superintendent Company Name: WORK_OF_ART
+53: CARDINAL
+100158: DATE
+96669: CARDINAL
+Harbor Hickam: PERSON
+Hawaii United
+States: GPE
+60,468 USD Hours: TIME
+40+ Series: DATE
+Oversaw: GPE
+Initiated: ORG
+Instrumentation and Electrical: ORG
+Instrument: ORG
+11/2010: CARDINAL
+Annual: DATE
+45,000 USD Hours: QUANTITY
+40+ Series: DATE
+CG 73: DATE
+AP: ORG
+96675-1193: DATE
+Harbor Hickam: PERSON
+Hawaii United States: GPE
+man-hour: TIME
+Obtained: ORG
+Instrumentation and Electrical: ORG
+Instrument: ORG
+Coordinated: ORG
+Researched: ORG
+Established: ORG
+Monitored: ORG
+10/2002: CARDINAL
+Annual: DATE
+35,000 USD Hours: TIME
+40+ Series: DATE
+E-1: ORG
+E-5: ORG
+Maintained: PERSON
+Work Center Supervisor: WORK_OF_ART
+Utilized: ORG
+Examined: ORG
+09/2000: CARDINAL
+GED State: ORG
+Ohio: GPE
+02/2002: DATE
+Identify Basic Engineering NAVY: ORG
+03/2002: DATE
+Basic Propulsion Equipment NAVY: ORG
+NAVY: ORG
+A-652-0298: ORG
+A-652-0298: ORG
+NV-1715-1793: DATE
+A-651-0119: CARDINAL
+NAVY: ORG
+Engineering Electrical: ORG
+08/2003: CARDINAL
+A-652-0240: ORG
+A-652-0240: ORG
+A-652-0240: ORG
+09/2009: ORG
+NAVY: ORG
+A-495-0018: PRODUCT
+A-495-0018: PRODUCT
+NAVY: ORG
+A-652-0188: ORG
+A-652-0188: ORG
+WH BW/FW T&T CERT: ORG
+01/2011: CARDINAL
+Delivery Continuum: PERSON
+NAVY: ORG
+G-651-0613: ORG
+MACHINERY CONTROL SYSTEM NAVY: ORG
+G-651-0613: ORG
+02/2019: CARDINAL
+NAVY: ORG

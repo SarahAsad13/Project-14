@@ -1,0 +1,53 @@
+PRINCIPAL: ORG
+Supply Chain and Logistics &: ORG
+Developed & supported: ORG
+strategy & business planning: ORG
+SRM: ORG
+Supply Chain: ORG
+Skills
+
+Organization
+Planning & Prioritizing
+: ORG
+06/2013: CARDINAL
+State: ORG
+Â·Â: CARDINAL
+Â·Â Â Â Â Â Â Â  Help: CARDINAL
+Investigate: ORG
+Assess: ORG
+Build: GPE
+Drive: ORG
+Facilitate: ORG
+quarterly: DATE
+Build: GPE
+Identify: PRODUCT
+Develop: ORG
+Build: GPE
+Develop: ORG
+Promotes: ORG
+Transportation/Logistics Planner Company Name: ORG
+U.S.: GPE
+Saudi Arabia: GPE
+Facilitated: ORG
+Coded: ORG
+Consolidated: ORG
+daily: DATE
+monthly: DATE
+Provided: ORG
+Conducted: ORG
+Global Oil Spill: PRODUCT
+1: CARDINAL
+Performed: ORG
+Department: ORG
+third: ORDINAL
+Sarbanes Oxley: PERSON
+Business Management LeTourneau University: ORG
+State Business Management: ORG
+Houston Graduate School of Theology: ORG
+M-Divinity & Homiletics Communications: ORG
+Skills: ORG
+Sarbanes Oxley: PERSON
+Activities and Honors
+Expert in: ORG
+Human Capital Management Consultancy Development Strategic Partnerships *Entrepreneurial Leadership: ORG
+Project Management: ORG

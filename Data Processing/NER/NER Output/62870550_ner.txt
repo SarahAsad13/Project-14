@@ -1,0 +1,56 @@
+Skills
+Work History
+Company Name Customer Care Representative: ORG
+City: GPE
+State: ORG
+June 2013 - August 2014: DATE
+Communicated: ORG
+Maintained: PERSON
+Promoted: PERSON
+City: GPE
+State: ORG
+June 2011 - March 2013: DATE
+daily: DATE
+12: CARDINAL
+annual: DATE
+weekly: DATE
+the Home
+Office Electronically: ORG
+hours: TIME
+Kronos Payroll System: FAC
+Page 2: FAC
+Wilson: ORG
+Revised: PERSON
+weekly: DATE
+hours: TIME
+the Home Office Created: ORG
+Performed: PERSON
+daily: DATE
+four consecutive quarters: DATE
+weekly: DATE
+weekly: DATE
+Maintained: GPE
+over 8,000: CARDINAL
+City: GPE
+State: ORG
+October 2007 - June 2010: DATE
+Actively: ORG
+Processed: GPE
+Processed: GPE
+PeopleSoft HR Management Systems Software Explained: ORG
+each week: DATE
+hours: TIME
+Assisted: ORG
+over 500: CARDINAL
+Associate of Applied Business Administration Human Resources, Management Studies: ORG
+Payroll Records: ORG
+Business Law
+Trumbull Business College City: ORG
+State: ORG
+6 2007: DATE
+Human Resources, Management Studies: ORG
+Payroll Records: ORG
+Home Office: ORG
+Kronos: ORG
+Payroll: ORG
+PeopleSoft: ORG

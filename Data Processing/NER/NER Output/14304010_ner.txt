@@ -1,0 +1,53 @@
+KEY HOLDER: ORG
+Key Holder: LOC
+6%: PERCENT
+monthly: DATE
+Maintained: GPE
+GM: ORG
+District Leaders: NORP
+each month: DATE
+10/2015: CARDINAL
+Current
+Editorial Producer Company Name: ORG
+Shot: PERSON
+Fall2015/Spring 2016: DATE
+more than 12: CARDINAL
+Collaborated: ORG
+Altaf Maaneshia: ORG
+01/2016
+: PERSON
+over $15,000: MONEY
+over $: MONEY
+6,000: MONEY
+up to $4200: MONEY
+Directed: PERSON
+FALL/WINTER 2015: ORG
+Collaborated: ORG
+Established: ORG
+07/2015: CARDINAL
+Maintained: GPE
+Monitored: ORG
+Visual Artist and Sales Company Name: ORG
+Reorganized: ORG
+clientÃ¨le: PERSON
+Researched: FAC
+05/2012: CARDINAL
+Intern: ORG
+Displayed: PERSON
+Company Name: PERSON
+Observe: LOC
+Communicate: ORG
+2016: DATE
+State Communication-Journalism: ORG
+Media Studies: ORG
+Creative Writing: PERSON
+2014: DATE
+State: ORG
+Australia: GPE
+Social Science, Arts and Humanistic Studies: ORG
+Global
+Politics and International Relations: ORG
+Creative Writing: PERSON
+21W: CARDINAL
+Skills
+Film and Photography: Camera: ORG

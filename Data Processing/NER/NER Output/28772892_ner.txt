@@ -1,0 +1,46 @@
+PBS: ORG
+Skills
+Work History: ORG
+Adapt: FAC
+IEP: ORG
+the Visually Impaired: ORG
+TVI: ORG
+Instructed Pre-Employment Transition Services: ORG
+12/2016: CARDINAL
+IDEA: ORG
+State: ORG
+Facilitated: ORG
+Maintained: GPE
+Created: ORG
+the Special Education/Behavior Intervention Committee: ORG
+Manifestation
+Determination Review: ORG
+Initiated: ORG
+Mentor Teacher: PERSON
+first: ORDINAL
+LAE: ORG
+Completed the Aspiring Leaders
+Program: ORG
+the School Leadership Center of Greater New Orleans Coached: ORG
+01/2004: CARDINAL
+Maintained: GPE
+95 - 100%: PERCENT
+a decade: DATE
+Maintained: GPE
+Scored "Highly Effective: ORG
+yearly: DATE
+Compass Metrics: ORG
+every year: DATE
+Earned: PERSON
+RTI Coordinator: ORG
+01/2011 to 01/2012: CARDINAL
+Coordinated: ORG
+Response: ORG
+District RTI: ORG
+01/2003: ORG
+01/2004: CARDINAL
+Leadership: PERSON
+Trainer: ORG
+VI: ORG
+Florida State University - City: ORG
+State Administration: ORG

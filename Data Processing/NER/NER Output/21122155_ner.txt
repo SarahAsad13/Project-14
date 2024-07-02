@@ -1,0 +1,80 @@
+the Clinical Research: ORG
+Skill Highlights: PERSON
+Microsoft Office: ORG
+EDC: ORG
+IWRS/IXRS: ORG
+October 2015: DATE
+the Surgical Research: ORG
+Cardiovascular: ORG
+Vascular: LOC
+Communicate: ORG
+Author: GPE
+Internal Review Board: ORG
+IRB: ORG
+AE: ORG
+SAE: ORG
+AE: ORG
+SAE: ORG
+Â 
+
+Clinical Research Coordinator: ORG
+November 2014 to October 2015: DATE
+Phase II: PERSON
+IV: GPE
+Maintained: GPE
+SAE: ORG
+Women's Health, Hyperlipidemia, Gastrointestinal: ORG
+Vaccine: PERSON
+July 2013 to October 2014: DATE
+II: CARDINAL
+Conducted: ORG
+Oversaw: GPE
+July 2013 to March 2014: DATE
+24-hour: TIME
+30-day: DATE
+May 2013 to October 2013: DATE
+Performed: ORG
+DEXA: ORG
+Fitness Specialist: PERSON
+January 2013 to May 2013: DATE
+Fitness Specialist: PERSON
+December 2012 to August 2013: DATE
+July 2012 to January 2013: DATE
+September 2010 to November 2010: DATE
+State
+Group: ORG
+April 2010 to June 2011 Company Name ï¼​ City: DATE
+40: CARDINAL
+50 years: DATE
+Training
+Master of Science : Clinical Exercise Physiology: WORK_OF_ART
+June 2012: DATE
+Ohio University: ORG
+ï¼​ City: GPE
+O'Bleness Memorial Hospital: ORG
+Ohio University WellWorks Fitness Center WellWorks Risk Reduction Program Health Coach/Personal Trainer
+Bachelor of Science : Kinesiology: ORG
+May 2011: DATE
+Michigan State University: ORG
+Humanities: NORP
+Phi Epsilon Kappa: ORG
+2011-2012: DATE
+Certifications
+BLS: ORG
+the Healthcare Provider
+Completion of Phlebotomy Skills: ORG
+the Healthcare Professional Course
+CITI GCP Certified: ORG
+IATA: ORG
+Cancer: PERSON
+Coach: ORG
+GCP: ORG
+Microsoft Office: ORG
+Page: PERSON
+Phlebotomy: GPE
+Physiologist: ORG
+Safety: ORG
+Surgery: PERSON
+Therapy: PERSON
+Trainer: ORG
+Vaccine: PERSON

@@ -1,0 +1,82 @@
+Sarbanes-Oxley: PERSON
+Process Improvement Directed IT financial planning: WORK_OF_ART
+$120-million: MONEY
+Sarbanes-Oxley: ORG
+Improved Project Management: ORG
+35%: PERCENT
+2005: DATE
+$550-million: MONEY
+Minolta Corporation: ORG
+North American: NORP
+120: CARDINAL
+40%: PERCENT
+only five months: DATE
+Light Technologies, Inc.: ORG
+Sprain: ORG
+NJ: ORG
+1995Ã¢â‚¬â€​2003: CARDINAL
+PROGRAM MANAGEMENT Multibillion-Dollar: ORG
+Program Management: ORG
+Light: GPE
+$5-billion: MONEY
+multibillion-dollar: MONEY
+$70-million: MONEY
+more than 350: CARDINAL
+80: CARDINAL
+four: CARDINAL
+Business Communication Services IT: ORG
+Planning and Analysis: ORG
+Phone Global Corporation: ORG
+Dynamic: PERSON
+Project Management: ORG
+Strategic Planning: ORG
+PMO Management Energetic: ORG
+¦ Staffing & Resource Management Risk & Issue Management Ã¢â„¢Â¦ Financial
+Modeling & Analysis: ORG
+¦ Agile & Waterfall Methodologies Cost/Benefit Analysis: ORG
+¦ Stakeholder
+Management
+Work History: PERSON
+up to 80: CARDINAL
+$1.2-billion: MONEY
+up to $150-million: MONEY
+Key Performance: LOC
+Work Breakdown Structures: ORG
+01/2011: CARDINAL
+Start-Up: PRODUCT
+Contract Management: ORG
+PMO Management Trusted Financial Executive: ORG
+PMO: ORG
+first: ORDINAL
+Program Management Office: ORG
+60%: PERCENT
+only five: CARDINAL
+Reengineered: ORG
+01/2010: DATE
+Multimillion-Dollar: MONEY
+Global PMO Staff: ORG
+Program: ORG
+PMO: ORG
+44: CARDINAL
+Global Project Managers: ORG
+$15-million: MONEY
+70: CARDINAL
+60%: PERCENT
+only five months: DATE
+Master of Business Administration :: ORG
+Business Economics/Finance: ORG
+State University - City: ORG
+Business Economics/Finance: ORG
+Hoboken State University - City: ORG
+Project Management Professional: ORG
+Certified Information Systems Auditor: ORG
+Lean Six Sigma Green Belt: WORK_OF_ART
+CFP: ORG
+Skills: ORG
+CISA: ORG
+Contract Management, Financial: ORG
+Information
+Systems: ORG
+Program Management: ORG
+Project Management: ORG
+Six Sigma: PERSON

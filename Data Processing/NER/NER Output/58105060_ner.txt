@@ -1,0 +1,63 @@
+Menrit Mansour: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Prezi: GPE
+Youtube: PERSON
+Wiki Pages: ORG
+Mathematica: GPE
+Popplet: GPE
+Work History
+Math Teacher: WORK_OF_ART
+4: CARDINAL
+1: CARDINAL
+Created: ORG
+daily: DATE
+English Language Learners: WORK_OF_ART
+Math 7: DATE
+weekly: DATE
+3: CARDINAL
+Fundamentals of Geometry: ORG
+1: CARDINAL
+Created: ORG
+daily: DATE
+Differentiated: PERSON
+English Language Learners Prepared: WORK_OF_ART
+weekly: DATE
+4: CARDINAL
+Prepared: PRODUCT
+Created: ORG
+daily: DATE
+Differentiated: PERSON
+English Language Learners and Learners with Special Needs
+or: WORK_OF_ART
+Learning Disabilities Prepared: WORK_OF_ART
+monthly: DATE
+ELL/Sheltered Algebra I classroom Tutored: ORG
+one: CARDINAL
+weekly: DATE
+one: CARDINAL
+the end of the semester: DATE
+ELL: ORG
+Conducted: ORG
+2: CARDINAL
+ELL: ORG
+Language Learning: FAC
+01/2010: DATE
+Assist: NORP
+Math Teacher: PERSON
+Master of Arts : Teaching Mathematics: WORK_OF_ART
+December 2012: DATE
+University of Southern California - City: ORG
+June 2011: DATE
+University of California - City: ORG
+State: ORG
+Applied Mathematics
+Skills: ORG
+Arabic: NORP
+English: LANGUAGE
+Mathematica: GPE
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+QuickBooks: ORG

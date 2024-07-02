@@ -1,0 +1,209 @@
+June 2012: DATE
+January 2015: DATE
+Name City: GPE
+State Program Support Assistant Accounting: ORG
+First Party: ORG
+Veterans: NORP
+VA: ORG
+Debt
+Management: ORG
+Internal Revenue: ORG
+Treasury: ORG
+First Party: ORG
+the Debt Management Program: ORG
+Treasury: ORG
+August 2008: DATE
+January 2012: DATE
+Name City: GPE
+FFA Advisor: ORG
+Adobe Flash: PERSON
+Dreamweaver: ORG
+Front Page: GPE
+Camtasia: GPE
+Snagit: PERSON
+PowerPoint: ORG
+ADDIE: ORG
+CIPP: PRODUCT
+21 Century: DATE
+Career: LOC
+Technology Department: ORG
+Leadership Development Events: ORG
+Career Development Events: ORG
+October 2004: DATE
+July 2008: DATE
+Name City: GPE
+FFA Advisor: ORG
+USDA: ORG
+100: CARDINAL
+annually: DATE
+August 2001: DATE
+July 2004: DATE
+Name City: GPE
+FFA: ORG
+Oversaw: GPE
+less than 2 years: DATE
+Education: ORG
+Texas A&M University City: ORG
+State: GPE
+US: GPE
+August 2014: DATE
+Texas A&M: ORG
+University, College Station: ORG
+Texas: GPE
+4.0: CARDINAL
+4.0: CARDINAL
+Title of Dissertation: ORG
+Texas State University City: ORG
+State: GPE
+US Masters of Education: ORG
+Agriculture Education Masters of Education Texas State University: ORG
+San Marcos: PERSON
+Texas: GPE
+2001: DATE
+GPA: ORG
+3.7: CARDINAL
+4.0: CARDINAL
+Texas State University City: ORG
+State: GPE
+US Bachelors: PERSON
+August 1997: DATE
+Texas State University: ORG
+Marcos: GPE
+Texas: GPE
+2.73: CARDINAL
+4.0: CARDINAL
+Skills: ORG
+2012: DATE
+Texas State University: ORG
+Agriculture Department: ORG
+2011-2012: DATE
+Texas State University: ORG
+August 2013-
+October 2014 Proficient: DATE
+Microsoft Office: ORG
+Mac: PERSON
+Flash: GPE
+Adobe: PERSON
+SPSS: ORG
+Dreamweaver Proficient with: ORG
+Learning Management Systems: ORG
+Content Management Systems Familiar: ORG
+SPSS: ORG
+45+ wpm: DATE
+Ag: ORG
+Instructional Design Practices: ORG
+3 hours: TIME
+Adult Education: ORG
+Development- 3: PERSON
+e. Adult: PERSON
+Ed: PERSON
+D.: NORP
+3: CARDINAL
+Educational Evaluation: PRODUCT
+Program Evaluation, Design a. Program Evaluation: ORG
+3 hours: TIME
+Ed: PERSON
+3 hours: TIME
+3 hours: TIME
+3 hours: QUANTITY
+Ed: PERSON
+3 hours: TIME
+3 hours: TIME
+e. Data Collection: ORG
+Delivery- 3
+hours: LAW
+3 hours: TIME
+Professional Affiliations: ORG
+Pinecrest High School: ORG
+2011- 2012: DATE
+Delta Tau: ORG
+Texas State University: ORG
+November 2006-: DATE
+Turn the Key Award: WORK_OF_ART
+January 2010-: DATE
+North Carolina: GPE
+Nov. 2012: DATE
+April 2013, October 2013: DATE
+April 2012: DATE
+April 2013: DATE
+Army Community Service: ORG
+ACS: ORG
+at least 2: CARDINAL
+Fort: GPE
+Leavenworth Frontier Heritage Communities: ORG
+Provost Marshals Office: ORG
+AAFES: ORG
+Directorate of Family: ORG
+Welfare and Recreation: ORG
+Customer Management Service Program: ORG
+FLFHC: ORG
+monthly: DATE
+Founding: PERSON
+April 2012 - April 2013: DATE
+Fort Leavenworth: GPE
+KS Hours: ORG
+8-15: CARDINAL
+the Spouse Council for CGSC: ORG
+Spouse Council: ORG
+monthly: DATE
+PAO: ORG
+Student Division: ORG
+hours: TIME
+VMIS: ORG
+2: CARDINAL
+28: CARDINAL
+CSH: ORG
+June 2010 - December 2012: DATE
+Fort Bragg: GPE
+NC: GPE
+5: CARDINAL
+Volunteer
+Served: PERSON
+Steering Committee: ORG
+Felton Moore: PERSON
+910-391-4768: CARDINAL
+Family Readiness Group: ORG
+C Co.: ORG
+82: CARDINAL
+BSB: ORG
+July 2008- June 2010: DATE
+Fort Bragg: GPE
+NC: GPE
+20: CARDINAL
+FRG: ORG
+Family Readiness Group: ORG
+Served: PERSON
+monthly: DATE
+FRG: ORG
+FRG: ORG
+FRG: ORG
+FRG: ORG
+Casualty Notification: LOC
+Comfort/Care Team: ORG
+Battalion FRG Steering Committee: ORG
+the Family Readiness Support: ORG
+Skills
+Credit: ORG
+Flash: PERSON
+Comprehensive Large Array Data Stewardship System: ORG
+Data Analysis: ORG
+Front Page: ORG
+Powerpoint: PRODUCT
+Progress, Training, Recruitment, Sales: ORG
+Clerical, Correspondence, Operations: ORG
+Patient Account: PERSON
+Payments, Technical Support, Vouchers: ORG
+Instructional Design: ORG
+Content
+Management: ORG
+Content Management Systems: ORG
+Frontpage, Learning Management, Learning Management Systems: ORG
+Mac: GPE
+Microsoft Office: ORG
+Ms
+Office: ORG
+Spss, Typing, Award, Deployment, Dissemination Of Information: ORG
+Liaison: PERSON
+Logging, Pmo, Program: ORG
+Steering: GPE
+Collection, Data Collection: ORG

@@ -1,0 +1,65 @@
+INTERN: ORG
+more than 4 years: DATE
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Client: GPE
+Corporate Wellness: ORG
+Â Assisted: ORG
+4: CARDINAL
+Denver: GPE
+15%: PERCENT
+January 2017 to April 2017: DATE
+Name City: GPE
+10: CARDINAL
+Inward Fitness: ORG
+30 day: DATE
+September 2015 to January 2017: DATE
+Name City: GPE
+State Fitness Coach: ORG
+one: CARDINAL
+Facebook and Instagram: ORG
+September 2013 to June 2016: DATE
+Name City: GPE
+State Group Fitness Instructor: ORG
+September 2011 to June 2016: DATE
+Name City: GPE
+State Group Fitness Instructor: ORG
+July 2007: DATE
+Name City: GPE
+State Technical Specialist II: ORG
+Contribute: ORG
+Oracle: NORP
+March 2004 to August 2007: DATE
+Name City: GPE
+State Customer Service: ORG
+Performed: ORG
+monthly, quarterly: DATE
+2017: DATE
+Missouri Baptist University: ORG
+2017: DATE
+Missouri Baptist University: ORG
+Science Master Certificate in Exercise Science: WORK_OF_ART
+2005: DATE
+St. Louis Community College: ORG
+State Business Administration: ORG
+Associate of Arts
+Affiliations: ORG
+Â United Way: PERSON
+St. Louis - Edward Jones: GPE
+2010 - 2017: DATE
+Certifications: WORK_OF_ART
+Certified AFAA Group Fitness Instructor: ORG
+AFAA Mat Pilates Instructor: PERSON
+CPR: ORG
+First: ORDINAL
+Aid Certification
+Skills
+Exercise Science: Online: ORG
+CPR: ORG
+First Aid: ORG
+Corporate Wellness: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Oracle: ORG

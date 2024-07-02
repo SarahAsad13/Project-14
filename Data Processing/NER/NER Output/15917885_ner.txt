@@ -1,0 +1,35 @@
+10/2011: CARDINAL
+State: ORG
+10/2011: CARDINAL
+Microsoft: ORG
+Microsoft: ORG
+New York: GPE
+San Francisco: GPE
+Seattle: GPE
+Boston: GPE
+Los Angeles: GPE
+Microsoft: ORG
+Volvo: ORG
+Safeway: ORG
+Microsoft Office: ORG
+Microsoft Office: ORG
+seasonal: DATE
+10/2009: CARDINAL
+10/2011: CARDINAL
+Walmart: ORG
+Oregon: GPE
+Oregon National Guard: ORG
+Youth Challenge Program: ORG
+Oregon: GPE
+10/2009: CARDINAL
+up to 10: CARDINAL
+Fossil: PERSON
+12/2007: CARDINAL
+80-plus: CARDINAL
+June 2006: DATE
+B.A University of Oregon ï¼​ City: ORG
+State: ORG
+the School of Journalism and Communications: ORG
+Journalism: NORP
+Microsoft Office: ORG
+San: LOC

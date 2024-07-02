@@ -1,0 +1,38 @@
+Programmatic Associates & Managers: ORG
+their day to day: DATE
+5: CARDINAL
+Drive: ORG
+Media: ORG
+Formulate: PERSON
+Create: NORP
+Demand Side Platforms Evaluate: ORG
+Media Planner Company Name: ORG
+Develop: ORG
+Own: PRODUCT
+Digital Media Strategist Company Name: ORG
+Programmatic Display: EVENT
+Online Video: ORG
+Mobile: ORG
+Direct Activation Team: ORG
+12/2013: CARDINAL
+02/2015
+: PERSON
+Digital Media Analyst Company Name: ORG
+Appointed: ORG
+Digital Point of Contact: ORG
+CPA & ROI: ORG
+KPI: ORG
+02/2013 to 12/2013: CARDINAL
+comScore: ORG
+Nielsen: GPE
+Scarborough: GPE
+Account Team: ORG
+Training: PERSON
+May 2010: DATE
+BA :: ORG
+Media TEMPLE UNIVERSITY: ORG
+State
+Broadcasting & Mass Media: ORG
+Skills: ORG
+Research: ORG
+RFP: ORG

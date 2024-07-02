@@ -1,0 +1,147 @@
+Legal: GPE
+Organized Legal: GPE
+Highlights
+Microsoft Office - MS Words: ORG
+Power Point: ORG
+Excel: PRODUCT
+Access: ORG
+SPSS: PERSON
+16.0: CARDINAL
+Interpersonal Skills: ORG
+Apr 2016: PERSON
+Jalan Mutiara: PERSON
+Taman Bukit: PERSON
+Ampang: PERSON
+Jalan Bukit Belacan: PERSON
+68000: CARDINAL
+Ampang: GPE
+Selangor: LOC
+2014: DATE
+2015: DATE
+Symphony House: ORG
+Dagangan Dana 1,: PERSON
+Jalan: GPE
+Jaya: PERSON
+Selangor Darul: ORG
+Oct 2012: PERSON
+2013: CARDINAL
+7: CARDINAL
+Jalan Boling: PERSON
+13: CARDINAL
+13: CARDINAL
+40100: CARDINAL
+Jan 2012: DATE
+Mar 2012: PERSON
+3: CARDINAL
+Menara Selatan: PERSON
+Bangunan: GPE
+Idris Shah: PERSON
+Masjid: PERSON
+40676: CARDINAL
+Selangor Darul Ehsan: ORG
+Education: ORG
+PROFESSIONAL LEVEL Malaysia Institute of Chartered: ORG
+City: GPE
+State: ORG
+2012: DATE
+Universiti: ORG
+Teknologi: PERSON
+State: ORG
+SECRETARIALÂ: ORG
+2010: DATE
+Universiti: ORG
+Teknologi: PERSON
+City: GPE
+State: ORG
+Seminar Extended 2012 Participate: ORG
+Dewan Serbaguna: FAC
+UiTM: GPE
+Commitee of Melati Computer Club: ORG
+Sekolah Pendidikan Khas Alma: FAC
+Pulau Pinang: PERSON
+Faculty of Adminstrative Science & Policy Studies: ORG
+Kedah: GPE
+Sukan Inter Program: ORG
+2009: DATE
+Kompleks Sukan & Stadium: FAC
+Kedah: GPE
+Majlis Sukan: PERSON
+Pelajar: GPE
+UiTM: GPE
+Kedah: GPE
+Asas Ping Pong: PERSON
+Persatuan Ping Pong UiTM: PERSON
+Kedah: GPE
+UiTM Kedah: FAC
+Semalaysia Kali: PERSON
+UiTM Perak: FAC
+UiTM: GPE
+Malaysia: GPE
+English: LANGUAGE
+Akademi Pengajian Bahasa: LOC
+Universiti: ORG
+Teknologi: PERSON
+Pulau Pinang: PERSON
+Kursus Aplikasi Komputer: PERSON
+kepada Komputer: PERSON
+2000: DATE
+MS EXCEL 2000: ORG
+MS POWER POINT 2000: ORG
+Pusat Computer RC: ORG
+Permatang Pauh: PERSON
+Pulau Pinang: PERSON
+Rakan: PERSON
+Muda Wawasan Desa IPT Daerah Seberang: PERSON
+Perai Tengah: PERSON
+Mertajam: PERSON
+Pertandingan & Pameran: ORG
+Seni Lukis: PERSON
+Pelajar: GPE
+Pelajar: GPE
+Malaysia: GPE
+Jabatan Pendidikan: PERSON
+Pulau: GPE
+Pinang: GPE
+Rakan Muda Ramadan: PERSON
+Kementerian: NORP
+Sukan: GPE
+Malaysia: GPE
+Possess: ORG
+long hours: TIME
+Love: WORK_OF_ART
+Malay: NORP
+English: LANGUAGE
+Basic: PRODUCT
+Arabic: NORP
+Activity Reading: ORG
+UiTM: GPE
+Kedah: GPE
+Special Force of Diploma in Public Administration Club: ORG
+Commitee of Team Building Programme: ORG
+Pendang Lake Resort: FAC
+UiTM: GPE
+Kedah: GPE
+Tresury of Ping Pong Club: ORG
+UiTM: GPE
+Kedah: GPE
+Special Force of Diploma in Public Administration Club: ORG
+Emerald Puteri Hotle: ORG
+Sungai Petani: PERSON
+Sekolah: GPE
+Kampong Pasir: PERSON
+Uitm Kedah: GPE
+Kedah: GPE
+UiTM Kedah Netball: WORK_OF_ART
+Open 2008: DATE
+Persatuan Bola: ORG
+UiTM Kedah: GPE
+UiTM Kedah: GPE
+Kedah: GPE
+Excel: PRODUCT
+Microsoft Office: ORG
+Power Point: ORG
+MS Words: ORG
+PUBLICATION: ORG
+SPSS: ORG
+Supervisor: PERSON
+SYMPHONY: ORG

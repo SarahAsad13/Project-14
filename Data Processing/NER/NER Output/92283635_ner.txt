@@ -1,0 +1,66 @@
+MAINTENANCE SPECIALIST: PERSON
+journeyman electrician: PERSON
+TWPC: ORG
+four years: DATE
+one year: DATE
+TWPC: ORG
+DC, Electronics: ORG
+Radar: PRODUCT
+Safety, FM: ORG
+Name City: GPE
+State: ORG
+Maintenance Specialist: PERSON
+about 250 metric tons: QUANTITY
+Australia: GPE
+Thailand: GPE
+Guam: GPE
+three: CARDINAL
+Marines: NORP
+13: CARDINAL
+10/2013: CARDINAL
+200: CARDINAL
+F-18: PRODUCT
+EA-6B Electronic: ORG
+Troubleshot: PERSON
+Troubleshot: PERSON
+Reconfigurable Transportable: PERSON
+63: CARDINAL
+Marines: NORP
+12: CARDINAL
+Marines: NORP
+three: CARDINAL
+Marines: NORP
+Coordinated: ORG
+about 500: CARDINAL
+Marines: NORP
+daily: DATE
+CONSOLIDATED AUTOMATED SUPPORT SYSTEM (CASS) ADVANCED MAINTENANCE/CALIBRATION INTERMEDIATE
+MAINTENANCE: ORG
+October 2011 City: DATE
+State: ORG
+10%: PERCENT
+November 2010: DATE
+Sequoyah High School: ORG
+10%: PERCENT
+10%: PERCENT
+10%: PERCENT
+Advanced
+Electronics and Components - Pensacola: ORG
+Florida: GPE
+20%: PERCENT
+AC/DC: ORG
+August 2011: DATE
+State: ORG
+10%: PERCENT
+10%: PERCENT
+September 2011 Fundamentals of Digital Logic by Correspondence: DATE
+NAND: ORG
+NOR: ORG
+MAINTENANCE
+Skills
+Basic: PERSON
+CPR: ORG
+DC, Electronics: ORG
+Logic: ORG
+Radar: PRODUCT
+Safety, FM,: ORG

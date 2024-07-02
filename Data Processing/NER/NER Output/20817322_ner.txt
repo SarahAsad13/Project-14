@@ -1,0 +1,82 @@
+22 years: DATE
+Highlights
+Extensive: WORK_OF_ART
+Bilingual: PERSON
+English: LANGUAGE
+Spanish: NORP
+the James Beard House: FAC
+The Food and Wine Classic: ORG
+Aspen: GPE
+Colorado: GPE
+the Les Amis d'Escoffier Society
+
+Featured: ORG
+Completed Beef 101: PRODUCT
+Texas A&M: ORG
+40: CARDINAL
+more than 500: CARDINAL
+Name City: GPE
+State Executive Chef 07/2014 to Current
+
+Manage: ORG
+daily: DATE
+35: CARDINAL
+$5 million: MONEY
+Oversee: ORG
+32%: PERCENT
+8%: PERCENT
+Name City: GPE
+State Executive Chef: ORG
+12/2013: CARDINAL
+50: CARDINAL
+Maintained: GPE
+8.5%: PERCENT
+33%: PERCENT
+a 9,000 square foot: QUANTITY
+Butchered: ORG
+Name City: GPE
+State Executive Chef 08/2012: ORG
+12/2013: CARDINAL
+the Breckenridge-Wynkoop Company: ORG
+Maintained: GPE
+27%: PERCENT
+50: CARDINAL
+weekly: DATE
+8%: PERCENT
+$750,000 to $1.5 million: MONEY
+1 year: DATE
+Breckenridge: ORG
+Name City: GPE
+State: ORG
+Brunch: NORP
+hours: TIME
+Prepared: PRODUCT
+Name City: GPE
+State: ORG
+Sous Chef 10/2006: PERSON
+11/2011: CARDINAL
+$12 million: MONEY
+60: CARDINAL
+Maintained: GPE
+33%: PERCENT
+9%: PERCENT
+Collaborated: ORG
+Recruited: PRODUCT
+Associate of Arts: ORG
+City: GPE
+State: GPE
+United States: GPE
+Restaurant: ORG
+Patisserie and Confectionery, International Cuisine
+
+Indiana University: ORG
+City: GPE
+State: GPE
+United States: GPE
+Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Five years: DATE
+R.S.I.: ORG
+MenuLink: PRODUCT
+ShiftNote: ORG

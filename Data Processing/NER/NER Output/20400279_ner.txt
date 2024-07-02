@@ -1,0 +1,56 @@
+Superb: PERSON
+Detail: ORG
+Time: ORG
+Telephone
+inquiries specialist: ORG
+March 2015: DATE
+October 1995 to February 2014: DATE
+weekly: DATE
+daily: DATE
+first: ORDINAL
+Directed: ORG
+Established: ORG
+Conducted: ORG
+Researched: FAC
+October 1989 to July 1995: DATE
+30,000: MONEY
+monthly: DATE
+Maintained: GPE
+6: CARDINAL
+Directed: ORG
+Data Entry: ORG
+September 1985 to June 1989 Company Name - City: DATE
+daily: DATE
+Loan Servicing Representative: ORG
+August 1984 to August 1985: DATE
+annual: DATE
+the first 15 years: DATE
+daily: DATE
+each day: DATE
+20: CARDINAL
+80%: PERCENT
+each month: DATE
+$1.4 million: MONEY
+Store: PERSON
+as many as 20: CARDINAL
+each day: DATE
+Call Center: ORG
+6 months: DATE
+General-Business Communications: ORG
+1983: DATE
+William Penn Vo-tech: PERSON
+Harrisburg: GPE
+USA General-Business
+Communications: ORG
+Morgan State University - City: ORG
+State: GPE
+USA: GPE
+Skills
+
+Computer: ORG
+monthly: DATE
+Detail: PERSON
+MS Office: ORG
+Microsoft: ORG
+Microsoft: ORG
+Time: ORG

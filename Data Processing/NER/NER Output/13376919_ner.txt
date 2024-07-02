@@ -1,0 +1,47 @@
+REGIONAL: ORG
+Generalist: PERSON
+Highlights
+PeopleSoft: FAC
+Oracle, ATS Office Package: ORG
+MS Word: PERSON
+MS Excel: ORG
+MS PowerPoint: PERSON
+MS Outlook: GPE
+700: CARDINAL
+300: CARDINAL
+Conducted: ORG
+summer: DATE
+Coordinated: ORG
+half-yearly: DATE
+annual: DATE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+annual: DATE
+Recruitment and Generalist services: ORG
+the North Zone: LOC
+Coordinated 360: PRODUCT
+monthly: DATE
+Conducted: ORG
+Accredited: ORG
+the North Zone: LOC
+Vendor Management: ORG
+Assisted: ORG
+Accredited: ORG
+MBA : Human Resources: WORK_OF_ART
+2007: DATE
+GHS-IMR Business School India Human Resources: ORG
+Uttar Pradesh University: ORG
+India: GPE
+Skills: ORG
+MS Excel: ORG
+Office: ORG
+MS Outlook: GPE
+MS PowerPoint: PERSON
+MS Word: PERSON
+Oracle: ORG
+PeopleSoft: ORG
+Recruitment: PERSON
+Vendor
+Management: ORG
+annual: DATE

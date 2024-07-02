@@ -1,0 +1,46 @@
+Marine Corps Veteran: ORG
+Highlights: GPE
+Knowledgeable: PRODUCT
+August 2007: DATE
+December 2016: DATE
+Name City: GPE
+State: ORG
+Law, Government,: ORG
+Pennsylvania History: PERSON
+LMS Platforms: ORG
+Department Chair: ORG
+8: CARDINAL
+SAP: ORG
+Rodney Slappy: PERSON
+1 866: CARDINAL
+April 2006: DATE
+July 2007: DATE
+Name City: GPE
+State Appraisal Coordinator
+
+Manage: ORG
+Facilitate: ORG
+Troubleshoot: PRODUCT
+12/2009: CARDINAL
+Robert Morris University City: ORG
+State: GPE
+United States: ORG
+3.96: CARDINAL
+30: CARDINAL
+Alpha Chi National College: ORG
+Robert Morris University City: ORG
+State: GPE
+United States Bachelor of Arts : Social Studies: GPE
+3.38: CARDINAL
+GPA: ORG
+84: CARDINAL
+United States Marine Corps: ORG
+June 1988 to December 1995: DATE
+Highest Rank: ORG
+Heavy Weapons Infantry Company Lead: ORG
+Marines: NORP
+25th: ORDINAL
+Moundsville: GPE
+WV Weapons Company: ORG
+Port Hueneme: PERSON
+CA: ORG

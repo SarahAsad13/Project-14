@@ -1,0 +1,31 @@
+Jan 2015 to Dec 2016: DATE
+up to 40: CARDINAL
+a Prep Cook: PERSON
+two: CARDINAL
+daily: DATE
+weekly: DATE
+BEO: ORG
+Line Cook: PERSON
+May 2014 to Dec 2015: DATE
+Maintained: GPE
+Maintained: GPE
+Cooked: PERSON
+Line Cook: PERSON
+May 2014 to Oct 2014: DATE
+Cooked: PERSON
+Maintained: GPE
+Maintained: GPE
+the Executive Chef: ORG
+Baker: PERSON
+Dec 2013 to: DATE
+May 2014: DATE
+8 continuous hours: TIME
+100 degrees: QUANTITY
+Sous Chef Jan 2010: PERSON
+Nov 2013: DATE
+daily: DATE
+Maintained: GPE
+the Executive Chef: ORG
+Thomas Edison: PERSON
+State: ORG
+San Joaquin Delta Community College - City: ORG

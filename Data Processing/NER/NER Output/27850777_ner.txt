@@ -1,0 +1,86 @@
+BUSINESS DEVELOPMENT: ORG
+Summary
+
+Business Development Manager & Talent Acquisition Specialist: ORG
+BDM & Recruiter: ORG
+the Information Technology: ORG
+Business Development Analyst: ORG
+5+ years: DATE
+the Staffing/Recruiting Services: ORG
+Business Development: ORG
+National: ORG
+Spanish: NORP
+Adept: ORG
+Analytical: PRODUCT
+JobDiva, MaxHire & Sugar CRM: ORG
+Current
+Business Development: ORG
+monthly: DATE
+50%: PERCENT
+Cold: PERSON
+80+: CARDINAL
+3: CARDINAL
+2: CARDINAL
+2 months: DATE
+the IT Recruiting/Staffing industry: EVENT
+Coordinated: ORG
+Marketed: ORG
+Created: ORG
+RFP: ORG
+Maintained: GPE
+Collaborated: ORG
+Cold: PERSON
+80+: CARDINAL
+Develope: PERSON
+5: CARDINAL
+10: CARDINAL
+Nationwide: ORG
+30%: PERCENT
+12/2012: CARDINAL
+Talent Acquisition Consultant / Account Executive Company Name - City: ORG
+48: CARDINAL
+40%: PERCENT
+Conducted: ORG
+4: CARDINAL
+15: CARDINAL
+weekly: DATE
+Completed 100: PRODUCT
+daily: DATE
+10%: PERCENT
+100%: PERCENT
+SugarCRM & Smart Search: ORG
+weekly: DATE
+Maintained: GPE
+SugarCRM: PERSON
+Cisco Systems: ORG
+Aha Mobile: ORG
+Harman Kardon: PERSON
+eBay: ORG
+PayPal: ORG
+Ross Stores: ORG
+Move: PERSON
+Apigee & Sephora
+USA: ORG
+more than $500: MONEY
+1 month: DATE
+5: CARDINAL
+$2 Million: MONEY
+annual: DATE
+100%: PERCENT
+KPI: ORG
+Grew: PERSON
+100%: PERCENT
+60 days: DATE
+2010: DATE
+Santa Cruz - City: GPE
+State: GPE
+Environment & Society: ORG
+EOP Club
+
+Coursework in Communications and Psychology
+
+Coursework in Marketing and Advertising
+
+Minor in Education: ORG
+one: CARDINAL
+Self - Starter & self-motivated: ORG

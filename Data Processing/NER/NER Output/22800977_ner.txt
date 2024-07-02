@@ -1,0 +1,108 @@
+Principal: PERSON
+12 years: DATE
+MENTOR: LOC
+Microsoft Office: ORG
+Adobe Illustrator
+CAD: WORK_OF_ART
+Prezi: ORG
+Goggle Share Documents: WORK_OF_ART
+10 years: DATE
+Modification
+Learning: PRODUCT
+Building Relations: WORK_OF_ART
+Goal Setting
+Team Building
+Problem Solver
+
+Professional Experience
+: WORK_OF_ART
+Principal 08/2013: ORG
+Principal: PERSON
+Coordinate: ORG
+Generate: PERSON
+Foster: PERSON
+Advise: PRODUCT
+Liaison: PERSON
+Liaison: PERSON
+PTO Liaison
+Design School Newsletters
+Authorize: ORG
+Student (Mentor Program)Â 
+Supervise: ORG
+Crises Prevention Intervention: ORG
+Coordinate: FAC
+Generate and Implement Emergency Operations Plan: WORK_OF_ART
+monthly: DATE
+Supervise Â: PERSON
+Art Teacher: PERSON
+Art Teacher: PERSON
+6: CARDINAL
+Administration: ORG
+V.I.P.S.: GPE
+Fine Arts: PERSON
+State: ORG
+6: CARDINAL
+Fine Arts: PERSON
+Fine Arts: PERSON
+Facilitated: ORG
+Fine Arts: PERSON
+Visual Arts: ORG
+Established Â: PRODUCT
+Professional Development for the Harmony's Fine Arts: ORG
+Mentor: LOC
+Sponsored: ORG
+National and International: ORG
+Turkey: GPE
+Germany: GPE
+France: GPE
+Holland: GPE
+Assisted: ORG
+Prepared: PERSON
+Initiated Â: ORG
+Sponsored: ORG
+Multicultural: ORG
+Training
+Educational Administration 2011: ORG
+State: GPE
+US: GPE
+the Texas A & M University System Prairie View: ORG
+Educational Administration
+Educational Leadership and Counseling
+Graduated Summa Cum: WORK_OF_ART
+4.0Â: CARDINAL
+State: GPE
+US Wentworth Institute of Technology: ORG
+Boston: GPE
+Massachusetts Bachelor of Science - Industrial Design Technology
+Mechanical Engineering Technology Women's Technical Institute City: ORG
+State: GPE
+US Associates of Applied Science-Mechanical Engineering
+Technology Women's Technical Institute Â Boston: ORG
+Massachusetts: GPE
+Teacher-Highly: ORG
+Teen Leadership
+Communication Application: ORG
+Gifted &: ORG
+Certificate - Mechanical and Electrical Drafting: ORG
+Community Involvement: ORG
+World Refugee Day: EVENT
+June 21, 2014: DATE
+Houston Community Mural-Denver Harbor Park: ORG
+Museum of Fine Arts: ORG
+Presenter: PERSON
+Texas Art Education Association: ORG
+TAEA: ORG
+Industrial Designers Society of America: ORG
+Regional Visual Arts Scholastic Events: ORG
+Â 
+Interviewer: PERSON
+Interviewed Middle and High: WORK_OF_ART
+hundreds: CARDINAL
+Texas: GPE
+the University of Houston â€“Clear Lake
+Â 
+Leadership Conference:: ORG
+May 1999: DATE
+Skills
+Fundraising
+Multi - Task Management: ORG

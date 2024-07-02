@@ -1,0 +1,157 @@
+nearly 5 years: DATE
+HR Operations: ORG
+Employee Relation: ORG
+HRIS: ORG
+Payroll: ORG
+HR Metrics &: ORG
+Employee Database Management: ORG
+communicator & negotiator: ORG
+Highlights
+
+Microsoft Office: ORG
+Excel: PRODUCT
+Oracle: PERSON
+11.x: CARDINAL
+12.x: CARDINAL
+Cognos: ORG
+Oracle BI: ORG
+Discoverer
+Time Keeping: ORG
+Kronos: PERSON
+KABA Compensation
+Benefits Management: ORG
+Budgetary Planning
+Audit & MIS
+Legal Compliance
+Training
+Excel: ORG
+Advance Excel: PRODUCT
+SAP: ORG
+Oracle
+Cognos
+Oracle
+HR Implementation
+Requirement Gathering
+Process Flows
+Testing
+Training
+Documentation: ORG
+Recruit: ORG
+HRIS: PERSON
+Payroll Calculation
+Benefits Management
+Personnel: WORK_OF_ART
+Quick Learner: PERSON
+Budgetary Planning
+Audit & MIS
+Legal Compliance
+Training
+Excel: ORG
+Advance Excel: PRODUCT
+SAP: ORG
+Oracle
+Cognos
+Oracle
+HR Implementation
+Requirement Gathering
+Process Flows
+Testing
+Training
+Documentation: ORG
+Recruit: ORG
+HRIS: PERSON
+Payroll Calculation
+Benefits Management
+Personnel: WORK_OF_ART
+January 2012 to April 2014: DATE
+1300: DATE
+L'Oreal India Pvt Ltd: ORG
+Keratase, Matrix: ORG
+Kielhs: PERSON
+Maybelline: ORG
+L'Oreal Paris: ORG
+One: CARDINAL
+Oracle HRMS: LOC
+L'Oreal: ORG
+Recruit: ORG
+Oracle ERP: ORG
+OSHA: ORG
+401k: PRODUCT
+January 2012 to April 2014: DATE
+1300: DATE
+L'Oreal India Pvt Ltd: ORG
+Keratase, Matrix: ORG
+Kielhs: PERSON
+Maybelline: ORG
+L'Oreal Paris: ORG
+One: CARDINAL
+Oracle HRMS: LOC
+L'Oreal: ORG
+Recruit: ORG
+Oracle ERP: ORG
+OSHA: ORG
+401k: PRODUCT
+January 2011 to January 2012: DATE
+Processed: GPE
+monthly: DATE
+Payroll: ORG
+mid-year: DATE
+Created: ORG
+HR Metrics: ORG
+New Hire Cost: ORG
+Annual Budgeting & Trending: ORG
+L'Oreal India Pvt Ltd: ORG
+L'Oreal India: ORG
+700: CARDINAL
+Voltas: GPE
+India: GPE
+Issuance of Letters - Appointment: ORG
+HRIS: PERSON
+SAP: ORG
+Processing Full & Final: ORG
+MIS: ORG
+HR & Payroll: ORG
+January 2008 to January 2011: DATE
+2000: DATE
+Preparation of Wage: ORG
+Muster Roll: ORG
+Lobo Staffing Solutions Pvt: WORK_OF_ART
+Bachelor: ORG
+May-2006 University of Mumbai Arts - Economics: ORG
+May-2006 University of Mumbai Arts - Economics: ORG
+HR Certification Institute PHR Certification: ORG
+December 2015: DATE
+Saylor Academy: ORG
+HR Certification Institute PHR Certification: ORG
+December 2015: DATE
+Saylor Academy
+Human Resource Management Certification: ORG
+2014: DATE
+Ulyanovsk State University of Russia: ORG
+Human Resource Management Certification: ORG
+2014: DATE
+Ulyanovsk State University: ORG
+Russia: GPE
+2008: DATE
+Welingkar Institute of Management India Human Resource: ORG
+2008: DATE
+Welingkar Institute of Management India Human Resource: ORG
+USA: GPE
+Budgeting: GPE
+BI: GPE
+Cognos: GPE
+Dependable, Documentation: ORG
+ERP: ORG
+HRIS: ORG
+Human Resource Management: ORG
+Kronos: ORG
+Legal Compliance: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+2000: DATE
+MIS: ORG
+Oracle, Payroll, Process Payroll: ORG
+Personnel: ORG
+Quick
+Learner: ORG
+SAP: ORG

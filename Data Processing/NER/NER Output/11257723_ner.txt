@@ -1,0 +1,19 @@
+several years: DATE
+Critical: PRODUCT
+In-Synch Award Successfully: ORG
+Best Practices: ORG
+Subrogation, Risk Control: ORG
+eight: CARDINAL
+Communicate: ORG
+Coach: ORG
+01/2004: CARDINAL
+07/2000: CARDINAL
+01/2004: CARDINAL
+Risk Management General Counsel: ORG
+multimillion dollar: MONEY
+Risk Management: ORG
+Defense Counsel: ORG
+Training
+B.S :: ORG
+Customer: ORG
+litigation management: ORG

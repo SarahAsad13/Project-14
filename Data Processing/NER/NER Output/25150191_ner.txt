@@ -1,0 +1,68 @@
+Skills
+
+MS Office Suite: ORG
+Team: ORG
+Time: ORG
+mid-year: DATE
+year-end: DATE
+PTO/Vacation: ORG
+Payroll: ORG
+10/2014: CARDINAL
+Admissions Representative Company Name: ORG
+Admissions: ORG
+Company: NORP
+10/2014: CARDINAL
+Recruiting Coordinator: ORG
+05/2014
+Branch Coordinator Company Name: ORG
+State
+
+Conserve: ORG
+HTI: ORG
+Compile: PRODUCT
+Maintain: PRODUCT
+Answer: LOC
+weekly: DATE
+Training: PERSON
+June 24, 2013: DATE
+State Business: ORG
+Finance: ORG
+May 7, 2011
+Bachelor of Arts: DATE
+Mass Communication Fayetteville StateUniversity: ORG
+State Communication: ORG
+Mass Communication 3.583: ORG
+Dean: PERSON
+List
+Personal Information
+
+https://www.linkedin.com/in/e-april-bradford-14241955
+Activities and Honors
+Greenville Society for Human Resource Management: ORG
+2015-2016: DATE
+Society for Human Resource Management: ORG
+2015-2016: DATE
+Treasurer/Guardian: ORG
+2014: DATE
+2013-2015: DATE
+Golden Key International Honour Society: WORK_OF_ART
+2012-2015: DATE
+2012: DATE
+Connections Committee: ORG
+Alpha Sorority Inc.: ORG
+2010-2011: DATE
+Kappa Alpha Sorority Inc.: ORG
+2010: DATE
+Delta Alpha: ORG
+2010-2011: DATE
+2013-2014: DATE
+Skills
+Benefits: ORG
+Team: ORG
+MS Office Suite: ORG
+Multi: GPE
+Payroll: ORG
+Time: ORG
+year-
+end,: DATE
+year-end: DATE

@@ -1,0 +1,79 @@
+FINANCE: ORG
+15 years: DATE
+F&I: ORG
+monthly: DATE
+CSI: ORG
+Adapt: ORG
+the year: DATE
+the past 2 years: DATE
+2002: DATE
+the year 2003: DATE
+the year: DATE
+Rolex: PERSON
+2,000: MONEY
+every month: DATE
+Finance: ORG
+Current Company Name: ORG
+Submit: ORG
+monthly: DATE
+Verify: LOC
+Negotiate: GPE
+Prepare: ORG
+KarPower: ORG
+DealerClick: ORG
+Reynolds & Reynolds
+Handle: ORG
+daily: DATE
+Understand: GPE
+Prepare: ORG
+Facilitated: ORG
+Products: ORG
+Contracts: ORG
+Familiar: PERSON
+Established: ORG
+monthly: DATE
+CSI: ORG
+Oversaw: GPE
+monthly: DATE
+quarterly: DATE
+year end: DATE
+Maintained: GPE
+Established: ORG
+Submitted: ORG
+monthly: DATE
+Prepared: PRODUCT
+KarPower: ORG
+DealerClick: ORG
+Reynolds & Reynolds: ORG
+Familiar: PERSON
+Manufacturer: ORG
+DMV: ORG
+05/2001: CARDINAL
+250: CARDINAL
+6: CARDINAL
+Established: ORG
+the end of each day: DATE
+week: DATE
+month: DATE
+year: DATE
+Recruited: PRODUCT
+Monitored: ORG
+Assisted: ORG
+Communicated: ORG
+Maintained: GPE
+07/1995: DATE
+monthly: DATE
+Web-Site Development: ORG
+Arranged: PERSON
+Domestic & International Shipping/Packaging
+Responsible: ORG
+Career: FAC
+Business/Marketing Business/Marketing Business Administration: ORG
+1985: DATE
+Coeur d'Alene High School
+
+Business Administration Business/Accounting: PERSON
+1987: DATE
+North Idaho College
+
+Business/Marketing Business/Marketing Business Administration: ORG

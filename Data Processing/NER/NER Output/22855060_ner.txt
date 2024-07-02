@@ -1,0 +1,61 @@
+10 years: DATE
+2010: DATE
+Pro Sponsored Athlete
+Healthy lifestyle: WORK_OF_ART
+WEOA: ORG
+98.5 Evansville: PRODUCT
+15,000: CARDINAL
+Instagram, Facebook, Google+: ORG
+Coordinated &: ORG
+1,000: CARDINAL
+15,000: CARDINAL
+Recruited: PRODUCT
+20: CARDINAL
+15,000: CARDINAL
+Maintained: GPE
+Trained: ORG
+90%: PERCENT
+three: CARDINAL
+Obtained: ORG
+Maintained: GPE
+daily: DATE
+each quarter: DATE
+Cleaned: FAC
+100%: PERCENT
+Welcomed: ORG
+Mentored: ORG
+Assisted: ORG
+Muscle Model - WBFF: PERSON
+World Championships 2014: EVENT
+Mar 2015: DATE
+16: CARDINAL
+Oversee All Operations: ORG
+weekly: DATE
+Front Desk: ORG
+weekly: DATE
+Reports
+
+Education
+High School Diploma: ORG
+indiana: GPE
+City: GPE
+State: GPE
+united states: GPE
+Coursework in Business, Management and Communications/ Strategic Leadership: ORG
+CPR International Fitness Professional Associate Certified - Weight Lifting: ORG
+Kickboxing: PERSON
+Aerobics Any: PERSON
+Thomco Insurance
+Skills
+
+Clients, Training, Customer Service: ORG
+Operations: ORG
+Receptionist: NORP
+Account Management: ORG
+Register, Closing, Correspondence, Credit: ORG
+Credit Card: ORG
+Customer Relations: ORG
+Instructor: ORG
+Sales Associates: ORG
+CPR: ORG
+Front Desk: PERSON

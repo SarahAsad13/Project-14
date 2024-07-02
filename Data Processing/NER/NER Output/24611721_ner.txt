@@ -1,0 +1,73 @@
+Summary
+Human Resource Professional:: ORG
+Highlights
+Microsoft Office Suite: ORG
+PeopleSoft: ORG
+Outlook: PERSON
+Word: PERSON
+Excel: PRODUCT
+Power Point: ORG
+June 2013: DATE
+Columbia University: ORG
+Human Resources: ORG
+Payroll Labor Accounting: ORG
+Data: ORG
+JACS: ORG
+Finance: ORG
+PeopleSoft HCM: ORG
+Answer: ORG
+Payroll Operations: ORG
+Payroll Labor Accounting: ORG
+Vendor Management: ORG
+HRPC: ORG
+Knowledgeable of Columbia University's: ORG
+Workplace: PERSON
+Labor Laws: LAW
+June 2011 to April 2013: DATE
+120: CARDINAL
+Coordinated: PRODUCT
+Targeted: NORP
+Osceola: GPE
+Orange County: GPE
+Maintained: GPE
+Processed: GPE
+Medicaid: ORG
+HMO Billing: ORG
+Oversaw: GPE
+June 2009 to June 2011 Company Name: DATE
+80: CARDINAL
+NY Staffing, Access Staffing, Work Force 1: ORG
+Success: ORG
+ACS: ORG
+Domestic Violence: ORG
+24/7: CARDINAL
+Human Resource Management: ORG
+2015: DATE
+DeVry University: ORG
+State
+
+Human Resource Management
+
+Bachelor of Arts: ORG
+Spanish Communications: ORG
+2009: DATE
+Le Moyne College: ORG
+Spanish: NORP
+Spanish: NORP
+Graduate Management School
+Languages
+Fluent: ORG
+Spanish: LANGUAGE
+English: LANGUAGE
+Skills: ORG
+English: NORP
+Human Resource: ORG
+Human
+Resources: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Word: PERSON
+Payroll: ORG
+PeopleSoft: ORG
+Spanish: NORP

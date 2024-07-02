@@ -1,0 +1,90 @@
+QUALITY: ORG
+Career Overview
+
+Coaching & Development Technical Support Ability: ORG
+Development Knowledgeable: ORG
+Energetic: PRODUCT
+Core Strengths
+
+Customer Service Professional: WORK_OF_ART
+Key Strengths
+Quality Assurance: LOC
+Escalations
+Training
+Development &
+Delivery
+Leadership &
+Management
+
+Accomplishments
+
+Customer Assistance Â 
+
+Worked: ORG
+Live Support: LOC
+Annual: DATE
+the year: DATE
+Completed Love: WORK_OF_ART
+Lose: PERSON
+CLE Training
+Award for Leadership Support: PRODUCT
+the year: DATE
+Quality Assurance Lead 08/2014: FAC
+Analyze
+Mobility Support Departments Created Mobility Support Team: PRODUCT
+Mobility Support: PERSON
+10%: PERCENT
+weekly: DATE
+Participate: ORG
+Assisted: ORG
+Created: ORG
+monthly: DATE
+Trained Management on Excel: ORG
+Contributed: ORG
+Sprint: ORG
+Created Informational
+Development: ORG
+Created: ORG
+Assisted: ORG
+Development Progress: ORG
+11/2010: CARDINAL
+Name City: GPE
+15%: PERCENT
+Assisted: ORG
+Customer: ORG
+Net Promoter: ORG
+90%: PERCENT
+Conducted: ORG
+third: ORDINAL
+Client Services Representatives: ORG
+Monitored: ORG
+11/2010: CARDINAL
+Name City: GPE
+Emergency Dispatch Agent Consistent: ORG
+Quality Assurance Department: ORG
+6 months: DATE
+Created Culture: ORG
+Created: ORG
+Monitored: ORG
+Technical Customer Service: ORG
+Name City: GPE
+Troubleshoot Mac: ORG
+Maintained: GPE
+12 minutes: TIME
+Data Entry: ORG
+Fios: NORP
+Name City: GPE
+Processed: GPE
+Researched: ORG
+Mentored: ORG
+Created: ORG
+August 2000: DATE
+Newman: PERSON
+Smith High School City: ORG
+2016: DATE
+Mac: PERSON
+Outlook exchange: ORG
+Training Development &
+Delivery: ORG
+Troubleshooting,Strong: WORK_OF_ART
+Careful: PRODUCT

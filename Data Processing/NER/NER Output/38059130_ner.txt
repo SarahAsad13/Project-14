@@ -1,0 +1,79 @@
+Human Resource: ORG
+Profit & Loss: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Advise: ORG
+EEOC: ORG
+OFCCP: ORG
+DPL: ORG
+third: ORDINAL
+08/2012: PERSON
+the Human Resources Department: ORG
+the HR Dept: ORG
+hourly: TIME
+08/2012 Company Name City: EVENT
+hourly: TIME
+Provide: NORP
+Investigate & prepare: ORG
+internal & external EEO: ORG
+five: CARDINAL
+thirty eight: CARDINAL
+38: CARDINAL
+Managers: ORG
+eleven hundred plus: CARDINAL
+two: CARDINAL
+FedEx Central Region: ORG
+13: CARDINAL
+8: CARDINAL
+two: CARDINAL
+State: ORG
+DOT: ORG
+FAA: ORG
+Matrixed: PERSON
+1200 + ee's: DATE
+Consult: ORG
+Investigate &: ORG
+internal & external EEO: ORG
+Name City: GPE
+01/2003 Company Name City: EVENT
+State Responsible: ORG
+Generalist / Recruiter - Responsible: ORG
+Counsel: ORG
+Regional Recruitment: ORG
+Name City: GPE
+State: ORG
+80%: PERCENT
+21: CARDINAL
+Name City: GPE
+State Responsible: ORG
+State: ORG
+24hr: ORDINAL
+$13 million: MONEY
+annually: DATE
+46: CARDINAL
+Keller Graduate School of Management / Tinley Park: ORG
+IL - Human Resource Management City: ORG
+State: GPE
+US: GPE
+Keller Graduate School of Management / Tinley Park: ORG
+Illinois
+
+Masters in: ORG
+Human Resource Management: ORG
+University - Business Administration City: ORG
+State: GPE
+US: GPE
+Alcorn State University / Lorman: ORG
+Mississippi: GPE
+HRCI: WORK_OF_ART
+Society for Human Resource Management: ORG
+Skills
+
+Human Resources: ORG
+Employee Relations, Recruitment, Organizational Development, Payroll, Purchasing, Equal Employment Opportunity: ORG
+Project Management: ORG
+Budget: ORG
+Microsoft Office: ORG
+PowerPoint: ORG
+Word, Human Resource Management: ORG

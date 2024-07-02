@@ -1,0 +1,56 @@
+21 years: DATE
+daily: DATE
+daily: DATE
+Microsoft: ORG
+State: ORG
+04/1999 - 04/2000: CARDINAL
+Collaborated: ORG
+RN: ORG
+24: CARDINAL
+RN: ORG
+Maintained: GPE
+Translated: ORG
+jargon: ORG
+Transcribed: GPE
+Maintained: GPE
+Name - Healthcare: ORG
+Coordinator City: GPE
+State: ORG
+02/2001 - 08/2007: PERSON
+Maintained: GPE
+daily: DATE
+Assisted: ORG
+the next day: DATE
+Collaborated: ORG
+II City: GPE
+State: ORG
+Cath Lab: PERSON
+Screens: PERSON
+Maintained: GPE
+daily: DATE
+Excel: PRODUCT
+Word, eProcurement: ORG
+Perioperative tracking Board: ORG
+Lumdex: ORG
+Develop: ORG
+daily: DATE
+daily: DATE
+minutes: TIME
+Utilized Microsoft Teams: ORG
+Collaborated: ORG
+Calm: PERSON
+Customer Service: ORG
+Understands: GPE
+Technologically: PERSON
+Transmitting: GPE
+Excel: PRODUCT
+Records: ORG
+Data: ORG
+Microsoft Office: ORG
+Documentation: PRODUCT
+Time: ORG
+GED Unitah High School City 05/1998: ORG
+Certified Nursing Assistant Certificate : Nursing Practice Utah State University City: WORK_OF_ART
+State: ORG
+Associate of Applied Science : Business Healthcare Administration: WORK_OF_ART
+Utah State University City Expected: ORG

@@ -1,0 +1,86 @@
+OPERATIONS: ORG
+BPO
+Executive Summary: ORG
+15 years: DATE
+Core Competencies
+
+Operations Management
+Staff Development
+Change: ORG
+Complex Problem Solving: ORG
+Computer-Savvy
+Skilled: ORG
+Operations: ORG
+Name City: GPE
+Over 200: CARDINAL
+200: CARDINAL
+Concentrix: PERSON
+2.2 Million to 3 Million: CARDINAL
+monthly: DATE
+four consecutive quarters: DATE
+Close Ratio, Activation: GPE
+daily: DATE
+Revamped: PRODUCT
+a day to day: DATE
+P & L: ORG
+05/2010 to 11/2013: CARDINAL
+Name City: GPE
+1: MONEY
+2010: DATE
+KPI: ORG
+Close Ratio, Activation's: GPE
+ARPU: ORG
+the Direct Sales Strategy: ORG
+Compensation Plans, Training & Quality: ORG
+Hired and Trained new Management: ORG
+Daily: DATE
+Name City: GPE
+daily: DATE
+50: CARDINAL
+300: CARDINAL
+Led Supervisors and Managers: ORG
+daily: DATE
+#1: MONEY
+every week: DATE
+2006-2010: DATE
+YoY: GPE
+19%: PERCENT
+2005: DATE
+32%: PERCENT
+2010.Â Â 
+: CARDINAL
+a day to day: DATE
+2009: DATE
+Direct Sales: ORG
+Phoenix: GPE
+AZ: ORG
+Executive Management: ORG
+Responsible for P & L: ORG
+300: CARDINAL
+11/2003 to 10/2005: CARDINAL
+Name City: GPE
+14: CARDINAL
+daily: DATE
+annual: DATE
+one: CARDINAL
+one: CARDINAL
+5: CARDINAL
+Team: ORG
+Supervisor: PERSON
+daily: DATE
+weekly: DATE
+Training
+Business Management 2001: ORG
+College City: GPE
+State: GPE
+USA: GPE
+Skills
+Business Management: ORG
+Client: GPE
+Customer Satisfaction: PERSON
+Customer Services: ORG
+Direct Sales: ORG
+Executive Management: ORG
+Enterprise: ORG
+Network: ORG
+Spanish: NORP

@@ -1,0 +1,65 @@
+1,200: MONEY
+5k: MONEY
+January 2013: DATE
+Fault Isolation: ORG
+PPQ: ORG
+daily: DATE
+Pico: PERSON
+DMM: ORG
+Digital Phosphor Oscilloscope: ORG
+First: ORDINAL
+3: CARDINAL
+Monthly: DATE
+mount technologies: LOC
+ESD: ORG
+January 2011 to January 2012: DATE
+Addecco Service Daily Calibration: ORG
+monthly: DATE
+PSI: ORG
+Mettler Toledo: FAC
+Assistance: PERSON
+January 2005 to January 2011: DATE
+Amgen: ORG
+Utilities: ORG
+AIT: ORG
+TE: ORG
+Flow Meters: PERSON
+PIT: ORG
+LIT: ORG
+GMP: ORG
+GMP: ORG
+Bachelor of Science : Electrical Engineering: ORG
+2009: DATE
+POLYTECHNIC UNIVERSITY OF PUERTO: ORG
+RICO: DATE
+RICO: LAW
+PR Bachelor of Science in Electrical Engineering: ORG
+2009: DATE
+GPA: ORG
+2.50/3.00: CARDINAL
+Accomplishments
+Accomplished: PRODUCT
+Bachelor: ORG
+Science of Electrical Engineer: ORG
+Control System Design: ORG
+Certifications: ORG
+AIT: ORG
+Spanish: NORP
+Skills
+Maintenance, Corrective Maintenance, Documentation: ORG
+Industrial Machinery: ORG
+Apqp,: ORG
+Assembly, Circuit
+Boards, Dmm, Electrical Test: ORG
+First Article Inspection, Inspection, Medical Devices,: ORG
+Soldering: GPE
+Surface Mount: GPE
+Test Engineer: ORG
+Wiring, Calibration, Control Systems: ORG
+Packaging, Process Control: ORG
+Sensor: PERSON
+Engineer: ORG
+Engineer: ORG
+Proactive: PERSON
+Self Motivated: PERSON
+Testing, Training, Electrical Engineering: WORK_OF_ART

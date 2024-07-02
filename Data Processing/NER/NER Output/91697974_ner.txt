@@ -1,0 +1,84 @@
+Paralegal: GPE
+More than 5 years: DATE
+Detail: PERSON
+Westlaw: PERSON
+Concordance: GPE
+CaseMap: ORG
+Knowledge of Local: ORG
+State: ORG
+Principles and Practices of Legal Communication
+Court Procedures/Processes
+
+Results-oriented
+Client: WORK_OF_ART
+Interview Techniques and Methods
+Word: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Access: ORG
+Information Technology Coordinator: ORG
+01/2014 - Current Company Name - City: ORG
+the Senior Leadership Team: ORG
+CIO: ORG
+Senior Leadership Team: ORG
+Single Point of Contact: ORG
+Information Technology Operations Assessment: ORG
+BRM: ORG
+working cross: ORG
+Gather: ORG
+Collect: ORG
+Contractor: PERSON
+Quality: ORG
+Oversaw: GPE
+the Law School Division: ORG
+Chicago Office: ORG
+Established: ORG
+Education: ORG
+2014: DATE
+Lake County - City: GPE
+State CFTC - Computer Forensics Technician Certification Computer Forensics: ORG
+2014: DATE
+Lake County - City: GPE
+State CFAC - Computer Forensics Analyst Certification Computer Forensics: ORG
+2013: DATE
+Lake County - City: GPE
+State Certificate of Completion: ORG
+the American Bar Association: ORG
+2008: DATE
+Strayer University - State Bachelor of Science Computer Information Systems InfoSec
+
+Computer Information Systems: ORG
+Emphasis: ORG
+InfoSec
+
+Computer Information Systems: ORG
+Emphasis: ORG
+InfoSec: ORG
+Cisco: GPE
+CCNA: PERSON
+CCNA-Security: PERSON
+CCNA-Voice: ORG
+Microtrain, Lombard: ORG
+IL: ORG
+Professional Affiliations: ORG
+Illinois Paralegal Association ': ORG
+National Federation of Paralegal Association: ORG
+Cook County Bar Association: ORG
+Lake County Bar Association: ORG
+Legal Support: PERSON
+Business Operations: ORG
+Detail: PERSON
+Documentation: PRODUCT
+Time
+Management, Information Technology and Technical Support, Leadership, Legal Terminology: ORG
+Managerial Experience: ORG
+Meeting Organizational: PERSON
+Advanced Problem: ORG
+Skills: ORG
+Paralegal: GPE
+Personnel: ORG
+Processes, Procurement: ORG
+Project
+Management: ORG
+Westlaw: PERSON
+LexisNexis: ORG

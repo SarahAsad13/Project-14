@@ -1,0 +1,77 @@
+DIGITAL: ORG
+Highlights
+HTML: FAC
+CSS: ORG
+MS Office: ORG
+Magento: ORG
+Simparel: ORG
+Active Collab: PERSON
+AS400: PRODUCT
+Visuality Pro - Familiar: PERSON
+Google Analytics: ORG
+Photoshop: PERSON
+FTP: ORG
+KWI: ORG
+Blue Cherry: ORG
+Avalara: PERSON
+Smart Focus: PERSON
+Bergen Logistics: ORG
+Authorize.net: ORG
+International Checkout: ORG
+DIGITAL: ORG
+State: ORG
+Liaison: PERSON
+the Creative Marketing Studio: ORG
+Studio: ORG
+Tommy.com: ORG
+third: ORDINAL
+Established: ORG
+US: GPE
+Name City: GPE
+third: ORDINAL
+third: ORDINAL
+third: ORDINAL
+Spearheaded: PERSON
+ERP: ORG
+01/2013 Company Name City: ORG
+50%: PERCENT
+one year: DATE
+over $500,000: MONEY
+Dallas: GPE
+Atlanta: GPE
+Las Vegas: GPE
+NYC: LOC
+Name City: GPE
+annual: DATE
+$3.5 million: MONEY
+Grew: PERSON
+25%: PERCENT
+230,000: MONEY
+yearly: DATE
+15-30%: PERCENT
+$4 million: MONEY
+European: NORP
+year-over-year: DATE
+NYC: LOC
+Las Vegas: GPE
+Dallas: GPE
+35-40%: PERCENT
+Name City: GPE
+David
+Yurman: PERSON
+Cole Haan: PERSON
+Betsey Johnson: PERSON
+Leiber Eyewear,: ORG
+Ann Taylor: PERSON
+20: CARDINAL
+100,000: MONEY
+GENERAL ASSEMBLY Front-End Web Development UNIVERSITY OF KENTUCKY: ORG
+Photoshop: PERSON
+AS400: PRODUCT
+CSS: ORG
+ERP: ORG
+Focus: ORG
+FTP: ORG
+Google Analytics: ORG
+Logistics: ORG
+MS Office: ORG

@@ -1,0 +1,73 @@
+YARDI: ORG
+Peachtree: GPE
+Peoplesoft: ORG
+OneSite: ORG
+QuickBooks Microsoft Word: ORG
+Excel: PRODUCT
+Accountant: ORG
+Independent: ORG
+Accountant: ORG
+Accounting Management: ORG
+FDH Velocitel: ORG
+04/2010 to 07/2014: CARDINAL
+monthly: DATE
+AIA: ORG
+annual: DATE
+Northwood Ravin: ORG
+Southeast: LOC
+Developers: ORG
+Monthly: DATE
+Retail/Parking Deck: ORG
+annual: DATE
+Margaret Brown Page 2: ORG
+Update Fixed Assets: ORG
+Liaison: PERSON
+Diebold Fire Services: ORG
+Virginia: GPE
+North Carolina: GPE
+South Carolina: GPE
+11/2004: CARDINAL
+monthly: DATE
+AR/AP: ORG
+monthly: DATE
+quarterly: DATE
+three: CARDINAL
+Solomon: PERSON
+Coordinated: ORG
+two: CARDINAL
+five: CARDINAL
+Mid-City Urban: ORG
+LLC: ORG
+annual: DATE
+$1M- $: MONEY
+11/2001: CARDINAL
+11/2004: CARDINAL
+Controller Company Name: ORG
+monthly: DATE
+Bozzuto Management Company: ORG
+nearly 100: CARDINAL
+the East Coast: LOC
+Project Accountant Company Name: ORG
+monthly: DATE
+Performed: ORG
+monthly: DATE
+Deloitte & Touche: ORG
+AIMCO: ORG
+Training: PERSON
+1993: DATE
+State Accounting & Finance: ORG
+Skills: ORG
+Accountant: ORG
+Accounting Management: ORG
+ABC: ORG
+AIA: ORG
+AP: ORG
+AR: ORG
+Fixed Assets: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Peachtree: GPE
+Peoplesoft: PERSON
+QuickBooks: ORG
+Retail: PERSON
+Solomon: PERSON

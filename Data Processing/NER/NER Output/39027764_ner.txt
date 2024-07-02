@@ -1,0 +1,58 @@
+38 years: DATE
+Immense: ORG
+Due Diligence: PERSON
+Residential: ORG
+Budget Preparation and Implementation - Profit & Loss: ORG
+Site Selection -- Land Use Entitlement - Permitting - Design and Plan Review - Bidding and Negotiation - Purchase and Lease: WORK_OF_ART
+Purchase: PERSON
+Lease and Contract Administration Construction: ORG
+Skills
+Work History: ORG
+Georgia: GPE
+Florida: GPE
+3/4 million square feet: QUANTITY
+annually: DATE
+$10 million: MONEY
+$60 million: MONEY
+5: CARDINAL
+Management of Construction Managers: ORG
+Landlords Site: ORG
+Due Diligence: PERSON
+FF&E Led: ORG
+Initiated: ORG
+Coordinated: ORG
+Obtained: FAC
+weekly: DATE
+weekly: DATE
+05/1999: CARDINAL
+the United States: GPE
+$4 million: MONEY
+Coordinated: ORG
+Obtained: FAC
+12/1992: CARDINAL
+Management of Landlords: ORG
+approximately 45: CARDINAL
+Southeastern United States: GPE
+Coordinate: FAC
+weekly: DATE
+Oversaw: GPE
+02/1989: DATE
+12/1992: CARDINAL
+$200 thousand - $4 million: MONEY
+Owner Developer Company Name: ORG
+two: CARDINAL
+over 100: CARDINAL
+10/1980: CARDINAL
+Carpenter / Foreman Company Name: ORG
+Carpenter: PERSON
+Carpenter Foreman: PERSON
+Wyoming: GPE
+Tennessee: GPE
+South Carolina: GPE
+08/1975: CARDINAL
+10/1980: CARDINAL
+Draftsman / Field Service Supervisor Company Name: ORG
+5 1975: DATE
+Eastern Kentucky University - City: ORG
+Carpenter: PERSON
+Due Diligence: PERSON

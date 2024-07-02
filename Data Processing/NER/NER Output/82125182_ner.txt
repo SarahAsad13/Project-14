@@ -1,0 +1,60 @@
+Chemical Engineer: ORG
+ChemCad: ORG
+OAM: ORG
+MES: ORG
+EPI: ORG
+Structural: ORG
+German: NORP
+Microsoft Office: ORG
+Process: PRODUCT
+AkzoNobel: ORG
+Columbus: GPE
+Mississippi: GPE
+30-40 hours: TIME
+weekly: DATE
+Hydrogen Peroxide: ORG
+OAM: ORG
+MES: ORG
+OEE: ORG
+daily: DATE
+two: CARDINAL
+P&IDs: PRODUCT
+Management of Change: ORG
+DCS: ORG
+50,000: MONEY
+316L: CARDINAL
+DCS: ORG
+30,000-$50,000: MONEY
+08/2016: CARDINAL
+Chemical Engineering Summer School: ORG
+the Chemical Engineering Summer: ORG
+Vienna: GPE
+Vienna: GPE
+American Institute of Chemical Engineers: ORG
+UA College: ORG
+Improve: WORK_OF_ART
+Evaluate: ORG
+Evaluate: ORG
+Microsoft Office: ORG
+OAM: ORG
+MES: ORG
+EPI: ORG
+SAP: ORG
+ChemCad: ORG
+Java: PERSON
+German: NORP
+Spanish: LANGUAGE
+Education: ORG
+2018: DATE
+Bachelor of Science : Chemical Engineering University of Alabama ï¼​ City: ORG
+State: GPE
+USA: GPE
+the University of Alabama: ORG
+Chemical Engineering: ORG
+May 2018: DATE
+2013: DATE
+International Baccalaureate Program Fairhope High School: ORG
+State: GPE
+USA Graduated: GPE
+May 2013: DATE
+IB Diploma: ORG

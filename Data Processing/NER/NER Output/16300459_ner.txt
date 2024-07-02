@@ -1,0 +1,83 @@
+Finance: ORG
+Honest: ORG
+Highlights
+
+Financial: ORG
+Superior: LOC
+Mac: PERSON
+Financial: ORG
+10/2013: CARDINAL
+Name City: GPE
+Assisted: ORG
+Name City: GPE
+$1 million: MONEY
+Performed: PERSON
+daily: DATE
+01/2013 Company Name City: ORG
+District Manager(Part-Time: ORG
+10/2010: DATE
+10/2011: CARDINAL
+Name City: GPE
+20: CARDINAL
+30Â: CARDINAL
+quarterly: DATE
+nearly 5,000: CARDINAL
+one: CARDINAL
+seven: CARDINAL
+Master of Science :: WORK_OF_ART
+June 2016: DATE
+Illinois Institute of Technology City: ORG
+State: GPE
+US: GPE
+Recipient, Stuart School of Business Merit: ORG
+Financial Application: ORG
+Financial Markets: ORG
+Financial Modeling: ORG
+Financial Statement Analysis: ORG
+State: ORG
+China: GPE
+8%: PERCENT
+Coursework inÂ Micro & Macro Economics: ORG
+Business Accounting: ORG
+Financial Budget: ORG
+International Business
+
+Skills
+
+Language: Proficient: ORG
+Chinese: NORP
+Microsoft Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Prezi: PERSON
+Stuart Investment Group of Illinois Institute of Technology: ORG
+Chicago: GPE
+IL: GPE
+Oct. 2014: DATE
+Chicago: GPE
+IL: ORG
+Mar. 2015: DATE
+daily: DATE
+more than 500: CARDINAL
+attendeesÂ: ORG
+Chang Sha: PERSON
+China: GPE
+Mar.2013
+
+Recommend: WORK_OF_ART
+Hunan: GPE
+15: CARDINAL
+Chang Sha: PERSON
+China: GPE
+17: CARDINAL
+120: CARDINAL
+6: CARDINAL
+Chang Sha: PERSON
+China: GPE
+two: CARDINAL
+two: CARDINAL
+Civic: ORG
+Awarded: ORG
+one: CARDINAL
+the Best Student Union: ORG
+21: CARDINAL

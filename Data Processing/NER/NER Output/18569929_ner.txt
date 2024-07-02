@@ -1,0 +1,77 @@
+Sixteen years: DATE
+four years: DATE
+eleven years: DATE
+FAS Asset Accounting: ORG
+Anytime Scheduler: PERSON
+KRONOS: ORG
+Munis: NORP
+MAS90: GPE
+JD Edwards: PERSON
+Excel: PRODUCT
+FRX: ORG
+State: ORG
+Processed: GPE
+Ran: PERSON
+monthly: DATE
+Accountant 04/2002: LOC
+Coded: ORG
+third: ORDINAL
+monthly: DATE
+Researched: ORG
+Maintained: GPE
+Researched: ORG
+Accountant 07/2001: PERSON
+State
+
+Prepare: ORG
+PRG: ORG
+Accountant 01/2000: PERSON
+Name City: GPE
+Processed: GPE
+the Board of Directors: ORG
+Prepared: PERSON
+weekly: DATE
+Controller: PERSON
+12/1999: CARDINAL
+Name City: GPE
+Processed: GPE
+02/1993: CARDINAL
+Name City: GPE
+Assisted: ORG
+Assisted: ORG
+Raleigh: GPE
+NC: GPE
+Assisted: ORG
+hourly: TIME
+Lotus: ORG
+Processed: GPE
+Accounting & Financial Management: ORG
+Graduate School of Management City: ORG
+State
+
+Accounting & Financial Management: ORG
+Bachelor of Science : Accounting 1993: WORK_OF_ART
+DeVry University City: ORG
+State
+
+Accounting
+
+Computer programming Army National Guard City: ORG
+Debug: PERSON
+Skills
+Accounting: ORG
+Accounts Receivable: ORG
+Consulting: ORG
+Controller: PERSON
+Human Resource: ORG
+JD Edwards: PERSON
+KRONOS: ORG
+Lotus: ORG
+MAS90: GPE
+Excel: PRODUCT
+Outlook Express: ORG
+Windows: GPE
+Payroll: ORG
+Quickbooks
+
+: ORG

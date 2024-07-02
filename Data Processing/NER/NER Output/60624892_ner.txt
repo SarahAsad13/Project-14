@@ -1,0 +1,73 @@
+OCCUPATIONAL THERAPIST
+Professional Summary
+Highly: ORG
+Business Professional: ORG
+10+ years': DATE
+Development Project Management Program Development Finance Analysis Training & Development: ORG
+MS Word: PERSON
+Excel: PRODUCT
+Access, Publisher: ORG
+PowerPoint: ORG
+Outlook: ORG
+QuickBooks Problem Solving - Proven: ORG
+Business Operations - Outstanding: ORG
+Customer & Personal Service - Knowledge: ORG
+Skills
+Work History
+Occupational Therapist: WORK_OF_ART
+0-21: TIME
+Operations: ORG
+over 200: CARDINAL
+Directed: ORG
+Medicare: ORG
+250,000: MONEY
+annual: DATE
+2010: DATE
+2013Â: DATE
+less than 5 percent to: PERCENT
+16 percent: PERCENT
+6 to 10%: PERCENT
+25%: PERCENT
+Healthcare Coordinator: ORG
+01/2004: CARDINAL
+Occupational Therapist Created: ORG
+clinicians: NORP
+Management of client services: ORG
+Oral Motor: ORG
+21: CARDINAL
+0-21: TIME
+Home Health, Outpatient: ORG
+Hospice: ORG
+clinicians: NORP
+Urinary Incontinence: GPE
+Dementia
+Management: ORG
+Bachelor of Science : Occupational Therapy: ORG
+5 2004: DATE
+Midwestern University - City: ORG
+State: ORG
+GPA: ORG
+3.6: CARDINAL
+3.6: CARDINAL
+MWU: ORG
+Masters of Business Administration: ORG
+Healthcare Management: ORG
+6 2014: DATE
+University of Phoenix: ORG
+GPA: ORG
+Phoenix: GPE
+Arizona: GPE
+Cum Laude: PERSON
+3.89: CARDINAL
+Healthcare: ORG
+Arizona: GPE
+Magnum Cum Laude: PERSON
+GPA: ORG
+3.89: CARDINAL
+Graduate Certificate in Accounting: ORG
+3 2015: DATE
+Skills
+Accounting: ORG
+Balance, Bridges, Business Operations: PERSON
+Documentation: ORG
+Vision: ORG

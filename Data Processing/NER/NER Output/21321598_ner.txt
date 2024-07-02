@@ -1,0 +1,60 @@
+APPLECARE CPU ADVISOR: PERSON
+Microsoft Office: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Filing: GPE
+Time: ORG
+Customer: ORG
+95%: PERCENT
+only 2-3: CARDINAL
+Skills
+
+Advertising, Budget Maintenance, Data Entry: ORG
+Graphic Design, Marketing, Office: ORG
+Research: ORG
+CPU Advisor: PRODUCT
+July 2014: DATE
+Macintosh: ORG
+Apple: ORG
+Resolve: PERSON
+iLog: ORG
+iDesk: PERSON
+Apple: ORG
+Apple: ORG
+Acquisitions & Public Relations Coordinator: ORG
+May 2014: DATE
+YDM: ORG
+Greater Charlotte: LOC
+Arrange: NORP
+Created: ORG
+monthly: DATE
+March 2009 to July 2009: DATE
+Maintained: GPE
+Present University of Phoenix: ORG
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+May 2007: DATE
+Oakwood University: ORG
+GPA: ORG
+3.0 Communication Communication: MONEY
+GPA: ORG
+3.0: CARDINAL
+2004: DATE
+Vance High School
+Additional Information: ORG
+Seventh: ORDINAL
+August 1998-present: DATE
+1801: DATE
+Charlotte: GPE
+NC: GPE
+28206: CARDINAL
+Tom Hunter Rd: PERSON
+Charlotte: GPE
+NC: GPE
+28213: DATE
+Outreach: PERSON
+Soup Kitchen: PERSON
+Clothes Drive: PERSON
+Youth Leadership Development: ORG

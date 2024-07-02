@@ -1,0 +1,46 @@
+25 years: DATE
+Outlook: PERSON
+Process: PRODUCT
+Accomplishments
+
+Testing, Evaluation and Analysis: Â 
+
+Tested: WORK_OF_ART
+Project Management Â 
+
+: ORG
+11/2010: CARDINAL
+02/2016 Company: ORG
+Name City: GPE
+Collaborated: ORG
+Superintendent 04/2003: ORG
+10/2010: CARDINAL
+Name City: GPE
+600: CARDINAL
+Assisted the Superintendent: WORK_OF_ART
+daily: DATE
+Conducted: ORG
+nine: CARDINAL
+3-tons: QUANTITY
+Prepared: PERSON
+Completed: ORG
+daily: DATE
+Suite Attendant: PERSON
+Name City: GPE
+eighty-nine: CARDINAL
+Knicks: ORG
+Madison Square Garden Club Suites Service Department: FAC
+Superintendent 10/1990: PERSON
+Name City: GPE
+47: CARDINAL
+2016 Trade School
+
+Coursework: ORG
+Spanish: NORP
+Excel: PRODUCT
+Outlook: PERSON
+Windows XP: PERSON
+Word, Oil: ORG
+Soldering, Fluent: WORK_OF_ART
+Spanish: NORP
+Welding: PRODUCT

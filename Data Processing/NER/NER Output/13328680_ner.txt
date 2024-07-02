@@ -1,0 +1,126 @@
+PPC: ORG
+Digital Media Planning: ORG
+DSP: ORG
+Behavioral Targeting
+Comscore: FAC
+SimilarWeb: ORG
+Kenshoo
+MS Excel: ORG
+PPT: ORG
+Agile Marketing: ORG
+Portuguese: NORP
+Quality
+Agency: ORG
+Budget: ORG
+Bilingual: GPE
+BI: GPE
+Spanish: NORP
+Capital Markets: ORG
+Designing: GPE
+English: LANGUAGE
+Fast
+Features
+Financial
+French
+Innovation
+Investments
+Leadership
+Marketing
+Market
+Media Planning
+Meetings: ORG
+Excel: PRODUCT
+Modeling: GPE
+12 years': DATE
+PPC: ORG
+Search Engine Marketing, Social, Local and Programmatic: ORG
+Vendor: ORG
+Microsoft: ORG
+Digital Advertising: ORG
+8: CARDINAL
+Brazilian: NORP
+Mexican: NORP
+Canadian: NORP
+US: GPE
+Utilized: ORG
+Brazil: GPE
+50k: MONEY
+over $: MONEY
+500k: MONEY
+over $3mm: MONEY
+the second year: DATE
+Digital Media Solutions Executive: ORG
+01/2016: ORG
+8: CARDINAL
+Blinks: ORG
+Branding: GPE
+over 100%: PERCENT
+Established: ORG
+Digital: ORG
+Created: ORG
+Mix Modeling: PERSON
+weekly: DATE
+first: ORDINAL
+Assisted Sales: ORG
+BI: ORG
+DevOps: ORG
+the Facebook Blueprint Certification: ORG
+Coordinated Digital Days: ORG
+Awarded Bing Agency: ORG
+the Year award: EVENT
+September 2017: DATE
+12/2015: CARDINAL
+Blinks: ORG
+8: CARDINAL
+Netshoes: GPE
+ACCOR: GPE
+AIG: ORG
+OLX: ORG
+Cross: ORG
+weekly: DATE
+Oversaw: GPE
+Elaborated: ORG
+first: ORDINAL
+AB Testing: ORG
+Black Friday: EVENT
+Reduced CPL: ORG
+300%: PERCENT
+one: CARDINAL
+less than 6 months: DATE
+Maintained: GPE
+300k: ORG
+600k: PRODUCT
+CPL: ORG
+150%: PERCENT
+Blinks: ORG
+12/2010 to 12/2013: CARDINAL
+SMB: ORG
++- 30: CARDINAL
+6: CARDINAL
+PPC: ORG
+monthly: DATE
+Targeting Specialist: PERSON
+03/2003: CARDINAL
++U$ 1 million: MONEY
+Latam: PERSON
+07/1997: DATE
+Capital Markets & Trading - Operations Liaison: ORG
+20: CARDINAL
+Agility: ORG
+Floor Broker: PRODUCT
+01/1995: GPE
+State: ORG
+CBOE: ORG
+KO: ORG
+HON: ORG
+BAC: ORG
+WPP: ORG
+B.S :: ORG
+05/1994: CARDINAL
+Boston College - City: ORG
+English: NORP
+Native: NORP
+Bilingual: NORP
+Portuguese: NORP
+Bilingual: NORP
+Spanish: NORP

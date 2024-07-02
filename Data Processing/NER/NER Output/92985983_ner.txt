@@ -1,0 +1,59 @@
+more than 8 years: DATE
+French: NORP
+Le Cordon Bleu: FAC
+Caribbean: LOC
+Mediterranean: LOC
+Indian: NORP
+Central American: NORP
+Hospitality: PERSON
+Inventory: GPE
+4: CARDINAL
+one: CARDINAL
+monthly: DATE
+Current
+Executive Chef Company Name: ORG
+50: CARDINAL
+Purchasing/: ORG
+daily: DATE
+monthly: DATE
+2.5M: CARDINAL
+32%: PERCENT
+2.32: MONEY
+10-2000: DATE
+940: CARDINAL
+2000: CARDINAL
+24 hours: TIME
+Conducted: ORG
+daily: DATE
+04/2013: CARDINAL
+11/2013: CARDINAL
+R&D Executive Chef Company Name: ORG
+CFO: ORG
+weekly: DATE
+Communicating: ORG
+04/2013: CARDINAL
+Head Chef Company Name: ORG
+100: CARDINAL
+monthly: DATE
+5.5: CARDINAL
+36%: PERCENT
+10-2000: DATE
+1,500-1,800: CARDINAL
+256: CARDINAL
+hourly: TIME
+09/2010: PERSON
+Sous Chef Company Name: ORG
+70: CARDINAL
+1.5: CARDINAL
+10-200: CARDINAL
+3: CARDINAL
+900: CARDINAL
+Associate of Occupational Science Degree :: ORG
+Atlanta: GPE
+City: GPE
+State: GPE
+United States: GPE
+Restaurant: ORG
+Microsoft (Office,: ORG
+Excel: PRODUCT
+Powerpoint: ORG

@@ -1,0 +1,85 @@
+13 years: DATE
+Collaboration
+Conflict resolution
+Critical: WORK_OF_ART
+Information: ORG
+Perl
+Problem: PRODUCT
+Python
+Risk: ORG
+Salesforce Admin: ORG
+CRM: PRODUCT
+SQL: ORG
+Microsoft: ORG
+Oracle: ORG
+Agile, Functional,: ORG
+AI: ORG
+Project Management
+Budgeting, Insurance, Python
+Budgets: ORG
+Quality
+Budget, Leadership, Research
+Business intelligence, Marketing, Risk: ORG
+Access, Sales
+Change: ORG
+Excel: PRODUCT
+Migration: GPE
+Six Sigma
+CRM: PERSON
+Next: ORG
+Software: NORP
+Clients, Optimization: ORG
+SQL: GPE
+Client: GPE
+Oracle, Staffing
+Data: ORG
+Perl: PRODUCT
+Problem: PRODUCT
+Time: ORG
+Upgrades
+Designing: ORG
+Producing: GPE
+Upgrade
+Senior: ORG
+Profit: ORG
+Information Technology: ORG
+11/2012: CARDINAL
+Reviews: PRODUCT
+18%: PERCENT
+12/2014: CARDINAL
+12/2020: CARDINAL
+Collaborated: ORG
+15%: PERCENT
+Launched Salesforce: PRODUCT
+Integrated: NORP
+AI: ORG
+30%: PERCENT
+Business Products Specialist: ORG
+05/2008: CARDINAL
+11/2012: CARDINAL
+internal & external: ORG
+CRM: PRODUCT
+Salesforce: GPE
+Access: PRODUCT
+Excel: PRODUCT
+40%: PERCENT
+12%: PERCENT
+Informed: ORG
+Product Design Project Team Lead: ORG
+11/2000 to 06/2004: CARDINAL
+four: CARDINAL
+4: CARDINAL
+16 &: MONEY
+Brazil: GPE
+South Korea: GPE
+Certified Associate: ORG
+Project Management: ORG
+2028: DATE
+2021: DATE
+2019: DATE
+Western Governors University - City: ORG
+2004: DATE
+University Of South Carolina - Columbia - State: ORG
+Affiliations
+Project Management Institute: ORG
+PMI: ORG

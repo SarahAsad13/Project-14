@@ -1,0 +1,124 @@
+Profile: ORG
+3+ years: DATE
+Software Testing: ORG
+Agile Software Development: ORG
+Manual: GPE
+Test Cases: ORG
+Automated Tests: PERSON
+User Acceptance Testing, System Integration Testing: ORG
+Regression Testing: WORK_OF_ART
+Strong Project Management: ORG
+ISTQB: ORG
+Software Testing and Quality Assurance: ORG
+Skills
+
+TECHNICAL PROFILE: ORG
+C++: PERSON
+Java
+Scripting Languages: PERSON
+JavaScript: PRODUCT
+Windows PowerShell: PERSON
+Mark Up Language:: PERSON
+XML: ORG
+Bug Tracking: ORG
+Jira, Buganizer
+Office: PERSON
+Suite: PERSON
+Microsoft: ORG
+Microsoft Project: ORG
+SQL: ORG
+SQL: ORG
+Windows 8,8.1: PERSON
+Linux: GPE
+Android: ORG
+August 2014 to February 2015: DATE
+Mobile: ORG
+Analyzing the Requirements: ORG
+Functional and Technical: ORG
+Communicating: ORG
+BA: ORG
+Retail Domain: GPE
+October 2011 to February 2014: DATE
+Google Play: PERSON
+Google: ORG
+Android: ORG
+the Android SDK: ORG
+Google: ORG
+Google Maps: ORG
+Google: ORG
+Google Play Store: PERSON
+Maps Mobile: PERSON
+Desktop: ORG
+Functional Testing and Integration Testing: ORG
+Google Play Store: PERSON
+Android-: PRODUCT
+Play Store.
+: WORK_OF_ART
+Play Store and Google Maps: WORK_OF_ART
+Developed Automation: ORG
+Performed Google Maps: ORG
+Firefox: PERSON
+IE: ORG
+Safari: PERSON
+Mobile: PERSON
+Andriod: PERSON
+the Google Maps: ORG
+Buganizer: ORG
+20: CARDINAL
+September 2010 to July 2011: DATE
+Test Cases: ORG
+QTP: ORG
+Expert View: FAC
+weekly: DATE
+weekly: DATE
+USA Environment: ORG
+Windows XP 2: PERSON
+SQL Server: ORG
+2005: DATE
+Feb 2011: DATE
+Insurance Management System: ORG
+Insurance Organization: ORG
+Password: FAC
+E-Banking System Testing Type: Manual Duration: ORG
+This Banking Software: ORG
+User-Id: ORG
+Training
+University of Auckland 
+Software Engineering Master of Engineering University of Auckland Master of Engineering Studies -Software Engineering Key: ORG
+Project Management and Risk Management: ORG
+Jawaharlal: GPE
+Nehru Technological University: ORG
+Nehru Technological University: ORG
+Bachelor of Engineering-Information Technology: ORG
+Skills
+Testing, Cases, Test Cases: ORG
+Android: ORG
+Android Sdk, Ios, Mapping: PERSON
+Safari: PERSON
+Software
+Testing: PERSON
+Engineer: ORG
+Test Engineer: ORG
+Writing Test: ORG
+Writing Test Cases: ORG
+Ms Sql Server: PERSON
+Sql: PERSON
+Sql Server: PERSON
+Sql Server 2005: PERSON
+Windows Xp: PERSON
+Process Improvement: PERSON
+Gis, Html: ORG
+Java: PERSON
+Javascript, Linux: PERSON
+Microsoft Office: ORG
+Microsoft Project: ORG
+Ms Office: ORG
+Performance Testing, Regression Testing: ORG
+Self Motivated: PERSON
+User Acceptance: ORG
+Xml: ORG
+Database, Insurance Management, Payments: ORG
+B2b Software: ORG
+Project Management: ORG
+Risk Management, Security: ORG
+Software Engineering: ORG

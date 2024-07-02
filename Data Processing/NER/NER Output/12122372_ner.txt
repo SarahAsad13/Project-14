@@ -1,0 +1,45 @@
+Highlights
+
+: ORG
+Microsoft Office
+Social Media Marketing: ORG
+Facebook, Instagram & Pinterest: ORG
+Critical Thinking & Problem: ORG
+Written & Verbal Communication
+Leadership & Team Development
+Project Management
+
+: ORG
+01/2004: CARDINAL
+10/2016: CARDINAL
+Career Center: FAC
+07/2000: CARDINAL
+01/2004: CARDINAL
+Developed: ORG
+Dallas: GPE
+Atlanta: GPE
+Las Vegas: GPE
+09/1999 to 04/2000: CARDINAL
+Reebok: ORG
+Women's Olympic 2000: ORG
+Assisted: ORG
+the Shaq O'Neill Athletic Sport: ORG
+Product Information Sheets: ORG
+Merchandiser: PERSON
+05/1997 to 09/1999: CARDINAL
+10/1994 to: CARDINAL
+State: ORG
+Oversaw: GPE
+Communication: ORG
+Education: ORG
+04/2018: ORG
+State Business Administration: ORG
+State Merchandise Marketing
+Skills: ORG
+Critical Thinking: ORG
+Leadership, Team Development: ORG
+Microsoft Office: ORG
+2000: DATE
+Personnel: ORG
+Project Management: ORG
+Verbal Communication: ORG

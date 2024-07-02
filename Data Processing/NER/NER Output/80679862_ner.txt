@@ -1,0 +1,99 @@
+DIGITAL MARKETING SPECIALIST
+Highlights
+
+Strong Digital Marketing: ORG
+Social Media: ORG
+Slack, Google Analytics, AdWords, Site Catalyst / Omniture / Adobe Analytics: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Word / Apple Pages: ORG
+Numbers: ORG
+Adobe Creative: PERSON
+Lightroom: ORG
+Mail Chimp: PERSON
+Constant Contact: PERSON
+Mind Jet: PERSON
+GitLab: ORG
+GitHub: ORG
+CVS: ORG
+WordPress: ORG
+Dreamweaver: ORG
+January 2014: DATE
+Current Digital Marketing Specialist: ORG
+Push: PERSON
+Observes: ORG
+Interprets: NORP
+Ensures: LOC
+Digital Operations: Identifies: ORG
+Designs: NORP
+Digital Agility: ORG
+Excels: PERSON
+Builds: PERSON
+the cross border audience: ORG
+Email Marketing & Automation:: ORG
+one: CARDINAL
+Recognizes: ORG
+Tools: PERSON
+Bronto Software: PERSON
+Dreamweaver: GPE
+PPC: ORG
+Tools: PERSON
+Adobe Analytics: PERSON
+Omniture / Site Catalyst: ORG
+Google Analytics: ORG
+ObservePoint: ORG
+New Relic: NORP
+Google AdWords: ORG
+Digital PR:: ORG
+Analysis & Insights: Conduct: ORG
+Evaluate: ORG
+ObservePoint: ORG
+Usertesting.com: ORG
+New Relic: GPE
+Adobe Analytics (Omniture / Site Catalyst: ORG
+Dreamweaver: PERSON
+Parallel: PERSON
+Tortoise: GPE
+New Relic: GPE
+AEM: ORG
+Sketch: PERSON
+CMS Wordpress: ORG
+Assimilates: NORP
+January 2014: DATE
+Ringling College: ORG
+January 2013 to January 2014: DATE
+5%: PERCENT
+previous years: DATE
+Conceived: PERSON
+Sarasota Film Festival's: EVENT
+2014: DATE
+Box Office Opening Sales: ORG
+16%: PERCENT
+18%: PERCENT
+previous year: DATE
+Relied: ORG
+Communicated: ORG
+January 2009 to January 2014: DATE
+Ashley Photography: PERSON
+Caribbean: LOC
+Built WordPress: ORG
+Customized: ORG
+University of Florida Bachelor of Science
+Certified Professional Photographer: ORG
+Rising Star: WORK_OF_ART
+Skills: ORG
+Adobe: PERSON
+Dreamweaver: ORG
+Apple: ORG
+CMS: ORG
+CVS: ORG
+Email: PERSON
+Google Analytics: ORG
+Dreamweaver 3: PRODUCT
+Microsoft Excel,: ORG
+Mail, Office: ORG
+Word: PERSON
+Research: ORG
+Social
+Media platforms: ORG
+Strategic Management: ORG

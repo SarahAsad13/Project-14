@@ -1,0 +1,96 @@
+Non-Profit Executive: ORG
+15 years: DATE
+May 2001: DATE
+Early Learning Coalition Working: ORG
+the Board of Directors: ORG
+Board: ORG
+$6 million: MONEY
+annual: DATE
+Board: ORG
+16: CARDINAL
+Board: ORG
+Officer Jan 1997: DATE
+2001: DATE
+monthly: DATE
+Planned: PERSON
+Feb 1994: DATE
+Jackson: GPE
+Mississippi: GPE
+23: CARDINAL
+Mississippi: GPE
+Promoted: ORG
+Developed: ORG
+annual: DATE
+annual: DATE
+Recruited: PRODUCT
+1994: DATE
+seven: CARDINAL
+Mississippi Promoted: PERSON
+the State Division of Aging and Adult Services: ORG
+first: ORDINAL
+Jackson: GPE
+Mississippi: GPE
+the Mississippi Crafts Festival: LOC
+the Mississippi Museum of Art: FAC
+the Robert Wood Johnson Foundation: ORG
+Communities: ORG
+the Institute of Museum and Library Services: ORG
+Publix Supermarket Charities: ORG
+United Way: GPE
+Santa
+Rosa County: GPE
+Santa Rosa: PERSON
+the Early Learning Coalition: ORG
+Certified Trainer: PERSON
+Southern Early Childhood Association: ORG
+Northwest Florida Association: ORG
+2006: DATE
+Present
+
+Public Relations/Newsletter Chairperson: ORG
+NW FL: ORG
+Affiliate: PRODUCT
+Elect: ORG
+NW FL: ORG
+Affiliate National Association for the Education of: ORG
+Young Children: ORG
+Association of Early Learning Coalitions: ORG
+2007: DATE
+AELC: DATE
+Early Learning Coalitions: ORG
+Florida: GPE
+Community Service Organizations: ORG
+Santa Rosa Community Alliance: ORG
+2015: DATE
+Family Services Committee: ORG
+Pensacola State College: ORG
+2013: DATE
+Santa Rosa Bridges: PERSON
+Bridges Out of Poverty Project: WORK_OF_ART
+2013: DATE
+Board of Directors
+
+Co-Chair of Public Relations Committee
+
+Serve on Finance Committee: ORG
+Early Childhood Advisory Board: ORG
+Pensacola State College: ORG
+2011: DATE
+Healthy Start Coalition of Santa Rosa County: WORK_OF_ART
+2007: DATE
+the Executive Committee: ORG
+Bachelor of Science , Social and Rehabilitation Services: ORG
+1981: DATE
+University of Southern Mississippi - City: ORG
+State: GPE
+USA: GPE
+Highest Honors: ORG
+Associate of Arts: ORG
+Liberal Arts: ORG
+1979: DATE
+Clarke College - City: ORG
+State: GPE
+Boards of Directors
+Supervision: ORG
+Volunteer: PRODUCT
+Microsoft Office: ORG

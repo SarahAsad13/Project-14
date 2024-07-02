@@ -1,0 +1,122 @@
+wellÂ​ organized Office: ORG
+daily: DATE
+Effective: NORP
+Quick: ORG
+Dependable Ability: WORK_OF_ART
+Customer: ORG
+Detail: PERSON
+Data Entry
+Familiarity: ORG
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook and Quickbooks
+
+Work Experience
+Sales: ORG
+Feb 2008: DATE
+2014: CARDINAL
+just 4: CARDINAL
+two: CARDINAL
+greeting & welcoming: ORG
+followÂ​up: ORG
+Outlook: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+QuickBooks: ORG
+UPS: ORG
+FedEx: GPE
+USPS: ORG
+year end: DATE
+the M-SAT: PRODUCT
+9-7pm hours: TIME
+Nov 1996 to Feb 2008: DATE
+Virginia Beach: GPE
+VA: GPE
+Louisville: GPE
+KY - Waterford: ORG
+CT - Jacksonville: ORG
+FL: ORG
+inÂ​house: NORP
+daily: DATE
+Helped: PERSON
+meet
+& exceed: ORG
+Time: ORG
+morning: TIME
+nighttime: TIME
+daily: DATE
+weekly: DATE
+weekly: DATE
+monthly: DATE
+weekly: DATE
+Conducted: ORG
+third: ORDINAL
+REGIS: ORG
+Performed: PERSON
+Generated: ORG
+2003-2006: DATE
+Guam: GPE
+2/2008: CARDINAL
+1993 to Nov 1994: DATE
+Accounting Coordinator's: ORG
+Prepare: ORG
+weekly: DATE
+each day: DATE
+daily: DATE
+3rd: ORDINAL
+1993: DATE
+first: ORDINAL
+100%: PERCENT
+Rapidly: ORG
+ATM: ORG
+Processed: GPE
+quarterly: DATE
+Vault: ORG
+ATM: ORG
+zero: CARDINAL
+Squires Homes
+
+Education: PERSON
+1985: DATE
+Miami Coral Park: FAC
+State: GPE
+US: GPE
+1985: DATE
+Miami Coral Park Srn: ORG
+Miami: GPE
+FL: ORG
+Telephone, Inventory: ORG
+Customer Service: ORG
+Receptionist: NORP
+Associate, Clients: ORG
+Exceed: PERSON
+Merchandising: PRODUCT
+New Hires: ORG
+New Sales: ORG
+POS System: ORG
+Time Management: ORG
+Correspondence, Data Entry, Documentation: ORG
+Excel: PRODUCT
+Filing: GPE
+Microsoft: ORG
+Ordering, Outlook: PERSON
+Quickbooks, Sales Service: ORG
+Scanning, Shipping, Word,: WORK_OF_ART
+Bank Teller, Change Orders: ORG
+Loans: PERSON
+Multitasking, Accounting, Accounts Payable, Accounts Receivable: ORG
+Incoming Calls: PERSON
+Invoice: GPE
+Purchase: PERSON
+Data Archiving: ORG
+Detail Oriented: PERSON
+Etiquette: PERSON
+Microsoft Office: ORG
+Ms
+Office: ORG
+Multi: GPE
+Multi: GPE
+Phone: ORG
+Phone Etiquette: PERSON

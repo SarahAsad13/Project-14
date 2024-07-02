@@ -1,0 +1,131 @@
+Marketing Executive: ORG
+Skill Highlights
+
+Hubspot/SEO
+: ORG
+Google Analytics/PPC: ORG
+Project Management: ORG
+15%: PERCENT
+Created a: ORG
+Operations Management: Â 
+
+: ORG
+PPC: ORG
+35%: PERCENT
+a million dollar: MONEY
+44%: PERCENT
+Jan 2015 to Jan 2016: DATE
+State
+
+Created: ORG
+LinkedIn: GPE
+Meetups: GPE
+2012 to Jan 2015: DATE
+PPC: ORG
+53%: PERCENT
+89,000: MONEY
+daily: DATE
+150: CARDINAL
+Ecommerce: PRODUCT
+45%: PERCENT
+Checkpoint Technologies: ORG
+Security Guard
+Exchange: ORG
+Lowes: ORG
+Mercedes Benz: ORG
+Toyota: ORG
+Bank of America: ORG
+1,500: CARDINAL
+15%: PERCENT
+Coordinated: ORG
+Fox: PERSON
+Charlotte: GPE
+CBI: ORG
+May 2011: DATE
+100%: PERCENT
+first: ORDINAL
+98%: PERCENT
+FCR: ORG
+200%: PERCENT
+monthly: DATE
+2010: DATE
+Interactive-Digital: ORG
+SMO: ORG
+Vendor Relations: ORG
+multi-million dollar: MONEY
+Ecomm: ORG
+Dental, Medical, Veterinary and Special Markets: ORG
+Social Media: ORG
+Henry Schein: PERSON
+beta & multivariate: ORG
+Interactive Consumer Marketing Manager Nov 2008 to: WORK_OF_ART
+2009: DATE
+Optimum Auto: ORG
+1: MONEY
+the next 11 months: DATE
+PPC: ORG
+$4 million: MONEY
+Auto: ORG
+only 3 months: DATE
+60%: PERCENT
+Press
+Releases: ORG
+Master's Degree of Arts: WORK_OF_ART
+English: LANGUAGE
+Brook University - City: ORG
+GPA: ORG
+4.0: CARDINAL
+English: LANGUAGE
+Multicultural Education: ORG
+4.0: CARDINAL
+Project Management: ORG
+Hofstra University - City: ORG
+English: LANGUAGE
+French: NORP
+Creole, Proficient: ORG
+Spanish: LANGUAGE
+Russian: NORP
+August 2009's: DATE
+Search Engine Strategies Magazine (SES: ORG
+Front Page of: ORG
+June 2009's: DATE
+Search Engine Strategies Magazine (SES: ORG
+2: CARDINAL
+28: CARDINAL
+Front Page: PERSON
+May 2009's: DATE
+Search Engine Strategies Magazine (SES: ORG
+Widget World: WORK_OF_ART
+22: CARDINAL
+35: CARDINAL
+Shakers: ORG
+Deans: NORP
+the International Society of Poets for Poet of the Year
+award: ORG
+1999: DATE
+an "International Poet of Merit: EVENT
+Award Medallion: PERSON
+ninth: ORDINAL
+International
+Society of Poets Convention and Symposium: EVENT
+Washington, DC: GPE
+Radio Guest: ORG
+October 2013: DATE
+Charlotte: GPE
+Under 40-: DATE
+2012: DATE
+the Charlotte Triad ": LOC
+2011: DATE
+Business Leader Magazine: ORG
+Radio Asked: ORG
+Steve Jobs: PERSON
+Nov, 2010: DATE
+Scout Master: PERSON
+Boy Scouts of America: ORG
+#565: CARDINAL
+American Heart Association: ORG
+the Red Cross: ORG
+MSU: ORG
+University of Florida and: ORG
+University of Southern Alabama: ORG
+May 2015-current: DATE

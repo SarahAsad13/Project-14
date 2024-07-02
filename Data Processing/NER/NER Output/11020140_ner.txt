@@ -1,0 +1,80 @@
+Computer Systems Validation: ORG
+CSV: ORG
+Documentum D2: ORG
+MS Access: ORG
+VBA: ORG
+C++: PERSON
+HTML: ORG
+Assembly: ORG
+January 1999 to November 2015: DATE
+SDLC: GPE
+SDLC: GPE
+Computer Systems Validation: ORG
+McNeil Consumer Healthcare: ORG
+Knowledgeable: WORK_OF_ART
+SDLC: GPE
+GxP: PRODUCT
+SOX: ORG
+FDA: ORG
+Computer System Validation: ORG
+Project Leadership: ORG
+GxP: PRODUCT
+ITSM: ORG
+Documentum: ORG
+Bug: PERSON
+Core Team: ORG
+Level 2: PERSON
+Windows Team: ORG
+DBA Team: ORG
+Monitoring the Validation Environment: ORG
+User Training: WORK_OF_ART
+SOX: ORG
+hourly: TIME
+J&J: NORP
+Microsoft Access: ORG
+VBA: ORG
+Excel: PRODUCT
+FDA: ORG
+Windows: ORG
+January 1990 to January 1999: DATE
+Client: GPE
+VAX: PRODUCT
+IBM: ORG
+Digital: ORG
+January 1985 to January 1990: DATE
+VAX/VMS: PRODUCT
+IBM: ORG
+M.S :: ORG
+1996: DATE
+Villanova University: ORG
+ï¼​ City: GPE
+State Computer Science Data Communications
+B.A :: ORG
+1985: DATE
+LaSalle University: ORG
+ï¼​ City: GPE
+State Computer Science
+Skills: ORG
+Assembly: ORG
+C++: GPE
+Client: PERSON
+DBA: ORG
+Documentation: ORG
+Documentum: ORG
+HTML: ORG
+IBM: ORG
+Microsoft Access: ORG
+MS Access: ORG
+Excel: PRODUCT
+Windows: NORP
+Windows: GPE
+Windows XP: ORG
+Operating Systems: ORG
+Project Leadership: ORG
+User Training: ORG
+Validation: ORG
+VAX: PRODUCT
+VAX/VMS: PRODUCT
+Vista: ORG
+VBA: ORG
+Windows Server: PERSON

@@ -1,0 +1,76 @@
+2015: DATE
+Bachelor of Arts: ORG
+Journalism Southern Illinois University: ORG
+State: GPE
+US: GPE
+2012: DATE
+Associate of Arts: WORK_OF_ART
+Lincoln College: ORG
+City: GPE
+State: GPE
+US: GPE
+Advocate: ORG
+Sisters Interacting Successfully: ORG
+August: DATE
+12: CARDINAL
+Center of Inclusive Excellence: ORG
+Southern Illinois University Â 
+
+Mentor: ORG
+their first year: DATE
+the University
+Create: ORG
+SIS: ORG
+Liaison: PERSON
+between first year: DATE
+Blacks Interested: ORG
+August: DATE
+13: CARDINAL
+College of Business: ORG
+Southern Illinois University: ORG
+the Minority Student Leadership Council: ORG
+House: ORG
+the College of Business: ORG
+the Communications Department: ORG
+Minority Student Leadership Council: ORG
+October: DATE
+12: CARDINAL
+Southern Illinois University: ORG
+Council: ORG
+annual: DATE
+annual: DATE
+weekly: DATE
+2000: MONEY
+August: DATE
+12: CARDINAL
+College of Business: ORG
+Southern Illinois University
+
+Created Black Businessmen Banquet: ORG
+Carbondale: GPE
+IL: ORG
+Hosted: ORG
+Created the 5 Points Program: ORG
+5: CARDINAL
+B.I.B: GPE
+Finance: ORG
+State: ORG
+Liaison: PERSON
+Council: ORG
+annual: DATE
+annual: DATE
+weekly: DATE
+2000: MONEY
+Current
+Advocate Company Name: ORG
+State: ORG
+their first year: DATE
+the University
+Create: ORG
+SIS: ORG
+Liaison: PERSON
+between first year: DATE
+the Minority Student Leadership Council: ORG
+House: ORG
+the College of Business: ORG
+the Communications Department: ORG

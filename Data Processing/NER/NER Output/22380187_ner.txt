@@ -1,0 +1,42 @@
+Microsoft Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Facebook, Instagram: WORK_OF_ART
+Twitter: PERSON
+Polyvore: PERSON
+QuickBooks: ORG
+Multichannel Order: PERSON
+Social Media Coordinator Sep: ORG
+2015: DATE
+45: CARDINAL
+47%: PERCENT
+Twitter: PRODUCT
+Alexa Rank: ORG
+Google Analytics Creating: ORG
+Nov 2014 to Feb 2015: DATE
+Twitter: PERSON
+Instagram: ORG
+Bookkeeper Sep 2013 to Dec 2015: LOC
+daily: DATE
+Jan 2008 to Jan 2013: DATE
+DOH: ORG
+500: CARDINAL
+monthly: DATE
+quarterly: DATE
+State Public Affairs Communication: ORG
+2015: DATE
+2016: DATE
+New York Cares 2011: EVENT
+Skills
+Photoshop: ORG
+DOH: ORG
+Google Analytics: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+QuickBooks: ORG
+Website
+Additional Information: ORG
+Volunteer Jobs Moma: PERSON
+2015: DATE
+2016: DATE
+New York Cares 2011: EVENT

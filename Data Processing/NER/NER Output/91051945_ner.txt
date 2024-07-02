@@ -1,0 +1,134 @@
+Cruz Navarro: PERSON
+Cruz Navarro: PERSON
+Financial Services Procurement and Management: ORG
+Financial Services Procurement and Management: ORG
+Business Development: ORG
+CISCO: ORG
+International Business: ORG
+Oracle: ORG
+Strong: PERSON
+Client: GPE
+Strong: PERSON
+Client: GPE
+Microsoft: ORG
+Microsoft: ORG
+Oracle
+
+Proficient: ORG
+Microsoft: ORG
+Oracle: NORP
+Work History: WORK_OF_ART
+Company: ORG
+the Small Business Development: ORG
+weekly: DATE
+the Small Business Segment: ORG
+Wells Fargo: ORG
+morning: TIME
+Assist: NORP
+Â 
+Consultation: ORG
+Wells Fargo: ORG
+Wells Fargo: ORG
+Assist: NORP
+24 %: PERCENT
+annual: DATE
+Maintained: GPE
+Â 
+Consultation: ORG
+Wells Fargo: ORG
+Wells Fargo: ORG
+Assist: NORP
+24 %: PERCENT
+annual: DATE
+Maintained: GPE
+12/2015: CARDINAL
+Licensed Service Advisor Company Name: ORG
+the Texas Insurance Law for Homeowners, Renters, Flood: LAW
+FEMA: ORG
+Mortgage Consultants: ORG
+daily: DATE
+12/2015: CARDINAL
+Licensed Service Advisor Company Name: ORG
+the Texas Insurance Law for Homeowners, Renters, Flood: LAW
+FEMA: ORG
+Mortgage Consultants: ORG
+daily: DATE
+12/2015: CARDINAL
+Licensed Service Advisor - Insurance Broker Company Name: ORG
+the Texas Insurance Law for Homeowners, Renters, Flood: LAW
+FEMA: ORG
+Wind and: ORG
+Escrow Accounts: PERSON
+Real Estate, Mortgage: ORG
+02/2013 to 12/2015: CARDINAL
+Office: ORG
+Generate: PERSON
+monthly: DATE
+Match: LOC
+Assist: NORP
+Import: GPE
+the Federal Government: ORG
+Submit: ORG
+Audit department: ORG
+Generate: PERSON
+monthly: DATE
+Build: GPE
+02/2013 to 12/2015: CARDINAL
+Monitored: ORG
+quarterly: DATE
+Established: ORG
+Match: LOC
+Build: GPE
+CRM: PRODUCT
+02/2013 to 12/2015: CARDINAL
+Monitored: ORG
+quarterly: DATE
+Established: ORG
+Match: LOC
+Build: GPE
+CRM: PRODUCT
+at least three: CARDINAL
+ERP & MRPÂ: ORG
+Weekly: DATE
+Facilitated: ORG
+at least three: CARDINAL
+ERP & MRPÂ: ORG
+Weekly: DATE
+Facilitated: ORG
+Infosys LTD: ORG
+CISCO SYSTEMS: ORG
+the San JosÃ: GPE
+CA: ORG
+LATAM: ORG
+at least three: CARDINAL
+ERP & MRP: ORG
+Oracle: ORG
+monthly: DATE
+quarterly: DATE
+annually: DATE
+Weekly: DATE
+Internal: ORG
+Internal: ORG
+Weekly: DATE
+monthly: DATE
+2017: DATE
+Houston Community College Leadership: ORG
+Project Management Certification: ORG
+2018: DATE
+Project Management Certification : Management 
+Houston Community College - City: ORG
+State: ORG
+2012: DATE
+International Business Management: ORG
+de Nuevo LeÃ³n - City: PERSON
+2012: DATE
+Universidad Autonoma de Nuevo Leon Oracle: PERSON
+ERP: ORG
+MRP systems: ORG
+Salesforce.com: ORG
+Bachelor: ORG
+International Business CRM: ORG
+Customer Relationship Management: ORG
+Microsoft Office: ORG
+Affiliations: ORG
+Wells Fargo Latin Connection Houston Chapter: ORG

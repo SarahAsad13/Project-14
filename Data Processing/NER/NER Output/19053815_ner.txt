@@ -1,0 +1,109 @@
+MEDIA / ADVERTISING COORDINATOR
+Summary
+
+Knowledgeable: ORG
+Copywriter and Communications: ORG
+Superb: NORP
+Social Media Platforms: ORG
+â€¢ Â 
+
+Customer: PRODUCT
+Copywriter: PERSON
+Decisive: NORP
+Copywriter: PERSON
+MotivaExcellent: ORG
+Decisive: NORP
+Event Planning & Coordination
+
+Secured: ORG
+North Dallas Gazette: LOC
+March 2012: DATE
+Name City: GPE
+State Media / Advertising Coordinator: ORG
+Manage: PRODUCT
+third: ORDINAL
+â€¢Coordinate: DATE
+Copywriter: PERSON
+June 2010: DATE
+March 2012: DATE
+Name City: GPE
+State: ORG
+Acted: ORG
+the Candidate Care Center Team: ORG
+Led the Call Center: ORG
+the Mission Statement Committee: ORG
+the Kenexa Candidate Care Center Represented: ORG
+the Candidate Care Center: ORG
+Kenexa Career Fairs: FAC
+UTD: ORG
+Kenexa-Frisco: PERSON
+September 2008: DATE
+February 2009: DATE
+Name City: GPE
+State Human Resources Administrator: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Communicated: ORG
+Human Resources: ORG
+7-11 Corporation: MONEY
+September 2008: DATE
+February 2009: DATE
+Name City: GPE
+State Materials Management: ORG
+Generated: ORG
+daily: DATE
+weekly: DATE
+monthly: DATE
+Microsoft: ORG
+Excel: PRODUCT
+month end: DATE
+June 2006: DATE
+January 2008: DATE
+Name City: GPE
+State Merchandise Business Associate: ORG
+National: NORP
+Canadian: NORP
+weekly: DATE
+monthly: DATE
+weekly: DATE
+Corresponded: PERSON
+Maintained: PERSON
+the MBS TEAM Daily Kickoff: ORG
+Coordinated: ORG
+monthly: DATE
+Authorship: NORP
+Martin Luther King Jr.: PERSON
+Today: DATE
+2009: DATE
+Working With Class"- 2011: LAW
+Kenexa Corporation: ORG
+Workplace: ORG
+Kenexa Corporation: ORG
+2011: DATE
+2010: DATE
+Account Introduction: ORG
+2010: DATE
+May: DATE
+2009: DATE
+Collin County Community College State Associates of Arts: ORG
+March: DATE
+2017: DATE
+Southern New Hampshire University: ORG
+Adobe: PERSON
+AS400: PRODUCT
+BI: ORG
+Business Objects: ORG
+Call Center: ORG
+Copywriter: PERSON
+Detail Oriented: PERSON
+Human Resources: ORG
+Lotus Notes: ORG
+Microsoft Excel: ORG
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Oracle: ORG
+QuickBooks: ORG
+Retail: GPE
+Retek: GPE
+SAP: ORG
+Vantive: ORG

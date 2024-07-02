@@ -1,0 +1,101 @@
+15 +years: DATE
+Alexander: PERSON
+Alexander: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Outlook and Cision: ORG
+Skills: ORG
+Strategic: PERSON
+Print: GPE
+Strategic Thinking
+Excellent Planning Skills: ORG
+interpersonal & management: ORG
+Work History
+Public Relations Executive 08/2002: WORK_OF_ART
+PR &: ORG
+Responsibilities: ORG
+monthly: DATE
+Pitched: GPE
+Assess: ORG
+State: ORG
+Â·Â: CARDINAL
+K-Ci & JoJo: ORG
+Jodeci: PERSON
+Chante Moore: PERSON
+Jesse Powell: PERSON
+KeKe Wyatt: PERSON
+Jaguar Wright: PERSON
+Archie: PRODUCT
+Magic Johnson Music: ORG
+Nicci: ORG
+Steve Harvey: PERSON
+Two: CARDINAL
+Garnered: PERSON
+Account Executive: ORG
+State: ORG
+Rogers & Cowan's: ORG
+Entertainment/Music/Special Events
+department: ORG
+30%: PERCENT
+National Academy of Recording Arts & Sciences: ORG
+GRAMMY: ORG
+MusiCares: PRODUCT
+the Yearâ€​ Tributes & Concerts: ORG
+Soul Train Christmas Starfest: WORK_OF_ART
+Arista: PERSON
+25th Anniversary Celebration: EVENT
+The Blockbuster Awards: WORK_OF_ART
+Chris Tucker: PERSON
+Kenny â€œBabyfaceâ€​ Edmonds: PERSON
+Academy & Golden: ORG
+Fox Music Group: ORG
+Boyz II Men: ORG
+Chante Moore: PERSON
+Deborah Cox: PERSON
+Tracie Spencer: PERSON
+Dave Koz: PERSON
+The Bees Gees: WORK_OF_ART
+Shep Crawford: PERSON
+Warner/Chappell Music Publishing: ORG
+Quincy Jones: PERSON
+Tupac Shakur: PERSON
+OutKast: ORG
+Jamie Foxx: PERSON
+Education: ORG
+Bachelor of Science : Business | Management University of Phoenix - City: ORG
+State Business | Management
+Associate : Arts - Law: ORG
+3616: CARDINAL
+Cardiff Avenue: FAC
+109: MONEY
+Los Angeles: GPE
+CA: FAC
+Associate of Arts: WORK_OF_ART
+Los Angeles City College - City: GPE
+State: ORG
+Arts: ORG
+Avenue: GPE
+CA: ORG
+Legal: GPE
+Magic: ORG
+Media Relations, Works: ORG
+Paralegal: GPE
+Producer: PERSON
+Soul Train Music Awards: ORG
+MTV Awards: ORG
+GRAMMY: ORG
+NAACP Image Awards: ORG
+America Music Awards: WORK_OF_ART
+BET: ORG
+Clients: PRODUCT
+NBA All-Star Weekend/Los Angeles: ORG
+2011: DATE
+Dallas: GPE
+2010: DATE
+BET Awards: ORG
+Gifting Suite: PERSON
+ASCAP: ORG
+Pop Music Awards and Film & Television Music Awards: ORG
+Tony
+Rock: PERSON
+Roshanak Filmswork: ORG

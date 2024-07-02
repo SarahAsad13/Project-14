@@ -1,0 +1,70 @@
+Summary
+Proficient: ORG
+Customer: ORG
+years: DATE
+Name City: GPE
+State Audit and Recovery Specialist: ORG
+Current
+
+Review: ORG
+daily: DATE
+Interface: ORG
+Identify: ORG
+HIPAA: ORG
+Demonstrate: ORG
+Company: ORG
+Name City: GPE
+State Healthcare Collections Specialist 06/2015: ORG
+Maintain: PRODUCT
+one: CARDINAL
+Navigating Client Systems: ORG
+Name City: GPE
+State Student Advisor/Resolution Rep 12/2014: ORG
+Assist: NORP
+Name City: GPE
+State Customer Service: ORG
+Reply: ORG
+Name City: GPE
+State Customer Service: ORG
+Medical Terminolgy: ORG
+Call Center Service Operations: ORG
+Multi: GPE
+Complaint Handling/Dispute Resolution, Records Management: ORG
+10: CARDINAL
+Account Management, Active Learning: ORG
+Critical
+Thinking: ORG
+Insurance,Collections: ORG
+Data Entry, Documentation: ORG
+Email: PERSON
+Executive Management Support: ORG
+Filing: GPE
+Grammar: PERSON
+Spreadsheets: ORG
+Telephone Skills: ORG
+Time Management, Typing, Vendor Management: ORG
+Letters: PERSON
+Memos: PERSON
+Lotus Notes: ORG
+Minute Taking: PERSON
+Multi-Task Management: ORG
+Computer Skills: ORG
+Microsoft Office Suite: ORG
+Microsoft Excel: ORG
+Microsoft: ORG
+Microsoft Outlook: ORG
+Microsoft PowerPoint: ORG
+Windows: ORG
+PeopleSoft: ORG
+Visual/Content: ORG
+Mainframe: PERSON
+AS400: PRODUCT
+Epic: ORG
+SAP: ORG
+Training
+Business Management 2018: ORG
+State College: ORG
+City: GPE
+Community Academy Highschool: ORG
+City: GPE
+State: ORG

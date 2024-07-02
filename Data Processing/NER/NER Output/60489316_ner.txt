@@ -1,0 +1,110 @@
+ADVISORY: ORG
+12 years: DATE
+Banking & Financial Services and Government: ORG
+ASEAN: ORG
+Fast Learner: PERSON
+ASEAN: ORG
+IBM: ORG
+every year: DATE
+the IBM Hundred Percent Achievement Club: ORG
+ASEAN: ORG
+IBM: ORG
+ASEAN: ORG
+IBM: ORG
+Awarded the Outstanding Technical Achievement Award: WORK_OF_ART
+IBM: ORG
+ASEAN: ORG
+2012: DATE
+IBM: ORG
+Core: ORG
+10/2014: CARDINAL
+RHB Group: ORG
+Malaysia: GPE
+05/2008: CARDINAL
+10/2014: CARDINAL
+IBM Software Group: ORG
+ASEAN Company Name: ORG
+State: ORG
+ESB: ORG
+BPM: ORG
+Cloud Computing: PERSON
+Mobility for Financial Services and Government: ORG
+ASEAN: ORG
+year-to-year: DATE
+IBM Software: ORG
+BPM: ORG
+Cloud: PERSON
+Mobility: PERSON
+WebSphere: ORG
+Rational Enterprise Modernization: ORG
+DevOps: ORG
+Core Banking, Capacity Planning and System: ORG
+System: PRODUCT
+Linux: GPE
+CICS: ORG
+05/2007 to 05/2008: CARDINAL
+Core Banking: ORG
+ICBA: ORG
+Oracle: ORG
+IBM: ORG
+Deposit/ Trade Finance/ Treasury/: ORG
+ICBA: ORG
+Core Banking: ORG
+Specialized: ORG
+Core Payment Systems: ORG
+RENTAS: GPE
+Inward: ORG
+Outward Cheque Clearing: PERSON
+Foreign Bills Collection / Mobile Banking: ORG
+Auto Payments System: ORG
+the New Core Banking Replacement: ORG
+SOA: ORG
+RFI: ORG
+RFP: ORG
+New Core Banking: ORG
+i-Flex / Infosys / TATA / Temenos: ORG
+Silverlake: CARDINAL
+Core: ORG
+IBM: ORG
+CA: ORG
+MVS Utilities-DFSORT: ORG
+Maybank IT: ORG
+Maybank Technical: ORG
+Skills: ORG
+11 years: DATE
+System: GPE
+PL/I,: ORG
+PL/SQL: ORG
+EGL: ORG
+Oracle: ORG
+MQ: ORG
+Message Broker: PRODUCT
+Business Process
+Management: ORG
+Mobile: GPE
+Cloud: GPE
+Middleware: GPE
+IBM: ORG
+IBM Rational: ORG
+WebSphere: ORG
+RAA: ORG
+RBD-EGL: ORG
+Quality Management: ORG
+CICS Modernization: ORG
+2.0: CARDINAL
+SOA: ORG
+Mobility: PERSON
+BPM: ORG
+Business Rules Management
+
+Education: ORG
+Training: PERSON
+2003: DATE
+Bachelor of Science in Computer Science: ORG
+Software Engineering University: ORG
+State: GPE
+Malaysia: GPE
+CGPA: ORG
+3.43: CARDINAL
+4.00: CARDINAL
+Dean: PERSON

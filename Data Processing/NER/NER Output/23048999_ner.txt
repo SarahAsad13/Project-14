@@ -1,0 +1,87 @@
+Skills
+
+Communications: ORG
+Editor, Event Planning, Special Events: ORG
+Fundraising, Graphics, Brochures: ORG
+Catalogs, Marketing, Marketing Plans: ORG
+Materials, Mentoring, Newsletters, Presentations,: WORK_OF_ART
+Processes, Public Relations, Recruitment, Strategic Plans, Supervision: ORG
+Website: GPE
+Annual: DATE
+06/2012: MONEY
+Name City: GPE
+daily: DATE
+the KC Metro Center: ORG
+the Center Works: FAC
+Works: ORG
+the Metro Center: FAC
+Assisting: PRODUCT
+Kansas City: GPE
+09/2013: CARDINAL
+Name City: GPE
+the Communication Department: ORG
+Mass Media Overview & History: ORG
+Communication
+Processes: ORG
+Foundations of Mass Communication and Essentials of Managerial Communication: ORG
+06/2012: CARDINAL
+Name City: GPE
+daily: DATE
+7,300: CARDINAL
+14: CARDINAL
+Facilitate: ORG
+District: GPE
+YouthFriends: ORG
+Coordinate: FAC
+annual: DATE
+Manage 12: PRODUCT
+YouthFriends Mentoring Program: ORG
+Educational Foundation: ORG
+Complete: PERSON
+Kansas City: GPE
+Foundation: ORG
+Alumni Affairs Coordinator: ORG
+Name City: GPE
+annual: DATE
+quarterly: DATE
+3,000: CARDINAL
+annual: DATE
+Facilitated: ORG
+annual: DATE
+annual: DATE
+Ph.D. 2018: ORG
+Kansas State University City: ORG
+GPA: ORG
+4.0: CARDINAL
+Adult & Community Education: ORG
+2004: DATE
+Missouri State University City: ORG
+GPA: ORG
+3.19: CARDINAL
+2002: DATE
+Missouri Western State University City: ORG
+GPA: ORG
+2.69
+
+Communication, Public Relations Emphasis
+
+Technical Communication Minor: MONEY
+Hickman Mills Prevention Coalition: ORG
+2007: DATE
+Hickman Mills Educational Foundation: ORG
+2012: DATE
+Scholarship Committee: ORG
+United Methodist Church: ORG
+2013: DATE
+PPR Committee: ORG
+St. Andrew United Methodist Church: FAC
+2012: DATE
+South Kansas City Leadership: GPE
+2008: DATE
+YouthFriends: ORG
+Mentor: PERSON
+2007 to 2014: DATE
+Advisory Committee: ORG
+2005 - 2006: DATE
+2002 - 2005: DATE
+2000 - 2004: DATE

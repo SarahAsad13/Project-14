@@ -1,0 +1,54 @@
+2
+years: DATE
+Boost Mobile: PERSON
+Highlights
+
+Inventory: ORG
+Accurate: ORG
+Team: ORG
+Verbal: ORG
+Detail: PERSON
+Accurate: ORG
+Team: ORG
+Verbal: ORG
+Detail: PERSON
+Superior: LOC
+Spanish: NORP
+Superior: LOC
+Spanish: NORP
+Boost Mobile: PERSON
+one day: DATE
+zero: CARDINAL
+one hundred: CARDINAL
+31: CARDINAL
+one day: DATE
+One: CARDINAL
+the best months: DATE
+199: CARDINAL
+over $: MONEY
+3,088: MONEY
+as many as ten: CARDINAL
+each day: DATE
+Store: PERSON
+the couple of months: DATE
+Boost Mobile of Mobile Factory: ORG
+today: DATE
+March 2015 to November 2015: DATE
+80: CARDINAL
+each day: DATE
+Inventory: PERSON
+the day: DATE
+October 2014 to December 2014: DATE
+Michael: PERSON
+the day: DATE
+February 2014 to June 2014: DATE
+Northwood High School 2014 High School Diploma : History City: ORG
+State: ORG
+United states: GPE
+my four years: DATE
+March 2015 to November 2015: DATE
+October 2014 to December 2014: DATE
+Seasonal: DATE
+February 2014 to June 2014: DATE
+Spanish: NORP
+Communication: ORG

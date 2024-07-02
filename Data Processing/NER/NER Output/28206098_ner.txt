@@ -1,0 +1,76 @@
+Career Overview
+
+Enthusiastic: WORK_OF_ART
+15 years: DATE
+Core Strengths
+
+Strong: PERSON
+Seasoned: PRODUCT
+Sharp: ORG
+Energetic: LOC
+Adaptive: ORG
+Live Support: LOC
+50: CARDINAL
+US: GPE
+Puerto Rico: GPE
+weekly: DATE
+monthly: DATE
+quarterly: DATE
+two: CARDINAL
+CUSTOMER: ORG
+March 2010 to January 2011: DATE
+all day: DATE
+approximately 90%: PERCENT
+CDHP: ORG
+Medicare: ORG
+Wellness: ORG
+Medical Claims Billing & Coding: ORG
+Medical Benefit Quotes: ORG
+CUSTOMER: ORG
+March 2002 to September 2002: DATE
+Reschedule: PRODUCT
+October 2000 to December 2000: DATE
+Rapid Infuser: PERSON
+Foley Catheters Dressing Changes: PERSON
+Comfort Measures / Safety Measures: ORG
+Psyche: ORG
+Escort: PRODUCT
+Clean Rooms: ORG
+Chest Tube Setups Relieve MR's: ORG
+Clinitech Documentation: ORG
+Change Sharp: WORK_OF_ART
+O2: PRODUCT
+EKG: ORG
+Assist: NORP
+O2: CARDINAL
+Clean Instruments: ORG
+Splint Assistance, Suction: WORK_OF_ART
+Pelvic Exams: PERSON
+10/2000: CARDINAL
+Maric College: ORG
+State: GPE
+USA: GPE
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.5: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.5: CARDINAL
+Cum LaudeRelevant Coursework: ORG
+Paraleglal: PERSON
+2004: DATE
+Penn Foster: PERSON
+State: GPE
+USA: GPE
+Skills: ORG
+Interpersonal: ORG
+CA: ORG
+Data: ORG
+Documentation: ORG
+EKG: ORG
+Paralegal: GPE
+Coding: ORG
+Safety, SAN, Collect: ORG
+Answer: ORG

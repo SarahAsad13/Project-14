@@ -1,0 +1,26 @@
+Careful: PRODUCT
+Data Entry: ORG
+Training: PERSON
+May 1982: DATE
+McEachern HS City: GPE
+State High School Diploma :: ORG
+Girl Scouts: ORG
+2012-2013: DATE
+August 2013: DATE
+May 2015: DATE
+Name City: GPE
+State Food Server
+
+Monitor food: ORG
+300: CARDINAL
+August 2007: DATE
+May 2011: DATE
+Name City: GPE
+Discuss: PERSON
+October 1985: DATE
+February 1999: DATE
+Name City: GPE
+State Loan Processor: ORG
+Match: ORG
+Examine: GPE
+Evaluate: ORG

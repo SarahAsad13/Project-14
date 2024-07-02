@@ -1,0 +1,96 @@
+Network Administrator: ORG
+Skills
+
+Remote: ORG
+Superb: NORP
+Antivirus: PRODUCT
+LAN: ORG
+WAN: ORG
+Work History
+Information Technology Specialist: WORK_OF_ART
+Ensures: ORG
+LAN: ORG
+Security: ORG
+LAN: ORG
+DECC Warner Robins: ORG
+Ensures: ORG
+LAN: ORG
+Appointed: ORG
+Ticket: PERSON
+Assigns: PERSON
+Escalates: LOC
+DECC ADPE: ORG
+Admin Enclave: FAC
+Troubleshot: PERSON
+Troubleshot: PERSON
+Computer Systems Administrator: ORG
+12/2007: CARDINAL
+Troubleshoot: ORG
+Team: ORG
+over 150: CARDINAL
+SIPRNET: NORP
+SIPRNET: NORP
+Information Assurance: ORG
+the Cargo Management Operations System: ORG
+Hewlett-Packard: ORG
+Xerox: ORG
+Troubleshoot/Diagnose: ORG
+DHCP: ORG
+300: CARDINAL
+Robins AFB: ORG
+Restored: ORG
+Information Assurance/Network Security: ORG
+12/2007: CARDINAL
+the AF Computer
+Emergency Response Team: ORG
+Responsibilities/Accomplishments
+
+Helpdesk Technician: LAW
+05/2004: CARDINAL
+Operating System: ORG
+Win9x, NT: DATE
+Win 2000: DATE
+Network Connectivity: ORG
+TCP: ORG
+MS Office: ORG
+Network Control Center: ORG
+25,000: CARDINAL
+Created: ORG
+Bachelor of Science : Computer Information Systems: ORG
+2002: DATE
+Jacksonville University - City: ORG
+State 
+Computer Information Systems
+Certifications: ORG
+A+: NORP
+Active Directory: ORG
+Client: GPE
+Server: GPE
+Compaq: ORG
+Hardware: GPE
+Client: GPE
+Dell: ORG
+DHCP: ORG
+Ghost: PERSON
+Hewlett-Packard: ORG
+IBM: ORG
+Information Systems: ORG
+LAN: ORG
+Team: ORG
+McAfee: ORG
+Microsoft Exchange: ORG
+MS Office: ORG
+Microsoft Office Suite: ORG
+2000: DATE
+Windows 95: PRODUCT
+98: DATE
+Windows NT: LOC
+Network: ORG
+Networking: ORG
+Norton Antivirus: ORG
+Operating System: ORG
+Symantec: ORG
+TCP/IP: ORG
+Troubleshoot: ORG
+Utilities: ORG
+Vista: ORG

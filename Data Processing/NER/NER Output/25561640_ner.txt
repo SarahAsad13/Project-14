@@ -1,0 +1,69 @@
+twenty-four years: DATE
+the U.S. Army: ORG
+two years': DATE
+the U.S. Army Armor School: ORG
+Social Work: ORG
+Team Building Personnel Management Inventory/Supply Management Time Management Training Evaluation
+Safety/Risk Management Inner-agency: ORG
+Coordination Training and Development Policy Implementation Needs Assessment Curriculum
+Development Organization/Communication Research/Analysis: ORG
+Excel: PRODUCT
+3.69: CARDINAL
+GPA: ORG
+the University of Louisville: ORG
+Social Work: ORG
+560 hours: TIME
+Social Work Practicum Internship: ORG
+the Fort Knox Warrior Transition Center: ORG
+BSW Cum Laude - 2015: PERSON
+Bronze Star/Meritorious Service Medal: ORG
+2)/ARCOM: CARDINAL
+2)/NCO: CARDINAL
+Operation Iraqi Freedom/Korean
+National Defense Ribbon/Army Service Ribbon: EVENT
+Full Time: ORG
+Jan 2013 to Jan 2015: DATE
+3.69: CARDINAL
+GPA: ORG
+the University of Louisville: ORG
+Social Work: ORG
+560 hours: TIME
+Social Work Practicum Internship: ORG
+the Fort Knox Warrior Transition Center: ORG
+May 2011 to Dec 2012: DATE
+Instructor/Writer: ORG
+Jan 2009 to Jan 2011: DATE
+Army Training Program: ORG
+the Active Component: ORG
+Reserve Component: ORG
+Army National Guard and: ORG
+Reserve Component: ORG
+daily: DATE
+five: CARDINAL
+120: CARDINAL
+daily: DATE
+260: CARDINAL
+Armor and Cavalry: ORG
+Education: ORG
+BSW: ORG
+Social Work 2015 University of Louisville
+
+University of Louisville: ORG
+Cum Laude - 2015: PERSON
+Associate Arts: WORK_OF_ART
+Graduate Studies 2012 Central Texas College: ORG
+Central Texas College Associate Arts - 2012: ORG
+daily: DATE
+five: CARDINAL
+120: CARDINAL
+Operations: ORG
+Instructor, Simulation,: ORG
+Case Management: ORG
+Armor: GPE
+Instructional Training, Testing, Associate: ORG
+Excel: PRODUCT
+Inventory: GPE
+Microsoft Word: PERSON
+Needs Assessment, Personnel Management, Risk Management: ORG
+Time
+Management: ORG

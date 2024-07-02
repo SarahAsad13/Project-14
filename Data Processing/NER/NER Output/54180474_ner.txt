@@ -1,0 +1,54 @@
+College: GPE
+Career Coordinator: ORG
+Broken Arrow Public Schools: ORG
+each day: DATE
+August 2008: DATE
+Current School Library Media Specialist: ORG
+two: CARDINAL
+two: CARDINAL
+annual: DATE
+Assist: NORP
+21st Century: DATE
+21st Century Learners: DATE
+Common Core Standards: PERSON
+September 2002: DATE
+August 2008: DATE
+Collaborated: ORG
+Interpreted: ORG
+August 1999 to September 2002: DATE
+English Language Arts: EVENT
+Collaborated: ORG
+Northeastern State University: ORG
+May 2015: DATE
+State School Administration
+University of Oklahoma: ORG
+State: ORG
+Northeastern State University: ORG
+December 1998: DATE
+English City: GPE
+State: ORG
+English: LANGUAGE
+Secondary Principal: ORG
+Library Media Specialist: WORK_OF_ART
+12: CARDINAL
+American Literature: ORG
+7: CARDINAL
+English: NORP
+7: CARDINAL
+World Literature: ORG
+7: CARDINAL
+Composition: ORG
+7 - 12: CARDINAL
+Affiliations
+Software & Information Industry Association: ORG
+2014: DATE
+2013: DATE
+Committee - Administrative Team: ORG
+Oklahoma Sequoyah: PERSON
+Young
+Adults with Special Needs Committee: WORK_OF_ART
+FEMA: ORG
+Emergency Management Institute IACP:: ORG
+Oklahoma Medical Reserves Corp.: ORG
+Jenks Hometown Huddle: PERSON
+English: LANGUAGE

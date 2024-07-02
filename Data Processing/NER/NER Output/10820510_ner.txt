@@ -1,0 +1,59 @@
+QA / QC: ORG
+QA / QC: ORG
+Qualification Highlights Current Certifications: ORG
+21 years': DATE
+the Oil and Gas Industry: ORG
+Repair/Maintenance and New Construction of Above Ground: ORG
+6 years: DATE
+QA / QC: EVENT
+Excel: PRODUCT
+1: CARDINAL
+01/2011: CARDINAL
+QA / QC: ORG
+WPQ: ORG
+WPS: ORG
+NDE: ORG
+Initiates: ORG
+Shop: ORG
+Shop Inspector: ORG
+Provides Superintendents: PERSON
+NDE: ORG
+Weld: PERSON
+day: DATE
+as many as 10: CARDINAL
+Crews: ORG
+one: CARDINAL
+Superintendent / Repair: ORG
+New Tank Construction Company Name: ORG
+day: DATE
+Project Managers: ORG
+Lead Man / Repair: ORG
+New Tank Construction: ORG
+QC: ORG
+daily: DATE
+weekly: DATE
+Welder / New Tank Construction / Fitter: ORG
+Tank: ORG
+CBI: ORG
+Tanco: PERSON
+ATV: ORG
+Bay Tank: GPE
+Vessel: GPE
+Cust-O-Fab: ORG
+Inserv: ORG
+New Tank and Repair: ORG
+FCAW: GPE
+GMAW: PERSON
+SAW: ORG
+AWS Certified CWI: ORG
+653: CARDINAL
+ASNT Level III: ORG
+Skills
+API, Auto-Cad: ORG
+Inspector: WORK_OF_ART
+Excel: PRODUCT
+Microsoft: ORG
+Weld: PERSON
+Welder
+
+: PERSON

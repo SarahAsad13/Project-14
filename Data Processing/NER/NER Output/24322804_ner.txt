@@ -1,0 +1,69 @@
+Maintenance/Engineering: ORG
+Engineering Technology: ORG
+Computer Engineering: ORG
+Computer Science: FAC
+Middle Tennessee State University: ORG
+ArcelorMittal: ORG
+PepsiCo: ORG
+OEE: ORG
+ArcelorMittal: ORG
+OEE: ORG
+PLC: ORG
+Fanuc Robot: ORG
+CAD: ORG
+Frito Lay: ORG
+the Project Engineer & Maintenance/Engineering Business Unit: ORG
+Project Engineer: ORG
+Frito Lay: ORG
+Maintenance/Engineering Business Unit: ORG
+OEE: ORG
+daily: DATE
+34: CARDINAL
+two: CARDINAL
+three: CARDINAL
+one: CARDINAL
+OSHA: ORG
+Frito and: ORG
+Federal/State
+Regulatory Laws: ORG
+Frito Lay: ORG
+MTSU: WORK_OF_ART
+ArcelorMittal: ORG
+Frito Lay: ORG
+Aaron Lovely: PERSON
+Engineering Technology: ORG
+ArcelorMittal: ORG
+PepsiCo Frito Lay Division: ORG
+Jan 2015: DATE
+OEE: ORG
+13th: DATE
+4th: ORDINAL
+3.1Million: MONEY
+2.4Million: MONEY
+1: MONEY
+1.2Million: MONEY
+improvements &: ORG
+Jan 2013 to Jan 2015: DATE
+$825 Thousand: MONEY
+Awarded Productivity: ORG
+five: CARDINAL
+Developed: ORG
+Technician Jan 2011 to Jan 2013 
+City: DATE
+OEE: ORG
+85%: PERCENT
+Zero: CARDINAL
+YTD: ORG
+Awarded: GPE
+86%: PERCENT
+Training
+Bachelor of Sciences: PERSON
+Engineering Technology Computer Engineering Computer Science Middle Tennessee State University: ORG
+State
+Engineering Technology Computer Engineering Computer Science AutoCAD, Electrical Circuit Analysis: ORG
+Electrical Mechanical Systems: ORG
+Instrumentation and Controls: ORG
+C++: GPE
+Technical Grammar: PERSON
+C++: PERSON
+Visual Basics: PERSON

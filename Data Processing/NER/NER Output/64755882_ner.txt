@@ -1,0 +1,93 @@
+Master of Science : Electrical Engineering: WORK_OF_ART
+2017: DATE
+North Carolina: ORG
+University City: GPE
+State: GPE
+Control Engineering: ORG
+2013: DATE
+Netaji Subhas Institute Of Technology City: ORG
+State: GPE
+India: GPE
+78.34 %: PERCENT
+2011-12: DATE
+2012-13: DATE
+Name City: GPE
+State: ORG
+LPG: ORG
+Role: PERSON
+LPG: ORG
+Name City: GPE
+State: ORG
+Oversaw: GPE
+LPG: ORG
+Intern 06/2012: LAW
+Name City: GPE
+Intern: ORG
+07/2011: CARDINAL
+Name City: GPE
+Control
+Systems: ORG
+PID: ORG
+Published Work
+
+Research Paper: Â 
+
+: WORK_OF_ART
+K.P.S.: GPE
+N.  Mittra: PERSON
+N.  Pramanik: PERSON
+Dwivedi: GPE
+Mahajan: GPE
+Neural: ORG
+Based
+Thermistor Linearization: ORG
+Experimental Techniques: WORK_OF_ART
+39: CARDINAL
+2: CARDINAL
+23â€“30, Jan 2013 Â 
+
+Â 
+
+Conference Presentation: Â 
+
+K. P. S. Rana: DATE
+Vineet Kumar: PERSON
+Neel Pramanik: PERSON
+Nishant Mitra: PERSON
+Sumit Kumar Shakya: PERSON
+Some Applications of FPGA: WORK_OF_ART
+8th: ORDINAL
+AdMET: ORG
+New Delhi: GPE
+India: GPE
+Feb 2013 Â 
+
+: DATE
+Name City: GPE
+Based Chain Conveyor Tripping System
+
+: ORG
+Allen Bradely PLC: ORG
+Infrared Sensor: PERSON
+IR: ORG
+1000 cylinders/ hour: TIME
+Name City: GPE
+PWM: ORG
+PI: ORG
+Fuzzy PI: NORP
+FPGA: ORG
+HVAC: ORG
+Skills
+
+Design Software: ORG
+Modelsim: PERSON
+Cadence Virtuoso: PERSON
+Verilog: PERSON
+Windows, Linux: PERSON
+Spectrum Analyzer: PERSON
+NSIT: ORG
+2011-12: DATE
+2012-13: DATE
+Green House: ORG
+Black Belt: LOC
+Taekwon: GPE

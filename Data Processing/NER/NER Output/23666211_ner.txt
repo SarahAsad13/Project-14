@@ -1,0 +1,91 @@
+Qualified Training: PERSON
+10 years': DATE
+Strong Training: PERSON
+Policy: PERSON
+Certified Train the Trainer: WORK_OF_ART
+Curriculum Development
+Talent development
+
+Military & Civilian Training: ORG
+Customer: ORG
+Name City: GPE
+08/2011: CARDINAL
+Develop: ORG
+Evaluate: ORG
+70: CARDINAL
+Provide: NORP
+Name City: GPE
+State: ORG
+Military: GPE
+Congressional: NORP
+Created: ORG
+Military: GPE
+United States: GPE
+Name City: GPE
+State Program Administrator II: ORG
+US Army: ORG
+CISAC: ORG
+01/2004: CARDINAL
+the Department of Interior: ORG
+Department of Defense: ORG
+Request: PERSON
+Purchase/Quotes: ORG
+RFP/RFQ: ORG
+35L/97B: CARDINAL
+Retest-Retrain Team: ORG
+Intelligence School: ORG
+Assigned: ORG
+Officers: PRODUCT
+Role Player: PERSON
+Name City: GPE
+State Role Player: ORG
+01/2004: CARDINAL
+CISAC: ORG
+US Army Intelligence Center: ORG
+Research & Development: ORG
+Field Training Exercises: ORG
+Cadre: PERSON
+Prepared: PRODUCT
+Bachelor of Arts: ORG
+Theology 2007 University of the South , City ,: ORG
+State: GPE
+USA: GPE
+Graduated
+
+Associates (Equivalent: ORG
+Office Automation/Computer Specialist: ORG
+1989: DATE
+City: GPE
+State: GPE
+USA: GPE
+Valedictorian: NORP
+Saint Stephen's: GPE
+Episcopal Church Vestry: ORG
+Youth: ORG
+Lay Eucharist: PERSON
+Umpire for Little League: ORG
+Volunteer: PERSON
+Arizona Business and Professional Women: ORG
+Stand for Children: ORG
+Non-Governmental Organizational: ORG
+United Nations: ORG
+International Response Team: ORG
+IRT: ORG
+Wounded Warrior: ORG
+US: GPE
+Heroes: GPE
+UK: GPE
+Random Kindness: ORG
+ARK: GPE
+Tracy: PERSON
+American Kenpo Karate Association: ORG
+Skills
+
+Administrative: ORG
+Course Development: ORG
+Client: GPE
+DC: GPE
+Instructor: ORG
+Leadership and Development: ORG
+Trainer: ORG
+T3: ORG

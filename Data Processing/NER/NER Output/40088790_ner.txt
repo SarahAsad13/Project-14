@@ -1,0 +1,74 @@
+PERSONAL BANKER(SAFE)1: PERSON
+the Year Award: EVENT
+the Month Awards: DATE
+Award Winner: PERSON
+Ranked: PRODUCT
+Telephone Bankers: ORG
+Customer Service Representatives: ORG
+the Nation
+Received Highest Quality Score Award: ORG
+Dec 2013: DATE
+Personal Banker and Business Advocate: ORG
+Relationship Banker, Small Business Specialist: ORG
+Nov 2009: DATE
+2013: DATE
+Loan: NORP
+Business Bankers: ORG
+Financial Advisors: ORG
+Loan: NORP
+daily: DATE
+Received a National Achiever Banker Award: ORG
+the Month: DATE
+monthly: DATE
+one: CARDINAL
+Arizona Market: GPE
+Community: ORG
+Investment- Series 6,: EVENT
+63: DATE
+Insurance: ORG
+Jun: PERSON
+2009: DATE
+Loan: NORP
+U.S.: GPE
+Bank: ORG
+Telephone Banker/ Customer Service: ORG
+Oct 2007: DATE
+2009: DATE
+daily: DATE
+Maintained: GPE
+Customer Satisfactions: ORG
+Assisted: ORG
+Assisted: ORG
+Bachelor: ORG
+Social Work St. Bridget's College: ORG
+City: GPE
+Philippines: GPE
+Licensing: GPE
+Social Work
+
+Skills
+
+Leadership
+Marketing
+Motivation: ORG
+Operation Management
+Negotiation Skills
+New Business Development
+Operations Start-Up: ORG
+Performance Analysis
+Problem Resolution Project Management
+Project Planning
+Public Relations
+Sales, Sales Analysis
+Service Quality Improvement: WORK_OF_ART
+Cross-Cultural Communications: ORG
+Customer Relations
+Departmental Operations Management
+
+: ORG
+Interpersonal Skills
+Staff-Retention Programs: ORG
+Start-Ups: ORG
+Team Building
+Team Leadership
+Team Player: ORG

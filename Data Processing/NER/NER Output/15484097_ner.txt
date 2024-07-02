@@ -1,0 +1,61 @@
+25LIVE: CARDINAL
+FUNCTIONAL ADMINISTRATOR/SUPERVISOR: ORG
+I.T.: GPE
+Experienced R25/ 25Live Â: PERSON
+Skills
+
+Excellent: ORG
+Microsoft: ORG
+25Live Functional Administrator/Supervisor: ORG
+State: ORG
+Communicate: GPE
+Resource 25: LAW
+University: ORG
+Web Viewers: ORG
+University: ORG
+Resource 25 Administrator: ORG
+Resource 25: LAW
+weekly: DATE
+Committee: ORG
+weekly: DATE
+Sports Complex: PERSON
+Resource 25: LAW
+Resource: ORG
+25: CARDINAL
+PeopleSoft: ORG
+Â Train: ORG
+Benedictine: PERSON
+Resource: ORG
+Resource: ORG
+25: CARDINAL
+the Office of Operations: ORG
+summer: DATE
+daily: DATE
+CSR: ORG
+the Service Desk Team Lead: ORG
+CSR: ORG
+Benedictine University's: ORG
+09/2003: CARDINAL
+Chicago Police Department: ORG
+a Public Safety Officer: ORG
+Â Notify Chicago Police: ORG
+May: DATE
+University: ORG
+May: DATE
+May: DATE
+May: DATE
+Legislative Aide: ORG
+02/1999: ORG
+08/2003: CARDINAL
+Assisted City: GPE
+Prepared: PERSON
+Alderman: NORP
+Alderman: PRODUCT
+Coordinated: ORG
+Bachelor of Arts : Social Science: ORG
+2015: DATE
+Benedictine University - City: ORG
+15 %: PERCENT
+Emphasis: ORG
+Emphasis: ORG
+Emphasis: ORG

@@ -1,0 +1,36 @@
+four years: DATE
+Billing/: ORG
+Accomplishments
+
+Bringing the student default: WORK_OF_ART
+the OmniTech Institute: ORG
+Researched: ORG
+Maintained: GPE
+July 2014: DATE
+State: ORG
+Performed: PERSON
+June 2013 to June 2014: DATE
+IV: GPE
+IV: GPE
+Team: ORG
+September 2009 to November 2012: DATE
+State: ORG
+IV Teamwork: ORG
+Prepare: ORG
+August 2007 to September 2009: DATE
+daily: DATE
+Front Desk Receptionist: PERSON
+January 2007 to August 2007: DATE
+Operate: ORG
+Provide: NORP
+Professional: ORG
+Education: ORG
+Microsoft Office: ORG
+2015: DATE
+Atlanta Metropolitan College: ORG
+2006: DATE
+Clark Atlanta University Communications: ORG
+Balance: PERSON
+Microsoft Office Suite: ORG
+Teamwork: ORG
+Team: ORG

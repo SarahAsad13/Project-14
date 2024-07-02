@@ -1,0 +1,79 @@
+FOH: ORG
+Detail: PERSON
+Detail: PERSON
+five years': DATE
+Highlights
+
+MS Office Suite: ORG
+POS Touch, Windows 7,: ORG
+Outlook and Excel: ORG
+Point of Sale (POS) system operation
+Works: WORK_OF_ART
+Mathematical: ORG
+12 years: DATE
+Grand Opening: FAC
+Culinary Certified: ORG
+Italian: NORP
+Southern: NORP
+American: NORP
+Mexican: NORP
+Name City: GPE
+the Walt Disney Company: ORG
+Universal: ORG
+CBS: ORG
+ABC Studios: ORG
+Huntington Library: PERSON
+Gardens: GPE
+Nestle USA: ORG
+Wolfgang Puck: PERSON
+Valencia Country Club: ORG
+Consulting Chef Food E-Commerce: ORG
+Jewel City Bowl: PERSON
+The Waffle, Saddle Ranch: ORG
+Waffle Fusion: ORG
+Woodland Hills Company Name
+
+Responsible: ORG
+OSHA: ORG
+Develop: PRODUCT
+daily: DATE
+Direct BOH P&L: ORG
+GM: ORG
+first: ORDINAL
+hours: TIME
+3: CARDINAL
+Sprayed: PERSON
+Name City: GPE
+BJ: GPE
+Chicago Brewery Restaurant: FAC
+Woodland Hills Collaborate: ORG
+daily: DATE
+daily: DATE
+BOH: ORG
+GM: ORG
+Develop: ORG
+Name City: GPE
+monthly: DATE
+annual: DATE
+38: CARDINAL
+Prepare: ORG
+Working: ORG
+GM: ORG
+the Grand Opening: LOC
+eight: CARDINAL
+Developed: ORG
+1984: DATE
+GEORGIA INSTITUTE OF TECHNOLOGY City: ORG
+State: ORG
+fulton
+
+MarketingCoursework in Business Management and OperationsCoursework: ORG
+Culinary Management and Food and Beverage Operations
+Management: ORG
+State: ORG
+ABC: ORG
+Consulting: ORG
+E-Commerce: ORG
+Excel: PRODUCT
+MS Office Suite: ORG
+Outlook, Windows 7: ORG

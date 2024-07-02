@@ -1,0 +1,67 @@
+Summary
+
+Human Resources: ORG
+Highlights
+
+Staffing: WORK_OF_ART
+10/2013: CARDINAL
+State
+
+Address: ORG
+Coach: ORG
+Facilitate: ORG
+Update: ORG
+Corporate: ORG
+Conducted: ORG
+Develop: ORG
+Name City: GPE
+State: ORG
+Perform Initial Service Assessments: ORG
+Educate: ORG
+Human Resources: ORG
+11/2009: CARDINAL
+11/2011: CARDINAL
+Name City: GPE
+Develop: ORG
+the Employee Recognition Program: ORG
+annual: DATE
+Affirmative Action Plan: EVENT
+Name City: GPE
+Coordinate: FAC
+Develop: ORG
+Conduct New Hire Orientation: ORG
+weekly: DATE
+quarterly: DATE
+annual: DATE
+Assist: NORP
+the Equal Employment Opportunity: ORG
+Affirmative Action: ORG
+annual: DATE
+Generalist: PERSON
+04/2008 Company Name City: ORG
+Assist: NORP
+Facilitate: ORG
+401: CARDINAL
+annual: DATE
+Name City: GPE
+Facilitate: ORG
+annual: DATE
+the Family Medical Leave Act: ORG
+Develop: ORG
+Organize: GPE
+Facilities Committee: ORG
+Name City: GPE
+Compile: PRODUCT
+Name City: GPE
+HRIS: ORG
+401: CARDINAL
+401: CARDINAL
+Albany City: GPE
+State: ORG
+A.A.S : Human Services: ORG
+Hudson Valley Community College City: ORG
+State: ORG
+Skills
+
+Professional Human Resources Certification: ORG
+June 2011: DATE

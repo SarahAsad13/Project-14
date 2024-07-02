@@ -1,0 +1,135 @@
+Financial Statement Reporting & Analysis Budgeting & Forecasting SOX Compliance Accounts Payable/Receivable Sales & Use Tax Returns: ORG
+SEC Reporting Problem Identification & Resolution Internal & External Audit: ORG
+Data Extraction & Analysis: ORG
+Oracle: NORP
+JDEdwards: NORP
+MAS90: GPE
+Essbase: GPE
+Brio/BI: ORG
+Quickbooks: ORG
+SAP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Word: PERSON
+PowerPoint: ORG
+Access: ORG
+Visio: PERSON
+Monarch, Choice Builder System: ORG
+Finance: ORG
+April 2010: DATE
+Current Company Name: ORG
+Controller: PERSON
+January 2015: DATE
+monthly: DATE
+annual: DATE
+nine: CARDINAL
+annual: DATE
+the Managing Partners: ORG
+Accountant/Senior Financial Analyst: ORG
+March 2009 to: DATE
+April 2010: DATE
+the Accounting and Payments Team: ORG
+the Financial Management Division of Marketing & Regulatory Program Business
+Services for Animal & Plant Health Inspection Service: ORG
+APHIS: ORG
+three: CARDINAL
+Federal
+Agencies: ORG
+Appropriation Law: ORG
+Program Directives: PERSON
+Agency Policy: ORG
+Agency Accounts Payable Subject Matter Expert: ORG
+SME: ORG
+SAP: ORG
+ten hours: TIME
+monthly: DATE
+10% to 95%: PERCENT
+Controller: PERSON
+January 1998 to March 2009: DATE
+SOX: ORG
+quarterly: DATE
+month-end: DATE
+monthly: DATE
+a three year: DATE
+MN: ORG
+WI: ORG
+over $: MONEY
+200,000: MONEY
+Controller: PERSON
+Controller: PERSON
+four years: DATE
+monthly: DATE
+Omaha: GPE
+General Manager &: ORG
+Controller: PERSON
+more than 15%: PERCENT
+Developed: PRODUCT
+month-end: DATE
+1 day: DATE
+month-end: DATE
+the third business day: DATE
+5th: ORDINAL
+Team: ORG
+MAS90: GPE
+JDEdwards: PRODUCT
+four: CARDINAL
+Payroll Administrator: ORG
+first: ORDINAL
+Controller: PERSON
+January 1991 to January 1998: DATE
+Controller: PERSON
+Controller: PERSON
+May 1993: DATE
+Controller: PERSON
+Information & Reporting Systems: ORG
+October 1996: DATE
+annual: DATE
+nine: CARDINAL
+Prepared: PRODUCT
+10Q: DATE
+10: CARDINAL
+SEC: ORG
+seven: CARDINAL
+Payroll: ORG
+Land Development Department: ORG
+Team: ORG
+two: CARDINAL
+Developed an Accounting Policy: ORG
+M.B.A : Management University of St. Thomas ï¼​ City: ORG
+GPA: ORG
+3.9: CARDINAL
+3.9: CARDINAL
+Bachelor of Arts : Accounting Computer Science St. Mary's University of Minnesota ï¼​ City: ORG
+GPA: ORG
+3.9: CARDINAL
+3.9: CARDINAL
+Certified Public Accountant: ORG
+Minnesota: GPE
+1988: DATE
+License: ORG
+11547: DATE
+Affiliations
+ALA- Association of Legal Administrators: ORG
+ALAMN - Minnesota Chapter of Association of Legal Administrators American Institute of Certified
+Public Accountants - AICPA: ORG
+Society of Certified Public Accountants: ORG
+Skills
+Accounting: ORG
+ADP, Agency: ORG
+Billing: GPE
+Brio: PERSON
+BI: ORG
+Controller: PERSON
+Financial Management: ORG
+Human Resources, Hyperion: ORG
+JDEdwards: PRODUCT
+Law: PERSON
+Marketing: GPE
+MAS90: GPE
+Access, Excel: ORG
+PowerPoint: ORG
+Word: PERSON
+Monarch, Oracle, Payroll: ORG
+Quickbooks: PERSON
+SAP: ORG
+Visio: PERSON

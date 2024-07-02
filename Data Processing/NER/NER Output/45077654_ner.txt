@@ -1,0 +1,134 @@
+Experienced Customer Service Representative: ORG
+10 years: DATE
+Worked in Healthcare Industry: ORG
+over 8 years: DATE
+Humana: ORG
+Passport: WORK_OF_ART
+NY Successfully: ORG
+Open Enrollment: WORK_OF_ART
+Subject Matter Expert: PERSON
+SHPS: ORG
+Understands: GPE
+anesthesia: GPE
+Understands: GPE
+DRG: ORG
+Resourceful: PERSON
+Â Â Â  â€¢Excellent: PRODUCT
+Work History
+Claims Subject Matter Expert: WORK_OF_ART
+09/2016: PRODUCT
+12/2016: CARDINAL
+Fast Learner
+Records: PERSON
+â€¢Familiar: CARDINAL
+200: CARDINAL
+Processed: GPE
+HCFA: GPE
+1500: CARDINAL
+anesthesia: GPE
+1500: CARDINAL
+Medicaid: ORG
+HMO 7 University Health: ORG
+Banner Health
+
+Benefit Plan Admin./Client: ORG
+05/2016: PRODUCT
+09/2016: CARDINAL
+RX: ORG
+RX: ORG
+Patient Access Rep I: WORK_OF_ART
+financial &: ORG
+07/2015: CARDINAL
+a Claims Examiner: PERSON
+DST Solutions: ORG
+Delaware
+Â· Responsible: FAC
+Commercial: ORG
+Medicare: ORG
+Newborn, Inpatient Claims: ORG
+Claims Examiner: PERSON
+07/2014: CARDINAL
+a Claims Examiner: PERSON
+Kaiser Permanente Southern: ORG
+California: GPE
+Hospital UB's: FAC
+Identify: PRODUCT
+Medicare: ORG
+Adjudicate Replacement: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+CMS Pricers: ORG
+DRG Calculator: ORG
+ICD-9: NORP
+Basic Office Systems: ORG
+NY: ORG
+the HOME Commercial: ORG
+Medicare: ORG
+Medicaid: ORG
+Processed: GPE
+HOST: ORG
+Provider Claims Service Unit: ORG
+03/2008: PERSON
+11/2012: CARDINAL
+Passport Health: ORG
+Medicaid: ORG
+Passport Advantage: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+Facets: ORG
+IKA Systems: ORG
+CMS Pricers: ORG
+DRG Calculator: ORG
+ICD-9: NORP
+Basic Office
+
+Systems: ORG
+05/2004: CARDINAL
+03/2008: CARDINAL
+Customer Service Claims Specialist-Chicago: ORG
+Medicare: ORG
+Medicaid: ORG
+Commercial Markets: ORG
+ICD-9: NORP
+Claims Examiner: PERSON
+07/2014: CARDINAL
+State: ORG
+a Claims Examiner: PERSON
+Kaiser Permanente Southern: ORG
+California: GPE
+incomingÂ Hospital UB's: ORG
+Identify: PRODUCT
+Medicare: ORG
+Adjudicate Replacement: PRODUCT
+Bill Type: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON
+CMS Pricers: ORG
+DRG Calculator: ORG
+ICD-9: NORP
+Basic Office Systems: ORG
+CPT: ORG
+ICD-9: NORP
+third: ORDINAL
+Bachelor of Science : Psychology: ORG
+State: ORG
+Christian Counseling
+
+Administration: ORG
+May 2017: DATE
+Ashworth College - 
+Skills: ORG
+AS400: PRODUCT
+CMS: ORG
+CPT: ORG
+CPT: ORG
+Microsoft Access: ORG
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Word: PERSON
+Microsoft: ORG
+Coding: ORG

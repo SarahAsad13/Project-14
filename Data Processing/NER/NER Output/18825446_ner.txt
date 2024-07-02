@@ -1,0 +1,66 @@
+EXECUTIVE CHEF
+Professional Summary
+
+Talented Executive Chef: ORG
+twenty five years: DATE
+Cajun: PERSON
+Twenty five years: DATE
+Core Qualifications
+Food: ORG
+Italian: NORP
+French: NORP
+American: NORP
+Strong: PERSON
+Plate: ORG
+Reliable: WORK_OF_ART
+Interviewing: PERSON
+Strong: PERSON
+Menu: ORG
+Works: PERSON
+Basic: PRODUCT
+Banquet: ORG
+December 1987: DATE
+Name City: GPE
+State Executive Chef
+
+Operations Management: Food Preparation Responsible: ORG
+up to 12: CARDINAL
+200: CARDINAL
+Spoke: ORG
+10: CARDINAL
+monthly: DATE
+eight: CARDINAL
+12: CARDINAL
+Oversaw 10: PRODUCT
+Sous Chef: PERSON
+100%: PERCENT
+Cold Food: ORG
+Soup Station Chef and Relief Chef: PRODUCT
+daily: DATE
+five: CARDINAL
+Informed: ORG
+Planned: PERSON
+Specialized: ORG
+Collaborated: ORG
+Cooked: PERSON
+Cooked: PERSON
+Created: ORG
+Directed: ORG
+first: ORDINAL
+first: ORDINAL
+Maintained: GPE
+Maintained: ORG
+Oversaw: GPE
+Seasoned: PRODUCT
+Maintained: GPE
+Correctly: ORG
+2011: DATE
+State: ORG
+USA Associate of Arts: ORG
+Professional Affiliations: ORG
+Small Business Association: ORG
+2005: DATE
+USPCA: ORG
+United States Private Chef Association: ORG
+Works, Operations Management: ORG
+Health Department: ORG

@@ -1,0 +1,82 @@
+Resourceful, Responsible: ORG
+Seasoned: PERSON
+Strategic: PERSON
+Versatile: ORG
+Articulate: ORG
+Client: GPE
+Committed, Conscientious, Consistent: ORG
+Dedicated, Dependable: ORG
+Detail: PERSON
+Dynamic, Effective: ORG
+Energetic: LOC
+Focused, Gifted: ORG
+Hardworking, Highly: ORG
+Innovative, Mature, Meticulous: ORG
+Motivated: GPE
+Pragmatic: NORP
+Proactive, Productive, Proficient: ORG
+Reliable: PERSON
+AccomplishedHighly: PERSON
+Expert computing: PERSON
+CMS: ORG
+Microsoft Office: ORG
+Detail: PERSON
+Superb: NORP
+January 1997 to August 2015: DATE
+Primary Administrative Consultant: PERSON
+January 1995 to January 1997: DATE
+Prepared: PRODUCT
+IRS Form 5500: LAW
+ADP: ORG
+annual: DATE
+Treasury: ORG
+January 1993 to January 1995: DATE
+daily: DATE
+Pension Analyst: ORG
+January 1992 to January 1993: DATE
+Completed: ORG
+annual: DATE
+Internal Revenue Service: ORG
+Department of Labor: ORG
+Securities Exchange Commission: ORG
+Pension Benefit Guarantee Corporation: ORG
+annual: DATE
+Intern: ORG
+January 1991 to January 1992: DATE
+Prepared: PERSON
+quarterly: DATE
+Allocated: ORG
+Master of Business Administration : Administration: ORG
+1995: DATE
+GPA: ORG
+3.4: CARDINAL
+Bachelor of Business Administration : Finance: ORG
+1991: DATE
+GPA: ORG
+3.2: CARDINAL
+List
+Select One :: WORK_OF_ART
+1987: DATE
+St. Ursula Academy - City: ORG
+GPA: ORG
+3.7: CARDINAL
+10%: PERCENT
+ADP: ORG
+Crystal Report: ORG
+Novell: ORG
+GroupWise 5.5: PRODUCT
+Microsoft: ORG
+Microsoft Access: ORG
+2000: DATE
+Microsoft: ORG
+2000: DATE
+Exchange: ORG
+Microsoft Outlook Express: ORG
+Microsoft PowerPoint 2000: ORG
+Windows 95: ORG
+Windows NT: LOC
+Microsoft: ORG
+2000: DATE
+Netscape Navigator: ORG
+Operating Systems: ORG
+Securities: ORG

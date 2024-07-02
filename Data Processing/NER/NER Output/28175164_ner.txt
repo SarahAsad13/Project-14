@@ -1,0 +1,92 @@
+16-year: DATE
+English: LANGUAGE
+Spanish: LANGUAGE
+today: DATE
+Core Competencies
+
+Change Management
+Benefits Administration
+Succession Planning
+Organizational Development
+
+Leadership: ORG
+Infrastructure Development
+Operations and Workflow Optimization
+Conflict Resolution
+
+Professional Experience
+01/2012: ORG
+State: ORG
+110-year old: DATE
+Â Report: ORG
+one: CARDINAL
+4: CARDINAL
+Harley-Davidson University Centers of Excellence: ORG
+COE: ORG
+the LA Region: LOC
+annual: DATE
+over $160: MONEY
+Global
+Tuition Program: ORG
+2nd: ORDINAL
+2012: DATE
+2013: DATE
+100%: PERCENT
+Reorganized: ORG
+SG & A: ORG
+Immigration Policy: ORG
+45%: PERCENT
+25%: PERCENT
+10/2011: CARDINAL
+Conceived: PERSON
+1%: PERCENT
+previous year: DATE
+70K.: MONEY
+Cited: ORG
+35%: PERCENT
+over $300: MONEY
+3%: PERCENT
+97%: PERCENT
+approximately 30%: PERCENT
+the next 5 years: DATE
+09/2008: GPE
+35%: PERCENT
+hourly: TIME
+350: MONEY
+100%: PERCENT
+monthly: DATE
+401: CARDINAL
+as much as 20%: PERCENT
+first 6 months: DATE
+01/1999: CARDINAL
+State: ORG
+Panasonic: ORG
+LeapFrog: ORG
+AIG: ORG
+Oversaw: GPE
+Certifications: ORG
+2005: DATE
+Master of Science : Leadership/Management NOVA SOUTHEASTERN UNIVERSITY - City: WORK_OF_ART
+State Leadership/Management: ORG
+1997: DATE
+Bachelor of Arts : Human Services ST: ORG
+THOMAS UNIVERSITY - City: ORG
+State Human Services: ORG
+2013: DATE
+SIX: CARDINAL
+Anti-Bribery & Anti-Harassment TrainingÂ 
+
+Professional Affiliations
+
+: ORG
+Society for Human Resources Management: ORG
+Florida Human Resource Planning Society: ORG
+FHRPS: ORG
+Society for Human Resources Management: ORG
+Technical Skills: PERSON
+PeopleSoft: ORG
+Microsoft Office Suite: ORG
+ADP: ORG
+SAPÂ: ORG
+Spanish: LANGUAGE
+English: LANGUAGE

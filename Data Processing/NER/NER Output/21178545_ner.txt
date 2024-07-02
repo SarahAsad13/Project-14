@@ -1,0 +1,181 @@
+EMERGENCY DEPARTMENT: ORG
+Training
+Endocrinology Clinical: ORG
+2016: DATE
+Duke University Medical Center ï¼​ City: ORG
+State: GPE
+US: GPE
+Duke University Medical Center: ORG
+June 2016: DATE
+Master of Science , Clinical Research: WORK_OF_ART
+Duke University: ORG
+State: GPE
+US: GPE
+May 2016: DATE
+Internal Medicine Residency: ORG
+2013: DATE
+Virginia Commonwealth University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+Medical Doctorate 2010 Medical College of Georgia ï¼​ City: ORG
+State: GPE
+US: GPE
+Bachelor of Science , Biology 2006 University: ORG
+State: GPE
+US: GPE
+Magna Cum Laude: PERSON
+Nutrition Science 2006 University: ORG
+State: GPE
+US: GPE
+Magna Cum Laude: PERSON
+Emergency Department: ORG
+Physician Jan 2014: DATE
+William Knaack: PERSON
+MD
+
+Fitness Instructor: ORG
+Jan 2007: DATE
+Dec 2010: DATE
+State
+Medical Clinic: ORG
+Jan 2007 to Dec 2007: DATE
+Richard Field: PERSON
+MD: GPE
+Naveeda T. Ahmed: PERSON
+MD: GPE
+May 2006: DATE
+Internal Medicine: ORG
+2014: DATE
+North Carolina: GPE
+July 2013: DATE
+November, 2015: DATE
+2015: DATE
+Alpha Epsilon Delta Premedical: ORG
+Honor Society: PERSON
+2006: DATE
+Dean: PERSON
+2002 - 2006: DATE
+2005: DATE
+Georgia: GPE
+2002: DATE
+Affiliations: ORG
+American Medical Association
+
+American College of Physicians
+
+American Thyroid Association: ORG
+Society
+
+Research Experience: ORG
+Publications
+
+Clinical Obesity Research: ORG
+William Yancy: PERSON
+the Durham Veterans Affairs Medical Center: ORG
+NIH: ORG
+T32: PRODUCT
+Health Services Research: ORG
+Matthew Crowley: PERSON
+NIH: ORG
+Quality Improvement Diabetes Research: ORG
+Susan Spratt: PERSON
+NIH: ORG
+Barton AB: ORG
+Yancy W. Determining: PERSON
+Carbohydrates: ORG
+Biological Psychiatry: ORG
+2014: DATE
+25582267: DATE
+Mabrey M: PERSON
+Barton AB: ORG
+Corsino L: PERSON
+Freeman S: PERSON
+Davis: PERSON
+Bell E: ORG
+Setji T. Managing: PERSON
+Hosp Pract: PERSON
+2015: DATE
+1â€“5: CARDINAL
+Barton AB: ORG
+Evans KJ: PERSON
+Lien LF: PERSON
+Draznin B: PERSON
+Rubin D: PERSON
+June 2015: DATE
+Internal Medicine: ORG
+Student Research Assistant: ORG
+Nutrition Science: ORG
+Dairy Science, University of Georgia: ORG
+Clifton A. Baile: PERSON
+PhD: WORK_OF_ART
+Student Research Assistant: ORG
+Department of Endocrinology and Nutrition, Medical College: ORG
+Georgia: GPE
+Principal Investigator: ORG
+Carlos M. Isales: PERSON
+Duke University: ORG
+2014: DATE
+2013 - 2015: DATE
+2014-2015: DATE
+Society National Meeting: ORG
+San Diego: GPE
+2015: DATE
+2014 - 2015: DATE
+Duke Internal Medicine Morning Report: ORG
+2014: DATE
+weekly: DATE
+Endocrine Division: ORG
+2013 - 2014: DATE
+Social Chair: ORG
+Internal Medicine Residency: ORG
+2011-2012: DATE
+Medical College: ORG
+Georgia Triathlon Club: ORG
+2007-2008: DATE
+Caire M: ORG
+Fulco F. Visceral Varicella: PERSON
+CLL: ORG
+American College of Physicians Virginia Associates' Meeting: ORG
+Norfolk: GPE
+VA: GPE
+January 2012: DATE
+Barton AB: ORG
+Hyland K: PERSON
+Green J. Subclinical Acromegaly: PERSON
+Society International Meeting: ORG
+San Diego: GPE
+CA: GPE
+March 2015: DATE
+Kelly C: ORG
+Barton A: PERSON
+Setji: NORP
+Society International Meeting: ORG
+Chicago: GPE
+IL: GPE
+June 2014: DATE
+Barton: PERSON
+The Challenges of Establishing a Correct Diagnosis: ORG
+VCU Resident Research Day: ORG
+Richmond: GPE
+VA: GPE
+May 2013: DATE
+Community Service: ORG
+Insulin: NORP
+Kenya: GPE
+Peter Kussin: PERSON
+Duke University Medical Center
+
+Medical: ORG
+Honduras: GPE
+June 2012: DATE
+Cambodia: GPE
+February 2010: DATE
+Bulgaria: GPE
+May-June 2007: DATE
+Mexico: GPE
+June 2008: DATE
+Freshman Medical Students: ORG
+2008: DATE
+Jamaica: GPE
+May 2007: DATE

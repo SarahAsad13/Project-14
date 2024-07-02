@@ -1,0 +1,37 @@
+more than 15 years: DATE
+Adobe Photoshop
+Concept: WORK_OF_ART
+Color: ORG
+Dedication: ORG
+11/2015: CARDINAL
+Designer Company Name - City: ORG
+Create CAD: ORG
+Create: ORG
+Creates: PERSON
+Completed: ORG
+Established: ORG
+State
+
+Management of Production: ORG
+Formations: ORG
+Order Acknowledgment: ORG
+Created: ORG
+200: CARDINAL
+E2 ShopTec System: ORG
+Formations: ORG
+Communicated: ORG
+daily: DATE
+06/2004: CARDINAL
+11/2005: CARDINAL
+FF&E: ORG
+Drafted: ORG
+the Viceroy Hotel: FAC
+Santa Monica: GPE
+Associate of Arts: ORG
+Monica College - City: PERSON
+Candido Mendes - City: PERSON
+State: ORG
+Brazil: GPE
+Portuguese: LANGUAGE
+English: LANGUAGE
+Spanish: NORP

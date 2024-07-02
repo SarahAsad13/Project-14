@@ -1,0 +1,131 @@
+Career Overview
+Vidya: WORK_OF_ART
+9 years: DATE
+Customer Relationship Management: ORG
+Solution
+Architect: ORG
+Process and Implementation Consultant: ORG
+Pharmaceutical & Chemical: ORG
+Consumer and Industry
+Product: ORG
+the United States: GPE
+Client Relationship Management: ORG
+Expectation Management: ORG
+People Management: ORG
+Customer Relationship Management: ORG
+Adapt One Technologies in Business Consulting: ORG
+September, 2010: DATE
+Deloitte Consulting LLP: ORG
+CRM: PRODUCT
+US: GPE
+Proposals: GPE
+Qualifications
+Big Machines Configuration: ORG
+Siebel Administration: ORG
+eScript: ORG
+VBScript: ORG
+Java Script *VB: PERSON
+SQL: ORG
+MS Excel: ORG
+Word: PERSON
+Power Point: PRODUCT
+September 2010 to March 2015: DATE
+Client-Healthcare Company: ORG
+Oracle CPQ: ORG
+Implementation Phase: ORG
+Performed Fit: PERSON
+Oracle CPQ: ORG
+Client-: PERSON
+CRM Implementation: PRODUCT
+Canada: GPE
+ICM: ORG
+Financial Management: ORG
+Supervized: ORG
+5: CARDINAL
+Gathered: ORG
+daily: DATE
+Project Leadership Client-Leading: ORG
+Information Technology
+Company: ORG
+US Collaborated: ORG
+JAD: ORG
+Approval: PRODUCT
+Document Output: PRODUCT
+Researched: ORG
+BigMachine: ORG
+North America's: LOC
+Integrated Environmental: ORG
+SME: ORG
+Change Management: ORG
+Siebel Order: PERSON
+Siebel Environment: ORG
+500: CARDINAL
+Training Delivery: PERSON
+Developed
+Conceptual: PRODUCT
+the United States: GPE
+DRMS: ORG
+Donor Segmentation: ORG
+Lifetime Value: ORG
+Donor and Sponsor Loyalty Programs Gathered: ORG
+Prepared Functional and Technical and Design Document: ORG
+October 2008 to September 2010: DATE
+Japanese: NORP
+Chicago: GPE
+SFA: ORG
+Windows 7: ORG
+Japanese: NORP
+New Jersey Developed: GPE
+7.8: CARDINAL
+ePharma: PERSON
+Performed Unit: ORG
+System: PERSON
+November 2004 to August 2007: DATE
+Analyst 
+City
+
+Responsible: GPE
+7: CARDINAL
+Crystal Reports: LOC
+Suggest: ORG
+MIS: ORG
+JP Morgan: PERSON
+Professional Achievements/Trainings Received: ORG
+2011: DATE
+2012: DATE
+Deloitte: ORG
+Salesforce.com Administration Essentials Salesforce.com Force.com Developer: ORG
+Training
+Welingkar Institute of Management Development and Research: ORG
+April 2005: DATE
+Finance Management Accounting and Finance India Finance
+Management Accounting and Finance
+
+University of Mumbai: ORG
+May 2004: DATE
+India: GPE
+Skills: ORG
+Change Management: ORG
+CRM: PRODUCT
+Crystal Reports: ORG
+Client: GPE
+Data Warehouse: ORG
+Financial Management: ORG
+Functional: GPE
+ICM: ORG
+Information Technology: ORG
+Japanese: NORP
+Java Script: PERSON
+Access: ORG
+Excel: PRODUCT
+Power Point: ORG
+Word: PERSON
+MIS: ORG
+Oracle, Developer: ORG
+Project Leadership: PERSON
+Siebel: PERSON
+7.8.3: CARDINAL
+7.8: CARDINAL
+SQL: ORG
+Training Delivery: PERSON
+VBScript: ORG

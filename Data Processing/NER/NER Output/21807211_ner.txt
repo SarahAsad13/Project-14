@@ -1,0 +1,60 @@
+Skills
+Excellent: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Invoice: GPE
+Microsoft Word Team: ORG
+Microsoft: ORG
+Microsoft: ORG
+Adobe X Pro: PERSON
+2: CARDINAL
+Microsoft: ORG
+Phoenix Deadline-driven: PERSON
+12/2017: CARDINAL
+Apparel Sales Associate/Cashier Company Name: ORG
+Maintained: GPE
+30%: PERCENT
+Current
+Administrative Specialist I Company Name: ORG
+Medicaid: ORG
+Provider Compliance Submitting: ORG
+In-Home: ORG
+Recoupments for Providers
+
+: ORG
+08/2011: CARDINAL
+06/2012: CARDINAL
+Custodian Company Name ï¼​ City: WORK_OF_ART
+State Maintaining: ORG
+V.C Summers Units 2&3: ORG
+QC: ORG
+Quality Control: ORG
+Creating SRR's: ORG
+Requisitions Reports: PERSON
+Registering: PERSON
+Prepare: ORG
+Perform Data Entry: ORG
+Process: PRODUCT
+W-2: ORG
+Print: GPE
+the V.C Summers Units: FAC
+08/2011: CARDINAL
+50%: PERCENT
+Redirected: ORG
+up to 25 pounds: QUANTITY
+Swept: ORG
+Numbers: ORG
+04/2018
+Inventory Specialist Company Name: ORG
+Training: PERSON
+2009: DATE
+High School Diploma Fairfield Central High School ï¼​ City: ORG
+State: ORG
+State Applied Behavioral Science Sociology
+Skills: ORG
+Filing: GPE
+Instructional Design: ORG
+Invoice: GPE
+Spreadsheet: PERSON
+SAP Production System: ORG
+The Instructural Design at Ashford University: ORG

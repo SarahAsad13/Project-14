@@ -1,0 +1,44 @@
+Current
+Direct Client: ORG
+6Â to 10: CARDINAL
+clinicians: NORP
+Quickly: ORG
+Collaborates: PERSON
+Oversee: ORG
+each month: DATE
+Recommend: ORG
+Salon: PERSON
+Salt Lake Valley: GPE
+Develop: ORG
+11/2012: CARDINAL
+08/2013
+Salon Sales and Service: ORG
+Identify: ORG
+Assist: ORG
+Estimate: LOC
+Arrange: PERSON
+Training: PERSON
+2017: DATE
+Master of Arts : Psychology,: WORK_OF_ART
+MFT & PCC Dual: ORG
+Emphasis Brandman University: ORG
+State: GPE
+USA: GPE
+4.0: CARDINAL
+GPA: ORG
+2013: CARDINAL
+City: GPE
+State: GPE
+USA Centennial Scholarship Recipient 3.47: ORG
+Volunteer: PRODUCT
+Joaquin: PERSON
+6 year old: DATE
+Interests: NORP
+September 2013 to March 2014: DATE
+Skills: ORG
+Coach: ORG
+Credit: ORG
+September 2013 to March 2014: DATE
+Volunteer: PERSON
+Joaquin: PERSON
+6 year old: DATE

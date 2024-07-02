@@ -1,0 +1,80 @@
+Nutritionist: PERSON
+Highlights
+
+Genetic: ORG
+Adult: PERSON
+English: LANGUAGE
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Masters' Thesis: ORG
+Curcumin: ORG
+2: CARDINAL
+Granted the Key Player Award: WORK_OF_ART
+the year: DATE
+VP: GPE
+University of New Haven: ORG
+ESM: ORG
+Trailblazer Graduate Club: ORG
+the year: DATE
+almost 5,000: CARDINAL
+300: CARDINAL
+the American School: ORG
+Jordan: GPE
+Career Day: DATE
+the American School: ORG
+Jordan: GPE
+March 2014: DATE
+May 2015: DATE
+trainingÂ: PERSON
+3.36/4: CARDINAL
+3.79/4: CARDINAL
+July 2012 to July 2013: DATE
+almost 5,000: CARDINAL
+more than 800: CARDINAL
+Coordinated: ORG
+Emphasized: PERSON
+February 2012 to March 2012: DATE
+Screen: ORG
+Daily: DATE
+Master of Science : Human Nutrition: WORK_OF_ART
+2015: DATE
+University of New Haven: ORG
+State: GPE
+USA: GPE
+Nutritional Genomics
+Thesis: ORG
+degreeÂ: ORG
+3.8: CARDINAL
+GPA: ORG
+2012: DATE
+Jordan 3.02: PERSON
+Engineering Smart Management: ORG
+Jan 2015 - June 2015Â: DATE
+the Graduate Student Council: ORG
+weekly: DATE
+Engineering Smart Management(ESM): ORG
+2014 - Jan 2015: DATE
+annual: DATE
+Processed: GPE
+monthly: DATE
+Granted Trailblazer Graduate Club: WORK_OF_ART
+Volunteered in Feeding Children Everywhere: WORK_OF_ART
+2,150: CARDINAL
+June 2015: DATE
+Jordan: PERSON
+April 2011: DATE
+Elderly: GPE
+Jordan: GPE
+November 2011: DATE
+Jordan: PERSON
+February 2012: DATE
+Completed Creating Smarter Lunchrooms: ORG
+Cornell University: ORG
+USA: GPE
+January 2014: DATE
+University of New Haven: ORG
+USA: GPE
+October 2014: DATE
+First: ORDINAL
+CPR/AED: ORG

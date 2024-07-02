@@ -1,0 +1,136 @@
+Professional Overview
+
+A Medical Anthropologist: ORG
+Kazaryan: PERSON
+Core Qualifications
+
+Project Management, Compliance, Monitoring and Evaluation: ORG
+Quality Management and Assurance: ORG
+Program
+Planning/Development/Implementation (Technical: ORG
+Report Writing: PERSON
+Research/Analysis/Consultation: ORG
+Interviews: ORG
+Interactional Analysis, Literature Review: ORG
+Fieldwork, Health, Welfare, Culture,: ORG
+Science & Philosophy: ORG
+State: GPE
+UK: GPE
+the Luys Foundation: ORG
+Advisor: ORG
+Elisabeth Hsu: PERSON
+University of Oxford, Medical Anthropology Professor: ORG
+Fellow of Green Templeton College: PERSON
+Oxford: NORP
+Berkeley - City: GPE
+State: GPE
+USA: GPE
+Aihwa Ong: PERSON
+UC Berkeley Department of Anthropology: ORG
+Mikaelian: NORP
+UC Berkeley Department: ORG
+Slavic Languages and Literatures: ORG
+2010: DATE
+Glendale Community College - City: ORG
+State: GPE
+USA: GPE
+Dean: PERSON
+Michael Harnett: PERSON
+GCC Scholars Program: ORG
+Jan 2015: DATE
+the first few weeks: DATE
+Disaster Recovery/Business Continuity Plan: ORG
+Charge: GPE
+the National Association of Boards of Pharmacy (NABP: ORG
+Verified Internet Pharmacy Practice Sites: ORG
+Sep 2015 to Dec 2015: DATE
+State: ORG
+the Monitoring and Evaluation Department: ORG
+the World Health Organization: ORG
+The World Trade
+Organization: ORG
+WTO: ORG
+The World Bank: ORG
+The Food and Agriculture Organizations of the United Nations: ORG
+FAO: ORG
+Eurasian: NORP
+2013: DATE
+the Utilization Review
+Accreditation Commission: ORG
+24: CARDINAL
+U.S.: GPE
+California: GPE
+2011: DATE
+2012: DATE
+the Collections Department: ORG
+UC Berkeley's: ORG
+Museum of Anthropology: ORG
+Oceania: LOC
+2010: DATE
+2011: CARDINAL
+Sweden: GPE
+2015: DATE
+Model United Nations: ORG
+UN Armenia: FAC
+Mentoring Associate & Translator: ORG
+2015: DATE
+Luys Foundation Headquarters: ORG
+Armenia
+Welfare Officer: ORG
+2014-2015: DATE
+Oxford University Student Union: ORG
+University of Oxford
+Social Media Director: ORG
+2012-2013: DATE
+2011-2012: DATE
+Armenian Students Association: ORG
+UC Berkeley: ORG
+2009-2010: DATE
+Scholars Program, Glendale Community College: WORK_OF_ART
+Volunteer: PERSON
+Armenia Fund: ORG
+St. Joseph Hospital Maternity Department: ORG
+Los Feliz Small Animal Hospital: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Outlook: PERSON
+Time Management: ORG
+Interviews: ORG
+Surveys, Questionnaires
+Sociocultural Perceptiveness: ORG
+Adaptable
+
+Languages & Interests: ORG
+Armenian: NORP
+English: LANGUAGE
+Speaking
+Research: ORG
+Policy, Ethics: ORG
+Global/Local Health,: ORG
+Bio/Ethnomedicine: ORG
+Society, Disability, Politics: ORG
+Advocacy: PERSON
+2015: DATE
+The Medicinal Uses of Urine Among Armenians: ORG
+Diaspora" University of Oxford
+Kazaryan, A.: ORG
+2012: DATE
+Armenian: NORP
+Americans: NORP
+University of California,: ORG
+Berkeley: GPE
+2010: DATE
+Neolithic Ã‡atalhÃ¶yÃ¼k: The Origins of Culture" Glendale Community College: WORK_OF_ART
+Bay Honors Research Consortium: ORG
+Elisabeth Hsu: PERSON
+Professor of Medical Anthropology: ORG
+the University of Oxford: ORG
+elisabeth.hsu@anthro.ox.ac.uk
+Avetis Minasyan: PERSON
+TNH Specialty Pharmacy: FAC
+avo@tnhpharmacy.com: ORG
+Leslie Freund: PERSON
+Phoebe A. Hearst Museum of Anthropology: ORG
+Aihwa Ong: PERSON
+UC Berkeley: FAC

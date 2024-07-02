@@ -1,0 +1,78 @@
+twenty years: DATE
+fifteen years: DATE
+Highlights: GPE
+Schedule: ORG
+Strategic: PERSON
+Microsoft Office: ORG
+Concur: GPE
+Workday: GPE
+Kronos: ORG
+Excel: PRODUCT
+SOX: ORG
+Superior: LOC
+35 %: PERCENT
+San Francisco: GPE
+New York: GPE
+NYSE: ORG
+NYSE Regulation: ORG
+Securities and Exchange Commission: ORG
+FINRA: ORG
+Authored: PERSON
+NYSE: ORG
+the Amex Trading Floor-NY: ORG
+2008-2009: DATE
+NYSE-SF: ORG
+NYSE-Amex: ORG
+three mergers 2005-2010: DATE
+Started NYSE Annual Community: ORG
+2010: DATE
+Jan 2016: DATE
+State Planned: ORG
+Systematically: PERSON
+2009: DATE
+Oct 2015: DATE
+FINRA Floor: ORG
+San FranciscoÂ: GPE
+SR: ORG
+Director - Options Trading Services: ORG
+2007: DATE
+2009: DATE
+New York: GPE
+NYSE: ORG
+the American Stock Exchange: ORG
+Recruited: PRODUCT
+70: CARDINAL
+one year: DATE
+NYSE SF: ORG
+NYSE Amex NY: ORG
+-Manager -Options Trading Services: ORG
+May 1992: DATE
+Oct 2007 
+: GPE
+Oversaw: GPE
+quarterly: DATE
+San Francisco Trading Floor and Options: FAC
+SF: GPE
+Oversaw: GPE
+Associate of Arts: ORG
+History Diablo Valley College: ORG
+State: GPE
+USA Pursued BA: ORG
+Economics / Spanish Los Medanos Collage: ORG
+State: GPE
+USA: GPE
+Certifications: WORK_OF_ART
+Business Continuity Institute: ORG
+2009-2015: DATE
+Computer Information Systems Certificate-Project Management-DVC: ORG
+Spanish: NORP
+Published Regulatory Bulletins for NYSE-Arca: WORK_OF_ART
+2010-2013: DATE
+SEC: ORG
+6.00: CARDINAL
+Skills
+Benefits: ORG
+monthly: DATE
+quarterly: DATE
+Microsoft Office: ORG
+SQL: ORG

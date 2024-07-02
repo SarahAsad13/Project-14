@@ -1,0 +1,54 @@
+eight years: DATE
+Training
+Master of Science , Applied Clinical Nutrition: WORK_OF_ART
+2014: DATE
+GPA: ORG
+4.0: CARDINAL
+Master of Science , Exercise Science 2008: WORK_OF_ART
+University of New York at Buffalo ï¼​ City: ORG
+GPA: ORG
+3.87: CARDINAL
+University of New York: ORG
+Geneseo: GPE
+Mar 2012: PERSON
+Procter & Gamble: ORG
+Hartford: GPE
+Clinical Nutritionist: PERSON
+2011: DATE
+BMI: ORG
+dietitians: NORP
+Jan 2010: DATE
+May 2011: DATE
+monthly: DATE
+quarterly: DATE
+Health Project Coordinator: ORG
+Dec 2008 to Dec 2009: DATE
+day: DATE
+Feb 2005: DATE
+Dec 2008: DATE
+daily: DATE
+Why Pilates Exercises are Your Best Solution for Super Toned Abs: WORK_OF_ART
+WatchFit-- Oct 2014: WORK_OF_ART
+The Perfect Gluten-free Bread Recipe: WORK_OF_ART
+Truly Satisfy Your Taste Buds: ORG
+WatchFit-- Oct 2014: WORK_OF_ART
+A Gluten-free: WORK_OF_ART
+Apple Crisp Recipe: ORG
+WatchFit-- Oct 2014: WORK_OF_ART
+Ten Foods: WORK_OF_ART
+WatchFit-- Sept: WORK_OF_ART
+2014: DATE
+Five: CARDINAL
+Healthy Eating Recipes: PERSON
+Budget: ORG
+Sept 2014: DATE
+Skills
+
+Health promotion: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+American College of Sports Medicine Registered Clinical Exercise Physiologist
+
+American College of Sports Medicine Certified Cancer: ORG
+American College of Sports Medicine Certified Personal Trainer: ORG

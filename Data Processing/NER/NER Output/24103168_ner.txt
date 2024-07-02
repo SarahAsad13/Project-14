@@ -1,0 +1,77 @@
+8 years: DATE
+UBS Switzerland AG: ORG
+SAP B1 (Rising Tide GmbH: ORG
+more than three: CARDINAL
+Barclays Suisse SA: ORG
+UL AG: ORG
+annual: DATE
+Barclays Suisse SA: ORG
+Variance: PERSON
+P&L: ORG
+Process: PRODUCT
+Complex: NORP
+Critical: ORG
+Analytical
+Decisive: PRODUCT
+01/2016: ORG
+Current
+Financial Accountant Company Name: ORG
+Calculate: ORG
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+P&L: ORG
+SAP: ORG
+Avaloq: GPE
+Finance: ORG
+month: DATE
+07/2015: CARDINAL
+12/2016: CARDINAL
+Business Analyst Company Name: ORG
+State: ORG
+month: DATE
+12/2014: CARDINAL
+Financial Accountant Company Name: ORG
+monthly: DATE
+daily: DATE
+daily: DATE
+Collaborated: ORG
+P&L: ORG
+06/2013 to 12/2013: CARDINAL
+Project Accountant & Administrator Company Name: ORG
+B1: CARDINAL
+06/2012: CARDINAL
+US: GPE
+12/2011: CARDINAL
+05/2012: CARDINAL
+Accountant Company Name: ORG
+monthly: DATE
+quarterly: DATE
+two: CARDINAL
+Collaborated with Auditors, Banks: ORG
+12/2009: CARDINAL
+Prepared: PERSON
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+06/2008: ORG
+11/2011: CARDINAL
+Financial Control Analyst Company Name: ORG
+3: CARDINAL
+2008: DATE
+City France: GPE
+2012: DATE
+UK: GPE
+English: LANGUAGE
+Spanish: NORP
+French: NORP
+Skills: ORG
+Excel: PRODUCT
+Access 
+ERP:: PRODUCT
+SAP, Hyperion, Essbase: ORG
+Cognos
+Accounting Software: ORG
+Abacus: GPE
+Avaloq: GPE
+Temenos: GPE

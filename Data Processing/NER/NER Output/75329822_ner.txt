@@ -1,0 +1,49 @@
+English: LANGUAGE
+Spanish: NORP
+Access Hollywood Live: ORG
+NBC: ORG
+Antonio Living: PERSON
+ABC 7 News: ORG
+Better Mornings: ORG
+Miami LIVE: GPE
+Public Relations/Social Media Management 07/2014 to Current Company Name
+
+Public Relations and: ORG
+Print: ORG
+Digital Social Media: ORG
+Blogs: GPE
+AA & Hispanic: ORG
+Social Media Management: ORG
+11/2012: CARDINAL
+06/2014 Company Name
+
+Responsible: ORG
+monthly: DATE
+VMU: PRODUCT
+Formalized: PERSON
+Public Relations/Social Media: ORG
+North America: LOC
+fiscal 2009 to 2012: DATE
+Oversaw PR: ORG
+seven: CARDINAL
+$1.5: MONEY
+annually: DATE
+Implemented Social Media: ORG
+1.1: CARDINAL
+2009: DATE
+2012: DATE
+quarterly: DATE
+US: GPE
+Canada: GPE
+Maintained: GPE
+The Children's Place: WORK_OF_ART
+Communicated: ORG
+Created: ORG
+15,000: CARDINAL
+Scripted: ORG
+Responsibilities Assisted SVP: ORG
+SVP: ORG
+June 2005: DATE
+Berkeley College Marketing
+
+Skills: ORG

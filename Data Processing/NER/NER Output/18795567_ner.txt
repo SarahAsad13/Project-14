@@ -1,0 +1,99 @@
+Product Designer with Skip Hop Inc.: WORK_OF_ART
+Industrial Design: ORG
+Skip Hop Inc.: ORG
+20+ years: DATE
+Jordan C. Wu: PERSON
+Front-end UX Research
+Design for Manufacturing DFM: ORG
+3D Design, Modeling & CAD
+: ORG
+Graphic & Web Design: ORG
+Project Management
+New Product Development
+Collaboration
+Product Design
+Problem Resolving: ORG
+Rhino: NORP
+Abode Creative Suite - Illustrator: PERSON
+Photoshop: PERSON
+Microsoft: ORG
+Excel: PRODUCT
+HTML: ORG
+CSS: ORG
+Wordpress: ORG
+Jan 1998: DATE
+DFM: ORG
+iPhone: ORG
+U.S.: GPE
+China: GPE
+Korea: GPE
+Clientele: ORG
+Johnson & Johnson: ORG
+Unilever: ORG
+L'Oreal: ORG
+Clinique: ORG
+Avon: PERSON
+L Brands: ORG
+Victoria: GPE
+Secret Victoria: PERSON
+Ed Hardy Skulls: PERSON
+GD& T: ORG
+SolidWorks: ORG
+Adobe Creative Suite: PERSON
+Keyshot: PERSON
+Rhino: NORP
+HTML: ORG
+CSS: ORG
+Wordpress: ORG
+Jan 2011 to Jan 2013 
+City: DATE
+Energybuddy: ORG
+electro-mechanic: ORG
+just 3 months: DATE
+2012: DATE
+CES: ORG
+Las Vegas: GPE
+Front-End Research: ORG
+Jan 2004 to Jan 2007: DATE
+NeoVideo Portable Digital: ORG
+Digital Home Network: ORG
+IPTV: ORG
+Digital Picture Frames: ORG
+an additional 5+ years: DATE
+Industrial Design: ORG
+M.I.D Pratt Institute - City: ORG
+Certified New Product Development Professional: ORG
+NPDP: ORG
+Product Development and Management Association
+Professional Affiliations: ORG
+Industrial Designers Society of America: ORG
+Japanese - Limited: ORG
+Design: PRODUCT
+Photoshop: PERSON
+CAD: ORG
+Chinese: NORP
+CSS: ORG
+Clientele: PERSON
+Graphic: PERSON
+UX: ORG
+HTML: ORG
+Japanese: NORP
+Excel: PRODUCT
+Microsoft Office Suites: ORG
+Word: PERSON
+Modeling: GPE
+Network: ORG
+New Product
+Development: ORG
+Product Design: ORG
+Product Development and Management: ORG
+Project
+Management: ORG
+Research: ORG
+SolidWorks: ORG
+Strategic Planning & Analysis: ORG
+Additional Information
+
+Awards & Honors: ORG
+US: GPE
+Network Bridge Access Server: ORG

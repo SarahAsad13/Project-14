@@ -1,0 +1,202 @@
+NOC: ORG
+Encore Capital
+Group: ORG
+Eight plus years: DATE
+Business Processes: ORG
+the Customer Service: ORG
+Highlights
+Service Now: ORG
+Microsoft: ORG
+MSN: ORG
+Cisco: GPE
+Cisco SSL: GPE
+MS Office: ORG
+2007: DATE
+2010: DATE
+2011: CARDINAL
+Group: ORG
+San Diego: GPE
+USA: GPE
+Midland: GPE
+Costa Rica: GPE
+Warren: GPE
+ST Cloud: GPE
+San Antonio: GPE
+Dallas: GPE
+Phoenix: GPE
+Key Responsibilities and Technical Skill Set: ORG
+Infrastructure within USA: ORG
+UK & India: ORG
+Key Responsibilities and Technical Skill Set: Event Management-interpret: ORG
+Incident Management- Handling: ORG
+P1 Outage/Interruption: ORG
+L2: PRODUCT
+L3: PRODUCT
+ITIL: ORG
+NOC: ORG
+Alert: ORG
+Application: ORG
+Netflow Analyzer: PERSON
+MCM: ORG
+SQL: ORG
+Studio: ORG
+Idera Updating Dashboard: ORG
+NOC: ORG
+SLA: ORG
+Roster: PERSON
+Working: ORG
+Service now Knowledge Management: ORG
+NOC: ORG
+Working on Solarwinds Orion: ORG
+Nodes: PERSON
+ServiceDesk Engineer Engineer Level: ORG
+1: CARDINAL
+Dec 2008 to: DATE
+Desktops: ORG
+Laptops: PERSON
+US: GPE
+China: GPE
+Win XP: ORG
+Vista: ORG
+11 months: DATE
+L2: CARDINAL
+Engineer: ORG
+Level 1: PERSON
+attendance
+&: ORG
+daily: DATE
+Key Responsibilities and Technical Skill Set: ORG
+first: ORDINAL
+second: ORDINAL
+Critical Documentation: ORG
+Training and Process Setup/Improvements: ORG
+Customer Interaction: ORG
+VC: PERSON
+VC: PERSON
+Tandberg: PERSON
+ServiceDesk Engineer: PRODUCT
+Nov 2008: DATE
+the ServiceDesk Team Working on Global Helpdesk & Del-IT Mailbox: ORG
+NOC: ORG
+Server: ORG
+XP Pro: NORP
+Network: ORG
+Prolaw, Qlaw, Noble: ORG
+first: ORDINAL
+RDP: ORG
+Microsoft: ORG
+2nd: ORDINAL
+LAN: ORG
+NLE: ORG
+Generic: ORG
+Microsoft: ORG
+US: GPE
+SME: ORG
+Tier 2: DATE
+Level 1: PERSON
+the Floor Support Team Participate: ORG
+Floor: GPE
+weekend: DATE
+LAN: ORG
+Managing VC: PERSON
+Daily: DATE
+morning: TIME
+VC: PERSON
+d.: NORP
+Aricent Software Services: ORG
+95: CARDINAL
+98: DATE
+2000: DATE
+Key Responsibilities and Technical Skill: ORG
+Phone or Emails: ORG
+china & U.S: ORG
+MSN: ORG
+Team Viewer: WORK_OF_ART
+Jan 2007: DATE
+Sr.: GPE
+C.S.A: ORG
+Xerox: ORG
+Xerox: ORG
+Xerox: ORG
+ORACLE: ORG
+Key Responsibilities and Technical Skill: ORG
+Delhi University
+Arts 12th Grade PSM Public School Delhi Arts: ORG
+10th: ORDINAL
+Computer Hardware: ORG
+JETKING: ORG
+New Delhi: GPE
+NET-TECH Institute: ORG
+Janakpuri: GPE
+Vikram Singh: PERSON
+Dogra Mother's Name: ORG
+Soma Devi Date: PERSON
+January 26, 1985: DATE
+Male Marital Status: PERSON
+Sanjay: GPE
+Vihar: PERSON
+Kirari: PERSON
+Nangloi: PERSON
+Interests: NORP
+203: CARDINAL
+Vihar: PERSON
+Kirari Extn- II: ORG
+Nangloi: GPE
+New Delhi-110086: GPE
+RECREATIONAL ACTIVITIES 1: PERSON
+2: CARDINAL
+Sanjay: PERSON
+English: LANGUAGE
+Hindi and Punjabi
+Skills: ORG
+Arts: ORG
+CCNA: PERSON
+Cisco: GPE
+Computer Hardware: ORG
+Hardware: ORG
+Client: PERSON
+Desktops, Documentation,: ORG
+Engineer: ORG
+English: NORP
+Event Management: ORG
+GUI: ORG
+Hindi: GPE
+ITIL: ORG
+Knowledge Management: ORG
+LAN: ORG
+Laptops: PERSON
+LEADERSHIP: ORG
+Logging: PERSON
+Microsoft exchange: ORG
+MS Office: ORG
+2000: DATE
+95: CARDINAL
+98: DATE
+MSN: ORG
+Enterprise: ORG
+Network: ORG
+Operating System: ORG
+ORACLE: ORG
+San: LOC
+SLA: ORG
+SQL: ORG
+SSL: ORG
+Phone: ORG
+Troubleshoot,: ORG
+Vista: ORG
+VC: GPE
+Xerox: ORG
+Vikram Singh: PERSON
+Dogra Mother's Name: ORG
+Soma Devi Date: PERSON
+January 26: DATE
+1985: DATE
+Male Marital Status: PERSON
+203: CARDINAL
+Vihar: PERSON
+Kirari Extn- II: ORG
+Nangloi: GPE
+New Delhi-110086: GPE
+RECREATIONAL ACTIVITIES 1: PERSON
+2: CARDINAL
+Sanjay: PERSON

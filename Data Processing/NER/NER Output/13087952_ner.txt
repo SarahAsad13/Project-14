@@ -1,0 +1,65 @@
+TEACHER
+: PERSON
+Farrah M. Bauman: PERSON
+South Carolina: GPE
+Microsoft: ORG
+South Carolina: GPE
+Microsoft: ORG
+Skills
+
+National Board Certified: ORG
+AP Bio: ORG
+2015: DATE
+AP Chem: ORG
+summer 2017: DATE
+Teacher Mentor
+National Board Grader
+Classroom: ORG
+9: CARDINAL
+12: CARDINAL
+IGpro: ORG
+weekly: DATE
+Homecoming: GPE
+Prom: PERSON
+100%: PERCENT
+9: CARDINAL
+12: CARDINAL
+PowerSchool: ORG
+Â Organized: ORG
+4: CARDINAL
+Proms as Prom committee co-chair: ORG
+Organize: GPE
+overnight: TIME
+yearly: DATE
+9th: ORDINAL
+the "Bridge: ORG
+1-2: CARDINAL
+Correspond: PERSON
+Oversaw: GPE
+DonorsChoose: ORG
+Summer National Board Certification: ORG
+Beckman: PERSON
+LX: PERSON
+Daily: GPE
+weekly: DATE
+monthly: DATE
+Plate: ORG
+Rocky Mountain: LOC
+Beckman: PERSON
+LX: PERSON
+Daily: GPE
+weekly: DATE
+monthly: DATE
+Plate: ORG
+Rocky Mountain: LOC
+Secondary Education: ORG
+Southern Wesleyan University - State Secondary Education: ORG
+3.8: CARDINAL
+1999: DATE
+Carolinas College of Health Sciences: ORG
+Carolinas Medical Center - City: ORG
+South Carolina: GPE
+3.4: CARDINAL
+Skills: ORG
+Medical Technology: ORG
+Medical Technology: ORG

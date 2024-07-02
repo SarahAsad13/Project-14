@@ -1,0 +1,56 @@
+12+ years: DATE
+Innovative: NORP
+CPR/First-aid: LAW
+Goal Setting and Implementation
+
+Achievements
+
+Team Building and Leadership
+
+Created: WORK_OF_ART
+Lesson Planning:
+
+Introduced: ORG
+Lesson Planning Â 
+
+: ORG
+WWII: EVENT
+Lead Teacher: PERSON
+Aug 2013 to Jun 2015: DATE
+Teaching Strategies Gold Plan: WORK_OF_ART
+daily: DATE
+Maintain: PRODUCT
+Evaluate: ORG
+Jan 2003: DATE
+2013: DATE
+Translate: ORG
+non-English: NORP
+Develop: ORG
+daily: DATE
+daily: DATE
+three: CARDINAL
+Oct 2005: DATE
+May 2006: DATE
+â€¢Held: PERSON
+weekly: DATE
+monthly: DATE
+Substance Unit: ORG
+Jan 2001 to Jan 2003: DATE
+weekly: DATE
+daily: DATE
+Training
+M.S: ORG
+Touro College: ORG
+Liberal: ORG
+2000: DATE
+Kingsborough Community College: ORG
+Bachelor of Science , Psychology College of Staten Island: ORG
+CPR: ORG
+First Aid
+
+Community Involvement
+
+: ORG
+Recognition: ORG
+English: LANGUAGE
+Spanish: LANGUAGE

@@ -1,0 +1,56 @@
+Microsoft Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+Google Applications AMP: ORG
+Jasper Soft: PERSON
+QuickBooks: ORG
+Operations: ORG
+Effective Problem Solver: WORK_OF_ART
+Dec 2014 to Dec 2015: DATE
+State
+
+Forecasting
+Exceptional: ORG
+Operations/Construction Project Coordinator PECO SBS Program: ORG
+BGE SES ProgramPrioritized: ORG
+daily: DATE
+2015: DATE
+Policies: GPE
+Customer: PERSON
+jobsites Prompt: ORG
+Solicitation: ORG
+Property and Casualty Insurance: ORG
+2013: CARDINAL
+Scaccetti Insurance and Financial: ORG
+Jan 2006: DATE
+2012: DATE
+first: ORDINAL
+Maintained: GPE
+Manually: ORG
+the Accounting Department Liaison: ORG
+Created: ORG
+Navigated: NORP
+quarterly: DATE
+1998 to Jan 2006: DATE
+seven: CARDINAL
+daily: DATE
+Professional Courses and: ORG
+Certifications
+Computer Information Technology: ORG
+GCC County College
+
+Computer Information TechnologyAdvanced: ORG
+Business Administration
+
+Certificate: ORG
+OSHA: ORG
+30-Hour Construction 2015: TIME
+Electrical Hazard Safety to Fall Protection: ORG
+Select One: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Word: PERSON
+Goggle Docs: PERSON
+AMP: ORG
+Jasper Soft: PERSON

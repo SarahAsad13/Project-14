@@ -1,0 +1,165 @@
+BUSINESS DEVELOPMENT EXECUTIVE: ORG
+Professional Summary
+Highly: ORG
+5%: PERCENT
+Cincinnati: GPE
+Columbus: GPE
+multi-billion dollar: MONEY
+Procter and Gamble: ORG
+P&G: ORG
+Reed Elsevier: PERSON
+Greater Cincinnati Water Works: ORG
+Comair: ORG
+MS Office: ORG
+Customer
+Relationship Management (CRM: ORG
+Goldmine: PERSON
+Salesforce.com: ORG
+the Sandler Sales Methodology: ORG
+January 2013: DATE
+Name City: GPE
+State Business Development Executive
+
+Responsible: ORG
+Greater Cincinnati: LOC
+PCMS: ORG
+Cloud: GPE
+Office 365: ORG
+SharePoint: ORG
+Lync and
+Exchange: ORG
+Aug: PERSON
+Helpdesk: PERSON
+Intelligrated: ORG
+KAO: ORG
+Great Oaks: GPE
+Schulman: ORG
+Hilltop Basic Resources: ORG
+Luxottica: GPE
+Ranked #1: WORK_OF_ART
+Mentored: ORG
+over 1 million dollars: MONEY
+the first month: DATE
+25%: PERCENT
+150: MONEY
+32%: PERCENT
+January 2011: DATE
+January 2013: DATE
+Name City: GPE
+State Business Development Executive
+
+Responsible: ORG
+Cincinnati: GPE
+Dayton: ORG
+N.
+Kentucky: PERSON
+Star Base: ORG
+3: CARDINAL
+I.T.
+Wellness Checks: ORG
+Luxottica: GPE
+Great American: NORP
+Standard Register: PERSON
+Toyota: ORG
+Cincinnati Financial: ORG
+Tri-Health: ORG
+over $950,000: MONEY
+Cincinnati: GPE
+Dayton: ORG
+Northern Kentucky: LOC
+January 2008: DATE
+January 2011: DATE
+Name City: GPE
+State National Account: ORG
+Building Product Manufacturers: ORG
+National Building Distributors: ORG
+Achieve: LOC
+over $500,000: MONEY
+annually: DATE
+year: DATE
+year: DATE
+Pella Windows: PERSON
+Caterpillar: ORG
+Anixter: ORG
+Gexpro: PERSON
+Rexel: ORG
+Ingersoll Rand: ORG
+Simplex Grinnell: PERSON
+January 2007: DATE
+January 2008: DATE
+Fortune 100: PRODUCT
+$4+ million: MONEY
+30: CARDINAL
+78: MONEY
+Project Managers, Business Analysts: ORG
+SQA Analysts: ORG
+Network: ORG
+January 2006: DATE
+January 2007: DATE
+Name City: GPE
+Marketed: ORG
+Fortune 1000: PRODUCT
+monthly: DATE
+over 1 million dollars: MONEY
+10: CARDINAL
+just 9 months: DATE
+25%: PERCENT
+85: MONEY
+32%: PERCENT
+January 2001: DATE
+January 2006: DATE
+Name City: GPE
+Marketed: ORG
+Grew: PERSON
+212%: PERCENT
+annual: DATE
+January 1997: DATE
+January 2001: DATE
+Name City: GPE
+State Executive: ORG
+3: CARDINAL
+Cincinnati: GPE
+$3.2 million: MONEY
+105%: PERCENT
+Cincinnati: GPE
+Cincinnati: GPE
+Ohio: GPE
+January 1992: DATE
+January 1997: DATE
+Account Executive
+
+: ORG
+400: CARDINAL
+Yellow Page: PERSON
+Quota: ORG
+150%: PERCENT
+Ranked #1: WORK_OF_ART
+2: MONEY
+the Distinguished Sales Performance Club: ORG
+Mentored: ORG
+January 1990: DATE
+January 1992: DATE
+Name City: GPE
+State Account Executive: ORG
+Digital: ORG
+Digital Equipment: ORG
+Cincinnati: GPE
+Dayton: ORG
+Winner: PERSON
+120%: PERCENT
+January 1987: DATE
+January 1990: DATE
+Name City: GPE
+125%: PERCENT
+three consecutive years: DATE
+Created: ORG
+Urbana University Bachelor of Science : Business Administration Marketing GPA: ORG
+GPA: ORG
+3.6/4.0: CARDINAL
+3.6/4.0: CARDINAL
+Skills: ORG
+Application Development: ORG
+Financial: ORG
+Exchange: ORG
+Office, Windows, Network: ORG
+Page: PERSON

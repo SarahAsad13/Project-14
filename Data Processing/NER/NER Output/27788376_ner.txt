@@ -1,0 +1,31 @@
+Skills
+
+Â Financial: ORG
+Critical: ORG
+Microsoft
+Office: ORG
+Word: PERSON
+Excel: PRODUCT
+Access
+Confident: PRODUCT
+Jun 2016: PERSON
+annual: DATE
+Jun: PERSON
+monthly: DATE
+12K-$20: MONEY
+daily: DATE
+HIPAA: ORG
+Nov 2012 to Feb 2013: DATE
+Kmart: ORG
+American: NORP
+Training
+Bachelor of Arts: PERSON
+History 2012 University of Illinois at Chicago: ORG
+State: GPE
+USA Graduated Summa Cum Laude: ORG
+3.99: CARDINAL
+GPA: ORG
+Master of Science , Health Administration 2015: WORK_OF_ART
+Seattle: GPE
+State: GPE
+USA: GPE

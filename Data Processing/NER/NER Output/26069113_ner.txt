@@ -1,0 +1,72 @@
+Experienced Software Engineer: WORK_OF_ART
+Game Play: EVENT
+AI: ORG
+IOS/Android: ORG
+fall 2015: DATE
+Unannounced Mobile Strategy Title: ORG
+IOS/Android: ORG
+first: ORDINAL
+Created: ORG
+Unannounced Mobile Role Playing Title: ORG
+IOS/Android: ORG
+3Ds: CARDINAL
+Lead: PERSON
+Unity: ORG
+Mecanim Animation System: ORG
+Created: ORG
+UI Dawngate: ORG
+QA: ORG
+AI: ORG
+5: CARDINAL
+first: ORDINAL
+Developed AI: ORG
+Profiled: FAC
+AI: ORG
+Command & Conquer: ORG
+AI: ORG
+AI Generals: ORG
+Established: NORP
+EA: ORG
+EA: ORG
+Frostbite: PERSON
+HUD: ORG
+Refactored: PRODUCT
+Shipped: PERSON
+December 2011: DATE
+Refactored: ORG
+Trion Worlds: PERSON
+Software Engineer: PERSON
+Shipped: PERSON
+March 2011: DATE
+Implemented UI: ORG
+the Game Remote Administration Tool: EVENT
+Platform Engineering Team Performed: ORG
+Distributed Testing Service: ORG
+Reclaimed: PRODUCT
+the Trion Platform Foundation: ORG
+daily: DATE
+UnrealEd: ORG
+MAXScript: ORG
+Core Technology Group: ORG
+Shipped Sep 2008: PERSON
+Wheelman: PERSON
+Shipped Mar: PERSON
+2009: DATE
+BlackSite Area 51: PRODUCT
+Shipped Nov: PERSON
+2007: DATE
+the Unreal Engine: ORG
+3: CARDINAL
+Core Technology Platform: ORG
+Midway: ORG
+Training
+Bachelors of Science : Computer: PERSON
+May 2006: DATE
+Georgia State University City: ORG
+State Computer Science
+Skills: ORG
+AI: ORG
+C++: GPE
+#: CARDINAL
+QA: ORG
+Script, Strategy: ORG

@@ -1,0 +1,80 @@
+Australian: NORP
+Skills
+
+Customer: ORG
+Friendly
+Calm: ORG
+Federal Aviation Administration: ORG
+FAA: ORG
+Cabin: PRODUCT
+Expert: PRODUCT
+CPR: ORG
+Work History
+Passenger Services: WORK_OF_ART
+11/2013 to 07/2014: CARDINAL
+Amadeus Altea Customer Management System: ORG
+Complete Product Training: PERSON
+Checked: PRODUCT
+60: CARDINAL
+daily: DATE
+Singapore Airlines: ORG
+Demonstrating: GPE
+industryÂ: ORG
+Working: ORG
+the month: DATE
+June 2014: DATE
+10/2013: CARDINAL
+Galileo Reservations: PRODUCT
+Universal Desktop, Client Management: ORG
+Complete Product: PERSON
+Selling Travel: ORG
+monthly: DATE
+approximately 60 per cent: MONEY
+Gained: NORP
+the Indian Ocean: LOC
+Arabian Gulf: LOC
+Americas: GPE
+Egypt: GPE
+Africa: LOC
+Far East: LOC
+Aviation Business Management Current Royal Melbourne Institute of Technology - City: ORG
+GPA: ORG
+GPA: ORG
+3.4/4.0: CARDINAL
+Â·Â Â Â Â Â Â: CARDINAL
+Microsoft Office: ORG
+Access, Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+3.5: CARDINAL
+GPA
+
+University of Westminster - 
+Commencing: ORG
+3-month: DATE
+the University of Westminster: ORG
+2011: DATE
+Tourism Retail Sales : Physics: ORG
+Mathematical Methods: ORG
+English: NORP
+English Mainstream: GPE
+Chemistry: ORG
+Physics: ORG
+Mathematical Methods: ORG
+English: NORP
+English Mainstream: GPE
+83.40: CARDINAL
+Computer Literate: ORG
+Customer: ORG
+Data: ORG
+Dispatching: GPE
+English: LANGUAGE
+Access: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+PowerPoint: ORG
+Word: PERSON
+Retail Sales: ORG
+Australian: NORP
+Tier 5 Youth Mobility: PERSON
+EU: ORG

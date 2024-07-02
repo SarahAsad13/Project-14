@@ -1,0 +1,55 @@
+seven years: DATE
+II Dec: PERSON
+five: CARDINAL
+the Albuquerque East: LOC
+Albuquerque West: PERSON
+Santa Fe/Southern Colorado: ORG
+Central Utah: GPE
+Northern Utah: LOC
+Created: ORG
+Maintained: GPE
+100%: PERCENT
+2007: DATE
+2014: DATE
+Peachtree for Manufacturing: ORG
+year: DATE
+3-15: CARDINAL
+Dallas: GPE
+TX: ORG
+Houston: GPE
+TX: ORG
+over 30: CARDINAL
+Point: ORG
+four: CARDINAL
+Jan 2003: DATE
+42%: PERCENT
+Telco Engineer/Upper Tier Escalations: ORG
+Jan 2003: DATE
+92%: PERCENT
+90%: PERCENT
+Jan 2001 to Jan 2002: DATE
+over 75: CARDINAL
+Ericsson
+Electronics: ORG
+Ericsson Electronics: ORG
+100%: PERCENT
+May 1998 to: DATE
+Created: ORG
+Maintained: GPE
+100%: PERCENT
+Associate of Arts , Business Management 2010 University of Phoenix: ORG
+State: GPE
+USA 3.69: ORG
+GPA: ORG
+Skills
+
+Account Management, Accounts Payable/Receivable: ORG
+Customer Service: ORG
+Database: GPE
+Expense Reports: NORP
+Human Resources, Inventory Management: ORG
+Control, Marketing Strategies: ORG
+Office
+Management: ORG
+Peachtree Accounting: ORG
+Policies: GPE

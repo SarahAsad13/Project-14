@@ -1,0 +1,53 @@
+Interests: NORP
+World Endeavors International Volunteer Program: EVENT
+Northern Thailand: LOC
+April-May 2006: DATE
+Undergraduate Writing Consultants Program: ORG
+University College Peer
+Advisor Program: ORG
+2003: DATE
+Spring 2003: EVENT
+P.R.O. - Public Relations Organization of URI Spring: ORG
+the Public Relations Student Society of America: ORG
+Cancer: PERSON
+Publicity: PERSON
+Skills
+Work History
+07/2006 to Current
+Associate Director Company Name: WORK_OF_ART
+Technology Review's: ORG
+annual: DATE
+Emtech Conference at
+MIT: WORK_OF_ART
+Technology Review's: ORG
+35: CARDINAL
+under 35: DATE
+50: CARDINAL
+Maintained: GPE
+Oversaw: GPE
+four: CARDINAL
+Rhode Island: GPE
+first: ORDINAL
+Relay For Life at the University of Rhode Island: WORK_OF_ART
+50,000: MONEY
+Individually: ORG
+the Student Programming Handbook: ORG
+World Endeavors
+International Volunteer Program: WORK_OF_ART
+Northern Thailand: LOC
+April-May 2006: DATE
+Undergraduate Writing Consultants Program: ORG
+2003: DATE
+Spring 2003: EVENT
+P.R.O. - Public Relations Organization of URI Spring: ORG
+the Public Relations Student Society of America: ORG
+May 2005: DATE
+Bachelor of Arts : Public Relations: ORG
+English: NORP
+University of Rhode Island - City: ORG
+English: LANGUAGE
+GPA: ORG
+Suma Cum Laude: PERSON
+Fall 2004: DATE
+Queensland University of Technology - City: ORG
+AustraLearn Study Abroad Program: ORG

@@ -1,0 +1,42 @@
+Recruiter: PERSON
+Accomplishments
+Devised: PRODUCT
+Magnasoft: ORG
+122Â: CARDINAL
+six months: DATE
+Current 
+City: GPE
+telephonic screening: PERSON
+Applicant Tracking System: ORG
+Screen: ORG
+Researched: ORG
+Feb 2016: DATE
+Jan 2015 to Jan 2016 
+City: DATE
+US: GPE
+2015: DATE
+the United States of America: GPE
+Recruiter Jan 2011 to Jan 2015: DATE
+Applicant Tracking System: ORG
+a span of 6 months: DATE
+122: CARDINAL
+8: CARDINAL
+130: CARDINAL
+Researched: ORG
+Networked: PRODUCT
+04/2013: CARDINAL
+Human Resources Business Partner: ORG
+Employee Relations: ORG
+Analytics, Training and Development , Human Resources
+Management Present University of Washington ï¼​ State Human Resources Management: WORK_OF_ART
+MBA: WORK_OF_ART
+Human Resources 2011 State: ORG
+India Human Resources
+Bachelor of Science: ORG
+2009: DATE
+Mount Carmel College India Biotechnology: ORG
+Bullhorn, Boolean Searches: ORG
+Google Resume Search: PERSON
+LinkedIn X-ray: PERSON
+GitHub: ORG
+LinkedIn: GPE

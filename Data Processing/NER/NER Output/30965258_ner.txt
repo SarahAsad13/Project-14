@@ -1,0 +1,56 @@
+Zachory Edmiston: PERSON
+3 years: DATE
+Graphic Artist: PERSON
+Bachelor: ORG
+Graphic Design: ORG
+Adobe Illustrator: ORG
+InDesign: ORG
+Photoshop: PERSON
+Skills
+
+Guest Relations
+Takeout Management
+Customer Service: ORG
+Front of House Organization
+Event Planning
+Table Management & Seating Assignment
+Reservations: ORG
+Table Bussing
+
+High: WORK_OF_ART
+Buffet: ORG
+Freelance Graphic Designer: PERSON
+State Company Name /: ORG
+2020: DATE
+InDesign: ORG
+Utilized: ORG
+State Company Name: ORG
+May 2017: DATE
+Communicated: ORG
+Collaborated: ORG
+Performed: ORG
+Notified: ORG
+daily: DATE
+Car Washer 
+City: PERSON
+State Company Name: ORG
+May 2016: DATE
+Processed: GPE
+Training
+Graphic Design Certification Western Nevada College: ORG
+May 2021 City: DATE
+Digital Media Western Nevada College: ORG
+May 2017 City
+
+: DATE
+High-School: ORG
+the Jump-Start Program: FAC
+GPA: ORG
+English: LANGUAGE
+Digital Media (Photography, Web Design, Marketing: ORG
+May 2017 City: DATE
+the National Honor Society of High School Scholars: ORG
+GPA: ORG
+Millennium Scholarship Recipient
+Attended College Courses Junior: FAC
+the Jump Start Program: ORG

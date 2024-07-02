@@ -1,0 +1,108 @@
+November 2006: DATE
+Walk For Wishes: ORG
+440,000: MONEY
+close to $470,000: MONEY
+more than $140,000: MONEY
+120,000: MONEY
+14,000: MONEY
+more than $32,000: MONEY
+Planet Fitness: ORG
+more than $29,000: MONEY
+pre-Walk w Develop: ORG
+each fiscal year: DATE
+the
+previous year: DATE
+monthly: DATE
+Erin Ehlers: PERSON
+Sr Manager National Events and Brand Campaigns: ORG
+the Walk Day: EVENT
+Led the Wish Ball: WORK_OF_ART
+Detroit: GPE
+75,000: MONEY
+just under $100,000: MONEY
+its first year: DATE
+¦: PERSON
+Created: ORG
+¦: PERSON
+¦: PERSON
+¦: PERSON
+Raiser: PERSON
+¦: PERSON
+BBB: ORG
+¦ Review: ORG
+Michigan: GPE
+¦: PERSON
+¦: PERSON
+¦: PERSON
+Luminate Online: PERSON
+May 2004 to October 2006 Company Name: DATE
+Adobe InDesign: PERSON
+weekly: DATE
+1,500: CARDINAL
+more than 10,000: CARDINAL
+Martian Marathon & Half Marathon: ORG
+31%: PERCENT
+2004 to 2005: DATE
+70%: PERCENT
+2005: DATE
+2006: DATE
+17%: PERCENT
+2003 to 2004: DATE
+35%: PERCENT
+2004 to 2005: DATE
+36%: PERCENT
+2004 to 2005: DATE
+Running Fit: WORK_OF_ART
+an estimated 50%: PERCENT
+100%: PERCENT
+Running Fit: ORG
+two: CARDINAL
+more than 300: CARDINAL
+annual: DATE
+Public Relations & Marketing Intern: ORG
+September 2003 to June 2004: DATE
+Pfizer: ORG
+Invisible Aliens Amazing Allies: ORG
+Pfizer: ORG
+Museum: ORG
+Collaborated: ORG
+Teamed: ORG
+2004: DATE
+Ann Arbor Family Days: EVENT
+2004: DATE
+National Volunteer Week: EVENT
+Bachelor of Science : Public Relations, Marketing: ORG
+2004: DATE
+Eastern Michigan University: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+1999: DATE
+2004: DATE
+Eastern Michigan
+: ORG
+University Ypsilanti, MI Bachelor of Science Major: ORG
+Public Relations/Minor in Marketing
+Indiana University Lilly Family School of Philanthropy ï¼​ City: ORG
+State: GPE
+US: GPE
+2011: DATE
+Indiana University Lilly Family School of Philanthropy: ORG
+Phoenix: GPE
+AZ: ORG
+The Principals and Techniques of Fundraising" Sponsored by Make-A-Wish America
+Professional Affiliations
+Teamed: WORK_OF_ART
+the Ann Arbor Family Days: ORG
+National: ORG
+Skills
+Fundraising, Audit: ORG
+Progress, Proposals, Marketing, Public Relations: ORG
+Adobe Indesign: PERSON
+Ads: PERSON
+Finishers, Indesign, Logistics, Satisfaction, Event Planning: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Outlook: PERSON
+Powerpoint: PRODUCT
+Training: PERSON

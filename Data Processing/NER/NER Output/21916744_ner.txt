@@ -1,0 +1,100 @@
+FREELANCE: GPE
+Highlights: GPE
+skills & software
+: ORG
+Visual Elements - Image/Photo Layout: ORG
+Typography, Color Management
+Image & File Prep - Retouching: ORG
+Press Check: PERSON
+Design: GPE
+Acrobat: PERSON
+Creative Cloud: PERSON
+Tumblr: GPE
+Square Space: FAC
+Basic HTML & CSS: ORG
+Microsoft Office: ORG
+Excel: PRODUCT
+Power Point: ORG
+Outlook, Mac OS: ORG
+10.11: CARDINAL
+Freelance Graphic: PERSON
+05/2016: PRODUCT
+Current City: GPE
+New York City: GPE
+nearly four years: DATE
+WYNDesigns: ORG
+GIA Accredited Gemologist Professional Played: ORG
+the Rollins College Women's: ORG
+Lacrosse Program: ORG
+Rollins College: ORG
+Created: ORG
+Evolve: ORG
+Working: ORG
+Graphic Designer &: ORG
+04/2012: CARDINAL
+Name City: GPE
+Madison Avenue Jewelry Boutique: FAC
+New York City: GPE
+Ann Ziff: PERSON
+Ran: PERSON
+the print & web: ORG
+Twitter: PERSON
+Ran: PERSON
+Tamsen Z Frequently: WORK_OF_ART
+Gemini: GPE
+Metropolitan Opera: ORG
+Lincoln Center: ORG
+The Metropolitan Museum of Art Assisted: ORG
+Met Opera: ORG
+Ann: PERSON
+Owner & Designer: ORG
+WYNDesigns: ORG
+october 2011: DATE
+Amethyst: PERSON
+Bethesda: GPE
+Maryland: GPE
+the Children's Hospital Holiday Gala: ORG
+Washington D.C.: GPE
+11/2011: CARDINAL
+2011: CARDINAL
+Rollins College - Studio Art City: ORG
+GPA: ORG
+3.13: CARDINAL
+Phi Eta Sigma: ORG
+Education: ORG
+Kappa Kappa Gamma Studio Art GPA: PERSON
+3.13: CARDINAL
+Scholars: PERSON
+Phi Eta: ORG
+Education: ORG
+Kappa Kappa Gamma: PERSON
+2013: DATE
+Jewelry Essentials and Colored Stone Essentials: ORG
+Diamond Essentials: ORG
+New
+York City: GPE
+2010: DATE
+University of Edinburgh: College of Art City: ORG
+Scotland Completed: ORG
+Metal Sculpture: ORG
+Wire Jewelry: PERSON
+summer: DATE
+2009: DATE
+Rhode Island School of Design City: ORG
+State Completed Introduction to Metal Jewelry: ORG
+summer: DATE
+Skills: ORG
+Creative Suite: PERSON
+Acrobat: PERSON
+Photo: ORG
+Art: PERSON
+Avenue: GPE
+CSS: ORG
+Basic HTML: PERSON
+Layout: GPE
+Mac OS: PERSON
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook, Power Point: ORG
+Packaging, Press: ORG
+Website: ORG

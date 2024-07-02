@@ -1,0 +1,25 @@
+Dedicated Sales Coordinator: ORG
+5+ years: DATE
+Â 
+Detail: PERSON
+Great Â: FAC
+Bilingual: GPE
+French: NORP
+2017: DATE
+ISAC: ORG
+Generate: PERSON
+Generate: PERSON
+Create: ORG
+Assist: ORG
+2014 to Feb 2017: DATE
+daily: DATE
+Processed: GPE
+Assign: ORG
+2012: DATE
+Created: ORG
+monthly: DATE
+Social Science/Hospitality Current Ashford University: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Powerpoint: PRODUCT
+MGS: ORG

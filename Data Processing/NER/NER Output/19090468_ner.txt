@@ -1,0 +1,161 @@
+Skills
+Project Management  
+
+Cloud Computing Services: ORG
+Data Center Migration
+
+Application Integration & Support
+
+System Intergration: ORG
+State: ORG
+04/2014 - Current 
+
+Design,Build, Test: ORG
+8: CARDINAL
+Implementation of Medisoft V20 Healthcare Application for Clinical Healthcare Facility: ORG
+Provided Data: ORG
+Medisoft V20: ORG
+Automation of Backup/Restore: ORG
+24x7: CARDINAL
+Linux System Administrator Company Name - City: ORG
+State: ORG
+Linux Red Hat: WORK_OF_ART
+twenty: CARDINAL
+IBM Blades: ORG
+LVM: ORG
+Manage: PRODUCT
+Linux: PERSON
+Apache: PRODUCT
+Oracle: ORG
+Java) System Administration: ORG
+Puppet Automation Tool: ORG
+TCP: ORG
+Level 2: PERSON
+3: CARDINAL
+24x7: CARDINAL
+State: ORG
+TCP/IP: ORG
+LAN: ORG
+WAN: ORG
+over 500: CARDINAL
+Red Hat: ORG
+5.6: CARDINAL
+Solaris: ORG
+Veritas Cluster Server: PERSON
+VCS: ORG
+Apache: PRODUCT
+Tomcat: ORG
+Apache: PRODUCT
+VMware - Administrator: ORG
+Data Center Migration and Consolidation: ORG
+Open System Technology: ORG
+IBM: ORG
+Tools - NetScout: ORG
+Bib Brother: PERSON
+NGROSS: ORG
+UNIX: ORG
+UNIX: ORG
+Linus, Windows, Solaris System: ORG
+Level 2: PERSON
+3: CARDINAL
+24x7: CARDINAL
+DNS: ORG
+NIS: ORG
+NFS: ORG
+Puppet Automation Tool Jumpstart: ORG
+HP-System Administrator Company Name - City: ORG
+State: ORG
+HP-UX 9, 10, 11i,: PRODUCT
+MC/Service Guard: ORG
+DR: GPE
+HP-UX Linux: ORG
+Red Hat: PERSON
+Red Hat: ORG
+5.3: CARDINAL
+IBM Blades: ORG
+HP
+Blades: ORG
+Vpar: GPE
+daily: DATE
+Disaster Recovery - planning: PERSON
+Highly Critical Application: ORG
+State: ORG
+1000: DATE
+10.20: CARDINAL
+HP-UX: NORP
+Superdome - SM: ORG
+Hewlett
+Packard: ORG
+Veritas Clustering - primary: PERSON
+VCS Clustering Disaster Recovery -
+perform: ORG
+DR: GPE
+DR: GPE
+KVM: ORG
+UNIX: ORG
+Korn Shell: PERSON
+UNIX Automation PCI Compliance Patching: ORG
+Bachelor of Science : Accounting and Computer Science Georgia State University - City: ORG
+1987: DATE
+Hewlett Packard Corporation: ORG
+Support IBM Corporation Disaster Recover Certification: ORG
+Texas Southern University
+
+Technical Certification: ORG
+Ford Motor Aerospace and Technology Division: ORG
+Georgia Tech Institute - City: ORG
+State: ORG
+1990: DATE
+Technical IT Certification : Programming and Technology Georgia Tech Institute - City: WORK_OF_ART
+1992: DATE
+Certifications: WORK_OF_ART
+Deploy Hadoop Cluster: ORG
+Run Application: ORG
+IBM Blade Technology: ORG
+HP Blade: ORG
+Cisco UCS Blade Technology: ORG
+Dell
+Technology: ORG
+HP Servers: ORG
+Skills: ORG
+Apache: PRODUCT
+Automation, Backup: ORG
+Cisco: GPE
+Clustering: GPE
+Database: GPE
+DHCP: ORG
+DNS: ORG
+Documentation: ORG
+FTP: ORG
+Hewlett Packard: ORG
+HP-UX 9, UX: PRODUCT
+HP Servers: ORG
+IBM: ORG
+IBM: ORG
+Java: PERSON
+Korn Shell: PERSON
+LAN: ORG
+Linux: GPE
+Medisoft: GPE
+Windows: ORG
+8: CARDINAL
+Middleware: GPE
+Migration: GPE
+NFS: ORG
+NIS: ORG
+Oracle: ORG
+PCI: ORG
+Red Hat: PERSON
+SNMP: ORG
+Solaris: PERSON
+9.0: DATE
+Solaris, System Administration: ORG
+TCP: ORG
+Technical Assistance: ORG
+Tomcat: ORG
+Troubleshooting: GPE
+UNIX: ORG
+UNIX: ORG
+Veritas Cluster Server: PERSON
+Veritas Clustering: PERSON
+WAN: ORG

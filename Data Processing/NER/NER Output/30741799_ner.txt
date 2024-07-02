@@ -1,0 +1,86 @@
+Licensed Social Worker: ORG
+7 years: DATE
+Suicide: PERSON
+Basic Cardiac Life Support: ORG
+September 2013: DATE
+Name City: GPE
+State Court: ORG
+Guardian: ORG
+Child: ORG
+Maintained: GPE
+monthly: DATE
+Maintained: GPE
+February 2013: DATE
+Name City: GPE
+State Emergency Medical Technician and Social Worker: ORG
+Assist: NORP
+Attend: ORG
+September 2015 to May 2015: DATE
+Name City: GPE
+State Social: ORG
+IEP: ORG
+Individually: ORG
+Maintained: GPE
+10-15: CARDINAL
+September 2015 to May 2015: DATE
+Name City: GPE
+State Social Worker Intern
+
+Once: ORG
+7 hours: TIME
+IEP: ORG
+Evaluated: ORG
+September 2014 to May 2015: DATE
+Name City: GPE
+January 2009 to January 2013: DATE
+Name City: GPE
+State Child Care
+
+: ORG
+daily summer: DATE
+Completed: ORG
+September 2011 to May 2012: DATE
+Name City: GPE
+September 2011 to December 2011: DATE
+Name City: GPE
+State Research Intern
+
+Interned at Settlement Music: ORG
+West Chester University: ORG
+September 2009 to August 2011: DATE
+Name City: GPE
+Daisy Girl Scout: PERSON
+several years: DATE
+February 2008 to: DATE
+February 2010: DATE
+Name City: GPE
+Foster: PERSON
+3: CARDINAL
+2: CARDINAL
+2015: DATE
+West Chester University: ORG
+State Social Work 
+Master of: ORG
+Recognizing: DATE
+Family Therapy: PERSON
+Therapy
+Trauma: PERSON
+Acceptance and Commitment Therapy: ORG
+2013: DATE
+West Chester University: ORG
+Deans: NORP
+List
+Admitted: WORK_OF_ART
+Autism Speaks U: ORG
+2011: DATE
+Delaware County Community College: ORG
+State Psychology 
+Associates of Psychology
+
+Presidents: ORG
+Admitted: ORG
+Self-Awareness
+Empathy
+
+Boundary Setting
+Time-management: ORG

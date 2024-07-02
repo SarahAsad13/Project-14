@@ -1,0 +1,84 @@
+two years: DATE
+Highlights: GPE
+Variance: PERSON
+Superior: LOC
+Salesforce
+Board Report: ORG
+10: CARDINAL
+95%: PERCENT
+approximately $1.00: MONEY
+0.05: MONEY
+Team: ORG
+Purchase Loan Accounting: ORG
+Evolv: PERSON
+300,000: MONEY
+monthly: DATE
+approximately 43%: PERCENT
+EBT: ORG
+Current
+Finance Specialist Company Name - City: ORG
+Finance: ORG
+five: CARDINAL
+December 2014: DATE
+$550 million to $850 million: MONEY
+Purchase Loan Accounting - M&A: ORG
+an additional 40%: PERCENT
+monthly: DATE
+Team: ORG
+Primatics Financial (Evolv: ORG
+Coordinated: ORG
+Primatics Financial: ORG
+monthly: DATE
+Purchase Accounting: ORG
+the Acquired Loan Portfolio: ORG
+10: CARDINAL
+SNL: ORG
+SNL: ORG
+Access: ORG
+Deposit Operations Associate Company Name - City: ORG
+State: ORG
+Four month: DATE
+Deposit Operations: ORG
+ACH: ORG
+1099: DATE
+Inacct: NORP
+IRS: ORG
+1099: DATE
+Intacct: GPE
+FX: ORG
+monthly: DATE
+Controller: PERSON
+Intacct: GPE
+Guatemala: GPE
+eight: CARDINAL
+Translated: ORG
+PowerPoint: ORG
+05/12: CARDINAL
+GPA: ORG
+3.33: CARDINAL
+Spring 2009: DATE
+Dean's: ORG
+List Fall 2010: EVENT
+List Fall 2011: EVENT
+GPA: ORG
+3.33: CARDINAL
+Dean: PERSON
+Spring 2009: DATE
+Dean's: ORG
+List Fall 2010: EVENT
+List Fall: EVENT
+One: CARDINAL
+State: GPE
+Spain: GPE
+Challenged: NORP
+Spanish: NORP
+an academic year: DATE
+Spanish: NORP
+Interests
+Carpentry: ORG
+Skills: ORG
+Access, Excel: ORG
+Microsoft Office: ORG
+Suite: ORG
+PowerPoint: ORG
+ORACLE: ORG

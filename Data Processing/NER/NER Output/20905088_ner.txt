@@ -1,0 +1,75 @@
+years: DATE
+Operation Management and Industrial Engineering: ORG
+OHSA: ORG
+EPA: ORG
+WIP: ORG
+Masters in Business Administration: ORG
+Six: CARDINAL
+JIT: ORG
+one: CARDINAL
+Skill Highlights: PERSON
+Project Management
+Budgeting: ORG
+Quality Management
+Distribution Management
+Facility Management: ORG
+MBA: WORK_OF_ART
+Time Management Studies: ORG
+3%: PERCENT
+18%: PERCENT
+500,000: MONEY
+750,000: MONEY
+â€¢ Reorganized: PRODUCT
+20%: PERCENT
+State
+
+Management: ORG
+The Development of the technical data: WORK_OF_ART
+Recommendation: ORG
+BLUE PRINT: ORG
+2003: DATE
+2009: DATE
+CAD: ORG
+Cad: GPE
+500,000: MONEY
+3%: PERCENT
+18%: PERCENT
+R&D Jan 1991: DATE
+Dec 2002: DATE
+State: ORG
+OSHA: ORG
+PLC: ORG
+Mexico: GPE
+Project Development: ORG
+500,000: MONEY
+750,000: MONEY
+100,000 square foot: QUANTITY
+3,120,000: MONEY
+State: ORG
+United State: ORG
+GPA: ORG
+3.7: CARDINAL
+GPA: ORG
+3.7: CARDINAL
+Bachelor of Business Administration Degree: ORG
+8 1979: DATE
+Delta State University: ORG
+State: GPE
+United States: GPE
+GPA: ORG
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+Dean List: WORK_OF_ART
+Sigma Phi Eplson: ORG
+Graduate: PERSON
+SBA: ORG
+MBA: WORK_OF_ART
+P&L Management
+Product Development
+Management
+Industrial Engineering Skills
+Operational Management Skills: ORG
+MircoSoft Office
+Quality Control Management: ORG

@@ -1,0 +1,99 @@
+DIGITAL: ORG
+Graphic Designer: PERSON
+more than ten years: DATE
+InDesign: ORG
+Dreamweaver, Fireworks & Flash: ORG
+Acrobat & Distiller: ORG
+Esko Automation Engine Print Workflow Management System: ORG
+the Microsoft Office: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Familiar: PERSON
+four: CARDINAL
+Digital: ORG
+SAP: ORG
+Lotus Notes: ORG
+SharePoint: ORG
+Mac/Windows: ORG
+Network: ORG
+Utilizing Graphics: ORG
+over 30 million: CARDINAL
+Gamse: LOC
+Gamse: LOC
+03/2015: GPE
+TRANSLATION & LOCALIZATION SPECIALIST Company Name
+
+Products, Equipment & Services: ORG
+Software Developers: PERSON
+BD's Label Design and Development department: ORG
+European: NORP
+Middle Eastern: GPE
+Asian: NORP
+African: NORP
+over 30: CARDINAL
+$2 million: MONEY
+BD's Label Design and Development department: ORG
+Becton Dickinson: FAC
+Solo Cup's: ORG
+15,000 - 20,000: CARDINAL
+Solo Cup's Marketing department on point: ORG
+Wal-Mart: ORG
+Target: ORG
+Wendy's: ORG
+Starbucks: ORG
+Pepsi Co.: ORG
+Pepsi Co.: ORG
+Solo Cup Company: ORG
+Standard: ORG
+11/2003: CARDINAL
+Antwerpen Automotive Group's: ORG
+eleven: CARDINAL
+multi-million dollar: MONEY
+weekly: DATE
+Oversaw: GPE
+Search Engine Optimization: ORG
+Antwerpen Automotive
+Group: ORG
+Jack: PERSON
+annual: DATE
+Hyundai: ORG
+1000: CARDINAL
+1,000: CARDINAL
+Hyundai: ORG
+30 days: DATE
+Coordinated: ORG
+Bachelor of Arts: ORG
+Sinan University: ORG
+AGILE: ORG
+A DAY IN THE LIFE: DATE
+Webmaster HTML: PERSON
+CSS: ORG
+JavaScript: ORG
+FTP: ORG
+Turkish: NORP
+Swahili: PRODUCT
+Creative Suite: PERSON
+Acrobat: PERSON
+Dreamweaver: ORG
+Automation, Automotive: ORG
+Digital: ORG
+Fireworks: PRODUCT
+Flash: PERSON
+InDesign: ORG
+Lotus Notes: ORG
+Mac: PERSON
+Access: ORG
+Excel: PRODUCT
+Microsoft: ORG
+Suite: PERSON
+PowerPoint: ORG
+SharePoint: ORG
+Windows: NORP
+Network: ORG
+Project Management: ORG
+1: CARDINAL
+SAP: ORG
+Search Engine Optimization, Software Developers: ORG
+Turkish: NORP
+Workflow: ORG

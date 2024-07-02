@@ -1,0 +1,112 @@
+Skills
+Accounting: ORG
+General Accounting: ORG
+Â  Acquisitions: ORG
+Budgeting: PERSON
+Controller: PERSON
+Facilities Management: ORG
+Finance: ORG
+Financial Reporting: ORG
+Governmental Accounting: ORG
+$20 million: MONEY
+34,000: MONEY
+monthly: DATE
+Compile: PRODUCT
+100: CARDINAL
+3: CARDINAL
+Support County Negotiations Committee: ORG
+FOP: ORG
+County Board: ORG
+Board: ORG
+80% to 93%: PERCENT
+53% to 85%: PERCENT
+0% to 94%: PERCENT
+Iroquois County: GPE
+245,000: MONEY
+01/2012: CARDINAL
+Finance & Human Resources Company Name: ORG
+First Human Resource & Accounting: ORG
+19 year old: DATE
+monthly: DATE
+Travel & Expense Policy: ORG
+Credit & Collection
+Policy: ORG
+Order Process: ORG
+April, 2010: DATE
+Controller Company Name: ORG
+$150 million: MONEY
+Reorganized: ORG
+four: CARDINAL
+one year: DATE
+14: CARDINAL
+49: CARDINAL
+monthly: DATE
+Ernst & Young: ORG
+Silicon Valley: LOC
+CA: ORG
+30: CARDINAL
+SEC: ORG
+IRS: ORG
+$400 million: MONEY
+seven: CARDINAL
+$3.5 billion Controls Division: MONEY
+30: CARDINAL
+five years: DATE
+Division: ORG
+monthly: DATE
+quarterly: DATE
+annual: DATE
+2003: DATE
+$1.5 billion: MONEY
+Integrated Facilities Management
+Division: ORG
+Reduced Divisional Intercompany: ORG
+over $1 Million: MONEY
+less than $10,000: MONEY
+12 months: DATE
+Developed Sarbanes-Oxley: ORG
+General Accounting and Financial Reporting: ORG
+one year: DATE
+Ernst & Young-Milwaukee: ORG
+US: GPE
+540: CARDINAL
+five days to two days: DATE
+02/1995: GPE
+02/1999
+Accounting: ORG
+State
+
+Progressive: ORG
+$50 million: MONEY
+$400 Million: MONEY
+GB Electrical
+Division: ORG
+Johnson Controls: ORG
+Plant Controller: PERSON
+1996-1998: DATE
+two: CARDINAL
+San Diego: GPE
+monthly: DATE
+01/1995
+Accounting Clerk Company Name: ORG
+Training: PERSON
+November, 1995
+: DATE
+State Accounting
+Central of Clifton High School ï¼​ City: ORG
+State: ORG
+Misc: PERSON
+Training/Development: ORG
+Steven Covey's: PERSON
+Seven: CARDINAL
+Highly Effective: GPE
+2 Day: DATE
+Ken Blanchard's: PERSON
+Annual: DATE
+Ernst & Young: ORG
+Annual: DATE
+McGladrey Fraud Prevention Strategies - August: ORG
+2013: DATE
+Annual: DATE
+FASB: ORG
+GASB: ORG

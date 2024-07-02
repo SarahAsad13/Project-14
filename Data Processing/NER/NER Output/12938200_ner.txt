@@ -1,0 +1,57 @@
+Driven: PERSON
+Speak: LOC
+Spanish: NORP
+Accomplishments
+Master's: PRODUCT
+Social Work Spring 2016 University: EVENT
+Bachelor: ORG
+Social Work Summer: EVENT
+2007: DATE
+California State University of Los Angeles: ORG
+2014: DATE
+Arrange: PERSON
+Insures: ORG
+Distribute: ORG
+IP: ORG
+HealthCare Rep Oct 2009 to Aug: PRODUCT
+2014: DATE
+daily: DATE
+Identify: ORG
+Resolve Application: ORG
+Developmentalist/Caregiver Jul 2009: ORG
+2009: DATE
+the Utah State Developmental Center: ORG
+daily: DATE
+Jan 2008: DATE
+2009: DATE
+Update: ORG
+MFT: ORG
+Psychologists: ORG
+Facilitate STEP: ORG
+Facilitate Anger Management: ORG
+1x/month: DATE
+Spanish: NORP
+Parent: GPE
+Intense Case: ORG
+Participate: ORG
+Facilitated: ORG
+daily: DATE
+Intense: NORP
+University of Utah College of Social Work Social Work
+Bachelors: ORG
+2007: DATE
+California State University: ORG
+the Art of Social Work
+Languages
+Bilingual, Speak: GPE
+Read and Write English: WORK_OF_ART
+Spanish: NORP
+Skills
+Bilingual, Speak: ORG
+Read and Write English: WORK_OF_ART
+Spanish: NORP
+Word: GPE
+Microsoft: ORG
+lotus: ORG
+Â Proficient: ORG
+CPR: ORG

@@ -1,0 +1,74 @@
+May 2013: DATE
+State: ORG
+2014: DATE
+195%: PERCENT
+Investment Banking: ORG
+$70 Million: MONEY
+February 2012: DATE
+May 2013: DATE
+State: ORG
+2012: DATE
+Investment Banking: ORG
+$40 Million: MONEY
+January 2011 to February 2012: DATE
+State: ORG
+2011: DATE
+$10 Million: MONEY
+quarterly: DATE
+Created: ORG
+Implemented Global Investment Sales: ORG
+Performance Standards: WORK_OF_ART
+Registered Investment Representative: ORG
+March 2009 to January 2011 Company Name: DATE
+State: ORG
+2010: DATE
+Quota Attainment -: LAW
+weekly: DATE
+the beginning of the second quarter 2009: DATE
+330: CARDINAL
+June 2008 to April 2009: DATE
+over $100: MONEY
+Mexico: GPE
+College Football: ORG
+over 100: CARDINAL
+Door Knocked: LOC
+Financial Analyst: ORG
+December 2008 to January 2009: DATE
+$3.4 million: MONEY
+San Antonio: GPE
+IRR: ORG
+18%: PERCENT
+Competed: ORG
+the National NAHB Competition: ORG
+Las Vegas: GPE
+Bachelor of Science : Finance: ORG
+December 2009: DATE
+Arizona State University: ORG
+W.P. Carey School of Business ï¼​ City: ORG
+Magna Cum
+Laude: PERSON
+Dean: PERSON
+Magna Cum Laude: PERSON
+Dean: PERSON
+Interests
+Endowment Fund Chair Outstanding Graduating Senior Raised: ORG
+$1,500 dollars: MONEY
+Participated: PRODUCT
+Habitat for Humanity: ORG
+Project Cure: PERSON
+Ronald McDonald: PERSON
+House: ORG
+Barack Obama Scholar's: PERSON
+Program Mentor: ORG
+Obama Scholarship: PERSON
+Skills: ORG
+Real Estate: ORG
+San: LOC
+$1,500 dollars: MONEY
+Participated: PRODUCT
+Habitat for Humanity: ORG
+Project Cure: PERSON
+Ronald McDonald House: PERSON
+Barack Obama Scholar's: PERSON
+Program Mentor: ORG
+Obama Scholarship: PERSON

@@ -1,0 +1,50 @@
+Christian: NORP
+Jacksonville: GPE
+Florida: GPE
+Birmingham: GPE
+Samford: PERSON
+2012.Â: CARDINAL
+Skill Areas: PERSON
+Painting/Drawing
+
+Graphic Design: WORK_OF_ART
+September 2015: DATE
+Current Graphic Designer: PERSON
+May 2015 to August 2015: DATE
+June 2012 to July 2013: DATE
+Briarwood Fellows Program: ORG
+Program City: GPE
+State: ORG
+Samford University 2015 Bachelor of Science : Fine Arts City: ORG
+State: ORG
+May 2011: DATE
+Christian: NORP
+Durango: GPE
+Colorado: GPE
+Summer of 2013: DATE
+2014: DATE
+Nanny-: ORG
+2010-2013: DATE
+Bham/Campus Involvement: ORG
+2013: DATE
+2013: DATE
+2014: DATE
+2014: DATE
+2015: DATE
+Avid Avett Brothers: PERSON
+Skills: ORG
+Spanish: NORP
+Christian: NORP
+Durango: GPE
+Colorado: GPE
+Summer of 2013: DATE
+2014: DATE
+Nanny-: ORG
+2010-2013: DATE
+Bham/Campus Involvement: ORG
+2013: DATE
+2013: DATE
+2014: DATE
+2014: DATE
+2015: DATE
+Avid Avett Brothers: PERSON

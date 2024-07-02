@@ -1,0 +1,86 @@
+SOFTWARE ENGINEERING CO-OP: ORG
+more than 7+ years: DATE
+CSS: ORG
+SQLite: ORG
+NoSQL: GPE
+Programming Languages: C: WORK_OF_ART
+C++: PERSON
+Perl: ORG
+PHP: ORG
+JavaScript: GPE
+Bash: GPE
+SQL: GPE
+XML: ORG
+Markdown: GPE
+Linux: GPE
+Netbeans: NORP
+Vim, Visual Studio: ORG
+MS Visio: PERSON
+MS Access, Wordpress: ORG
+Git: GPE
+Google Analytics: ORG
+Docker: GPE
+Microsoft Office: ORG
+Software: PERSON
+Database & Object: ORG
+Website design & development & software: ORG
+Cincinnati: GPE
+PHP: ORG
+MVC: ORG
+Integrate 3rd party: ORG
+PHP: ORG
+XML API: ORG
+Authorized.net: ORG
+Paypal: PERSON
+PHP: ORG
+Bash: GPE
+2012 - Present: DATE
+Seeketh.org: ORG
+Project - Cincinnati: ORG
+PHP: ORG
+Software Engineering Co-op: ORG
+12/2010: CARDINAL
+Name City: GPE
+Excel: PRODUCT
+CSV: ORG
+Visual Basic: ORG
+Bachelor of Science : Electrical Engineering Jun. 2013 University: ORG
+State Electrical Engineering: ORG
+3.1/4.0: CARDINAL
+Present Affiliations: ORG
+Young People Union City: PERSON
+State: ORG
+Emerging Ethnic Engineering Program: ORG
+University of Cincinnati School of Electronic and Computing Systems: ORG
+Outstanding Senior Design Project Award: WORK_OF_ART
+Sep. 2012: DATE
+Jun. 2013 Component Engineering Co-op: ORG
+L3 Communications CE - Mason: ORG
+OH Parsed: PERSON
+Mar. 2011 - Jun. 2011: DATE
+Skills: ORG
+API: ORG
+Bash: GPE
+C++: PERSON
+CSS: ORG
+Database: GPE
+Engineer: ORG
+XML: ORG
+Google Analytics: ORG
+HTML: ORG
+PHP: ORG
+JavaScript: ORG
+Linux: GPE
+MS Access: ORG
+Excel: PRODUCT
+Microsoft Office: ORG
+MVC: ORG
+NoSQL: GPE
+Operating Systems: ORG
+Perl: PERSON
+Software: PERSON
+SQL: ORG
+Troubleshooting: GPE
+Visio: PERSON
+Visual Studio: PERSON
+Website design & development: ORG

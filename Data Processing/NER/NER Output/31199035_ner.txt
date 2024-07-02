@@ -1,0 +1,48 @@
+Skill Highlights: PERSON
+Self-Starter: ORG
+Volunteer: PRODUCT
+01/2011: CARDINAL
+Assist: NORP
+English: LANGUAGE
+second: ORDINAL
+03/2015: ORG
+Cashier Company Name: WORK_OF_ART
+05/2016: NORP
+Housekeeper Company Name: ORG
+Vacuum: ORG
+01/2011: CARDINAL
+Assist: NORP
+English: LANGUAGE
+second: ORDINAL
+03/2015: ORG
+Cashier Company Name: WORK_OF_ART
+05/2016: NORP
+Housekeeper Company Name: ORG
+Vacuum: ORG
+01/2011: CARDINAL
+Assist: NORP
+English: LANGUAGE
+second: ORDINAL
+03/2015: ORG
+Cashier Company Name: WORK_OF_ART
+05/2016: NORP
+Housekeeper Company Name: ORG
+Vacuum: ORG
+01/2011: CARDINAL
+Assist: NORP
+English: LANGUAGE
+second: ORDINAL
+03/2015: ORG
+Cashier Company Name: WORK_OF_ART
+05/2016: NORP
+Housekeeper Company Name: ORG
+Vacuum: ORG
+Training: PERSON
+2013: DATE
+2013: DATE
+2013: DATE
+2013: DATE
+Skills: ORG
+English: LANGUAGE
+Neat: ORG
+Self-Starter: ORG

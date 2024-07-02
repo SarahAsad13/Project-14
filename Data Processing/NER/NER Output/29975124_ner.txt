@@ -1,0 +1,149 @@
+GIS: ORG
+Provide Application: ORG
+CIS: ORG
+Neptune AMR: ORG
+Maintained SharePoint: ORG
+Assist Desktop: ORG
+FTP: ORG
+CIS: ORG
+AMR: ORG
+Ransomware: PRODUCT
+Utility Solutions Consultant: WORK_OF_ART
+Cityworks CMMS: PERSON
+XML: ORG
+Cityworks: ORG
+Prepared: PERSON
+CIS: ORG
+Meter Reading: PERSON
+CMMS: ORG
+Provided Application: ORG
+CIS: ORG
+CMMS: ORG
+AMR: ORG
+Crystal Reports for Lucity CMMS: ORG
+Lucity CMMS: ORG
+Infor Enterprise Asset Management: ORG
+11.1: CARDINAL
+SQL Server: ORG
+Led System Administration: ORG
+Provide Application: ORG
+CIS: ORG
+CMMS: ORG
+AMR: ORG
+Assisted the City of Cleveland: FAC
+AMI Fixed Network: ORG
+Atlanta: GPE
+Contractor: PERSON
+AMR: ORG
+Automated Meter Reading: PERSON
+City: GPE
+Bureau of
+Drinking Water: ORG
+Griffin Technology Group: ORG
+Developed Crystal Reports: PRODUCT
+the Customer Information System: ORG
+Crystal Info Server 7: LOC
+Developed PL/SQL: ORG
+Access and Visual: ORG
+Application: ORG
+Provided Application Support for Maximo, Maintenance Management Software: ORG
+CSTAR: ORG
+Customer Information System: ORG
+Assisted System Administrators: ORG
+daily: DATE
+HP-UX Servers: ORG
+10/1999: DATE
+12/1999: CARDINAL
+PL/SQL Stored Procedures: ORG
+Functions: PERSON
+SQL: PERSON
+Oracle 8: ORG
+10/1999: CARDINAL
+Oracle: NORP
+05/1998: PERSON
+07/1999: CARDINAL
+Enhanced C: ORG
+Uniface: ORG
+Shell: ORG
+Information Technology Specialist: ORG
+04/1996: CARDINAL
+Sybase SQL Server: ORG
+Lotus Approach: ORG
+Windows 95: LOC
+Uniface: ORG
+Windows NT: LOC
+Uniface: ORG
+5.2: CARDINAL
+Programmer: ORG
+04/1996: CARDINAL
+Uniface: ORG
+5.2: CARDINAL
+Oracle 7.3: ORG
+PowerImage: FAC
+Maintained: GPE
+Oracle: NORP
+Bachelor of Science : Computer Science: ORG
+December 1993: DATE
+GEORGIA INTITUTE OF TECHNOLOGY - City: ORG
+Information Technology: ORG
+20+ years: DATE
+Highlights
+Proficient: ORG
+Project Management: ORG
+Oracle: ORG
+SQL Server: ORG
+Crystal Reports: LOC
+Windows: GPE
+UNIX: ORG
+Automated Meter Reading: PERSON
+Utility Billing: PRODUCT
+Shell Scripting: ORG
+SharePoint: ORG
+PL/SQL: ORG
+Visual Basic: ORG
+Uniface: ORG
+PHP: ORG
+HTML: ORG
+XML: ORG
+Skills: ORG
+Lotus Approach: ORG
+Asset Management: ORG
+Business Process Analysis: ORG
+Crystal: LOC
+Crystal Reports: LOC
+Client: GPE
+DBA: ORG
+XML: ORG
+FTP: ORG
+GIS: ORG
+HP-UX: PERSON
+HTML: ORG
+PHP: ORG
+ITIL: ORG
+Access, SharePoint: ORG
+Windows: GPE
+Windows NT: LOC
+Enterprise: ORG
+Network: ORG
+Oracle 7.3: ORG
+Oracle: ORG
+Oracle: NORP
+PL/SQL: ORG
+Oracle: ORG
+SQL: ORG
+Oracle 8: ORG
+Project
+Management: ORG
+Shell Scripting: ORG
+Software Development: ORG
+SQL: ORG
+SQL Server: ORG
+Sybase SQL Server, System Administration: ORG
+Uniface: ORG
+6.1: CARDINAL
+Uniface: ORG
+Uniface: ORG
+5.2: CARDINAL
+UNIX: ORG
+Shell: ORG
+Visual Basic: ORG

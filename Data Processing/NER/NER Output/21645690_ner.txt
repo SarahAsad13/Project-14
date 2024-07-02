@@ -1,0 +1,81 @@
+OPERATIONS: ORG
+20 years: DATE
+Highlights
+
+Quantitative analysis & metrics
+Account reconciliation & balancing: WORK_OF_ART
+Complex: NORP
+Operations: ORG
+October 2011: DATE
+daily: DATE
+Real Estate and Oil: ORG
+15: CARDINAL
+Conduct: ORG
+monthly: DATE
+internal house: ORG
+SLA: ORG
+Research: ORG
+Review: ORG
+year-end tax: DATE
+1099: DATE
+1098: DATE
+Loans
+
+Personal Banker/ Business Champion: ORG
+July 2007 to October 2011 Company Name - City: DATE
+Coach: ORG
+daily: DATE
+Originate: ORG
+Oversee: ORG
+daily: DATE
+Wealth Management Group Relationship: ORG
+June 2004 to: DATE
+Private Bankers: ORG
+Financial Consultants: ORG
+Investment Bankers: ORG
+Assist: NORP
+over 180: CARDINAL
+Private Banking: ORG
+Submit: ORG
+Identify: ORG
+Prepare Personal Financial Statements: ORG
+annually: DATE
+Maintain: PRODUCT
+Deposit Risk Operations Fraud: ORG
+June 2001 to June 2004: DATE
+State: ORG
+12: CARDINAL
+Avert: PERSON
+one million dollars: MONEY
+Recruit: ORG
+Cross: ORG
+Create: ORG
+MS Access and: ORG
+Excel: PRODUCT
+month end: DATE
+Provide: NORP
+Customer Identification Policy: ORG
+University of Phoenix: Bachelors of Business Management: ORG
+PeopleSoft: ORG
+Commercial Electronic Office: ORG
+FileNet: ORG
+Hogan: ORG
+Microsoft Outlook: ORG
+QuickBooks: ORG
+SEI Trust 3000: ORG
+Trust Mineral Management System: ORG
+SharePoint: ORG
+Kronos: ORG
+LexisNexis: ORG
+Lotus Notes
+
+: ORG
+Microsoft Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+Access: ORG
+12,000: CARDINAL
+KSPM: ORG
+ten: CARDINAL
+Accurate: ORG
+75+WPM: CARDINAL

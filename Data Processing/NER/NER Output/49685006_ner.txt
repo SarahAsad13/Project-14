@@ -1,0 +1,98 @@
+ADMINISTRATIVE ASSOCIATE II: PERSON
+CONSTRUCTION MANAGEMENT DEPARTMENT
+Professional Overview
+
+Committed: ORG
+Schedule: PERSON
+Microsoft Office: ORG
+Time: ORG
+Strong: PERSON
+Resourceful
+Strong: PERSON
+Proofreading
+Mail: ORG
+minutes: TIME
+Construction Management Department 09/2015: ORG
+the Department Chair: ORG
+â€¢Maintain: CARDINAL
+the Construction Management Department: ORG
+â€¢Maintain: CARDINAL
+KSU: ORG
+Banner: ORG
+â€¢Assist: PRODUCT
+the year: DATE
+annual: DATE
+Department Chair's: ORG
+â€¢Create minutes: TIME
+Works: ORG
+Owl Express: ORG
+SAS: ORG
+â€¢Organizes: CARDINAL
+the SPSU Foundation: ORG
+KSU: ORG
+â€¢Maintain: CARDINAL
+KSU: ORG
+Construction Management: ORG
+â€¢Assist: NORP
+minutes: TIME
+â€¢Travel: CARDINAL
+the year: DATE
+â€¢Coordinate: DATE
+â€¢Arrange: NORP
+Information Technology: ORG
+â€¢Maintain: CARDINAL
+â€¢Maintain: CARDINAL
+Facilitate: ORG
+the Department Chair: ORG
+Excel: PRODUCT
+Draft: ORG
+â€¢Assist: CARDINAL
+Dean: PERSON
+Name City: GPE
+Data Entry: ORG
+AssessPro Software: ORG
+Data Collectors: ORG
+New England: LOC
+Rhode Island: GPE
+daily: DATE
+Receptionist, Client Services: ORG
+Tax/Lien Researcher 12/2012 to: ORG
+Name City: GPE
+Maintained: GPE
+Name City: GPE
+Processed: GPE
+the United States: GPE
+Endicia: PERSON
+Prepared: PERSON
+US: GPE
+Canada: GPE
+daily: DATE
+Social Media Manger: ORG
+Name City: GPE
+Atlanta: GPE
+Facebook, MySpace: ORG
+YouTube &: ORG
+LinkedIn: GPE
+10/2008: DATE
+10/2009: CARDINAL
+Name City: GPE
+Maintained: GPE
+Facilitated: ORG
+Name City: GPE
+Disburser/Post Closer: ORG
+Receptionist: NORP
+Disburser: PERSON
+Softpro: ORG
+Ascertained: GPE
+www.linkedin.com/in/tammyammy: PERSON
+GED & Adult High School: ORG
+1983: DATE
+Dekalb Community College City: ORG
+State: GPE
+USA: GPE
+Skills
+
+Executive Management Support: ORG
+Microsoft: ORG
+Multi-Task Management: ORG
+Time Management: ORG

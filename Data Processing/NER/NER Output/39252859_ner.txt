@@ -1,0 +1,76 @@
+Graphic Designer/Artist: ORG
+19 years: DATE
+Corporate: ORG
+Microsoft Office: ORG
+Mac: PERSON
+the School of Visual Arts: ORG
+Illustration: ORG
+Computer Arts: ORG
+Skills
+
+Children's Trade K -12
+Book Packaging
+Medical Publication
+Product PackagingÂ 
+
+Advertising
+Trade Show Graphics
+Catalogs & Brochures: ORG
+Creative Graphic: PERSON
+2006 to Feb 2016: DATE
+State: ORG
+â€¢ Primarily: PRODUCT
+â€¢ Verbal: PRODUCT
+â€¢ Routinely: PRODUCT
+â€¢ Utilize LiveMeeting: WORK_OF_ART
+Webcast toÂ: DATE
+Graphic Designer - Contractor Feb: ORG
+Mar 2014: DATE
+State: ORG
+â€¢ Facilitate: PRODUCT
+â€¢ Collaborate: WORK_OF_ART
+â€¢ Communicate: PRODUCT
+Freelance Graphic: PERSON
+Feb 2005: DATE
+Mar 2006: PERSON
+State: ORG
+â€¢ Design: PRODUCT
+monthly: DATE
+3: CARDINAL
+monthly: DATE
+Pharma: NORP
+quarterly: DATE
+â€¢ Liaison: PRODUCT
+monthly: DATE
+Freelance Graphic Designer: PERSON
+2004 to Aug 2004: DATE
+State: ORG
+â€¢ Package: PRODUCT
+â€¢ Technical: ORG
+â€¢ Design: PRODUCT
+Freelance Graphic Designer: PERSON
+May 2004: DATE
+State: ORG
+Barbie: PERSON
+Walt Disney: ORG
+Nascar: PERSON
+â€¢: PRODUCT
+â€¢ Design: PRODUCT
+Reader's Digest Children Books: ORG
+Training
+Bachelor of Fine Arts: PERSON
+Sequential Arts: ORG
+State: GPE
+USA: GPE
+Skills: ORG
+Acrobat: PERSON
+Adobe CS: PERSON
+Branding, Brochures: ORG
+Cad: GPE
+Catalogs: PERSON
+Graphic DesiGner: ORG
+Graphics Design: ORG
+Graphic: PERSON
+Microsoft Office: ORG
+Posters, Prepress, Presentations: ORG
+Author: GPE

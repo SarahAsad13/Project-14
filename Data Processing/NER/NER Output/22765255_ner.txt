@@ -1,0 +1,143 @@
+more than 12 years: DATE
+Highlights
+Business Development Cross Functional: ORG
+New Product Commercialization Effective Negotiator Manufacturing Processes Change
+Management Operations Management Build Dynamic teams Marketing Strategy and Innovation Diversity: ORG
+Granted "Values in Action Award: WORK_OF_ART
+Granted: PERSON
+Kraft Foods: ORG
+Coffee Bean Brilliance Award: ORG
+2015: DATE
+Kraft Foods: ORG
+Choice Award: PERSON
+2013: DATE
+Associate Director Business Development: ORG
+State: ORG
+Lincoln Led: PERSON
+Kraft Foods: ORG
+25MM: MONEY
+Y1: PRODUCT
++$300MM Avatar Responsible: MONEY
+12/2012: CARDINAL
+Name City: GPE
+State Co-: ORG
+Kraft Foods: ORG
+140MM: MONEY
+Y1: PRODUCT
+first: ORDINAL
+5: CARDINAL
+CRM: PRODUCT
+quarterly: DATE
+annual: DATE
+two: CARDINAL
+150MM: MONEY
+2.2MM: MONEY
+46: CARDINAL
+Kraft: ORG
+Kraft: ORG
+Instant Coffee Plastic Jar: ORG
+Values in Action Award: WORK_OF_ART
+Operations: ORG
+less than: PERCENT
+0.0001%: PERCENT
+98%: PERCENT
+second: ORDINAL
+the
+department's: ORG
+19: CARDINAL
+12: CARDINAL
+FIFO: ORG
+5: CARDINAL
+MES: ORG
+SAP: ORG
+OEE: ORG
+32%: PERCENT
+Developed CBT: ORG
+monthly: DATE
+300: CARDINAL
+January 2002: DATE
+Ranked: PRODUCT
+100M.: MONEY
+January 2000: DATE
+Project Engineer Jacksonville: ORG
+FL Participated: ORG
+FDOT: ORG
+Applied: ORG
+Integrated Marketing Campaign: ORG
+2012: DATE
+MH / Yuban Instant Coffee: ORG
+10: CARDINAL
+Hispanics: NORP
+SVC: ORG
+Hispanics: NORP
+IMC: ORG
+Education: ORG
+Financial Management: ORG
+London University: ORG
+Coggin School of Business City: ORG
+State: ORG
+US University: ORG
+Coggin School of Business Master of Business Administration Jacksonville: ORG
+Florida Essentials of Financial
+Management: ORG
+London: GPE
+England May: GPE
+2008: DATE
+Sun Yan Set University City: ORG
+Sun Yan Set University: ORG
+Beijing: GPE
+China: GPE
+May, 2007
+: DATE
+Bachelor of Science : Production Engineering Continuous Improvement and Management EAFIT University EAFIT University Bachelor: ORG
+Colombia Professional Recognitions Kraft Foods: ORG
+Coffee
+Bean Brilliance Award: ORG
+2015: DATE
+Kraft Foods: ORG
+Y1: PRODUCT
+188MM: MONEY
+2014: DATE
+HACE Leadership Academy Kraft Foods Delegate: ORG
+HACE Leadership Academy: ORG
+2014: DATE
+Organization Latinos: ORG
+KFT: ORG
+Recruiter Anthony Robbins: PERSON
+Kraft Foods Latino Council: ORG
+NYC: LOC
+English: LANGUAGE
+Spanish: NORP
+Affiliations: ORG
+Developed CBT: ORG
+monthly: DATE
+300: CARDINAL
+Skills
+Packaging: ORG
+Maintenance, Operations, Training,: ORG
+Engineer: ORG
+Fdot: ORG
+Machine
+Safety: ORG
+Mes: PERSON
+Project Engineer: ORG
+Award, Budget, Fifo, Self-directed,: ORG
+Warehouse Management: ORG
+Merchandising: PERSON
+Business Development, Mitigation, Sales: ORG
+New Product Development: ORG
+Ibm Svc: PERSON
+Sales Support: PERSON
+Svc, Crm: ORG
+Customer Relationship Management: ORG
+Jar: PERSON
+Account Management, Change Management: ORG
+Leadership Skills: PERSON
+Operations Management: ORG
+Project Management: ORG
+Recruiter: PERSON
+Six Sigma: PERSON
+Six: CARDINAL
+Financial Management: ORG
+Branding: ORG
+Continuous Improvement: PERSON

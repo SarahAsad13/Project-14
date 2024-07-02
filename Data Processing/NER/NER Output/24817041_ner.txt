@@ -1,0 +1,56 @@
+Rockwall: ORG
+TX: ORG
+May 2012-August 2012: DATE
+Accountant Company Name: ORG
+Process: ORG
+Maintain: PRODUCT
+Create: ORG
+Excel: PRODUCT
+month-end: DATE
+Perform: ORG
+Prepare: ORG
+1099s: DATE
+941s: ORG
+940s: PRODUCT
+W-2s: PRODUCT
+C-3s: ORG
+the Electronic Federal Tax Payment System: LAW
+year-end: DATE
+Organize: GPE
+yearly: DATE
+Excel: PRODUCT
+Maintain Excel: PRODUCT
+Training
+Texas A&M Commerce: ORG
+December 2017: DATE
+3.58: CARDINAL
+August 2015: DATE
+Bachelor of Business Administration: ORG
+3.0: CARDINAL
+GPA: ORG
+3.28: CARDINAL
+Skills: ORG
+Additional Information
+
+Buffalo Creek Golf Club: ORG
+Rockwall: ORG
+TX: ORG
+May 2012-August 2012: DATE
+Gold Scholarship Awarded: ORG
+7,500/year: DATE
+3.0: CARDINAL
+GPA: ORG
+Zeta Zigga Zamma: PERSON
+20012 - 2015: DATE
+Mission Trips: PERSON
+2003, 2005: DATE
+2006: DATE
+2011: DATE
+Santa Gertrudis: GPE
+Mexico: GPE
+2006: DATE
+Victory Ranch: ORG
+Eastover: ORG
+South Carolina: GPE
+2011: DATE
+Army: ORG

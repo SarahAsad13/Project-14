@@ -1,0 +1,69 @@
+GIS: ORG
+Municipal Software System: ORG
+Assist Administrative: ORG
+Clerk: PERSON
+Request: ORG
+Answer: LOC
+Assist: NORP
+Assist: NORP
+GIS: ORG
+Municipal Software System: ORG
+Assist Administrative: ORG
+Clerk: PERSON
+Request: ORG
+Answer: LOC
+Assist: NORP
+Assist: NORP
+Education: ORG
+B.S. Degree :: PERSON
+University of Alabama: ORG
+Huntsville - City: GPE
+State: ORG
+2016: DATE
+East Limestone High School - City: ORG
+State: ORG
+GPA: ORG
+3.98: CARDINAL
+Three years: DATE
+Performed: ORG
+Highlights
+
+Experienced: WORK_OF_ART
+Microsoft Office - Word: ORG
+Excel: PRODUCT
+Outlook, SharePoint & Costpoint: ORG
+Database
+Features
+Filing
+Forms
+GIS
+Mailing
+Meetings
+
+Excel
+Mail
+Outlook
+SharePoint: WORK_OF_ART
+Microsoft Office - Word: ORG
+Policies
+Processes
+Reception
+Recording
+Retail
+Scanning
+Telephone
+Phone
+Typing
+
+Skills
+
+Experienced: WORK_OF_ART
+Microsoft Office - Word: ORG
+Excel: PRODUCT
+Outlook, SharePoint & Costpoint: ORG
+GIS: ORG
+Excel: PRODUCT
+Mail: GPE
+Outlook: PERSON
+SharePoint: ORG
+Microsoft Office - Word: ORG

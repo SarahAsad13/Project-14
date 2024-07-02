@@ -1,0 +1,66 @@
+Collaborative
+Organization: ORG
+Exemplary: PERSON
+Time: ORG
+Technology Field
+
+Professional Experience: FAC
+State: ORG
+08/2020 - 01/2021: ORG
+Specialist: ORG
+Assisted: ORG
+Agency: ORG
+Agency: ORG
+the Recruitment and Hiring: ORG
+Interpreted: ORG
+Collaborated: ORG
+Agency: ORG
+quarterly: DATE
+the Human Resources: ORG
+Maintained: GPE
+Equal Employment Opportunity (EEO: ORG
+ADA: ORG
+Affordable Care Act: LAW
+ACA: ORG
+Wage: PERSON
+Family Medical Leave Act: ORG
+USERRA: GPE
+TA Specialist: ORG
+State: ORG
+02/2018 - 04/2020: ORG
+State: ORG
+05/2014 - 02/2018
+
+Established: ORG
+Facilitated: ORG
+Aided: ORG
+daily: DATE
+Performed: ORG
+Principal: NORP
+State: ORG
+05/2011 - 05/2014: ORG
+Anchorage: GPE
+Juneau: GPE
+Alaska: GPE
+Phoenix: GPE
+Arizona: GPE
+91%: PERCENT
+Training: GPE
+Alaska Pacific University: ORG
+City: GPE
+State: ORG
+Bachelor of Arts : Organizational Management, Human Resources
+Additional Information
+
+Organized: ORG
+Computer Literacy
+
+Proficient: WORK_OF_ART
+Microsoft: ORG
+Suite - Word: PERSON
+Excel: PRODUCT
+Powerpoint: ORG
+Outlook: PERSON
+Various Oracle: PERSON
+HRIS: ORG
+Budget and Accounting Software: ORG

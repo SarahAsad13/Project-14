@@ -1,0 +1,33 @@
+Problem: ORG
+Marketing
+Blueprint: PRODUCT
+Detail: PERSON
+03/2006 to 12/2012: CARDINAL
+Conducted: ORG
+SWOT: ORG
+daily: DATE
+Â Subcontractors Â: ORG
+40: CARDINAL
+Assisted: ORG
+07/2011: CARDINAL
+Site Supervisor/Foreman Company Name ï¼​ City: WORK_OF_ART
+Monitored: ORG
+Maintained: GPE
+daily: DATE
+Training: PERSON
+1997: DATE
+Associate of Arts : Criminal Justice Tallahassee Community College: WORK_OF_ART
+State: ORG
+2020: DATE
+Associate of Science : Graphic Design Academy of Art University: WORK_OF_ART
+daily: DATE
+downtime minutes: TIME
+Project Planning: ORG
+Safety Audit 
+Led: PRODUCT
+monthly: DATE
+12/1990: CARDINAL
+Visual Communications Company Name: ORG
+State: ORG
+12/1994: CARDINAL
+12/1996: CARDINAL

@@ -1,0 +1,87 @@
+Current
+Administrative Office: ORG
+Schedule: ORG
+01/2016
+: PERSON
+Cheer Coach Company Name: ORG
+Foster: PERSON
+Current
+Adjunct Faculty Company Name: ORG
+3-5: CARDINAL
+Medical Terminology: ORG
+Women's Health, Stress
+Management, Human Sexuality: ORG
+Current
+Substitute Teacher Company Name: PERSON
+K-12: PRODUCT
+Fitness/Wellness Coordinator Company Name: ORG
+Maintain: PRODUCT
+Organize: GPE
+CPR: ORG
+monthly: DATE
+Coordinate: FAC
+Fitness Xtravaganza: PERSON
+X2: PRODUCT
+Develop: ORG
+Alcohol Awareness Week: ORG
+Advise: PRODUCT
+Intern Company Name: ORG
+Order: ORG
+Coordinate: ORG
+monthly: DATE
+BodyPump: ORG
+01/2000: CARDINAL
+Group Fitness Instructor Company Name: ORG
+weekly: DATE
+Group Fitness Instructor & Personal Trainer Company Name: ORG
+Partner Yoga: PERSON
+Survivor Challenge: ORG
+Tech: ORG
+Largest Boxing/Aerobics/Water
+Aerobics, Resident Hall Events,: ORG
+Cardioboxing, Group Weight Training: ORG
+Pre/Post-natal: ORG
+Sculpting, Circuit Training: ORG
+Cycling: GPE
+Ten Weeks: DATE
+Health, YogaFusion, Nutrition Mondays: ORG
+Partner Yoga/Couple's Massage: ORG
+Expo: ORG
+cycle ergometer: PERSON
+Counsel: ORG
+Motivate: PRODUCT
+Facility: ORG
+Ed: PERSON
+Health Promotion & Physical Education Virginia Polytechnic Institute: ORG
+State University: ORG
+Virginia Tech: PERSON
+City: GPE
+Ed: PERSON
+Health
+Promotion & Physical Education: ORG
+Affiliations
+Fitness and Wellness Professional: ORG
+Interdisciplinary Teaching and Learning *Budget and Financial Management *Public Relations *Event Planning and Coordination *Fundraising
+and Sponsorship
+Interests: WORK_OF_ART
+Volunteer Coach: PERSON
+Chesapeake Parks: PERSON
+Recreation Event Coordinator: ORG
+American Legion NC Post: ORG
+531: CARDINAL
+Women's: ORG
+531: CARDINAL
+Skills: ORG
+Schedule: ORG
+CPR: ORG
+First Aid: ORG
+Medical Terminology: ORG
+Stress Management: ORG
+Volunteer: PRODUCT
+Coach: ORG
+Chesapeake Parks: PERSON
+Recreation Event Coordinator: ORG
+American Legion NC Post: ORG
+531: CARDINAL
+Women's: ORG
+531: CARDINAL

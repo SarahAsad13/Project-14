@@ -1,0 +1,91 @@
+COOK: PERSON
+Charles Hundley: PERSON
+nine years: DATE
+Four years: DATE
+Three years: DATE
+Charles: PERSON
+three: CARDINAL
+The Norwegian Cruise Line's: ORG
+Pride Of America Executive: ORG
+David Lilllis: PERSON
+Chef Alan: PERSON
+Charles: PERSON
+Charles Has: PERSON
+Iron Chef Michael Symon: PERSON
+Associates: ORG
+Business Management: ORG
+Charles: PERSON
+Charles: PERSON
+Knife Skills: ORG
+Menu: PERSON
+Kitchen Management: ORG
+Lead Cook: PERSON
+06/2012: CARDINAL
+the day: DATE
+Cook Lead/Cook III: PERSON
+six months: DATE
+Cook: PERSON
+05/2012: CARDINAL
+Name City: GPE
+Sous: PERSON
+USPH: ORG
+Galley Steward: PERSON
+305: CARDINAL
+436-400: CARDINAL
+Ronald Strode: PERSON
+Cook: PERSON
+Name City: GPE
+Responsible: PERSON
+the USPH Standards Promoted: ORG
+second: ORDINAL
+Lead Cook: PERSON
+Name City: GPE
+Restaurant: ORG
+the day: DATE
+monthly: DATE
+Lead Cook: PERSON
+Kitchen Trainer Kitchen: PERSON
+Name City: GPE
+State: ORG
+Cook: PERSON
+Prepare: ORG
+4: CARDINAL
+Cleveland: GPE
+Strongsville: WORK_OF_ART
+Westlake: PERSON
+Cleveland: GPE
+Beachwood OH: ORG
+Discuss: PERSON
+about two months: DATE
+six months: DATE
+Associate of Arts : Business Management: ORG
+Lakeland Community College City: ORG
+State: GPE
+Charles F Brush High School City: PERSON
+State: GPE
+USA: GPE
+Vocational: PRODUCT
+Culinary: PRODUCT
+Vocational: PRODUCT
+Culinary
+Arts: PRODUCT
+OH: GPE
+United States: GPE
+nine plus years: DATE
+one day: DATE
+Vocational School at Beechwood High School: ORG
+Charles F Brush Lyndhurst: PERSON
+OH: GPE
+United States: GPE
+Brush High School: ORG
+Beechwood High School: ORG
+Culinary Arts: ORG
+Houlihans: NORP
+Culinary Career: FAC
+Cleveland: GPE
+annual: DATE
+Cleveland Food Bank: ORG
+the holidays: DATE
+the holidays: DATE
+Employee Development
+Fast Pace: WORK_OF_ART

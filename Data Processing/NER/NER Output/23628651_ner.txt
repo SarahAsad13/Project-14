@@ -1,0 +1,108 @@
+more than 5 years: DATE
+English: LANGUAGE
+Spanish: NORP
+Skill Highlights
+
+Professional Experience: ORG
+4th: ORDINAL
+Bilingual Teacher: PERSON
+every year: DATE
+90-100%: PERCENT
+80%: PERCENT
+Mathematics: LOC
+30%: PERCENT
+2013-2014 school year: DATE
+Spanish: NORP
+First: ORDINAL
+PBIS: ORG
+Robotics Camp: PERSON
+PLTW: ORG
+Vertical: PRODUCT
+Lujan Chavez: PERSON
+2012-2013: DATE
+every year: DATE
+annual: DATE
+PBIS: ORG
+Robotics Elementary Camp: PERSON
+the last day: DATE
+annual: DATE
+2008: DATE
+year-long: DATE
+2003 to: DATE
+May 2005: DATE
+2004-2005: DATE
+2003-2004 school year: DATE
+PTA: ORG
+2004-2005: DATE
+Mar 1999: DATE
+Sep 2002: DATE
+2000: DATE
+five months: DATE
+Border Patrol: ORG
+August of 2000: DATE
+February of 2001: DATE
+Mexican: NORP
+35,000: MONEY
+weekend: DATE
+Mexico: GPE
+2001: DATE
+2001: DATE
+2002: DATE
+over $295,000: MONEY
+2003: DATE
+11%: PERCENT
+previous year: DATE
+5: MONEY
+8 to #1: MONEY
+8: CARDINAL
+10.7%: PERCENT
+previous year: DATE
+5: CARDINAL
+8 to #3: MONEY
+8: CARDINAL
+Averaged: PERSON
+107%: PERCENT
+2001: DATE
+Chihuahua: GPE
+El Paso: GPE
+Performed: ORG
+quarterly: DATE
+the Mexican National Conventions and Visitors Bureau: ORG
+Chihuahua: GPE
+Mexico: GPE
+Joined "Viva El Paso: PERSON
+Southwest Airlines: ORG
+annual: DATE
+El Paso: GPE
+Texas: GPE
+Arizona: GPE
+2015: DATE
+Concordia University: ORG
+1999: DATE
+City: GPE
+State: ORG
+USA Marketing: ORG
+El Paso: GPE
+twelve years: DATE
+Texas: GPE
+El Paso: GPE
+Skills: ORG
+Photoshop: PERSON
+Creative Problem Solving: ORG
+Client
+Relations: ORG
+Illustrator: ORG
+Mathematics: NORP
+Microsoft Office: ORG
+2000: DATE
+Word: PERSON
+Presenter: PERSON
+Quick Learner: PERSON
+Robotics: ORG
+Spanish: LANGUAGE
+Spanish: NORP
+Teacher: PERSON
+Technical Writing: PERSON
+twelve years: DATE
+Texas: GPE
+El Paso: GPE

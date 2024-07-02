@@ -1,0 +1,114 @@
+BUSINESS DEVELOPMENT: ORG
+Business Management or Sales: ORG
+Superb: NORP
+Business Management: ORG
+Skills
+
+MS Office Suite: ORG
+SalesForce.com: ORG
+Pipedrive.com: ORG
+Birst/Intradiem Reports
+: ORG
+CPR Certification: ORG
+2012: DATE
+SalesForce.com: ORG
+Pipedrive.com: ORG
+Birst/Intradiem Reports
+: ORG
+CPR Certification: ORG
+2012: DATE
+Pipedrive.com: ORG
+Birst/Intradiem Reports: ORG
+Pipedrive.com: ORG
+Birst/Intradiem Reports: ORG
+Mailchimp.com: ORG
+Work History
+Business Development Representative 05/2017 to Current 
+Company Name: WORK_OF_ART
+6%: PERCENT
+Generate: PERSON
+7 days: DATE
+Demonstrate: ORG
+160%: PERCENT
+monthly: DATE
+90: MONEY
+SDR: ORG
+2018.Â: CARDINAL
+130+ daily: DATE
+2.5 hours: TIME
+KPI: ORG
+2 fold month to month: DATE
+first 90 days: DATE
+02/2015: PERSON
+20: CARDINAL
+Probed: GPE
+Business Development 03/2017: ORG
+6%: PERCENT
+month: DATE
+2.5%: PERCENT
+Prospect: ORG
+2: CARDINAL
+Demonstrate: ORG
+02/2015: PERSON
+20: CARDINAL
+Probed: GPE
+Success Management and Reporting Analyst: ORG
+Ran monthly: PERSON
+weekly: DATE
+Ran: PERSON
+weekly: DATE
+Salesforce.com: ORG
+Created: ORG
+Research: ORG
+160%: PERCENT
+monthly: DATE
+90: MONEY
+SDR: ORG
+2018.Â: CARDINAL
+130+ daily: DATE
+2.5 hours: TIME
+KPI: ORG
+2 fold month to month: DATE
+first 90 days: DATE
+Business Development & Success Management: ORG
+02/2015 
+Company: PERSON
+â€¢ Conducted: PRODUCT
+â€¢ Created: ORG
+â€¢ Managed: PRODUCT
+â€¢ Research: ORG
+â€¢ Documented: PRODUCT
+â€¢ Ran: PRODUCT
+monthly: DATE
+weekly: DATE
+â€¢ Organized: PRODUCT
+Birst: ORG
+â€¢ Upload: PRODUCT
+weekly: DATE
+Salesforce.com: ORG
+â€¢ Conducted: PRODUCT
+â€¢ Created: PRODUCT
+Coach: ORG
+Cherokee Youth Lacrosse: PERSON
+2013: DATE
+Sigma Alpha Epsilon Fraternity: WORK_OF_ART
+2009: DATE
+Morehead State University: ORG
+2008: DATE
+December 2017: DATE
+KENNESAW STATE UNIVERSITY: ORG
+Coles College of Business - City: ORG
+113 credit hours: TIME
+2019: DATE
+KENNESAW STATE UNIVERSITY: ORG
+Coles College of Business - City: ORG
+State: ORG
+CPR: ORG
+MS Office Suite: ORG
+Research, Sales: ORG
+Coach: ORG
+Cherokee Youth Lacrosse: PERSON
+2013: DATE
+Sigma Alpha Epsilon Fraternity: WORK_OF_ART
+2009: DATE
+2008: DATE

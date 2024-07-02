@@ -1,0 +1,79 @@
+13 years: DATE
+Highlights: GPE
+Word: PERSON
+Excel: PRODUCT
+Power Point: ORG
+Adobe Pro: PERSON
+SharePoint: ORG
+Name City: GPE
+State Administrative: ORG
+10/2014: CARDINAL
+Director of Operations: ORG
+monthly: DATE
+Global Reports & compile Management Reports: ORG
+Career Fairs: PERSON
+Coordinate: FAC
+Name City: GPE
+State Administrative: ORG
+VP of Research: ORG
+two: CARDINAL
+Transcribed: ORG
+minutes: TIME
+Coordinated Department: ORG
+Name City: GPE
+State EA/Project: ORG
+11/2012: CARDINAL
+07/2013: CARDINAL
+SVP: ORG
+Performed: ORG
+SVP: ORG
+SVP: ORG
+Name City: GPE
+03/2008: CARDINAL
+SVP: ORG
+Performed Human Resources: ORG
+Interpreted: ORG
+Clinical Operations Department Filed: ORG
+Created: ORG
+Microsoft: ORG
+Word: PRODUCT
+Excel: PRODUCT
+Power Point: PRODUCT
+Conducted: ORG
+Name City: GPE
+SVP: ORG
+SVP: ORG
+minutes: TIME
+Clinical Operations: ORG
+Prepared Power Point: PRODUCT
+Board: ORG
+eight: CARDINAL
+Name City: GPE
+State Executive: ORG
+10/2000: CARDINAL
+Home Health Maintained: ORG
+Microsoft Outlook: ORG
+Provena Home Health: ORG
+Outlook: LOC
+Microsoft Excel: ORG
+Prepared Power Point: PRODUCT
+Board Committee: ORG
+Transcribed: ORG
+minutes: TIME
+Master of Science : Management Human Resources: WORK_OF_ART
+Jan 2012: DATE
+Indiana Wesleyan University: ORG
+State Management Human Resources: ORG
+Jan 2007: DATE
+Olivet Nazarene University: ORG
+City: GPE
+Summa Cum Laude Management
+Human Resources
+Skills: PERSON
+Screening
+Interviewing
+Multi-Tasking
+Presentations
+Project Management
+Newsletter
+Expense: WORK_OF_ART

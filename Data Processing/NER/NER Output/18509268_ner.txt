@@ -1,0 +1,43 @@
+Garmin: ORG
+Remain: PERSON
+Report: ORG
+Develop: ORG
+Garmin: ORG
+Answer: LOC
+Garmin: ORG
+Garmin: ORG
+Identify: ORG
+Garmin: ORG
+hours: TIME
+daily: DATE
+weekly: DATE
+06/2012: CARDINAL
+Apparel Sales Lead Company Name: ORG
+Compliance: PRODUCT
+05/2012: CARDINAL
+Team Scout Coordinator Company: ORG
+Educate: ORG
+Armour: PERSON
+weekly: DATE
+weekly: DATE
+Loss Prevention: ORG
+daily: DATE
+daily: DATE
+weekly: DATE
+12/2006: CARDINAL
+Achieve: PERSON
+daily: DATE
+weekly: DATE
+Complete: PERSON
+daily: DATE
+weekend: DATE
+daily: DATE
+12 2009: DATE
+Bachelor of Science Hotel and Restaurant Administration: ORG
+Hospitality University of Central Missouri: ORG
+City: GPE
+GPA: ORG
+3.0: CARDINAL
+GPA: ORG
+3.0: CARDINAL
+Loss Prevention: ORG

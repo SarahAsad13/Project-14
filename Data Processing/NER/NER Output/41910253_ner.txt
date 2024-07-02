@@ -1,0 +1,26 @@
+HEALTHCARE: ORG
+EPIC: ORG
+Microsoft Office Suite: ORG
+Healthcare Systems: ORG
+Insurance/Billing: ORG
+Health/Medical Records: ORG
+Data Analysis: ORG
+February 2002: DATE
+Name City: GPE
+State Healthcare Associate: ORG
+day: DATE
+Communicate: ORG
+Training
+American InterContinental University: ORG
+State Healthcare Management BBA Healthcare Management Training: Healthcare Finance: ORG
+Risk Management, Information Systems: ORG
+Management, Ethics: ORG
+Â Data Analysis: ORG
+Decision-Making: ORG
+Information Systems: ORG
+Insurance Verification: ORG
+Leadership, Regulatory Compliance: ORG
+Patient Care Support, Project Management, Quality: WORK_OF_ART
+Research, Risk Management, Scheduling, Sound Strategic Planning: ORG
+Teamwork: ORG
+Time: ORG

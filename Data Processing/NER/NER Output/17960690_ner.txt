@@ -1,0 +1,123 @@
+PROFESSIONAL HEALTHCARE: ORG
+Detail: PERSON
+almost 15Â years: DATE
+toÂ: CARDINAL
+2017: DATE
+Atlanta: GPE
+2017: DATE
+2016: DATE
+Atlanta: GPE
+2015: DATE
+Capital S: ORG
+2014: DATE
+Capital S: ORG
+2011: DATE
+Ranking 3/55: PERSON
+141.63%: PERCENT
+2011: DATE
+2011 - Finished: DATE
+Q2: CARDINAL
+MS-AL Surge Contest: ORG
+Lyrica: GPE
+2011: DATE
+2011 -: DATE
+Region: LOC
+5%: PERCENT
+2009: DATE
+2008: DATE
+2008: DATE
+25%: PERCENT
+2007: DATE
+Card: PERSON
+2007: DATE
+2nd: ORDINAL
+200: CARDINAL
+Searle Representatives: ORG
+2007: DATE
+Lyrica: GPE
+Celebrex: GPE
+2007 - Finished 9/200: DATE
+Central Area: LOC
+15%: PERCENT
+Central Area: LOC
+1: MONEY
+Central Area - Celebrex Attainment: LOC
+117.78%: PERCENT
+2004: DATE
+10%: PERCENT
+2004: DATE
+2004 - Rookie: DATE
+The History of Celebrex: WORK_OF_ART
+Celebrex: ORG
+GI: ORG
+CV: GPE
+Exubera: ORG
+Professional Healthcare Representative: ORG
+July 2003: DATE
+Current Company Name: ORG
+2017: DATE
+Xtandi - Ended: ORG
+15: MONEY
+2016: DATE
+AwardedÂ: NORP
+Atlanta: GPE
+East District: LOC
+2015: DATE
+Ranked 29/75: PERSON
+102.15%: PERCENT
+Lyrica: GPE
+107.32%: PERCENT
+92.41%: PERCENT
+Viagra: PRODUCT
+2014: DATE
+Celebrex: ORG
+108.13%: PERCENT
+106.77%: PERCENT
+Lyrica: GPE
+2014: DATE
+106.78%: PERCENT
+Celebrex: ORG
+108.77%: PERCENT
+101.67%: PERCENT
+Lyrica: GPE
+2013: DATE
+101.12%: PERCENT
+Lyrica: GPE
+104.31%: PERCENT
+Celebrex: ORG
+84.09%: PERCENT
+2013: CARDINAL
+107.30%: PERCENT
+Celebrex: ORG
+89.71%: PERCENT
+104.40%: PERCENT
+Lyrica: GPE
+April 2003 to July 2003: DATE
+daily: DATE
+April 2002 to: DATE
+April 2003: DATE
+August 2000 to April 2002: DATE
+the Neonatal Intensive Care Unit
+
+Education: ORG
+Training
+Bachelors of Science: PERSON
+May 2000: DATE
+Mississippi College: ORG
+ï¼​ City: GPE
+Associate of Arts: WORK_OF_ART
+May 1997: DATE
+Hinds Community College: ORG
+Additional Information
+
+Active: ORG
+2006-2011: DATE
+Prom Closet: ORG
+Happiness: ORG
+Dental: ORG
+"Challenge Day: EVENT
+onÂ: GPE
+Volunteer: PERSON
+William: PERSON
+Wings: ORG
+MS Diabetes Association: ORG

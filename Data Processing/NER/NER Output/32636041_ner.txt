@@ -1,0 +1,103 @@
+GROUP FITNESS INSTRUCTOR
+Summary: ORG
+daily: DATE
+eight years: DATE
+CPR/AED: ORG
+GPA: ORG
+Dean: PERSON
+Personal Trainer, Group Fitness Instructor: ORG
+January 2015: DATE
+State
+
+Created: ORG
+Insanity Live and Silver Sneakers: ORG
+10: CARDINAL
+Intelligence Planner: ORG
+May 2012 to September 2013: DATE
+South America: LOC
+Peru: GPE
+Brazil: GPE
+Colombia: GPE
+three: CARDINAL
+Honduran: NORP
+Peruvian: NORP
+Colombian: NORP
+November 2011 to: DATE
+four: CARDINAL
+2000: CARDINAL
+six: CARDINAL
+four: CARDINAL
+monthly: DATE
+four: CARDINAL
+12 hours: TIME
+14: CARDINAL
+94: CARDINAL
+November 2009: DATE
+May 2012: DATE
+eight: CARDINAL
+Reorganized: ORG
+Commanders Action Team: ORG
+Oversaw: GPE
+four: CARDINAL
+Over 240 hours: TIME
+Authored: PERSON
+50: CARDINAL
+200: CARDINAL
+20: CARDINAL
+100%: PERCENT
+25%: PERCENT
+the Air Force Assistance Fund: ORG
+annual: DATE
+over 10,000: CARDINAL
+68,000: MONEY
+two month: DATE
+27,000: CARDINAL
+over 50 years: DATE
+23: CARDINAL
+Fighter Group: ORG
+the Air Force Historical Review Agency: ORG
+Personal Trainer & Group Fitness Instructor: ORG
+March 2007 to January 2009: DATE
+State Created: ORG
+Education: ORG
+M.S.: GPE
+2015: DATE
+University of Texas El Paso: ORG
+ï¼​ City: GPE
+State: GPE
+US: GPE
+GPA 3.85: ORG
+2013: DATE
+Air Force Squadron Officer School
+
+Via e-correspondence-: ORG
+2010: DATE
+Air Force Intelligence Officer School ï¼​ City: ORG
+State: GPE
+US: GPE
+Radar: PRODUCT
+B.S. :: WORK_OF_ART
+2008: DATE
+State: GPE
+US: GPE
+Chemistry: ORG
+GPA: ORG
+3.44: CARDINAL
+Dean's: ORG
+List
+
+Certifications
+
+Personal Trainer Certification:: ORG
+American Council of Exercise: ORG
+April 2013-2017: DATE
+CPR/AED:: ORG
+American Red Cross: ORG
+Skills
+
+Microsoft Office: ORG
+Presentation Skills: PERSON
+Social Media Branding, Inspection and Quality Assurance: ORG
+Health and Wellness Programing: ORG
+Personal Training, Drafting and Editing Publications: WORK_OF_ART
+Scientific Methods: ORG

@@ -1,0 +1,63 @@
+SOURCING & MERCHANDISING: ORG
+Current
+SOURCING & MERCHANDISING ANALYST Company Name: ORG
+Develop: ORG
+Report on Key Performance Indicators: WORK_OF_ART
+05/2008: CARDINAL
+CONTRACTS: ORG
+Purchase: PERSON
+Negotiated Terms: WORK_OF_ART
+& C's: ORG
+Non-Disclosure: ORG
+Developed: ORG
+the Project Managers: ORG
+over 250: CARDINAL
+IMU: ORG
+GM: ORG
+Created: ORG
+Assortment Plans: PRODUCT
+Collaborated with Planning Department: ORG
+OTB: ORG
+Allocation Department: ORG
+Monitored: ORG
+06/2003: CARDINAL
+08/2005: CARDINAL
+ACCESSORIES: ORG
+Sourced: NORP
+Created: ORG
+RTV: ORG
+06/2003: CARDINAL
+CONTROL BUYER Company Name: ORG
+Established: ORG
+Communicated: ORG
+Maintained: GPE
+04/2000: CARDINAL
+Analyzed OTB: PERSON
+GM: ORG
+Collaborated: ORG
+six month: DATE
+Created: ORG
+05/1997 to 11/1999: DATE
+INTERNATIONAL OPERATIONS COORDINATOR Company Name: ORG
+State: ORG
+over 30: CARDINAL
+Communicated: ORG
+the Engineering Department: ORG
+Acted: ORG
+05/1997: CARDINAL
+07/1996: CARDINAL
+02/1997: CARDINAL
+State: ORG
+May 2011: DATE
+State: ORG
+May 1996: DATE
+Fashion Merchandising: PRODUCT
+Design Business Administration UNIVERSITY: ORG
+Business Administration: ORG
+MBA: WORK_OF_ART
+Skills
+
+MS Office: ORG
+MRP/ERP Systems: ORG
+PO Systems: ORG
+Data Warehouses: ORG

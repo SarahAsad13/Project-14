@@ -1,0 +1,39 @@
+Receptionist: NORP
+10 years: DATE
+Knowledgeable: PRODUCT
+Receptionist: ORG
+10+ years: DATE
+spanish: LANGUAGE
+Document: FAC
+Spanish: NORP
+Work History
+Administration: WORK_OF_ART
+12/2018: DATE
+Communicated: ORG
+first: ORDINAL
+Completed: ORG
+Maintained: GPE
+daily: DATE
+Greet: PERSON
+01/2018: CARDINAL
+12/2018: CARDINAL
+Maintained: GPE
+Maintained: GPE
+bill payment: PERSON
+Welcomed: GPE
+more than: CARDINAL
+Certified Medical: ORG
+09/2000: CARDINAL
+Directed: ORG
+Directed: ORG
+Obtained: ORG
+more than 20: CARDINAL
+Associate of Arts : Business Administration American International University - City: ORG
+3.3: CARDINAL
+GPA
+Coursework in Billing: ORG
+1998: DATE
+Resurrection Hospital - City 
+Some College (No Degree: WORK_OF_ART
+1976: DATE
+Bryant School - City: ORG

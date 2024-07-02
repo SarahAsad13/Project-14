@@ -1,0 +1,56 @@
+SOUS CHEF
+Summary: ORG
+Highlights
+
+Adaptive: ORG
+Customer: ORG
+4â€œexceeds: CARDINAL
+Sous Chef 
+March 2013: PERSON
+Cleaned: PRODUCT
+Cold Food: ORG
+Soup Station Chef and Relief Chef: PRODUCT
+Prepared: PRODUCT
+Complied: PERSON
+Cooked: PERSON
+Oversaw: GPE
+March 2009 to February 2013: DATE
+morning: TIME
+daily: DATE
+14: CARDINAL
+daily: DATE
+Correctly: ORG
+Maintained: GPE
+March 2008 to February 2009: DATE
+Provided: ORG
+Dean Vaughn Medical Terminology: ORG
+ICD-9: ORG
+CPT: ORG
+1500: CARDINAL
+Maintained: GPE
+Customer Service Rep: ORG
+May 2007 to March 2008: DATE
+Cook: PERSON
+Baker: PERSON
+September 1999: DATE
+May 2007: DATE
+the HACCP Program: ORG
+next day's: DATE
+weekend: DATE
+Head Cook: PERSON
+daily: DATE
+April 1993 to December 2000: DATE
+March 1993 to September 1999: DATE
+Cleaned: PRODUCT
+Equivalency Diploma: PERSON
+GED: ORG
+Spring 1989: DATE
+Des Moines Community College: ORG
+August 2000: DATE
+State: ORG
+Financial Group: ORG
+Skills: ORG
+CPT: ORG
+Financial: ORG
+ICD-9: NORP
+Medical Terminology: ORG

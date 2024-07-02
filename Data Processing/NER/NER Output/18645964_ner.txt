@@ -1,0 +1,47 @@
+SPECIALIST: ORG
+8+ years: DATE
+Customer Support: PERSON
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Suite: PERSON
+Outlook
+Professional Experience
+: ORG
+Revolving Credit Support Specialist: ORG
+May 2013: DATE
+Identify: PERSON
+20%: PERCENT
+Help: ORG
+Assist: NORP
+Analyzed: NORP
+45: CARDINAL
+Coordinated: PRODUCT
+Revolving Credit Specialist: ORG
+May 2012: DATE
+May 2013: DATE
+Organize: NORP
+weekly: DATE
+Team Mentor: ORG
+OJT: ORG
+July 2007: DATE
+May 2012: DATE
+Team Mentor: ORG
+Assisted: ORG
+OJT: ORG
+Researched: ORG
+100: CARDINAL
+Additional Information: ORG
+Training
+Bachelor of Science : Health Administration Information Systems: PERSON
+February 2016: DATE
+University of Phoenix ï¼​ City: ORG
+State: GPE
+United States Health
+Administration Information Systems: ORG
+Skills: ORG
+Lotus Notes: ORG
+Mainframe: PERSON
+Mentor: PERSON
+Microsoft Office Suite: ORG
+Outlook: PERSON
+Supervisor: PERSON

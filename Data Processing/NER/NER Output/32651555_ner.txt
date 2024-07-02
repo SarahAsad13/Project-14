@@ -1,0 +1,132 @@
+Japanese: NORP
+Diamond Jeweler / Executive Protection: ORG
+Jason Park Diamond - Honolulu: PERSON
+July 2014 to October 2014: DATE
+Royal Hawaiian Jewelry: ORG
+Historic Iolani Palace: FAC
+the Start Up and: FAC
+Grand Opening: WORK_OF_ART
+Jason Park Diamond: PERSON
+Jeweler: PERSON
+the Iolani Palace: ORG
+Honolulu: GPE
+Hawaii: GPE
+Skills Used Knowledge of Characteristics: ORG
+Pricing Diamonds: ORG
+Tactics and Techniques for Executive Protection: ORG
+Pearl Harbor Discover Hawaii Tours - Honolulu: FAC
+July 2012 to April 2014: DATE
+1-7: CARDINAL
+Waikiki Welcome Center: ORG
+Discover Hawaii Tours: ORG
+108: CARDINAL
+Hawaii: GPE
+Maui: LOC
+Oahu: PERSON
+Kaui: PERSON
+Decals and Insurances: ORG
+Oversee 18: FAC
+TWIC: ORG
+CDL: ORG
+Medical and Legal: ORG
+Military Base Access: FAC
+Pearl Harbor Assist Tourist: FAC
+Liason: PERSON
+Discover Hawaii Tours with Other Tour Companies: WORK_OF_ART
+Prepare Breakfast Boxes: ORG
+morning: TIME
+150-300: CARDINAL
+February
+2011 to January 2012: DATE
+Special Brand Men's: ORG
+Opening and Closing Store Cashier / Trainer Inventory Accountability: WORK_OF_ART
+Quality Control Supervisor: ORG
+12ft x 5: QUANTITY
+Accomplishments Doubled: PRODUCT
+monthly: DATE
+August 2015: DATE
+Current Company Name: ORG
+11: CARDINAL
+Draft: ORG
+Submit Payroll: WORK_OF_ART
+11: CARDINAL
+monthly: DATE
+monthly: DATE
+32,000: MONEY
+first 90 days: DATE
+First month: DATE
+77,800: MONEY
+monthly: DATE
+45,000: MONEY
+32,800: MONEY
+January 2012 to January 2016: DATE
+Train New Employees on Daily Operations: ORG
+Policies: GPE
+Crew Expectations: PERSON
+Manage Reservation Times for Surf: ORG
+Demonstrate Water Safety: ORG
+CPR: ORG
+Provide Basic First Aid: PRODUCT
+daily: DATE
+November 2004 to August 2010: DATE
+783: CARDINAL
+Door Gunner: PERSON
+Cal Gau: PERSON
+Anti Submarine Warfare Systems: ORG
+Acoustic / Non Acoustic: ORG
+Tactical Operator of the Quarter: WORK_OF_ART
+first: ORDINAL
+394: CARDINAL
+400: CARDINAL
+Search and Rescue Physical Evaluation: ORG
+Western Operators: ORG
+4.0: CARDINAL
+4.0: CARDINAL
+Pacific Navy: ORG
+4: CARDINAL
+FUTURES
+Magazine: ORG
+Navy: ORG
+2004: DATE
+State General Education: ORG
+Basic: GPE
+CPR: ORG
+Customer Service: ORG
+First Aid, FUTURES: ORG
+Japanese: NORP
+Navy: ORG
+Payroll: ORG
+People Skills: PERSON
+Policies: GPE
+Safety, Sales,: ORG
+Teamwork: ORG
+Anywhere Authorized: ORG
+US: GPE
+AWARDS National Defense Service Medal: ORG
+December 2004: DATE
+Awarded for Military Service: ORG
+Periods: PERSON
+Defense Navy Good Conduct Award: ORG
+November 2008: DATE
+Exemplary Behavior: ORG
+Fidelity: ORG
+Federal Military Service Global War On Terrorism Expeditionary Medal: ORG
+June 2009: DATE
+Overseas Direct Service: ORG
+the Global War: EVENT
+June 2009: DATE
+the Global War on Terrorism Sea Service
+Deployment Medal: EVENT
+June 2010: DATE
+Consecutive Days Forward Deployed: EVENT
+August: DATE
+2008: DATE
+Naval Aviation Systems: ORG
+Warfare Pin: PERSON
+Special Operations Pipeline: ORG
+December 2004: DATE
+M9: CARDINAL
+December 2004: DATE
+M16 / M4 Rifles: ORG
+Enlisted Aviation Warfare: ORG
+January 2008: DATE

@@ -1,0 +1,65 @@
+24 plus years: DATE
+Articulate: ORG
+Organization & Planning: ORG
+Customer Retention
+Marketing Strategy
+Discovering Customer Needs
+Coaching & Mentoring
+Revenue Generation
+Knowledge Of Market
+Employee Relations
+Forecasting
+Relationship Building
+Performance Management
+Customer Prospecting
+Excellent Communicator
+Sales Reporting
+Networking & Rapport Building
+
+: ORG
+7%: PERCENT
+prior year: DATE
+11%: PERCENT
+over 40: CARDINAL
+Execute: ORG
+10%: PERCENT
+Customer: ORG
+550: CARDINAL
+300k: PRODUCT
+EPA: ORG
+11/2011: CARDINAL
+Name City: GPE
+15: CARDINAL
+two: CARDINAL
+20%: PERCENT
+2011: DATE
+$7M Generated: MONEY
+9%: PERCENT
+2007: DATE
+2011: CARDINAL
+Maintained: GPE
+12/2006: CARDINAL
+Name City: GPE
+UNCW: ORG
+today: DATE
+Midnight Madness: PERSON
+University: ORG
+Collaborated: ORG
+Team Teal Handled: ORG
+Seahawk: ORG
+daily: DATE
+Bachelor of Science : Communications: ORG
+December 1995: DATE
+East Carolina University Communications: ORG
+3/19/2018: CARDINAL
+Skills: ORG
+Customer Service: ORG
+Employee Relations: ORG
+Forecasting: ORG
+Leadership: PERSON
+Marketing Strategy: PERSON
+Performance Management: ORG
+Presenting: PERSON
+Rapport: ORG
+Relationship Building: ORG
+Sales Reporting: PERSON

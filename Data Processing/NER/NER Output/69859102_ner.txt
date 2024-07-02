@@ -1,0 +1,65 @@
+COSTUMER: GPE
+Costumer: PERSON
+Skills
+
+Operations: ORG
+Financial: ORG
+Client: GPE
+Customer: ORG
+Superior: LOC
+Energetic: LOC
+Adaptive: ORG
+Costumer Services: ORG
+02/2018 to Current Company Name: ORG
+Recommended: ORG
+Collaborated: ORG
+Sandwich Artist: PERSON
+daily: DATE
+Cleaned: ORG
+Communicated: ORG
+Proofed: ORG
+Security Guard: ORG
+05/2015: PERSON
+Communicated: ORG
+Communicated: ORG
+Inspected: ORG
+Processed: GPE
+Spanish: LANGUAGE
+English: NORP
+Seasonal Field Worker: WORK_OF_ART
+Seasonal: DATE
+every summer: DATE
+2012: DATE
+Mowed: ORG
+2012: DATE
+15%: PERCENT
+4.0: CARDINAL
+GPA: ORG
+Future Farmers of America: ORG
+FFA: ORG
+student council
+Migrnat: ORG
+Texas A&M International University: ORG
+Minor: ORG
+Expected Graduation: ORG
+December 2020: DATE
+Texas A&M International University: ORG
+Minor: ORG
+Community Service: ORG
+Volunteer WBCA: PERSON
+2012: DATE
+2013: DATE
+2014: DATE
+2017: DATE
+Volunteer Food: PRODUCT
+Volunteer Habitat: PRODUCT
+2012: DATE
+2013: DATE
+Volunteer Farmers Market: PRODUCT
+Volunteer: PRODUCT
+2015: DATE
+2016: DATE
+Spanish: LANGUAGE
+English: LANGUAGE
+Careful: PRODUCT
+Multi: GPE

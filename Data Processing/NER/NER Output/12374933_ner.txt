@@ -1,0 +1,257 @@
+Public Trust Clearance: ORG
+10 years: DATE
+Information Technology: ORG
+Spanish: LANGUAGE
+Core Qualifications
+Technical Hardware: Windows: ORG
+Macintosh: ORG
+IBM: ORG
+Dell: ORG
+Toshiba: ORG
+Sony: ORG
+HP: GPE
+Cisco: GPE
+Operating Systems: ORG
+Networks: ORG
+Vista: ORG
+Windows XP: ORG
+2000: DATE
+98: DATE
+Windows Server: PERSON
+2008: DATE
+2003: DATE
+Linux: GPE
+TCP/IP: ORG
+DNS: ORG
+DHCP: ORG
+FTP: ORG
+VPN: ORG
+OS X Lion: ORG
+Microsoft Office: ORG
+2010: DATE
+2007 & 2003: DATE
+Visio: PERSON
+Adobe Acrobat: PERSON
+Photoshop: ORG
+Lotus Notes: ORG
+McAfee Antivirus: ORG
+Trend, Putty, WebEX,: ORG
+Westlaw: PERSON
+Parallels Desktop: FAC
+Microsoft Virtual Server: ORG
+2005: DATE
+VM Infrastructure Client: ORG
+Juniper & Cisco: ORG
+Remedy, Heat: ORG
+Altiris: PERSON
+Jira
+Experience: PERSON
+September 2014: DATE
+November 2014: DATE
+Name City: GPE
+SevOne: ORG
+Troubleshoot: ORG
+Linux: GPE
+Apache Web Server: PERSON
+MySQL: GPE
+PHP: ORG
+SevOne: ORG
+November 2011: DATE
+September 2014: DATE
+Name City: GPE
+State Systems/Test Engineer
+
+Contractor for U.S. Immigration: ORG
+Department of Homeland Security: ORG
+1-3: CARDINAL
+60: CARDINAL
+2,000: CARDINAL
+Active Directory: ORG
+Tested Casetrakker: PERSON
+Setup: ORG
+ITFO: ORG
+Lead Engineer: PERSON
+Maintained: GPE
+3rd: ORDINAL
+CDS: ORG
+Mid-Tier Diagnostics: FAC
+Maintained: GPE
+Microsoft Visio: ORG
+Vcenter: PERSON
+August 2008: DATE
+November 2011: DATE
+Name City: GPE
+State Systems Administrator: ORG
+2: CARDINAL
+400: CARDINAL
+150: CARDINAL
+Performed: ORG
+Active Directory: ORG
+Hardware: ORG
+Ghost: PERSON
+Administered Symantec VERITAS Backup Exec: ORG
+Windows Server: ORG
+2003 & 2008: DATE
+Administer Blackberry Exchange Servers: ORG
+Reset: PRODUCT
+Installed Blackberry: ORG
+Blackberry: ORG
+IPADS: ORG
+LAN: ORG
+LAN/WAN: ORG
+Coordinated: ORG
+Virtual Machines: ORG
+TCP: ORG
+Citrix: GPE
+Microsoft: ORG
+2007: DATE
+50: CARDINAL
+Deployed: PRODUCT
+January 2008: DATE
+April 2008: DATE
+Name City: GPE
+State Analyst: ORG
+3,000: CARDINAL
+HopOne Internet Services: ORG
+Server: ORG
+3,000: CARDINAL
+Server: ORG
+Windows: NORP
+Linux: GPE
+Fedora: GPE
+Red Hat: ORG
+October 2007: DATE
+January 2008: DATE
+Name City: GPE
+State Helpdesk Analyst: ORG
+Department of Defense: ORG
+LAN/WAN: ORG
+2,000: CARDINAL
+80: CARDINAL
+Maintained: GPE
+June 2007: DATE
+October 2007: DATE
+Name City: GPE
+State Project Team Lead: ORG
+Tier 2: PERSON
+11-15: CARDINAL
+daily: DATE
+Windows: NORP
+2003: DATE
+Provided Service Level Agreements: ORG
+Created: ORG
+Troubleshoot: ORG
+October 2006: DATE
+June 2007: DATE
+Name City: GPE
+State Data Analyst: ORG
+medicare: ORG
+Refined Access: ORG
+100: CARDINAL
+Microsoft Access: ORG
+SQL: ORG
+Excel: PRODUCT
+June 2005: DATE
+June 2006: DATE
+Name City: GPE
+State: ORG
+Access: ORG
+SQL: ORG
+Department of Transportation: ORG
+Transferred: PRODUCT
+Access: GPE
+100: CARDINAL
+QA: ORG
+95%: PERCENT
+November 2004: DATE
+May 2005: DATE
+Name City: GPE
+State Contractor: ORG
+300: CARDINAL
+Access: ORG
+30-40: CARDINAL
+daily: DATE
+Stratford University City: ORG
+State: GPE
+US: GPE
+Woodbridge: GPE
+Associate of Applied Science in Network Management and Security: WORK_OF_ART
+October 2014: DATE
+Stratford University City: ORG
+State: GPE
+Network Engineering Stratford University: ORG
+Woodbridge: GPE
+VA: GPE
+10/2014 - Present: DATE
+Maintained: GPE
+Microsoft Visio: ORG
+Certifications: ORG
+Atlanta: GPE
+GA CompTia A+: ORG
+Network Sunset Learning Center Red Hat System Administration: ORG
+RH124: PRODUCT
+Spanish: LANGUAGE
+Skills
+Deployment, Maintenance, Active Directory, Testing, Workstations: ORG
+Access, Technical Support: ORG
+Printers: PERSON
+2003: DATE
+Cases, Documentation: ORG
+Test Cases: ORG
+Backups: PERSON
+Lan: PERSON
+Integration, Integrator: ORG
+Backup Exec: PERSON
+Ghost: PERSON
+Remote Access: ORG
+Tcp: GPE
+Veritas: GPE
+Veritas Backup Exec: PERSON
+Vms, Vpn,: ORG
+Wan
+Troubleshooting: PERSON
+Engineer, Immigration, Inventory: ORG
+Lead Engineer: PERSON
+Microsoft Visio: ORG
+Test Engineer: ORG
+Visio: PERSON
+Vmware: ORG
+Database: GPE
+Sql: GPE
+Qa Process: ORG
+Data Analyst, Design Documentation: ORG
+Excel: PRODUCT
+Medicare: ORG
+Microsoft: ORG
+Word: PERSON
+Acrobat: PERSON
+Adobe Acrobat: PERSON
+Altiris: GPE
+Cisco: GPE
+Comptia: GPE
+Dns: ORG
+Facets: GPE
+Ftp: ORG
+Lotus Notes: ORG
+Microsoft Office: ORG
+Microsoft Office: ORG
+2010: DATE
+Ms Office: ORG
+2010: DATE
+Photoshop: PERSON
+Virtual Machine: ORG
+Virtual Server: PERSON
+Westlaw: PERSON
+Windows Server: PERSON
+2008: DATE
+Windows Xp: PERSON
+Wise: PERSON
+Linux: PERSON
+Team Lead: PERSON
+Data
+Center: ORG
+Router, File,: ORG
+Helpdesk: ORG
+Telephone, Apache,: ORG
+Clients, Migrations: ORG
+Mysql, Php, Solutions: ORG

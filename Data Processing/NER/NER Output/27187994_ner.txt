@@ -1,0 +1,17 @@
+Glencoe High School: ORG
+2002-2006: DATE
+Gadsden State Community College: ORG
+Word Outlook: PERSON
+Word: PERSON
+AS400: PRODUCT
+Advanced: PERSON
+01/2010 - Current
+Company Name: LAW
+State Physical Therapist Technician
+
+Assist: ORG
+daily: DATE
+12/2007 - 01/2009: DATE
+State Floor Worker/Cashier
+
+Assisted: ORG

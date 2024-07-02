@@ -1,0 +1,62 @@
+Detail: PERSON
+5: CARDINAL
+by18 years: DATE
+Team: ORG
+May 2014: DATE
+Medicare: ORG
+Medicare: ORG
+Verify: PRODUCT
+Medicare: ORG
+B.
+Strictly: PERSON
+Examined: NORP
+Customer Service Representative: ORG
+September 2013 to May 2014: DATE
+Medicare: ORG
+Researching: PRODUCT
+formulary: GPE
+Medicare: ORG
+Medicare: ORG
+Surgery Scheduler: PERSON
+March 1999 to June 2013 Company Name: DATE
+Coordinate: ORG
+Arrange: NORP
+Star Panel: ORG
+Verify: PRODUCT
+Notify: ORG
+Billing Office: ORG
+February 1996 to March 1999: DATE
+daily: DATE
+Scanned: PRODUCT
+Electronic: ORG
+Performed: ORG
+annual: DATE
+Pick: PERSON
+Clerk III: PERSON
+January 1995 to February 1996: DATE
+daily: DATE
+Bachelor of Science : Health Care Administration with Concentration in Management: ORG
+1991: DATE
+Health Care Administration: ORG
+June 2016: DATE
+1990: DATE
+Belmont University: ORG
+ï¼​ City: GPE
+Statistical Mathematics: ORG
+Stratford High School: ORG
+French: NORP
+Healthcare: ORG
+Accomplishments Certificate: PRODUCT
+Vanderbilt Training: PERSON
+June 22, 2000: DATE
+Attendance: PERSON
+May 2003, January 2004, March 2004, July 2005: DATE
+August 2005: DATE
+BCBS: ORG
+Excel: PRODUCT
+CPT: ORG
+Completion of Administrative Assistants Conference: ORG
+September 2008: DATE
+Strong: PERSON
+ICD-9: NORP
+CPT: ORG

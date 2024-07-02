@@ -1,0 +1,64 @@
+15+ years: DATE
+Internal Control, Enterprise Risk
+Management: ORG
+GL: ORG
+AP: ORG
+Monitored: ORG
+monthly: DATE
+annual: DATE
+Created: ORG
+Strong: PERSON
+Strength: PERSON
+SEC: ORG
+Budget: ORG
+PeopleSoft: ORG
+Great Plains: WORK_OF_ART
+Mac: PERSON
+Complex: NORP
+Accomplishments
+
+Formally: WORK_OF_ART
+11/2012: CARDINAL
+09/2013: CARDINAL
+Coordinate: FAC
+annual: DATE
+Identify: ORG
+ERP: ORG
+10/2012: CARDINAL
+Accountant Company Name: ORG
+Processed: GPE
+daily: DATE
+Assisted: ORG
+month-end: DATE
+monthly: DATE
+monthly: DATE
+Ajman: GPE
+Sharjah: PERSON
+Prepared: PERSON
+monthly: DATE
+annual: DATE
+QuickBooks: ORG
+30 days: DATE
+Performed: ORG
+8 2013: DATE
+Masters of Business Administration: ORG
+Graduate School of Management ï¼​ City: ORG
+State: GPE
+US: GPE
+2014: DATE
+Graduate School of Management ï¼​ City: ORG
+State: GPE
+US: GPE
+Computerized Accounting New York City College Of Technology New York: ORG
+Skills
+
+Proficient: ORG
+Microsoft Office Suite: ORG
+Access: ORG
+QuickBooks: ORG
+Turbo Tax: ORG
+Vision Accounting Software: ORG
+Peach Tree: PERSON
+Dac-Easy: PERSON
+PeopleSoft: ORG
+Microsoft: ORG

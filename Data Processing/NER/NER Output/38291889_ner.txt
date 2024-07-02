@@ -1,0 +1,70 @@
+Training
+HealthCare Administration- Human Resources: ORG
+2017: DATE
+State: ORG
+Unitted States: GPE
+2009: DATE
+Kaplan University: ORG
+State: GPE
+United States: GPE
+Business Administration Management: ORG
+2007: DATE
+Kaplan University: ORG
+State: ORG
+MBA: WORK_OF_ART
+2011: CARDINAL
+Eric Stoddard Diverse Leaders Program: PERSON
+October 2011: DATE
+Business Administration Management Learning: ORG
+Springfield: GPE
+IL Human Resources: ORG
+Mentor- Jennifer: PERSON
+Cultip Smith: PERSON
+NC: GPE
+Patient Advocate: PERSON
+May 2017: DATE
+Current Company Name: ORG
+State: ORG
+daily: DATE
+Investigates: NORP
+IRIS: ORG
+March 2015: DATE
+Created: ORG
+the Intact Services: ORG
+IncludingÂ: ORG
+five: CARDINAL
+Notify the Purchase Of Service: ORG
+Prepare Billings: ORG
+CFS: ORG
+Created a new Bureau of Operations Intact Family Services Billing Process Manual: ORG
+five: CARDINAL
+Notify the Purchase Of Service: ORG
+Prepare Billings: ORG
+CFS: ORG
+Created: ORG
+SACWIS: ORG
+September 2002 to January 2015: DATE
+Contribute: ORG
+Pre-Screening Candidates for Interviews: PERSON
+Facilitate: ORG
+Hiring Kit: PERSON
+Ensures: LOC
+daily: DATE
+Reviewing: GPE
+daily: DATE
+Billing, Billings: ORG
+Coach: ORG
+Senior Management: ORG
+Hiring, Human Resources: ORG
+Information Security: ORG
+Letters: ORG
+MBA: WORK_OF_ART
+Mentor: GPE
+Mentoring, Access: ORG
+PowerPoint: ORG
+Windows XP: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Generating Reports: PERSON
+MyRounding Application: ORG
+Press Ganey: PERSON

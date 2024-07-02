@@ -1,0 +1,48 @@
+Name City: GPE
+Processed: GPE
+Name City: GPE
+Native American: NORP
+Native American: NORP
+week: DATE
+Name City: GPE
+State Intern 06/2015: ORG
+12/2015: CARDINAL
+Cooperated: ORG
+State: GPE
+United States: GPE
+Valedictorian
+Extracurricular: PERSON
+Peer Helper: ORG
+Athletics: ORG
+Native American: NORP
+Recipient of National College Prep Scholar: ORG
+Quest Bridge: PERSON
+Columbia University: ORG
+City: GPE
+State: GPE
+United States
+
+Graduation: GPE
+May 2020: DATE
+Sept. 2017: DATE
+a first-year: DATE
+Columbia College: ORG
+Indigenous: ORG
+Discuss: PERSON
+Powwow Chair: PERSON
+Native American Council: ORG
+Columbia University: ORG
+2017-Present: DATE
+Native American: NORP
+2017-Dec. 2017: DATE
+month-long: DATE
+Native American: NORP
+annual: DATE
+weekly: DATE
+Skills
+
+Critical Thinking: ORG
+Skills
+Proficient: ORG
+Excel: PRODUCT
+PowerPoint: ORG

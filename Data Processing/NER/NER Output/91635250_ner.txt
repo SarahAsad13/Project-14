@@ -1,0 +1,58 @@
+Christopher Townes: PERSON
+Familiar: PERSON
+Cicso: ORG
+Proficient Information Systems: ORG
+Network Administration: ORG
+Cisco: GPE
+Cisco: GPE
+Cisco: GPE
+Operation Monitoring
+Problem-Solving Skills
+
+Excellent Interpersonal Skills
+End-User Support
+Repair
+Advanced Computer Proficiency
+Industry Needs Awareness
+Contract Review Proficiency
+Company Policy Adherence
+Device Configuration
+Hardware and Software Installation
+Technical Support
+Hardware Updates
+Hardware and Software Problem Diagnosis
+Security Protocols
+Security Oversight
+Speaking
+
+Experience
+Information Technology Specialist 
+City: WORK_OF_ART
+State Company Name / Feb 2015 to Feb 2021: ORG
+Researched: ORG
+Maintained: GPE
+Coordinated: ORG
+Maintained: GPE
+Authored: PERSON
+AV: ORG
+4000: CARDINAL
+Directed: ORG
+Computer Repair: ORG
+State Company Name: ORG
+each evening: TIME
+Lenovo: ORG
+Explained: PERSON
+State Company Name: ORG
+2014: DATE
+Maintained: GPE
+Maintained: GPE
+Employed de-escalation: PERSON
+Maintained: GPE
+man hours: TIME
+daily: DATE
+Monitored: ORG
+Maintained: GPE
+Maintained: GPE
+Maintained: GPE
+daily: DATE
+State: ORG

@@ -1,0 +1,68 @@
+Skills
+
+Budget: ORG
+Advanced: ORG
+Mac: PERSON
+04/2016: PRODUCT
+Current
+Accountant Company Name: ORG
+CFO: ORG
+monthly: DATE
+Coded: ORG
+Researched: ORG
+Accounting Clerk Company Name: ORG
+Suggested: ORG
+Coded: ORG
+Current
+Church Administrator Company Name: ORG
+140,000: MONEY
+annual: DATE
+monthly: DATE
+Pastor: ORG
+Microsoft: ORG
+Church: ORG
+annual: DATE
+year-end: DATE
+Church: ORG
+Attend: ORG
+2,000: MONEY
+weekly: DATE
+Business Banking Online: ORG
+Church: ORG
+semi-monthly: DATE
+100: CARDINAL
+Church: ORG
+Training: PERSON
+January 2014: DATE
+Master's : Business Administration Troy University ï¼​ City , State Business Administration: WORK_OF_ART
+December 2009: DATE
+BBA :: ORG
+Accounting Management Columbus State University: ORG
+State Accounting Management: ORG
+Accountant: ORG
+Adobe Acrobat: PERSON
+Balance: PERSON
+Budget: ORG
+Database: GPE
+FDS: ORG
+Finance: ORG
+Financial, Financial analysis: ORG
+General Ledger, Government: ORG
+Macintosh: ORG
+Mainframe: PERSON
+Access: ORG
+Microsoft Access: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Excel: PRODUCT
+Microsoft Office: ORG
+Outlook: PERSON
+PowerPoint: ORG
+Windows: NORP
+Payroll: ORG
+IBM: ORG
+Policies: GPE
+Program Development: ORG
+QuickBooks: ORG
+annual: DATE
+year-end: DATE

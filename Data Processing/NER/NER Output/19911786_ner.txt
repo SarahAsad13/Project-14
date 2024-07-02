@@ -1,0 +1,67 @@
+Project Management: ORG
+Training: PERSON
+Jan 2008: DATE
+ProEquities: ORG
+Coordinate: FAC
+Coordinate: ORG
+BDU: ORG
+PowerPoint: ORG
+ProEquities: ORG
+Jan 2005: DATE
+Jan 2007: DATE
+Alabama Stock Market Game: ORG
+Coordinated: ORG
+Coordinated: ORG
+Promoted: PERSON
+Coordinated day-to: LAW
+Assist: NORP
+Jan 2003 to Jan 2004: DATE
+Yellow Page: ORG
+White Page: ORG
+Coordinated: ORG
+700: CARDINAL
+eight: CARDINAL
+Provided: ORG
+Jan 2001: DATE
+Formulated: ORG
+Developed: ORG
+Recruited: PRODUCT
+Provided: ORG
+Workforce Development Specialist / Continuing Education: ORG
+Jan 1998 to Jan 2001: DATE
+Workforce Development Center: ORG
+Developed: ORG
+Formulated: ORG
+Recruited: PRODUCT
+Jan 1996 to Jan 1998: DATE
+Recruited: PRODUCT
+Developed: ORG
+annual: DATE
+quarterly: DATE
+Directed Birmingham Chapter: ORG
+Territory: PERSON
+Jan 1994 to Jan 1996: DATE
+Developed: ORG
+Assisted: ORG
+ERC: ORG
+Recognition Committee: ORG
+PROEQUITIES: GPE
+BOY SCOUTS: PERSON
+BOY: PERSON
+SCOUTS OF AMERICA - VULCAN DISTRICT - Certified Trainer: ORG
+Certified Trainer: PERSON
+Bachelor of Arts Degree: ORG
+Public Relations/Speech Communication Journalism AUBURN UNIVERSITY: ORG
+State Public Relations/Speech
+Communication Journalism
+Completed Certificate Program: ORG
+Project Management UNIVERSITY OF ALABAMA: ORG
+Interests: NORP
+Co-Chair: ORG
+Educational Event
+Skills: WORK_OF_ART
+COUNCIL: ORG
+PowerPoint: ORG
+Page: PERSON
+Project Management: ORG
+Trainer: ORG

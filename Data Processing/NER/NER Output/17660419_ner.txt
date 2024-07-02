@@ -1,0 +1,49 @@
+2005: DATE
+2: CARDINAL
+North Park University: ORG
+Schwinn Cycling: ORG
+Group Power: ORG
+Group Step: ORG
+Group Active: ORG
+Group Core: ORG
+R30: ORG
+Group Groove: ORG
+Shockwave: GPE
+Arthritis Chair: PRODUCT
+2005: DATE
+North Park Univeristy: GPE
+2013: DATE
+Galter LifeCenter: ORG
+Newsletter: ORG
+2010: DATE
+Guest Lecturer 
+Company Name
+
+: PERSON
+Strength: PERSON
+2013: DATE
+2014: DATE
+2014: DATE
+January 2014: DATE
+Galter LifeCenter: ORG
+the day: DATE
+the Fitness Specialists, Fitness
+Coaches,: ORG
+Interns, Fitness Consults: ORG
+Galter LifeCenter: PERSON
+January 2011: DATE
+1: CARDINAL
+North Park University Physical Education: ORG
+1 2003: DATE
+North Park University Psychology and Sports Medicine Fitness
+Management
+Languages: ORG
+English: LANGUAGE
+Spanish: NORP
+Skills: ORG
+Council: ORG
+English: LANGUAGE
+Instructor: ORG
+Spanish: NORP
+Professional Affiliations: ORG
+2005: DATE

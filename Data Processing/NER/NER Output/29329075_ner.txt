@@ -1,0 +1,58 @@
+Career Overview
+
+Committed: WORK_OF_ART
+Executive Administration Develop Result Oriented Procedures Operation Management National Talent Consultant
+Organizational Consulting Performance Expansion Strategic Business Marketing/Planning ROI & Profit: ORG
+Microsoft: ORG
+Suite Programs: PERSON
+Desktop Publishing Internet Usage Office Management Create Procedures: ORG
+Rainbow Push Coalition National Action Network United Institution Baptist Church Philathea Ministry Central Union Missionary: ORG
+Cheryl: PERSON
+George Curry: PERSON
+Porter: PERSON
+Julianne Malveaux: PERSON
+Emeriti-Bennett College: ORG
+Porter: PERSON
+Jesse L. Jackson: PERSON
+OPERATIONS: ORG
+Transfer Recruiter/Admissions Counselor 01/2014: PERSON
+Name City: GPE
+08/2011: CARDINAL
+12/2013: CARDINAL
+Name City: GPE
+Maintain: PERSON
+monthly: DATE
+daily: DATE
+10/2011: CARDINAL
+Name City: GPE
+CMO: ORG
+Virtual Executive: ORG
+12/2009: CARDINAL
+Name City: GPE
+Collaborated: ORG
+Compile: PRODUCT
+monthly: DATE
+hours: TIME
+10/2009: CARDINAL
+Name City: GPE
+State: ORG
+Jackson Park: GPE
+270: CARDINAL
+over 1 million: CARDINAL
+Created: ORG
+11/1985 to 12/1997: DATE
+Name City: GPE
+The Metropolitan Water Reclamation District of Greater Chicago: ORG
+approximately 91 percent: PERCENT
+Cook County: GPE
+Illinois: GPE
+Cook County: GPE
+IL: ORG
+Illinois: GPE
+IL: ORG
+Doubles: PRODUCT
+Business Communications - Area of Study G.M.O.R. Theological Institute Counseling & Pastoral Care - Area of Study: ORG
+Timothy J. O'Connor: PERSON
+AFFLIATIONS & COMMUNITY SERVICE Professional Endorsements: ORG
+Business Communications: ORG
+Focus: ORG

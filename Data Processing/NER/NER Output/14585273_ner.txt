@@ -1,0 +1,41 @@
+10 years: DATE
+over 1
+million square feet: CARDINAL
+over 1,000: CARDINAL
+leasingÂ andÂ collectionsÂ: ORG
+a Facilities Specialist/ Property: ORG
+Commercial: ORG
+Microsoft Office: ORG
+Accomplishments
+Decreased: PRODUCT
+annual: DATE
+each year: DATE
+Construction Services Project: ORG
+Negotiate: ORG
+2000: DATE
+250: CARDINAL
+Oversaw: GPE
+200: CARDINAL
+daily: DATE
+55: CARDINAL
+12: CARDINAL
+395 acres: QUANTITY
+Bachelor of Science DELAWARE VALLEY COLLEGE: ORG
+City: GPE
+the NJ Dept of Economic Development: ORG
+Greenfields" Asset Management and Disposition Seminars: ORG
+FDIC/RESOLUTION TRUST CORPORATION: ORG
+Valley Forge: PERSON
+Asset Management: ORG
+Appraisal
+Standards: PERSON
+Commercial Financing: ORG
+Loan: ORG
+Professional Appraisal, Finance: WORK_OF_ART
+Pennsylvania Real Estate
+License
+Skills
+Asset Management: ORG
+MS Office: ORG
+Excel PowerPoint: PRODUCT
+Due Diligence, Finance: PERSON

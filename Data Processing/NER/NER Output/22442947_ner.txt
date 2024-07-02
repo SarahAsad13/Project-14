@@ -1,0 +1,59 @@
+CONCOURSE: ORG
+Skills
+Strategic planning
+Team: ORG
+Time Management
+Conflict Resolution
+Adaptability
+Ability: ORG
+Microsoft: ORG
+Spreadsheet: ORG
+Microsoft: ORG
+Microsoft: ORG
+2: CARDINAL
+the last 5 years: DATE
+Established: ORG
+12/2013: CARDINAL
+Current
+Passenger Service Concourse Manager Company: ORG
+8: CARDINAL
+Communicated: ORG
+Maintained: GPE
+daily: DATE
+Delta: ORG
+the day: DATE
+Delta: ORG
+Fulfill: PERSON
+Provide: NORP
+daily: DATE
+Coach: ORG
+daily: DATE
+Communicate: ORG
+daily: DATE
+Client: GPE
+daily: DATE
+10 to: CARDINAL
+14: CARDINAL
+3: CARDINAL
+35: CARDINAL
+7 day: DATE
+Communicated: ORG
+CBP
+Responsible: ORG
+regularlyÂ: PERSON
+09/2010: PERSON
+Execute: ORG
+03/2009: GPE
+Execute: ORG
+Training: PERSON
+2003: DATE
+State: ORG
+USA Academics
+Technical Skills: ORG
+9 months (2014: DATE
+CBP: ORG
+CBP: ORG
+weekly: DATE
+CBP: ORG
+Maintained Red/Black: ORG
+weekly: DATE

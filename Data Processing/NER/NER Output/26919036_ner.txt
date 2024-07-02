@@ -1,0 +1,65 @@
+404: CARDINAL
+Skills: ORG
+Customer Service: ORG
+Demonstrate: ORG
+14 years: DATE
+Process Improvement
+Proven Project Management Skills: WORK_OF_ART
+1 year: DATE
+Current Company Name
+
+: ORG
+Launched a Core Team: ORG
+20: CARDINAL
+Q1 44% - Q2 64%: PERCENT
+9.73%: PERCENT
+South: LOC
+83%: PERCENT
+Verizon: ORG
+Audit and Certify: LAW
+VES: ORG
+Verizon Business & Government Customer Operations Supervisor Account Management (Global Enterprise Advisors: ORG
+12/2014: CARDINAL
+Name City: GPE
+monthly: DATE
+Led Self-Serve Execution: ORG
+the South Area: LOC
+88%: PERCENT
+87%: PERCENT
+404: CARDINAL
+2: CARDINAL
+2: CARDINAL
+Global
+Enterprise Advisor: ORG
+100: CARDINAL
+69% to 100%: PERCENT
+June and July: DATE
+15: CARDINAL
+Supervisor Account: PERSON
+National: ORG
+the Business Sales Channel: ORG
+Workflow: ORG
+National Account Business Service: ORG
+intraday: TIME
+Evaluate: ORG
+daily: DATE
+Training
+
+Bachelor of Arts: PERSON
+1984: DATE
+Mercer University City: ORG
+State Communications: ORG
+Skills
+Account Management: ORG
+August and October: DATE
+1: MONEY
+4th Quarter: DATE
+2009: DATE
+Winner: PERSON
+Circle Award: PERSON
+Alltel Migration: ORG
+OneSource: ORG
+Supervisor Enrichment Leadership Fundamentals: ORG
+Alltel Migration Project NSA Account Team: ORG
+June 2004 - Mar 2005: DATE
+May 2000 - June 2004: DATE

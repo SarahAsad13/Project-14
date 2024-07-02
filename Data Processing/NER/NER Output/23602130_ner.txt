@@ -1,0 +1,30 @@
+Detail: PERSON
+Event Coordinator: ORG
+the West Coast: LOC
+6 years: DATE
+Prioritization
+Clear: WORK_OF_ART
+Time: ORG
+Skills
+
+Desktop Publishing Software: ORG
+Microsoft Office: ORG
+Current
+Marketing and Special Events Coordinator Company Name: ORG
+daily: DATE
+08/2009: CARDINAL
+12/2009: CARDINAL
+Created: ORG
+Communicated: ORG
+Assisted: ORG
+Bronx: GPE
+Central Park Zoo Special Events Intern Company Name: ORG
+the Annual Gala: EVENT
+Corporate Outings: ORG
+Pitched: NORP
+2009: DATE
+BBA: ORG
+City: GPE
+3.74: CARDINAL
+Magna Cum Laude: PERSON
+Sigma Beta Delta International Honors Society: WORK_OF_ART

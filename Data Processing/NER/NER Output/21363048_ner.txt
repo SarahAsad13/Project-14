@@ -1,0 +1,142 @@
+15 years: DATE
+Florida: GPE
+Performa: PERSON
+A&E: ORG
+City: GPE
+County: GPE
+Construction Services: ORG
+Skill Highlights: PERSON
+Building Additions
+
+Residential Renovations
+
+Experienced Cost Estimator: WORK_OF_ART
+Commercial Builds: PERSON
+Core Accomplishments
+
+Direct Communicator: WORK_OF_ART
+$10: MONEY
+Cocoa Beach: GPE
+Building the Town Hall for the City of West Melbourne: WORK_OF_ART
+20,000: CARDINAL
+the Sea Aattraction Conversion: LAW
+10-year: DATE
+Integrated Facility Plan: EVENT
+Walt Disney World: ORG
+Youngest City Executive: ORG
+Texas: GPE
+5%: PERCENT
+Engineers: ORG
+Air Force Service: ORG
+Disney: ORG
+1999: DATE
+Award Key: PERSON
+the City of Waco: GPE
+TX: ORG
+School Board of Brevard County Construction Achievement Award: ORG
+American Society of Mechanical Engineers: ORG
+American Public Works Association: ORG
+04/2014: CARDINAL
+Facilities and Construction Company Name: ORG
+State: ORG
+Provided day to day: DATE
+Site Development and New Location Selection Coordinator: ORG
+Property Mangers: ORG
+16: CARDINAL
+Directed the Architects and Engineers: WORK_OF_ART
+Energy Management Programs- Saving the Company: ORG
+23%: PERCENT
+KWH: ORG
+just 8 months: DATE
+Provided Construction Engineering Consulting: ORG
+Project Management Consulting: ORG
+General Contracting Services: ORG
+Church Gymnasium: PERSON
+Sports Facilities: ORG
+Multi-Tenant Construction Projects: ORG
+Family Home Construction: ORG
+Restaurant Additions/ Renovations: PERSON
+Public Works Facilities: ORG
+School
+
+Expansions: ORG
+Portable Water: WORK_OF_ART
+Smokey Bones Restaurants: ORG
+Melbourne City Hall: FAC
+Altamont Springs Public Annex: ORG
+Multi - Chiller: PERSON
+Melbourne Fire Administration Building: ORG
+Operation Fire Station: FAC
+30,000 Square Foot Nested: QUANTITY
+Runway: ORG
+Historic Court: ORG
+07/2004: CARDINAL
+the South East Division of Production Resource Group: ORG
+Entertainment Technology Provider: ORG
+PRG: ORG
+Lighting, Audio: ORG
+Scenic: ORG
+Labor: ORG
+Super Bowl: EVENT
+Grammy: GPE
+MTV: ORG
+Music Video Awards: ORG
+Large Concert Events - Madonna: PERSON
+Rolling Stones, Eagles: ORG
+U2: GPE
+Cold Play: PERSON
+Scenic Venues: ORG
+- Disney Parade Enhancement: ORG
+Cinderella: PERSON
+Castle Show: FAC
+Paramount Parks Christmas Show: ORG
+07/2004: CARDINAL
+Facilities Engineering Company Name: ORG
+the Engineering Services Department: ORG
+100: CARDINAL
+Walt Disney World - Magic Kingdom: ORG
+day: DATE
+Magic Kingdom Complex: LOC
+Managed Department Budget: ORG
+16: MONEY
+Magic Kingdoms: PERSON
+Design and Engineering: ORG
+Recruited: PRODUCT
+Contractors and Sub-Contractors: WORK_OF_ART
+Rotational Park Duty: FAC
+Space Mountain
+Ride System Upgrade: LOC
+Fantasy Land Improvements: ORG
+Mountain Rehab: PERSON
+Adventureland: GPE
+Area Development: ORG
+Cinderella: PERSON
+Castle Rehab: PERSON
+Stitches Great Escape: PERSON
+Crystal Palace Major
+Renovation: ORG
+Emporium Expansion: ORG
+Main Street CafÃ: FAC
+Rehab: ORG
+Out Door Foods Facility: ORG
+2004: DATE
+MBA: WORK_OF_ART
+Masters Business Administration University: ORG
+California Polytechnic State University: ORG
+State Mechanical Engineering: ORG
+Contractor License: PERSON
+CUC Advanced: ORG
+MOT (Traffic Management for road: ORG
+Confined Space Certification (Lift Station: ORG
+Interests: NORP
+PlayingÂ Soccer: PERSON
+Hobby Farming
+: PERSON
+Mechanical Engineering: ORG
+Contractor License: PERSON
+the past 20 years: DATE
+Energy Efficiency, Energy Management: ORG
+New Builds: GPE
+Renovations, Building Add-Ons: ORG
+30,000: MONEY
+$30 Million: MONEY

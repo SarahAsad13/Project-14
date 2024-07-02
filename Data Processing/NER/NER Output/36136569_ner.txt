@@ -1,0 +1,84 @@
+SR: ORG
+PROJECT MANAGEMENT: ORG
+Project Administrator: ORG
+14+ years': DATE
+Time: ORG
+Schedule: PERSON
+more than one: CARDINAL
+Schedule: PERSON
+Problem: PRODUCT
+Microsoft Office: ORG
+Project Management Associate: ORG
+November 2010: DATE
+Current Company Name - City: ORG
+Barbie Product Development Manage: ORG
+over 2 million dollars: MONEY
+annually: DATE
+Facilitate: ORG
+weekly: DATE
+China: GPE
+Indonesia: GPE
+Barbie: PERSON
+April 2008 to November 2010: DATE
+three: CARDINAL
+the Girls Inc.
+Design: ORG
+Coordinate: FAC
+AV: ORG
+Create: ORG
+AP: ORG
+Girls Inc.
+Design: ORG
+Design VP: ORG
+Managers: ORG
+Prepare: ORG
+monthly: DATE
+May 2007 to August 2007: DATE
+one: CARDINAL
+three: CARDINAL
+Nissan: ORG
+Infiniti: ORG
+Coordinate: FAC
+AV: ORG
+OMD: ORG
+4 Client: ORG
+Intern: ORG
+September 2006 to January 2007: DATE
+over 400: CARDINAL
+Prepare Press Release: ORG
+Keep: PERSON
+March 2006 to September 2006: DATE
+Demonstrate: ORG
+hourly: TIME
+Project Administrator: ORG
+October 1999: DATE
+February 2006: DATE
+Barbie Product Development/Samples Administrator Manage: ORG
+Barbie: PERSON
+Orient Plant: LOC
+US: GPE
+10%: PERCENT
+Assist the Marketing Team: ORG
+Attend Domestic Toy Fair Shows: ORG
+Girls Brands: ORG
+Barbie: PERSON
+Fashions: PERSON
+2004: DATE
+Excellent Customer Service: ORG
+Business Management: ORG
+05/2010 University of Phoenix Business Management: ORG
+Merchandising and Design: WORK_OF_ART
+9/07: CARDINAL
+American Intercontinental University - City: ORG
+State Merchandising and Design
+Business Administration Marketing: ORG
+5/98: CARDINAL
+California State University - City: ORG
+State Business Administration Marketing: ORG
+Agile: ORG
+AP: ORG
+Client: PERSON
+Excellent Customer Service: ORG
+Multi: GPE
+Press: ORG
+Product Development: ORG

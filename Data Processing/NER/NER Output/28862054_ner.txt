@@ -1,0 +1,145 @@
+five years': DATE
+Jun 2016: PERSON
+weekly: DATE
+weekend: DATE
+Develop: ORG
+Twitter: PERSON
+YouTube: ORG
+Feb 2014: DATE
+May 2015: DATE
+Pinnacle Award: WORK_OF_ART
+the Cincinnati Region: ORG
+Quarter One 2015: DATE
+250%: PERCENT
+Assisted: ORG
+hours: TIME
+daily: DATE
+Applied: ORG
+2013: DATE
+30: CARDINAL
+Charlotte Motor Speedway's: ORG
+Store of the Year: WORK_OF_ART
+Best Buy Co, Inc.: ORG
+2012: DATE
+Top Store of the
+Month: WORK_OF_ART
+2011-2014: DATE
+Richmond: GPE
+Charlotte: GPE
+NC: GPE
+Muncie: ORG
+District 14: FAC
+Carolina District: LOC
+one: CARDINAL
+two: CARDINAL
+Charlotte: GPE
+NC: GPE
+Outcomes: GPE
+12-month: DATE
+Top Store of the Quarter: WORK_OF_ART
+T-4: ORG
+March 2013: DATE
+Continually: ORG
+weekly: DATE
+one: CARDINAL
+Managed Profit & Loss: ORG
+three: CARDINAL
+12: CARDINAL
+each year: DATE
+10: CARDINAL
+1,000: MONEY
+Public Relations/Social Media: ORG
+Department of Athletics: ORG
+May 2016: DATE
+Indiana University: ORG
+Indiana University East: ORG
+IU East: ORG
+IU East Athletics: LOC
+Twitter: PRODUCT
+Facebook, Instagram: ORG
+Organize: GPE
+Bachelor of Science , Business Administration: ORG
+August 2015: DATE
+Indiana University Business Administration: ORG
+Professional Affiliations: ORG
+Indiana University East Alumni Board of Directors: ORG
+July 2015-Present: DATE
+the Indiana University Alumni Association: ORG
+August: DATE
+2015-Present: DATE
+Michael Coyle - 2: PERSON
+Interests
+Indiana University East: ORG
+Men's & Women's Track & Field: ORG
+Spring 2015-Present: DATE
+Cross Country: ORG
+Fall 2015-Present: DATE
+USATF Level 1 Certification Completed: ORG
+8-month: DATE
+Academy for Cultivating Talent - Center for Leadership Development: ORG
+Indiana: GPE
+University East School of Business: ORG
+August 2014-April 2015: DATE
+Alumni Tomorrow: WORK_OF_ART
+July 2015-: DATE
+Emcee: ORG
+Campus Life and External Affairs: ORG
+August 2013-August 2015: DATE
+Olympics: EVENT
+Richmond High School: ORG
+March 2015: DATE
+4 year: DATE
+Social Media
+Coordinator for Student Activities Advisory Team: ORG
+August 2011-August 2015: DATE
+Community Volunteer: PERSON
+annual: DATE
+Reid Health: ORG
+thousands: CARDINAL
+Richmond: GPE
+2012-Present: DATE
+Volunteer: PERSON
+Richmond Parks & Recreation City Fit: ORG
+2012: DATE
+2014: DATE
+2015: DATE
+Volunteer: PERSON
+United Way: ORG
+May 2013: DATE
+Skills: ORG
+Indiana University: ORG
+Men's & Women's Track & Field: ORG
+Spring
+: DATE
+2015-Present: DATE
+Cross Country: ORG
+Fall 2015-Present: DATE
+USATF Level 1 Certification Completed: ORG
+8-month: DATE
+Indiana University East School of Business: ORG
+August 2014-April 2015: DATE
+Alumni Tomorrow: WORK_OF_ART
+July 2015-Present: DATE
+Emcee: ORG
+Campus Life and External Affairs: ORG
+August 2013-August 2015: DATE
+Olympics: EVENT
+Richmond High School: ORG
+March 2015: DATE
+4 year: DATE
+Social Media Coordinator: ORG
+August 2011-August 2015: DATE
+Community Volunteer: PERSON
+annual: DATE
+Reid Health: ORG
+thousands: CARDINAL
+Richmond: LOC
+2012-Present: DATE
+Volunteer: PERSON
+Richmond Parks & Recreation City Fit: ORG
+2012: DATE
+2014: DATE
+2015: DATE
+Volunteer: PERSON
+United Way: ORG
+May 2013: DATE

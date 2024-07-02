@@ -1,0 +1,138 @@
+Media Buyer: ORG
+4+ years: DATE
+Media: GPE
+TAM: ORG
+IRS: ORG
+Indian: NORP
+Target Group Index: ORG
+Google Analytics: ORG
+Microsoft Excel: ORG
+Powerpoint: ORG
+Outlook, Project: ORG
+Visio: PERSON
+SQL: PERSON
+Structured Query Language: ORG
+Core Java: PERSON
+SAP MM: ORG
+Windows 7: ORG
+Windows Vista: NORP
+Windows XP: ORG
+Apple OS X. Strong Interpersonal: ORG
+FMCG: ORG
+Automobile: ORG
+MBA: WORK_OF_ART
+International Business: ORG
+Marketing and Finance: ORG
+Masters in Management Information Systems: ORG
+US: GPE
+Database: GPE
+Highlights: GPE
+CSS: ORG
+Database Tools: ORG
+Retrieving Tools: PERSON
+Google Analytics: ORG
+TAM: ORG
+TGI: ORG
+RAM: ORG
+IRS: ORG
+Windows Vista: NORP
+Windows XP: ORG
+Apple OS X.
+
+Accomplishments
+
+Project Title Hospital Database Management System Course Database Design and Implementation Problem Lack of Centralized Database
+System: ORG
+Hospital: ORG
+SQL Summary: ORG
+Relational Database System: ORG
+ER: ORG
+Schema: PERSON
+Tools: PERSON
+MySQL Project Title Accounts Receivable Application: ORG
+ARA: ORG
+IBM: ORG
+Solution Mainframe: PERSON
+ARA: ORG
+IBM: ORG
+Java: PERSON
+Java: PERSON
+Sequence: ORG
+GUI Samples Tools: PERSON
+Ms Visio: PERSON
+Ms Project: PERSON
+2010: DATE
+Java JDK: PERSON
+Business Objects: ORG
+Web Logic Project Title ERP
+Implementation for a Regional: ORG
+Solution ERP: LOC
+ERP: ORG
+Finance: ORG
+Tools Suggested SAP S&D: PERSON
+MM: GPE
+Modules: PERSON
+07/2014: CARDINAL
+Google: ORG
+Job Responsibilities Managing Clients: ORG
+Design and Implement Event Plans Monitor: ORG
+Advertising and Marketing activities Manage Reports: WORK_OF_ART
+Send Weekly: ORG
+monthly: DATE
+Attend Pitch Meetings: ORG
+04/2013: CARDINAL
+11/2013: CARDINAL
+Clients Advertising Budget: ORG
+Media: NORP
+Job Responsibilities Division: ORG
+Competition Analysis: ORG
+Target: ORG
+first: ORDINAL
+Regular Team Meetings: ORG
+Generating MIS: PERSON
+weekly: DATE
+Post Evaluation: ORG
+12/2011: CARDINAL
+04/2013: CARDINAL
+Job Responsibilities Division: ORG
+first: ORDINAL
+Media: GPE
+Finalising the Rates: WORK_OF_ART
+Post Evaluation: ORG
+Mudra Role: LOC
+12/2011: CARDINAL
+Media: NORP
+Target: ORG
+first: ORDINAL
+Generating MIS: PERSON
+weekly: DATE
+Post Evaluation: ORG
+MBA: WORK_OF_ART
+International Business MIS Management Information Systems National University: ORG
+GPA: ORG
+International Business GPA: ORG
+10/4: CARDINAL
+MIS
+Management Information Systems: ORG
+GITAM University: ORG
+GPA: ORG
+GPA: ORG
+6/4: CARDINAL
+GPA: ORG
+6/4: CARDINAL
+Singing, Socializing: WORK_OF_ART
+Apple, Budget: ORG
+CSS: ORG
+Database: GPE
+Google Analytics: ORG
+JAVA: PERSON
+Meetings: GPE
+Windows: NORP
+Windows XP: ORG
+MIS: ORG
+Media: GPE
+Operating Systems: ORG
+RAM: ORG
+Singing: GPE
+SQL: GPE
+Vista: ORG

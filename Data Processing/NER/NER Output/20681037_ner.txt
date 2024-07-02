@@ -1,0 +1,32 @@
+Dedicated Customer Service Representative: ORG
+Bilingual: GPE
+Spanish: NORP
+Reliable
+
+Strong: WORK_OF_ART
+Team: ORG
+Flexible
+
+Accomplishments
+
+Best Cashier: WORK_OF_ART
+3: CARDINAL
+Maintained: GPE
+12/2010: CARDINAL
+06/2008: ORG
+Cashier Company Name: ORG
+Community Service: ORG
+Volunteer: PRODUCT
+Samaritan Community Center-2012
+
+: ORG
+2010: DATE
+GED Bentonville High School ï¼​ City: ORG
+Skills
+
+Computer: ORG
+XP: ORG
+PowerPoint: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Outlook: PERSON

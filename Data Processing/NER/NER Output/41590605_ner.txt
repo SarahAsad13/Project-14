@@ -1,0 +1,159 @@
+Skill Highlights: PERSON
+Promotional: ORG
+Problem: PRODUCT
+12/2010: CARDINAL
+Detroit: GPE
+Freelance Publicist: ORG
+New Business Development Company Name: ORG
+Freelance Social Media Marketing Manager Company: ORG
+daily: DATE
+04/2013: CARDINAL
+06/2013: CARDINAL
+Freelancer Company Name: WORK_OF_ART
+Twitter: PERSON
+Michigan F.A.S.H.
+Fest: ORG
+Michigan: GPE
+10/2009: CARDINAL
+10/2011: CARDINAL
+Search Engine Optimization: ORG
+12/2010: CARDINAL
+10/2008: CARDINAL
+Style Writer/Event: PERSON
+State: ORG
+Spring/Summer 2009: EVENT
+Mercedes-Benz New York Fashion Week: ORG
+Style
+Writer: PERSON
+the Michigan Chronicle: ORG
+The Michigan FrontPage: FAC
+September 19, 2008: DATE
+AKA: ORG
+Detroit: GPE
+2008: DATE
+Fuzion Magazine: ORG
+06/2008: ORG
+Associate Company Name ï¼​ City: WORK_OF_ART
+Downtown Center Business Improvement Development: ORG
+DCBID: ORG
+Experian: NORP
+Los Angeles Urban League: ORG
+Los Angeles Times: ORG
+Los Angeles Business Journal: ORG
+Orange County: GPE
+Pepperdine University: ORG
+remaining 2008: DATE
+5: CARDINAL
+weekly: DATE
+weekly: DATE
+12/2007: CARDINAL
+Hyundai Motor America: ORG
+Hyundai: ORG
+BMW Group: ORG
+12: CARDINAL
+Hyundai Communication Summits: ORG
+2007: DATE
+Ketchum Kudos: PERSON
+PR Week: EVENT
+daily: DATE
+weekly: DATE
+weekly: DATE
+monthly: DATE
+Status Sheets: ORG
+monthly: DATE
+Hyundai: ORG
+Hyundai: ORG
+monthly: DATE
+BMW Group: ORG
+Hyundai: ORG
+Intern Company Name: ORG
+daily: DATE
+National and Local: ORG
+WhiteWave Foods: ORG
+Horizon Organic: ORG
+ConAgra: PERSON
+DAVID Sunflower Seeds: PERSON
+Hebrew National, Healthy Choice: ORG
+Best Buy-Geek Squad: ORG
+Scott Flushability-Halftime Flush: PERSON
+Jim Beam: ORG
+Sauza: NORP
+daily: DATE
+weekly: DATE
+Quick View: FAC
+PR Newswires: ORG
+Facilitated: ORG
+Geek Squad: ORG
+Award Grand Prize: WORK_OF_ART
+Coordinated: ORG
+VIVA Towels: ORG
+04/2006: CARDINAL
+Intern Company Name: ORG
+Sundance Film Festival: WORK_OF_ART
+Frigidaire "Glacier Lounge: ORG
+Clothes Off Our Back: ORG
+Kraft: ORG
+Milk Web: PERSON
+Wine Market Council: ORG
+Pitched: NORP
+National and Local: ORG
+28: CARDINAL
+Kraft Singles: ORG
+Staffed Frigidaire/Electrolux: ORG
+KBIS: ORG
+12/2005: CARDINAL
+Lori: PERSON
+07/2004: CARDINAL
+97%: PERCENT
+Collaborated: ORG
+05/2004: CARDINAL
+Intern Company Name: ORG
+Maintained: GPE
+weekly: DATE
+May 2005: DATE
+Bachelor: ORG
+City: GPE
+2007: DATE
+Ketchum Silver Kudos Award: PERSON
+Hyundai: ORG
+Veracruz Launch: PERSON
+2007: DATE
+Hyundai: ORG
+Kelly: PERSON
+Trivia A Go-Go Promotion: WORK_OF_ART
+2007: DATE
+Hyundai: ORG
+Seek: PERSON
+2007: DATE
+a New Brand Identity: ORG
+Headliner Award: PERSON
+Ketchum: PERSON
+Ketchum: PERSON
+Michigan: GPE
+the Week Awards
+Recognition of Excellence Award: EVENT
+Frigidaire: ORG
+Sundance Film Festival Event
+
+Computer Skills: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Outlook, Works: ORG
+OneNote: ORG
+Entourage: PERSON
+HootSuite: ORG
+Canvas: PRODUCT
+Tweet Deck: PERSON
+Factiva: ORG
+Lexis-Nexis: PERSON
+Bacon: ORG
+MediaSource: ORG
+Adobe Photoshop: PERSON
+InDesign: ORG
+Acrobat: PERSON
+MAC Software/Programs: ORG
+SAP: ORG
+PR Trak: ORG
+Roxio: PERSON

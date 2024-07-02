@@ -1,0 +1,75 @@
+Articulate: ORG
+Education: ORG
+Bachelor of Science : Accounting and Information Management University of Texas: ORG
+Dallas: GPE
+Bachelor of Arts : Psychology University of Texas: ORG
+Dallas: GPE
+Variance Analysis: PERSON
+G&A: ORG
+COGS Accounting
+Cash Forecasting
+Capitalization: ORG
+Superior: ORG
+Intermediate Excel Skills: PRODUCT
+Pivot Tables: PRODUCT
+Netsuite: ORG
+Quickbooks: ORG
+Cognos Impromptu: PERSON
+JDEdwards: ORG
+AS400: PRODUCT
+BNA Fixed Assets: ORG
+BusinessObjects Crystal: ORG
+Hyperion Essbase: ORG
+Name City: GPE
+monthly: DATE
+â—​ Â Analyze: FAC
+Research: ORG
+â—​ Â Monitor: FAC
+daily: DATE
+weekly: DATE
+â—​ Â Record: FAC
+monthly: DATE
+â—​ Â Forecast: PRODUCT
+yearly: DATE
+monthly: DATE
+quarterly: DATE
+25 %: PERCENT
+Accountant 09/2008: PERSON
+12/2012: CARDINAL
+AS400: PRODUCT
+year: DATE
+Coordinated: ORG
+monthly: DATE
+Prepared year-end: DATE
+annual: DATE
+yearly 1099: DATE
+1099: DATE
+IRS: ORG
+quarterly: DATE
+annual: DATE
+Innovated: ORG
+Coordinated: ORG
+Name City: GPE
+State: ORG
+BNA: ORG
+Organized: ORG
+26: CARDINAL
+monthly: DATE
+weekly: DATE
+Accounts Payable: ORG
+daily: DATE
+Researched: ORG
+Name City: GPE
+State Accounting: ORG
+Prepared: PRODUCT
+daily: DATE
+monthly: DATE
+Performed: ORG
+monthly: DATE
+monthly: DATE
+yearly: DATE
+weekly: DATE
+Prepared: PERSON
+daily: DATE
+24: CARDINAL
+Performed: ORG

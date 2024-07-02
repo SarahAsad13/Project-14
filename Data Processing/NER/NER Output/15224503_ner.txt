@@ -1,0 +1,111 @@
+Skill Highlights: PERSON
+Skills Office: ORG
+MS Word: PERSON
+Excel: PRODUCT
+PowerPoint: ORG
+Access Systems: ORG
+Business Objects: ORG
+FCI: ORG
+FC Links: ORG
+FEC: ORG
+CORE: ORG
+SAM
+Professional Experience
+Senior Manager -National Sales Finance: ORG
+April 2005: DATE
+Current Company Name: ORG
+Control National Sales revenue &: ORG
+Manage Litigation: ORG
+Legal: GPE
+FA Compensation Information Technology
+Organization & implementation: ORG
+FA Compensation Dept: WORK_OF_ART
+Redefined &: ORG
+SOX: ORG
+3: CARDINAL
+January 2010: DATE
+Current Company Name: ORG
+FC Compensation Specialist: ORG
+October 1997 to March 2005: DATE
+Special Compensation & Deferred Compensation Programs: ORG
+Special Compensation loans & Deferred Compensation: ORG
+Prepare Department Sarbanes Oxley: ORG
+Team: ORG
+GL: ORG
+Establish: NORP
+GL: ORG
+GL Accounts: ORG
+Contribute: ORG
+Special Compensation Loans
+Generate: ORG
+monthly: DATE
+monthly: DATE
+Monthly: DATE
+SB: ORG
+Citibank: ORG
+Associates First
+: ORG
+Coordinated: ORG
+Analysis of quarterly CAP: WORK_OF_ART
+Prepare daily: ORG
+GL: ORG
+Payroll: ORG
+the Payroll Accounting Group
+Daily review of margin: ORG
+Monitored Front End Control: ORG
+CORE: ORG
+Communicated: ORG
+FEC: ORG
+Prepared: PERSON
+monthly: DATE
+RFCC: ORG
+Mgmt: PRODUCT
+SB Controllers: ORG
+PCG: ORG
+CORE: ORG
+FC: ORG
+GL: ORG
+PCG: ORG
+Citibank Private Bank: ORG
+Supported FC Compensation Specialists with Business Objects: WORK_OF_ART
+day: DATE
+Processed: GPE
+FC: ORG
+PCG Administration: ORG
+Ran: PERSON
+SB: ORG
+Intermediate Accountant - Account Executive Compensation Dept: WORK_OF_ART
+May 1989 to September 1997: DATE
+Incentive Compensation: ORG
+MIC: ORG
+Monthly: DATE
+preceding months: DATE
+State: GPE
+US Pace University: ORG
+New York: GPE
+NY Majored in Accounting / GPA: ORG
+3.60: CARDINAL
+Certifications: WORK_OF_ART
+Skills
+Compensation: ORG
+Balance Sheet: PERSON
+General Ledger, Audit: ORG
+Account Executive: ORG
+Accountant, Executive Compensation: ORG
+Litigation: ORG
+Reconciliations: PERSON
+Variance Analysis: ORG
+Gl: PRODUCT
+Sarbanes Oxley: PERSON
+Loans: PERSON
+Arrangements, Journal: ORG
+Retail, Retail Marketing: ORG
+Front End: ORG
+Payroll: ORG
+Tax
+Accounting: ORG
+Excel: PRODUCT
+Ms Word: PERSON
+Powerpoint: PERSON
+Word: PERSON
+7: CARDINAL

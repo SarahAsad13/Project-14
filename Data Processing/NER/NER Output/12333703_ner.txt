@@ -1,0 +1,92 @@
+FACILITY: ORG
+Summary
+Operations *: ORG
+Name City: GPE
+State Facility: ORG
+100: CARDINAL
+50k square foot: QUANTITY
+8 acre: QUANTITY
+Recruited: PRODUCT
+Paid: PERSON
+Facilities: GPE
+Retail: PERSON
+Assisted: ORG
+Assisted the Project: ORG
+Installing Audio: ORG
+25: CARDINAL
+Volunteer Security: PRODUCT
+Planned: PERSON
+32: CARDINAL
+16: CARDINAL
+CCTV: ORG
+Cafe: PERSON
+Cafe: PERSON
+Staffing of Book Store: WORK_OF_ART
+the day to day: DATE
+a 50,000 square foot: QUANTITY
+8 acre: QUANTITY
+2 acres Pond: QUANTITY
+Elevators, Electrical: ORG
+HVAC: ORG
+Name City: GPE
+State Healthcare Program: ORG
+Healthcare: ORG
+7-day/24 hour: TIME
+day: DATE
+330: CARDINAL
+1,200,000 square feet: QUANTITY
+Name City: GPE
+State Shipping and Receiving Coordinator 01/2005: ORG
+Assisted Management: WORK_OF_ART
+the day to day: DATE
+Assisted: ORG
+Directed: ORG
+Bio Medical: ORG
+OTPS Receiving and Accounts Payable: ORG
+Order: ORG
+Shipped: PERSON
+FedEx: GPE
+UPS: ORG
+USPS: ORG
+Name City: GPE
+State Nutritional: ORG
+01/2000: CARDINAL
+Maintained: GPE
+Coordinated Distribution: ORG
+Doctors and Students: ORG
+Name City: GPE
+State: ORG
+01/1998 to 01/2000: CARDINAL
+the day: DATE
+East Village Cafe: FAC
+Opening: WORK_OF_ART
+Ordering: NORP
+Customer Service: ORG
+Placing Bakery
+Orders: PERSON
+Training
+Present National Career Institute Electrical Assistant & HVAC-R -
+A.A: WORK_OF_ART
+2012: DATE
+Essex County College: ORG
+City: GPE
+State Liberal Arts
+Trade Certificate : Electrical Assistant & HVAC/R Tech: ORG
+January 2018: DATE
+National Career Institute: ORG
+City: GPE
+State: GPE
+United States Electrical: ORG
+the National Electrical Code: ORG
+OSHA: ORG
+the National Electrical Code: ORG
+Blueprints: ORG
+Skills
+Accounts Payable: ORG
+Audio: PERSON
+Blueprints, Book: ORG
+Cash Register: PERSON
+Crisis Intervention: ORG
+Project Management, Receiving: ORG
+Retail, Retail Sales: ORG
+Safety, Scheduling, Staffing, Stress Management: ORG

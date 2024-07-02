@@ -1,0 +1,70 @@
+DIGITAL MARKETING SPECIALIST
+Summary: ORG
+10 years: DATE
+CRM: PRODUCT
+Highlights: GPE
+May 2013 to January 2015: DATE
+Digital Marketing Specialist 
+City: ORG
+CRM: PRODUCT
+SEM: ORG
+Google Adwords: ORG
+CRM: PRODUCT
+YouTube: ORG
+Hulu: GPE
+Pandora: GPE
+Pandora: GPE
+January 2015: DATE
+4: CARDINAL
+Allocate: LOC
+May 2010: DATE
+May 2013 CRM: DATE
+50: CARDINAL
+CRM: PRODUCT
+approximately 150 million: CARDINAL
+yearly: DATE
+Specialized: ORG
+Puerto Rico: GPE
+Canada: GPE
+America: GPE
+Coachella: PERSON
+Fashion Star: ORG
+$350 million: MONEY
+2010: DATE
+over $1 million: MONEY
+Express: ORG
+NEXT: PERSON
+October 2007: DATE
+May 2010: DATE
+Columbus Crew: PRODUCT
+Assisted: ORG
+Maintained: GPE
+September 2005 to October 2007: DATE
+Healthcare: ORG
+175: CARDINAL
+RN: ORG
+LPN: ORG
+LSW: ORG
+LISW: ORG
+STNA: ORG
+CNA: ORG
+Created: ORG
+20%: PERCENT
+Franklin University: ORG
+2005: DATE
+Dean: PERSON
+2005: DATE
+2005: DATE
+North Central State College 2003: ORG
+City: GPE
+State: ORG
+Skills
+
+Digital Media: ORG
+Digital Marketing: ORG
+Social Media: ORG
+E-Mail: ORG
+Mobile: GPE
+Branding, Customer Acquisition/Retention, Analytics: ORG
+Budgeting/Forecasting: ORG
+Database Marketing, Testing, Customer Segmentation: ORG

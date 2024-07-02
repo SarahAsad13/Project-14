@@ -1,0 +1,163 @@
+BUSINESS DEVELOPMENT
+Executive Profile: ORG
+17 years: DATE
+$1 Million: MONEY
+$1.5 Billion: MONEY
+Skill Highlights: ORG
+Client: GPE
+Business Development: ORG
+January 2013 to January 2014: DATE
+Elevate Technology Solutions - Federal Practice: ORG
+Researched: ORG
+SEB: ORG
+PTW: ORG
+United States Agency for International Development: ORG
+Systems: GPE
+USAID M/CIO PIV & NPE: ORG
+U.S.: GPE
+Securities and Exchange Commision National Exam Program Support Services: ORG
+SEC Neat Pi: ORG
+SEC Office of Compliance Inspection: ORG
+eDiscovery: ORG
+vArchitect: PERSON
+January 2012 to January 2013: DATE
+Program Capture and Business Development: ORG
+RFI: ORG
+RFQ: ORG
+CSC/ Eagle Alliance: ORG
+Boeing: ORG
+Lockheed Martin: PERSON
+NASA: ORG
+MHS Army: ORG
+Navy: ORG
+Engage: ORG
+Cxx: PERSON
+Cloud: PERSON
+Products and Services: ORG
+the Cloud Computing: FAC
+SOW: ORG
+SLA: ORG
+Project Proposals: ORG
+VCE, Parent Company: ORG
+Client: GPE
+VCE: PERSON
+Cisco: GPE
+EMC: ORG
+VMware: ORG
+Principal Business Architect: ORG
+January 2009 to January 2012: DATE
+BOE: ORG
+SLA: ORG
+CSC: ORG
+North American Public Sector: ORG
+Cloud Computing: PERSON
+Network Monitoring and Communication Network Services: ORG
+the NPS New Business Service Offerings: ORG
+CSC NPS: ORG
+TCV: ORG
+461: MONEY
+US: GPE
+Eagle: ORG
+100: MONEY
+192: MONEY
+Maryland Medicare & Medicaid: ORG
+$300 Million-: MONEY
+Cloud Computing: PERSON
+Eagle: ORG
+January 2007 to January 2009: DATE
+over 200: CARDINAL
+Commercial: ORG
+Non-Profit and Government Contracting: ORG
+U.S.: GPE
+Based and International: ORG
+Reduced Costs: ORG
+Business Continuity and Disaster Recovery Managed: ORG
+RFI: ORG
+RFQ: ORG
+60%: PERCENT
+two year: DATE
+business development & relationship: ORG
+1,000: CARDINAL
+300: CARDINAL
+WAN Optimization Devices: ORG
+5: CARDINAL
+Global Managed Service Contracts: ORG
+24 month: DATE
+150%: PERCENT
+January 2002 to January 2007: DATE
+Assess: ORG
+North American Call Center: ORG
+Global Managed Desktop Services: ORG
+Six Sigma: PERSON
+Remedy IT Service Management: ORG
+Business Units: ORG
+60%: PERCENT
+more than 150%: PERCENT
+January 1999 to January 2002: DATE
+Windows NT Server & Win2k: ORG
+LAN: ORG
+24/7: CARDINAL
+Implemented Data Center: ORG
+Disaster Recovery and Production: ORG
+45%: PERCENT
+January 1997 to January 1999: DATE
+over 267: CARDINAL
+1999: DATE
+219: CARDINAL
+1997: DATE
+two consecutive years: DATE
+Status: ORG
+1997: DATE
+EMC: ORG
+Isilon Scale-Out Storage: PERSON
+2013: DATE
+2013: DATE
+Management v2: ORG
+2013: DATE
+2013: DATE
+VCE Vblock Infrastructure
+Platforms: ORG
+2012: DATE
+100: CARDINAL
+2012: DATE
+200: CARDINAL
+1 2012: DATE
+Strayer University: ORG
+Certifications: ORG
+SBA: ORG
+2015: DATE
+Palo Alto Networks Certificate: ORG
+A+: CARDINAL
+Architect, Army: ORG
+Agency: ORG
+Call Center: ORG
+Cisco: GPE
+Contracts: ORG
+Client: GPE
+Disaster Recovery: PERSON
+Information Technology: ORG
+ITIL: ORG
+ITIL: ORG
+LAN: ORG
+Lockheed Martin: PERSON
+MGMT: ORG
+Market, Exchange: ORG
+Win2: PERSON
+Windows
+NT Server: PERSON
+Modeling: GPE
+Navy: ORG
+Neat: ORG
+Network: ORG
+Networks: ORG
+Optimization: ORG
+Proposals: GPE
+RFI: ORG
+RFP: ORG
+Securities: ORG
+Six Sigma: PERSON
+SLA: ORG
+Technical Sales: ORG
+Desktop Support: ORG
+White Papers: WORK_OF_ART
+WAN: ORG

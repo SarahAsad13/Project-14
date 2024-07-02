@@ -1,0 +1,53 @@
+Name City: GPE
+State: ORG
+10/2011: CARDINAL
+Performed: ORG
+day: DATE
+Name City: GPE
+State: ORG
+Nuclear Fuel Services: ORG
+Erwin: GPE
+TN: ORG
+B&W: ORG
+2011: CARDINAL
+Research: ORG
+Category 2: PRODUCT
+Name City: GPE
+State Reliability: ORG
+Summer: PERSON
+DuPont Chambers Works: ORG
+Deepwater, NJ: WORK_OF_ART
+Performed: ORG
+Summer 2008: DATE
+DuPont Titanium Technologies: ORG
+Performed: ORG
+Summer 2009: DATE
+Renew Paper: FAC
+St. Francisville: GPE
+LA: GPE
+two-year: DATE
+Name City: GPE
+State Aviation Electronics Technician 09/1995: ORG
+an F/A-18 Hornet: PRODUCT
+30: CARDINAL
+Coordinated: ORG
+Bachelor of Science : Aerospace Engineering: ORG
+December 2009: DATE
+University of Tennessee Aerospace Engineering
+Additional Information
+
+: ORG
+Six: CARDINAL
+November 2014: DATE
+EIT: ORG
+January 2010: DATE
+October 2010: DATE
+February 2014: DATE
+Skills
+
+Communication, Safety: ORG
+Customer Service: ORG
+Database, Quality, Research and Design: ORG
+Root Cause Failure Modes: ORG
+Effects
+Analysis: ORG

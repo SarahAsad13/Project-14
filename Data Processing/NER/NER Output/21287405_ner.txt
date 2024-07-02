@@ -1,0 +1,64 @@
+Computer Science: ORG
+Skills
+
+Report: ORG
+Adaptive: ORG
+Cargo: NORP
+Defensive: PRODUCT
+Reviewing: GPE
+Reliable: WORK_OF_ART
+Critical: PRODUCT
+Data: ORG
+Team: ORG
+Microsoft Office: ORG
+First Aid/CPR: ORG
+State Company Name: ORG
+2017: DATE
+May 2021: DATE
+Coordinated: ORG
+Communicated: ORG
+Coordinated: ORG
+Packed: ORG
+daily: DATE
+Monitored: ORG
+Replenished: PERSON
+Prep Cook 
+City: PERSON
+State Company Name: ORG
+Jan 2016: DATE
+2017: DATE
+Maintained: GPE
+Maintained: GPE
+Cooked: PERSON
+Delivery Driver 
+City: PERSON
+State Company Name: ORG
+Nov 2015 to Mar 2016: DATE
+daily: DATE
+first: ORDINAL
+Directed: ORG
+Conferred: ORG
+four days: DATE
+100 plus miles: QUANTITY
+over 100: CARDINAL
+daily: DATE
+Inspected: ORG
+daily: DATE
+Grouped: ORG
+Obtained: ORG
+Communicated: ORG
+Training
+Bachelor of Science : Aviation Management And Operations Florida Institute Of Technology-Melbourne City: PERSON
+Dean: PERSON
+one 2020: DATE
+3.2: CARDINAL
+GPA: ORG
+Hotel And Resort Management Orange Technical College: ORG
+May 2016 City: DATE
+State: ORG
+State: ORG
+3.85: CARDINAL
+GPA: ORG
+USMC: ORG
+Navy: ORG
+Marine Corps Achievement Medal: ORG

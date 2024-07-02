@@ -1,0 +1,45 @@
+7+ years: DATE
+Incident Command Systems: ORG
+ICS: ORG
+Skill: PERSON
+Skill: PERSON
+Experience /Knowledge of HIV and STD
+
+Experience with Electronic Medical Record
+(EMR)Management Information System: WORK_OF_ART
+MIS: ORG
+VHN: ORG
+DIS: ORG
+Communicable Disease Specialist: ORG
+January 2014 to December 2015: DATE
+Provides: PERSON
+February 2013 to December 2013: DATE
+Collaborated: ORG
+Sexual Assault Response Coordinator: PERSON
+August 2010: DATE
+May 2011 Company Name - City: DATE
+monthly: DATE
+monthly: DATE
+quarterly: DATE
+annually: DATE
+November 2009 to: DATE
+August 2010: DATE
+weekly: DATE
+Electronically: GPE
+Healthcare Finder 
+October 2007 to August 2008: PERSON
+Electronically: PERSON
+Humana: ORG
+Communicated: ORG
+2014: DATE
+Management and Strategy Institute: ORG
+HCP: ORG
+2013: DATE
+Management and Strategy Institute: ORG
+Bachelor: ORG
+Health Science Columbus State University - City: ORG
+State Health Science
+Skills
+
+Effective: ORG
+Problem: PRODUCT

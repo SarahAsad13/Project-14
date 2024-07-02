@@ -1,0 +1,53 @@
+BUSINESS DEVELOPMENT: ORG
+Client Relations
+File: WORK_OF_ART
+Multi-Task Management
+Territory Sales: ORG
+Business Development Representative: ORG
+November 2014: DATE
+South Texas: LOC
+West Texas: LOC
+Maintained: GPE
+weekly: DATE
+monthly: DATE
+Administrative Clerk: PERSON
+September 2012 to November 2014: DATE
+State: ORG
+Seven years: DATE
+Established: ORG
+Processed: GPE
+Created: ORG
+day to day: DATE
+Processed: GPE
+weekly: DATE
+30-50: CARDINAL
+hourly: TIME
+10-15: CARDINAL
+Registrar: ORG
+October 2009 to September 2012: DATE
+six: CARDINAL
+Coordinated: ORG
+daily: DATE
+Created: ORG
+Admissions Department: ORG
+Education: ORG
+Standardized department: ORG
+Communicated: ORG
+March 2008 to October 2009: DATE
+State: ORG
+HIPAA Privacy and Security Regulations: ORG
+Maintained: GPE
+Del Mar College: ORG
+the Year 2010: DATE
+South Texas Vocational Technical Institute
+Promoted: ORG
+Registrar: ORG
+1 year: DATE
+Promoted to Business Development Representative: ORG
+18 months: DATE
+GIS: ORG
+30: CARDINAL
+Excel: PRODUCT
+Outlook: PERSON
+PowerPoint: ORG
+Spanish: NORP

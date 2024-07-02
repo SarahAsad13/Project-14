@@ -1,0 +1,105 @@
+Highlights
+
+Digital: WORK_OF_ART
+Google: ORG
+Looker: ORG
+Tableau: GPE
+Chartio: GPE
+Conversion: ORG
+Responsys: PERSON
+SFMC: ORG
+Movable Ink and Liveclicker: ORG
+CRM: PRODUCT
+Custora: PERSON
+GTM: ORG
+DTM
+
+Competitive and Trend Analytics: ORG
+SAS: ORG
+JDA: ORG
+Solid: PRODUCT
+Name City: GPE
+State Sr Digital Analytics: ORG
+Paid, Social: ORG
+Email: PERSON
+24%: PERCENT
+13%: PERCENT
+34%: PERCENT
+Execute: ORG
+Email: PERSON
+annual: DATE
+519: MONEY
+Persona: PERSON
+14%: PERCENT
+18%: PERCENT
+AI: ORG
+OMS: ORG
+ExactTarget: ORG
+Enthusiastically: ORG
+SQL: ORG
+HTML: ORG
+JavaScript: ORG
+Name City: GPE
+PLP: ORG
+PDP: ORG
+% to 22%: PERCENT
+Mobile: GPE
+8%: PERCENT
+Desktop
+Precisely: ORG
+AI: ORG
+Email: PERSON
+6.6: MONEY
+first: ORDINAL
+13%: PERCENT
+4%: PERCENT
+12%: PERCENT
+16%: PERCENT
+weekly: DATE
+CLV: ORG
+Built: ORG
+eCommerce: PRODUCT
+Assisted: ORG
+Name City: GPE
+07/2011: CARDINAL
+3: CARDINAL
+10: CARDINAL
+3rd: ORDINAL
+SKU: ORG
+eCommerce: PRODUCT
+17.6: MONEY
+93%: PERCENT
+LY: ORG
+Name City: GPE
+State Sr Inventory: ORG
+08/2009: CARDINAL
+70: CARDINAL
+annual: DATE
+170: MONEY
+1250: CARDINAL
+Kmart: ORG
+Sears: ORG
+650: CARDINAL
+Utilized NPD: ORG
+Developed: ORG
+18.2: MONEY
+Name City: GPE
+State Inventory: ORG
+Name City: GPE
+State Sr Inventory Analyst - Furniture: ORG
+Name City: GPE
+State Supply Chain Management 03/2002: ORG
+Name City: GPE
+State Logistics Readiness: ORG
+Digital: ORG
+Google Analytics: ORG
+Looker: ORG
+Conversion: ORG
+Responsys: PERSON
+SFMC: ORG
+Salesforce Marketing Cloud (Social Studio: WORK_OF_ART
+Tableau: GPE
+Chartio: GPE
+Tagging & attribution: ORG
+GTM: ORG
+SQL: ORG

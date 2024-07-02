@@ -1,0 +1,129 @@
+FINANCE: ORG
+OPERATIONS: ORG
+Finance: ORG
+Operations: ORG
+Oversee: ORG
+Allocate: ORG
+monthly: DATE
+proceeding month: DATE
+Financial Analyst: ORG
+07/2013: CARDINAL
+$4M: MONEY
+annually: DATE
+2017: DATE
+2019: DATE
+two consecutive years: DATE
+Excel: PRODUCT
+2 - 3 weeks: DATE
+3 - 4 days: DATE
+up to $20: MONEY
+3: CARDINAL
+6: CARDINAL
+the month: DATE
+end of month: DATE
+600: MONEY
+400: MONEY
+Swayed: PRODUCT
+each day: DATE
+one: CARDINAL
+Switched: NORP
+Operations: ORG
+Oversee: ORG
+Allocate: ORG
+monthly: DATE
+proceeding month: DATE
+$4M: MONEY
+annually: DATE
+2017: DATE
+2019: DATE
+two consecutive years: DATE
+Excel: PRODUCT
+2 - 3 weeks: DATE
+3 - 4 days: DATE
+up to $20: MONEY
+3: CARDINAL
+6: CARDINAL
+the month: DATE
+end of month: DATE
+600: MONEY
+400: MONEY
+Swayed: PRODUCT
+each day: DATE
+one: CARDINAL
+Switched: NORP
+Financial Analyst: ORG
+07/2013: CARDINAL
+Master of Business Administration: ORG
+MBA: WORK_OF_ART
+Johnson: PERSON
+Wales University - City: ORG
+State: ORG
+In Business Administration: ORG
+BBA: ORG
+Finance Kathmandu University - City: ORG
+Excels: PERSON
+Value-Added Improvements
+Driven: ORG
+Operations Management: ORG
+Data Analysis: ORG
+Auditing Policies & Procedures: ORG
+Continuous: PERSON
+Financial Modeling: ORG
+Communication
+Highlights: ORG
+Microsoft Office: ORG
+Various CRM Systems: PRODUCT
+Omni: ORG
+SalesForce: PRODUCT
+QuickBooks: ORG
+SLACK
+Accounting
+Auditing
+Budget
+Cash: ORG
+Continuous Improvement
+CRM: PERSON
+Data Analysis
+Finance
+Financial
+Financial Modeling
+Financial: ORG
+Financial: ORG
+Inventory: ORG
+Inventory
+Leadership
+Excel: WORK_OF_ART
+Microsoft Office Suite
+Operations Management
+Policies
+Process: ORG
+Processes
+Progress
+Purchasing
+QuickBooks
+Recording
+Reporting
+Research
+Sales
+Scheduling
+Strategy
+Author
+
+Skills
+
+: WORK_OF_ART
+Microsoft Office: ORG
+Various CRM Systems: PRODUCT
+Omni: ORG
+SalesForce: PRODUCT
+QuickBooks: ORG
+SLACK: ORG
+Continuous Improvement: PERSON
+CRM: PRODUCT
+Data Analysis, Finance: ORG
+Financial Modeling: ORG
+Excel: PRODUCT
+Microsoft Office Suite: ORG
+Operations Management: ORG
+Policies: GPE
+QuickBooks: ORG

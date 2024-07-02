@@ -1,0 +1,55 @@
+DIGITAL COMMUNICATIONS SPECIALIST: ORG
+Digital: ORG
+10 years: DATE
+Microsoft Office - Excel: ORG
+Word: PERSON
+PowerPoint: ORG
+Outlook: PERSON
+508: CARDINAL
+OpenSource: ORG
+Google Analytics
+Proficient: ORG
+Hootsuite Sprout Social: ORG
+Adobe Acrobat Pro: PERSON
+Photoshop: PERSON
+Digital Communications Specialist: ORG
+LinkedIn: GPE
+Twitter: PERSON
+YouTube: ORG
+the Social Security Administration's: ORG
+Utilize Sprout Social: ORG
+Coordinate: FAC
+the Information Technology (Systems: ORG
+Section 508: LAW
+the Rehabilitation Act: LAW
+1973: DATE
+Develop: ORG
+Coordinate: FAC
+12/2015: CARDINAL
+Name City: GPE
+Created: ORG
+annual: DATE
+Created: ORG
+06/2008: PERSON
+Name City: GPE
+daily: DATE
+Congress: ORG
+the House Financial Services Committee: ORG
+Senate Banking Committee: ORG
+06/2008 Company Name City: ORG
+daily: DATE
+eNewsletter: ORG
+II: PERSON
+June 2007: DATE
+daily: DATE
+monthly: DATE
+Training
+B.A: ORG
+May 2006: DATE
+George Mason University City: ORG
+State Communication: ORG
+Adobe Acrobat: PERSON
+Photoshop: PERSON
+Content: ORG
+Google Analytics: ORG
+Rehabilitation: ORG

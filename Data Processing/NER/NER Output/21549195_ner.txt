@@ -1,0 +1,53 @@
+InDesign: ORG
+01/2016: CARDINAL
+Coordinated: ORG
+Baker PR: PERSON
+National Center for Adaptive Neurotechnology: ORG
+Complexions Spa, The Port of Coeymans,: WORK_OF_ART
+Creatacor: ORG
+Oversaw: GPE
+Clinton: PERSON
+October 2012: DATE
+year end: DATE
+annual: DATE
+Anderson Center: PERSON
+Anderson Center: PERSON
+Beech-Nut: ORG
+NYS Rental Dealers Association: ORG
+Community Health Foundation of Western: ORG
+New York: GPE
+Niagara Falls Bridge Commission: PERSON
+Public Relations and Membership Company Name: ORG
+second: ORDINAL
+Columbia County: GPE
+NY: ORG
+COARC: NORP
+40th: ORDINAL
+COARC: NORP
+annual: DATE
+01/2003: CARDINAL
+daily: DATE
+U.S.: GPE
+Coordinated: ORG
+10,000: CARDINAL
+Pittsfield: GPE
+MA: GPE
+Sony: ORG
+PlayStation National Truck Tour: WORK_OF_ART
+Recruiter/Cultural Coordinator Company Name: ORG
+35: CARDINAL
+Cultural Coordinator: ORG
+seven: CARDINAL
+Business Communication Florida Institute of Technology ï¼​ City: ORG
+State Business Communication: ORG
+Henry Hudson Youth: PERSON
+Public Relations Society of America: ORG
+Salvation Army: ORG
+American Red Cross: ORG
+Berkshire Leadership Program: ORG
+Columbia County Leadership Program: ORG
+year: DATE
+more),Â: ORG
+Raiser: PERSON
+Edge
+Desktop Publishing Software: ORG

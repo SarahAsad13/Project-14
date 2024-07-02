@@ -1,0 +1,18 @@
+May 2009: DATE
+daily: DATE
+Assist: NORP
+Systematically: ORG
+Develop: ORG
+May 2009: DATE
+daily: DATE
+Assisted: ORG
+Line Cook: PERSON
+Jan 1990: DATE
+2000: CARDINAL
+daily: DATE
+Conducted: ORG
+daily: DATE
+Detail: PERSON
+English: LANGUAGE
+Inventory Management: ORG
+Spanish: NORP

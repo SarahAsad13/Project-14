@@ -1,0 +1,82 @@
+Community Bank: ORG
+the past five years: DATE
+Residential
+Mortgages, Consumer and Commercial: ORG
+Executive Committee: ORG
+25 years: DATE
+Product Line Expansion: ORG
+Consumer Loan Platforms: ORG
+Credit and Debt Management: ORG
+Created a CRM: ORG
+BakerHill Commercial
+Software: ORG
+MortgageBot: ORG
+DecisionPro: ORG
+Commercial Loan: ORG
+5-10%: PERCENT
+the
+past five years: DATE
+Incentive Compensation Plan: ORG
+ICP: ORG
+Board of Directors: ORG
+GSBDC: ORG
+NYBDC: ORG
+Current Company Name City: ORG
+the Management and Development of six(6: ORG
+60,000.0: MONEY
+the last five years: DATE
+C&I: ORG
+CREM: ORG
+over $150,000.0: MONEY
+5%: PERCENT
+year/year: DATE
+Residential Mortgage Group: ORG
+7: CARDINAL
+Commercial Lender - Regional Medical: ORG
+Name City: GPE
+the Commercial Lending and Business Banking: ORG
+Syracuse: GPE
+10/2008: CARDINAL
+Name City: GPE
+five: CARDINAL
+Name City: GPE
+daily: DATE
+25,000.0: MONEY
+ten: CARDINAL
+10: CARDINAL
+three: CARDINAL
+Western NY: LOC
+30,000.0: MONEY
+Business Development/Commercial Lending Officer: ORG
+Name City: GPE
+Business Banking Credits: ORG
+Name City: GPE
+Municipal, Private: ORG
+Wholesale: ORG
+Retail: PERSON
+Related Federal and State Income Tax: ORG
+Name City: GPE
+Alpena: GPE
+Pittsburgh: GPE
+PA: GPE
+Buffalo: GPE
+NY: GPE
+monthly: DATE
+1996: DATE
+State: GPE
+USA: GPE
+1988: DATE
+University City: GPE
+State: GPE
+USA: GPE
+1984: DATE
+St. Joseph's: GPE
+Institute City: GPE
+State: GPE
+USA: GPE
+Commercial Lending: ORG
+CRM: PRODUCT
+Real Estate, Retail: ORG
+WORD: ORG
+EXCEL: ORG
+PowerPoint: ORG

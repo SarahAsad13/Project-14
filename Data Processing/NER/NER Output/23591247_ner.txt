@@ -1,0 +1,26 @@
+Focused Operations: ORG
+Accurate: ORG
+Verbal: ORG
+Complex: NORP
+April 2015: DATE
+Current Chef 
+City: PERSON
+October 2011 to August 2013: DATE
+cashier 
+City: PERSON
+daily: DATE
+March 2010 to December 2011: DATE
+State: ORG
+daily: DATE
+High School for Environmental Studies: ORG
+State: ORG
+Kingsborough Community College: ORG
+Dedicated Customer Service Representative: ORG
+Core Strengths Sharp: ORG
+Strong: PERSON
+Energetic: LOC
+Adaptive: PERSON
+Cashier, Cooking: ORG
+Forklift Operator: PERSON
+Microsoft Excel: ORG
+Microsoft: ORG

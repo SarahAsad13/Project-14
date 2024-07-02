@@ -1,0 +1,100 @@
+CUSTOMER: ORG
+1: CARDINAL
+Sales Associate: PERSON
+5-year: DATE
+the first 6 months: DATE
+the Board of Directors: ORG
+Retention: PERSON
+the first 6 months: DATE
+50.4%: PERCENT
+5: CARDINAL
+Quality Assurance Coach: ORG
+Relationship Specialist: PERSON
+June 2010: DATE
+Current Company Name: ORG
+3: CARDINAL
+2: CARDINAL
+1234: DATE
+Western Unions: ORG
+ETC: ORG
+QCD: GPE
+approximately 3 months: DATE
+QA: ORG
+QCD Quality Coaching and Development: ORG
+monthly: DATE
+Supervisor: PERSON
+3: CARDINAL
+4: CARDINAL
+Lead: PERSON
+Supervisor: PERSON
+the first 3 months: DATE
+the 6 month: DATE
+the first 6 months: DATE
+the Board of Directors: ORG
+the first 6 months: DATE
+50.4%: PERCENT
+5: CARDINAL
+first: ORDINAL
+the Online Team: ORG
+first: ORDINAL
+Online: ORG
+Rep II: LOC
+Supervisor chats: PERSON
+QA: ORG
+Front Desk/ Fitness Advisor/: ORG
+January 2007 to June 2010: DATE
+Front: ORG
+6.00: MONEY
+the first week: DATE
+approximately 2 months: DATE
+weekly: DATE
+approximately 3 months: DATE
+between 60 and 80 hours: DATE
+Armed Forces Bank: ORG
+Armed Forces Insurance: ORG
+453: CARDINAL
+Douglas County Municipality: PERSON
+Leavenworth Municipality: GPE
+Operational Staff: ORG
+Created Spreadsheets: ORG
+monthly: DATE
+more than 25%: PERCENT
+25%: PERCENT
+168,000: MONEY
+monthly: DATE
+3 years and 6 months: DATE
+$7.86 million: MONEY
+36 months: DATE
+$27.8 million: MONEY
+3 months: DATE
+6: CARDINAL
+Oversaw: GPE
+Leavenworth: GPE
+Lawrence: PERSON
+Topeka: GPE
+December 2002 to December 2006: DATE
+the RTO Radio Transmission Operator: ORG
+Gunner: PERSON
+Loader: PERSON
+Advance Party: ORG
+2: CARDINAL
+3 months: DATE
+Eagle First Responder (Medical Courses: ORG
+Air Assault Certified: ORG
+one: CARDINAL
+Iraq: GPE
+18 yrs old: DATE
+IRAQ: GPE
+2008: DATE
+1: CARDINAL
+2013: DATE
+San Joaquin Valley Community College: ORG
+Skills
+Armed Forces, Banking,Quality Coaching: ORG
+Customer Service: ORG
+QA: ORG
+Radio: ORG
+Spreadsheets: ORG
+Supervisor
+
+: PERSON

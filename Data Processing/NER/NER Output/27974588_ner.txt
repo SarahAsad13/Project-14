@@ -1,0 +1,99 @@
+GROUP FITNESS INSTRUCTOR
+Summary: ORG
+Yoga: PERSON
+Boot Camp Training
+Running: PRODUCT
+YogaFit Certified - Level 1: ORG
+Les Mills - Body Pump: ORG
+BTS - Group Power: ORG
+Les Mills - Body Attack: ORG
+IFTA - Group Fitness: ORG
+75: CARDINAL
+AIM II - Body Attack: ORG
+Les Mills - CX: ORG
+12: CARDINAL
+AIM II - Body Attack: ORG
+Les Mills - Body Attack: ORG
+82: CARDINAL
+Les Mills - RPM: FAC
+60: CARDINAL
+Les Mills - New Zealand: ORG
+2: CARDINAL
+CPR: ORG
+6-17-17: DATE
+AIM: ORG
+Les Mills - GRIT: FAC
+13: CARDINAL
+Wilmington: GPE
+NC Gyms: PERSON
+2002: DATE
+Body Pump: LOC
+Pump at Golds Gym: ORG
+Golds: ORG
+today: DATE
+WAC: ORG
+O2 Fitness, Fitness Fusion: ORG
+one: CARDINAL
+2002: DATE
+YogaFit: ORG
+O2 Fitness & YMCA: ORG
+Yoga: PERSON
+2006: DATE
+Body Attack: PERSON
+Wilmington: GPE
+Group Fitness Instructor: ORG
+Jan 2016: DATE
+State Introduced &: ORG
+Body Attack: PERSON
+Jan: DATE
+2016Â: DATE
+Yoga & Group Fitness Instructor Sep: ORG
+State: ORG
+Substitue: GPE
+Introduced &: ORG
+Body Attack: PERSON
+May, 2015: DATE
+Yoga & Group Fitness Instructor: ORG
+Taught Yoga: WORK_OF_ART
+New Hanover Gym: EVENT
+2013- 2014: DATE
+Introduced &: ORG
+Body Attack: PERSON
+Jan, 2013: DATE
+Group Fitness Instructor Sep: ORG
+May 2000: DATE
+State
+Introduced & Taught Body Pump: ORG
+Yoga & Group Fitness Instructor: ORG
+May 2012: DATE
+6: CARDINAL
+Locations for Golds: ORG
+14 year: DATE
+2002: DATE
+2006: DATE
+Taught Yoga: WORK_OF_ART
+Saturday: DATE
+Porters Neck: ORG
+Sunday: DATE
+Racine
+Group Fitness Instructor: ORG
+State: ORG
+Group Fitness Instructor Jul 1994: ORG
+1998: DATE
+Boot: ORG
+Step: PERSON
+Hi-Lo: PERSON
+Training
+Bachelor of Science: PERSON
+June 1973: DATE
+The Ohio State University - City: ORG
+Employed: GPE
+Music - Singing &: ORG
+Wilmington Road Runners
+Dining: ORG
+Partner & fiancee: ORG
+Tammy: PERSON
+age 65: DATE
+Ohio: GPE
+Vitamin: PRODUCT
+DSM Nutritional Products: ORG

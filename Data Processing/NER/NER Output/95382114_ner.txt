@@ -1,0 +1,60 @@
+BUSINESS DEVELOPMENT: ORG
+National and Local Governments: ORG
+Southern Africa: LOC
+40: CARDINAL
+three: CARDINAL
+over $50m USD: MONEY
+Intelligence Analyst: ORG
+the National Security Agency: ORG
+Airman: PERSON
+The United States: GPE
+Adept: ORG
+Strong: PERSON
+Operations: ORG
+more than $20: MONEY
+12 months: DATE
+SADC: ORG
+Established 3: PRODUCT
+15: MONEY
+Middle East: LOC
+USA: GPE
+just 8 months: DATE
+3: CARDINAL
+24: MONEY
+multi-million: CARDINAL
+GTM: ORG
+Collaborated: ORG
+Name City: GPE
+Collaborated: ORG
+Coordinated: ORG
+over 20%: PERCENT
+Mastered MS Office: ORG
+Intelligence Analyst: ORG
+Name City: GPE
+Complied: PERSON
+Agency: ORG
+Bachelor of Science : Management 2013 Rutgers University City: ORG
+State: GPE
+USA
+Executive Education: ORG
+Management Stanford University Graduate School of Business City: ORG
+State: GPE
+USA: GPE
+Distinctive: NORP
+Desire: GPE
+International: ORG
+Coordinated: ORG
+Global Entry Passport Holder / U.S. Citizen
+
+Skills
+
+Account Management
+Analytical Skills
+Asset Management
+Budget
+Business Development and Operations
+Closing and Negotiation
+CRM: ORG
+Research
+Teamwork
+Strategic Planning: ORG

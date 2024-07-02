@@ -1,0 +1,99 @@
+Bookkeeper: GPE
+12 years: DATE
+Detail: PERSON
+3+ years: DATE
+Skills
+SAP: ORG
+Great Plains Dynamics: ORG
+QuickBooks Pro: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Accountant 09/2015: PERSON
+Name City: GPE
+monthly: DATE
+22: CARDINAL
+monthly: DATE
+4: CARDINAL
+250: CARDINAL
+AP: ORG
+500+K: GPE
+monthly: DATE
+Monthly: DATE
+AP: ORG
+20%: PERCENT
+SAP: ORG
+Weekly: DATE
+AR: ORG
+90%: PERCENT
+hours: TIME
+SOX: ORG
+Researched: ORG
+Performed month-end/year end: DATE
+12/2014: CARDINAL
+Name City: GPE
+Controller: PERSON
+monthly: DATE
+Researched: ORG
+48: CARDINAL
+40: CARDINAL
+monthly: DATE
+monthly: DATE
+Great Plains Dynamics: ORG
+Liaison: PERSON
+Processed: GPE
+approximately 100,000: CARDINAL
+weekly: DATE
+US: GPE
+Bank: ORG
+08/2011: CARDINAL
+Name City: GPE
+Processed: GPE
+200: CARDINAL
+daily: DATE
+Created: ORG
+Prepared: PERSON
+month: DATE
+year end: DATE
+Researched: ORG
+12/2006: CARDINAL
+Name City: GPE
+State: ORG
+VPO: ORG
+2500: CARDINAL
+6 month: DATE
+90%: PERCENT
+500 Savings Bonds: ORG
+daily: DATE
+over one million dollars: MONEY
+1200: CARDINAL
+monthly: DATE
+Keyed: GPE
+over 350: CARDINAL
+daily: DATE
+Training
+Masters of Accounting: ORG
+May 2016: DATE
+Nova Southeastern University City: ORG
+August 2012: DATE
+Florida Atlantic University City: ORG
+State Accounting
+Associates of Arts: ORG
+May 2007: DATE
+Western International University Online Accounting: ORG
+Skills
+Accounting: ORG
+AP: ORG
+AR: ORG
+Controller: PERSON
+Customer Satisfaction: PERSON
+Finance: ORG
+Great Plains Dynamics: ORG
+Access: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+Microsoft: ORG
+Pivot: PERSON
+QuickBooks Pro: ORG
+SAP: ORG
+SOX: ORG

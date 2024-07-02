@@ -1,0 +1,102 @@
+Career Overview
+
+Highly: ORG
+Skill Highlights: PERSON
+Microsoft Office: ORG
+Excel: PRODUCT
+Strong: PERSON
+Jan 1996: DATE
+monthly: DATE
+month: DATE
+10: CARDINAL
+May 2008: DATE
+6%: PERCENT
+the previous year: DATE
+weekly: DATE
+weekly: DATE
+PowerPoint: ORG
+7%: PERCENT
+weekly: DATE
+Created: ORG
+weekly: DATE
+monthly: DATE
+monthly/quarterly/: DATE
+year-end: DATE
+Jan 1989 to Dec 1995: DATE
+annual: DATE
+Jun 2008: PERSON
+2009: DATE
+the Retail Leadership Team: ORG
+Excel: PRODUCT
+SAP: ORG
+daily: DATE
+Category Management: ORG
+the Tire Book and In-Stock Report: EVENT
+Retail: PERSON
+Excel: PRODUCT
+daily: DATE
+Access: PRODUCT
+Excel: PRODUCT
+Order Pad: PERSON
+Retail: PERSON
+daily: DATE
+Access: PRODUCT
+Excel: PRODUCT
+daily: DATE
+Retail: PERSON
+annual: DATE
+DMR Conference: Planning: WORK_OF_ART
+75+: CARDINAL
+Dec 2009 to Jan 2013: DATE
+Global Finance & IT: ORG
+10: CARDINAL
+the Global Leadership Team: ORG
+quarterly: DATE
+175: CARDINAL
+Develop: ORG
+the IT Intern and Development Program: WORK_OF_ART
+Steering Committee Lead: ORG
+5: CARDINAL
+INROADS: ORG
+3: CARDINAL
+the Steering Committee: ORG
+Interns and Hiring Managers: ORG
+Global Infrastructure Services: ORG
+daily: DATE
+the Project Tracker: ORG
+2 days: DATE
+Global Communication Meetings: ORG
+Telecom and Creative Services: ORG
+May 2008: DATE
+6%: PERCENT
+the previous year: DATE
+weekly: DATE
+weekly: DATE
+PowerPoint: ORG
+7%: PERCENT
+weekly: DATE
+Created: ORG
+weekly: DATE
+monthly: DATE
+monthly/quarterly/: DATE
+year-end: DATE
+Jan 2013: DATE
+Global Sales and Marketing: ORG
+Human Resources: ORG
+Global Sales and Marketing: ORG
+Human Resources: ORG
+quarterly: DATE
+Global Communications: ORG
+Jan 1996 to Jan 1997: DATE
+monthly: DATE
+month: DATE
+10: CARDINAL
+Jan 1989 to Jan 1995: DATE
+annual: DATE
+Bachelor of Science , Organizational Management Human Resources: ORG
+2016: DATE
+Colorado: GPE
+Christian University: ORG
+PowerPoint: ORG
+Word Excel: ORG
+Desktop Publishing Software: ORG

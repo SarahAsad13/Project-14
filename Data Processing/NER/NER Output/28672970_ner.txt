@@ -1,0 +1,91 @@
+Information Technology Project: ORG
+Information Technology: ORG
+20+ years: DATE
+Skill Highlights
+
+: ORG
+Liaison
+P & L Oversight
+Organizational Development
+Mentoring and Coaching
+
+Professional Experience
+: ORG
+Name City: GPE
+daily: DATE
+Determine: ORG
+24: CARDINAL
+7: CARDINAL
+7: CARDINAL
+Network Administrator: ORG
+Programmer: ORG
+IT Trainer: PERSON
+3: CARDINAL
+675: CARDINAL
+18: CARDINAL
+Florida: GPE
+Corporate: ORG
+Accounting: ORG
+Finance: ORG
+Enterprise Resource Program: ORG
+Windows 7, Office: ORG
+2010: DATE
+4 months: DATE
+300: MONEY
+Implementation of a
+: WORK_OF_ART
+$1.5 million: MONEY
+ERP: ORG
+IP: ORG
+yearly: DATE
+160: MONEY
+Information 02/2003: ORG
+Name City: GPE
+State: ORG
+Firm: ORG
+over 350: CARDINAL
+the IT Department: ORG
+Oversee: ORG
+Facilitated: ORG
+6: CARDINAL
+Network Administrator: ORG
+2: CARDINAL
+3: CARDINAL
+IP: ORG
+30%: PERCENT
+Firm: PERSON
+Name City: GPE
+Firm: PERSON
+Windows XP: ORG
+Wordperfect to MS
+Office: ORG
+Bachelor of Science : Industrial Psychology 1985 University of Santo Tomas - Manila Philippines Industrial Psychology
+Associates Degree :: ORG
+1997: DATE
+Dersyha University City: ORG
+State Selected Professional Development and Seminars Team Leadership: ORG
+Managing People & Change *: ORG
+Skills
+Accounting: ORG
+Analyst: PERSON
+Change Management: ORG
+Cisco Certified: GPE
+Engineer: ORG
+ERP: ORG
+Finance: ORG
+IP: ORG
+Mentoring, MS Office: ORG
+Office, Windows 7, Windows 98: ORG
+Windows XP: ORG
+Enterprise: ORG
+Network Administrator: ORG
+Operating System: ORG
+Organizational Development: ORG
+Programmer: ORG
+Project Management: ORG
+Seminars: ORG
+Level Agreements: PERSON
+SLA: ORG
+Strategic Planning, Supervision: ORG
+Telephony: ORG
+Trainer: GPE

@@ -1,0 +1,51 @@
+20 years': DATE
+Skill Highlights: PERSON
+Team Player: ORG
+Core Accomplishments
+Project Management:
+
+Monitored the operation of eleven Renewable Wind: WORK_OF_ART
+Handbook: PERSON
+Structured: ORG
+Mentored: ORG
+Operations Management: ORG
+Liaison: ORG
+daily: DATE
+January 2015: DATE
+Forbes Bros Inc: ORG
+Houston: GPE
+Facilitated: ORG
+Houston: GPE
+January 2013 to January 2015: DATE
+daily: DATE
+January 2010 to January 2013: DATE
+Provided master: LAW
+15: CARDINAL
+Site Office Administrator: ORG
+E.ON Climate: PERSON
+E.ON: PERSON
+Roscoe: GPE
+TX: ORG
+750: CARDINAL
+MW: ORG
+2010: DATE
+Provided master: LAW
+January 2005 to January 2006: DATE
+Airtricity: ORG
+US: GPE
+Forest Creek: GPE
+Sand Bluff: GPE
+Big Spring: GPE
+Texas: GPE
+House Accounts Total Design on Marble & Granite: ORG
+2002-2004: DATE
+Established: ORG
+day: DATE
+ten: CARDINAL
+January 2001 to January 2002: DATE
+University of New Mexico BA : Business/Finance Business/Finance: ORG
+Food Bank: ORG
+Chamber of Commence
+Skills: ORG
+Office: ORG
+Roscoe: GPE

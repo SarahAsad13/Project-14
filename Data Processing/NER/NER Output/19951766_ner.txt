@@ -1,0 +1,66 @@
+the years: DATE
+three years: DATE
+98: CARDINAL
+PowerPoint: ORG
+Word, Access, Excel: ORG
+Photoshop: ORG
+UltimateTexas Hold'em: ORG
+Three: CARDINAL
+Neat: ORG
+Math: PERSON
+Table Games Dealer: ORG
+November 2012 to June 2014: DATE
+one: CARDINAL
+Processed: GPE
+6: CARDINAL
+Server/Hostess/Cashier: ORG
+April 2010: DATE
+Correctly: ORG
+Maintained: GPE
+hours: TIME
+Server/Waiter: ORG
+February 2009 to January 2010: DATE
+Maintained: GPE
+hours: TIME
+Facilitated: ORG
+August 2012: DATE
+Arkansas City High School: ORG
+Webster: PERSON
+New College Dictionary: ORG
+the Kansas Honors Program: ORG
+the KU Alumni Association: ORG
+10%: PERCENT
+January 2012: DATE
+Awarded Presidential Scholarship to: ORG
+all four years: DATE
+2009-2012: DATE
+Webster: PERSON
+New College Dictionary: ORG
+the Kansas Honors Program: ORG
+10%: PERCENT
+Awarded Presidential Scholarship to Cowley County Community College: ORG
+Jan 2012: DATE
+3.927: CARDINAL
+GPA: ORG
+Spanish: NORP
+3 years: DATE
+Calculus: PERSON
+Chemistry: ORG
+Debate and Forensics Club: ORG
+2 years: DATE
+State: ORG
+3.75: CARDINAL
+GPA
+Coursework in Ethics, Computer Applications, Statistics, Psychology and Developmental Psychology
+
+Skills
+
+Typing: ORG
+98: CARDINAL
+Word: PERSON
+Photoshop: PERSON
+Excel: PRODUCT
+Access: ORG
+PowerPoint: ORG
+Multi: GPE
+First Council Casino Hotel: ORG

@@ -1,0 +1,69 @@
+7+ years: DATE
+the Human Resource Function: ORG
+Recruiting: GPE
+Performance Management: ORG
+Jobs and Competencies: ORG
+Resourcing: GPE
+Sourcing , Interviewing, Placement: ORG
+Performance Management Data: ORG
+Reporting Staff Retention Employee Relations HR Programs Recruitment/Hiring Employee
+Counseling Administration Conflict Resolution Orientation & On-Boarding SAP HR - Database: ORG
+07/2009: CARDINAL
+HR Consulting Company Name: ORG
+HR Coordinator: ORG
+06/2008: ORG
+5%: PERCENT
+Business Unit: ORG
+Employee Appraisal: PRODUCT
+Performance Management: ORG
+Career Path - for: PERSON
+Managerial: ORG
+the High Performers: PRODUCT
+Organization: ORG
+Organization: ORG
+Recognition: ORG
+360 degree: QUANTITY
+Managers: ORG
+Management Conduct: PERSON
+Company: ORG
+Feedback/ Skip Level: PERSON
+People Engagement Project Level Engagement Survey -: ORG
+All Minds Meet - Organize: WORK_OF_ART
+Monthly: DATE
+Rewards: NORP
+Recognition: ORG
+Recognize: ORG
+People Management Retention
+Management: ORG
+Attrition Management: ORG
+Relocations and Transfers: WORK_OF_ART
+Operational Activities Prepare: ORG
+Human Resource Information: ORG
+MIS: ORG
+Handling Orientation: ORG
+Inputs: GPE
+Medical Insurance: ORG
+Coordinating for Training and Development: WORK_OF_ART
+Organization Development: ORG
+the " Mentor Me: LAW
+Organization: ORG
+3: CARDINAL
+2007: DATE
+Human Resource Management KIMS University: ORG
+Karnataka University Human Resource Management: ORG
+2005: DATE
+Karnataka University
+Masters of Business Administration: ORG
+Skills: ORG
+Human Resource: ORG
+People Management: ORG
+Mentor: GPE
+MIS: ORG
+Organization Development: ORG
+Performance Management: ORG
+Recruitment: PERSON
+Additional Information
+
+Team Spot Award: ORG
+Performance Management Team Lead Award: ORG
+Mentor Me Program: WORK_OF_ART

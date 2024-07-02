@@ -1,0 +1,122 @@
+FINANCE: ORG
+annual: DATE
+Abdul Majeed: PERSON
+20 years': DATE
+Commercial Operation, Accounts & Finance: ORG
+Auditing & Taxation: ORG
+MIS: ORG
+Exports Management: ORG
+Good: ORG
+Banks: PERSON
+SAP: ORG
+Oracle Business Suite: ORG
+11i: DATE
+February 2001 to September 2014: DATE
+Preparing Annual Budget: ORG
+Effective Cash Flow Management Monitoring: ORG
+P&L Account: ORG
+Bills Discounting and Balance Sheet: ORG
+Coordinate: FAC
+Financial Statements: ORG
+Liaison: PERSON
+Banks: ORG
+Opening LC for inland and foreign party: WORK_OF_ART
+Raw Material, Asset & Passing Bills: ORG
+Fama Trading Company Riyadh: ORG
+K.S.A Prepare: ORG
+monthly: DATE
+quarterly: DATE
+Perform: ORG
+Saudi Arabian Standards Review: ORG
+monthly: DATE
+monthly: DATE
+Review: ORG
+weekly: DATE
+Improve: ORG
+Prepared: PERSON
+monthly: DATE
+5-year: DATE
+Zakat: PERSON
+Prepared: PERSON
+the year-end: DATE
+OLAP: ORG
+Maintained: GPE
+Oracle Financials) Prepared: ORG
+Prepared the monthly payroll: WORK_OF_ART
+Prepared: PERSON
+Administration Department: ORG
+Coordinated: ORG
+year-end: DATE
+Established: ORG
+Prepared: PRODUCT
+January 1997 to January 1999: DATE
+Global Suhaimi Company Dammam: ORG
+Saudi Arabia Responsible: GPE
+Annual: DATE
+Department: ORG
+the Finance Department: ORG
+monthly: DATE
+Accounts &: ORG
+MIS: ORG
+Prepared: PERSON
+monthly: DATE
+Processed: GPE
+Fixed: GPE
+monthly: DATE
+Prepared: PERSON
+MIS: ORG
+Payroll Daily: ORG
+Salary: DATE
+daily: DATE
+Finalization of Accounts Dealings: ORG
+Weekly: PERSON
+daily: DATE
+Co.: ORG
+Generating: PERSON
+Financial Statement Prepared Budget: ORG
+Prepared Annual Zakat declaration: WORK_OF_ART
+Prepared of Balance Sheet Prepared of Trial Balance
+Follow: WORK_OF_ART
+May 1992 to September 1996: DATE
+Reconciliation of Bank: ORG
+Customer: ORG
+Prepared: PRODUCT
+Making Cheques: WORK_OF_ART
+Maintained Ledger for Sales: ORG
+Making Vouchers & Entries: ORG
+Computer Cash Handling & Preparation: ORG
+M.B.A: ORG
+Pennsylvania United States of America: GPE
+Hindi Level: PERSON
+22 April 1970: DATE
+Riyadh: GPE
+Saudi Arabia: GPE
+Saudi Arabia: GPE
+Skills: ORG
+Accounting: ORG
+Arabic: LANGUAGE
+Trial Balance: ORG
+Book, Budgets, Budget, C, Cash Flow, Cash Handling: WORK_OF_ART
+Customer: ORG
+English: LANGUAGE
+Finance: ORG
+Financial Statements: ORG
+Hindi: GPE
+Ledger: PERSON
+MIS: ORG
+Negotiating: GPE
+OLAP: ORG
+Oracle Financials: ORG
+Payroll: ORG
+Urdu: GPE
+year-end: DATE
+22 April 1970: DATE
+44: CARDINAL
+Riyadh: GPE
+Saudi Arabia: GPE
+Marital Status: ORG
+3: CARDINAL
+Saudi Arabia: GPE
+Arab Accreditation Council Membership/Role: ORG
+2013-11-36453: DATE
+November 2013: DATE

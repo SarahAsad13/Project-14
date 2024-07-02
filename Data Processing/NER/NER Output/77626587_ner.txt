@@ -1,0 +1,27 @@
+Customer Service: ORG
+Conflict Resolution
+Account Management
+Time Management
+Sales
+International Logistics
+Project Management Strong: WORK_OF_ART
+January 2013: DATE
+daily: DATE
+80: CARDINAL
+120: CARDINAL
+Train: GPE
+January 2012: DATE
+January 2013: DATE
+January 2009: DATE
+January 2013: DATE
+2013: DATE
+Kent State University Bachelor of Applied Studies: ORG
+Skills
+Account Management: ORG
+Customer Service: ORG
+Logistics: ORG
+Negotiation: ORG
+Project Management: ORG
+Time Management
+
+: ORG

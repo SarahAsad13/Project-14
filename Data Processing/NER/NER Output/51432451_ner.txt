@@ -1,0 +1,76 @@
+Consultant/System Engineer: ORG
+6 years: DATE
+HealthCare: ORG
+Linux: GPE
+Regulatory Consulting: ORG
+UNIX: ORG
+Created: ORG
+weeks: DATE
+08/2015: PERSON
+Ensures: ORG
+Project Managers: ORG
+the Consulting Organization: ORG
+Multi: GPE
+Meaningful Use: PERSON
+DiscernVisualDeveloper: PERSON
+HNAuser: ORG
+Bedrock Build: ORG
+hundreds: CARDINAL
+Direct and Transition of Care: ORG
+HIM: ORG
+Name City: GPE
+Linux: GPE
+SSH: ORG
+Front: ORG
+OpsJobs: ORG
+OpsJob: ORG
+weekly: DATE
+Create: ORG
+SQL: ORG
+FTP: ORG
+daily: DATE
+CCL: ORG
+Engineers: ORG
+Name City: GPE
+Rebuilt: PERSON
+Events Planning: ORG
+Microsoft Access: ORG
+Assist: NORP
+PeopleSoft: ORG
+Data Archive: ORG
+Taleo: PRODUCT
+Name City: GPE
+State: ORG
+CernerWorks Project Implementation Backend: ORG
+Linux: GPE
+AIX: ORG
+HP-UX: ORG
+Identify: ORG
+0: CARDINAL
+Build: GPE
+Websphere: ORG
+RRD: ORG
+Chart: ORG
+Coordinate: FAC
+daily: DATE
+2015: DATE
+Park University City: EVENT
+State Information Systems
+Bachelors of Science : Business Administration/Management 2015 Park University City: ORG
+State Business Administration/Management
+Associates of Applied Science :: ORG
+2010: DATE
+ITT-Technical Institute City: ORG
+State Computer Networking
+Skills: ORG
+AIX: ORG
+Citrix, Consulting: ORG
+FTP: ORG
+HP-UX: ORG
+Linux: GPE
+Microsoft Access, Works: ORG
+PeopleSoft: ORG
+SSH: ORG
+SQL: ORG
+VMS: ORG
+Websphere: ORG

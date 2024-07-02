@@ -1,0 +1,30 @@
+Motivated Entry Level Civil Engineer: ORG
+Organized: ORG
+Soil Engineering
+Transportation Engineering
+
+Experience
+Company: ORG
+Name City: GPE
+State Engineering Intern 05/2017: ORG
+Name City: GPE
+State Field Engineering Intern: ORG
+08/2016: CARDINAL
+Drill Logs: PERSON
+Name City: GPE
+State Field Engineering Intern 05/2015: ORG
+RFI: ORG
+Soil Nail Wall Installation
+
+Skills
+Bluebeam, Mathcad: ORG
+Microsoft: ORG
+Excel: PRODUCT
+Project, Powerpoint: ORG
+Autocad Civil: ORG
+Training
+Bachelor of Science :: PERSON
+2018: DATE
+Johnstown: GPE
+3.01: CARDINAL
+Dean: PERSON

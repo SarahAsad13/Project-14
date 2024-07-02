@@ -1,0 +1,23 @@
+01/2011: CARDINAL
+Coordinated: ORG
+Obtained: ORG
+Communicated: ORG
+Coordinated: ORG
+daily: DATE
+JSA: ORG
+01/2011: CARDINAL
+State: ORG
+Oversaw: GPE
+100,000: MONEY
+weekly: DATE
+daily: DATE
+Oversaw: GPE
+sixty: CARDINAL
+1990: DATE
+Business and Civil Engineering University of Tennessee: ORG
+City Business and: ORG
+Steve Knowles: PERSON
+Kodiak Energy Consulting: ORG
+Operations: ORG
+Consulting: ORG
+Microsoft Office Suite: ORG

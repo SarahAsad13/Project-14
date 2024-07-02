@@ -1,0 +1,185 @@
+QA: ORG
+Profile: ORG
+Manual Software Quality Assurance: ORG
+4+ years: DATE
+Quality Assurance Analyst: ORG
+Functional, Regression, System: ORG
+Smoke: NORP
+Client: GPE
+SAAS Industry: ORG
+Finance: ORG
+Retail and Health
+Care: ORG
+Waterfall: ORG
+V-Model: PRODUCT
+Test Plan: PRODUCT
+Test Scenarios: ORG
+Test Cases: ORG
+Versed: PERSON
+Software Testing Life Cycle: ORG
+Defect Management Life Cycle: ORG
+QA: ORG
+QA: ORG
+English: LANGUAGE
+Hindi: GPE
+Urdu: GPE
+RCA: ORG
+SQL: ORG
+Windows 95/ 98/2000-2007/NT: PERSON
+Bug Tracking Tools: Quality Center: ORG
+SQL Server: ORG
+2005/2008: DATE
+Firefox: PERSON
+Chrome: PERSON
+Safari: PERSON
+Test Management Tools:: ORG
+Mercury Interactive Tools: ORG
+Quality Center: ORG
+ALM: ORG
+Mobile Operating Systems: ORG
+Apple-IOS: ORG
+Android: GPE
+QA Test Analyst: ORG
+09/2014 ï¼​ Current Company Name: ORG
+Kohl: PERSON
+Plano: GPE
+Texas: GPE
+Inventory Management Application: ORG
+The Inventory Management Tools Interact: ORG
+Vendor Management and Shipment tracking System: ORG
+Kohl: PERSON
+Inventory: GPE
+Kohl: PERSON
+OS Platforms IOS: ORG
+Android: ORG
+Business Requirement Documents: ORG
+BRD: ORG
+Functional Specification Documents: ORG
+FSD: ORG
+Test Plan: PRODUCT
+Test Data: ORG
+Quality Center: WORK_OF_ART
+Tested Kohl's: PERSON
+OS Platforms: ORG
+Android: ORG
+IPad: ORG
+IPhone: ORG
+Android: ORG
+Windows Performed: PERSON
+SQL: ORG
+Rewards: NORP
+Windows XP: ORG
+Apple Mac: ORG
+Pro Software: Quality Center: WORK_OF_ART
+SQL Server: ORG
+Microsoft Office: ORG
+XML: ORG
+10/2013: CARDINAL
+State: ORG
+Humana: ORG
+Performed: ORG
+Ascertained: GPE
+Write SQL Queries: ORG
+XML: ORG
+Prepared Test: WORK_OF_ART
+Test Scenario and Test Cases: WORK_OF_ART
+Test Cases: ORG
+Verifying: PERSON
+Validating: GPE
+Implemented Regression Testing: WORK_OF_ART
+Quality Center: WORK_OF_ART
+daily: DATE
+OS Platforms IOS: ORG
+Android: ORG
+Blackberry: ORG
+IPad: ORG
+IPhone: ORG
+Android: ORG
+Windows XP: ORG
+Apple Mac: ORG
+SQL Server: ORG
+Microsoft Office: ORG
+XML: ORG
+Manual Tester: PERSON
+06/2013 Company Name: ORG
+Bank M: ORG
+The Banking Maintenance System: ORG
+Functional and Regression Testing: ORG
+Finance: ORG
+BRD: ORG
+Functional Specification Documents: ORG
+FSD: ORG
+Use Cases: ORG
+SDLC: GPE
+QA: ORG
+Prepare Test Plan: ORG
+Test Scenarios: ORG
+Use Case Documents: FAC
+Agile: NORP
+daily: DATE
+Sprint: ORG
+Retrospective: GPE
+Created: ORG
+the Dev Team: ORG
+first: ORDINAL
+Prepared: PRODUCT
+Quality
+Center Continuously: ORG
+Performed Back-End: PERSON
+SQL Statements: ORG
+UI: GPE
+Windows XP: PERSON
+Safari: PERSON
+Windows 7 Software: PERSON
+MS Excel: ORG
+Quality Center: ORG
+SQL Server: ORG
+Microsoft Office: ORG
+XML Qatar Airways: ORG
+Tanzania: GPE
+07/2009: PRODUCT
+QA: ORG
+Qatar Airways: ORG
+System Wide: PERSON
+Qatar Airways: ORG
+Sky Miles: PRODUCT
+Sky Miles: WORK_OF_ART
+Business Requirements: ORG
+GUI: ORG
+Test Lab: ORG
+Conducted Regression: ORG
+Bugs/Defects: ORG
+Defect: ORG
+Conducted Mapping: PERSON
+Requirements: GPE
+Write SQL: PERSON
+Windows XP: PERSON
+Quality Center: FAC
+Jun 1999 University: ORG
+Green Card: PERSON
+Agile: ORG
+Apple: ORG
+Browsers: PERSON
+XML: ORG
+Finance: ORG
+Functional: GPE
+GUI: ORG
+Inventory, Inventory Management: ORG
+Apple Mac: ORG
+Mercury: ORG
+Interactive: GPE
+MS Excel: ORG
+Microsoft Office: ORG
+Windows: NORP
+7, 2000: DATE
+Windows 95: ORG
+98: DATE
+Windows XP: ORG
+Operating Systems: ORG
+Oracle: ORG
+PCI: ORG
+QA: ORG
+Specification: ORG
+SQL: ORG
+SQL Server: ORG
+Vendor Management: ORG

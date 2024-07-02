@@ -1,0 +1,84 @@
+Career Focus
+Business Development Award: FAC
+multi-million dollar: MONEY
+Business
+Development: ORG
+Microsoft: ORG
+Suite Expert: PERSON
+Microsoft: ORG
+eleven: CARDINAL
+Fort Lauderdale: GPE
+Baptist Health South Florida: ORG
+Business Development Company Name: ORG
+Greenie Tots: ORG
+Fortune 500: WORK_OF_ART
+Conducted: ORG
+Greenie Tots: ORG
+Oversaw: GPE
+200%: PERCENT
+08/2003: CARDINAL
+2: CARDINAL
+billion dollar: MONEY
+Celebrex: ORG
+Primary Care: PERSON
+Pain Management: ORG
+Dermatology, & Gastroenterologists Conducted: ORG
+Humana: ORG
+Aetna: ORG
+Cigna Medicaid: ORG
+P&T: ORG
+Relpax: NORP
+Bextra: PERSON
+Celebrex: ORG
+Lyrica: GPE
+Bextra: PERSON
+Caduet: GPE
+Celebrex: ORG
+Chantix: ORG
+Exubera: PERSON
+Premarin: GPE
+Relpax: PERSON
+Toviaz: GPE
+Winner: PERSON
+Florida: GPE
+The Heat Contest: WORK_OF_ART
+Top Performer Award: PERSON
+2007: DATE
+2006,2005,& 2004: ORG
+Intern Company Name: ORG
+monthly: DATE
+NHO: ORG
+monthly: DATE
+NHO: ORG
+Cluster: ORG
+formulary growth & decline: ORG
+Developed &: ORG
+Hispanic: NORP
+Harlem: LOC
+NY: ORG
+City of New York: ORG
+Radio, Newspaper: ORG
+Manage Care: PRODUCT
+Pfizer: ORG
+NHO: ORG
+August 2003: DATE
+MBA : Business Administration Florida A&M University: WORK_OF_ART
+ï¼​ City: GPE
+State Business Administration: ORG
+August 2003: DATE
+BS : Business Administration Florida A&M University: ORG
+ï¼​ City: GPE
+State Business Administration: ORG
+Business Operations: ORG
+Customer Relationship Management: ORG
+Dermatology, Endocrinology, Finance: ORG
+GYN, Human Resources Management: ORG
+Microsoft Office Suite: ORG
+Microsoft Project: ORG
+Neurology, Newspaper, Orthopedics: ORG
+Pain Management: ORG
+Primary Care: PERSON
+Quick Books: ORG
+Quicken, Radio: ORG
+Strategic Planning: ORG
+Veritas: ORG

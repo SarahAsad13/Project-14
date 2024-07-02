@@ -1,0 +1,113 @@
+Instructional Design: ORG
+Program Development, Program Evaluation: ORG
+Objectives: ORG
+LCM, Mapping Management, Supervision, Administration: ORG
+Budgeting Training: PERSON
+Customer Service Familiarization: ORG
+SCORM: ORG
+ADDIE Interned at General Dynamics Information Technology: ORG
+Strong: PERSON
+Data: ORG
+Rating Veterans Service Representative: ORG
+the Veterans Benefit Administration: ORG
+VBA: ORG
+Basic Acquisition: ORG
+101: CARDINAL
+the Defense Acquisition University: ORG
+DAU: ORG
+Food & Beverage: ORG
+State Food code Successfully: ORG
+State: ORG
+Food & Beverage: ORG
+State Food: ORG
+01/2011 to 01/2012: CARDINAL
+Partnered with Rosen College: ORG
+Food & Beverage: ORG
+01/2010: DATE
+01/2011: CARDINAL
+10%: PERCENT
+80%: PERCENT
+Tutored: PRODUCT
+Facilitated: ORG
+Serv-Safe Organize: ORG
+Kee-Wee Family Entertainment Center: ORG
+5%: PERCENT
+SOP: ORG
+day: DATE
+7%: PERCENT
+F&B: ORG
+State: ORG
+Florida: GPE
+100%: PERCENT
+Coordinated with Subject Matter Experts: ORG
+English: LANGUAGE
+24%: PERCENT
+Facilitated: ORG
+96%: PERCENT
+Independent: ORG
+Volcano: ORG
+15%: PERCENT
+Joomla LMS: PERSON
+96%: PERCENT
+Open Table: WORK_OF_ART
+18%: PERCENT
+a Catering
+Club: ORG
+over 75%: PERCENT
+01/2004: CARDINAL
+the Orlando Culinary Academy: ORG
+the Corporate Customer Service: ORG
+96%: PERCENT
+Collaborated: ORG
+Utilized: ORG
+30%: PERCENT
+Intern: ORG
+Decision Review Officer: ORG
+Completed Learning Analysis Report: ORG
+DRO: ORG
+Veterans Benefit Administration: ORG
+VBA: ORG
+VBA: ORG
+LMS (Learning Management System: ORG
+VBA: ORG
+Task Analysis: ORG
+VBA: ORG
+Section: ORG
+508: CARDINAL
+VBA: ORG
+six: CARDINAL
+Section 508: LAW
+VBA Created: ORG
+three: CARDINAL
+VBA: ORG
+Loan: NORP
+Loan Specialist: ORG
+Public Contact Representative: ORG
+Collaborated: ORG
+DRO: ORG
+DRO: ORG
+Analysis: PRODUCT
+SME: ORG
+Bachelor of Science :: ORG
+Florida International University - City: ORG
+UCF - City: GPE
+Affiliations: ORG
+ASTD: ORG
+ISPI: ORG
+NEA: ORG
+Skills: ORG
+Adobe: PERSON
+Adobe Acrobat: PERSON
+Photo, Photo Shop: ORG
+Communication Skills: ORG
+Customer Service: ORG
+English: LANGUAGE
+Instructional Design: ORG
+Microsoft Excel: ORG
+Microsoft Power Point: ORG
+Windows: ORG
+Microsoft: ORG
+Sales Support: PERSON
+Task Analysis: ORG
+Technician: GPE
+VBA: ORG

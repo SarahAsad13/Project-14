@@ -1,0 +1,43 @@
+January 2014: DATE
+2014: DATE
+Load/Unload: WORK_OF_ART
+Assist: NORP
+Grocery: ORG
+Keep Grocery: ORG
+Road Safety 2013: ORG
+Distributes: ORG
+Warns: PERSON
+January 2012: DATE
+30 minute: TIME
+first: ORDINAL
+Rancho Murieta Community Services: ORG
+District 2012: DATE
+January 2012: DATE
+CCTV: ORG
+Paragon Products-El Dorado Hills: ORG
+2011: DATE
+Validate: ORG
+Â·Record: PERSON
+Macola: ORG
+2010: DATE
+Courtesy Clerk: PERSON
+January 2008: DATE
+Sport Management: ORG
+5 2010: DATE
+Culver Stockton College: ORG
+ï¼​ City: GPE
+State Sport Management
+Associates: ORG
+5 2007: DATE
+Sacramento City Community College Stockon College: ORG
+Sac City College: ORG
+Excellence/Deans List-Cumberland University: ORG
+Second Team All-: ORG
+B w Tanker
+Endorsement
+OSHA Forklift Certified Â: PRODUCT
+Skills
+
+Assembly: ORG
+Forklift, Macola, Works: ORG
+Safety: ORG

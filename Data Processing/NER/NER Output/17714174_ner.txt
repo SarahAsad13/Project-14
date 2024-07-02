@@ -1,0 +1,116 @@
+07/2018: GPE
+07/2019: GPE
+Identify: ORG
+Representation of CTK Products: LAW
+Europe: LOC
+Latin America: LOC
+CTK: ORG
+CTK: ORG
+Ranked: PRODUCT
+#1 Account Executive: MONEY
+quarter 2: DATE
+4%: PERCENT
+the year: DATE
+Reach: ORG
+quarterly: DATE
+CTK: ORG
+the United States: GPE
+IMEB: ORG
+the United States: GPE
+Latin America: LOC
+National Sales Executive: ORG
+06/2016: ORG
+Number 1: CARDINAL
+Dove Professional Apparel: ORG
+the last 3 years: DATE
+Maintained: GPE
+Dove: PERSON
+01/2010: DATE
+06/2016: CARDINAL
+Suggested: ORG
+Store Management: ORG
+Cosmetic Consultants: ORG
+07/2018: GPE
+07/2019: GPE
+Identify: ORG
+Representation of CTK Products: LAW
+Europe: LOC
+Latin America: LOC
+CTK: ORG
+CTK: ORG
+Ranked: PRODUCT
+#1 Account Executive: MONEY
+quarter 2: DATE
+4%: PERCENT
+the year: DATE
+Reach: ORG
+quarterly: DATE
+CTK: ORG
+the United States: GPE
+IMEB: ORG
+the United States: GPE
+Latin America: LOC
+National Sales Executive: ORG
+06/2016: ORG
+Number 1: CARDINAL
+Dove Professional Apparel: ORG
+the last 3 years: DATE
+Maintained: GPE
+Dove: PERSON
+01/2010: DATE
+06/2016: CARDINAL
+Suggested: ORG
+Store Management: ORG
+Cosmetic Consultants: ORG
+Bachelor of Science Florida State University - City: ORG
+13 years: DATE
+13 years: DATE
+13 years: DATE
+PowerPoint: ORG
+Excel: PRODUCT
+Salesforce.com: ORG
+13 years: DATE
+Spanish: LANGUAGE
+English: LANGUAGE
+7-13 years: DATE
+Highlights
+
+Administrative, Store Management: WORK_OF_ART
+Strategic
+Balance: PERSON
+Troubleshoot
+Business planning: ORG
+Competitive
+Conferences
+Contracts: ORG
+Finance: ORG
+Latin: NORP
+Producer
+Progress
+Quality
+Recruiting
+Reporting
+Research
+Selling
+Sales
+Seminars
+
+Skills
+
+Administrative: WORK_OF_ART
+Latin: LANGUAGE
+Research: ORG
+Store Management: ORG
+Ranked 6th: PERSON
+FL: ORG
+Sales Representatives for: ORG
+Estee Lauder: ORG
+2009: DATE
+15%: PERCENT
+1%: PERCENT
+SirsiDynix/EOS International: ORG
+Dove Professional Apparel: ORG
+more than 40%: PERCENT
+last year's: DATE
+Estee Lauder: ORG
+80%: PERCENT

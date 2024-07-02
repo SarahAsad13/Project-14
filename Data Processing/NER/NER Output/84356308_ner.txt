@@ -1,0 +1,116 @@
+FINANCE: ORG
+E & Y: ORG
+KPMG IFRS: ORG
+Institute of Chartered
+Accountants: ORG
+Pakistan: GPE
+ICAP: ORG
+Islamic: NORP
+ICAP Making Strategy: ORG
+MIH Training Academy: ORG
+Naseba: PERSON
+Institute of Leadership & Management: ORG
+CPA: ORG
+16 years: DATE
+auditing & assurance: ORG
+4: CARDINAL
+Deloitte & TouchÃ©: ORG
+IPO: ORG
+Capital Market Authority: ORG
+University of the Punjab: ORG
+Pakistan: GPE
+Institute of Certified Public Accountants: ORG
+Chartered Institute of Cost and Management Accountants of Nigeria Cost
+and: ORG
+509: CARDINAL
+Saudi Organization of Certified Public Accountants Certified: ORG
+Association of Certified Public Accountants - UK: ORG
+CA: WORK_OF_ART
+Intermediate-Pakistan: ORG
+Analysis
+External Audit & Actuarial Work Finalization
+Accounting & Auditing
+Corporate/Operational Finance
+: ORG
+Treasury: ORG
+Mergers & Acquisition
+Financial Reporting and Executive Presentation
+Financial: WORK_OF_ART
+US: GPE
+Suite: PERSON
+ERP: ORG
+Internal: ORG
+Work History
+Finance: WORK_OF_ART
+Arranged: PERSON
+treasury: ORG
+Prepared Break: PERSON
+Oversaw: GPE
+monthly: DATE
+Board of Directors: ORG
+quarterly: DATE
+Board: ORG
+monthly: DATE
+CFO: ORG
+10/2011: CARDINAL
+09/2016: CARDINAL
+Technical Reserves: ORG
+the Reinsurance Contracts: ORG
+Headed the Share Capital: ORG
+Company: ORG
+$ 60 million: MONEY
+ERP System: ORG
+Reengineered the Accounts and Finance Function: ORG
+Accounts Receivable: ORG
+Treasury: ORG
+GL: ORG
+multi-million dollar: MONEY
+2.0%: PERCENT
+first two years: DATE
+up to 7.1%: PERCENT
+next two years: DATE
+monthly: DATE
+MS Excel: ORG
+13: CARDINAL
+monthly: DATE
+quarterly: DATE
+annual: DATE
+General & Administrative: ORG
+11%: PERCENT
+17%: PERCENT
+almost 2: CARDINAL
+$ 1.6 million: MONEY
+Established 'Collection Unit': ORG
+1.58: CARDINAL
+3.16: CARDINAL
+$ 2.53 million: MONEY
+the Employee of: WORK_OF_ART
+the year: DATE
+the year 2010: DATE
+US: GPE
+Performed Financial Due Diligence and Valuation: ORG
+Mergers & Acquisitions: ORG
+International Financial Reporting Standards: ORG
+12/2006: CARDINAL
+Skills
+Accounting, Accounts Payable: ORG
+Administrative, Ad, Auditing: ORG
+Contracts: ORG
+Due Diligence: PERSON
+ERP: ORG
+Finance: ORG
+Financial: ORG
+Financial Planning: ORG
+Financial Reporting: ORG
+GL: ORG
+Investment Management: ORG
+Mergers: PERSON
+MS Excel: ORG
+2: CARDINAL
+Performance Analysis: ORG
+Risk Management: ORG
+Strategic: PERSON
+Treasury: ORG
+Valuation
+Education: PRODUCT
+Chartered Institute of Cost and Management Accountants: ORG

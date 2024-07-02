@@ -1,0 +1,58 @@
+16 years: DATE
+Cyber Security: ORG
+System Administration: ORG
+Military Cyber Operations: ORG
+TS/SCI Security Clearance: ORG
+2013: DATE
+Technical Skills: ORG
+Qualifications
+Windows: ORG
+Linux: GPE
+VMWare: ORG
+Wireshark: ORG
+Snort: GPE
+EnCase: GPE
+Bash Programming: ORG
+Firewalls: ORG
+Information Technology Specialist: ORG
+DEA: ORG
+TTP: ORG
+Draft: ORG
+6Â: CARDINAL
+Network Security Analyst: ORG
+Corporate Security: ORG
+08/2008 Company Name ï¼​ City: WORK_OF_ART
+Rackspace: PERSON
+HIPAA: ORG
+ISO 27001: ORG
+Oxley: PERSON
+Network Security Analyst: ORG
+11/2003: CARDINAL
+Air Force: ORG
+NIPR: ORG
+SIPR).Â: ORG
+Automatic Signature Identification Measurement: ORG
+Cisco
+Intrusion Detection System: ORG
+daily: DATE
+Training: PERSON
+2018: DATE
+Park University: ORG
+State: GPE
+United States Bachelor of Science Information and Computer Science Emphasis: GPE
+Network Security: ORG
+2015: DATE
+Certified in Security Fundamentals: ORG
+2014: DATE
+Network Fundamentals (Network+: ORG
+2012: DATE
+State: GPE
+United States Coursework in Network Exploitation Techniques: ORG
+2011: DATE
+State Coursework: ORG
+State: GPE
+United States Certified Computer Forensics Examiner: GPE
+2009: DATE
+Defense Cyber Investigations Training Academy: LAW
+State: GPE
+United States Certified Digital Media Collector: ORG

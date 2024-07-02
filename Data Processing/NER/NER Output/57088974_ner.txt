@@ -1,0 +1,72 @@
+FINANCE: ORG
+Capable Accountant: ORG
+Strength: ORG
+Complex: NORP
+Superior: ORG
+Accomplishments
+
+Reviewed: WORK_OF_ART
+Finance: ORG
+May 2008: DATE
+Supervision of Accounting: ORG
+Develop: ORG
+daily: DATE
+monthly: DATE
+quarterly: DATE
+year end: DATE
+daily: DATE
+G/L: ORG
+Communicate: ORG
+Assist Internal: ORG
+Improve: ORG
+Team: ORG
+Security Committee and Business Continuity Committee: ORG
+20: CARDINAL
+Credit Union: ORG
+November 2000: DATE
+April 2008: DATE
+State: ORG
+County: GPE
+Performed: ORG
+35: CARDINAL
+Liaison: PERSON
+Agency: ORG
+the Internal Loan Committee: ORG
+Micro Business Loans: ORG
+daily: DATE
+the A/P Department: ORG
+Named Employee of the Month: WORK_OF_ART
+August 1998 to October 2000: DATE
+Controller: PERSON
+Named Employee of the Month: WORK_OF_ART
+July 1991: DATE
+August 1998: DATE
+10: CARDINAL
+Adult: PERSON
+Kids Ski Schools: PERSON
+8: CARDINAL
+The Crested Butte: GPE
+Marriott Hotel: ORG
+252: CARDINAL
+Sheraton: ORG
+Crested Butte: GPE
+300: CARDINAL
+up to 20: CARDINAL
+250,000: MONEY
+daily: DATE
+Controller: PERSON
+Wage Committee: ORG
+the Software Design Committee: ORG
+Associate of the Week: WORK_OF_ART
+Team of the Week: ORG
+Team of the Month: ORG
+EQUIPMENT: GPE
+SKILLS Computer Literate: ORG
+Skills: ORG
+Accounting: ORG
+A/P, Agency: ORG
+Computer Literate: PERSON
+Controller: PERSON
+Credit: ORG
+Finance: ORG
+Software Design: ORG

@@ -1,0 +1,57 @@
+Translates: NORP
+Lean: GPE
+Six Sigma: PERSON
+Kronos Timekeeping System
+Compensation: ORG
+Performance Management
+
+Workers Compensation: ORG
+Ledger Accounting: PERSON
+Database Management: ORG
+Six Sigma
+: PERSON
+Lean Manufacturing
+Business Strategy
+
+: ORG
+hourly: TIME
+Administrative Coordinator Company Name: ORG
+One: CARDINAL
+General Ledger: ORG
+daily: DATE
+Human Resources: ORG
+Workers Compensation: ORG
+three: CARDINAL
+Labor: ORG
+Skills: ORG
+Continuous Improvement Program: ORG
+monthly: DATE
+Human Resource: ORG
+Workers Compensation: ORG
+2015: DATE
+SHRM Learning System - SHRM Program: ORG
+BoCK: FAC
+2015: DATE
+Bachelor: ORG
+BSM/HRM : Business Management & HR Management University of Phoenix ï¼​ City: ORG
+State Program: ORG
+five: CARDINAL
+SHRM Essentials of HR Management: ORG
+2015: DATE
+Business Management & HR Management: ORG
+1985: DATE
+State Business Management: ORG
+2006: DATE
+Tyco Electronics: ORG
+Corporate: ORG
+Tyco Electronics: ORG
+Project Team Lead -Updating: ORG
+100%: PERCENT
+Professional Affiliations: ORG
+Society of Human Resource Management Shenandoah Valley Society for Human Resource Management, Local Chapter: ORG
+Skills: ORG
+Continuous Improvement: PERSON
+General Ledger, Human Resource: ORG
+Human Resources: ORG
+MRP: GPE
+Safety: ORG

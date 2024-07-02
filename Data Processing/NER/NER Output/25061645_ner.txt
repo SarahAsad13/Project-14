@@ -1,0 +1,40 @@
+InDesign: ORG
+CorelDraw: ORG
+Dreamweaver: ORG
+CSS: ORG
+Microsoft Office: ORG
+Suite: PERSON
+Springfield Art Association: ORG
+Chinese: NORP
+US: GPE
+EB-5: ORG
+Chinese: NORP
+Chinese: NORP
+US: GPE
+PowerPoint: ORG
+10/2013: CARDINAL
+Name City: GPE
+Bachelor of Arts: ORG
+May 2014: DATE
+UNIVERSITY OF ILLINOIS SPRINGFIELD City: EVENT
+State Visual Arts - Graphic
+Design 3.7/4.0 Gallery: ORG
+Visual Arts Gallery: ORG
+Associate of Fine Arts :: WORK_OF_ART
+July 2010: DATE
+CHENGDU ACADEMY OF FINE ARTS: ORG
+China Graphic Design
+Languages
+Bilingual: ORG
+English: LANGUAGE
+Chinese: NORP
+Dreamweaver: ORG
+Chinese: NORP
+CorelDraw: ORG
+CSS: ORG
+English: LANGUAGE
+HTML: ORG
+InDesign: ORG
+Microsoft Office Suite: ORG
+PowerPoint: ORG
+Publicity: PERSON

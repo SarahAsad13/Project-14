@@ -1,0 +1,36 @@
+ASSISTANT: ORG
+ACQUISITIONS: ORG
+February 2007: DATE
+Acquisitions: ORG
+Coordinate: FAC
+Facilitate: ORG
+Organize Investment Committee Meetings: ORG
+Prepare: ORG
+November 2000 to January 2007: DATE
+Product Associate 
+City: PRODUCT
+Field Sales Representatives: ORG
+Acted: ORG
+Field Representatives: ORG
+Processed: GPE
+July 1999 to November 2000: DATE
+daily: DATE
+Maintained: GPE
+St. John's University 2000 B.S :: ORG
+Biology City: GPE
+State: ORG
+United States: GPE
+New York University 2011 Professional Certificate : Real Estate Finance: ORG
+Investment City: GPE
+State: ORG
+United States: GPE
+Skills: ORG
+JD Edwards: PERSON
+Business Intelligence: ORG
+Argus: ORG
+Microsoft: ORG
+Excel: PRODUCT
+PowerPoint: ORG
+OnBase: ORG
+SAP: ORG
+AS400: PRODUCT

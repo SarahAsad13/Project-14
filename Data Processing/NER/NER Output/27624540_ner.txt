@@ -1,0 +1,128 @@
+26 years: DATE
+15 years: DATE
+Operations: ORG
+the U.S. Army: ORG
+Iraq: GPE
+Afghanistan: GPE
+Mentored: ORG
+Iraqi: NORP
+Afghan: NORP
+daily: DATE
+daily: DATE
+Microsoft Office for Windows: ORG
+MAC: ORG
+12 years: DATE
+Adobe Acrobat/Reader: PERSON
+Portable Document Format: WORK_OF_ART
+PDF: ORG
+Microsoft: ORG
+IAW: ORG
+49: CARDINAL
+CFR: ORG
+42: CARDINAL
+CFR: ORG
+9CFR: ORG
+21: CARDINAL
+CFR: ORG
+the USPS Domestic: ORG
+International Mail Manuals: ORG
+April 2006: DATE
+January 2011 to January 2014: DATE
+the Commanding General of the AMEDDC&S: ORG
+65: CARDINAL
+one: CARDINAL
+32nd: ORDINAL
+Medical Brigade: ORG
+Equal Opportunity: ORG
+45,000: MONEY
+over $1.6 million dollars: MONEY
+8: CARDINAL
+20,000: MONEY
+2009-2011: DATE
+two years: DATE
+one month: DATE
+Iraq: GPE
+Afghanistan: GPE
+US Coalition: ORG
+Camp Taji: FAC
+Iraq: GPE
+Wardak Province: GPE
+January 2011 to January 2012: DATE
+State: ORG
+Four months: DATE
+IA: GPE
+52807: DATE
+the end of the night: DATE
+January 2008 to January 2010: DATE
+One year: DATE
+the Rock Island Arsenal: LOC
+Rock Island Arsenal: LOC
+IL: ORG
+daily: DATE
+9: CARDINAL
+two: CARDINAL
+500.00: MONEY
+$3.8 million dollars: MONEY
+Associate/ Forklift Driver: ORG
+January 2007 to January 2007: DATE
+One year: DATE
+nine months: DATE
+Fayetteville: GPE
+NC: GPE
+Hardware: GPE
+1989: DATE
+Cashier: PERSON
+January 2006 to January 2007: DATE
+Six months: DATE
+Bed Bath and Beyond: WORK_OF_ART
+11745: DATE
+San Antonio: GPE
+TX: ORG
+78230: CARDINAL
+the end of the night: DATE
+Select One : Human Resources: ORG
+May 2011: DATE
+State: GPE
+USA: GPE
+The Alternative Dispute Resolution: WORK_OF_ART
+DEOMI: ORG
+Patrick Air Force Base: PERSON
+Bachelor of Business Administration: ORG
+2015: DATE
+University of The Incarnate Word: ORG
+State: GPE
+USA: GPE
+3.15: CARDINAL
+GPA: ORG
+Deans: NORP
+Fall 2013: DATE
+2012 University of Pennsylvania: ORG
+State: GPE
+I - University of Pennsylvania
+
+Affiliations
+
+: ORG
+Basic Life Support (BLS) Instructor: WORK_OF_ART
+English: LANGUAGE
+Spanish: LANGUAGE
+Italian: NORP
+Interests: NORP
+Europe: LOC
+US: GPE
+Organizational Development and Leadership: ORG
+August 2015: DATE
+the University of The Incarnate Word: ORG
+San Antonio: GPE
+Texas: GPE
+the Military Outstanding Volunteer Service Medal: WORK_OF_ART
+USO: ORG
+San Antonio: GPE
+Texas: GPE
+Phillis Wheatley: GPE
+San Antonio: GPE
+Skills
+
+Highly: ORG
+15 years: DATE
+Multi: GPE

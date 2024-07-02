@@ -1,0 +1,74 @@
+CUSTOMER: ORG
+Customer Service: ORG
+ComputerÂ: GPE
+Excel: PRODUCT
+Devoted: ORG
+Microsoft Office Suite
+
+Accomplishments
+Managed: ORG
+toÂ: CARDINAL
+2-3 months in a row: DATE
+Earned: PERSON
+Customer Satisfaction: ORG
+Customer Service: ORG
+Sep 2014 to Mar 2015: DATE
+Bilingual: GPE
+Spanish: NORP
+spanish: NORP
+English: LANGUAGE
+Spanish: NORP
+TMG: ORG
+Medicare: ORG
+Medicare Advantage: ORG
+Customer Service: ORG
+Oct 2013 to: DATE
+Sitel: ORG
+third: ORDINAL
+USAA: ORG
+toÂ: CARDINAL
+Customer Service: ORG
+Aug 2011 to May 2013: DATE
+2009: DATE
+May 2010: DATE
+toÂ: CARDINAL
+theirÂ: GPE
+401k: PRODUCT
+Maintained: GPE
+2006 to Feb 2009: DATE
+State: ORG
+Nationwide: ORG
+Performed: ORG
+Maintained: GPE
+May 2004 to Oct 2005: DATE
+Boosted: ORG
+the week: DATE
+1999: DATE
+AHS: ORG
+Healthcare: ORG
+Jan 1999: DATE
+1999: DATE
+only one: CARDINAL
+El Paso: GPE
+TX: ORG
+daily: DATE
+Communicated: ORG
+Associate of Arts: ORG
+Interior: ORG
+State: GPE
+USA: GPE
+Associate of Arts: ORG
+ï¼​ City: GPE
+State Began Associates: ORG
+Amarillo: PRODUCT
+Amarillo: NORP
+Interests: NORP
+English: LANGUAGE
+Spanish: LANGUAGE
+Skills
+Excellent: ORG
+Compassionate: ORG
+Detail: PERSON
+Time: ORG
+Telephone Skills
+Active Learning: ORG
