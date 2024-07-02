@@ -28,5 +28,5 @@ The project is structured into several modules:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/hiring-assistant.git
+   git clone https://github.com/SarahAsad13/Project-14
    cd hiring-assistant
