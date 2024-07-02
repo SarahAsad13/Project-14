@@ -29,4 +29,4 @@ The project is structured into several modules:
 
    ```bash
    git clone https://github.com/SarahAsad13/Project-14
-   cd hiring-assistant
+   cd Hiring-Assistant
