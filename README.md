@@ -9,12 +9,11 @@ The project is structured into several modules:
 1. **Data Processing**:
    - **PDF_Parser**: Parses PDF resumes to extract text and relevant data.
    - **NER**: Performs Named Entity Recognition (NER) to identify entities like skills, experience, and education.
+   - **Neo4j**: Manages the connection to the Neo4j database and executes queries to fetch candidate data based on search criteria.
 
 2. **Streamlit**: Contains the Streamlit web application for interacting with the Neo4j database and searching for candidates.
 
-3. **Neo4j**: Manages the connection to the Neo4j database and executes queries to fetch candidate data based on search criteria.
-
-4. **Docker**: Docker configuration files for containerizing the application.
+3. **Docker**: Docker configuration files for containerizing the application.
 
 ## Setup and Installation
 
