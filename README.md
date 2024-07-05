@@ -1,6 +1,6 @@
 # Hiring Assistant Project
 
-This project is designed to assist in the recruitment process by leveraging natural language processing (NLP) techniques to parse resumes, extract relevant information, and store it in a Neo4j graph database for efficient candidate matching.
+This project is designed to assist in the recruitment process by leveraging natural language processing (NLP) techniques to parse resumes, extract relevant information and store it in a Neo4j graph database for efficient candidate matching.
 
 ## Project Structure
 
