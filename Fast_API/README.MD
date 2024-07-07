@@ -1,6 +1,6 @@
-# Resume Processing and Entity Extraction FastAPI App
+# FastAPI App
 
-This FastAPI application processes PDF resumes, extracts information using Named Entity Recognition (NER), and stores the extracted information in a Neo4j graph database.
+This FastAPI application processes PDF resumes, extracts information using Named Entity Recognition (NER) and stores the extracted information in a Neo4j graph database.
 
 ## Setup
 
